@@ -13,7 +13,7 @@
 - Process the sequence \( \{ x_1', \dots, x_T' \} \) using self-attention and FFNs.
 - Generate context-rich hidden states \( h_t \).
 
-### **Dual Output Generation:**
+### **Output Generation:**
 - **Next Form Embedding:**
   - \( \hat{v}_3^{t+1} \) is predicted via a dedicated projection layer from \( h_t \).
 - **Fantasy Score Prediction:**
