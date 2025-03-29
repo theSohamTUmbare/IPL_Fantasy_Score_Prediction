@@ -4,29 +4,38 @@ import dateparser
 from espncricinfo.exceptions import PlayerNotFoundError
 from espncricinfo.match import Match
 import csv
-
+import json
+# import aiohttp
+# import asyncio
 class Player(object):
 
-    def __init__(self, player_id):
+    def  __init__(self, player_id):
         self.player_id=player_id
         self.url = "https://www.espncricinfo.com/player/player-name-{0}".format(str(player_id))
         self.json_url = "http://core.espnuk.org/v2/sports/cricket/athletes/{0}".format(str(player_id))
-        self.new_json_url = "https://hs-consumer-api.espncricinfo.com/v1/pages/player/home?playerId={0}".format(str(player_id))
-        self.headers = {'user-agent': 'Mozilla/5.0'}
+        # self.new_json_url = "https://hs-consumer-api.espncricinfo.com/v1/pages/player/home?playerId={0}".format(str(player_id))
+        self.headers = {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+            'accept-encoding': 'gzip, deflate',
+            'accept-language': 'en-US,en;q=0.5',
+            'cache-control': 'max-age=0',
+            'connection': 'keep-alive',
+            'host': 'core.espnuk.org',
+            'sec-gpc': '1',
+            'upgrade-insecure-requests': '1',
+            'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36'
+        }
+        
         self.parsed_html = self.get_html() 
         self.json = self.get_json()       
-        self.new_json = self.get_new_json()
-        self.cricinfo_id = str(player_id)
-        self.__unicode__ = self._full_name()
-        self.name = self._name()
-        self.first_name = self._first_name()
-        self.full_name = self._full_name()
-        self.date_of_birth = self._date_of_birth()
-        self.current_age = self._current_age()
-        self.playing_role = self._playing_role()
-        self.batting_style = self._batting_style()
-        self.bowling_style = self._bowling_style()
-        self.major_teams = self._major_teams()
+        # self.name = self._name()
+        # self.first_name = self._first_name()
+        # self.full_name = self._full_name()
+        # self.date_of_birth = self._date_of_birth()
+        # self.current_age = self._current_age()
+        # self.playing_role = self._playing_role()
+        # self.batting_style = self._batting_style()
+        # self.bowling_style = self._bowling_style()
+        # self.major_teams = self._major_teams()
 
     def get_html(self):
         r = requests.get(self.url, headers=self.headers)
@@ -36,19 +45,66 @@ class Player(object):
             return BeautifulSoup(r.text, 'html.parser')
 
     def get_json(self):
-        r = requests.get(self.json_url, headers=self.headers)
-        if r.status_code == 404:
-            raise PlayerNotFoundError
-        else:
-            return r.json()
-        
-    def get_new_json(self):
-        r = requests.get(self.new_json_url, headers=self.headers)
-        if r.status_code == 404:
-            raise PlayerNotFoundError
-        else:
-            return r.json()
+        i = 0
+        session = requests.Session()
+        while i < 10:
+            try:
+                # r = requests.get(url)
+                print(i, end=" ")
+                r = session.get(self.json_url, headers=self.headers, timeout=3)
+                print("done")
+                # r.raise_for_status()
+                if r.status_code == 404:
+                    raise PlayerNotFoundError
+                # r.raise_for_status()  # Raises an HTTPError for bad responses (e.g., 404, 500)
+                return r.json()
 
+            except requests.exceptions.Timeout:
+                print("Request timed out. Consider increasing the timeout value or checking the server load.")
+            except requests.exceptions.HTTPError as e:
+                print(f"HTTP Error: {e}")
+                
+            except json.JSONDecodeError as e:
+                print(f"JSON Decode Error: {e}")
+                print(f"Response content: {r.content}")  # Debug: See raw bytes
+                
+            except Exception as e:
+                print(f"Unexpected error: {e}")
+            i+=1
+        return None
+            # else:
+        #     return r.json()
+        
+    # def get_new_json(self):
+    #     i = 0
+    #     while i < 10:
+    #         print(i)
+    #         try:
+    #             # r = requests.get(url)
+                
+    #             r = requests.get(self.json_url, headers=self.headers)
+    #             if r.status_code == 404:
+    #                 raise PlayerNotFoundError
+    #             r.raise_for_status()  # Raises an HTTPError for bad responses (e.g., 404, 500)
+    #             # Ensure the response is text, not bytes
+    #             return r.json()
+    #             # content = r.text
+                
+    #             # print("Raw response:", content)  # Debug: Check what’s returned
+    #             # return json.loads(content)  # Parse the text explicitly
+    #         except requests.exceptions.HTTPError as e:
+    #             print(f"HTTP Error: {e}")
+    #             # return None
+    #         except json.JSONDecodeError as e:
+    #             print(f"JSON Decode Error: {e}")
+    #             print(f"Response content: {r.content}")  # Debug: See raw bytes
+    #             # return None
+    #         except Exception as e:
+    #             print(f"Unexpected error: {e}")
+    #             # return None
+    #         i+=1
+    #     return None
+            
     def _name(self):
         return self.json['name']
 
@@ -70,8 +126,8 @@ class Player(object):
     def _current_age(self):
         return self.json['age']
 
-    def _major_teams(self):
-        return [x['team']['longName'] for x in self.new_json['content']['teams']]
+    # def _major_teams(self):
+    #     return [x['team']['longName'] for x in self.new_json['content']['teams']] if self.new_json else None
 
     def _playing_role(self):
         return self.json['position']

@@ -439,7 +439,7 @@ def write_features_to_csv(dict, output_csv):
 
 # if __name__ == "_main_":
 # json_file_path = r'C:\Users\kumar\IPL\ipl_json\1359475.json'
-folder_paths = ["C:\\Users\\bitso\\OneDrive\\Desktop\\ipl hackathon\\t20_json", "C:\\Users\\bitso\\OneDrive\\Desktop\\ipl hackathon\\ipl_json", "C:\\Users\\bitso\\OneDrive\\Desktop\\ipl hackathon\\sma_json", "C:\\Users\\bitso\\OneDrive\\Desktop\\ipl hackathon\\bbl_json", "C:\\Users\\bitso\\OneDrive\\Desktop\\ipl hackathon\\bpl_json", "C:\\Users\\bitso\\OneDrive\\Desktop\\ipl hackathon\\cpl_json", "C:\\Users\\bitso\\OneDrive\\Desktop\\ipl hackathon\\ctc_json", "C:\\Users\\bitso\\OneDrive\\Desktop\\ipl hackathon\\it20s_json","C:\\Users\\bitso\\OneDrive\\Desktop\\ipl hackathon\\ntb_json"] 
+folder_paths = ["C:\\Users\\bitso\\OneDrive\\Desktop\\ipl hackathon\\IPL_Fantasy_Score_Prediction\\t20_json", "C:\\Users\\bitso\\OneDrive\\Desktop\\ipl hackathon\\IPL_Fantasy_Score_Prediction\\ipl_json", "C:\\Users\\bitso\\OneDrive\\Desktop\\ipl hackathon\\IPL_Fantasy_Score_Prediction\\sma_json", "C:\\Users\\bitso\\OneDrive\\Desktop\\ipl hackathon\\IPL_Fantasy_Score_Prediction\\bbl_json", "C:\\Users\\bitso\\OneDrive\\Desktop\\ipl hackathon\\IPL_Fantasy_Score_Prediction\\bpl_json", "C:\\Users\\bitso\\OneDrive\\Desktop\\ipl hackathon\\IPL_Fantasy_Score_Prediction\\cpl_json", "C:\\Users\\bitso\\OneDrive\\Desktop\\ipl hackathon\\IPL_Fantasy_Score_Prediction\\ctc_json", "C:\\Users\\bitso\\OneDrive\\Desktop\\ipl hackathon\\IPL_Fantasy_Score_Prediction\\it20s_json","C:\\Users\\bitso\\OneDrive\\Desktop\\ipl hackathon\\IPL_Fantasy_Score_Prediction\\ntb_json"] 
 # print(len(filenames))
 # exit()
 players = {}
@@ -449,9 +449,9 @@ import json
 types = ['T20I', 'IPL', 'SMA', 'BBL', 'BPL', 'CPL', 'CTC', 'IT20S', 'NTB']
 load = True
 if load:
-    with open('python-espncricinfo\save_matches\matches.json', 'r') as file:
+    with open('save_matches\matches.json', 'r') as file:
         matches = json.load(file)
-    with open('python-espncricinfo\save_matches\save_point.json', 'r') as file:
+    with open('save_matches\save_point.json', 'r') as file:
         save_point = json.load(file)
 else:
     matches = {}
@@ -494,12 +494,13 @@ for folder_idx in range(len(folder_paths)):
             
             if (len(matches) % 50) == 0:
                 save_point = {'file_idx': file_idx, 'folder_idx': folder_idx}
-                with open('python-espncricinfo\save_matches\save_point.json', 'w') as file:
+                with open('save_matches\save_point.json', 'w') as file:
                     json.dump(save_point, file)
-                with open(f'python-espncricinfo\save_matches\matches.json', 'w') as file:
+                with open(f'IPL_Fantasy_Score_Prediction\save_matches\matches.json', 'w') as file:
                     json.dump(matches, file)
                 print("Saving checkpoint at", save_point)
 # exit()
+print("done")
 players = {}
 venues = {}
 for match_id, data in matches.items():
