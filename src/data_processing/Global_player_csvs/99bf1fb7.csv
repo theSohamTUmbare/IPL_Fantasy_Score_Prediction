@@ -1,0 +1,13 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-11-28'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459377,St Helena,1,10,6,2,0,166.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
+['2024-11-27'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459384,St Helena,2,0,1,0,0,0.0,1,1.0,6,1,0,11,1,0,0,0,0,0,1,11.0,0,0,0,0,0,-2,1,0,-1
+['2024-11-26'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459380,St Helena,2,67,48,3,4,139.58,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,113,0,0,113
+['2024-11-24'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459388,St Helena,2,24,26,2,1,92.31,"8,10,12,14",4.0,24,8,0,33,4,0,1,0,1,0,3,8.25,0,0,0,0,0,38,41,0,79
+['2024-11-23'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459376,St Helena,2,0,4,0,0,0.0,"5,7,9,11",4.0,24,11,0,20,1,0,0,0,0,0,5,5.0,0,0,0,0,0,-2,15,0,13
+['2022-11-24'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343760,St Helena,3,1,2,0,0,50.0,3,1.0,6,1,0,11,1,0,0,0,0,0,0,11.0,0,0,0,0,0,1,1,0,2
+['2022-11-22'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343757,St Helena,4,58,35,8,1,165.71,"9,11,13",3.0,18,8,0,10,0,0,5,0,4,0,1,3.33,0,0,0,0,4,108,183,0,291
+['2022-11-18'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343744,St Helena,6,1,3,0,0,33.33,"10,12,17,19",4.0,24,9,0,30,2,0,4,2,2,0,2,7.5,0,0,0,0,0,1,149,0,150
+['2022-11-17'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343742,St Helena,3,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2018-11-02'],ICC World Twenty20 Africa Region Qualifier C,1163066,St Helena,4,28,18,3,1,155.56,"1,3,5,7",4.0,24,12,0,27,4,0,4,1,0,0,2,6.75,0,0,0,0,4,54,130,0,184
+['2018-10-30'],ICC World Twenty20 Africa Region Qualifier C,1163055,St Helena,4,5,7,0,0,71.43,"1,3,5,7",4.0,24,14,0,26,2,0,1,0,0,0,5,6.5,0,0,0,0,0,5,41,0,46
+['2018-10-29'],ICC World Twenty20 Africa Region Qualifier C,1163052,St Helena,4,54,53,6,0,101.89,9,1.0,6,2,0,8,0,0,0,0,0,0,3,8.0,0,0,0,0,0,86,2,0,88

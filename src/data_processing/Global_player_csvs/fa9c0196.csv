@@ -1,0 +1,7 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2014-11-02'],Ram Slam T20 Challenge,736257,Titans,10,0,0,0,0,0.0,"6,11,18,20",4.0,24,6,0,55,3,4,0,0,0,1,5,13.75,0,0,0,0,0,0,0,0,0
+['2014-01-09'],Ram Slam T20 Challenge,652261,Titans,11,0,0,0,0,0.0,"8,10",2.0,12,5,0,12,0,0,2,1,0,0,2,6.0,0,0,0,0,0,0,65,0,65
+['2014-01-05'],Ram Slam T20 Challenge,652265,Titans,11,0,0,0,0,0.0,"11,13,20",3.0,18,4,0,23,2,0,0,0,0,2,1,7.67,0,0,0,0,0,0,4,0,4
+['2012-02-26'],MiWAY T20 Challenge,530335,Titans,8,0,0,0,0,0.0,"4,10",2.0,12,5,0,17,3,0,0,0,0,0,1,8.5,0,0,0,0,0,0,5,0,5
+['2012-02-24'],MiWAY T20 Challenge,530330,Titans,9,0,0,0,0,0.0,"2,17",2.0,12,3,0,27,4,1,0,0,0,1,0,13.5,0,0,0,0,0,0,-3,0,-3
+['2012-02-19'],MiWAY T20 Challenge,530326,Titans,11,0,0,0,0,0.0,"5,12,18,20",3.333,20,6,0,41,3,3,1,0,0,0,3,12.3,0,0,0,0,0,0,25,0,25

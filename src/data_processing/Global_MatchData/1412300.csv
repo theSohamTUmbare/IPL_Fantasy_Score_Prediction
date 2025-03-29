@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Chattogram Challengers,J Brown,647e7d44,1,10,9,0,1,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24
+Chattogram Challengers,Shykat Ali,288dd46e,2,63,45,1,6,140.0,[9],1.0,6,0,0,15,2,0,0,0,0,0,3,15.0,0,0,0,0,2,113,0,0,113
+Chattogram Challengers,TC Bruce,f92c9151,3,14,13,2,0,107.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,22,0,8,30
+Chattogram Challengers,Shahadat Hossain,69e23303,4,9,13,1,0,69.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,11,0,8,19
+Chattogram Challengers,C Campher,478a63e7,5,24,21,2,1,114.29,[14],1.0,6,3,0,6,1,0,0,0,0,0,0,6.0,0,0,0,0,0,38,3,0,41
+Chattogram Challengers,Shuvagata Hom,bb01f9e0,6,31,13,3,2,238.46,[11],1.0,6,1,0,10,1,0,0,0,0,0,1,10.0,0,0,0,0,6,65,1,0,66
+Chattogram Challengers,Shohidul Islam,607ed7c2,7,1,4,0,0,25.0,"[4, 8, 12, 16]",4.0,24,6,0,42,4,2,0,0,0,0,0,10.5,0,0,0,0,0,1,4,0,5
+Chattogram Challengers,Salauddin Sakil,a90d107b,8,0,0,0,0,0.0,"[6, 13]",2.0,12,5,0,15,1,1,2,0,0,0,1,7.5,0,0,0,0,0,0,55,0,55
+Chattogram Challengers,Nihaduzzaman,eca6dcb2,8,2,2,0,0,100.0,"[7, 10, 15]",3.0,18,5,0,27,2,1,1,0,0,0,2,9.0,0,0,0,0,0,2,30,0,32
+Chattogram Challengers,Bilal Khan,dcdb87f2,9,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,9,0,51,3,3,0,0,0,1,5,12.75,0,0,0,0,0,0,3,0,3
+Chattogram Challengers,Al-Amin Hossain,3f5f39cd,10,0,0,0,0,0.0,"[2, 5, 17, 19]",4.0,24,8,0,40,4,2,0,0,0,0,2,10.0,0,0,0,0,0,0,6,0,6
+Rangpur Riders,Rony Talukdar,8bd614b2,1,24,17,3,1,141.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,44,0,0,44
+Rangpur Riders,RR Hendricks,b8cc58c9,2,58,41,5,3,141.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,106,0,8,114
+Rangpur Riders,Shakib Al Hasan,7dc35884,3,27,16,3,1,168.75,"[3, 5, 11, 13]",4.0,24,10,0,24,0,2,2,0,1,0,0,6.0,0,0,0,0,4,53,70,0,123
+Rangpur Riders,Nurul Hasan,d365d463,4,31,20,2,1,155.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,4,53,0,6,59
+Rangpur Riders,JDS Neesham,9219eff0,5,51,26,5,3,196.15,"[7, 9, 17, 20]",4.0,24,9,0,32,1,2,2,0,0,0,3,8.0,1,0,0,0,6,103,59,8,170
+Rangpur Riders,Mahedi Hasan,9dad0f2e,8,0,0,0,0,0.0,"[2, 4, 18]",3.0,18,5,0,33,3,2,0,0,0,0,0,11.0,0,0,0,0,0,0,3,0,3
+Rangpur Riders,Shamim Hossain,711249d1,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Rangpur Riders,Hasan Mahmud,80ad39ac,10,0,0,0,0,0.0,"[6, 15, 19]",3.0,18,8,0,18,2,0,0,0,0,0,0,6.0,0,0,0,0,0,0,10,0,10
+Rangpur Riders,Ashiqur Zaman,9b06106d,11,0,0,0,0,0.0,"[1, 14]",2.0,12,6,0,22,0,3,0,0,0,0,0,11.0,0,0,0,0,0,0,4,0,4
+Rangpur Riders,TJ Moores,85dcb721,12,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Rangpur Riders,Imran Tahir,acee4cc4,13,0,0,0,0,0.0,"[8, 10, 12, 16]",4.0,24,10,0,28,3,1,1,1,0,0,0,7.0,0,0,0,0,0,0,45,0,45

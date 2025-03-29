@@ -1,0 +1,41 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2025-02-23'],United States of America tour of Oman,1473147,United States of America,2,31,21,4,1,147.62,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,59,0,16,75
+['2025-02-20'],United States of America in Oman T20I Series,1473145,United States of America,2,28,21,2,2,133.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,54,0,0,54
+['2024-10-20'],Nepal tour of United States of America,1453520,United States of America,3,2,3,0,0,66.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2024-10-19'],Nepal tour of United States of America,1453519,United States of America,3,63,44,3,4,143.18,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,2,109,0,12,121
+['2024-10-17'],Nepal tour of United States of America,1453518,United States of America,3,30,25,2,2,120.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,54,0,14,68
+['2024-10-05'],Namibia T20 Tri-Series,1450822,United States of America,2,37,19,4,2,194.74,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,75,0,0,75
+['2024-10-04'],Namibia T20 Tri-Series,1450821,United States of America,2,18,12,2,1,150.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32
+['2024-10-01'],Namibia T20 Tri-Series,1450819,United States of America,2,81,50,4,6,162.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,149,0,8,157
+['2024-09-30'],Namibia T20 Tri-Series,1450818,United States of America,2,17,15,2,0,113.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
+['2024-09-13'],Caribbean Premier League,1428692,Trinbago Knight Riders,7,1,7,0,0,14.29,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2024-09-10'],Caribbean Premier League,1428689,Trinbago Knight Riders,7,1,2,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2024-09-05'],Caribbean Premier League,1428685,Trinbago Knight Riders,1,39,33,4,2,118.18,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,71,0,0,71
+['2024-08-28'],Netherlands Tri-Nation T20I Series,1446766,United States of America,3,43,26,3,3,165.38,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,4,81,0,20,101
+['2024-08-27'],Netherlands Tri-Nation T20I Series,1446765,United States of America,3,21,26,1,1,80.77,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31
+['2024-08-25'],Netherlands Tri-Nation T20I Series,1446763,United States of America,2,1,5,0,0,20.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2024-08-24'],Netherlands Tri-Nation T20I Series,1446762,United States of America,2,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2024-06-23'],ICC Men's T20 World Cup,1415749,United States of America,2,8,5,0,1,160.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
+['2024-06-21'],ICC Men's T20 World Cup,1415746,United States of America,2,29,15,3,1,193.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,57,0,0,57
+['2024-06-19'],ICC Men's T20 World Cup,1415741,United States of America,2,80,47,5,5,170.21,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,148,0,0,148
+['2024-06-12'],ICC Men's T20 World Cup,1415725,United States of America,3,2,5,0,0,40.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
+['2024-06-06'],ICC Men's T20 World Cup,1415711,United States of America,3,35,26,5,1,134.62,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,67,0,0,67
+['2024-06-01'],ICC Men's T20 World Cup,1415701,United States of America,3,65,43,7,3,151.16,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,123,0,0,123
+['2024-05-25'],Bangladesh tour of United States of America,1425133,United States of America,2,27,15,5,1,180.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,63,0,0,63
+['2024-05-23'],Bangladesh tour of United States of America,1425132,United States of America,3,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2024-05-21'],Bangladesh tour of United States of America,1425131,United States of America,3,23,18,4,0,127.78,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,39,0,0,39
+['2024-04-13'],Canada tour of United States of America,1425125,United States of America,1,4,2,1,0,200.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,8,0,6,14
+['2024-04-09'],Canada tour of United States of America,1425122,United States of America,3,57,35,3,4,162.86,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,105,0,0,105
+['2024-04-07'],Canada tour of United States of America,1425121,United States of America,3,50,35,5,3,142.86,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,98,0,0,98
+['2021-02-20'],CSA T20 Challenge,1235381,Knights,3,0,2,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2021-02-19'],CSA T20 Challenge,1235387,Knights,3,35,18,1,4,194.44,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,73,0,16,89
+['2019-04-26'],CSA T20 Challenge,1157250,Knights,2,9,9,1,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
+['2019-04-16'],CSA T20 Challenge,1157236,Knights,2,9,13,1,0,69.23,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,-2,11,0,16,27
+['2019-04-12'],CSA T20 Challenge,1157231,Knights,2,24,15,3,1,160.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,46,0,8,54
+['2019-04-06'],CSA T20 Challenge,1157225,Knights,4,2,8,0,0,25.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,2,0,16,18
+['2017-11-24'],Ram Slam T20 Challenge,1124669,Knights,2,1,2,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2017-11-15'],Ram Slam T20 Challenge,1124661,Knights,5,37,29,3,1,127.59,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,59,0,0,59
+['2017-11-10'],Ram Slam T20 Challenge,1124658,Knights,5,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,0,0,6,6
+['2016-11-30'],CSA T20 Challenge,1003875,Knights,4,1,3,0,0,33.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+['2016-11-27'],CSA T20 Challenge,1003871,Knights,2,0,2,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2016-11-25'],CSA T20 Challenge,1003867,Knights,2,28,23,4,0,121.74,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,48,0,0,48

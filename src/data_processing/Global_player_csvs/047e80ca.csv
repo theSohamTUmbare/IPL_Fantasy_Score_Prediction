@@ -1,0 +1,12 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2025-01-27'],Bangladesh Premier League,1459572,Durbar Rajshahi,2,0,5,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2025-01-26'],Bangladesh Premier League,1459570,Durbar Rajshahi,2,11,13,2,0,84.62,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,19,0,8,27
+['2025-01-23'],Bangladesh Premier League,1459567,Durbar Rajshahi,2,39,19,4,3,205.26,9,1.0,6,1,0,16,0,2,1,0,0,1,0,16.0,0,0,0,0,6,83,26,0,109
+['2025-01-12'],Bangladesh Premier League,1459554,Durbar Rajshahi,2,11,12,2,0,91.67,9,1.0,6,1,0,17,0,2,0,0,0,1,0,17.0,0,0,0,0,0,19,1,0,20
+['2025-01-06'],Bangladesh Premier League,1459546,Durbar Rajshahi,7,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2025-01-03'],Bangladesh Premier League,1459543,Durbar Rajshahi,2,8,5,2,0,160.0,13,1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,1,0,0,0,0,16,1,8,25
+['2025-01-02'],Bangladesh Premier League,1459541,Durbar Rajshahi,7,0,0,0,0,0.0,9,1.0,6,1,0,14,3,0,0,0,0,0,0,14.0,0,0,0,0,0,0,1,0,1
+['2024-02-17'],Bangladesh Premier League,1412309,Durdanto Dhaka,3,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2024-02-10'],Bangladesh Premier League,1412301,Durdanto Dhaka,1,5,8,1,0,62.5,"11,13",2.0,12,1,0,23,1,2,0,0,0,0,0,11.5,0,0,0,0,0,9,-3,0,6
+['2024-02-07'],Bangladesh Premier League,1412297,Durdanto Dhaka,1,4,4,1,0,100.0,17,1.0,6,2,0,9,0,1,0,0,0,0,0,9.0,0,0,0,0,0,8,2,0,10
+['2024-02-06'],Bangladesh Premier League,1412294,Durdanto Dhaka,2,1,5,0,0,20.0,17,1.0,6,3,0,5,0,0,1,0,0,0,0,5.0,1,0,0,0,0,1,28,8,37

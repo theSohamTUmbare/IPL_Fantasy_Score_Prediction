@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Fortune Barishal,DJ Bravo,87e562a9,1,9,5,2,0,180.0,"[10, 12, 16, 20]",4.0,24,8,0,40,4,2,3,0,1,0,1,10.0,0,0,0,0,0,17,93,0,110
+Fortune Barishal,CH Gayle,db584dad,2,4,9,1,0,44.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+Fortune Barishal,Towhid Hridoy,9e52a414,3,5,8,0,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,5,0,8,13
+Fortune Barishal,Shakib Al Hasan,7dc35884,4,41,27,2,3,151.85,"[3, 5, 7, 9]",4.0,24,18,0,10,1,0,2,0,1,0,0,2.5,0,0,0,0,4,75,82,0,157
+Fortune Barishal,Nazmul Hossain Shanto,1274d7ab,5,45,39,3,2,115.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,73,0,8,81
+Fortune Barishal,Nurul Hasan,d365d463,6,10,9,0,1,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24
+Fortune Barishal,Ziaur Rahman,c27518d2,7,8,6,0,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
+Fortune Barishal,Irfan Sukkur,3cc7dd5f,8,6,3,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+Fortune Barishal,Mujeeb Ur Rahman,7d92277a,9,12,6,1,1,200.0,"[1, 4, 6, 8]",4.0,24,19,1,13,2,0,0,0,0,0,0,3.25,0,0,0,0,0,22,37,0,59
+Fortune Barishal,Mehedi Hasan Rana,0b7363da,10,0,1,0,0,0.0,"[11, 13, 15, 18]",4.0,24,9,0,36,3,2,0,0,0,0,0,9.0,0,0,0,0,0,-2,9,0,7
+Fortune Barishal,Shafiqul Islam,390c914c,11,0,0,0,0,0.0,"[2, 14, 17, 19]",4.0,24,6,0,39,4,1,1,0,0,0,0,9.75,0,0,0,0,0,0,31,0,31
+Khulna Tigers,ADS Fletcher,1bae756b,1,12,23,1,0,52.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,12,0,0,12
+Khulna Tigers,Soumya Sarkar,4d9f9686,2,13,22,3,0,59.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,21,0,0,21
+Khulna Tigers,Rony Talukdar,8bd614b2,3,6,12,1,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,6,0,0,6
+Khulna Tigers,Mushfiqur Rahim,a94e08ea,4,33,22,3,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,2,0,55,0,20,75
+Khulna Tigers,NLTC Perera,0f12f9df,5,4,3,1,0,133.33,"[7, 9, 13, 16]",4.0,24,11,0,32,1,3,1,0,0,0,0,8.0,0,0,0,0,0,8,36,0,44
+Khulna Tigers,Yasir Ali Chowdhury,5791b840,6,57,34,4,3,167.65,[10],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,2,0,0,0,4,103,1,16,120
+Khulna Tigers,S Prasanna,f78e7113,7,6,3,1,0,200.0,[8],1.0,6,0,0,11,0,1,0,0,0,0,0,11.0,1,0,0,0,0,10,0,8,18
+Khulna Tigers,Mahedi Hasan,9dad0f2e,8,6,1,0,1,600.0,"[1, 3, 5, 11]",4.0,24,15,0,13,1,0,0,0,0,0,1,3.25,0,0,0,1,0,12,21,6,39
+Khulna Tigers,Farhad Reza,4948a447,8,0,0,0,0,0.0,"[15, 19]",1.833,11,4,0,14,1,1,2,0,0,0,0,7.64,1,0,0,0,0,0,54,8,62
+Khulna Tigers,Kamrul Islam Rabbi,f7e9a562,9,0,0,0,0,0.0,"[6, 14, 18]",3.0,18,8,0,25,1,2,2,0,0,0,1,8.33,0,0,0,1,0,0,58,6,64
+Khulna Tigers,Khaled Ahmed,5dbdecf1,10,0,0,0,0,0.0,"[2, 4, 12, 17]",4.0,24,8,0,41,5,1,3,0,2,1,1,10.25,1,0,0,0,0,0,101,8,109

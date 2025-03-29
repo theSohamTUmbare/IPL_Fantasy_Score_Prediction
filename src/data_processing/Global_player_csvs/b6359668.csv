@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-12-05'],Pakistan tour of Zimbabwe,1444654,Pakistan,6,20,15,3,0,133.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,34,0,0,34
+['2023-10-07'],Asian Games Men's Cricket Competition,1399119,Pakistan,6,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2023-10-03'],Asian Games Men's Cricket Competition,1399114,Pakistan,5,12,16,2,0,75.0,"17,19",1.833,11,8,0,5,1,0,2,0,1,0,0,2.73,1,0,0,0,0,20,66,8,94

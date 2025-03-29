@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Leicestershire,JP Inglis,989889ff,1,12,9,1,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,22,0,16,38
+Leicestershire,S Steel,de6c2c6e,2,44,56,2,1,78.57,"[1, 11, 13, 15]",4.0,24,13,0,17,0,1,2,0,0,0,0,4.25,0,0,0,0,0,62,69,0,131
+Leicestershire,AM Lilley,88a004e9,3,5,3,1,0,166.67,"[14, 18]",2.0,12,3,0,17,0,1,0,0,0,0,0,8.5,0,0,0,0,0,9,3,0,12
+Leicestershire,CN Ackermann,e734d090,4,3,2,0,0,150.0,"[2, 4, 8, 17]",4.0,24,6,0,37,4,1,0,0,0,0,0,9.25,0,0,0,0,0,3,6,0,9
+Leicestershire,LJ Hill,35f9a295,5,13,16,1,0,81.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,17,0,16,33
+Leicestershire,HJ Swindells,95fd757d,6,32,16,0,3,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,60,0,0,60
+Leicestershire,RK Patel,4531f249,7,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
+Leicestershire,BWM Mike,ed12fcd7,8,5,4,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
+Leicestershire,CF Parkinson,aa1210d8,9,8,6,1,0,133.33,"[3, 6, 9, 16]",4.0,24,6,0,33,2,2,1,0,0,0,0,8.25,0,0,0,0,0,12,31,0,43
+Leicestershire,GT Griffiths,79c7041c,10,2,2,0,0,100.0,[12],1.0,6,2,0,4,0,0,0,0,0,0,0,4.0,0,0,0,0,0,2,2,0,4
+Leicestershire,Naveen-ul-Haq,c0c411cb,11,6,2,0,1,300.0,"[5, 7, 10, 19]",3.333,20,12,0,27,4,1,2,0,0,0,2,8.1,0,0,0,0,0,12,62,0,74
+Northamptonshire,R Vasconcelos,efe3fcc5,1,30,18,4,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,4,60,0,12,72
+Northamptonshire,BJ Curran,1786a21b,2,7,8,0,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,7,0,0,7
+Northamptonshire,JJ Cobb,58c481c6,3,28,19,2,2,147.37,"[4, 6]",2.0,12,5,0,19,3,0,2,0,0,0,0,9.5,2,0,0,0,2,54,55,16,125
+Northamptonshire,RI Keogh,e22d3b5c,4,34,38,3,0,89.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,50,0,16,66
+Northamptonshire,Mohammad Nabi,62af8546,5,8,6,0,1,133.33,"[1, 8, 15, 18]",4.0,24,11,0,18,1,0,1,0,0,0,0,4.5,0,0,0,0,0,14,42,0,56
+Northamptonshire,WD Parnell,3a60e0b5,6,5,10,0,0,50.0,"[10, 14, 20]",2.833,17,5,0,36,1,4,2,0,0,0,0,12.71,1,0,0,0,-4,1,49,8,58
+Northamptonshire,SA Zaib,ab01e323,7,21,11,1,2,190.91,[7],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,6,43,2,0,45
+Northamptonshire,TAI Taylor,867a45a7,7,0,0,0,0,0.0,"[2, 19]",2.0,12,4,0,16,1,1,1,0,1,0,1,8.0,1,0,0,0,0,0,37,8,45
+Northamptonshire,GG White,0f21680d,8,0,0,0,0,0.0,"[3, 5, 12, 16]",4.0,24,9,0,24,0,1,2,0,0,0,3,6.0,1,0,0,0,0,0,61,8,69
+Northamptonshire,BD Glover,0dbe27b8,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Northamptonshire,FJ Heldreich,56ef4f99,10,0,0,0,0,0.0,"[9, 11, 13, 17]",4.0,24,8,0,17,0,0,2,0,0,0,1,4.25,0,0,0,0,0,0,64,0,64

@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-04-17'],ACC Men's Premier Cup,1426471,Malaysia,7,8,6,0,1,133.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
+['2024-04-15'],ACC Men's Premier Cup,1426466,Malaysia,7,2,1,0,0,200.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,2,0,12,14
+['2024-04-13'],ACC Men's Premier Cup,1426462,Malaysia,8,2,5,0,0,40.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,0,0,0,2,0,28,30
+['2024-04-12'],ACC Men's Premier Cup,1426457,Malaysia,5,3,5,0,0,60.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,3,0,12,15

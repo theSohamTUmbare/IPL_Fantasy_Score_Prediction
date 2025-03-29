@@ -1,0 +1,17 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-07-14'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439836,Norway,7,0,2,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2024-07-13'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439830,Norway,6,71,32,6,4,221.88,"1,3",2.0,12,4,0,25,3,1,1,0,0,0,4,12.5,0,0,0,0,6,133,23,0,156
+['2024-07-11'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439822,Norway,8,10,12,1,0,83.33,"2,18",2.0,12,5,0,32,3,3,1,0,0,1,0,16.0,0,0,0,0,0,14,24,0,38
+['2024-07-09'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439817,Norway,5,0,0,0,0,0.0,"2,4,6",3.0,18,12,0,15,1,1,1,0,0,0,0,5.0,1,0,0,0,0,0,41,8,49
+['2024-07-08'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439816,Norway,7,5,6,0,0,83.33,"6,8,10,12",4.0,24,13,0,17,2,0,3,0,1,0,1,4.25,0,0,0,1,0,5,106,6,117
+['2024-06-16'],Nordic T20 Cup,1438262,Norway,5,0,0,0,0,0.0,"1,3",2.0,12,5,0,11,1,0,1,0,0,0,1,5.5,3,0,0,0,0,0,34,28,62
+['2024-06-15'],Nordic T20 Cup,1438259,Norway,11,0,0,0,0,0.0,"2,4",2.0,12,2,0,32,5,1,0,0,0,0,1,16.0,1,0,0,0,0,0,-4,8,4
+['2024-06-14'],Nordic T20 Cup,1438257,Norway,9,0,0,0,0,0.0,"2,4",2.0,12,5,0,11,2,0,2,1,0,0,0,5.5,3,0,0,0,0,0,67,28,95
+['2022-05-01'],Spain Triangular T20I Series,1310166,Norway,8,1,14,0,0,7.14,"16,18",2.5,15,2,0,30,3,1,1,0,0,0,0,12.0,1,0,0,0,-6,-5,23,8,26
+['2022-04-30'],Spain Triangular T20I Series,1310162,Norway,2,1,4,0,0,25.0,"6,8,18,20",4.0,24,9,0,32,2,1,1,0,0,1,4,8.0,0,0,0,0,0,1,34,0,35
+['2022-04-30'],Spain Triangular T20I Series,1310163,Norway,6,2,3,0,0,66.67,"5,7,18",3.0,18,7,0,22,1,2,1,0,0,0,1,7.33,0,0,0,0,0,2,32,0,34
+['2022-04-29'],Spain Triangular T20I Series,1310161,Norway,8,1,1,0,0,100.0,"5,7,18,20",4.0,24,7,0,20,0,0,1,0,0,0,4,5.0,1,0,0,1,0,1,36,14,51
+['2021-08-08'],Germany T20 Tri-Series,1271450,Norway,3,52,44,4,3,118.18,"2,4,6,20",4.0,24,8,0,24,1,1,2,0,1,0,0,6.0,1,0,0,0,0,94,68,8,170
+['2021-08-08'],Germany T20 Tri-Series,1271451,Norway,3,14,22,1,0,63.64,"2,4,12",3.0,18,7,0,24,3,0,1,0,1,0,0,8.0,0,0,0,0,-2,16,40,0,56
+['2021-08-07'],Germany T20 Tri-Series,1271449,Norway,3,26,24,3,0,108.33,20,1.0,6,3,0,8,1,0,1,0,0,0,0,8.0,0,0,1,0,0,42,28,12,82
+['2021-08-05'],Germany T20 Tri-Series,1271446,Norway,8,6,5,1,0,120.0,5,1.0,6,2,0,12,1,1,0,0,0,0,0,12.0,2,0,0,0,0,10,2,16,28

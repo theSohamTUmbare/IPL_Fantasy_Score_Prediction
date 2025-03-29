@@ -1,0 +1,10 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-11-28'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459377,St Helena,6,0,0,0,0,0.0,"1,3,5,7",4.0,24,22,2,2,0,0,1,0,1,0,0,0.5,1,0,0,0,0,0,85,8,93
+['2024-11-27'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459384,St Helena,10,9,19,1,0,47.37,"3,5,8,10",4.0,24,11,0,21,0,0,1,0,0,0,0,5.25,0,0,0,0,-6,7,40,0,47
+['2024-11-26'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459380,St Helena,11,0,0,0,0,0.0,"2,4,8,10",4.0,24,16,1,17,2,0,2,0,1,0,1,4.25,0,0,0,0,0,0,92,0,92
+['2024-11-24'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459388,St Helena,11,0,0,0,0,0.0,"2,4,6",3.0,18,8,0,31,3,1,1,0,1,0,1,10.33,0,0,0,0,0,0,39,0,39
+['2024-11-23'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459376,St Helena,11,2,17,0,0,11.76,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-4,0,0,-4
+['2022-11-24'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343760,St Helena,10,0,0,0,0,0.0,2,1.0,6,2,0,6,0,0,0,0,0,0,0,6.0,0,0,0,0,0,0,2,0,2
+['2022-11-22'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343757,St Helena,10,0,0,0,0,0.0,"2,4,6",3.0,18,9,0,20,1,0,1,0,1,0,5,6.67,0,0,0,0,0,0,44,0,44
+['2022-11-18'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343744,St Helena,9,10,18,0,0,55.56,"2,4,6,8",4.0,24,12,0,27,3,1,1,0,0,0,0,6.75,0,0,0,0,-4,6,39,0,45
+['2022-11-17'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343742,St Helena,9,0,0,0,0,0.0,"1,3",2.0,12,4,0,21,2,1,0,0,0,0,0,10.5,0,0,0,0,0,0,2,0,2

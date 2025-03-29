@@ -1,0 +1,21 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-08-24'],ICC Men's T20 World Cup Americas Region Final,1197404,United States of America,7,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2019-08-22'],ICC Men's T20 World Cup Americas Region Final,1197403,United States of America,7,7,3,0,1,233.33,3,1.0,6,2,0,17,1,2,0,0,0,0,0,17.0,0,0,0,0,0,13,2,0,15
+['2019-08-21'],ICC Men's T20 World Cup Americas Region Final,1197401,United States of America,7,11,9,0,1,122.22,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,17,0,8,25
+['2019-08-19'],ICC Men's T20 World Cup Americas Region Final,1197399,United States of America,10,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2019-08-18'],ICC Men's T20 World Cup Americas Region Final,1197396,United States of America,7,9,5,0,1,180.0,"9,11",2.0,12,7,0,11,2,0,1,0,0,0,0,5.5,1,0,0,0,0,15,36,8,59
+['2016-08-03'],Caribbean Premier League,1025665,Jamaica Tallawahs,8,10,7,1,0,142.86,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
+['2016-07-31'],Caribbean Premier League,994687,Jamaica Tallawahs,6,19,13,0,2,146.15,9,1.0,6,0,0,19,1,2,0,0,0,0,0,19.0,0,0,0,0,2,33,0,0,33
+['2016-07-30'],Caribbean Premier League,994681,Jamaica Tallawahs,7,8,7,1,0,114.29,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+['2016-07-20'],Caribbean Premier League,1019775,Jamaica Tallawahs,7,0,0,0,0,0.0,"6,8,10",3.0,18,7,0,27,2,2,2,0,0,0,0,9.0,0,0,0,0,0,0,57,0,57
+['2016-07-18'],Caribbean Premier League,1019773,Jamaica Tallawahs,8,5,6,0,0,83.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,5,0,16,21
+['2016-07-02'],Caribbean Premier League,994671,Jamaica Tallawahs,8,0,1,0,0,0.0,"9,11,20",3.0,18,3,0,38,0,4,0,0,0,0,0,12.67,0,0,0,0,0,-2,-3,0,-5
+['2013-11-26'],ICC World Twenty20 Qualifier,660207,United States of America,5,1,6,0,0,16.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2013-11-24'],ICC World Twenty20 Qualifier,660199,United States of America,3,19,9,1,2,211.11,"14,16",2.0,12,3,0,15,1,1,1,0,0,0,0,7.5,1,0,0,0,0,35,28,8,71
+['2013-11-22'],ICC World Twenty20 Qualifier,660179,United States of America,6,18,16,0,1,112.5,19,1.0,6,1,0,11,0,1,0,0,0,0,0,11.0,0,0,0,0,0,24,1,0,25
+['2013-11-20'],ICC World Twenty20 Qualifier,660153,United States of America,3,20,12,2,1,166.67,5,1.0,6,0,0,20,3,1,0,0,0,0,0,20.0,1,0,0,0,4,38,0,8,46
+['2013-11-17'],ICC World Twenty20 Qualifier,660125,United States of America,7,1,3,0,0,33.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2013-11-16'],ICC World Twenty20 Qualifier,660117,United States of America,5,0,1,0,0,0.0,"3,5,11,18",4.0,24,8,0,32,4,0,0,0,0,0,1,8.0,0,0,0,0,0,-2,8,0,6
+['2010-06-06'],ICC World Cricket League Americas Region Division One Twenty20,460060,United States of America,9,0,1,0,0,0.0,"1,3,5,19",4.0,24,14,0,14,0,0,2,0,1,0,2,3.5,0,0,0,0,0,-2,78,0,76
+['2010-06-06'],ICC World Cricket League Americas Region Division One Twenty20,460064,United States of America,9,0,0,0,0,0.0,"2,4,6,19",4.0,24,12,0,21,3,0,2,0,1,0,1,5.25,1,0,0,0,0,0,74,8,82
+['2010-06-04'],ICC World Cricket League Americas Region Division One Twenty20,460054,United States of America,9,32,19,1,2,168.42,"1,3,5,19",4.0,24,14,0,24,3,1,0,0,0,0,0,6.0,1,0,0,0,4,56,16,8,80

@@ -1,0 +1,9 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2017-07-23'],NatWest T20 Blast,1068343,Yorkshire,11,0,0,0,0,0.0,"12,16",2.0,12,1,0,47,0,7,0,0,0,0,1,23.5,2,0,0,0,0,0,-5,16,11
+['2016-07-20'],NatWest T20 Blast,947301,Yorkshire,10,0,0,0,0,0.0,"8,10,12,14",4.0,24,8,0,40,3,3,3,0,0,0,0,10.0,0,0,0,0,0,0,85,0,85
+['2016-07-01'],NatWest T20 Blast,947237,Yorkshire,11,0,0,0,0,0.0,"7,9,11",3.0,18,5,0,34,0,4,2,0,0,0,1,11.33,2,0,0,0,0,0,51,16,67
+['2016-06-24'],NatWest T20 Blast,947213,Yorkshire,11,0,0,0,0,0.0,"7,9",2.0,12,6,0,11,0,1,0,0,0,0,0,5.5,0,0,0,0,0,0,10,0,10
+['2016-06-19'],NatWest T20 Blast,947193,Yorkshire,11,0,0,0,0,0.0,"7,9,11",3.0,18,6,0,17,2,0,1,0,0,0,0,5.67,0,0,0,0,0,0,35,0,35
+['2015-07-24'],NatWest T20 Blast,804697,Yorkshire,10,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2015-07-17'],NatWest T20 Blast,804671,Yorkshire,10,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2015-07-14'],NatWest T20 Blast,804657,Yorkshire,10,2,4,0,0,50.0,"7,9,11,13",4.0,24,5,0,30,1,1,0,0,0,0,0,7.5,1,0,0,0,0,2,5,8,15

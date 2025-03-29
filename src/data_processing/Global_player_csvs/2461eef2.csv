@@ -1,0 +1,33 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-11-14'],Syed Mushtaq Ali Trophy,1205799,Hyderabad (India),3,1,3,0,0,33.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2019-11-12'],Syed Mushtaq Ali Trophy,1205781,Hyderabad (India),4,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2019-11-11'],Syed Mushtaq Ali Trophy,1205755,Hyderabad (India),3,7,6,1,0,116.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
+['2019-11-09'],Syed Mushtaq Ali Trophy,1205745,Hyderabad (India),3,21,18,2,1,116.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,35,0,0,35
+['2019-11-08'],Syed Mushtaq Ali Trophy,1205719,Hyderabad (India),3,47,27,2,4,174.07,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,89,0,0,89
+['2019-02-28'],Syed Mushtaq Ali Trophy,1157190,Hyderabad (India),2,34,31,4,1,109.68,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,60,0,0,60
+['2019-02-25'],Syed Mushtaq Ali Trophy,1157156,Hyderabad (India),2,8,9,1,0,88.89,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+['2019-02-24'],Syed Mushtaq Ali Trophy,1157138,Hyderabad (India),2,46,44,5,0,104.55,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,70,0,8,78
+['2019-02-22'],Syed Mushtaq Ali Trophy,1157122,Hyderabad (India),2,9,8,1,0,112.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+['2019-02-21'],Syed Mushtaq Ali Trophy,1157105,Hyderabad (India),2,69,51,5,1,135.29,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,105,0,0,105
+['2018-01-14'],Syed Mushtaq Ali Trophy,1130712,Hyderabad (India),2,7,11,1,0,63.64,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,9,0,8,17
+['2018-01-12'],Syed Mushtaq Ali Trophy,1130701,Hyderabad (India),1,9,8,1,0,112.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+['2018-01-11'],Syed Mushtaq Ali Trophy,1130689,Hyderabad (India),2,70,28,3,7,250.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,138,0,8,146
+['2018-01-09'],Syed Mushtaq Ali Trophy,1130679,Hyderabad (India),2,64,39,5,3,164.1,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,114,0,0,114
+['2018-01-08'],Syed Mushtaq Ali Trophy,1130670,Hyderabad (India),2,34,30,3,0,113.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,50,0,0,50
+['2016-01-10'],Syed Mushtaq Ali Trophy,902229,Hyderabad (India),2,23,17,1,2,135.29,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,41,0,8,49
+['2016-01-09'],Syed Mushtaq Ali Trophy,902207,Hyderabad (India),2,37,28,6,0,132.14,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,2,67,0,12,79
+['2016-01-04'],Syed Mushtaq Ali Trophy,902137,Hyderabad (India),2,0,2,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2016-01-03'],Syed Mushtaq Ali Trophy,902113,Hyderabad (India),2,14,12,2,0,116.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
+['2016-01-02'],Syed Mushtaq Ali Trophy,902089,Hyderabad (India),2,32,18,4,1,177.78,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,64,0,8,72
+['2013-05-01'],Indian Premier League,598039,Sunrisers Hyderabad,1,7,9,1,0,77.78,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
+['2013-04-27'],Indian Premier League,598032,Sunrisers Hyderabad,1,2,5,0,0,40.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2013-04-19'],Indian Premier League,598021,Sunrisers Hyderabad,2,19,17,2,0,111.76,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,27,0,14,41
+['2013-04-12'],Indian Premier League,598010,Sunrisers Hyderabad,1,1,8,0,0,12.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+['2013-04-09'],Indian Premier League,598048,Sunrisers Hyderabad,1,12,11,2,0,109.09,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
+['2013-04-07'],Indian Premier League,598004,Sunrisers Hyderabad,1,23,21,2,0,109.52,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31
+['2013-04-05'],Indian Premier League,598000,Sunrisers Hyderabad,1,27,30,2,0,90.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,39,0,0,39
+['2012-05-20'],Indian Premier League,548376,Deccan Chargers,2,7,11,0,0,63.64,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,5,0,0,5
+['2012-05-18'],Indian Premier League,548373,Deccan Chargers,1,42,35,4,1,120.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,68,0,0,68
+['2012-05-13'],Indian Premier League,548366,Deccan Chargers,6,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2012-05-08'],Indian Premier League,548359,Deccan Chargers,6,24,13,2,1,184.62,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,44,0,0,44
+['2012-05-06'],Indian Premier League,548356,Deccan Chargers,6,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,13 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2013-08-17'],Caribbean Premier League,635234,St Lucia Zouks,3,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2013-08-15'],Caribbean Premier League,635231,St Lucia Zouks,3,29,20,2,2,145.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,55,0,0,55
+['2013-08-10'],Caribbean Premier League,635226,St Lucia Zouks,7,5,4,1,0,125.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
+['2013-08-06'],Caribbean Premier League,635222,St Lucia Zouks,5,12,10,3,0,120.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,4,0,0,0,0,24,0,36,60
+['2013-08-04'],Caribbean Premier League,635221,St Lucia Zouks,5,24,25,4,0,96.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,40,0,0,40
+['2013-07-30'],Caribbean Premier League,635215,St Lucia Zouks,4,9,14,0,0,64.29,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,7,0,8,15
+['2009-08-02'],NA,401076,West Indies,3,37,27,3,2,137.04,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,67,0,8,75
+['2008-01-18'],West Indies in South Africa T20I Series,298804,West Indies,1,12,7,2,0,171.43,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
+['2007-12-16'],West Indies in South Africa T20I Series,319112,West Indies,2,7,7,1,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
+['2007-09-13'],ICC World Twenty20,287857,West Indies,2,51,52,6,0,98.08,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,83,0,0,83
+['2007-09-11'],ICC World Twenty20,287853,West Indies,2,35,33,3,0,106.06,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,51,0,0,51
+['2007-06-28'],West Indies in England T20I Series,258463,West Indies,2,61,34,7,3,179.41,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,121,0,0,121

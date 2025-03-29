@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Delhi Daredevils,DA Warner,dcce6f09,1,13,14,2,0,92.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
+Delhi Daredevils,V Sehwag,8ba8195d,2,15,9,2,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29
+Delhi Daredevils,NV Ojha,890946a0,3,13,14,1,1,92.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
+Delhi Daredevils,Y Nagar,662c47a6,4,18,23,1,0,78.26,[13],1.0,6,0,0,15,1,1,0,0,0,1,0,15.0,0,0,1,0,0,22,0,12,34
+Delhi Daredevils,Y Venugopal Rao,fe763256,5,40,36,5,0,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,64,0,0,64
+Delhi Daredevils,M Morkel,5bb5a915,5,0,0,0,0,0.0,"[2, 6, 12]",3.0,18,7,0,29,5,0,1,0,0,1,2,9.67,0,0,0,0,0,0,32,0,32
+Delhi Daredevils,AB Agarkar,fa463154,6,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,7,0,18,2,0,0,0,0,0,0,6.0,0,0,0,0,0,0,9,0,9
+Delhi Daredevils,TR Birt,d2d4bb0a,6,27,15,5,0,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,57,0,0,57
+Delhi Daredevils,UT Yadav,cc1e8c68,7,0,0,0,0,0.0,[4],1.0,6,2,0,23,2,2,0,0,0,1,1,23.0,1,0,0,0,0,0,2,8,10
+Delhi Daredevils,IK Pathan,5fa06777,7,5,6,0,0,83.33,"[1, 3, 5, 15]",4.0,24,11,0,38,6,0,0,0,0,0,7,9.5,0,0,0,0,0,5,11,0,16
+Delhi Daredevils,RE van der Merwe,05c2ca46,8,2,3,0,0,66.67,"[8, 10, 14]",3.0,18,8,0,15,1,0,1,1,0,0,2,5.0,0,0,0,0,0,2,45,0,47
+Kochi Tuskers Kerala,M Klinger,b970a03f,1,18,19,3,0,94.74,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30
+Kochi Tuskers Kerala,BB McCullum,b8a55852,2,37,18,5,2,205.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,79,0,0,79
+Kochi Tuskers Kerala,PA Patel,b5da6c24,3,37,31,5,0,119.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,61,0,28,89
+Kochi Tuskers Kerala,DPMD Jayawardene,d18f9182,4,7,10,1,0,70.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,9,0,0,9
+Kochi Tuskers Kerala,RA Jadeja,fe93fd9d,5,0,0,0,0,0.0,"[11, 16]",2.0,12,2,0,16,1,0,0,0,0,0,2,8.0,0,0,0,0,0,0,2,0,2
+Kochi Tuskers Kerala,BJ Hodge,b57f8a9a,5,24,12,3,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,48,0,0,48
+Kochi Tuskers Kerala,RV Gomez,b2570b38,6,0,0,0,0,0.0,"[10, 13]",2.0,12,3,0,16,2,0,0,0,0,0,0,8.0,0,0,0,0,0,0,3,0,3
+Kochi Tuskers Kerala,R Vinay Kumar,41eb4a4f,7,0,0,0,0,0.0,"[9, 12, 15, 19]",4.0,24,8,0,25,3,0,2,0,0,0,1,6.25,1,0,0,0,0,0,60,8,68
+Kochi Tuskers Kerala,RP Singh,c3d1402f,8,0,0,0,0,0.0,"[1, 7, 14, 20]",4.0,24,9,0,28,4,0,1,0,0,0,1,7.0,2,0,0,0,0,0,36,16,52
+Kochi Tuskers Kerala,S Sreesanth,6b8eb6e5,9,0,0,0,0,0.0,"[2, 4, 6, 17]",4.0,24,11,0,24,3,0,1,0,0,1,0,6.0,0,0,0,0,0,0,38,0,38
+Kochi Tuskers Kerala,P Parameswaran,0c432afb,10,0,0,0,0,0.0,"[3, 5, 8, 18]",4.0,24,14,0,29,3,2,2,0,0,0,0,7.25,0,0,0,0,0,0,64,0,64

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+New Zealand,CJ Bowes,45df0e72,1,9,9,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+New Zealand,TL Seifert,4663bd23,2,13,11,2,0,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,21,0,20,41
+New Zealand,WA Young,8afe73e2,3,56,46,7,1,121.74,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,98,0,8,106
+New Zealand,MS Chapman,7fa12533,4,51,32,5,2,159.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,95,0,0,95
+New Zealand,D Foxcroft,ed6894af,5,10,10,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+New Zealand,MJ Santner,e4a0deae,6,20,11,2,1,181.82,"[6, 8, 10, 12]",4.0,24,14,0,21,0,1,1,0,0,0,7,5.25,1,0,0,0,6,40,43,8,91
+New Zealand,R Ravindra,ba5e1069,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+New Zealand,KA Jamieson,68c56d09,9,0,0,0,0,0.0,"[5, 14, 16, 20]",4.0,24,12,0,23,2,0,1,0,0,0,5,5.75,0,0,0,0,0,0,41,0,41
+New Zealand,TG Southee,13c35c9e,10,0,0,0,0,0.0,"[1, 3, 15, 18]",4.0,24,10,1,24,3,0,0,0,0,0,0,6.0,1,0,0,0,0,0,24,8,32
+New Zealand,A Ashok,321be7e3,11,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,9,0,28,2,1,1,0,0,0,1,7.0,0,0,0,0,0,0,36,0,36
+New Zealand,BG Lister,79f5bc26,12,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,13,0,35,5,1,3,0,0,0,2,8.75,0,0,1,0,0,0,92,12,104
+United Arab Emirates,A Sharma,5661ef90,1,16,22,2,0,72.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
+United Arab Emirates,Waseem Muhammad,6f02fe2a,2,8,4,2,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24
+United Arab Emirates,V Aravind,cddafe26,3,12,9,1,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,22,0,8,30
+United Arab Emirates,Asif Khan,074acfb4,4,11,15,1,0,73.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
+United Arab Emirates,Ansh Tandon,599ce28e,5,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+United Arab Emirates,Basil Hameed,adbf0400,6,24,28,2,1,85.71,"[8, 10, 16]",3.0,18,8,0,30,4,1,0,0,0,0,1,10.0,1,0,0,0,0,38,6,8,52
+United Arab Emirates,Aayan Afzal Khan,d2d15439,7,42,36,4,1,116.67,"[2, 4, 9, 11]",4.0,24,5,0,31,4,0,0,0,0,0,0,7.75,0,0,0,0,0,68,5,0,73
+United Arab Emirates,Mohammed Faraazuddin,18ac3318,8,0,2,0,0,0.0,[14],1.0,6,0,0,18,2,1,0,0,0,0,0,18.0,1,0,0,0,0,-2,0,8,6
+United Arab Emirates,Muhammad Jawadullah,098a757c,9,0,0,0,0,0.0,"[1, 3, 13, 19]",4.0,24,7,0,26,2,0,1,0,0,0,0,6.5,0,0,0,0,0,0,34,0,34
+United Arab Emirates,Junaid Siddique,84dc72db,9,2,3,0,0,66.67,"[5, 7, 15, 17]",4.0,24,10,0,26,2,1,3,0,0,0,2,6.5,0,0,0,0,0,2,91,0,93
+United Arab Emirates,Zahoor Khan,f0e293b0,10,0,0,0,0,0.0,"[6, 12, 18, 20]",4.0,24,7,0,32,3,1,1,0,0,0,1,8.0,1,0,0,0,0,0,32,8,40

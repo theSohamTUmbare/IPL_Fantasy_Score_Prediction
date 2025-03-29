@@ -1,0 +1,15 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2015-05-22'],NatWest T20 Blast,804467,Worcestershire,4,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2014-07-25'],NatWest T20 Blast,693247,Gloucestershire,2,16,19,1,0,84.21,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
+['2014-07-20'],NatWest T20 Blast,693235,Gloucestershire,1,27,22,3,1,122.73,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,49,0,0,49
+['2014-07-18'],NatWest T20 Blast,693227,Gloucestershire,2,0,3,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2014-07-11'],NatWest T20 Blast,693193,Gloucestershire,1,55,39,6,1,141.03,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,95,0,0,95
+['2014-07-04'],NatWest T20 Blast,693183,Gloucestershire,2,22,18,3,0,122.22,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,34,0,8,42
+['2014-06-27'],NatWest T20 Blast,693153,Gloucestershire,1,8,8,1,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20
+['2014-06-26'],NatWest T20 Blast,693137,Gloucestershire,2,0,5,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2014-06-20'],NatWest T20 Blast,693133,Gloucestershire,1,37,27,5,1,137.04,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,69,0,8,77
+['2014-06-13'],NatWest T20 Blast,693109,Gloucestershire,2,2,6,0,0,33.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2014-06-08'],NatWest T20 Blast,693091,Gloucestershire,1,26,20,4,0,130.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,48,0,0,48
+['2014-06-06'],NatWest T20 Blast,693077,Gloucestershire,2,11,8,2,0,137.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
+['2014-05-30'],NatWest T20 Blast,693053,Gloucestershire,3,17,20,1,0,85.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,21,0,8,29
+['2014-05-23'],NatWest T20 Blast,693045,Gloucestershire,3,11,8,2,0,137.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,19,0,8,27

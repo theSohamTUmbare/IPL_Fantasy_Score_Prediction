@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2021-10-08'],Cyprus T20 Tri-Series,1279385,Cyprus,4,61,38,2,5,160.53,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,111,0,0,111
+['2021-10-07'],Cyprus T20 Tri-Series,1279383,Cyprus,4,46,25,2,4,184.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,88,0,0,88
+['2021-10-06'],Cyprus T20 Tri-Series,1279381,Cyprus,6,0,5,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2

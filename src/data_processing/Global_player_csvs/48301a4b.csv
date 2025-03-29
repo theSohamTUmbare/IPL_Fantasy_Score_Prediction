@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-10-18'],ICC Men's T20 World Cup,1298139,Namibia,2,0,2,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2022-10-16'],ICC Men's T20 World Cup,1298135,Namibia,2,9,9,1,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
+['2022-05-21'],Namibia tour of Zimbabwe,1310940,Namibia,2,14,13,3,0,107.69,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26
+['2022-05-19'],Namibia tour of Zimbabwe,1310939,Namibia,2,9,17,1,0,52.94,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,-4,9,0,6,15
+['2022-05-17'],Namibia tour of Zimbabwe,1310938,Namibia,2,66,42,3,5,157.14,12,1.0,6,0,0,11,0,1,0,0,0,0,0,11.0,0,0,0,0,4,120,0,0,120

@@ -1,0 +1,19 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-08-21'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A,1444959,Vanuatu,10,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2024-08-20'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A,1444956,Vanuatu,11,2,3,0,0,66.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2024-08-19'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A,1444955,Vanuatu,9,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2024-08-17'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A,1444952,Vanuatu,9,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2023-07-29'],ICC Men's T20 World Cup East Asia-Pacific Qualifier,1383099,Vanuatu,9,20,20,2,0,100.0,"6,10,12,16",4.0,24,12,0,12,0,0,2,0,1,0,0,3.0,0,0,1,0,0,28,76,12,116
+['2023-07-28'],ICC Men's T20 World Cup East Asia-Pacific Qualifier,1383097,Vanuatu,8,0,0,0,0,0.0,"10,14",2.0,12,5,0,12,1,0,0,0,0,0,0,6.0,1,0,0,0,0,0,7,8,15
+['2023-07-26'],ICC Men's T20 World Cup East Asia-Pacific Qualifier,1383095,Vanuatu,9,21,11,1,2,190.91,"12,14",2.0,12,2,0,16,0,1,1,0,0,0,0,8.0,1,0,0,0,6,43,27,8,78
+['2023-07-25'],ICC Men's T20 World Cup East Asia-Pacific Qualifier,1383093,Vanuatu,9,3,4,0,0,75.0,18,0.667,4,3,0,4,1,0,0,0,0,0,0,6.0,0,0,0,0,0,3,3,0,6
+['2023-07-23'],ICC Men's T20 World Cup East Asia-Pacific Qualifier,1383091,Vanuatu,9,2,3,0,0,66.67,16,1.0,6,1,0,19,1,2,0,0,0,0,0,19.0,1,0,0,0,0,2,1,8,11
+['2023-07-22'],ICC Men's T20 World Cup East Asia-Pacific Qualifier,1383090,Vanuatu,9,9,9,1,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+['2022-09-11'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A,1333922,Vanuatu,9,1,3,0,0,33.33,"15,17",1.333,8,3,0,5,0,0,1,0,0,0,0,3.75,0,0,0,0,0,1,28,0,29
+['2019-10-03'],Vanuatu tour of Malaysia,1202010,Vanuatu,11,0,0,0,0,0.0,"14,16",2.0,12,1,0,19,1,1,1,0,0,0,0,9.5,0,0,0,0,0,0,26,0,26
+['2019-10-02'],Vanuatu tour of Malaysia,1202009,Vanuatu,9,3,3,0,0,100.0,"8,10,12",3.0,18,6,0,30,2,2,1,0,0,0,0,10.0,0,0,0,0,0,3,29,0,32
+"['2019-10-01', '2019-10-02']",Vanuatu tour of Malaysia,1202008,Vanuatu,11,0,0,0,0,0.0,"12,14,16,18",4.0,24,5,0,23,0,0,3,0,0,0,0,5.75,0,0,0,0,0,0,88,0,88
+['2019-09-29'],Vanuatu tour of Malaysia,1202007,Vanuatu,9,0,0,0,0,0.0,"12,14",2.0,12,3,0,22,2,1,1,0,0,0,0,11.0,0,0,0,0,0,0,26,0,26
+['2019-03-24'],ICC World Twenty20 East Asia-Pacific Region Final,1176797,Vanuatu,7,8,8,0,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+['2019-03-23'],ICC World Twenty20 East Asia-Pacific Region Final,1176794,Vanuatu,8,2,2,0,0,100.0,"1,3,12,14",4.0,24,14,0,12,0,0,0,0,0,0,0,3.0,0,0,0,0,0,2,20,0,22
+['2019-03-22'],ICC World Twenty20 East Asia-Pacific Region Final,1176793,Vanuatu,8,0,0,0,0,0.0,"1,10,12,14",4.0,24,7,0,32,0,2,1,0,1,0,0,8.0,0,0,0,0,0,0,40,0,40

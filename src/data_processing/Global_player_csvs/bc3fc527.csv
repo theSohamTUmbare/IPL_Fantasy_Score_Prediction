@@ -1,0 +1,33 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-09-26'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1450763,Ghana,1,18,9,1,1,200.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
+['2024-09-25'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1450760,Ghana,2,2,9,0,0,22.22,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2024-09-24'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1450757,Ghana,2,10,10,2,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
+['2024-09-22'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1450755,Ghana,5,5,12,1,0,41.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,3,0,8,11
+['2024-09-21'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1450752,Ghana,4,17,26,0,0,65.38,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,15,0,8,23
+['2023-10-15'],West Africa Trophy,1400990,Ghana,2,3,12,0,0,25.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-3,0,0,-3
+['2023-10-14'],West Africa Trophy,1400989,Ghana,2,7,12,1,0,58.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,7,0,0,7
+['2023-10-12'],West Africa Trophy,1400986,Ghana,1,4,15,0,0,26.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2
+['2023-10-11'],West Africa Trophy,1400984,Ghana,2,17,16,2,0,106.25,"13,15",2.0,12,0,0,18,0,1,0,0,0,0,0,9.0,0,0,0,0,0,25,0,0,25
+['2023-10-10'],West Africa Trophy,1400982,Ghana,7,0,4,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2023-10-08'],West Africa Trophy,1400981,Ghana,2,1,3,0,0,33.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+['2023-10-06'],West Africa Trophy,1400976,Ghana,2,4,10,0,0,40.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2
+['2023-10-05'],West Africa Trophy,1400975,Ghana,5,8,12,0,0,66.67,"8,10,12,14",4.0,24,11,0,21,1,1,2,0,1,0,1,5.25,0,0,0,0,-2,6,73,0,79
+['2023-10-04'],West Africa Trophy,1400973,Ghana,2,1,1,0,0,100.0,"16,18,20",3.0,18,9,0,11,0,0,0,0,0,0,1,3.67,0,0,0,2,0,1,15,12,28
+['2022-12-09'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343794,Ghana,2,0,4,0,0,0.0,"14,16",2.0,12,5,0,18,0,2,1,0,1,0,0,9.0,0,0,0,0,0,-2,38,0,36
+['2022-12-08'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343788,Ghana,2,47,36,6,0,130.56,"9,11,13,15",3.167,19,11,0,11,0,0,1,0,0,1,0,3.47,1,0,0,0,2,77,42,8,127
+['2022-12-05'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343783,Ghana,2,3,4,0,0,75.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2022-12-04'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343778,Ghana,2,22,25,4,0,88.0,"7,9,11,13",4.0,24,7,0,32,3,1,1,0,1,0,0,8.0,0,0,0,1,0,38,40,6,84
+['2022-12-02'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343773,Ghana,2,11,11,2,0,100.0,11,1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,0,19,1,0,20
+['2022-09-20'],Africa Cricket Association Cup,1332501,Ghana,2,39,51,2,1,76.47,"6,8,12,14",4.0,24,5,0,26,1,0,0,0,0,0,0,6.5,1,0,0,0,0,57,7,8,72
+['2022-09-18'],Africa Cricket Association Cup,1332507,Ghana,3,36,41,3,0,87.8,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,52,0,0,52
+['2021-10-21'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283037,Ghana,3,37,47,1,2,78.72,11,1.0,6,3,0,9,0,1,0,0,0,0,0,9.0,0,0,0,0,0,57,3,0,60
+['2021-10-20'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283034,Ghana,11,0,0,0,0,0.0,"8,10,12,14",4.0,24,15,0,15,1,0,2,0,1,0,0,3.75,0,0,0,0,0,0,79,0,79
+['2021-10-19'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283029,Ghana,11,0,0,0,0,0.0,"14,16,18",3.0,18,6,0,22,1,1,2,1,0,0,0,7.33,0,0,0,0,0,0,64,0,64
+['2021-10-16'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A & B,1283021,Ghana,5,28,28,2,1,100.0,"11,13,15,17",4.0,24,10,0,23,1,1,5,1,1,0,0,5.75,1,0,0,0,0,46,167,8,221
+['2021-10-16'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A & B,1283023,Ghana,7,0,0,0,0,0.0,"9,13,15",3.0,18,7,0,21,1,1,1,0,0,0,1,7.0,1,0,0,0,0,0,34,8,42
+['2021-08-21'],Ghana tour of Rwanda,1273145,Ghana,6,0,0,0,0,0.0,"8,10,12",3.0,18,3,0,29,0,2,1,0,0,0,0,9.67,0,0,0,1,0,0,28,6,34
+['2021-08-20'],Ghana tour of Rwanda,1273143,Ghana,6,1,7,0,0,14.29,"8,10,16,18",4.0,24,13,0,26,1,1,2,0,0,1,3,6.5,1,0,0,0,0,1,65,8,74
+['2021-08-20'],Ghana tour of Rwanda,1273144,Ghana,11,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2021-08-18'],Ghana tour of Rwanda,1273141,Ghana,3,22,23,1,0,95.65,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26
+['2018-04-18'],ICC World Twenty20 Africa Region Qualifier A,1143121,Ghana,6,5,8,0,0,62.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,5,0,16,21
+['2018-04-15'],ICC World Twenty20 Africa Region Qualifier A,1143118,Ghana,8,5,2,1,0,250.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9

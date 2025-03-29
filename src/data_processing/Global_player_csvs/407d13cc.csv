@@ -1,0 +1,11 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2021-07-10'],Belgium tour of Malta,1268191,Belgium,9,1,2,0,0,50.0,"2,4,6,18",4.0,24,14,0,21,1,1,3,0,0,0,1,5.25,0,0,0,0,0,1,97,0,98
+['2021-07-10'],Belgium tour of Malta,1268192,Belgium,9,0,0,0,0,0.0,"2,4,6",3.0,18,7,0,25,3,1,0,0,0,0,1,8.33,0,0,0,0,0,0,7,0,7
+['2021-07-09'],Belgium tour of Malta,1268190,Belgium,11,0,0,0,0,0.0,"2,4,6,20",4.0,24,13,0,22,1,1,0,0,0,0,2,5.5,0,0,0,1,0,0,17,6,23
+['2021-07-08'],Belgium tour of Malta,1268188,Belgium,7,9,8,1,0,112.5,"2,4,6,16",4.0,24,12,0,27,4,0,2,0,0,0,1,6.75,0,0,0,0,0,13,64,0,77
+['2021-07-08'],Belgium tour of Malta,1268189,Belgium,4,0,0,0,0,0.0,"3,5",2.0,12,7,0,11,2,0,1,0,1,0,1,5.5,1,0,0,0,0,0,44,8,52
+['2020-08-30'],Luxembourg Twenty20 Tri-Series,1229822,Belgium,11,0,0,0,0,0.0,"2,4,6,20",4.0,24,17,0,10,1,0,1,1,0,0,0,2.5,0,0,0,0,0,0,56,0,56
+['2020-08-30'],Luxembourg Twenty20 Tri-Series,1229823,Belgium,10,4,1,1,0,400.0,"2,4,6,20",4.0,24,14,0,16,0,0,1,0,0,0,4,4.0,0,0,0,0,0,8,45,0,53
+['2020-08-29'],Luxembourg Twenty20 Tri-Series,1229820,Belgium,9,2,2,0,0,100.0,"2,4,6,19",4.0,24,14,0,22,4,0,2,0,1,0,1,5.5,0,0,0,0,0,2,76,0,78
+['2018-09-01'],ICC World Twenty20 Europe Region Qualifier B,1156659,Belgium,10,11,5,0,1,220.0,"2,4,6,8",4.0,24,11,0,29,2,1,0,0,0,2,1,7.25,0,0,0,0,0,17,11,0,28
+['2018-08-29'],ICC World Twenty20 Europe Region Qualifier B,1156651,Belgium,5,12,14,1,0,85.71,"2,4,6,8",4.0,24,15,0,13,0,0,2,0,1,2,1,3.25,0,0,0,0,0,16,79,0,95

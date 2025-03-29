@@ -1,0 +1,10 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2017-01-20'],Desert T20 Challenge,1074970,Scotland,7,12,10,2,0,120.0,"7,10,12,14",4.0,24,3,0,37,2,1,2,0,0,0,2,9.25,1,0,0,0,0,20,53,8,81
+['2017-01-19'],Desert T20 Challenge,1074968,Scotland,6,0,0,0,0,0.0,"7,9,11,16",4.0,24,11,0,23,2,0,2,1,1,0,2,5.75,0,0,0,0,0,0,81,0,81
+['2017-01-17'],Desert T20 Challenge,1074964,Scotland,7,22,10,0,2,220.0,"8,10,12,14",4.0,24,13,0,17,1,0,2,0,1,0,0,4.25,0,0,0,0,6,40,77,0,117
+['2017-01-14'],Desert T20 Challenge,1074957,Scotland,6,0,0,0,0,0.0,"8,10,14,16",4.0,24,6,0,22,1,0,0,0,0,0,0,5.5,1,0,0,1,0,0,10,14,24
+['2016-03-12'],World T20,951323,Scotland,7,0,0,0,0,0.0,"7,9,14,16",4.0,24,9,0,19,0,0,1,0,0,0,0,4.75,0,0,0,0,0,0,40,0,40
+['2015-07-25'],ICC World Twenty20 Qualifier,875549,Scotland,8,0,0,0,0,0.0,"9,11,14",3.0,18,11,0,9,0,0,0,0,0,0,0,3.0,1,0,0,0,0,0,17,8,25
+['2015-07-18'],ICC World Twenty20 Qualifier,875525,Scotland,9,0,0,0,0,0.0,"8,10,12,15",4.0,24,4,0,39,3,2,1,0,0,0,1,9.75,1,0,0,0,0,0,29,8,37
+['2015-07-16'],ICC World Twenty20 Qualifier,875511,Scotland,8,0,0,0,0,0.0,"7,10,12,20",4.0,24,11,0,29,1,1,1,0,0,0,6,7.25,1,0,0,0,0,0,36,8,44
+['2015-07-14'],ICC World Twenty20 Qualifier,875499,Scotland,9,0,0,0,0,0.0,"7,9,13,17",4.0,24,9,0,18,0,0,1,0,1,0,0,4.5,0,0,0,0,0,0,48,0,48

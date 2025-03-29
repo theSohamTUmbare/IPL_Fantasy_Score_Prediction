@@ -1,0 +1,8 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-03-08'],CSA T20 Challenge,1394571,Warriors,10,0,1,0,0,0.0,"4,13",2.0,12,7,0,17,2,1,1,0,0,0,1,8.5,0,0,0,0,0,0,32,0,32
+['2022-02-22'],CSA T20 Challenge,1299627,Knights,11,0,0,0,0,0.0,"3,11,13,17",4.0,24,8,0,30,2,1,0,0,0,0,1,7.5,0,0,0,0,0,0,8,0,8
+['2022-02-20'],CSA T20 Challenge,1299625,Knights,11,0,0,0,0,0.0,"7,9,13",3.0,18,4,0,19,1,0,0,0,0,0,0,6.33,0,0,0,0,0,0,6,0,6
+['2022-02-18'],CSA T20 Challenge,1299620,Knights,9,4,7,0,0,57.14,11,1.0,6,0,0,12,2,0,0,0,0,0,0,12.0,0,0,0,0,0,4,0,0,4
+['2022-02-14'],CSA T20 Challenge,1299615,Knights,10,0,0,0,0,0.0,"2,10,14,18",4.0,24,6,0,37,1,1,0,0,0,0,4,9.25,0,0,0,0,0,0,6,0,6
+['2022-02-12'],CSA T20 Challenge,1299611,Knights,10,0,2,0,0,0.0,"3,6,13,20",4.0,24,8,0,32,3,1,2,0,0,0,1,8.0,1,0,0,0,0,0,58,8,66
+['2022-02-08'],CSA T20 Challenge,1299605,Knights,10,0,0,0,0,0.0,"4,12,15",3.0,18,7,0,28,4,0,0,0,0,2,2,9.33,0,0,0,0,0,0,7,0,7

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Adelaide Strikers,M Klinger,b970a03f,1,14,13,0,1,107.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,20,0,8,28
+Adelaide Strikers,TP Ludeman,c3f7898b,2,30,21,0,3,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,54,0,0,54
+Adelaide Strikers,CJ Ferguson,9b4935c8,3,35,28,3,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,51,0,16,67
+Adelaide Strikers,NJ Reardon,c7bdb5b5,4,7,7,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,7,0,8,15
+Adelaide Strikers,KA Pollard,a757b0d8,5,65,43,5,4,151.16,"[12, 14]",2.0,12,2,0,19,1,1,1,0,0,0,0,9.5,0,0,0,0,4,121,27,0,148
+Adelaide Strikers,J Botha,7c503806,6,0,0,0,0,0.0,"[2, 8, 10, 16]",4.0,24,8,0,26,1,1,1,0,0,0,1,6.5,0,0,1,0,0,0,35,12,47
+Adelaide Strikers,MJ Johnston,db2114f1,6,8,8,0,0,100.0,"[4, 15]",2.0,12,5,0,29,2,3,1,0,0,0,0,14.5,0,0,0,0,0,8,24,0,32
+Adelaide Strikers,CJ Boyce,51a60c16,7,0,0,0,0,0.0,[9],1.0,6,2,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,0,2,0,2
+Adelaide Strikers,KW Richardson,dfc4d8b5,8,0,0,0,0,0.0,"[1, 6, 18, 20]",4.0,24,10,0,27,3,0,1,0,0,0,2,6.75,0,0,0,0,0,0,37,0,37
+Adelaide Strikers,BE Young,278fd5ff,9,0,0,0,0,0.0,"[5, 7, 13]",3.0,18,5,0,27,2,1,1,0,1,0,0,9.0,0,0,0,0,0,0,38,0,38
+Adelaide Strikers,SW Tait,addfb70e,10,0,0,0,0,0.0,"[3, 11, 17, 19]",4.0,24,10,0,36,6,1,2,0,2,0,1,9.0,0,0,0,0,0,0,76,0,76
+Melbourne Stars,RJ Quiney,23ac69e6,1,22,12,2,2,183.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,48,0,8,56
+Melbourne Stars,BJ Hodge,b57f8a9a,2,88,58,10,3,151.72,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,162,0,0,162
+Melbourne Stars,JP Faulkner,808f425a,3,10,11,0,0,90.91,"[3, 7, 12, 16]",4.0,24,11,0,32,2,2,2,0,0,0,1,8.0,0,0,0,0,0,10,61,0,71
+Melbourne Stars,DJ Hussey,fd835ab3,4,17,11,1,1,154.55,[8],1.0,6,0,0,9,0,0,0,0,0,0,0,9.0,0,0,0,0,4,31,0,0,31
+Melbourne Stars,CL White,d0513f63,5,13,13,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
+Melbourne Stars,SL Malinga,a12e1d51,6,0,0,0,0,0.0,"[5, 11, 15, 19]",4.0,24,8,0,29,2,0,1,0,1,0,3,7.25,0,0,0,0,0,0,41,0,41
+Melbourne Stars,GJ Maxwell,b681e71e,6,11,5,1,1,220.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,21,0,8,29
+Melbourne Stars,PSP Handscomb,ada15e88,7,7,7,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,7,0,0,7
+Melbourne Stars,JW Hastings,012829ff,8,0,2,0,0,0.0,"[6, 9, 13, 18]",4.0,24,7,0,37,3,1,1,0,0,0,1,9.25,0,0,0,0,0,0,32,0,32
+Melbourne Stars,CA Rose,7517d134,9,0,1,0,0,0.0,"[1, 10, 20]",3.0,18,7,0,32,1,3,0,0,0,0,0,10.67,0,0,0,0,0,-2,5,0,3
+Melbourne Stars,CJ McKay,94eac556,10,0,0,0,0,0.0,"[2, 4, 14, 17]",4.0,24,12,0,27,0,2,0,0,0,0,2,6.75,1,0,0,0,0,0,14,8,22

@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-09-22'],Gulf Cricket T20I Championship,1397437,Bahrain,11,0,0,0,0,0.0,12,1.0,6,3,0,8,0,1,1,0,0,0,0,8.0,0,0,0,0,0,0,28,0,28
+['2023-09-19'],Gulf Cricket T20I Championship,1392811,Bahrain,11,0,0,0,0,0.0,12,1.0,6,0,0,10,1,0,0,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+['2023-09-18'],Gulf Cricket T20I Championship,1392809,Bahrain,10,0,0,0,0,0.0,"11,13,15",3.0,18,5,0,20,2,0,1,1,0,0,0,6.67,0,0,0,0,0,0,40,0,40
+['2023-09-16'],Gulf Cricket T20I Championship,1392805,Bahrain,11,1,1,0,0,100.0,"8,10",2.0,12,4,0,21,1,1,0,0,0,1,0,10.5,0,0,0,0,0,1,2,0,3
+['2023-09-15'],Gulf Cricket T20I Championship,1392803,Bahrain,8,4,7,0,0,57.14,"10,12,15",3.0,18,6,0,20,0,1,1,0,0,0,0,6.67,0,0,0,0,0,4,33,0,37

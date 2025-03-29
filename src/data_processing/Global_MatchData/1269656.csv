@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Hobart Hurricanes,BR McDermott,c41043e6,1,67,43,4,4,155.81,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,119,0,8,127
+Hobart Hurricanes,MS Wade,afa7e784,2,39,27,2,2,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,2,65,0,12,77
+Hobart Hurricanes,DJM Short,1a156c88,3,26,22,2,1,118.18,"[11, 13]",2.0,12,1,0,14,1,0,1,0,0,0,0,7.0,1,0,0,0,0,44,28,8,80
+Hobart Hurricanes,PSP Handscomb,ada15e88,4,12,12,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+Hobart Hurricanes,TH David,f1f99156,5,22,11,1,1,200.0,[3],1.0,6,4,0,8,0,1,0,0,0,0,0,8.0,1,0,0,0,6,38,4,8,50
+Hobart Hurricanes,HC Brook,4ae1755b,6,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,-2,0,16,14
+Hobart Hurricanes,JA Thompson,1d2f290a,7,3,3,0,0,100.0,[9],1.0,6,3,0,8,0,0,0,0,0,1,0,8.0,0,0,0,0,0,3,3,0,6
+Hobart Hurricanes,NT Ellis,9eb1455b,8,0,0,0,0,0.0,"[4, 14, 16, 18]",4.0,24,9,0,27,2,0,2,0,1,0,2,6.75,1,0,0,0,0,0,69,8,77
+Hobart Hurricanes,TS Rogers,1b04e02b,11,0,0,0,0,0.0,"[2, 6, 17, 20]",4.0,24,10,0,29,2,1,3,0,0,0,0,7.25,1,0,0,0,0,0,89,8,97
+Hobart Hurricanes,RP Meredith,64775749,12,0,0,0,0,0.0,"[1, 8, 12, 19]",4.0,24,9,0,32,3,1,3,0,0,0,1,8.0,0,0,0,0,0,0,88,0,88
+Hobart Hurricanes,S Lamichhane,b410bd3d,13,0,0,0,0,0.0,"[5, 7, 10, 15]",4.0,24,6,0,32,1,2,0,0,0,0,0,8.0,0,0,0,0,0,0,6,0,6
+Melbourne Stars,MP Stoinis,d9273ee7,1,18,16,1,1,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
+Melbourne Stars,JM Clarke,2eca67f5,2,52,39,2,3,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,88,0,0,88
+Melbourne Stars,GJ Maxwell,b681e71e,3,12,9,0,0,133.33,"[1, 4]",2.0,12,2,0,20,1,1,0,0,0,0,1,10.0,0,0,0,0,0,12,0,0,12
+Melbourne Stars,JA Burns,7a5f232a,4,22,17,2,0,129.41,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,30,0,8,38
+Melbourne Stars,AD Russell,bbd41817,5,12,13,2,0,92.31,"[9, 14, 17, 19]",4.0,24,6,0,48,4,3,3,0,1,0,1,12.0,0,0,0,0,0,20,89,0,109
+Melbourne Stars,HWR Cartwright,ab965cad,6,26,18,2,1,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,46,0,16,62
+Melbourne Stars,BJ Webster,56b93d46,7,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+Melbourne Stars,NM Coulter-Nile,56ab442f,8,0,1,0,0,0.0,"[3, 10, 13, 18]",4.0,24,10,0,22,0,1,2,0,0,1,0,5.5,0,0,0,0,0,-2,64,0,62
+Melbourne Stars,CD Hinchliffe,8891669e,9,1,2,0,0,50.0,"[6, 8]",2.0,12,2,0,21,2,1,0,0,0,0,0,10.5,1,0,0,0,0,1,0,8,9
+Melbourne Stars,Qais Ahmad,8d5d991e,10,2,2,0,0,100.0,"[5, 7, 11, 15]",4.0,24,3,0,35,1,1,0,0,0,0,3,8.75,0,0,0,0,0,2,3,0,5
+Melbourne Stars,BL Couch,be69e09d,11,0,1,0,0,0.0,"[2, 12, 16, 20]",4.0,24,9,0,33,1,1,1,0,0,2,2,8.25,0,0,0,0,0,0,34,0,34

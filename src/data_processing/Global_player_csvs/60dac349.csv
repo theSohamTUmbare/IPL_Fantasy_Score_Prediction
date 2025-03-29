@@ -1,0 +1,9 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2012-01-28'],Big Bash League,524945,Sydney Sixers,11,0,0,0,0,0.0,"9,11,13,15",4.0,24,8,0,20,1,0,1,0,0,0,0,5.0,0,0,0,0,0,0,37,0,37
+['2012-01-22'],Big Bash League,524944,Sydney Sixers,11,0,0,0,0,0.0,"9,11,13,15",4.0,24,6,0,36,4,1,1,0,0,0,0,9.0,0,0,0,0,0,0,31,0,31
+['2012-01-10'],Big Bash League,524936,Sydney Sixers,11,0,0,0,0,0.0,"9,11,13,15",4.0,24,15,0,12,0,0,2,1,0,0,1,3.0,1,0,0,0,0,0,79,8,87
+['2012-01-08'],Big Bash League,524933,Sydney Sixers,11,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2012-01-02'],Big Bash League,524928,Sydney Sixers,11,0,0,0,0,0.0,"7,9,11",3.0,18,5,0,24,0,2,0,0,0,0,0,8.0,0,0,0,0,0,0,5,0,5
+['2011-12-27'],Big Bash League,524923,Sydney Sixers,11,0,0,0,0,0.0,"8,10,12,14",4.0,24,9,0,36,5,1,1,0,0,0,0,9.0,0,0,0,0,0,0,34,0,34
+['2011-12-21'],Big Bash League,524920,Sydney Sixers,11,6,5,1,0,120.0,"10,12",2.0,12,4,0,17,0,1,0,0,0,0,0,8.5,0,0,0,0,0,10,4,0,14
+['2011-12-16'],Big Bash League,524915,Sydney Sixers,11,0,0,0,0,0.0,"8,10,12,16",4.0,24,14,0,21,0,1,2,0,1,0,3,5.25,0,0,0,0,0,0,76,0,76

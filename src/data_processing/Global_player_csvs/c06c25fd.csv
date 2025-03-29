@@ -1,0 +1,24 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-09-26'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1450765,Tanzania,7,1,4,0,0,25.0,"9,13",2.0,12,8,0,5,0,0,1,0,1,0,1,2.5,0,0,0,0,0,1,47,0,48
+['2024-09-25'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1450760,Tanzania,4,20,21,2,0,95.24,"10,12,16",3.0,18,10,0,11,0,0,2,1,1,0,1,3.67,0,0,0,0,0,28,82,0,110
+['2024-09-24'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1450758,Tanzania,5,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2024-09-21'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1450753,Tanzania,3,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2023-11-29'],ICC Men's T20 World Cup Africa Region Qualifier,1407105,Tanzania,6,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2023-11-28'],ICC Men's T20 World Cup Africa Region Qualifier,1407103,Tanzania,5,4,7,0,0,57.14,"9,11,13",3.0,18,5,0,22,1,1,2,0,0,0,0,7.33,1,0,0,0,0,4,55,8,67
+['2023-11-26'],ICC Men's T20 World Cup Africa Region Qualifier,1407098,Tanzania,6,13,11,0,1,118.18,"10,12",2.0,12,6,0,17,1,0,1,0,0,0,7,8.5,1,0,0,0,0,19,31,8,58
+['2023-11-25'],ICC Men's T20 World Cup Africa Region Qualifier,1407096,Tanzania,3,17,18,0,1,94.44,"8,12,14,16",4.0,24,6,0,31,2,1,0,0,0,0,0,7.75,0,0,0,0,0,23,6,0,29
+['2023-11-23'],ICC Men's T20 World Cup Africa Region Qualifier,1407093,Tanzania,7,5,9,0,0,55.56,"6,8,11",2.667,16,5,0,28,3,1,0,0,0,0,1,10.5,0,0,0,0,0,5,3,0,8
+['2023-11-22'],ICC Men's T20 World Cup Africa Region Qualifier,1407090,Tanzania,7,16,13,1,1,123.08,"8,10",2.0,12,4,0,10,0,0,1,0,0,0,1,5.0,0,0,0,0,0,26,33,0,59
+['2022-12-16'],Tri-Nation T20 Cup (Rwanda),1349131,Tanzania,4,3,6,0,0,50.0,"7,9",2.0,12,4,0,13,0,1,1,0,0,0,0,6.5,1,0,0,0,0,3,31,8,42
+['2022-12-15'],Tri-Nation T20 Cup (Rwanda),1349129,Tanzania,7,2,4,0,0,50.0,"7,9,15,17",4.0,24,10,0,31,3,1,3,0,1,0,1,7.75,0,0,0,0,0,2,97,0,99
+['2022-12-14'],Tri-Nation T20 Cup (Rwanda),1349127,Tanzania,7,6,16,0,0,37.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,0,0,0,0
+['2022-12-13'],Tri-Nation T20 Cup (Rwanda),1349124,Tanzania,5,1,2,0,0,50.0,"2,4",2.0,12,6,0,15,0,1,1,0,0,0,2,7.5,0,0,0,0,0,1,31,0,32
+['2022-12-09'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343795,Tanzania,7,9,4,2,0,225.0,"1,3,10,12",4.0,24,12,0,21,1,1,0,0,0,0,2,5.25,0,0,0,0,0,17,16,0,33
+['2022-12-08'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343790,Tanzania,10,0,0,0,0,0.0,"6,8",2.0,12,6,0,6,0,0,1,0,1,0,0,3.0,0,0,0,0,0,0,45,0,45
+['2022-12-06'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343784,Tanzania,7,8,7,0,1,114.29,"9,11,13,15",4.0,24,14,0,17,2,0,3,1,1,0,1,4.25,0,0,0,0,0,14,115,0,129
+['2022-12-05'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343780,Tanzania,6,12,4,1,1,300.0,"6,9,11",3.0,18,9,0,20,1,1,0,0,0,0,1,6.67,0,0,0,0,0,22,11,0,33
+['2022-12-04'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343778,Tanzania,7,0,1,0,0,0.0,"2,4",2.0,12,8,0,15,3,0,1,0,1,0,2,7.5,0,0,0,0,0,0,41,0,41
+['2022-09-22'],Africa Cricket Association Cup,1332510,Tanzania,4,26,19,4,0,136.84,"7,9,20",2.667,16,5,0,28,0,3,0,0,0,0,0,10.5,1,0,0,0,2,48,3,8,59
+['2022-09-21'],Africa Cricket Association Cup,1332509,Tanzania,6,21,12,2,1,175.0,"5,7,16,18",4.0,24,7,0,39,4,1,1,0,0,0,2,9.75,0,0,0,0,6,41,32,0,73
+['2022-09-20'],Africa Cricket Association Cup,1332505,Tanzania,6,6,6,1,0,100.0,"7,9,14,16",4.0,24,9,0,22,1,0,1,0,0,0,2,5.5,0,0,0,0,0,10,38,0,48
+['2022-09-17'],Africa Cricket Association Cup,1332497,Tanzania,7,52,27,4,4,192.59,"6,8,18",3.0,18,10,0,15,2,0,0,0,0,0,0,5.0,0,0,0,0,6,106,14,0,120

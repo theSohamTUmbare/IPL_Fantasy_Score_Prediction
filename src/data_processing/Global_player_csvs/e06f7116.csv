@@ -1,0 +1,11 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2021-01-19'],Syed Mushtaq Ali Trophy,1244396,Mumbai,11,0,0,0,0,0.0,"8,10,12,14",4.0,24,13,0,12,0,0,1,0,0,0,0,3.0,0,0,0,0,0,0,44,0,44
+['2021-01-17'],Syed Mushtaq Ali Trophy,1244375,Mumbai,7,0,6,0,0,0.0,19,1.0,6,4,0,3,0,0,0,0,0,0,0,3.0,0,0,0,0,0,-2,4,0,2
+['2019-11-27'],Syed Mushtaq Ali Trophy,1205859,Mumbai,8,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2019-11-25'],Syed Mushtaq Ali Trophy,1205854,Mumbai,11,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2019-11-24'],Syed Mushtaq Ali Trophy,1205851,Mumbai,7,17,12,3,0,141.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,31,0,0,31
+['2019-11-17'],Syed Mushtaq Ali Trophy,1205828,Mumbai,7,10,4,2,0,250.0,"10,12,17",3.0,18,4,0,25,0,2,0,0,0,0,0,8.33,0,0,0,0,0,18,4,0,22
+['2019-11-15'],Syed Mushtaq Ali Trophy,1205818,Mumbai,7,11,6,0,1,183.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
+['2019-11-11'],Syed Mushtaq Ali Trophy,1205764,Mumbai,7,0,0,0,0,0.0,"7,9,11",3.0,18,4,0,26,2,1,1,0,0,0,0,8.67,0,0,0,0,0,0,29,0,29
+['2019-11-09'],Syed Mushtaq Ali Trophy,1205747,Mumbai,10,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
+['2019-11-08'],Syed Mushtaq Ali Trophy,1205721,Mumbai,8,0,0,0,0,0.0,"8,10",2.0,12,8,0,4,0,0,0,0,0,0,0,2.0,2,0,0,0,0,0,14,16,30

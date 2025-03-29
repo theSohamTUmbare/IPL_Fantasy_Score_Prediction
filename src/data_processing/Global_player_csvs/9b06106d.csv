@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-02-10'],Bangladesh Premier League,1412300,Rangpur Riders,9,0,0,0,0,0.0,"1,14",2.0,12,6,0,22,0,3,0,0,0,0,0,11.0,0,0,0,0,0,0,4,0,4
+['2023-01-31'],Bangladesh Premier League,1351083,Comilla Victorians,11,0,0,0,0,0.0,"5,7,9",3.0,18,8,0,29,3,1,0,0,0,4,0,9.67,0,0,0,0,0,0,8,0,8
+['2023-01-06'],Bangladesh Premier League,1351053,Comilla Victorians,10,0,2,0,0,0.0,"6,10,12,15",4.0,24,4,0,47,5,2,0,0,0,0,0,11.75,1,0,0,1,0,-2,0,14,12

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Rajshahi Kings,J Charles,09a9d073,1,39,26,7,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,71,0,16,87
+Rajshahi Kings,Zakir Hasan,e3e09091,2,7,7,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
+Rajshahi Kings,Shahriar Nafees,b9c225c2,3,9,13,1,0,69.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,11,0,0,11
+Rajshahi Kings,LJ Evans,1c513d54,4,76,36,10,2,211.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,146,0,0,146
+Rajshahi Kings,RN ten Doeschate,4ec07775,5,42,18,3,3,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,82,0,8,90
+Rajshahi Kings,C Jonker,a81d6706,6,8,6,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+Rajshahi Kings,Soumya Sarkar,4d9f9686,7,2,2,0,0,100.0,"[7, 9, 13, 20]",4.0,24,6,0,47,5,2,0,0,0,0,3,11.75,0,0,0,0,0,2,2,0,4
+Rajshahi Kings,Kamrul Islam Rabbi,f7e9a562,7,0,0,0,0,0.0,"[4, 6, 16, 18]",4.0,24,9,0,30,2,1,2,0,0,0,1,7.5,0,0,0,0,0,0,59,0,59
+Rajshahi Kings,Mustafizur Rahman,0a8fce53,8,0,0,0,0,0.0,"[5, 10, 17, 19]",4.0,24,8,0,31,3,1,1,0,0,0,1,7.75,1,0,0,0,0,0,33,8,41
+Rajshahi Kings,Arafat Sunny,1f7adc8a,9,0,0,0,0,0.0,"[1, 3, 12, 14]",4.0,24,11,0,48,3,5,1,1,0,0,0,12.0,0,0,0,0,0,0,40,0,40
+Rajshahi Kings,Mehedi Hasan Miraz,c58b0108,10,0,0,0,0,0.0,"[2, 8, 11, 15]",4.0,24,13,0,32,2,3,1,0,0,0,0,8.0,0,0,0,0,0,0,38,0,38
+Sylhet Sixers,Liton Das,0404d43c,1,10,6,1,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
+Sylhet Sixers,Afif Hossain,37138918,2,29,25,2,2,116.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,53,0,16,69
+Sylhet Sixers,JJ Roy,d1c36f5c,3,13,8,1,1,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
+Sylhet Sixers,Sabbir Rahman,7147f314,4,45,39,4,2,115.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,77,0,8,85
+Sylhet Sixers,N Pooran,3241e3fd,5,76,31,6,6,245.16,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,154,0,8,162
+Sylhet Sixers,Mohammad Nawaz,3086f7a4,6,0,1,0,0,0.0,"[4, 8, 12, 16]",4.0,24,6,0,43,6,1,0,0,0,0,0,10.75,0,0,0,0,0,-2,4,0,2
+Sylhet Sixers,Taskin Ahmed,ef18b66e,7,0,0,0,0,0.0,"[2, 13, 18]",3.0,18,4,0,34,3,1,1,0,0,0,1,11.33,0,0,0,0,0,0,25,0,25
+Sylhet Sixers,Alok Kapali,54279e23,7,10,10,1,0,100.0,"[7, 9, 11, 15]",4.0,24,4,0,41,2,2,2,0,0,0,2,10.25,0,0,0,0,0,14,52,0,66
+Sylhet Sixers,Sohail Tanvir,64d43928,8,0,0,0,0,0.0,"[1, 6, 17, 19]",3.0,18,8,0,27,4,0,2,0,0,0,4,9.0,0,0,0,0,0,0,58,0,58
+Sylhet Sixers,Ebadat Hossain,cb5100f1,9,0,0,0,0,0.0,"[3, 5, 14]",3.0,18,8,0,31,7,0,0,0,0,0,0,10.33,1,0,0,0,0,0,6,8,14
+Sylhet Sixers,Nabil Samad,b8d18afc,10,0,0,0,0,0.0,[10],1.0,6,0,0,14,1,1,0,0,0,0,0,14.0,0,0,0,0,0,0,0,0,0

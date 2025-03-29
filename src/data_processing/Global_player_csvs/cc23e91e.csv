@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2015-07-18'],Caribbean Premier League,857755,St Kitts and Nevis Patriots,10,0,0,0,0,0.0,"8,10",2.0,12,3,0,17,1,1,1,0,0,0,0,8.5,1,0,0,0,0,0,28,8,36
+['2015-07-11'],Caribbean Premier League,857741,St Kitts and Nevis Patriots,11,0,0,0,0,0.0,"7,9,17",3.0,18,4,0,33,1,3,0,0,0,0,1,11.0,0,0,0,0,0,0,2,0,2
+['2015-07-10'],Caribbean Premier League,857739,St Kitts and Nevis Patriots,11,0,0,0,0,0.0,"6,13,15,17",4.0,24,9,0,32,3,1,1,0,0,0,1,8.0,0,0,0,0,0,0,34,0,34

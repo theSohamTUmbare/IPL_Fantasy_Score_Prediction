@@ -1,0 +1,7 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2013-02-18'],Bangladesh Premier League,605286,Sylhet Royals,10,0,0,0,0,0.0,"10,19",2.0,12,5,0,9,0,0,2,1,1,0,0,4.5,0,0,0,0,0,0,77,0,77
+['2013-02-07'],Bangladesh Premier League,599894,Sylhet Royals,10,0,0,0,0,0.0,"1,10,12,20",4.0,24,7,0,42,4,2,2,0,1,0,1,10.5,0,0,0,0,0,0,63,0,63
+['2013-01-18'],Bangladesh Premier League,599866,Sylhet Royals,10,0,0,0,0,0.0,"1,3,18",3.0,18,7,0,32,3,2,0,0,0,0,1,10.67,0,0,0,0,0,0,5,0,5
+['2012-07-25'],Bangladesh in Netherlands T20I Series,567205,Bangladesh,9,0,0,0,0,0.0,"2,7",2.0,12,1,0,23,3,0,0,0,0,0,0,11.5,0,0,0,0,0,0,-3,0,-3
+['2010-02-03'],NA,423782,Bangladesh,11,0,3,0,0,0.0,"2,4",2.0,12,4,0,18,2,0,0,0,0,0,0,9.0,0,0,0,0,0,0,4,0,4
+['2009-08-02'],NA,401076,Bangladesh,10,3,11,0,0,27.27,"6,8",2.0,12,4,0,15,2,0,1,1,0,0,0,7.5,0,0,0,0,-6,-3,37,0,34

@@ -1,0 +1,7 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2012-12-27'],Big Bash League,571249,Adelaide Strikers,6,8,8,0,0,100.0,"4,15",2.0,12,5,0,29,2,3,1,0,0,0,0,14.5,0,0,0,0,0,8,24,0,32
+['2012-12-23'],Big Bash League,571247,Adelaide Strikers,3,3,1,0,0,300.0,"12,16,18",3.0,18,6,0,22,1,1,1,0,0,0,0,7.33,0,0,0,0,0,3,31,0,34
+['2012-01-22'],Big Bash League,524944,Hobart Hurricanes,6,6,7,0,0,85.71,5,1.0,6,4,0,8,2,0,0,0,0,0,0,8.0,1,0,0,0,0,6,4,8,18
+['2012-01-09'],Big Bash League,524935,Hobart Hurricanes,6,3,6,0,0,50.0,"1,3,5",3.0,18,5,0,27,3,1,0,0,0,0,0,9.0,0,0,0,0,0,3,5,0,8
+['2012-01-01'],Big Bash League,524927,Hobart Hurricanes,7,6,3,0,1,200.0,"1,3,6,8",4.0,24,15,0,20,0,2,1,0,0,0,1,5.0,0,0,0,0,0,12,44,0,56
+['2011-12-28'],Big Bash League,524924,Hobart Hurricanes,6,13,5,0,1,260.0,"5,7",2.0,12,5,0,9,0,0,0,0,0,0,0,4.5,0,0,0,0,0,19,11,0,30

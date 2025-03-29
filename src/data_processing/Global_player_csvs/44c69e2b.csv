@@ -1,0 +1,13 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-10-22'],ICC Men's T20 World Cup Qualifier,1199518,Singapore,9,1,4,0,0,25.0,"3,6,15",3.0,18,7,0,20,3,0,1,0,0,0,0,6.67,0,0,0,0,0,1,34,0,35
+['2019-10-20'],ICC Men's T20 World Cup Qualifier,1199510,Singapore,10,0,0,0,0,0.0,"5,7,13,15",4.0,24,9,0,25,2,1,0,0,0,0,0,6.25,0,0,0,0,0,0,11,0,11
+['2019-10-18'],ICC Men's T20 World Cup Qualifier,1199499,Singapore,9,0,0,0,0,0.0,"7,9,14,16",4.0,24,15,0,16,2,0,3,0,1,0,0,4.0,0,0,0,0,0,0,108,0,108
+['2019-10-03'],Singapore Twenty20 Tri-Series,1201685,Singapore,9,0,0,0,0,0.0,"9,18",2.0,12,3,0,36,4,3,0,0,0,0,0,18.0,0,0,0,0,0,0,-3,0,-3
+['2019-09-29'],Singapore Twenty20 Tri-Series,1201682,Singapore,8,1,1,0,0,100.0,"6,8",2.0,12,2,0,29,1,3,1,0,0,0,0,14.5,0,0,0,0,0,1,21,0,22
+['2019-09-28'],Singapore Twenty20 Tri-Series,1201681,Singapore,9,0,0,0,0,0.0,"7,9",2.0,12,1,0,22,2,1,0,0,0,0,0,11.0,0,0,0,0,0,0,-1,0,-1
+['2019-07-28'],ICC Men's T20 World Cup Asia Region Final,1190776,Singapore,11,0,0,0,0,0.0,"7,9,11,13",4.0,24,11,0,25,3,0,4,0,1,0,0,6.25,1,0,0,0,0,0,129,8,137
+['2019-07-26'],ICC Men's T20 World Cup Asia Region Final,1190773,Singapore,11,0,0,0,0,0.0,"3,7,9,13",4.0,24,14,1,11,0,0,2,0,0,0,0,2.75,0,0,0,0,0,0,82,0,82
+['2019-07-22'],ICC Men's T20 World Cup Asia Region Final,1190767,Singapore,11,0,0,0,0,0.0,"5,7,9",3.0,18,9,0,20,2,1,1,0,0,0,0,6.67,0,0,0,0,0,0,36,0,36
+['2015-01-30'],ACC Twenty20 Cup,811137,Singapore,8,2,3,0,0,66.67,"9,11,18",3.0,18,2,0,41,3,3,0,0,0,0,0,13.67,0,0,0,0,0,2,-4,0,-2
+['2015-01-29'],ACC Twenty20 Cup,811129,Singapore,8,0,1,0,0,0.0,"2,11,13,17",4.0,24,11,0,33,3,2,2,1,0,0,0,8.25,1,0,0,0,0,-2,69,8,75
+['2015-01-27'],ACC Twenty20 Cup,811123,Singapore,8,3,5,0,0,60.0,"2,7,15,18",4.0,24,12,0,20,1,1,4,1,0,0,0,5.0,0,0,0,0,0,3,132,0,135

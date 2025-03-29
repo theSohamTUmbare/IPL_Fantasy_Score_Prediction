@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2014-09-30'],Asian Games Men's Cricket Competition,778031,South Korea,9,12,10,0,0,120.0,"5,9,15,18",4.0,24,7,0,38,5,0,2,0,0,0,1,9.5,0,0,0,0,0,12,57,0,69
+['2014-09-29'],Asian Games Men's Cricket Competition,778027,South Korea,9,0,0,0,0,0.0,"3,5",2.0,12,4,0,12,0,0,1,0,0,0,1,6.0,0,0,0,0,0,0,31,0,31
+['2014-09-27'],Asian Games Men's Cricket Competition,778017,South Korea,9,0,2,0,0,0.0,"1,3",2.0,12,7,0,17,0,1,0,0,0,0,6,8.5,0,0,0,0,0,0,7,0,7

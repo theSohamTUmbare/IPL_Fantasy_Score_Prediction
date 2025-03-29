@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2015-01-29'],ACC Twenty20 Cup,811127,Maldives,4,15,22,2,0,68.18,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,21,0,0,21
+['2015-01-27'],ACC Twenty20 Cup,811121,Maldives,4,34,35,4,0,97.14,9,0.833,5,0,0,25,0,3,0,0,0,0,5,30.01,0,0,0,0,0,54,0,0,54
+['2015-01-25'],ACC Twenty20 Cup,811111,Maldives,7,10,10,1,0,100.0,"14,18",2.0,12,3,0,27,2,2,0,0,0,0,0,13.5,1,0,0,1,0,14,-3,14,25

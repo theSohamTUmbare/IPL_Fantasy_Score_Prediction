@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2021-11-09'],Syed Mushtaq Ali Trophy,1280278,Services,7,8,8,1,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+['2021-11-08'],Syed Mushtaq Ali Trophy,1280258,Services,6,34,51,2,1,66.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,50,0,0,50
+['2016-01-03'],Syed Mushtaq Ali Trophy,902133,Services,2,0,2,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2016-01-02'],Syed Mushtaq Ali Trophy,902107,Services,2,10,20,1,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,10,0,0,10

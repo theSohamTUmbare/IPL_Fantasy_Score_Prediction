@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-10-24'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1453924,Seychelles,8,3,12,0,0,25.0,"2,4,6,20",4.0,24,14,0,25,3,0,5,0,1,0,4,6.25,0,0,0,0,-6,-3,161,0,158
+['2024-10-23'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1453930,Seychelles,8,10,8,2,0,125.0,"2,4",2.0,12,3,0,14,1,0,0,0,0,0,0,7.0,0,0,0,0,0,18,5,0,23
+['2024-10-22'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1453933,Seychelles,10,4,3,0,0,133.33,"2,4,18,20",4.0,24,10,0,29,3,0,2,1,1,0,1,7.25,0,0,0,0,0,4,76,0,80
+['2024-10-19'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1453922,Seychelles,10,0,0,0,0,0.0,"2,4,18,20",4.0,24,8,0,36,6,0,2,0,0,0,1,9.0,0,0,0,0,0,0,58,0,58

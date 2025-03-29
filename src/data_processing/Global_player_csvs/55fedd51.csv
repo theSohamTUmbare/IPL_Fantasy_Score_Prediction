@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2021-11-13'],ICC Men's T20 World Cup Americas Region Qualifier,1286683,Belize,4,9,15,1,0,60.0,"2,4",2.0,12,3,0,33,3,3,1,0,0,0,0,16.5,0,0,0,0,-2,11,22,0,33
+['2021-11-08'],ICC Men's T20 World Cup Americas Region Qualifier,1286670,Belize,8,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2021-11-08'],ICC Men's T20 World Cup Americas Region Qualifier,1286672,Belize,10,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2021-11-07'],ICC Men's T20 World Cup Americas Region Qualifier,1286667,Belize,8,0,4,0,0,0.0,5,0.333,2,0,0,17,0,2,0,0,0,0,5,51.05,0,0,0,0,0,-2,0,0,-2

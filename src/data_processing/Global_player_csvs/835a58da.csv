@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-12-23'],Quadrangular Twenty20 Series (Malaysia),1349390,Singapore,8,0,0,0,0,0.0,"2,10,12,14",4.0,24,5,0,65,7,5,0,0,0,0,0,16.25,0,0,0,0,0,0,-1,0,-1
+['2022-12-22'],Quadrangular Twenty20 Series (Malaysia),1349388,Singapore,10,2,14,0,0,14.29,"2,4,6,15",4.0,24,9,0,19,1,0,1,0,0,0,1,4.75,0,0,0,0,-6,-4,40,0,36
+['2022-07-17'],ICC Men's T20 World Cup Qualifier,1321482,Singapore,11,0,0,0,0,0.0,2,1.0,6,4,0,10,1,1,0,0,0,0,0,10.0,0,0,0,0,0,0,4,0,4
+['2022-07-03'],Papua New Guinea tour of Singapore,1322012,Singapore,10,0,0,0,0,0.0,"7,18,20",2.667,16,1,0,46,2,4,0,0,0,0,2,17.25,0,0,0,0,0,0,-5,0,-5

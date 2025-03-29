@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Hobart Hurricanes,MS Wade,afa7e784,1,71,45,10,1,157.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,129,0,0,129
+Hobart Hurricanes,TD Paine,5748e866,2,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,4,0,16,20
+Hobart Hurricanes,GJ Bailey,5056011d,3,17,15,1,1,113.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27
+Hobart Hurricanes,BR McDermott,c41043e6,4,67,30,4,6,223.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,133,0,0,133
+Hobart Hurricanes,DT Christian,2a2e6343,5,37,22,4,2,168.18,"[8, 14, 16, 18]",3.833,23,14,0,17,1,0,4,1,0,0,2,4.44,0,0,0,0,4,73,136,0,209
+Hobart Hurricanes,S Milenko,479f9b04,6,2,1,0,0,200.0,[15],1.0,6,0,0,10,1,0,0,0,0,0,0,10.0,2,0,0,0,0,2,0,16,18
+Hobart Hurricanes,NJ Reardon,c7bdb5b5,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Hobart Hurricanes,JC Archer,5574750c,12,0,0,0,0,0.0,"[5, 11, 13]",3.0,18,8,0,28,5,0,0,0,0,0,3,9.33,1,0,0,0,0,0,8,8,16
+Hobart Hurricanes,CA Rose,7517d134,13,0,0,0,0,0.0,"[7, 10, 12]",3.0,18,7,0,22,0,2,1,0,1,0,0,7.33,0,0,0,0,0,0,40,0,40
+Hobart Hurricanes,TS Rogers,1b04e02b,14,0,0,0,0,0.0,"[1, 3, 6, 17]",4.0,24,8,0,31,2,1,3,0,0,1,1,7.75,0,0,0,0,0,0,87,0,87
+Hobart Hurricanes,RP Meredith,64775749,15,0,0,0,0,0.0,"[2, 4, 9]",3.0,18,6,0,29,3,1,1,0,0,0,2,9.67,1,0,0,0,0,0,31,8,39
+Perth Scorchers,M Klinger,b970a03f,1,15,11,1,1,136.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,27,0,0,27
+Perth Scorchers,SE Marsh,508a1ea7,2,30,18,6,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,62,0,0,62
+Perth Scorchers,CT Bancroft,399b0b94,3,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Perth Scorchers,MR Marsh,3d8feaf8,4,3,5,0,0,60.0,"[1, 9, 12, 16]",4.0,24,5,0,53,4,3,0,0,0,0,2,13.25,1,0,0,0,0,3,-1,8,10
+Perth Scorchers,AJ Turner,ff1e12a0,5,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+Perth Scorchers,HWR Cartwright,ab965cad,6,4,8,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+Perth Scorchers,AC Voges,864c199e,7,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+Perth Scorchers,TT Bresnan,58043739,8,43,26,4,1,165.38,"[8, 10, 14, 17]",4.0,24,6,0,40,4,1,2,0,0,0,2,10.0,0,0,0,0,4,73,54,0,127
+Perth Scorchers,JA Richardson,1ee08e9a,9,16,12,0,2,133.33,"[3, 6, 11, 19]",4.0,24,13,0,37,2,3,0,0,0,0,5,9.25,0,0,0,0,2,30,13,0,43
+Perth Scorchers,M Kelly,68e26ec9,10,7,7,1,0,100.0,"[5, 7, 15, 20]",4.0,24,6,0,34,3,1,1,0,0,0,0,8.5,1,0,0,0,0,11,31,8,50
+Perth Scorchers,MG Johnson,f5180fe6,11,4,5,0,0,80.0,"[2, 4, 13, 18]",4.0,24,7,0,43,6,2,0,0,0,0,0,10.75,1,0,0,0,0,4,5,8,17

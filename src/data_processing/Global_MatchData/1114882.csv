@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Adelaide Strikers,AT Carey,69d03465,1,44,32,2,2,137.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,70,0,0,70
+Adelaide Strikers,J Weatherald,edc7ddb6,2,19,21,2,0,90.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,27,0,8,35
+Adelaide Strikers,CA Ingram,c995d726,3,3,5,0,0,60.0,[7],1.0,6,1,0,11,0,1,0,0,0,0,0,11.0,0,0,0,0,0,3,1,0,4
+Adelaide Strikers,JW Wells,8bdac857,4,10,10,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+Adelaide Strikers,JS Lehmann,c96a215f,5,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Adelaide Strikers,JR Dean,97188292,6,13,17,0,1,76.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
+Adelaide Strikers,MG Neser,0164b064,7,5,7,0,0,71.43,"[1, 3, 5, 19]",3.333,20,13,0,18,3,0,2,0,0,0,2,5.4,0,0,0,0,0,5,67,0,72
+Adelaide Strikers,Rashid Khan,5f547c8b,8,5,6,0,0,83.33,"[6, 9, 13, 17]",4.0,24,11,0,15,0,0,1,0,1,0,0,3.75,0,0,0,0,0,5,50,0,55
+Adelaide Strikers,PM Siddle,bd93fea4,9,2,5,0,0,40.0,"[8, 10, 14, 16]",4.0,24,10,0,25,0,2,1,0,0,1,0,6.25,1,0,0,0,0,2,37,8,47
+Adelaide Strikers,B Laughlin,b2a79f17,10,1,3,0,0,33.33,"[11, 15, 18]",3.0,18,5,0,21,0,0,0,0,0,1,0,7.0,1,0,0,0,0,1,7,8,16
+Adelaide Strikers,B Stanlake,6834d1f2,11,4,5,0,0,80.0,"[2, 4, 12]",3.0,18,6,0,23,3,0,0,0,0,0,0,7.67,0,0,0,0,0,4,6,0,10
+Perth Scorchers,WG Bosisto,04ef663a,1,3,9,0,0,33.33,"[7, 9]",2.0,12,4,0,9,0,0,1,1,0,0,0,4.5,1,0,0,0,0,3,43,8,54
+Perth Scorchers,M Klinger,b970a03f,2,17,14,3,0,121.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29
+Perth Scorchers,CT Bancroft,399b0b94,3,15,14,0,1,107.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
+Perth Scorchers,HWR Cartwright,ab965cad,4,47,42,2,2,111.9,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,71,0,16,87
+Perth Scorchers,AJ Turner,ff1e12a0,5,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Perth Scorchers,AC Agar,a2421394,6,26,29,1,0,89.66,"[8, 10, 13, 17]",4.0,24,7,0,19,0,0,3,0,0,0,0,4.75,0,0,0,0,0,34,92,0,126
+Perth Scorchers,TH David,f1f99156,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Perth Scorchers,TT Bresnan,58043739,7,0,0,0,0,0.0,"[11, 18, 20]",2.333,14,5,0,14,1,0,2,0,1,0,0,6.0,0,0,0,0,0,0,65,0,65
+Perth Scorchers,M Kelly,68e26ec9,8,0,0,0,0,0.0,"[12, 14, 16]",3.0,18,11,0,13,0,1,2,0,0,0,1,4.33,0,0,0,0,0,0,67,0,67
+Perth Scorchers,JS Paris,7c8f533d,9,0,0,0,0,0.0,"[2, 4, 6, 19]",4.0,24,10,0,33,2,2,1,0,1,0,1,8.25,1,0,0,0,0,0,43,8,51
+Perth Scorchers,MG Johnson,f5180fe6,10,0,0,0,0,0.0,"[1, 3, 5, 15]",4.0,24,9,0,22,1,0,0,0,0,0,1,5.5,1,0,0,0,0,0,13,8,21

@@ -1,0 +1,9 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-07-02'],Vitality Blast,1347692,Gloucestershire,4,9,18,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,5,0,0,5
+['2023-07-01'],Vitality Blast,1347685,Gloucestershire,4,0,2,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2023-06-23'],Vitality Blast,1347674,Gloucestershire,4,0,2,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2023-06-22'],Vitality Blast,1347668,Gloucestershire,4,1,6,0,0,16.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2023-06-20'],Vitality Blast,1347660,Gloucestershire,3,43,21,3,3,204.76,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,6,83,0,12,95
+['2023-06-18'],Vitality Blast,1347651,Gloucestershire,4,15,14,1,0,107.14,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,19,0,8,27
+['2023-06-17'],Vitality Blast,1347646,Gloucestershire,3,15,15,1,1,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,25,0,12,37
+['2023-06-09'],Vitality Blast,1347635,Gloucestershire,1,10,8,2,0,125.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18

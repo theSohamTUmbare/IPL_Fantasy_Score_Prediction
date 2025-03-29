@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2025-01-03'],Big Bash League,1443078,Sydney Thunder,1,1,2,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2023-01-21'],Big Bash League,1324673,Sydney Thunder,3,8,12,1,0,66.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,10,0,0,10
+['2023-01-19'],Big Bash League,1324670,Sydney Thunder,5,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8

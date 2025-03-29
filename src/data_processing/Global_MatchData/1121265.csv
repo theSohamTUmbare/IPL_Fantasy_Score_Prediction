@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Comilla Victorians,Tamim Iqbal,3b041a12,1,18,9,2,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,32,0,8,40
+Comilla Victorians,Liton Das,0404d43c,2,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,0,-2,0,12,10
+Comilla Victorians,Imrul Kayes,5fbe14fc,3,20,24,2,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
+Comilla Victorians,Shoaib Malik,64c34cd0,4,54,53,4,1,101.89,"[7, 9, 13]",3.0,18,8,0,16,2,0,0,0,0,0,0,5.33,0,0,0,0,0,84,12,0,96
+Comilla Victorians,DM Bravo,14b14cd8,5,12,11,2,0,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
+Comilla Victorians,JC Buttler,99b75528,6,11,11,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
+Comilla Victorians,Mohammad Saifuddin,b3a28446,7,4,2,1,0,200.0,"[10, 14, 18]",3.0,18,6,0,29,3,1,2,0,1,1,1,9.67,0,0,0,0,0,8,64,0,72
+Comilla Victorians,Mahedi Hasan,9dad0f2e,8,3,5,0,0,60.0,"[1, 3, 6, 8]",4.0,24,10,0,33,3,2,0,0,0,0,0,8.25,0,0,0,1,0,3,10,6,19
+Comilla Victorians,Rashid Khan,5f547c8b,8,0,0,0,0,0.0,"[5, 11, 15, 17]",4.0,24,15,1,17,0,1,1,1,0,0,0,4.25,0,0,0,1,0,0,66,6,72
+Comilla Victorians,Hasan Ali,2911de16,9,0,0,0,0,0.0,"[2, 4, 16, 19]",3.5,21,13,0,20,2,1,5,0,5,0,0,5.71,0,0,0,0,0,0,194,0,194
+Comilla Victorians,Al-Amin Hossain,3f5f39cd,10,0,0,0,0,0.0,[12],1.0,6,2,0,12,1,1,0,0,0,0,0,12.0,0,0,0,0,0,0,2,0,2
+Dhaka Dynamites,SP Narine,9d430b40,1,76,44,7,5,172.73,"[3, 5, 13, 19]",4.0,24,13,0,17,0,1,2,0,0,0,0,4.25,0,0,0,0,6,152,69,0,221
+Dhaka Dynamites,E Lewis,0ebfb1ad,2,7,5,0,1,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+Dhaka Dynamites,Mehedi Maruf,3361993b,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Dhaka Dynamites,KC Sangakkara,6b71e6cf,4,28,30,3,0,93.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,0,0,0,44,0,28,72
+Dhaka Dynamites,KA Pollard,a757b0d8,5,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Dhaka Dynamites,Shakib Al Hasan,7dc35884,6,3,8,0,0,37.5,"[7, 9, 14, 16]",4.0,24,6,0,23,1,0,0,0,0,0,0,5.75,0,0,0,0,0,3,10,0,13
+Dhaka Dynamites,Mosaddek Hossain,8919756f,7,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Dhaka Dynamites,Jahurul Islam,6752c57b,8,2,8,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+Dhaka Dynamites,Mohammad Saddam,7bd03d63,9,1,3,0,0,33.33,"[8, 10, 18, 20]",3.667,22,6,0,36,4,1,1,0,0,0,2,9.82,0,0,0,0,0,1,31,0,32
+Dhaka Dynamites,Mohammad Amir,e174dadd,10,6,2,1,0,300.0,"[1, 6, 11, 17]",4.0,24,12,0,28,3,0,2,0,1,0,5,7.0,0,0,0,0,0,10,72,0,82
+Dhaka Dynamites,Abu Hider,31803fac,11,0,2,0,0,0.0,"[2, 4, 12, 15]",4.0,24,10,0,25,3,0,1,0,1,0,0,6.25,1,0,0,0,0,-2,45,8,51

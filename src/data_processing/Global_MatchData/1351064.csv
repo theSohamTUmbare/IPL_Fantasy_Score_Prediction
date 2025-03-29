@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Dhaka Dominators,Usman Ghani,e3829b2a,1,27,28,4,0,96.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,47,0,0,47
+Dhaka Dominators,Soumya Sarkar,4d9f9686,2,0,1,0,0,0.0,[20],0.333,2,0,0,7,0,1,0,0,0,0,0,21.02,0,0,0,0,0,-2,0,0,-2
+Dhaka Dominators,EMDY Munaweera,5a22d91c,3,17,17,2,0,100.0,[14],1.0,6,1,0,10,0,1,0,0,0,0,0,10.0,0,0,0,0,0,25,1,0,26
+Dhaka Dominators,RJ Das,734344b3,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Dhaka Dominators,Mohammad Mithun,77191792,5,15,23,1,0,65.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,-2,17,0,12,29
+Dhaka Dominators,Nasir Hossain,6eea0b32,6,39,31,3,1,125.81,"[9, 11, 13, 15]",4.0,24,12,0,19,0,1,2,0,1,0,0,4.75,0,0,0,0,0,61,76,0,137
+Dhaka Dominators,Ariful Haque,ad1730bc,7,20,16,1,1,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,30,0,12,42
+Dhaka Dominators,Arafat Sunny,1f7adc8a,7,0,0,0,0,0.0,"[5, 7, 10, 12]",4.0,24,14,0,19,3,0,1,0,0,0,0,4.75,0,0,0,0,0,0,45,0,45
+Dhaka Dominators,Al-Amin Hossain,3f5f39cd,8,0,0,0,0,0.0,"[3, 8]",2.0,12,4,0,25,3,1,0,0,0,0,1,12.5,1,0,0,0,0,0,-2,8,6
+Dhaka Dominators,Taskin Ahmed,ef18b66e,8,2,3,0,0,66.67,"[2, 4, 16, 18]",4.0,24,13,0,12,0,0,1,0,1,0,1,3.0,0,0,0,0,0,2,52,0,54
+Dhaka Dominators,Salman Irshad,30afc92b,9,0,0,0,0,0.0,"[1, 6, 17, 19]",4.0,24,7,0,37,4,1,0,0,0,0,1,9.25,0,0,0,0,0,0,7,0,7
+Sylhet Strikers,Mohammad Haris,ff3f6fc1,1,44,32,5,2,137.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,82,0,0,82
+Sylhet Strikers,Nazmul Hossain Shanto,1274d7ab,2,12,20,2,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,18,0,8,26
+Sylhet Strikers,Zakir Hasan,e3e09091,3,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Sylhet Strikers,Mushfiqur Rahim,a94e08ea,4,27,25,1,1,108.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,41,0,6,47
+Sylhet Strikers,Imad Wasim,9cb8d7a6,5,11,20,0,0,55.0,"[2, 4, 6, 14]",4.0,24,13,0,20,3,0,3,1,1,0,0,5.0,0,0,0,0,-4,7,112,0,119
+Sylhet Strikers,NLTC Perera,0f12f9df,6,21,11,2,1,190.91,"[9, 11, 15]",3.0,18,7,0,12,0,0,0,0,0,0,0,4.0,0,0,0,0,6,41,13,0,54
+Sylhet Strikers,Mashrafe Mortaza,e186f49c,7,0,0,0,0,0.0,[20],1.0,6,2,0,4,0,0,0,0,0,0,0,4.0,0,0,0,1,0,0,2,6,8
+Sylhet Strikers,Akbar Ali,abae26ad,7,10,5,0,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24
+Sylhet Strikers,Mohammad Amir,e174dadd,8,0,0,0,0,0.0,"[5, 13, 17, 19]",4.0,24,7,0,33,3,1,1,0,0,0,0,8.25,0,0,0,0,0,0,32,0,32
+Sylhet Strikers,Nazmul Islam,6575e3bc,9,0,0,0,0,0.0,"[8, 10, 12, 16]",4.0,24,7,0,27,2,1,1,0,1,0,1,6.75,0,0,0,0,0,0,42,0,42
+Sylhet Strikers,Rubel Hossain,f56cd097,10,0,0,0,0,0.0,"[1, 3, 7, 18]",4.0,24,9,0,25,3,0,1,1,0,0,0,6.25,0,0,0,0,0,0,44,0,44

@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2007-01-09'],NA,249227,England,8,32,27,4,0,118.52,10,1.0,6,2,0,12,1,1,0,0,0,0,0,12.0,1,0,0,0,0,52,2,8,62
+['2006-08-28'],NA,225263,England,6,27,28,2,0,96.43,"7,9",2.0,12,8,0,10,1,0,1,0,0,0,2,5.0,0,0,0,0,0,39,37,0,76
+['2006-06-15'],NA,225271,England,5,1,2,0,0,50.0,"9,11",2.0,12,3,0,17,3,0,1,0,0,0,0,8.5,0,0,0,1,0,1,28,6,35

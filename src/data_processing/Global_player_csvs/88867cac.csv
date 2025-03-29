@@ -1,0 +1,10 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2013-03-22'],Ram Slam T20 Challenge,575180,Cape Cobras,8,7,7,0,0,100.0,11,1.0,6,1,0,15,0,2,0,0,0,0,0,15.0,0,0,0,0,0,7,1,0,8
+['2012-03-18'],MiWAY T20 Challenge,530359,Cape Cobras,8,2,1,0,0,200.0,"4,7,13,15",4.0,24,9,0,33,3,1,2,0,1,0,3,8.25,1,0,0,0,0,2,67,8,77
+['2012-03-16'],MiWAY T20 Challenge,530355,Cape Cobras,7,12,16,1,0,75.0,"8,10,15,17",4.0,24,7,0,32,2,1,1,0,1,0,0,8.0,0,0,0,0,0,16,40,0,56
+['2012-03-11'],MiWAY T20 Challenge,530349,Cape Cobras,7,0,0,0,0,0.0,"7,9,11,17",4.0,24,6,0,27,1,0,2,0,1,0,1,6.75,0,0,1,0,0,0,66,12,78
+['2012-03-09'],MiWAY T20 Challenge,530346,Cape Cobras,7,0,0,0,0,0.0,"11,13,15,17",4.0,24,13,0,20,0,1,3,1,0,0,0,5.0,0,0,0,1,0,0,104,6,110
+['2012-03-04'],MiWAY T20 Challenge,530341,Cape Cobras,7,3,2,0,0,150.0,"7,9,11,13",4.0,24,9,0,18,0,0,1,0,1,0,0,4.5,0,0,0,0,0,3,48,0,51
+['2012-02-22'],MiWAY T20 Challenge,530327,Cape Cobras,8,0,0,0,0,0.0,"10,12,14",3.0,18,4,0,23,0,1,1,1,0,0,0,7.67,0,0,0,0,0,0,37,0,37
+['2012-02-17'],MiWAY T20 Challenge,530323,Cape Cobras,9,0,0,0,0,0.0,"1,8",2.0,12,2,0,28,2,2,0,0,0,0,1,14.0,0,0,0,0,0,0,-4,0,-4
+['2012-02-15'],MiWAY T20 Challenge,530321,Cape Cobras,11,0,0,0,0,0.0,"11,13,15",3.0,18,3,0,25,1,1,2,0,0,0,1,8.33,0,0,0,0,0,0,53,0,53

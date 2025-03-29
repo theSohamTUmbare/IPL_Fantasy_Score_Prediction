@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Adelaide Strikers,TP Ludeman,c3f7898b,1,49,41,7,0,119.51,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,81,0,28,109
+Adelaide Strikers,JR Dean,97188292,2,48,35,2,4,137.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,86,0,8,94
+Adelaide Strikers,TM Head,12b610c2,3,0,2,0,0,0.0,"[4, 6]",2.0,12,6,0,16,1,1,3,0,2,0,1,8.0,1,0,0,0,0,-2,101,8,107
+Adelaide Strikers,AI Ross,fb0d68b4,4,4,4,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+Adelaide Strikers,BJ Hodge,b57f8a9a,5,37,21,2,2,176.19,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,6,67,0,14,81
+Adelaide Strikers,JS Lehmann,c96a215f,6,24,16,3,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,36,0,0,36
+Adelaide Strikers,MG Neser,0164b064,7,1,1,0,0,100.0,"[2, 5, 15]",3.0,18,11,0,15,2,0,2,0,0,0,0,5.0,0,0,0,0,0,1,65,0,66
+Adelaide Strikers,AU Rashid,249d60c9,11,0,0,0,0,0.0,"[9, 11, 14]",3.0,18,5,0,21,1,0,1,0,0,0,0,7.0,0,0,0,0,0,0,32,0,32
+Adelaide Strikers,B Laughlin,b2a79f17,12,0,0,0,0,0.0,"[3, 7, 16]",2.5,15,6,0,29,2,2,1,0,0,1,0,11.6,0,0,0,0,0,0,27,0,27
+Adelaide Strikers,JM Holland,70c4f525,13,0,0,0,0,0.0,"[8, 10, 12]",3.0,18,6,0,24,2,1,2,0,1,0,0,8.0,0,0,0,1,0,0,64,6,70
+Adelaide Strikers,GA West,9dfd54a5,14,0,0,0,0,0.0,"[1, 13]",2.0,12,2,0,38,2,4,0,0,0,0,1,19.0,0,0,0,0,0,0,-4,0,-4
+Melbourne Renegades,CH Gayle,db584dad,1,56,16,2,7,350.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,120,0,8,128
+Melbourne Renegades,TLW Cooper,2318ba22,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Melbourne Renegades,CL White,d0513f63,3,6,8,1,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+Melbourne Renegades,DJ Bravo,87e562a9,4,0,1,0,0,0.0,"[6, 11, 17, 19]",4.0,24,6,0,36,2,2,1,0,0,0,0,9.0,2,0,0,0,0,-2,31,16,45
+Melbourne Renegades,PM Nevill,a22fb7b5,5,21,19,3,0,110.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33
+Melbourne Renegades,BR McDermott,c41043e6,6,7,8,0,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,7,0,0,7
+Melbourne Renegades,TM Beaton,f0ec8597,7,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+Melbourne Renegades,CJ Gannon,519c30cb,8,23,15,2,1,153.33,"[5, 9, 14, 18]",4.0,24,8,0,39,5,1,0,0,0,0,1,9.75,0,0,0,0,4,41,8,0,49
+Melbourne Renegades,CP Tremain,96824e68,9,0,2,0,0,0.0,"[2, 4, 8, 12]",4.0,24,11,0,26,3,1,1,0,0,0,0,6.5,0,0,0,0,0,-2,38,0,36
+Melbourne Renegades,NJ Rimmington,6042bf26,10,26,19,2,0,136.84,"[3, 10, 16, 20]",4.0,24,8,0,35,3,1,1,0,0,0,1,8.75,0,0,0,0,2,40,33,0,73
+Melbourne Renegades,XJ Doherty,502b2c81,11,0,2,0,0,0.0,"[1, 7, 13, 15]",4.0,24,8,0,30,2,1,2,1,0,0,1,7.5,0,0,0,0,0,0,66,0,66

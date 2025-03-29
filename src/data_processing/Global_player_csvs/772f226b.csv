@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2020-02-27'],ACC Western Region T20,1215165,Kuwait,6,4,8,0,0,50.0,"6,8,12,16",4.0,24,7,0,35,4,1,2,1,0,0,0,8.75,0,0,0,0,0,4,65,0,69
+['2020-02-26'],ACC Western Region T20,1215163,Kuwait,5,45,17,1,5,264.71,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,89,0,8,97
+['2020-02-25'],ACC Western Region T20,1215162,Kuwait,10,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0

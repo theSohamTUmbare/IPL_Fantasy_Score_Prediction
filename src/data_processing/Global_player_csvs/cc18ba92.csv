@@ -1,0 +1,24 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-02-11'],Oman Quadrangular T20I Series,1299593,Nepal,1,4,13,0,0,30.77,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2
+['2019-07-24'],ICC Men's T20 World Cup Asia Region Final,1190771,Nepal,1,12,13,1,0,92.31,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
+['2019-07-13'],Nepal tour of Malaysia,1192223,Nepal,1,8,17,0,1,47.06,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,8,0,8,16
+['2019-02-01'],Nepal tour of United Arab Emirates,1170458,Nepal,1,8,8,1,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,12,0,16,28
+['2019-01-31'],Nepal tour of United Arab Emirates,1170457,Nepal,1,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,-2,0,20,18
+['2018-10-10'],ICC World Twenty20 Asia Region Qualifier B,1160960,Nepal,1,4,3,0,0,133.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+['2018-10-09'],ICC World Twenty20 Asia Region Qualifier B,1160958,Nepal,1,75,68,6,2,110.29,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,123,0,0,123
+['2018-10-03'],ICC World Twenty20 Asia Region Qualifier B,1160947,Nepal,1,0,2,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2015-07-18'],ICC World Twenty20 Qualifier,875523,Nepal,1,2,13,0,0,15.38,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-4,0,0,-4
+['2015-07-17'],ICC World Twenty20 Qualifier,875513,Nepal,2,29,28,4,0,103.57,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,49,0,0,49
+['2015-07-15'],ICC World Twenty20 Qualifier,875507,Nepal,8,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2015-07-13'],ICC World Twenty20 Qualifier,875491,Nepal,3,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2015-07-11'],ICC World Twenty20 Qualifier,875475,Nepal,10,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2015-07-10'],ICC World Twenty20 Qualifier,875465,Nepal,10,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2015-07-02'],Nepal in Netherlands T20I Series,883345,Nepal,7,18,9,3,0,200.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30
+['2015-07-01'],Nepal in Netherlands T20I Series,883343,Nepal,8,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2014-09-27'],Asian Games Men's Cricket Competition,778019,Nepal,8,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,0,0,12,12
+['2013-11-27'],ICC World Twenty20 Qualifier,660211,Nepal,7,3,4,0,0,75.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2013-11-23'],ICC World Twenty20 Qualifier,660189,Nepal,3,22,16,1,1,137.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,34,0,0,34
+['2013-11-20'],ICC World Twenty20 Qualifier,660159,Nepal,7,1,1,0,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2013-11-19'],ICC World Twenty20 Qualifier,660151,Nepal,7,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2013-11-16'],ICC World Twenty20 Qualifier,660121,Nepal,2,1,3,0,0,33.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2013-11-15'],ICC World Twenty20 Qualifier,660097,Nepal,1,0,4,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2

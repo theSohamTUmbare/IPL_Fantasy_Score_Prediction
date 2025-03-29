@@ -1,0 +1,11 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-05-20'],Nordic T20 Cup,1370790,Norway,7,0,0,0,0,0.0,"7,9,11,13",4.0,24,13,0,18,1,0,3,0,0,0,0,4.5,0,0,0,0,0,0,98,0,98
+['2023-05-18'],Nordic T20 Cup,1370782,Norway,10,0,1,0,0,0.0,"7,9",2.0,12,1,0,23,3,0,0,0,0,0,0,11.5,0,0,0,0,0,-2,-3,0,-5
+['2022-07-31'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321304,Norway,8,4,8,0,0,50.0,"5,7",2.0,12,7,0,18,1,2,0,0,0,0,0,9.0,0,0,0,0,0,4,7,0,11
+['2022-07-28'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321293,Norway,6,7,10,0,0,70.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,5,0,0,5
+['2022-07-27'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321292,Norway,6,24,20,2,0,120.0,"8,10,12,19",4.0,24,7,0,31,2,1,0,0,0,0,1,7.75,2,0,0,0,0,32,7,16,55
+['2022-07-24'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321282,Norway,7,0,0,0,0,0.0,"10,12,14,16",4.0,24,18,1,13,1,0,2,0,0,0,0,3.25,2,0,0,0,0,0,86,16,102
+['2018-09-02'],ICC World Twenty20 Europe Region Qualifier C,1156678,Norway,11,0,0,0,0,0.0,"10,12,14,16",4.0,24,12,0,22,0,1,3,1,0,0,1,5.5,1,0,0,0,0,0,103,8,111
+['2018-09-01'],ICC World Twenty20 Europe Region Qualifier C,1156675,Norway,3,4,2,1,0,200.0,"7,9,11,13",4.0,24,15,0,12,0,0,1,0,0,0,0,3.0,1,0,0,0,0,8,46,8,62
+['2018-08-31'],ICC World Twenty20 Europe Region Qualifier C,1157847,Norway,3,10,10,0,1,100.0,"7,9,11,13",4.0,24,10,0,26,1,1,1,0,0,0,0,6.5,0,0,0,0,0,16,37,0,53
+['2018-08-29'],ICC World Twenty20 Europe Region Qualifier C,1156668,Norway,4,2,3,0,0,66.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2

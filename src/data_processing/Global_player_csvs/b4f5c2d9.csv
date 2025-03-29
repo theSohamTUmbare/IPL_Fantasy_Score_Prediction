@@ -1,0 +1,19 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-10-16'],Syed Mushtaq Ali Trophy,1332978,Rajasthan,7,0,1,0,0,0.0,"7,12,14",3.0,18,5,0,19,2,0,1,0,0,0,2,6.33,0,0,0,0,0,-2,32,0,30
+['2022-10-14'],Syed Mushtaq Ali Trophy,1332960,Rajasthan,8,2,1,0,0,200.0,"5,7,17,19",4.0,24,7,0,45,9,0,1,0,0,0,1,11.25,0,0,0,0,0,2,28,0,30
+['2022-03-27'],Indian Premier League,1304048,Delhi Capitals,11,0,0,0,0,0.0,"5,13",2.0,12,4,0,29,5,1,0,0,0,0,1,14.5,0,0,0,0,0,0,-2,0,-2
+['2021-11-18'],Syed Mushtaq Ali Trophy,1280298,Rajasthan,5,39,48,4,0,81.25,5,1.0,6,3,0,9,1,0,0,0,0,0,2,9.0,0,0,0,0,0,59,3,0,62
+['2021-11-09'],Syed Mushtaq Ali Trophy,1280281,Rajasthan,9,0,0,0,0,0.0,"2,4,18,20",3.167,19,10,0,25,1,2,3,0,0,1,1,7.89,0,0,0,0,0,0,89,0,89
+['2021-11-08'],Syed Mushtaq Ali Trophy,1280263,Rajasthan,8,5,6,0,0,83.33,"12,15,17,19",4.0,24,10,0,25,2,1,2,0,0,0,0,6.25,1,0,0,0,0,5,62,8,75
+['2021-11-05'],Syed Mushtaq Ali Trophy,1280223,Rajasthan,10,0,0,0,0,0.0,"6,15,17,19",4.0,24,11,0,28,3,1,1,0,0,0,0,7.0,0,0,0,0,0,0,38,0,38
+['2021-04-21'],Indian Premier League,1254072,Kolkata Knight Riders,9,0,2,0,0,0.0,"11,14",2.0,12,2,0,25,1,2,0,0,0,0,0,12.5,0,0,0,0,0,-2,-4,0,-6
+['2020-11-01'],Indian Premier League,1216530,Kolkata Knight Riders,9,1,1,0,0,100.0,"8,10,18,20",4.0,24,11,0,24,3,0,1,0,0,0,1,6.0,1,0,0,0,0,1,38,8,47
+['2020-10-29'],Indian Premier League,1216536,Kolkata Knight Riders,8,0,0,0,0,0.0,"2,12,20",3.0,18,6,0,34,0,4,0,0,0,0,0,11.33,0,0,0,0,0,0,2,0,2
+['2020-10-26'],Indian Premier League,1216520,Kolkata Knight Riders,7,6,13,0,0,46.15,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,0,0,0,0
+['2020-10-24'],Indian Premier League,1216497,Kolkata Knight Riders,9,0,0,0,0,0.0,"4,6",2.0,12,7,0,11,2,0,0,0,0,0,0,5.5,1,0,0,0,0,0,11,8,19
+['2020-10-12'],Indian Premier League,1216540,Kolkata Knight Riders,9,4,7,0,0,57.14,"10,12,14,16",4.0,24,4,0,36,1,2,0,0,0,0,0,9.0,0,0,0,0,0,4,4,0,8
+['2020-10-10'],Indian Premier League,1216523,Kolkata Knight Riders,9,0,0,0,0,0.0,"6,11,16",3.0,18,2,0,40,5,1,0,0,0,0,0,13.33,0,0,0,0,0,0,-4,0,-4
+['2020-10-07'],Indian Premier League,1216501,Kolkata Knight Riders,9,0,2,0,0,0.0,"8,10,13",3.0,18,6,0,21,3,0,1,0,0,0,0,7.0,0,0,0,0,0,-2,33,0,31
+['2020-10-03'],Indian Premier League,1216515,Kolkata Knight Riders,9,3,3,0,0,100.0,"11,13,15",3.0,18,1,0,35,0,3,1,0,0,0,2,11.67,0,0,0,0,0,3,22,0,25
+['2020-09-30'],Indian Premier League,1216504,Kolkata Knight Riders,8,8,5,1,0,160.0,"8,10",2.0,12,6,0,13,0,1,2,0,0,0,0,6.5,2,0,0,0,0,12,58,16,86
+['2020-09-26'],Indian Premier League,1216545,Kolkata Knight Riders,10,0,0,0,0,0.0,"11,14",2.0,12,1,0,17,1,0,0,0,0,0,1,8.5,0,0,0,0,0,0,1,0,1

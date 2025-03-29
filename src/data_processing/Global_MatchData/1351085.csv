@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Dhaka Dominators,Mohammad Mithun,77191792,1,5,2,1,0,250.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,9,0,20,29
+Dhaka Dominators,Soumya Sarkar,4d9f9686,2,3,12,0,0,25.0,[12],1.0,6,1,0,18,1,2,0,0,0,0,0,18.0,1,0,0,0,-6,-3,1,8,6
+Dhaka Dominators,Nasir Hossain,6eea0b32,3,2,3,0,0,66.67,"[13, 15, 17, 19]",4.0,24,13,0,20,0,1,4,0,2,0,0,5.0,0,0,0,0,0,2,141,0,143
+Dhaka Dominators,Abdullah Al Mamun,ea36b0ee,4,23,27,1,1,85.19,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33
+Dhaka Dominators,AJ Blake,ea27a674,5,18,11,1,1,163.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,32,0,0,32
+Dhaka Dominators,Ariful Haque,ad1730bc,6,29,26,2,1,111.54,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,47,0,16,63
+Dhaka Dominators,Muktar Ali,4a491652,7,7,10,0,1,70.0,"[10, 20]",1.5,9,1,0,23,3,1,0,0,0,0,0,15.33,0,0,0,0,-2,11,1,0,12
+Dhaka Dominators,Shoriful Islam,bb34fd31,8,11,13,0,1,84.62,"[1, 3, 14, 18]",4.0,24,17,1,18,3,0,3,1,0,0,1,4.5,0,0,0,0,0,17,122,0,139
+Dhaka Dominators,Amir Hamza,dca1ac2e,9,15,11,1,1,136.36,"[6, 8, 11, 16]",4.0,24,11,0,25,3,0,1,0,0,0,1,6.25,0,0,0,0,2,27,38,0,65
+Dhaka Dominators,Arafat Sunny,1f7adc8a,10,3,5,0,0,60.0,"[2, 5, 7, 9]",4.0,24,11,0,20,2,0,0,0,0,0,0,5.0,0,0,0,0,0,3,15,0,18
+Dhaka Dominators,Mohor Sheikh,b3213c74,10,0,0,0,0,0.0,[4],1.0,6,3,0,9,1,0,0,0,0,1,1,9.0,0,0,0,0,0,0,3,0,3
+Rangpur Riders,Mohammad Naim,7923a51d,1,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Rangpur Riders,Rony Talukdar,8bd614b2,2,34,39,3,0,87.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,50,0,0,50
+Rangpur Riders,Mahedi Hasan,9dad0f2e,3,4,5,1,0,80.0,"[1, 3, 5, 11]",4.0,24,11,0,30,2,2,1,1,0,0,0,7.5,0,0,0,1,0,8,44,6,58
+Rangpur Riders,Nurul Hasan,d365d463,4,61,32,7,3,190.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,2,6,121,0,20,141
+Rangpur Riders,Shoaib Malik,64c34cd0,5,7,5,0,1,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+Rangpur Riders,Mohammad Nawaz,3086f7a4,6,1,9,0,0,11.11,[13],1.0,6,5,0,1,0,0,1,0,0,0,0,1.0,0,0,0,0,0,1,30,0,31
+Rangpur Riders,Azmatullah Omarzai,8f6dd463,7,7,9,0,0,77.78,"[2, 4, 6, 15]",4.0,24,13,0,22,0,0,2,0,1,0,7,5.5,0,0,0,0,0,7,75,0,82
+Rangpur Riders,Shamim Hossain,711249d1,8,8,11,1,0,72.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,1,0,12,0,22,34
+Rangpur Riders,Rakibul Hasan,77768f72,9,0,1,0,0,0.0,"[12, 14, 20]",3.0,18,8,0,27,2,2,0,0,0,0,1,9.0,1,0,0,0,0,-2,8,8,14
+Rangpur Riders,Haris Rauf,24bb1c2f,10,7,4,1,0,175.0,"[7, 9, 17, 19]",4.0,24,14,0,19,0,1,1,0,0,0,3,4.75,0,0,0,0,0,11,45,0,56
+Rangpur Riders,Hasan Mahmud,80ad39ac,10,0,0,0,0,0.0,"[8, 10, 16, 18]",4.0,24,8,0,28,2,1,1,0,0,0,0,7.0,0,0,0,0,0,0,35,0,35

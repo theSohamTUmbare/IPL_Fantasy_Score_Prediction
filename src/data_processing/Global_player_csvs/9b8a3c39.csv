@@ -1,0 +1,3 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2020-11-10'],Zimbabwe tour of Pakistan,1233466,Pakistan,9,0,0,0,0,0.0,"5,7,14,16",4.0,24,12,0,23,3,0,0,0,0,0,0,5.75,0,0,0,0,0,0,16,0,16
+['2019-11-08'],Pakistan tour of Australia,1183529,Pakistan,11,0,0,0,0,0.0,"2,4,10,12",3.833,23,7,0,39,5,1,0,0,0,0,1,10.17,0,0,0,0,0,0,5,0,5

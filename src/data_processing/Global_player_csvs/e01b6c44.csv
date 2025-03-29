@@ -1,0 +1,7 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2017-01-07'],Big Bash League,1023617,Melbourne Renegades,5,2,5,0,0,40.0,"8,20",2.0,12,3,0,16,0,1,1,0,0,0,0,8.0,0,0,0,1,0,2,28,6,36
+['2017-01-01'],Big Bash League,1023603,Melbourne Renegades,6,4,5,0,0,80.0,"5,11,16,18",4.0,24,6,0,47,5,1,0,0,0,1,1,11.75,0,0,0,1,0,4,2,6,12
+['2015-12-27'],Big Bash League,897713,Sydney Sixers,8,3,2,0,0,150.0,"6,17",2.0,12,2,0,21,1,1,0,0,0,0,0,10.5,0,0,0,0,0,3,0,0,3
+['2015-12-23'],Big Bash League,897709,Sydney Sixers,9,6,4,1,0,150.0,"5,9,16",3.0,18,4,0,27,4,0,0,0,0,0,0,9.0,0,0,0,0,0,10,4,0,14
+['2015-01-04'],Big Bash League,756765,Adelaide Strikers,8,0,0,0,0,0.0,5,1.0,6,2,0,15,2,1,0,0,0,0,0,15.0,0,0,0,0,0,0,2,0,2
+['2014-12-22'],Big Bash League,756743,Adelaide Strikers,8,4,3,1,0,133.33,"4,6,8",3.0,18,8,0,15,1,0,0,0,0,0,0,5.0,1,0,0,0,0,8,12,8,28

@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-03-08'],Syed Mushtaq Ali Trophy,1175026,Delhi,11,2,3,0,0,66.67,2,1.0,6,1,0,12,2,0,0,0,0,0,0,12.0,0,0,0,0,0,2,1,0,3
+['2018-01-21'],Syed Mushtaq Ali Trophy,1133403,Delhi,9,0,0,0,0,0.0,"10,12",2.0,12,6,0,17,2,1,0,0,0,0,0,8.5,0,0,0,0,0,0,6,0,6
+['2018-01-16'],Syed Mushtaq Ali Trophy,1130722,Delhi,9,1,2,0,0,50.0,"2,4,17,20",3.167,19,6,0,36,5,1,2,0,0,1,0,11.37,0,0,0,0,0,1,52,0,53

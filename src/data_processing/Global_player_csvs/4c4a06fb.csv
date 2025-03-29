@@ -1,0 +1,32 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2016-11-30'],Bangladesh Premier League,1063081,Rangpur Riders,1,21,22,3,0,95.45,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33
+['2016-11-28'],Bangladesh Premier League,1063051,Rangpur Riders,4,1,2,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+['2016-11-25'],Bangladesh Premier League,1063073,Rangpur Riders,2,27,28,3,1,96.43,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,49,0,0,49
+['2015-11-26'],Bangladesh Premier League,935301,Dhaka Dynamites,3,12,21,1,0,57.14,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,12,0,0,12
+['2015-11-25'],Bangladesh Premier League,935295,Dhaka Dynamites,1,11,10,0,1,110.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,17,0,8,25
+['2015-11-22'],Bangladesh Premier League,935285,Dhaka Dynamites,2,44,44,8,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,80,0,0,80
+['2014-08-13'],Caribbean Premier League,743191,Trinidad & Tobago Red Steel,3,4,5,0,0,80.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+['2014-07-12'],Caribbean Premier League,743139,Trinidad & Tobago Red Steel,1,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2013-11-22'],Pakistan in South Africa T20I Series,685729,Pakistan,1,19,19,3,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,31,0,8,39
+['2013-11-20'],Pakistan in South Africa T20I Series,685727,Pakistan,2,18,25,3,0,72.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30
+['2013-11-15'],Pakistan v South Africa T20I Series,649103,Pakistan,1,19,20,3,0,95.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,31,0,8,39
+['2013-08-24'],Pakistan in Zimbabwe T20I Series,659547,Pakistan,2,23,17,3,1,135.29,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,43,0,0,43
+['2013-08-23'],Pakistan in Zimbabwe T20I Series,659545,Pakistan,2,2,5,0,0,40.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2013-07-27'],Pakistan in West Indies T20I Series,645645,Pakistan,1,6,4,0,1,150.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+['2013-03-03'],Pakistan in South Africa T20I Series,567367,Pakistan,1,13,13,2,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
+['2012-12-28'],Pakistan in India T20I Series,589307,Pakistan,1,41,32,4,1,128.12,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,67,0,0,67
+['2012-12-25'],Pakistan in India T20I Series,589306,Pakistan,1,2,6,0,0,33.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2012-10-04'],ICC World Twenty20,533296,Pakistan,3,4,8,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+['2012-10-02'],ICC World Twenty20,533294,Pakistan,3,55,46,4,2,119.57,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,91,0,0,91
+['2012-09-30'],ICC World Twenty20,533291,Pakistan,4,4,5,0,0,80.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+['2012-09-28'],ICC World Twenty20,533286,Pakistan,3,0,2,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2012-09-25'],ICC World Twenty20,533283,Pakistan,3,29,14,2,2,207.14,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,59,0,0,59
+['2012-09-23'],ICC World Twenty20,533280,Pakistan,3,56,35,2,4,160.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,1,4,100,0,22,122
+['2012-09-10'],Pakistan v Australia T20I Series,571150,Pakistan,3,17,23,2,0,73.91,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,25,0,8,33
+['2012-09-07'],Pakistan v Australia T20I Series,571149,Pakistan,3,45,36,4,1,125.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,71,0,0,71
+['2012-09-05'],Pakistan v Australia T20I Series,571148,Pakistan,3,10,10,2,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26
+['2012-02-25'],Bangladesh Premier League,551070,Chittagong Kings,1,27,29,2,0,93.1,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,39,0,0,39
+['2012-02-24'],Bangladesh Premier League,551067,Chittagong Kings,1,0,2,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2012-02-18'],Bangladesh Premier League,551060,Chittagong Kings,1,20,25,2,0,80.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
+['2012-02-16'],Bangladesh Premier League,551057,Chittagong Kings,1,81,47,10,2,172.34,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,151,0,0,151
+['2012-02-12'],Bangladesh Premier League,551049,Chittagong Kings,1,86,46,10,3,186.96,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,162,0,0,162

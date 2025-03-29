@@ -1,0 +1,16 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-05-19'],Nordic T20 Cup,1370785,Denmark,8,16,18,0,0,88.89,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
+['2023-05-19'],Nordic T20 Cup,1370787,Denmark,8,0,0,0,0,0.0,"11,13",2.0,12,4,0,20,2,1,0,0,0,0,0,10.0,0,0,0,0,0,0,2,0,2
+['2021-10-21'],ICC Men's T20 World Cup Europe Region Qualifier,1282749,Denmark,6,0,2,0,0,0.0,"8,10",2.0,12,4,0,18,3,0,1,0,0,0,0,9.0,3,0,0,0,0,-2,29,28,55
+['2021-10-19'],ICC Men's T20 World Cup Europe Region Qualifier,1282744,Denmark,2,26,34,3,0,76.47,16,1.0,6,1,0,6,0,0,0,0,0,0,0,6.0,1,0,0,0,0,42,1,8,51
+['2021-10-17'],ICC Men's T20 World Cup Europe Region Qualifier,1282742,Denmark,7,1,5,0,0,20.0,"12,14,16,20",3.5,21,12,0,27,2,2,2,0,0,0,0,7.71,1,0,0,0,0,1,62,8,71
+['2021-10-16'],ICC Men's T20 World Cup Europe Region Qualifier,1282740,Denmark,7,14,12,0,1,116.67,"8,10",2.0,12,6,0,12,1,0,0,0,0,0,3,6.0,0,0,0,0,0,20,8,0,28
+['2021-10-15'],ICC Men's T20 World Cup Europe Region Qualifier,1282739,Denmark,6,16,21,2,0,76.19,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
+['2019-06-20'],ICC Men's T20 World Cup Europe Region Final,1189743,Denmark,3,1,2,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2019-06-20'],ICC Men's T20 World Cup Europe Region Final,1189744,Denmark,3,1,1,0,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2019-06-19'],ICC Men's T20 World Cup Europe Region Final,1185193,Denmark,3,31,29,2,0,106.9,15,0.5,3,1,0,2,0,0,0,0,0,0,0,4.0,1,0,0,0,0,43,1,8,52
+['2019-06-18'],ICC Men's T20 World Cup Europe Region Final,1185187,Denmark,4,13,17,0,0,76.47,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+['2019-06-17'],ICC Men's T20 World Cup Europe Region Final,1185182,Denmark,5,11,14,1,0,78.57,"18,20",2.0,12,6,0,12,0,1,2,0,0,0,0,6.0,0,0,0,0,0,15,58,0,73
+['2019-06-16'],ICC Men's T20 World Cup Europe Region Final,1185184,Denmark,4,7,16,0,0,43.75,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,1,0,8,9
+['2018-09-02'],ICC World Twenty20 Europe Region Qualifier A,1155316,Denmark,10,0,0,0,0,0.0,"9,11,13",3.0,18,13,0,15,1,1,2,0,1,0,0,5.0,1,0,0,0,0,0,75,8,83
+['2018-08-29'],ICC World Twenty20 Europe Region Qualifier A,1155306,Denmark,3,0,0,0,0,0.0,"8,10,12,14",4.0,24,13,0,16,0,0,1,0,0,0,0,4.0,0,0,0,0,0,0,44,0,44

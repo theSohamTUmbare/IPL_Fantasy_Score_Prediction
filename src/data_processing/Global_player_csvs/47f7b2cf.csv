@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2018-08-09'],Vitality Blast,1127543,Middlesex,8,11,9,1,0,122.22,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,15,0,8,23
+['2018-08-05'],Vitality Blast,1127532,Middlesex,7,0,2,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2018-08-03'],Vitality Blast,1127523,Middlesex,8,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0

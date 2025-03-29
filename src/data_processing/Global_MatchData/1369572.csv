@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Guyana Amazon Warriors,Saim Ayub,33609a8c,1,21,13,3,1,161.54,[16],1.0,6,4,0,2,0,0,1,0,0,0,0,2.0,0,0,0,0,4,43,29,0,72
+Guyana Amazon Warriors,Hazratullah,5ea51c25,2,7,8,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,11,0,12,23
+Guyana Amazon Warriors,SD Hope,1fc6ef83,3,13,9,2,0,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,21,0,16,37
+Guyana Amazon Warriors,Azam Khan,ee8f1a6d,4,6,11,0,1,54.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,-4,8,0,14,22
+Guyana Amazon Warriors,SO Hetmyer,48a1d7b7,5,36,22,1,3,163.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,66,0,0,66
+Guyana Amazon Warriors,KMA Paul,75224f22,6,41,30,1,3,136.67,[5],1.0,6,3,0,6,1,0,0,0,0,0,0,6.0,0,0,0,1,2,69,3,6,78
+Guyana Amazon Warriors,D Pretorius,11614d87,7,27,20,2,1,135.0,"[2, 4, 6]",3.0,18,9,0,17,2,0,3,0,0,0,0,5.67,1,0,0,0,2,47,92,8,147
+Guyana Amazon Warriors,R Shepherd,c5aef772,8,26,7,1,3,371.43,"[1, 3]",2.0,12,5,0,19,2,1,1,0,0,0,2,9.5,1,0,0,0,0,52,30,8,90
+Guyana Amazon Warriors,G Motie,97bdec3d,11,0,0,0,0,0.0,"[7, 9, 11, 14]",4.0,24,10,0,15,0,0,2,0,0,0,0,3.75,2,0,0,0,0,0,66,16,82
+Guyana Amazon Warriors,Imran Tahir,acee4cc4,12,0,0,0,0,0.0,"[8, 10, 12, 18]",3.167,19,7,0,18,0,1,0,0,0,0,0,5.68,1,0,0,0,0,0,11,8,19
+Guyana Amazon Warriors,JA Sinclair,43057192,13,0,0,0,0,0.0,"[13, 15, 17]",3.0,18,9,0,10,0,0,1,0,0,0,0,3.33,0,0,0,0,0,0,40,0,40
+St Kitts and Nevis Patriots,ADS Fletcher,1bae756b,1,11,6,1,1,183.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,21,0,8,29
+St Kitts and Nevis Patriots,E Lewis,0ebfb1ad,2,7,9,1,0,77.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19
+St Kitts and Nevis Patriots,WCF Smeed,4e18e961,3,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+St Kitts and Nevis Patriots,GF Linde,e5437608,4,13,16,2,0,81.25,"[5, 7, 9]",3.0,18,10,0,18,0,2,1,0,0,0,0,6.0,0,0,0,0,0,21,37,0,58
+St Kitts and Nevis Patriots,SE Rutherford,d014d5ac,5,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+St Kitts and Nevis Patriots,C Bosch,172dff15,6,27,27,1,1,100.0,"[2, 17, 19]",3.0,18,4,0,31,4,0,1,0,0,0,1,10.33,0,0,0,0,0,41,27,0,68
+St Kitts and Nevis Patriots,Y Cariah,78bb68d4,7,13,16,0,0,81.25,"[11, 13, 15]",3.0,18,8,0,28,1,3,0,0,0,0,0,9.33,0,0,0,0,0,13,8,0,21
+St Kitts and Nevis Patriots,BAC Howell,0bec3a6c,8,2,3,0,0,66.67,"[10, 12]",2.0,12,2,0,18,0,1,0,0,0,0,0,9.0,1,0,0,0,0,2,2,8,12
+St Kitts and Nevis Patriots,DC Drakes,34b332d3,9,6,15,0,0,40.0,"[6, 14, 18, 20]",4.0,24,9,0,45,2,4,1,0,0,0,1,11.25,2,0,0,0,-6,0,30,16,46
+St Kitts and Nevis Patriots,J Layne,2f43ee81,10,1,3,0,0,33.33,"[1, 3]",2.0,12,5,0,17,2,1,0,0,0,0,0,8.5,1,0,0,0,0,1,5,8,14
+St Kitts and Nevis Patriots,O Thomas,c6097d68,11,1,2,0,0,50.0,"[4, 8, 16]",3.0,18,8,0,26,2,1,3,0,0,3,1,8.67,0,0,0,0,0,1,87,0,88

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Fortune Barishal,Anamul Haque,72b245dd,1,14,8,1,1,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,1,0,24,0,18,42
+Fortune Barishal,Mehedi Hasan Miraz,c58b0108,2,24,20,0,3,120.0,"[2, 4, 6, 11]",4.0,24,12,0,26,3,1,3,0,1,0,0,6.5,1,0,0,1,0,42,101,14,157
+Fortune Barishal,Ibrahim Zadran,d4550956,3,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+Fortune Barishal,Shakib Al Hasan,7dc35884,4,89,43,9,6,206.98,"[1, 3, 5]",3.0,18,11,0,15,2,0,0,0,0,0,1,5.0,0,0,0,0,6,179,15,0,194
+Fortune Barishal,Mahmudullah,bf1d7d3e,5,0,1,0,0,0.0,[13],1.0,6,0,0,11,0,1,0,0,0,0,0,11.0,0,0,0,0,0,-2,0,0,-2
+Fortune Barishal,Iftikhar Ahmed,29e253dd,6,100,45,6,9,222.22,[16],1.0,6,1,0,5,0,0,0,0,0,0,0,5.0,1,0,0,0,6,200,1,8,209
+Fortune Barishal,Ebadat Hossain,cb5100f1,11,0,0,0,0,0.0,"[7, 9, 12, 19]",4.0,24,5,0,56,6,3,0,0,0,2,2,14.0,0,0,0,1,0,0,-1,6,5
+Fortune Barishal,Kamrul Islam Rabbi,f7e9a562,12,0,0,0,0,0.0,"[14, 18, 20]",3.0,18,10,0,25,2,2,2,0,0,0,1,8.33,0,0,0,1,0,0,60,6,66
+Fortune Barishal,Fazle Mahmud,b4bef2ed,13,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Fortune Barishal,Karim Janat,62175638,14,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Fortune Barishal,Mohammad Wasim,9e9af5f2,15,0,0,0,0,0.0,"[8, 10, 15, 17]",4.0,24,10,0,31,4,1,2,0,1,0,0,7.75,0,0,0,0,0,0,68,0,68
+Rangpur Riders,Saim Ayub,33609a8c,1,18,18,3,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,30,0,8,38
+Rangpur Riders,Rony Talukdar,8bd614b2,2,11,12,2,0,91.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,19,0,8,27
+Rangpur Riders,Parvez Hossain Emon,489aaf0a,3,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Rangpur Riders,Shoaib Malik,64c34cd0,4,10,8,0,1,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
+Rangpur Riders,Mohammad Naim,7923a51d,5,31,18,6,0,172.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,65,0,16,81
+Rangpur Riders,Mahedi Hasan,9dad0f2e,6,2,7,0,0,28.57,"[9, 11, 20]",3.0,18,1,0,42,2,4,0,0,0,0,0,14.0,0,0,0,0,0,2,-5,0,-3
+Rangpur Riders,Mohammad Nawaz,3086f7a4,7,33,24,2,2,137.5,"[1, 3, 10, 16]",4.0,24,6,0,35,2,2,0,0,0,0,0,8.75,0,0,0,0,2,59,6,0,65
+Rangpur Riders,Shamim Hossain,711249d1,8,44,23,3,4,191.3,[13],1.0,6,1,0,25,0,4,0,0,0,0,0,25.0,0,0,0,0,6,90,1,0,91
+Rangpur Riders,Robiul Haque,2353b224,9,13,6,1,1,216.67,"[4, 8, 14, 18]",4.0,24,4,0,57,6,3,0,0,0,0,4,14.25,0,0,0,0,0,23,-2,0,21
+Rangpur Riders,Haris Rauf,24bb1c2f,10,0,1,0,0,0.0,"[5, 7, 15, 19]",4.0,24,11,0,42,3,4,2,0,0,0,0,10.5,0,0,0,0,0,-2,59,0,57
+Rangpur Riders,Hasan Mahmud,80ad39ac,11,0,1,0,0,0.0,"[2, 6, 12, 17]",4.0,24,13,0,31,3,2,2,0,0,0,1,7.75,0,0,0,0,0,0,63,0,63

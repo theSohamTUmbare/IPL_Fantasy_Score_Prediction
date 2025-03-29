@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Deccan Chargers,HH Gibbs,e1d1b294,1,8,10,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,1,0,12,0,22,34
+Deccan Chargers,AC Gilchrist,2b6e6dec,2,39,35,5,2,111.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,75,0,8,83
+Deccan Chargers,AA Bilakhia,bff458c6,3,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Deccan Chargers,RG Sharma,740742ef,4,38,32,2,2,118.75,"[7, 9]",2.0,12,3,0,14,1,0,0,0,0,0,1,7.0,0,0,0,0,0,62,5,0,67
+Deccan Chargers,TL Suman,aaa1b522,5,41,30,2,1,136.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,61,0,0,61
+Deccan Chargers,DR Smith,35205dfc,6,7,8,1,0,87.5,"[5, 19]",2.0,12,3,0,21,4,0,0,0,0,0,0,10.5,1,0,0,0,0,11,1,8,20
+Deccan Chargers,Y Venugopal Rao,fe763256,7,0,0,0,0,0.0,"[10, 12]",2.0,12,4,0,23,1,2,2,1,0,0,0,11.5,0,0,0,1,0,0,58,6,64
+Deccan Chargers,Shoaib Ahmed,8a668774,9,0,0,0,0,0.0,"[14, 16]",2.0,12,3,0,19,0,2,0,0,0,0,0,9.5,1,0,0,0,0,0,3,8,11
+Deccan Chargers,PP Ojha,6c6591ab,10,0,0,0,0,0.0,"[8, 11, 13, 15]",4.0,24,9,0,27,2,1,1,0,0,0,1,6.75,0,0,0,0,0,0,36,0,36
+Deccan Chargers,RP Singh,c3d1402f,11,0,0,0,0,0.0,"[2, 4, 6, 18]",4.0,24,15,1,18,2,0,2,0,0,1,0,4.5,0,0,0,0,0,0,83,0,83
+Deccan Chargers,FH Edwards,a7c226e1,12,0,0,0,0,0.0,"[1, 3, 17, 20]",3.667,22,12,0,17,2,0,1,0,0,0,1,4.64,0,0,0,0,0,0,43,0,43
+Rajasthan Royals,GC Smith,72861603,1,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Rajasthan Royals,SA Asnodkar,ae091d39,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Rajasthan Royals,LA Carseldine,d872f52a,3,39,31,6,0,125.81,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,67,0,0,67
+Rajasthan Royals,NV Ojha,890946a0,4,0,6,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Rajasthan Royals,RA Jadeja,fe93fd9d,5,12,17,0,1,70.59,"[4, 10, 12, 14]",4.0,24,8,0,22,1,0,1,0,0,0,3,5.5,0,0,0,0,0,18,37,0,55
+Rajasthan Royals,SK Warne,bb18be76,6,21,17,0,2,123.53,"[9, 11, 13]",3.0,18,4,0,29,1,2,0,0,0,0,1,9.67,2,0,0,0,0,33,4,16,53
+Rajasthan Royals,AS Raut,c69a7b5c,7,36,23,4,0,156.52,[16],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,4,60,2,0,62
+Rajasthan Royals,YK Pathan,3c6ffae8,8,24,14,2,2,171.43,"[1, 3, 5, 7]",4.0,24,15,0,19,3,0,1,1,0,0,0,4.75,1,0,0,0,6,50,54,8,112
+Rajasthan Royals,SK Trivedi,3d7e087f,9,0,0,0,0,0.0,"[17, 19]",2.0,12,4,0,13,0,1,1,0,0,0,0,6.5,1,0,0,0,0,0,31,8,39
+Rajasthan Royals,SM Harwood,63bff7f9,9,3,7,0,0,42.86,"[6, 8, 18, 20]",4.0,24,12,0,25,3,0,2,0,0,0,0,6.25,0,0,0,0,0,3,64,0,67
+Rajasthan Royals,MM Patel,f0f628c7,10,0,0,0,0,0.0,"[2, 15]",2.0,12,6,0,23,2,2,0,0,0,0,0,11.5,0,0,0,0,0,0,2,0,2

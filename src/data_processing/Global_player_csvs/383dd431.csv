@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2021-11-17'],New Zealand tour of India,1278671,New Zealand,9,0,0,0,0,0.0,"7,9,12",3.0,18,4,0,34,2,2,0,0,0,0,1,11.33,0,0,0,0,0,0,0,0,0
+['2021-04-01'],Bangladesh tour of New Zealand,1233981,New Zealand,10,0,0,0,0,0.0,"4,6",2.0,12,8,0,13,1,1,4,0,1,0,0,6.5,0,0,0,0,0,0,126,0,126
+['2019-09-06'],New Zealand tour of Sri Lanka,1192877,New Zealand,10,3,5,0,0,60.0,"7,9,11,15",4.0,24,8,0,28,3,0,3,0,2,0,0,7.0,1,0,0,0,0,3,105,8,116
+['2016-01-17'],Pakistan in New Zealand T20I Series,914223,New Zealand,9,0,0,0,0,0.0,8,1.0,6,1,0,13,1,1,0,0,0,0,0,13.0,1,0,0,0,0,0,1,8,9
+['2016-01-15'],Pakistan in New Zealand T20I Series,914221,New Zealand,8,1,5,0,0,20.0,"8,10,12",3.0,18,4,0,28,1,2,0,0,0,0,0,9.33,1,0,0,0,0,1,4,8,13

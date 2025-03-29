@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2021-10-20'],ICC Men's T20 World Cup Europe Region Qualifier,1282746,Italy,6,4,7,0,0,57.14,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+['2021-10-19'],ICC Men's T20 World Cup Europe Region Qualifier,1282744,Italy,5,2,2,0,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,2,0,16,18
+['2021-10-17'],ICC Men's T20 World Cup Europe Region Qualifier,1282743,Italy,6,22,18,1,1,122.22,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,32,0,8,40

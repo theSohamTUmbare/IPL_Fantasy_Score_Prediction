@@ -1,0 +1,81 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2025-01-30'],Bangladesh Premier League,1459576,Sylhet Strikers,5,17,23,0,1,73.91,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
+['2025-01-27'],Bangladesh Premier League,1459572,Sylhet Strikers,5,17,18,2,0,94.44,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
+['2025-01-26'],Bangladesh Premier League,1459569,Sylhet Strikers,7,24,19,3,1,126.32,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,42,0,0,42
+['2025-01-23'],Bangladesh Premier League,1459568,Sylhet Strikers,5,8,13,0,0,61.54,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,6,0,8,14
+['2025-01-20'],Bangladesh Premier League,1459563,Sylhet Strikers,5,28,13,5,0,215.38,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,58,0,8,66
+['2025-01-17'],Bangladesh Premier League,1459559,Sylhet Strikers,6,31,20,0,3,155.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,57,0,0,57
+['2025-01-13'],Bangladesh Premier League,1459555,Sylhet Strikers,6,47,23,3,4,204.35,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,93,0,0,93
+['2025-01-12'],Bangladesh Premier League,1459553,Sylhet Strikers,6,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2025-01-10'],Bangladesh Premier League,1459552,Sylhet Strikers,7,24,16,1,1,150.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,34,0,8,42
+['2025-01-07'],Bangladesh Premier League,1459548,Sylhet Strikers,6,1,4,0,0,25.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2025-01-06'],Bangladesh Premier League,1459545,Sylhet Strikers,6,20,5,0,3,400.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,38,0,0,38
+['2024-12-31'],Bangladesh Premier League,1459540,Sylhet Strikers,5,24,33,1,1,72.73,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,34,0,8,42
+['2024-12-19'],Bangladesh tour of West Indies,1433385,Bangladesh,5,72,38,3,6,189.47,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,134,0,0,134
+['2024-12-17'],Bangladesh tour of West Indies,1433384,Bangladesh,5,21,20,1,1,105.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31
+['2024-12-15'],Bangladesh tour of West Indies,1433383,Bangladesh,5,27,27,1,2,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,47,0,0,47
+['2024-10-09'],Bangladesh tour of India,1439894,Bangladesh,7,1,2,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+['2024-10-06'],Bangladesh tour of India,1439893,Bangladesh,6,8,6,0,1,133.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,14,0,8,22
+['2024-06-22'],ICC Men's T20 World Cup,1415747,Bangladesh,7,1,4,0,0,25.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+['2024-06-16'],ICC Men's T20 World Cup,1415737,Bangladesh,7,12,26,0,0,46.15,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,6,0,0,6
+['2024-06-13'],ICC Men's T20 World Cup,1415727,Bangladesh,7,14,7,3,0,200.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,26,0,8,34
+['2024-06-10'],ICC Men's T20 World Cup,1415721,Bangladesh,7,8,9,0,0,88.89,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+['2024-05-23'],Bangladesh tour of United States of America,1425132,Bangladesh,7,4,5,0,0,80.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12
+['2024-05-21'],Bangladesh tour of United States of America,1425131,Bangladesh,7,9,5,2,0,180.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
+['2024-05-12'],Zimbabwe tour of Bangladesh,1425130,Bangladesh,7,24,11,1,2,218.18,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,6,46,0,12,58
+['2024-05-10'],Zimbabwe tour of Bangladesh,1425129,Bangladesh,6,6,7,0,0,85.71,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,6,0,12,18
+['2024-05-07'],Zimbabwe tour of Bangladesh,1425128,Bangladesh,5,44,34,3,2,129.41,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,72,0,8,80
+['2024-05-05'],Zimbabwe tour of Bangladesh,1425127,Bangladesh,5,13,12,0,1,108.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
+['2024-05-03'],Zimbabwe tour of Bangladesh,1425126,Bangladesh,6,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,0,0,6,6
+['2024-03-09'],Sri Lanka tour of Bangladesh,1419826,Bangladesh,6,4,13,0,0,30.77,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2
+['2024-03-06'],Sri Lanka tour of Bangladesh,1419825,Bangladesh,6,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2024-03-04'],Sri Lanka tour of Bangladesh,1419824,Bangladesh,6,68,33,4,6,206.06,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,134,0,0,134
+['2024-03-01'],Bangladesh Premier League,1412319,Comilla Victorians,7,20,23,2,0,86.96,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
+['2024-02-26'],Bangladesh Premier League,1412317,Comilla Victorians,8,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2024-02-23'],Bangladesh Premier League,1412314,Comilla Victorians,7,38,16,2,4,237.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,80,0,0,80
+['2024-02-20'],Bangladesh Premier League,1412313,Comilla Victorians,7,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2024-02-19'],Bangladesh Premier League,1412310,Comilla Victorians,7,7,2,0,1,350.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+['2024-02-14'],Bangladesh Premier League,1412305,Comilla Victorians,5,40,31,2,3,129.03,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,2,0,70,0,32,102
+['2024-02-13'],Bangladesh Premier League,1412302,Comilla Victorians,7,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2024-02-09'],Bangladesh Premier League,1412299,Comilla Victorians,7,6,10,0,0,60.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,4,0,8,12
+['2024-02-07'],Bangladesh Premier League,1412296,Comilla Victorians,6,18,8,2,1,225.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32
+['2024-02-02'],Bangladesh Premier League,1412291,Comilla Victorians,8,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2024-01-30'],Bangladesh Premier League,1412288,Comilla Victorians,8,18,4,1,2,450.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,34,0,8,42
+['2024-01-26'],Bangladesh Premier League,1412283,Comilla Victorians,6,29,27,1,1,107.41,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,43,0,0,43
+['2024-01-23'],Bangladesh Premier League,1412281,Comilla Victorians,6,23,20,0,2,115.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,35,0,16,51
+['2024-01-19'],Bangladesh Premier League,1412274,Comilla Victorians,5,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2023-10-07'],Asian Games Men's Cricket Competition,1399119,Bangladesh,5,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2023-10-06'],Asian Games Men's Cricket Competition,1399117,Bangladesh,7,24,29,0,1,82.76,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30
+['2023-10-04'],Asian Games Men's Cricket Competition,1399116,Bangladesh,7,14,14,2,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,22,0,8,30
+['2023-02-16'],Bangladesh Premier League,1351097,Comilla Victorians,7,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2023-02-12'],Bangladesh Premier League,1351095,Comilla Victorians,7,0,3,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2023-02-10'],Bangladesh Premier League,1351092,Comilla Victorians,5,34,23,0,3,147.83,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,2,58,0,14,72
+['2023-02-07'],Bangladesh Premier League,1351089,Comilla Victorians,3,10,16,0,1,62.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,14,0,0,14
+['2023-02-04'],Bangladesh Premier League,1351086,Comilla Victorians,6,10,7,1,0,142.86,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
+['2023-01-31'],Bangladesh Premier League,1351083,Comilla Victorians,7,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2023-01-28'],Bangladesh Premier League,1351078,Comilla Victorians,7,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2023-01-23'],Bangladesh Premier League,1351073,Comilla Victorians,7,20,10,1,1,200.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,36,0,8,44
+['2023-01-19'],Bangladesh Premier League,1351068,Comilla Victorians,6,3,3,0,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2023-01-17'],Bangladesh Premier League,1351067,Comilla Victorians,6,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,0,0,12,12
+['2023-01-16'],Bangladesh Premier League,1351065,Comilla Victorians,5,22,23,0,2,95.65,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34
+['2023-01-14'],Bangladesh Premier League,1351062,Comilla Victorians,6,0,3,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2023-01-09'],Bangladesh Premier League,1351056,Comilla Victorians,5,57,43,2,3,132.56,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,93,0,0,93
+['2023-01-06'],Bangladesh Premier League,1351053,Comilla Victorians,7,19,13,2,1,146.15,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,1,2,35,0,18,53
+['2022-02-12'],Bangladesh Premier League,1296714,Khulna Tigers,6,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2022-02-09'],Bangladesh Premier League,1296709,Khulna Tigers,3,5,5,0,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
+['2022-02-07'],Bangladesh Premier League,1296706,Khulna Tigers,8,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2022-02-03'],Bangladesh Premier League,1296701,Khulna Tigers,8,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2020-01-13'],Bangladesh Premier League,1208109,Dhaka Platoon,6,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2020-01-11'],Bangladesh Premier League,1208108,Dhaka Platoon,4,14,7,1,1,200.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
+['2019-12-27'],Bangladesh Premier League,1208087,Dhaka Platoon,5,3,5,0,0,60.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2019-12-24'],Bangladesh Premier League,1208085,Dhaka Platoon,4,22,11,3,1,200.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,46,0,0,46
+['2019-12-23'],Bangladesh Premier League,1208083,Dhaka Platoon,5,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2019-12-18'],Bangladesh Premier League,1208078,Dhaka Platoon,3,27,19,2,2,142.11,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,53,0,0,53
+['2019-12-14'],Bangladesh Premier League,1208074,Dhaka Platoon,4,20,12,0,2,166.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,36,0,8,44
+['2019-12-13'],Bangladesh Premier League,1208072,Dhaka Platoon,9,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2019-12-12'],Bangladesh Premier League,1208069,Dhaka Platoon,4,21,19,2,0,110.53,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29
+['2019-02-01'],Bangladesh Premier League,1169418,Sylhet Sixers,6,8,6,0,0,133.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,8,0,20,28
+['2019-01-23'],Bangladesh Premier League,1169406,Sylhet Sixers,8,2,2,0,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
+['2019-01-19'],Bangladesh Premier League,1169399,Sylhet Sixers,6,5,2,1,0,250.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
+['2019-01-18'],Bangladesh Premier League,1169397,Sylhet Sixers,7,25,18,1,1,138.89,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,41,0,0,41
+['2019-01-16'],Bangladesh Premier League,1169396,Sylhet Sixers,6,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6

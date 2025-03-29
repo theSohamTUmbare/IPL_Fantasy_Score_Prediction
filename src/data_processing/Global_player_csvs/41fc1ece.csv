@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-10-01'],Singapore Twenty20 Tri-Series,1201683,Zimbabwe,1,0,4,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2019-09-29'],Singapore Twenty20 Tri-Series,1201682,Zimbabwe,2,2,9,0,0,22.22,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
+['2019-09-27'],Singapore Twenty20 Tri-Series,1201680,Zimbabwe,1,19,18,4,0,105.56,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,35,0,0,35

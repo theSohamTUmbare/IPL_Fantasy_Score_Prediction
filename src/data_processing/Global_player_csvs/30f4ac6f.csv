@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-09-24'],Caribbean Premier League,1323171,Trinbago Knight Riders,11,1,3,0,0,33.33,"1,3,17,19",4.0,24,11,0,38,4,2,0,0,0,0,1,9.5,0,0,0,0,0,1,11,0,12
+['2022-09-10'],Caribbean Premier League,1323155,Trinbago Knight Riders,11,0,0,0,0,0.0,"7,11",2.0,12,6,0,12,1,0,1,0,0,0,4,6.0,0,0,0,0,0,0,33,0,33
+['2022-09-01'],Caribbean Premier League,1323145,Trinbago Knight Riders,11,0,0,0,0,0.0,7,1.0,6,3,0,8,0,1,0,0,0,0,0,8.0,0,0,0,0,0,0,3,0,3

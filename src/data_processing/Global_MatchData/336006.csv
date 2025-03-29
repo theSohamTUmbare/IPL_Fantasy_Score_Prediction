@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Kings XI Punjab,SE Marsh,508a1ea7,1,39,34,4,1,114.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,65,0,12,77
+Kings XI Punjab,JR Hopes,2498e163,2,5,4,1,0,125.0,[12],1.0,6,1,0,10,2,0,0,0,0,0,0,10.0,0,0,0,0,0,9,1,0,10
+Kings XI Punjab,RR Sarwan,36d33dd0,3,31,29,4,1,106.9,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,57,0,0,57
+Kings XI Punjab,Yuvraj Singh,1c914163,4,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Kings XI Punjab,DPMD Jayawardene,d18f9182,5,17,22,2,0,77.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,25,0,8,33
+Kings XI Punjab,IK Pathan,5fa06777,6,17,17,1,1,100.0,"[2, 4, 13, 20]",3.333,20,14,0,13,2,0,1,0,0,0,1,3.9,0,0,1,0,0,27,45,12,84
+Kings XI Punjab,PP Chawla,98ae73b1,6,0,0,0,0,0.0,"[10, 14, 16, 18]",4.0,24,12,0,25,2,0,3,1,1,0,5,6.25,0,0,0,0,0,0,109,0,109
+Kings XI Punjab,U Kaul,622cc511,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,1,0,0,0,0,28,28
+Kings XI Punjab,Gagandeep Singh,890de8cb,8,0,0,0,0,0.0,"[6, 8, 15]",3.0,18,4,0,28,4,0,0,0,0,0,0,9.33,0,0,0,0,0,0,4,0,4
+Kings XI Punjab,S Sreesanth,6b8eb6e5,9,0,0,0,0,0.0,"[1, 3, 5, 11]",4.0,24,17,0,16,2,0,2,0,1,0,2,4.0,1,0,0,0,0,0,81,8,89
+Kings XI Punjab,VRV Singh,034b4b7d,10,0,0,0,0,0.0,"[7, 9, 17, 19]",4.0,24,10,0,33,4,1,1,0,0,0,1,8.25,0,0,0,0,0,0,35,0,35
+Royal Challengers Bangalore,W Jaffer,619aa81f,1,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Royal Challengers Bangalore,V Kohli,ba607b88,2,34,36,5,0,94.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,58,0,0,58
+Royal Challengers Bangalore,CL White,d0513f63,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+Royal Challengers Bangalore,JH Kallis,86dc8f2e,4,0,3,0,0,0.0,"[6, 8, 18]",3.0,18,5,0,14,1,0,0,0,0,0,0,4.67,0,0,0,0,0,0,11,0,11
+Royal Challengers Bangalore,R Dravid,0184dc35,5,66,51,9,1,129.41,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,116,0,0,116
+Royal Challengers Bangalore,Misbah-ul-Haq,7eae4418,6,8,7,1,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+Royal Challengers Bangalore,P Kumar,e938e1bc,7,0,2,0,0,0.0,"[5, 9, 11, 13]",4.0,24,13,1,22,2,1,2,0,0,0,0,5.5,0,0,0,0,0,-2,79,0,77
+Royal Challengers Bangalore,DT Patil,f48cf4da,8,4,1,1,0,400.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,8,0,16,24
+Royal Challengers Bangalore,Z Khan,91a4a398,9,0,1,0,0,0.0,"[2, 4, 15, 17]",4.0,24,12,0,29,4,0,2,0,1,0,3,7.25,0,0,0,0,0,-2,70,0,68
+Royal Challengers Bangalore,A Kumble,0c2730df,10,3,7,0,0,42.86,"[7, 10, 12, 19]",3.333,20,7,0,36,5,1,0,0,0,0,2,10.8,0,0,0,0,0,3,5,0,8
+Royal Challengers Bangalore,DW Steyn,8fd1a8f5,11,1,3,0,0,33.33,"[1, 3, 14, 16]",4.0,24,14,0,16,0,1,0,0,0,0,2,4.0,0,0,0,0,0,1,20,0,21

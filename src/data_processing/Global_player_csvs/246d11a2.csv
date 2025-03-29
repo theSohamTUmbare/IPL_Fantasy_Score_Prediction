@@ -1,0 +1,10 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-12-27'],Bangladesh Premier League,1208088,Rangpur Rangers,7,16,13,1,0,123.08,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,20,0,8,28
+['2019-12-21'],Bangladesh Premier League,1208082,Rangpur Rangers,4,16,20,0,0,80.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24
+['2019-02-04'],Bangladesh Premier League,1169421,Chittagong Vikings,3,24,19,2,1,126.32,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,38,0,0,38
+['2019-01-29'],Bangladesh Premier League,1169413,Chittagong Vikings,2,0,3,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2017-11-29'],Bangladesh Premier League,1121278,Dhaka Dynamites,3,9,15,1,0,60.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,-2,11,0,6,17
+['2015-12-06'],Bangladesh Premier League,935325,Dhaka Dynamites,2,16,20,3,0,80.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,28,0,8,36
+['2015-12-02'],Bangladesh Premier League,935315,Dhaka Dynamites,2,10,11,0,0,90.91,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,10,0,8,18
+['2015-11-27'],Bangladesh Premier League,935305,Dhaka Dynamites,2,15,15,3,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,27,0,8,35
+['2015-11-26'],Bangladesh Premier League,935301,Dhaka Dynamites,2,45,47,6,0,95.74,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,73,0,8,81

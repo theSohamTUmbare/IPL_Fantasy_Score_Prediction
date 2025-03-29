@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Adelaide Strikers,M Klinger,b970a03f,1,32,17,5,1,188.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,68,0,0,68
+Adelaide Strikers,AD Hales,92aeac25,2,49,19,9,1,257.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,101,0,0,101
+Adelaide Strikers,CJ Ferguson,9b4935c8,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Adelaide Strikers,PJ Hughes,004c9e85,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Adelaide Strikers,NJ Reardon,c7bdb5b5,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Adelaide Strikers,MG Neser,0164b064,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Adelaide Strikers,TP Ludeman,c3f7898b,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Adelaide Strikers,J Botha,7c503806,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Adelaide Strikers,KW Richardson,dfc4d8b5,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Adelaide Strikers,BS Oakley,0771bb8c,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Adelaide Strikers,JR Dean,97188292,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Hobart Hurricanes,TR Birt,d2d4bb0a,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Hobart Hurricanes,TD Paine,5748e866,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Hobart Hurricanes,GJ Bailey,5056011d,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Hobart Hurricanes,OA Shah,7bf96684,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Hobart Hurricanes,BR Dunk,272d796e,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Hobart Hurricanes,JM Mennie,f048bb41,8,0,0,0,0,0.0,[1],1.0,6,0,0,13,3,0,0,0,0,0,0,13.0,0,0,0,0,0,0,0,0,0
+Hobart Hurricanes,EP Gulbis,bbce4647,9,0,0,0,0,0.0,[5],1.0,6,0,0,24,4,1,0,0,0,0,1,24.0,0,0,0,1,0,0,0,6,6
+Hobart Hurricanes,Shoaib Malik,64c34cd0,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Hobart Hurricanes,XJ Doherty,502b2c81,11,0,0,0,0,0.0,[3],1.0,6,0,0,17,2,1,0,0,0,0,1,17.0,0,0,0,0,0,0,0,0,0
+Hobart Hurricanes,B Laughlin,b2a79f17,12,0,0,0,0,0.0,[6],1.0,6,2,0,8,1,0,0,0,0,0,0,8.0,0,0,0,1,0,0,2,6,8
+Hobart Hurricanes,DE Bollinger,45c2196c,13,0,0,0,0,0.0,"[2, 4]",2.0,12,4,0,21,4,0,0,0,0,0,0,10.5,0,0,0,0,0,0,2,0,2

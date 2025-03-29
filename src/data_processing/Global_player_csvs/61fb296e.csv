@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-07-31'],Bangladesh tour of Zimbabwe,1323296,Zimbabwe,11,0,0,0,0,0.0,"3,18",1.5,9,4,0,19,1,2,0,0,0,0,1,12.67,0,0,0,0,0,0,4,0,4
+['2022-07-30'],Bangladesh tour of Zimbabwe,1323295,Zimbabwe,11,0,0,0,0,0.0,"3,6,20",3.0,18,7,0,28,2,2,0,0,0,1,2,9.33,1,0,0,0,0,0,7,8,15
+['2022-05-17'],Namibia tour of Zimbabwe,1310938,Zimbabwe,11,0,0,0,0,0.0,"2,5",2.0,12,5,0,23,2,1,0,0,0,1,2,11.5,0,0,0,0,0,0,1,0,1

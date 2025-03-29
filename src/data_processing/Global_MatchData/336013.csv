@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Chennai Super Kings,S Vidyut,756389bd,1,8,4,2,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24
+Chennai Super Kings,SP Fleming,eea6b7f1,2,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+Chennai Super Kings,SK Raina,1dc12ab9,3,26,16,4,0,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,50,0,8,58
+Chennai Super Kings,S Badrinath,3576e47e,4,64,47,6,3,136.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,116,0,0,116
+Chennai Super Kings,MS Dhoni,4a8a2e3b,5,60,43,2,4,139.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,102,0,16,118
+Chennai Super Kings,JA Morkel,c3d35165,6,7,6,0,0,116.67,"[2, 4, 6, 19]",4.0,24,10,0,25,1,1,1,0,0,0,0,6.25,1,0,0,0,0,7,37,8,52
+Chennai Super Kings,CK Kapugedera,cfad138c,11,0,0,0,0,0.0,[8],1.0,6,0,0,8,0,0,0,0,0,0,0,8.0,1,0,0,0,0,0,0,8,8
+Chennai Super Kings,P Amarnath,6ad3a659,12,0,0,0,0,0.0,"[7, 9, 14]",3.0,18,4,0,35,3,2,1,0,0,0,0,11.67,1,0,0,0,0,0,25,8,33
+Chennai Super Kings,MS Gony,ae78bc32,13,0,0,0,0,0.0,"[1, 3, 5, 18]",4.0,24,11,0,38,3,3,1,0,0,0,0,9.5,0,0,0,0,0,0,36,0,36
+Chennai Super Kings,M Muralitharan,4ba44e19,14,0,0,0,0,0.0,"[10, 12, 15, 17]",4.0,24,9,0,32,1,2,1,0,0,0,1,8.0,0,0,0,0,0,0,34,0,34
+Chennai Super Kings,L Balaji,b2b50355,15,0,0,0,0,0.0,"[11, 13, 16, 20]",4.0,24,12,0,24,0,2,5,0,1,0,1,6.0,0,0,0,0,0,0,159,0,159
+Kings XI Punjab,SE Marsh,508a1ea7,1,58,38,3,4,152.63,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,106,0,8,114
+Kings XI Punjab,JR Hopes,2498e163,2,14,7,1,1,200.0,"[10, 12, 17, 19]",4.0,24,6,0,36,3,1,0,0,0,0,2,9.0,0,0,0,0,0,24,6,0,30
+Kings XI Punjab,K Goel,a1f1829d,3,1,7,0,0,14.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+Kings XI Punjab,RR Sarwan,36d33dd0,4,20,22,0,0,90.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
+Kings XI Punjab,Yuvraj Singh,1c914163,5,2,5,0,0,40.0,[14],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,1,0,0,0,0,2,1,8,11
+Kings XI Punjab,DPMD Jayawardene,d18f9182,6,8,6,0,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,14,0,8,22
+Kings XI Punjab,IK Pathan,5fa06777,7,40,18,3,3,222.22,"[2, 4, 13, 20]",4.0,24,9,0,33,1,2,0,0,0,0,3,8.25,0,0,0,0,6,80,9,0,89
+Kings XI Punjab,PP Chawla,98ae73b1,8,17,15,1,1,113.33,"[7, 9, 11]",3.0,18,5,0,36,2,3,1,0,0,0,1,12.0,0,0,0,0,0,27,26,0,53
+Kings XI Punjab,S Sreesanth,6b8eb6e5,9,0,0,0,0,0.0,"[1, 3, 5, 16]",4.0,24,10,0,29,4,0,2,0,0,0,3,7.25,0,0,0,0,0,0,60,0,60
+Kings XI Punjab,VRV Singh,034b4b7d,10,0,1,0,0,0.0,"[6, 8, 15, 18]",4.0,24,9,0,35,3,1,1,0,0,1,1,8.75,0,0,0,0,0,-2,34,0,32
+Kings XI Punjab,U Kaul,622cc511,11,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0

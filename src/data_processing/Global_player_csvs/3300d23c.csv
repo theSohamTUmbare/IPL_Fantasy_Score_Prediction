@@ -1,0 +1,11 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-07-14'],Ireland v Zimbabwe,1168522,Zimbabwe,7,0,0,0,0,0.0,"7,9,13,16",4.0,24,7,0,33,3,2,0,0,0,0,0,8.25,0,0,0,0,0,0,7,0,7
+['2019-06-23'],Zimbabwe tour of Netherlands and Ireland,1188379,Zimbabwe,2,4,4,1,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16
+['2018-10-12'],Zimbabwe tour of South Africa,1144150,Zimbabwe,2,1,3,0,0,33.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2018-07-06'],Zimbabwe Twenty20 Tri-Series,1142918,Zimbabwe,2,63,52,5,2,121.15,"7,9",2.0,12,2,0,17,1,0,0,0,0,0,0,8.5,0,0,0,0,0,103,2,0,105
+['2018-07-04'],Zimbabwe Twenty20 Tri-Series,1142916,Zimbabwe,2,94,63,6,6,149.21,"12,14",2.0,12,3,0,15,1,0,1,0,0,0,1,7.5,1,0,0,0,2,168,28,8,204
+['2018-07-03'],Zimbabwe Twenty20 Tri-Series,1142915,Zimbabwe,2,28,19,5,1,147.37,16,1.0,6,0,0,21,3,1,0,0,0,0,0,21.0,0,0,0,0,2,60,0,0,60
+['2018-07-01'],Zimbabwe Twenty20 Tri-Series,1142913,Zimbabwe,1,27,29,1,2,93.1,"11,13,19",3.0,18,6,0,29,1,1,0,0,0,0,3,9.67,0,0,0,0,0,47,6,0,53
+['2017-12-05'],Bangladesh Premier League,1121283,Comilla Victorians,2,0,2,0,0,0.0,11,1.0,6,3,0,4,0,0,1,0,0,0,0,4.0,0,0,0,0,0,-2,28,0,26
+['2014-01-22'],Big Bash League,654087,Melbourne Renegades,5,1,2,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2014-01-18'],Big Bash League,654083,Melbourne Renegades,6,1,1,0,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1

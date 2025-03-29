@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Mumbai Indians,PA Patel,b5da6c24,1,39,24,7,0,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,75,0,8,83
+Mumbai Indians,JC Buttler,99b75528,2,14,11,3,0,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26
+Mumbai Indians,RG Sharma,740742ef,3,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+Mumbai Indians,N Rana,fb2d1dda,4,45,36,3,2,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,73,0,8,81
+Mumbai Indians,KA Pollard,a757b0d8,5,11,11,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,17,0,16,33
+Mumbai Indians,KH Pandya,5b8c830e,6,37,20,3,3,185.0,[13],1.0,6,0,0,12,1,0,0,0,0,1,1,12.0,0,0,0,0,6,77,0,0,77
+Mumbai Indians,HH Pandya,dbe50b21,7,2,3,0,0,66.67,"[8, 10, 16]",3.0,18,8,0,22,2,1,1,0,1,0,3,7.33,0,0,0,0,0,2,41,0,43
+Mumbai Indians,MJ McClenaghan,51a3c5ef,8,0,0,0,0,0.0,"[7, 9, 12, 15]",4.0,24,7,0,42,6,1,1,0,1,0,0,10.5,0,0,0,0,0,0,38,0,38
+Mumbai Indians,Harbhajan Singh,8b5b6769,8,3,3,0,0,100.0,"[1, 3, 11, 14]",4.0,24,14,0,23,3,1,2,0,0,0,0,5.75,0,0,0,0,0,3,68,0,71
+Mumbai Indians,SL Malinga,a12e1d51,9,0,0,0,0,0.0,"[2, 5, 17, 19]",4.0,24,7,0,30,4,0,1,0,0,0,1,7.5,0,0,0,0,0,0,32,0,32
+Mumbai Indians,JJ Bumrah,462411b3,10,0,0,0,0,0.0,"[4, 6, 18, 20]",4.0,24,9,0,24,2,0,3,0,1,0,0,6.0,1,0,0,0,0,0,98,8,106
+Sunrisers Hyderabad,S Dhawan,0a476045,1,48,42,5,1,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,78,0,8,86
+Sunrisers Hyderabad,DA Warner,dcce6f09,2,49,34,7,2,144.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,95,0,0,95
+Sunrisers Hyderabad,DJ Hooda,73ad96ed,3,9,9,1,0,100.0,"[8, 10]",2.0,12,2,0,18,1,1,1,0,0,0,0,9.0,0,0,0,0,0,13,27,0,40
+Sunrisers Hyderabad,Yuvraj Singh,1c914163,4,5,7,1,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
+Sunrisers Hyderabad,BCJ Cutting,2e11c706,5,20,10,4,0,200.0,"[9, 17]",2.0,12,5,0,18,2,1,0,0,0,0,0,9.0,1,0,0,0,6,42,5,8,55
+Sunrisers Hyderabad,NV Ojha,890946a0,6,9,9,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
+Sunrisers Hyderabad,V Shankar,0994d0ae,7,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Sunrisers Hyderabad,Mustafizur Rahman,0a8fce53,8,0,0,0,0,0.0,"[6, 13, 19]",2.667,16,3,0,34,3,2,0,0,0,0,1,12.75,0,0,0,0,0,0,-3,0,-3
+Sunrisers Hyderabad,Rashid Khan,5f547c8b,8,2,4,0,0,50.0,"[5, 7, 11, 15]",4.0,24,11,0,19,0,1,1,1,0,0,0,4.75,0,0,0,0,0,2,50,0,52
+Sunrisers Hyderabad,B Kumar,2e81a32d,9,4,3,0,0,133.33,"[1, 3, 14, 18]",4.0,24,11,0,21,3,0,3,0,1,0,0,5.25,1,0,0,0,0,4,102,8,114
+Sunrisers Hyderabad,A Nehra,96fd40ae,10,0,0,0,0,0.0,"[2, 4, 12, 16]",4.0,24,7,0,46,7,1,1,0,1,0,0,11.5,0,0,0,0,0,0,36,0,36

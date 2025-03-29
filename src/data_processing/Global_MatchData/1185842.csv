@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Barbados Tridents,AD Hales,92aeac25,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Barbados Tridents,J Charles,09a9d073,2,19,13,4,0,146.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,37,0,0,37
+Barbados Tridents,LS Boucher,3b647e2b,3,16,14,3,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,28,0,16,44
+Barbados Tridents,JP Duminy,2e8994e7,4,20,16,2,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
+Barbados Tridents,JL Carter,0a9d8b61,5,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+Barbados Tridents,JO Holder,0f721006,6,4,5,0,0,80.0,"[1, 3, 5, 18]",4.0,24,14,1,31,0,4,1,0,0,0,1,7.75,0,0,0,0,0,4,51,0,55
+Barbados Tridents,AR Nurse,4a745f65,7,40,25,3,3,160.0,"[7, 11, 13, 15]",4.0,24,3,0,38,2,2,0,0,0,0,0,9.5,1,0,0,0,4,78,3,8,89
+Barbados Tridents,RS Primus,6f4c73ce,8,14,13,1,0,107.69,"[8, 10, 12, 19]",4.0,24,11,0,35,2,3,2,0,0,0,1,8.75,0,0,0,0,0,18,61,0,79
+Barbados Tridents,RA Reifer,d7725664,9,0,1,0,0,0.0,"[9, 14, 16, 20]",4.0,24,3,0,46,2,3,1,0,0,0,2,11.5,0,0,0,0,0,-2,24,0,22
+Barbados Tridents,JK Lalor,88209c84,10,8,7,1,0,114.29,"[2, 4, 17]",3.0,18,9,0,21,2,1,0,0,0,0,2,7.0,0,0,0,0,0,12,11,0,23
+Barbados Tridents,S Lamichhane,b410bd3d,11,0,2,0,0,0.0,[6],1.0,6,4,0,5,1,0,0,0,0,0,0,5.0,0,0,0,0,0,-2,4,0,2
+Guyana Amazon Warriors,BA King,7fca84b7,1,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Guyana Amazon Warriors,C Hemraj,9d450c28,2,63,55,6,3,114.55,"[1, 3]",2.0,12,8,0,10,2,0,1,0,1,0,0,5.0,0,0,0,0,0,113,45,0,158
+Guyana Amazon Warriors,SO Hetmyer,48a1d7b7,3,9,12,0,1,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,15,0,8,23
+Guyana Amazon Warriors,Shoaib Malik,64c34cd0,4,4,5,0,0,80.0,[7],1.0,6,2,0,5,0,0,1,0,1,0,0,5.0,0,0,0,0,0,4,35,0,39
+Guyana Amazon Warriors,N Pooran,3241e3fd,5,61,30,3,5,203.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,117,0,8,125
+Guyana Amazon Warriors,SE Rutherford,d014d5ac,6,32,14,0,4,228.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,66,0,0,66
+Guyana Amazon Warriors,Shadab Khan,9de62878,11,0,0,0,0,0.0,"[4, 6, 11, 14]",4.0,24,5,0,39,4,2,2,0,0,0,0,9.75,0,0,0,0,0,0,55,0,55
+Guyana Amazon Warriors,CJ Green,19b9f399,12,0,0,0,0,0.0,"[2, 5, 8, 16]",4.0,24,5,0,38,4,1,0,0,0,0,2,9.5,0,0,0,0,0,0,5,0,5
+Guyana Amazon Warriors,KMA Paul,75224f22,13,0,0,0,0,0.0,"[10, 12]",2.0,12,4,0,11,1,0,1,0,1,0,1,5.5,1,0,0,0,0,0,41,8,49
+Guyana Amazon Warriors,R Shepherd,c5aef772,14,0,0,0,0,0.0,"[13, 15, 17]",2.667,16,7,0,13,1,0,4,0,2,0,1,4.87,0,0,0,0,0,0,137,0,137
+Guyana Amazon Warriors,OF Smith,23cca426,15,0,0,0,0,0.0,[9],1.0,6,1,0,12,2,0,0,0,0,0,1,12.0,1,0,0,0,0,0,1,8,9

@@ -1,0 +1,18 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2013-03-28'],Ram Slam T20 Challenge,575185,Dolphins,11,1,6,0,0,16.67,"1,3,12,18",4.0,24,8,0,46,6,1,0,0,0,0,2,11.5,0,0,0,0,0,1,4,0,5
+['2013-03-22'],Ram Slam T20 Challenge,575181,Dolphins,11,0,0,0,0,0.0,"1,3,5,17",4.0,24,15,0,18,1,1,2,0,0,0,0,4.5,0,0,0,0,0,0,71,0,71
+['2013-03-14'],Ram Slam T20 Challenge,575177,Dolphins,10,0,0,0,0,0.0,"2,4,6,19",4.0,24,10,0,36,4,2,0,0,0,0,1,9.0,1,0,0,0,0,0,10,8,18
+['2013-03-08'],Ram Slam T20 Challenge,575172,Dolphins,11,0,0,0,0,0.0,"1,3,6,18",4.0,24,14,1,17,0,1,2,0,0,0,1,4.25,2,0,0,0,0,0,82,16,98
+['2010-03-16'],Indian Premier League,419112,Kings XI Punjab,10,0,0,0,0,0.0,"5,12,19",2.833,17,4,0,36,4,2,0,0,0,0,1,12.71,0,0,0,0,0,0,-2,0,-2
+['2010-03-13'],Indian Premier League,419108,Kings XI Punjab,11,0,1,0,0,0.0,"7,9,13,19",4.0,24,9,0,30,3,1,1,0,0,0,0,7.5,0,0,0,0,0,0,34,0,34
+['2009-11-15'],England in South Africa T20I Series,387564,South Africa,11,0,0,0,0,0.0,"2,4,6,13",4.0,24,12,0,28,5,0,1,0,1,0,1,7.0,0,0,0,0,0,0,47,0,47
+['2009-05-07'],Indian Premier League,392214,Kings XI Punjab,10,0,0,0,0,0.0,"5,8",2.0,12,3,0,18,3,0,0,0,0,0,0,9.0,0,0,0,0,0,0,3,0,3
+['2009-05-05'],Indian Premier League,392210,Kings XI Punjab,11,0,0,0,0,0.0,"6,10,16",3.0,18,5,0,44,6,2,0,0,0,1,0,14.67,0,0,0,0,0,0,-1,0,-1
+['2009-05-03'],Indian Premier League,392207,Kings XI Punjab,11,0,0,0,0,0.0,"3,5,15,19",4.0,24,8,0,33,4,1,1,0,0,0,0,8.25,0,0,0,0,0,0,33,0,33
+['2009-05-01'],Indian Premier League,392204,Kings XI Punjab,11,0,0,0,0,0.0,"5,7,18,20",4.0,24,12,1,36,4,2,4,0,1,0,1,9.0,0,0,0,0,0,0,140,0,140
+['2009-04-29'],Indian Premier League,392200,Kings XI Punjab,11,0,0,0,0,0.0,"5,7,15,20",4.0,24,15,0,19,1,0,2,1,0,0,3,4.75,0,0,0,0,0,0,79,0,79
+['2009-04-26'],Indian Premier League,392195,Kings XI Punjab,11,0,0,0,0,0.0,"3,5,15,19",4.0,24,14,0,21,3,0,3,0,2,0,1,5.25,0,0,0,0,0,0,113,0,113
+['2009-04-24'],Indian Premier League,392191,Kings XI Punjab,11,0,0,0,0,0.0,"4,6,17,19",4.0,24,11,0,31,1,2,4,0,1,0,3,7.75,0,0,0,0,0,0,127,0,127
+['2009-04-21'],Indian Premier League,392186,Kings XI Punjab,11,0,0,0,0,0.0,"2,4",2.0,12,5,0,20,0,2,0,0,0,0,2,10.0,0,0,0,0,0,0,3,0,3
+['2009-04-19'],Indian Premier League,392183,Kings XI Punjab,11,0,0,0,0,0.0,2,1.0,6,2,0,19,3,1,0,0,0,0,1,19.0,0,0,0,0,0,0,2,0,2
+['2009-03-29'],Australia in South Africa T20I Series,350476,South Africa,10,0,0,0,0,0.0,"2,4,6",3.0,18,11,0,16,0,1,1,0,0,0,2,5.33,0,0,0,0,0,0,40,0,40

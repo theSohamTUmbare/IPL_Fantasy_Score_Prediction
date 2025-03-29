@@ -1,0 +1,12 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-12-21'],Gulf T20I Championship,1463667,United Arab Emirates,9,4,1,1,0,400.0,8,1.0,6,0,0,12,1,0,0,0,0,0,1,12.0,1,0,0,0,0,8,0,8,16
+['2024-12-19'],Gulf T20I Championship,1463664,United Arab Emirates,8,0,0,0,0,0.0,"7,15",2.0,12,4,0,15,0,1,0,0,0,0,0,7.5,2,0,0,0,0,0,4,16,20
+['2024-11-19'],ICC Men's T20 World Cup Asia Qualifier B,1457218,United Arab Emirates,11,0,0,0,0,0.0,"3,5,11,18",4.0,24,13,0,20,1,1,1,0,0,0,0,5.0,0,0,0,0,0,0,42,0,42
+['2023-11-03'],ICC Men's T20 World Cup Asia Qualifier Final,1405326,United Arab Emirates,9,0,1,0,0,0.0,"3,11,15,17",4.0,24,6,0,40,4,2,1,0,0,0,0,10.0,0,0,0,0,0,0,29,0,29
+['2023-11-02'],ICC Men's T20 World Cup Asia Qualifier Final,1405322,United Arab Emirates,11,0,0,0,0,0.0,"2,4,7,14",4.0,24,8,0,26,3,0,1,0,0,0,0,6.5,0,0,0,0,0,0,35,0,35
+['2023-10-31'],ICC Men's T20 World Cup Asia Qualifier Final,1405320,United Arab Emirates,9,0,0,0,0,0.0,"8,10,12,14",4.0,24,14,0,16,2,0,2,1,1,0,0,4.0,0,0,0,0,0,0,86,0,86
+['2023-10-25'],Nepal Tri-Nation T20I Series,1403293,United Arab Emirates,7,31,26,3,0,119.23,"2,8,10,16",4.0,24,13,1,13,1,0,1,0,0,0,0,3.25,1,0,0,0,0,47,56,8,111
+['2023-10-23'],Nepal Tri-Nation T20I Series,1403292,United Arab Emirates,8,8,4,1,0,200.0,"8,10,12,14",4.0,24,6,0,34,4,0,0,0,0,0,3,8.5,0,0,0,0,0,12,6,0,18
+['2023-10-22'],Nepal Tri-Nation T20I Series,1403291,United Arab Emirates,9,0,0,0,0,0.0,"2,4,12,14",4.0,24,12,0,28,2,1,2,0,0,0,2,7.0,0,0,0,0,0,0,64,0,64
+['2023-10-18'],Nepal Tri-Nation T20I Series,1403288,United Arab Emirates,9,4,4,0,0,100.0,"5,8,10,14",4.0,24,10,0,27,2,1,1,0,0,0,0,6.75,0,0,0,0,0,4,37,0,41
+['2023-09-22'],Gulf Cricket T20I Championship,1397437,United Arab Emirates,7,8,13,0,0,61.54,"5,7,9,14",4.0,24,11,0,23,0,1,1,0,0,0,2,5.75,0,0,0,0,-2,6,40,0,46

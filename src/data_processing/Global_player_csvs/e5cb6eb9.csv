@@ -1,0 +1,3 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-06-20'],ICC Men's T20 World Cup Europe Region Final,1185188,Norway,7,10,15,1,0,66.67,5,1.0,6,2,0,10,2,0,0,0,0,0,0,10.0,0,0,0,0,-2,12,2,0,14
+['2019-06-19'],ICC Men's T20 World Cup Europe Region Final,1185191,Norway,5,25,16,0,3,156.25,"3,5",2.0,12,9,0,6,0,0,1,0,0,0,1,3.0,1,0,0,0,4,51,40,8,99

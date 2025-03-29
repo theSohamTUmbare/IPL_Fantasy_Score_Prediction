@@ -1,0 +1,7 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2012-01-19'],Big Bash League,524942,Adelaide Strikers,7,4,6,0,0,66.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,4,0,20,24
+['2012-01-10'],Big Bash League,524936,Adelaide Strikers,7,13,21,1,0,61.9,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,2,-2,15,0,24,39
+['2012-01-08'],Big Bash League,524934,Adelaide Strikers,3,5,5,1,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,9,0,14,23
+['2011-12-28'],Big Bash League,524924,Adelaide Strikers,3,5,10,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,1,0,0,1
+['2011-12-23'],Big Bash League,524922,Adelaide Strikers,7,18,12,3,0,150.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,30,0,12,42
+['2011-12-18'],Big Bash League,524917,Adelaide Strikers,5,15,6,0,2,250.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,27,0,20,47

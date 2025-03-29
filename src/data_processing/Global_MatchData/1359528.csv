@@ -1,0 +1,24 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Mumbai Indians,Ishan Kishan,752f7486,1,42,21,4,4,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,92,0,8,100
+Mumbai Indians,RG Sharma,740742ef,2,7,8,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
+Mumbai Indians,SA Yadav,271f83cd,3,83,34,7,6,244.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,165,0,0,165
+Mumbai Indians,N Wadhera,d1a60072,4,52,33,4,3,157.58,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,4,98,0,16,114
+Mumbai Indians,TH David,f1f99156,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Mumbai Indians,C Green,eaa76d3c,6,2,2,0,0,100.0,"[4, 15]",2.0,12,6,0,15,3,0,1,0,0,0,0,7.5,1,0,0,0,0,2,31,8,41
+Mumbai Indians,CJ Jordan,ffe699c0,6,0,0,0,0,0.0,"[7, 11, 17, 19]",4.0,24,7,0,48,4,3,1,0,0,0,1,12.0,0,0,0,0,0,0,28,0,28
+Mumbai Indians,PP Chawla,98ae73b1,7,0,0,0,0,0.0,"[2, 6, 8, 12]",4.0,24,8,0,41,5,2,0,0,0,0,0,10.25,0,0,0,0,0,0,6,0,6
+Mumbai Indians,JP Behrendorff,4933f499,8,0,0,0,0,0.0,"[1, 3, 5, 13]",4.0,24,9,0,36,5,1,3,0,0,0,0,9.0,0,0,0,0,0,0,88,0,88
+Mumbai Indians,K Kartikeya,f6d8a7ab,9,0,0,0,0,0.0,"[9, 14, 16, 18]",4.0,24,5,0,35,3,1,1,0,1,0,1,8.75,0,0,0,0,0,0,38,0,38
+Mumbai Indians,Akash Madhwal,4bd09374,10,0,0,0,0,0.0,"[10, 20]",2.0,12,1,0,23,1,1,0,0,0,1,0,11.5,0,0,0,0,0,0,-3,0,-3
+Royal Challengers Bangalore,V Kohli,ba607b88,1,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Royal Challengers Bangalore,F du Plessis,3355b542,2,65,40,5,3,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,115,0,0,115
+Royal Challengers Bangalore,Anuj Rawat,c8f5f961,3,6,4,1,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,10,0,8,18
+Royal Challengers Bangalore,GJ Maxwell,b681e71e,4,68,33,8,4,206.06,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,138,0,8,146
+Royal Challengers Bangalore,MK Lomror,da934ee8,5,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Royal Challengers Bangalore,JR Hazlewood,03806cf8,6,0,0,0,0,0.0,"[2, 4, 12]",3.0,18,7,0,32,5,1,0,0,0,0,1,10.67,0,0,0,0,0,0,5,0,5
+Royal Challengers Bangalore,KD Karthik,c03f1114,6,30,18,4,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,60,0,0,60
+Royal Challengers Bangalore,Mohammed Siraj,2f49c897,7,0,0,0,0,0.0,"[1, 3, 14]",3.0,18,9,0,31,2,3,0,0,0,0,1,10.33,0,0,0,0,0,0,7,0,7
+Royal Challengers Bangalore,KM Jadhav,99d63244,7,12,10,1,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24
+Royal Challengers Bangalore,Vijaykumar Vyshak,54e52590,8,0,0,0,0,0.0,"[6, 8, 16]",3.0,18,7,0,37,2,3,2,0,0,1,1,12.33,0,0,0,0,0,0,51,0,51
+Royal Challengers Bangalore,PWH de Silva,a97c8ec2,8,12,8,2,0,150.0,"[5, 9, 11, 15]",4.0,24,5,0,53,2,5,2,1,0,0,2,13.25,0,0,0,0,0,20,57,0,77
+Royal Challengers Bangalore,HV Patel,f986ca1a,9,0,0,0,0,0.0,"[7, 10, 13, 17]",3.5,21,2,0,41,5,1,0,0,0,1,1,11.71,0,0,0,0,0,0,-2,0,-2

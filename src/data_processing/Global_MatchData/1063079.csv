@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Barisal Bulls,EMDY Munaweera,5a22d91c,1,7,9,0,1,77.78,[12],1.0,6,1,0,6,0,0,0,0,0,0,0,6.0,0,0,0,0,0,13,1,0,14
+Barisal Bulls,DJ Malan,ad9c32a2,2,9,10,1,0,90.0,"[13, 15]",2.0,12,5,0,8,0,0,1,0,0,0,0,4.0,0,0,0,0,0,13,36,0,49
+Barisal Bulls,BMAJ Mendis,9868bc75,3,28,24,2,2,116.67,[7],1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,0,52,1,0,53
+Barisal Bulls,Kamrul Islam Rabbi,f7e9a562,4,0,0,0,0,0.0,[6],1.0,6,2,0,11,2,0,0,0,0,0,1,11.0,1,0,0,0,0,0,2,8,10
+Barisal Bulls,Mushfiqur Rahim,a94e08ea,4,29,23,1,1,126.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,43,0,8,51
+Barisal Bulls,Shahriar Nafees,b9c225c2,5,11,13,1,0,84.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
+Barisal Bulls,Nadif Chowdhury,d6ac6545,6,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Barisal Bulls,Enamul Haque,7d6c0891,7,20,15,1,1,133.33,"[8, 10]",2.0,12,5,0,11,1,0,0,0,0,0,0,5.5,0,0,0,0,2,32,9,0,41
+Barisal Bulls,Rumman Raees,1c790f4f,8,4,6,1,0,66.67,"[2, 4, 17, 19]",4.0,24,6,0,38,4,1,1,0,0,0,0,9.5,0,0,0,0,0,8,31,0,39
+Barisal Bulls,Taijul Islam,9d1d34bd,9,14,13,3,0,107.69,"[1, 3, 11, 14]",4.0,24,9,0,27,2,1,0,0,0,0,0,6.75,0,0,0,0,0,26,11,0,37
+Barisal Bulls,Abu Hider,31803fac,10,16,5,0,2,320.0,"[5, 9, 16, 18]",4.0,24,5,0,30,3,0,0,0,0,0,0,7.5,0,0,0,0,0,28,5,0,33
+Comilla Victorians,Imrul Kayes,5fbe14fc,1,46,35,6,1,131.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,82,0,0,82
+Comilla Victorians,Ahmed Shehzad,f8fd6e3f,2,61,56,5,0,108.93,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,89,0,0,89
+Comilla Victorians,MN Samuels,f846de6a,3,27,18,2,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,45,0,12,57
+Comilla Victorians,Khalid Latif,5eea345c,4,7,5,1,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
+Comilla Victorians,Mashrafe Mortaza,e186f49c,4,0,0,0,0,0.0,"[1, 3, 15, 17]",4.0,24,15,0,17,2,0,0,0,0,0,1,4.25,1,0,0,0,0,0,21,8,29
+Comilla Victorians,Liton Das,0404d43c,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,0,20,20
+Comilla Victorians,Rashid Khan,5f547c8b,6,0,0,0,0,0.0,"[6, 13, 16, 19]",4.0,24,14,0,21,2,1,2,1,0,0,0,5.25,0,0,0,0,0,0,76,0,76
+Comilla Victorians,Mohammad Saifuddin,b3a28446,7,0,0,0,0,0.0,"[7, 9, 18, 20]",4.0,24,6,0,47,2,3,1,0,0,1,1,11.75,0,0,0,0,0,0,27,0,27
+Comilla Victorians,Nabil Samad,b8d18afc,8,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,11,0,17,1,0,3,0,2,0,0,4.25,0,0,0,0,0,0,112,0,112
+Comilla Victorians,Nazmul Hossain Shanto,1274d7ab,9,0,0,0,0,0.0,[4],1.0,6,2,0,17,1,2,0,0,0,0,0,17.0,0,0,0,0,0,0,2,0,2
+Comilla Victorians,Shahadat Hossain,090f9211,10,0,0,0,0,0.0,"[2, 5, 11]",3.0,18,7,0,22,2,1,1,0,1,0,0,7.33,0,0,0,0,0,0,40,0,40

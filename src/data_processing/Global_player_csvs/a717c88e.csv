@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-11-03'],Syed Mushtaq Ali Trophy,1333054,Vidarbha,2,4,5,1,0,80.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+['2022-11-01'],Syed Mushtaq Ali Trophy,1333050,Vidarbha,2,31,29,4,0,106.9,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,51,0,8,59
+['2022-10-30'],Syed Mushtaq Ali Trophy,1333047,Vidarbha,2,63,52,7,3,121.15,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,117,0,0,117
+['2021-11-09'],Syed Mushtaq Ali Trophy,1280291,Vidarbha,1,18,13,3,0,138.46,"18,20",2.0,12,7,0,9,0,1,0,0,0,0,0,4.5,0,0,0,0,2,32,13,0,45

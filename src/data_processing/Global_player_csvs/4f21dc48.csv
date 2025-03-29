@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-10-24'],ICC Men's T20 World Cup Qualifier,1199527,Hong Kong,2,14,9,2,0,155.56,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
+['2019-10-23'],ICC Men's T20 World Cup Qualifier,1199524,Hong Kong,2,7,10,0,0,70.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,5,0,0,5
+['2019-10-21'],ICC Men's T20 World Cup Qualifier,1199513,Hong Kong,2,18,20,2,0,90.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26
+['2019-10-07'],Oman Pentangular T20I Series,1197525,Hong Kong,1,11,14,1,0,78.57,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
+['2019-10-06'],Oman Pentangular T20I Series,1197523,Hong Kong,1,13,16,2,0,81.25,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21

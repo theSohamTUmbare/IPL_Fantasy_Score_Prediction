@@ -1,0 +1,17 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2013-02-11'],Bangladesh Premier League,599899,Khulna Royal Bengals,5,6,10,1,0,60.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,8,0,0,8
+['2013-02-08'],Bangladesh Premier League,599895,Khulna Royal Bengals,11,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2013-01-29'],Bangladesh Premier League,599882,Khulna Royal Bengals,1,0,2,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2013-01-25'],Bangladesh Premier League,599878,Khulna Royal Bengals,1,2,3,0,0,66.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
+['2013-01-24'],Bangladesh Premier League,599876,Khulna Royal Bengals,1,89,51,6,8,174.51,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,179,0,0,179
+['2013-01-23'],Bangladesh Premier League,599874,Khulna Royal Bengals,1,29,20,5,1,145.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,61,0,0,61
+['2013-01-20'],Bangladesh Premier League,599869,Khulna Royal Bengals,5,5,10,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,1,0,8,9
+['2007-12-11'],NA,291343,New Zealand,1,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2007-11-23'],NA,298795,New Zealand,1,15,20,1,0,75.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,19,0,6,25
+['2007-09-22'],ICC World Twenty20,287877,New Zealand,1,28,27,1,1,103.7,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,42,0,0,42
+['2007-09-19'],ICC World Twenty20,287872,New Zealand,1,32,29,4,0,110.34,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,52,0,0,52
+['2007-09-18'],ICC World Twenty20,287869,New Zealand,1,13,17,1,0,76.47,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,17,0,14,31
+['2007-09-16'],ICC World Twenty20,287865,New Zealand,1,3,6,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,3,0,12,15
+['2007-09-15'],ICC World Twenty20,287863,New Zealand,1,14,16,1,0,87.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
+['2007-09-12'],ICC World Twenty20,287854,New Zealand,1,27,20,4,1,135.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,55,0,0,55
+['2006-02-16'],NA,237242,New Zealand,1,42,37,5,1,113.51,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,72,0,0,72

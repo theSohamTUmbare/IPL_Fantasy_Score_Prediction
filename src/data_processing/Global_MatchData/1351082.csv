@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Dhaka Dominators,Soumya Sarkar,4d9f9686,1,37,22,4,2,168.18,"[14, 16]",2.0,12,4,0,14,2,0,1,0,0,0,1,7.0,0,0,0,0,4,73,31,0,104
+Dhaka Dominators,Mohammad Mithun,77191792,2,54,36,6,3,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,104,0,20,124
+Dhaka Dominators,Abdullah Al Mamun,ea36b0ee,3,26,21,1,2,123.81,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,46,0,0,46
+Dhaka Dominators,Nasir Hossain,6eea0b32,4,20,16,2,1,125.0,"[11, 13]",2.0,12,5,0,15,1,1,1,0,0,0,0,7.5,0,0,0,0,0,34,30,0,64
+Dhaka Dominators,AJ Blake,ea27a674,5,15,12,3,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,27,0,16,43
+Dhaka Dominators,Ariful Haque,ad1730bc,6,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+Dhaka Dominators,Muktar Ali,4a491652,7,0,0,0,0,0.0,"[8, 10, 12, 15]",4.0,24,8,0,27,2,1,1,0,0,0,1,6.75,0,0,0,0,0,0,35,0,35
+Dhaka Dominators,Usman Ghani,e3829b2a,7,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
+Dhaka Dominators,Salman Irshad,30afc92b,8,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,12,0,31,4,1,1,0,0,0,1,7.75,0,0,1,0,0,0,37,12,49
+Dhaka Dominators,Shoriful Islam,bb34fd31,9,0,0,0,0,0.0,"[1, 6, 17, 19]",4.0,24,8,0,43,6,2,1,0,0,0,1,10.75,0,0,0,0,0,0,31,0,31
+Dhaka Dominators,Amir Hamza,dca1ac2e,10,0,0,0,0,0.0,"[3, 5, 7, 9]",4.0,24,12,0,22,1,1,2,0,0,0,0,5.5,1,0,0,0,0,0,66,8,74
+Fortune Barishal,Anamul Haque,72b245dd,1,42,35,5,1,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,72,0,8,80
+Fortune Barishal,Saif Hassan,bb95564b,2,15,19,3,0,78.95,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27
+Fortune Barishal,Shakib Al Hasan,7dc35884,3,5,4,0,0,125.0,"[1, 3, 5, 18]",4.0,24,13,0,18,2,0,2,0,1,0,0,4.5,0,0,0,0,0,5,77,0,82
+Fortune Barishal,Ibrahim Zadran,d4550956,4,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+Fortune Barishal,Iftikhar Ahmed,29e253dd,5,10,10,0,1,100.0,"[13, 15, 17]",3.0,18,12,0,15,1,1,0,0,0,0,1,5.0,1,0,0,0,0,16,16,8,40
+Fortune Barishal,Mahmudullah,bf1d7d3e,6,39,27,4,2,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,73,0,0,73
+Fortune Barishal,Khaled Ahmed,5dbdecf1,7,0,0,0,0,0.0,"[4, 6]",2.0,12,5,0,27,3,2,0,0,0,0,0,13.5,0,0,0,0,0,0,-1,0,-1
+Fortune Barishal,Salman Hossain,03ff4a44,7,14,12,3,0,116.67,[11],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,1,0,0,0,0,26,1,8,35
+Fortune Barishal,Sunzamul Islam,0f348f58,8,0,0,0,0,0.0,"[7, 12, 14, 19]",3.833,23,11,0,35,2,3,2,1,0,0,0,9.13,0,0,0,0,0,0,69,0,69
+Fortune Barishal,Karim Janat,62175638,8,17,5,1,2,340.0,"[8, 10]",2.0,12,4,0,20,2,1,1,0,0,0,0,10.0,0,0,0,0,0,33,27,0,60
+Fortune Barishal,Mohammad Wasim,9e9af5f2,9,4,4,0,0,100.0,"[2, 9, 16]",3.0,18,6,0,34,5,1,0,0,0,0,1,11.33,0,0,0,0,0,4,2,0,6

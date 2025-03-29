@@ -1,0 +1,17 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2015-07-15'],ICC World Twenty20 Qualifier,875507,Nepal,2,2,3,0,0,66.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
+['2015-07-02'],Nepal in Netherlands T20I Series,883345,Nepal,2,14,27,0,0,51.85,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,1,-4,10,0,18,28
+['2015-07-01'],Nepal in Netherlands T20I Series,883343,Nepal,2,6,12,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,2,0,0,2
+['2014-11-24'],Hong Kong v Nepal T20I Series,802327,Nepal,1,2,8,0,0,25.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,2,1,0,0,2,0,36,38
+['2014-09-28'],Asian Games Men's Cricket Competition,778023,Nepal,1,27,39,1,1,69.23,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,1,0,-2,39,0,32,71
+['2014-09-27'],Asian Games Men's Cricket Competition,778019,Nepal,1,7,4,1,0,175.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,11,0,6,17
+['2014-03-18'],World T20,682907,Nepal,1,8,13,0,0,61.54,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,-2,6,0,6,12
+['2014-03-16'],World T20,682899,Nepal,1,22,16,4,0,137.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,40,0,16,56
+['2013-11-30'],ICC World Twenty20 Qualifier,660233,Nepal,2,38,46,3,0,82.61,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,54,0,12,66
+['2013-11-27'],ICC World Twenty20 Qualifier,660211,Nepal,1,16,16,1,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
+['2013-11-23'],ICC World Twenty20 Qualifier,660189,Nepal,1,35,35,3,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,51,0,8,59
+['2013-11-20'],ICC World Twenty20 Qualifier,660159,Nepal,1,11,12,2,0,91.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
+['2013-11-19'],ICC World Twenty20 Qualifier,660151,Nepal,1,38,37,4,1,102.7,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,64,0,12,76
+['2013-11-18'],ICC World Twenty20 Qualifier,660139,Nepal,1,6,5,0,1,120.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,12,0,12,24
+['2013-11-16'],ICC World Twenty20 Qualifier,660121,Nepal,1,54,48,6,0,112.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,86,0,8,94
+['2013-11-15'],ICC World Twenty20 Qualifier,660097,Nepal,2,17,28,2,0,60.71,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,-2,23,0,12,35

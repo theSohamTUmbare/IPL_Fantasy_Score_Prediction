@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-02-25'],Syed Mushtaq Ali Trophy,1157157,Uttar Pradesh,9,0,0,0,0,0.0,"6,16,18,20",4.0,24,8,0,33,3,1,0,0,0,0,2,8.25,0,0,0,0,0,0,8,0,8
+['2019-02-22'],Syed Mushtaq Ali Trophy,1157122,Uttar Pradesh,10,0,0,0,0,0.0,"6,8",2.0,12,6,0,10,1,0,0,0,0,0,1,5.0,1,0,0,0,0,0,10,8,18
+['2019-02-21'],Syed Mushtaq Ali Trophy,1157106,Uttar Pradesh,10,5,7,0,0,71.43,"4,6,15,18",4.0,24,7,0,34,2,1,2,0,1,0,2,8.5,0,0,0,0,0,5,65,0,70

@@ -1,0 +1,17 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-07-07'],India tour of Zimbabwe,1420224,Zimbabwe,1,4,3,1,0,133.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+['2024-07-06'],India tour of Zimbabwe,1420223,Zimbabwe,2,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2023-11-30'],ICC Men's T20 World Cup Africa Region Qualifier,1407107,Zimbabwe,4,18,8,1,2,225.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,34,0,8,42
+['2023-11-26'],ICC Men's T20 World Cup Africa Region Qualifier,1407099,Zimbabwe,1,23,23,2,1,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,37,0,0,37
+['2023-11-23'],ICC Men's T20 World Cup Africa Region Qualifier,1407093,Zimbabwe,1,21,18,3,0,116.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,33,0,8,41
+['2023-10-30'],Zimbabwe tour of Namibia,1404394,Zimbabwe,1,1,4,0,0,25.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+['2023-10-29'],Zimbabwe tour of Namibia,1404393,Zimbabwe,1,15,8,2,0,187.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
+['2023-10-25'],Zimbabwe tour of Namibia,1404391,Zimbabwe,2,37,30,4,1,123.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,63,0,0,63
+['2023-10-24'],Zimbabwe tour of Namibia,1404390,Zimbabwe,3,4,6,0,0,66.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+['2023-01-15'],Ireland tour of Zimbabwe,1348325,Zimbabwe,2,23,23,3,0,100.0,10,1.0,6,3,0,4,0,0,0,0,0,0,0,4.0,0,0,0,0,0,35,3,0,38
+['2023-01-14'],Ireland tour of Zimbabwe,1348324,Zimbabwe,2,25,14,3,1,178.57,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,53,0,0,53
+['2022-07-14'],ICC Men's T20 World Cup Qualifier,1321475,Zimbabwe,4,2,5,0,0,40.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2022-05-24'],Namibia tour of Zimbabwe,1310942,Zimbabwe,2,12,13,2,0,92.31,11,1.0,6,4,0,5,1,0,0,0,0,0,0,5.0,0,0,0,0,0,20,4,0,24
+['2022-05-22'],Namibia tour of Zimbabwe,1310941,Zimbabwe,2,7,13,0,0,53.85,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,3,0,8,11
+['2022-05-21'],Namibia tour of Zimbabwe,1310940,Zimbabwe,2,19,18,1,0,105.56,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
+['2021-09-17'],Zimbabwe tour of Ireland and Scotland,1273272,Zimbabwe,1,7,9,1,0,77.78,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,11,0,28,39

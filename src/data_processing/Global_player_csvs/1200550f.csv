@@ -1,0 +1,16 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2014-05-30'],NatWest T20 Blast,693057,Sussex,3,39,24,5,1,162.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,4,73,0,16,89
+['2013-01-08'],Big Bash League,571260,Sydney Thunder,3,7,16,0,0,43.75,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,1,0,0,1
+['2013-01-04'],Big Bash League,571256,Sydney Thunder,3,4,12,0,0,33.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2
+['2012-12-30'],Big Bash League,571252,Sydney Thunder,3,4,4,1,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+['2012-12-28'],Big Bash League,571250,Sydney Thunder,3,17,15,0,2,113.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,29,0,8,37
+['2010-02-20'],Pakistan v England T20I Series,440946,England,8,1,1,0,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,1,0,12,13
+['2010-02-19'],Pakistan v England T20I Series,440945,England,7,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
+['2009-11-15'],England in South Africa T20I Series,387564,England,7,10,8,1,0,125.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,14,0,6,20
+['2009-11-13'],England in South Africa T20I Series,387563,England,7,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2009-08-30'],Australia in England T20I Series,350050,England,4,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0,0,12,12
+['2007-09-16'],ICC World Twenty20,287867,England,2,32,31,1,1,103.23,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,4,0,0,0,0,46,0,36,82
+['2007-09-14'],ICC World Twenty20,287861,England,2,17,17,1,1,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27
+['2007-09-13'],ICC World Twenty20,287858,England,2,20,14,2,1,142.86,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,36,0,0,36
+['2007-06-29'],West Indies in England T20I Series,258464,England,2,22,14,4,0,157.14,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,4,42,0,6,48
+['2007-06-28'],West Indies in England T20I Series,258463,England,2,25,14,2,2,178.57,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,6,55,0,12,67

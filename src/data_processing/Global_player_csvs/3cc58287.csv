@@ -1,0 +1,14 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2021-11-13'],ICC Men's T20 World Cup Americas Region Qualifier,1286683,Bermuda,8,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,2,0,0,0,0,0,32,32
+['2021-11-10'],ICC Men's T20 World Cup Americas Region Qualifier,1286677,Bermuda,9,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
+['2021-11-08'],ICC Men's T20 World Cup Americas Region Qualifier,1286673,Bermuda,9,7,8,0,0,87.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,7,0,16,23
+['2019-10-26'],ICC Men's T20 World Cup Qualifier,1199534,Bermuda,8,6,6,1,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+['2019-10-24'],ICC Men's T20 World Cup Qualifier,1199528,Bermuda,8,1,11,0,0,9.09,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,-6,-5,0,16,11
+['2019-10-23'],ICC Men's T20 World Cup Qualifier,1199520,Bermuda,8,37,31,2,2,119.35,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,61,0,0,61
+['2019-10-21'],ICC Men's T20 World Cup Qualifier,1199515,Bermuda,1,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2019-10-20'],ICC Men's T20 World Cup Qualifier,1199510,Bermuda,1,4,14,0,0,28.57,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2
+['2019-10-19'],ICC Men's T20 World Cup Qualifier,1199503,Bermuda,1,6,5,0,1,120.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+['2019-08-22'],ICC Men's T20 World Cup Americas Region Final,1197403,Bermuda,1,35,15,2,4,233.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,77,0,0,77
+['2019-08-21'],ICC Men's T20 World Cup Americas Region Final,1197400,Bermuda,1,6,6,1,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,10,0,6,16
+['2019-08-19'],ICC Men's T20 World Cup Americas Region Final,1197398,Bermuda,1,23,29,1,1,79.31,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33
+['2019-08-18'],ICC Men's T20 World Cup Americas Region Final,1197396,Bermuda,1,21,16,4,0,131.25,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,39,0,8,47

@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-11-18'],Syed Mushtaq Ali Trophy,1205728,Puducherry,11,0,0,0,0,0.0,12,1.0,6,2,0,12,1,1,0,0,0,0,0,12.0,1,0,0,0,0,0,2,8,10
+['2019-11-17'],Syed Mushtaq Ali Trophy,1205829,Puducherry,6,16,16,2,0,100.0,"7,10,15,17",4.0,24,11,0,17,0,1,4,0,1,0,0,4.25,0,0,0,0,0,24,133,0,157
+['2019-11-14'],Syed Mushtaq Ali Trophy,1205793,Puducherry,3,4,8,1,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16
+['2019-11-09'],Syed Mushtaq Ali Trophy,1205739,Puducherry,8,1,3,0,0,33.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1

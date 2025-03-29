@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-12-20'],Gulf T20I Championship,1463665,Qatar,5,36,30,5,0,120.0,17,0.5,3,2,0,1,0,0,2,0,1,0,0,2.0,1,0,0,0,0,60,60,8,128
+['2024-12-18'],Gulf T20I Championship,1463663,Qatar,6,0,2,0,0,0.0,"11,13",2.0,12,3,0,25,0,3,0,0,0,0,0,12.5,0,0,0,0,0,-2,-3,0,-5
+['2024-12-17'],Gulf T20I Championship,1463660,Qatar,5,0,2,0,0,0.0,"13,15",2.0,12,2,0,23,0,2,0,0,0,0,1,11.5,0,0,0,0,0,-2,-2,0,-4
+['2024-12-15'],Gulf T20I Championship,1463657,Qatar,5,60,46,9,0,130.43,"6,8,12",3.0,18,7,0,17,2,0,0,0,0,0,0,5.67,0,0,0,0,2,106,11,0,117
+['2024-12-14'],Gulf T20I Championship,1463655,Qatar,5,63,27,6,3,233.33,"10,12,15",3.0,18,3,0,36,4,1,1,0,0,0,0,12.0,0,0,0,0,6,119,24,0,143

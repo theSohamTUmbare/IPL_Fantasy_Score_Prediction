@@ -1,0 +1,9 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2017-01-18'],Desert T20 Challenge,1074966,Hong Kong,8,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2017-01-16'],Desert T20 Challenge,1074961,Hong Kong,8,17,21,0,0,80.95,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,17,0,8,25
+['2016-09-05'],Hong Kong in Ireland T20I Series,1004729,Hong Kong,11,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0,0,12,12
+['2016-02-21'],Asia Cup,966739,Hong Kong,9,6,7,0,0,85.71,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6
+['2016-02-19'],Asia Cup,966735,Hong Kong,10,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2015-11-26'],Hong Kong v Oman T20I Series,930579,Hong Kong,11,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2015-11-25'],Hong Kong v Oman T20I Series,930577,Hong Kong,9,15,10,2,0,150.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,23,0,12,35
+['2015-11-21'],Hong Kong v Oman T20I Series,930575,Hong Kong,7,15,21,1,0,71.43,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,19,0,8,27

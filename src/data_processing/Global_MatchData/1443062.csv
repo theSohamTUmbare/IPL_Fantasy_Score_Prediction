@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Adelaide Strikers,MW Short,a90e53ec,1,11,9,0,1,122.22,"[1, 9, 20]",3.0,18,7,0,23,3,0,2,1,1,0,1,7.67,0,0,0,0,0,17,73,0,90
+Adelaide Strikers,J Weatherald,edc7ddb6,2,11,10,1,0,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
+Adelaide Strikers,DJM Short,1a156c88,3,60,42,8,2,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,114,0,0,114
+Adelaide Strikers,OJ Pope,e94bc520,4,8,10,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20
+Adelaide Strikers,AI Ross,fb0d68b4,5,35,25,1,3,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,63,0,8,71
+Adelaide Strikers,JJ Bazley,003d49e6,6,16,13,2,0,123.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
+Adelaide Strikers,J Overton,59559bc2,7,6,6,1,0,100.0,"[3, 14, 17, 19]",4.0,24,8,0,44,5,2,2,0,0,0,3,11.0,1,0,0,0,0,10,56,8,74
+Adelaide Strikers,L Scott,0ebb3444,8,8,5,1,0,160.0,[5],1.0,6,0,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,0,12,0,0,12
+Adelaide Strikers,HTRY Thornton,055be93a,11,0,0,0,0,0.0,"[2, 4, 7, 15]",4.0,24,11,0,16,1,0,1,1,0,0,0,4.0,0,0,0,0,0,0,50,0,50
+Adelaide Strikers,CJ Boyce,51a60c16,12,0,0,0,0,0.0,"[6, 8, 11, 13]",4.0,24,10,0,31,2,2,1,0,1,0,0,7.75,0,0,0,0,0,0,43,0,43
+Adelaide Strikers,L Pope,616a8149,13,0,0,0,0,0.0,"[10, 12, 16, 18]",4.0,24,10,0,21,2,0,3,0,2,0,0,5.25,0,0,0,0,0,0,109,0,109
+Melbourne Stars,SB Harper,a756e61a,1,48,44,5,1,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,78,0,8,86
+Melbourne Stars,BM Duckett,5f26f677,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+Melbourne Stars,MP Stoinis,d9273ee7,3,27,19,4,1,142.11,"[12, 17]",2.0,12,4,0,11,1,0,0,0,0,0,0,5.5,0,0,0,0,2,55,8,0,63
+Melbourne Stars,GJ Maxwell,b681e71e,4,15,5,0,2,300.0,"[4, 6]",2.0,12,6,0,12,2,0,1,0,0,0,1,6.0,0,0,0,0,0,27,33,0,60
+Melbourne Stars,TF Rogers,7f232d46,5,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+Melbourne Stars,HWR Cartwright,ab965cad,6,4,9,0,0,44.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12
+Melbourne Stars,BJ Webster,56b93d46,7,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+Melbourne Stars,TK Curran,e86754b2,8,25,22,4,0,113.64,"[5, 9, 14, 20]",4.0,24,6,0,46,4,3,0,0,0,0,1,11.5,0,0,0,0,0,45,2,0,47
+Melbourne Stars,AF Milne,350bb1b1,9,3,4,0,0,75.0,"[1, 3, 13, 19]",4.0,24,9,0,32,3,1,2,0,2,0,1,8.0,0,0,0,0,0,3,75,0,78
+Melbourne Stars,D Warren,ef55b38c,10,3,3,0,0,100.0,"[8, 10, 16, 18]",4.0,24,8,0,39,3,2,1,0,1,1,0,9.75,0,0,0,0,0,3,41,0,44
+Melbourne Stars,PM Siddle,bd93fea4,11,12,5,2,0,240.0,"[2, 7, 11, 15]",4.0,24,12,0,21,2,0,2,0,0,0,2,5.25,0,0,0,0,0,20,66,0,86

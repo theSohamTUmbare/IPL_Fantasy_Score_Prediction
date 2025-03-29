@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Chennai Super Kings,MEK Hussey,48fd7349,1,65,50,6,2,130.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,111,0,8,119
+Chennai Super Kings,M Vijay,4b57e452,2,18,13,3,0,138.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,32,0,0,32
+Chennai Super Kings,SK Raina,1dc12ab9,3,30,32,5,0,93.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,54,0,14,68
+Chennai Super Kings,MS Dhoni,4a8a2e3b,4,44,23,5,1,191.3,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,80,0,0,80
+Chennai Super Kings,DJ Bravo,87e562a9,5,3,2,0,0,150.0,"[8, 18]",1.5,9,4,0,8,1,0,1,0,0,0,0,5.33,3,0,0,0,0,3,29,28,60
+Chennai Super Kings,S Badrinath,3576e47e,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Chennai Super Kings,RA Jadeja,fe93fd9d,12,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,8,0,21,1,0,1,0,0,0,0,5.25,0,0,0,1,0,0,37,6,43
+Chennai Super Kings,JA Morkel,c3d35165,13,0,0,0,0,0.0,"[1, 7, 17]",3.0,18,11,0,13,0,1,1,0,0,0,1,4.33,0,0,0,0,0,0,42,0,42
+Chennai Super Kings,CH Morris,fb66ce1f,14,0,0,0,0,0.0,"[3, 5]",2.0,12,8,0,13,2,0,1,1,0,0,1,6.5,0,0,0,0,0,0,43,0,43
+Chennai Super Kings,R Ashwin,495d42a5,15,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,11,0,18,1,0,2,0,1,0,0,4.5,0,0,0,0,0,0,75,0,75
+Chennai Super Kings,MM Sharma,759ac88f,16,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,11,0,10,0,0,3,1,1,0,2,3.33,0,0,0,0,0,0,112,0,112
+Delhi Daredevils,DA Warner,dcce6f09,1,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Delhi Daredevils,V Sehwag,8ba8195d,2,17,13,1,1,130.77,[7],1.0,6,0,0,9,1,0,0,0,0,0,0,9.0,0,0,0,0,2,29,0,0,29
+Delhi Daredevils,MC Juneja,605b7efa,3,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+Delhi Daredevils,DPMD Jayawardene,d18f9182,4,6,11,1,0,54.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,6,0,0,6
+Delhi Daredevils,BMAJ Mendis,9868bc75,5,12,17,0,0,70.59,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,12,0,14,26
+Delhi Daredevils,KM Jadhav,99d63244,6,31,28,3,0,110.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,47,0,14,61
+Delhi Daredevils,IK Pathan,5fa06777,7,2,6,0,0,33.33,"[2, 6, 13, 17]",4.0,24,10,0,30,5,0,1,0,0,0,0,7.5,0,0,0,0,0,2,35,0,37
+Delhi Daredevils,AB Agarkar,fa463154,8,3,7,0,0,42.86,"[8, 10, 12, 19]",4.0,24,8,0,29,2,1,0,0,0,0,2,7.25,0,0,0,0,0,3,8,0,11
+Delhi Daredevils,M Morkel,5bb5a915,9,2,4,0,0,50.0,"[3, 5, 14, 18]",4.0,24,8,0,42,6,1,1,1,0,0,1,10.5,0,0,0,0,0,2,39,0,41
+Delhi Daredevils,S Nadeem,9d80c5e1,10,2,7,0,0,28.57,"[1, 9, 15]",3.0,18,4,0,22,0,1,0,0,0,0,1,7.33,0,0,0,0,0,2,4,0,6
+Delhi Daredevils,UT Yadav,cc1e8c68,11,1,5,0,0,20.0,"[4, 11, 16, 20]",4.0,24,8,0,33,5,0,1,0,0,0,1,8.25,0,0,0,0,0,1,33,0,34

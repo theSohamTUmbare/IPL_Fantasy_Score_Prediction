@@ -1,0 +1,54 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2025-02-24'],Bahrain tour of Indonesia,1471826,Indonesia,4,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2025-02-23'],Bahrain tour of Indonesia,1471825,Indonesia,7,9,9,1,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
+['2025-02-22'],Bahrain tour of Indonesia,1471824,Indonesia,10,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,2,0,0,0,20,20
+['2025-02-20'],Bahrain tour of Indonesia,1471823,Indonesia,4,1,5,0,0,20.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2025-02-19'],Bahrain tour of Indonesia,1471822,Indonesia,5,34,27,1,3,125.93,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,60,0,0,60
+['2024-11-19'],Myanmar tour of Indonesia,1456872,Indonesia,6,3,5,0,0,60.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2024-11-17'],Myanmar tour of Indonesia,1456871,Indonesia,6,3,5,0,0,60.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,3,0,14,17
+['2024-11-16'],Myanmar tour of Indonesia,1456870,Indonesia,7,11,6,1,1,183.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
+['2024-11-15'],Myanmar tour of Indonesia,1456869,Indonesia,6,35,29,3,2,120.69,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,63,0,12,75
+['2024-11-13'],Myanmar tour of Indonesia,1456868,Indonesia,4,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2024-11-12'],Myanmar tour of Indonesia,1456867,Indonesia,6,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2024-10-24'],Bhutan Quadrangular T20I Series,1453919,Indonesia,2,29,47,1,1,61.7,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,-2,41,0,6,47
+['2024-10-23'],Bhutan Quadrangular T20I Series,1453917,Indonesia,2,20,38,2,0,52.63,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,24,0,0,24
+['2024-10-22'],Bhutan Quadrangular T20I Series,1453916,Indonesia,1,6,11,1,0,54.55,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,6,0,0,6
+['2024-10-20'],Bhutan Quadrangular T20I Series,1453914,Indonesia,1,21,43,1,1,48.84,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,-6,25,0,12,37
+['2024-10-19'],Bhutan Quadrangular T20I Series,1453912,Indonesia,1,23,26,3,0,88.46,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,35,0,0,35
+['2024-10-05'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier B,1450779,Indonesia,1,6,3,1,0,200.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+['2024-10-04'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier B,1450776,Indonesia,1,21,40,0,0,52.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,17,0,0,17
+['2024-10-02'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier B,1450775,Indonesia,1,19,26,2,0,73.08,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,2,0,0,0,27,0,24,51
+['2024-10-01'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier B,1450772,Indonesia,2,17,19,4,0,89.47,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,1,0,33,0,18,51
+['2024-09-29'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier B,1450770,Indonesia,5,12,13,0,1,92.31,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
+['2024-09-28'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier B,1450769,Indonesia,6,8,13,1,0,61.54,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,10,0,0,10
+['2024-09-25'],Japan tour of South Korea,1450766,Indonesia,8,11,8,0,1,137.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
+['2024-05-06'],Thailand tour of Indonesia,1431611,Indonesia,8,31,32,3,1,96.88,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,53,0,16,69
+['2024-05-05'],Thailand tour of Indonesia,1431610,Indonesia,10,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0,0,28,28
+['2024-05-04'],Thailand tour of Indonesia,1431609,Indonesia,9,4,5,0,0,80.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,4,0,16,20
+['2024-05-02'],Thailand tour of Indonesia,1431608,Indonesia,8,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0,0,28,28
+['2024-05-01'],Thailand tour of Indonesia,1431607,Indonesia,7,3,7,0,0,42.86,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,3,0,16,19
+['2024-02-07'],Asian Cricket Council Men's Challenger Cup,1418192,Indonesia,6,8,5,0,1,160.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,14,0,12,26
+['2024-02-05'],Asian Cricket Council Men's Challenger Cup,1418188,Indonesia,7,12,15,1,0,80.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,2,0,0,0,16,0,24,40
+['2024-02-03'],Asian Cricket Council Men's Challenger Cup,1418185,Indonesia,7,14,10,1,1,140.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,26,0,0,26
+['2024-02-01'],Asian Cricket Council Men's Challenger Cup,1418181,Indonesia,8,10,6,0,1,166.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
+['2023-12-26'],Philippines tour of Indonesia,1412535,Indonesia,7,24,17,2,0,141.18,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,34,0,0,34
+['2023-12-24'],Philippines tour of Indonesia,1412533,Indonesia,8,15,11,0,1,136.36,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,23,0,0,23
+['2023-12-24'],Philippines tour of Indonesia,1412534,Indonesia,6,15,22,0,0,68.18,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,-2,13,0,14,27
+['2023-12-23'],Philippines tour of Indonesia,1412531,Indonesia,9,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
+['2023-12-23'],Philippines tour of Indonesia,1412532,Indonesia,8,7,6,1,0,116.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,11,0,6,17
+['2023-12-22'],Philippines tour of Indonesia,1412530,Indonesia,9,0,2,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,-2,0,16,14
+['2023-11-21'],Cambodia tour of Indonesia,1407716,Indonesia,6,19,13,3,0,146.15,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,2,33,0,6,39
+['2023-11-21'],Cambodia tour of Indonesia,1407717,Indonesia,6,4,6,0,0,66.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,4,0,28,32
+['2023-11-20'],Cambodia tour of Indonesia,1407714,Indonesia,6,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2023-11-20'],Cambodia tour of Indonesia,1407715,Indonesia,6,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2022-10-18'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier B,1336955,Indonesia,8,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,0,2,0,0,0,40,40
+['2022-10-18'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier B,1336956,Indonesia,8,9,7,1,0,128.57,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+['2022-10-16'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier B,1336953,Indonesia,7,3,6,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2022-10-15'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier B,1336951,Indonesia,8,1,2,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+['2022-10-11'],Indonesia tour of Japan,1333932,Indonesia,7,6,19,0,0,31.58,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,-6,0,0,14,14
+['2022-10-10'],Indonesia tour of Japan,1333931,Indonesia,7,7,3,0,1,233.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+['2018-12-07'],ICC World Twenty20 East Asia-Pacific Region Qualifier B,1166891,Indonesia,4,2,8,0,0,25.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2018-12-06'],ICC World Twenty20 East Asia-Pacific Region Qualifier B,1166889,Indonesia,7,4,9,0,0,44.44,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+['2018-12-05'],ICC World Twenty20 East Asia-Pacific Region Qualifier B,1166887,Indonesia,6,3,5,0,0,60.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2018-12-03'],ICC World Twenty20 East Asia-Pacific Region Qualifier B,1166885,Indonesia,6,28,33,1,0,84.85,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,36,0,8,44
+['2018-12-01'],ICC World Twenty20 East Asia-Pacific Region Qualifier B,1166881,Indonesia,6,20,28,3,0,71.43,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,32,0,8,40

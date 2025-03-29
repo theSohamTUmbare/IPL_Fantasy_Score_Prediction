@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-06-14'],Vitality Blast,1410414,Hampshire,9,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2020-09-20'],Vitality Blast,1207780,Hampshire,7,4,6,0,0,66.67,"2,4,6,12",4.0,24,12,0,21,3,0,2,1,0,0,1,5.25,0,0,0,0,0,4,74,0,78
+['2020-09-18'],Vitality Blast,1207777,Hampshire,3,8,6,2,0,133.33,"2,4,14",3.0,18,5,0,26,2,1,1,0,0,0,0,8.67,0,0,0,0,0,16,30,0,46
+['2020-09-03'],Vitality Blast,1207734,Hampshire,1,9,11,0,0,81.82,7,1.0,6,1,0,7,0,0,0,0,0,0,1,7.0,0,0,0,0,0,9,1,0,10

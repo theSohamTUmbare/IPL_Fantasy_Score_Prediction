@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-01-16'],Big Bash League,1269688,Brisbane Heat,4,11,14,1,0,78.57,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
+['2022-01-12'],Big Bash League,1269683,Brisbane Heat,3,23,24,2,0,95.83,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,31,0,8,39
+['2022-01-08'],Big Bash League,1269678,Brisbane Heat,3,69,51,6,3,135.29,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,121,0,8,129
+['2022-01-06'],Big Bash League,1269674,Brisbane Heat,6,6,6,0,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6

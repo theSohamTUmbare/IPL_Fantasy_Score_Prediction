@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Namibia,LP van der Westhuizen,292381e0,1,10,8,0,1,125.0,"[16, 18, 20]",3.0,18,8,0,16,2,0,1,0,0,0,0,5.33,0,0,0,0,0,16,37,0,53
+Namibia,C Viljoen,f7b2cbe8,2,32,24,3,1,133.33,"[3, 5]",2.0,12,4,0,19,3,0,0,0,0,0,1,9.5,0,0,0,0,2,56,4,0,60
+Namibia,SJ Baard,e8511411,3,17,15,2,0,113.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
+Namibia,CG Williams,e16e7347,4,37,33,1,1,112.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,51,0,12,63
+Namibia,SF Burger,9ff7f691,5,43,36,2,1,119.44,"[8, 10, 12, 14]",4.0,24,10,0,16,0,0,1,0,0,0,2,4.0,2,0,0,0,0,61,41,16,118
+Namibia,JP Kotze,9f308dfc,6,15,4,0,2,375.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,27,0,8,35
+Namibia,R van Schoor,57ac1d99,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0,0,12,12
+Namibia,NRP Scholtz,47e20f64,11,0,0,0,0,0.0,"[1, 6, 19]",3.0,18,6,0,24,0,2,0,0,0,0,0,8.0,0,0,0,0,0,0,6,0,6
+Namibia,JJ Smit,bb134e5c,12,0,0,0,0,0.0,"[2, 4, 17]",3.0,18,4,0,25,3,0,2,0,1,0,2,8.33,0,0,0,0,0,0,62,0,62
+Namibia,T Verwey,da44ae21,13,0,0,0,0,0.0,[7],1.0,6,1,0,7,1,0,0,0,0,0,0,7.0,0,0,1,0,0,0,1,12,13
+Namibia,BM Scholtz,e85d03d6,14,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,15,0,18,2,0,2,0,1,0,3,4.5,0,0,0,0,0,0,79,0,79
+United States of America,SR Taylor,a9231c3f,1,44,34,5,1,129.41,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,74,0,8,82
+United States of America,JH Patel,7cf185e1,2,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+United States of America,EH Hutchinson,e6ddab51,3,7,6,1,0,116.67,"[2, 4, 20]",3.0,18,7,0,31,2,2,2,0,1,0,0,10.33,0,0,0,0,0,11,63,0,74
+United States of America,OM Baker,c62368d0,4,17,27,1,0,62.96,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,19,0,8,27
+United States of America,K Ganesh,363fe2d5,5,1,3,0,0,33.33,"[7, 9, 11, 13]",4.0,24,13,0,14,0,0,2,0,0,0,0,3.5,0,0,0,0,0,1,69,0,70
+United States of America,SR Santhanam,063870fc,6,4,3,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16
+United States of America,TP Allen,30baaf1f,7,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+United States of America,BS Bartley,fb1d3872,8,10,12,1,0,83.33,"[10, 12, 14, 16]",4.0,24,6,0,28,0,1,0,0,0,0,0,7.0,0,0,0,0,0,14,8,0,22
+United States of America,NC McGarrell,f4cbce64,9,21,24,2,0,87.5,"[6, 8, 18]",3.0,18,6,0,31,3,1,0,0,0,0,2,10.33,0,0,0,0,0,29,4,0,33
+United States of America,Muhammad Ghous,1676b2d6,10,10,5,0,1,200.0,"[5, 15, 17]",3.0,18,4,0,29,2,1,0,0,0,0,0,9.67,0,0,0,0,0,16,4,0,20
+United States of America,Imran Awan,82d8aa2e,10,0,0,0,0,0.0,"[1, 3, 19]",3.0,18,5,0,23,1,1,0,0,0,0,0,7.67,0,0,0,0,0,0,5,0,5

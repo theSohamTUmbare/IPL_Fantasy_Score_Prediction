@@ -1,0 +1,14 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-05-05'],Indian Premier League,1426292,Kolkata Knight Riders,3,32,26,3,1,123.08,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,54,0,0,54
+['2024-05-03'],Indian Premier League,1426289,Kolkata Knight Riders,3,13,6,0,2,216.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
+['2024-04-29'],Indian Premier League,1426285,Kolkata Knight Riders,12,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2024-04-26'],Indian Premier League,1426280,Kolkata Knight Riders,9,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2024-04-21'],Indian Premier League,1426274,Kolkata Knight Riders,3,3,4,0,0,75.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,3,0,16,19
+['2024-04-16'],Indian Premier League,1426269,Kolkata Knight Riders,3,30,18,5,0,166.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,58,0,8,66
+['2024-04-14'],Indian Premier League,1426266,Kolkata Knight Riders,3,7,6,0,1,116.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
+['2024-04-08'],Indian Premier League,1426260,Kolkata Knight Riders,3,24,18,3,1,133.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,44,0,0,44
+['2024-04-03'],Indian Premier League,1422134,Kolkata Knight Riders,3,54,27,5,3,200.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,106,0,0,106
+['2024-03-29'],Indian Premier League,1422128,Kolkata Knight Riders,12,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2023-10-21'],Syed Mushtaq Ali Trophy,1383488,Mumbai,2,16,16,0,2,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
+['2023-10-17'],Syed Mushtaq Ali Trophy,1383452,Mumbai,2,32,31,3,1,103.23,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,54,0,0,54
+['2023-10-16'],Syed Mushtaq Ali Trophy,1383434,Mumbai,2,26,24,2,0,108.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,38,0,0,38

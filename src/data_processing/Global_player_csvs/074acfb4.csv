@@ -1,0 +1,38 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-12-21'],Gulf T20I Championship,1463667,United Arab Emirates,4,23,23,1,1,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33
+['2024-12-19'],Gulf T20I Championship,1463664,United Arab Emirates,3,79,53,3,5,149.06,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,135,0,0,135
+['2024-12-18'],Gulf T20I Championship,1463663,United Arab Emirates,4,41,39,2,1,105.13,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,59,0,0,59
+['2024-12-16'],Gulf T20I Championship,1463659,United Arab Emirates,4,3,7,0,0,42.86,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11
+['2024-12-15'],Gulf T20I Championship,1463656,United Arab Emirates,4,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2024-12-13'],Gulf T20I Championship,1463652,United Arab Emirates,4,50,38,2,4,131.58,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,92,0,0,92
+['2024-11-28'],ICC Men's T20 World Cup Asia Qualifier B,1459278,United Arab Emirates,3,9,14,1,0,64.29,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,-2,11,0,16,27
+['2024-11-26'],ICC Men's T20 World Cup Asia Qualifier B,1457234,United Arab Emirates,3,1,3,0,0,33.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,1,0,14,15
+['2024-11-23'],ICC Men's T20 World Cup Asia Qualifier B,1457227,United Arab Emirates,3,46,33,2,3,139.39,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,78,0,0,78
+['2024-11-22'],ICC Men's T20 World Cup Asia Qualifier B,1457223,United Arab Emirates,3,41,24,3,4,170.83,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,87,0,0,87
+['2024-11-20'],ICC Men's T20 World Cup Asia Qualifier B,1457222,United Arab Emirates,3,45,37,3,3,121.62,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,79,0,0,79
+['2024-11-19'],ICC Men's T20 World Cup Asia Qualifier B,1457218,United Arab Emirates,3,10,9,1,0,111.11,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
+['2024-10-04'],Namibia T20 Tri-Series,1450821,United Arab Emirates,4,9,10,0,0,90.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17
+['2024-10-02'],Namibia T20 Tri-Series,1450820,United Arab Emirates,4,48,30,5,3,160.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,94,0,0,94
+['2024-09-30'],Namibia T20 Tri-Series,1450818,United Arab Emirates,4,16,17,2,0,94.12,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,24,0,8,32
+['2024-09-29'],Namibia T20 Tri-Series,1450817,United Arab Emirates,3,39,22,5,2,177.27,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,81,0,0,81
+['2024-04-21'],ACC Men's Premier Cup,1426478,United Arab Emirates,4,38,16,5,2,237.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,80,0,0,80
+['2024-04-19'],ACC Men's Premier Cup,1426475,United Arab Emirates,4,10,6,0,1,166.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
+['2024-04-17'],ACC Men's Premier Cup,1426473,United Arab Emirates,3,5,3,1,0,166.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
+['2024-04-15'],ACC Men's Premier Cup,1426467,United Arab Emirates,4,66,45,6,2,146.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,112,0,0,112
+['2024-04-13'],ACC Men's Premier Cup,1426460,United Arab Emirates,3,66,27,1,8,244.44,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,132,0,0,132
+['2024-04-12'],ACC Men's Premier Cup,1426456,United Arab Emirates,5,74,46,4,6,160.87,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,138,0,0,138
+['2023-11-03'],ICC Men's T20 World Cup Asia Qualifier Final,1405326,United Arab Emirates,4,13,14,1,0,92.86,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
+['2023-11-02'],ICC Men's T20 World Cup Asia Qualifier Final,1405322,United Arab Emirates,4,4,9,0,0,44.44,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+['2023-10-31'],ICC Men's T20 World Cup Asia Qualifier Final,1405320,United Arab Emirates,3,3,6,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2023-10-30'],ICC Men’s T20 World Cup Asia Qualifier Final,1405313,United Arab Emirates,4,23,25,2,1,92.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,37,0,0,37
+['2023-10-27'],Nepal Tri-Nation T20I Series,1403294,United Arab Emirates,4,7,6,0,1,116.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+['2023-10-25'],Nepal Tri-Nation T20I Series,1403293,United Arab Emirates,4,0,2,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2023-10-23'],Nepal Tri-Nation T20I Series,1403292,United Arab Emirates,4,18,17,1,1,105.88,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
+['2023-10-22'],Nepal Tri-Nation T20I Series,1403291,United Arab Emirates,4,12,12,1,1,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
+['2023-10-18'],Nepal Tri-Nation T20I Series,1403288,United Arab Emirates,4,15,12,2,0,125.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
+['2023-09-23'],Gulf Cricket T20I Championship,1397439,United Arab Emirates,4,38,33,1,3,115.15,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,64,0,0,64
+['2023-09-22'],Gulf Cricket T20I Championship,1397437,United Arab Emirates,4,17,16,0,1,106.25,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
+['2023-09-20'],Gulf Cricket T20I Championship,1392812,United Arab Emirates,4,0,2,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2023-08-20'],New Zealand tour of United Arab Emirates,1377729,United Arab Emirates,4,11,15,1,0,73.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
+['2023-08-19'],New Zealand tour of United Arab Emirates,1377728,United Arab Emirates,4,48,29,5,1,165.52,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,82,0,0,82
+['2023-08-17'],New Zealand tour of United Arab Emirates,1377727,United Arab Emirates,4,13,10,2,0,130.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,23,0,0,23

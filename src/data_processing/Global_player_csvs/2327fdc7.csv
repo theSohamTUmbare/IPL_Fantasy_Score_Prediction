@@ -1,0 +1,13 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2025-02-19'],Bahrain tour of Indonesia,1471822,Indonesia,9,12,15,0,0,80.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+['2024-11-19'],Myanmar tour of Indonesia,1456872,Indonesia,11,0,0,0,0,0.0,"6,8,10,12",4.0,24,14,0,20,1,1,2,1,0,0,2,5.0,1,0,0,0,0,0,76,8,84
+['2024-11-17'],Myanmar tour of Indonesia,1456871,Indonesia,11,0,0,0,0,0.0,"5,7,17",3.0,18,14,0,5,0,0,1,0,0,0,0,1.67,0,0,0,1,0,0,45,6,51
+['2024-11-16'],Myanmar tour of Indonesia,1456870,Indonesia,11,0,0,0,0,0.0,"2,16,18,20",4.0,24,15,0,12,1,0,0,0,0,0,2,3.0,0,0,0,0,0,0,21,0,21
+['2024-11-15'],Myanmar tour of Indonesia,1456869,Indonesia,10,0,0,0,0,0.0,"6,8,10,12",4.0,24,7,0,17,0,0,2,0,0,0,0,4.25,0,0,0,0,0,0,63,0,63
+['2024-11-13'],Myanmar tour of Indonesia,1456868,Indonesia,11,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2024-11-12'],Myanmar tour of Indonesia,1456867,Indonesia,5,0,0,0,0,0.0,"6,8,18",2.5,15,11,0,11,2,0,2,0,1,0,1,4.4,0,0,0,0,0,0,75,0,75
+['2024-10-24'],Bhutan Quadrangular T20I Series,1453919,Indonesia,10,0,0,0,0,0.0,"6,8",2.0,12,4,0,15,0,1,1,0,1,0,0,7.5,1,0,0,0,0,0,37,8,45
+['2024-10-23'],Bhutan Quadrangular T20I Series,1453917,Indonesia,8,1,4,0,0,25.0,16,1.0,6,2,0,7,1,0,1,0,0,0,1,7.0,1,0,0,0,0,1,27,8,36
+['2023-12-26'],Philippines tour of Indonesia,1412535,Indonesia,10,14,14,2,0,100.0,12,1.0,6,3,0,6,1,0,0,0,0,0,0,6.0,0,0,0,0,0,22,3,0,25
+['2023-12-24'],Philippines tour of Indonesia,1412533,Indonesia,10,0,3,0,0,0.0,8,0.833,5,0,0,17,2,1,0,0,0,0,1,20.41,0,0,0,0,0,-2,0,0,-2
+['2023-12-24'],Philippines tour of Indonesia,1412534,Indonesia,9,8,6,0,1,133.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14

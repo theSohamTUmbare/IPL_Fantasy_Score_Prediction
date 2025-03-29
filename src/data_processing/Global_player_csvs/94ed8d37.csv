@@ -1,0 +1,8 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2021-08-15'],Sweden tour of Denmark,1273134,Denmark,1,3,11,0,0,27.27,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-3,0,0,-3
+['2021-08-14'],Sweden tour of Denmark,1273133,Denmark,8,0,0,0,0,0.0,"12,14,16",3.0,18,6,0,18,1,0,0,0,0,0,3,6.0,0,0,0,0,0,0,8,0,8
+['2013-11-26'],ICC World Twenty20 Qualifier,660207,Denmark,6,2,3,0,0,66.67,"2,4",2.0,12,3,0,20,3,0,0,0,0,0,1,10.0,0,0,0,0,0,2,1,0,3
+['2013-11-19'],ICC World Twenty20 Qualifier,660143,Denmark,5,1,6,0,0,16.67,"2,4,6",3.0,18,10,0,20,0,2,0,0,0,0,0,6.67,0,0,0,0,0,1,12,0,13
+['2013-11-18'],ICC World Twenty20 Qualifier,660135,Denmark,3,0,2,0,0,0.0,2,1.0,6,1,0,17,4,0,0,0,0,0,0,17.0,0,0,0,0,0,-2,1,0,-1
+['2013-11-16'],ICC World Twenty20 Qualifier,660111,Denmark,3,14,10,2,1,140.0,"2,12,14,16",4.0,24,7,0,40,7,0,0,0,0,0,0,10.0,0,0,0,0,2,30,5,0,35
+['2013-11-15'],ICC World Twenty20 Qualifier,660097,Denmark,3,7,11,0,0,63.64,"2,4,6",3.0,18,11,0,13,2,0,1,0,0,0,0,4.33,1,0,0,0,-2,5,42,8,55

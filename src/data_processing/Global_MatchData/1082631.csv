@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Kolkata Knight Riders,SP Narine,9d430b40,1,0,6,0,0,0.0,"[8, 10, 12, 14]",4.0,24,9,0,28,4,0,1,0,0,0,0,7.0,1,0,0,0,0,-2,36,8,42
+Kolkata Knight Riders,G Gambhir,bb345e0b,2,24,19,3,1,126.32,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,42,0,0,42
+Kolkata Knight Riders,SP Jackson,acc1aeda,3,10,9,2,0,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,18,0,16,34
+Kolkata Knight Riders,MK Pandey,93b4fc78,4,37,32,4,1,115.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,63,0,0,63
+Kolkata Knight Riders,YK Pathan,3c6ffae8,5,4,9,0,0,44.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+Kolkata Knight Riders,C de Grandhomme,94d7f855,6,36,19,3,2,189.47,[20],0.333,2,0,0,7,0,1,0,0,0,0,0,21.02,0,0,0,0,6,70,0,0,70
+Kolkata Knight Riders,SA Yadav,271f83cd,7,30,16,2,2,187.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,60,0,0,60
+Kolkata Knight Riders,CR Woakes,4c5d73db,8,1,3,0,0,33.33,"[5, 7, 9, 19]",4.0,24,13,0,18,1,1,3,0,2,0,0,4.5,0,0,0,0,0,1,114,0,115
+Kolkata Knight Riders,Kuldeep Yadav,8d2c70ad,8,0,0,0,0,0.0,"[11, 13, 15, 17]",4.0,24,10,0,35,0,4,1,0,0,0,0,8.75,0,0,0,0,0,0,35,0,35
+Kolkata Knight Riders,NM Coulter-Nile,56ab442f,9,6,5,0,1,120.0,"[1, 3, 6]",3.0,18,8,0,41,6,2,0,0,0,0,2,13.67,0,0,0,0,0,12,2,0,14
+Kolkata Knight Riders,UT Yadav,cc1e8c68,10,2,2,0,0,100.0,"[2, 4, 16, 18]",4.0,24,10,0,23,2,1,1,0,0,0,0,5.75,0,0,0,0,0,2,39,0,41
+Rising Pune Supergiant,AM Rahane,29e95537,1,11,9,2,0,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,19,0,16,35
+Rising Pune Supergiant,RA Tripathi,77255a9e,2,93,52,9,7,178.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,189,0,0,189
+Rising Pune Supergiant,SPD Smith,30a45b23,3,9,9,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,15,0,6,21
+Rising Pune Supergiant,MK Tiwary,26e5cabf,4,8,9,1,0,88.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+Rising Pune Supergiant,BA Stokes,e087956b,5,14,15,1,0,93.33,"[2, 5, 14, 20]",4.0,24,9,0,24,3,0,1,0,0,0,0,6.0,0,0,0,0,0,18,36,0,54
+Rising Pune Supergiant,MS Dhoni,4a8a2e3b,6,5,9,0,0,55.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
+Rising Pune Supergiant,DT Christian,2a2e6343,7,9,10,0,1,90.0,"[13, 15, 18]",3.0,18,6,0,23,2,1,1,0,0,0,0,7.67,0,0,0,1,0,15,31,6,52
+Rising Pune Supergiant,Washington Sundar,f19ccfad,8,1,3,0,0,33.33,"[4, 6]",2.0,12,5,0,18,2,1,2,0,0,0,0,9.0,2,0,0,0,0,1,55,16,72
+Rising Pune Supergiant,SN Thakur,1abb78f8,8,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,6,0,21,3,0,0,0,0,0,0,7.0,0,0,0,0,0,0,8,0,8
+Rising Pune Supergiant,JD Unadkat,1e66c162,9,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,15,1,28,3,2,2,0,0,0,0,7.0,1,0,0,0,0,0,79,8,87
+Rising Pune Supergiant,Imran Tahir,acee4cc4,10,0,0,0,0,0.0,"[8, 10, 12, 16]",4.0,24,6,0,36,1,3,1,1,0,0,0,9.0,0,0,0,0,0,0,39,0,39

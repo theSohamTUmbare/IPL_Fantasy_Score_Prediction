@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Barbados Tridents,DR Smith,35205dfc,1,110,68,7,8,161.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,4,206,0,16,222
+Barbados Tridents,SO Dowrich,dc2f959a,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Barbados Tridents,Shoaib Malik,64c34cd0,3,49,37,4,0,132.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,71,0,0,71
+Barbados Tridents,KA Pollard,a757b0d8,4,18,14,0,1,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
+Barbados Tridents,JL Carter,0a9d8b61,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Barbados Tridents,BMAJ Mendis,9868bc75,7,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,12,0,16,1,0,1,0,0,0,1,4.0,0,0,0,0,0,0,43,0,43
+Barbados Tridents,AR Nurse,4a745f65,8,0,0,0,0,0.0,[8],1.0,6,2,0,9,0,1,0,0,0,0,0,9.0,0,0,0,0,0,0,2,0,2
+Barbados Tridents,JO Holder,0f721006,9,0,0,0,0,0.0,"[1, 3, 7, 9]",4.0,24,10,0,22,2,0,1,0,0,0,2,5.5,0,0,0,0,0,0,39,0,39
+Barbados Tridents,RR Emrit,e7de4f6b,10,0,0,0,0,0.0,"[11, 13, 18, 20]",4.0,24,5,0,33,2,1,1,0,0,0,2,8.25,0,0,0,0,0,0,30,0,30
+Barbados Tridents,AJ Hosein,4d7f517e,11,0,0,0,0,0.0,"[4, 6, 15]",3.0,18,8,0,28,0,3,0,0,0,0,0,9.33,0,0,0,0,0,0,8,0,8
+Barbados Tridents,R Rampaul,d68e7f48,12,0,0,0,0,0.0,"[2, 5, 17, 19]",4.0,24,6,0,46,6,2,0,0,0,0,0,11.5,0,0,0,0,0,0,2,0,2
+St Lucia Zouks,J Charles,09a9d073,1,12,8,1,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
+St Lucia Zouks,H Davids,9c9f8dbc,2,22,25,2,0,88.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30
+St Lucia Zouks,ADS Fletcher,1bae756b,3,27,29,1,1,93.1,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,41,0,8,49
+St Lucia Zouks,K Lesporis,fb496f7a,4,50,38,6,1,131.58,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,90,0,0,90
+St Lucia Zouks,DJG Sammy,c03c6200,5,0,2,0,0,0.0,"[6, 8, 11, 13]",4.0,24,5,0,34,1,2,0,0,0,1,0,8.5,0,0,0,0,0,-2,5,0,3
+St Lucia Zouks,Sohail Tanvir,64d43928,6,38,18,1,4,211.11,"[2, 4, 18, 20]",4.0,24,7,0,38,2,2,1,0,0,0,1,9.5,0,0,0,0,6,76,32,0,108
+St Lucia Zouks,SW Ambris,c7f6dd3b,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+St Lucia Zouks,RE van der Merwe,05c2ca46,7,0,0,0,0,0.0,[1],1.0,6,2,0,18,3,1,0,0,0,0,0,18.0,0,0,0,0,0,0,2,0,2
+St Lucia Zouks,S Shillingford,d76b0d2d,8,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,4,0,32,1,1,0,0,0,0,0,8.0,0,0,0,0,0,0,4,0,4
+St Lucia Zouks,TL Best,db767b89,9,0,0,0,0,0.0,"[3, 5, 15]",3.0,18,9,0,27,4,1,1,0,1,0,2,9.0,0,0,0,0,0,0,42,0,42
+St Lucia Zouks,M Matthew,e9200997,10,0,0,0,0,0.0,"[7, 9, 17, 19]",4.0,24,5,0,33,0,2,0,0,0,0,1,8.25,0,0,0,0,0,0,5,0,5

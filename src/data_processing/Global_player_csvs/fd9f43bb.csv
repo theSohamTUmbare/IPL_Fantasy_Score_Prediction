@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2018-08-29'],ICC World Twenty20 East Asia-Pacific Region Qualifier A,1155283,Samoa,5,0,0,0,0,0.0,"2,6,8,19",4.0,24,17,1,14,2,0,2,0,0,0,1,3.5,2,0,0,0,0,0,85,16,101
+['2018-08-28'],ICC World Twenty20 East Asia-Pacific Region Qualifier A,1155280,Samoa,3,4,3,1,0,133.33,"2,4",2.0,12,7,0,14,3,0,1,0,0,0,0,7.0,0,0,0,0,0,8,34,0,42
+['2018-08-26'],ICC World Twenty20 East Asia-Pacific Region Qualifier A,1155276,Samoa,2,10,10,1,0,100.0,"2,4,16,20",4.0,24,11,0,23,1,0,2,0,0,1,3,5.75,1,0,0,0,0,14,65,8,87
+['2018-08-25'],ICC World Twenty20 East Asia-Pacific Region Qualifier A,1155273,Samoa,3,39,30,1,3,130.0,"2,11,13",3.0,18,6,0,31,3,1,1,0,0,0,3,10.33,0,0,0,0,2,67,29,0,96
+['2018-08-25'],ICC World Twenty20 East Asia-Pacific Region Qualifier A,1155275,Samoa,3,7,8,0,1,87.5,"2,4,12,18",4.0,24,15,0,28,3,0,4,0,1,0,6,7.0,0,0,0,0,0,13,133,0,146

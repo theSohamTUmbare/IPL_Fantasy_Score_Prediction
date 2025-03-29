@@ -1,0 +1,9 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-08-04'],Spain tour of Croatia,1444950,Croatia,10,1,9,0,0,11.11,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2024-08-04'],Spain tour of Croatia,1444951,Croatia,11,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2024-08-03'],Spain tour of Croatia,1444948,Croatia,9,0,2,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2023-08-06'],Croatia tour of Hungary,1390169,Croatia,11,0,3,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2023-08-05'],Croatia tour of Hungary,1390167,Croatia,5,0,3,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2023-06-24'],Quadrangular Twenty20 Series (Bulgaria),1381456,Croatia,3,7,8,1,0,87.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
+['2023-06-24'],Quadrangular Twenty20 Series (Bulgaria),1381457,Croatia,3,5,3,1,0,166.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
+['2023-06-23'],Quadrangular Twenty20 Series (Bulgaria),1381454,Croatia,3,4,3,1,0,133.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16

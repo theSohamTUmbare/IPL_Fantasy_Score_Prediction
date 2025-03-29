@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2012-02-26'],MiWAY T20 Challenge,530334,Lions,9,0,0,0,0,0.0,6,1.0,6,1,0,23,2,2,0,0,0,0,1,23.0,1,0,0,0,0,0,1,8,9
+['2012-02-24'],MiWAY T20 Challenge,530332,Lions,8,15,11,0,1,136.36,"15,17",2.0,12,2,0,19,1,1,0,0,0,0,0,9.5,0,0,0,0,2,23,2,0,25
+['2012-02-22'],MiWAY T20 Challenge,530328,Lions,7,0,0,0,0,0.0,6,1.0,6,1,0,9,1,0,0,0,0,0,0,9.0,0,0,0,0,0,0,1,0,1
+['2012-02-17'],MiWAY T20 Challenge,530324,Lions,8,12,9,0,1,133.33,15,1.0,6,1,0,11,1,0,1,0,0,0,2,11.0,0,0,0,0,0,18,26,0,44

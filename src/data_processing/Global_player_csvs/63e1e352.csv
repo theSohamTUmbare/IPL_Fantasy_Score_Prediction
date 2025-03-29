@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-07-02'],Vitality Blast,1347692,Gloucestershire,10,11,17,0,0,64.71,"3,5,10,14",4.0,24,11,0,25,2,0,1,0,0,2,1,6.25,0,0,0,0,-2,9,38,0,47
+['2023-06-23'],Vitality Blast,1347674,Gloucestershire,10,2,2,0,0,100.0,"6,8,16,19",4.0,24,7,0,36,2,2,2,0,2,0,0,9.0,0,0,0,0,0,2,73,0,75
+['2023-06-18'],Vitality Blast,1347651,Gloucestershire,10,11,9,1,0,122.22,"5,10,14",3.0,18,4,0,32,2,2,0,0,0,0,1,10.67,0,0,0,0,0,15,2,0,17

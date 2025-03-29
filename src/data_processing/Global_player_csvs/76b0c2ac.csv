@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2021-11-16'],Syed Mushtaq Ali Trophy,1280293,Maharashtra,8,7,8,0,0,87.5,"7,9,18",2.833,17,2,0,42,3,3,0,0,0,0,0,14.83,0,0,0,0,0,7,-4,0,3
+['2021-11-09'],Syed Mushtaq Ali Trophy,1280275,Maharashtra,11,0,0,0,0,0.0,8,1.0,6,0,0,10,1,0,0,0,0,0,0,10.0,1,0,0,0,0,0,0,8,8
+['2021-11-08'],Syed Mushtaq Ali Trophy,1280257,Maharashtra,11,0,0,0,0,0.0,8,1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,0,0,2,0,2
+['2021-11-06'],Syed Mushtaq Ali Trophy,1280238,Maharashtra,9,1,2,0,0,50.0,"7,10,12,17",4.0,24,2,0,33,3,0,0,0,0,0,2,8.25,0,0,0,0,0,1,2,0,3
+['2021-11-05'],Syed Mushtaq Ali Trophy,1280217,Maharashtra,9,0,0,0,0,0.0,"7,9,11,15",4.0,24,9,0,27,2,1,0,0,0,0,0,6.75,1,0,0,0,0,0,11,8,19

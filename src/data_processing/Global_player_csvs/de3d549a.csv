@@ -1,0 +1,7 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-10-13'],West Indies tour of Sri Lanka,1451814,Sri Lanka,11,0,0,0,0,0.0,"2,4,13,19",4.0,24,7,0,37,5,0,0,0,0,0,2,9.25,0,0,0,0,0,0,7,0,7
+['2024-07-30'],India tour of Sri Lanka,1442989,Sri Lanka,10,1,1,0,0,100.0,"6,8",2.0,12,5,0,11,0,0,1,0,0,0,1,5.5,0,0,0,0,0,1,34,0,35
+['2024-07-28'],India tour of Sri Lanka,1442988,Sri Lanka,11,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2024-07-27'],India tour of Sri Lanka,1442987,Sri Lanka,10,0,1,0,0,0.0,"2,4,16,20",4.0,24,11,0,47,5,3,1,0,1,0,1,11.75,1,0,0,0,0,0,40,8,48
+['2022-09-06'],Asia Cup,1327277,Sri Lanka,10,0,0,0,0,0.0,"5,10",2.0,12,1,0,28,2,2,0,0,0,0,0,14.0,0,0,0,0,0,0,-5,0,-5
+['2022-09-01'],Asia Cup,1327273,Sri Lanka,10,10,2,2,0,500.0,"3,5,16,20",4.0,24,5,0,51,4,3,1,0,0,0,0,12.75,0,0,0,0,0,18,24,0,42

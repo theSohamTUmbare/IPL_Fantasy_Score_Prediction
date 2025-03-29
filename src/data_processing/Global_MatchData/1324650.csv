@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Melbourne Renegades,MJ Guptill,2be41edb,1,32,27,2,1,118.52,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,50,0,0,50
+Melbourne Renegades,SB Harper,a756e61a,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,4,0,0,0,0,-2,0,36,34
+Melbourne Renegades,SE Marsh,508a1ea7,3,32,35,4,0,91.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,52,0,0,52
+Melbourne Renegades,AJ Finch,b8d490fd,4,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Melbourne Renegades,JW Wells,8bdac857,5,24,18,3,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,38,0,8,46
+Melbourne Renegades,MW Harvey,47dc9794,6,32,23,2,1,139.13,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,52,0,0,52
+Melbourne Renegades,W Sutherland,bc2d4f2e,7,6,7,1,0,85.71,"[5, 7, 18, 20]",4.0,24,6,0,35,4,0,1,0,0,0,0,8.75,0,0,0,0,0,10,31,0,41
+Melbourne Renegades,AJ Hosein,4d7f517e,8,6,6,1,0,100.0,"[4, 6, 10, 16]",4.0,24,14,0,21,3,0,0,0,0,0,1,5.25,0,0,0,0,0,10,18,0,28
+Melbourne Renegades,TS Rogers,1b04e02b,9,1,1,0,0,100.0,"[1, 3, 11, 15]",4.0,24,14,0,16,1,0,5,0,2,0,1,4.0,1,0,0,0,0,1,173,8,182
+Melbourne Renegades,KW Richardson,dfc4d8b5,11,0,0,0,0,0.0,"[9, 13, 17, 19]",4.0,24,8,0,23,0,1,1,0,0,0,0,5.75,0,0,0,0,0,0,37,0,37
+Melbourne Renegades,Mujeeb Ur Rahman,7d92277a,12,0,0,0,0,0.0,"[2, 8, 12, 14]",4.0,24,16,0,7,0,0,2,0,0,0,0,1.75,1,0,0,0,0,0,72,8,80
+Melbourne Stars,JM Clarke,2eca67f5,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,-2,0,16,14
+Melbourne Stars,TF Rogers,7f232d46,2,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+Melbourne Stars,BJ Webster,56b93d46,3,8,9,1,0,88.89,"[5, 9, 11, 19]",4.0,24,5,0,30,2,1,1,0,0,0,0,7.5,1,0,0,0,0,12,30,8,50
+Melbourne Stars,MP Stoinis,d9273ee7,4,6,10,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,4,0,0,4
+Melbourne Stars,HWR Cartwright,ab965cad,5,20,21,2,0,95.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
+Melbourne Stars,NCR Larkin,02bce9a8,6,48,40,5,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,72,0,8,80
+Melbourne Stars,C Kellaway,60c28835,7,5,8,0,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
+Melbourne Stars,NM Coulter-Nile,56ab442f,8,0,1,0,0,0.0,"[6, 8, 14, 16]",4.0,24,5,0,35,3,1,1,0,0,0,1,8.75,2,0,0,0,0,-2,30,16,44
+Melbourne Stars,L Wood,65b6943c,9,1,8,0,0,12.5,"[2, 4, 12, 18]",4.0,24,7,0,29,4,0,2,0,0,0,0,7.25,0,0,0,0,0,1,57,0,58
+Melbourne Stars,TA Boult,a818c1be,10,8,7,0,1,114.29,"[1, 3, 10, 13]",4.0,24,11,0,23,3,0,2,0,0,0,0,5.75,0,0,0,0,0,14,65,0,79
+Melbourne Stars,A Zampa,14f96089,11,3,9,0,0,33.33,"[7, 15, 17, 20]",4.0,24,11,0,18,1,0,1,0,0,0,0,4.5,0,0,0,0,0,3,42,0,45

@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-10-05'],Namibia T20 Tri-Series,1450822,United States of America,9,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2024-10-04'],Namibia T20 Tri-Series,1450821,United States of America,9,10,8,1,0,125.0,"8,13",2.0,12,4,0,18,1,1,0,0,0,0,1,9.0,0,0,0,0,0,14,4,0,18
+['2024-10-01'],Namibia T20 Tri-Series,1450819,United States of America,9,0,0,0,0,0.0,"6,14,19",3.0,18,6,0,28,5,0,1,0,0,0,0,9.33,0,0,0,0,0,0,31,0,31
+['2024-09-30'],Namibia T20 Tri-Series,1450818,United States of America,8,6,5,1,0,120.0,"11,13,15,20",4.0,24,8,0,24,2,0,3,0,1,0,0,6.0,0,0,0,0,0,10,97,0,107

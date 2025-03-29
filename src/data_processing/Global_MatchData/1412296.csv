@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Comilla Victorians,Mohammad Rizwan,2f26ac1a,1,21,28,2,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,29,0,16,45
+Comilla Victorians,Liton Das,0404d43c,2,45,30,2,4,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,81,0,8,89
+Comilla Victorians,WG Jacks,9caf69a1,3,22,27,2,0,81.48,"[3, 5, 8, 10]",4.0,24,14,0,14,1,0,1,0,0,0,1,3.5,0,0,0,0,0,30,45,0,75
+Comilla Victorians,Towhid Hridoy,9e52a414,4,16,17,1,0,94.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,20,0,28,48
+Comilla Victorians,Khushdil Shah,fce581b5,5,4,3,0,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+Comilla Victorians,Jaker Ali,cd56a813,6,18,8,2,1,225.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32
+Comilla Victorians,Mahidul Islam Ankon,dac6aabc,7,10,5,1,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
+Comilla Victorians,Aamer Jamal,a8e54ef4,8,0,1,0,0,0.0,"[9, 13, 16, 18]",4.0,24,17,0,23,1,2,5,1,0,1,1,5.75,0,0,0,0,0,0,166,0,166
+Comilla Victorians,Tanvir Islam,aa467af0,9,1,1,0,0,100.0,"[1, 7, 11, 19]",3.833,23,14,0,29,1,3,2,0,0,0,2,7.57,1,0,0,0,0,1,64,8,73
+Comilla Victorians,Al Islam,45d38a84,11,0,0,0,0,0.0,"[2, 4, 12, 14]",4.0,24,12,0,30,6,0,1,0,1,0,1,7.5,1,0,0,0,0,0,45,8,53
+Comilla Victorians,Mustafizur Rahman,0a8fce53,12,0,0,0,0,0.0,"[6, 15, 17]",3.0,18,11,0,17,2,1,1,0,0,0,0,5.67,0,0,0,0,0,0,40,0,40
+Khulna Tigers,Anamul Haque,72b245dd,1,19,12,3,1,158.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,4,41,0,12,53
+Khulna Tigers,E Lewis,0ebfb1ad,2,10,14,0,1,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
+Khulna Tigers,Afif Hossain,37138918,3,5,9,1,0,55.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
+Khulna Tigers,Akbar Ali,abae26ad,4,5,8,1,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
+Khulna Tigers,Parvez Hossain Emon,489aaf0a,5,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Khulna Tigers,Nahidul Islam,8c7b16c8,6,21,23,2,0,91.3,"[1, 3]",2.0,12,7,0,5,0,0,0,0,0,0,0,2.5,2,0,0,0,0,29,13,16,58
+Khulna Tigers,Mohammad Nawaz,3086f7a4,7,7,13,1,0,53.85,"[6, 8, 12]",3.0,18,6,0,31,3,2,0,0,0,0,0,10.33,0,0,0,0,-4,7,4,0,11
+Khulna Tigers,Faheem Ashraf,bd4ea627,8,13,13,1,1,100.0,"[7, 14, 18, 20]",4.0,24,11,0,25,1,1,2,0,0,0,3,6.25,0,0,1,0,0,23,63,12,98
+Khulna Tigers,Mohammad Wasim,9e9af5f2,9,23,12,1,3,191.67,"[5, 13, 16, 19]",4.0,24,9,0,37,3,2,1,0,0,0,1,9.25,1,0,0,0,6,51,34,8,93
+Khulna Tigers,Nasum Ahmed,37654b75,10,0,1,0,0,0.0,"[2, 4, 10, 15]",4.0,24,8,0,21,0,1,2,1,1,0,0,5.25,0,0,0,0,0,-2,78,0,76
+Khulna Tigers,Mukidul Islam,a699488a,11,4,5,1,0,80.0,"[9, 11, 17]",3.0,18,7,0,28,3,0,0,0,0,0,6,9.33,0,0,0,0,0,8,7,0,15

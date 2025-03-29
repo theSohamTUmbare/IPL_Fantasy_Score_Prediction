@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-09-15'],Caribbean Premier League,1185849,St Kitts and Nevis Patriots,7,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
+['2019-09-07'],Caribbean Premier League,1185840,St Kitts and Nevis Patriots,1,15,10,3,0,150.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27
+['2019-09-04'],Caribbean Premier League,1185837,St Kitts and Nevis Patriots,1,25,30,3,0,83.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,41,0,8,49

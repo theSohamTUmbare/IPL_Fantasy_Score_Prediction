@@ -1,0 +1,9 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2007-09-22'],ICC World Twenty20,287877,New Zealand,6,12,6,1,1,200.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
+['2007-09-19'],ICC World Twenty20,287872,New Zealand,5,48,24,2,4,200.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,90,0,0,90
+['2007-09-18'],ICC World Twenty20,287869,New Zealand,6,57,31,3,4,183.87,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,6,107,0,14,121
+['2007-09-16'],ICC World Twenty20,287865,New Zealand,6,44,23,1,4,191.3,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,82,0,0,82
+['2007-09-15'],ICC World Twenty20,287863,New Zealand,6,2,5,0,0,40.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2007-09-12'],ICC World Twenty20,287854,New Zealand,7,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2005-10-21'],NA,222678,New Zealand,4,15,19,1,0,78.95,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
+['2005-02-17'],NA,211048,New Zealand,5,9,8,0,1,112.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,15,0,16,31

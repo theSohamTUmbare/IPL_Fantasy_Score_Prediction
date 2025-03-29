@@ -1,0 +1,16 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-06-16'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436491,Israel,2,29,15,5,0,193.33,"5,13,17,19",4.0,24,7,0,36,4,1,1,0,1,0,0,9.0,0,0,0,0,6,59,40,0,99
+['2024-06-15'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436490,Israel,4,6,12,0,0,50.0,"5,11,17,19",4.0,24,8,0,34,1,3,1,0,1,0,0,8.5,0,0,0,0,-4,2,41,0,43
+['2024-06-13'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436485,Israel,6,4,6,1,0,66.67,"5,11,15,19",4.0,24,11,0,20,1,0,4,0,3,0,0,5.0,0,0,0,0,0,8,147,0,155
+['2024-06-12'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436482,Israel,4,2,5,0,0,40.0,"5,7,9,17",4.0,24,18,0,12,1,0,3,0,0,0,0,3.0,0,0,0,0,0,2,103,0,105
+['2024-06-10'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436475,Israel,6,42,37,3,2,113.51,"6,9,11",3.0,18,9,0,21,2,1,1,0,0,0,0,7.0,1,0,0,0,0,70,36,8,114
+['2022-07-03'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1320985,Israel,4,5,8,0,0,62.5,"8,10,15,17",4.0,24,9,0,38,1,3,1,0,1,1,2,9.5,0,0,0,0,0,5,42,0,47
+['2022-07-01'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1320979,Israel,3,4,4,1,0,100.0,"13,15,17,19",4.0,24,8,0,22,1,0,3,1,0,0,1,5.5,0,0,0,0,0,8,99,0,107
+['2022-06-29'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1320975,Israel,3,0,1,0,0,0.0,"7,9,11,13",4.0,24,8,0,35,3,1,1,1,0,0,4,8.75,0,0,0,0,0,-2,41,0,39
+['2018-09-02'],ICC World Twenty20 Europe Region Qualifier C,1156678,Israel,4,32,30,2,1,106.67,"9,11,13,15",4.0,24,9,0,24,1,0,1,1,0,0,0,6.0,0,0,0,0,0,50,44,0,94
+['2018-09-01'],ICC World Twenty20 Europe Region Qualifier C,1156676,Israel,5,1,2,0,0,50.0,"7,9,11,13",4.0,24,11,0,23,1,1,2,1,0,0,0,5.75,1,0,0,0,0,1,73,8,82
+['2018-08-31'],ICC World Twenty20 Europe Region Qualifier C,1157845,Israel,5,26,20,2,1,130.0,"8,10,12,14",4.0,24,12,0,16,0,0,2,0,0,0,3,4.0,0,0,0,0,2,46,68,0,114
+['2018-08-30'],ICC World Twenty20 Europe Region Qualifier C,1156670,Israel,3,7,13,0,0,53.85,"10,12,14",3.0,18,11,0,9,1,0,0,0,0,0,0,3.0,1,0,0,0,-4,3,17,8,28
+['2018-08-30'],ICC World Twenty20 Europe Region Qualifier C,1156672,Israel,5,20,29,0,1,68.97,"10,12,14,16",4.0,24,11,0,19,1,0,2,0,0,0,1,4.75,0,0,0,0,-2,24,67,0,91
+['2016-08-17'],ICC World Cricket League Europe Region Division Two Twenty20,1046679,Israel,5,17,12,0,2,141.67,"11,13,15,17",4.0,24,12,0,16,1,0,2,0,1,1,1,4.0,0,0,0,0,2,31,76,0,107
+['2016-08-17'],ICC World Cricket League Europe Region Division Two Twenty20,1046687,Israel,5,25,21,3,0,119.05,"7,9,11,13",3.667,22,8,0,29,2,1,1,0,0,0,3,7.91,0,0,0,0,0,41,33,0,74

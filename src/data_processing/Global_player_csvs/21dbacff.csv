@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+"['2024-05-09', '2024-05-10']",Mongolia tour of Japan,1431123,Japan,6,0,0,0,0,0.0,"4,13",2.0,12,10,0,3,0,0,0,0,0,0,1,1.5,0,0,0,0,0,0,16,0,16
+['2024-05-08'],Mongolia tour of Japan,1431121,Japan,11,0,0,0,0,0.0,4,1.0,6,4,0,4,0,0,2,0,0,0,0,4.0,1,0,0,0,0,0,54,8,62
+['2024-05-08'],Mongolia tour of Japan,1431122,Japan,7,0,0,0,0,0.0,2,0.667,4,2,0,2,0,0,1,0,1,0,0,3.0,0,0,0,0,0,0,35,0,35
+['2024-05-07'],Mongolia tour of Japan,1431120,Japan,9,0,0,0,0,0.0,"5,12",2.0,12,9,0,4,0,0,1,0,0,0,1,2.0,0,0,0,0,0,0,40,0,40

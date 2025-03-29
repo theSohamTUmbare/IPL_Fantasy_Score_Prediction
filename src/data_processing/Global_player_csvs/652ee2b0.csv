@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2015-07-19'],ICC World Twenty20 Qualifier,875537,United States of America,6,40,16,5,1,250.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,76,0,0,76
+['2015-07-18'],ICC World Twenty20 Qualifier,875531,United States of America,5,40,25,3,3,160.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,78,0,0,78
+['2015-07-15'],ICC World Twenty20 Qualifier,875503,United States of America,5,13,9,1,1,144.44,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
+['2015-07-12'],ICC World Twenty20 Qualifier,875477,United States of America,4,19,18,1,1,105.56,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29

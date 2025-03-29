@@ -1,0 +1,13 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-06-16'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436491,Israel,3,25,17,3,0,147.06,"1,3,18,20",4.0,24,11,0,38,3,1,2,0,1,0,10,9.5,0,0,0,0,2,43,69,0,112
+['2024-06-15'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436490,Israel,3,24,21,1,1,114.29,"1,3,16,20",4.0,24,8,0,25,3,0,1,0,0,0,2,6.25,1,0,0,0,0,34,35,8,77
+['2024-06-13'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436485,Israel,5,14,12,3,0,116.67,"1,3,16,20",4.0,24,9,0,27,3,0,0,0,0,0,0,6.75,1,0,0,0,0,26,11,8,45
+['2024-06-12'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436482,Israel,7,20,15,1,0,133.33,"1,3,18,20",3.333,20,10,0,21,2,0,1,0,1,0,2,6.3,2,0,0,0,2,26,45,16,87
+['2024-06-10'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436475,Israel,7,2,4,0,0,50.0,"2,4",2.0,12,8,0,9,1,0,1,0,0,0,1,4.5,0,0,0,0,0,2,39,0,41
+['2022-07-03'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1320985,Israel,10,0,0,0,0,0.0,"1,3,16,18",4.0,24,9,0,34,2,2,0,0,0,0,0,8.5,2,0,0,0,0,0,9,16,25
+['2022-07-01'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1320979,Israel,7,1,3,0,0,33.33,"1,3,18,20",3.667,22,13,0,15,2,0,1,0,0,0,0,4.09,0,0,0,0,0,1,44,0,45
+['2022-06-29'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1320975,Israel,8,10,14,0,0,71.43,"1,3",2.0,12,6,1,22,2,2,0,0,0,0,0,11.0,0,0,0,0,0,10,16,0,26
+['2018-09-02'],ICC World Twenty20 Europe Region Qualifier C,1156678,Israel,11,2,3,0,0,66.67,"2,4",2.0,12,7,0,11,1,0,0,0,0,0,3,5.5,0,0,0,0,0,2,11,0,13
+['2018-09-01'],ICC World Twenty20 Europe Region Qualifier C,1156676,Israel,9,0,0,0,0,0.0,6,1.0,6,3,0,10,1,0,0,0,0,0,2,10.0,0,0,0,0,0,0,3,0,3
+['2018-08-31'],ICC World Twenty20 Europe Region Qualifier C,1157845,Israel,10,0,0,0,0,0.0,"7,9,11,13",4.0,24,8,0,27,2,0,0,0,0,0,0,6.75,1,0,0,0,0,0,10,8,18
+['2018-08-30'],ICC World Twenty20 Europe Region Qualifier C,1156672,Israel,9,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2

@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-07-28'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321293,Norway,2,4,3,1,0,133.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+['2022-05-01'],Spain Triangular T20I Series,1310166,Norway,7,0,3,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,-2,0,6,4
+['2022-04-30'],Spain Triangular T20I Series,1310163,Norway,2,1,11,0,0,9.09,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-5,0,0,-5

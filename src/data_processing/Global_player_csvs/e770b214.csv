@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2007-09-19'],ICC World Twenty20,287873,England,1,29,20,3,1,145.0,"14,16",2.0,12,3,0,20,3,0,1,0,0,0,0,10.0,0,0,0,0,2,53,26,0,79
+['2007-09-18'],ICC World Twenty20,287869,England,1,50,31,4,2,161.29,17,1.0,6,3,0,6,1,0,2,0,1,0,0,6.0,0,0,1,0,4,90,61,12,163
+['2007-09-14'],ICC World Twenty20,287861,England,1,20,20,3,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32
+['2007-09-13'],ICC World Twenty20,287858,England,1,14,9,2,0,155.56,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,22,0,8,30

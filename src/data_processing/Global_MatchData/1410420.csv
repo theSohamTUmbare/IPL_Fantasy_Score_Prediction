@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Durham,G Clark,4fd09cfc,1,31,15,5,1,206.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,67,0,0,67
+Durham,AZ Lees,c9c0fe50,2,22,15,2,1,146.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,38,0,0,38
+Durham,DG Bedingham,a1b69936,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Durham,OG Robinson,60f4c586,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Durham,AJ Turner,ff1e12a0,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Durham,BS McKinney,1db6e336,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Durham,BA Raine,4c0f3806,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Durham,P Coughlin,71440756,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Durham,MJ Potts,894b2d25,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Durham,CF Parkinson,aa1210d8,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Durham,NA Sowter,ee0c05c0,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Nottinghamshire,AD Hales,92aeac25,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Nottinghamshire,JM Clarke,2eca67f5,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Nottinghamshire,BJR Martindale,a81cac82,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Nottinghamshire,JA Haynes,fe4ebca0,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Nottinghamshire,M Montgomery,7671203a,6,0,0,0,0,0.0,[1],1.0,6,1,0,12,2,0,0,0,0,0,1,12.0,0,0,0,0,0,0,1,0,1
+Nottinghamshire,TJ Moores,85dcb721,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Nottinghamshire,LW James,2baad3bd,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Nottinghamshire,CG Harrison,f655d740,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Nottinghamshire,LA Patterson-White,d48c0f40,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Nottinghamshire,OP Stone,3f659464,11,0,0,0,0,0.0,"[2, 4]",2.0,12,2,0,28,4,1,0,0,0,0,1,14.0,0,0,0,0,0,0,-4,0,-4
+Nottinghamshire,BG Lister,79f5bc26,12,0,0,0,0,0.0,"[3, 5]",2.0,12,3,0,16,1,1,0,0,0,0,1,8.0,0,0,0,0,0,0,3,0,3

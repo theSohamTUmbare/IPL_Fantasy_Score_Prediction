@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Jamaica Tallawahs,GD Phillips,9a46c4e5,1,79,60,2,6,131.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,137,0,0,137
+Jamaica Tallawahs,NE Bonner,59ddd811,2,16,18,1,1,88.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26
+Jamaica Tallawahs,J Blackwood,c3b93a03,3,27,26,2,1,103.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,45,0,0,45
+Jamaica Tallawahs,Asif Ali,0a4736eb,4,14,10,0,1,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,22,0,0,22
+Jamaica Tallawahs,R Powell,650d5e49,5,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+Jamaica Tallawahs,CR Brathwaite,e342e5fb,6,0,2,0,0,0.0,"[7, 9, 11, 20]",3.667,22,14,1,11,1,0,3,0,1,0,0,3.0,0,0,0,0,0,-2,119,0,117
+Jamaica Tallawahs,CAK Walton,bbff906c,7,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,1,0,20,21
+Jamaica Tallawahs,V Permaul,78dfe704,8,0,0,0,0,0.0,"[3, 5, 8, 10]",4.0,24,10,0,20,1,0,2,0,0,0,0,5.0,1,0,0,0,0,0,64,8,72
+Jamaica Tallawahs,Mujeeb Ur Rahman,7d92277a,11,0,0,0,0,0.0,"[2, 4, 13, 17]",4.0,24,13,0,12,0,0,1,0,0,0,0,3.0,1,0,0,0,0,0,44,8,52
+Jamaica Tallawahs,S Lamichhane,b410bd3d,12,0,0,0,0,0.0,"[12, 14, 16, 18]",4.0,24,12,0,27,1,2,2,0,1,0,0,6.75,0,0,0,0,0,0,72,0,72
+Jamaica Tallawahs,FH Edwards,a7c226e1,13,0,0,0,0,0.0,"[1, 6, 15, 19]",4.0,24,7,0,39,3,2,2,0,2,0,1,9.75,1,0,0,0,0,0,73,8,81
+St Kitts and Nevis Patriots,CA Lynn,45eda7c8,1,8,4,0,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
+St Kitts and Nevis Patriots,KOA Powell,e012ad13,2,21,27,1,0,77.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
+St Kitts and Nevis Patriots,D Ramdin,d1523761,3,13,15,1,0,86.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
+St Kitts and Nevis Patriots,BR Dunk,272d796e,4,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
+St Kitts and Nevis Patriots,NF Kelly,97f437ed,5,16,20,2,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
+St Kitts and Nevis Patriots,RR Emrit,e7de4f6b,6,5,5,1,0,100.0,"[10, 12, 18, 20]",4.0,24,6,0,32,2,2,3,0,1,0,0,8.0,0,0,0,0,0,9,93,0,102
+St Kitts and Nevis Patriots,E Lewis,0ebfb1ad,7,21,16,0,2,131.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,35,0,8,43
+St Kitts and Nevis Patriots,SS Cottrell,a1d053dd,8,1,4,0,0,25.0,"[2, 11, 17, 19]",4.0,24,7,0,43,3,3,1,0,1,1,0,10.75,1,0,0,0,0,1,38,8,47
+St Kitts and Nevis Patriots,IS Sodhi,641ac5ff,9,6,3,0,1,200.0,"[5, 7, 9, 16]",4.0,24,11,0,27,0,2,1,0,0,0,0,6.75,0,0,0,0,0,12,38,0,50
+St Kitts and Nevis Patriots,I Khan,2ae01eb0,10,10,12,1,0,83.33,"[4, 6, 8, 14]",4.0,24,18,1,7,0,0,1,0,0,0,0,1.75,0,0,0,0,0,14,61,0,75
+St Kitts and Nevis Patriots,JL Jaggesar,2b85c8e6,11,5,7,0,0,71.43,"[1, 3, 13, 15]",4.0,24,7,0,32,0,2,0,0,0,0,2,8.0,1,0,0,0,0,5,7,8,20

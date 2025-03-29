@@ -1,0 +1,18 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-07-12'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439829,Serbia,10,0,0,0,0,0.0,"11,13",2.0,12,3,0,33,3,3,1,0,0,0,0,16.5,0,0,0,0,0,0,22,0,22
+['2024-07-11'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439826,Serbia,10,0,1,0,0,0.0,"16,18",2.0,12,2,0,17,0,1,2,0,0,0,0,8.5,0,0,0,0,0,-2,52,0,50
+['2024-07-10'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439823,Serbia,8,1,2,0,0,50.0,"15,17",2.0,12,6,0,7,0,0,1,0,0,0,0,3.5,0,0,0,0,0,1,37,0,38
+['2024-07-07'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439813,Serbia,6,5,15,0,0,33.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-1,0,0,-1
+['2023-06-24'],Quadrangular Twenty20 Series (Bulgaria),1381457,Serbia,5,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2023-06-23'],Quadrangular Twenty20 Series (Bulgaria),1381453,Serbia,2,40,52,2,0,76.92,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,52,0,0,52
+['2023-06-23'],Quadrangular Twenty20 Series (Bulgaria),1381455,Serbia,5,18,19,3,0,94.74,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30
+['2022-07-19'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321277,Serbia,10,5,7,0,0,71.43,"7,9,11,13",4.0,24,17,0,10,1,0,2,0,0,0,0,2.5,0,0,0,0,0,5,73,0,78
+['2022-07-18'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321274,Serbia,9,0,0,0,0,0.0,16,1.0,6,2,0,14,0,2,0,0,0,0,0,14.0,0,0,0,0,0,0,2,0,2
+['2022-07-09'],Bulgaria tour of Serbia,1323551,Serbia,7,0,0,0,0,0.0,10,1.0,6,2,0,14,0,2,0,0,0,0,0,14.0,0,0,0,0,0,0,2,0,2
+['2022-07-09'],Bulgaria tour of Serbia,1323552,Serbia,8,7,20,0,0,35.0,"11,13",2.0,12,4,0,26,4,1,0,0,0,0,1,13.0,0,0,0,0,-6,1,-2,0,-1
+['2022-06-26'],Sofia Twenty20,1317139,Serbia,9,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2022-06-25'],Sofia Twenty20,1317137,Serbia,10,2,3,0,0,66.67,11,1.0,6,1,0,18,1,2,0,0,0,0,0,18.0,0,0,0,0,0,2,1,0,3
+['2022-06-24'],Sofia Twenty20,1317136,Serbia,11,0,0,0,0,0.0,"10,12",2.0,12,3,0,29,0,4,0,0,0,0,0,14.5,0,0,0,0,0,0,-3,0,-3
+['2021-06-26'],Sofia Twenty20,1267310,Serbia,1,15,30,1,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,15,0,0,15
+['2021-06-25'],Sofia Twenty20,1267306,Serbia,1,15,40,1,0,37.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,13,0,0,13
+['2021-06-25'],Sofia Twenty20,1267308,Serbia,1,4,9,1,0,44.44,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16

@@ -1,0 +1,9 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-09-06'],New Zealand tour of Sri Lanka,1192877,New Zealand,11,8,17,0,0,47.06,"2,4,17",3.0,18,5,0,29,4,0,0,0,0,0,0,9.67,0,0,0,0,-6,2,5,0,7
+['2019-09-03'],New Zealand tour of Sri Lanka,1192876,New Zealand,10,0,0,0,0,0.0,"2,5,16,20",4.0,24,8,0,33,2,1,3,1,0,0,0,8.25,0,0,0,0,0,0,95,0,95
+['2019-09-01'],New Zealand tour of Sri Lanka,1192875,New Zealand,8,0,0,0,0,0.0,"2,4,18,20",4.0,24,3,0,58,4,4,0,0,0,0,0,14.5,0,0,0,0,0,0,-3,0,-3
+['2018-11-04'],New Zealand tour of United Arab Emirates,1157377,New Zealand,11,1,2,0,0,50.0,"1,3,5,18",4.0,24,8,0,22,2,0,0,0,0,0,0,5.5,0,0,0,0,0,1,12,0,13
+['2018-01-25'],Pakistan tour of New Zealand,1115808,New Zealand,10,1,2,0,0,50.0,"2,5,10,18",4.0,24,7,0,47,5,2,1,0,0,0,3,11.75,0,0,0,0,0,1,28,0,29
+['2018-01-22'],Pakistan tour of New Zealand,1115807,New Zealand,11,0,0,0,0,0.0,"1,3,17,19",4.0,24,14,0,26,1,2,3,0,0,0,1,6.5,0,0,0,0,0,0,95,0,95
+['2018-01-01'],West Indies tour of New Zealand,1115799,New Zealand,11,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2017-12-29'],West Indies tour of New Zealand,1115798,New Zealand,11,0,0,0,0,0.0,"1,3,17,19",4.0,24,8,0,30,4,0,3,1,0,0,1,7.5,0,0,0,0,0,0,95,0,95

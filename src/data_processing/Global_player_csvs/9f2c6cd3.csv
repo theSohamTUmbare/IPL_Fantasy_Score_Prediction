@@ -1,0 +1,10 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2025-03-04'],Bahrain tour of Singapore,1474263,Bahrain,9,0,0,0,0,0.0,"7,9,11,13",4.0,24,8,0,37,2,3,2,0,0,0,0,9.25,1,0,0,0,0,0,58,8,66
+['2025-03-02'],Bahrain tour of Singapore,1474262,Bahrain,11,0,0,0,0,0.0,"7,9,11,14",4.0,24,13,0,30,1,3,2,0,0,0,0,7.5,0,0,0,0,0,0,63,0,63
+['2025-02-22'],Bahrain tour of Indonesia,1471824,Bahrain,8,5,5,0,0,100.0,"13,20",1.667,10,2,0,17,1,1,0,0,0,0,0,10.2,0,0,0,0,0,5,2,0,7
+['2025-02-20'],Bahrain tour of Indonesia,1471823,Bahrain,7,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2025-02-19'],Bahrain tour of Indonesia,1471822,Bahrain,10,0,0,0,0,0.0,"11,13,15,17",4.0,24,9,0,23,1,1,4,0,0,0,0,5.75,1,0,0,0,0,0,121,8,129
+['2024-12-20'],Gulf T20I Championship,1463665,Bahrain,7,11,9,1,0,122.22,"7,9,11,13",4.0,24,16,0,9,0,0,3,1,1,0,0,2.25,0,0,0,1,0,15,117,6,138
+['2024-12-17'],Gulf T20I Championship,1463661,Bahrain,7,2,2,0,0,100.0,14,1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,0,2,2,0,4
+['2024-12-16'],Gulf T20I Championship,1463658,Bahrain,10,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2024-12-14'],Gulf T20I Championship,1463654,Bahrain,8,26,23,1,1,113.04,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,40,0,0,40

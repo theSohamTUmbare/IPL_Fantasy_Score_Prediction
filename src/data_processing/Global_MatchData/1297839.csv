@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Birmingham Bears,PR Stirling,cf494ffe,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Birmingham Bears,JG Bethell,3c55c703,2,17,9,2,1,188.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31
+Birmingham Bears,CG Benjamin,95a15317,3,36,17,4,2,211.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,74,0,0,74
+Birmingham Bears,AJ Hose,104e88a4,4,12,6,0,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
+Birmingham Bears,CR Brathwaite,e342e5fb,5,17,11,2,1,154.55,[7],1.0,6,2,0,8,1,0,1,0,0,0,0,8.0,0,0,0,0,4,35,27,0,62
+Birmingham Bears,SR Hain,67b9536c,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Birmingham Bears,AL Davies,29ede60b,7,14,4,1,1,350.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
+Birmingham Bears,JB Lintott,e5218454,7,0,0,0,0,0.0,"[4, 6]",2.0,12,5,0,6,0,0,2,0,0,0,0,3.0,1,0,0,0,0,0,61,8,69
+Birmingham Bears,DR Briggs,f3abd0c9,8,0,0,0,0,0.0,[3],1.0,6,0,0,26,0,4,0,0,0,0,0,26.0,0,0,0,0,0,0,0,0,0
+Birmingham Bears,OP Stone,3f659464,9,0,0,0,0,0.0,"[1, 5]",2.0,12,6,0,18,1,1,1,0,0,2,1,9.0,0,0,0,0,0,0,31,0,31
+Birmingham Bears,CN Miles,5fed6272,10,0,0,0,0,0.0,"[2, 8]",2.0,12,2,0,36,0,4,0,0,0,4,0,18.0,2,0,0,0,0,0,-4,16,12
+Nottinghamshire,JM Clarke,2eca67f5,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+Nottinghamshire,AD Hales,92aeac25,2,30,9,1,4,333.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,62,0,0,62
+Nottinghamshire,BM Duckett,5f26f677,3,22,12,0,3,183.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,46,0,8,54
+Nottinghamshire,TJ Moores,85dcb721,4,20,12,0,2,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,36,0,0,36
+Nottinghamshire,DT Christian,2a2e6343,5,13,13,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
+Nottinghamshire,SR Patel,18fac429,6,2,1,0,0,200.0,"[3, 5]",2.0,12,5,0,12,1,0,2,0,0,0,0,6.0,0,0,0,0,0,2,57,0,59
+Nottinghamshire,CG Harrison,f655d740,7,0,0,0,0,0.0,"[6, 8]",2.0,12,5,0,24,3,1,1,0,1,0,0,12.0,0,0,0,0,0,0,34,0,34
+Nottinghamshire,SJ Mullaney,0e0d43b4,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Nottinghamshire,JT Ball,3d0ed2f9,8,0,0,0,0,0.0,"[2, 7]",2.0,12,2,0,30,3,2,0,0,0,0,1,15.0,0,0,0,0,0,0,-4,0,-4
+Nottinghamshire,JL Pattinson,f752db61,9,0,0,0,0,0.0,[4],1.0,6,1,0,19,1,2,0,0,0,0,0,19.0,1,0,0,0,0,0,1,8,9
+Nottinghamshire,M Carter,1ca7c00f,10,0,0,0,0,0.0,[1],1.0,6,2,0,12,1,1,1,0,0,0,0,12.0,0,0,0,0,0,0,27,0,27

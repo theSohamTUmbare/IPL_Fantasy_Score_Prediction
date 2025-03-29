@@ -1,0 +1,11 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-03-24'],ICC World Twenty20 East Asia-Pacific Region Final,1176796,Vanuatu,7,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2019-03-24'],ICC World Twenty20 East Asia-Pacific Region Final,1176797,Vanuatu,4,8,11,0,0,72.73,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+['2019-03-23'],ICC World Twenty20 East Asia-Pacific Region Final,1176794,Vanuatu,4,23,20,0,1,115.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29
+['2019-03-22'],ICC World Twenty20 East Asia-Pacific Region Final,1176793,Vanuatu,5,5,10,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,1,0,0,1
+['2018-08-29'],ICC World Twenty20 East Asia-Pacific Region Qualifier A,1155282,Vanuatu,1,14,20,2,0,70.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,20,0,8,28
+['2018-08-28'],ICC World Twenty20 East Asia-Pacific Region Qualifier A,1155279,Vanuatu,1,23,19,3,1,121.05,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,41,0,0,41
+['2018-08-28'],ICC World Twenty20 East Asia-Pacific Region Qualifier A,1155280,Vanuatu,1,27,17,5,0,158.82,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,55,0,0,55
+"['2018-08-26', '2018-08-27']",ICC World Twenty20 East Asia-Pacific Region Qualifier A,1155277,Vanuatu,7,0,2,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2018-08-25'],ICC World Twenty20 East Asia-Pacific Region Qualifier A,1155272,Vanuatu,5,0,4,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2018-08-25'],ICC World Twenty20 East Asia-Pacific Region Qualifier A,1155275,Vanuatu,5,11,17,1,0,64.71,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,13,0,0,13

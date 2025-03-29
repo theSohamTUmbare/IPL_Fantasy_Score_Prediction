@@ -1,0 +1,14 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-11-25'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343767,Lesotho,5,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2022-11-22'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343757,Lesotho,5,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2022-11-21'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343753,Lesotho,5,7,17,0,0,41.18,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,1,0,8,9
+['2022-11-18'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343745,Lesotho,6,14,11,0,1,127.27,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
+['2022-11-17'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343741,Lesotho,3,11,17,1,0,64.71,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,13,0,0,13
+"['2021-10-20', '2021-10-21']",ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283036,Lesotho,5,21,17,2,1,123.53,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,35,0,6,41
+['2021-10-19'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283030,Lesotho,5,10,24,1,0,41.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,8,0,0,8
+['2021-10-17'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283025,Lesotho,4,35,26,2,2,134.62,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,61,0,8,69
+['2018-11-02'],ICC World Twenty20 Africa Region Qualifier C,1163064,Lesotho,5,5,3,1,0,166.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
+['2018-11-01'],ICC World Twenty20 Africa Region Qualifier C,1163060,Lesotho,4,13,19,3,0,68.42,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,23,0,0,23
+['2018-11-01'],ICC World Twenty20 Africa Region Qualifier C,1163062,Lesotho,4,17,16,3,0,106.25,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,29,0,8,37
+['2018-10-30'],ICC World Twenty20 Africa Region Qualifier C,1163057,Lesotho,5,36,28,3,0,128.57,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,52,0,8,60
+['2018-10-29'],ICC World Twenty20 Africa Region Qualifier C,1163051,Lesotho,4,5,7,0,0,71.43,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5

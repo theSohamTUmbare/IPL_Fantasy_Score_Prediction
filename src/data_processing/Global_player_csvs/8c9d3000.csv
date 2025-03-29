@@ -1,0 +1,8 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-07-02'],Vitality Blast,1347693,Leicestershire,10,5,4,0,0,125.0,"2,4,17,20",4.0,24,10,0,39,4,1,3,0,0,2,2,9.75,0,0,0,0,0,5,89,0,94
+['2023-06-30'],Vitality Blast,1347682,Leicestershire,9,1,2,0,0,50.0,"2,6,15,19",4.0,24,5,0,57,4,3,0,0,0,2,3,14.25,0,0,0,0,0,1,-1,0,0
+['2023-06-23'],Vitality Blast,1347676,Leicestershire,9,16,11,1,1,145.45,"2,4,14,19",4.0,24,9,0,30,2,0,2,0,0,2,2,7.5,1,0,0,0,2,28,59,8,95
+['2023-06-20'],Vitality Blast,1347661,Leicestershire,8,13,11,2,0,118.18,"2,5,13",3.0,18,5,0,39,7,1,0,0,0,0,1,13.0,4,0,0,0,0,21,-1,36,56
+['2023-06-18'],Vitality Blast,1347653,Leicestershire,9,0,1,0,0,0.0,"5,11,17",2.333,14,7,0,23,3,1,0,0,0,0,2,9.86,0,0,0,0,0,-2,7,0,5
+['2023-06-16'],Vitality Blast,1347638,Leicestershire,10,0,0,0,0,0.0,"5,14,16,19",3.167,19,6,0,35,5,0,2,0,0,0,6,11.05,0,0,0,0,0,0,52,0,52
+['2023-06-06'],Vitality Blast,1347622,Leicestershire,8,20,13,1,1,153.85,"1,5,16,20",4.0,24,6,0,40,3,2,0,0,0,2,0,10.0,1,0,0,0,4,34,4,8,46

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Cumilla Warriors,WU Tharanga,7ed9fd56,1,4,14,0,0,28.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2
+Cumilla Warriors,Fardeen Hasan,23667d99,2,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Cumilla Warriors,DJ Malan,ad9c32a2,3,58,49,2,2,118.37,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,86,0,0,86
+Cumilla Warriors,Mahidul Islam Ankon,dac6aabc,4,11,9,0,1,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,17,0,20,37
+Cumilla Warriors,Soumya Sarkar,4d9f9686,5,53,30,6,2,176.67,"[11, 13]",2.0,12,6,0,7,0,0,0,0,0,0,0,3.5,0,0,0,0,6,103,12,0,115
+Cumilla Warriors,D Wiese,aa8d28ae,6,13,8,1,1,162.5,"[12, 16, 18, 20]",4.0,24,4,0,31,1,1,2,0,0,0,1,7.75,0,0,0,0,0,23,54,0,77
+Cumilla Warriors,Yasir Ali Chowdhury,5791b840,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
+Cumilla Warriors,Sunzamul Islam,0f348f58,7,0,0,0,0,0.0,"[1, 7, 9]",3.0,18,6,0,30,2,2,0,0,0,0,0,10.0,0,0,0,0,0,0,4,0,4
+Cumilla Warriors,Al-Amin Hossain,3f5f39cd,8,0,0,0,0,0.0,"[6, 10, 14, 19]",4.0,24,6,0,30,3,0,2,0,0,0,0,7.5,0,0,0,0,0,0,56,0,56
+Cumilla Warriors,Abu Hider,31803fac,9,0,0,0,0,0.0,"[2, 4, 8]",3.0,18,6,0,18,2,0,0,0,0,0,0,6.0,1,0,0,0,0,0,8,8,16
+Cumilla Warriors,Mujeeb Ur Rahman,7d92277a,10,0,0,0,0,0.0,"[3, 5, 15, 17]",4.0,24,13,0,23,2,1,1,0,0,0,0,5.75,0,0,0,0,0,0,42,0,42
+Sylhet Thunder,ADS Fletcher,1bae756b,1,22,25,4,0,88.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,38,0,0,38
+Sylhet Thunder,Abdul Mazid,61a1cead,2,45,40,2,1,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,63,0,0,63
+Sylhet Thunder,J Charles,09a9d073,3,26,15,1,2,173.33,"[13, 15, 18, 20]",3.167,19,3,0,34,5,0,1,0,1,0,0,10.74,0,0,0,0,6,52,34,0,86
+Sylhet Thunder,Mohammad Mithun,77191792,4,18,25,1,0,72.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
+Sylhet Thunder,BMAJ Mendis,9868bc75,5,23,11,2,1,209.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,43,0,0,43
+Sylhet Thunder,Nazmul Hossain Milon,0637aa94,6,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
+Sylhet Thunder,Nazmul Islam,6575e3bc,7,0,0,0,0,0.0,[17],1.0,6,2,0,9,0,1,0,0,0,0,0,9.0,0,0,0,0,0,0,2,0,2
+Sylhet Thunder,Sohag Gazi,5a4c12ab,7,2,2,0,0,100.0,"[5, 7, 9, 11]",4.0,24,10,0,16,0,0,0,0,0,0,0,4.0,1,0,0,0,0,2,16,8,26
+Sylhet Thunder,Nayeem Hasan,1670dcfd,8,0,0,0,0,0.0,"[2, 4, 6, 8]",4.0,24,9,0,21,0,1,3,1,1,0,1,5.25,0,0,0,0,0,0,108,0,108
+Sylhet Thunder,Ebadat Hossain,cb5100f1,9,0,0,0,0,0.0,"[1, 3, 16, 19]",4.0,24,12,0,26,3,1,1,0,0,0,0,6.5,0,0,0,0,0,0,39,0,39
+Sylhet Thunder,Delwar Hossain,eba32b12,10,0,0,0,0,0.0,"[10, 12, 14]",3.0,18,1,0,35,1,3,0,0,0,0,0,11.67,0,0,0,0,0,0,-3,0,-3

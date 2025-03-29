@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Chittagong Vikings,Tamim Iqbal,3b041a12,1,54,38,6,2,142.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,100,0,0,100
+Chittagong Vikings,DR Smith,35205dfc,2,9,15,1,0,60.0,"[1, 3, 5]",3.0,18,7,0,21,3,0,1,0,0,0,1,7.0,0,0,0,0,-2,11,34,0,45
+Chittagong Vikings,Anamul Haque,72b245dd,3,22,18,2,0,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,30,0,16,46
+Chittagong Vikings,Shoaib Malik,64c34cd0,4,42,28,2,2,150.0,[9],1.0,6,2,0,3,0,0,0,0,0,0,0,3.0,0,0,0,0,0,66,2,0,68
+Chittagong Vikings,Jahurul Islam,6752c57b,5,29,21,3,0,138.1,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,47,0,0,47
+Chittagong Vikings,Taskin Ahmed,ef18b66e,10,0,0,0,0,0.0,"[11, 13, 16, 20]",4.0,24,10,0,31,5,0,1,0,0,0,0,7.75,1,0,0,0,0,0,35,8,43
+Chittagong Vikings,Abdur Razzak,888e32bf,11,0,0,0,0,0.0,"[2, 4, 6, 14]",4.0,24,14,0,23,1,1,1,0,0,0,1,5.75,0,0,0,0,0,0,43,0,43
+Chittagong Vikings,Mohammad Nabi,62af8546,12,0,0,0,0,0.0,"[8, 10, 15, 18]",4.0,24,11,0,24,1,1,4,1,2,0,1,6.0,1,0,0,0,0,0,145,8,153
+Chittagong Vikings,TS Mills,245c97cb,13,0,0,0,0,0.0,"[7, 12, 17, 19]",4.0,24,14,0,28,3,0,1,0,1,1,7,7.0,0,0,0,0,0,0,49,0,49
+Chittagong Vikings,Zakir Hasan,e3e09091,14,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Chittagong Vikings,Nazmul Hossain Milon,0637aa94,15,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Comilla Victorians,Liton Das,0404d43c,1,13,18,2,0,72.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
+Comilla Victorians,Imrul Kayes,5fbe14fc,2,6,4,1,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+Comilla Victorians,MN Samuels,f846de6a,3,23,18,3,1,127.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,41,0,12,53
+Comilla Victorians,Nazmul Hossain Shanto,1274d7ab,4,54,43,6,0,125.58,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,86,0,12,98
+Comilla Victorians,Ashar Zaidi,9bab2b81,5,2,8,0,0,25.0,"[10, 12]",2.0,12,3,0,18,1,1,0,0,0,0,0,9.0,0,0,0,0,0,2,3,0,5
+Comilla Victorians,Mashrafe Mortaza,e186f49c,6,1,2,0,0,50.0,"[1, 8, 14, 17]",4.0,24,8,0,34,4,1,0,0,0,0,1,8.5,0,0,0,0,0,1,8,0,9
+Comilla Victorians,Imad Wasim,9cb8d7a6,7,4,2,1,0,200.0,"[2, 4, 6, 15]",4.0,24,10,0,22,2,0,1,0,0,0,0,5.5,0,0,0,0,0,8,39,0,47
+Comilla Victorians,Al-Amin,ec72efc5,8,14,18,0,1,77.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
+Comilla Victorians,Sohail Tanvir,64d43928,9,0,1,0,0,0.0,"[3, 5, 18, 20]",4.0,24,9,0,28,2,1,0,0,0,0,0,7.0,0,0,0,0,0,-2,11,0,9
+Comilla Victorians,Mohammad Sharif,1ec36a1e,10,2,6,0,0,33.33,"[11, 13, 16, 19]",4.0,24,3,0,33,3,0,0,0,0,0,0,8.25,1,0,0,0,0,2,3,8,13
+Comilla Victorians,Nahidul Islam,8c7b16c8,10,0,0,0,0,0.0,"[7, 9]",2.0,12,1,0,23,2,1,0,0,0,0,1,11.5,0,0,0,0,0,0,-3,0,-3

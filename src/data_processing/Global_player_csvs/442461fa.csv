@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2025-01-24'],Big Bash League,1443099,Sydney Sixers,10,0,0,0,0,0.0,"3,6,14",3.0,18,7,0,22,2,1,1,0,0,0,0,7.33,0,0,0,0,0,0,32,0,32
+['2025-01-21'],Big Bash League,1443097,Sydney Sixers,10,0,0,0,0,0.0,"2,7,18",3.0,18,5,0,29,4,1,1,0,0,0,0,9.67,1,0,0,0,0,0,30,8,38
+['2021-01-01'],Big Bash League,1226856,Melbourne Renegades,11,0,0,0,0,0.0,"4,6",2.0,12,1,0,33,4,2,1,0,0,0,0,16.5,0,0,0,0,0,0,20,0,20

@@ -1,0 +1,13 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-12-12'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462898,Bahamas,10,0,0,0,0,0.0,"11,13",2.0,12,6,0,15,2,0,0,0,0,0,1,7.5,0,0,0,0,0,0,6,0,6
+['2024-12-11'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462893,Bahamas,9,0,2,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2024-12-10'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462889,Bahamas,11,0,0,0,0,0.0,"15,17,20",3.0,18,3,0,32,1,2,1,0,1,0,1,10.67,0,0,0,1,0,0,34,6,40
+['2024-12-08'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462885,Bahamas,8,1,8,0,0,12.5,"9,20",2.0,12,2,0,18,1,0,0,0,0,0,0,9.0,0,0,0,0,0,1,2,0,3
+['2024-12-06'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462878,Bahamas,9,0,0,0,0,0.0,"6,8,10",3.0,18,11,0,11,0,0,1,0,1,0,2,3.67,0,0,0,0,0,0,50,0,50
+['2023-03-04'],ICC Men's T20 World Cup Americas Region Qualifier,1359800,Bahamas,8,1,4,0,0,25.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2023-03-02'],ICC Men's T20 World Cup Americas Region Qualifier,1359798,Bahamas,8,12,16,0,1,75.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,18,0,16,34
+['2023-02-28'],ICC Men's T20 World Cup Americas Region Qualifier,1359788,Bahamas,8,1,5,0,0,20.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+['2023-02-26'],ICC Men's T20 World Cup Americas Region Qualifier,1359792,Bahamas,5,2,5,0,0,40.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2021-11-13'],ICC Men's T20 World Cup Americas Region Qualifier,1286682,Bahamas,7,8,6,0,1,133.33,13,0.167,1,0,0,1,0,0,0,0,0,0,0,5.99,0,0,0,0,0,14,0,0,14
+['2021-11-13'],ICC Men's T20 World Cup Americas Region Qualifier,1286684,Bahamas,9,8,9,1,0,88.89,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+['2021-11-10'],ICC Men's T20 World Cup Americas Region Qualifier,1286677,Bahamas,9,8,4,1,0,200.0,5,1.0,6,0,0,16,1,1,0,0,0,1,0,16.0,0,0,0,0,0,12,0,0,12

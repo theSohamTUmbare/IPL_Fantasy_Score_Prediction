@@ -1,0 +1,8 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-06-15'],ICC Men's T20 World Cup Europe Region Final,1185181,Germany,1,14,12,1,1,116.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,1,0,0,0,24,0,40,64
+['2019-05-25'],Germany tour of Netherlands,1178996,Germany,1,5,6,0,0,83.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,5,0,16,21
+['2018-09-02'],ICC World Twenty20 Europe Region Qualifier A,1155315,Germany,1,51,56,3,2,91.07,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,83,0,12,95
+['2018-08-30'],ICC World Twenty20 Europe Region Qualifier A,1155310,Germany,1,70,52,7,1,134.62,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,114,0,0,114
+['2018-08-29'],ICC World Twenty20 Europe Region Qualifier A,1155304,Germany,1,1,4,0,0,25.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2018-08-29'],ICC World Twenty20 Europe Region Qualifier A,1155306,Germany,1,0,2,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2016-08-17'],ICC World Cricket League Europe Region Division Two Twenty20,1046681,Germany,4,21,10,3,1,210.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,6,45,0,12,57

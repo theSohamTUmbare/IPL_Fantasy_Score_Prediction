@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-11-14'],Syed Mushtaq Ali Trophy,1205795,Sikkim,7,1,13,0,0,7.69,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-5,0,0,-5
+['2019-11-09'],Syed Mushtaq Ali Trophy,1205749,Sikkim,2,4,12,0,0,33.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,-2,0,8,6
+['2019-03-02'],Syed Mushtaq Ali Trophy,1157199,Sikkim,3,1,8,0,0,12.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2019-02-28'],Syed Mushtaq Ali Trophy,1157183,Sikkim,10,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8

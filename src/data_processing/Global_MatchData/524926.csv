@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Melbourne Renegades,AJ Finch,b8d490fd,1,41,34,4,1,120.59,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,67,0,0,67
+Melbourne Renegades,BJ Hodge,b57f8a9a,2,44,31,5,1,141.94,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,76,0,0,76
+Melbourne Renegades,GJ Maxwell,b681e71e,3,10,15,0,0,66.67,[6],1.0,6,2,0,17,1,2,0,0,0,0,0,17.0,0,0,0,0,-2,8,2,0,10
+Melbourne Renegades,Shahid Afridi,0dc00542,4,16,14,1,0,114.29,"[8, 10, 15, 17]",4.0,24,12,0,21,0,1,3,0,0,0,2,5.25,0,0,0,0,0,20,95,0,115
+Melbourne Renegades,NJ Reardon,c7bdb5b5,5,4,8,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,4,0,28,32
+Melbourne Renegades,Abdul Razzaq,390ff45b,6,13,13,0,1,100.0,"[7, 9, 11]",3.0,18,6,0,20,1,1,0,0,0,0,0,6.67,0,0,0,0,0,19,8,0,27
+Melbourne Renegades,AB McDonald,16043342,7,0,1,0,0,0.0,[12],1.0,6,1,0,6,0,0,0,0,0,0,0,6.0,0,0,0,0,0,-2,1,0,-1
+Melbourne Renegades,GA Manou,f58839ad,8,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,2,0,12,14
+Melbourne Renegades,DP Nannes,c404f58a,8,0,0,0,0,0.0,"[1, 3, 5, 14]",4.0,24,16,0,10,0,0,0,0,0,0,0,2.5,0,0,0,0,0,0,22,0,22
+Melbourne Renegades,SM Harwood,63bff7f9,9,0,0,0,0,0.0,"[4, 13, 19]",3.0,18,6,0,26,2,1,2,0,1,0,0,8.67,0,0,0,0,0,0,64,0,64
+Melbourne Renegades,SW Tait,addfb70e,9,0,0,0,0,0.0,"[2, 16, 18, 20]",4.0,24,12,0,31,3,1,2,0,1,0,6,7.75,0,0,0,0,0,0,70,0,70
+Sydney Thunder,TD Cruickshank,c8d0314b,1,15,22,1,1,68.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,23,0,0,23
+Sydney Thunder,CH Gayle,db584dad,2,75,54,3,5,138.89,"[2, 6]",2.0,12,5,0,14,2,0,0,0,0,0,0,7.0,0,0,0,0,2,131,7,0,138
+Sydney Thunder,UT Khawaja,331ea488,3,17,22,1,0,77.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,21,0,16,37
+Sydney Thunder,DLR Smith,0c5c3a87,4,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+Sydney Thunder,BR Dunk,272d796e,5,3,7,0,0,42.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,3,0,6,9
+Sydney Thunder,JS Floros,79765f6f,6,5,7,1,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17
+Sydney Thunder,LR Butterworth,ff6707cc,7,1,2,0,0,50.0,"[8, 14, 16, 18]",4.0,24,5,0,27,0,1,2,0,1,0,2,6.75,0,0,0,0,0,1,65,0,66
+Sydney Thunder,SA Abbott,1a2676c5,8,4,2,1,0,200.0,"[7, 9, 15, 20]",4.0,24,13,0,21,2,1,2,0,2,0,0,5.25,0,0,0,1,0,8,83,6,97
+Sydney Thunder,SJ Coyte,36769c31,8,0,0,0,0,0.0,"[4, 10, 12]",3.0,18,6,0,21,2,0,0,0,0,0,0,7.0,0,0,0,0,0,0,8,0,8
+Sydney Thunder,LA Doran,f201593c,9,0,0,0,0,0.0,"[1, 3, 11]",3.0,18,8,0,26,3,1,2,0,1,0,0,8.67,0,0,0,0,0,0,66,0,66
+Sydney Thunder,FH Edwards,a7c226e1,10,0,0,0,0,0.0,"[5, 13, 17, 19]",4.0,24,6,0,30,1,0,1,0,0,0,7,7.5,0,0,0,0,0,0,31,0,31

@@ -1,0 +1,12 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-03-08'],Syed Mushtaq Ali Trophy,1175027,Railways,3,39,31,5,1,125.81,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,69,0,8,77
+['2019-03-02'],Syed Mushtaq Ali Trophy,1157200,Railways,3,54,43,4,2,125.58,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,90,0,0,90
+['2019-02-28'],Syed Mushtaq Ali Trophy,1157183,Railways,3,40,27,7,0,148.15,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,74,0,8,82
+['2016-01-20'],Syed Mushtaq Ali Trophy,955069,Uttar Pradesh,1,49,40,5,1,122.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,79,0,8,87
+['2016-01-18'],Syed Mushtaq Ali Trophy,955067,Uttar Pradesh,1,8,8,2,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24
+['2016-01-16'],Syed Mushtaq Ali Trophy,955059,Uttar Pradesh,1,6,8,1,0,75.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+['2016-01-08'],Syed Mushtaq Ali Trophy,902179,Uttar Pradesh,1,43,37,6,0,116.22,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,71,0,0,71
+['2016-01-07'],Syed Mushtaq Ali Trophy,902203,Uttar Pradesh,1,33,29,5,0,113.79,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,57,0,8,65
+['2016-01-04'],Syed Mushtaq Ali Trophy,902153,Uttar Pradesh,1,48,37,6,1,129.73,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,82,0,8,90
+['2016-01-03'],Syed Mushtaq Ali Trophy,902129,Uttar Pradesh,1,53,40,5,1,132.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,89,0,8,97
+['2016-01-02'],Syed Mushtaq Ali Trophy,902109,Uttar Pradesh,1,35,26,4,1,134.62,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,63,0,0,63

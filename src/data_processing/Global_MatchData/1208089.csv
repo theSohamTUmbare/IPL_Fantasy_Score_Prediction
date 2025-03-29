@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Cumilla Warriors,Robiul Islam Robi,75c51539,1,12,15,1,0,80.0,[8],1.0,6,0,0,14,1,1,0,0,0,0,0,14.0,0,0,0,0,0,16,0,0,16
+Cumilla Warriors,S van Zyl,f4dfcbb4,2,21,23,1,0,91.3,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
+Cumilla Warriors,DJ Malan,ad9c32a2,3,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+Cumilla Warriors,Soumya Sarkar,4d9f9686,4,88,48,5,6,183.33,"[10, 12]",2.0,12,2,0,18,2,0,1,0,1,0,0,9.0,0,0,0,0,6,162,35,0,197
+Cumilla Warriors,Sabbir Rahman,7147f314,5,25,23,1,1,108.7,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,39,0,0,39
+Cumilla Warriors,Mahidul Islam Ankon,dac6aabc,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,0,0,12,12
+Cumilla Warriors,D Wiese,aa8d28ae,6,16,6,0,2,266.67,"[6, 19]",2.0,12,1,0,30,3,1,0,0,0,0,5,15.0,0,0,0,0,0,28,-5,0,23
+Cumilla Warriors,Sunzamul Islam,0f348f58,7,0,0,0,0,0.0,"[7, 9, 11, 14]",4.0,24,12,1,20,2,0,1,0,0,0,2,5.0,0,0,0,0,0,0,53,0,53
+Cumilla Warriors,Mujeeb Ur Rahman,7d92277a,8,0,0,0,0,0.0,"[2, 4, 13, 16]",4.0,24,9,0,25,2,1,1,0,1,0,0,6.25,0,0,0,0,0,0,44,0,44
+Cumilla Warriors,Al-Amin Hossain,3f5f39cd,9,0,0,0,0,0.0,"[3, 5, 18, 20]",4.0,24,5,0,49,2,4,0,0,0,0,3,12.25,0,0,0,0,0,0,-1,0,-1
+Cumilla Warriors,Abu Hider,31803fac,10,0,0,0,0,0.0,"[1, 15, 17]",3.0,18,5,0,31,2,2,0,0,0,0,2,10.33,1,0,0,0,0,0,3,8,11
+Rajshahi Royals,Liton Das,0404d43c,1,24,19,2,1,126.32,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,38,0,0,38
+Rajshahi Royals,Afif Hossain,37138918,2,43,30,6,1,143.33,[8],1.0,6,1,0,8,0,0,0,0,0,0,1,8.0,0,0,0,0,2,79,1,0,80
+Rajshahi Royals,Shoaib Malik,64c34cd0,3,61,38,5,3,160.53,"[10, 12, 16]",3.0,18,3,0,19,1,0,1,0,1,0,0,6.33,1,0,0,0,4,111,38,8,157
+Rajshahi Royals,RS Bopara,7ca5e05d,4,10,12,1,0,83.33,"[9, 11, 13]",3.0,18,8,0,16,0,1,0,0,0,0,0,5.33,0,0,0,0,0,14,12,0,26
+Rajshahi Royals,AD Russell,bbd41817,5,37,21,0,4,176.19,"[1, 6, 20]",3.0,18,5,0,44,4,2,1,0,0,0,6,14.67,1,0,0,0,6,71,24,8,103
+Rajshahi Royals,Alok Kapali,54279e23,6,0,0,0,0,0.0,[7],1.0,6,2,0,9,0,1,0,0,0,0,0,9.0,0,0,0,0,0,0,2,0,2
+Rajshahi Royals,Irfan Sukkur,3cc7dd5f,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Rajshahi Royals,Nahidul Islam,8c7b16c8,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Rajshahi Royals,Taijul Islam,9d1d34bd,9,0,0,0,0,0.0,[3],1.0,6,2,0,6,0,0,0,0,0,0,0,6.0,0,0,0,0,0,0,2,0,2
+Rajshahi Royals,Farhad Reza,4948a447,10,0,0,0,0,0.0,"[5, 15, 17, 19]",4.0,24,4,0,48,1,4,1,0,0,0,2,12.0,0,0,0,0,0,0,25,0,25
+Rajshahi Royals,Mohammad Irfan,a8e3170f,11,0,0,0,0,0.0,"[2, 4, 14, 18]",4.0,24,10,0,24,2,1,1,0,0,0,0,6.0,0,0,0,0,0,0,37,0,37

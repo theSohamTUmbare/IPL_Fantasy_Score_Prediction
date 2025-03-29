@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2015-07-17'],ICC World Twenty20 Qualifier,875517,Netherlands,11,0,0,0,0,0.0,1,1.0,6,2,0,11,2,0,0,0,0,0,1,11.0,0,0,0,0,0,0,2,0,2
+['2015-07-02'],Nepal in Netherlands T20I Series,883345,Netherlands,9,0,0,0,0,0.0,"1,3,9",3.0,18,10,0,8,0,0,1,0,0,0,0,2.67,1,0,0,0,0,0,41,8,49
+['2015-07-01'],Nepal in Netherlands T20I Series,883343,Netherlands,11,0,0,0,0,0.0,"1,3,5,11",4.0,24,12,0,22,3,0,2,0,0,0,0,5.5,0,0,0,0,0,0,66,0,66

@@ -1,0 +1,17 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-09-06'],ICC Men's T20 World Cup Asia Qualifier A,1447493,Kuwait,11,3,2,0,0,150.0,"1,3,18",3.0,18,10,0,17,3,0,1,0,0,0,1,5.67,0,0,0,0,0,3,39,0,42
+['2024-08-30'],ICC Men's T20 World Cup Asia Qualifier A,1447479,Kuwait,9,4,1,1,0,400.0,"1,3",2.0,12,8,0,3,0,0,0,0,0,0,1,1.5,0,0,0,0,0,8,14,0,22
+['2024-04-17'],ACC Men's Premier Cup,1426474,Kuwait,11,3,5,0,0,60.0,"2,4,6,20",4.0,24,12,0,27,3,1,0,0,0,0,0,6.75,0,0,0,1,0,3,14,6,23
+['2024-04-13'],ACC Men's Premier Cup,1426459,Kuwait,10,0,0,0,0,0.0,"2,4,19",3.0,18,8,0,23,3,0,1,0,0,0,4,7.67,0,0,0,0,0,0,33,0,33
+['2024-04-12'],ACC Men's Premier Cup,1426456,Kuwait,10,3,3,0,0,100.0,"2,7,15",3.0,18,8,0,35,3,3,0,0,0,0,1,11.67,0,0,0,0,0,3,4,0,7
+['2023-10-05'],ICC Men's T20 World Cup Sub Regional Asia Qualifier A,1399149,Kuwait,11,0,0,0,0,0.0,1,1.0,6,0,0,20,4,0,0,0,0,1,0,20.0,0,0,0,0,0,0,0,0,0
+['2023-10-02'],ICC Men's T20 World Cup Sub Regional Asia Qualifier A,1399144,Kuwait,9,0,0,0,0,0.0,"1,3,15",3.0,18,11,0,14,2,0,1,0,0,0,1,4.67,0,0,0,0,0,0,42,0,42
+['2023-10-01'],ICC Men's T20 World Cup Sub Regional Asia Qualifier A,1399143,Kuwait,11,0,0,0,0,0.0,"1,13,17,19",4.0,24,3,0,42,4,1,0,0,0,0,0,10.5,0,0,0,0,0,0,1,0,1
+['2023-09-29'],ICC Men's T20 World Cup Sub Regional Asia Qualifier A,1399140,Kuwait,11,0,0,0,0,0.0,"1,10,17,20",4.0,24,10,0,25,1,0,0,0,0,0,2,6.25,0,0,0,1,0,0,12,6,18
+['2023-09-28'],ICC Men's T20 World Cup Sub Regional Asia Qualifier A,1399138,Kuwait,11,0,0,0,0,0.0,"1,3,16,18",4.0,24,12,0,23,3,0,2,0,1,0,1,5.75,0,0,0,0,0,0,74,0,74
+['2023-03-12'],Quadrangular Twenty20 Series (Hong Kong),1361776,Kuwait,10,0,0,0,0,0.0,"2,4,6",3.0,18,12,0,18,3,0,1,0,1,0,1,6.0,0,0,0,0,0,0,47,0,47
+['2023-03-11'],Quadrangular Twenty20 Series (Hong Kong),1361774,Kuwait,11,0,0,0,0,0.0,"2,4,6,15",4.0,24,14,0,28,3,1,2,1,0,0,4,7.0,0,0,0,0,0,0,74,0,74
+['2020-02-25'],ACC Western Region T20,1215162,Kuwait,11,0,0,0,0,0.0,"1,3,20",3.0,18,9,0,24,3,0,2,0,2,0,4,8.0,0,0,0,0,0,0,75,0,75
+['2019-07-27'],ICC Men's T20 World Cup Asia Region Final,1190774,Kuwait,11,1,1,0,0,100.0,"1,3",2.0,12,3,0,23,4,0,0,0,0,1,1,11.5,0,0,0,0,0,1,-1,0,0
+['2019-07-26'],ICC Men's T20 World Cup Asia Region Final,1190772,Kuwait,10,0,0,0,0,0.0,"1,5,19",3.0,18,7,0,41,8,1,0,0,0,0,1,13.67,1,0,0,0,0,0,1,8,9
+['2019-07-22'],ICC Men's T20 World Cup Asia Region Final,1190768,Kuwait,10,1,2,0,0,50.0,"2,4,6,19",4.0,24,11,0,23,3,0,1,1,0,0,0,5.75,0,0,0,0,0,1,48,0,49

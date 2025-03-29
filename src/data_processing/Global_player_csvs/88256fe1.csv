@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-02-12'],Bangladesh Premier League,1296713,Sylhet Sunrisers,11,0,0,0,0,0.0,"2,6",2.0,12,2,0,31,5,1,0,0,0,1,0,15.5,1,0,0,0,0,0,-4,8,4
+['2022-02-09'],Bangladesh Premier League,1296710,Sylhet Sunrisers,11,0,0,0,0,0.0,"2,4,15,19",4.0,24,13,0,29,3,1,1,0,0,0,3,7.25,1,0,0,0,0,0,38,8,46
+['2022-02-08'],Bangladesh Premier League,1296708,Sylhet Sunrisers,8,1,1,0,0,100.0,"3,6,17,19",4.0,24,8,0,38,2,3,1,0,0,0,1,9.5,0,0,0,0,0,1,33,0,34
+['2022-02-07'],Bangladesh Premier League,1296706,Sylhet Sunrisers,10,0,0,0,0,0.0,"4,6,18,20",4.0,24,9,0,33,2,2,1,0,1,0,0,8.25,0,0,0,0,0,0,42,0,42

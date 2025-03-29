@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2012-03-04'],MiWAY T20 Challenge,530341,Titans,8,0,0,0,0,0.0,3,1.0,6,2,0,16,4,0,0,0,0,0,0,16.0,1,0,0,0,0,0,2,8,10
+['2012-03-02'],MiWAY T20 Challenge,530340,Titans,8,18,10,2,1,180.0,"3,5,11",3.0,18,5,0,23,2,0,0,0,0,0,2,7.67,0,0,0,0,6,38,5,0,43
+['2012-02-26'],MiWAY T20 Challenge,530335,Titans,11,0,0,0,0,0.0,"3,5",2.0,12,4,0,20,3,0,1,0,0,0,1,10.0,0,0,0,0,0,0,27,0,27
+['2012-02-24'],MiWAY T20 Challenge,530330,Titans,10,0,0,0,0,0.0,"3,5,16,19",4.0,24,8,0,42,3,3,2,0,0,0,2,10.5,0,0,0,0,0,0,56,0,56
+['2012-02-19'],MiWAY T20 Challenge,530326,Titans,8,2,4,0,0,50.0,"3,9,16",3.0,18,7,0,35,4,2,1,0,0,0,0,11.67,0,0,0,0,0,2,28,0,30

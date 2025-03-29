@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-11-02'],Syed Mushtaq Ali Trophy,1383563,Kerala,9,0,0,0,0,0.0,"2,14",2.0,12,4,0,20,2,1,0,0,0,0,1,10.0,0,0,0,0,0,0,2,0,2
+['2020-03-08'],Germany tour of Spain,1207082,Spain,4,3,4,0,0,75.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2018-01-09'],Syed Mushtaq Ali Trophy,1130676,Kerala,9,2,3,0,0,66.67,"5,7,17,19",4.0,24,6,0,39,5,1,0,0,0,0,0,9.75,1,0,0,0,0,2,6,8,16
+['2018-01-08'],Syed Mushtaq Ali Trophy,1130670,Kerala,8,3,3,0,0,100.0,"7,9,14,19",4.0,24,2,0,36,2,1,0,0,0,0,2,9.0,0,0,0,0,0,3,2,0,5

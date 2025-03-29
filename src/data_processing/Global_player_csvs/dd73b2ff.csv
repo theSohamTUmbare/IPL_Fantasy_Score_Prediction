@@ -1,0 +1,14 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-10-25'],Syed Mushtaq Ali Trophy,1383534,Railways,8,33,26,3,2,126.92,"2,5,15",3.0,18,6,0,28,3,0,0,0,0,0,6,9.33,0,0,0,0,0,61,6,0,67
+['2023-10-19'],Syed Mushtaq Ali Trophy,1383478,Railways,7,18,11,3,0,163.64,"5,7",2.0,12,4,0,21,2,1,1,0,0,0,0,10.5,0,0,0,0,4,34,27,0,61
+['2023-10-16'],Syed Mushtaq Ali Trophy,1383445,Railways,9,0,0,0,0,0.0,"5,12,14",3.0,18,7,0,32,3,2,0,0,0,0,0,10.67,0,0,0,0,0,0,5,0,5
+['2022-10-22'],Syed Mushtaq Ali Trophy,1333035,Railways,6,10,13,1,0,76.92,"8,10",2.0,12,6,0,15,1,1,0,0,0,0,0,7.5,0,0,0,0,0,14,6,0,20
+['2022-10-20'],Syed Mushtaq Ali Trophy,1333016,Railways,10,0,0,0,0,0.0,"16,18",2.0,12,3,0,21,2,1,0,0,0,0,0,10.5,0,0,0,0,0,0,1,0,1
+['2022-10-11'],Syed Mushtaq Ali Trophy,1332927,Railways,9,0,0,0,0,0.0,"4,6,20",2.5,15,5,0,20,3,0,0,0,0,0,1,8.0,0,0,0,0,0,0,5,0,5
+['2021-11-06'],Syed Mushtaq Ali Trophy,1280245,Railways,10,0,0,0,0,0.0,"6,8,19",3.0,18,5,0,23,2,0,1,1,0,0,0,7.67,1,0,0,0,0,0,38,8,46
+['2016-01-09'],Syed Mushtaq Ali Trophy,902221,Railways,8,3,5,0,0,60.0,"2,6",2.0,12,1,0,28,4,1,0,0,0,0,0,14.0,0,0,0,0,0,3,-5,0,-2
+['2016-01-07'],Syed Mushtaq Ali Trophy,902195,Railways,7,1,2,0,0,50.0,"2,4,6",3.0,18,7,0,20,3,0,0,0,0,0,0,6.67,0,0,0,0,0,1,9,0,10
+['2016-01-06'],Syed Mushtaq Ali Trophy,902173,Railways,8,11,11,1,0,100.0,13,1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,0,15,1,0,16
+['2016-01-04'],Syed Mushtaq Ali Trophy,902151,Railways,7,28,19,4,0,147.37,"7,17",2.0,12,3,0,18,3,0,0,0,0,0,0,9.0,1,0,0,0,2,50,3,8,61
+['2016-01-03'],Syed Mushtaq Ali Trophy,902127,Railways,11,0,0,0,0,0.0,"8,10,13,15",4.0,24,9,0,30,3,1,0,0,0,0,0,7.5,1,0,0,0,0,0,9,8,17
+['2016-01-02'],Syed Mushtaq Ali Trophy,902101,Railways,9,0,0,0,0,0.0,"3,6,17",3.0,18,6,0,41,5,2,2,0,0,1,1,13.67,0,0,0,0,0,0,50,0,50

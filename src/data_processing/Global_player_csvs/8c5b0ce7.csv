@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-10-23'],Syed Mushtaq Ali Trophy,1383523,Tripura,11,0,1,0,0,0.0,"5,7,9,17",4.0,24,8,0,29,1,2,0,0,0,0,0,7.25,0,0,0,0,0,0,8,0,8
+['2018-01-14'],Syed Mushtaq Ali Trophy,1130688,Tripura,9,0,0,0,0,0.0,"2,4,6",3.0,18,6,0,30,4,1,0,0,0,0,0,10.0,0,0,0,0,0,0,4,0,4
+['2018-01-12'],Syed Mushtaq Ali Trophy,1130723,Tripura,9,6,10,0,0,60.0,"6,8,10",3.0,18,10,0,21,1,2,0,0,0,0,0,7.0,0,0,1,0,-2,4,12,12,28
+['2016-01-09'],Syed Mushtaq Ali Trophy,902217,Tripura,10,1,1,0,0,100.0,"7,9,11,13",4.0,24,19,1,8,1,0,2,0,0,0,0,2.0,0,0,0,0,0,1,87,0,88

@@ -1,0 +1,13 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-10-03'],Canada T20 Tri-Series,1450828,Canada,2,14,13,2,0,107.69,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
+['2024-10-01'],Canada T20 Tri-Series,1450826,Canada,1,25,29,2,0,86.21,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,37,0,0,37
+['2024-09-30'],Canada T20 Tri-Series,1450825,Canada,3,0,3,0,0,0.0,16,0.0,0,0,0,7,0,0,0,0,0,1,5,0.0,0,0,0,0,0,0,0,0,0
+['2024-09-28'],Canada T20 Tri-Series,1450823,Canada,3,14,10,2,0,140.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,2,24,0,14,38
+['2024-08-27'],Netherlands Tri-Nation T20I Series,1446765,Canada,3,56,41,6,2,136.59,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,102,0,0,102
+['2024-08-23'],Netherlands Tri-Nation T20I Series,1446761,Canada,2,5,12,1,0,41.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,3,0,0,3
+['2024-06-07'],ICC Men's T20 World Cup,1415713,Canada,4,7,9,1,0,77.78,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
+['2024-06-01'],ICC Men's T20 World Cup,1415701,Canada,6,11,5,1,1,220.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
+['2024-04-13'],Canada tour of United States of America,1425125,Canada,6,33,24,4,1,137.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,61,0,8,69
+['2024-04-12'],Canada tour of United States of America,1425124,Canada,2,52,41,6,1,126.83,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,90,0,8,98
+['2024-04-07'],Canada tour of United States of America,1425121,Canada,7,4,8,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+['2023-09-30'],ICC Men's T20 World Cup Americas Region Final,1399150,Canada,9,3,7,0,0,42.86,"11,16",2.0,12,3,0,21,1,2,1,0,0,0,0,10.5,0,0,0,0,0,3,26,0,29

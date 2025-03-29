@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-08-15'],Germany tour of Netherlands,1387245,Germany,2,8,7,1,0,114.29,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+['2023-08-14'],Germany tour of Netherlands,1387243,Germany,2,17,11,2,1,154.55,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,35,0,0,35
+['2023-08-14'],Germany tour of Netherlands,1387244,Germany,2,13,9,3,0,144.44,9,1.0,6,1,0,14,3,0,0,0,0,0,0,14.0,0,0,0,0,0,25,1,0,26
+['2023-06-11'],Belgium tour of Germany,1380584,Germany,1,53,27,3,5,196.3,"12,14,20",3.0,18,8,0,32,0,4,2,0,1,1,0,10.67,0,0,0,0,6,109,64,0,173
+['2023-06-10'],Belgium tour of Germany,1380583,Germany,4,17,5,1,2,340.0,"5,7,18",3.0,18,7,0,33,2,3,1,0,0,0,0,11.0,1,0,0,0,0,33,30,8,71

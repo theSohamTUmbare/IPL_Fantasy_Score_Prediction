@@ -1,0 +1,25 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Punjab Kings,P Simran Singh,9418198b,1,6,4,1,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+Punjab Kings,JM Bairstow,abb83e27,2,27,16,4,1,168.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,57,0,8,65
+Punjab Kings,RR Rossouw,cad00a4d,3,61,27,9,3,225.93,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,129,0,8,137
+Punjab Kings,Shashank Singh,26989d80,4,37,19,4,2,194.74,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,75,0,8,83
+Punjab Kings,JM Sharma,800d2d97,5,5,4,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
+Punjab Kings,LS Livingstone,50c6bc2b,6,0,2,0,0,0.0,"[11, 13, 15]",3.0,18,4,0,28,2,1,0,0,0,0,1,9.33,0,0,0,0,0,-2,4,0,2
+Punjab Kings,SM Curran,e94915e6,7,22,16,2,0,137.5,"[4, 10, 16]",3.0,18,2,0,50,4,4,1,0,0,0,2,16.67,2,0,0,0,2,32,21,16,69
+Punjab Kings,Ashutosh Sharma,84d9c311,8,8,5,0,1,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
+Punjab Kings,HV Patel,f986ca1a,9,0,1,0,0,0.0,"[6, 14, 17, 20]",4.0,24,6,0,38,5,1,3,0,1,0,1,9.5,1,0,0,0,0,-2,93,8,99
+Punjab Kings,RD Chahar,2ed569a0,10,5,5,1,0,100.0,"[8, 12, 19]",3.0,18,5,0,47,3,4,0,0,0,1,0,15.67,0,0,0,0,0,9,-1,0,8
+Punjab Kings,Arshdeep Singh,244048f6,11,4,3,1,0,133.33,"[2, 9, 18]",3.0,18,5,0,41,3,3,1,0,0,0,2,13.67,0,0,0,0,0,8,24,0,32
+Punjab Kings,V Kaverappa,d4d929b0,11,0,0,0,0,0.0,"[1, 3, 5, 7]",4.0,24,11,0,36,2,3,2,0,0,0,0,9.0,0,0,0,0,0,0,61,0,61
+Royal Challengers Bengaluru,V Kohli,ba607b88,1,92,47,7,6,195.74,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,6,174,0,12,186
+Royal Challengers Bengaluru,F du Plessis,3355b542,2,9,7,2,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,17,0,8,25
+Royal Challengers Bengaluru,WG Jacks,9caf69a1,3,12,7,1,1,171.43,[7],1.0,6,1,0,5,0,0,0,0,0,0,0,5.0,1,0,0,0,0,22,1,8,31
+Royal Challengers Bengaluru,RM Patidar,c740ea83,4,55,23,3,6,239.13,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,117,0,0,117
+Royal Challengers Bengaluru,C Green,eaa76d3c,5,46,27,5,1,170.37,[8],1.0,6,1,0,16,2,1,0,0,0,0,0,16.0,0,0,0,0,6,82,1,0,83
+Royal Challengers Bengaluru,KD Karthik,c03f1114,6,18,6,1,2,300.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34
+Royal Challengers Bengaluru,MK Lomror,da934ee8,7,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Royal Challengers Bengaluru,Swapnil Singh,983f2f61,8,1,1,0,0,100.0,"[1, 10, 12]",3.0,18,7,0,28,5,0,2,1,0,0,0,9.33,0,0,0,0,0,1,65,0,66
+Royal Challengers Bengaluru,Yash Dayal,7210d461,11,0,0,0,0,0.0,"[3, 5]",2.0,12,5,0,22,3,1,0,0,0,0,1,11.0,0,0,0,0,0,0,3,0,3
+Royal Challengers Bengaluru,KV Sharma,119678fd,12,0,0,0,0,0.0,"[9, 11, 13]",3.0,18,7,0,36,3,3,2,0,1,0,0,12.0,2,0,0,0,0,0,61,16,77
+Royal Challengers Bengaluru,Mohammed Siraj,2f49c897,13,0,0,0,0,0.0,"[2, 4, 15, 17]",4.0,24,9,0,43,5,2,3,1,0,0,3,10.75,0,0,0,0,0,0,94,0,94
+Royal Challengers Bengaluru,LH Ferguson,2f9d0389,14,0,0,0,0,0.0,"[6, 14, 16]",3.0,18,4,0,29,5,0,2,0,1,0,0,9.67,1,0,0,0,0,0,62,8,70

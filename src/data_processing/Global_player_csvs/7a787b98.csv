@@ -1,0 +1,19 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-11-28'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459378,Eswatini,8,2,4,0,0,50.0,"8,10,12,18",4.0,24,8,0,36,3,1,2,1,1,0,2,9.0,0,0,0,0,0,2,74,0,76
+['2024-11-27'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459385,Eswatini,7,0,0,0,0,0.0,"17,19",2.0,12,11,0,4,0,0,3,0,3,0,3,2.0,0,0,0,1,0,0,120,6,126
+['2024-11-26'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459381,Eswatini,7,3,7,0,0,42.86,"11,13,15",3.0,18,9,0,19,1,1,1,0,0,0,0,6.33,0,0,1,0,0,3,36,12,51
+['2024-11-24'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459388,Eswatini,9,0,1,0,0,0.0,"15,17,19",3.0,18,7,0,19,0,1,0,0,0,0,2,6.33,0,0,0,0,0,0,9,0,9
+['2024-11-23'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459374,Eswatini,6,6,6,0,0,100.0,17,1.0,6,3,0,11,2,0,0,0,0,0,2,11.0,0,0,0,0,0,6,3,0,9
+['2022-12-06'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343784,Eswatini,10,0,0,0,0,0.0,"7,9,18,20",4.0,24,8,0,29,5,0,2,0,0,0,1,7.25,0,0,0,0,0,0,58,0,58
+['2022-12-05'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343781,Eswatini,7,0,0,0,0,0.0,"2,4",2.0,12,5,0,23,3,0,1,0,0,0,5,11.5,0,0,0,1,0,0,26,6,32
+['2022-12-04'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343777,Eswatini,11,0,4,0,0,0.0,"13,15,17,19",4.0,24,5,0,62,5,3,3,0,1,0,6,15.5,0,0,0,0,0,0,86,0,86
+['2022-12-02'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343775,Eswatini,11,0,0,0,0,0.0,"6,15,17",3.0,18,4,0,34,5,0,1,0,1,1,4,11.33,0,0,0,0,0,0,33,0,33
+['2022-12-01'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343771,Eswatini,10,0,0,0,0,0.0,"13,15",2.0,12,6,0,18,2,0,1,0,0,0,5,9.0,0,0,0,0,0,0,31,0,31
+['2021-10-22'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283038,Swaziland,8,9,10,2,0,90.0,"3,5,7",3.0,18,6,0,23,2,0,1,1,0,0,2,7.67,0,0,0,0,0,17,39,0,56
+['2021-10-20'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283034,Swaziland,7,4,7,0,0,57.14,"2,4,6",3.0,18,9,0,23,3,0,0,0,0,0,2,7.67,1,0,0,0,0,4,9,8,21
+['2021-10-19'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283032,Swaziland,9,13,21,0,1,61.9,"2,4,6,8",4.0,24,9,0,25,3,0,3,1,1,0,3,6.25,0,0,0,0,-2,17,106,0,123
+['2021-10-17'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283026,Swaziland,9,9,17,1,0,52.94,"5,7,9",3.0,18,7,0,27,2,0,0,0,0,0,3,9.0,0,0,0,0,-4,9,7,0,16
+['2018-11-01'],ICC World Twenty20 Africa Region Qualifier C,1163061,Swaziland,11,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2018-10-30'],ICC World Twenty20 Africa Region Qualifier C,1163056,Swaziland,1,5,14,0,0,35.71,12,0.667,4,1,0,19,1,1,0,0,0,0,8,28.49,0,0,0,0,-6,-1,1,0,0
+['2018-10-29'],ICC World Twenty20 Africa Region Qualifier C,1163051,Swaziland,11,0,0,0,0,0.0,10,1.0,6,2,0,17,3,0,0,0,0,0,4,17.0,0,0,0,0,0,0,2,0,2
+['2018-10-28'],ICC World Twenty20 Africa Region Qualifier C,1163048,Swaziland,9,0,0,0,0,0.0,6,0.333,2,1,0,6,1,0,0,0,0,1,0,18.02,0,0,0,0,0,0,1,0,1

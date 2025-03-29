@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-07-18'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321273,Greece,3,1,5,0,0,20.0,5,1.0,6,3,0,14,2,1,0,0,0,0,0,14.0,1,0,0,0,0,1,3,8,12
+['2022-07-16'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321270,Greece,3,50,28,3,3,178.57,"6,12,18,20",4.0,24,10,0,40,2,2,2,0,1,0,5,10.0,0,0,0,0,6,94,66,0,160
+['2022-07-15'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321267,Greece,3,18,21,3,0,85.71,"12,14,16,20",4.0,24,12,0,13,0,0,1,0,0,0,1,3.25,1,0,0,2,0,30,43,20,93

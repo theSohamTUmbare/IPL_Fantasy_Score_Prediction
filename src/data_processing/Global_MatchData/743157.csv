@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Guyana Amazon Warriors,LMP Simmons,89f64c19,1,24,21,5,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,44,0,8,52
+Guyana Amazon Warriors,MJ Guptill,2be41edb,2,1,10,0,0,10.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-5,0,0,-5
+Guyana Amazon Warriors,Mohammad Hafeez,9ab63e7b,3,1,4,0,0,25.0,"[4, 6, 8, 14]",4.0,24,12,0,23,2,1,1,0,0,0,0,5.75,0,0,0,0,0,1,41,0,42
+Guyana Amazon Warriors,D Ramdin,d1523761,4,84,45,6,6,186.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,162,0,0,162
+Guyana Amazon Warriors,JDS Neesham,9219eff0,5,33,32,1,1,103.12,"[11, 15, 17]",3.0,18,5,0,34,4,1,1,0,0,0,3,11.33,0,0,0,0,0,47,26,0,73
+Guyana Amazon Warriors,CD Barnwell,0d51e658,6,23,8,1,2,287.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,39,0,28,67
+Guyana Amazon Warriors,V Permaul,78dfe704,7,0,0,0,0,0.0,"[2, 5, 13]",3.0,18,11,0,17,1,1,1,1,0,0,1,5.67,0,0,0,0,0,0,48,0,48
+Guyana Amazon Warriors,LR Johnson,b8f3362a,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Guyana Amazon Warriors,SA Jacobs,f8cdc4d7,9,0,0,0,0,0.0,"[7, 9]",2.0,12,3,0,28,1,2,0,0,0,0,5,14.0,0,0,0,0,0,0,-3,0,-3
+Guyana Amazon Warriors,K Santokie,531f0278,10,0,0,0,0,0.0,"[1, 3, 16, 19]",4.0,24,10,0,36,3,2,3,0,1,0,2,9.0,0,0,0,0,0,0,97,0,97
+Guyana Amazon Warriors,RR Beaton,684a56df,11,0,0,0,0,0.0,"[10, 12, 18, 20]",4.0,24,6,0,39,1,3,0,0,0,0,4,9.75,0,0,0,0,0,0,6,0,6
+Trinidad & Tobago Red Steel,K Lewis,b0081e62,1,3,11,0,0,27.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-3,0,0,-3
+Trinidad & Tobago Red Steel,KJ O'Brien,243431b5,2,4,2,1,0,200.0,[13],1.0,6,0,0,14,1,1,0,0,0,0,0,14.0,1,0,0,0,0,8,0,8,16
+Trinidad & Tobago Red Steel,LRPL Taylor,b61a3e1a,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Trinidad & Tobago Red Steel,DM Bravo,14b14cd8,4,69,49,5,5,140.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,129,0,0,129
+Trinidad & Tobago Red Steel,DJ Bravo,87e562a9,5,67,42,6,3,159.52,"[8, 11, 17, 20]",4.0,24,4,0,54,3,4,0,0,0,0,1,13.5,1,0,0,0,4,121,-2,8,127
+Trinidad & Tobago Red Steel,N Pooran,3241e3fd,6,16,9,0,2,177.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,28,0,12,40
+Trinidad & Tobago Red Steel,KK Cooper,557153ca,7,2,2,0,0,100.0,"[10, 12, 16, 19]",4.0,24,4,0,32,2,1,0,0,0,0,1,8.0,0,0,0,0,0,2,4,0,6
+Trinidad & Tobago Red Steel,JN Mohammed,773cec26,8,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Trinidad & Tobago Red Steel,SJ Benn,364ee2cf,8,0,0,0,0,0.0,"[7, 9, 15]",3.0,18,3,0,23,1,1,0,0,0,0,0,7.67,0,0,0,0,0,0,3,0,3
+Trinidad & Tobago Red Steel,S Badree,76388dc8,9,0,0,0,0,0.0,"[2, 4, 6, 14]",4.0,24,19,0,13,1,1,3,0,0,0,1,3.25,1,0,0,0,0,0,104,8,112
+Trinidad & Tobago Red Steel,FH Edwards,a7c226e1,10,0,0,0,0,0.0,"[1, 3, 5, 18]",4.0,24,10,0,38,5,1,1,0,0,0,5,9.5,0,0,0,0,0,0,35,0,35

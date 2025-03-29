@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2018-01-14'],Syed Mushtaq Ali Trophy,1130713,Jammu & Kashmir,10,0,0,0,0,0.0,"13,15",2.0,12,3,0,16,1,0,1,0,1,0,0,8.0,0,0,0,0,0,0,36,0,36
+['2018-01-12'],Syed Mushtaq Ali Trophy,1130695,Jammu & Kashmir,11,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2018-01-09'],Syed Mushtaq Ali Trophy,1130678,Jammu & Kashmir,9,9,8,1,0,112.5,"9,11,13,15",4.0,24,11,0,26,1,2,1,0,0,0,0,6.5,0,0,0,0,0,13,38,0,51

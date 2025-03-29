@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Mumbai Indians,DR Smith,35205dfc,1,21,17,4,0,123.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,37,0,0,37
+Mumbai Indians,SR Tendulkar,d2c2b2d5,2,38,31,3,1,122.58,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,60,0,0,60
+Mumbai Indians,KD Karthik,c03f1114,3,30,23,4,0,130.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,52,0,8,60
+Mumbai Indians,RG Sharma,740742ef,4,20,15,0,2,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,34,0,0,34
+Mumbai Indians,AT Rayudu,70d205c9,5,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
+Mumbai Indians,KA Pollard,a757b0d8,6,66,26,2,8,253.85,[10],1.0,6,0,0,10,1,0,0,0,0,0,0,10.0,0,0,0,0,6,136,0,0,136
+Mumbai Indians,Harbhajan Singh,8b5b6769,6,0,0,0,0,0.0,"[3, 6, 12]",3.0,18,7,0,19,1,0,0,0,0,0,3,6.33,0,0,0,0,0,0,9,0,9
+Mumbai Indians,MG Johnson,f5180fe6,7,0,0,0,0,0.0,"[1, 5, 13, 18]",4.0,24,9,0,43,7,1,1,0,0,0,1,10.75,1,0,0,0,0,0,32,8,40
+Mumbai Indians,DS Kulkarni,d2a989fc,8,0,0,0,0,0.0,"[2, 8, 15, 20]",4.0,24,8,0,42,5,2,0,0,0,0,1,10.5,0,0,0,0,0,0,6,0,6
+Mumbai Indians,SL Malinga,a12e1d51,9,0,0,0,0,0.0,"[4, 11, 17, 19]",4.0,24,7,0,26,2,0,2,0,0,0,1,6.5,0,0,0,0,0,0,59,0,59
+Mumbai Indians,PP Ojha,6c6591ab,10,0,0,0,0,0.0,"[7, 9, 14, 16]",4.0,24,4,0,37,2,2,0,0,0,0,0,9.25,0,0,0,0,0,0,4,0,4
+Sunrisers Hyderabad,PA Patel,b5da6c24,1,26,14,5,0,185.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,6,56,0,12,68
+Sunrisers Hyderabad,S Dhawan,0a476045,2,59,41,6,2,143.9,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,105,0,0,105
+Sunrisers Hyderabad,GH Vihari,94253925,3,41,37,4,0,110.81,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,61,0,0,61
+Sunrisers Hyderabad,CL White,d0513f63,4,43,23,3,3,186.96,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,83,0,8,91
+Sunrisers Hyderabad,NLTC Perera,0f12f9df,5,2,5,0,0,40.0,"[5, 11, 17, 20]",3.5,21,6,0,55,3,6,0,0,0,0,1,15.71,0,0,0,0,0,2,0,0,2
+Sunrisers Hyderabad,DJG Sammy,c03c6200,6,0,0,0,0,0.0,"[7, 13]",2.0,12,3,0,15,1,0,0,0,0,0,2,7.5,0,0,0,0,0,0,3,0,3
+Sunrisers Hyderabad,BB Samantray,53f27a35,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Sunrisers Hyderabad,KV Sharma,119678fd,8,0,0,0,0,0.0,"[9, 12, 14]",3.0,18,8,0,22,2,1,2,0,0,0,1,7.33,0,0,0,0,0,0,58,0,58
+Sunrisers Hyderabad,A Mishra,6b19d823,9,0,0,0,0,0.0,"[8, 10, 18]",3.0,18,2,0,36,1,3,0,0,0,1,0,12.0,0,0,0,0,0,0,-2,0,-2
+Sunrisers Hyderabad,DW Steyn,8fd1a8f5,10,0,0,0,0,0.0,"[1, 3, 16, 19]",4.0,24,11,0,23,3,0,0,0,0,0,0,5.75,0,0,0,0,0,0,15,0,15
+Sunrisers Hyderabad,I Sharma,5bb1a1c4,11,0,0,0,0,0.0,"[2, 4, 6, 15]",4.0,24,9,0,32,3,1,1,0,1,0,1,8.0,0,0,0,0,0,0,42,0,42

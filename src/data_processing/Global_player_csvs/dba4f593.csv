@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2018-04-27'],ICC World Twenty20 Asia Region Qualifier A,1142223,Kuwait,11,0,2,0,0,0.0,"1,4,6,16",4.0,24,8,0,21,1,0,0,0,0,0,0,5.25,2,0,0,0,0,-2,12,16,26
+['2018-04-23'],ICC World Twenty20 Asia Region Qualifier A,1142215,Kuwait,9,3,4,0,0,75.0,1,1.0,6,1,0,21,1,2,0,0,0,0,2,21.0,0,0,0,0,0,3,1,0,4
+['2018-04-21'],ICC World Twenty20 Asia Region Qualifier A,1142211,Kuwait,10,12,10,0,1,120.0,"5,7,17,19",4.0,24,11,0,18,0,1,3,1,0,0,0,4.5,1,0,0,0,0,18,104,8,130
+['2018-04-20'],ICC World Twenty20 Asia Region Qualifier A,1142208,Kuwait,7,0,0,0,0,0.0,"6,8,17",2.667,16,15,1,2,0,0,5,2,3,0,1,0.75,0,0,0,0,0,0,210,0,210

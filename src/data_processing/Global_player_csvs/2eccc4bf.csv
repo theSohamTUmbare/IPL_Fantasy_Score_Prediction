@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-09-17'],Caribbean Premier League,1369586,St Lucia Kings,1,7,10,1,0,70.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,-2,9,0,6,15
+['2022-09-22'],Caribbean Premier League,1323169,Trinbago Knight Riders,1,1,2,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2022-09-18'],Caribbean Premier League,1323166,Trinbago Knight Riders,2,2,3,0,0,66.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
+['2021-09-07'],Caribbean Premier League,1269718,Trinbago Knight Riders,2,17,25,2,0,68.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,23,0,0,23

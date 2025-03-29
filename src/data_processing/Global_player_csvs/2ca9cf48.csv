@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-06-12'],Vitality Blast,1410409,Durham,8,3,5,0,0,60.0,5,1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,0,3,1,0,4
+['2023-07-02'],Vitality Blast,1347686,Durham,8,40,34,4,0,117.65,14,1.0,6,4,0,6,1,0,1,0,0,0,1,6.0,0,0,0,0,0,60,29,0,89
+['2023-06-23'],Vitality Blast,1347672,Durham,11,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2022-07-03'],Vitality Blast,1297918,Durham,5,25,20,3,0,125.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,41,0,8,49
+['2022-06-17'],Vitality Blast,1297867,Durham,9,8,7,0,0,114.29,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,8,0,28,36

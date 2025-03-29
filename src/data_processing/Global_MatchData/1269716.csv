@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+St Kitts and Nevis Patriots,E Lewis,0ebfb1ad,1,7,5,1,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19
+St Kitts and Nevis Patriots,DC Thomas,08a4f9ad,2,28,19,4,0,147.37,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,50,0,0,50
+St Kitts and Nevis Patriots,CH Gayle,db584dad,3,3,7,0,0,42.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+St Kitts and Nevis Patriots,AM McCarthy,7f148ce7,4,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+St Kitts and Nevis Patriots,SE Rutherford,d014d5ac,5,14,16,0,1,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
+St Kitts and Nevis Patriots,Asif Ali,0a4736eb,6,18,14,1,1,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
+St Kitts and Nevis Patriots,FA Allen,b52ffbbd,7,34,32,2,3,106.25,"[1, 3, 5, 7]",4.0,24,12,0,30,2,2,2,1,0,0,0,7.5,0,0,0,0,0,64,70,0,134
+St Kitts and Nevis Patriots,C Archibald,c3a8bc99,8,2,6,0,0,33.33,"[12, 14, 16]",2.667,16,7,0,24,1,2,0,0,0,1,0,9.0,0,0,0,0,0,2,7,0,9
+St Kitts and Nevis Patriots,Naseem Shah,9c9af282,9,2,4,0,0,50.0,"[8, 10]",2.0,12,3,0,11,1,0,1,0,0,0,0,5.5,0,0,0,0,0,2,32,0,34
+St Kitts and Nevis Patriots,PA van Meekeren,4557dc54,10,3,8,0,0,37.5,"[6, 9, 15]",3.0,18,7,0,28,3,1,1,0,0,0,2,9.33,0,0,0,0,0,3,32,0,35
+St Kitts and Nevis Patriots,Fawad Ahmed,22ae3041,11,0,1,0,0,0.0,"[2, 4, 11, 13]",4.0,24,8,0,27,1,1,0,0,0,0,0,6.75,0,0,0,0,0,-2,10,0,8
+St Lucia Kings,ADS Fletcher,1bae756b,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,0,0,0,-2,0,28,26
+St Lucia Kings,F du Plessis,3355b542,2,22,15,1,2,146.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,40,0,0,40
+St Lucia Kings,KJ Cottoy,e3f143c1,3,19,19,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,27,0,16,43
+St Lucia Kings,RL Chase,3feda4fa,4,51,38,4,2,134.21,"[6, 8]",2.0,12,4,0,12,1,0,0,0,0,0,0,6.0,1,0,0,1,2,89,6,14,109
+St Lucia Kings,SR Patel,18fac429,5,7,15,0,0,46.67,"[7, 12, 14, 16]",4.0,24,14,0,15,1,0,2,0,0,0,1,3.75,0,0,0,0,-6,1,70,0,71
+St Lucia Kings,TH David,f1f99156,6,18,6,1,2,300.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34
+St Lucia Kings,KMA Paul,75224f22,6,0,0,0,0,0.0,[20],0.5,3,1,0,2,0,0,1,0,0,0,0,4.0,0,0,0,0,0,0,26,0,26
+St Lucia Kings,Wahab Riaz,b3118300,7,0,0,0,0,0.0,"[2, 4, 11, 18]",4.0,24,16,0,17,0,1,1,0,0,0,1,4.25,0,0,0,0,0,0,47,0,47
+St Lucia Kings,AS Joseph,b0946605,8,0,0,0,0,0.0,"[3, 10]",2.0,12,7,0,19,3,1,0,0,0,0,0,9.5,2,0,0,1,0,0,7,22,29
+St Lucia Kings,J Royal,44a18ad8,9,0,0,0,0,0.0,"[1, 5, 13, 15]",4.0,24,15,0,20,1,1,3,1,0,0,1,5.0,0,0,0,0,0,0,106,0,106
+St Lucia Kings,KOK Williams,78cb83f3,10,0,0,0,0,0.0,"[9, 17, 19]",3.0,18,8,0,32,2,2,2,0,0,0,3,10.67,0,0,0,0,0,0,56,0,56

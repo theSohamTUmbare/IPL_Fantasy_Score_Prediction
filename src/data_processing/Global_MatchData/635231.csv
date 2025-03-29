@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Antigua Hawksbills,J Charles,09a9d073,1,12,5,3,0,240.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
+Antigua Hawksbills,KOA Powell,e012ad13,2,12,6,2,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,20,0,16,36
+Antigua Hawksbills,JN Hamilton,78feb458,3,24,30,3,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,36,0,0,36
+Antigua Hawksbills,O Peters,df60a57a,4,0,0,0,0,0.0,"[2, 7, 9, 17]",4.0,24,4,0,44,4,2,0,0,0,0,0,11.0,0,0,0,0,0,0,2,0,2
+Antigua Hawksbills,MN Samuels,f846de6a,4,22,23,1,0,95.65,"[6, 8, 10, 20]",4.0,24,9,0,33,2,2,2,0,1,0,0,8.25,0,0,0,0,0,26,67,0,93
+Antigua Hawksbills,BJ Rohrer,27af6414,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Antigua Hawksbills,DC Thomas,08a4f9ad,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Antigua Hawksbills,RT Ponting,7d415ea5,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Antigua Hawksbills,RRS Cornwall,c4d9634c,8,0,0,0,0,0.0,"[12, 14, 16, 18]",4.0,24,6,0,36,1,2,2,0,0,0,1,9.0,0,0,0,0,0,0,56,0,56
+Antigua Hawksbills,KAJ Roach,78eb4223,9,0,0,0,0,0.0,"[1, 4, 11, 13]",4.0,24,12,0,27,2,1,0,0,0,0,3,6.75,0,0,0,0,0,0,14,0,14
+Antigua Hawksbills,SS Cottrell,a1d053dd,10,0,0,0,0,0.0,"[3, 5, 15, 19]",4.0,24,7,0,36,3,1,0,0,0,1,2,9.0,1,0,0,0,0,0,7,8,15
+St Lucia Zouks,Tamim Iqbal,3b041a12,1,20,19,4,0,105.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,36,0,0,36
+St Lucia Zouks,ADS Fletcher,1bae756b,2,76,52,4,3,146.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,124,0,0,124
+St Lucia Zouks,DS Smith,85ad2217,3,29,20,2,2,145.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,55,0,0,55
+St Lucia Zouks,Misbah-ul-Haq,7eae4418,4,8,8,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+St Lucia Zouks,HH Gibbs,e1d1b294,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+St Lucia Zouks,DJG Sammy,c03c6200,5,35,20,1,3,175.0,"[4, 7, 9]",3.0,18,5,0,19,1,0,0,0,0,0,1,6.33,0,0,0,0,6,67,7,0,74
+St Lucia Zouks,LAS Sebastien,a8333aa9,5,0,0,0,0,0.0,[2],1.0,6,2,0,8,1,0,0,0,0,0,1,8.0,0,0,0,0,0,0,2,0,2
+St Lucia Zouks,JA Morkel,c3d35165,6,1,1,0,0,100.0,[8],1.0,6,0,0,9,1,0,0,0,0,0,0,9.0,0,0,0,0,0,1,0,0,1
+St Lucia Zouks,GE Mathurin,b67bfaae,6,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,8,0,26,5,0,2,0,1,0,0,8.67,1,0,0,0,0,0,66,8,74
+St Lucia Zouks,S Shillingford,d76b0d2d,7,0,0,0,0,0.0,[10],1.0,6,3,0,4,0,0,0,0,0,0,1,4.0,0,0,0,0,0,0,3,0,3
+St Lucia Zouks,TL Best,db767b89,8,0,0,0,0,0.0,"[6, 11]",1.667,10,6,0,8,1,0,1,0,1,0,1,4.8,0,0,0,0,0,0,39,0,39

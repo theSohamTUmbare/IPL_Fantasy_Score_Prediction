@@ -1,0 +1,13 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2021-09-11'],Germany tour of Spain,1275053,Spain,2,0,2,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2021-09-11'],Germany tour of Spain,1275054,Spain,2,6,8,0,0,75.0,"17,19",2.0,12,6,0,15,3,0,1,0,1,0,0,7.5,0,0,0,0,0,6,39,0,45
+['2021-09-10'],Germany tour of Spain,1275052,Spain,2,3,10,0,0,30.0,"10,12,14",3.0,18,8,0,17,2,0,0,0,0,0,1,5.67,0,0,0,0,-6,-3,12,0,9
+['2020-03-08'],Germany tour of Spain,1207081,Spain,2,52,45,2,2,115.56,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,80,0,0,80
+['2020-03-08'],Germany tour of Spain,1207082,Spain,9,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2019-10-27'],Iberia Cup,1201673,Spain,2,6,7,0,0,85.71,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6
+['2019-10-26'],Iberia Cup,1201670,Spain,2,7,13,0,0,53.85,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,3,0,0,3
+['2019-10-26'],Iberia Cup,1201671,Spain,2,22,27,1,0,81.48,"6,8",2.0,12,6,0,12,1,1,2,0,0,0,0,6.0,0,0,0,0,0,26,58,0,84
+['2019-10-25'],Iberia Cup,1201668,Spain,2,38,29,3,2,131.03,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,68,0,0,68
+['2018-09-01'],ICC World Twenty20 Europe Region Qualifier B,1156660,Spain,4,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2018-08-30'],ICC World Twenty20 Europe Region Qualifier B,1156655,Spain,5,3,6,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2018-08-29'],ICC World Twenty20 Europe Region Qualifier B,1156650,Spain,2,40,43,1,0,93.02,10,1.0,6,1,0,12,2,0,0,0,0,0,0,12.0,0,0,0,0,0,48,1,0,49

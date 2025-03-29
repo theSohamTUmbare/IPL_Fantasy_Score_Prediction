@@ -1,0 +1,14 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2016-01-08'],Syed Mushtaq Ali Trophy,902181,Mumbai,10,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2016-01-07'],Syed Mushtaq Ali Trophy,902203,Mumbai,6,3,4,0,0,75.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2012-05-19'],Indian Premier League,548374,Kings XI Punjab,5,38,32,5,1,118.75,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,68,0,0,68
+['2012-05-17'],Indian Premier League,548371,Kings XI Punjab,5,11,12,1,0,91.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
+['2012-05-13'],Indian Premier League,548366,Kings XI Punjab,6,11,13,1,0,84.62,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
+['2012-05-08'],Indian Premier League,548359,Kings XI Punjab,7,6,5,0,0,120.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6
+['2012-04-25'],Indian Premier League,548339,Kings XI Punjab,6,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2012-04-22'],Indian Premier League,548334,Kings XI Punjab,7,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2011-05-08'],Indian Premier League,501248,Kings XI Punjab,7,9,9,1,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+['2009-05-14'],Indian Premier League,392225,Rajasthan Royals,5,6,8,1,0,75.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+['2008-05-24'],Indian Premier League,336032,Mumbai Indians,7,3,4,0,0,75.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11
+['2008-05-21'],Indian Premier League,336028,Mumbai Indians,8,15,5,1,1,300.0,"7,13,15,17",4.0,24,6,0,40,2,2,2,0,0,0,5,10.0,0,0,0,0,0,25,54,0,79
+['2008-04-27'],Indian Premier League,335994,Mumbai Indians,11,0,0,0,0,0.0,"6,12",2.0,12,3,0,20,2,1,0,0,0,0,1,10.0,0,0,0,0,0,0,1,0,1

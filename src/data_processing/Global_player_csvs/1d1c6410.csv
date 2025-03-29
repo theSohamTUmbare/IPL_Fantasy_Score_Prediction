@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-05-06'],Gibraltar Tri-Nation T20I Series,1367728,Gibraltar,3,11,27,0,0,40.74,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,5,0,0,5
+['2023-05-06'],Gibraltar Tri-Nation T20I Series,1367730,Gibraltar,5,14,15,1,0,93.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26
+['2023-05-05'],Gibraltar Tri-Nation T20I Series,1367727,Gibraltar,6,2,4,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2023-05-04'],Gibraltar Tri-Nation T20I Series,1367725,Gibraltar,3,5,7,1,0,71.43,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17

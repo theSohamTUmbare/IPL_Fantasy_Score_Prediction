@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Chattogram Challengers,LMP Simmons,89f64c19,1,51,43,2,4,118.6,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,91,0,0,91
+Chattogram Challengers,CH Gayle,db584dad,2,23,10,1,3,230.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,51,0,0,51
+Chattogram Challengers,Imrul Kayes,5fbe14fc,3,67,41,3,5,163.41,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,121,0,0,121
+Chattogram Challengers,Mahmudullah,bf1d7d3e,4,10,6,2,0,166.67,"[3, 8]",2.0,12,6,0,15,1,1,0,0,0,0,1,7.5,1,0,0,1,0,18,6,14,38
+Chattogram Challengers,CAK Walton,bbff906c,5,14,11,0,1,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
+Chattogram Challengers,Nurul Hasan,d365d463,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Chattogram Challengers,Nasum Ahmed,37654b75,6,0,0,0,0,0.0,"[1, 5, 7, 9]",4.0,24,7,0,33,3,1,0,0,0,0,0,8.25,0,0,0,0,0,0,7,0,7
+Chattogram Challengers,Muktar Ali,4a491652,7,0,0,0,0,0.0,"[12, 14, 18, 20]",4.0,24,4,0,41,0,3,0,0,0,0,1,10.25,1,0,1,0,0,0,2,20,22
+Chattogram Challengers,KOK Williams,78cb83f3,8,0,0,0,0,0.0,"[6, 11, 15]",3.0,18,3,0,38,5,1,0,0,0,0,3,12.67,0,0,0,0,0,0,-3,0,-3
+Chattogram Challengers,Ziaur Rahman,c27518d2,9,0,0,0,0,0.0,"[13, 17, 19]",3.0,18,6,0,18,2,0,3,0,0,0,0,6.0,1,0,0,1,0,0,87,14,101
+Chattogram Challengers,Rubel Hossain,f56cd097,10,0,0,0,0,0.0,"[2, 4, 10, 16]",4.0,24,14,0,20,3,0,3,1,1,0,0,5.0,0,0,0,0,0,0,113,0,113
+Rajshahi Royals,Liton Das,0404d43c,1,56,45,5,2,124.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,96,0,0,96
+Rajshahi Royals,Afif Hossain,37138918,2,9,5,2,0,180.0,[3],1.0,6,2,0,22,1,3,0,0,0,0,0,22.0,0,0,0,0,0,17,2,0,19
+Rajshahi Royals,Irfan Sukkur,3cc7dd5f,3,18,17,2,0,105.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,26,0,8,34
+Rajshahi Royals,Shoaib Malik,64c34cd0,4,28,24,2,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,40,0,0,40
+Rajshahi Royals,AD Russell,bbd41817,5,20,10,1,2,200.0,"[1, 10, 16]",3.0,18,8,0,30,1,3,0,0,0,0,2,10.0,0,0,0,0,6,42,6,0,48
+Rajshahi Royals,Taijul Islam,9d1d34bd,5,0,0,0,0,0.0,[8],1.0,6,1,0,10,0,1,0,0,0,0,0,10.0,0,0,0,0,0,0,1,0,1
+Rajshahi Royals,Mohammad Irfan,a8e3170f,6,0,0,0,0,0.0,"[2, 4, 6, 18]",4.0,24,14,1,30,1,3,0,0,0,0,0,7.5,0,0,0,0,0,0,26,0,26
+Rajshahi Royals,RS Bopara,7ca5e05d,6,4,4,1,0,100.0,"[9, 11, 14]",3.0,18,5,0,27,2,1,0,0,0,0,0,9.0,0,0,0,0,0,8,5,0,13
+Rajshahi Royals,Alok Kapali,54279e23,7,1,3,0,0,33.33,[12],1.0,6,0,0,13,0,1,0,0,0,0,0,13.0,0,0,0,0,0,1,0,0,1
+Rajshahi Royals,Farhad Reza,4948a447,8,21,8,1,2,262.5,"[13, 15]",2.0,12,4,0,17,1,1,1,0,1,0,0,8.5,0,0,0,0,0,37,37,0,74
+Rajshahi Royals,Kamrul Islam Rabbi,f7e9a562,9,3,4,0,0,75.0,"[5, 7, 17, 19]",3.5,21,9,0,20,2,0,1,0,0,0,2,5.71,0,0,1,0,0,3,38,12,53

@@ -1,0 +1,20 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-09-20'],Caribbean Premier League,1428698,Guyana Amazon Warriors,2,0,3,0,0,0.0,"3,9,11",3.0,18,10,0,24,2,2,0,0,0,0,0,8.0,0,0,0,0,0,-2,10,0,8
+['2024-09-18'],Caribbean Premier League,1428696,Guyana Amazon Warriors,2,9,10,1,0,90.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+['2024-09-14'],Caribbean Premier League,1428693,Guyana Amazon Warriors,10,0,0,0,0,0.0,"6,8,10",3.0,18,8,0,18,1,1,0,0,0,0,0,6.0,1,0,0,0,0,0,10,8,18
+['2024-09-04'],Caribbean Premier League,1428684,Guyana Amazon Warriors,2,17,11,4,0,154.55,5,1.0,6,2,0,34,2,4,0,0,0,2,0,34.0,0,0,0,0,4,37,2,0,39
+['2022-09-22'],Caribbean Premier League,1323169,St Kitts and Nevis Patriots,8,0,0,0,0,0.0,"2,4,14,16",4.0,24,13,0,18,0,1,2,1,0,0,2,4.5,0,0,0,0,0,0,77,0,77
+['2021-09-14'],Caribbean Premier League,1269731,Guyana Amazon Warriors,9,0,3,0,0,0.0,"1,3,8,10",4.0,24,13,0,31,1,3,1,0,0,0,3,7.75,0,0,0,0,0,-2,38,0,36
+['2021-09-07'],Caribbean Premier League,1269719,Guyana Amazon Warriors,9,3,2,0,0,150.0,2,1.0,6,3,0,11,2,0,0,0,0,0,1,11.0,0,0,0,0,0,3,3,0,6
+['2021-09-04'],Caribbean Premier League,1269715,Guyana Amazon Warriors,10,0,0,0,0,0.0,"8,10",2.0,12,4,0,14,2,0,0,0,0,0,0,7.0,0,0,0,1,0,0,6,6,12
+['2021-06-29'],South Africa tour of West Indies,1263153,West Indies,11,0,0,0,0,0.0,"4,6,8",3.0,18,5,0,29,2,1,0,0,0,0,0,9.67,0,0,0,1,0,0,5,6,11
+['2021-06-27'],South Africa tour of West Indies,1263152,West Indies,11,0,1,0,0,0.0,"1,7,9,11",4.0,24,6,0,23,2,0,2,1,0,0,0,5.75,0,0,0,0,0,0,68,0,68
+['2021-06-26'],South Africa tour of West Indies,1263151,West Indies,11,0,0,0,0,0.0,"1,3",2.0,12,4,0,21,2,1,0,0,0,0,1,10.5,1,0,0,0,0,0,2,8,10
+['2021-03-07'],Sri Lanka tour of West Indies,1252068,West Indies,10,0,0,0,0,0.0,"2,4",2.0,12,2,0,19,1,0,1,0,0,0,0,9.5,1,0,0,0,0,0,27,8,35
+['2021-03-05'],Sri Lanka tour of West Indies,1252067,West Indies,9,3,8,0,0,37.5,"2,5,7,9",4.0,24,3,0,32,1,1,0,0,0,0,0,8.0,1,0,0,0,0,3,3,8,14
+['2021-03-03'],Sri Lanka tour of West Indies,1252066,West Indies,9,0,0,0,0,0.0,"1,3,8",3.0,18,4,0,26,2,1,1,0,0,0,0,8.67,0,0,0,0,0,0,29,0,29
+['2020-09-08'],Caribbean Premier League,1227896,Guyana Amazon Warriors,8,1,5,0,0,20.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2020-09-03'],Caribbean Premier League,1227890,Guyana Amazon Warriors,7,0,0,0,0,0.0,"2,8,12,16",4.0,24,12,0,23,1,1,1,0,1,0,0,5.75,0,0,0,0,0,0,49,0,49
+['2020-09-02'],Caribbean Premier League,1227888,Guyana Amazon Warriors,10,0,0,0,0,0.0,"2,10",2.0,12,7,0,16,0,2,1,0,0,0,1,8.0,1,0,0,0,0,0,32,8,40
+['2020-09-01'],Caribbean Premier League,1227886,Guyana Amazon Warriors,2,3,11,0,0,27.27,"2,4,6,8",4.0,24,15,0,13,0,0,2,0,0,0,1,3.25,2,0,0,0,-6,-3,71,16,84
+['2020-08-30'],Caribbean Premier League,1227884,Guyana Amazon Warriors,2,5,13,0,0,38.46,"2,4,6,8",4.0,24,16,0,9,0,0,1,0,1,0,2,2.25,0,0,0,0,-6,-1,55,0,54

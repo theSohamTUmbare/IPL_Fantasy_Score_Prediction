@@ -1,0 +1,9 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2025-02-23'],Ireland tour of Zimbabwe,1467705,Ireland,8,5,3,1,0,166.67,"1,3,18,20",3.333,20,9,1,26,4,0,0,0,0,0,1,7.8,0,0,0,0,0,9,21,0,30
+['2025-02-22'],Ireland tour of Zimbabwe,1467704,Ireland,8,0,0,0,0,0.0,"1,8",2.0,12,6,0,15,2,0,1,0,0,0,1,7.5,1,0,0,0,0,0,31,8,39
+['2024-09-29'],Ireland vs South Africa,1431087,Ireland,11,0,0,0,0,0.0,"3,6,18,20",4.0,24,14,0,25,1,1,3,0,1,1,3,6.25,0,0,0,0,0,0,103,0,103
+['2024-05-14'],Pakistan tour of Ireland,1426832,Ireland,9,10,6,1,0,166.67,"2,4",2.0,12,4,0,26,4,1,0,0,0,0,0,13.0,0,0,0,0,0,14,-2,0,12
+['2024-05-12'],Pakistan tour of Ireland,1426831,Ireland,9,2,2,0,0,100.0,"2,4,16",3.0,18,8,0,32,4,2,1,0,0,0,0,10.67,0,0,0,0,0,2,31,0,33
+['2023-03-29'],Ireland tour of Bangladesh,1355721,Ireland,10,20,17,0,2,117.65,"3,9,14",3.0,18,0,0,49,5,2,0,0,0,0,1,16.33,0,0,0,0,0,32,-6,0,26
+['2023-03-27'],Ireland tour of Bangladesh,1355720,Ireland,10,0,0,0,0,0.0,"3,10,14,18",4.0,24,7,0,35,3,1,1,0,1,0,1,8.75,0,0,0,0,0,0,40,0,40
+['2023-01-14'],Ireland tour of Zimbabwe,1348324,Ireland,11,0,0,0,0,0.0,"3,13,16,20",4.0,24,11,0,17,0,0,3,0,0,0,2,4.25,0,0,0,1,0,0,96,6,102

@@ -1,0 +1,9 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-07-25'],ICC Men's T20 World Cup Europe Region Qualifier,1383081,Austria,1,6,27,0,0,22.22,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,0,0,0,0
+['2023-07-24'],ICC Men's T20 World Cup Europe Region Qualifier,1383078,Austria,1,2,8,0,0,25.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2022-07-10'],Central Europe Cup,1321310,Austria,2,3,3,0,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2022-07-09'],Central Europe Cup,1321308,Austria,5,1,1,0,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2022-07-08'],Central Europe Cup,1321305,Austria,7,9,3,1,0,300.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+['2021-05-23'],Central Europe Cup,1263712,Austria,3,9,6,2,0,150.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
+['2021-05-23'],Central Europe Cup,1263713,Austria,5,6,5,1,0,120.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,10,0,8,18
+['2021-05-22'],Central Europe Cup,1263710,Austria,3,28,30,0,1,93.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,38,0,8,46

@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-07-12'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439829,Belgium,7,0,0,0,0,0.0,"2,4,13",3.0,18,5,0,24,3,0,0,0,0,0,0,8.0,0,0,0,0,0,0,5,0,5
+['2024-05-12'],Mdina Cup,1432200,Belgium,10,0,0,0,0,0.0,"2,4,6,8",4.0,24,10,0,25,2,0,2,0,0,0,1,6.25,0,0,0,0,0,0,62,0,62
+['2024-05-11'],Mdina Cup,1432198,Belgium,11,0,0,0,0,0.0,"2,4",2.0,12,6,0,15,2,0,0,0,0,0,2,7.5,1,0,0,0,0,0,6,8,14
+['2023-06-11'],Belgium tour of Germany,1380584,Belgium,11,6,1,0,1,600.0,13,1.0,6,2,0,13,3,0,1,0,0,0,0,13.0,0,0,0,0,0,12,27,0,39
+['2023-06-10'],Belgium tour of Germany,1380583,Belgium,11,0,1,0,0,0.0,"5,7,9,18",4.0,24,7,0,32,2,1,0,0,0,0,2,8.0,1,0,0,0,0,0,7,8,15

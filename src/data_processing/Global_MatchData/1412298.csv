@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Khulna Tigers,Anamul Haque,72b245dd,1,67,58,5,2,115.52,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,107,0,12,119
+Khulna Tigers,E Lewis,0ebfb1ad,2,12,10,3,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,24,0,8,32
+Khulna Tigers,Afif Hossain,37138918,3,24,16,3,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,42,0,0,42
+Khulna Tigers,Mahmudul Hasan Joy,4b51bd51,4,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Khulna Tigers,Habibur Rahman,cee2fbd8,5,43,30,3,3,143.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,79,0,8,87
+Khulna Tigers,Sumon Khan,a84ccd7d,7,0,0,0,0,0.0,"[2, 12, 14, 18]",4.0,24,7,0,36,3,1,1,0,0,1,3,9.0,0,0,0,0,0,0,32,0,32
+Khulna Tigers,Nahidul Islam,8c7b16c8,8,0,0,0,0,0.0,"[1, 3, 17]",3.0,18,12,1,11,0,1,1,0,0,0,0,3.67,1,0,0,0,0,0,55,8,63
+Khulna Tigers,M Deyal,7183799b,9,0,0,0,0,0.0,"[4, 9, 13, 15]",4.0,24,12,0,19,1,1,3,0,0,0,0,4.75,0,0,0,0,0,0,97,0,97
+Khulna Tigers,Nasum Ahmed,37654b75,10,0,0,0,0,0.0,"[6, 8, 11]",3.0,18,7,0,26,3,1,0,0,0,0,0,8.67,0,0,0,0,0,0,7,0,7
+Khulna Tigers,CAK Rajitha,8012d0b8,11,0,0,0,0,0.0,"[5, 10, 16]",3.0,18,6,0,29,4,1,0,0,0,0,0,9.67,0,0,0,0,0,0,6,0,6
+Khulna Tigers,Rubel Hossain,f56cd097,12,0,0,0,0,0.0,"[7, 19]",2.0,12,1,0,36,2,3,0,0,0,0,4,18.0,1,0,0,0,0,0,-5,8,3
+Sylhet Strikers,HT Tector,59ea70a4,1,61,52,6,3,117.31,[4],1.0,6,3,0,8,1,0,0,0,0,0,1,8.0,0,0,0,0,0,111,3,0,114
+Sylhet Strikers,SR Patel,18fac429,2,13,9,0,2,144.44,"[3, 5, 13, 15]",4.0,24,12,0,22,3,0,1,0,0,0,0,5.5,0,0,0,0,0,25,41,0,66
+Sylhet Strikers,Nazmul Hossain Shanto,1274d7ab,3,18,16,3,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30
+Sylhet Strikers,Zakir Hasan,e3e09091,4,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Sylhet Strikers,Mohammad Mithun,77191792,5,24,18,3,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,38,0,0,38
+Sylhet Strikers,RP Burl,b08252b8,6,32,16,1,3,200.0,[16],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,6,64,2,0,66
+Sylhet Strikers,BAC Howell,0bec3a6c,7,0,0,0,0,0.0,"[8, 10, 12, 18]",4.0,24,9,0,27,0,2,1,1,0,0,0,6.75,0,0,0,0,0,0,44,0,44
+Sylhet Strikers,Ariful Haque,ad1730bc,7,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+Sylhet Strikers,Tanzim Hasan Sakib,0b0cc297,8,0,0,0,0,0.0,"[2, 17, 19]",3.0,18,7,0,26,4,0,0,0,0,0,2,8.67,1,0,0,0,0,0,7,8,15
+Sylhet Strikers,Rejaur Rahman,267be846,9,0,0,0,0,0.0,"[6, 14, 20]",3.0,18,3,0,45,3,4,0,0,0,0,1,15.0,0,0,0,0,0,0,-3,0,-3
+Sylhet Strikers,Sunzamul Islam,0f348f58,10,0,0,0,0,0.0,"[1, 7, 9, 11]",4.0,24,13,0,16,2,0,1,0,0,0,0,4.0,0,0,0,0,0,0,44,0,44

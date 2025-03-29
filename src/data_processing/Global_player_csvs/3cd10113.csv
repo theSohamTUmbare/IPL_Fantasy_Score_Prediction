@@ -1,0 +1,3 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2015-01-29'],ACC Twenty20 Cup,811129,Singapore,6,33,17,1,4,194.12,8,0.667,4,1,0,7,1,0,0,0,0,0,0,10.49,0,0,0,0,6,71,1,0,72
+['2015-01-27'],ACC Twenty20 Cup,811123,Singapore,5,24,12,1,2,200.0,"9,11,17,19",4.0,24,5,0,41,5,1,2,0,1,1,0,10.25,0,0,0,0,6,46,61,0,107

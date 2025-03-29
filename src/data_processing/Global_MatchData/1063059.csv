@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Chittagong Vikings,Tamim Iqbal,3b041a12,1,3,12,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,-3,0,8,5
+Chittagong Vikings,DR Smith,35205dfc,2,3,10,0,0,30.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-3,0,0,-3
+Chittagong Vikings,Anamul Haque,72b245dd,3,14,21,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,16,0,0,16
+Chittagong Vikings,Shoaib Malik,64c34cd0,4,4,8,0,0,50.0,"[10, 12, 15, 17]",4.0,24,6,0,23,1,0,0,0,0,0,0,5.75,0,0,1,0,0,4,10,12,26
+Chittagong Vikings,Zakir Hasan,e3e09091,5,8,12,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,10,0,0,10
+Chittagong Vikings,Jahurul Islam,6752c57b,6,25,18,0,1,138.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,37,0,8,45
+Chittagong Vikings,Mohammad Nabi,62af8546,7,39,23,2,2,169.57,"[4, 14, 16, 18]",4.0,24,11,0,22,1,1,3,0,0,0,0,5.5,0,0,0,0,4,67,94,0,161
+Chittagong Vikings,PC de Silva,b40ee8a8,8,19,14,1,1,135.71,"[11, 13]",2.0,12,2,0,12,0,0,0,0,0,0,0,6.0,0,0,0,0,2,31,4,0,35
+Chittagong Vikings,Abdur Razzak,888e32bf,9,0,2,0,0,0.0,"[1, 3, 6, 8]",4.0,24,10,1,23,3,0,1,0,1,0,0,5.75,0,0,0,0,0,-2,59,0,57
+Chittagong Vikings,Subashis Roy,a3a078ba,10,0,0,0,0,0.0,"[2, 5, 19]",3.0,18,6,0,27,2,1,0,0,0,0,1,9.0,1,0,0,0,0,0,6,8,14
+Chittagong Vikings,Taskin Ahmed,ef18b66e,10,0,0,0,0,0.0,"[7, 9, 20]",3.0,18,6,0,17,0,1,2,0,0,0,0,5.67,2,0,0,0,0,0,60,16,76
+Khulna Titans,MH Wessels,90f47cf2,1,28,17,4,0,164.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,52,0,8,60
+Khulna Titans,Hasanuzzaman,849c9375,2,8,6,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+Khulna Titans,Shuvagata Hom,bb01f9e0,3,3,4,0,0,75.0,[1],1.0,6,5,0,2,0,0,0,0,0,0,1,2.0,1,0,0,0,0,3,5,8,16
+Khulna Titans,Mahmudullah,bf1d7d3e,4,6,10,0,0,60.0,"[11, 18, 20]",3.0,18,6,0,24,0,2,3,0,0,0,0,8.0,0,0,0,0,-2,4,85,0,89
+Khulna Titans,Alok Kapali,54279e23,5,23,35,1,0,65.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,25,0,8,33
+Khulna Titans,N Pooran,3241e3fd,6,29,30,0,1,96.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,39,0,8,47
+Khulna Titans,Ariful Haque,ad1730bc,7,25,16,1,2,156.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,49,0,0,49
+Khulna Titans,KK Cooper,557153ca,8,0,1,0,0,0.0,"[3, 6, 13, 17]",4.0,24,12,0,17,1,0,2,0,0,0,1,4.25,0,0,0,0,0,-2,68,0,66
+Khulna Titans,Mosharraf Hossain,8eb611d0,9,1,1,0,0,100.0,"[5, 7, 9, 15]",4.0,24,8,0,19,0,0,0,0,0,0,0,4.75,0,0,0,0,0,1,14,0,15
+Khulna Titans,Shafiul Islam,1a8eebbe,10,0,0,0,0,0.0,"[8, 10, 12, 16]",4.0,24,9,0,28,2,1,4,2,0,0,0,7.0,1,0,0,0,0,0,135,8,143
+Khulna Titans,Junaid Khan,086f5984,11,0,0,0,0,0.0,"[2, 4, 14, 19]",4.0,24,8,0,27,2,1,0,0,0,0,0,6.75,2,0,0,0,0,0,10,16,26

@@ -1,0 +1,10 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2021-11-07'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283050,Sierra Leone,10,0,0,0,0,0.0,"6,8,10,12",4.0,24,13,0,12,0,0,2,1,1,0,1,3.0,0,0,0,0,0,0,85,0,85
+['2021-11-05'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283047,Sierra Leone,10,0,0,0,0,0.0,"10,12,14,16",4.0,24,16,0,17,1,1,0,0,0,0,0,4.25,0,0,0,0,0,0,22,0,22
+['2021-11-03'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283045,Sierra Leone,8,0,1,0,0,0.0,"4,6,8,10",4.0,24,11,0,20,2,0,1,0,0,0,0,5.0,0,0,0,0,0,-2,40,0,38
+['2021-11-02'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283042,Sierra Leone,10,14,20,1,0,70.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,16,0,0,16
+['2021-10-26'],Sierra Leone tour of Nigeria,1283094,Sierra Leone,9,0,2,0,0,0.0,17,1.0,6,1,0,17,2,1,0,0,0,0,1,17.0,0,0,0,0,0,-2,1,0,-1
+['2021-10-24'],Sierra Leone tour of Nigeria,1283093,Sierra Leone,5,0,1,0,0,0.0,"9,11",2.0,12,6,0,12,1,0,0,0,0,0,0,6.0,0,0,0,0,0,-2,8,0,6
+['2021-10-23'],Sierra Leone tour of Nigeria,1283092,Sierra Leone,8,0,0,0,0,0.0,"7,9,11,13",4.0,24,14,1,12,1,0,1,1,0,0,0,3.0,0,0,0,0,0,0,65,0,65
+['2021-10-21'],Sierra Leone tour of Nigeria,1283091,Sierra Leone,6,5,10,1,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,5,0,0,5
+['2021-10-19'],Sierra Leone tour of Nigeria,1283089,Sierra Leone,6,4,10,0,0,40.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,1,0,-6,-2,0,28,26

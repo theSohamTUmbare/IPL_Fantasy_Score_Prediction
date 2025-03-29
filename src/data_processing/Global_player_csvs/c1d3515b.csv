@@ -1,0 +1,13 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-12-13'],Syed Mushtaq Ali Trophy,1446105,Baroda,2,9,9,1,0,100.0,17,1.5,9,6,0,10,2,0,1,0,0,0,1,6.67,0,0,0,0,0,13,31,0,44
+['2024-12-11'],Syed Mushtaq Ali Trophy,1446101,Baroda,2,37,33,5,1,112.12,12,1.0,6,1,0,10,0,1,1,0,0,0,0,10.0,1,0,0,0,0,67,26,8,101
+['2023-11-06'],Syed Mushtaq Ali Trophy,1383568,Baroda,3,61,42,3,4,145.24,"9,12,14",3.0,18,2,0,39,6,0,0,0,0,0,1,13.0,0,0,0,0,2,107,-4,0,103
+['2023-11-04'],Syed Mushtaq Ali Trophy,1383567,Baroda,8,0,0,0,0,0.0,"12,14,16,18",4.0,24,9,0,29,1,2,4,0,1,0,0,7.25,1,0,0,0,0,0,125,8,133
+['2023-10-25'],Syed Mushtaq Ali Trophy,1383526,Baroda,7,0,0,0,0,0.0,"11,13",2.0,12,1,0,17,2,0,0,0,0,0,1,8.5,0,0,0,0,0,0,1,0,1
+['2021-01-31'],Syed Mushtaq Ali Trophy,1244407,Baroda,6,2,8,0,0,25.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2021-01-29'],Syed Mushtaq Ali Trophy,1244406,Baroda,7,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2021-01-27'],Syed Mushtaq Ali Trophy,1244403,Baroda,4,13,13,0,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
+['2021-01-18'],Syed Mushtaq Ali Trophy,1244388,Baroda,5,34,17,3,2,200.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,68,0,0,68
+['2021-01-16'],Syed Mushtaq Ali Trophy,1244370,Baroda,8,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2021-01-12'],Syed Mushtaq Ali Trophy,1244333,Baroda,6,15,16,2,0,93.75,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
+['2021-01-10'],Syed Mushtaq Ali Trophy,1244314,Baroda,7,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0

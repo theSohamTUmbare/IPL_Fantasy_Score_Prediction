@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Comilla Victorians,Liton Das,0404d43c,1,55,39,7,1,141.03,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,99,0,8,107
+Comilla Victorians,SP Narine,9d430b40,2,10,5,1,1,200.0,"[5, 9, 17, 19]",4.0,24,6,0,33,3,1,1,0,1,0,0,8.25,0,0,0,0,0,20,39,0,59
+Comilla Victorians,Imrul Kayes,5fbe14fc,3,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
+Comilla Victorians,J Charles,09a9d073,4,79,52,7,5,151.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,153,0,0,153
+Comilla Victorians,MM Ali,bb351c23,5,25,17,2,1,147.06,"[7, 11, 13, 15]",4.0,24,5,0,31,1,1,1,0,1,0,1,7.75,0,0,1,0,2,45,38,12,95
+Comilla Victorians,Mosaddek Hossain,8919756f,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Comilla Victorians,Jaker Ali,cd56a813,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Comilla Victorians,AD Russell,bbd41817,7,0,0,0,0,0.0,"[1, 3, 20]",3.0,18,7,0,31,4,1,1,0,0,1,1,10.33,0,0,0,0,0,0,30,0,30
+Comilla Victorians,Tanvir Islam,aa467af0,8,0,0,0,0,0.0,"[2, 4, 8]",3.0,18,7,0,21,3,0,1,0,1,0,1,7.0,0,0,0,0,0,0,42,0,42
+Comilla Victorians,Mustafizur Rahman,0a8fce53,9,0,0,0,0,0.0,"[6, 10, 16, 18]",4.0,24,10,0,31,4,0,2,0,0,0,1,7.75,0,0,0,0,0,0,60,0,60
+Comilla Victorians,Mukidul Islam,a699488a,10,0,0,0,0,0.0,"[12, 14]",2.0,12,3,0,21,2,1,0,0,0,0,1,10.5,0,0,0,0,0,0,1,0,1
+Sylhet Strikers,Nazmul Hossain Shanto,1274d7ab,1,64,45,10,1,142.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,120,0,8,128
+Sylhet Strikers,Towhid Hridoy,9e52a414,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Sylhet Strikers,Mashrafe Mortaza,e186f49c,3,1,4,0,0,25.0,[20],0.333,2,0,0,3,0,0,0,0,0,0,1,9.01,0,0,0,0,0,1,0,0,1
+Sylhet Strikers,Mushfiqur Rahim,a94e08ea,4,74,47,5,3,157.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,124,0,0,124
+Sylhet Strikers,RP Burl,b08252b8,5,13,11,1,0,118.18,"[10, 12]",2.0,12,2,0,18,2,0,0,0,0,0,1,9.0,0,0,0,0,0,17,2,0,19
+Sylhet Strikers,L Wood,65b6943c,5,0,0,0,0,0.0,"[5, 11, 16, 19]",4.0,24,8,0,38,4,2,0,0,0,0,0,9.5,0,0,0,0,0,0,8,0,8
+Sylhet Strikers,Rubel Hossain,f56cd097,6,0,0,0,0,0.0,"[1, 3, 13, 17]",4.0,24,8,0,39,3,3,2,0,0,0,0,9.75,0,0,0,0,0,0,58,0,58
+Sylhet Strikers,NLTC Perera,0f12f9df,6,0,1,0,0,0.0,[7],1.0,6,2,0,12,1,1,0,0,0,0,0,12.0,1,0,0,0,0,-2,2,8,8
+Sylhet Strikers,GF Linde,e5437608,7,9,6,1,0,150.0,"[4, 6, 8, 15]",4.0,24,14,1,14,1,0,1,0,0,0,0,3.5,1,0,0,0,0,13,57,8,78
+Sylhet Strikers,Zakir Hasan,e3e09091,8,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Sylhet Strikers,Tanzim Hasan Sakib,0b0cc297,9,0,0,0,0,0.0,"[2, 9, 14, 18]",4.0,24,3,0,50,6,2,0,0,0,0,1,12.5,0,0,0,0,0,0,-3,0,-3

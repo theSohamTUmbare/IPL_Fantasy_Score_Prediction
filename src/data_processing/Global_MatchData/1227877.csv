@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+St Lucia Zouks,ADS Fletcher,1bae756b,1,10,6,0,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24
+St Lucia Zouks,RRS Cornwall,c4d9634c,2,18,15,2,1,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32
+St Lucia Zouks,M Deyal,7183799b,3,16,23,0,0,69.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,14,0,0,14
+St Lucia Zouks,RL Chase,3feda4fa,4,7,9,1,0,77.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
+St Lucia Zouks,Najibullah Zadran,1212cbec,5,21,21,1,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31
+St Lucia Zouks,Mohammad Nabi,62af8546,6,30,22,2,1,136.36,"[1, 5]",2.0,12,5,0,15,1,1,1,1,0,0,0,7.5,0,0,0,0,2,50,38,0,88
+St Lucia Zouks,J Glen,151c258b,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+St Lucia Zouks,DJG Sammy,c03c6200,7,2,7,0,0,28.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+St Lucia Zouks,SC Kuggeleijn,fef92afc,7,0,0,0,0,0.0,"[2, 6]",2.0,12,5,0,19,1,0,0,0,0,0,5,9.5,2,0,0,0,0,0,5,16,21
+St Lucia Zouks,KOK Williams,78cb83f3,8,0,0,0,0,0.0,"[3, 7]",2.0,12,6,0,17,1,1,2,0,0,0,1,8.5,0,0,0,0,0,0,56,0,56
+St Lucia Zouks,CK Holder,f7c3d426,9,0,0,0,0,0.0,"[4, 8]",2.0,12,3,0,21,1,1,1,0,0,1,1,10.5,0,0,0,0,0,0,26,0,26
+Trinbago Knight Riders,LMP Simmons,89f64c19,1,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Trinbago Knight Riders,T Webster,ef39fc7f,2,5,7,0,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,5,0,8,13
+Trinbago Knight Riders,C Munro,af2c687b,3,17,8,2,1,212.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,31,0,8,39
+Trinbago Knight Riders,DM Bravo,14b14cd8,4,23,12,0,2,191.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,41,0,0,41
+Trinbago Knight Riders,KA Pollard,a757b0d8,5,4,3,1,0,133.33,"[8, 10, 12, 14]",4.0,24,5,0,26,1,0,0,0,0,0,1,6.5,1,0,0,0,0,8,7,8,23
+Trinbago Knight Riders,TL Seifert,4663bd23,6,15,16,1,0,93.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
+Trinbago Knight Riders,DJ Bravo,87e562a9,6,0,0,0,0,0.0,"[4, 6, 17]",3.0,18,11,0,7,0,0,2,0,1,0,0,2.33,0,0,0,0,0,0,75,0,75
+Trinbago Knight Riders,K Pierre,a61bcb94,7,0,0,0,0,0.0,"[2, 5, 16, 18]",3.167,19,9,0,19,3,0,1,1,0,0,0,6.0,1,0,0,0,0,0,42,8,50
+Trinbago Knight Riders,Ali Khan,b0eaaac6,8,0,0,0,0,0.0,"[1, 3]",2.0,12,5,0,21,0,2,1,0,0,0,3,10.5,0,0,0,0,0,0,28,0,28
+Trinbago Knight Riders,Fawad Ahmed,22ae3041,9,0,0,0,0,0.0,"[7, 9, 13, 15]",4.0,24,11,0,21,1,1,1,0,0,0,0,5.25,0,0,0,0,0,0,40,0,40
+Trinbago Knight Riders,PV Tambe,6aed7e79,10,0,0,0,0,0.0,[11],1.0,6,1,0,15,1,1,1,0,0,0,1,15.0,0,0,0,0,0,0,26,0,26

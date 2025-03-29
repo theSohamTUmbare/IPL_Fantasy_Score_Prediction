@@ -1,0 +1,15 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-07-12'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439829,Serbia,2,49,43,4,1,113.95,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,75,0,8,83
+['2024-07-11'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439826,Serbia,1,16,17,3,0,94.12,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
+['2024-07-10'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439823,Serbia,1,9,13,2,0,69.23,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,15,0,0,15
+['2024-07-07'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439813,Serbia,2,14,16,2,1,87.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,28,0,8,36
+['2023-10-05'],Serbia tour of Gibraltar,1400053,Serbia,2,63,51,4,3,123.53,14,1.0,6,4,0,4,0,0,0,0,0,0,1,4.0,0,0,0,0,0,105,4,0,109
+['2023-10-05'],Serbia tour of Gibraltar,1400054,Serbia,1,10,14,0,0,71.43,15,0.0,0,0,0,1,0,0,0,0,0,0,1,0.0,0,0,0,0,0,10,0,0,10
+['2022-07-19'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321277,Serbia,3,29,50,0,0,58.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,29,0,8,37
+['2022-07-18'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321274,Serbia,3,1,2,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,1,0,16,17
+['2022-07-16'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321269,Serbia,3,27,38,0,0,71.05,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,31,0,16,47
+['2022-07-15'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321266,Serbia,3,21,32,1,0,65.62,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,-2,23,0,28,51
+['2022-07-13'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321263,Serbia,3,29,35,2,0,82.86,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,41,0,8,49
+['2022-07-09'],Bulgaria tour of Serbia,1323551,Serbia,3,61,44,5,3,138.64,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,109,0,8,117
+['2022-07-09'],Bulgaria tour of Serbia,1323552,Serbia,4,23,11,2,2,209.09,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,49,0,0,49
+['2022-07-08'],Bulgaria tour of Serbia,1323550,Serbia,2,65,55,5,3,118.18,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,111,0,0,111

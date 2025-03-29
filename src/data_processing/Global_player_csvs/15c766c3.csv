@@ -1,0 +1,11 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-07-26'],ICC Men's T20 World Cup Asia Region Final,1190772,Qatar,3,28,31,4,0,90.32,"2,4,6",3.0,18,6,0,28,5,0,1,0,0,0,0,9.33,1,0,0,0,0,48,31,8,87
+['2019-07-23'],ICC Men's T20 World Cup Asia Region Final,1190769,Qatar,2,41,32,6,0,128.12,"2,4,6",3.0,18,7,0,28,4,1,1,0,0,0,0,9.33,0,0,0,0,0,69,32,0,101
+['2019-07-22'],ICC Men's T20 World Cup Asia Region Final,1190767,Qatar,1,11,9,1,0,122.22,"4,6,8,16",4.0,24,11,1,26,1,1,0,0,0,0,0,6.5,0,0,0,0,0,15,25,0,40
+['2018-04-27'],ICC World Twenty20 Asia Region Qualifier A,1142224,Qatar,2,1,2,0,0,50.0,"5,7,9,11",4.0,24,9,0,25,2,0,0,0,0,0,0,6.25,0,0,0,0,0,1,11,0,12
+['2018-04-26'],ICC World Twenty20 Asia Region Qualifier A,1142221,Qatar,2,16,9,0,2,177.78,"9,11,13,15",4.0,24,13,0,16,0,1,1,0,1,0,1,4.0,0,0,0,0,0,28,52,0,80
+['2018-04-24'],ICC World Twenty20 Asia Region Qualifier A,1142218,Qatar,2,8,9,1,0,88.89,"12,14",2.0,12,4,0,15,0,1,0,0,0,0,0,7.5,1,0,0,0,0,12,4,8,24
+['2018-04-23'],ICC World Twenty20 Asia Region Qualifier A,1142214,Qatar,2,41,33,4,0,124.24,"7,9,11,13",4.0,24,6,0,22,1,0,2,0,2,0,0,5.5,0,0,0,0,0,61,76,0,137
+['2018-04-21'],ICC World Twenty20 Asia Region Qualifier A,1142211,Qatar,3,24,25,3,0,96.0,"10,12,14,16",4.0,24,12,0,22,3,0,4,0,1,0,0,5.5,0,0,0,0,0,36,132,0,168
+['2018-04-20'],ICC World Twenty20 Asia Region Qualifier A,1142210,Qatar,3,22,29,1,0,75.86,"6,8,10",3.0,18,3,0,28,0,2,1,0,1,0,0,9.33,0,0,0,0,0,26,36,0,62
+['2016-09-29'],Kenya T20 Quadrangular Series,1059539,Qatar,3,31,31,1,2,100.0,"2,4,6,17",4.0,24,10,0,35,5,1,2,0,0,0,1,8.75,1,0,0,0,0,51,60,8,119

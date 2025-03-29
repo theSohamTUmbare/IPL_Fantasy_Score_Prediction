@@ -1,0 +1,18 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-12-16'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462909,Bahamas,1,3,9,0,0,33.33,"1,3,5,18",4.0,24,15,0,18,2,0,2,1,0,0,1,4.5,0,0,0,0,0,3,79,0,82
+['2024-12-15'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462906,Bahamas,1,31,25,5,1,124.0,"2,4,6,13",4.0,24,13,0,23,2,1,1,1,0,0,0,5.75,0,0,0,0,0,61,50,0,111
+['2024-12-14'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462901,Bahamas,1,0,2,0,0,0.0,"2,4,6,14",4.0,24,15,0,14,0,0,1,1,0,0,1,3.5,0,0,0,0,0,-2,54,0,52
+['2024-12-12'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462898,Bahamas,1,16,30,1,0,53.33,"2,4,6,12",4.0,24,14,0,9,0,0,0,0,0,0,0,2.25,0,0,0,0,-4,16,20,0,36
+['2024-12-11'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462893,Bahamas,1,7,10,1,0,70.0,"2,4,6,19",4.0,24,13,0,18,2,0,1,0,1,0,1,4.5,2,0,0,0,-2,9,52,16,77
+['2024-12-10'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462889,Bahamas,1,0,5,0,0,0.0,"2,4,6,18",4.0,24,12,1,23,2,0,0,0,0,0,2,5.75,0,0,0,0,0,-2,28,0,26
+['2024-12-08'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462885,Bahamas,1,41,27,3,3,151.85,"2,4,6,18",4.0,24,12,0,16,1,0,0,0,0,0,0,4.0,0,0,0,0,4,79,18,0,97
+['2024-12-06'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462878,Bahamas,1,22,28,1,0,78.57,"2,4,15",3.0,18,10,0,13,1,0,2,1,1,0,1,4.33,0,0,0,0,0,26,82,0,108
+['2023-03-04'],ICC Men's T20 World Cup Americas Region Qualifier,1359800,Bahamas,1,3,14,0,0,21.43,"2,4",2.0,12,5,0,23,3,1,0,0,0,1,1,11.5,1,0,0,0,-6,-3,1,8,6
+['2023-03-02'],ICC Men's T20 World Cup Americas Region Qualifier,1359798,Bahamas,1,2,9,0,0,22.22,"5,7,9,11",4.0,24,16,0,17,0,0,3,0,0,0,5,4.25,1,0,0,0,0,2,101,8,111
+['2023-02-28'],ICC Men's T20 World Cup Americas Region Qualifier,1359788,Bahamas,1,35,37,4,1,94.59,"9,11,13,15",4.0,24,11,0,19,0,1,1,0,0,0,0,4.75,2,0,0,0,0,61,42,16,119
+['2023-02-26'],ICC Men's T20 World Cup Americas Region Qualifier,1359792,Bahamas,1,49,32,6,3,153.12,"9,11,13,15",4.0,24,13,0,26,2,0,1,0,1,0,3,6.5,0,0,0,0,4,99,48,0,147
+['2021-11-13'],ICC Men's T20 World Cup Americas Region Qualifier,1286682,Bahamas,1,9,24,1,0,37.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,7,0,0,7
+['2021-11-13'],ICC Men's T20 World Cup Americas Region Qualifier,1286684,Bahamas,1,6,6,1,0,100.0,"9,11",2.0,12,5,0,12,2,0,1,0,0,0,0,6.0,0,0,0,0,0,10,32,0,42
+['2021-11-10'],ICC Men's T20 World Cup Americas Region Qualifier,1286677,Bahamas,1,1,7,0,0,14.29,8,1.0,6,1,0,17,2,1,0,0,0,0,1,17.0,1,0,0,0,0,1,1,8,10
+['2021-11-08'],ICC Men's T20 World Cup Americas Region Qualifier,1286671,Bahamas,1,60,37,2,6,162.16,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,116,0,0,116
+['2010-06-05'],ICC World Cricket League Americas Region Division One Twenty20,460058,Bahamas,1,34,43,4,0,79.07,"7,9,11,13",4.0,24,11,0,21,0,1,2,0,0,0,0,5.25,1,0,0,0,0,54,65,8,127

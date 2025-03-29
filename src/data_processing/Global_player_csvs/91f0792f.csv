@@ -1,0 +1,7 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-07-14'],Ireland v Zimbabwe,1168522,Ireland,5,32,30,5,0,106.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,56,0,8,64
+['2019-07-12'],Zimbabwe tour of Netherlands and Ireland,1168521,Ireland,9,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2017-01-20'],Desert T20 Challenge,1074970,Ireland,7,0,2,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2017-01-18'],Desert T20 Challenge,1074965,Ireland,6,17,14,1,1,121.43,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27
+['2017-01-17'],Desert T20 Challenge,1074963,Ireland,6,17,21,1,0,80.95,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,21,0,8,29
+['2016-09-05'],Hong Kong in Ireland T20I Series,1004729,Ireland,6,44,32,7,0,137.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,2,78,0,12,90

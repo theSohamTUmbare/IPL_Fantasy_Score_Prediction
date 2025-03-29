@@ -1,0 +1,13 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-11-14'],England tour of West Indies,1433375,West Indies,11,0,0,0,0,0.0,"7,16,20",2.333,14,4,0,30,3,1,1,0,0,0,4,12.86,0,0,0,0,0,0,23,0,23
+['2024-11-10'],England tour of West Indies,1433374,West Indies,10,5,3,1,0,166.67,"11,14",2.0,12,3,0,24,3,1,0,0,0,0,2,12.0,0,0,0,0,0,9,-1,0,8
+['2024-09-18'],Caribbean Premier League,1428696,Trinbago Knight Riders,10,0,0,0,0,0.0,"14,16",2.0,12,2,0,24,1,2,0,0,0,0,1,12.0,0,0,0,0,0,0,-2,0,-2
+['2024-09-13'],Caribbean Premier League,1428692,Trinbago Knight Riders,9,14,5,1,1,280.0,"5,12,16,19",4.0,24,8,0,50,4,4,0,0,0,0,1,12.5,0,0,0,0,0,24,2,0,26
+['2024-09-10'],Caribbean Premier League,1428689,Trinbago Knight Riders,11,0,0,0,0,0.0,"9,15,17,19",4.0,24,11,0,40,3,2,1,0,0,1,3,10.0,0,0,0,0,0,0,34,0,34
+['2024-09-05'],Caribbean Premier League,1428685,Trinbago Knight Riders,8,4,4,0,0,100.0,"4,10,18,20",4.0,24,4,0,36,2,1,1,0,0,0,2,9.0,0,0,0,0,0,4,29,0,33
+['2024-08-31'],Caribbean Premier League,1428680,Trinbago Knight Riders,11,0,0,0,0,0.0,"5,9,15,18",4.0,24,11,0,42,4,2,1,0,0,0,6,10.5,0,0,0,0,0,0,34,0,34
+['2023-09-20'],Caribbean Premier League,1369589,Trinbago Knight Riders,9,0,0,0,0,0.0,"6,14,16,19",4.0,24,8,0,32,3,1,2,0,0,0,1,8.0,0,0,0,0,0,0,58,0,58
+['2023-09-16'],Caribbean Premier League,1369585,Trinbago Knight Riders,9,1,3,0,0,33.33,"3,5,11,13",4.0,24,12,0,26,4,0,1,0,0,0,2,6.5,0,0,0,0,0,1,39,0,40
+['2023-09-05'],Caribbean Premier League,1369576,Trinbago Knight Riders,8,4,2,1,0,200.0,8,1.0,6,2,0,14,0,2,0,0,0,0,0,14.0,0,0,0,0,0,8,2,0,10
+['2022-09-07'],Caribbean Premier League,1323151,Trinbago Knight Riders,10,0,0,0,0,0.0,"5,8,18",3.0,18,3,0,43,4,3,0,0,0,0,1,14.33,0,0,0,0,0,0,-3,0,-3
+['2018-09-07'],Caribbean Premier League,1148674,Trinbago Knight Riders,8,0,0,0,0,0.0,"10,12",2.0,12,2,0,21,3,0,0,0,0,0,3,10.5,0,0,0,0,0,0,0,0,0

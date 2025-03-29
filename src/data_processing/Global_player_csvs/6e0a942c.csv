@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2015-01-27'],ACC Twenty20 Cup,811125,Malaysia,4,28,25,3,0,112.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,44,0,0,44
+['2015-01-26'],ACC Twenty20 Cup,811119,Malaysia,6,6,8,0,0,75.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6
+['2015-01-25'],ACC Twenty20 Cup,811111,Malaysia,4,8,14,0,0,57.14,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,4,0,0,4

@@ -1,0 +1,9 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-10-03'],Canada T20 Tri-Series,1450828,Canada,8,0,0,0,0,0.0,"5,7,9,11",4.0,24,17,0,9,1,0,3,2,0,0,0,2.25,0,0,0,0,0,0,118,0,118
+['2024-10-01'],Canada T20 Tri-Series,1450826,Canada,10,0,0,0,0,0.0,"6,8,14,16",4.0,24,10,0,24,3,0,1,0,0,0,0,6.0,0,0,0,0,0,0,37,0,37
+['2024-09-30'],Canada T20 Tri-Series,1450825,Canada,9,4,8,0,0,50.0,"2,4,6,8",4.0,24,16,0,21,4,0,0,0,0,0,0,5.25,1,0,0,0,0,4,20,8,32
+['2024-09-28'],Canada T20 Tri-Series,1450823,Canada,9,19,13,0,2,146.15,"2,4,13",3.0,18,12,0,16,0,2,1,0,0,0,0,5.33,0,0,0,0,2,33,41,0,74
+['2024-08-27'],Netherlands Tri-Nation T20I Series,1446765,Canada,10,0,0,0,0,0.0,"5,7,9,11",4.0,24,13,0,22,2,1,0,0,0,0,0,5.5,1,0,0,0,0,0,17,8,25
+['2024-08-26'],Netherlands Tri-Nation T20I Series,1446764,Canada,6,4,8,0,0,50.0,"7,9,11,13",4.0,24,16,1,10,0,0,2,0,1,0,1,2.5,0,0,0,1,0,4,92,6,102
+['2024-08-24'],Netherlands Tri-Nation T20I Series,1446762,Canada,11,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2024-04-09'],Canada tour of United States of America,1425122,Canada,8,0,3,0,0,0.0,"9,11,13",3.0,18,6,0,33,1,3,1,0,0,0,0,11.0,0,0,0,0,0,-2,29,0,27

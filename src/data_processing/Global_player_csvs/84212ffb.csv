@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-02-27'],Sri Lanka tour of India,1278686,Sri Lanka,4,9,19,0,0,47.37,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,3,0,0,3
+['2022-02-24'],Sri Lanka tour of India,1278684,Sri Lanka,3,11,17,0,0,64.71,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,9,0,8,17
+['2022-02-20'],Sri Lanka tour of Australia,1263475,Sri Lanka,5,8,9,0,0,88.89,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8

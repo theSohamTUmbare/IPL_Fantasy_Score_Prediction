@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2013-11-21'],New Zealand in Sri Lanka T20I Series,668969,New Zealand,9,2,1,0,0,200.0,"6,15",2.0,12,3,0,15,2,0,0,0,0,0,0,7.5,0,0,0,0,0,2,3,0,5
+['2013-02-09'],England in New Zealand T20I Series,569237,New Zealand,8,4,5,0,0,80.0,"8,12,19",3.0,18,3,0,40,3,3,2,0,0,0,1,13.33,0,0,0,0,0,4,47,0,51
+['2012-10-30'],NA,582186,New Zealand,7,16,10,1,1,160.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,30,0,0,30
+['2012-07-01'],New Zealand v West Indies T20I Series,560922,New Zealand,9,1,3,0,0,33.33,"6,10,18,20",4.0,24,3,0,40,2,2,0,0,0,0,1,10.0,0,0,0,0,0,1,1,0,2
+['2012-02-14'],Zimbabwe in New Zealand T20I Series,520596,New Zealand,6,2,2,0,0,100.0,8,1.0,6,2,0,10,0,1,0,0,0,0,0,10.0,0,0,0,0,0,2,2,0,4

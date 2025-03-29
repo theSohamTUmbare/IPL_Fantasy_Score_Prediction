@@ -1,0 +1,40 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-06-17'],ICC Men's T20 World Cup,1415739,Papua New Guinea,7,5,7,1,0,71.43,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17
+['2024-06-05'],ICC Men's T20 World Cup,1415709,Papua New Guinea,7,12,20,0,1,60.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,16,0,0,16
+['2024-06-02'],ICC Men's T20 World Cup,1415702,Papua New Guinea,7,27,18,3,0,150.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,43,0,16,59
+['2024-03-17'],Papua New Guinea tour of Malaysia,1425111,Papua New Guinea,6,3,5,0,0,60.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11
+['2024-03-16'],Papua New Guinea tour of Malaysia,1425110,Papua New Guinea,6,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2024-03-13'],Nepal tour of Hong Kong,1423444,Papua New Guinea,8,14,14,1,1,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
+['2024-03-12'],Nepal tour of Hong Kong,1423441,Papua New Guinea,7,8,10,1,0,80.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,1,0,12,0,22,34
+['2024-03-12'],Hong Kong Men's T20I Series,1423442,Papua New Guinea,3,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,0,20,20
+['2024-03-08'],Papua New Guinea tour of Oman,1423374,Papua New Guinea,7,4,7,0,0,57.14,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+['2024-03-07'],Papua New Guinea tour of Oman,1423373,Papua New Guinea,8,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2023-09-24'],Malaysia Tri-Nation T20I Series,1398300,Papua New Guinea,6,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,-2,0,14,12
+['2023-09-23'],Malaysia Tri-Nation T20I Series,1398299,Papua New Guinea,2,9,19,1,0,47.37,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,2,0,0,-6,7,0,24,31
+['2023-09-20'],Malaysia Tri-Nation T20I Series,1398296,Papua New Guinea,3,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2023-07-29'],ICC Men's T20 World Cup East Asia-Pacific Qualifier,1383100,Papua New Guinea,3,1,3,0,0,33.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,1,0,12,13
+['2023-07-26'],ICC Men's T20 World Cup East Asia-Pacific Qualifier,1383095,Papua New Guinea,2,8,10,0,1,80.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,14,0,16,30
+['2023-07-25'],ICC Men's T20 World Cup East Asia-Pacific Qualifier,1383094,Papua New Guinea,2,1,2,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2023-07-22'],ICC Men's T20 World Cup East Asia-Pacific Qualifier,1383090,Papua New Guinea,2,32,18,5,1,177.78,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,68,0,16,84
+['2021-10-21'],ICC Men's T20 World Cup,1273720,Papua New Guinea,8,46,33,2,2,139.39,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,72,0,0,72
+['2021-10-19'],ICC Men's T20 World Cup,1273716,Papua New Guinea,8,18,11,1,1,163.64,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,4,32,0,6,38
+['2021-10-17'],ICC Men's T20 World Cup,1273712,Papua New Guinea,8,0,2,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2021-10-10'],Namibia v Papua New Guinea T20I Match,1280059,Papua New Guinea,7,9,11,0,0,81.82,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17
+['2021-10-08'],Papua New Guinea v Scotland T20I Match,1280063,Papua New Guinea,4,4,11,0,0,36.36,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2
+['2019-11-02'],ICC Men's T20 World Cup Qualifier,1199549,Papua New Guinea,6,3,6,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2019-11-01'],ICC Men's T20 World Cup Qualifier,1199547,Papua New Guinea,6,10,12,0,1,83.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
+['2019-10-27'],ICC Men's T20 World Cup Qualifier,1199536,Papua New Guinea,7,4,5,0,0,80.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12
+['2019-10-25'],ICC Men's T20 World Cup Qualifier,1199529,Papua New Guinea,6,43,27,2,2,159.26,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,4,71,0,12,83
+['2019-10-24'],ICC Men's T20 World Cup Qualifier,1199525,Papua New Guinea,6,3,4,0,0,75.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11
+['2019-10-21'],ICC Men's T20 World Cup Qualifier,1199512,Papua New Guinea,8,6,6,0,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6
+['2019-10-20'],ICC Men's T20 World Cup Qualifier,1199508,Papua New Guinea,7,4,1,1,0,400.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+['2019-10-19'],ICC Men's T20 World Cup Qualifier,1199503,Papua New Guinea,6,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2019-03-24'],ICC World Twenty20 East Asia-Pacific Region Final,1176797,Papua New Guinea,6,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2019-03-23'],ICC World Twenty20 East Asia-Pacific Region Final,1176795,Papua New Guinea,3,24,24,0,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,24,0,8,32
+['2019-03-22'],ICC World Twenty20 East Asia-Pacific Region Final,1176792,Papua New Guinea,7,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2019-03-22'],ICC World Twenty20 East Asia-Pacific Region Final,1176793,Papua New Guinea,7,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2018-08-29'],ICC World Twenty20 East Asia-Pacific Region Qualifier A,1155282,Papua New Guinea,6,10,12,0,0,83.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,10,0,20,30
+['2018-08-28'],ICC World Twenty20 East Asia-Pacific Region Qualifier A,1155281,Papua New Guinea,1,11,9,0,1,122.22,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
+"['2018-08-26', '2018-08-27']",ICC World Twenty20 East Asia-Pacific Region Qualifier A,1155277,Papua New Guinea,8,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0,0,28,28
+['2018-08-25'],ICC World Twenty20 East Asia-Pacific Region Qualifier A,1155273,Papua New Guinea,9,4,1,1,0,400.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+['2018-08-25'],ICC World Twenty20 East Asia-Pacific Region Qualifier A,1155274,Papua New Guinea,8,5,6,0,0,83.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5

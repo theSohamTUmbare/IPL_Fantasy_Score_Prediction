@@ -1,0 +1,10 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-06-09'],Vitality Blast,1347630,Northamptonshire,8,2,3,0,0,66.67,4,1.0,6,1,0,17,2,1,0,0,0,0,0,17.0,1,0,0,0,0,2,1,8,11
+['2023-06-06'],Vitality Blast,1347619,Northamptonshire,9,8,5,1,0,160.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+['2023-06-04'],Vitality Blast,1347618,Northamptonshire,9,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2023-06-02'],Vitality Blast,1347605,Northamptonshire,9,0,0,0,0,0.0,"11,19",2.0,12,3,0,21,1,1,0,0,0,2,1,10.5,0,0,0,0,0,0,1,0,1
+['2023-05-31'],Vitality Blast,1347596,Northamptonshire,10,0,0,0,0,0.0,"8,12",2.0,12,3,0,18,1,1,0,0,0,0,0,9.0,0,0,0,0,0,0,3,0,3
+['2023-05-29'],Vitality Blast,1347588,Northamptonshire,10,0,0,0,0,0.0,"7,9,11,17",4.0,24,14,0,16,2,0,1,0,1,0,0,4.0,0,0,0,0,0,0,53,0,53
+['2023-05-26'],Vitality Blast,1347579,Northamptonshire,11,5,2,1,0,250.0,"8,13",2.0,12,3,0,18,1,1,0,0,0,0,0,9.0,0,0,0,0,0,9,3,0,12
+['2023-05-24'],Vitality Blast,1347571,Northamptonshire,9,4,8,0,0,50.0,"7,11,14,17",4.0,24,6,0,35,2,1,0,0,0,0,4,8.75,1,0,0,0,0,4,6,8,18
+['2022-05-26'],Vitality Blast,1297796,Northamptonshire,8,11,9,0,1,122.22,"8,13",2.0,12,2,0,42,1,6,0,0,0,0,0,21.0,1,0,0,0,0,17,-4,8,21

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Chhattisgarh,Shashank Chandrakar,9c20688d,1,12,7,1,1,171.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
+Chhattisgarh,Harpreet Singh,28c78fb3,2,14,7,3,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,26,0,8,34
+Chhattisgarh,Shashank Singh,26989d80,3,14,8,1,1,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
+Chhattisgarh,Parivesh Dhar,3759f3c7,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Chhattisgarh,Vishal Kushwah,cc8531c2,4,20,7,2,1,285.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34
+Chhattisgarh,Amandeep Khare,6c6cc94c,5,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Chhattisgarh,Binny Samual,9b683f4d,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Chhattisgarh,SS Agarwal,b51f72a5,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Chhattisgarh,Ajay Mandal,31ee319e,7,0,0,0,0,0.0,[3],1.0,6,0,0,15,1,0,0,0,0,0,6,15.0,0,0,0,0,0,0,0,0,0
+Chhattisgarh,Sourabh Majumdar,30225730,8,0,0,0,0,0.0,"[1, 4]",1.667,10,2,0,18,3,0,2,0,0,0,1,10.8,0,0,0,0,0,0,52,0,52
+Chhattisgarh,V Pratap Singh,d718440b,9,0,0,0,0,0.0,[2],1.0,6,0,0,30,3,3,0,0,0,0,0,30.0,0,0,0,0,0,0,0,0,0
+Gujarat,Dhruv Raval,e635a5dd,1,19,10,3,0,190.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,37,0,0,37
+Gujarat,Urvil Patel,cf59b3f0,2,5,3,1,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
+Gujarat,RV Patel,60500956,3,32,9,3,3,355.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,66,0,0,66
+Gujarat,AR Patel,2e171977,4,0,0,0,0,0.0,[3],1.0,6,2,0,17,2,1,0,0,0,1,1,17.0,0,0,0,0,0,0,2,0,2
+Gujarat,A Nagwaswalla,01ada0ed,4,0,0,0,0,0.0,"[1, 5]",2.0,12,1,0,27,3,1,0,0,0,0,0,13.5,0,0,0,0,0,0,-5,0,-5
+Gujarat,Tejas Patel,76ed445f,5,0,0,0,0,0.0,[2],1.0,6,3,0,9,2,0,1,0,1,0,0,9.0,0,0,0,0,0,0,36,0,36
+Gujarat,PP Chawla,98ae73b1,6,0,0,0,0,0.0,[4],1.0,6,2,0,10,0,1,2,0,1,0,0,10.0,1,0,0,0,0,0,60,8,68
+Gujarat,Chintan Gaja,63bfb5fc,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Gujarat,Chirag Gandhi,35eb75af,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Gujarat,Karan Patel,a18da10f,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Gujarat,MC Juneja,605b7efa,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0

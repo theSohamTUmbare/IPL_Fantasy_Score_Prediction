@@ -1,0 +1,13 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2016-01-18'],Big Bash League,897757,Melbourne Renegades,7,1,2,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+['2016-01-11'],Big Bash League,897747,Melbourne Renegades,5,6,5,1,0,120.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+['2016-01-09'],Big Bash League,897741,Melbourne Renegades,7,29,18,4,0,161.11,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,53,0,0,53
+['2016-01-04'],Big Bash League,897731,Melbourne Renegades,3,5,6,0,0,83.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
+['2016-01-02'],Big Bash League,897725,Melbourne Renegades,6,12,6,1,1,200.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
+['2015-12-30'],Big Bash League,897719,Melbourne Renegades,6,2,1,0,0,200.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2015-12-23'],Big Bash League,897709,Melbourne Renegades,6,41,23,2,2,178.26,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,71,0,0,71
+['2015-12-19'],Big Bash League,897699,Melbourne Renegades,6,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2015-01-19'],Big Bash League,756793,Melbourne Renegades,7,23,11,0,2,209.09,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,41,0,0,41
+['2015-01-13'],Big Bash League,756785,Melbourne Renegades,7,31,16,2,2,193.75,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,61,0,0,61
+['2015-01-10'],Big Bash League,756777,Melbourne Renegades,5,34,29,4,0,117.24,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,54,0,0,54
+['2015-01-07'],Big Bash League,756789,Melbourne Renegades,7,10,10,0,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10

@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2021-05-23'],Central Europe Cup,1263713,Czech Republic,7,0,0,0,0,0.0,"6,8,10",3.0,18,2,0,36,2,2,1,0,0,0,0,12.0,1,0,0,0,0,0,23,8,31
+['2021-05-22'],Central Europe Cup,1263710,Czech Republic,7,5,7,0,0,71.43,"6,8,10,12",4.0,24,7,0,29,3,0,1,0,0,0,1,7.25,0,0,0,0,0,5,32,0,37
+['2021-05-22'],Central Europe Cup,1263711,Czech Republic,10,0,0,0,0,0.0,"10,12,14",3.0,18,4,0,29,1,2,2,1,1,0,0,9.67,0,0,0,0,0,0,70,0,70
+['2021-05-21'],Central Europe Cup,1263708,Czech Republic,5,0,0,0,0,0.0,"8,10,12,14",4.0,24,10,0,19,1,0,2,0,2,0,0,4.75,0,0,0,0,0,0,82,0,82

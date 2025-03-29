@@ -1,0 +1,8 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2013-03-02'],Ram Slam T20 Challenge,575167,Dolphins,4,8,4,0,1,200.0,"7,15,17",3.0,18,4,0,28,0,2,0,0,0,0,1,9.33,0,0,0,0,0,14,4,0,18
+['2013-02-27'],Ram Slam T20 Challenge,575165,Dolphins,8,0,0,0,0,0.0,2,1.0,6,3,0,12,1,1,0,0,0,0,1,12.0,0,0,0,0,0,0,3,0,3
+['2012-03-16'],MiWAY T20 Challenge,530357,Dolphins,6,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2012-03-14'],MiWAY T20 Challenge,530352,Dolphins,1,14,20,1,0,70.0,"8,18,20",3.0,18,8,0,21,1,1,4,0,1,0,2,7.0,0,0,0,0,-2,16,126,0,142
+['2012-03-02'],MiWAY T20 Challenge,530339,Dolphins,3,2,6,0,0,33.33,10,1.0,6,0,0,9,1,0,0,0,0,0,0,9.0,0,0,0,0,0,2,0,0,2
+['2012-02-24'],MiWAY T20 Challenge,530330,Dolphins,3,0,2,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2012-02-19'],MiWAY T20 Challenge,530325,Dolphins,3,34,30,4,0,113.33,"8,10",2.0,12,3,0,14,0,1,1,0,0,0,0,7.0,1,0,0,0,0,54,30,8,92

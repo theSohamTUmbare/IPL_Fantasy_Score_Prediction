@@ -1,0 +1,12 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2015-06-28'],Caribbean Premier League,857717,St Lucia Zouks,8,0,4,0,0,0.0,10,1.0,6,1,0,23,1,3,0,0,0,0,0,23.0,0,0,0,0,0,-2,1,0,-1
+['2014-08-10'],Caribbean Premier League,743187,St Lucia Zouks,10,0,0,0,0,0.0,"9,11",2.0,12,3,0,13,1,0,0,0,0,0,2,6.5,0,0,0,0,0,0,5,0,5
+['2014-08-09'],Caribbean Premier League,743183,St Lucia Zouks,8,0,0,0,0,0.0,"9,11",2.0,12,4,0,20,2,1,1,0,0,0,0,10.0,0,0,0,0,0,0,27,0,27
+['2014-08-03'],Caribbean Premier League,743177,St Lucia Zouks,10,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2014-08-02'],Caribbean Premier League,743173,St Lucia Zouks,9,3,4,0,0,75.0,"8,10,12",3.0,18,4,0,30,1,2,0,0,0,0,2,10.0,0,0,0,0,0,3,2,0,5
+['2014-07-31'],Caribbean Premier League,743169,St Lucia Zouks,5,33,39,4,0,84.62,"8,10,12,14",4.0,24,8,0,22,1,0,0,0,0,0,2,5.5,0,0,0,0,0,53,12,0,65
+['2013-08-17'],Caribbean Premier League,635234,St Lucia Zouks,8,0,0,0,0,0.0,"16,18",1.833,11,5,0,17,2,1,0,0,0,0,0,9.27,0,0,0,0,0,0,5,0,5
+['2013-08-15'],Caribbean Premier League,635231,St Lucia Zouks,8,0,0,0,0,0.0,2,1.0,6,2,0,8,1,0,0,0,0,0,1,8.0,0,0,0,0,0,0,2,0,2
+['2013-08-10'],Caribbean Premier League,635226,St Lucia Zouks,8,2,2,0,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
+['2013-08-06'],Caribbean Premier League,635222,St Lucia Zouks,8,25,18,3,0,138.89,8,1.0,6,1,0,12,2,0,0,0,0,0,0,12.0,0,0,0,0,2,43,1,0,44
+['2013-08-04'],Caribbean Premier League,635221,St Lucia Zouks,11,0,0,0,0,0.0,"12,15",2.0,12,7,0,8,1,0,0,0,0,0,0,4.0,0,0,0,0,0,0,13,0,13

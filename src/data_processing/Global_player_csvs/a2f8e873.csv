@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-10-13'],Rwanda tour of Malawi,1454388,Malawi,10,6,6,0,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,6,0,8,14
+['2024-10-10'],Rwanda tour of Malawi,1454385,Malawi,11,2,10,0,0,20.0,14,1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,-6,-4,1,0,-3
+['2024-10-09'],Rwanda tour of Malawi,1454384,Malawi,11,1,2,0,0,50.0,"5,7,9",3.0,18,10,0,19,1,1,1,0,0,0,1,6.33,0,0,0,0,0,1,37,0,38

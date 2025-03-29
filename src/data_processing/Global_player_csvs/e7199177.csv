@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-10-19'],CSA T20 Challenge,1444791,Dolphins,7,1,1,0,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2024-10-16'],CSA T20 Challenge,1444786,Dolphins,6,25,24,0,1,104.17,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,35,0,8,43
+['2024-10-13'],CSA T20 Challenge,1444783,Dolphins,2,7,7,1,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
+['2024-10-04'],CSA T20 Challenge,1444770,Dolphins,3,0,2,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2024-09-29'],CSA T20 Challenge,1444768,Dolphins,3,15,10,1,1,150.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25

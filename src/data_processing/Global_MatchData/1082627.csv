@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Kolkata Knight Riders,SP Narine,9d430b40,1,1,4,0,0,25.0,"[5, 12, 16]",3.0,18,2,0,37,4,1,0,0,0,0,1,12.33,0,0,0,0,0,1,-4,0,-3
+Kolkata Knight Riders,G Gambhir,bb345e0b,2,11,11,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,19,0,8,27
+Kolkata Knight Riders,RV Uthappa,1c17e270,3,53,28,4,4,189.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,6,107,0,6,113
+Kolkata Knight Riders,MK Pandey,93b4fc78,4,39,29,3,0,134.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,57,0,0,57
+Kolkata Knight Riders,YK Pathan,3c6ffae8,5,12,13,0,0,92.31,[4],1.0,6,1,0,17,2,1,0,0,0,0,0,17.0,0,0,0,0,0,12,1,0,13
+Kolkata Knight Riders,SP Jackson,acc1aeda,6,16,17,1,0,94.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
+Kolkata Knight Riders,C de Grandhomme,94d7f855,7,18,15,1,1,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
+Kolkata Knight Riders,CR Woakes,4c5d73db,8,6,3,1,0,200.0,"[3, 13, 17, 19]",4.0,24,8,0,46,5,2,1,0,0,0,1,11.5,0,0,0,0,0,10,29,0,39
+Kolkata Knight Riders,NM Coulter-Nile,56ab442f,8,0,0,0,0,0.0,"[1, 9, 18, 20]",4.0,24,6,0,34,2,1,0,0,0,0,1,8.5,0,0,0,1,0,0,6,6,12
+Kolkata Knight Riders,UT Yadav,cc1e8c68,9,0,0,0,0,0.0,"[2, 7, 11, 15]",4.0,24,10,0,30,1,2,0,0,0,0,0,7.5,0,0,0,0,0,0,10,0,10
+Kolkata Knight Riders,Kuldeep Yadav,8d2c70ad,10,0,0,0,0,0.0,"[6, 8, 10, 14]",4.0,24,5,0,43,3,2,0,0,0,0,3,10.75,0,0,1,0,0,0,3,12,15
+Sunrisers Hyderabad,DA Warner,dcce6f09,1,126,59,10,8,213.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,236,0,16,252
+Sunrisers Hyderabad,S Dhawan,0a476045,2,29,30,2,1,96.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,47,0,0,47
+Sunrisers Hyderabad,KS Williamson,d027ba9f,3,40,25,5,0,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,68,0,0,68
+Sunrisers Hyderabad,Yuvraj Singh,1c914163,4,6,6,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6
+Sunrisers Hyderabad,MC Henriques,32198ae0,8,0,0,0,0,0.0,"[6, 8, 12]",3.0,18,1,0,31,1,2,0,0,0,0,0,10.33,0,0,0,0,0,0,-1,0,-1
+Sunrisers Hyderabad,NV Ojha,890946a0,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Sunrisers Hyderabad,Bipul Sharma,c18496e1,10,0,0,0,0,0.0,[10],1.0,6,0,0,10,0,0,0,0,0,0,1,10.0,0,0,0,0,0,0,0,0,0
+Sunrisers Hyderabad,B Kumar,2e81a32d,11,0,0,0,0,0.0,"[1, 11, 17, 19]",4.0,24,6,0,29,3,0,2,0,0,0,0,7.25,1,0,0,0,0,0,56,8,64
+Sunrisers Hyderabad,Rashid Khan,5f547c8b,12,0,0,0,0,0.0,"[7, 9, 14, 16]",4.0,24,7,0,38,2,2,1,0,0,0,3,9.5,3,0,0,0,0,0,32,28,60
+Sunrisers Hyderabad,S Kaul,dcf81436,13,0,0,0,0,0.0,"[3, 5, 15, 20]",4.0,24,11,0,26,4,0,2,0,0,0,0,6.5,1,0,0,0,0,0,63,8,71
+Sunrisers Hyderabad,Mohammed Siraj,2f49c897,14,0,0,0,0,0.0,"[2, 4, 13, 18]",4.0,24,12,0,26,2,1,2,0,0,0,0,6.5,0,0,0,0,0,0,64,0,64

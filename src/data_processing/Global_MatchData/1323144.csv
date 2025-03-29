@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Jamaica Tallawahs,BA King,7fca84b7,1,89,57,8,6,156.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,173,0,0,173
+Jamaica Tallawahs,K Lewis,b0081e62,2,48,46,0,6,104.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,88,0,0,88
+Jamaica Tallawahs,R Powell,650d5e49,3,30,15,1,3,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,62,0,0,62
+Jamaica Tallawahs,FA Allen,b52ffbbd,4,3,2,0,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11
+Jamaica Tallawahs,AA Jangoo,88626ed2,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
+Jamaica Tallawahs,SSJ Brooks,977b841a,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Jamaica Tallawahs,Imad Wasim,9cb8d7a6,12,0,0,0,0,0.0,"[4, 6, 8, 16]",4.0,24,13,0,20,2,0,2,0,1,0,1,5.0,0,0,0,0,0,0,75,0,75
+Jamaica Tallawahs,CJ Green,19b9f399,13,0,0,0,0,0.0,"[2, 10, 12, 14]",4.0,24,9,0,21,0,1,0,0,0,0,0,5.25,1,0,0,0,0,0,13,8,21
+Jamaica Tallawahs,Mohammad Amir,e174dadd,14,0,0,0,0,0.0,"[1, 3, 13, 18]",4.0,24,11,0,23,0,1,1,0,0,0,4,5.75,1,0,0,0,0,0,40,8,48
+Jamaica Tallawahs,M Pretorius,54c2b697,15,0,0,0,0,0.0,"[5, 9, 17, 20]",4.0,24,5,0,35,2,2,2,0,0,0,0,8.75,0,0,0,0,0,0,55,0,55
+Jamaica Tallawahs,NA Gordon,59377a7f,16,0,0,0,0,0.0,"[7, 11, 15, 19]",4.0,24,10,0,32,1,3,3,0,0,0,0,8.0,1,0,0,0,0,0,89,8,97
+St Kitts and Nevis Patriots,ADS Fletcher,1bae756b,1,31,34,2,1,91.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,49,0,0,49
+St Kitts and Nevis Patriots,E Lewis,0ebfb1ad,2,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+St Kitts and Nevis Patriots,D Brevis,844e79d1,3,14,11,1,1,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
+St Kitts and Nevis Patriots,DM Bravo,14b14cd8,4,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+St Kitts and Nevis Patriots,SE Rutherford,d014d5ac,5,33,22,0,4,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,61,0,0,61
+St Kitts and Nevis Patriots,DJ Bravo,87e562a9,6,13,10,0,1,130.0,"[10, 14, 18, 20]",4.0,24,9,0,46,1,4,1,0,0,0,7,11.5,0,0,0,0,2,21,30,0,51
+St Kitts and Nevis Patriots,D Pretorius,11614d87,7,3,2,0,0,150.0,"[8, 12, 16, 19]",4.0,24,5,0,39,3,2,0,0,0,0,1,9.75,0,0,0,0,0,3,5,0,8
+St Kitts and Nevis Patriots,D Jansen,8dc152d1,8,8,8,1,0,100.0,"[1, 3, 5, 17]",4.0,24,15,1,18,0,2,0,0,0,0,0,4.5,1,0,0,0,0,12,33,8,53
+St Kitts and Nevis Patriots,JC Carmichael,c8d45843,9,9,13,0,0,69.23,"[7, 9, 15]",3.0,18,11,1,22,0,3,1,0,0,0,0,7.33,0,0,0,0,-2,7,48,0,55
+St Kitts and Nevis Patriots,A Dananjaya,5b16a806,10,0,0,0,0,0.0,"[4, 11, 13]",3.0,18,8,0,32,3,2,0,0,0,0,3,10.67,0,0,0,0,0,0,6,0,6
+St Kitts and Nevis Patriots,JL Jaggesar,2b85c8e6,10,10,10,1,0,100.0,"[2, 6]",2.0,12,5,0,25,2,2,0,0,0,0,1,12.5,0,0,0,0,0,14,-1,0,13

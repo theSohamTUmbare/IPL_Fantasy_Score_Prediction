@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Melbourne Renegades,AJ Finch,b8d490fd,1,25,15,3,2,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,57,0,0,57
+Melbourne Renegades,BJ Hodge,b57f8a9a,2,72,51,5,3,141.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,120,0,0,120
+Melbourne Renegades,GJ Maxwell,b681e71e,3,3,3,0,0,100.0,"[1, 3, 7, 10]",4.0,24,10,0,21,2,0,1,0,1,0,1,5.25,0,0,0,0,0,3,47,0,50
+Melbourne Renegades,AB McDonald,16043342,4,60,37,0,7,162.16,"[9, 13]",2.0,12,2,0,19,2,0,0,0,0,0,0,9.5,0,0,0,0,4,114,2,0,116
+Melbourne Renegades,Shahid Afridi,0dc00542,4,0,0,0,0,0.0,"[8, 11, 14, 17]",4.0,24,5,0,23,1,0,1,0,0,0,0,5.75,0,0,0,0,0,0,34,0,34
+Melbourne Renegades,NJ Reardon,c7bdb5b5,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Melbourne Renegades,Abdul Razzaq,390ff45b,6,0,0,0,0,0.0,[15],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,0,1,0,1
+Melbourne Renegades,GA Manou,f58839ad,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,0,20,20
+Melbourne Renegades,SM Harwood,63bff7f9,8,0,0,0,0,0.0,"[12, 18, 20]",3.0,18,3,0,28,2,1,2,0,1,0,0,9.33,0,0,0,0,0,0,61,0,61
+Melbourne Renegades,DP Nannes,c404f58a,9,0,0,0,0,0.0,"[2, 4, 6, 19]",4.0,24,10,0,36,5,1,2,0,1,0,1,9.0,1,0,0,0,0,0,68,8,76
+Melbourne Renegades,SW Tait,addfb70e,10,0,0,0,0,0.0,"[5, 16]",2.0,12,5,0,21,1,2,0,0,0,0,0,10.5,0,0,0,0,0,0,3,0,3
+Sydney Sixers,DJ Bravo,87e562a9,1,7,10,1,0,70.0,"[13, 17]",2.0,12,4,0,12,0,1,0,0,0,0,0,6.0,0,0,0,0,-2,9,6,0,15
+Sydney Sixers,MJ Lumb,11df3dc8,2,25,22,4,0,113.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,45,0,0,45
+Sydney Sixers,NJ Maddinson,44afbf2d,3,29,21,5,0,138.1,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,55,0,8,63
+Sydney Sixers,B Lee,dd09ff8e,4,0,0,0,0,0.0,"[1, 3, 14, 18]",3.667,22,10,0,42,5,2,0,0,0,0,3,11.45,0,0,0,0,0,0,6,0,6
+Sydney Sixers,SPD Smith,30a45b23,4,25,23,0,1,108.7,"[8, 10, 12, 16]",4.0,24,8,0,37,0,4,0,0,0,0,0,9.25,0,0,0,0,0,35,8,0,43
+Sydney Sixers,MC Henriques,32198ae0,5,41,30,3,1,136.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,65,0,0,65
+Sydney Sixers,JR Hazlewood,03806cf8,5,0,0,0,0,0.0,"[2, 5]",2.0,12,6,0,19,2,1,1,0,0,0,0,9.5,0,0,0,0,0,0,31,0,31
+Sydney Sixers,SCG MacGill,60dac349,6,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,5,0,24,0,2,0,0,0,0,0,8.0,0,0,0,0,0,0,5,0,5
+Sydney Sixers,BJ Rohrer,27af6414,6,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+Sydney Sixers,PM Nevill,a22fb7b5,7,10,6,0,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
+Sydney Sixers,DJ Thornely,7d3937ed,8,15,6,1,1,250.0,"[4, 6, 15]",3.0,18,4,0,29,1,2,1,0,0,0,0,9.67,1,0,0,0,0,25,29,8,62

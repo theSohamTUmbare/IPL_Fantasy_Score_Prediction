@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Kolkata Knight Riders,Shubman Gill,b4b99816,1,9,8,2,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
+Kolkata Knight Riders,N Rana,fb2d1dda,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Kolkata Knight Riders,RA Tripathi,77255a9e,3,41,32,7,0,128.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,73,0,8,81
+Kolkata Knight Riders,SP Narine,9d430b40,4,0,4,0,0,0.0,"[4, 12, 14, 16]",4.0,24,10,0,22,1,1,2,0,1,0,0,5.5,1,0,0,0,0,-2,72,8,78
+Kolkata Knight Riders,EJG Morgan,d2a6c0e6,5,47,40,4,2,117.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,79,0,28,107
+Kolkata Knight Riders,AD Russell,bbd41817,6,10,9,2,0,111.11,[9],1.0,6,4,0,2,0,0,0,0,0,0,0,2.0,0,0,0,0,0,18,4,0,22
+Kolkata Knight Riders,PJ Cummins,ded9240e,7,0,0,0,0,0.0,"[2, 6, 19]",3.0,18,9,0,31,2,3,2,0,0,0,1,10.33,0,0,0,0,0,0,57,0,57
+Kolkata Knight Riders,KD Karthik,c03f1114,7,12,6,2,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,20,0,8,28
+Kolkata Knight Riders,Shivam Mavi,c38d3503,8,0,0,0,0,0.0,"[1, 3, 5, 7]",4.0,24,14,0,13,1,0,1,0,0,0,1,3.25,0,0,0,0,0,0,45,0,45
+Kolkata Knight Riders,CV Varun,5b7ab5a9,9,0,0,0,0,0.0,"[11, 13, 15, 17]",4.0,24,10,0,24,1,1,1,0,1,0,0,6.0,0,0,0,0,0,0,45,0,45
+Kolkata Knight Riders,M Prasidh Krishna,85e0cf10,10,0,0,0,0,0.0,"[8, 10, 18, 20]",4.0,24,12,0,30,0,3,3,0,1,0,2,7.5,0,0,0,0,0,0,99,0,99
+Punjab Kings,KL Rahul,b17e2f24,1,19,20,2,1,95.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33
+Punjab Kings,MA Agarwal,00ea847a,2,31,34,1,2,91.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,51,0,0,51
+Punjab Kings,CH Gayle,db584dad,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Punjab Kings,DJ Hooda,73ad96ed,4,1,4,0,0,25.0,"[11, 16]",2.0,12,3,0,20,2,1,1,0,0,0,0,10.0,0,0,0,0,0,1,26,0,27
+Punjab Kings,N Pooran,3241e3fd,5,19,19,1,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29
+Punjab Kings,MC Henriques,32198ae0,6,2,3,0,0,66.67,[1],1.0,6,4,0,5,1,0,1,0,0,0,0,5.0,0,0,0,0,0,2,29,0,31
+Punjab Kings,M Shahrukh Khan,7dcb9bc9,7,13,14,0,1,92.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,19,0,16,35
+Punjab Kings,CJ Jordan,ffe699c0,8,30,18,1,3,166.67,"[8, 10, 14]",3.0,18,7,0,24,4,0,0,0,0,0,0,8.0,0,0,0,0,4,60,7,0,67
+Punjab Kings,Ravi Bishnoi,df064e1a,9,1,4,0,0,25.0,"[7, 9, 13, 15]",4.0,24,8,0,19,1,0,0,0,0,0,0,4.75,1,0,0,0,0,1,14,8,23
+Punjab Kings,Mohammed Shami,8cf9814c,10,1,2,0,0,50.0,"[2, 4, 6, 12]",4.0,24,17,0,25,4,1,1,1,0,0,1,6.25,0,0,0,0,0,1,52,0,53
+Punjab Kings,Arshdeep Singh,244048f6,11,1,1,0,0,100.0,"[3, 5, 17]",2.667,16,4,0,27,5,0,1,0,0,0,0,10.12,0,0,0,0,0,1,27,0,28

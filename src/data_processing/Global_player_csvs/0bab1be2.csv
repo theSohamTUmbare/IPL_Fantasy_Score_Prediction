@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2021-11-07'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283050,Cameroon,8,13,20,1,0,65.0,"2,4,10",3.0,18,7,0,26,1,1,1,0,0,0,5,8.67,1,0,0,0,-2,15,32,8,55
+['2021-11-06'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283049,Cameroon,9,0,1,0,0,0.0,"2,10,12,16",4.0,24,9,0,42,5,2,3,0,0,0,1,10.5,0,0,0,0,0,-2,86,0,84
+['2021-11-05'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283046,Cameroon,8,1,6,0,0,16.67,"2,4",2.0,12,4,0,22,3,0,1,0,0,1,0,11.0,0,0,0,0,0,1,27,0,28
+['2021-11-03'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283044,Cameroon,7,2,4,0,0,50.0,"3,5,8,17",4.0,24,6,0,47,3,2,0,0,0,0,3,11.75,0,0,0,0,0,2,2,0,4

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Chhattisgarh,Rishabh Tiwari,bd74f1a7,1,5,4,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17
+Chhattisgarh,Shashank Chandrakar,9c20688d,2,27,14,4,1,192.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,1,0,6,59,0,40,99
+Chhattisgarh,Sanidhya Hurkat,083c2d59,3,1,8,0,0,12.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Chhattisgarh,Harpreet Singh,28c78fb3,4,41,27,5,2,151.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,81,0,0,81
+Chhattisgarh,Amandeep Khare,6c6cc94c,5,16,12,3,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,30,0,0,30
+Chhattisgarh,Shashank Singh,26989d80,6,19,25,1,0,76.0,[12],1.0,6,1,0,12,0,1,0,0,0,0,0,12.0,0,0,0,0,0,23,1,0,24
+Chhattisgarh,Vishal Kushwah,cc8531c2,7,37,22,1,4,168.18,"[9, 15, 18]",3.0,18,5,0,34,2,3,1,0,0,0,1,11.33,0,0,0,0,4,73,26,0,99
+Chhattisgarh,Ajay Mandal,31ee319e,8,29,11,2,3,263.64,"[1, 3, 5, 14, 16]",5.0,30,12,0,26,2,0,1,1,0,0,0,5.2,0,0,0,0,6,65,49,0,114
+Chhattisgarh,SS Agarwal,b51f72a5,9,2,2,0,0,100.0,"[4, 6, 8, 10]",4.0,24,8,0,25,2,0,1,1,0,0,0,6.25,0,0,0,0,0,2,43,0,45
+Chhattisgarh,Sourabh Majumdar,30225730,10,0,0,0,0,0.0,"[1, 11, 13, 20]",4.0,24,11,0,35,7,0,3,0,0,0,2,8.75,1,0,0,0,0,0,90,8,98
+Chhattisgarh,Parivesh Dhar,3759f3c7,10,0,1,0,0,0.0,"[2, 7, 17, 19]",4.0,24,7,0,29,3,0,1,0,0,0,3,7.25,0,0,0,0,0,0,32,0,32
+Uttarakhand,Jay Bista,f079e8fe,1,94,62,9,4,151.61,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,170,0,8,178
+Uttarakhand,Piyush Joshi,2123f6e8,2,3,8,0,0,37.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11
+Uttarakhand,Avneesh Sudha,126e8cb3,3,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,1,0,12,13
+Uttarakhand,Dikshanshu Negi,1f3febed,4,19,16,2,0,118.75,"[10, 12]",2.0,12,5,0,12,0,1,1,0,1,0,0,6.0,0,0,0,0,0,27,40,0,67
+Uttarakhand,Girish Rauturi,478bbd5f,5,0,1,0,0,0.0,"[8, 15, 19]",3.0,18,6,0,40,3,3,0,0,0,1,0,13.33,1,0,0,0,0,-2,0,8,6
+Uttarakhand,Vijay Sharma,6e8d1234,6,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,1,0,12,13
+Uttarakhand,Kunal Chandela,d38c03d4,7,26,21,4,0,123.81,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,46,0,16,62
+Uttarakhand,Iqbal Abdulla,85aae393,8,8,5,1,0,160.0,"[7, 13, 16]",3.0,18,6,0,28,2,2,0,0,0,0,0,9.33,0,0,0,0,0,12,6,0,18
+Uttarakhand,Mayank Mishra,de00b96c,9,3,5,0,0,60.0,"[5, 9, 11, 14]",4.0,24,12,0,26,2,1,2,0,0,0,2,6.5,2,0,0,0,0,3,64,16,83
+Uttarakhand,Akash Madhwal,4bd09374,10,0,0,0,0,0.0,"[1, 2, 4, 18, 20]",5.0,30,16,0,32,4,1,3,0,0,0,1,6.4,0,0,0,0,0,0,97,0,97
+Uttarakhand,Agrim Tiwari,beb2a972,11,0,0,0,0,0.0,"[1, 3, 6, 17]",4.0,24,9,0,44,6,2,2,0,0,0,1,11.0,0,0,0,0,0,0,57,0,57

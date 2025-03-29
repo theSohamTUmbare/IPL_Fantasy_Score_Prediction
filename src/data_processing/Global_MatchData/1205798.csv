@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Arunachal Pradesh,Samarth Seth,9fe56f2b,1,1,7,0,0,14.29,[14],1.0,6,3,0,4,0,0,1,0,0,0,0,4.0,0,0,0,0,0,1,28,0,29
+Arunachal Pradesh,Shashwat Kohli,f782103d,2,7,11,1,0,63.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,9,0,0,9
+Arunachal Pradesh,Neelam Obi,047fc26e,3,18,33,2,0,54.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,22,0,0,22
+Arunachal Pradesh,Rahul Dalal,802fdccf,4,62,45,5,3,137.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,2,0,0,2,110,0,32,142
+Arunachal Pradesh,Uvais Ahmad,c9d6f9f2,5,10,7,0,1,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
+Arunachal Pradesh,Akhilesh Sahani,d6ac52e8,6,8,9,1,0,88.89,"[2, 4, 11, 13]",4.0,24,7,0,33,4,0,2,1,0,0,2,8.25,0,0,0,0,0,12,65,0,77
+Arunachal Pradesh,Nabam Tempol,455a7563,6,0,0,0,0,0.0,"[5, 7]",2.0,12,3,0,17,0,1,0,0,0,0,1,8.5,0,0,0,0,0,0,3,0,3
+Arunachal Pradesh,Song Tacho,128d1861,7,6,7,0,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6
+Arunachal Pradesh,Techi Neri,d3885f28,7,0,0,0,0,0.0,"[6, 8, 10, 12]",4.0,24,10,0,27,2,1,1,0,0,0,0,6.75,0,0,0,0,0,0,37,0,37
+Arunachal Pradesh,Myendung Singpho,d2b99c2d,8,1,1,0,0,100.0,"[9, 15]",1.333,8,1,0,25,1,3,0,0,0,0,0,18.75,0,0,0,0,0,1,1,0,2
+Arunachal Pradesh,Licha Tehi,4b6cc6c2,8,0,0,0,0,0.0,"[1, 3]",2.0,12,6,0,9,1,0,0,0,0,0,1,4.5,0,0,0,0,0,0,12,0,12
+Himachal,Abhimanyu Rana,c224c5ef,1,41,38,2,2,107.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,65,0,0,65
+Himachal,P Chopra,8ac93ca2,2,0,1,0,0,0.0,[10],1.0,6,0,0,11,2,0,0,0,0,0,0,11.0,1,0,0,0,0,-2,0,8,6
+Himachal,AKS Bains,cb932841,3,10,9,1,0,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,14,0,8,22
+Himachal,EC Sen,8a0ae9da,4,51,30,4,3,170.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,97,0,8,105
+Himachal,AR Kumar,d1f63ad5,5,8,7,1,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20
+Himachal,R Dhawan,26a85969,6,1,1,0,0,100.0,"[6, 8, 17]",3.0,18,6,0,23,2,1,1,0,0,0,1,7.67,0,0,0,0,0,1,31,0,32
+Himachal,Kanwar Abhinay,7c2e7c17,6,0,0,0,0,0.0,"[1, 3, 11, 19]",4.0,24,15,0,12,1,0,0,0,0,0,0,3.0,0,0,0,0,0,0,21,0,21
+Himachal,Pankaj Jaswal,3bc10d5b,7,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,14,1,18,2,0,4,0,0,0,1,4.5,0,0,0,0,0,0,140,0,140
+Himachal,Ayush Jamwal,fcd1dd35,8,0,0,0,0,0.0,"[5, 7, 13, 15]",4.0,24,9,0,18,1,0,0,0,0,0,0,4.5,2,0,0,0,0,0,15,16,31
+Himachal,Mayank Dagar,a457cfb5,9,0,0,0,0,0.0,"[9, 12, 14, 16]",4.0,24,9,0,33,1,3,1,0,0,0,0,8.25,0,0,0,0,0,0,34,0,34
+Himachal,N A Sharma,5663eaa5,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0

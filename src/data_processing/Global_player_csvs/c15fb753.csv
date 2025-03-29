@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-07-19'],Vitality Blast,1410495,Yorkshire,2,12,5,2,0,240.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,20,0,8,28
+['2024-06-21'],Vitality Blast,1410434,Yorkshire,4,33,18,1,3,183.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,65,0,8,73
+['2023-06-04'],Vitality Blast,1347611,Yorkshire,3,7,6,1,0,116.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19
+['2023-06-01'],Vitality Blast,1347598,Yorkshire,3,4,8,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12
+['2023-05-30'],Vitality Blast,1347594,Yorkshire,3,0,3,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6

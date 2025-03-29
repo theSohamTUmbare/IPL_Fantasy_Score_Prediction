@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Delhi Daredevils,DPMD Jayawardene,d18f9182,1,4,4,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+Delhi Daredevils,V Sehwag,8ba8195d,2,23,21,2,1,109.52,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,37,0,0,37
+Delhi Daredevils,RE van der Merwe,05c2ca46,3,8,9,1,0,88.89,"[5, 7, 11, 15]",4.0,24,13,1,17,2,0,1,0,1,0,0,4.25,0,0,0,0,0,12,64,0,76
+Delhi Daredevils,DA Warner,dcce6f09,4,40,36,4,1,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,66,0,12,78
+Delhi Daredevils,MC Juneja,605b7efa,5,14,20,1,0,70.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,16,0,0,16
+Delhi Daredevils,KM Jadhav,99d63244,6,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Delhi Daredevils,A Nehra,96fd40ae,7,0,0,0,0,0.0,"[2, 14, 16]",3.0,18,5,0,28,3,1,1,0,0,0,0,9.33,0,0,0,0,0,0,30,0,30
+Delhi Daredevils,J Botha,7c503806,7,1,2,0,0,50.0,"[4, 8, 10, 12]",4.0,24,9,0,23,2,0,1,0,0,0,0,5.75,3,0,0,0,0,1,38,28,67
+Delhi Daredevils,UT Yadav,cc1e8c68,8,0,0,0,0,0.0,"[6, 13, 17]",3.0,18,9,0,19,3,0,0,0,0,0,0,6.33,0,0,0,0,0,0,11,0,11
+Delhi Daredevils,IK Pathan,5fa06777,8,14,17,1,0,82.35,"[1, 3]",2.0,12,4,0,26,5,0,1,0,0,0,2,13.0,0,0,0,0,0,18,23,0,41
+Delhi Daredevils,AB Agarkar,fa463154,9,9,9,0,0,100.0,[9],1.0,6,2,0,4,0,0,0,0,0,0,0,4.0,0,0,0,0,0,9,2,0,11
+Kings XI Punjab,AC Gilchrist,2b6e6dec,1,6,3,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+Kings XI Punjab,Mandeep Singh,c3a96caf,2,24,15,5,0,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,4,48,0,28,76
+Kings XI Punjab,LA Pomersbach,b63ab531,3,18,10,3,0,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,36,0,0,36
+Kings XI Punjab,DA Miller,d67d5f00,4,34,39,3,0,87.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,50,0,8,58
+Kings XI Punjab,M Vohra,c03e2850,5,8,11,1,0,72.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+Kings XI Punjab,DJ Hussey,fd835ab3,6,20,21,1,1,95.24,"[8, 10, 12, 16]",4.0,24,9,0,14,0,0,0,0,0,0,0,3.5,1,0,0,0,0,30,15,8,53
+Kings XI Punjab,PP Chawla,98ae73b1,7,5,3,1,0,166.67,"[9, 11]",2.0,12,6,0,17,2,1,0,0,0,0,0,8.5,0,0,0,0,0,9,6,0,15
+Kings XI Punjab,P Kumar,e938e1bc,7,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,8,0,29,4,0,2,0,1,0,1,7.25,0,0,0,0,0,0,66,0,66
+Kings XI Punjab,Harmeet Singh,2a72fd4f,8,0,0,0,0,0.0,"[5, 7, 14, 17]",4.0,24,11,0,24,1,1,3,0,0,0,2,6.0,0,0,0,0,0,0,92,0,92
+Kings XI Punjab,BA Bhatt,dc4686e6,9,0,0,0,0,0.0,"[13, 15]",2.0,12,4,0,11,1,0,1,0,0,0,0,5.5,0,0,0,0,0,0,33,0,33
+Kings XI Punjab,P Awana,1a0c3177,10,0,0,0,0,0.0,"[2, 4, 6, 19]",4.0,24,11,1,21,2,0,1,0,0,0,0,5.25,1,0,0,0,0,0,52,8,60

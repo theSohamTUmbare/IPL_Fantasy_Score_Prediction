@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2008-06-13'],NA,296903,New Zealand,1,1,5,0,0,20.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2008-02-07'],England in New Zealand T20I Series,300436,New Zealand,4,31,25,3,0,124.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,47,0,8,55
+['2008-02-05'],England in New Zealand T20I Series,300435,New Zealand,4,6,8,1,0,75.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+['2007-12-11'],NA,291343,New Zealand,3,4,17,0,0,23.53,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2
+['2007-11-23'],NA,298795,New Zealand,3,14,11,1,1,127.27,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24

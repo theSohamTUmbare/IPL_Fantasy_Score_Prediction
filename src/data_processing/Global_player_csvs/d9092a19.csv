@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2016-11-25'],CSA T20 Challenge,1003865,Warriors,3,9,13,0,0,69.23,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,7,0,0,7
+['2015-12-02'],Ram Slam T20 Challenge,851977,Warriors,6,30,27,3,0,111.11,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,46,0,0,46
+['2015-11-28'],Ram Slam T20 Challenge,851973,Warriors,2,3,9,0,0,33.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3

@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-06-16'],Vitality Blast,1347642,Sussex,7,18,15,3,0,120.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30
+['2023-06-09'],Vitality Blast,1347633,Sussex,7,17,13,2,0,130.77,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,27,0,0,27
+['2023-06-08'],Vitality Blast,1347628,Sussex,6,1,3,0,0,33.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2023-06-03'],Vitality Blast,1347609,Sussex,4,11,9,0,1,122.22,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17

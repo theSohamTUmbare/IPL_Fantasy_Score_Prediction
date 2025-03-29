@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Fortune Barishal,Tamim Iqbal,3b041a12,1,19,18,3,0,105.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,31,0,6,37
+Fortune Barishal,Ahmed Shehzad,f8fd6e3f,2,17,11,3,0,154.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,33,0,0,33
+Fortune Barishal,KR Mayers,73c18486,3,48,31,3,3,154.84,"[1, 3, 7, 9]",4.0,24,16,1,12,0,0,3,0,1,0,2,3.0,0,0,0,0,4,86,121,0,207
+Fortune Barishal,Soumya Sarkar,4d9f9686,4,8,8,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20
+Fortune Barishal,Mushfiqur Rahim,a94e08ea,5,52,32,3,3,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,4,94,0,6,100
+Fortune Barishal,Mahmudullah,bf1d7d3e,6,12,12,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
+Fortune Barishal,Mehedi Hasan Miraz,c58b0108,7,15,7,0,2,214.29,"[10, 12]",2.0,12,5,0,18,1,1,1,0,1,0,1,9.0,0,0,0,0,0,27,38,0,65
+Fortune Barishal,Mohammad Saifuddin,b3a28446,8,0,1,0,0,0.0,"[2, 14, 17, 20]",4.0,24,8,0,28,2,1,1,0,0,0,0,7.0,0,0,0,0,0,0,35,0,35
+Fortune Barishal,KA Maharaj,0b60eb09,10,0,0,0,0,0.0,"[5, 8, 11, 13]",4.0,24,14,0,31,2,2,1,0,0,0,3,7.75,0,0,0,0,0,0,39,0,39
+Fortune Barishal,Khaled Ahmed,5dbdecf1,11,0,0,0,0,0.0,"[15, 18]",2.0,12,0,0,31,4,1,0,0,0,0,0,15.5,2,0,0,0,0,0,-6,16,10
+Fortune Barishal,OC McCoy,529eb9e0,12,0,0,0,0,0.0,"[4, 6, 16, 19]",4.0,24,10,0,45,5,2,1,0,0,0,3,11.25,1,0,0,0,0,0,31,8,39
+Sylhet Strikers,HT Tector,59ea70a4,1,0,2,0,0,0.0,"[5, 7, 9, 11]",4.0,24,5,0,29,1,1,1,0,0,0,2,7.25,0,0,0,0,0,-2,30,0,28
+Sylhet Strikers,Zakir Hasan,e3e09091,2,5,11,0,0,45.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,-6,-1,0,6,5
+Sylhet Strikers,Nazmul Hossain Shanto,1274d7ab,3,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+Sylhet Strikers,AK Perera,c8ad0749,4,17,19,2,0,89.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
+Sylhet Strikers,Mohammad Mithun,77191792,5,10,6,1,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,20,0,6,26
+Sylhet Strikers,BAC Howell,0bec3a6c,6,53,32,5,2,165.62,"[8, 10, 14, 16]",4.0,24,6,0,40,1,3,0,0,0,0,4,10.0,0,0,0,0,4,97,4,0,101
+Sylhet Strikers,RP Burl,b08252b8,7,3,10,0,0,30.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,-3,0,8,5
+Sylhet Strikers,Ariful Haque,ad1730bc,8,57,31,5,4,183.87,"[1, 13]",2.0,12,4,0,17,3,0,0,0,0,0,0,8.5,0,0,0,0,6,115,4,0,119
+Sylhet Strikers,Tanzim Hasan Sakib,0b0cc297,9,9,4,1,0,225.0,"[3, 6, 15, 20]",4.0,24,8,0,48,6,2,3,0,2,0,2,12.0,1,0,0,0,0,13,99,8,120
+Sylhet Strikers,Sunzamul Islam,0f348f58,10,2,2,0,0,100.0,"[12, 18]",2.0,12,5,0,12,0,1,0,0,0,0,0,6.0,0,0,0,0,0,2,7,0,9
+Sylhet Strikers,Shafiqul Islam,390c914c,10,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,8,0,34,4,1,1,0,0,0,1,8.5,0,0,0,0,0,0,33,0,33

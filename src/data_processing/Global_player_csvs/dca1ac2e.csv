@@ -1,0 +1,11 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2025-01-07'],Bangladesh Premier League,1459547,Dhaka Capital,9,0,4,0,0,0.0,"1,5,8",3.0,18,5,0,23,1,1,0,0,0,1,1,7.67,0,0,0,0,0,-2,5,0,3
+['2024-12-30'],Bangladesh Premier League,1459538,Dhaka Capital,8,0,4,0,0,0.0,"1,9,11",3.0,18,5,0,33,3,2,0,0,0,0,2,11.0,0,0,0,0,0,-2,3,0,1
+['2023-02-07'],Bangladesh Premier League,1351088,Dhaka Dominators,7,1,5,0,0,20.0,"12,14,17",3.833,23,11,0,13,0,0,1,0,0,0,0,3.39,0,0,0,0,0,1,42,0,43
+['2023-02-03'],Bangladesh Premier League,1351085,Dhaka Dominators,9,15,11,1,1,136.36,"6,8,11,16",4.0,24,11,0,25,3,0,1,0,0,0,1,6.25,0,0,0,0,2,27,38,0,65
+['2023-01-31'],Bangladesh Premier League,1351082,Dhaka Dominators,11,0,0,0,0,0.0,"3,5,7,9",4.0,24,12,0,22,1,1,2,0,0,0,0,5.5,1,0,0,0,0,0,66,8,74
+['2023-01-30'],Bangladesh Premier League,1351080,Dhaka Dominators,10,0,0,0,0,0.0,"5,7,9,11",4.0,24,12,0,29,4,1,1,0,0,0,0,7.25,0,0,0,0,0,0,37,0,37
+['2023-01-24'],Bangladesh Premier League,1351075,Dhaka Dominators,9,1,6,0,0,16.67,"8,10,14",3.0,18,13,0,5,0,0,1,0,0,0,0,1.67,2,0,0,0,0,1,44,16,61
+['2023-01-23'],Bangladesh Premier League,1351073,Dhaka Dominators,8,0,1,0,0,0.0,"10,12,16",3.0,18,5,0,19,0,1,1,0,1,0,0,6.33,1,0,0,0,0,-2,40,8,46
+['2023-01-19'],Bangladesh Premier League,1351068,Dhaka Dominators,8,0,0,0,0,0.0,"2,5,9,16",4.0,24,7,0,51,4,4,0,0,0,0,2,12.75,0,0,0,0,0,0,1,0,1
+['2023-01-14'],Bangladesh Premier League,1351063,Dhaka Dominators,8,0,1,0,0,0.0,"2,4,7,9",4.0,24,5,0,30,3,0,0,0,0,0,0,7.5,1,0,0,0,0,0,5,8,13

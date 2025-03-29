@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Delhi Daredevils,DA Warner,dcce6f09,1,21,19,2,1,110.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,35,0,0,35
+Delhi Daredevils,V Sehwag,8ba8195d,2,23,9,3,1,255.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,41,0,8,49
+Delhi Daredevils,DPMD Jayawardene,d18f9182,3,30,27,3,1,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,52,0,0,52
+Delhi Daredevils,LRPL Taylor,b61a3e1a,4,16,27,0,0,59.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,12,0,0,12
+Delhi Daredevils,IK Pathan,5fa06777,5,36,22,4,1,163.64,"[1, 11, 13]",3.0,18,5,0,28,4,0,0,0,0,0,1,9.33,1,0,0,0,4,66,5,8,79
+Delhi Daredevils,Y Nagar,662c47a6,6,10,7,1,0,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
+Delhi Daredevils,UT Yadav,cc1e8c68,6,0,0,0,0,0.0,"[6, 8, 14, 16]",4.0,24,9,0,30,3,0,2,0,0,0,3,7.5,0,0,0,0,0,0,59,0,59
+Delhi Daredevils,NV Ojha,890946a0,7,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
+Delhi Daredevils,M Morkel,5bb5a915,8,0,0,0,0,0.0,"[3, 5, 15, 18]",4.0,24,6,0,35,3,0,1,0,0,0,1,8.75,0,0,0,0,0,0,31,0,31
+Delhi Daredevils,S Nadeem,9d80c5e1,9,0,2,0,0,0.0,"[2, 4, 10, 12]",4.0,24,7,0,32,3,1,0,0,0,0,0,8.0,0,0,0,0,0,0,7,0,7
+Delhi Daredevils,VR Aaron,0a3d54b9,10,1,1,0,0,100.0,"[7, 9, 17, 19]",3.667,22,8,0,20,1,0,1,0,1,0,2,5.45,0,0,0,0,0,1,45,0,46
+Kolkata Knight Riders,BB McCullum,b8a55852,1,56,44,7,0,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,1,0,92,0,26,118
+Kolkata Knight Riders,G Gambhir,bb345e0b,2,36,21,4,1,171.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,6,68,0,12,80
+Kolkata Knight Riders,JH Kallis,86dc8f2e,3,30,27,3,0,111.11,"[4, 6, 8, 10]",4.0,24,11,0,20,2,0,2,1,0,0,0,5.0,0,0,0,0,0,46,73,0,119
+Kolkata Knight Riders,MK Tiwary,26e5cabf,4,8,6,0,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16
+Kolkata Knight Riders,YK Pathan,3c6ffae8,5,7,11,0,0,63.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,5,0,0,5
+Kolkata Knight Riders,LR Shukla,b1451597,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Kolkata Knight Riders,DB Das,7050a1e7,6,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Kolkata Knight Riders,R Bhatia,33a364a6,7,0,0,0,0,0.0,"[9, 11, 14, 16]",4.0,24,7,0,26,1,1,0,0,0,0,0,6.5,1,0,0,0,0,0,9,8,17
+Kolkata Knight Riders,B Lee,dd09ff8e,8,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,8,1,39,5,1,1,0,1,0,1,9.75,0,0,1,0,0,0,53,12,65
+Kolkata Knight Riders,PJ Sangwan,9fc0ef64,9,0,0,0,0,0.0,"[2, 7, 12, 15]",4.0,24,5,0,42,4,1,1,0,0,0,5,10.5,0,0,0,0,0,0,28,0,28
+Kolkata Knight Riders,SP Narine,9d430b40,10,0,0,0,0,0.0,"[5, 13, 18, 20]",4.0,24,14,0,23,1,1,2,0,0,0,5,5.75,0,0,0,1,0,0,68,6,74

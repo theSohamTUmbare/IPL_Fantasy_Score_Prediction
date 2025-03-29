@@ -1,0 +1,20 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-10-01'],Namibia T20 Tri-Series,1450819,United States of America,3,24,26,1,0,92.31,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
+['2024-09-30'],Namibia T20 Tri-Series,1450818,United States of America,3,11,11,1,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
+['2021-09-12'],Caribbean Premier League,1269727,Barbados Royals,5,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2021-09-09'],Caribbean Premier League,1269722,Barbados Royals,3,0,6,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2021-09-07'],Caribbean Premier League,1269719,Barbados Royals,4,16,21,1,0,76.19,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,20,0,20,40
+['2021-09-04'],Caribbean Premier League,1269715,Barbados Royals,3,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2021-09-02'],Caribbean Premier League,1269713,Barbados Royals,3,54,47,3,2,114.89,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,86,0,0,86
+['2021-01-31'],Syed Mushtaq Ali Trophy,1244407,Baroda,4,1,5,0,0,20.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2021-01-29'],Syed Mushtaq Ali Trophy,1244406,Baroda,9,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2021-01-27'],Syed Mushtaq Ali Trophy,1244403,Baroda,2,21,21,3,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,33,0,8,41
+['2021-01-18'],Syed Mushtaq Ali Trophy,1244388,Baroda,2,34,31,3,2,109.68,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,62,0,0,62
+['2021-01-16'],Syed Mushtaq Ali Trophy,1244370,Baroda,2,12,21,1,0,57.14,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,1,1,0,-4,12,0,52,64
+['2021-01-14'],Syed Mushtaq Ali Trophy,1244350,Baroda,11,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,0,0,0,0,0,28,28
+['2021-01-12'],Syed Mushtaq Ali Trophy,1244333,Baroda,5,9,10,2,0,90.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,17,0,16,33
+['2021-01-10'],Syed Mushtaq Ali Trophy,1244314,Baroda,5,41,30,3,2,136.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,71,0,0,71
+['2018-01-14'],Syed Mushtaq Ali Trophy,1130688,Tripura,1,73,57,11,0,128.07,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,125,0,0,125
+['2018-01-12'],Syed Mushtaq Ali Trophy,1130723,Tripura,1,0,3,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2018-01-10'],Syed Mushtaq Ali Trophy,1130700,Tripura,1,49,37,5,2,132.43,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,87,0,0,87
+['2018-01-08'],Syed Mushtaq Ali Trophy,1130666,Tripura,1,42,30,5,1,140.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,74,0,0,74

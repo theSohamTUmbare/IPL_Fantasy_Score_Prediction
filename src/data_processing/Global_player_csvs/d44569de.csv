@@ -1,0 +1,8 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-10-29'],CSA T20 Challenge,1334913,Dolphins,6,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2022-10-28'],CSA T20 Challenge,1334911,Dolphins,11,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2022-10-19'],CSA T20 Challenge,1334896,Dolphins,11,0,0,0,0,0.0,"5,13",2.0,12,6,0,18,2,1,1,0,0,0,1,9.0,0,0,0,0,0,0,31,0,31
+['2022-10-17'],CSA T20 Challenge,1334891,Dolphins,10,1,4,0,0,25.0,"9,11,16,19",4.0,24,5,0,49,2,4,1,0,0,0,0,12.25,0,0,0,0,0,1,24,0,25
+['2022-02-18'],CSA T20 Challenge,1299621,Dolphins,11,0,0,0,0,0.0,"4,15,18",3.0,18,4,0,41,5,2,1,0,0,0,1,13.67,0,0,0,0,0,0,23,0,23
+['2022-02-14'],CSA T20 Challenge,1299614,Dolphins,10,0,0,0,0,0.0,"5,7,9,13",4.0,24,14,0,21,1,1,2,0,0,0,1,5.25,0,0,0,0,0,0,68,0,68
+['2022-02-12'],CSA T20 Challenge,1299610,Dolphins,11,0,0,0,0,0.0,8,1.0,6,0,0,14,3,0,0,0,0,0,0,14.0,0,0,0,0,0,0,0,0,0

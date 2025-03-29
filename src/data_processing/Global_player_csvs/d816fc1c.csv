@@ -1,0 +1,21 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-10-24'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1453926,Mozambique,1,8,8,2,0,100.0,"5,17,19",3.0,18,8,0,22,4,0,1,1,0,0,0,7.33,0,0,0,0,0,16,41,0,57
+['2024-10-23'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1453931,Mozambique,1,25,30,4,0,83.33,"10,12,18,20",4.0,24,12,1,13,0,0,3,0,2,0,0,3.25,0,0,0,0,0,45,125,0,170
+['2024-10-22'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1453933,Mozambique,1,34,32,3,1,106.25,"9,11,13,15",4.0,24,17,1,12,1,0,2,0,1,0,1,3.0,0,0,0,0,0,56,93,0,149
+['2024-10-20'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1453927,Mozambique,1,2,8,0,0,25.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2024-10-19'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1453923,Mozambique,1,17,11,2,1,154.55,"2,4",2.0,12,5,0,24,3,1,0,0,0,0,3,12.0,0,0,0,0,4,35,1,0,36
+['2022-12-08'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343791,Mozambique,3,27,30,2,0,90.0,11,1.0,6,5,0,2,0,0,3,0,3,0,1,2.0,0,0,0,0,0,39,108,0,147
+['2022-12-05'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343780,Mozambique,4,23,16,1,2,143.75,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,41,0,8,49
+['2022-12-04'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343776,Mozambique,3,18,16,3,0,112.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,30,0,8,38
+['2022-12-02'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343773,Mozambique,4,10,9,1,0,111.11,"17,19",1.333,8,4,0,9,1,0,2,1,1,0,0,6.75,0,0,0,0,0,14,70,0,84
+['2022-12-02'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343775,Mozambique,3,9,7,1,0,128.57,"16,18,20",3.0,18,5,0,26,2,1,1,1,0,0,0,8.67,0,0,0,2,0,13,38,12,63
+['2022-09-19'],Africa Cricket Association Cup,1332504,Mozambique,3,1,4,0,0,25.0,"7,17,19",3.0,18,4,0,41,4,2,2,0,0,0,0,13.67,0,0,0,0,0,1,48,0,49
+['2022-09-18'],Africa Cricket Association Cup,1332503,Mozambique,5,0,7,0,0,0.0,"7,9,19",3.0,18,6,0,23,3,0,1,1,0,0,0,7.67,0,0,1,0,0,-2,39,12,49
+['2022-09-16'],Africa Cricket Association Cup,1332498,Mozambique,5,28,23,1,0,121.74,"16,18,20",3.0,18,7,0,16,1,0,2,1,0,0,1,5.33,1,0,1,0,0,36,69,20,125
+['2021-11-06'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283048,Mozambique,4,18,21,3,0,85.71,"7,9,11,13",4.0,24,9,0,32,4,0,1,0,0,1,0,8.0,0,0,0,0,0,30,34,0,64
+['2021-11-05'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283047,Mozambique,3,0,1,0,0,0.0,"7,9,17",3.0,18,4,0,20,2,0,0,0,0,0,0,6.67,0,0,0,0,0,-2,6,0,4
+['2021-11-03'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283044,Mozambique,3,2,4,0,0,50.0,"9,11",1.167,7,5,0,2,0,0,1,0,1,0,0,1.71,1,0,0,0,0,2,38,8,48
+['2021-11-02'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283043,Mozambique,3,10,7,1,1,142.86,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
+['2018-11-01'],ICC World Twenty20 Africa Region Qualifier C,1163059,Mozambique,10,0,0,0,0,0.0,"10,12,19",3.0,18,6,0,20,0,1,0,0,0,0,2,6.67,0,0,0,0,0,0,8,0,8
+['2018-10-30'],ICC World Twenty20 Africa Region Qualifier C,1163057,Mozambique,10,6,2,1,0,300.0,"2,4,6",3.0,18,8,0,17,2,0,1,0,0,0,0,5.67,0,0,0,0,0,10,37,0,47
+['2018-10-29'],ICC World Twenty20 Africa Region Qualifier C,1163054,Mozambique,8,0,3,0,0,0.0,"11,14,16,18",4.0,24,6,0,50,8,1,2,0,2,0,0,12.5,0,0,0,0,0,0,66,0,66

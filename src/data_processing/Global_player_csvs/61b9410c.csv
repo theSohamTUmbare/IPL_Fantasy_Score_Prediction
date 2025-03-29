@@ -1,0 +1,12 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-10-16'],Syed Mushtaq Ali Trophy,1383445,Manipur,5,2,7,0,0,28.57,10,1.0,6,2,0,5,0,0,0,0,0,0,0,5.0,0,0,0,0,0,2,2,0,4
+['2022-10-20'],Syed Mushtaq Ali Trophy,1333013,Manipur,5,37,36,1,1,102.78,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,51,0,0,51
+['2022-10-18'],Syed Mushtaq Ali Trophy,1332993,Manipur,4,6,21,0,0,28.57,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,0,0,0,0
+['2021-11-09'],Syed Mushtaq Ali Trophy,1280290,Manipur,5,31,33,1,0,93.94,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,39,0,0,39
+['2021-11-06'],Syed Mushtaq Ali Trophy,1280251,Manipur,6,1,3,0,0,33.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2021-11-05'],Syed Mushtaq Ali Trophy,1280234,Manipur,10,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2021-01-19'],Syed Mushtaq Ali Trophy,1244400,Manipur,3,50,48,3,0,104.17,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,70,0,8,78
+['2021-01-17'],Syed Mushtaq Ali Trophy,1244378,Manipur,3,12,17,2,0,70.59,18,0.167,1,0,0,4,1,0,0,0,0,0,0,23.95,0,0,0,0,0,20,0,0,20
+['2021-01-15'],Syed Mushtaq Ali Trophy,1244362,Manipur,3,29,34,2,0,85.29,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,41,0,8,49
+['2021-01-13'],Syed Mushtaq Ali Trophy,1244341,Manipur,4,6,17,0,0,35.29,"11,13",2.0,12,5,0,14,2,0,1,0,0,0,0,7.0,0,0,0,0,-6,0,32,0,32
+['2021-01-11'],Syed Mushtaq Ali Trophy,1244322,Manipur,4,2,6,0,0,33.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,2,0,16,18

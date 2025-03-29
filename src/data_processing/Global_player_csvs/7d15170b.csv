@@ -1,0 +1,36 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-09-06'],ICC Men's T20 World Cup Asia Qualifier A,1447492,Maldives,5,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,-2,0,16,14
+['2024-09-05'],ICC Men's T20 World Cup Asia Qualifier A,1447491,Maldives,5,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2024-09-03'],ICC Men's T20 World Cup Asia Qualifier A,1447486,Maldives,3,1,4,0,0,25.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2024-09-02'],ICC Men's T20 World Cup Asia Qualifier A,1447484,Maldives,3,4,16,0,0,25.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2
+['2024-08-31'],ICC Men's T20 World Cup Asia Qualifier A,1447480,Maldives,5,23,29,2,0,79.31,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31
+['2024-08-30'],ICC Men's T20 World Cup Asia Qualifier A,1447477,Maldives,4,11,21,0,0,52.38,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,7,0,0,7
+['2023-10-05'],ICC Men's T20 World Cup Sub Regional Asia Qualifier A,1399148,Maldives,5,23,17,2,1,135.29,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,39,0,0,39
+['2023-10-04'],ICC Men's T20 World Cup Sub Regional Asia Qualifier A,1399146,Maldives,5,5,12,0,0,41.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-1,0,0,-1
+['2023-10-02'],ICC Men's T20 World Cup Sub Regional Asia Qualifier A,1399145,Maldives,3,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2023-10-01'],ICC Men's T20 World Cup Sub Regional Asia Qualifier A,1399142,Maldives,3,19,28,2,0,67.86,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,25,0,0,25
+['2023-09-29'],ICC Men's T20 World Cup Sub Regional Asia Qualifier A,1399140,Maldives,4,10,24,0,0,41.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,-6,4,0,20,24
+['2022-07-08'],Quadrangular Twenty20 Series (Malaysia),1322007,Maldives,3,8,11,0,0,72.73,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+['2022-07-07'],Quadrangular Twenty20 Series (Malaysia),1322005,Maldives,3,12,17,2,0,70.59,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
+['2022-07-06'],Quadrangular Twenty20 Series (Malaysia),1322004,Maldives,3,7,4,0,1,175.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+['2022-07-04'],Quadrangular Twenty20 Series (Malaysia),1322002,Maldives,4,19,12,4,0,158.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,4,39,0,16,55
+['2021-10-28'],ICC Men's T20 World Cup Asia A Qualifier,1284495,Maldives,2,1,2,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2021-10-27'],ICC Men's T20 World Cup Asia A Qualifier,1284493,Maldives,6,15,15,0,1,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
+['2021-10-24'],ICC Men's T20 World Cup Asia A Qualifier,1284491,Maldives,4,6,10,0,0,60.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,4,0,8,12
+['2021-10-23'],ICC Men's T20 World Cup Asia A Qualifier,1284489,Maldives,5,14,14,0,2,100.0,"9,11",2.0,12,3,0,22,0,2,0,0,0,0,2,11.0,0,0,0,0,0,26,1,0,27
+['2020-02-25'],ACC Western Region T20,1215159,Maldives,3,61,42,5,4,145.24,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,115,0,0,115
+['2019-12-09'],South Asian Games Men's Cricket Competition,1208613,Maldives,1,17,18,2,1,94.44,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31
+['2019-12-07'],South Asian Games Men's Cricket Competition,1208612,Maldives,1,3,10,0,0,30.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,-3,0,8,5
+['2019-12-06'],South Asian Games Men's Cricket Competition,1208609,Maldives,1,13,21,3,0,61.9,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,23,0,8,31
+['2019-06-29'],Malaysia Tri-Nation T20I Series,1186493,Maldives,3,30,28,2,2,107.14,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,54,0,0,54
+['2019-06-28'],Malaysia Tri-Nation T20I Series,1186492,Maldives,4,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2019-06-26'],Malaysia Tri-Nation T20I Series,1186490,Maldives,4,6,7,1,0,85.71,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+['2018-04-26'],ICC World Twenty20 Asia Region Qualifier A,1142222,Maldives,8,11,11,1,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,15,0,8,23
+['2018-04-24'],ICC World Twenty20 Asia Region Qualifier A,1142217,Maldives,6,9,10,0,0,90.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
+['2018-04-23'],ICC World Twenty20 Asia Region Qualifier A,1142214,Maldives,5,0,5,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2018-04-21'],ICC World Twenty20 Asia Region Qualifier A,1142212,Maldives,4,26,21,1,1,123.81,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,40,0,0,40
+['2018-04-20'],ICC World Twenty20 Asia Region Qualifier A,1142208,Maldives,8,10,16,0,0,62.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,8,0,0,8
+['2015-01-29'],ACC Twenty20 Cup,811127,Maldives,3,1,6,0,0,16.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2015-01-27'],ACC Twenty20 Cup,811121,Maldives,3,31,33,3,1,93.94,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,53,0,0,53
+['2015-01-25'],ACC Twenty20 Cup,811111,Maldives,1,36,29,2,2,124.14,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,60,0,0,60
+['2014-09-28'],Asian Games Men's Cricket Competition,778023,Maldives,2,0,2,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2

@@ -1,0 +1,15 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-05-26'],Continental Cup,1434162,Gibraltar,5,6,5,1,0,120.0,"9,11",2.0,12,3,0,25,2,1,0,0,0,0,3,12.5,0,0,0,0,0,10,-3,0,7
+['2024-05-25'],Continental Cup,1434160,Gibraltar,7,0,0,0,0,0.0,"15,18,20",3.0,18,5,0,44,2,4,1,0,0,0,3,14.67,0,0,0,0,0,0,24,0,24
+['2024-05-24'],Continental Cup,1434155,Gibraltar,6,19,10,3,0,190.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,37,0,0,37
+['2023-09-30'],Estonia tour of Gibraltar,1391338,Gibraltar,8,1,4,0,0,25.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,1,0,6,7
+['2023-09-30'],Estonia tour of Gibraltar,1391339,Gibraltar,7,9,11,0,1,81.82,10,1.0,6,1,0,15,1,1,0,0,0,0,2,15.0,0,0,0,0,0,15,1,0,16
+['2022-07-03'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1320987,Gibraltar,11,0,0,0,0,0.0,11,1.0,6,0,0,18,2,1,0,0,0,0,0,18.0,0,0,0,0,0,0,0,0,0
+['2022-07-01'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1320978,Gibraltar,11,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2022-06-28'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1320969,Gibraltar,8,0,0,0,0,0.0,"7,9",2.0,12,1,0,37,3,3,1,0,0,0,0,18.5,0,0,0,0,0,0,20,0,20
+['2022-05-15'],Valletta Cup,1310185,Gibraltar,7,27,17,2,1,158.82,14,1.0,6,2,0,14,0,2,0,0,0,0,0,14.0,0,0,0,0,4,49,2,0,51
+['2022-05-14'],Valletta Cup,1310183,Gibraltar,7,3,7,0,0,42.86,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2022-05-13'],Valletta Cup,1310179,Gibraltar,8,0,0,0,0,0.0,8,1.0,6,0,0,23,1,2,0,0,0,0,3,23.0,0,0,0,0,0,0,0,0,0
+['2022-05-11'],Valletta Cup,1310174,Gibraltar,6,8,6,1,0,133.33,"8,10,12,14",4.0,24,12,0,24,1,1,1,0,0,0,1,6.0,0,0,0,0,0,12,39,0,51
+['2022-05-10'],Valletta Cup,1310170,Gibraltar,8,8,8,0,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+['2022-05-10'],Valletta Cup,1310172,Gibraltar,7,4,7,0,0,57.14,"13,15,17",3.0,18,7,0,16,1,0,1,0,0,0,0,5.33,2,0,0,0,0,4,36,16,56

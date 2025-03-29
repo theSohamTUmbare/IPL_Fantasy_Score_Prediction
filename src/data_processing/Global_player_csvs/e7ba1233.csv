@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2012-09-20'],ICC World Twenty20,533275,Zimbabwe,5,11,18,0,0,61.11,13,0.667,4,1,0,3,0,0,0,0,0,0,0,4.5,0,0,0,0,-2,9,1,0,10
+['2012-02-14'],Zimbabwe in New Zealand T20I Series,520596,Zimbabwe,2,32,19,2,3,168.42,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,66,0,0,66
+['2010-02-28'],NA,439139,Zimbabwe,4,0,2,0,0,0.0,15,1.0,6,1,0,10,0,1,0,0,0,0,0,10.0,0,0,0,0,0,-2,1,0,-1
+['2007-09-13'],ICC World Twenty20,287858,Zimbabwe,5,2,6,0,0,33.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
+['2007-09-12'],ICC World Twenty20,287856,Zimbabwe,5,3,8,0,0,37.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11

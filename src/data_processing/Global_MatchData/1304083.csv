@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Lucknow Super Giants,Q de Kock,372455c4,1,10,9,0,1,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
+Lucknow Super Giants,KL Rahul,b17e2f24,2,103,62,12,4,166.13,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,195,0,8,203
+Lucknow Super Giants,MK Pandey,93b4fc78,3,22,22,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
+Lucknow Super Giants,MP Stoinis,d9273ee7,4,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Lucknow Super Giants,KH Pandya,5b8c830e,5,1,2,0,0,50.0,"[5, 7, 10, 20]",4.0,24,10,0,19,1,0,3,0,0,0,1,4.75,0,0,0,1,0,1,95,6,102
+Lucknow Super Giants,DJ Hooda,73ad96ed,6,10,9,1,0,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,14,0,8,22
+Lucknow Super Giants,A Badoni,872b03f7,7,14,11,0,1,127.27,[12],1.0,6,1,0,6,0,0,1,0,0,0,0,6.0,0,0,0,0,0,20,26,0,46
+Lucknow Super Giants,JO Holder,0f721006,8,0,2,0,0,0.0,"[3, 6, 16, 18]",4.0,24,8,0,36,4,1,1,0,0,0,2,9.0,1,0,0,1,0,0,33,14,47
+Lucknow Super Giants,PVD Chameera,327b58d3,10,0,0,0,0,0.0,"[2, 4, 13, 19]",4.0,24,13,0,14,1,0,0,0,0,0,2,3.5,1,0,0,0,0,0,19,8,27
+Lucknow Super Giants,Ravi Bishnoi,df064e1a,11,0,0,0,0,0.0,"[8, 11, 14]",3.0,18,7,0,28,1,2,1,0,0,0,1,9.33,2,0,0,0,0,0,32,16,48
+Lucknow Super Giants,Mohsin Khan,c33d8116,12,0,0,0,0,0.0,"[1, 9, 15, 17]",4.0,24,11,0,27,1,1,1,0,0,0,6,6.75,0,0,0,0,0,0,38,0,38
+Mumbai Indians,Ishan Kishan,752f7486,1,8,20,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,2,0,0,2
+Mumbai Indians,RG Sharma,740742ef,2,39,31,5,1,125.81,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,69,0,8,77
+Mumbai Indians,D Brevis,844e79d1,3,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11
+Mumbai Indians,SA Yadav,271f83cd,4,7,7,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
+Mumbai Indians,Tilak Varma,b0482a1d,5,38,27,2,2,140.74,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,64,0,8,72
+Mumbai Indians,KA Pollard,a757b0d8,6,19,20,0,1,95.0,"[12, 14]",2.0,12,5,0,8,0,0,2,0,0,0,0,4.0,1,0,0,0,0,25,61,8,94
+Mumbai Indians,DR Sams,caf69bf7,7,3,7,0,0,42.86,"[1, 3, 7, 13]",4.0,24,9,0,40,2,2,1,0,0,0,5,10.0,0,0,0,0,0,3,32,0,35
+Mumbai Indians,JD Unadkat,1e66c162,8,1,1,0,0,100.0,"[6, 9, 15, 18]",4.0,24,5,0,36,4,1,0,0,0,0,0,9.0,0,0,0,0,0,1,5,0,6
+Mumbai Indians,HR Shokeen,0c9652b0,9,0,0,0,0,0.0,"[2, 8]",2.0,12,5,0,11,1,0,0,0,0,0,0,5.5,1,0,0,0,0,0,9,8,17
+Mumbai Indians,JJ Bumrah,462411b3,10,0,2,0,0,0.0,"[4, 11, 17, 19]",4.0,24,9,0,31,3,1,1,0,0,0,0,7.75,0,0,0,0,0,0,34,0,34
+Mumbai Indians,RP Meredith,64775749,10,0,0,0,0,0.0,"[5, 10, 16, 20]",4.0,24,8,0,40,3,3,2,0,0,0,1,10.0,1,0,0,0,0,0,56,8,64

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Chennai Super Kings,DR Smith,35205dfc,1,4,4,1,0,100.0,"[7, 10, 16]",3.0,18,4,0,36,2,3,1,0,1,0,1,12.0,0,0,0,0,0,8,33,0,41
+Chennai Super Kings,BB McCullum,b8a55852,2,33,29,3,0,113.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,49,0,0,49
+Chennai Super Kings,SK Raina,1dc12ab9,3,35,27,3,1,129.63,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,57,0,0,57
+Chennai Super Kings,RA Jadeja,fe93fd9d,4,17,8,3,0,212.5,"[9, 12, 15]",3.0,18,2,0,37,3,2,0,0,0,0,0,12.33,1,0,0,0,0,29,-4,8,33
+Chennai Super Kings,F du Plessis,3355b542,5,52,25,7,1,208.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,100,0,0,100
+Chennai Super Kings,MS Dhoni,4a8a2e3b,6,23,20,0,1,115.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29
+Chennai Super Kings,M Manhas,c42aaf71,7,8,3,0,1,266.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
+Chennai Super Kings,BW Hilfenhaus,f3171936,8,0,0,0,0,0.0,"[1, 4, 6, 19]",4.0,24,10,0,36,5,1,1,0,1,0,2,9.0,0,0,0,0,0,0,43,0,43
+Chennai Super Kings,R Ashwin,495d42a5,8,11,4,2,0,275.0,"[11, 13]",2.0,12,2,0,38,2,4,0,0,0,0,2,19.0,0,0,0,0,0,19,-4,0,15
+Chennai Super Kings,IC Pandey,e0407c01,9,0,0,0,0,0.0,"[2, 8, 14, 17]",4.0,24,7,0,41,7,1,0,0,0,0,0,10.25,1,0,0,0,0,0,5,8,13
+Chennai Super Kings,MM Sharma,759ac88f,10,0,0,0,0,0.0,"[3, 5, 18, 20]",4.0,24,11,0,38,5,2,2,0,0,0,0,9.5,0,0,0,0,0,0,61,0,61
+Kings XI Punjab,V Sehwag,8ba8195d,1,30,23,5,1,130.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,62,0,0,62
+Kings XI Punjab,Mandeep Singh,c3a96caf,2,3,8,0,0,37.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+Kings XI Punjab,GJ Maxwell,b681e71e,3,90,38,6,8,236.84,"[8, 10]",2.0,12,2,0,21,3,0,1,0,0,0,1,10.5,0,0,0,0,6,180,25,0,205
+Kings XI Punjab,DA Miller,d67d5f00,4,47,32,5,2,146.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,85,0,8,93
+Kings XI Punjab,GJ Bailey,5056011d,5,40,13,6,2,307.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,86,0,8,94
+Kings XI Punjab,MG Johnson,f5180fe6,6,11,6,2,0,183.33,"[2, 4, 17, 19]",4.0,24,9,0,37,3,2,2,0,0,0,0,9.25,1,0,1,0,0,19,59,20,98
+Kings XI Punjab,WP Saha,fe11caa6,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Kings XI Punjab,R Dhawan,26a85969,9,0,0,0,0,0.0,"[11, 20]",2.0,12,2,0,23,2,1,1,0,1,0,1,11.5,0,0,0,0,0,0,31,0,31
+Kings XI Punjab,AR Patel,2e171977,10,0,0,0,0,0.0,"[7, 9, 13, 15]",4.0,24,4,0,28,2,0,0,0,0,0,0,7.0,0,0,0,0,0,0,6,0,6
+Kings XI Punjab,M Kartik,abfeb126,11,0,0,0,0,0.0,"[5, 12, 14, 16]",4.0,24,5,0,40,5,0,0,0,0,0,0,10.0,1,0,0,0,0,0,3,8,11
+Kings XI Punjab,Sandeep Sharma,ce820073,12,0,0,0,0,0.0,"[1, 3, 6, 18]",4.0,24,8,0,37,4,1,1,0,0,0,1,9.25,0,0,0,0,0,0,33,0,33

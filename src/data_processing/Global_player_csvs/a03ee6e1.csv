@@ -1,0 +1,10 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-02-16'],East Asia Cup,1418543,China,4,2,7,0,0,28.57,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2024-02-16'],East Asia Cup,1418544,China,3,4,9,0,0,44.44,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,4,0,16,20
+['2024-02-15'],East Asia Cup,1418541,China,4,1,3,0,0,33.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2024-02-14'],East Asia Cup,1418539,China,4,1,9,0,0,11.11,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2024-01-28'],Asian Cricket Council Men's Challenger Cup,1418177,China,1,0,2,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2023-07-31'],ICC Men's T20 World Cup Asia B Qualifier,1383109,China,2,33,41,2,0,80.49,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,45,0,8,53
+['2023-07-30'],ICC Men's T20 World Cup Asia B Qualifier,1383106,China,3,0,3,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2023-07-27'],ICC Men's T20 World Cup Asia B Qualifier,1383103,China,3,0,2,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2023-07-26'],ICC Men's T20 World Cup Asia B Qualifier,1383101,China,3,5,8,0,0,62.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5

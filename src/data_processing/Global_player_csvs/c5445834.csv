@@ -1,0 +1,10 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-06-16'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436492,France,11,0,0,0,0,0.0,"9,11,17",3.0,18,8,0,24,1,2,2,0,0,0,1,8.0,0,0,0,0,0,0,58,0,58
+['2024-06-15'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436489,France,11,0,0,0,0,0.0,"7,9,17",3.0,18,3,0,29,2,1,1,0,0,0,3,9.67,0,0,0,0,0,0,28,0,28
+['2024-06-13'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436484,France,11,0,0,0,0,0.0,"7,9,11,14",4.0,24,13,0,26,3,1,0,0,0,0,1,6.5,1,0,0,0,0,0,15,8,23
+['2024-06-10'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436478,France,11,0,2,0,0,0.0,"7,9,11,13",4.0,24,8,0,26,3,0,0,0,0,0,0,6.5,0,0,0,0,0,-2,10,0,8
+['2024-06-09'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436473,France,11,0,0,0,0,0.0,"7,9,11,16",4.0,24,9,0,21,1,0,0,0,0,0,2,5.25,0,0,0,0,0,0,13,0,13
+['2024-05-11'],Mdina Cup,1432199,France,11,0,0,0,0,0.0,"6,8,10,16",4.0,24,11,0,37,3,3,1,1,0,0,0,9.25,0,0,0,0,0,0,44,0,44
+['2024-05-10'],Mdina Cup,1432196,France,10,2,2,0,0,100.0,"8,10,12,14",4.0,24,11,0,16,1,0,1,0,1,0,1,4.0,0,0,0,0,0,2,50,0,52
+['2024-05-09'],Mdina Cup,1432194,France,11,0,1,0,0,0.0,"12,14,16",3.0,18,4,0,27,0,2,0,0,0,0,1,9.0,1,0,0,0,0,-2,4,8,10
+['2024-05-09'],Mdina Cup,1432195,France,11,0,0,0,0,0.0,"8,10,12",3.0,18,14,1,11,1,0,1,1,0,0,3,3.67,0,0,0,0,0,0,65,0,65

@@ -1,0 +1,7 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-08-28'],Netherlands Tri-Nation T20I Series,1446766,Netherlands,11,0,0,0,0,0.0,"6,8,12,18",4.0,24,8,0,30,1,2,2,1,0,0,0,7.5,0,0,0,0,0,0,66,0,66
+['2024-08-26'],Netherlands Tri-Nation T20I Series,1446764,Netherlands,11,0,0,0,0,0.0,"7,9,11,17",4.0,24,11,0,13,0,0,2,1,0,0,0,3.25,0,0,0,0,0,0,75,0,75
+['2024-08-25'],Netherlands Tri-Nation T20I Series,1446763,Netherlands,10,0,0,0,0,0.0,"6,8,13",3.0,18,7,0,27,3,1,0,0,0,0,0,9.0,1,0,0,0,0,0,7,8,15
+['2024-08-23'],Netherlands Tri-Nation T20I Series,1446761,Netherlands,9,0,0,0,0,0.0,"9,11,17,19",4.0,24,9,0,25,1,1,1,1,0,0,0,6.25,0,0,0,0,0,0,44,0,44
+['2024-05-19'],Netherlands Tri-Nation T20I Series,1428152,Netherlands,10,0,0,0,0,0.0,"5,7,11,16",4.0,24,10,0,27,3,1,2,0,1,0,0,6.75,1,0,0,0,0,0,70,8,78
+['2024-05-18'],Netherlands Tri-Nation T20I Series,1428151,Netherlands,10,2,1,0,0,200.0,"5,7,12,16",4.0,24,10,0,35,4,1,2,0,0,0,0,8.75,1,0,0,0,0,2,60,8,70

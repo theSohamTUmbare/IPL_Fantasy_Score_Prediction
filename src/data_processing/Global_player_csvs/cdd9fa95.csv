@@ -1,0 +1,7 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-08-29'],Nepal tour of Kenya,1328477,Nepal,11,0,1,0,0,0.0,"11,13,15",3.0,18,8,0,15,0,1,1,0,0,0,0,5.0,1,0,0,1,0,0,37,14,51
+['2022-08-28'],Nepal tour of Kenya,1328476,Nepal,9,0,0,0,0,0.0,"8,10,12,14",4.0,24,10,0,28,1,2,0,0,0,0,0,7.0,0,0,0,0,0,0,12,0,12
+['2022-02-12'],Oman Quadrangular T20I Series,1299638,Nepal,9,0,0,0,0,0.0,"3,15",2.0,12,2,0,35,3,3,1,0,0,0,0,17.5,0,0,0,0,0,0,21,0,21
+['2021-04-20'],Nepal Tri-Nation T20I Series,1257948,Nepal,10,0,0,0,0,0.0,"9,11",2.0,12,4,0,23,1,2,0,0,0,0,0,11.5,0,0,0,0,0,0,0,0,0
+['2021-04-19'],Nepal Tri-Nation T20I Series,1257947,Nepal,10,0,0,0,0,0.0,"10,12,14",3.0,18,7,0,20,1,1,1,0,0,0,0,6.67,1,0,0,0,0,0,34,8,42
+['2021-04-17'],Nepal Tri-Nation T20I Series,1257945,Nepal,10,0,0,0,0,0.0,"7,10,14,16",4.0,24,7,0,45,3,3,1,0,0,0,0,11.25,0,0,0,0,0,0,28,0,28

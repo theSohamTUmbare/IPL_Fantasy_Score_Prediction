@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-08-04'],Spain tour of Croatia,1444950,Croatia,8,7,6,0,1,116.67,"2,11,16,18",4.0,24,5,0,50,2,3,0,0,0,0,9,12.5,0,0,0,1,0,13,-1,6,18
+['2024-08-04'],Spain tour of Croatia,1444951,Croatia,8,6,3,0,1,200.0,"2,4,6,20",4.0,24,11,0,33,4,1,0,0,0,0,3,8.25,0,0,0,0,0,12,11,0,23
+['2024-08-03'],Spain tour of Croatia,1444949,Croatia,9,0,7,0,0,0.0,"6,9",1.167,7,3,0,13,1,1,0,0,0,0,1,11.14,0,0,0,0,0,-2,3,0,1
+['2024-08-02'],Spain tour of Croatia,1444947,Croatia,8,1,5,0,0,20.0,"2,4,6,8",4.0,24,13,0,30,5,0,3,0,0,0,4,7.5,2,0,0,0,0,1,92,16,109

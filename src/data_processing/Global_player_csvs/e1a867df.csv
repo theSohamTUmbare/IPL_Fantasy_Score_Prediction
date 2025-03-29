@@ -1,0 +1,11 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-01-29'],Big Bash League,1324682,Melbourne Renegades,10,0,0,0,0,0.0,"2,4,9",3.0,18,9,0,24,3,1,1,0,0,0,1,8.0,1,0,0,0,0,0,34,8,42
+['2023-01-22'],Big Bash League,1324675,Melbourne Renegades,11,0,0,0,0,0.0,2,0.167,1,1,0,8,1,0,0,0,0,2,1,47.9,0,0,0,0,0,0,1,0,1
+['2023-01-10'],Big Bash League,1324659,Melbourne Renegades,11,0,0,0,0,0.0,"2,6,9,13",4.0,24,10,0,43,4,3,0,0,0,0,1,10.75,0,0,0,0,0,0,8,0,8
+['2022-12-24'],Big Bash League,1324637,Melbourne Renegades,11,0,0,0,0,0.0,"3,7,9,11",4.0,24,14,0,16,2,0,3,0,1,0,2,4.0,0,0,0,0,0,0,107,0,107
+['2022-01-14'],Big Bash League,1269686,Perth Scorchers,10,8,15,0,0,53.33,2,1.0,6,3,0,9,2,0,0,0,0,0,0,9.0,0,0,0,0,-4,4,3,0,7
+['2019-02-09'],Big Bash League,1152565,Hobart Hurricanes,9,0,0,0,0,0.0,5,1.0,6,1,0,17,3,0,0,0,0,0,1,17.0,0,0,0,0,0,0,1,0,1
+['2019-02-07'],Big Bash League,1152562,Hobart Hurricanes,10,0,0,0,0,0.0,"6,13,20",3.0,18,5,0,29,4,0,1,0,0,1,2,9.67,0,0,0,0,0,0,30,0,30
+['2019-01-31'],Big Bash League,1152557,Hobart Hurricanes,11,0,0,0,0,0.0,"8,10,17",3.0,18,4,0,23,2,0,0,0,0,0,1,7.67,0,0,0,0,0,0,4,0,4
+['2019-01-29'],Big Bash League,1152554,Hobart Hurricanes,11,0,0,0,0,0.0,"6,9,11,18",4.0,24,11,0,27,4,0,2,0,0,0,1,6.75,0,0,0,0,0,0,63,0,63
+['2019-01-18'],Big Bash League,1152544,Hobart Hurricanes,11,0,0,0,0,0.0,"4,13,15,18",4.0,24,7,0,43,4,2,2,0,0,0,3,10.75,0,0,0,0,0,0,55,0,55

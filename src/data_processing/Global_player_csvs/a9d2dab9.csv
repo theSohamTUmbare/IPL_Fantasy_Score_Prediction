@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2025-01-18'],Big Bash League,1443095,Perth Scorchers,1,29,20,3,1,145.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,53,0,0,53
+['2025-01-13'],Big Bash League,1443089,Perth Scorchers,1,1,1,0,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+['2025-01-11'],Big Bash League,1443086,Perth Scorchers,1,41,29,2,2,141.38,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,67,0,8,75
+['2024-01-20'],Big Bash League,1386135,Perth Scorchers,1,31,20,3,2,155.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,63,0,0,63

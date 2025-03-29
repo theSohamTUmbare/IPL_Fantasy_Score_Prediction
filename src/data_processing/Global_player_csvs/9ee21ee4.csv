@@ -1,0 +1,14 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-11-19'],Myanmar tour of Indonesia,1456872,Myanmar,8,3,5,0,0,60.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,3,0,12,15
+['2024-11-17'],Myanmar tour of Indonesia,1456871,Myanmar,4,8,15,0,0,53.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,-4,4,0,16,20
+['2024-11-16'],Myanmar tour of Indonesia,1456870,Myanmar,8,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2024-11-15'],Myanmar tour of Indonesia,1456869,Myanmar,8,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,1,0,0,0,22,22
+['2024-11-13'],Myanmar tour of Indonesia,1456868,Myanmar,11,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0,0,12,12
+['2024-11-12'],Myanmar tour of Indonesia,1456867,Myanmar,8,9,5,0,1,180.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
+['2024-09-09'],ICC Men's T20 World Cup Asia Qualifier A,1447495,Myanmar,6,5,6,0,0,83.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
+['2024-09-05'],ICC Men's T20 World Cup Asia Qualifier A,1447491,Myanmar,11,1,4,0,0,25.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2024-09-03'],ICC Men's T20 World Cup Asia Qualifier A,1447487,Myanmar,9,1,2,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2023-07-31'],ICC Men's T20 World Cup Asia B Qualifier,1383109,Myanmar,6,11,19,0,0,57.89,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,7,0,0,7
+['2023-07-30'],ICC Men's T20 World Cup Asia B Qualifier,1383107,Myanmar,1,0,5,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2023-07-28'],ICC Men's T20 World Cup Asia B Qualifier,1383105,Myanmar,3,5,18,0,0,27.78,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-1,0,0,-1
+['2023-07-26'],ICC Men's T20 World Cup Asia B Qualifier,1383102,Myanmar,6,10,20,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,6,0,0,6

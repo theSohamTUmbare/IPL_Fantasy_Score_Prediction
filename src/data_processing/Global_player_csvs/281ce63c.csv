@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-08-21'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1443768,Czech Republic,6,3,9,0,0,33.33,"6,8,16,20",4.0,24,5,0,47,4,1,2,0,2,0,5,11.75,0,0,0,0,0,3,67,0,70
+['2023-06-11'],Hungary tour of Czech Republic,1380586,Czech Republic,7,0,0,0,0,0.0,"1,2,4,18,20",4.5,27,10,0,25,2,0,1,0,0,0,3,5.56,1,0,1,0,0,0,39,20,59
+['2023-06-11'],Hungary tour of Czech Republic,1380587,Czech Republic,7,11,5,1,1,220.0,"2,18",2.0,12,4,0,20,3,0,0,0,0,1,2,10.0,1,0,0,0,0,21,2,8,31

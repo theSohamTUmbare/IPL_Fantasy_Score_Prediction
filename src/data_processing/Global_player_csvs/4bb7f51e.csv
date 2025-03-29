@@ -1,0 +1,8 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-12-10'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462888,Cayman Islands,10,0,0,0,0,0.0,"5,12,14",3.0,18,5,0,30,4,0,0,0,0,1,0,10.0,0,0,0,0,0,0,3,0,3
+['2024-12-08'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462887,Cayman Islands,11,3,3,0,0,100.0,"7,9,11,13",4.0,24,12,0,18,1,0,3,1,1,0,1,4.5,0,0,0,0,0,3,113,0,116
+['2024-12-07'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462883,Cayman Islands,9,0,0,0,0,0.0,"10,12,14",3.0,18,11,0,9,0,0,3,1,1,0,0,3.0,0,0,0,0,0,0,112,0,112
+['2023-03-04'],ICC Men's T20 World Cup Americas Region Qualifier,1359802,Cayman Islands,10,0,0,0,0,0.0,"5,7,13,15",4.0,24,10,0,25,2,0,1,0,1,0,2,6.25,0,0,0,0,0,0,45,0,45
+['2023-03-02'],ICC Men's T20 World Cup Americas Region Qualifier,1359799,Cayman Islands,11,0,0,0,0,0.0,"6,8,10,12",4.0,24,12,0,14,0,0,0,0,0,0,0,3.5,0,0,0,0,0,0,18,0,18
+['2023-02-28'],ICC Men's T20 World Cup Americas Region Qualifier,1359788,Cayman Islands,9,0,3,0,0,0.0,"6,8,10,18",4.0,24,11,0,18,0,1,1,0,0,0,0,4.5,1,0,0,0,0,-2,42,8,48
+['2023-02-25'],ICC Men's T20 World Cup Americas Region Qualifier,1359795,Cayman Islands,10,3,11,0,0,27.27,"8,10,12,14",4.0,24,14,0,19,1,1,2,0,0,0,0,4.75,0,0,0,0,-6,-3,70,0,67

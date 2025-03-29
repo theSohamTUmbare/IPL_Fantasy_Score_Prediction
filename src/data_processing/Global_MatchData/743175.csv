@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Barbados Tridents,DR Smith,35205dfc,1,5,4,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
+Barbados Tridents,SO Dowrich,dc2f959a,2,9,24,1,0,37.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,7,0,0,7
+Barbados Tridents,BMAJ Mendis,9868bc75,3,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
+Barbados Tridents,Shoaib Malik,64c34cd0,4,81,43,5,6,188.37,"[2, 10, 12]",3.0,18,6,0,26,3,1,0,0,0,0,1,8.67,0,0,0,0,6,155,6,0,161
+Barbados Tridents,ND McKenzie,a830c083,5,9,21,0,0,42.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,3,0,0,3
+Barbados Tridents,KA Pollard,a757b0d8,6,6,12,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,-4,2,0,28,30
+Barbados Tridents,JO Holder,0f721006,7,7,6,1,0,116.67,"[3, 5, 7, 15]",4.0,24,15,0,21,1,2,0,0,0,0,0,5.25,0,0,0,0,0,11,19,0,30
+Barbados Tridents,AJ Hosein,4d7f517e,8,1,6,0,0,16.67,[9],1.0,6,3,0,4,0,0,0,0,0,0,1,4.0,0,0,0,0,0,1,3,0,4
+Barbados Tridents,AR Nurse,4a745f65,8,0,0,0,0,0.0,"[4, 8, 14, 16]",4.0,24,8,0,39,3,1,1,0,0,0,7,9.75,1,0,0,0,0,0,33,8,41
+Barbados Tridents,RR Emrit,e7de4f6b,9,0,0,0,0,0.0,"[1, 11, 18, 20]",4.0,24,10,0,35,3,2,3,0,0,0,1,8.75,0,0,0,0,0,0,89,0,89
+Barbados Tridents,R Rampaul,d68e7f48,10,0,0,0,0,0.0,"[6, 13, 17, 19]",4.0,24,13,0,18,2,0,4,2,0,0,1,4.5,1,0,0,0,0,0,143,8,151
+Jamaica Tallawahs,CAK Walton,bbff906c,1,25,24,4,1,104.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,51,0,8,59
+Jamaica Tallawahs,CH Gayle,db584dad,2,39,38,2,2,102.63,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,63,0,0,63
+Jamaica Tallawahs,OA Shah,7bf96684,3,42,36,3,2,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,70,0,0,70
+Jamaica Tallawahs,AD Russell,bbd41817,4,1,2,0,0,50.0,"[6, 14, 16, 19]",4.0,24,9,0,32,3,1,1,0,0,0,2,8.0,0,0,0,0,0,1,34,0,35
+Jamaica Tallawahs,AC Voges,864c199e,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Jamaica Tallawahs,DE Bernard,e0557f7f,6,5,6,1,0,83.33,"[1, 3, 5, 7]",4.0,24,11,0,20,2,0,2,0,0,0,1,5.0,0,0,0,0,0,9,65,0,74
+Jamaica Tallawahs,DL Vettori,d7c6af50,7,0,2,0,0,0.0,"[8, 10, 12]",3.0,18,7,0,16,0,1,0,0,0,0,0,5.33,0,0,0,0,0,-2,11,0,9
+Jamaica Tallawahs,J Theron,dec8e038,8,9,6,2,0,150.0,"[9, 11, 17]",3.0,18,3,0,39,3,3,0,0,0,0,1,13.0,0,0,0,0,0,17,-3,0,14
+Jamaica Tallawahs,NO Miller,ea3ffd1b,8,0,0,0,0,0.0,"[13, 15]",2.0,12,6,0,7,0,0,1,0,1,0,1,3.5,0,0,0,0,0,0,45,0,45
+Jamaica Tallawahs,J Blackwood,c3b93a03,9,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
+Jamaica Tallawahs,JE Taylor,4180d897,10,9,3,0,1,300.0,"[2, 4, 18, 20]",4.0,24,16,0,11,0,1,2,0,1,0,0,2.75,2,0,0,0,0,15,80,16,111

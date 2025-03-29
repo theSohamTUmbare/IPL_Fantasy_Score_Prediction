@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-07-09'],Quadrangular Twenty20 Series (Malaysia),1322009,Thailand,9,0,0,0,0,0.0,"7,17",2.0,12,2,0,24,3,0,1,0,0,1,2,12.0,1,0,0,0,0,0,23,8,31
+['2022-07-08'],Quadrangular Twenty20 Series (Malaysia),1322007,Thailand,10,4,4,0,0,100.0,"5,7",2.0,12,3,0,10,0,0,0,0,0,0,1,5.0,0,0,0,1,0,4,7,6,17
+['2022-07-07'],Quadrangular Twenty20 Series (Malaysia),1322006,Thailand,10,6,13,0,0,46.15,7,1.0,6,3,0,9,1,0,1,0,0,1,0,9.0,0,0,0,0,-6,0,28,0,28

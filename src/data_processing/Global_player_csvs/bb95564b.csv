@@ -1,0 +1,32 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2025-02-03'],Bangladesh Premier League,1459579,Rangpur Riders,3,4,10,0,0,40.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2
+['2025-01-30'],Bangladesh Premier League,1459575,Rangpur Riders,3,6,9,0,0,66.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6
+['2025-01-29'],Bangladesh Premier League,1459573,Rangpur Riders,3,8,8,2,0,100.0,13,1.0,6,2,0,8,1,0,0,0,0,0,0,8.0,0,0,0,1,0,16,2,6,24
+['2025-01-26'],Bangladesh Premier League,1459570,Rangpur Riders,3,0,3,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2025-01-23'],Bangladesh Premier League,1459567,Rangpur Riders,3,43,29,5,2,148.28,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,81,0,0,81
+['2025-01-17'],Bangladesh Premier League,1459560,Rangpur Riders,3,17,18,2,0,94.44,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
+['2025-01-13'],Bangladesh Premier League,1459556,Rangpur Riders,3,7,11,1,0,63.64,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,-2,9,0,12,21
+['2025-01-09'],Bangladesh Premier League,1459549,Rangpur Riders,3,22,19,3,1,115.79,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,40,0,8,48
+['2025-01-07'],Bangladesh Premier League,1459547,Rangpur Riders,3,13,15,1,0,86.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
+['2025-01-06'],Bangladesh Premier League,1459545,Rangpur Riders,3,80,49,3,8,163.27,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,156,0,0,156
+['2025-01-02'],Bangladesh Premier League,1459542,Rangpur Riders,4,62,46,6,3,134.78,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,114,0,0,114
+['2024-12-31'],Bangladesh Premier League,1459540,Rangpur Riders,3,4,7,1,0,57.14,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16
+['2024-12-30'],Bangladesh Premier League,1459538,Rangpur Riders,3,40,33,2,2,121.21,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,64,0,16,80
+['2024-02-16'],Bangladesh Premier League,1412306,Durdanto Dhaka,3,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2024-02-14'],Bangladesh Premier League,1412304,Durdanto Dhaka,3,2,4,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
+['2024-02-10'],Bangladesh Premier League,1412301,Durdanto Dhaka,3,12,13,1,1,92.31,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
+['2024-02-09'],Bangladesh Premier League,1412299,Durdanto Dhaka,3,57,42,4,3,135.71,15,1.0,6,2,0,20,0,3,0,0,0,0,1,20.0,1,0,0,0,2,101,2,8,111
+['2024-02-07'],Bangladesh Premier League,1412297,Durdanto Dhaka,3,41,32,6,1,128.12,"5,7",2.0,12,4,0,14,2,0,0,0,0,0,0,7.0,0,0,0,0,0,75,6,0,81
+['2024-02-02'],Bangladesh Premier League,1412290,Durdanto Dhaka,3,17,19,2,0,89.47,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
+['2024-01-22'],Bangladesh Premier League,1412278,Durdanto Dhaka,3,9,9,2,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
+['2024-01-19'],Bangladesh Premier League,1412274,Durdanto Dhaka,5,7,8,0,0,87.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,7,0,0,7
+['2023-10-07'],Asian Games Men's Cricket Competition,1399119,Bangladesh,3,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2023-10-06'],Asian Games Men's Cricket Competition,1399117,Bangladesh,3,1,2,0,0,50.0,2,1.0,6,2,0,10,0,1,0,0,0,0,0,10.0,0,0,0,0,0,1,2,0,3
+['2023-10-04'],Asian Games Men's Cricket Competition,1399116,Bangladesh,4,50,52,1,3,96.15,"2,4,6,18",4.0,24,15,0,17,2,0,0,0,0,0,5,4.25,0,0,0,0,0,80,21,0,101
+['2023-01-31'],Bangladesh Premier League,1351082,Fortune Barishal,2,15,19,3,0,78.95,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27
+['2023-01-27'],Bangladesh Premier League,1351077,Fortune Barishal,2,10,9,2,0,111.11,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
+['2023-01-24'],Bangladesh Premier League,1351074,Fortune Barishal,1,31,19,0,4,163.16,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,63,0,8,71
+['2023-01-20'],Bangladesh Premier League,1351071,Fortune Barishal,1,10,6,2,0,166.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
+['2021-11-20'],Pakistan tour of Bangladesh,1277975,Bangladesh,2,0,1,0,0,0.0,19,0.167,1,0,0,1,0,0,0,0,0,0,0,5.99,1,0,0,0,0,-2,0,8,6
+['2021-11-19'],Pakistan tour of Bangladesh,1277974,Bangladesh,2,1,8,0,0,12.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2019-12-21'],Bangladesh Premier League,1208081,Khulna Tigers,2,20,20,2,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28

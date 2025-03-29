@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Chennai Super Kings,F du Plessis,3355b542,1,26,13,3,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,54,0,8,62
+Chennai Super Kings,SR Watson,4329fbb5,2,80,59,8,4,135.59,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,150,0,0,150
+Chennai Super Kings,SK Raina,1dc12ab9,3,8,14,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,4,0,8,12
+Chennai Super Kings,AT Rayudu,70d205c9,4,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Chennai Super Kings,MS Dhoni,4a8a2e3b,5,2,8,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,2,0,16,18
+Chennai Super Kings,DJ Bravo,87e562a9,6,15,15,0,1,100.0,"[8, 10, 20]",3.0,18,7,0,24,4,0,0,0,0,0,1,8.0,0,0,0,0,0,21,7,0,28
+Chennai Super Kings,RA Jadeja,fe93fd9d,7,5,5,0,0,100.0,"[14, 16]",2.0,12,3,0,12,1,0,0,0,0,0,0,6.0,0,0,0,0,0,5,5,0,10
+Chennai Super Kings,DL Chahar,23eeb873,8,0,0,0,0,0.0,"[1, 3, 6, 19]",4.0,24,17,1,26,1,3,3,1,0,0,1,6.5,0,0,0,0,0,0,118,0,118
+Chennai Super Kings,SN Thakur,1abb78f8,8,2,2,0,0,100.0,"[2, 5, 13, 18]",4.0,24,10,0,37,0,4,2,0,0,0,0,9.25,1,0,0,0,0,2,60,8,70
+Chennai Super Kings,Harbhajan Singh,8b5b6769,9,0,0,0,0,0.0,"[4, 7, 9, 11]",4.0,24,7,0,27,3,0,0,0,0,0,1,6.75,0,0,0,0,0,0,9,0,9
+Chennai Super Kings,Imran Tahir,acee4cc4,10,0,0,0,0,0.0,"[12, 15, 17]",3.0,18,7,0,23,0,2,2,0,1,0,0,7.67,0,0,0,0,0,0,65,0,65
+Mumbai Indians,Q de Kock,372455c4,1,29,17,0,4,170.59,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,0,0,6,63,0,28,91
+Mumbai Indians,RG Sharma,740742ef,2,15,14,1,1,107.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
+Mumbai Indians,SA Yadav,271f83cd,3,15,17,1,0,88.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
+Mumbai Indians,Ishan Kishan,752f7486,4,23,26,3,0,88.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,35,0,0,35
+Mumbai Indians,KH Pandya,5b8c830e,5,7,7,0,0,100.0,"[2, 4, 18]",3.0,18,8,0,39,3,4,1,0,0,0,0,13.0,0,0,0,0,0,7,27,0,34
+Mumbai Indians,KA Pollard,a757b0d8,6,41,25,3,3,164.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,79,0,0,79
+Mumbai Indians,HH Pandya,dbe50b21,7,16,10,1,1,160.0,[13],1.0,6,4,0,3,0,0,0,0,0,0,1,3.0,0,0,0,0,4,30,4,0,34
+Mumbai Indians,SL Malinga,a12e1d51,8,0,0,0,0,0.0,"[3, 6, 16, 20]",4.0,24,7,0,49,5,2,1,1,0,0,1,12.25,0,0,0,0,0,0,34,0,34
+Mumbai Indians,RD Chahar,2ed569a0,8,0,2,0,0,0.0,"[8, 10, 12, 14]",4.0,24,13,0,14,1,0,1,1,0,0,0,3.5,0,0,0,0,0,-2,52,0,50
+Mumbai Indians,MJ McClenaghan,51a3c5ef,9,0,2,0,0,0.0,"[1, 7, 9, 15]",4.0,24,12,0,24,2,0,0,0,0,0,2,6.0,0,0,0,0,0,0,14,0,14
+Mumbai Indians,JJ Bumrah,462411b3,10,0,0,0,0,0.0,"[5, 11, 17, 19]",4.0,24,11,0,14,0,0,2,0,0,0,0,3.5,0,0,0,0,0,0,67,0,67

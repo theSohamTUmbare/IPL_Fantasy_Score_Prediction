@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Guyana Amazon Warriors,LMP Simmons,89f64c19,1,36,27,3,2,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,66,0,0,66
+Guyana Amazon Warriors,MJ Guptill,2be41edb,2,50,47,2,3,106.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,84,0,16,100
+Guyana Amazon Warriors,LR Johnson,b8f3362a,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Guyana Amazon Warriors,Mohammad Hafeez,9ab63e7b,3,17,22,1,0,77.27,"[1, 3, 5, 7]",4.0,24,11,0,24,3,0,0,0,0,0,1,6.0,0,0,0,0,0,21,13,0,34
+Guyana Amazon Warriors,D Ramdin,d1523761,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Guyana Amazon Warriors,JDS Neesham,9219eff0,5,0,0,0,0,0.0,"[15, 17]",2.0,12,6,0,15,1,1,1,0,1,0,1,7.5,1,0,0,0,0,0,39,8,47
+Guyana Amazon Warriors,CD Barnwell,0d51e658,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Guyana Amazon Warriors,SP Narine,9d430b40,7,0,0,0,0,0.0,"[9, 11, 13, 16]",4.0,24,14,0,21,1,0,2,1,0,0,4,5.25,0,0,0,0,0,0,76,0,76
+Guyana Amazon Warriors,V Permaul,78dfe704,8,0,0,0,0,0.0,"[6, 8, 14]",3.0,18,7,0,15,1,0,1,0,1,0,0,5.0,0,0,0,0,0,0,44,0,44
+Guyana Amazon Warriors,K Santokie,531f0278,9,0,0,0,0,0.0,"[2, 4, 18, 20]",3.333,20,12,0,11,0,0,4,0,1,0,0,3.3,0,0,0,0,0,0,134,0,134
+Guyana Amazon Warriors,RR Beaton,684a56df,10,0,0,0,0,0.0,"[10, 12, 19]",3.0,18,5,0,30,2,2,1,0,1,0,1,10.0,0,0,0,0,0,0,36,0,36
+St Lucia Zouks,J Charles,09a9d073,1,13,11,2,0,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
+St Lucia Zouks,H Davids,9c9f8dbc,2,4,5,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+St Lucia Zouks,ADS Fletcher,1bae756b,3,4,9,0,0,44.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+St Lucia Zouks,K Lesporis,fb496f7a,4,11,12,0,0,91.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
+St Lucia Zouks,SW Ambris,c7f6dd3b,5,13,18,1,0,72.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
+St Lucia Zouks,RE van der Merwe,05c2ca46,6,6,11,0,0,54.55,"[7, 9]",2.0,12,4,0,14,0,1,0,0,0,0,0,7.0,0,0,0,0,-4,2,6,0,8
+St Lucia Zouks,DJG Sammy,c03c6200,7,2,6,0,0,33.33,"[10, 12]",2.0,12,8,0,8,1,0,1,0,1,0,0,4.0,0,0,0,0,0,2,47,0,49
+St Lucia Zouks,Sohail Tanvir,64d43928,8,32,25,3,1,128.0,"[2, 4, 14, 16]",4.0,24,9,0,28,1,1,0,0,0,0,0,7.0,0,0,0,0,0,54,11,0,65
+St Lucia Zouks,S Shillingford,d76b0d2d,9,0,3,0,0,0.0,"[6, 8, 15]",3.0,18,9,0,17,1,1,0,0,0,0,1,5.67,0,0,0,0,0,-2,13,0,11
+St Lucia Zouks,M Matthew,e9200997,10,21,10,1,2,210.0,[5],1.0,6,1,0,17,2,1,0,0,0,0,0,17.0,0,0,0,0,6,43,1,0,44
+St Lucia Zouks,TL Best,db767b89,11,3,6,0,0,50.0,"[1, 3, 11, 13]",4.0,24,12,0,20,1,1,0,0,0,0,0,5.0,0,0,0,0,0,3,16,0,19

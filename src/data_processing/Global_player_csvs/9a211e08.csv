@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2017-01-20'],Big Bash League,1023639,Brisbane Heat,9,0,1,0,0,0.0,"6,16",2.0,12,3,0,21,3,0,1,0,0,0,0,10.5,0,0,0,0,0,0,26,0,26
+['2017-01-05'],Big Bash League,1023613,Brisbane Heat,9,0,0,0,0,0.0,"5,10,15,18",4.0,24,6,0,42,5,1,2,0,0,0,4,10.5,2,0,0,0,0,0,54,16,70
+['2017-01-03'],Big Bash League,1023609,Brisbane Heat,8,8,3,0,1,266.67,"8,10,12",3.0,18,6,0,29,1,2,1,0,0,0,0,9.67,0,0,0,0,0,14,31,0,45
+['2011-12-20'],Big Bash League,524919,Brisbane Heat,8,2,6,0,0,33.33,10,1.0,6,2,0,16,2,1,0,0,0,0,0,16.0,1,0,0,0,0,2,2,8,12
+['2011-12-16'],Big Bash League,524915,Brisbane Heat,9,1,5,0,0,20.0,"8,11",2.0,12,3,0,21,2,1,0,0,0,0,1,10.5,0,0,0,0,0,1,1,0,2

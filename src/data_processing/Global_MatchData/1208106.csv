@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Cumilla Warriors,S van Zyl,f4dfcbb4,1,10,13,1,0,76.92,"[13, 15]",2.0,12,0,0,31,3,2,0,0,0,0,0,15.5,0,0,0,0,0,14,-6,0,8
+Cumilla Warriors,Sabbir Rahman,7147f314,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+Cumilla Warriors,WU Tharanga,7ed9fd56,3,32,23,6,0,139.13,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,62,0,0,62
+Cumilla Warriors,DJ Malan,ad9c32a2,4,8,5,2,0,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
+Cumilla Warriors,Soumya Sarkar,4d9f9686,5,10,17,0,0,58.82,"[7, 9, 12, 20]",4.0,24,5,0,30,1,1,0,0,0,0,3,7.5,0,0,0,0,-4,6,5,0,11
+Cumilla Warriors,Yasir Ali Chowdhury,5791b840,6,20,16,1,1,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30
+Cumilla Warriors,Fardeen Hasan,23667d99,7,22,22,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
+Cumilla Warriors,Abu Hider,31803fac,8,3,5,0,0,60.0,"[2, 5, 10, 18]",4.0,24,3,0,57,5,3,0,0,0,0,1,14.25,0,0,0,0,0,3,-3,0,0
+Cumilla Warriors,Mujeeb Ur Rahman,7d92277a,9,2,8,0,0,25.0,"[4, 6, 14, 17]",4.0,24,9,0,18,0,0,1,0,0,0,3,4.5,0,0,0,0,0,2,40,0,42
+Cumilla Warriors,Sumon Khan,a84ccd7d,10,9,7,0,1,128.57,"[8, 11, 19]",3.0,18,1,0,40,5,1,0,0,0,0,3,13.33,0,0,0,0,0,15,-5,0,10
+Cumilla Warriors,Ifran Hossain,9ff33bef,11,1,3,0,0,33.33,"[1, 3, 16]",3.0,18,5,0,38,3,3,1,1,0,0,0,12.67,0,0,0,0,0,1,32,0,33
+Khulna Tigers,Nazmul Hossain Shanto,1274d7ab,1,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Khulna Tigers,Mehedi Hasan Miraz,c58b0108,2,74,45,5,3,164.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,124,0,0,124
+Khulna Tigers,RR Rossouw,cad00a4d,3,24,11,0,3,218.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,48,0,8,56
+Khulna Tigers,Mushfiqur Rahim,a94e08ea,4,98,57,12,3,171.93,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,182,0,0,182
+Khulna Tigers,Najibullah Zadran,1212cbec,5,7,4,0,1,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
+Khulna Tigers,Shamsur Rahman,02789d88,11,0,0,0,0,0.0,"[6, 9]",2.0,12,5,0,17,3,0,1,0,0,0,1,8.5,1,0,0,0,0,0,30,8,38
+Khulna Tigers,R Frylinck,8b248d88,12,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,11,0,25,2,1,1,0,0,0,1,6.25,0,0,0,0,0,0,38,0,38
+Khulna Tigers,Mohammad Amir,e174dadd,13,0,0,0,0,0.0,"[1, 3, 12, 17]",4.0,24,11,0,24,1,1,2,1,1,0,1,6.0,0,0,0,0,0,0,79,0,79
+Khulna Tigers,Shafiul Islam,1a8eebbe,14,0,0,0,0,0.0,"[11, 13]",2.0,12,5,0,11,1,0,0,0,0,0,0,5.5,0,0,0,0,0,0,9,0,9
+Khulna Tigers,Shohidul Islam,607ed7c2,15,0,0,0,0,0.0,"[5, 7, 15, 19]",4.0,24,9,0,27,3,0,3,0,1,1,2,6.75,1,0,0,0,0,0,98,8,106
+Khulna Tigers,Aminul Islam,f8ce577b,16,0,0,0,0,0.0,"[8, 10, 14, 16]",4.0,24,10,0,19,0,1,2,0,0,0,0,4.75,1,0,0,0,0,0,66,8,74

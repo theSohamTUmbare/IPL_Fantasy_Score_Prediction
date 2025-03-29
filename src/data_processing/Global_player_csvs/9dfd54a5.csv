@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2018-12-27'],Big Bash League,1152520,Sydney Sixers,11,0,1,0,0,0.0,7,1.0,6,0,0,23,3,1,0,0,0,0,2,23.0,0,0,0,0,0,0,0,0,0
+['2016-01-18'],Big Bash League,897757,Adelaide Strikers,11,0,0,0,0,0.0,"1,13",2.0,12,2,0,38,2,4,0,0,0,0,1,19.0,0,0,0,0,0,0,-4,0,-4
+['2016-01-13'],Big Bash League,897749,Adelaide Strikers,11,0,0,0,0,0.0,"3,7,9,13",4.0,24,12,0,24,1,1,2,0,0,0,2,6.0,1,0,0,0,0,0,64,8,72

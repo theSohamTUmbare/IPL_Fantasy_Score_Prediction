@@ -1,0 +1,19 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-07-09'],Quadrangular Twenty20 Series (Malaysia),1322009,Thailand,5,13,18,0,0,72.22,"6,8,10,12",4.0,24,10,0,22,1,1,0,0,0,0,0,5.5,0,0,0,1,0,13,14,6,33
+['2022-07-08'],Quadrangular Twenty20 Series (Malaysia),1322007,Thailand,6,10,17,0,0,58.82,"6,8,10,12",4.0,24,15,0,10,0,0,2,0,1,0,1,2.5,2,0,0,0,-4,6,79,16,101
+['2022-07-07'],Quadrangular Twenty20 Series (Malaysia),1322006,Thailand,5,18,15,1,0,120.0,"6,8",2.0,12,6,0,13,2,0,0,0,0,0,0,6.5,0,0,0,0,0,22,8,0,30
+['2022-07-06'],Quadrangular Twenty20 Series (Malaysia),1322003,Thailand,6,2,4,0,0,50.0,"4,6,10",2.667,16,10,0,7,0,0,0,0,0,0,0,2.62,0,0,0,0,0,2,16,0,18
+['2022-07-04'],Quadrangular Twenty20 Series (Malaysia),1322001,Thailand,5,4,23,0,0,17.39,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2
+['2020-03-04'],ACC Eastern Region T20,1217744,Thailand,11,1,1,0,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2020-03-03'],ACC Eastern Region T20,1217743,Thailand,10,3,10,0,0,30.0,7,1.0,6,2,0,15,2,1,0,0,0,0,0,15.0,0,0,0,0,-6,-3,2,0,-1
+['2020-03-01'],ACC Eastern Region T20,1217741,Thailand,10,1,2,0,0,50.0,"10,12",1.833,11,2,0,17,0,1,1,0,0,0,0,9.27,0,0,0,0,0,1,27,0,28
+['2020-02-29'],ACC Eastern Region T20,1217738,Thailand,10,2,5,0,0,40.0,"11,13,15,17",4.0,24,2,0,30,1,0,0,0,0,0,1,7.5,0,0,0,0,0,2,2,0,4
+['2019-06-29'],Malaysia Tri-Nation T20I Series,1186493,Thailand,10,0,0,0,0,0.0,"7,9,11,17",4.0,24,12,0,28,0,3,0,0,0,0,0,7.0,0,0,0,0,0,0,14,0,14
+['2019-06-27'],Malaysia Tri-Nation T20I Series,1186491,Thailand,10,0,0,0,0,0.0,"8,10,12,14",4.0,24,9,1,28,2,1,1,0,1,0,1,7.0,0,0,0,0,0,0,56,0,56
+['2019-06-26'],Malaysia Tri-Nation T20I Series,1186490,Thailand,10,0,0,0,0,0.0,"8,10,12,18",4.0,24,14,0,15,0,1,1,0,0,0,0,3.75,1,0,0,0,0,0,45,8,53
+['2019-06-24'],Malaysia Tri-Nation T20I Series,1186488,Thailand,10,0,0,0,0,0.0,"7,9,11,15",4.0,24,11,0,19,1,0,1,0,0,0,1,4.75,1,0,0,0,0,0,42,8,50
+['2018-10-10'],ICC World Twenty20 Asia Region Qualifier B,1160962,Thailand,11,0,0,0,0,0.0,"1,3,5",3.0,18,15,0,4,0,0,0,0,0,0,1,1.33,0,0,0,0,0,0,21,0,21
+['2018-10-09'],ICC World Twenty20 Asia Region Qualifier B,1160957,Thailand,11,2,2,0,0,100.0,"2,4,7",3.0,18,8,0,21,2,1,1,1,0,0,0,7.0,0,0,0,0,0,2,43,0,45
+['2018-10-07'],ICC World Twenty20 Asia Region Qualifier B,1160956,Thailand,11,0,0,0,0,0.0,"6,8,16,18",4.0,24,9,0,29,3,1,2,0,0,0,0,7.25,0,0,0,0,0,0,59,0,59
+['2018-10-04'],ICC World Twenty20 Asia Region Qualifier B,1160949,Thailand,9,0,0,0,0,0.0,"9,11,13,18",4.0,24,8,0,24,2,0,3,0,1,0,0,6.0,0,0,0,0,0,0,97,0,97
+['2018-10-03'],ICC World Twenty20 Asia Region Qualifier B,1160946,Thailand,9,0,0,0,0,0.0,"14,16,18,20",4.0,24,21,2,4,0,0,1,0,0,0,0,1.0,1,0,0,0,0,0,76,8,84

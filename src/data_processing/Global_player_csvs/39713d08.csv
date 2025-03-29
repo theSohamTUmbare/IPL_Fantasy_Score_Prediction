@@ -1,0 +1,24 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-02-19'],ICC Men's T20 World Cup Qualifier A,1299572,United Arab Emirates,7,4,1,1,0,400.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,8,0,12,20
+['2022-02-13'],Oman Quadrangular T20I Series,1299592,United Arab Emirates,7,6,5,0,0,120.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,0,6,0,12,18
+['2022-02-12'],Oman Quadrangular T20I Series,1299638,United Arab Emirates,5,14,8,1,1,175.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,24,0,8,32
+['2019-10-30'],ICC Men's T20 World Cup Qualifier,1199543,United Arab Emirates,7,2,3,0,0,66.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2019-10-29'],ICC Men's T20 World Cup Qualifier,1199541,United Arab Emirates,7,16,27,1,0,59.26,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,16,0,0,16
+['2019-10-27'],ICC Men's T20 World Cup Qualifier,1199540,United Arab Emirates,9,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2019-10-24'],ICC Men's T20 World Cup Qualifier,1199526,United Arab Emirates,6,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2019-10-22'],ICC Men's T20 World Cup Qualifier,1199519,United Arab Emirates,6,6,3,0,1,200.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,12,0,20,32
+['2019-10-21'],ICC Men's T20 World Cup Qualifier,1199513,United Arab Emirates,8,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2019-10-19'],ICC Men's T20 World Cup Qualifier,1199507,United Arab Emirates,7,2,4,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2019-08-08'],United Arab Emirates tour of Netherlands,1191008,United Arab Emirates,7,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2019-08-05'],United Arab Emirates tour of Netherlands,1191006,United Arab Emirates,6,11,8,1,0,137.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
+['2019-03-16'],United States of America tour of United Arab Emirates,1177485,United Arab Emirates,5,17,8,2,1,212.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31
+['2019-03-15'],United States of America tour of United Arab Emirates,1177484,United Arab Emirates,8,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2019-02-03'],Nepal tour of United Arab Emirates,1170459,United Arab Emirates,5,11,9,1,0,122.22,6,1.0,6,2,0,13,1,1,1,0,0,0,0,13.0,1,0,0,0,0,15,27,8,50
+['2019-02-01'],Nepal tour of United Arab Emirates,1170458,United Arab Emirates,6,11,15,1,0,73.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
+['2019-01-31'],Nepal tour of United Arab Emirates,1170457,United Arab Emirates,6,20,15,1,1,133.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,32,0,0,32
+['2018-04-27'],ICC World Twenty20 Asia Region Qualifier A,1142224,United Arab Emirates,5,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2018-04-26'],ICC World Twenty20 Asia Region Qualifier A,1142220,United Arab Emirates,4,16,12,0,1,133.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,24,0,16,40
+['2018-04-24'],ICC World Twenty20 Asia Region Qualifier A,1142217,United Arab Emirates,6,35,29,2,2,120.69,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,59,0,8,67
+['2018-04-23'],ICC World Twenty20 Asia Region Qualifier A,1142216,United Arab Emirates,6,20,13,0,2,153.85,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,36,0,0,36
+['2018-04-21'],ICC World Twenty20 Asia Region Qualifier A,1142213,United Arab Emirates,10,0,0,0,0,0.0,5,1.0,6,3,0,9,0,0,0,0,0,0,5,9.0,0,0,0,0,0,0,3,0,3
+['2018-04-20'],ICC World Twenty20 Asia Region Qualifier A,1142210,United Arab Emirates,5,20,20,1,1,100.0,6,1.0,6,3,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,30,3,0,33

@@ -1,0 +1,15 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2021-10-27'],ICC Men's T20 World Cup,1273732,Scotland,5,4,13,0,0,30.77,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2
+['2021-10-09'],Namibia v Scotland T20I Match,1280058,Scotland,5,23,25,1,1,92.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33
+['2019-10-27'],ICC Men's T20 World Cup Qualifier,1199539,Scotland,7,3,4,0,0,75.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2019-10-22'],ICC Men's T20 World Cup Qualifier,1199517,Scotland,2,0,2,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2019-09-16'],Ireland Tri-Nation T20I Series,1200425,Scotland,8,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2019-02-17'],Oman Quadrangular T20I Series,1172510,Scotland,6,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2019-02-15'],Oman Quadrangular T20I Series,1172508,Scotland,6,19,12,2,1,158.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,37,0,0,37
+['2019-02-13'],Oman Quadrangular T20I Series,1172505,Scotland,6,27,19,2,1,142.11,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,47,0,0,47
+['2017-01-20'],Desert T20 Challenge,1074970,Scotland,8,1,4,0,0,25.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2017-01-19'],Desert T20 Challenge,1074968,Scotland,5,5,4,0,0,125.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
+['2017-01-17'],Desert T20 Challenge,1074964,Scotland,6,21,21,2,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29
+['2017-01-14'],Desert T20 Challenge,1074957,Scotland,5,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2015-06-20'],Scotland in Ireland T20I Series,889463,Scotland,8,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2012-03-18'],ICC World Twenty20 Qualifier,546442,Scotland,8,1,1,0,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,1,0,12,13

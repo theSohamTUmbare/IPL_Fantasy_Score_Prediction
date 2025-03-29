@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Adelaide Strikers,MW Short,a90e53ec,1,38,26,3,1,146.15,"[2, 4, 10]",3.0,18,5,0,36,4,2,0,0,0,0,0,12.0,0,0,0,0,2,62,1,0,63
+Adelaide Strikers,HJ Hunt,62ef4abe,2,3,10,0,0,30.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-3,0,0,-3
+Adelaide Strikers,CA Lynn,45eda7c8,3,87,58,9,3,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,153,0,0,153
+Adelaide Strikers,AJ Hose,104e88a4,4,5,3,1,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17
+Adelaide Strikers,C de Grandhomme,94d7f855,5,30,18,5,0,166.67,[6],1.0,6,0,0,17,1,1,0,0,0,1,0,17.0,0,0,0,0,4,58,0,0,58
+Adelaide Strikers,HJ Nielsen,0ea1455a,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Adelaide Strikers,WA Agar,15de1f5d,6,0,0,0,0,0.0,"[3, 12, 17]",3.0,18,2,0,44,5,2,1,0,1,0,3,14.67,0,0,0,0,0,0,29,0,29
+Adelaide Strikers,Rashid Khan,5f547c8b,6,2,3,0,0,66.67,"[5, 8, 11, 15]",4.0,24,6,0,43,5,2,1,0,0,0,0,10.75,0,0,0,0,0,2,29,0,31
+Adelaide Strikers,T Kelly,6ceb94d0,7,3,2,0,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+Adelaide Strikers,HNA Conway,272fc5ad,7,0,0,0,0,0.0,"[1, 13, 18]",2.333,14,5,0,15,0,1,0,0,0,0,1,6.43,0,0,0,0,0,0,7,0,7
+Adelaide Strikers,PM Siddle,bd93fea4,8,0,0,0,0,0.0,"[7, 9, 14, 16]",4.0,24,8,0,21,1,0,1,0,1,0,1,5.25,0,0,0,0,0,0,45,0,45
+Hobart Hurricanes,CP Jewell,806c4e58,1,54,27,4,4,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,108,0,16,124
+Hobart Hurricanes,BR McDermott,c41043e6,2,53,33,5,2,160.61,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,97,0,8,105
+Hobart Hurricanes,MS Wade,afa7e784,3,9,9,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,13,0,6,19
+Hobart Hurricanes,DJM Short,1a156c88,4,27,22,4,0,122.73,"[6, 14]",2.0,12,1,0,28,4,1,0,0,0,0,0,14.0,1,0,0,0,0,47,-5,8,50
+Hobart Hurricanes,TH David,f1f99156,5,27,13,2,2,207.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,57,0,0,57
+Hobart Hurricanes,Asif Ali,0a4736eb,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Hobart Hurricanes,MJ Owen,f2c936d7,6,0,0,0,0,0.0,"[10, 20]",2.0,12,4,0,17,2,0,1,0,0,0,1,8.5,0,0,0,1,0,0,29,6,35
+Hobart Hurricanes,Faheem Ashraf,bd4ea627,7,0,0,0,0,0.0,"[1, 5, 15, 18]",4.0,24,6,0,34,3,1,0,0,0,0,2,8.5,0,0,0,0,0,0,6,0,6
+Hobart Hurricanes,NT Ellis,9eb1455b,8,0,0,0,0,0.0,"[8, 11, 17, 19]",4.0,24,6,0,39,4,1,2,0,0,0,2,9.75,0,0,0,0,0,0,56,0,56
+Hobart Hurricanes,PG Dooley,5e3054d0,9,0,0,0,0,0.0,"[2, 4, 9, 12]",4.0,24,10,0,25,1,1,1,0,1,0,0,6.25,0,0,0,0,0,0,45,0,45
+Hobart Hurricanes,RP Meredith,64775749,10,0,0,0,0,0.0,"[3, 7, 13, 16]",4.0,24,8,0,31,4,0,1,0,0,0,1,7.75,0,0,0,0,0,0,33,0,33

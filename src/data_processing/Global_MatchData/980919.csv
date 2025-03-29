@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Kings XI Punjab,M Vijay,4b57e452,1,53,49,5,2,108.16,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,93,0,0,93
+Kings XI Punjab,M Vohra,c03e2850,2,51,33,7,0,154.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,91,0,8,99
+Kings XI Punjab,SE Marsh,508a1ea7,3,4,6,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+Kings XI Punjab,DA Miller,d67d5f00,4,7,6,0,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,7,0,8,15
+Kings XI Punjab,GJ Maxwell,b681e71e,5,32,14,3,2,228.57,[10],1.0,6,3,0,3,0,0,0,0,0,0,0,3.0,1,0,0,1,6,66,3,14,83
+Kings XI Punjab,AR Patel,2e171977,6,0,0,0,0,0.0,"[4, 13, 15]",3.0,18,5,0,26,4,0,0,0,0,0,0,8.67,0,0,0,0,0,0,5,0,5
+Kings XI Punjab,WP Saha,fe11caa6,6,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,4,0,6,10
+Kings XI Punjab,MM Sharma,759ac88f,7,0,0,0,0,0.0,"[7, 9, 18, 20]",4.0,24,7,0,23,2,0,3,0,0,0,0,5.75,2,0,0,0,0,0,90,16,106
+Kings XI Punjab,KJ Abbott,a9da7784,8,0,0,0,0,0.0,"[2, 8, 17, 19]",4.0,24,7,0,38,6,0,1,0,0,0,1,9.5,0,0,0,0,0,0,32,0,32
+Kings XI Punjab,P Sahu,9a0146b3,9,0,0,0,0,0.0,"[6, 12, 14, 16]",4.0,24,5,0,31,3,0,0,0,0,0,1,7.75,0,0,0,0,0,0,5,0,5
+Kings XI Punjab,Sandeep Sharma,ce820073,10,0,0,0,0,0.0,"[1, 3, 5, 11]",4.0,24,11,0,23,3,0,2,0,1,0,1,5.75,0,0,0,0,0,0,73,0,73
+Rising Pune Supergiants,AM Rahane,29e95537,1,9,11,2,0,81.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
+Rising Pune Supergiants,F du Plessis,3355b542,2,67,53,8,0,126.42,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,107,0,0,107
+Rising Pune Supergiants,KP Pietersen,39f01cdb,3,15,15,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,23,0,8,31
+Rising Pune Supergiants,NLTC Perera,0f12f9df,4,8,9,1,0,88.89,"[11, 16, 19]",2.667,16,2,0,30,4,0,0,0,0,0,0,11.25,0,0,0,0,0,12,-2,0,10
+Rising Pune Supergiants,SPD Smith,30a45b23,5,38,26,5,0,146.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,64,0,0,64
+Rising Pune Supergiants,MS Dhoni,4a8a2e3b,6,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+Rising Pune Supergiants,I Sharma,5bb1a1c4,6,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,10,0,26,4,1,0,0,0,0,0,8.67,0,0,0,0,0,0,10,0,10
+Rising Pune Supergiants,IK Pathan,5fa06777,7,2,2,0,0,100.0,[10],1.0,6,3,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,0,2,3,0,5
+Rising Pune Supergiants,Ankit Sharma,24d94623,7,0,0,0,0,0.0,"[2, 7, 9, 13]",4.0,24,8,0,27,2,0,1,1,0,0,2,6.75,0,0,0,0,0,0,43,0,43
+Rising Pune Supergiants,M Ashwin,e2db2409,8,0,0,0,0,0.0,"[8, 12, 15, 17]",4.0,24,5,0,36,2,2,3,0,1,0,0,9.0,0,0,0,0,0,0,92,0,92
+Rising Pune Supergiants,R Ashwin,495d42a5,8,1,2,0,0,50.0,"[4, 6, 14, 18]",4.0,24,8,0,27,2,1,0,0,0,0,0,6.75,0,0,0,0,0,1,10,0,11

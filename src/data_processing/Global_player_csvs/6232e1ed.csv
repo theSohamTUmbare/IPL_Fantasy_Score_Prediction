@@ -1,0 +1,14 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2015-06-20'],Scotland in Ireland T20I Series,889463,Ireland,11,0,0,0,0,0.0,"7,9,11",3.0,18,3,0,30,4,0,0,0,0,0,0,10.0,0,0,0,0,0,0,1,0,1
+['2014-07-20'],NatWest T20 Blast,693235,Gloucestershire,10,0,0,0,0,0.0,"6,14,20",3.0,18,2,0,44,5,1,1,0,0,0,5,14.67,2,0,0,0,0,0,21,16,37
+['2014-07-18'],NatWest T20 Blast,693227,Gloucestershire,10,0,0,0,0,0.0,"5,18,20",3.0,18,3,0,33,4,0,0,0,0,2,0,11.0,0,0,0,0,0,0,1,0,1
+['2014-07-11'],NatWest T20 Blast,693193,Gloucestershire,10,0,0,0,0,0.0,"5,15",2.0,12,1,0,19,1,1,1,0,0,0,0,9.5,0,0,0,0,0,0,26,0,26
+['2014-07-04'],NatWest T20 Blast,693183,Gloucestershire,9,16,5,2,1,320.0,"4,10,14",3.0,18,4,0,34,4,1,2,1,1,0,0,11.33,0,0,0,0,0,30,66,0,96
+['2014-06-27'],NatWest T20 Blast,693153,Gloucestershire,10,0,0,0,0,0.0,"3,9,16,19",4.0,24,10,0,26,2,1,2,1,0,0,0,6.5,1,0,0,0,0,0,70,8,78
+['2014-06-26'],NatWest T20 Blast,693137,Gloucestershire,10,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2014-06-20'],NatWest T20 Blast,693133,Gloucestershire,10,3,1,0,0,300.0,"2,5,17,19",4.0,24,6,0,49,5,2,0,0,0,0,0,12.25,0,0,0,0,0,3,0,0,3
+['2014-06-13'],NatWest T20 Blast,693109,Gloucestershire,11,0,0,0,0,0.0,"4,11,14",3.0,18,1,0,30,2,1,0,0,0,0,0,10.0,0,0,0,0,0,0,-1,0,-1
+['2014-06-08'],NatWest T20 Blast,693091,Gloucestershire,10,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2014-06-06'],NatWest T20 Blast,693077,Gloucestershire,10,0,0,0,0,0.0,"4,6,16,20",4.0,24,11,0,35,5,1,5,0,1,0,1,8.75,2,0,0,0,0,0,156,16,172
+['2014-05-30'],NatWest T20 Blast,693053,Gloucestershire,9,5,5,1,0,100.0,"4,9,16,20",4.0,24,10,0,26,3,0,3,0,0,0,2,6.5,0,0,0,0,0,9,91,0,100
+['2014-05-23'],NatWest T20 Blast,693045,Gloucestershire,10,0,0,0,0,0.0,"5,10,15,17",4.0,24,12,0,16,1,0,1,0,0,0,0,4.0,1,0,0,0,0,0,43,8,51

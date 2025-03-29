@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Rajasthan Royals,SV Samson,a4cc73aa,1,28,13,2,3,215.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,64,0,8,72
+Rajasthan Royals,AM Rahane,29e95537,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Rajasthan Royals,LS Livingstone,50c6bc2b,2,11,7,1,1,157.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,21,0,16,37
+Rajasthan Royals,SPD Smith,30a45b23,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Rajasthan Royals,R Parag,04a418e8,4,0,0,0,0,0.0,[3],1.0,6,1,0,10,1,0,1,0,0,0,0,10.0,1,0,0,0,0,0,26,8,34
+Rajasthan Royals,STR Binny,bd17b45f,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Rajasthan Royals,MK Lomror,da934ee8,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Rajasthan Royals,S Gopal,7a8bd078,7,0,0,0,0,0.0,[2],1.0,6,3,0,12,1,1,3,0,0,0,0,12.0,0,0,0,0,0,0,82,0,82
+Rajasthan Royals,JD Unadkat,1e66c162,8,0,0,0,0,0.0,[4],1.0,6,2,0,9,1,0,1,0,0,0,0,9.0,0,0,0,0,0,0,27,0,27
+Rajasthan Royals,VR Aaron,0a3d54b9,9,0,0,0,0,0.0,[1],1.0,6,0,0,23,2,2,0,0,0,0,0,23.0,0,0,0,0,0,0,0,0,0
+Rajasthan Royals,O Thomas,c6097d68,10,0,0,0,0,0.0,[5],1.0,6,2,0,6,1,0,2,0,0,1,0,6.0,1,0,0,0,0,0,52,8,60
+Royal Challengers Bangalore,V Kohli,ba607b88,1,25,7,1,3,357.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,51,0,0,51
+Royal Challengers Bangalore,AB de Villiers,c4487b84,2,10,4,2,0,250.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
+Royal Challengers Bangalore,K Khejroliya,fa2f1dde,2,0,0,0,0,0.0,[3],1.0,6,1,0,17,1,2,0,0,0,0,0,17.0,0,0,0,0,0,0,1,0,1
+Royal Challengers Bangalore,MP Stoinis,d9273ee7,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Royal Challengers Bangalore,YS Chahal,57ee1fde,3,0,0,0,0,0.0,[4],0.333,2,1,0,0,0,0,1,0,0,0,0,0.0,0,0,0,0,0,0,26,0,26
+Royal Challengers Bangalore,H Klaasen,235c2bb6,4,6,6,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6
+Royal Challengers Bangalore,Gurkeerat Singh,6eb146d2,5,6,3,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+Royal Challengers Bangalore,PA Patel,b5da6c24,6,8,5,1,0,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+Royal Challengers Bangalore,P Negi,f62772e5,7,4,3,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16
+Royal Challengers Bangalore,UT Yadav,cc1e8c68,8,0,0,0,0,0.0,[1],1.0,6,4,0,10,1,1,0,0,0,0,0,10.0,0,0,0,0,0,0,4,0,4
+Royal Challengers Bangalore,Navdeep Saini,21d4e29b,9,0,1,0,0,0.0,[2],1.0,6,2,0,12,1,1,0,0,0,0,0,12.0,0,0,0,0,0,0,2,0,2

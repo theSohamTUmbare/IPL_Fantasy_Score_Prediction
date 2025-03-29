@@ -1,0 +1,10 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2021-11-09'],Syed Mushtaq Ali Trophy,1280291,Sikkim,8,16,21,1,1,76.19,"4,6,18,20",4.0,24,7,0,40,3,2,2,0,1,0,3,10.0,0,0,0,0,0,26,63,0,89
+['2021-11-08'],Syed Mushtaq Ali Trophy,1280270,Sikkim,5,0,0,0,0,0.0,"6,8,10,18",4.0,24,8,0,19,1,0,1,0,1,0,0,4.75,0,0,0,0,0,0,47,0,47
+['2021-11-05'],Syed Mushtaq Ali Trophy,1280232,Sikkim,4,22,15,1,2,146.67,"4,6,12",3.0,18,7,0,27,5,0,0,0,0,0,0,9.0,0,0,0,0,2,40,7,0,47
+['2021-11-04'],Syed Mushtaq Ali Trophy,1280214,Sikkim,6,14,16,2,0,87.5,"6,8,10,18",4.0,24,5,0,25,1,0,2,0,0,0,1,6.25,1,0,0,0,0,22,57,8,87
+['2016-01-08'],Syed Mushtaq Ali Trophy,902179,Services,7,5,9,0,0,55.56,"6,8,18",3.0,18,3,0,22,2,0,1,0,0,0,0,7.33,0,0,0,0,0,5,28,0,33
+['2016-01-07'],Syed Mushtaq Ali Trophy,902201,Services,3,7,9,0,0,77.78,"5,7,17",3.0,18,2,0,39,4,2,0,0,0,0,1,13.0,1,0,0,0,0,7,-4,8,11
+['2016-01-04'],Syed Mushtaq Ali Trophy,902155,Services,3,14,12,2,0,116.67,"6,17,19",2.167,13,3,0,17,2,0,0,0,0,0,1,7.84,0,0,0,0,0,22,3,0,25
+['2016-01-03'],Syed Mushtaq Ali Trophy,902133,Services,4,24,18,1,2,133.33,"7,9,14,16",4.0,24,7,0,30,5,0,2,0,1,0,0,7.5,0,0,0,0,2,42,65,0,107
+['2016-01-02'],Syed Mushtaq Ali Trophy,902107,Services,7,20,14,2,1,142.86,"9,11,13,15",4.0,24,12,0,18,1,0,0,0,0,0,0,4.5,0,0,0,0,2,36,18,0,54

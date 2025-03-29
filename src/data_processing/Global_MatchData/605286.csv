@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Chittagong Kings,Naeem Islam,02e83ac5,1,31,26,2,1,119.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,49,0,0,49
+Chittagong Kings,JJ Roy,d1c36f5c,2,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Chittagong Kings,RS Bopara,7ca5e05d,3,0,1,0,0,0.0,"[12, 14]",2.0,12,3,0,21,1,1,1,0,0,0,1,10.5,0,0,0,0,0,-2,26,0,24
+Chittagong Kings,Nurul Hasan,d365d463,4,33,30,5,0,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,57,0,8,65
+Chittagong Kings,RN ten Doeschate,4ec07775,5,44,28,4,1,157.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,4,74,0,20,94
+Chittagong Kings,Mahmudullah,bf1d7d3e,6,14,14,0,1,100.0,"[8, 10]",2.0,12,4,0,10,1,0,0,0,0,0,0,5.0,1,0,0,0,0,20,8,8,36
+Chittagong Kings,Ariful Haque,ad1730bc,7,23,12,2,1,191.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,43,0,8,51
+Chittagong Kings,KK Cooper,557153ca,8,0,1,0,0,0.0,"[6, 16, 18, 20]",4.0,24,8,0,39,3,2,2,0,0,0,3,9.75,0,0,0,0,0,-2,58,0,56
+Chittagong Kings,JDP Oram,3eac9d95,9,0,1,0,0,0.0,"[1, 3, 5, 17]",4.0,24,11,0,24,4,0,0,0,0,0,0,6.0,0,0,0,0,0,0,13,0,13
+Chittagong Kings,Enamul Haque jnr,0480aba6,9,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,11,0,24,1,1,2,1,0,0,1,6.0,1,0,0,0,0,0,71,8,79
+Chittagong Kings,Taskin Ahmed,ef18b66e,10,0,0,0,0,0.0,"[2, 4, 15, 19]",4.0,24,12,0,24,2,1,1,0,0,0,0,6.0,0,0,0,0,0,0,39,0,39
+Sylhet Royals,S Chanderpaul,881a9bdd,1,16,22,1,0,72.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
+Sylhet Royals,PR Stirling,cf494ffe,2,14,11,3,0,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26
+Sylhet Royals,DR Smith,35205dfc,3,5,13,0,0,38.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-1,0,0,-1
+Sylhet Royals,Mushfiqur Rahim,a94e08ea,4,36,20,3,2,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,70,0,8,78
+Sylhet Royals,Mohammad Nabi,62af8546,5,10,15,0,0,66.67,"[5, 11, 15, 17]",4.0,24,5,0,42,3,2,2,1,0,0,0,10.5,1,0,0,0,-2,8,61,8,77
+Sylhet Royals,E Chigumbura,d2babdd5,6,42,25,3,3,168.0,"[2, 4, 6, 18]",4.0,24,7,0,43,5,2,1,0,0,0,0,10.75,0,0,0,0,4,80,30,0,110
+Sylhet Royals,Nazmul Hossain Milon,0637aa94,7,8,7,1,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+Sylhet Royals,Sohag Gazi,5a4c12ab,8,0,1,0,0,0.0,"[1, 3, 7, 13]",4.0,24,10,0,18,1,0,1,0,1,0,0,4.5,0,0,0,0,0,-2,49,0,47
+Sylhet Royals,Nazmul Hossain,5e5eab39,9,0,0,0,0,0.0,"[10, 19]",2.0,12,5,0,9,0,0,2,1,1,0,0,4.5,0,0,0,0,0,0,77,0,77
+Sylhet Royals,Suhrawadi Shuvo,8fb49ef8,9,6,6,1,0,100.0,"[9, 12, 14, 16]",4.0,24,9,0,17,1,0,1,0,0,0,0,4.25,1,0,0,0,0,10,40,8,58
+Sylhet Royals,Sajedul Islam,0443414a,10,0,0,0,0,0.0,"[8, 20]",1.167,7,1,0,19,3,0,0,0,0,1,1,16.28,0,0,0,0,0,0,1,0,1

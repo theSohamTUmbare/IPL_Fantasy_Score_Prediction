@@ -1,0 +1,3 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-09-28'],CSA T20 Challenge,1444766,North West,7,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2021-02-25'],CSA T20 Challenge,1235383,Knights,1,12,18,2,0,66.67,"8,10,12",3.0,18,9,0,17,0,1,2,0,0,0,1,5.67,1,0,0,0,-2,18,63,8,89

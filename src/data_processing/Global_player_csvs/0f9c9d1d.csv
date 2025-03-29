@@ -1,0 +1,8 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-10-25'],ICC Men's T20 World Cup Qualifier,1199530,Ireland,5,0,0,0,0,0.0,"5,7,13",2.5,15,8,0,12,2,0,2,0,1,0,0,4.8,0,0,0,0,0,0,72,0,72
+['2019-10-23'],ICC Men's T20 World Cup Qualifier,1199523,Ireland,10,0,0,0,0,0.0,"4,6,11,19",4.0,24,6,0,31,1,1,1,0,1,0,0,7.75,0,0,0,0,0,0,39,0,39
+['2019-10-21'],ICC Men's T20 World Cup Qualifier,1199514,Ireland,9,0,0,0,0,0.0,"5,8",2.0,12,4,0,24,3,1,1,0,0,0,2,12.0,0,0,0,0,0,0,25,0,25
+['2019-10-19'],ICC Men's T20 World Cup Qualifier,1199507,Ireland,10,0,1,0,0,0.0,"8,10,13,15",4.0,24,12,0,29,4,0,1,0,1,0,4,7.25,0,0,0,0,0,-2,45,0,43
+['2019-10-18'],ICC Men's T20 World Cup Qualifier,1199500,Ireland,5,0,0,0,0,0.0,"5,7,13,19",4.0,24,7,0,38,3,1,1,0,0,0,3,9.5,0,0,0,0,0,0,32,0,32
+['2019-09-18'],Ireland Tri-Nation T20I Series,1200427,Ireland,9,0,0,0,0,0.0,"8,10,12,15",4.0,24,8,0,24,1,1,0,0,0,0,0,6.0,0,0,0,0,0,0,10,0,10
+['2019-09-17'],Ireland Tri-Nation T20I Series,1200426,Ireland,10,0,0,0,0,0.0,"8,11,13,19",4.0,24,5,0,40,5,1,1,0,0,0,0,10.0,0,0,0,0,0,0,28,0,28

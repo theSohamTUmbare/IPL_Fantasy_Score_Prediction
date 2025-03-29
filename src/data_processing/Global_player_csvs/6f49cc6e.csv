@@ -1,0 +1,9 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2016-01-09'],Syed Mushtaq Ali Trophy,902219,Delhi,9,12,14,2,0,85.71,"5,15",2.0,12,3,0,18,3,0,0,0,0,0,0,9.0,0,0,0,0,0,20,3,0,23
+['2016-01-06'],Syed Mushtaq Ali Trophy,902171,Delhi,6,0,0,0,0,0.0,"7,9,11,13",3.167,19,15,1,7,1,0,3,1,1,0,0,2.21,1,0,0,0,0,0,128,8,136
+['2016-01-03'],Syed Mushtaq Ali Trophy,902125,Delhi,10,0,1,0,0,0.0,"15,17,19",3.0,18,9,0,23,1,2,2,0,0,0,0,7.67,2,0,0,0,0,-2,59,16,73
+['2015-04-21'],Indian Premier League,829741,Kings XI Punjab,10,0,0,0,0,0.0,"9,15,17",3.0,18,3,0,44,5,2,1,0,1,0,0,14.67,0,0,0,0,0,0,30,0,30
+['2014-05-21'],Indian Premier League,734025,Kings XI Punjab,10,1,1,0,0,100.0,"8,10,17,19",4.0,24,6,0,32,1,2,0,0,0,0,0,8.0,0,0,0,0,0,1,6,0,7
+['2014-05-19'],Indian Premier League,734019,Kings XI Punjab,10,0,0,0,0,0.0,"10,12,14,16",4.0,24,5,0,32,2,1,0,0,0,0,0,8.0,0,0,0,0,0,0,5,0,5
+['2014-05-14'],Indian Premier League,734007,Kings XI Punjab,9,0,0,0,0,0.0,"7,9,11,13",4.0,24,11,0,31,0,3,1,0,1,0,0,7.75,1,0,0,0,0,0,44,8,52
+['2014-05-09'],Indian Premier League,733991,Kings XI Punjab,9,4,2,1,0,200.0,"8,10,12,14",4.0,24,12,0,26,1,2,2,0,0,0,0,6.5,0,0,0,0,0,8,64,0,72

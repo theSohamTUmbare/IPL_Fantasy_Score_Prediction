@@ -1,0 +1,146 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-12-19'],Bangladesh tour of West Indies,1433385,West Indies,1,0,2,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2024-12-17'],Bangladesh tour of West Indies,1433384,West Indies,1,8,5,1,0,160.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20
+['2024-12-15'],Bangladesh tour of West Indies,1433383,West Indies,1,1,5,0,0,20.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2024-11-10'],England tour of West Indies,1433374,West Indies,1,1,3,0,0,33.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+['2024-11-09'],England tour of West Indies,1433373,West Indies,1,3,5,0,0,60.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2024-10-17'],West Indies tour of Sri Lanka,1451816,West Indies,1,23,19,3,1,121.05,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,41,0,0,41
+['2024-10-15'],West Indies tour of Sri Lanka,1451815,West Indies,1,5,8,1,0,62.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
+['2024-10-13'],West Indies tour of Sri Lanka,1451814,West Indies,1,63,33,11,1,190.91,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,127,0,0,127
+['2024-09-21'],Caribbean Premier League,1428700,Antigua and Barbuda Falcons,1,3,11,0,0,27.27,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,-3,0,8,5
+['2024-09-19'],Caribbean Premier League,1428697,Antigua and Barbuda Falcons,1,0,3,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2024-09-11'],Caribbean Premier League,1428690,Antigua and Barbuda Falcons,1,27,19,5,0,142.11,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,53,0,0,53
+['2024-09-08'],Caribbean Premier League,1428688,Antigua and Barbuda Falcons,1,29,16,3,2,181.25,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,63,0,8,71
+['2024-06-19'],ICC Men's T20 World Cup,1415742,West Indies,1,23,13,3,1,176.92,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,47,0,0,47
+['2024-06-12'],ICC Men's T20 World Cup,1415726,West Indies,1,9,12,0,1,75.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,15,0,8,23
+['2024-06-08'],ICC Men's T20 World Cup,1415718,West Indies,1,13,8,2,0,162.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
+['2024-06-02'],ICC Men's T20 World Cup,1415702,West Indies,1,34,29,7,0,117.24,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,66,0,0,66
+['2024-05-26'],South Africa tour of West Indies,1433364,West Indies,1,44,28,2,4,157.14,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,84,0,8,92
+['2024-05-25'],South Africa tour of West Indies,1433363,West Indies,1,36,22,2,3,163.64,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,70,0,0,70
+['2024-05-23'],South Africa tour of West Indies,1433362,West Indies,1,79,45,6,6,175.56,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,157,0,8,165
+['2024-02-20'],Bangladesh Premier League,1412313,Rangpur Riders,1,4,6,1,0,66.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+['2024-02-19'],Bangladesh Premier League,1412311,Rangpur Riders,1,45,22,3,4,204.55,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,91,0,0,91
+['2024-02-16'],Bangladesh Premier League,1412307,Rangpur Riders,3,2,9,0,0,22.22,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2024-02-11'],West Indies tour of Australia,1375851,West Indies,1,5,9,1,0,55.56,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17
+['2024-02-09'],West Indies tour of Australia,1375850,West Indies,1,53,36,7,1,147.22,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,97,0,8,105
+['2024-02-03'],Bangladesh Premier League,1412293,Rangpur Riders,1,1,3,0,0,33.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,1,0,16,17
+['2024-01-30'],Bangladesh Premier League,1412288,Rangpur Riders,1,14,12,1,1,116.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
+['2024-01-27'],Bangladesh Premier League,1412285,Rangpur Riders,1,20,13,3,1,153.85,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,4,42,0,16,58
+['2024-01-26'],Bangladesh Premier League,1412282,Rangpur Riders,3,1,5,0,0,20.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+['2024-01-20'],Bangladesh Premier League,1412276,Rangpur Riders,1,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2023-12-21'],England tour of West Indies,1373583,West Indies,1,3,5,0,0,60.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2023-12-19'],England tour of West Indies,1373582,West Indies,1,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2023-12-16'],England tour of West Indies,1373581,West Indies,1,8,5,2,0,160.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
+['2023-12-14'],England tour of West Indies,1373580,West Indies,1,82,52,8,5,157.69,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,160,0,0,160
+['2023-12-12'],England tour of West Indies,1373579,West Indies,1,22,12,2,2,183.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,48,0,8,56
+['2023-09-22'],Caribbean Premier League,1369590,Jamaica Tallawahs,1,5,9,0,0,55.56,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
+['2023-09-19'],Caribbean Premier League,1369588,Jamaica Tallawahs,1,30,19,3,2,157.89,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,62,0,0,62
+['2023-09-16'],Caribbean Premier League,1369584,Jamaica Tallawahs,1,7,8,0,1,87.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+['2023-09-13'],Caribbean Premier League,1369582,Jamaica Tallawahs,1,52,31,10,1,167.74,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,110,0,0,110
+['2023-09-09'],Caribbean Premier League,1369579,Jamaica Tallawahs,1,8,7,0,1,114.29,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
+['2023-09-03'],Caribbean Premier League,1369574,Jamaica Tallawahs,1,36,25,4,2,144.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,70,0,0,70
+['2023-08-31'],Caribbean Premier League,1369571,Jamaica Tallawahs,1,1,6,0,0,16.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2023-08-27'],Caribbean Premier League,1369568,Jamaica Tallawahs,1,1,6,0,0,16.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+['2023-08-23'],Caribbean Premier League,1369564,Jamaica Tallawahs,1,67,33,7,4,203.03,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,133,0,0,133
+['2023-08-16'],Caribbean Premier League,1369558,Jamaica Tallawahs,1,81,53,9,3,152.83,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,151,0,0,151
+['2023-08-13'],India tour of West Indies and United States of America,1381221,West Indies,1,85,55,5,6,154.55,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,157,0,0,157
+['2023-08-12'],India tour of West Indies and United States of America,1381220,West Indies,2,18,16,0,2,112.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30
+['2023-08-08'],India tour of West Indies and United States of America,1381219,West Indies,1,42,42,5,1,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,72,0,8,80
+['2023-08-06'],India tour of West Indies and United States of America,1381218,West Indies,1,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2023-08-03'],India tour of West Indies and United States of America,1381217,West Indies,1,28,19,4,1,147.37,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,56,0,0,56
+['2023-03-28'],West Indies tour of South Africa,1339606,West Indies,1,36,24,4,2,150.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,68,0,0,68
+['2023-03-26'],West Indies tour of South Africa,1339605,West Indies,1,1,2,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+['2023-03-25'],West Indies tour of South Africa,1339604,West Indies,1,23,8,2,2,287.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,43,0,0,43
+['2022-10-21'],ICC Men's T20 World Cup,1298145,West Indies,4,62,48,6,1,129.17,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,100,0,0,100
+['2022-10-17'],ICC Men's T20 World Cup,1298137,West Indies,3,17,15,3,0,113.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,29,0,8,37
+['2022-10-07'],West Indies tour of Australia,1317483,West Indies,3,23,18,3,1,127.78,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,41,0,0,41
+['2022-10-05'],West Indies tour of Australia,1317482,West Indies,3,12,9,1,1,133.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,22,0,8,30
+['2022-09-30'],Caribbean Premier League,1323177,Jamaica Tallawahs,1,83,50,13,2,166.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,163,0,8,171
+['2022-09-28'],Caribbean Premier League,1323176,Jamaica Tallawahs,1,6,9,1,0,66.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+['2022-09-27'],Caribbean Premier League,1323175,Jamaica Tallawahs,1,7,13,1,0,53.85,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,7,0,0,7
+['2022-09-21'],Caribbean Premier League,1323168,Jamaica Tallawahs,1,104,66,8,7,157.58,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,198,0,0,198
+['2022-09-17'],Caribbean Premier League,1323164,Jamaica Tallawahs,1,7,9,1,0,77.78,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
+['2022-09-15'],Caribbean Premier League,1323162,Jamaica Tallawahs,1,46,33,3,2,139.39,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,76,0,0,76
+['2022-09-14'],Caribbean Premier League,1323160,Jamaica Tallawahs,1,22,23,3,0,95.65,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34
+['2022-09-11'],Caribbean Premier League,1323157,Jamaica Tallawahs,1,0,3,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2022-09-10'],Caribbean Premier League,1323155,Jamaica Tallawahs,1,7,7,1,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19
+['2022-09-07'],Caribbean Premier League,1323152,Jamaica Tallawahs,1,19,17,2,0,111.76,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,27,0,8,35
+['2022-09-03'],Caribbean Premier League,1323147,Jamaica Tallawahs,1,32,25,4,1,128.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,58,0,8,66
+['2022-08-31'],Caribbean Premier League,1323144,Jamaica Tallawahs,1,89,57,8,6,156.14,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,173,0,0,173
+['2022-08-14'],New Zealand tour of West Indies,1317910,West Indies,1,53,35,4,3,151.43,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,99,0,8,107
+['2022-08-06'],West Indies v India T20I Series,1317906,West Indies,1,13,8,3,0,162.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,25,0,8,33
+['2022-08-02'],India tour of West Indies,1317905,West Indies,1,20,20,3,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32
+['2022-08-01'],India tour of West Indies,1317904,West Indies,1,68,52,8,2,130.77,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,122,0,0,122
+['2022-07-07'],Bangladesh tour of West Indies,1317151,West Indies,1,7,5,0,1,140.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+['2022-07-03'],Bangladesh tour of West Indies,1317150,West Indies,1,57,43,7,1,132.56,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,101,0,8,109
+['2022-07-02'],Bangladesh tour of West Indies,1317149,West Indies,2,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
+['2022-02-18'],West Indies tour of India,1278680,West Indies,1,22,30,2,0,73.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,30,0,8,38
+['2022-02-16'],West Indies tour of India,1278679,West Indies,1,4,5,1,0,80.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+['2022-01-30'],England tour of West Indies,1256724,West Indies,1,34,31,2,2,109.68,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,58,0,0,58
+['2022-01-29'],England tour of West Indies,1256723,West Indies,1,26,27,4,0,96.3,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,46,0,16,62
+['2022-01-26'],England tour of West Indies,1256722,West Indies,1,10,10,2,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
+['2022-01-23'],England tour of West Indies,1256721,West Indies,1,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2022-01-22'],England tour of West Indies,1256720,West Indies,1,52,49,4,1,106.12,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,82,0,0,82
+['2021-12-16'],West Indies tour of Pakistan,1287775,West Indies,1,43,21,7,2,204.76,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,93,0,0,93
+['2021-12-14'],West Indies tour of Pakistan,1287774,West Indies,2,67,43,6,3,155.81,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,121,0,0,121
+['2021-12-13'],West Indies tour of Pakistan,1287773,West Indies,2,1,2,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2021-09-14'],Caribbean Premier League,1269731,Guyana Amazon Warriors,1,27,17,1,2,158.82,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,51,0,0,51
+['2021-09-12'],Caribbean Premier League,1269728,Guyana Amazon Warriors,1,12,8,1,1,150.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
+['2021-09-11'],Caribbean Premier League,1269725,Guyana Amazon Warriors,1,12,8,1,1,150.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
+['2021-09-08'],Caribbean Premier League,1269721,Guyana Amazon Warriors,1,77,57,8,3,135.09,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,141,0,0,141
+['2021-09-07'],Caribbean Premier League,1269719,Guyana Amazon Warriors,1,5,3,1,0,166.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
+['2021-09-04'],Caribbean Premier League,1269715,Guyana Amazon Warriors,1,19,17,2,0,111.76,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,27,0,28,55
+['2021-09-02'],Caribbean Premier League,1269712,Guyana Amazon Warriors,5,1,5,0,0,20.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2021-09-01'],Caribbean Premier League,1269710,Guyana Amazon Warriors,7,10,7,0,1,142.86,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,16,0,16,32
+['2021-08-29'],Caribbean Premier League,1269707,Guyana Amazon Warriors,5,6,4,1,0,150.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+['2021-08-28'],Caribbean Premier League,1269704,Guyana Amazon Warriors,1,11,10,2,0,110.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
+['2021-08-26'],Caribbean Premier League,1269700,Guyana Amazon Warriors,1,9,17,1,0,52.94,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,9,0,8,17
+['2020-11-30'],West Indies tour of New Zealand,1233956,West Indies,2,11,7,1,1,157.14,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
+['2020-11-29'],West Indies tour of New Zealand,1233955,West Indies,2,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2020-11-27'],West Indies tour of New Zealand,1233954,West Indies,2,13,9,2,0,144.44,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
+['2020-09-08'],Caribbean Premier League,1227896,Guyana Amazon Warriors,1,0,3,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2020-09-03'],Caribbean Premier League,1227890,Guyana Amazon Warriors,1,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2020-09-02'],Caribbean Premier League,1227888,Guyana Amazon Warriors,1,5,6,1,0,83.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
+['2020-09-01'],Caribbean Premier League,1227886,Guyana Amazon Warriors,1,51,49,4,2,104.08,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,87,0,0,87
+['2020-08-30'],Caribbean Premier League,1227884,Guyana Amazon Warriors,1,14,14,2,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
+['2020-08-27'],Caribbean Premier League,1227880,Guyana Amazon Warriors,1,6,8,1,0,75.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+['2020-08-25'],Caribbean Premier League,1227876,Guyana Amazon Warriors,1,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2020-08-23'],Caribbean Premier League,1227874,Guyana Amazon Warriors,1,1,4,0,0,25.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+['2020-08-22'],Caribbean Premier League,1227872,Guyana Amazon Warriors,1,29,18,3,2,161.11,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,61,0,0,61
+['2020-08-19'],Caribbean Premier League,1227868,Guyana Amazon Warriors,1,10,10,2,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
+['2020-08-18'],Caribbean Premier League,1227865,Guyana Amazon Warriors,1,0,3,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,-2,0,28,26
+['2020-03-06'],West Indies tour of Sri Lanka,1213875,West Indies,2,43,21,6,2,204.76,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,89,0,0,89
+['2020-03-04'],West Indies tour of Sri Lanka,1213874,West Indies,2,33,25,5,1,132.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,65,0,0,65
+['2019-12-11'],West Indies tour of India,1187020,West Indies,2,5,4,1,0,125.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
+['2019-12-08'],West Indies tour of India,1187019,West Indies,5,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2019-12-06'],West Indies tour of India,1187018,West Indies,3,31,23,3,1,134.78,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,55,0,0,55
+['2019-10-12'],Caribbean Premier League,1185870,Guyana Amazon Warriors,1,43,33,4,1,130.3,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,71,0,8,79
+['2019-10-06'],Caribbean Premier League,1185867,Guyana Amazon Warriors,1,132,71,10,11,185.92,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,260,0,8,268
+['2019-10-04'],Caribbean Premier League,1185866,Guyana Amazon Warriors,1,33,23,7,0,143.48,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,67,0,0,67
+['2019-10-03'],Caribbean Premier League,1185865,Guyana Amazon Warriors,1,1,4,0,0,25.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2019-09-30'],Caribbean Premier League,1185863,Guyana Amazon Warriors,1,12,11,1,1,109.09,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
+['2019-09-25'],Caribbean Premier League,1185858,Guyana Amazon Warriors,1,81,59,2,6,137.29,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,139,0,0,139
+['2019-09-22'],Caribbean Premier League,1185855,Guyana Amazon Warriors,1,51,33,5,3,154.55,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,101,0,0,101
+['2019-09-18'],Caribbean Premier League,1185851,Guyana Amazon Warriors,1,59,37,4,6,159.46,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,123,0,8,131
+['2019-09-14'],Caribbean Premier League,1185847,Guyana Amazon Warriors,1,49,24,7,3,204.17,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,105,0,8,113
+['2019-09-08'],Caribbean Premier League,1185842,Guyana Amazon Warriors,1,1,4,0,0,25.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2019-09-07'],Caribbean Premier League,1185840,Guyana Amazon Warriors,1,27,22,3,1,122.73,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,49,0,28,77
+['2019-09-05'],Caribbean Premier League,1185838,Guyana Amazon Warriors,1,7,10,1,0,70.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,9,0,0,9
+['2018-09-14'],Caribbean Premier League,1148679,St Kitts and Nevis Patriots,5,33,22,3,1,150.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,55,0,8,63
+['2018-09-12'],Caribbean Premier League,1148678,St Kitts and Nevis Patriots,6,21,8,0,3,262.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,39,0,0,39
+['2018-09-01'],Caribbean Premier League,1148669,St Kitts and Nevis Patriots,8,7,6,1,0,116.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
+['2018-08-28'],Caribbean Premier League,1148665,St Kitts and Nevis Patriots,3,3,8,0,0,37.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2018-08-25'],Caribbean Premier League,1148662,St Kitts and Nevis Patriots,3,60,49,4,5,122.45,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,114,0,0,114
+['2018-08-21'],Caribbean Premier League,1148659,St Kitts and Nevis Patriots,3,17,11,1,2,154.55,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,37,0,0,37
+['2018-08-09'],Caribbean Premier League,1148648,St Kitts and Nevis Patriots,7,1,1,0,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2017-09-09'],Caribbean Premier League,1094705,St Kitts and Nevis Patriots,4,19,21,1,1,90.48,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,29,0,8,37
+['2017-09-05'],Caribbean Premier League,1094702,St Kitts and Nevis Patriots,4,30,26,1,3,115.38,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,56,0,0,56
+['2017-09-03'],Caribbean Premier League,1094701,St Kitts and Nevis Patriots,9,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2017-08-23'],Caribbean Premier League,1094693,St Kitts and Nevis Patriots,5,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2017-08-21'],Caribbean Premier League,1094691,St Kitts and Nevis Patriots,5,6,1,0,1,600.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+['2017-08-19'],Caribbean Premier League,1094689,St Kitts and Nevis Patriots,4,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2017-08-18'],Caribbean Premier League,1094687,St Kitts and Nevis Patriots,4,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2017-08-14'],Caribbean Premier League,1094684,St Kitts and Nevis Patriots,4,9,7,0,1,128.57,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
+['2017-08-12'],Caribbean Premier League,1094681,St Kitts and Nevis Patriots,4,11,13,2,0,84.62,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
+['2017-08-06'],Caribbean Premier League,1094675,St Kitts and Nevis Patriots,4,39,35,2,2,111.43,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,63,0,0,63
+['2017-08-05'],Caribbean Premier League,1094673,St Kitts and Nevis Patriots,4,11,16,1,0,68.75,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,13,0,8,21

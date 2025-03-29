@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Khulna Titans,Nazmul Hossain Shanto,1274d7ab,1,49,31,5,2,158.06,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,89,0,0,89
+Khulna Titans,RR Rossouw,cad00a4d,2,6,7,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,10,0,8,18
+Khulna Titans,Afif Hossain,37138918,3,54,36,0,5,150.0,[17],1.0,6,1,0,7,0,0,1,0,0,0,1,7.0,0,0,0,0,0,92,26,0,118
+Khulna Titans,Mahmudullah,bf1d7d3e,4,1,3,0,0,33.33,"[16, 18]",2.0,12,7,0,9,1,0,1,0,0,0,0,4.5,2,0,0,0,0,1,38,16,55
+Khulna Titans,N Pooran,3241e3fd,5,57,26,6,3,219.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,6,113,0,12,125
+Khulna Titans,CR Brathwaite,e342e5fb,6,34,14,3,3,242.86,"[8, 12]",2.0,12,3,0,17,2,0,0,0,0,0,1,8.5,0,0,0,0,6,74,3,0,77
+Khulna Titans,Ariful Haque,ad1730bc,7,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,1,0,16,17
+Khulna Titans,JC Archer,5574750c,11,0,0,0,0,0.0,"[5, 10, 15]",3.0,18,12,0,15,1,1,1,0,1,0,0,5.0,1,0,0,0,0,0,49,8,57
+Khulna Titans,Shafiul Islam,1a8eebbe,12,0,0,0,0,0.0,"[3, 7, 11, 19]",4.0,24,12,0,26,4,0,5,0,2,0,1,6.5,0,0,0,0,0,0,167,0,167
+Khulna Titans,KJ Abbott,a9da7784,13,0,0,0,0,0.0,"[2, 6, 14]",3.0,18,6,0,22,3,0,0,0,0,0,0,7.33,0,0,0,0,0,0,6,0,6
+Khulna Titans,Abu Jayed,1bb0993e,14,0,0,0,0,0.0,"[1, 4, 9, 13]",4.0,24,8,0,48,5,3,2,0,0,0,0,12.0,0,0,0,0,0,0,54,0,54
+Rajshahi Kings,Mominul Haque,de0a3209,1,11,8,2,0,137.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
+Rajshahi Kings,LJ Wright,cca50cd6,2,1,7,0,0,14.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Rajshahi Kings,Rony Talukdar,8bd614b2,3,36,23,5,1,156.52,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,70,0,0,70
+Rajshahi Kings,Zakir Hasan,e3e09091,4,19,12,4,0,158.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,4,39,0,12,51
+Rajshahi Kings,DJG Sammy,c03c6200,5,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+Rajshahi Kings,Mushfiqur Rahim,a94e08ea,6,11,10,1,1,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
+Rajshahi Kings,JEC Franklin,cf73ad76,7,14,10,1,0,140.0,"[9, 11, 14, 16]",4.0,24,5,0,50,3,4,3,1,1,0,1,12.5,0,0,0,0,2,20,94,0,114
+Rajshahi Kings,Mehedi Hasan Miraz,c58b0108,8,29,23,1,2,126.09,"[2, 5, 7, 10]",4.0,24,6,0,42,3,2,0,0,0,0,0,10.5,0,0,0,0,0,49,4,0,53
+Rajshahi Kings,Mohammad Sami,68ddabdb,9,18,14,2,0,128.57,"[1, 3, 18, 20]",4.0,24,10,0,22,1,1,1,0,1,0,2,5.5,0,0,0,0,0,26,47,0,73
+Rajshahi Kings,KOK Williams,78cb83f3,10,1,4,0,0,25.0,"[6, 12, 15, 19]",4.0,24,5,0,46,3,3,0,0,0,0,0,11.5,0,0,0,0,0,1,1,0,2
+Rajshahi Kings,Mustafizur Rahman,0a8fce53,11,0,1,0,0,0.0,"[4, 8, 13, 17]",4.0,24,10,0,48,5,3,0,0,0,2,1,12.0,0,0,0,0,0,0,6,0,6

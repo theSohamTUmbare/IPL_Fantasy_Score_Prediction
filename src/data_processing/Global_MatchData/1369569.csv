@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+St Kitts and Nevis Patriots,E Lewis,0ebfb1ad,1,10,10,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
+St Kitts and Nevis Patriots,ADS Fletcher,1bae756b,2,32,17,3,3,188.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,72,0,8,80
+St Kitts and Nevis Patriots,J Da Silva,bab78fa2,3,18,14,2,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,26,0,8,34
+St Kitts and Nevis Patriots,JU Goolie,92780e2f,4,11,17,0,0,64.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,9,0,0,9
+St Kitts and Nevis Patriots,SE Rutherford,d014d5ac,5,62,38,4,5,163.16,[10],1.0,6,0,0,12,0,1,0,0,0,0,1,12.0,0,0,0,0,4,120,0,0,120
+St Kitts and Nevis Patriots,KHM James,1bf2fd29,6,0,0,0,0,0.0,[7],1.0,6,1,0,11,0,1,0,0,0,0,1,11.0,0,0,0,0,0,0,1,0,1
+St Kitts and Nevis Patriots,C Bosch,172dff15,6,30,21,3,1,142.86,"[5, 12, 16]",3.0,18,7,0,22,3,0,3,0,2,0,0,7.33,0,0,0,0,2,54,102,0,156
+St Kitts and Nevis Patriots,Izharulhaq Naveed,2cbdd22f,7,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,9,0,50,0,6,0,0,0,1,2,12.5,0,0,0,0,0,0,3,0,3
+St Kitts and Nevis Patriots,DC Drakes,34b332d3,7,6,3,1,0,200.0,"[6, 14, 18]",2.167,13,2,0,27,4,1,0,0,0,0,0,12.46,0,0,0,0,0,10,-4,0,6
+St Kitts and Nevis Patriots,SS Cottrell,a1d053dd,8,0,0,0,0,0.0,"[1, 3, 8]",3.0,18,6,0,27,2,1,0,0,0,0,2,9.0,0,0,0,0,0,0,6,0,6
+St Kitts and Nevis Patriots,B Muzarabani,449f4e3c,9,0,0,0,0,0.0,"[2, 4, 17]",3.0,18,6,0,30,2,2,1,0,0,0,2,10.0,0,0,0,0,0,0,29,0,29
+Trinbago Knight Riders,CAK Walton,bbff906c,1,6,9,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+Trinbago Knight Riders,MJ Guptill,2be41edb,2,7,8,0,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,7,0,0,7
+Trinbago Knight Riders,N Pooran,3241e3fd,3,61,32,5,4,190.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,119,0,0,119
+Trinbago Knight Riders,L Tucker,3979b5e0,4,36,31,3,1,116.13,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,58,0,0,58
+Trinbago Knight Riders,KA Pollard,a757b0d8,5,37,15,0,5,246.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,77,0,0,77
+Trinbago Knight Riders,AD Russell,bbd41817,6,23,8,2,2,287.5,"[6, 8, 15]",3.0,18,5,0,20,1,0,0,0,0,0,0,6.67,0,0,0,0,0,43,7,0,50
+Trinbago Knight Riders,DJ Bravo,87e562a9,6,0,0,0,0,0.0,"[5, 14, 16, 20]",4.0,24,10,0,43,4,3,2,0,1,0,2,10.75,2,0,0,0,0,0,66,16,82
+Trinbago Knight Riders,SP Narine,9d430b40,7,0,0,0,0,0.0,"[4, 10, 12, 18]",4.0,24,11,0,24,2,1,3,0,1,0,0,6.0,0,0,0,0,0,0,100,0,100
+Trinbago Knight Riders,AJ Hosein,4d7f517e,8,0,0,0,0,0.0,"[1, 3, 9]",3.0,18,8,0,30,3,2,0,0,0,0,0,10.0,1,0,0,0,0,0,6,8,14
+Trinbago Knight Riders,Ali Khan,b0eaaac6,9,0,0,0,0,0.0,"[7, 13, 17, 19]",4.0,24,8,0,37,3,1,0,0,0,0,2,9.25,0,0,0,0,0,0,8,0,8
+Trinbago Knight Riders,JNT Seales,ded9ff1e,10,0,0,0,0,0.0,"[2, 11]",2.0,12,5,0,20,1,2,0,0,0,0,1,10.0,0,0,0,0,0,0,3,0,3

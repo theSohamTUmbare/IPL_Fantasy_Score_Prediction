@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2021-04-22'],Nepal Tri-Nation T20I Series,1257950,Malaysia,9,2,8,0,0,25.0,"7,13,15,18",4.0,24,3,0,63,3,6,0,0,0,0,1,15.75,0,0,0,0,0,2,-3,0,-1
+['2020-03-06'],ACC Eastern Region T20,1217747,Malaysia,10,0,0,0,0,0.0,"8,10,12,14",4.0,24,12,0,22,3,0,0,0,0,0,0,5.5,0,0,0,0,0,0,16,0,16
+['2020-02-24'],Hong Kong tour of Malaysia,1215139,Malaysia,11,0,0,0,0,0.0,"2,6,15,18",4.0,24,8,0,31,1,2,1,0,0,0,0,7.75,0,0,0,0,0,0,33,0,33

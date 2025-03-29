@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-07-31'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321301,Bulgaria,7,5,5,0,0,100.0,"10,12",2.0,12,3,0,13,0,1,0,0,0,0,1,6.5,0,0,0,0,0,5,5,0,10
+['2022-07-28'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321294,Bulgaria,9,0,0,0,0,0.0,"9,11",2.0,12,4,0,20,2,0,1,0,0,0,1,10.0,0,0,0,0,0,0,27,0,27
+['2022-07-27'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321291,Bulgaria,8,9,6,1,0,150.0,"10,12,14,16",4.0,24,14,0,25,1,1,1,0,0,1,3,6.25,0,0,0,0,0,13,41,0,54
+['2022-07-24'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321283,Bulgaria,10,3,6,0,0,50.0,"10,12,14",3.0,18,7,0,26,2,1,1,0,1,1,1,8.67,0,0,0,0,0,3,40,0,43

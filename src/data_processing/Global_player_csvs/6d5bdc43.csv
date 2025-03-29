@@ -1,0 +1,16 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-07-02'],Quadrangular Twenty20 Series (Malaysia),1321998,Malaysia,3,20,14,1,1,142.86,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,32,0,16,48
+['2020-03-01'],ACC Eastern Region T20,1217741,Malaysia,5,0,0,0,0,0.0,12,1.0,6,1,0,9,1,0,0,0,0,0,0,9.0,2,0,0,0,0,0,1,16,17
+['2020-02-26'],Hong Kong tour of Malaysia,1215140,Malaysia,9,0,0,0,0,0.0,13,1.0,6,2,0,11,2,0,0,0,0,0,0,11.0,1,0,0,0,0,0,2,8,10
+['2020-02-24'],Hong Kong tour of Malaysia,1215139,Malaysia,8,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2020-02-23'],Hong Kong tour of Malaysia,1215138,Malaysia,7,0,4,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2019-10-03'],Vanuatu tour of Malaysia,1202010,Malaysia,7,8,9,1,0,88.89,9,1.0,6,0,0,16,1,1,0,0,0,0,0,16.0,0,0,0,0,0,12,0,0,12
+['2019-10-02'],Vanuatu tour of Malaysia,1202009,Malaysia,7,5,5,1,0,100.0,"10,12",2.0,12,3,0,14,1,0,0,0,0,0,0,7.0,1,0,0,0,0,9,5,8,22
+"['2019-10-01', '2019-10-02']",Vanuatu tour of Malaysia,1202008,Malaysia,7,24,20,1,0,120.0,"5,8,14,16",4.0,24,5,0,48,1,5,1,0,1,0,0,12.0,0,0,0,0,0,28,34,0,62
+['2019-09-29'],Vanuatu tour of Malaysia,1202007,Malaysia,7,8,11,1,0,72.73,"7,9,17,19",4.0,24,9,0,28,0,2,2,1,1,0,0,7.0,0,0,0,0,0,12,77,0,89
+['2019-06-27'],Malaysia Tri-Nation T20I Series,1186491,Malaysia,10,0,0,0,0,0.0,2,1.0,6,2,0,15,2,0,0,0,0,0,5,15.0,0,0,0,0,0,0,2,0,2
+['2019-06-24'],Malaysia Tri-Nation T20I Series,1186488,Malaysia,11,0,0,0,0,0.0,"5,11",2.0,12,3,0,22,4,0,0,0,0,0,0,11.0,0,0,0,0,0,0,1,0,1
+['2016-02-21'],Stan Nagaiah Trophy,973777,Malaysia,5,9,8,1,0,112.5,"2,5",2.0,12,4,0,23,3,0,0,0,0,1,4,11.5,0,0,0,0,0,13,0,0,13
+['2014-09-30'],Asian Games Men's Cricket Competition,778029,Malaysia,8,4,4,0,0,100.0,"1,3,13,18",4.0,24,12,0,23,2,0,2,0,0,0,1,5.75,0,0,0,0,0,4,66,0,70
+['2014-09-28'],Asian Games Men's Cricket Competition,778021,Malaysia,8,0,0,0,0,0.0,"1,3",2.0,12,9,0,5,0,0,0,0,0,1,0,2.5,0,0,0,0,0,0,15,0,15
+['2014-09-27'],Asian Games Men's Cricket Competition,778017,Malaysia,8,0,0,0,0,0.0,"1,3,19",3.0,18,11,0,10,1,0,1,0,1,0,1,3.33,1,0,0,0,0,0,50,8,58

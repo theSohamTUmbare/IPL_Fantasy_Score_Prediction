@@ -1,0 +1,9 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-08-31'],East Africa Cup,1393332,Tanzania,7,2,2,0,0,100.0,"12,14",2.0,12,3,0,15,1,0,1,0,0,0,0,7.5,0,0,0,0,0,2,28,0,30
+['2023-08-30'],East Africa Cup,1393319,Tanzania,5,5,11,0,0,45.45,"13,15,17",3.0,18,5,0,29,0,2,2,0,0,0,5,9.67,0,0,0,0,-6,-1,55,0,54
+['2023-08-30'],East Africa Cup,1393331,Tanzania,9,0,0,0,0,0.0,13,1.0,6,3,0,2,0,0,1,0,1,0,0,2.0,1,0,0,0,0,0,36,8,44
+['2023-08-28'],East Africa Cup,1393317,Tanzania,5,43,23,1,4,186.96,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,81,0,8,89
+['2023-08-25'],East Africa Cup,1393315,Tanzania,6,9,13,0,0,69.23,"16,18,20",3.0,18,8,0,32,4,1,3,0,1,0,1,10.67,0,0,0,0,-2,7,93,0,100
+['2023-08-24'],East Africa Cup,1393314,Tanzania,6,1,3,0,0,33.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2023-08-22'],East Africa Cup,1393328,Tanzania,11,0,0,0,0,0.0,"11,13",2.0,12,4,0,22,1,1,1,0,1,0,5,11.0,0,0,0,0,0,0,35,0,35
+['2023-08-21'],East Africa Cup,1393311,Tanzania,8,9,8,0,0,112.5,15,1.0,6,1,0,16,0,2,1,0,0,0,1,16.0,0,0,0,0,0,9,26,0,35

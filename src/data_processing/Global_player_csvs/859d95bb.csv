@@ -1,0 +1,10 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-12-31'],Bangladesh Premier League,1459539,Chittagong Kings,7,0,1,0,0,0.0,"8,12",2.0,12,1,0,25,1,2,0,0,0,0,0,12.5,1,0,0,0,0,-2,-5,8,1
+['2022-01-19'],Big Bash League,1269693,Melbourne Stars,8,0,0,0,0,0.0,"5,9,13,15",4.0,24,6,0,32,1,2,1,0,0,0,1,8.0,2,0,0,0,0,0,31,16,47
+['2022-01-03'],Big Bash League,1269670,Melbourne Stars,7,3,8,0,0,37.5,"7,12",2.0,12,5,0,11,1,0,2,1,0,0,0,5.5,0,0,0,0,0,3,67,0,70
+['2022-01-02'],Big Bash League,1269668,Melbourne Stars,6,0,2,0,0,0.0,"9,13",2.0,12,2,0,18,0,1,1,0,0,0,1,9.0,1,0,1,0,0,-2,27,20,45
+['2020-12-16'],Big Bash League,1226867,Melbourne Stars,12,0,0,0,0,0.0,6,1.0,6,1,0,15,0,2,0,0,0,0,0,15.0,0,0,0,0,0,0,1,0,1
+['2019-01-27'],Big Bash League,1152552,Melbourne Stars,9,9,6,1,0,150.0,"7,11",2.0,12,2,0,15,1,0,0,0,0,0,0,7.5,0,0,0,0,0,13,2,0,15
+['2019-01-23'],Big Bash League,1152549,Melbourne Stars,11,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2019-01-19'],Big Bash League,1152545,Melbourne Stars,11,0,0,0,0,0.0,10,1.0,6,3,0,4,0,0,0,0,0,0,0,4.0,0,0,0,0,0,0,3,0,3
+['2019-01-14'],Big Bash League,1152541,Melbourne Stars,10,0,1,0,0,0.0,"8,12",2.0,12,4,0,17,0,1,1,0,0,0,0,8.5,0,0,0,0,0,0,29,0,29

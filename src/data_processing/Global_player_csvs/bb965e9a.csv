@@ -1,0 +1,43 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-12-11'],Syed Mushtaq Ali Trophy,1446102,Uttar Pradesh,3,54,34,6,3,158.82,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,108,0,0,108
+['2023-05-02'],Indian Premier League,1359518,Delhi Capitals,3,10,13,0,0,76.92,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+['2023-04-29'],Indian Premier League,1359514,Delhi Capitals,5,12,9,1,0,133.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
+['2022-10-22'],Syed Mushtaq Ali Trophy,1333029,Uttar Pradesh,3,0,2,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2022-10-14'],Syed Mushtaq Ali Trophy,1332958,Uttar Pradesh,3,6,6,1,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,10,0,16,26
+['2022-05-22'],Indian Premier League,1304116,Sunrisers Hyderabad,1,4,7,0,0,57.14,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12
+['2022-05-17'],Indian Premier League,1304111,Sunrisers Hyderabad,2,42,26,4,2,161.54,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,4,78,0,16,94
+['2021-11-05'],Syed Mushtaq Ali Trophy,1280229,Uttar Pradesh,4,10,13,0,1,76.92,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24
+['2021-11-04'],Syed Mushtaq Ali Trophy,1280211,Uttar Pradesh,5,9,7,0,1,128.57,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,15,0,8,23
+['2021-10-08'],Indian Premier League,1254088,Sunrisers Hyderabad,6,29,21,2,1,138.1,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,49,0,0,49
+['2021-10-06'],Indian Premier League,1254095,Sunrisers Hyderabad,4,15,11,0,1,136.36,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,23,0,0,23
+['2021-10-03'],Indian Premier League,1254109,Sunrisers Hyderabad,4,21,31,0,1,67.74,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,25,0,0,25
+['2021-09-30'],Indian Premier League,1254091,Sunrisers Hyderabad,4,7,10,0,0,70.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,5,0,0,5
+['2021-09-27'],Indian Premier League,1254100,Sunrisers Hyderabad,4,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2021-01-16'],Syed Mushtaq Ali Trophy,1244363,Uttar Pradesh,9,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2021-01-12'],Syed Mushtaq Ali Trophy,1244327,Uttar Pradesh,2,12,16,1,0,75.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
+['2021-01-10'],Syed Mushtaq Ali Trophy,1244307,Uttar Pradesh,4,4,8,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,4,0,16,20
+['2020-11-08'],Indian Premier League,1237180,Sunrisers Hyderabad,1,17,12,0,2,141.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,31,0,0,31
+['2020-11-06'],Indian Premier League,1237178,Sunrisers Hyderabad,5,7,14,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,3,0,8,11
+['2020-11-03'],Indian Premier League,1216495,Sunrisers Hyderabad,5,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2020-10-24'],Indian Premier League,1216498,Sunrisers Hyderabad,7,3,5,0,0,60.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2020-10-22'],Indian Premier League,1216518,Sunrisers Hyderabad,5,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2020-10-18'],Indian Premier League,1216512,Sunrisers Hyderabad,3,4,7,0,0,57.14,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,4,0,16,20
+['2020-10-13'],Indian Premier League,1216528,Sunrisers Hyderabad,5,16,18,1,0,88.89,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
+['2020-10-11'],Indian Premier League,1216507,Sunrisers Hyderabad,5,15,8,1,1,187.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
+['2020-10-08'],Indian Premier League,1216542,Sunrisers Hyderabad,6,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2020-10-04'],Indian Premier League,1216538,Sunrisers Hyderabad,5,8,7,0,0,114.29,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+['2020-10-02'],Indian Premier League,1216516,Sunrisers Hyderabad,5,51,24,6,1,212.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,95,0,0,95
+['2020-09-29'],Indian Premier League,1216532,Sunrisers Hyderabad,7,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2020-09-26'],Indian Premier League,1216545,Sunrisers Hyderabad,7,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2020-09-21'],Indian Premier League,1216534,Sunrisers Hyderabad,4,12,13,1,0,92.31,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
+['2019-03-12'],Syed Mushtaq Ali Trophy,1175042,Uttar Pradesh,4,23,26,2,0,88.46,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31
+['2019-03-11'],Syed Mushtaq Ali Trophy,1175040,Uttar Pradesh,3,30,19,3,1,157.89,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,56,0,0,56
+['2019-03-10'],Syed Mushtaq Ali Trophy,1175034,Uttar Pradesh,3,6,4,1,0,150.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+['2019-03-09'],Syed Mushtaq Ali Trophy,1175032,Uttar Pradesh,5,16,11,2,0,145.45,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,2,26,0,12,38
+['2019-03-02'],Syed Mushtaq Ali Trophy,1157206,Uttar Pradesh,6,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2019-02-28'],Syed Mushtaq Ali Trophy,1157192,Uttar Pradesh,4,15,6,2,1,250.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,29,0,8,37
+['2019-02-27'],Syed Mushtaq Ali Trophy,1157175,Uttar Pradesh,4,1,5,0,0,20.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2019-02-25'],Syed Mushtaq Ali Trophy,1157157,Uttar Pradesh,4,54,30,6,2,180.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,104,0,8,112
+['2019-02-24'],Syed Mushtaq Ali Trophy,1157141,Uttar Pradesh,4,59,48,6,0,122.92,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,91,0,8,99
+['2019-02-22'],Syed Mushtaq Ali Trophy,1157122,Uttar Pradesh,6,19,13,1,1,146.15,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,31,0,0,31
+['2019-02-21'],Syed Mushtaq Ali Trophy,1157106,Uttar Pradesh,6,4,9,0,0,44.44,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4

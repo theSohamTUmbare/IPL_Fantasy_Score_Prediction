@@ -1,0 +1,30 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-11-28'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459378,Sierra Leone,11,0,0,0,0,0.0,2,1.0,6,4,0,8,2,0,0,0,0,0,0,8.0,0,0,1,0,0,0,4,12,16
+['2024-11-27'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459383,Sierra Leone,9,0,0,0,0,0.0,"1,3,19",3.0,18,7,0,22,3,0,2,0,0,1,1,7.33,1,0,0,0,0,0,57,8,65
+['2024-11-26'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459380,Sierra Leone,11,0,0,0,0,0.0,"1,3,15,19",4.0,24,13,0,15,1,0,1,0,0,0,1,3.75,0,0,0,0,0,0,44,0,44
+['2024-11-24'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459386,Sierra Leone,10,13,5,0,2,260.0,"1,4,14",3.0,18,9,0,15,0,0,1,0,0,0,4,5.0,0,0,0,0,0,25,38,0,63
+['2024-11-23'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459375,Sierra Leone,9,0,0,0,0,0.0,"1,3",2.0,12,10,1,3,0,0,0,0,0,0,1,1.5,0,0,0,0,0,0,28,0,28
+['2023-10-15'],West Africa Trophy,1400990,Sierra Leone,6,0,1,0,0,0.0,"2,4,6,8",4.0,24,14,0,21,1,0,3,0,1,0,4,5.25,0,0,0,0,0,-2,105,0,103
+['2023-10-14'],West Africa Trophy,1400989,Sierra Leone,9,0,0,0,0,0.0,"2,4",2.0,12,7,0,7,0,0,1,0,1,0,0,3.5,2,0,0,0,0,0,46,16,62
+['2023-10-12'],West Africa Trophy,1400987,Sierra Leone,11,0,1,0,0,0.0,"2,4,6,18",4.0,24,13,0,24,2,0,1,0,0,1,3,6.0,0,0,0,0,0,-2,40,0,38
+['2023-10-11'],West Africa Trophy,1400985,Sierra Leone,11,7,10,1,0,70.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,9,0,8,17
+['2023-10-10'],West Africa Trophy,1400983,Sierra Leone,9,0,2,0,0,0.0,"7,10,20",3.0,18,10,0,22,0,2,1,1,0,0,3,7.33,1,0,0,1,0,-2,43,14,55
+['2023-10-08'],West Africa Trophy,1400980,Sierra Leone,10,2,10,0,0,20.0,1,1.0,6,2,0,8,0,0,1,1,0,1,1,8.0,0,0,0,0,-6,-4,35,0,31
+['2023-10-06'],West Africa Trophy,1400977,Sierra Leone,10,0,0,0,0,0.0,"9,11,20",3.0,18,9,0,24,1,1,1,0,0,1,2,8.0,0,0,0,2,0,0,34,12,46
+['2023-10-05'],West Africa Trophy,1400974,Sierra Leone,6,1,4,0,0,25.0,"1,3,15,18",4.0,24,12,0,24,3,0,1,0,0,0,1,6.0,0,0,0,0,0,1,39,0,40
+['2023-10-04'],West Africa Trophy,1400973,Sierra Leone,6,0,2,0,0,0.0,"1,4,15,17",4.0,24,11,0,20,1,0,2,0,1,0,1,5.0,0,0,0,0,0,-2,73,0,71
+['2022-12-06'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343785,Sierra Leone,11,0,0,0,0,0.0,"1,3,5,20",4.0,24,20,0,14,2,0,2,0,1,0,3,3.5,0,0,0,0,0,0,84,0,84
+['2022-12-05'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343781,Sierra Leone,6,3,2,0,0,150.0,"2,4",2.0,12,6,0,24,2,2,1,0,1,0,0,12.0,0,0,0,0,0,3,35,0,38
+['2022-12-05'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343783,Sierra Leone,4,0,0,0,0,0.0,"1,3,15,20",4.0,24,8,0,33,1,1,1,0,1,0,4,8.25,0,0,0,0,0,0,41,0,41
+['2022-12-02'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343772,Sierra Leone,10,10,14,0,1,71.43,"1,3,5",3.0,18,9,0,21,3,0,1,0,0,0,3,7.0,0,0,0,0,0,16,36,0,52
+['2022-12-02'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343774,Sierra Leone,8,5,8,0,0,62.5,19,1.0,6,4,0,2,0,0,1,0,1,0,0,2.0,1,0,0,0,0,5,37,8,50
+['2022-12-01'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343768,Sierra Leone,8,0,5,0,0,0.0,"1,3",2.0,12,10,0,8,1,0,1,0,0,0,3,4.0,0,0,0,0,0,-2,41,0,39
+['2021-11-07'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283050,Sierra Leone,3,6,9,1,0,66.67,"5,7,15,19",4.0,24,15,0,15,2,0,1,0,1,0,1,3.75,1,0,0,0,0,10,54,8,72
+['2021-11-05'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283047,Sierra Leone,4,1,1,0,0,100.0,"7,9,11,19",4.0,24,17,0,11,0,0,4,0,3,0,4,2.75,0,0,1,0,0,1,155,12,168
+['2021-11-03'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283045,Sierra Leone,3,12,24,0,0,50.0,"7,9,11",2.833,17,6,0,28,1,2,1,0,1,0,3,9.88,0,0,0,0,-4,8,39,0,47
+['2021-11-02'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283042,Sierra Leone,3,0,1,0,0,0.0,"15,17,19",3.0,18,6,0,21,2,0,3,0,2,0,1,7.0,1,0,0,0,0,-2,103,8,109
+['2021-10-26'],Sierra Leone tour of Nigeria,1283094,Sierra Leone,6,23,26,1,2,88.46,"15,20",2.0,12,6,0,10,1,0,0,0,0,0,2,5.0,1,0,0,0,0,39,10,8,57
+['2021-10-24'],Sierra Leone tour of Nigeria,1283093,Sierra Leone,6,17,31,0,0,54.84,"16,18",1.667,10,4,0,8,0,0,3,0,3,0,0,4.8,0,0,0,1,-4,13,107,6,126
+['2021-10-23'],Sierra Leone tour of Nigeria,1283092,Sierra Leone,10,0,0,0,0,0.0,14,1.0,6,3,0,10,0,1,0,0,0,0,1,10.0,0,0,0,0,0,0,3,0,3
+['2021-10-21'],Sierra Leone tour of Nigeria,1283091,Sierra Leone,7,0,2,0,0,0.0,"13,16",2.0,12,6,0,17,2,1,1,0,0,0,0,8.5,0,0,0,0,0,-2,31,0,29
+['2021-10-19'],Sierra Leone tour of Nigeria,1283089,Sierra Leone,8,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8

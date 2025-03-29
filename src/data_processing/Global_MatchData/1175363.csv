@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Rajasthan Royals,AM Rahane,29e95537,1,70,49,4,3,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,114,0,0,114
+Rajasthan Royals,JC Buttler,99b75528,2,5,8,1,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
+Rajasthan Royals,SV Samson,a4cc73aa,3,102,54,10,4,188.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,188,0,0,188
+Rajasthan Royals,BA Stokes,e087956b,4,16,9,3,0,177.78,"[5, 10, 12]",3.0,18,2,0,40,8,0,1,0,0,0,0,13.33,0,0,0,0,0,28,21,0,49
+Rajasthan Royals,SPD Smith,30a45b23,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Rajasthan Royals,RA Tripathi,77255a9e,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Rajasthan Royals,K Gowtham,90de905a,9,0,0,0,0,0.0,"[2, 8]",2.0,12,1,0,25,3,1,0,0,0,0,0,12.5,0,0,0,0,0,0,-5,0,-5
+Rajasthan Royals,JC Archer,5574750c,10,0,0,0,0,0.0,"[4, 6, 17, 19]",4.0,24,9,0,42,4,2,0,0,0,0,2,10.5,0,0,0,0,0,0,7,0,7
+Rajasthan Royals,JD Unadkat,1e66c162,11,0,0,0,0,0.0,"[13, 15, 18]",3.0,18,5,0,26,1,1,1,0,0,0,2,8.67,0,0,0,0,0,0,30,0,30
+Rajasthan Royals,S Gopal,7a8bd078,12,0,0,0,0,0.0,"[7, 9, 11, 16]",4.0,24,8,0,27,1,1,3,1,0,0,0,6.75,0,0,0,0,0,0,97,0,97
+Rajasthan Royals,DS Kulkarni,d2a989fc,13,0,0,0,0,0.0,"[1, 3, 14]",3.0,18,3,0,40,2,3,0,0,0,0,1,13.33,2,0,0,0,0,0,-3,16,13
+Sunrisers Hyderabad,DA Warner,dcce6f09,1,69,37,9,2,186.49,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,131,0,0,131
+Sunrisers Hyderabad,JM Bairstow,abb83e27,2,45,28,6,1,160.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,83,0,0,83
+Sunrisers Hyderabad,KS Williamson,d027ba9f,3,14,10,2,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,24,0,0,24
+Sunrisers Hyderabad,V Shankar,0994d0ae,4,35,15,1,3,233.33,[12],1.0,6,1,0,13,1,1,0,0,0,0,0,13.0,0,0,0,0,6,67,1,0,68
+Sunrisers Hyderabad,MK Pandey,93b4fc78,5,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+Sunrisers Hyderabad,YK Pathan,3c6ffae8,6,16,12,0,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,24,0,0,24
+Sunrisers Hyderabad,B Kumar,2e81a32d,7,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,7,0,55,9,1,0,0,0,0,3,13.75,0,0,0,0,0,0,1,0,1
+Sunrisers Hyderabad,Rashid Khan,5f547c8b,7,15,8,1,1,187.5,"[4, 9, 13, 15]",4.0,24,10,0,24,3,0,1,0,1,0,0,6.0,0,0,0,0,0,25,45,0,70
+Sunrisers Hyderabad,Sandeep Sharma,ce820073,8,0,0,0,0,0.0,"[2, 5, 14, 19]",4.0,24,4,0,38,2,1,0,0,0,0,0,9.5,0,0,0,0,0,0,4,0,4
+Sunrisers Hyderabad,S Kaul,dcf81436,9,0,0,0,0,0.0,"[6, 8, 11, 17]",4.0,24,7,0,32,2,1,0,0,0,1,1,8.0,0,0,0,0,0,0,7,0,7
+Sunrisers Hyderabad,S Nadeem,9d80c5e1,10,0,0,0,0,0.0,"[7, 10, 16]",3.0,18,2,0,36,1,3,1,0,0,0,0,12.0,0,0,0,0,0,0,23,0,23

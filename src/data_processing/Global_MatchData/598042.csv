@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Pune Warriors,RV Uthappa,1c17e270,1,75,45,5,5,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,141,0,0,141
+Pune Warriors,AJ Finch,b8d490fd,2,15,11,1,1,136.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,27,0,0,27
+Pune Warriors,TL Suman,aaa1b522,3,11,14,1,0,78.57,"[3, 7]",2.0,12,3,0,15,0,1,1,0,0,0,0,7.5,0,0,0,0,0,15,28,0,43
+Pune Warriors,Yuvraj Singh,1c914163,4,16,11,0,2,145.45,[11],1.0,6,0,0,15,3,0,0,0,0,0,0,15.0,0,0,0,0,2,30,0,0,30
+Pune Warriors,SPD Smith,30a45b23,5,4,4,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+Pune Warriors,AD Mathews,896d78ad,6,32,19,0,3,168.42,"[6, 10]",2.0,12,3,0,23,1,0,0,0,0,0,10,11.5,0,0,0,0,4,58,-1,0,57
+Pune Warriors,AM Nayar,a45a5e8d,7,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Pune Warriors,B Kumar,2e81a32d,8,2,3,0,0,66.67,"[1, 4, 19]",3.0,18,10,0,20,3,0,0,0,0,0,1,6.67,1,0,0,0,0,2,12,8,22
+Pune Warriors,BAW Mendis,ea0cdc12,9,2,4,0,0,50.0,"[2, 5, 9, 15]",4.0,24,10,0,25,2,1,0,0,0,0,0,6.25,0,0,0,0,0,2,12,0,14
+Pune Warriors,AB Dinda,66b30f71,10,6,5,1,0,120.0,"[13, 16, 18, 20]",4.0,24,7,0,52,6,3,2,0,1,0,0,13.0,0,0,0,0,0,10,59,0,69
+Pune Warriors,R Sharma,5d9a1a73,11,0,1,0,0,0.0,"[8, 12, 14, 17]",4.0,24,3,0,36,2,1,0,0,0,0,0,9.0,1,0,0,0,0,0,3,8,11
+Royal Challengers Bangalore,SS Tiwary,709b0bac,1,52,45,2,2,115.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,80,0,0,80
+Royal Challengers Bangalore,CH Gayle,db584dad,2,21,21,2,1,100.0,[20],1.0,6,3,0,5,1,0,1,1,0,0,0,5.0,1,0,0,0,0,35,36,8,79
+Royal Challengers Bangalore,V Kohli,ba607b88,3,25,18,3,0,138.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,43,0,8,51
+Royal Challengers Bangalore,AB de Villiers,c4487b84,4,50,23,6,2,217.39,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,100,0,16,116
+Royal Challengers Bangalore,MC Henriques,32198ae0,5,27,13,4,1,207.69,"[3, 5, 7, 9]",4.0,24,7,0,44,4,3,1,0,1,0,0,11.0,0,0,0,0,6,59,38,0,97
+Royal Challengers Bangalore,KL Rahul,b17e2f24,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Royal Challengers Bangalore,KB Arun Karthik,7daedf2f,12,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,0,0,14,14
+Royal Challengers Bangalore,R Vinay Kumar,41eb4a4f,13,0,0,0,0,0.0,"[6, 11, 13, 17]",4.0,24,9,0,31,1,2,3,0,0,0,1,7.75,0,0,0,0,0,0,88,0,88
+Royal Challengers Bangalore,M Kartik,abfeb126,14,0,0,0,0,0.0,"[1, 12, 14, 18]",4.0,24,7,0,29,1,1,2,0,0,0,0,7.25,0,0,0,0,0,0,57,0,57
+Royal Challengers Bangalore,M Muralitharan,4ba44e19,15,0,0,0,0,0.0,"[8, 10, 16]",3.0,18,7,0,32,0,4,0,0,0,0,1,10.67,0,0,0,1,0,0,5,6,11
+Royal Challengers Bangalore,RP Singh,c3d1402f,16,0,0,0,0,0.0,"[2, 4, 15, 19]",4.0,24,10,0,27,2,1,1,0,0,0,2,6.75,1,0,0,0,0,0,37,8,45

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+St Kitts and Nevis Patriots,CA Lynn,45eda7c8,1,14,11,2,0,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
+St Kitts and Nevis Patriots,E Lewis,0ebfb1ad,2,29,20,4,2,145.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,63,0,0,63
+St Kitts and Nevis Patriots,J Da Silva,bab78fa2,3,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+St Kitts and Nevis Patriots,D Ramdin,d1523761,4,46,35,2,2,131.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,2,72,0,28,100
+St Kitts and Nevis Patriots,BR Dunk,272d796e,5,5,11,0,0,45.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-1,0,0,-1
+St Kitts and Nevis Patriots,KOA Powell,e012ad13,6,7,9,0,0,77.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,7,0,8,15
+St Kitts and Nevis Patriots,Sohail Tanvir,64d43928,7,5,5,0,0,100.0,"[2, 5, 15, 19]",4.0,24,8,0,41,4,2,2,0,0,0,1,10.25,0,0,0,0,0,5,56,0,61
+St Kitts and Nevis Patriots,RR Emrit,e7de4f6b,8,10,6,0,1,166.67,"[8, 10, 16, 18]",4.0,24,13,1,14,1,0,1,0,0,0,0,3.5,0,0,0,0,0,16,56,0,72
+St Kitts and Nevis Patriots,IS Sodhi,641ac5ff,9,6,8,1,0,75.0,"[7, 9, 11, 13]",4.0,24,6,0,36,3,1,0,0,0,0,3,9.0,1,0,0,0,0,10,6,8,24
+St Kitts and Nevis Patriots,JL Jaggesar,2b85c8e6,10,0,0,0,0,0.0,"[4, 6, 12, 14]",4.0,24,12,0,29,0,3,2,0,0,0,1,7.25,0,0,0,0,0,0,62,0,62
+St Kitts and Nevis Patriots,SS Cottrell,a1d053dd,10,26,11,1,3,236.36,"[1, 3, 17, 20]",4.0,24,6,0,49,3,3,0,0,0,0,0,12.25,0,0,0,0,6,58,0,0,58
+St Lucia Zouks,ADS Fletcher,1bae756b,1,46,33,6,1,139.39,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,82,0,16,98
+St Lucia Zouks,RRS Cornwall,c4d9634c,2,16,16,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
+St Lucia Zouks,M Deyal,7183799b,3,30,17,0,3,176.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,58,0,0,58
+St Lucia Zouks,Najibullah Zadran,1212cbec,4,28,24,3,1,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,50,0,8,58
+St Lucia Zouks,RL Chase,3feda4fa,5,4,4,0,0,100.0,"[5, 7, 9, 11]",4.0,24,14,0,12,0,0,3,0,1,0,0,3.0,0,0,0,0,0,4,107,0,111
+St Lucia Zouks,Mohammad Nabi,62af8546,6,35,22,1,3,159.09,"[1, 3, 13, 15]",4.0,24,12,0,17,1,0,1,0,0,0,0,4.25,1,0,0,0,4,65,43,8,116
+St Lucia Zouks,DJG Sammy,c03c6200,7,4,2,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16
+St Lucia Zouks,Saad Bin Zafar,f28a60e0,8,1,2,0,0,50.0,[2],1.0,6,0,0,21,3,1,0,0,0,0,0,21.0,0,0,0,0,0,1,0,0,1
+St Lucia Zouks,SC Kuggeleijn,fef92afc,10,0,0,0,0,0.0,"[4, 14, 16, 18]",4.0,24,12,0,33,3,2,4,0,0,0,2,8.25,1,0,0,0,0,0,120,8,128
+St Lucia Zouks,KOK Williams,78cb83f3,11,0,0,0,0,0.0,"[6, 12, 17, 19]",4.0,24,6,0,37,2,2,0,0,0,0,2,9.25,0,0,0,0,0,0,6,0,6
+St Lucia Zouks,OC McCoy,529eb9e0,12,0,0,0,0,0.0,"[8, 10, 20]",3.0,18,4,0,36,1,3,0,0,0,0,3,12.0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,10 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2008-06-01'],Indian Premier League,336040,Chennai Super Kings,2,16,14,1,1,114.29,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26
+['2008-05-31'],Indian Premier League,336039,Chennai Super Kings,2,6,7,1,0,85.71,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+['2008-05-21'],Indian Premier League,336029,Chennai Super Kings,7,0,3,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2008-05-18'],Indian Premier League,336025,Chennai Super Kings,3,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2008-05-14'],Indian Premier League,336018,Chennai Super Kings,1,16,11,3,0,145.45,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,30,0,0,30
+['2008-05-10'],Indian Premier League,336013,Chennai Super Kings,1,8,4,2,0,200.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24
+['2008-05-08'],Indian Premier League,336009,Chennai Super Kings,1,40,23,6,1,173.91,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,80,0,0,80
+['2008-05-04'],Indian Premier League,336005,Chennai Super Kings,3,5,10,1,0,50.0,"11,13",2.0,12,5,0,22,1,2,1,0,0,0,1,11.0,0,0,0,0,-4,5,28,0,33
+['2008-05-02'],Indian Premier League,336001,Chennai Super Kings,3,54,37,7,1,145.95,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,98,0,0,98

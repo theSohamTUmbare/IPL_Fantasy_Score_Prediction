@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-06-23'],Vitality Blast,1347675,Middlesex,10,0,1,0,0,0.0,"1,8,18",3.0,18,4,0,28,4,0,1,0,0,0,1,9.33,0,0,0,0,0,-2,29,0,27
+['2023-06-22'],Vitality Blast,1347665,Middlesex,10,0,0,0,0,0.0,"4,8,13",3.0,18,4,0,36,5,1,1,0,1,0,3,12.0,2,0,0,0,0,0,33,16,49
+['2022-07-03'],Vitality Blast,1297912,Middlesex,8,0,0,0,0,0.0,"4,8,10",3.0,18,7,0,26,2,1,2,0,0,0,5,8.67,0,0,0,0,0,0,57,0,57
+['2022-07-01'],Vitality Blast,1297906,Middlesex,8,7,5,1,0,140.0,"6,12,14,18",4.0,24,7,0,37,4,1,2,0,0,0,1,9.25,0,0,0,0,0,11,57,0,68

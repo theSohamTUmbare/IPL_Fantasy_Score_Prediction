@@ -1,0 +1,15 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2021-01-18'],Syed Mushtaq Ali Trophy,1244387,Bengal,7,34,22,4,0,154.55,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,58,0,0,58
+['2021-01-16'],Syed Mushtaq Ali Trophy,1244367,Bengal,3,48,47,4,0,102.13,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,68,0,8,76
+['2021-01-14'],Syed Mushtaq Ali Trophy,1244349,Bengal,3,16,13,1,1,123.08,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26
+['2021-01-10'],Syed Mushtaq Ali Trophy,1244309,Bengal,11,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2018-01-24'],Syed Mushtaq Ali Trophy,1133416,Bengal,11,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
+['2018-01-22'],Syed Mushtaq Ali Trophy,1133407,Bengal,6,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2018-01-21'],Syed Mushtaq Ali Trophy,1133404,Bengal,5,11,8,1,0,137.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
+['2018-01-16'],Syed Mushtaq Ali Trophy,1130697,Bengal,4,34,19,6,0,178.95,9,1.0,6,1,0,14,3,0,1,0,0,0,0,14.0,1,0,0,0,6,68,26,8,102
+['2018-01-12'],Syed Mushtaq Ali Trophy,1130711,Bengal,11,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2018-01-08'],Syed Mushtaq Ali Trophy,1130672,Bengal,5,1,1,0,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+['2012-05-19'],Indian Premier League,548375,Pune Warriors,5,17,22,0,0,77.27,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
+['2012-05-13'],Indian Premier League,548365,Pune Warriors,4,9,8,2,0,112.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
+['2012-05-11'],Indian Premier League,548362,Pune Warriors,5,31,26,4,0,119.23,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,51,0,0,51
+['2012-05-08'],Indian Premier League,548358,Pune Warriors,4,30,20,1,2,150.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,50,0,0,50

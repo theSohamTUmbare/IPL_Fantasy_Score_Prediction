@@ -1,0 +1,9 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2009-05-13'],Indian Premier League,392223,Deccan Chargers,11,0,1,0,0,0.0,6,1.0,6,0,0,24,4,1,0,0,0,0,0,24.0,1,0,0,0,0,-2,0,8,6
+['2009-05-11'],Indian Premier League,392220,Deccan Chargers,11,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2009-05-09'],Indian Premier League,392216,Deccan Chargers,9,0,0,0,0,0.0,"3,10,13",3.0,18,5,0,25,0,2,2,0,1,0,0,8.33,1,0,0,0,0,0,63,8,71
+['2009-05-06'],Indian Premier League,392212,Deccan Chargers,9,0,0,0,0,0.0,"7,10",2.0,12,4,0,19,3,0,0,0,0,0,0,9.5,0,0,0,0,0,0,4,0,4
+['2009-05-04'],Indian Premier League,392209,Deccan Chargers,10,1,2,0,0,50.0,"7,14",2.0,12,4,0,14,2,0,1,0,0,0,0,7.0,0,0,0,0,0,1,31,0,32
+['2009-05-02'],Indian Premier League,392205,Deccan Chargers,8,0,0,0,0,0.0,"14,16",2.0,12,3,0,19,0,2,0,0,0,0,0,9.5,1,0,0,0,0,0,3,8,11
+['2009-04-30'],Indian Premier League,392201,Deccan Chargers,8,0,3,0,0,0.0,"5,7,9,11",4.0,24,12,0,20,3,0,2,1,0,0,0,5.0,0,0,0,0,0,0,74,0,74
+['2009-04-27'],Indian Premier League,392196,Deccan Chargers,11,0,0,0,0,0.0,"12,16,18",3.0,18,5,0,31,2,2,0,0,0,0,1,10.33,1,0,0,0,0,0,3,8,11

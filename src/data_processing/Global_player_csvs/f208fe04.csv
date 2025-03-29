@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-11-21'],Desert Cup T20I Series,1344794,Bahrain,8,8,6,1,0,133.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,12,0,28,40
+['2022-02-19'],ICC Men's T20 World Cup Qualifier A,1299573,Bahrain,7,8,6,1,0,133.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+['2022-02-18'],ICC Men’s T20 World Cup Qualifier A,1299569,Bahrain,10,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,0,20,20

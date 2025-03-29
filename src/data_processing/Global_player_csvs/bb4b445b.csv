@@ -1,0 +1,22 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2025-02-07'],Bangladesh Premier League,1459582,Chittagong Kings,5,0,2,0,0,0.0,"8,10,12,20",3.5,21,2,0,44,2,3,0,0,0,1,1,12.57,0,0,0,0,0,0,-4,0,-4
+['2025-02-05'],Bangladesh Premier League,1459581,Chittagong Kings,4,40,25,5,1,160.0,15,1.0,6,1,0,9,1,0,0,0,0,0,0,9.0,0,0,0,0,4,74,1,0,75
+['2025-01-22'],Bangladesh Premier League,1459565,Chittagong Kings,4,2,2,0,0,100.0,"9,11,13",3.0,18,4,0,23,1,1,1,0,0,0,0,7.67,0,0,0,0,0,2,29,0,31
+['2021-02-14'],South Africa tour of Pakistan,1243021,Pakistan,4,5,6,0,0,83.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
+['2021-02-13'],South Africa tour of Pakistan,1243020,Pakistan,4,3,7,0,0,42.86,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2021-02-11'],South Africa tour of Pakistan,1243019,Pakistan,4,15,11,2,0,136.36,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,25,0,8,33
+['2020-12-22'],Pakistan tour of New Zealand,1233961,Pakistan,8,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2019-02-06'],Pakistan tour of South Africa,1144163,Pakistan,5,3,4,0,0,75.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2019-02-03'],Pakistan tour of South Africa,1144162,Pakistan,3,55,41,7,1,134.15,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,99,0,0,99
+['2019-02-01'],Pakistan tour of South Africa,1144161,Pakistan,3,40,32,5,0,125.0,14,1.0,6,0,0,14,2,0,0,0,0,0,1,14.0,0,0,0,0,0,64,0,0,64
+['2018-10-24'],Australia tour of United Arab Emirates,1157372,Pakistan,5,9,6,1,0,150.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+['2018-07-08'],Zimbabwe Twenty20 Tri-Series,1142919,Pakistan,3,0,3,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2018-07-05'],Zimbabwe Twenty20 Tri-Series,1142917,Pakistan,3,30,25,3,1,120.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,52,0,0,52
+['2018-07-04'],Zimbabwe Twenty20 Tri-Series,1142916,Pakistan,3,44,35,0,1,125.71,19,1.0,6,1,0,10,0,0,1,0,0,0,2,10.0,0,0,0,0,0,54,26,0,80
+['2018-07-02'],Zimbabwe Twenty20 Tri-Series,1142914,Pakistan,3,10,10,2,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26
+['2018-07-01'],Zimbabwe Twenty20 Tri-Series,1142913,Pakistan,3,10,12,1,0,83.33,8,1.0,6,1,0,11,1,0,0,0,0,0,0,11.0,0,0,0,0,0,14,1,0,15
+['2018-06-13'],"Pakistan tour of Ireland, England and Scotland",1127301,Pakistan,3,17,18,1,0,94.44,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
+['2018-06-12'],"Pakistan tour of Ireland, England and Scotland",1127300,Pakistan,3,18,16,2,0,112.5,20,1.0,6,2,0,4,0,0,0,0,0,0,0,4.0,0,0,0,0,0,26,2,0,28
+['2018-04-03'],West Indies tour of Pakistan,1140071,Pakistan,3,31,28,3,0,110.71,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,47,0,0,47
+['2018-04-02'],West Indies tour of Pakistan,1140070,Pakistan,3,63,41,8,1,153.66,"15,20",1.333,8,3,0,12,2,0,2,0,0,0,1,9.0,0,0,0,0,4,113,53,0,166
+['2018-04-01'],West Indies tour of Pakistan,1140069,Pakistan,3,41,37,2,1,110.81,14,0.667,4,1,0,3,0,0,1,0,0,0,0,4.5,3,0,0,0,0,59,26,28,113

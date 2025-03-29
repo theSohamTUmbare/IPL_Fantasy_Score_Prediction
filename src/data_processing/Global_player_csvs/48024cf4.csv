@@ -1,0 +1,10 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-02-16'],East Asia Cup,1418544,Japan,8,28,18,4,1,155.56,"14,16,18",3.0,18,10,0,17,1,1,2,0,1,0,0,5.67,0,0,0,0,4,58,72,0,130
+['2024-02-15'],East Asia Cup,1418541,Japan,11,0,0,0,0,0.0,"9,13,16",3.0,18,11,0,12,0,0,1,0,0,0,5,4.0,0,0,0,0,0,0,42,0,42
+['2023-07-26'],ICC Men's T20 World Cup East Asia-Pacific Qualifier,1383096,Japan,9,1,2,0,0,50.0,20,1.0,6,4,0,5,1,0,0,0,0,0,0,5.0,0,0,0,0,0,1,4,0,5
+['2018-12-05'],ICC World Twenty20 East Asia-Pacific Region Qualifier B,1166887,Japan,9,16,15,1,0,106.67,"2,4,17,19",4.0,24,9,0,23,1,0,2,0,0,0,2,5.75,0,0,0,0,0,20,63,0,83
+['2018-12-03'],ICC World Twenty20 East Asia-Pacific Region Qualifier B,1166886,Japan,8,0,0,0,0,0.0,"4,14",2.0,12,6,0,12,2,0,0,0,0,0,0,6.0,0,0,0,0,0,0,8,0,8
+['2018-12-02'],ICC World Twenty20 East Asia-Pacific Region Qualifier B,1166884,Japan,9,0,0,0,0,0.0,8,1.0,6,2,0,11,2,0,0,0,0,0,1,11.0,0,0,0,0,0,0,2,0,2
+['2018-09-15'],East Asia Cup,1159091,Japan,8,0,0,0,0,0.0,"2,4,16,20",4.0,24,11,0,23,2,0,0,0,0,0,2,5.75,0,0,0,0,0,0,15,0,15
+['2018-09-14'],East Asia Cup,1159089,Japan,11,0,0,0,0,0.0,"2,6",2.0,12,6,0,11,0,1,2,0,1,0,0,5.5,1,0,0,0,0,0,68,8,76
+['2016-11-03'],East Asia Cup,1063553,Japan,9,0,0,0,0,0.0,"5,10,12,15",4.0,24,15,0,17,1,0,0,0,0,0,2,4.25,0,0,0,0,0,0,21,0,21

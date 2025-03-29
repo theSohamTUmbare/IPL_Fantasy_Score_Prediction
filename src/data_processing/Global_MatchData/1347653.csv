@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Leicestershire,NR Welch,74c6c6e0,1,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+Leicestershire,PSP Handscomb,ada15e88,2,36,20,4,2,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,74,0,0,74
+Leicestershire,RK Patel,4531f249,3,27,21,1,2,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,47,0,0,47
+Leicestershire,CN Ackermann,e734d090,4,4,8,0,0,50.0,"[2, 8, 14, 16]",4.0,24,7,0,27,2,0,0,0,0,0,1,6.75,0,0,0,0,0,4,9,0,13
+Leicestershire,LPJ Kimber,9f812582,5,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,10,0,8,18
+Leicestershire,PWA Mulder,c96f6ac5,6,11,16,0,0,68.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,9,0,8,17
+Leicestershire,Rehan Ahmed,0ecb4de6,7,7,6,1,0,116.67,"[7, 10, 12, 15]",4.0,24,9,0,25,3,0,2,0,1,0,0,6.25,0,0,0,0,0,11,69,0,80
+Leicestershire,TAR Scriven,ac3c3cab,8,8,10,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+Leicestershire,MG Finan,8c9d3000,9,0,1,0,0,0.0,"[5, 11, 17]",2.333,14,7,0,23,3,1,0,0,0,0,2,9.86,0,0,0,0,0,-2,7,0,5
+Leicestershire,CF Parkinson,aa1210d8,10,8,14,0,0,57.14,"[1, 3, 9, 13]",4.0,24,11,0,25,3,0,1,0,0,0,0,6.25,1,0,0,0,-4,4,38,8,50
+Leicestershire,MET Salisbury,e05b2a5b,11,0,4,0,0,0.0,"[4, 6]",2.0,12,4,0,11,1,0,1,0,0,0,2,5.5,0,0,0,0,0,0,33,0,33
+Worcestershire,BL D'Oliveira,9679838c,1,51,39,5,1,130.77,"[8, 10, 12, 14]",4.0,24,13,0,17,2,0,2,0,1,0,0,4.25,1,0,0,0,2,87,77,8,172
+Worcestershire,JA Haynes,fe4ebca0,2,16,16,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
+Worcestershire,MJ Santner,e4a0deae,3,18,17,3,0,105.88,"[4, 11, 13, 18]",4.0,24,12,0,22,2,0,1,0,1,0,0,5.5,0,0,0,0,0,30,49,0,79
+Worcestershire,AJ Hose,104e88a4,4,5,3,1,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,9,0,16,25
+Worcestershire,Kashif Ali,f3b26fe4,5,10,16,0,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,8,0,0,8
+Worcestershire,EJ Pollock,d6663a9a,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Worcestershire,OB Cox,324a6ee1,6,6,7,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,10,0,8,18
+Worcestershire,Usama Mir,6dd8b88c,7,0,0,0,0,0.0,"[7, 9, 15, 17]",4.0,24,13,0,22,1,1,4,1,1,0,0,5.5,1,0,0,0,0,0,141,8,149
+Worcestershire,JC Tongue,1f1b4c89,8,0,0,0,0,0.0,"[2, 5, 16]",3.0,18,8,0,25,0,2,1,0,0,2,1,8.33,0,0,0,0,0,0,33,0,33
+Worcestershire,DY Pennington,219cc59e,9,0,0,0,0,0.0,"[1, 3]",2.0,12,6,0,14,2,0,1,0,0,0,0,7.0,1,0,0,0,0,0,33,8,41
+Worcestershire,PR Brown,1efd12d1,10,0,0,0,0,0.0,"[6, 19]",1.333,8,4,0,12,1,1,1,0,0,0,0,9.0,0,0,0,0,0,0,29,0,29

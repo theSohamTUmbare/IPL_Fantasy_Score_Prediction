@@ -1,0 +1,17 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-04-15'],Indian Premier League,1426268,Royal Challengers Bengaluru,5,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2024-04-11'],Indian Premier League,1426263,Royal Challengers Bengaluru,8,9,8,1,0,112.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+['2024-04-06'],Indian Premier League,1422137,Royal Challengers Bengaluru,4,9,6,0,1,150.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
+['2023-10-31'],Syed Mushtaq Ali Trophy,1383560,Gujarat,3,32,21,4,1,152.38,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,62,0,0,62
+['2023-10-25'],Syed Mushtaq Ali Trophy,1383534,Gujarat,4,48,22,4,4,218.18,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,1,6,98,0,22,120
+['2023-10-19'],Syed Mushtaq Ali Trophy,1383480,Gujarat,5,36,26,1,2,138.46,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,58,0,0,58
+['2023-10-17'],Syed Mushtaq Ali Trophy,1383461,Gujarat,4,2,4,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2022-10-22'],Syed Mushtaq Ali Trophy,1333040,Gujarat,5,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2022-10-20'],Syed Mushtaq Ali Trophy,1333022,Gujarat,4,6,9,0,0,66.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6
+['2022-10-16'],Syed Mushtaq Ali Trophy,1332986,Gujarat,3,10,13,1,0,76.92,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,14,0,8,22
+['2022-10-14'],Syed Mushtaq Ali Trophy,1332968,Gujarat,3,16,15,2,0,106.67,10,1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,0,24,1,0,25
+['2021-11-18'],Syed Mushtaq Ali Trophy,1280299,Gujarat,3,9,18,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,5,0,0,5
+['2021-11-09'],Syed Mushtaq Ali Trophy,1280283,Gujarat,2,6,8,1,0,75.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+['2021-11-06'],Syed Mushtaq Ali Trophy,1280247,Gujarat,2,26,22,3,0,118.18,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,42,0,16,58
+['2021-11-05'],Syed Mushtaq Ali Trophy,1280227,Gujarat,2,1,2,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2021-11-04'],Syed Mushtaq Ali Trophy,1280209,Gujarat,2,50,40,3,2,125.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,82,0,0,82

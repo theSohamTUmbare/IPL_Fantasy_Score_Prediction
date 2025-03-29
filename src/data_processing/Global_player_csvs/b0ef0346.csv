@@ -1,0 +1,14 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-07-27'],ICC Men's T20 World Cup Asia Region Final,1190775,Qatar,1,0,2,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2019-07-26'],ICC Men's T20 World Cup Asia Region Final,1190772,Qatar,1,24,8,3,2,300.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,48,0,8,56
+['2019-07-23'],ICC Men's T20 World Cup Asia Region Final,1190769,Qatar,1,1,2,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2019-07-22'],ICC Men's T20 World Cup Asia Region Final,1190767,Qatar,2,29,14,5,1,207.14,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,65,0,0,65
+['2018-04-27'],ICC World Twenty20 Asia Region Qualifier A,1142224,Qatar,1,0,1,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2018-04-26'],ICC World Twenty20 Asia Region Qualifier A,1142221,Qatar,1,7,8,0,1,87.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+['2018-04-24'],ICC World Twenty20 Asia Region Qualifier A,1142218,Qatar,1,18,8,1,2,225.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34
+['2018-04-23'],ICC World Twenty20 Asia Region Qualifier A,1142214,Qatar,1,25,18,2,1,138.89,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,45,0,0,45
+['2018-04-21'],ICC World Twenty20 Asia Region Qualifier A,1142211,Qatar,1,48,23,6,3,208.7,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,100,0,0,100
+['2018-04-20'],ICC World Twenty20 Asia Region Qualifier A,1142210,Qatar,1,40,24,7,0,166.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,76,0,0,76
+['2016-09-29'],Kenya T20 Quadrangular Series,1059539,Qatar,1,35,16,5,2,218.75,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,77,0,0,77
+['2016-09-28'],Kenya T20 Quadrangular Series,1058157,Qatar,1,35,13,7,1,269.23,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,79,0,0,79
+['2016-09-27'],Kenya T20 Quadrangular Series,1058153,Qatar,1,10,8,2,0,125.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,18,0,16,34

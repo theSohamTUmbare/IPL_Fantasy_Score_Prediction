@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-07-14'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439833,Germany,2,48,25,4,4,192.0,"14,16,18",3.0,18,4,0,13,0,0,0,0,0,0,1,4.33,1,0,0,0,6,98,10,8,116
+['2024-07-11'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439822,Germany,3,15,7,2,1,214.29,"6,16,18",3.0,18,4,0,29,3,1,0,0,0,0,0,9.67,0,0,1,0,0,29,4,12,45
+['2024-07-09'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439819,Germany,3,21,11,3,1,190.91,"8,12,15,17",4.0,24,5,0,39,3,1,1,0,0,3,1,9.75,1,0,0,1,6,45,30,14,89
+['2024-07-08'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439814,Germany,3,15,12,2,1,125.0,"8,13,16,19",4.0,24,4,0,22,0,0,1,0,0,1,2,5.5,2,0,0,0,0,29,33,16,78

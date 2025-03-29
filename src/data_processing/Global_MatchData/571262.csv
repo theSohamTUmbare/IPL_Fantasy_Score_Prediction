@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Adelaide Strikers,TM Head,12b610c2,1,4,5,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+Adelaide Strikers,M Klinger,b970a03f,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Adelaide Strikers,TP Ludeman,c3f7898b,3,11,17,0,0,64.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,9,0,8,17
+Adelaide Strikers,CJ Ferguson,9b4935c8,4,13,18,1,0,72.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
+Adelaide Strikers,NJ Reardon,c7bdb5b5,5,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Adelaide Strikers,J Botha,7c503806,6,17,17,3,0,100.0,"[8, 10, 12, 16]",4.0,24,3,0,37,2,1,0,0,0,0,0,9.25,0,0,0,0,0,29,3,0,32
+Adelaide Strikers,KW Richardson,dfc4d8b5,7,20,17,2,0,117.65,"[6, 11, 17, 19]",4.0,24,6,0,42,5,1,2,0,1,0,0,10.5,0,0,0,0,0,28,62,0,90
+Adelaide Strikers,CJ Boyce,51a60c16,8,7,13,0,0,53.85,"[7, 9, 15]",3.0,18,3,0,28,1,2,0,0,0,0,0,9.33,0,0,0,0,-4,3,3,0,6
+Adelaide Strikers,NM Lyon,96a6a7ad,9,2,3,0,0,66.67,[2],1.0,6,1,0,17,4,0,0,0,0,0,0,17.0,1,0,0,0,0,2,1,8,11
+Adelaide Strikers,BE Young,278fd5ff,10,9,12,0,0,75.0,"[1, 3, 5, 13]",4.0,24,12,0,28,3,1,1,0,1,0,0,7.0,0,0,0,0,0,9,47,0,56
+Adelaide Strikers,SW Tait,addfb70e,11,2,3,0,0,66.67,"[4, 14, 18, 20]",4.0,24,9,0,36,2,1,1,0,0,0,9,9.0,0,0,0,0,0,2,34,0,36
+Perth Scorchers,SE Marsh,508a1ea7,1,79,60,8,2,131.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,137,0,8,145
+Perth Scorchers,HH Gibbs,e1d1b294,2,54,34,5,2,158.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,98,0,0,98
+Perth Scorchers,AC Voges,864c199e,3,36,18,4,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,68,0,16,84
+Perth Scorchers,NM Coulter-Nile,56ab442f,4,3,4,0,0,75.0,"[7, 9, 11]",3.0,18,8,0,13,1,0,3,0,0,0,1,4.33,1,0,0,0,0,3,93,8,104
+Perth Scorchers,TIF Triffitt,593513d5,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Perth Scorchers,MJ North,99464591,6,7,3,0,1,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+Perth Scorchers,SM Katich,fdedb37c,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Perth Scorchers,AC Thomas,b552a935,12,0,0,0,0,0.0,"[5, 15, 17, 19]",3.5,21,8,0,14,0,0,3,0,1,0,0,4.0,0,0,0,0,0,0,101,0,101
+Perth Scorchers,GB Hogg,f708a0bc,13,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,14,0,22,3,0,1,0,0,0,1,5.5,0,0,0,0,0,0,43,0,43
+Perth Scorchers,JP Behrendorff,4933f499,14,0,0,0,0,0.0,"[2, 4, 13, 18]",4.0,24,8,0,26,2,0,1,0,1,0,2,6.5,0,0,0,0,0,0,43,0,43
+Perth Scorchers,MA Beer,f60dc2a5,15,0,0,0,0,0.0,"[1, 3, 6, 16]",4.0,24,13,0,14,1,0,2,0,2,0,0,3.5,1,0,0,0,0,0,85,8,93

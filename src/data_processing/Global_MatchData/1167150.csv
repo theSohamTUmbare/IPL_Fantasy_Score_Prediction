@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Birmingham Bears,EJ Pollock,d6663a9a,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Birmingham Bears,MGK Burgess,715941c3,2,18,13,1,1,138.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,30,0,8,38
+Birmingham Bears,SR Hain,67b9536c,3,29,23,4,0,126.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,49,0,16,65
+Birmingham Bears,AJ Hose,104e88a4,4,27,31,2,1,87.1,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,45,0,8,53
+Birmingham Bears,AC Agar,a2421394,5,17,9,1,1,188.89,"[7, 9, 11, 15]",4.0,24,8,0,31,3,1,0,0,0,0,0,7.75,0,0,0,0,0,27,8,0,35
+Birmingham Bears,WMH Rhodes,f54dbda7,6,7,12,0,0,58.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,3,0,0,3
+Birmingham Bears,L Banks,2e6a4807,7,3,3,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+Birmingham Bears,HJH Brookes,2085e1fa,8,0,1,0,0,0.0,"[4, 6, 13, 19]",4.0,24,8,0,26,2,0,2,0,0,0,1,6.5,1,0,0,0,0,-2,60,8,66
+Birmingham Bears,JS Patel,f5821615,9,1,1,0,0,100.0,"[10, 12, 16, 20]",4.0,24,3,0,43,7,0,1,0,0,0,0,10.75,0,0,0,0,0,1,26,0,27
+Birmingham Bears,JC Wainman,11ec0b58,10,0,2,0,0,0.0,"[2, 8, 14, 18]",4.0,24,9,0,33,3,1,1,0,0,2,2,8.25,0,0,0,0,0,0,34,0,34
+Birmingham Bears,FH Edwards,a7c226e1,10,0,0,0,0,0.0,"[1, 3, 5, 17]",4.0,24,14,0,16,2,0,2,0,0,0,1,4.0,1,0,0,0,0,0,70,8,78
+Northamptonshire,BJ Curran,1786a21b,1,5,8,1,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
+Northamptonshire,AM Rossington,7bcde3fe,2,13,13,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
+Northamptonshire,JJ Cobb,58c481c6,3,8,4,2,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
+Northamptonshire,RI Keogh,e22d3b5c,4,59,48,6,1,122.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,97,0,8,105
+Northamptonshire,AG Wakely,730d120f,5,38,34,4,0,111.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,58,0,8,66
+Northamptonshire,D Pretorius,11614d87,6,6,6,1,0,100.0,"[6, 13, 16]",3.0,18,8,0,16,1,0,1,0,0,0,2,5.33,0,0,0,0,0,10,37,0,47
+Northamptonshire,MT Coles,e9d5218e,7,14,7,1,1,200.0,[3],1.0,6,1,0,13,1,1,0,0,0,0,0,13.0,2,0,0,0,0,24,1,16,41
+Northamptonshire,Faheem Ashraf,bd4ea627,10,0,0,0,0,0.0,"[2, 4, 12, 14]",4.0,24,7,0,26,4,0,2,0,2,0,0,6.5,0,0,0,0,0,0,75,0,75
+Northamptonshire,GG White,0f21680d,11,0,0,0,0,0.0,"[7, 10]",2.0,12,3,0,13,0,1,1,0,0,0,0,6.5,0,0,0,0,0,0,30,0,30
+Northamptonshire,NL Buck,5239d782,12,0,0,0,0,0.0,"[5, 8, 11]",3.0,18,9,0,21,1,1,1,0,0,2,0,7.0,0,0,0,0,0,0,36,0,36
+Northamptonshire,BW Sanderson,e871a7a1,13,0,0,0,0,0.0,"[1, 9, 15]",3.0,18,6,0,17,1,0,2,0,1,0,0,5.67,0,0,0,0,0,0,68,0,68

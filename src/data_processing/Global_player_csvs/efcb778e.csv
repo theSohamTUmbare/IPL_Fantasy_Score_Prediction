@@ -1,0 +1,41 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-08-28'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1443789,Guernsey,1,43,29,4,2,148.28,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,77,0,0,77
+['2024-08-25'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1443780,Guernsey,1,29,24,4,0,120.83,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,49,0,0,49
+['2024-08-24'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1443775,Guernsey,1,21,18,1,1,116.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,31,0,16,47
+['2024-08-22'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1443772,Guernsey,1,44,32,5,0,137.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,70,0,16,86
+['2024-08-21'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1443767,Guernsey,1,41,28,4,1,146.43,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,69,0,0,69
+['2023-08-15'],Germany tour of Netherlands,1387245,Guernsey,1,87,67,4,5,129.85,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,145,0,16,161
+['2023-08-14'],Germany tour of Netherlands,1387243,Guernsey,2,10,9,1,0,111.11,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
+['2023-08-14'],Germany tour of Netherlands,1387244,Guernsey,2,59,46,5,3,128.26,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,105,0,0,105
+['2023-02-26'],Isle of Man tour of Spain,1354802,Isle of Man,8,8,11,0,0,72.73,"7,9,11,13",3.5,21,9,0,24,2,0,2,0,0,0,3,6.86,0,0,0,0,0,8,61,0,69
+['2023-02-26'],Isle of Man tour of Spain,1354803,Isle of Man,8,2,5,0,0,40.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2023-02-25'],Isle of Man tour of Spain,1354800,Isle of Man,9,3,5,0,0,60.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11
+['2023-02-24'],Isle of Man tour of Spain,1354799,Isle of Man,8,0,0,0,0,0.0,"4,6,15",3.0,18,7,0,29,2,1,2,0,0,0,5,9.67,0,0,0,0,0,0,57,0,57
+['2022-07-31'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321302,Guernsey,3,25,21,4,0,119.05,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,45,0,0,45
+['2022-07-28'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321296,Guernsey,4,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2022-07-27'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321289,Guernsey,4,20,20,1,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
+['2022-07-25'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321288,Guernsey,3,0,2,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2022-07-24'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321283,Guernsey,3,18,11,0,2,163.64,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,34,0,0,34
+['2022-07-19'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321280,Isle of Man,11,0,0,0,0,0.0,10,1.0,6,1,0,13,0,1,0,0,0,0,1,13.0,0,0,0,0,0,0,1,0,1
+['2022-07-18'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321276,Isle of Man,10,2,3,0,0,66.67,"12,14",2.0,12,6,0,14,1,1,1,0,0,0,0,7.0,0,0,0,0,0,2,33,0,35
+['2022-07-15'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321268,Isle of Man,9,0,0,0,0,0.0,"10,12,14",3.0,18,8,0,19,2,0,2,0,0,0,3,6.33,0,0,0,0,0,0,60,0,60
+['2022-07-13'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321263,Isle of Man,10,0,0,0,0,0.0,"12,14",2.0,12,4,0,16,1,0,1,0,0,1,2,8.0,0,0,0,0,0,0,29,0,29
+['2022-07-12'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321258,Isle of Man,10,0,0,0,0,0.0,"6,11,13",3.0,18,9,0,27,3,1,1,0,0,0,3,9.0,1,0,0,0,0,0,34,8,42
+['2022-05-20'],Inter-Insular T20 Series,1310188,Guernsey,3,8,11,1,0,72.73,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+['2022-05-01'],Spain Triangular T20I Series,1310165,Guernsey,1,28,19,7,0,147.37,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,62,0,0,62
+['2022-04-30'],Spain Triangular T20I Series,1310163,Guernsey,1,32,29,2,1,110.34,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,50,0,16,66
+['2022-04-30'],Spain Triangular T20I Series,1310164,Guernsey,1,16,19,2,0,84.21,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
+['2022-04-29'],Spain Triangular T20I Series,1310161,Guernsey,3,17,28,0,0,60.71,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,-2,15,0,14,29
+['2021-10-08'],Cyprus T20 Tri-Series,1279386,Isle of Man,9,0,0,0,0,0.0,"6,8,10,16",4.0,24,16,0,12,0,0,4,0,0,0,2,3.0,0,0,0,0,0,0,130,0,130
+['2021-10-07'],Cyprus T20 Tri-Series,1279383,Isle of Man,10,0,0,0,0,0.0,"10,12,14",3.0,18,8,0,21,2,1,2,0,0,0,0,7.0,1,0,0,0,0,0,60,8,68
+['2021-10-06'],Cyprus T20 Tri-Series,1279381,Isle of Man,7,0,0,0,0,0.0,"12,14,16",3.0,18,7,0,19,0,1,1,0,1,0,1,6.33,2,0,0,0,0,0,42,16,58
+['2021-10-06'],Cyprus T20 Tri-Series,1279382,Isle of Man,9,0,0,0,0,0.0,"6,8,16",3.0,18,6,0,16,1,0,1,0,0,0,1,5.33,1,0,0,0,0,0,35,8,43
+['2020-08-21'],Isle of Man tour of Guernsey,1229824,Guernsey,3,37,27,5,0,137.04,"7,9,11",3.0,18,3,0,34,0,3,1,0,0,0,4,11.33,0,0,0,0,2,63,24,0,87
+['2019-06-20'],ICC Men's T20 World Cup Europe Region Final,1189743,Guernsey,1,17,21,1,0,80.95,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,21,0,8,29
+['2019-06-19'],ICC Men's T20 World Cup Europe Region Final,1185191,Guernsey,2,36,37,4,0,97.3,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,56,0,0,56
+['2019-06-18'],ICC Men's T20 World Cup Europe Region Final,1185187,Guernsey,1,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2019-06-16'],ICC Men's T20 World Cup Europe Region Final,1185185,Guernsey,3,12,19,1,1,63.16,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,20,0,0,20
+['2019-06-15'],ICC Men's T20 World Cup Europe Region Final,1185181,Guernsey,3,10,9,1,0,111.11,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
+['2018-09-01'],ICC World Twenty20 Europe Region Qualifier C,1156675,Guernsey,3,6,11,0,0,54.55,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,2,0,0,2
+['2018-08-30'],ICC World Twenty20 Europe Region Qualifier C,1156670,Guernsey,2,1,4,0,0,25.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2018-08-29'],ICC World Twenty20 Europe Region Qualifier C,1156665,Guernsey,2,20,28,2,0,71.43,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28

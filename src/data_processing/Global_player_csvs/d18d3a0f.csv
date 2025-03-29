@@ -1,0 +1,21 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-12-14'],Africa Continental Cup,1462932,Nigeria,2,22,29,1,0,75.86,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26
+['2024-12-13'],Africa Continental Cup,1462913,Nigeria,3,21,28,2,0,75.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29
+['2024-12-12'],Africa Continental Cup,1462920,Nigeria,4,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2024-12-11'],Africa Continental Cup,1462917,Nigeria,2,39,55,3,1,70.91,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,61,0,0,61
+['2024-12-09'],Africa Continental Cup,1462922,Nigeria,2,21,20,3,0,105.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33
+['2024-12-08'],Africa Continental Cup,1462925,Nigeria,2,25,22,0,3,113.64,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,47,0,0,47
+['2024-12-07'],Africa Continental Cup,1462927,Nigeria,2,18,17,2,1,105.88,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32
+['2024-12-06'],Africa Continental Cup,1462915,Nigeria,2,27,18,4,0,150.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,47,0,0,47
+['2024-12-05'],Africa Continental Cup,1462919,Nigeria,2,35,40,3,0,87.5,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,51,0,0,51
+['2024-12-04'],Africa Continental Cup,1462916,Nigeria,2,39,32,2,2,121.88,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,63,0,6,69
+['2024-11-28'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459379,Nigeria,2,1,4,0,0,25.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2024-11-27'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459383,Nigeria,2,31,28,2,0,110.71,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,43,0,0,43
+['2024-11-26'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459381,Nigeria,2,31,20,3,1,155.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,57,0,8,65
+['2024-11-24'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459387,Nigeria,2,112,52,13,2,215.38,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,6,198,0,6,204
+['2024-11-23'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459376,Nigeria,2,10,8,1,0,125.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
+['2024-07-17'],Nigeria tour of Kenya,1442739,Nigeria,2,25,25,5,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,49,0,8,57
+['2024-07-16'],Nigeria tour of Kenya,1442738,Nigeria,2,42,37,4,1,113.51,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,68,0,0,68
+['2024-07-15'],Nigeria tour of Kenya,1442737,Nigeria,2,19,16,3,0,118.75,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,31,0,8,39
+['2024-07-13'],Nigeria tour of Kenya,1442736,Nigeria,2,21,32,2,0,65.62,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,27,0,0,27
+['2024-07-12'],Nigeria tour of Kenya,1442735,Nigeria,2,26,27,5,0,96.3,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,50,0,8,58
