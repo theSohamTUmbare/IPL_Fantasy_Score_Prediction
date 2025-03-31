@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Assam,Pallav Kumar Das,c2294408,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Assam,Swarupam Purkayastha,dfc887dc,2,5,10,1,0,50.0,"[15, 17, 19]",2.833,17,5,0,17,1,0,3,0,0,0,0,6.0,0,0,0,0,-4,5,86,0,91
-Assam,Sibsankar Roy,3d8348d0,3,50,47,4,0,106.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,74,0,8,82
-Assam,R Parag,04a418e8,4,2,10,0,0,20.0,"[6, 10, 12, 18]",4.0,24,12,0,19,2,0,0,0,0,0,0,4.75,1,0,0,0,-6,-4,18,8,22
-Assam,Wasiqur Rahman,645eaa96,5,2,10,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-4,0,0,-4
-Assam,Hrishikesh Tamuli,70b51feb,6,5,13,0,0,38.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-1,0,0,-1
-Assam,Rajjakuddin Ahmed,69cbffb8,7,5,5,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
-Assam,Pritam Das,e342d310,8,0,0,0,0,0.0,"[2, 4, 14]",3.0,18,6,0,24,3,0,0,0,0,0,1,8.0,1,0,0,0,0,0,6,8,14
-Assam,AN Ahmed,2af1b6d2,8,26,19,1,1,136.84,[5],1.0,6,3,0,11,1,1,0,0,0,0,0,11.0,0,0,1,0,2,42,3,12,57
-Assam,Roshan Alam,7cc093f4,9,0,0,0,0,0.0,"[7, 9, 13, 16]",4.0,24,11,0,25,3,0,1,0,0,0,0,6.25,1,0,0,0,0,0,38,8,46
-Assam,Abhilash Gogoi,ab922bd0,9,8,5,1,0,160.0,"[1, 3, 8, 11]",4.0,24,15,0,13,1,0,1,0,0,0,0,3.25,0,0,0,0,0,12,46,0,58
-Meghalaya,RR Biswa,2df87089,1,25,37,4,0,67.57,"[1, 4, 6, 10]",4.0,24,13,0,14,1,0,2,0,1,0,0,3.5,0,0,0,0,-2,43,77,0,120
-Meghalaya,Punit Bisht,310bddc0,2,42,23,6,1,182.61,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,82,0,0,82
-Meghalaya,DB Ravi Teja,b720a5d6,3,10,12,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
-Meghalaya,R Sanjay Yadav,33ffc3dd,4,0,2,0,0,0.0,"[3, 8, 16, 18]",4.0,24,14,2,14,0,0,2,1,1,0,2,3.5,1,0,0,0,0,-2,110,8,116
-Meghalaya,Amiangshu Sen,42046ec9,5,14,22,0,0,63.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,12,0,0,12
-Meghalaya,Mark Ingty,6b394eaa,6,7,8,0,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,7,0,16,23
-Meghalaya,Abhay Negi,481dd6dc,7,9,8,1,0,112.5,"[2, 5, 17, 19]",4.0,24,8,0,24,2,0,1,0,0,0,1,6.0,0,0,0,0,0,13,35,0,48
-Meghalaya,Swarajeet Das,324a6e1e,8,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Meghalaya,A Singhania,791a65ce,8,0,0,0,0,0.0,[7],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,0,1,0,1
-Meghalaya,BB Dey,427e6670,9,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,10,0,30,3,1,1,0,0,0,1,7.5,0,0,0,0,0,0,35,0,35
-Meghalaya,Kilco R Marak,4da2f572,10,0,0,0,0,0.0,"[12, 14, 20]",3.0,18,5,0,17,1,0,1,0,0,0,0,5.67,1,0,0,0,0,0,34,8,42
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Assam,Pallav Kumar Das,c2294408,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,35,True,False,False,Right-arm medium,Left-hand bat
+Assam,Swarupam Purkayastha,dfc887dc,2,5,10,1,0,50.0,"[15, 17, 19]",2.833,17,5,0,17,1,0,3,0,0,0,0,6.0,0,0,0,0,-4,5,86,0,91,35,True,True,False,Right-arm offbreak,Right-hand bat
+Assam,Sibsankar Roy,3d8348d0,3,50,47,4,0,106.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,74,0,8,82,34,True,False,False,Right-arm offbreak,Left-hand bat
+Assam,R Parag,04a418e8,4,2,10,0,0,20.0,"[6, 10, 12, 18]",4.0,24,12,0,19,2,0,0,0,0,0,0,4.75,1,0,0,0,-6,-4,18,8,22,23,True,False,False,Legbreak,Right-hand bat
+Assam,Wasiqur Rahman,645eaa96,5,2,10,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-4,0,0,-4,30,True,False,False,,Right-hand bat
+Assam,Hrishikesh Tamuli,70b51feb,6,5,13,0,0,38.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-1,0,0,-1,29,True,False,False,,Right-hand bat
+Assam,Rajjakuddin Ahmed,69cbffb8,7,5,5,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,29,True,True,False,Right-arm medium,Right-hand bat
+Assam,Pritam Das,e342d310,8,0,0,0,0,0.0,"[2, 4, 14]",3.0,18,6,0,24,3,0,0,0,0,0,1,8.0,1,0,0,0,0,0,6,8,14,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Assam,AN Ahmed,2af1b6d2,8,26,19,1,1,136.84,[5],1.0,6,3,0,11,1,1,0,0,0,0,0,11.0,0,0,1,0,2,42,3,12,57,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Assam,Roshan Alam,7cc093f4,9,0,0,0,0,0.0,"[7, 9, 13, 16]",4.0,24,11,0,25,3,0,1,0,0,0,0,6.25,1,0,0,0,0,0,38,8,46,29,True,True,False,Slow left-arm orthodox,Right-hand bat
+Assam,Abhilash Gogoi,ab922bd0,9,8,5,1,0,160.0,"[1, 3, 8, 11]",4.0,24,15,0,13,1,0,1,0,0,0,0,3.25,0,0,0,0,0,12,46,0,58,29,True,False,False,Slow left-arm orthodox,Right-hand bat
+Meghalaya,RR Biswa,2df87089,1,25,37,4,0,67.57,"[1, 4, 6, 10]",4.0,24,13,0,14,1,0,2,0,1,0,0,3.5,0,0,0,0,-2,43,77,0,120,31,True,True,False,Right-arm offbreak,Right-hand bat
+Meghalaya,Punit Bisht,310bddc0,2,42,23,6,1,182.61,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,82,0,0,82,38,True,False,False,,Right-hand bat
+Meghalaya,DB Ravi Teja,b720a5d6,3,10,12,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,37,True,False,False,Legbreak googly,Right-hand bat
+Meghalaya,R Sanjay Yadav,33ffc3dd,4,0,2,0,0,0.0,"[3, 8, 16, 18]",4.0,24,14,2,14,0,0,2,1,1,0,2,3.5,1,0,0,0,0,-2,110,8,116,29,True,False,True,Slow left-arm orthodox,Left-hand bat
+Meghalaya,Amiangshu Sen,42046ec9,5,14,22,0,0,63.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,12,0,0,12,30,True,True,False,Right-arm medium,Right-hand bat
+Meghalaya,Mark Ingty,6b394eaa,6,7,8,0,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,7,0,16,23,48,True,True,False,Right-arm medium,Right-hand bat
+Meghalaya,Abhay Negi,481dd6dc,7,9,8,1,0,112.5,"[2, 5, 17, 19]",4.0,24,8,0,24,2,0,1,0,0,0,1,6.0,0,0,0,0,0,13,35,0,48,32,True,False,True,Right-arm medium,Right-hand bat
+Meghalaya,Swarajeet Das,324a6e1e,8,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,33,True,True,False,Right-arm medium,Right-hand bat
+Meghalaya,A Singhania,791a65ce,8,0,0,0,0,0.0,[7],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,0,1,0,1,34,True,True,False,Slow left-arm orthodox,Right-hand bat
+Meghalaya,BB Dey,427e6670,9,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,10,0,30,3,1,1,0,0,0,1,7.5,0,0,0,0,0,0,35,0,35,30,True,True,False,Right-arm offbreak,Right-hand bat
+Meghalaya,Kilco R Marak,4da2f572,10,0,0,0,0,0.0,"[12, 14, 20]",3.0,18,5,0,17,1,0,1,0,0,0,0,5.67,1,0,0,0,0,0,34,8,42,32,True,True,False,Right-arm medium-fast,Right-hand bat

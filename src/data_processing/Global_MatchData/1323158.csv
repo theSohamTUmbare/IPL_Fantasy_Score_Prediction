@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-St Kitts and Nevis Patriots,ADS Fletcher,1bae756b,1,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-St Kitts and Nevis Patriots,E Lewis,0ebfb1ad,2,24,9,3,2,266.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,48,0,0,48
-St Kitts and Nevis Patriots,D Brevis,844e79d1,3,11,9,0,1,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
-St Kitts and Nevis Patriots,DM Bravo,14b14cd8,4,20,25,2,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,28,0,16,44
-St Kitts and Nevis Patriots,SE Rutherford,d014d5ac,5,9,19,0,0,47.37,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,3,0,0,3
-St Kitts and Nevis Patriots,D Pretorius,11614d87,6,9,13,1,0,69.23,"[9, 11, 15, 17]",4.0,24,8,0,37,1,2,3,0,0,0,8,9.25,0,0,0,0,-2,11,87,0,98
-St Kitts and Nevis Patriots,Rashid Khan,5f547c8b,7,0,6,0,0,0.0,"[6, 10, 16, 18]",4.0,24,15,0,12,1,0,1,1,0,0,0,3.0,2,0,0,0,0,-2,54,16,68
-St Kitts and Nevis Patriots,D Jansen,8dc152d1,8,3,8,0,0,37.5,"[2, 7, 19]",3.0,18,7,0,22,2,1,0,0,0,0,0,7.33,0,0,0,0,0,3,7,0,10
-St Kitts and Nevis Patriots,SS Cottrell,a1d053dd,9,2,5,0,0,40.0,"[1, 3, 5, 13]",4.0,24,12,0,41,3,4,2,1,0,0,0,10.25,0,0,0,0,0,2,68,0,70
-St Kitts and Nevis Patriots,A Dananjaya,5b16a806,10,10,10,1,0,100.0,"[8, 12, 14, 20]",4.0,24,11,0,30,2,2,2,1,0,0,0,7.5,0,0,0,0,0,14,69,0,83
-St Kitts and Nevis Patriots,JC Carmichael,c8d45843,11,2,6,0,0,33.33,[4],1.0,6,0,0,17,0,2,0,0,0,1,0,17.0,1,0,1,0,0,2,0,20,22
-St Lucia Kings,J Charles,09a9d073,1,41,32,4,2,128.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,73,0,0,73
-St Lucia Kings,F du Plessis,3355b542,2,60,34,3,5,176.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,116,0,0,116
-St Lucia Kings,TH David,f1f99156,3,2,7,0,0,28.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,5,0,0,0,0,2,0,44,46
-St Lucia Kings,RS Primus,6f4c73ce,4,2,3,0,0,66.67,"[13, 15, 17]",3.0,18,9,0,12,1,0,2,0,0,0,0,4.0,0,0,0,0,0,2,65,0,67
-St Lucia Kings,N Dickwella,45963d9e,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-St Lucia Kings,RL Chase,3feda4fa,6,11,6,1,1,183.33,"[2, 9]",2.0,12,5,0,18,2,1,0,0,0,0,0,9.0,0,0,0,0,0,21,5,0,26
-St Lucia Kings,D Wiese,aa8d28ae,7,12,14,0,1,85.71,"[8, 10, 16, 19]",4.0,24,10,0,17,0,0,3,0,1,0,3,4.25,1,0,0,0,0,18,103,8,129
-St Lucia Kings,AS Joseph,b0946605,8,0,2,0,0,0.0,"[4, 6, 14, 18]",4.0,24,18,1,19,1,1,2,0,1,0,5,4.75,1,0,0,0,0,-2,94,8,100
-St Lucia Kings,MW Forde,83d17bbc,9,15,11,0,2,136.36,"[1, 3, 5]",3.0,18,12,0,19,2,1,3,0,0,0,1,6.33,0,0,0,0,2,29,93,0,122
-St Lucia Kings,LM Edward,a08a3c52,10,6,6,1,0,100.0,[11],1.0,6,2,0,4,0,0,0,0,0,0,0,4.0,0,0,0,0,0,10,2,0,12
-St Lucia Kings,KOK Williams,78cb83f3,11,1,4,0,0,25.0,"[7, 12]",2.0,12,5,0,11,1,0,0,0,0,0,1,5.5,0,0,0,0,0,1,9,0,10
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+St Kitts and Nevis Patriots,ADS Fletcher,1bae756b,1,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,37,True,False,False,Legbreak,Right-hand bat
+St Kitts and Nevis Patriots,E Lewis,0ebfb1ad,2,24,9,3,2,266.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,48,0,0,48,33,True,False,False,,Left-hand bat
+St Kitts and Nevis Patriots,D Brevis,844e79d1,3,11,9,0,1,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,21,True,False,True,Legbreak,Right-hand bat
+St Kitts and Nevis Patriots,DM Bravo,14b14cd8,4,20,25,2,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,28,0,16,44,36,True,False,False,Right-arm medium,Left-hand bat
+St Kitts and Nevis Patriots,SE Rutherford,d014d5ac,5,9,19,0,0,47.37,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,3,0,0,3,26,True,False,False,Right-arm fast-medium,Left-hand bat
+St Kitts and Nevis Patriots,D Pretorius,11614d87,6,9,13,1,0,69.23,"[9, 11, 15, 17]",4.0,24,8,0,37,1,2,3,0,0,0,8,9.25,0,0,0,0,-2,11,87,0,98,36,True,False,True,Right-arm medium-fast,Right-hand bat
+St Kitts and Nevis Patriots,Rashid Khan,5f547c8b,7,0,6,0,0,0.0,"[6, 10, 16, 18]",4.0,24,15,0,12,1,0,1,1,0,0,0,3.0,2,0,0,0,0,-2,54,16,68,26,True,False,True,Legbreak googly,Right-hand bat
+St Kitts and Nevis Patriots,D Jansen,8dc152d1,8,3,8,0,0,37.5,"[2, 7, 19]",3.0,18,7,0,22,2,1,0,0,0,0,0,7.33,0,0,0,0,0,3,7,0,10,24,True,False,False,Left-arm fast,Right-hand bat
+St Kitts and Nevis Patriots,SS Cottrell,a1d053dd,9,2,5,0,0,40.0,"[1, 3, 5, 13]",4.0,24,12,0,41,3,4,2,1,0,0,0,10.25,0,0,0,0,0,2,68,0,70,35,True,False,False,Left-arm fast-medium,Right-hand bat
+St Kitts and Nevis Patriots,A Dananjaya,5b16a806,10,10,10,1,0,100.0,"[8, 12, 14, 20]",4.0,24,11,0,30,2,2,2,1,0,0,0,7.5,0,0,0,0,0,14,69,0,83,31,True,False,True,Legbreak,Left-hand bat
+St Kitts and Nevis Patriots,JC Carmichael,c8d45843,11,2,6,0,0,33.33,[4],1.0,6,0,0,17,0,2,0,0,0,1,0,17.0,1,0,1,0,0,2,0,20,22,21,True,False,False,Slow left-arm orthodox,Right-hand bat
+St Lucia Kings,J Charles,09a9d073,1,41,32,4,2,128.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,73,0,0,73,36,True,False,False,,Right-hand bat
+St Lucia Kings,F du Plessis,3355b542,2,60,34,3,5,176.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,116,0,0,116,40,True,False,False,Legbreak,Right-hand bat
+St Lucia Kings,TH David,f1f99156,3,2,7,0,0,28.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,5,0,0,0,0,2,0,44,46,29,True,False,False,Right-arm offbreak,Right-hand bat
+St Lucia Kings,RS Primus,6f4c73ce,4,2,3,0,0,66.67,"[13, 15, 17]",3.0,18,9,0,12,1,0,2,0,0,0,0,4.0,0,0,0,0,0,2,65,0,67,29,True,False,True,Right-arm medium,Right-hand bat
+St Lucia Kings,N Dickwella,45963d9e,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,31,True,False,False,,Left-hand bat
+St Lucia Kings,RL Chase,3feda4fa,6,11,6,1,1,183.33,"[2, 9]",2.0,12,5,0,18,2,1,0,0,0,0,0,9.0,0,0,0,0,0,21,5,0,26,33,True,False,True,Right-arm offbreak,Right-hand bat
+St Lucia Kings,D Wiese,aa8d28ae,7,12,14,0,1,85.71,"[8, 10, 16, 19]",4.0,24,10,0,17,0,0,3,0,1,0,3,4.25,1,0,0,0,0,18,103,8,129,39,True,False,True,Right-arm medium-fast,Right-hand bat
+St Lucia Kings,AS Joseph,b0946605,8,0,2,0,0,0.0,"[4, 6, 14, 18]",4.0,24,18,1,19,1,1,2,0,1,0,5,4.75,1,0,0,0,0,-2,94,8,100,28,True,False,False,Right-arm fast,Right-hand bat
+St Lucia Kings,MW Forde,83d17bbc,9,15,11,0,2,136.36,"[1, 3, 5]",3.0,18,12,0,19,2,1,3,0,0,0,1,6.33,0,0,0,0,2,29,93,0,122,22,True,False,False,Right-arm medium,Right-hand bat
+St Lucia Kings,LM Edward,a08a3c52,10,6,6,1,0,100.0,[11],1.0,6,2,0,4,0,0,0,0,0,0,0,4.0,0,0,0,0,0,10,2,0,12,30,True,False,False,Slow left-arm orthodox,Left-hand bat
+St Lucia Kings,KOK Williams,78cb83f3,11,1,4,0,0,25.0,"[7, 12]",2.0,12,5,0,11,1,0,0,0,0,0,1,5.5,0,0,0,0,0,1,9,0,10,35,True,False,False,Right-arm fast-medium,Right-hand bat

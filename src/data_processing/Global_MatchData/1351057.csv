@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Chattogram Challengers,Usman Khan,bafb9238,1,103,57,10,5,180.7,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,195,0,0,195
-Chattogram Challengers,MP O'Dowd,b699df47,2,58,49,5,3,118.37,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,104,0,0,104
-Chattogram Challengers,Afif Hossain,37138918,3,5,10,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,1,0,0,1
-Chattogram Challengers,Shuvagata Hom,bb01f9e0,3,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,13,1,15,1,1,1,0,0,0,0,5.0,0,0,0,0,0,0,54,0,54
-Chattogram Challengers,Irfan Sukkur,3cc7dd5f,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Chattogram Challengers,UBT Chand,0c94f480,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Chattogram Challengers,V Viyaskanth,03a83c50,6,0,0,0,0,0.0,"[8, 11, 15]",3.0,18,8,0,29,3,2,1,0,1,0,0,9.67,0,0,0,0,0,0,41,0,41
-Chattogram Challengers,Mrittunjoy Chowdhury,21b97584,7,0,0,0,0,0.0,"[7, 9, 18, 20]",4.0,24,7,0,44,2,4,0,0,0,0,1,11.0,1,0,0,0,0,0,5,8,13
-Chattogram Challengers,Abu Jayed,1bb0993e,8,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,11,0,29,3,1,2,1,0,0,2,7.25,0,0,0,0,0,0,69,0,69
-Chattogram Challengers,Mehedi Hasan Rana,0b7363da,9,0,0,0,0,0.0,"[6, 10, 13]",3.0,18,3,0,35,3,2,0,0,0,0,1,11.67,0,0,0,0,0,0,-1,0,-1
-Chattogram Challengers,Ziaur Rahman,c27518d2,10,0,0,0,0,0.0,"[12, 14, 16]",3.0,18,5,0,25,4,0,1,0,1,0,0,8.33,0,0,0,0,0,0,38,0,38
-Khulna Tigers,Tamim Iqbal,3b041a12,1,40,37,5,1,108.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,70,0,0,70
-Khulna Tigers,Sharjeel Khan,193ef196,2,5,7,1,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
-Khulna Tigers,Mohammad Saifuddin,b3a28446,3,0,0,0,0,0.0,"[2, 4, 14, 19]",4.0,24,9,0,36,3,2,0,0,0,0,1,9.0,0,0,0,0,0,0,9,0,9
-Khulna Tigers,Habibur Rahman,cee2fbd8,3,6,6,1,0,100.0,[13],1.0,6,0,0,13,2,0,0,0,0,0,0,13.0,0,0,0,0,0,10,0,0,10
-Khulna Tigers,Azam Khan,ee8f1a6d,4,109,58,9,8,187.93,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,215,0,0,215
-Khulna Tigers,Nahidul Islam,8c7b16c8,4,0,0,0,0,0.0,"[1, 9, 15]",3.0,18,7,0,26,0,3,1,0,0,0,0,8.67,0,0,0,0,0,0,32,0,32
-Khulna Tigers,Nasum Ahmed,37654b75,5,0,0,0,0,0.0,"[3, 5, 8, 12]",4.0,24,6,0,33,4,1,0,0,0,0,0,8.25,1,0,0,0,0,0,6,8,14
-Khulna Tigers,Yasir Ali Chowdhury,5791b840,5,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Khulna Tigers,PA van Meekeren,4557dc54,6,0,0,0,0,0.0,"[6, 10, 17, 20]",3.333,20,3,0,42,5,1,0,0,0,2,2,12.6,0,0,0,0,0,0,-3,0,-3
-Khulna Tigers,Sabbir Rahman,7147f314,6,10,7,0,1,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
-Khulna Tigers,Wahab Riaz,b3118300,7,2,3,0,0,66.67,"[7, 11, 16, 18]",4.0,24,11,0,21,1,1,0,0,0,0,0,5.25,0,0,0,0,0,2,15,0,17
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Chattogram Challengers,Usman Khan,bafb9238,1,103,57,10,5,180.7,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,195,0,0,195,29,True,True,False,Right-arm offbreak,Right-hand bat
+Chattogram Challengers,MP O'Dowd,b699df47,2,58,49,5,3,118.37,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,104,0,0,104,31,True,False,False,Right-arm offbreak,Right-hand bat
+Chattogram Challengers,Afif Hossain,37138918,3,5,10,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,1,0,0,1,25,True,False,True,Right-arm offbreak,Left-hand bat
+Chattogram Challengers,Shuvagata Hom,bb01f9e0,3,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,13,1,15,1,1,1,0,0,0,0,5.0,0,0,0,0,0,0,54,0,54,38,True,False,True,Right-arm offbreak,Right-hand bat
+Chattogram Challengers,Irfan Sukkur,3cc7dd5f,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,31,True,False,False,,Left-hand bat
+Chattogram Challengers,UBT Chand,0c94f480,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,32,True,True,False,Right-arm offbreak,Right-hand bat
+Chattogram Challengers,V Viyaskanth,03a83c50,6,0,0,0,0,0.0,"[8, 11, 15]",3.0,18,8,0,29,3,2,1,0,1,0,0,9.67,0,0,0,0,0,0,41,0,41,23,True,False,False,Legbreak,Right-hand bat
+Chattogram Challengers,Mrittunjoy Chowdhury,21b97584,7,0,0,0,0,0.0,"[7, 9, 18, 20]",4.0,24,7,0,44,2,4,0,0,0,0,1,11.0,1,0,0,0,0,0,5,8,13,23,True,False,True,Left-arm medium-fast,Left-hand bat
+Chattogram Challengers,Abu Jayed,1bb0993e,8,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,11,0,29,3,1,2,1,0,0,2,7.25,0,0,0,0,0,0,69,0,69,31,True,False,False,Right-arm fast-medium,Right-hand bat
+Chattogram Challengers,Mehedi Hasan Rana,0b7363da,9,0,0,0,0,0.0,"[6, 10, 13]",3.0,18,3,0,35,3,2,0,0,0,0,1,11.67,0,0,0,0,0,0,-1,0,-1,28,True,False,False,Left-arm fast,Left-hand bat
+Chattogram Challengers,Ziaur Rahman,c27518d2,10,0,0,0,0,0.0,"[12, 14, 16]",3.0,18,5,0,25,4,0,1,0,1,0,0,8.33,0,0,0,0,0,0,38,0,38,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Khulna Tigers,Tamim Iqbal,3b041a12,1,40,37,5,1,108.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,70,0,0,70,36,True,False,False,,Left-hand bat
+Khulna Tigers,Sharjeel Khan,193ef196,2,5,7,1,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,35,True,False,False,Legbreak,Left-hand bat
+Khulna Tigers,Mohammad Saifuddin,b3a28446,3,0,0,0,0,0.0,"[2, 4, 14, 19]",4.0,24,9,0,36,3,2,0,0,0,0,1,9.0,0,0,0,0,0,0,9,0,9,28,True,False,True,Right-arm medium-fast,Left-hand bat
+Khulna Tigers,Habibur Rahman,cee2fbd8,3,6,6,1,0,100.0,[13],1.0,6,0,0,13,2,0,0,0,0,0,0,13.0,0,0,0,0,0,10,0,0,10,37,True,False,True,Right-arm offbreak,Right-hand bat
+Khulna Tigers,Azam Khan,ee8f1a6d,4,109,58,9,8,187.93,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,215,0,0,215,26,True,False,False,,Right-hand bat
+Khulna Tigers,Nahidul Islam,8c7b16c8,4,0,0,0,0,0.0,"[1, 9, 15]",3.0,18,7,0,26,0,3,1,0,0,0,0,8.67,0,0,0,0,0,0,32,0,32,31,True,False,True,Right-arm offbreak,Right-hand bat
+Khulna Tigers,Nasum Ahmed,37654b75,5,0,0,0,0,0.0,"[3, 5, 8, 12]",4.0,24,6,0,33,4,1,0,0,0,0,0,8.25,1,0,0,0,0,0,6,8,14,30,True,False,True,Slow left-arm orthodox,Left-hand bat
+Khulna Tigers,Yasir Ali Chowdhury,5791b840,5,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,28,True,False,False,Right-arm offbreak,Right-hand bat
+Khulna Tigers,PA van Meekeren,4557dc54,6,0,0,0,0,0.0,"[6, 10, 17, 20]",3.333,20,3,0,42,5,1,0,0,0,2,2,12.6,0,0,0,0,0,0,-3,0,-3,32,True,False,False,Right-arm fast-medium,Right-hand bat
+Khulna Tigers,Sabbir Rahman,7147f314,6,10,7,0,1,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,33,True,False,True,Legbreak,Right-hand bat
+Khulna Tigers,Wahab Riaz,b3118300,7,2,3,0,0,66.67,"[7, 11, 16, 18]",4.0,24,11,0,21,1,1,0,0,0,0,0,5.25,0,0,0,0,0,2,15,0,17,39,True,False,False,Left-arm fast,Right-hand bat

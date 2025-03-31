@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Hobart Hurricanes,JDS Neesham,9219eff0,1,28,19,2,2,147.37,[7],1.0,6,3,0,7,1,0,0,0,0,0,1,7.0,2,0,0,0,2,54,3,16,73
-Hobart Hurricanes,DJM Short,1a156c88,2,5,5,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,5,0,8,13
-Hobart Hurricanes,CP Jewell,806c4e58,3,8,9,1,0,88.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20
-Hobart Hurricanes,Shadab Khan,9de62878,4,14,13,1,1,107.69,"[6, 8, 12, 18]",4.0,24,7,0,20,1,0,3,0,0,0,0,5.0,0,0,0,0,0,24,90,0,114
-Hobart Hurricanes,TH David,f1f99156,5,5,10,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,1,0,8,9
-Hobart Hurricanes,TD Paine,5748e866,6,10,12,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,14,0,20,34
-Hobart Hurricanes,Asif Ali,0a4736eb,7,4,5,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16
-Hobart Hurricanes,JS Paris,7c8f533d,8,12,7,1,1,171.43,"[1, 13, 20]",2.333,14,7,0,10,1,0,2,0,0,0,0,4.29,0,0,0,0,0,22,63,0,85
-Hobart Hurricanes,NT Ellis,9eb1455b,9,21,18,1,0,116.67,"[9, 15, 17, 19]",4.0,24,9,0,39,3,2,0,0,0,0,1,9.75,0,0,0,0,0,25,9,0,34
-Hobart Hurricanes,PG Dooley,5e3054d0,10,5,10,0,0,50.0,"[2, 4, 10, 14]",4.0,24,8,0,23,0,1,2,0,0,0,1,5.75,0,0,0,0,-4,1,62,0,63
-Hobart Hurricanes,RP Meredith,64775749,11,0,0,0,0,0.0,"[3, 5, 11, 16]",4.0,24,14,0,12,0,0,3,0,2,0,1,3.0,0,0,0,0,0,0,115,0,115
-Melbourne Renegades,NJ Maddinson,44afbf2d,1,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Melbourne Renegades,SB Harper,a756e61a,2,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,10,0,16,26
-Melbourne Renegades,J Fraser-McGurk,9b6e1b3f,3,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
-Melbourne Renegades,AJ Finch,b8d490fd,4,13,18,0,0,72.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,13,0,16,29
-Melbourne Renegades,JW Wells,8bdac857,5,26,33,3,0,78.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,42,0,0,42
-Melbourne Renegades,AD Russell,bbd41817,6,2,4,0,0,50.0,"[6, 12, 16]",3.0,18,7,0,23,1,1,2,0,0,0,1,7.67,0,0,0,0,0,2,57,0,59
-Melbourne Renegades,AJ Hosein,4d7f517e,7,11,10,0,1,110.0,"[2, 10, 14, 18]",4.0,24,12,0,29,3,1,3,0,0,0,0,7.25,0,0,0,0,0,17,91,0,108
-Melbourne Renegades,W Sutherland,bc2d4f2e,8,40,29,2,2,137.93,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,66,0,8,74
-Melbourne Renegades,TS Rogers,1b04e02b,9,5,5,0,0,100.0,"[5, 15, 17]",3.0,18,7,0,17,0,1,1,0,0,0,0,5.67,1,0,0,0,0,5,36,8,49
-Melbourne Renegades,Mujeeb Ur Rahman,7d92277a,10,3,6,0,0,50.0,"[1, 4, 8, 13]",4.0,24,7,0,30,2,1,1,1,0,0,0,7.5,1,0,0,0,0,3,40,8,51
-Melbourne Renegades,DJM Moody,e1a867df,11,0,0,0,0,0.0,"[3, 7, 9, 11]",4.0,24,14,0,16,2,0,3,0,1,0,2,4.0,0,0,0,0,0,0,107,0,107
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Hobart Hurricanes,JDS Neesham,9219eff0,1,28,19,2,2,147.37,[7],1.0,6,3,0,7,1,0,0,0,0,0,1,7.0,2,0,0,0,2,54,3,16,73,34,True,False,True,Right-arm medium-fast,Left-hand bat
+Hobart Hurricanes,DJM Short,1a156c88,2,5,5,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,5,0,8,13,34,True,False,False,Left-arm wrist-spin,Left-hand bat
+Hobart Hurricanes,CP Jewell,806c4e58,3,8,9,1,0,88.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20,27,True,False,False,,Left-hand bat
+Hobart Hurricanes,Shadab Khan,9de62878,4,14,13,1,1,107.69,"[6, 8, 12, 18]",4.0,24,7,0,20,1,0,3,0,0,0,0,5.0,0,0,0,0,0,24,90,0,114,26,True,False,True,Legbreak,Right-hand bat
+Hobart Hurricanes,TH David,f1f99156,5,5,10,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,1,0,8,9,29,True,False,False,Right-arm offbreak,Right-hand bat
+Hobart Hurricanes,TD Paine,5748e866,6,10,12,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,14,0,20,34,40,True,True,False,Right-arm medium,Right-hand bat
+Hobart Hurricanes,Asif Ali,0a4736eb,7,4,5,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16,33,True,False,False,Right-arm offbreak,Right-hand bat
+Hobart Hurricanes,JS Paris,7c8f533d,8,12,7,1,1,171.43,"[1, 13, 20]",2.333,14,7,0,10,1,0,2,0,0,0,0,4.29,0,0,0,0,0,22,63,0,85,32,True,False,False,Left-arm fast-medium,Left-hand bat
+Hobart Hurricanes,NT Ellis,9eb1455b,9,21,18,1,0,116.67,"[9, 15, 17, 19]",4.0,24,9,0,39,3,2,0,0,0,0,1,9.75,0,0,0,0,0,25,9,0,34,30,True,False,False,Right-arm fast-medium,Right-hand bat
+Hobart Hurricanes,PG Dooley,5e3054d0,10,5,10,0,0,50.0,"[2, 4, 10, 14]",4.0,24,8,0,23,0,1,2,0,0,0,1,5.75,0,0,0,0,-4,1,62,0,63,27,True,False,False,Left-arm wrist-spin,Left-hand bat
+Hobart Hurricanes,RP Meredith,64775749,11,0,0,0,0,0.0,"[3, 5, 11, 16]",4.0,24,14,0,12,0,0,3,0,2,0,1,3.0,0,0,0,0,0,0,115,0,115,28,True,False,False,Right-arm fast,Right-hand bat
+Melbourne Renegades,NJ Maddinson,44afbf2d,1,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,33,True,False,False,Slow left-arm orthodox,Left-hand bat
+Melbourne Renegades,SB Harper,a756e61a,2,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,10,0,16,26,28,True,False,False,,Right-hand bat
+Melbourne Renegades,J Fraser-McGurk,9b6e1b3f,3,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,22,True,False,False,Legbreak googly,Right-hand bat
+Melbourne Renegades,AJ Finch,b8d490fd,4,13,18,0,0,72.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,13,0,16,29,38,True,False,False,Slow left-arm orthodox,Right-hand bat
+Melbourne Renegades,JW Wells,8bdac857,5,26,33,3,0,78.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,42,0,0,42,36,True,False,False,Right-arm medium,Right-hand bat
+Melbourne Renegades,AD Russell,bbd41817,6,2,4,0,0,50.0,"[6, 12, 16]",3.0,18,7,0,23,1,1,2,0,0,0,1,7.67,0,0,0,0,0,2,57,0,59,36,True,False,True,Right-arm fast,Right-hand bat
+Melbourne Renegades,AJ Hosein,4d7f517e,7,11,10,0,1,110.0,"[2, 10, 14, 18]",4.0,24,12,0,29,3,1,3,0,0,0,0,7.25,0,0,0,0,0,17,91,0,108,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+Melbourne Renegades,W Sutherland,bc2d4f2e,8,40,29,2,2,137.93,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,66,0,8,74,25,True,False,True,Right-arm medium-fast,Right-hand bat
+Melbourne Renegades,TS Rogers,1b04e02b,9,5,5,0,0,100.0,"[5, 15, 17]",3.0,18,7,0,17,0,1,1,0,0,0,0,5.67,1,0,0,0,0,5,36,8,49,31,True,False,True,Right-arm medium-fast,Left-hand bat
+Melbourne Renegades,Mujeeb Ur Rahman,7d92277a,10,3,6,0,0,50.0,"[1, 4, 8, 13]",4.0,24,7,0,30,2,1,1,1,0,0,0,7.5,1,0,0,0,0,3,40,8,51,24,True,False,False,Right-arm offbreak,Right-hand bat
+Melbourne Renegades,DJM Moody,e1a867df,11,0,0,0,0,0.0,"[3, 7, 9, 11]",4.0,24,14,0,16,2,0,3,0,1,0,2,4.0,0,0,0,0,0,0,107,0,107,29,True,False,False,Right-arm fast-medium,Right-hand bat

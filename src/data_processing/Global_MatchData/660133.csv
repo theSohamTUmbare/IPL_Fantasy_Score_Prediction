@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Italy,GK Berg,42151725,1,62,34,7,2,182.35,"[6, 11, 13, 19]",4.0,24,10,0,31,0,3,1,0,1,1,0,7.75,0,0,0,0,6,116,43,0,159
-Italy,AM Northcote,8cf570b0,2,1,11,0,0,9.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,1,0,-6,-5,0,28,23
-Italy,PA Petricola,d159bc7a,3,34,42,1,1,80.95,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,48,0,0,48
-Italy,DG Crowley,1f1f93b5,4,10,12,1,0,83.33,"[1, 3, 15]",3.0,18,7,0,18,0,1,1,0,0,0,1,6.0,0,0,0,0,0,14,34,0,48
-Italy,CS Sandri,b7ccb3c9,5,19,12,2,0,158.33,"[7, 9, 14, 16]",4.0,24,8,0,38,2,3,2,0,0,0,0,9.5,0,0,1,0,4,31,58,12,101
-Italy,BBJL Perera,c8c9d60b,6,18,9,1,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
-Italy,DA Marage,3528b8dd,11,0,0,0,0,0.0,[8],1.0,6,1,0,16,0,2,0,0,0,0,0,16.0,0,0,0,0,0,0,1,0,1
-Italy,MG Raso,2dfaa85a,12,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Italy,A Bonora,71c1f483,13,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Italy,V Pennazza,235fb973,14,0,0,0,0,0.0,"[5, 10, 12, 17]",4.0,24,11,0,20,2,0,2,0,1,0,1,5.0,1,0,0,0,0,0,73,8,81
-Italy,GRD Munasinghe,eff8b730,15,0,0,0,0,0.0,"[2, 4, 18, 20]",3.833,23,9,0,26,2,1,1,0,1,0,0,6.78,1,0,0,0,0,0,44,8,52
-Uganda,RG Mukasa,011f6b42,1,0,2,0,0,0.0,"[4, 6, 15, 19]",4.0,24,10,0,27,2,1,0,0,0,0,0,6.75,0,0,0,0,0,-2,12,0,10
-Uganda,AL Ndhlovu,83ea85f6,2,17,18,0,1,94.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
-Uganda,HS Almuzahim,9cb01ea6,3,17,15,2,1,113.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31
-Uganda,AS Kyobe,fcfffcd5,4,36,15,0,5,240.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,76,0,0,76
-Uganda,PM Selowa,1f36276b,5,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,2,0,12,14
-Uganda,P Ochan,a8942d26,6,8,7,1,0,114.29,"[9, 11, 13]",3.0,18,7,0,19,2,0,1,0,0,0,0,6.33,1,0,0,0,0,12,34,8,54
-Uganda,DK Arinaitwe,e77e96de,7,1,2,0,0,50.0,"[3, 7, 10, 18]",4.0,24,6,0,35,2,2,1,0,0,0,0,8.75,0,0,0,0,0,1,31,0,32
-Uganda,RG Okia,62d180f3,8,33,30,2,1,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,51,0,0,51
-Uganda,F Nsubuga,87e33d07,9,10,10,0,1,100.0,"[2, 5, 16, 20]",4.0,24,10,0,22,2,0,2,1,1,0,0,5.5,0,0,0,0,0,16,80,0,96
-Uganda,C Waiswa,18db3f22,10,21,15,1,1,140.0,[1],1.0,6,2,0,14,3,0,0,0,0,0,0,14.0,0,0,0,0,2,33,2,0,35
-Uganda,H Ssenyondo,2b7609f1,11,1,2,0,0,50.0,"[8, 12, 14, 17]",4.0,24,8,0,27,1,1,0,0,0,0,0,6.75,0,0,0,0,0,1,10,0,11
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Italy,GK Berg,42151725,1,62,34,7,2,182.35,"[6, 11, 13, 19]",4.0,24,10,0,31,0,3,1,0,1,1,0,7.75,0,0,0,0,6,116,43,0,159,44,True,False,True,Right-arm medium,Right-hand bat
+Italy,AM Northcote,8cf570b0,2,1,11,0,0,9.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,1,0,-6,-5,0,28,23,41,True,False,False,Right-arm offbreak,Right-hand bat
+Italy,PA Petricola,d159bc7a,3,34,42,1,1,80.95,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,48,0,0,48,41,True,True,False,Right-arm medium-fast,Left-hand bat
+Italy,DG Crowley,1f1f93b5,4,10,12,1,0,83.33,"[1, 3, 15]",3.0,18,7,0,18,0,1,1,0,0,0,1,6.0,0,0,0,0,0,14,34,0,48,35,True,True,False,Slow left-arm orthodox,Right-hand bat
+Italy,CS Sandri,b7ccb3c9,5,19,12,2,0,158.33,"[7, 9, 14, 16]",4.0,24,8,0,38,2,3,2,0,0,0,0,9.5,0,0,1,0,4,31,58,12,101,41,True,True,False,Right-arm offbreak,Right-hand bat
+Italy,BBJL Perera,c8c9d60b,6,18,9,1,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28,37,True,True,False,Right-arm offbreak,Right-hand bat
+Italy,DA Marage,3528b8dd,11,0,0,0,0,0.0,[8],1.0,6,1,0,16,0,2,0,0,0,0,0,16.0,0,0,0,0,0,0,1,0,1,43,True,False,True,Legbreak,Right-hand bat
+Italy,MG Raso,2dfaa85a,12,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,44,True,True,False,Legbreak,Left-hand bat
+Italy,A Bonora,71c1f483,13,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,46,True,True,False,Right-arm fast-medium,Right-hand bat
+Italy,V Pennazza,235fb973,14,0,0,0,0,0.0,"[5, 10, 12, 17]",4.0,24,11,0,20,2,0,2,0,1,0,1,5.0,1,0,0,0,0,0,73,8,81,40,True,True,False,Left-arm medium,Right-hand bat
+Italy,GRD Munasinghe,eff8b730,15,0,0,0,0,0.0,"[2, 4, 18, 20]",3.833,23,9,0,26,2,1,1,0,1,0,0,6.78,1,0,0,0,0,0,44,8,52,38,True,True,False,Right-arm medium-fast,Right-hand bat
+Uganda,RG Mukasa,011f6b42,1,0,2,0,0,0.0,"[4, 6, 15, 19]",4.0,24,10,0,27,2,1,0,0,0,0,0,6.75,0,0,0,0,0,-2,12,0,10,35,True,False,False,Right-arm offbreak,Right-hand bat
+Uganda,AL Ndhlovu,83ea85f6,2,17,18,0,1,94.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23,39,True,True,False,Right-arm offbreak,Right-hand bat
+Uganda,HS Almuzahim,9cb01ea6,3,17,15,2,1,113.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31,38,True,True,False,Right-arm offbreak,Right-hand bat
+Uganda,AS Kyobe,fcfffcd5,4,36,15,0,5,240.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,76,0,0,76,36,True,False,False,,Left-hand bat
+Uganda,PM Selowa,1f36276b,5,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,2,0,12,14,38,True,False,False,,Left-hand bat
+Uganda,P Ochan,a8942d26,6,8,7,1,0,114.29,"[9, 11, 13]",3.0,18,7,0,19,2,0,1,0,0,0,0,6.33,1,0,0,0,0,12,34,8,54,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Uganda,DK Arinaitwe,e77e96de,7,1,2,0,0,50.0,"[3, 7, 10, 18]",4.0,24,6,0,35,2,2,1,0,0,0,0,8.75,0,0,0,0,0,1,31,0,32,37,True,True,False,Right-arm offbreak,Right-hand bat
+Uganda,RG Okia,62d180f3,8,33,30,2,1,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,51,0,0,51,41,True,True,False,Right-arm fast-medium,Right-hand bat
+Uganda,F Nsubuga,87e33d07,9,10,10,0,1,100.0,"[2, 5, 16, 20]",4.0,24,10,0,22,2,0,2,1,1,0,0,5.5,0,0,0,0,0,16,80,0,96,44,True,False,True,Right-arm offbreak,Right-hand bat
+Uganda,C Waiswa,18db3f22,10,21,15,1,1,140.0,[1],1.0,6,2,0,14,3,0,0,0,0,0,0,14.0,0,0,0,0,2,33,2,0,35,37,True,True,False,Left-arm medium,Left-hand bat
+Uganda,H Ssenyondo,2b7609f1,11,1,2,0,0,50.0,"[8, 12, 14, 17]",4.0,24,8,0,27,1,1,0,0,0,0,0,6.75,0,0,0,0,0,1,10,0,11,31,True,False,False,Slow left-arm orthodox,Right-hand bat

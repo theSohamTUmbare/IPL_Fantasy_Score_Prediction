@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Tamil Nadu,M Vijay,4b57e452,1,74,47,4,4,157.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,126,0,8,134
-Tamil Nadu,Washington Sundar,f19ccfad,2,1,5,0,0,20.0,"[2, 7, 10, 17]",4.0,24,12,0,32,4,1,1,1,0,0,0,8.0,1,0,0,0,0,1,45,8,54
-Tamil Nadu,Rajendran Vivek,7509f4bc,3,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,10,0,8,18
-Tamil Nadu,M Mohammed,1b7c4d69,4,10,7,2,0,142.86,[4],1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,0,0,1,0,0,18,1,12,31
-Tamil Nadu,N Jagadeesan,bd54eef5,5,2,9,0,0,22.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,2,0,12,14
-Tamil Nadu,NS Chaturved,1e295ba7,6,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
-Tamil Nadu,J Kousik,398be4ed,7,41,34,2,1,120.59,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,59,0,0,59
-Tamil Nadu,R Ashwin,495d42a5,8,3,4,0,0,75.0,"[1, 9, 11, 15]",4.0,24,14,0,16,1,0,2,1,0,0,1,4.0,1,0,0,0,0,3,78,8,89
-Tamil Nadu,Krishnamoorthy Vignesh,529fbf1b,9,0,0,0,0,0.0,"[6, 13, 19]",3.0,18,5,0,40,4,3,1,0,0,0,0,13.33,0,0,0,0,0,0,24,0,24
-Tamil Nadu,Abhishek Tanwar,c8ded7bc,9,0,0,0,0,0.0,"[3, 5, 18, 20]",4.0,24,13,1,22,1,1,3,0,0,0,0,5.5,0,0,0,0,0,0,108,0,108
-Tamil Nadu,R Sai Kishore,c7a995d3,10,0,0,0,0,0.0,"[8, 12, 14, 16]",4.0,24,7,0,17,0,0,1,0,0,0,0,4.25,0,0,0,0,0,0,38,0,38
-Vidarbha,Atharva Taide,1ac746c8,1,7,14,1,0,50.0,"[13, 15, 17]",3.0,18,4,0,20,1,0,0,0,0,0,0,6.67,1,0,0,0,-4,7,6,8,21
-Vidarbha,JM Sharma,800d2d97,2,26,19,4,1,136.84,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,54,0,0,54
-Vidarbha,SU Shrivastava,a392328e,3,9,13,1,0,69.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,11,0,0,11
-Vidarbha,FY Fazal,c15e2193,4,12,13,1,0,92.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,16,0,12,28
-Vidarbha,Ganesh Satish,0ed1a112,5,12,12,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,12,0,12,24
-Vidarbha,RR Rathod,3c79f8af,6,51,31,4,3,164.52,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,97,0,0,97
-Vidarbha,RL Jangid,fe5f2e48,7,0,1,0,0,0.0,"[4, 11]",2.0,12,1,0,26,3,1,0,0,0,0,0,13.0,1,0,0,0,0,-2,-5,8,1
-Vidarbha,Akshay Karnewar,e1e7f950,8,15,13,1,1,115.38,"[7, 9, 16]",3.0,18,4,0,23,1,1,1,0,1,0,1,7.67,0,0,0,0,0,25,37,0,62
-Vidarbha,SB Wagh,dddca1d6,9,4,3,0,0,133.33,"[1, 3, 5, 19]",4.0,24,10,0,23,1,1,2,0,0,0,1,5.75,0,0,0,0,0,4,64,0,68
-Vidarbha,Yash Thakur,4b31f3a3,10,0,0,0,0,0.0,"[6, 8, 18, 20]",3.333,20,11,0,21,2,1,1,0,0,1,0,6.3,1,0,0,0,0,0,38,8,46
-Vidarbha,Akshay Wakhare,ec9fc54b,11,1,1,0,0,100.0,"[2, 10, 12, 14]",4.0,24,6,0,28,1,1,1,1,0,0,0,7.0,0,0,0,0,0,1,41,0,42
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Tamil Nadu,M Vijay,4b57e452,1,74,47,4,4,157.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,126,0,8,134,40,True,False,False,Right-arm offbreak,Right-hand bat
+Tamil Nadu,Washington Sundar,f19ccfad,2,1,5,0,0,20.0,"[2, 7, 10, 17]",4.0,24,12,0,32,4,1,1,1,0,0,0,8.0,1,0,0,0,0,1,45,8,54,25,True,False,True,Right-arm offbreak,Left-hand bat
+Tamil Nadu,Rajendran Vivek,7509f4bc,3,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,10,0,8,18,33,True,False,False,Right-arm medium-fast,Right-hand bat
+Tamil Nadu,M Mohammed,1b7c4d69,4,10,7,2,0,142.86,[4],1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,0,0,1,0,0,18,1,12,31,33,True,False,False,Right-arm medium,Right-hand bat
+Tamil Nadu,N Jagadeesan,bd54eef5,5,2,9,0,0,22.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,2,0,12,14,29,True,False,False,,Right-hand bat
+Tamil Nadu,NS Chaturved,1e295ba7,6,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,34,True,False,False,Legbreak,Right-hand bat
+Tamil Nadu,J Kousik,398be4ed,7,41,34,2,1,120.59,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,59,0,0,59,29,True,False,True,Right-arm medium,Right-hand bat
+Tamil Nadu,R Ashwin,495d42a5,8,3,4,0,0,75.0,"[1, 9, 11, 15]",4.0,24,14,0,16,1,0,2,1,0,0,1,4.0,1,0,0,0,0,3,78,8,89,38,True,False,True,Right-arm offbreak,Right-hand bat
+Tamil Nadu,Krishnamoorthy Vignesh,529fbf1b,9,0,0,0,0,0.0,"[6, 13, 19]",3.0,18,5,0,40,4,3,1,0,0,0,0,13.33,0,0,0,0,0,0,24,0,24,30,True,False,False,Right-arm medium,Right-hand bat
+Tamil Nadu,Abhishek Tanwar,c8ded7bc,9,0,0,0,0,0.0,"[3, 5, 18, 20]",4.0,24,13,1,22,1,1,3,0,0,0,0,5.5,0,0,0,0,0,0,108,0,108,33,True,False,True,Right-arm medium,Right-hand bat
+Tamil Nadu,R Sai Kishore,c7a995d3,10,0,0,0,0,0.0,"[8, 12, 14, 16]",4.0,24,7,0,17,0,0,1,0,0,0,0,4.25,0,0,0,0,0,0,38,0,38,28,True,False,False,Slow left-arm orthodox,Left-hand bat
+Vidarbha,Atharva Taide,1ac746c8,1,7,14,1,0,50.0,"[13, 15, 17]",3.0,18,4,0,20,1,0,0,0,0,0,0,6.67,1,0,0,0,-4,7,6,8,21,24,True,False,True,Slow left-arm orthodox,Left-hand bat
+Vidarbha,JM Sharma,800d2d97,2,26,19,4,1,136.84,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,54,0,0,54,31,True,False,False,,Right-hand bat
+Vidarbha,SU Shrivastava,a392328e,3,9,13,1,0,69.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,11,0,0,11,39,True,False,False,Right-arm medium-fast,Right-hand bat
+Vidarbha,FY Fazal,c15e2193,4,12,13,1,0,92.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,16,0,12,28,39,True,False,False,Right-arm medium,Left-hand bat
+Vidarbha,Ganesh Satish,0ed1a112,5,12,12,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,12,0,12,24,37,True,False,False,,Right-hand bat
+Vidarbha,RR Rathod,3c79f8af,6,51,31,4,3,164.52,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,97,0,0,97,30,True,False,False,,Right-hand bat
+Vidarbha,RL Jangid,fe5f2e48,7,0,1,0,0,0.0,"[4, 11]",2.0,12,1,0,26,3,1,0,0,0,0,0,13.0,1,0,0,0,0,-2,-5,8,1,37,True,False,True,Slow left-arm orthodox,Left-hand bat
+Vidarbha,Akshay Karnewar,e1e7f950,8,15,13,1,1,115.38,"[7, 9, 16]",3.0,18,4,0,23,1,1,1,0,1,0,1,7.67,0,0,0,0,0,25,37,0,62,32,True,False,False,Slow left-arm orthodox,Left-hand bat
+Vidarbha,SB Wagh,dddca1d6,9,4,3,0,0,133.33,"[1, 3, 5, 19]",4.0,24,10,0,23,1,1,2,0,0,0,1,5.75,0,0,0,0,0,4,64,0,68,36,True,False,True,Left-arm medium-fast,Left-hand bat
+Vidarbha,Yash Thakur,4b31f3a3,10,0,0,0,0,0.0,"[6, 8, 18, 20]",3.333,20,11,0,21,2,1,1,0,0,1,0,6.3,1,0,0,0,0,0,38,8,46,26,True,False,False,Right-arm fast-medium,Right-hand bat
+Vidarbha,Akshay Wakhare,ec9fc54b,11,1,1,0,0,100.0,"[2, 10, 12, 14]",4.0,24,6,0,28,1,1,1,1,0,0,0,7.0,0,0,0,0,0,1,41,0,42,39,True,False,False,Right-arm offbreak,Right-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Chennai Super Kings,SR Watson,4329fbb5,1,0,10,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,-6,-8,0,16,8
-Chennai Super Kings,AT Rayudu,70d205c9,2,28,42,2,1,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,44,0,0,44
-Chennai Super Kings,SK Raina,1dc12ab9,3,19,20,3,0,95.0,[9],1.0,6,1,0,6,0,0,0,0,0,0,0,6.0,0,0,0,0,0,31,1,0,32
-Chennai Super Kings,KM Jadhav,99d63244,4,13,19,1,0,68.42,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,15,0,8,23
-Chennai Super Kings,RA Jadeja,fe93fd9d,5,6,15,0,0,40.0,"[11, 13, 15, 17]",4.0,24,14,0,15,1,0,2,0,1,0,0,3.75,2,0,0,0,-6,0,78,16,94
-Chennai Super Kings,MS Dhoni,4a8a2e3b,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Chennai Super Kings,DJ Bravo,87e562a9,6,0,0,0,0,0.0,[18],0.167,1,1,0,0,0,0,1,0,0,0,0,0.0,0,0,0,0,0,0,26,0,26
-Chennai Super Kings,DL Chahar,23eeb873,7,0,0,0,0,0.0,"[1, 3, 5, 7]",4.0,24,12,0,17,1,0,0,0,0,1,0,4.25,0,0,0,0,0,0,18,0,18
-Chennai Super Kings,SN Thakur,1abb78f8,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Chennai Super Kings,Harbhajan Singh,8b5b6769,9,0,0,0,0,0.0,"[2, 4, 6, 8]",4.0,24,11,0,20,0,1,3,0,0,0,0,5.0,2,0,0,0,0,0,94,16,110
-Chennai Super Kings,Imran Tahir,acee4cc4,10,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,18,1,9,1,0,3,0,0,0,0,2.25,0,0,0,0,0,0,115,0,115
-Royal Challengers Bangalore,V Kohli,ba607b88,1,6,11,0,0,54.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,2,0,0,2
-Royal Challengers Bangalore,PA Patel,b5da6c24,2,29,35,2,0,82.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,41,0,0,41
-Royal Challengers Bangalore,MM Ali,bb351c23,3,9,8,0,1,112.5,"[4, 6, 8, 10]",4.0,24,15,0,19,3,0,1,0,0,0,0,4.75,0,0,0,0,0,15,46,0,61
-Royal Challengers Bangalore,AB de Villiers,c4487b84,4,9,10,0,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
-Royal Challengers Bangalore,SO Hetmyer,48a1d7b7,5,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Royal Challengers Bangalore,S Dube,a4e37e47,6,2,5,0,0,40.0,[18],0.667,4,2,0,3,0,0,0,0,0,0,1,4.5,1,0,0,0,0,2,2,8,12
-Royal Challengers Bangalore,C de Grandhomme,94d7f855,7,4,6,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
-Royal Challengers Bangalore,Navdeep Saini,21d4e29b,8,2,3,0,0,66.67,"[2, 7, 12, 14]",4.0,24,15,0,24,2,1,0,0,0,1,1,6.0,0,0,0,0,0,2,17,0,19
-Royal Challengers Bangalore,YS Chahal,57ee1fde,9,4,12,0,0,33.33,"[1, 3, 5, 13]",4.0,24,18,1,6,0,0,1,0,1,0,0,1.5,0,0,0,0,-6,-2,69,0,67
-Royal Challengers Bangalore,UT Yadav,cc1e8c68,10,1,10,0,0,10.0,"[9, 11, 16]",3.0,18,9,0,13,1,0,0,0,0,0,1,4.33,0,0,0,0,-6,-5,15,0,10
-Royal Challengers Bangalore,Mohammed Siraj,2f49c897,11,0,1,0,0,0.0,"[15, 17]",2.0,12,8,1,5,0,0,1,0,1,0,0,2.5,0,0,0,0,0,0,59,0,59
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Chennai Super Kings,SR Watson,4329fbb5,1,0,10,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,-6,-8,0,16,8,43,True,False,True,Right-arm fast-medium,Right-hand bat
+Chennai Super Kings,AT Rayudu,70d205c9,2,28,42,2,1,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,44,0,0,44,39,True,False,False,Right-arm offbreak,Right-hand bat
+Chennai Super Kings,SK Raina,1dc12ab9,3,19,20,3,0,95.0,[9],1.0,6,1,0,6,0,0,0,0,0,0,0,6.0,0,0,0,0,0,31,1,0,32,38,True,False,False,Right-arm offbreak,Left-hand bat
+Chennai Super Kings,KM Jadhav,99d63244,4,13,19,1,0,68.42,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,15,0,8,23,40,True,False,True,Right-arm offbreak,Right-hand bat
+Chennai Super Kings,RA Jadeja,fe93fd9d,5,6,15,0,0,40.0,"[11, 13, 15, 17]",4.0,24,14,0,15,1,0,2,0,1,0,0,3.75,2,0,0,0,-6,0,78,16,94,36,True,False,True,Slow left-arm orthodox,Left-hand bat
+Chennai Super Kings,MS Dhoni,4a8a2e3b,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,43,True,True,False,Right-arm medium,Right-hand bat
+Chennai Super Kings,DJ Bravo,87e562a9,6,0,0,0,0,0.0,[18],0.167,1,1,0,0,0,0,1,0,0,0,0,0.0,0,0,0,0,0,0,26,0,26,41,True,False,True,Right-arm medium,Right-hand bat
+Chennai Super Kings,DL Chahar,23eeb873,7,0,0,0,0,0.0,"[1, 3, 5, 7]",4.0,24,12,0,17,1,0,0,0,0,1,0,4.25,0,0,0,0,0,0,18,0,18,32,True,False,False,Right-arm medium,Right-hand bat
+Chennai Super Kings,SN Thakur,1abb78f8,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,33,True,False,False,Right-arm medium,Right-hand bat
+Chennai Super Kings,Harbhajan Singh,8b5b6769,9,0,0,0,0,0.0,"[2, 4, 6, 8]",4.0,24,11,0,20,0,1,3,0,0,0,0,5.0,2,0,0,0,0,0,94,16,110,44,True,False,False,Right-arm offbreak,Right-hand bat
+Chennai Super Kings,Imran Tahir,acee4cc4,10,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,18,1,9,1,0,3,0,0,0,0,2.25,0,0,0,0,0,0,115,0,115,46,True,False,False,Legbreak googly,Right-hand bat
+Royal Challengers Bangalore,V Kohli,ba607b88,1,6,11,0,0,54.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,2,0,0,2,36,True,False,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,PA Patel,b5da6c24,2,29,35,2,0,82.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,41,0,0,41,40,True,True,False,Right-arm offbreak,Left-hand bat
+Royal Challengers Bangalore,MM Ali,bb351c23,3,9,8,0,1,112.5,"[4, 6, 8, 10]",4.0,24,15,0,19,3,0,1,0,0,0,0,4.75,0,0,0,0,0,15,46,0,61,37,True,False,True,Right-arm offbreak,Left-hand bat
+Royal Challengers Bangalore,AB de Villiers,c4487b84,4,9,10,0,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,41,True,True,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,SO Hetmyer,48a1d7b7,5,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,28,True,False,False,,Left-hand bat
+Royal Challengers Bangalore,S Dube,a4e37e47,6,2,5,0,0,40.0,[18],0.667,4,2,0,3,0,0,0,0,0,0,1,4.5,1,0,0,0,0,2,2,8,12,31,True,False,True,Right-arm medium,Left-hand bat
+Royal Challengers Bangalore,C de Grandhomme,94d7f855,7,4,6,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,38,True,False,True,Right-arm medium-fast,Right-hand bat
+Royal Challengers Bangalore,Navdeep Saini,21d4e29b,8,2,3,0,0,66.67,"[2, 7, 12, 14]",4.0,24,15,0,24,2,1,0,0,0,1,1,6.0,0,0,0,0,0,2,17,0,19,32,True,False,False,Right-arm fast,Right-hand bat
+Royal Challengers Bangalore,YS Chahal,57ee1fde,9,4,12,0,0,33.33,"[1, 3, 5, 13]",4.0,24,18,1,6,0,0,1,0,1,0,0,1.5,0,0,0,0,-6,-2,69,0,67,34,True,False,False,Legbreak googly,Right-hand bat
+Royal Challengers Bangalore,UT Yadav,cc1e8c68,10,1,10,0,0,10.0,"[9, 11, 16]",3.0,18,9,0,13,1,0,0,0,0,0,1,4.33,0,0,0,0,-6,-5,15,0,10,37,True,False,False,Right-arm fast,Right-hand bat
+Royal Challengers Bangalore,Mohammed Siraj,2f49c897,11,0,1,0,0,0.0,"[15, 17]",2.0,12,8,1,5,0,0,1,0,1,0,0,2.5,0,0,0,0,0,0,59,0,59,31,True,False,False,Right-arm fast,Right-hand bat

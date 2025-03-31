@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Deccan Chargers,AC Gilchrist,2b6e6dec,1,13,9,3,0,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
-Deccan Chargers,VVS Laxman,de8cce37,2,16,16,3,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,28,0,6,34
-Deccan Chargers,Shahid Afridi,0dc00542,3,10,4,1,1,250.0,"[9, 12, 14, 18]",4.0,24,9,0,28,2,1,3,0,1,0,1,7.0,0,0,0,0,0,20,98,0,118
-Deccan Chargers,A Symonds,bd77eb62,4,117,52,11,7,225.0,"[13, 15, 20]",2.833,17,2,0,46,2,5,0,0,0,0,0,16.24,2,0,0,0,6,225,-4,16,237
-Deccan Chargers,RG Sharma,740742ef,5,36,30,3,1,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,58,0,0,58
-Deccan Chargers,AS Yadav,b9be6507,6,16,9,3,0,177.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
-Deccan Chargers,SB Bangar,0604ef16,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Deccan Chargers,WPUJC Vaas,bcce309e,10,0,0,0,0,0.0,"[1, 3, 5, 17]",4.0,24,8,0,42,5,2,1,0,0,0,0,10.5,0,0,0,0,0,0,31,0,31
-Deccan Chargers,RP Singh,c3d1402f,11,0,0,0,0,0.0,"[2, 4, 8, 19]",4.0,24,8,0,44,4,3,1,0,1,1,1,11.0,0,0,0,1,0,0,39,6,45
-Deccan Chargers,PP Ojha,6c6591ab,12,0,0,0,0,0.0,"[6, 11]",2.0,12,3,0,23,3,1,0,0,0,0,0,11.5,0,0,0,0,0,0,-1,0,-1
-Deccan Chargers,D Kalyankrishna,94bc776b,13,0,0,0,0,0.0,"[7, 10, 16]",3.0,18,4,0,30,2,2,1,0,0,0,0,10.0,1,0,0,0,0,0,27,8,35
-Rajasthan Royals,Kamran Akmal,ff077124,1,12,9,1,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,22,0,20,42
-Rajasthan Royals,GC Smith,72861603,2,71,45,9,2,157.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,131,0,0,131
-Rajasthan Royals,YK Pathan,3c6ffae8,3,61,28,4,6,217.86,"[3, 13]",2.0,12,6,0,20,1,2,2,0,0,0,0,10.0,0,0,0,0,6,127,54,0,181
-Rajasthan Royals,SR Watson,4329fbb5,4,4,6,0,0,66.67,"[2, 4, 6, 20]",4.0,24,13,0,32,6,0,1,0,0,0,2,8.0,0,0,0,0,0,4,38,0,42
-Rajasthan Royals,M Kaif,d84378a4,5,34,16,2,3,212.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,70,0,0,70
-Rajasthan Royals,RA Jadeja,fe93fd9d,6,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
-Rajasthan Royals,SK Warne,bb18be76,7,22,8,2,2,275.0,"[9, 11, 16, 18]",4.0,24,3,0,47,3,3,2,0,0,0,1,11.75,1,0,0,0,0,42,49,8,99
-Rajasthan Royals,D Salunkhe,0264c10e,8,1,1,0,0,100.0,[12],1.0,6,2,0,9,0,1,0,0,0,0,0,9.0,1,0,0,0,0,1,2,8,11
-Rajasthan Royals,SK Trivedi,3d7e087f,9,0,0,0,0,0.0,"[8, 10, 15]",3.0,18,2,0,37,3,2,0,0,0,1,0,12.33,0,0,0,0,0,0,-4,0,-4
-Rajasthan Royals,Pankaj Singh,e32d22f6,9,4,3,0,0,133.33,"[7, 14]",2.0,12,4,0,14,0,1,0,0,0,0,0,7.0,0,0,0,0,0,4,6,0,10
-Rajasthan Royals,MM Patel,f0f628c7,10,0,0,0,0,0.0,"[1, 5, 17, 19]",4.0,24,7,0,55,11,0,0,0,0,0,2,13.75,0,0,0,0,0,0,1,0,1
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Deccan Chargers,AC Gilchrist,2b6e6dec,1,13,9,3,0,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,53,True,True,False,Right-arm offbreak,Left-hand bat
+Deccan Chargers,VVS Laxman,de8cce37,2,16,16,3,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,28,0,6,34,50,True,False,False,Right-arm offbreak,Right-hand bat
+Deccan Chargers,Shahid Afridi,0dc00542,3,10,4,1,1,250.0,"[9, 12, 14, 18]",4.0,24,9,0,28,2,1,3,0,1,0,1,7.0,0,0,0,0,0,20,98,0,118,45,True,False,True,Legbreak googly,Right-hand bat
+Deccan Chargers,A Symonds,bd77eb62,4,117,52,11,7,225.0,"[13, 15, 20]",2.833,17,2,0,46,2,5,0,0,0,0,0,16.24,2,0,0,0,6,225,-4,16,237,46,True,False,True,Right-arm offbreak,Right-hand bat
+Deccan Chargers,RG Sharma,740742ef,5,36,30,3,1,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,58,0,0,58,37,True,False,False,Right-arm offbreak,Right-hand bat
+Deccan Chargers,AS Yadav,b9be6507,6,16,9,3,0,177.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28,43,True,False,False,Right-arm offbreak,Right-hand bat
+Deccan Chargers,SB Bangar,0604ef16,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,52,True,True,False,Right-arm medium-fast,Right-hand bat
+Deccan Chargers,WPUJC Vaas,bcce309e,10,0,0,0,0,0.0,"[1, 3, 5, 17]",4.0,24,8,0,42,5,2,1,0,0,0,0,10.5,0,0,0,0,0,0,31,0,31,51,True,False,False,Left-arm fast-medium,Left-hand bat
+Deccan Chargers,RP Singh,c3d1402f,11,0,0,0,0,0.0,"[2, 4, 8, 19]",4.0,24,8,0,44,4,3,1,0,1,1,1,11.0,0,0,0,1,0,0,39,6,45,39,True,False,False,Left-arm fast-medium,Right-hand bat
+Deccan Chargers,PP Ojha,6c6591ab,12,0,0,0,0,0.0,"[6, 11]",2.0,12,3,0,23,3,1,0,0,0,0,0,11.5,0,0,0,0,0,0,-1,0,-1,38,True,False,False,Slow left-arm orthodox,Left-hand bat
+Deccan Chargers,D Kalyankrishna,94bc776b,13,0,0,0,0,0.0,"[7, 10, 16]",3.0,18,4,0,30,2,2,1,0,0,0,0,10.0,1,0,0,0,0,0,27,8,35,41,True,True,False,Right-arm medium-fast,Right-hand bat
+Rajasthan Royals,Kamran Akmal,ff077124,1,12,9,1,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,22,0,20,42,43,True,False,False,,Right-hand bat
+Rajasthan Royals,GC Smith,72861603,2,71,45,9,2,157.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,131,0,0,131,44,True,False,False,Right-arm offbreak,Left-hand bat
+Rajasthan Royals,YK Pathan,3c6ffae8,3,61,28,4,6,217.86,"[3, 13]",2.0,12,6,0,20,1,2,2,0,0,0,0,10.0,0,0,0,0,6,127,54,0,181,42,True,False,True,Right-arm offbreak,Right-hand bat
+Rajasthan Royals,SR Watson,4329fbb5,4,4,6,0,0,66.67,"[2, 4, 6, 20]",4.0,24,13,0,32,6,0,1,0,0,0,2,8.0,0,0,0,0,0,4,38,0,42,43,True,False,True,Right-arm fast-medium,Right-hand bat
+Rajasthan Royals,M Kaif,d84378a4,5,34,16,2,3,212.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,70,0,0,70,44,True,False,False,Right-arm offbreak,Right-hand bat
+Rajasthan Royals,RA Jadeja,fe93fd9d,6,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,36,True,False,True,Slow left-arm orthodox,Left-hand bat
+Rajasthan Royals,SK Warne,bb18be76,7,22,8,2,2,275.0,"[9, 11, 16, 18]",4.0,24,3,0,47,3,3,2,0,0,0,1,11.75,1,0,0,0,0,42,49,8,99,52,True,False,False,Legbreak googly,Right-hand bat
+Rajasthan Royals,D Salunkhe,0264c10e,8,1,1,0,0,100.0,[12],1.0,6,2,0,9,0,1,0,0,0,0,0,9.0,1,0,0,0,0,1,2,8,11,42,True,False,False,Legbreak,Right-hand bat
+Rajasthan Royals,SK Trivedi,3d7e087f,9,0,0,0,0,0.0,"[8, 10, 15]",3.0,18,2,0,37,3,2,0,0,0,1,0,12.33,0,0,0,0,0,0,-4,0,-4,42,True,False,False,Right-arm medium,Right-hand bat
+Rajasthan Royals,Pankaj Singh,e32d22f6,9,4,3,0,0,133.33,"[7, 14]",2.0,12,4,0,14,0,1,0,0,0,0,0,7.0,0,0,0,0,0,4,6,0,10,39,True,False,False,Right-arm medium-fast,Right-hand bat
+Rajasthan Royals,MM Patel,f0f628c7,10,0,0,0,0,0.0,"[1, 5, 17, 19]",4.0,24,7,0,55,11,0,0,0,0,0,2,13.75,0,0,0,0,0,0,1,0,1,41,True,False,False,Right-arm medium-fast,Right-hand bat

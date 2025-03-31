@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Delhi Daredevils,DPMD Jayawardene,d18f9182,1,12,17,2,0,70.59,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
-Delhi Daredevils,V Sehwag,8ba8195d,2,28,26,2,2,107.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,52,0,0,52
-Delhi Daredevils,UBT Chand,0c94f480,3,17,19,2,0,89.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,25,0,8,33
-Delhi Daredevils,DA Warner,dcce6f09,4,51,25,4,4,204.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,105,0,8,113
-Delhi Daredevils,BJ Rohrer,27af6414,5,13,13,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,17,0,8,25
-Delhi Daredevils,S Nadeem,9d80c5e1,6,0,0,0,0,0.0,"[8, 10, 12, 20]",4.0,24,9,0,30,3,1,0,0,0,0,0,7.5,0,0,0,0,0,0,9,0,9
-Delhi Daredevils,KM Jadhav,99d63244,6,25,19,0,2,131.58,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,43,0,8,51
-Delhi Daredevils,M Morkel,5bb5a915,7,0,0,0,0,0.0,"[3, 5, 14, 17]",4.0,24,8,0,36,5,0,0,0,0,0,1,9.0,0,0,0,0,0,0,8,0,8
-Delhi Daredevils,IK Pathan,5fa06777,7,4,1,1,0,400.0,"[1, 7, 11, 13]",4.0,24,12,1,29,5,0,2,0,0,0,0,7.25,0,0,0,0,0,8,74,0,82
-Delhi Daredevils,A Nehra,96fd40ae,8,0,0,0,0,0.0,"[4, 6, 16, 19]",4.0,24,6,0,27,3,0,0,0,0,0,1,6.75,0,0,0,0,0,0,8,0,8
-Delhi Daredevils,UT Yadav,cc1e8c68,9,0,0,0,0,0.0,"[2, 9, 15, 18]",4.0,24,13,0,24,2,0,2,0,0,0,1,6.0,0,0,0,0,0,0,65,0,65
-Pune Warriors,RV Uthappa,1c17e270,1,37,33,4,0,112.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,57,0,28,85
-Pune Warriors,AJ Finch,b8d490fd,2,37,33,5,0,112.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,61,0,0,61
-Pune Warriors,Yuvraj Singh,1c914163,3,31,24,4,0,129.17,"[9, 15]",2.0,12,3,0,9,0,0,0,0,0,0,0,4.5,0,0,0,0,0,51,9,0,60
-Pune Warriors,LJ Wright,cca50cd6,4,19,18,3,0,105.56,[8],1.0,6,0,0,16,1,1,0,0,0,0,2,16.0,1,0,0,0,0,31,0,8,39
-Pune Warriors,SPD Smith,30a45b23,5,17,8,2,1,212.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31
-Pune Warriors,M Manhas,c42aaf71,6,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
-Pune Warriors,AM Nayar,a45a5e8d,6,0,0,0,0,0.0,"[12, 14]",2.0,12,4,0,15,1,0,1,0,0,0,1,7.5,0,0,0,0,0,0,29,0,29
-Pune Warriors,B Kumar,2e81a32d,7,0,0,0,0,0.0,"[1, 3, 6, 18]",4.0,24,13,0,30,2,1,0,0,0,0,8,7.5,0,0,0,0,0,0,13,0,13
-Pune Warriors,AB Dinda,66b30f71,8,0,0,0,0,0.0,"[5, 10, 17, 20]",4.0,24,14,0,31,5,1,3,0,0,0,0,7.75,0,0,0,0,0,0,93,0,93
-Pune Warriors,R Sharma,5d9a1a73,9,0,0,0,0,0.0,"[7, 11, 13]",3.0,18,7,0,23,2,1,1,0,0,0,0,7.67,0,0,0,0,0,0,32,0,32
-Pune Warriors,KW Richardson,dfc4d8b5,10,0,0,0,0,0.0,"[2, 4, 16, 19]",4.0,24,10,0,38,1,4,0,0,0,0,1,9.5,0,0,0,0,0,0,10,0,10
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Delhi Daredevils,DPMD Jayawardene,d18f9182,1,12,17,2,0,70.59,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,47,True,False,False,Right-arm medium,Right-hand bat
+Delhi Daredevils,V Sehwag,8ba8195d,2,28,26,2,2,107.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,52,0,0,52,46,True,False,False,Right-arm offbreak,Right-hand bat
+Delhi Daredevils,UBT Chand,0c94f480,3,17,19,2,0,89.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,25,0,8,33,32,True,True,False,Right-arm offbreak,Right-hand bat
+Delhi Daredevils,DA Warner,dcce6f09,4,51,25,4,4,204.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,105,0,8,113,38,True,False,False,Legbreak,Left-hand bat
+Delhi Daredevils,BJ Rohrer,27af6414,5,13,13,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,17,0,8,25,44,True,False,False,,Left-hand bat
+Delhi Daredevils,S Nadeem,9d80c5e1,6,0,0,0,0,0.0,"[8, 10, 12, 20]",4.0,24,9,0,30,3,1,0,0,0,0,0,7.5,0,0,0,0,0,0,9,0,9,35,True,False,False,Slow left-arm orthodox,Right-hand bat
+Delhi Daredevils,KM Jadhav,99d63244,6,25,19,0,2,131.58,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,43,0,8,51,40,True,False,True,Right-arm offbreak,Right-hand bat
+Delhi Daredevils,M Morkel,5bb5a915,7,0,0,0,0,0.0,"[3, 5, 14, 17]",4.0,24,8,0,36,5,0,0,0,0,0,1,9.0,0,0,0,0,0,0,8,0,8,40,True,False,False,Right-arm fast,Left-hand bat
+Delhi Daredevils,IK Pathan,5fa06777,7,4,1,1,0,400.0,"[1, 7, 11, 13]",4.0,24,12,1,29,5,0,2,0,0,0,0,7.25,0,0,0,0,0,8,74,0,82,40,True,False,True,Left-arm medium-fast,Left-hand bat
+Delhi Daredevils,A Nehra,96fd40ae,8,0,0,0,0,0.0,"[4, 6, 16, 19]",4.0,24,6,0,27,3,0,0,0,0,0,1,6.75,0,0,0,0,0,0,8,0,8,45,True,False,False,Left-arm medium-fast,Right-hand bat
+Delhi Daredevils,UT Yadav,cc1e8c68,9,0,0,0,0,0.0,"[2, 9, 15, 18]",4.0,24,13,0,24,2,0,2,0,0,0,1,6.0,0,0,0,0,0,0,65,0,65,37,True,False,False,Right-arm fast,Right-hand bat
+Pune Warriors,RV Uthappa,1c17e270,1,37,33,4,0,112.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,57,0,28,85,39,True,False,False,Right-arm medium,Right-hand bat
+Pune Warriors,AJ Finch,b8d490fd,2,37,33,5,0,112.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,61,0,0,61,38,True,False,False,Slow left-arm orthodox,Right-hand bat
+Pune Warriors,Yuvraj Singh,1c914163,3,31,24,4,0,129.17,"[9, 15]",2.0,12,3,0,9,0,0,0,0,0,0,0,4.5,0,0,0,0,0,51,9,0,60,43,True,False,False,Slow left-arm orthodox,Left-hand bat
+Pune Warriors,LJ Wright,cca50cd6,4,19,18,3,0,105.56,[8],1.0,6,0,0,16,1,1,0,0,0,0,2,16.0,1,0,0,0,0,31,0,8,39,40,True,False,False,Right-arm medium,Right-hand bat
+Pune Warriors,SPD Smith,30a45b23,5,17,8,2,1,212.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31,35,True,False,False,Legbreak googly,Right-hand bat
+Pune Warriors,M Manhas,c42aaf71,6,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,45,True,False,True,Right-arm offbreak,Right-hand bat
+Pune Warriors,AM Nayar,a45a5e8d,6,0,0,0,0,0.0,"[12, 14]",2.0,12,4,0,15,1,0,1,0,0,0,1,7.5,0,0,0,0,0,0,29,0,29,41,True,False,True,Right-arm medium,Left-hand bat
+Pune Warriors,B Kumar,2e81a32d,7,0,0,0,0,0.0,"[1, 3, 6, 18]",4.0,24,13,0,30,2,1,0,0,0,0,8,7.5,0,0,0,0,0,0,13,0,13,35,True,False,False,Right-arm medium,Right-hand bat
+Pune Warriors,AB Dinda,66b30f71,8,0,0,0,0,0.0,"[5, 10, 17, 20]",4.0,24,14,0,31,5,1,3,0,0,0,0,7.75,0,0,0,0,0,0,93,0,93,41,True,False,False,Right-arm medium-fast,Right-hand bat
+Pune Warriors,R Sharma,5d9a1a73,9,0,0,0,0,0.0,"[7, 11, 13]",3.0,18,7,0,23,2,1,1,0,0,0,0,7.67,0,0,0,0,0,0,32,0,32,38,True,False,False,Legbreak googly,Right-hand bat
+Pune Warriors,KW Richardson,dfc4d8b5,10,0,0,0,0,0.0,"[2, 4, 16, 19]",4.0,24,10,0,38,1,4,0,0,0,0,1,9.5,0,0,0,0,0,0,10,0,10,34,True,False,False,Right-arm fast-medium,Right-hand bat

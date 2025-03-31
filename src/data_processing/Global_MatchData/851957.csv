@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Knights,RR Rossouw,cad00a4d,1,11,10,2,0,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
-Knights,RR Hendricks,b8cc58c9,2,32,35,4,0,91.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,52,0,0,52
-Knights,TB de Bruyn,90d6cdea,3,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Knights,TM Bodibe,ed982dfa,4,4,7,1,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
-Knights,WL Coetsee,5f419ace,5,7,16,1,0,43.75,"[10, 12]",2.0,12,0,0,20,0,1,0,0,0,0,3,10.0,0,0,1,0,-6,5,-2,12,15
-Knights,AD Russell,bbd41817,6,13,14,0,2,92.86,"[2, 4, 14, 20]",4.0,24,11,0,22,2,0,1,0,0,0,1,5.5,0,0,0,0,0,25,40,0,65
-Knights,DS Rosier,f8e6dbdd,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Knights,D du Preez,d7a57f75,8,2,7,0,0,28.57,"[1, 3, 5, 7]",4.0,24,17,2,8,0,0,0,0,0,0,0,2.0,0,0,0,0,0,2,47,0,49
-Knights,SC van Schalkwyk,97b0e4ff,9,13,11,0,0,118.18,"[9, 11, 17, 19]",4.0,24,13,1,19,1,0,4,0,1,0,0,4.75,3,0,0,0,0,13,147,28,188
-Knights,MP Siboto,9d50c7e1,10,5,7,0,0,71.43,"[6, 8, 16, 18]",4.0,24,11,0,27,3,0,0,0,0,0,2,6.75,0,0,0,0,0,5,13,0,18
-Knights,T Ntuli,8e6827f7,11,0,2,0,0,0.0,"[13, 15]",2.0,12,5,0,13,0,1,1,1,0,0,0,6.5,0,0,0,0,0,-2,40,0,38
-Lions,HE van der Dussen,9948e262,1,3,11,0,0,27.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-3,0,0,-3
-Lions,DP Conway,df5a6881,2,17,24,1,0,70.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
-Lions,AN Petersen,e01aafc1,3,22,28,0,1,78.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
-Lions,AJ Malan,6a315fb5,4,3,8,0,0,37.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
-Lions,D Pretorius,11614d87,5,35,28,4,0,125.0,"[2, 5, 7, 19]",4.0,24,17,1,18,3,0,3,0,1,0,1,4.5,0,0,0,0,0,55,122,0,177
-Lions,TL Tsolekile,3b94297b,6,10,8,0,1,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,16,0,28,44
-Lions,NJ van den Bergh,055e8d7b,7,6,7,0,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,6,0,8,14
-Lions,BC Fortuin,9a2fc964,8,3,2,0,0,150.0,"[1, 3, 17]",3.0,18,6,0,24,3,0,0,0,0,0,0,8.0,2,0,0,0,0,3,6,16,25
-Lions,AM Phangiso,7f8ecc51,9,4,4,1,0,100.0,"[9, 11, 13, 15]",4.0,24,17,1,12,0,1,0,0,0,0,0,3.0,0,0,0,0,0,8,35,0,43
-Lions,E Leie,a7bc76a0,11,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,17,0,15,1,1,5,1,1,0,0,3.75,0,0,0,0,0,0,176,0,176
-Lions,LL Tsotsobe,12bffe91,12,0,0,0,0,0.0,"[4, 6, 8, 18]",4.0,24,11,0,22,1,0,2,0,0,0,3,5.5,1,0,0,0,0,0,65,8,73
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Knights,RR Rossouw,cad00a4d,1,11,10,2,0,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,35,True,False,False,Right-arm offbreak,Left-hand bat
+Knights,RR Hendricks,b8cc58c9,2,32,35,4,0,91.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,52,0,0,52,35,True,False,False,Right-arm offbreak,Right-hand bat
+Knights,TB de Bruyn,90d6cdea,3,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,32,True,False,False,Right-arm medium-fast,Right-hand bat
+Knights,TM Bodibe,ed982dfa,4,4,7,1,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,37,True,False,False,,Right-hand bat
+Knights,WL Coetsee,5f419ace,5,7,16,1,0,43.75,"[10, 12]",2.0,12,0,0,20,0,1,0,0,0,0,3,10.0,0,0,1,0,-6,5,-2,12,15,42,True,True,False,Right-arm offbreak,Right-hand bat
+Knights,AD Russell,bbd41817,6,13,14,0,2,92.86,"[2, 4, 14, 20]",4.0,24,11,0,22,2,0,1,0,0,0,1,5.5,0,0,0,0,0,25,40,0,65,36,True,False,True,Right-arm fast,Right-hand bat
+Knights,DS Rosier,f8e6dbdd,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,30,True,False,False,Legbreak,Right-hand bat
+Knights,D du Preez,d7a57f75,8,2,7,0,0,28.57,"[1, 3, 5, 7]",4.0,24,17,2,8,0,0,0,0,0,0,0,2.0,0,0,0,0,0,2,47,0,49,43,True,True,False,Right-arm fast-medium,Right-hand bat
+Knights,SC van Schalkwyk,97b0e4ff,9,13,11,0,0,118.18,"[9, 11, 17, 19]",4.0,24,13,1,19,1,0,4,0,1,0,0,4.75,3,0,0,0,0,13,147,28,188,36,True,False,True,Right-arm medium,Left-hand bat
+Knights,MP Siboto,9d50c7e1,10,5,7,0,0,71.43,"[6, 8, 16, 18]",4.0,24,11,0,27,3,0,0,0,0,0,2,6.75,0,0,0,0,0,5,13,0,18,37,True,False,False,Right-arm medium,Left-hand bat
+Knights,T Ntuli,8e6827f7,11,0,2,0,0,0.0,"[13, 15]",2.0,12,5,0,13,0,1,1,1,0,0,0,6.5,0,0,0,0,0,-2,40,0,38,29,True,True,False,Right-arm offbreak,Right-hand bat
+Lions,HE van der Dussen,9948e262,1,3,11,0,0,27.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-3,0,0,-3,36,True,False,False,Legbreak,Right-hand bat
+Lions,DP Conway,df5a6881,2,17,24,1,0,70.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21,33,True,True,False,Right-arm medium,Left-hand bat
+Lions,AN Petersen,e01aafc1,3,22,28,0,1,78.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28,44,True,False,False,Right-arm offbreak,Right-hand bat
+Lions,AJ Malan,6a315fb5,4,3,8,0,0,37.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,33,True,True,False,Right-arm fast-medium,Right-hand bat
+Lions,D Pretorius,11614d87,5,35,28,4,0,125.0,"[2, 5, 7, 19]",4.0,24,17,1,18,3,0,3,0,1,0,1,4.5,0,0,0,0,0,55,122,0,177,36,True,False,True,Right-arm medium-fast,Right-hand bat
+Lions,TL Tsolekile,3b94297b,6,10,8,0,1,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,16,0,28,44,44,True,True,False,Right-arm offbreak,Right-hand bat
+Lions,NJ van den Bergh,055e8d7b,7,6,7,0,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,6,0,8,14,35,True,False,False,,Right-hand bat
+Lions,BC Fortuin,9a2fc964,8,3,2,0,0,150.0,"[1, 3, 17]",3.0,18,6,0,24,3,0,0,0,0,0,0,8.0,2,0,0,0,0,3,6,16,25,30,True,False,False,Slow left-arm orthodox,Right-hand bat
+Lions,AM Phangiso,7f8ecc51,9,4,4,1,0,100.0,"[9, 11, 13, 15]",4.0,24,17,1,12,0,1,0,0,0,0,0,3.0,0,0,0,0,0,8,35,0,43,41,True,False,False,Slow left-arm orthodox,Right-hand bat
+Lions,E Leie,a7bc76a0,11,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,17,0,15,1,1,5,1,1,0,0,3.75,0,0,0,0,0,0,176,0,176,38,True,False,False,Legbreak,Right-hand bat
+Lions,LL Tsotsobe,12bffe91,12,0,0,0,0,0.0,"[4, 6, 8, 18]",4.0,24,11,0,22,1,0,2,0,0,0,3,5.5,1,0,0,0,0,0,65,8,73,41,True,False,False,Left-arm fast-medium,Right-hand bat

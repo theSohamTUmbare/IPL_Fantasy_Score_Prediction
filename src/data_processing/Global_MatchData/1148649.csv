@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Jamaica Tallawahs,GD Phillips,9a46c4e5,1,6,3,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
-Jamaica Tallawahs,J Charles,09a9d073,2,24,16,5,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,44,0,0,44
-Jamaica Tallawahs,AM McCarthy,7f148ce7,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Jamaica Tallawahs,LRPL Taylor,b61a3e1a,4,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
-Jamaica Tallawahs,R Powell,650d5e49,5,1,7,0,0,14.29,[8],1.0,6,0,0,18,0,2,0,0,0,0,2,18.0,2,0,0,0,0,1,0,16,17
-Jamaica Tallawahs,K Lewis,b0081e62,6,51,34,4,2,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,87,0,0,87
-Jamaica Tallawahs,AD Russell,bbd41817,7,121,46,6,13,263.04,"[6, 15, 20]",3.0,18,7,0,38,3,3,3,0,1,0,2,12.67,1,0,0,0,6,245,88,8,341
-Jamaica Tallawahs,KAJ Roach,78eb4223,8,0,0,0,0,0.0,"[5, 13, 17, 19]",4.0,24,6,0,64,5,5,0,0,0,1,2,16.0,0,0,0,0,0,0,0,0,0
-Jamaica Tallawahs,Imad Wasim,9cb8d7a6,8,3,6,0,0,50.0,"[2, 4, 10, 12]",4.0,24,10,0,23,2,0,1,0,0,0,2,5.75,0,0,0,0,0,3,39,0,42
-Jamaica Tallawahs,K Santokie,531f0278,9,0,0,0,0,0.0,"[1, 3, 11, 18]",4.0,24,9,0,41,4,2,1,0,0,0,4,10.25,0,0,0,0,0,0,32,0,32
-Jamaica Tallawahs,A Zampa,14f96089,10,0,0,0,0,0.0,"[7, 9, 14, 16]",4.0,24,5,0,35,2,2,1,0,0,0,1,8.75,0,0,0,0,0,0,30,0,30
-Trinbago Knight Riders,SP Narine,9d430b40,1,7,6,0,1,116.67,"[10, 12, 14, 20]",3.5,21,4,0,42,0,5,0,0,0,1,0,12.0,0,0,0,0,0,13,0,0,13
-Trinbago Knight Riders,CA Lynn,45eda7c8,2,46,27,4,3,170.37,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,90,0,8,98
-Trinbago Knight Riders,C Munro,af2c687b,3,61,42,5,3,145.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,109,0,0,109
-Trinbago Knight Riders,BB McCullum,b8a55852,4,56,26,5,4,215.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,114,0,0,114
-Trinbago Knight Riders,DM Bravo,14b14cd8,5,29,16,2,2,181.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,59,0,0,59
-Trinbago Knight Riders,JPR Scantlebury-Searles,99ed60f8,6,6,2,0,1,300.0,[16],1.0,6,1,0,18,2,1,0,0,0,0,2,18.0,1,0,0,0,0,12,1,8,21
-Trinbago Knight Riders,D Ramdin,d1523761,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Trinbago Knight Riders,DJ Bravo,87e562a9,8,0,0,0,0,0.0,"[6, 13, 15, 17]",4.0,24,3,0,59,6,4,0,0,0,0,0,14.75,0,0,0,0,0,0,-3,0,-3
-Trinbago Knight Riders,Fawad Ahmed,22ae3041,8,0,0,0,0,0.0,"[7, 9, 11, 18]",4.0,24,6,0,46,2,4,2,1,0,0,1,11.5,1,0,0,0,0,0,60,8,68
-Trinbago Knight Riders,Ali Khan,b0eaaac6,9,0,0,0,0,0.0,"[1, 3, 5, 19]",4.0,24,14,0,24,3,0,3,1,0,1,3,6.0,0,0,0,0,0,0,103,0,103
-Trinbago Knight Riders,ST Gabriel,d9609443,10,0,0,0,0,0.0,"[2, 4, 8]",3.0,18,7,0,28,3,1,1,0,1,2,0,9.33,0,0,0,0,0,0,40,0,40
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Jamaica Tallawahs,GD Phillips,9a46c4e5,1,6,3,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,28,True,False,True,Right-arm offbreak,Right-hand bat
+Jamaica Tallawahs,J Charles,09a9d073,2,24,16,5,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,44,0,0,44,36,True,False,False,,Right-hand bat
+Jamaica Tallawahs,AM McCarthy,7f148ce7,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,37,True,False,False,Right-arm offbreak,Right-hand bat
+Jamaica Tallawahs,LRPL Taylor,b61a3e1a,4,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,41,True,False,False,Right-arm offbreak,Right-hand bat
+Jamaica Tallawahs,R Powell,650d5e49,5,1,7,0,0,14.29,[8],1.0,6,0,0,18,0,2,0,0,0,0,2,18.0,2,0,0,0,0,1,0,16,17,31,True,False,False,Right-arm medium-fast,Right-hand bat
+Jamaica Tallawahs,K Lewis,b0081e62,6,51,34,4,2,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,87,0,0,87,33,True,False,False,,Right-hand bat
+Jamaica Tallawahs,AD Russell,bbd41817,7,121,46,6,13,263.04,"[6, 15, 20]",3.0,18,7,0,38,3,3,3,0,1,0,2,12.67,1,0,0,0,6,245,88,8,341,36,True,False,True,Right-arm fast,Right-hand bat
+Jamaica Tallawahs,KAJ Roach,78eb4223,8,0,0,0,0,0.0,"[5, 13, 17, 19]",4.0,24,6,0,64,5,5,0,0,0,1,2,16.0,0,0,0,0,0,0,0,0,0,36,True,False,False,Right-arm fast-medium,Right-hand bat
+Jamaica Tallawahs,Imad Wasim,9cb8d7a6,8,3,6,0,0,50.0,"[2, 4, 10, 12]",4.0,24,10,0,23,2,0,1,0,0,0,2,5.75,0,0,0,0,0,3,39,0,42,36,True,False,True,Slow left-arm orthodox,Left-hand bat
+Jamaica Tallawahs,K Santokie,531f0278,9,0,0,0,0,0.0,"[1, 3, 11, 18]",4.0,24,9,0,41,4,2,1,0,0,0,4,10.25,0,0,0,0,0,0,32,0,32,40,True,False,False,Left-arm medium,Left-hand bat
+Jamaica Tallawahs,A Zampa,14f96089,10,0,0,0,0,0.0,"[7, 9, 14, 16]",4.0,24,5,0,35,2,2,1,0,0,0,1,8.75,0,0,0,0,0,0,30,0,30,32,True,False,False,Legbreak googly,Right-hand bat
+Trinbago Knight Riders,SP Narine,9d430b40,1,7,6,0,1,116.67,"[10, 12, 14, 20]",3.5,21,4,0,42,0,5,0,0,0,1,0,12.0,0,0,0,0,0,13,0,0,13,36,True,False,True,Right-arm offbreak,Left-hand bat
+Trinbago Knight Riders,CA Lynn,45eda7c8,2,46,27,4,3,170.37,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,90,0,8,98,34,True,False,False,Slow left-arm orthodox,Right-hand bat
+Trinbago Knight Riders,C Munro,af2c687b,3,61,42,5,3,145.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,109,0,0,109,38,True,False,False,Right-arm medium-fast,Left-hand bat
+Trinbago Knight Riders,BB McCullum,b8a55852,4,56,26,5,4,215.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,114,0,0,114,43,True,True,False,Right-arm offbreak,Right-hand bat
+Trinbago Knight Riders,DM Bravo,14b14cd8,5,29,16,2,2,181.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,59,0,0,59,36,True,False,False,Right-arm medium,Left-hand bat
+Trinbago Knight Riders,JPR Scantlebury-Searles,99ed60f8,6,6,2,0,1,300.0,[16],1.0,6,1,0,18,2,1,0,0,0,0,2,18.0,1,0,0,0,0,12,1,8,21,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Trinbago Knight Riders,D Ramdin,d1523761,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,40,True,False,False,,Right-hand bat
+Trinbago Knight Riders,DJ Bravo,87e562a9,8,0,0,0,0,0.0,"[6, 13, 15, 17]",4.0,24,3,0,59,6,4,0,0,0,0,0,14.75,0,0,0,0,0,0,-3,0,-3,41,True,False,True,Right-arm medium,Right-hand bat
+Trinbago Knight Riders,Fawad Ahmed,22ae3041,8,0,0,0,0,0.0,"[7, 9, 11, 18]",4.0,24,6,0,46,2,4,2,1,0,0,1,11.5,1,0,0,0,0,0,60,8,68,43,True,False,False,Legbreak googly,Right-hand bat
+Trinbago Knight Riders,Ali Khan,b0eaaac6,9,0,0,0,0,0.0,"[1, 3, 5, 19]",4.0,24,14,0,24,3,0,3,1,0,1,3,6.0,0,0,0,0,0,0,103,0,103,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Trinbago Knight Riders,ST Gabriel,d9609443,10,0,0,0,0,0.0,"[2, 4, 8]",3.0,18,7,0,28,3,1,1,0,1,2,0,9.33,0,0,0,0,0,0,40,0,40,36,True,False,False,Right-arm fast,Right-hand bat

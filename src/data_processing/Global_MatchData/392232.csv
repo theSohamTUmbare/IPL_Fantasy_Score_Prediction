@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Delhi Daredevils,G Gambhir,bb345e0b,1,27,19,3,1,142.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,51,0,0,51
-Delhi Daredevils,V Sehwag,8ba8195d,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Delhi Daredevils,M Manhas,c42aaf71,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Delhi Daredevils,AB de Villiers,c4487b84,4,28,29,3,0,96.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,44,0,0,44
-Delhi Daredevils,KD Karthik,c03f1114,5,31,29,1,0,106.9,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,39,0,8,47
-Delhi Daredevils,AM Salvi,260fd380,5,0,0,0,0,0.0,"[2, 4, 6, 14]",4.0,24,13,0,30,3,2,0,0,0,0,0,7.5,0,0,0,0,0,0,13,0,13
-Delhi Daredevils,A Nehra,96fd40ae,6,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,13,0,21,2,0,1,0,0,1,0,5.25,0,0,0,0,0,0,42,0,42
-Delhi Daredevils,AB McDonald,16043342,6,3,4,0,0,75.0,"[8, 10, 12]",3.0,18,2,0,22,1,0,0,0,0,0,0,7.33,0,0,0,0,0,3,2,0,5
-Delhi Daredevils,Y Nagar,662c47a6,7,20,20,1,0,100.0,"[13, 15]",2.0,12,3,0,20,0,2,2,0,0,1,0,10.0,1,0,0,0,0,24,51,8,83
-Delhi Daredevils,MF Maharoof,ab89348d,8,18,13,0,0,138.46,"[5, 7]",2.0,12,5,0,9,0,0,0,0,0,0,0,4.5,0,0,0,0,2,20,11,0,31
-Delhi Daredevils,DL Vettori,d7c6af50,9,4,2,0,0,200.0,"[9, 11, 16, 18]",4.0,24,5,0,32,2,1,0,0,0,0,0,8.0,1,0,0,0,0,4,5,8,17
-Royal Challengers Bangalore,RV Uthappa,1c17e270,1,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,1,0,16,17
-Royal Challengers Bangalore,JH Kallis,86dc8f2e,2,58,56,2,2,103.57,"[2, 4, 6, 8]",4.0,24,11,0,17,1,0,1,0,0,0,0,4.25,1,0,0,0,0,86,42,8,136
-Royal Challengers Bangalore,R Dravid,0184dc35,3,38,34,4,0,111.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,58,0,0,58
-Royal Challengers Bangalore,LRPL Taylor,b61a3e1a,4,25,11,1,3,227.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,57,0,16,73
-Royal Challengers Bangalore,V Kohli,ba607b88,5,0,0,0,0,0.0,"[13, 15]",2.0,12,4,0,12,0,0,0,0,0,0,1,6.0,0,0,0,0,0,0,6,0,6
-Royal Challengers Bangalore,MV Boucher,f3cb53a1,5,10,8,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
-Royal Challengers Bangalore,RE van der Merwe,05c2ca46,6,0,0,0,0,0.0,"[9, 11, 16, 19]",4.0,24,3,0,31,2,0,1,0,1,0,0,7.75,0,0,0,0,0,0,36,0,36
-Royal Challengers Bangalore,P Kumar,e938e1bc,7,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,9,0,30,1,1,3,0,0,0,0,7.5,0,0,0,0,0,0,88,0,88
-Royal Challengers Bangalore,B Akhil,af7dadf7,8,0,0,0,0,0.0,"[5, 7]",2.0,12,2,0,20,3,0,0,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
-Royal Challengers Bangalore,A Kumble,0c2730df,9,0,0,0,0,0.0,"[10, 12, 14, 17]",4.0,24,7,0,24,1,0,2,0,1,0,2,6.0,0,0,0,0,0,0,67,0,67
-Royal Challengers Bangalore,MK Pandey,93b4fc78,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Delhi Daredevils,G Gambhir,bb345e0b,1,27,19,3,1,142.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,51,0,0,51,43,True,False,False,Legbreak,Left-hand bat
+Delhi Daredevils,V Sehwag,8ba8195d,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,46,True,False,False,Right-arm offbreak,Right-hand bat
+Delhi Daredevils,M Manhas,c42aaf71,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,45,True,False,True,Right-arm offbreak,Right-hand bat
+Delhi Daredevils,AB de Villiers,c4487b84,4,28,29,3,0,96.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,44,0,0,44,41,True,True,False,Right-arm medium,Right-hand bat
+Delhi Daredevils,KD Karthik,c03f1114,5,31,29,1,0,106.9,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,39,0,8,47,39,True,True,False,Right-arm offbreak,Right-hand bat
+Delhi Daredevils,AM Salvi,260fd380,5,0,0,0,0,0.0,"[2, 4, 6, 14]",4.0,24,13,0,30,3,2,0,0,0,0,0,7.5,0,0,0,0,0,0,13,0,13,43,True,False,False,Right-arm medium,Right-hand bat
+Delhi Daredevils,A Nehra,96fd40ae,6,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,13,0,21,2,0,1,0,0,1,0,5.25,0,0,0,0,0,0,42,0,42,45,True,False,False,Left-arm medium-fast,Right-hand bat
+Delhi Daredevils,AB McDonald,16043342,6,3,4,0,0,75.0,"[8, 10, 12]",3.0,18,2,0,22,1,0,0,0,0,0,0,7.33,0,0,0,0,0,3,2,0,5,43,True,False,True,Right-arm fast-medium,Right-hand bat
+Delhi Daredevils,Y Nagar,662c47a6,7,20,20,1,0,100.0,"[13, 15]",2.0,12,3,0,20,0,2,2,0,0,1,0,10.0,1,0,0,0,0,24,51,8,83,35,True,False,True,Right-arm offbreak,Right-hand bat
+Delhi Daredevils,MF Maharoof,ab89348d,8,18,13,0,0,138.46,"[5, 7]",2.0,12,5,0,9,0,0,0,0,0,0,0,4.5,0,0,0,0,2,20,11,0,31,40,True,False,True,Right-arm fast-medium,Right-hand bat
+Delhi Daredevils,DL Vettori,d7c6af50,9,4,2,0,0,200.0,"[9, 11, 16, 18]",4.0,24,5,0,32,2,1,0,0,0,0,0,8.0,1,0,0,0,0,4,5,8,17,46,True,False,True,Slow left-arm orthodox,Left-hand bat
+Royal Challengers Bangalore,RV Uthappa,1c17e270,1,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,1,0,16,17,39,True,False,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,JH Kallis,86dc8f2e,2,58,56,2,2,103.57,"[2, 4, 6, 8]",4.0,24,11,0,17,1,0,1,0,0,0,0,4.25,1,0,0,0,0,86,42,8,136,49,True,False,True,Right-arm fast-medium,Right-hand bat
+Royal Challengers Bangalore,R Dravid,0184dc35,3,38,34,4,0,111.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,58,0,0,58,52,True,False,False,Right-arm offbreak,Right-hand bat
+Royal Challengers Bangalore,LRPL Taylor,b61a3e1a,4,25,11,1,3,227.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,57,0,16,73,41,True,False,False,Right-arm offbreak,Right-hand bat
+Royal Challengers Bangalore,V Kohli,ba607b88,5,0,0,0,0,0.0,"[13, 15]",2.0,12,4,0,12,0,0,0,0,0,0,1,6.0,0,0,0,0,0,0,6,0,6,36,True,False,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,MV Boucher,f3cb53a1,5,10,8,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,48,True,True,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,RE van der Merwe,05c2ca46,6,0,0,0,0,0.0,"[9, 11, 16, 19]",4.0,24,3,0,31,2,0,1,0,1,0,0,7.75,0,0,0,0,0,0,36,0,36,40,True,False,True,Slow left-arm orthodox,Right-hand bat
+Royal Challengers Bangalore,P Kumar,e938e1bc,7,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,9,0,30,1,1,3,0,0,0,0,7.5,0,0,0,0,0,0,88,0,88,38,True,False,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,B Akhil,af7dadf7,8,0,0,0,0,0.0,"[5, 7]",2.0,12,2,0,20,3,0,0,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0,47,True,False,False,Right-arm medium-fast,Right-hand bat
+Royal Challengers Bangalore,A Kumble,0c2730df,9,0,0,0,0,0.0,"[10, 12, 14, 17]",4.0,24,7,0,24,1,0,2,0,1,0,2,6.0,0,0,0,0,0,0,67,0,67,54,True,False,False,Legbreak googly,Right-hand bat
+Royal Challengers Bangalore,MK Pandey,93b4fc78,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,35,True,False,False,Right-arm medium,Right-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Chhattisgarh,Rishabh Tiwari,bd74f1a7,1,44,30,5,0,146.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,70,0,0,70
-Chhattisgarh,Shashank Chandrakar,9c20688d,2,44,38,4,2,115.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,76,0,0,76
-Chhattisgarh,Harpreet Singh,28c78fb3,3,42,21,3,3,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,82,0,0,82
-Chhattisgarh,Amandeep Khare,6c6cc94c,4,14,14,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
-Chhattisgarh,Ravi Kiran,0ff9728b,4,0,0,0,0,0.0,"[2, 4]",2.0,12,4,0,18,2,1,0,0,0,0,0,9.0,0,0,0,0,0,0,4,0,4
-Chhattisgarh,V Pratap Singh,d718440b,5,0,0,0,0,0.0,"[1, 3, 5, 20]",4.0,24,12,0,23,2,1,1,0,1,0,0,5.75,0,0,0,0,0,0,49,0,49
-Chhattisgarh,Vishal Kushwah,cc8531c2,5,7,4,1,0,175.0,"[6, 8, 16, 18]",4.0,24,5,0,46,5,1,1,0,0,0,2,11.5,0,0,0,0,0,11,26,0,37
-Chhattisgarh,Shashank Singh,26989d80,6,24,8,2,2,300.0,"[13, 15, 17, 19]",4.0,24,4,0,42,3,2,0,0,0,0,1,10.5,0,0,0,0,0,44,2,0,46
-Chhattisgarh,Sumit Ruikar,f4ef0fd7,6,0,0,0,0,0.0,"[10, 12]",2.0,12,3,0,20,0,2,0,0,0,0,0,10.0,1,0,0,0,0,0,1,8,9
-Chhattisgarh,Ajay Mandal,31ee319e,7,8,5,1,0,160.0,"[9, 11, 14]",3.0,18,2,0,29,2,1,0,0,0,0,0,9.67,0,0,0,0,0,12,2,0,14
-Chhattisgarh,Shourabh Kharwar,6fdbf272,7,0,0,0,0,0.0,[7],1.0,6,1,0,16,4,0,0,0,0,0,0,16.0,0,0,0,0,0,0,1,0,1
-Maharashtra,RD Gaikwad,45a43fe2,1,15,16,2,0,93.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
-Maharashtra,RA Tripathi,77255a9e,2,14,15,1,1,93.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
-Maharashtra,KM Jadhav,99d63244,3,84,45,5,5,186.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,152,0,0,152
-Maharashtra,Naushad Shaikh,9ed95736,4,78,44,10,2,177.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,148,0,8,156
-Maharashtra,Mukesh Choudhary,765a4731,4,0,0,0,0,0.0,"[1, 3, 17]",3.0,18,5,0,39,4,2,1,0,0,0,4,13.0,0,0,0,0,0,0,24,0,24
-Maharashtra,MD Ingale,a584021c,5,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,5,0,43,5,1,2,0,1,0,2,10.75,0,0,0,0,0,0,61,0,61
-Maharashtra,Satyajeet Bachhav,09a71776,6,0,0,0,0,0.0,"[5, 7, 13, 15]",4.0,24,7,0,32,3,1,0,0,0,0,1,8.0,0,0,0,0,0,0,7,0,7
-Maharashtra,SM Kazi,868e3639,7,0,0,0,0,0.0,"[6, 12, 14, 16]",4.0,24,5,0,38,4,1,1,0,0,0,1,9.5,0,0,0,0,0,0,30,0,30
-Maharashtra,Divyang Hinganekar,cb461421,8,0,0,0,0,0.0,"[8, 10, 19]",3.0,18,4,0,30,1,2,0,0,0,0,0,10.0,2,0,0,0,0,0,2,16,18
-Maharashtra,Azim Kazi,ccae927b,9,0,0,0,0,0.0,"[9, 11]",2.0,12,4,0,9,0,0,1,0,0,0,0,4.5,0,0,0,0,0,0,35,0,35
-Maharashtra,NS Naik,aedc3b7c,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0,0,12,12
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Chhattisgarh,Rishabh Tiwari,bd74f1a7,1,44,30,5,0,146.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,70,0,0,70,31,True,True,False,Legbreak googly,Left-hand bat
+Chhattisgarh,Shashank Chandrakar,9c20688d,2,44,38,4,2,115.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,76,0,0,76,30,True,True,False,Right-arm medium,Right-hand bat
+Chhattisgarh,Harpreet Singh,28c78fb3,3,42,21,3,3,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,82,0,0,82,33,True,False,False,Right-arm medium,Left-hand bat
+Chhattisgarh,Amandeep Khare,6c6cc94c,4,14,14,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,27,True,True,False,Right-arm medium,Right-hand bat
+Chhattisgarh,Ravi Kiran,0ff9728b,4,0,0,0,0,0.0,"[2, 4]",2.0,12,4,0,18,2,1,0,0,0,0,0,9.0,0,0,0,0,0,0,4,0,4,34,True,True,False,Right-arm medium,Right-hand bat
+Chhattisgarh,V Pratap Singh,d718440b,5,0,0,0,0,0.0,"[1, 3, 5, 20]",4.0,24,12,0,23,2,1,1,0,1,0,0,5.75,0,0,0,0,0,0,49,0,49,32,True,True,False,Right-arm medium,Right-hand bat
+Chhattisgarh,Vishal Kushwah,cc8531c2,5,7,4,1,0,175.0,"[6, 8, 16, 18]",4.0,24,5,0,46,5,1,1,0,0,0,2,11.5,0,0,0,0,0,11,26,0,37,34,True,True,False,Right-arm medium,Right-hand bat
+Chhattisgarh,Shashank Singh,26989d80,6,24,8,2,2,300.0,"[13, 15, 17, 19]",4.0,24,4,0,42,3,2,0,0,0,0,1,10.5,0,0,0,0,0,44,2,0,46,33,True,False,True,Right-arm offbreak,Right-hand bat
+Chhattisgarh,Sumit Ruikar,f4ef0fd7,6,0,0,0,0,0.0,"[10, 12]",2.0,12,3,0,20,0,2,0,0,0,0,0,10.0,1,0,0,0,0,0,1,8,9,34,True,True,False,Slow left-arm orthodox,Left-hand bat
+Chhattisgarh,Ajay Mandal,31ee319e,7,8,5,1,0,160.0,"[9, 11, 14]",3.0,18,2,0,29,2,1,0,0,0,0,0,9.67,0,0,0,0,0,12,2,0,14,29,True,False,True,Slow left-arm orthodox,Left-hand bat
+Chhattisgarh,Shourabh Kharwar,6fdbf272,7,0,0,0,0,0.0,[7],1.0,6,1,0,16,4,0,0,0,0,0,0,16.0,0,0,0,0,0,0,1,0,1,32,True,True,False,Right-arm medium,Right-hand bat
+Maharashtra,RD Gaikwad,45a43fe2,1,15,16,2,0,93.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23,28,True,False,False,Right-arm offbreak,Right-hand bat
+Maharashtra,RA Tripathi,77255a9e,2,14,15,1,1,93.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24,34,True,False,False,Right-arm medium,Right-hand bat
+Maharashtra,KM Jadhav,99d63244,3,84,45,5,5,186.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,152,0,0,152,40,True,False,True,Right-arm offbreak,Right-hand bat
+Maharashtra,Naushad Shaikh,9ed95736,4,78,44,10,2,177.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,148,0,8,156,33,True,False,False,Right-arm offbreak,Right-hand bat
+Maharashtra,Mukesh Choudhary,765a4731,4,0,0,0,0,0.0,"[1, 3, 17]",3.0,18,5,0,39,4,2,1,0,0,0,4,13.0,0,0,0,0,0,0,24,0,24,28,True,False,False,Left-arm medium,Left-hand bat
+Maharashtra,MD Ingale,a584021c,5,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,5,0,43,5,1,2,0,1,0,2,10.75,0,0,0,0,0,0,61,0,61,30,True,False,False,Right-arm medium,Right-hand bat
+Maharashtra,Satyajeet Bachhav,09a71776,6,0,0,0,0,0.0,"[5, 7, 13, 15]",4.0,24,7,0,32,3,1,0,0,0,0,1,8.0,0,0,0,0,0,0,7,0,7,32,True,False,False,Slow left-arm orthodox,Left-hand bat
+Maharashtra,SM Kazi,868e3639,7,0,0,0,0,0.0,"[6, 12, 14, 16]",4.0,24,5,0,38,4,1,1,0,0,0,1,9.5,0,0,0,0,0,0,30,0,30,30,True,True,False,Right-arm offbreak,Right-hand bat
+Maharashtra,Divyang Hinganekar,cb461421,8,0,0,0,0,0.0,"[8, 10, 19]",3.0,18,4,0,30,1,2,0,0,0,0,0,10.0,2,0,0,0,0,0,2,16,18,31,True,False,False,Left-arm medium,Right-hand bat
+Maharashtra,Azim Kazi,ccae927b,9,0,0,0,0,0.0,"[9, 11]",2.0,12,4,0,9,0,0,1,0,0,0,0,4.5,0,0,0,0,0,0,35,0,35,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Maharashtra,NS Naik,aedc3b7c,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0,0,12,12,30,True,False,False,,Right-hand bat

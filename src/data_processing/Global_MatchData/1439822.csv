@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Germany,B Kohler-Cadmore,209e91e6,1,21,15,1,2,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,39,0,8,47
-Germany,V Ganesan,baa7dd37,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Germany,Musaddiq Ahmed,f8fb7e7b,3,15,7,2,1,214.29,"[6, 16, 18]",3.0,18,4,0,29,3,1,0,0,0,0,0,9.67,0,0,1,0,0,29,4,12,45
-Germany,Faisal Mubashir,ad5342dc,4,4,13,0,0,30.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2
-Germany,H Singh,8209da53,5,26,30,2,0,86.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,38,0,8,46
-Germany,Sachin Mandy,501fca0d,6,7,3,0,1,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,13,0,16,29
-Germany,Fayaz Khan,373954ca,7,64,34,4,6,188.24,"[5, 7, 17, 19]",4.0,24,12,0,19,1,0,5,0,1,0,2,4.75,2,0,0,0,6,130,163,16,309
-Germany,Muslim Yar,37d8d19a,8,7,6,0,1,116.67,"[8, 10, 12, 14]",4.0,24,8,0,26,2,0,2,0,0,0,3,6.5,0,0,0,0,0,13,60,0,73
-Germany,Sajid Liaqat,b1b99a1a,9,1,4,0,0,25.0,"[2, 11, 13]",3.0,18,5,0,45,2,5,0,0,0,0,0,15.0,0,0,0,0,0,1,-1,0,0
-Germany,Zahid Zadran,a819f6c8,10,2,2,0,0,100.0,"[1, 3, 15, 20]",3.667,22,13,0,19,3,0,2,1,0,0,1,5.18,0,0,0,0,0,2,75,0,77
-Germany,Ghulam Ahmadi,2dfe0612,11,0,2,0,0,0.0,"[4, 9]",2.0,12,4,0,24,3,1,0,0,0,0,0,12.0,1,0,0,0,0,0,0,8,8
-Norway,Raza Iqbal,eee46f77,1,0,1,0,0,0.0,"[7, 9, 11, 13]",4.0,24,6,0,39,2,3,0,0,0,0,0,9.75,2,0,0,0,0,-2,6,16,20
-Norway,Khizer Ahmed,723ca856,2,40,19,4,3,210.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,84,0,0,84
-Norway,Walid Ghauri,331e137f,3,33,32,4,0,103.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,53,0,8,61
-Norway,Mandeep Singh,dc39e9ab,4,17,15,1,0,113.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,21,0,12,33
-Norway,Ali Saleem,661e8a03,5,38,25,3,3,152.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,76,0,0,76
-Norway,Javed Maroofkhail,909d9fac,6,14,6,1,1,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,24,0,8,32
-Norway,Sher Sahak,8299b9a2,7,1,2,0,0,50.0,"[4, 6, 14, 16]",4.0,24,15,0,18,1,1,3,0,1,0,1,4.5,1,0,0,0,0,1,108,8,117
-Norway,Wahidullah Sahak,6913e38e,8,10,12,1,0,83.33,"[2, 18]",2.0,12,5,0,32,3,3,1,0,0,1,0,16.0,0,0,0,0,0,14,24,0,38
-Norway,Qamar Mushtaque,fc362c5d,9,3,4,0,0,75.0,"[5, 15, 17, 19]",4.0,24,13,0,19,0,1,3,0,1,0,1,4.75,1,0,0,0,0,3,106,8,117
-Norway,Vinay Ravi,9c181b99,10,0,1,0,0,0.0,"[1, 3, 20]",2.5,15,10,0,22,2,2,1,0,1,0,0,8.8,0,0,0,0,0,-2,43,0,41
-Norway,AJ Parmar,94113d54,11,0,1,0,0,0.0,"[8, 10, 12]",3.0,18,6,0,20,1,1,1,0,0,0,0,6.67,0,0,0,0,0,0,33,0,33
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Germany,B Kohler-Cadmore,209e91e6,1,21,15,1,2,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,39,0,8,47,31,True,False,False,,Left-hand bat
+Germany,V Ganesan,baa7dd37,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,39,True,True,False,Right-arm offbreak,Left-hand bat
+Germany,Musaddiq Ahmed,f8fb7e7b,3,15,7,2,1,214.29,"[6, 16, 18]",3.0,18,4,0,29,3,1,0,0,0,0,0,9.67,0,0,1,0,0,29,4,12,45,35,True,False,False,,Right-hand bat
+Germany,Faisal Mubashir,ad5342dc,4,4,13,0,0,30.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2,38,True,True,False,Right-arm offbreak,Right-hand bat
+Germany,H Singh,8209da53,5,26,30,2,0,86.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,38,0,8,46,31,True,True,False,Right-arm medium,Right-hand bat
+Germany,Sachin Mandy,501fca0d,6,7,3,0,1,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,13,0,16,29,33,True,True,False,Right-arm medium,Right-hand bat
+Germany,Fayaz Khan,373954ca,7,64,34,4,6,188.24,"[5, 7, 17, 19]",4.0,24,12,0,19,1,0,5,0,1,0,2,4.75,2,0,0,0,6,130,163,16,309,28,True,True,False,Right-arm medium,Right-hand bat
+Germany,Muslim Yar,37d8d19a,8,7,6,0,1,116.67,"[8, 10, 12, 14]",4.0,24,8,0,26,2,0,2,0,0,0,3,6.5,0,0,0,0,0,13,60,0,73,25,True,True,False,Slow left-arm orthodox,Right-hand bat
+Germany,Sajid Liaqat,b1b99a1a,9,1,4,0,0,25.0,"[2, 11, 13]",3.0,18,5,0,45,2,5,0,0,0,0,0,15.0,0,0,0,0,0,1,-1,0,0,39,True,False,False,Right-arm medium,Right-hand bat
+Germany,Zahid Zadran,a819f6c8,10,2,2,0,0,100.0,"[1, 3, 15, 20]",3.667,22,13,0,19,3,0,2,1,0,0,1,5.18,0,0,0,0,0,2,75,0,77,25,True,True,False,Right-arm medium,Right-hand bat
+Germany,Ghulam Ahmadi,2dfe0612,11,0,2,0,0,0.0,"[4, 9]",2.0,12,4,0,24,3,1,0,0,0,0,0,12.0,1,0,0,0,0,0,0,8,8,27,True,True,False,Right-arm offbreak,Right-hand bat
+Norway,Raza Iqbal,eee46f77,1,0,1,0,0,0.0,"[7, 9, 11, 13]",4.0,24,6,0,39,2,3,0,0,0,0,0,9.75,2,0,0,0,0,-2,6,16,20,38,True,True,False,Slow left-arm orthodox,Left-hand bat
+Norway,Khizer Ahmed,723ca856,2,40,19,4,3,210.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,84,0,0,84,33,True,False,False,,Right-hand bat
+Norway,Walid Ghauri,331e137f,3,33,32,4,0,103.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,53,0,8,61,31,True,True,False,Right-arm medium,Left-hand bat
+Norway,Mandeep Singh,dc39e9ab,4,17,15,1,0,113.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,21,0,12,33,33,True,False,False,,Right-hand bat
+Norway,Ali Saleem,661e8a03,5,38,25,3,3,152.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,76,0,0,76,45,True,False,False,,Right-hand bat
+Norway,Javed Maroofkhail,909d9fac,6,14,6,1,1,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,24,0,8,32,23,True,True,False,Right-arm medium,Right-hand bat
+Norway,Sher Sahak,8299b9a2,7,1,2,0,0,50.0,"[4, 6, 14, 16]",4.0,24,15,0,18,1,1,3,0,1,0,1,4.5,1,0,0,0,0,1,108,8,117,24,True,False,True,Right-arm medium-fast,Right-hand bat
+Norway,Wahidullah Sahak,6913e38e,8,10,12,1,0,83.33,"[2, 18]",2.0,12,5,0,32,3,3,1,0,0,1,0,16.0,0,0,0,0,0,14,24,0,38,23,True,False,True,Right-arm medium-fast,Right-hand bat
+Norway,Qamar Mushtaque,fc362c5d,9,3,4,0,0,75.0,"[5, 15, 17, 19]",4.0,24,13,0,19,0,1,3,0,1,0,1,4.75,1,0,0,0,0,3,106,8,117,36,True,True,False,Right-arm medium-fast,Right-hand bat
+Norway,Vinay Ravi,9c181b99,10,0,1,0,0,0.0,"[1, 3, 20]",2.5,15,10,0,22,2,2,1,0,1,0,0,8.8,0,0,0,0,0,-2,43,0,41,35,True,False,False,Right-arm medium-fast,Right-hand bat
+Norway,AJ Parmar,94113d54,11,0,1,0,0,0.0,"[8, 10, 12]",3.0,18,6,0,20,1,1,1,0,0,0,0,6.67,0,0,0,0,0,0,33,0,33,38,True,True,False,Slow left-arm orthodox,Left-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Derbyshire,WJ Durston,3c77ca9d,1,32,19,5,1,168.42,[14],1.0,6,1,0,12,2,0,0,0,0,0,0,12.0,1,0,0,0,4,66,1,8,75
-Derbyshire,HD Rutherford,0605de92,2,37,23,5,1,160.87,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,71,0,0,71
-Derbyshire,NT Broom,a354c917,3,6,12,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,2,0,0,2
-Derbyshire,CF Hughes,7f3f108f,4,43,27,3,2,159.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,75,0,0,75
-Derbyshire,WL Madsen,86e0f3f0,5,59,32,4,4,184.38,[2],1.0,6,2,0,15,2,1,0,0,0,0,0,15.0,1,0,0,0,6,113,2,8,123
-Derbyshire,JDS Neesham,9219eff0,5,0,0,0,0,0.0,"[1, 3, 5, 19]",4.0,24,11,0,47,3,4,2,0,0,0,1,11.75,0,0,0,0,0,0,57,0,57
-Derbyshire,AL Hughes,1066a976,6,0,0,0,0,0.0,"[8, 10, 12, 16]",4.0,24,8,0,23,0,1,3,0,1,0,0,5.75,1,0,0,0,0,0,99,8,107
-Derbyshire,SJ Thakor,f6c84b9f,7,0,0,0,0,0.0,"[7, 15, 17]",3.0,18,5,0,22,1,1,0,0,0,0,1,7.33,0,0,0,0,0,0,5,0,5
-Derbyshire,HR Hosein,ae01eb1e,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
-Derbyshire,MJJ Critchley,c5cc48bc,9,0,0,0,0,0.0,"[9, 11, 13]",3.0,18,6,0,20,1,1,0,0,0,0,0,6.67,0,0,0,0,0,0,8,0,8
-Derbyshire,A Carter,6fe2c1c0,10,0,0,0,0,0.0,"[4, 6, 18, 20]",4.0,24,8,0,46,6,1,2,0,0,4,1,11.5,1,0,0,0,0,0,54,8,62
-Worcestershire,T Kohler-Cadmore,f836b33d,1,24,10,4,1,240.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,52,0,0,52
-Worcestershire,DKH Mitchell,8108e2d2,2,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Worcestershire,JM Clarke,2eca67f5,3,7,6,0,1,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
-Worcestershire,AN Kervezee,dc36a6a5,4,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Worcestershire,BL D'Oliveira,9679838c,5,21,20,1,1,105.0,"[9, 11, 13]",3.0,18,4,0,17,0,0,0,0,0,0,1,5.67,0,0,0,0,0,31,8,0,39
-Worcestershire,KJ Abbott,a9da7784,5,0,0,0,0,0.0,"[4, 6, 16, 19]",3.833,23,8,0,57,7,3,0,0,0,4,1,14.87,1,0,0,0,0,0,2,8,10
-Worcestershire,JD Shantry,70fdd428,6,0,0,0,0,0.0,"[1, 3, 7, 15]",4.0,24,9,0,31,3,1,0,0,0,0,0,7.75,0,0,0,0,0,0,9,0,9
-Worcestershire,RA Whiteley,d346d939,6,18,14,0,2,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,30,0,8,38
-Worcestershire,OB Cox,324a6ee1,7,59,29,7,2,203.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,113,0,0,113
-Worcestershire,J Leach,cd143bca,8,13,22,0,0,59.09,"[8, 10, 12, 18]",4.0,24,5,0,43,2,3,2,0,0,2,1,10.75,0,0,0,0,-4,9,53,0,62
-Worcestershire,MJ Henry,e84ac20c,9,35,14,3,2,250.0,"[2, 5, 14, 17]",4.0,24,8,0,39,5,1,1,0,1,0,1,9.75,0,0,0,0,6,69,41,0,110
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Derbyshire,WJ Durston,3c77ca9d,1,32,19,5,1,168.42,[14],1.0,6,1,0,12,2,0,0,0,0,0,0,12.0,1,0,0,0,4,66,1,8,75,44,True,False,True,Right-arm offbreak,Right-hand bat
+Derbyshire,HD Rutherford,0605de92,2,37,23,5,1,160.87,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,71,0,0,71,35,True,False,False,Slow left-arm orthodox,Left-hand bat
+Derbyshire,NT Broom,a354c917,3,6,12,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,2,0,0,2,41,True,False,False,Right-arm medium,Right-hand bat
+Derbyshire,CF Hughes,7f3f108f,4,43,27,3,2,159.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,75,0,0,75,34,True,False,True,Slow left-arm orthodox,Left-hand bat
+Derbyshire,WL Madsen,86e0f3f0,5,59,32,4,4,184.38,[2],1.0,6,2,0,15,2,1,0,0,0,0,0,15.0,1,0,0,0,6,113,2,8,123,41,True,False,False,Right-arm offbreak,Right-hand bat
+Derbyshire,JDS Neesham,9219eff0,5,0,0,0,0,0.0,"[1, 3, 5, 19]",4.0,24,11,0,47,3,4,2,0,0,0,1,11.75,0,0,0,0,0,0,57,0,57,34,True,False,True,Right-arm medium-fast,Left-hand bat
+Derbyshire,AL Hughes,1066a976,6,0,0,0,0,0.0,"[8, 10, 12, 16]",4.0,24,8,0,23,0,1,3,0,1,0,0,5.75,1,0,0,0,0,0,99,8,107,33,True,False,True,Right-arm medium,Right-hand bat
+Derbyshire,SJ Thakor,f6c84b9f,7,0,0,0,0,0.0,"[7, 15, 17]",3.0,18,5,0,22,1,1,0,0,0,0,1,7.33,0,0,0,0,0,0,5,0,5,31,True,True,False,Right-arm medium,Right-hand bat
+Derbyshire,HR Hosein,ae01eb1e,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,28,True,False,False,,Right-hand bat
+Derbyshire,MJJ Critchley,c5cc48bc,9,0,0,0,0,0.0,"[9, 11, 13]",3.0,18,6,0,20,1,1,0,0,0,0,0,6.67,0,0,0,0,0,0,8,0,8,28,True,False,True,Legbreak,Right-hand bat
+Derbyshire,A Carter,6fe2c1c0,10,0,0,0,0,0.0,"[4, 6, 18, 20]",4.0,24,8,0,46,6,1,2,0,0,4,1,11.5,1,0,0,0,0,0,54,8,62,36,True,True,False,Right-arm medium,Right-hand bat
+Worcestershire,T Kohler-Cadmore,f836b33d,1,24,10,4,1,240.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,52,0,0,52,30,True,True,False,Right-arm offbreak,Right-hand bat
+Worcestershire,DKH Mitchell,8108e2d2,2,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,41,True,False,True,Right-arm medium,Right-hand bat
+Worcestershire,JM Clarke,2eca67f5,3,7,6,0,1,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,28,True,False,False,,Right-hand bat
+Worcestershire,AN Kervezee,dc36a6a5,4,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,35,True,False,False,Right-arm medium,Right-hand bat
+Worcestershire,BL D'Oliveira,9679838c,5,21,20,1,1,105.0,"[9, 11, 13]",3.0,18,4,0,17,0,0,0,0,0,0,1,5.67,0,0,0,0,0,31,8,0,39,33,True,False,True,Legbreak,Right-hand bat
+Worcestershire,KJ Abbott,a9da7784,5,0,0,0,0,0.0,"[4, 6, 16, 19]",3.833,23,8,0,57,7,3,0,0,0,4,1,14.87,1,0,0,0,0,0,2,8,10,37,True,False,False,Right-arm fast-medium,Right-hand bat
+Worcestershire,JD Shantry,70fdd428,6,0,0,0,0,0.0,"[1, 3, 7, 15]",4.0,24,9,0,31,3,1,0,0,0,0,0,7.75,0,0,0,0,0,0,9,0,9,37,True,False,False,Left-arm medium,Left-hand bat
+Worcestershire,RA Whiteley,d346d939,6,18,14,0,2,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,30,0,8,38,36,True,False,False,Left-arm medium,Left-hand bat
+Worcestershire,OB Cox,324a6ee1,7,59,29,7,2,203.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,113,0,0,113,33,True,False,False,,Right-hand bat
+Worcestershire,J Leach,cd143bca,8,13,22,0,0,59.09,"[8, 10, 12, 18]",4.0,24,5,0,43,2,3,2,0,0,2,1,10.75,0,0,0,0,-4,9,53,0,62,34,True,False,True,Right-arm fast-medium,Right-hand bat
+Worcestershire,MJ Henry,e84ac20c,9,35,14,3,2,250.0,"[2, 5, 14, 17]",4.0,24,8,0,39,5,1,1,0,1,0,1,9.75,0,0,0,0,6,69,41,0,110,33,True,False,False,Right-arm fast-medium,Right-hand bat

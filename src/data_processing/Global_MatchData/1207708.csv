@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Lancashire,KK Jennings,8479a24a,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Lancashire,AL Davies,29ede60b,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Lancashire,SJ Croft,ab474682,12,0,0,0,0,0.0,"[1, 16]",2.0,12,4,0,12,1,0,0,0,0,0,0,6.0,0,0,0,0,0,0,6,0,6
-Lancashire,DJ Vilas,087210b1,13,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0,0,28,28
-Lancashire,JJ Bohannon,fd96de7c,14,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
-Lancashire,RP Jones,ad8cb396,15,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Lancashire,DJ Lamb,27c5a793,16,0,0,0,0,0.0,"[5, 8, 14, 19]",4.0,24,6,0,34,2,2,1,0,0,0,0,8.5,0,0,0,0,0,0,31,0,31
-Lancashire,TE Bailey,b9877635,17,0,0,0,0,0.0,"[2, 6, 18, 20]",4.0,24,15,0,17,2,0,5,0,1,0,2,4.25,1,0,0,0,0,0,166,8,174
-Lancashire,TW Hartley,22b98d7c,18,0,0,0,0,0.0,"[3, 7, 13]",3.0,18,5,0,22,1,1,0,0,0,0,0,7.33,0,0,0,0,0,0,5,0,5
-Lancashire,LJ Hurt,45ca0dc0,19,0,0,0,0,0.0,"[4, 10, 12]",3.0,18,7,0,29,4,1,2,0,0,0,0,9.67,0,0,0,0,0,0,57,0,57
-Lancashire,MW Parkinson,19708692,20,0,0,0,0,0.0,"[9, 11, 15, 17]",4.0,24,7,0,30,1,1,0,0,0,0,1,7.5,0,0,0,0,0,0,7,0,7
-Leicestershire,GJ Delany,33b3d2df,1,5,5,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
-Leicestershire,HE Dearden,c41ba637,2,31,34,4,0,91.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,51,0,0,51
-Leicestershire,AM Lilley,88a004e9,3,26,15,2,2,173.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,56,0,0,56
-Leicestershire,CN Ackermann,e734d090,4,14,14,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
-Leicestershire,GH Rhodes,fd8a9b23,5,9,8,1,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
-Leicestershire,LJ Hill,35f9a295,6,22,19,2,0,115.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30
-Leicestershire,TAI Taylor,867a45a7,7,10,10,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
-Leicestershire,BWM Mike,ed12fcd7,8,15,7,0,2,214.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27
-Leicestershire,CF Parkinson,aa1210d8,9,9,8,1,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
-Leicestershire,WS Davis,078ffbf2,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Leicestershire,GT Griffiths,79c7041c,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Lancashire,KK Jennings,8479a24a,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,32,True,False,False,Right-arm medium-fast,Left-hand bat
+Lancashire,AL Davies,29ede60b,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,30,True,False,False,,Right-hand bat
+Lancashire,SJ Croft,ab474682,12,0,0,0,0,0.0,"[1, 16]",2.0,12,4,0,12,1,0,0,0,0,0,0,6.0,0,0,0,0,0,0,6,0,6,40,True,False,True,Right-arm offbreak,Right-hand bat
+Lancashire,DJ Vilas,087210b1,13,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0,0,28,28,39,True,False,False,,Right-hand bat
+Lancashire,JJ Bohannon,fd96de7c,14,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,27,True,False,False,Right-arm medium,Right-hand bat
+Lancashire,RP Jones,ad8cb396,15,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,29,True,False,False,Legbreak,Right-hand bat
+Lancashire,DJ Lamb,27c5a793,16,0,0,0,0,0.0,"[5, 8, 14, 19]",4.0,24,6,0,34,2,2,1,0,0,0,0,8.5,0,0,0,0,0,0,31,0,31,29,True,False,True,Right-arm medium-fast,Right-hand bat
+Lancashire,TE Bailey,b9877635,17,0,0,0,0,0.0,"[2, 6, 18, 20]",4.0,24,15,0,17,2,0,5,0,1,0,2,4.25,1,0,0,0,0,0,166,8,174,33,True,False,False,Right-arm fast-medium,Right-hand bat
+Lancashire,TW Hartley,22b98d7c,18,0,0,0,0,0.0,"[3, 7, 13]",3.0,18,5,0,22,1,1,0,0,0,0,0,7.33,0,0,0,0,0,0,5,0,5,25,True,False,False,Slow left-arm orthodox,Left-hand bat
+Lancashire,LJ Hurt,45ca0dc0,19,0,0,0,0,0.0,"[4, 10, 12]",3.0,18,7,0,29,4,1,2,0,0,0,0,9.67,0,0,0,0,0,0,57,0,57,31,True,False,False,Right-arm medium-fast,Right-hand bat
+Lancashire,MW Parkinson,19708692,20,0,0,0,0,0.0,"[9, 11, 15, 17]",4.0,24,7,0,30,1,1,0,0,0,0,1,7.5,0,0,0,0,0,0,7,0,7,28,True,False,False,Legbreak,Right-hand bat
+Leicestershire,GJ Delany,33b3d2df,1,5,5,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,27,True,False,True,Legbreak googly,Right-hand bat
+Leicestershire,HE Dearden,c41ba637,2,31,34,4,0,91.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,51,0,0,51,27,True,False,False,Right-arm offbreak,Left-hand bat
+Leicestershire,AM Lilley,88a004e9,3,26,15,2,2,173.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,56,0,0,56,33,True,False,True,Right-arm offbreak,Right-hand bat
+Leicestershire,CN Ackermann,e734d090,4,14,14,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,33,True,False,True,Right-arm offbreak,Right-hand bat
+Leicestershire,GH Rhodes,fd8a9b23,5,9,8,1,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,31,True,True,False,Right-arm offbreak,Right-hand bat
+Leicestershire,LJ Hill,35f9a295,6,22,19,2,0,115.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30,34,True,True,False,Right-arm medium,Right-hand bat
+Leicestershire,TAI Taylor,867a45a7,7,10,10,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,30,True,False,True,Right-arm medium-fast,Right-hand bat
+Leicestershire,BWM Mike,ed12fcd7,8,15,7,0,2,214.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27,26,True,False,True,Right-arm medium-fast,Right-hand bat
+Leicestershire,CF Parkinson,aa1210d8,9,9,8,1,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,28,True,False,False,Slow left-arm orthodox,Right-hand bat
+Leicestershire,WS Davis,078ffbf2,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,29,True,False,False,Right-arm fast-medium,Right-hand bat
+Leicestershire,GT Griffiths,79c7041c,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,31,True,False,False,Right-arm fast-medium,Right-hand bat

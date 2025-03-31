@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Rwanda,D Ndikubwimana,3cbedf51,1,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,2,0,1,0,32,33
-Rwanda,E Dusingizimana,c15e7ba4,2,20,10,3,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,44,0,0,44
-Rwanda,W Niyitanga,e7631adc,3,6,7,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
-Rwanda,O Tuyisenge,e6a6888f,4,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
-Rwanda,C Rububagumya,8088632c,5,40,31,4,1,129.03,"[4, 6, 18, 20]",4.0,24,9,0,36,3,2,2,0,1,0,2,9.0,0,0,0,0,0,66,67,0,133
-Rwanda,E Sebareme,f99a219a,6,34,21,1,4,161.9,"[8, 15, 17]",3.0,18,3,0,37,3,2,0,0,0,0,0,12.33,0,0,0,0,4,70,-3,0,67
-Rwanda,K Irakoze,9ccb6e52,7,0,1,0,0,0.0,"[10, 12]",2.0,12,3,0,21,2,1,0,0,0,0,0,10.5,0,0,0,0,0,-2,1,0,-1
-Rwanda,E Niyomugabo,2dcac6ff,8,4,2,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
-Rwanda,M Akayezu,1f3b9f8d,9,7,8,1,0,87.5,"[2, 14, 16]",3.0,18,5,0,35,4,1,1,0,1,1,3,11.67,2,0,0,0,0,11,34,16,61
-Rwanda,E Rukiriza,3ac13a94,10,0,3,0,0,0.0,"[7, 9, 11, 13]",4.0,24,5,0,27,1,1,1,0,1,0,0,6.75,1,0,0,2,0,-2,40,20,58
-Rwanda,Z Bimenyimana,ba57fb08,11,4,2,0,0,200.0,"[1, 3, 5, 19]",4.0,24,11,0,29,3,1,3,0,0,0,0,7.25,0,0,0,0,0,4,90,0,94
-Uganda,RG Mukasa,011f6b42,1,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
-Uganda,S Sesazi,c2c975f9,2,41,30,1,4,136.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,75,0,8,83
-Uganda,R Lutaaya,04e0cdec,3,17,9,4,0,188.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33
-Uganda,RB Patel,f88dc8de,4,44,29,6,0,151.72,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,76,0,0,76
-Uganda,AR Ramjani,30d8136b,5,45,28,2,3,160.71,"[11, 13, 15]",3.0,18,10,0,9,0,0,4,0,3,0,0,3.0,0,0,0,0,4,79,148,0,227
-Uganda,K Waiswa,a3a275ec,6,20,11,2,1,181.82,[9],1.0,6,2,0,7,1,0,0,0,0,0,1,7.0,2,0,0,0,6,40,2,16,58
-Uganda,B Masaba,f33cfd25,7,3,5,0,0,60.0,"[14, 16]",1.5,9,4,0,23,1,3,2,0,0,0,0,15.33,2,0,0,0,0,3,54,16,73
-Uganda,P Murungi,fbdc5ab1,8,7,3,1,0,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
-Uganda,J Sebanja,1e78c51c,9,1,1,0,0,100.0,"[2, 4, 6]",3.0,18,8,0,33,3,2,1,0,0,0,0,11.0,1,0,0,0,0,1,31,8,40
-Uganda,D Wabwire,a628a5c8,10,0,1,0,0,0.0,"[1, 3, 5, 7]",4.0,24,14,1,24,4,0,3,0,0,0,1,6.0,0,0,0,0,0,0,107,0,107
-Uganda,S Nsubuga,58cb36aa,11,0,1,0,0,0.0,"[8, 10, 12]",3.0,18,6,0,27,2,1,0,0,0,1,0,9.0,0,0,0,0,0,-2,6,0,4
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Rwanda,D Ndikubwimana,3cbedf51,1,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,2,0,1,0,32,33,21,True,False,False,,Right-hand bat
+Rwanda,E Dusingizimana,c15e7ba4,2,20,10,3,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,44,0,0,44,38,True,False,False,,Right-hand bat
+Rwanda,W Niyitanga,e7631adc,3,6,7,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,23,True,False,False,,Right-hand bat
+Rwanda,O Tuyisenge,e6a6888f,4,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,24,True,False,False,,Right-hand bat
+Rwanda,C Rububagumya,8088632c,5,40,31,4,1,129.03,"[4, 6, 18, 20]",4.0,24,9,0,36,3,2,2,0,1,0,2,9.0,0,0,0,0,0,66,67,0,133,29,True,True,False,Right-arm medium,Right-hand bat
+Rwanda,E Sebareme,f99a219a,6,34,21,1,4,161.9,"[8, 15, 17]",3.0,18,3,0,37,3,2,0,0,0,0,0,12.33,0,0,0,0,4,70,-3,0,67,29,True,False,True,Right-arm offbreak,Right-hand bat
+Rwanda,K Irakoze,9ccb6e52,7,0,1,0,0,0.0,"[10, 12]",2.0,12,3,0,21,2,1,0,0,0,0,0,10.5,0,0,0,0,0,-2,1,0,-1,24,True,True,False,Right-arm offbreak,Right-hand bat
+Rwanda,E Niyomugabo,2dcac6ff,8,4,2,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,30,True,True,False,Right-arm offbreak,Right-hand bat
+Rwanda,M Akayezu,1f3b9f8d,9,7,8,1,0,87.5,"[2, 14, 16]",3.0,18,5,0,35,4,1,1,0,1,1,3,11.67,2,0,0,0,0,11,34,16,61,22,True,True,False,Right-arm medium,Right-hand bat
+Rwanda,E Rukiriza,3ac13a94,10,0,3,0,0,0.0,"[7, 9, 11, 13]",4.0,24,5,0,27,1,1,1,0,1,0,0,6.75,1,0,0,2,0,-2,40,20,58,21,True,True,False,Right-arm offbreak,Right-hand bat
+Rwanda,Z Bimenyimana,ba57fb08,11,4,2,0,0,200.0,"[1, 3, 5, 19]",4.0,24,11,0,29,3,1,3,0,0,0,0,7.25,0,0,0,0,0,4,90,0,94,26,True,True,False,Right-arm medium,Right-hand bat
+Uganda,RG Mukasa,011f6b42,1,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,35,True,False,False,Right-arm offbreak,Right-hand bat
+Uganda,S Sesazi,c2c975f9,2,41,30,1,4,136.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,75,0,8,83,28,True,True,False,Right-arm slow,Left-hand bat
+Uganda,R Lutaaya,04e0cdec,3,17,9,4,0,188.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33,22,True,False,False,,Left-hand bat
+Uganda,RB Patel,f88dc8de,4,44,29,6,0,151.72,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,76,0,0,76,36,True,False,False,Slow left-arm orthodox,Right-hand bat
+Uganda,AR Ramjani,30d8136b,5,45,28,2,3,160.71,"[11, 13, 15]",3.0,18,10,0,9,0,0,4,0,3,0,0,3.0,0,0,0,0,4,79,148,0,227,30,True,False,True,Slow left-arm orthodox,Left-hand bat
+Uganda,K Waiswa,a3a275ec,6,20,11,2,1,181.82,[9],1.0,6,2,0,7,1,0,0,0,0,0,1,7.0,2,0,0,0,6,40,2,16,58,26,True,False,True,Right-arm medium,Right-hand bat
+Uganda,B Masaba,f33cfd25,7,3,5,0,0,60.0,"[14, 16]",1.5,9,4,0,23,1,3,2,0,0,0,0,15.33,2,0,0,0,0,3,54,16,73,33,True,False,False,Legbreak googly,Right-hand bat
+Uganda,P Murungi,fbdc5ab1,8,7,3,1,0,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,20,True,True,False,Right-arm medium,Right-hand bat
+Uganda,J Sebanja,1e78c51c,9,1,1,0,0,100.0,"[2, 4, 6]",3.0,18,8,0,33,3,2,1,0,0,0,0,11.0,1,0,0,0,0,1,31,8,40,36,True,True,False,Left-arm medium,Right-hand bat
+Uganda,D Wabwire,a628a5c8,10,0,1,0,0,0.0,"[1, 3, 5, 7]",4.0,24,14,1,24,4,0,3,0,0,0,1,6.0,0,0,0,0,0,0,107,0,107,26,True,True,False,Right-arm medium-fast,
+Uganda,S Nsubuga,58cb36aa,11,0,1,0,0,0.0,"[8, 10, 12]",3.0,18,6,0,27,2,1,0,0,0,1,0,9.0,0,0,0,0,0,-2,6,0,4,24,True,False,True,Right-arm offbreak,Right-hand bat

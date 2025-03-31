@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Denmark,ND Laegsgaard,b0f2d3bd,1,49,25,7,1,196.0,"[7, 9]",2.0,12,4,0,16,1,0,1,0,1,0,1,8.0,0,0,0,0,6,93,37,0,130
-Denmark,HAM Shah,007113d7,2,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Denmark,S Thanikaithasan,498aacac,3,9,6,1,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
-Denmark,SA Ahmad,8de618ab,4,66,45,3,3,146.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,106,0,0,106
-Denmark,Lucky Ali,28b032ac,5,26,24,1,0,108.33,"[11, 13, 15, 17]",4.0,24,13,0,16,0,0,3,0,1,0,3,4.0,1,0,0,0,0,34,106,8,148
-Denmark,Surya Anand,ef141f36,6,13,13,0,0,100.0,"[2, 4, 6]",3.0,18,10,0,13,1,0,0,0,0,0,0,4.33,0,0,0,0,0,13,16,0,29
-Denmark,Musa Shaheen,6709b2de,7,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Denmark,Abdul Hashim,73b1db79,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Denmark,Saud Munir,5902f2eb,11,0,0,0,0,0.0,"[8, 10, 18, 20]",4.0,24,7,0,25,1,1,1,0,1,0,0,6.25,0,0,0,0,0,0,42,0,42
-Denmark,Abdullah Mahmood,926c6d3c,12,0,0,0,0,0.0,"[12, 14, 16, 19]",4.0,24,7,0,27,1,1,0,0,0,0,1,6.75,0,0,0,0,0,0,9,0,9
-Denmark,OD Hald,38189be1,13,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,14,1,5,0,0,3,2,0,0,0,1.67,1,0,0,0,0,0,127,8,135
-Finland,Jordan O'Brien,c31d7da1,1,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Finland,NG Collins,be3bdc15,2,20,24,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
-Finland,AK Mohan,d55474ac,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Finland,VS Padhaal,c4fb0b39,4,4,10,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2
-Finland,M Jenkinson,68f7caf9,5,17,17,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
-Finland,Atif Rasheed,c7726eec,6,8,5,0,1,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
-Finland,PF Gallagher,8e9d3dc4,7,1,3,0,0,33.33,"[4, 6, 10, 12]",4.0,24,6,0,31,2,0,1,0,0,0,1,7.75,1,0,0,0,0,1,31,8,40
-Finland,Amjad Sher,3b4a8cfb,8,14,12,0,1,116.67,"[2, 9, 11, 20]",4.0,24,9,0,25,2,0,2,0,1,0,0,6.25,0,0,0,0,0,20,69,0,89
-Finland,MB Tambe,1c1bb0d5,9,20,28,1,0,71.43,"[5, 7, 15, 19]",4.0,24,6,0,37,1,2,0,0,0,0,2,9.25,0,0,0,0,0,24,6,0,30
-Finland,Akhil Arjunan,2b203501,10,13,17,0,0,76.47,"[8, 14, 16, 18]",4.0,24,5,0,39,4,1,1,0,0,0,0,9.75,0,0,0,0,0,13,30,0,43
-Finland,Raaz Mohammad,f83b77f9,10,0,0,0,0,0.0,"[1, 3, 13, 17]",4.0,24,4,0,38,3,1,1,1,0,0,1,9.5,1,0,0,0,0,0,37,8,45
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Denmark,ND Laegsgaard,b0f2d3bd,1,49,25,7,1,196.0,"[7, 9]",2.0,12,4,0,16,1,0,1,0,1,0,1,8.0,0,0,0,0,6,93,37,0,130,28,True,True,False,Slow left-arm orthodox,Left-hand bat
+Denmark,HAM Shah,007113d7,2,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,32,True,True,False,Right-arm offbreak,Right-hand bat
+Denmark,S Thanikaithasan,498aacac,3,9,6,1,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,26,True,True,False,Legbreak googly,Right-hand bat
+Denmark,SA Ahmad,8de618ab,4,66,45,3,3,146.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,106,0,0,106,26,True,True,False,Right-arm offbreak,Left-hand bat
+Denmark,Lucky Ali,28b032ac,5,26,24,1,0,108.33,"[11, 13, 15, 17]",4.0,24,13,0,16,0,0,3,0,1,0,3,4.0,1,0,0,0,0,34,106,8,148,21,True,True,False,Slow left-arm orthodox,Left-hand bat
+Denmark,Surya Anand,ef141f36,6,13,13,0,0,100.0,"[2, 4, 6]",3.0,18,10,0,13,1,0,0,0,0,0,0,4.33,0,0,0,0,0,13,16,0,29,27,True,True,False,Right-arm medium,Right-hand bat
+Denmark,Musa Shaheen,6709b2de,7,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,21,True,True,False,Right-arm medium-fast,Right-hand bat
+Denmark,Abdul Hashim,73b1db79,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,27,True,False,False,,Right-hand bat
+Denmark,Saud Munir,5902f2eb,11,0,0,0,0,0.0,"[8, 10, 18, 20]",4.0,24,7,0,25,1,1,1,0,1,0,0,6.25,0,0,0,0,0,0,42,0,42,26,True,True,False,Right-arm medium,Right-hand bat
+Denmark,Abdullah Mahmood,926c6d3c,12,0,0,0,0,0.0,"[12, 14, 16, 19]",4.0,24,7,0,27,1,1,0,0,0,0,1,6.75,0,0,0,0,0,0,9,0,9,22,True,True,False,Right-arm offbreak,Right-hand bat
+Denmark,OD Hald,38189be1,13,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,14,1,5,0,0,3,2,0,0,0,1.67,1,0,0,0,0,0,127,8,135,25,True,True,False,Left-arm medium,Left-hand bat
+Finland,Jordan O'Brien,c31d7da1,1,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,29,True,True,False,Right-arm offbreak,Right-hand bat
+Finland,NG Collins,be3bdc15,2,20,24,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24,30,True,True,False,Right-arm offbreak,Right-hand bat
+Finland,AK Mohan,d55474ac,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,38,True,True,False,Right-arm offbreak,Right-hand bat
+Finland,VS Padhaal,c4fb0b39,4,4,10,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2,46,True,True,False,Right-arm offbreak,Right-hand bat
+Finland,M Jenkinson,68f7caf9,5,17,17,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,51,True,True,False,Right-arm medium-fast,Right-hand bat
+Finland,Atif Rasheed,c7726eec,6,8,5,0,1,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,35,True,True,False,Right-arm medium,Right-hand bat
+Finland,PF Gallagher,8e9d3dc4,7,1,3,0,0,33.33,"[4, 6, 10, 12]",4.0,24,6,0,31,2,0,1,0,0,0,1,7.75,1,0,0,0,0,1,31,8,40,40,True,True,False,Right-arm offbreak,Right-hand bat
+Finland,Amjad Sher,3b4a8cfb,8,14,12,0,1,116.67,"[2, 9, 11, 20]",4.0,24,9,0,25,2,0,2,0,1,0,0,6.25,0,0,0,0,0,20,69,0,89,38,True,True,False,Right-arm medium,Right-hand bat
+Finland,MB Tambe,1c1bb0d5,9,20,28,1,0,71.43,"[5, 7, 15, 19]",4.0,24,6,0,37,1,2,0,0,0,0,2,9.25,0,0,0,0,0,24,6,0,30,39,True,True,False,Right-arm medium,Right-hand bat
+Finland,Akhil Arjunan,2b203501,10,13,17,0,0,76.47,"[8, 14, 16, 18]",4.0,24,5,0,39,4,1,1,0,0,0,0,9.75,0,0,0,0,0,13,30,0,43,33,True,True,False,Legbreak,Right-hand bat
+Finland,Raaz Mohammad,f83b77f9,10,0,0,0,0,0.0,"[1, 3, 13, 17]",4.0,24,4,0,38,3,1,1,1,0,0,1,9.5,1,0,0,0,0,0,37,8,45,33,True,True,False,Right-arm medium,Right-hand bat

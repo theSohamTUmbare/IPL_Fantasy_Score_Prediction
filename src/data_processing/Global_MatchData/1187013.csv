@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Bangladesh,Liton Das,0404d43c,1,7,4,1,0,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
-Bangladesh,Mohammad Naim,7923a51d,2,26,28,2,1,92.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,44,0,16,60
-Bangladesh,Soumya Sarkar,4d9f9686,3,39,35,1,2,111.43,"[8, 10]",2.0,12,3,0,16,2,0,0,0,0,0,0,8.0,0,0,0,0,0,59,3,0,62
-Bangladesh,Mushfiqur Rahim,a94e08ea,4,60,43,8,1,139.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,108,0,0,108
-Bangladesh,Mahmudullah,bf1d7d3e,5,15,7,1,1,214.29,[15],1.0,6,2,0,10,0,1,0,0,0,0,1,10.0,1,0,0,0,0,25,2,8,35
-Bangladesh,Afif Hossain,37138918,5,0,0,0,0,0.0,"[12, 14, 16]",3.0,18,10,0,11,1,0,1,0,0,0,0,3.67,1,0,0,0,0,0,41,8,49
-Bangladesh,Mosaddek Hossain,8919756f,6,0,0,0,0,0.0,[13],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,0,1,0,1
-Bangladesh,Aminul Islam,f8ce577b,7,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,6,0,22,0,2,2,0,0,0,0,7.33,0,0,0,0,0,0,56,0,56
-Bangladesh,Shafiul Islam,1a8eebbe,8,0,0,0,0,0.0,"[1, 3, 6, 19]",4.0,24,9,0,36,5,1,2,1,0,0,0,9.0,0,0,0,0,0,0,67,0,67
-Bangladesh,Mustafizur Rahman,0a8fce53,9,0,0,0,0,0.0,"[5, 17]",2.0,12,4,0,15,2,0,0,0,0,0,0,7.5,0,0,0,0,0,0,4,0,4
-Bangladesh,Al-Amin Hossain,3f5f39cd,10,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,7,0,27,1,2,0,0,0,0,0,6.75,0,0,0,0,0,0,9,0,9
-India,RG Sharma,740742ef,1,9,5,2,0,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
-India,S Dhawan,0a476045,2,41,42,3,1,97.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,63,0,8,71
-India,KL Rahul,b17e2f24,3,15,17,2,0,88.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,23,0,8,31
-India,SS Iyer,85ec8e33,4,22,13,1,2,169.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,42,0,0,42
-India,RR Pant,919a3be2,5,27,26,3,0,103.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,43,0,0,43
-India,YS Chahal,57ee1fde,5,0,0,0,0,0.0,"[8, 10, 12, 18]",4.0,24,11,0,24,3,0,1,0,0,0,0,6.0,0,0,0,0,0,0,38,0,38
-India,DL Chahar,23eeb873,6,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,8,0,24,2,1,1,0,0,0,1,8.0,0,0,0,0,0,0,33,0,33
-India,S Dube,a4e37e47,6,1,4,0,0,25.0,[20],0.5,3,1,0,9,0,1,0,0,0,0,1,18.0,0,0,0,0,0,1,1,0,2
-India,KK Ahmed,a2f46292,7,0,0,0,0,0.0,"[7, 15, 17, 19]",4.0,24,6,0,37,5,1,1,0,1,0,1,9.25,0,0,0,0,0,0,39,0,39
-India,KH Pandya,5b8c830e,7,15,8,1,1,187.5,"[9, 11, 14, 16]",4.0,24,6,0,32,2,1,0,0,0,0,1,8.0,0,0,0,0,0,25,6,0,31
-India,Washington Sundar,f19ccfad,8,14,5,0,2,280.0,"[2, 4, 6, 13]",4.0,24,9,0,25,1,1,0,0,0,0,0,6.25,0,0,0,0,0,26,11,0,37
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bangladesh,Liton Das,0404d43c,1,7,4,1,0,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,30,True,True,False,Right-arm offbreak,Right-hand bat
+Bangladesh,Mohammad Naim,7923a51d,2,26,28,2,1,92.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,44,0,16,60,25,True,False,False,,Left-hand bat
+Bangladesh,Soumya Sarkar,4d9f9686,3,39,35,1,2,111.43,"[8, 10]",2.0,12,3,0,16,2,0,0,0,0,0,0,8.0,0,0,0,0,0,59,3,0,62,32,True,False,True,Right-arm medium-fast,Left-hand bat
+Bangladesh,Mushfiqur Rahim,a94e08ea,4,60,43,8,1,139.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,108,0,0,108,37,True,False,False,,Right-hand bat
+Bangladesh,Mahmudullah,bf1d7d3e,5,15,7,1,1,214.29,[15],1.0,6,2,0,10,0,1,0,0,0,0,1,10.0,1,0,0,0,0,25,2,8,35,39,True,False,True,Right-arm offbreak,Right-hand bat
+Bangladesh,Afif Hossain,37138918,5,0,0,0,0,0.0,"[12, 14, 16]",3.0,18,10,0,11,1,0,1,0,0,0,0,3.67,1,0,0,0,0,0,41,8,49,25,True,False,True,Right-arm offbreak,Left-hand bat
+Bangladesh,Mosaddek Hossain,8919756f,6,0,0,0,0,0.0,[13],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,0,1,0,1,29,True,False,True,Right-arm offbreak,Right-hand bat
+Bangladesh,Aminul Islam,f8ce577b,7,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,6,0,22,0,2,2,0,0,0,0,7.33,0,0,0,0,0,0,56,0,56,25,True,False,True,Legbreak googly,Right-hand bat
+Bangladesh,Shafiul Islam,1a8eebbe,8,0,0,0,0,0.0,"[1, 3, 6, 19]",4.0,24,9,0,36,5,1,2,1,0,0,0,9.0,0,0,0,0,0,0,67,0,67,35,True,False,False,Right-arm fast-medium,Right-hand bat
+Bangladesh,Mustafizur Rahman,0a8fce53,9,0,0,0,0,0.0,"[5, 17]",2.0,12,4,0,15,2,0,0,0,0,0,0,7.5,0,0,0,0,0,0,4,0,4,29,True,False,False,Left-arm fast-medium,Left-hand bat
+Bangladesh,Al-Amin Hossain,3f5f39cd,10,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,7,0,27,1,2,0,0,0,0,0,6.75,0,0,0,0,0,0,9,0,9,32,True,False,False,Right-arm medium-fast,Right-hand bat
+India,RG Sharma,740742ef,1,9,5,2,0,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,37,True,False,False,Right-arm offbreak,Right-hand bat
+India,S Dhawan,0a476045,2,41,42,3,1,97.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,63,0,8,71,39,True,False,False,Right-arm offbreak,Left-hand bat
+India,KL Rahul,b17e2f24,3,15,17,2,0,88.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,23,0,8,31,32,True,False,False,,Right-hand bat
+India,SS Iyer,85ec8e33,4,22,13,1,2,169.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,42,0,0,42,30,True,False,False,Legbreak googly,Right-hand bat
+India,RR Pant,919a3be2,5,27,26,3,0,103.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,43,0,0,43,27,True,False,False,,Left-hand bat
+India,YS Chahal,57ee1fde,5,0,0,0,0,0.0,"[8, 10, 12, 18]",4.0,24,11,0,24,3,0,1,0,0,0,0,6.0,0,0,0,0,0,0,38,0,38,34,True,False,False,Legbreak googly,Right-hand bat
+India,DL Chahar,23eeb873,6,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,8,0,24,2,1,1,0,0,0,1,8.0,0,0,0,0,0,0,33,0,33,32,True,False,False,Right-arm medium,Right-hand bat
+India,S Dube,a4e37e47,6,1,4,0,0,25.0,[20],0.5,3,1,0,9,0,1,0,0,0,0,1,18.0,0,0,0,0,0,1,1,0,2,31,True,False,True,Right-arm medium,Left-hand bat
+India,KK Ahmed,a2f46292,7,0,0,0,0,0.0,"[7, 15, 17, 19]",4.0,24,6,0,37,5,1,1,0,1,0,1,9.25,0,0,0,0,0,0,39,0,39,27,True,False,False,Left-arm fast-medium,Right-hand bat
+India,KH Pandya,5b8c830e,7,15,8,1,1,187.5,"[9, 11, 14, 16]",4.0,24,6,0,32,2,1,0,0,0,0,1,8.0,0,0,0,0,0,25,6,0,31,34,True,False,True,Slow left-arm orthodox,Left-hand bat
+India,Washington Sundar,f19ccfad,8,14,5,0,2,280.0,"[2, 4, 6, 13]",4.0,24,9,0,25,1,1,0,0,0,0,0,6.25,0,0,0,0,0,26,11,0,37,25,True,False,True,Right-arm offbreak,Left-hand bat

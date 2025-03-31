@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Australia,TM Head,12b610c2,1,6,3,0,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
-Australia,MW Short,a90e53ec,2,20,11,2,1,181.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,40,0,0,40
-Australia,MR Marsh,3d8feaf8,3,92,49,13,2,187.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,174,0,16,190
-Australia,JP Inglis,989889ff,4,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,1,0,12,13
-Australia,MP Stoinis,d9273ee7,5,6,9,0,1,66.67,"[1, 3, 14]",3.0,18,11,0,18,2,1,3,0,1,0,0,6.0,1,0,0,0,0,12,100,8,120
-Australia,TH David,f1f99156,6,64,28,7,4,228.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,130,0,16,146
-Australia,AM Hardie,d405c0d5,7,23,14,3,1,164.29,[15],1.0,6,1,0,5,0,0,0,0,0,0,0,5.0,0,0,0,0,4,45,1,0,46
-Australia,SA Abbott,1a2676c5,8,3,3,0,0,100.0,"[5, 8]",2.0,12,4,0,17,1,1,1,0,0,0,0,8.5,1,0,0,0,0,3,29,8,40
-Australia,NT Ellis,9eb1455b,11,0,0,0,0,0.0,"[6, 12]",2.0,12,3,0,11,0,0,0,0,0,0,1,5.5,0,0,0,0,0,0,7,0,7
-Australia,T Sangha,52c952d9,12,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,6,0,31,4,0,4,0,1,0,0,7.75,0,0,0,0,0,0,122,0,122
-Australia,SH Johnson,83c3e8e3,13,0,0,0,0,0.0,"[2, 4, 10, 16]",3.5,21,8,0,33,3,2,2,0,1,0,1,9.43,0,0,0,0,0,0,66,0,66
-South Africa,RR Hendricks,b8cc58c9,1,56,43,5,2,130.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,98,0,16,114
-South Africa,T Bavuma,9ffd1ac1,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-South Africa,HE van der Dussen,9948e262,3,21,11,2,2,190.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,47,0,0,47
-South Africa,AK Markram,6a26221c,4,7,7,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,7,0,0,7
-South Africa,D Brevis,844e79d1,5,5,6,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,5,0,8,13
-South Africa,T Stubbs,85b3fab2,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-South Africa,M Jansen,81c36ee9,7,20,14,3,0,142.86,"[1, 3, 11, 15]",4.0,24,7,0,45,5,2,1,0,0,0,2,11.25,1,0,0,0,2,34,28,8,70
-South Africa,G Coetzee,3204c99f,8,1,2,0,0,50.0,"[4, 6, 13, 18]",4.0,24,9,1,40,6,1,1,0,1,0,1,10.0,0,0,0,0,0,1,52,0,53
-South Africa,LB Williams,a1d95bd8,9,1,2,0,0,50.0,"[5, 7, 17, 19]",4.0,24,8,0,44,4,3,3,0,0,0,1,11.0,0,0,0,0,0,1,85,0,86
-South Africa,L Ngidi,f834dcfc,10,2,3,0,0,66.67,"[2, 9, 14, 20]",4.0,24,4,0,49,7,1,0,0,0,0,0,12.25,0,0,0,0,0,2,-2,0,0
-South Africa,T Shamsi,a03bba42,11,0,2,0,0,0.0,"[8, 10, 12, 16]",4.0,24,7,0,42,3,3,1,0,0,0,1,10.5,0,0,0,0,0,-2,30,0,28
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Australia,TM Head,12b610c2,1,6,3,0,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,31,True,False,False,Right-arm offbreak,Left-hand bat
+Australia,MW Short,a90e53ec,2,20,11,2,1,181.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,40,0,0,40,29,True,False,False,Right-arm offbreak,Right-hand bat
+Australia,MR Marsh,3d8feaf8,3,92,49,13,2,187.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,174,0,16,190,33,True,False,True,Right-arm medium,Right-hand bat
+Australia,JP Inglis,989889ff,4,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,1,0,12,13,30,True,False,False,,Right-hand bat
+Australia,MP Stoinis,d9273ee7,5,6,9,0,1,66.67,"[1, 3, 14]",3.0,18,11,0,18,2,1,3,0,1,0,0,6.0,1,0,0,0,0,12,100,8,120,35,True,False,True,Right-arm medium,Right-hand bat
+Australia,TH David,f1f99156,6,64,28,7,4,228.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,130,0,16,146,29,True,False,False,Right-arm offbreak,Right-hand bat
+Australia,AM Hardie,d405c0d5,7,23,14,3,1,164.29,[15],1.0,6,1,0,5,0,0,0,0,0,0,0,5.0,0,0,0,0,4,45,1,0,46,26,True,False,True,Right-arm medium-fast,Right-hand bat
+Australia,SA Abbott,1a2676c5,8,3,3,0,0,100.0,"[5, 8]",2.0,12,4,0,17,1,1,1,0,0,0,0,8.5,1,0,0,0,0,3,29,8,40,33,True,False,True,Right-arm fast-medium,Right-hand bat
+Australia,NT Ellis,9eb1455b,11,0,0,0,0,0.0,"[6, 12]",2.0,12,3,0,11,0,0,0,0,0,0,1,5.5,0,0,0,0,0,0,7,0,7,30,True,False,False,Right-arm fast-medium,Right-hand bat
+Australia,T Sangha,52c952d9,12,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,6,0,31,4,0,4,0,1,0,0,7.75,0,0,0,0,0,0,122,0,122,23,True,False,False,Legbreak,Right-hand bat
+Australia,SH Johnson,83c3e8e3,13,0,0,0,0,0.0,"[2, 4, 10, 16]",3.5,21,8,0,33,3,2,2,0,1,0,1,9.43,0,0,0,0,0,0,66,0,66,29,True,False,False,Left-arm fast,Left-hand bat
+South Africa,RR Hendricks,b8cc58c9,1,56,43,5,2,130.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,98,0,16,114,35,True,False,False,Right-arm offbreak,Right-hand bat
+South Africa,T Bavuma,9ffd1ac1,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,34,True,False,False,Right-arm medium,Right-hand bat
+South Africa,HE van der Dussen,9948e262,3,21,11,2,2,190.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,47,0,0,47,36,True,False,False,Legbreak,Right-hand bat
+South Africa,AK Markram,6a26221c,4,7,7,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,7,0,0,7,30,True,False,True,Right-arm offbreak,Right-hand bat
+South Africa,D Brevis,844e79d1,5,5,6,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,5,0,8,13,21,True,False,True,Legbreak,Right-hand bat
+South Africa,T Stubbs,85b3fab2,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,24,True,False,False,Right-arm offbreak,Right-hand bat
+South Africa,M Jansen,81c36ee9,7,20,14,3,0,142.86,"[1, 3, 11, 15]",4.0,24,7,0,45,5,2,1,0,0,0,2,11.25,1,0,0,0,2,34,28,8,70,24,True,False,True,Left-arm fast,Right-hand bat
+South Africa,G Coetzee,3204c99f,8,1,2,0,0,50.0,"[4, 6, 13, 18]",4.0,24,9,1,40,6,1,1,0,1,0,1,10.0,0,0,0,0,0,1,52,0,53,24,True,False,False,Right-arm fast,Right-hand bat
+South Africa,LB Williams,a1d95bd8,9,1,2,0,0,50.0,"[5, 7, 17, 19]",4.0,24,8,0,44,4,3,3,0,0,0,1,11.0,0,0,0,0,0,1,85,0,86,31,True,False,False,Right-arm medium-fast,Left-hand bat
+South Africa,L Ngidi,f834dcfc,10,2,3,0,0,66.67,"[2, 9, 14, 20]",4.0,24,4,0,49,7,1,0,0,0,0,0,12.25,0,0,0,0,0,2,-2,0,0,29,True,False,False,Right-arm fast-medium,Right-hand bat
+South Africa,T Shamsi,a03bba42,11,0,2,0,0,0.0,"[8, 10, 12, 16]",4.0,24,7,0,42,3,3,1,0,0,0,1,10.5,0,0,0,0,0,-2,30,0,28,35,True,False,False,Left-arm wrist-spin,Right-hand bat

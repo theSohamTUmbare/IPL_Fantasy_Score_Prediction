@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Deccan Chargers,AC Gilchrist,2b6e6dec,1,71,45,6,5,157.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,1,4,137,0,26,163
-Deccan Chargers,HH Gibbs,e1d1b294,2,13,7,1,1,185.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,23,0,8,31
-Deccan Chargers,VVS Laxman,de8cce37,3,5,10,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,1,0,0,1
-Deccan Chargers,RG Sharma,740742ef,4,52,30,1,5,173.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,100,0,8,108
-Deccan Chargers,SB Styris,57efa3be,5,14,8,0,1,175.0,"[8, 10, 16, 18]",4.0,24,9,0,32,3,1,3,0,0,0,1,8.0,0,0,0,0,0,20,88,0,108
-Deccan Chargers,Y Venugopal Rao,fe763256,6,9,13,0,0,69.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,7,0,8,15
-Deccan Chargers,DB Ravi Teja,b720a5d6,7,8,5,1,0,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20
-Deccan Chargers,FH Edwards,a7c226e1,8,3,2,0,0,150.0,"[1, 3, 15, 19]",4.0,24,10,0,39,6,1,1,0,1,0,1,9.75,0,0,0,0,0,3,43,0,46
-Deccan Chargers,Harmeet Singh,2a72fd4f,10,0,0,0,0,0.0,"[5, 12, 14, 17]",4.0,24,7,0,44,3,2,0,0,0,0,4,11.0,0,0,0,1,0,0,5,6,11
-Deccan Chargers,PP Ojha,6c6591ab,11,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,9,0,27,3,0,1,0,0,0,0,6.75,0,0,0,0,0,0,36,0,36
-Deccan Chargers,RP Singh,c3d1402f,12,0,0,0,0,0.0,"[2, 4, 6, 20]",4.0,24,13,0,17,2,0,2,0,0,0,0,4.25,0,0,0,0,0,0,69,0,69
-Royal Challengers Bangalore,JD Ryder,91ffa6c6,1,0,1,0,0,0.0,"[8, 10, 17]",3.0,18,8,0,29,1,3,1,0,0,0,1,9.67,0,0,0,0,0,-2,33,0,31
-Royal Challengers Bangalore,RV Uthappa,1c17e270,2,12,19,1,0,63.16,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,-2,14,0,6,20
-Royal Challengers Bangalore,JH Kallis,86dc8f2e,3,15,14,3,0,107.14,"[3, 6]",2.0,12,2,0,19,2,1,0,0,0,0,0,9.5,0,0,0,0,0,27,2,0,29
-Royal Challengers Bangalore,KP Pietersen,39f01cdb,4,11,15,1,0,73.33,"[12, 14, 16, 18]",4.0,24,6,0,31,0,2,2,0,0,0,0,7.75,1,0,0,0,0,15,56,8,79
-Royal Challengers Bangalore,R Dravid,0184dc35,5,48,27,5,2,177.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,90,0,0,90
-Royal Challengers Bangalore,V Kohli,ba607b88,6,50,32,7,0,156.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,90,0,8,98
-Royal Challengers Bangalore,R Bishnoi,4d5a1617,7,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Royal Challengers Bangalore,KV Sharma,119678fd,8,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,1,0,6,7
-Royal Challengers Bangalore,P Kumar,e938e1bc,9,14,6,0,2,233.33,"[1, 4, 15, 20]",4.0,24,8,0,37,4,1,1,1,0,0,0,9.25,1,0,0,0,0,26,41,8,75
-Royal Challengers Bangalore,DW Steyn,8fd1a8f5,10,0,0,0,0,0.0,"[2, 5, 19]",3.0,18,9,0,21,2,1,1,0,0,0,0,7.0,1,0,0,0,0,0,36,8,44
-Royal Challengers Bangalore,A Kumble,0c2730df,10,1,1,0,0,100.0,"[7, 9, 11, 13]",4.0,24,6,0,39,0,4,0,0,0,0,0,9.75,0,0,0,0,0,1,6,0,7
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Deccan Chargers,AC Gilchrist,2b6e6dec,1,71,45,6,5,157.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,1,4,137,0,26,163,53,True,True,False,Right-arm offbreak,Left-hand bat
+Deccan Chargers,HH Gibbs,e1d1b294,2,13,7,1,1,185.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,23,0,8,31,51,True,False,False,Right-arm bowler,Right-hand bat
+Deccan Chargers,VVS Laxman,de8cce37,3,5,10,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,1,0,0,1,50,True,False,False,Right-arm offbreak,Right-hand bat
+Deccan Chargers,RG Sharma,740742ef,4,52,30,1,5,173.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,100,0,8,108,37,True,False,False,Right-arm offbreak,Right-hand bat
+Deccan Chargers,SB Styris,57efa3be,5,14,8,0,1,175.0,"[8, 10, 16, 18]",4.0,24,9,0,32,3,1,3,0,0,0,1,8.0,0,0,0,0,0,20,88,0,108,49,True,False,True,Right-arm medium,Right-hand bat
+Deccan Chargers,Y Venugopal Rao,fe763256,6,9,13,0,0,69.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,7,0,8,15,43,True,False,False,Right-arm offbreak,Right-hand bat
+Deccan Chargers,DB Ravi Teja,b720a5d6,7,8,5,1,0,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20,37,True,False,False,Legbreak googly,Right-hand bat
+Deccan Chargers,FH Edwards,a7c226e1,8,3,2,0,0,150.0,"[1, 3, 15, 19]",4.0,24,10,0,39,6,1,1,0,1,0,1,9.75,0,0,0,0,0,3,43,0,46,43,True,False,False,Right-arm fast,Right-hand bat
+Deccan Chargers,Harmeet Singh,2a72fd4f,10,0,0,0,0,0.0,"[5, 12, 14, 17]",4.0,24,7,0,44,3,2,0,0,0,0,4,11.0,0,0,0,1,0,0,5,6,11,37,True,False,False,Right-arm medium,Right-hand bat
+Deccan Chargers,PP Ojha,6c6591ab,11,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,9,0,27,3,0,1,0,0,0,0,6.75,0,0,0,0,0,0,36,0,36,38,True,False,False,Slow left-arm orthodox,Left-hand bat
+Deccan Chargers,RP Singh,c3d1402f,12,0,0,0,0,0.0,"[2, 4, 6, 20]",4.0,24,13,0,17,2,0,2,0,0,0,0,4.25,0,0,0,0,0,0,69,0,69,39,True,False,False,Left-arm fast-medium,Right-hand bat
+Royal Challengers Bangalore,JD Ryder,91ffa6c6,1,0,1,0,0,0.0,"[8, 10, 17]",3.0,18,8,0,29,1,3,1,0,0,0,1,9.67,0,0,0,0,0,-2,33,0,31,40,True,False,True,Right-arm medium,Left-hand bat
+Royal Challengers Bangalore,RV Uthappa,1c17e270,2,12,19,1,0,63.16,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,-2,14,0,6,20,39,True,False,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,JH Kallis,86dc8f2e,3,15,14,3,0,107.14,"[3, 6]",2.0,12,2,0,19,2,1,0,0,0,0,0,9.5,0,0,0,0,0,27,2,0,29,49,True,False,True,Right-arm fast-medium,Right-hand bat
+Royal Challengers Bangalore,KP Pietersen,39f01cdb,4,11,15,1,0,73.33,"[12, 14, 16, 18]",4.0,24,6,0,31,0,2,2,0,0,0,0,7.75,1,0,0,0,0,15,56,8,79,44,True,False,False,Right-arm offbreak,Right-hand bat
+Royal Challengers Bangalore,R Dravid,0184dc35,5,48,27,5,2,177.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,90,0,0,90,52,True,False,False,Right-arm offbreak,Right-hand bat
+Royal Challengers Bangalore,V Kohli,ba607b88,6,50,32,7,0,156.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,90,0,8,98,36,True,False,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,R Bishnoi,4d5a1617,7,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,37,True,False,False,Right-arm medium-fast,Right-hand bat
+Royal Challengers Bangalore,KV Sharma,119678fd,8,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,1,0,6,7,37,True,False,False,Legbreak googly,Left-hand bat
+Royal Challengers Bangalore,P Kumar,e938e1bc,9,14,6,0,2,233.33,"[1, 4, 15, 20]",4.0,24,8,0,37,4,1,1,1,0,0,0,9.25,1,0,0,0,0,26,41,8,75,38,True,False,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,DW Steyn,8fd1a8f5,10,0,0,0,0,0.0,"[2, 5, 19]",3.0,18,9,0,21,2,1,1,0,0,0,0,7.0,1,0,0,0,0,0,36,8,44,41,True,False,False,Right-arm fast,Right-hand bat
+Royal Challengers Bangalore,A Kumble,0c2730df,10,1,1,0,0,100.0,"[7, 9, 11, 13]",4.0,24,6,0,39,0,4,0,0,0,0,0,9.75,0,0,0,0,0,1,6,0,7,54,True,False,False,Legbreak googly,Right-hand bat

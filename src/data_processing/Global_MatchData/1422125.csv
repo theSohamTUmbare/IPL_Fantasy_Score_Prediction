@@ -1,25 +1,25 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Chennai Super Kings,RD Gaikwad,45a43fe2,1,46,36,5,1,127.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,76,0,0,76
-Chennai Super Kings,R Ravindra,ba5e1069,2,46,20,6,3,230.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,6,98,0,28,126
-Chennai Super Kings,AM Rahane,29e95537,3,12,12,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24
-Chennai Super Kings,S Dube,a4e37e47,4,51,23,2,5,221.74,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,103,0,0,103
-Chennai Super Kings,DJ Mitchell,eade4650,5,24,20,2,0,120.0,"[8, 10]",2.0,12,2,0,18,2,0,1,0,0,0,1,9.0,0,0,0,0,0,32,27,0,59
-Chennai Super Kings,Sameer Rizvi,f89d3b11,6,14,6,0,2,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,26,0,8,34
-Chennai Super Kings,RA Jadeja,fe93fd9d,7,7,3,1,0,233.33,"[7, 13]",2.0,12,2,0,15,1,0,0,0,0,0,0,7.5,0,0,0,0,0,11,2,0,13
-Chennai Super Kings,M Pathirana,64839cb3,10,0,0,0,0,0.0,"[9, 15, 18, 20]",4.0,24,13,0,29,2,1,1,0,0,0,5,7.25,0,0,0,0,0,0,38,0,38
-Chennai Super Kings,MS Dhoni,4a8a2e3b,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Chennai Super Kings,DL Chahar,23eeb873,12,0,0,0,0,0.0,"[1, 3, 5, 14]",4.0,24,11,0,28,2,1,2,1,0,0,3,7.0,0,0,0,0,0,0,71,0,71
-Chennai Super Kings,TU Deshpande,46a9bea1,13,0,0,0,0,0.0,"[4, 6, 12, 16]",4.0,24,11,0,21,1,1,2,0,0,0,0,5.25,1,0,0,0,0,0,65,8,73
-Chennai Super Kings,Mustafizur Rahman,0a8fce53,14,0,0,0,0,0.0,"[2, 11, 17, 19]",4.0,24,9,0,30,5,0,2,0,0,0,0,7.5,0,0,0,0,0,0,59,0,59
-Gujarat Titans,WP Saha,fe11caa6,1,21,17,4,0,123.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,2,0,1,0,37,0,38,75
-Gujarat Titans,Shubman Gill,b4b99816,2,8,5,0,1,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
-Gujarat Titans,B Sai Sudharsan,d5130a30,3,37,31,3,0,119.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,53,0,0,53
-Gujarat Titans,V Shankar,0994d0ae,4,12,12,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,18,0,14,32
-Gujarat Titans,DA Miller,d67d5f00,5,21,16,3,0,131.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,35,0,8,43
-Gujarat Titans,Azmatullah Omarzai,8f6dd463,6,11,10,1,0,110.0,"[1, 3, 5]",3.0,18,6,0,30,4,1,0,0,0,0,1,10.0,0,0,0,0,0,15,4,0,19
-Gujarat Titans,R Tewatia,39a2dfa8,7,6,11,1,0,54.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,6,0,0,6
-Gujarat Titans,Rashid Khan,5f547c8b,8,1,2,0,0,50.0,"[6, 8, 14, 19]",4.0,24,4,0,49,4,3,2,0,0,0,0,12.25,0,0,0,0,0,1,48,0,49
-Gujarat Titans,UT Yadav,cc1e8c68,9,10,11,0,1,90.91,"[2, 4]",2.0,12,5,0,27,3,2,0,0,0,0,1,13.5,0,0,0,0,0,16,-1,0,15
-Gujarat Titans,MM Sharma,759ac88f,10,0,0,0,0,0.0,"[12, 16, 18, 20]",4.0,24,4,0,36,2,1,1,0,0,0,1,9.0,0,0,0,0,0,0,29,0,29
-Gujarat Titans,SH Johnson,83c3e8e3,10,5,5,1,0,100.0,"[10, 13, 15, 17]",4.0,24,8,0,35,3,2,1,0,0,0,0,8.75,0,0,0,0,0,9,33,0,42
-Gujarat Titans,R Sai Kishore,c7a995d3,11,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,6,0,28,1,2,1,0,0,0,2,9.33,0,0,0,0,0,0,31,0,31
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Chennai Super Kings,RD Gaikwad,45a43fe2,1,46,36,5,1,127.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,76,0,0,76,28,True,False,False,Right-arm offbreak,Right-hand bat
+Chennai Super Kings,R Ravindra,ba5e1069,2,46,20,6,3,230.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,6,98,0,28,126,25,True,False,True,Slow left-arm orthodox,Left-hand bat
+Chennai Super Kings,AM Rahane,29e95537,3,12,12,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24,36,True,False,False,Right-arm medium,Right-hand bat
+Chennai Super Kings,S Dube,a4e37e47,4,51,23,2,5,221.74,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,103,0,0,103,31,True,False,True,Right-arm medium,Left-hand bat
+Chennai Super Kings,DJ Mitchell,eade4650,5,24,20,2,0,120.0,"[8, 10]",2.0,12,2,0,18,2,0,1,0,0,0,1,9.0,0,0,0,0,0,32,27,0,59,33,True,False,True,Right-arm medium,Right-hand bat
+Chennai Super Kings,Sameer Rizvi,f89d3b11,6,14,6,0,2,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,26,0,8,34,21,True,False,False,Right-arm offbreak,Right-hand bat
+Chennai Super Kings,RA Jadeja,fe93fd9d,7,7,3,1,0,233.33,"[7, 13]",2.0,12,2,0,15,1,0,0,0,0,0,0,7.5,0,0,0,0,0,11,2,0,13,36,True,False,True,Slow left-arm orthodox,Left-hand bat
+Chennai Super Kings,M Pathirana,64839cb3,10,0,0,0,0,0.0,"[9, 15, 18, 20]",4.0,24,13,0,29,2,1,1,0,0,0,5,7.25,0,0,0,0,0,0,38,0,38,22,True,False,False,Right-arm fast,Right-hand bat
+Chennai Super Kings,MS Dhoni,4a8a2e3b,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,43,True,True,False,Right-arm medium,Right-hand bat
+Chennai Super Kings,DL Chahar,23eeb873,12,0,0,0,0,0.0,"[1, 3, 5, 14]",4.0,24,11,0,28,2,1,2,1,0,0,3,7.0,0,0,0,0,0,0,71,0,71,32,True,False,False,Right-arm medium,Right-hand bat
+Chennai Super Kings,TU Deshpande,46a9bea1,13,0,0,0,0,0.0,"[4, 6, 12, 16]",4.0,24,11,0,21,1,1,2,0,0,0,0,5.25,1,0,0,0,0,0,65,8,73,29,True,False,False,Right-arm medium,Left-hand bat
+Chennai Super Kings,Mustafizur Rahman,0a8fce53,14,0,0,0,0,0.0,"[2, 11, 17, 19]",4.0,24,9,0,30,5,0,2,0,0,0,0,7.5,0,0,0,0,0,0,59,0,59,29,True,False,False,Left-arm fast-medium,Left-hand bat
+Gujarat Titans,WP Saha,fe11caa6,1,21,17,4,0,123.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,2,0,1,0,37,0,38,75,40,True,False,False,,Right-hand bat
+Gujarat Titans,Shubman Gill,b4b99816,2,8,5,0,1,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,25,True,False,False,Right-arm offbreak,Right-hand bat
+Gujarat Titans,B Sai Sudharsan,d5130a30,3,37,31,3,0,119.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,53,0,0,53,23,True,False,False,Legbreak,Left-hand bat
+Gujarat Titans,V Shankar,0994d0ae,4,12,12,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,18,0,14,32,34,True,False,True,Right-arm medium,Right-hand bat
+Gujarat Titans,DA Miller,d67d5f00,5,21,16,3,0,131.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,35,0,8,43,35,True,False,False,Right-arm offbreak,Left-hand bat
+Gujarat Titans,Azmatullah Omarzai,8f6dd463,6,11,10,1,0,110.0,"[1, 3, 5]",3.0,18,6,0,30,4,1,0,0,0,0,1,10.0,0,0,0,0,0,15,4,0,19,25,True,False,True,Right-arm medium-fast,Right-hand bat
+Gujarat Titans,R Tewatia,39a2dfa8,7,6,11,1,0,54.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,6,0,0,6,31,True,False,True,Legbreak,Left-hand bat
+Gujarat Titans,Rashid Khan,5f547c8b,8,1,2,0,0,50.0,"[6, 8, 14, 19]",4.0,24,4,0,49,4,3,2,0,0,0,0,12.25,0,0,0,0,0,1,48,0,49,26,True,False,True,Legbreak googly,Right-hand bat
+Gujarat Titans,UT Yadav,cc1e8c68,9,10,11,0,1,90.91,"[2, 4]",2.0,12,5,0,27,3,2,0,0,0,0,1,13.5,0,0,0,0,0,16,-1,0,15,37,True,False,False,Right-arm fast,Right-hand bat
+Gujarat Titans,MM Sharma,759ac88f,10,0,0,0,0,0.0,"[12, 16, 18, 20]",4.0,24,4,0,36,2,1,1,0,0,0,1,9.0,0,0,0,0,0,0,29,0,29,36,True,False,False,Right-arm medium,Right-hand bat
+Gujarat Titans,SH Johnson,83c3e8e3,10,5,5,1,0,100.0,"[10, 13, 15, 17]",4.0,24,8,0,35,3,2,1,0,0,0,0,8.75,0,0,0,0,0,9,33,0,42,29,True,False,False,Left-arm fast,Left-hand bat
+Gujarat Titans,R Sai Kishore,c7a995d3,11,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,6,0,28,1,2,1,0,0,0,2,9.33,0,0,0,0,0,0,31,0,31,28,True,False,False,Slow left-arm orthodox,Left-hand bat

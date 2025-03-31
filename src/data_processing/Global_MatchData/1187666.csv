@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-England,JM Bairstow,abb83e27,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-England,DJ Malan,ad9c32a2,2,39,29,2,2,134.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,65,0,0,65
-England,JM Vince,a15618fe,3,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,1,0,16,17
-England,EJG Morgan,d2a6c0e6,4,32,17,3,3,188.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,72,0,0,72
-England,SW Billings,c16d4035,5,8,10,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16
-England,SM Curran,e94915e6,6,9,6,1,0,150.0,"[1, 3, 14, 16]",4.0,24,8,0,22,0,1,2,1,0,0,2,5.5,0,0,0,0,0,13,70,0,83
-England,L Gregory,06c2de82,7,15,15,0,1,100.0,"[11, 13]",2.0,12,5,0,10,1,0,1,0,1,0,0,5.0,0,0,0,0,0,21,42,0,63
-England,CJ Jordan,ffe699c0,8,36,19,3,3,189.47,"[4, 6, 18, 20]",4.0,24,12,0,23,1,1,3,1,0,0,0,5.75,1,0,0,0,6,76,103,8,187
-England,AU Rashid,249d60c9,9,4,6,0,0,66.67,"[8, 10, 12, 15]",4.0,24,9,0,40,3,3,1,0,0,0,0,10.0,0,0,0,0,0,4,32,0,36
-England,S Mahmood,0f6db197,10,4,3,1,0,133.33,"[2, 7, 17, 19]",4.0,24,4,0,46,2,4,1,0,0,0,0,11.5,0,0,0,0,0,8,25,0,33
-England,PR Brown,1efd12d1,11,4,9,0,0,44.44,"[5, 9]",2.0,12,1,0,32,2,3,0,0,0,0,0,16.0,1,0,0,0,0,4,-5,8,7
-New Zealand,MJ Guptill,2be41edb,1,41,28,3,2,146.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,71,0,16,87
-New Zealand,C Munro,af2c687b,2,7,5,0,1,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
-New Zealand,TL Seifert,4663bd23,3,16,15,1,1,106.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26
-New Zealand,C de Grandhomme,94d7f855,4,28,12,1,3,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,4,0,0,0,6,60,0,36,96
-New Zealand,LRPL Taylor,b61a3e1a,5,28,24,2,1,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,46,0,0,46
-New Zealand,DJ Mitchell,eade4650,6,5,9,0,0,55.56,"[8, 20]",1.833,11,5,0,9,1,0,1,0,1,0,0,4.91,1,0,0,0,0,5,38,8,51
-New Zealand,JDS Neesham,9219eff0,7,42,22,2,4,190.91,"[6, 10]",2.0,12,1,0,23,2,1,0,0,0,0,0,11.5,0,0,0,0,6,84,-3,0,81
-New Zealand,MJ Santner,e4a0deae,8,0,2,0,0,0.0,"[5, 11, 13, 16]",4.0,24,12,0,25,1,2,3,0,0,0,0,6.25,1,0,0,0,0,-2,93,8,99
-New Zealand,TG Southee,13c35c9e,9,4,3,0,0,133.33,"[1, 3, 17, 19]",4.0,24,9,0,25,0,2,2,0,0,0,0,6.25,1,0,0,0,0,4,61,8,73
-New Zealand,IS Sodhi,641ac5ff,11,0,0,0,0,0.0,"[7, 9, 12, 14]",4.0,24,7,0,37,1,3,2,0,0,0,1,9.25,0,0,0,0,0,0,57,0,57
-New Zealand,LH Ferguson,2f9d0389,12,0,0,0,0,0.0,"[2, 4, 15, 18]",4.0,24,12,0,34,5,1,2,0,0,0,0,8.5,0,0,0,0,0,0,62,0,62
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+England,JM Bairstow,abb83e27,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,35,True,True,False,Right-arm medium,Right-hand bat
+England,DJ Malan,ad9c32a2,2,39,29,2,2,134.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,65,0,0,65,37,True,False,False,Legbreak,Left-hand bat
+England,JM Vince,a15618fe,3,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,1,0,16,17,34,True,False,False,Right-arm medium,Right-hand bat
+England,EJG Morgan,d2a6c0e6,4,32,17,3,3,188.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,72,0,0,72,38,True,False,False,Right-arm medium,Left-hand bat
+England,SW Billings,c16d4035,5,8,10,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16,33,True,False,False,,Right-hand bat
+England,SM Curran,e94915e6,6,9,6,1,0,150.0,"[1, 3, 14, 16]",4.0,24,8,0,22,0,1,2,1,0,0,2,5.5,0,0,0,0,0,13,70,0,83,26,True,False,True,Left-arm medium-fast,Left-hand bat
+England,L Gregory,06c2de82,7,15,15,0,1,100.0,"[11, 13]",2.0,12,5,0,10,1,0,1,0,1,0,0,5.0,0,0,0,0,0,21,42,0,63,32,True,False,True,Right-arm medium-fast,Right-hand bat
+England,CJ Jordan,ffe699c0,8,36,19,3,3,189.47,"[4, 6, 18, 20]",4.0,24,12,0,23,1,1,3,1,0,0,0,5.75,1,0,0,0,6,76,103,8,187,36,True,False,False,Right-arm fast-medium,Right-hand bat
+England,AU Rashid,249d60c9,9,4,6,0,0,66.67,"[8, 10, 12, 15]",4.0,24,9,0,40,3,3,1,0,0,0,0,10.0,0,0,0,0,0,4,32,0,36,37,True,False,False,Legbreak,Right-hand bat
+England,S Mahmood,0f6db197,10,4,3,1,0,133.33,"[2, 7, 17, 19]",4.0,24,4,0,46,2,4,1,0,0,0,0,11.5,0,0,0,0,0,8,25,0,33,28,True,False,False,Right-arm fast-medium,Right-hand bat
+England,PR Brown,1efd12d1,11,4,9,0,0,44.44,"[5, 9]",2.0,12,1,0,32,2,3,0,0,0,0,0,16.0,1,0,0,0,0,4,-5,8,7,26,True,False,False,Right-arm fast-medium,Right-hand bat
+New Zealand,MJ Guptill,2be41edb,1,41,28,3,2,146.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,71,0,16,87,38,True,False,False,Right-arm offbreak,Right-hand bat
+New Zealand,C Munro,af2c687b,2,7,5,0,1,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,38,True,False,False,Right-arm medium-fast,Left-hand bat
+New Zealand,TL Seifert,4663bd23,3,16,15,1,1,106.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26,30,True,False,False,,Right-hand bat
+New Zealand,C de Grandhomme,94d7f855,4,28,12,1,3,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,4,0,0,0,6,60,0,36,96,38,True,False,True,Right-arm medium-fast,Right-hand bat
+New Zealand,LRPL Taylor,b61a3e1a,5,28,24,2,1,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,46,0,0,46,41,True,False,False,Right-arm offbreak,Right-hand bat
+New Zealand,DJ Mitchell,eade4650,6,5,9,0,0,55.56,"[8, 20]",1.833,11,5,0,9,1,0,1,0,1,0,0,4.91,1,0,0,0,0,5,38,8,51,33,True,False,True,Right-arm medium,Right-hand bat
+New Zealand,JDS Neesham,9219eff0,7,42,22,2,4,190.91,"[6, 10]",2.0,12,1,0,23,2,1,0,0,0,0,0,11.5,0,0,0,0,6,84,-3,0,81,34,True,False,True,Right-arm medium-fast,Left-hand bat
+New Zealand,MJ Santner,e4a0deae,8,0,2,0,0,0.0,"[5, 11, 13, 16]",4.0,24,12,0,25,1,2,3,0,0,0,0,6.25,1,0,0,0,0,-2,93,8,99,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+New Zealand,TG Southee,13c35c9e,9,4,3,0,0,133.33,"[1, 3, 17, 19]",4.0,24,9,0,25,0,2,2,0,0,0,0,6.25,1,0,0,0,0,4,61,8,73,36,True,False,False,Right-arm medium-fast,Right-hand bat
+New Zealand,IS Sodhi,641ac5ff,11,0,0,0,0,0.0,"[7, 9, 12, 14]",4.0,24,7,0,37,1,3,2,0,0,0,1,9.25,0,0,0,0,0,0,57,0,57,32,True,False,False,Legbreak,Right-hand bat
+New Zealand,LH Ferguson,2f9d0389,12,0,0,0,0,0.0,"[2, 4, 15, 18]",4.0,24,12,0,34,5,1,2,0,0,0,0,8.5,0,0,0,0,0,0,62,0,62,33,True,False,False,Right-arm fast,Right-hand bat

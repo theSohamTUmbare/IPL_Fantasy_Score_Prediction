@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Delhi,G Gambhir,bb345e0b,1,21,21,2,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,35,0,8,43
-Delhi,RR Pant,919a3be2,2,58,33,7,3,175.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,6,118,0,28,146
-Delhi,DR Shorey,faa7365d,3,28,24,2,1,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,46,0,0,46
-Delhi,PJ Sangwan,9fc0ef64,4,0,0,0,0,0.0,"[1, 3, 14, 16]",4.0,24,9,0,33,6,0,1,0,0,0,0,8.25,1,0,0,0,0,0,34,8,42
-Delhi,N Rana,fb2d1dda,4,34,14,3,3,242.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,74,0,8,82
-Delhi,Lalit Yadav,ad427b5c,5,0,0,0,0,0.0,"[2, 4]",2.0,12,6,0,16,3,0,1,0,0,0,0,8.0,0,0,0,0,0,0,31,0,31
-Delhi,P Negi,f62772e5,6,0,0,0,0,0.0,"[5, 7, 9, 15]",4.0,24,8,0,21,1,0,0,0,0,0,1,5.25,0,0,0,0,0,0,12,0,12
-Delhi,K Khejroliya,fa2f1dde,7,0,0,0,0,0.0,"[6, 8, 17, 19]",4.0,24,11,0,26,3,1,4,0,0,0,0,6.5,0,0,0,0,0,0,121,0,121
-Delhi,V Tokas,cce2bcb2,8,0,0,0,0,0.0,"[10, 12]",2.0,12,6,0,17,2,1,0,0,0,0,0,8.5,0,0,0,0,0,0,6,0,6
-Delhi,Suboth Bhati,bee290b6,9,0,0,0,0,0.0,"[11, 13, 18, 20]",4.0,24,10,0,31,4,1,1,0,1,0,0,7.75,0,0,0,0,0,0,43,0,43
-Delhi,Milind Kumar,b4296080,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Tamil Nadu,K Bharath Shankar,6099fd3f,1,24,17,5,0,141.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,46,0,0,46
-Tamil Nadu,Washington Sundar,f19ccfad,2,10,9,2,0,111.11,"[6, 8, 12, 14]",4.0,24,9,0,32,2,2,2,0,0,0,0,8.0,0,0,0,0,0,18,59,0,77
-Tamil Nadu,GS Raju,c07799c6,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Tamil Nadu,R Sai Kishore,c7a995d3,4,0,0,0,0,0.0,"[7, 9]",2.0,12,3,0,23,3,1,0,0,0,0,0,11.5,0,0,0,0,0,0,-1,0,-1
-Tamil Nadu,B Aparajith,5b627626,4,45,32,7,0,140.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,79,0,0,79
-Tamil Nadu,V Athisayaraj Davidson,70eb694b,5,0,0,0,0,0.0,"[5, 10, 15]",3.0,18,8,0,28,4,1,0,0,0,0,1,9.33,2,0,0,0,0,0,8,16,24
-Tamil Nadu,V Shankar,0994d0ae,5,57,48,4,3,118.75,"[4, 13]",2.0,12,4,0,15,1,1,0,0,0,0,0,7.5,0,0,0,0,0,99,4,0,103
-Tamil Nadu,Krishnamoorthy Vignesh,529fbf1b,6,0,0,0,0,0.0,"[1, 3, 16]",2.333,14,6,0,20,2,1,0,0,0,0,2,8.57,0,0,0,0,0,0,6,0,6
-Tamil Nadu,N Jagadeesan,bd54eef5,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Tamil Nadu,R Sanjay Yadav,33ffc3dd,7,6,9,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
-Tamil Nadu,M Mohammed,1b7c4d69,8,1,2,0,0,50.0,"[2, 11]",2.0,12,2,0,26,2,2,0,0,0,0,0,13.0,0,0,0,0,0,1,-4,0,-3
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Delhi,G Gambhir,bb345e0b,1,21,21,2,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,35,0,8,43,43,True,False,False,Legbreak,Left-hand bat
+Delhi,RR Pant,919a3be2,2,58,33,7,3,175.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,6,118,0,28,146,27,True,False,False,,Left-hand bat
+Delhi,DR Shorey,faa7365d,3,28,24,2,1,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,46,0,0,46,32,True,False,False,Right-arm offbreak,Right-hand bat
+Delhi,PJ Sangwan,9fc0ef64,4,0,0,0,0,0.0,"[1, 3, 14, 16]",4.0,24,9,0,33,6,0,1,0,0,0,0,8.25,1,0,0,0,0,0,34,8,42,34,True,False,False,Left-arm medium,Right-hand bat
+Delhi,N Rana,fb2d1dda,4,34,14,3,3,242.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,74,0,8,82,31,True,False,False,Legbreak,Left-hand bat
+Delhi,Lalit Yadav,ad427b5c,5,0,0,0,0,0.0,"[2, 4]",2.0,12,6,0,16,3,0,1,0,0,0,0,8.0,0,0,0,0,0,0,31,0,31,28,True,False,True,Right-arm offbreak,Right-hand bat
+Delhi,P Negi,f62772e5,6,0,0,0,0,0.0,"[5, 7, 9, 15]",4.0,24,8,0,21,1,0,0,0,0,0,1,5.25,0,0,0,0,0,0,12,0,12,32,True,False,False,Slow left-arm orthodox,Left-hand bat
+Delhi,K Khejroliya,fa2f1dde,7,0,0,0,0,0.0,"[6, 8, 17, 19]",4.0,24,11,0,26,3,1,4,0,0,0,0,6.5,0,0,0,0,0,0,121,0,121,33,True,False,False,Left-arm medium-fast,Left-hand bat
+Delhi,V Tokas,cce2bcb2,8,0,0,0,0,0.0,"[10, 12]",2.0,12,6,0,17,2,1,0,0,0,0,0,8.5,0,0,0,0,0,0,6,0,6,38,True,False,False,Right-arm medium,Right-hand bat
+Delhi,Suboth Bhati,bee290b6,9,0,0,0,0,0.0,"[11, 13, 18, 20]",4.0,24,10,0,31,4,1,1,0,1,0,0,7.75,0,0,0,0,0,0,43,0,43,34,True,False,False,Right-arm medium,Right-hand bat
+Delhi,Milind Kumar,b4296080,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,34,True,False,True,Right-arm offbreak,Right-hand bat
+Tamil Nadu,K Bharath Shankar,6099fd3f,1,24,17,5,0,141.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,46,0,0,46,30,True,True,False,Right-arm offbreak,Right-hand bat
+Tamil Nadu,Washington Sundar,f19ccfad,2,10,9,2,0,111.11,"[6, 8, 12, 14]",4.0,24,9,0,32,2,2,2,0,0,0,0,8.0,0,0,0,0,0,18,59,0,77,25,True,False,True,Right-arm offbreak,Left-hand bat
+Tamil Nadu,GS Raju,c07799c6,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,31,True,False,False,Legbreak googly,Left-hand bat
+Tamil Nadu,R Sai Kishore,c7a995d3,4,0,0,0,0,0.0,"[7, 9]",2.0,12,3,0,23,3,1,0,0,0,0,0,11.5,0,0,0,0,0,0,-1,0,-1,28,True,False,False,Slow left-arm orthodox,Left-hand bat
+Tamil Nadu,B Aparajith,5b627626,4,45,32,7,0,140.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,79,0,0,79,30,True,False,True,Right-arm offbreak,Right-hand bat
+Tamil Nadu,V Athisayaraj Davidson,70eb694b,5,0,0,0,0,0.0,"[5, 10, 15]",3.0,18,8,0,28,4,1,0,0,0,0,1,9.33,2,0,0,0,0,0,8,16,24,32,True,False,False,Right-arm medium-fast,Right-hand bat
+Tamil Nadu,V Shankar,0994d0ae,5,57,48,4,3,118.75,"[4, 13]",2.0,12,4,0,15,1,1,0,0,0,0,0,7.5,0,0,0,0,0,99,4,0,103,34,True,False,True,Right-arm medium,Right-hand bat
+Tamil Nadu,Krishnamoorthy Vignesh,529fbf1b,6,0,0,0,0,0.0,"[1, 3, 16]",2.333,14,6,0,20,2,1,0,0,0,0,2,8.57,0,0,0,0,0,0,6,0,6,30,True,False,False,Right-arm medium,Right-hand bat
+Tamil Nadu,N Jagadeesan,bd54eef5,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,29,True,False,False,,Right-hand bat
+Tamil Nadu,R Sanjay Yadav,33ffc3dd,7,6,9,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,29,True,False,True,Slow left-arm orthodox,Left-hand bat
+Tamil Nadu,M Mohammed,1b7c4d69,8,1,2,0,0,50.0,"[2, 11]",2.0,12,2,0,26,2,2,0,0,0,0,0,13.0,0,0,0,0,0,1,-4,0,-3,33,True,False,False,Right-arm medium,Right-hand bat

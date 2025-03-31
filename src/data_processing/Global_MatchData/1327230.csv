@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-England,PD Salt,3d284ca3,1,8,6,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
-England,WG Jacks,9caf69a1,2,40,22,8,0,181.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,82,0,0,82
-England,DJ Malan,ad9c32a2,3,14,15,2,0,93.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
-England,BM Duckett,5f26f677,4,70,42,8,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,120,0,0,120
-England,HC Brook,4ae1755b,5,81,35,8,5,231.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,161,0,16,177
-England,MM Ali,bb351c23,10,0,0,0,0,0.0,"[8, 11, 13]",3.0,18,3,0,30,1,2,0,0,0,1,0,10.0,0,0,1,0,0,0,1,12,13
-England,SM Curran,e94915e6,11,0,0,0,0,0.0,"[6, 10, 14, 16]",4.0,24,7,0,37,2,2,1,0,0,0,2,9.25,1,0,0,0,0,0,32,8,40
-England,LA Dawson,4a461c24,12,0,0,0,0,0.0,[1],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,0,0,2,0,2
-England,AU Rashid,249d60c9,13,0,0,0,0,0.0,"[7, 9, 12, 18]",4.0,24,7,0,32,2,2,2,0,0,0,0,8.0,1,0,0,0,0,0,57,8,65
-England,MA Wood,8d92a2c3,14,0,0,0,0,0.0,"[3, 5, 15, 19]",4.0,24,12,0,24,4,0,3,0,0,0,1,6.0,0,0,0,0,0,0,93,0,93
-England,RJW Topley,8db7f47f,15,0,0,0,0,0.0,"[2, 4, 17, 20]",4.0,24,6,0,22,1,0,1,0,1,0,0,5.5,2,0,0,0,0,0,43,16,59
-Pakistan,Mohammad Rizwan,2f26ac1a,1,8,14,1,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,8,0,0,8
-Pakistan,Babar Azam,8a75e999,2,8,6,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
-Pakistan,Haider Ali,c13e34f4,3,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11
-Pakistan,Shan Masood,6843a783,4,65,39,3,4,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,113,0,0,113
-Pakistan,Iftikhar Ahmed,29e253dd,5,6,7,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
-Pakistan,Khushdil Shah,fce581b5,6,29,21,1,2,138.1,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,51,0,0,51
-Pakistan,Mohammad Nawaz,3086f7a4,7,19,21,2,0,90.48,"[2, 8, 10, 12]",4.0,24,3,0,34,4,0,0,0,0,0,0,8.5,2,0,0,0,0,27,3,16,46
-Pakistan,Usman Qadir,33742f04,8,0,1,0,0,0.0,"[7, 9, 11, 13]",4.0,24,4,0,48,6,2,2,0,0,0,0,12.0,0,0,0,0,0,0,50,0,50
-Pakistan,Haris Rauf,24bb1c2f,9,4,2,1,0,200.0,"[5, 14, 17, 20]",4.0,24,6,0,39,4,1,0,0,0,0,2,9.75,0,0,0,0,0,8,6,0,14
-Pakistan,Mohammad Hasnain,8596fe80,10,6,4,1,0,150.0,"[1, 3, 15, 18]",4.0,24,7,0,36,4,1,1,0,0,0,2,9.0,0,0,0,0,0,10,32,0,42
-Pakistan,Shahnawaz Dhani,7ccbb09f,10,0,0,0,0,0.0,"[4, 6, 16, 19]",4.0,24,5,0,62,9,2,0,0,0,0,2,15.5,0,0,0,0,0,0,-1,0,-1
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+England,PD Salt,3d284ca3,1,8,6,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,28,True,True,False,Right-arm offbreak,Right-hand bat
+England,WG Jacks,9caf69a1,2,40,22,8,0,181.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,82,0,0,82,26,True,False,True,Right-arm offbreak,Right-hand bat
+England,DJ Malan,ad9c32a2,3,14,15,2,0,93.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,37,True,False,False,Legbreak,Left-hand bat
+England,BM Duckett,5f26f677,4,70,42,8,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,120,0,0,120,30,True,False,False,Right-arm offbreak,Left-hand bat
+England,HC Brook,4ae1755b,5,81,35,8,5,231.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,161,0,16,177,26,True,False,False,Right-arm medium,Right-hand bat
+England,MM Ali,bb351c23,10,0,0,0,0,0.0,"[8, 11, 13]",3.0,18,3,0,30,1,2,0,0,0,1,0,10.0,0,0,1,0,0,0,1,12,13,37,True,False,True,Right-arm offbreak,Left-hand bat
+England,SM Curran,e94915e6,11,0,0,0,0,0.0,"[6, 10, 14, 16]",4.0,24,7,0,37,2,2,1,0,0,0,2,9.25,1,0,0,0,0,0,32,8,40,26,True,False,True,Left-arm medium-fast,Left-hand bat
+England,LA Dawson,4a461c24,12,0,0,0,0,0.0,[1],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,0,0,2,0,2,35,True,False,True,Slow left-arm orthodox,Right-hand bat
+England,AU Rashid,249d60c9,13,0,0,0,0,0.0,"[7, 9, 12, 18]",4.0,24,7,0,32,2,2,2,0,0,0,0,8.0,1,0,0,0,0,0,57,8,65,37,True,False,False,Legbreak,Right-hand bat
+England,MA Wood,8d92a2c3,14,0,0,0,0,0.0,"[3, 5, 15, 19]",4.0,24,12,0,24,4,0,3,0,0,0,1,6.0,0,0,0,0,0,0,93,0,93,35,True,False,False,Right-arm fast,Right-hand bat
+England,RJW Topley,8db7f47f,15,0,0,0,0,0.0,"[2, 4, 17, 20]",4.0,24,6,0,22,1,0,1,0,1,0,0,5.5,2,0,0,0,0,0,43,16,59,31,True,False,False,Left-arm fast-medium,Right-hand bat
+Pakistan,Mohammad Rizwan,2f26ac1a,1,8,14,1,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,8,0,0,8,32,True,True,False,Right-arm medium,Right-hand bat
+Pakistan,Babar Azam,8a75e999,2,8,6,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,30,True,False,False,Right-arm offbreak,Right-hand bat
+Pakistan,Haider Ali,c13e34f4,3,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11,24,True,False,False,,Right-hand bat
+Pakistan,Shan Masood,6843a783,4,65,39,3,4,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,113,0,0,113,35,True,False,False,Right-arm medium-fast,Left-hand bat
+Pakistan,Iftikhar Ahmed,29e253dd,5,6,7,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,34,True,False,False,Right-arm offbreak,Right-hand bat
+Pakistan,Khushdil Shah,fce581b5,6,29,21,1,2,138.1,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,51,0,0,51,30,True,False,True,Slow left-arm orthodox,Left-hand bat
+Pakistan,Mohammad Nawaz,3086f7a4,7,19,21,2,0,90.48,"[2, 8, 10, 12]",4.0,24,3,0,34,4,0,0,0,0,0,0,8.5,2,0,0,0,0,27,3,16,46,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Pakistan,Usman Qadir,33742f04,8,0,1,0,0,0.0,"[7, 9, 11, 13]",4.0,24,4,0,48,6,2,2,0,0,0,0,12.0,0,0,0,0,0,0,50,0,50,31,True,False,False,Legbreak,Left-hand bat
+Pakistan,Haris Rauf,24bb1c2f,9,4,2,1,0,200.0,"[5, 14, 17, 20]",4.0,24,6,0,39,4,1,0,0,0,0,2,9.75,0,0,0,0,0,8,6,0,14,31,True,False,False,Right-arm fast,Right-hand bat
+Pakistan,Mohammad Hasnain,8596fe80,10,6,4,1,0,150.0,"[1, 3, 15, 18]",4.0,24,7,0,36,4,1,1,0,0,0,2,9.0,0,0,0,0,0,10,32,0,42,24,True,False,False,Right-arm fast,Right-hand bat
+Pakistan,Shahnawaz Dhani,7ccbb09f,10,0,0,0,0,0.0,"[4, 6, 16, 19]",4.0,24,5,0,62,9,2,0,0,0,0,2,15.5,0,0,0,0,0,0,-1,0,-1,26,True,False,False,Right-arm fast-medium,Right-hand bat

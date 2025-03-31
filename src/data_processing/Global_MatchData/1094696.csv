@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Barbados Tridents,DR Smith,35205dfc,1,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Barbados Tridents,KS Williamson,d027ba9f,2,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Barbados Tridents,AJ Hosein,4d7f517e,3,17,25,2,0,68.0,"[6, 8, 15, 17]",4.0,24,12,0,19,1,0,2,0,0,0,1,4.75,0,0,0,0,-2,23,68,0,91
-Barbados Tridents,I Khan,2ae01eb0,4,1,5,0,0,20.0,"[7, 9, 11, 13]",4.0,24,11,0,19,1,0,1,0,1,0,1,4.75,0,0,0,0,0,1,50,0,51
-Barbados Tridents,EJG Morgan,d2a6c0e6,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Barbados Tridents,KA Pollard,a757b0d8,6,0,1,0,0,0.0,"[10, 12]",2.0,12,3,0,18,1,1,0,0,0,0,0,9.0,1,0,0,0,0,-2,3,8,9
-Barbados Tridents,N Pooran,3241e3fd,7,11,14,1,1,78.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
-Barbados Tridents,SK Springer,4175d211,8,14,15,1,0,93.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26
-Barbados Tridents,WD Parnell,3a60e0b5,9,2,4,0,0,50.0,"[1, 3, 20]",3.0,18,8,0,23,3,0,1,0,0,0,0,7.67,1,0,0,0,0,2,33,8,43
-Barbados Tridents,Wahab Riaz,b3118300,10,0,6,0,0,0.0,"[2, 5, 16, 19]",4.0,24,9,0,44,3,2,0,0,0,2,3,11.0,0,0,0,0,0,-2,7,0,5
-Barbados Tridents,R Rampaul,d68e7f48,11,0,0,0,0,0.0,"[4, 14, 18]",3.0,18,9,0,33,3,3,2,0,0,0,0,11.0,1,0,0,0,0,0,57,8,65
-Guyana Amazon Warriors,CAK Walton,bbff906c,1,20,15,3,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,34,0,16,50
-Guyana Amazon Warriors,Sohail Tanvir,64d43928,2,7,5,1,0,140.0,"[1, 3, 5, 13]",4.0,24,20,0,3,0,0,5,1,1,0,1,0.75,0,0,0,0,0,11,179,0,190
-Guyana Amazon Warriors,L Ronchi,0fa5042b,3,24,13,3,1,184.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,48,0,16,64
-Guyana Amazon Warriors,JN Mohammed,773cec26,4,42,35,3,2,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,70,0,0,70
-Guyana Amazon Warriors,G Singh,e93b6c95,5,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Guyana Amazon Warriors,AB Fudadin,875909c0,6,27,28,1,1,96.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,41,0,0,41
-Guyana Amazon Warriors,RS Primus,6f4c73ce,7,21,16,0,2,131.25,"[2, 4]",2.0,12,6,0,9,1,0,1,0,0,0,0,4.5,1,0,0,0,2,35,37,8,80
-Guyana Amazon Warriors,KMA Paul,75224f22,8,0,1,0,0,0.0,[11],1.0,6,3,0,6,1,0,1,0,0,0,0,6.0,1,0,0,0,0,0,28,8,36
-Guyana Amazon Warriors,RR Emrit,e7de4f6b,9,6,2,1,0,300.0,"[7, 9]",2.0,12,6,0,11,0,1,0,0,0,0,0,5.5,0,0,0,0,0,10,10,0,20
-Guyana Amazon Warriors,V Permaul,78dfe704,10,1,1,0,0,100.0,[10],1.0,6,2,0,5,0,0,0,0,0,0,1,5.0,0,0,0,0,0,1,2,0,3
-Guyana Amazon Warriors,Rashid Khan,5f547c8b,11,0,0,0,0,0.0,"[6, 8, 12, 14]",3.667,22,11,0,15,2,0,3,1,1,0,0,4.09,0,0,0,0,0,0,112,0,112
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Barbados Tridents,DR Smith,35205dfc,1,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,41,True,False,True,Right-arm medium,Right-hand bat
+Barbados Tridents,KS Williamson,d027ba9f,2,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,34,True,False,False,Right-arm offbreak,Right-hand bat
+Barbados Tridents,AJ Hosein,4d7f517e,3,17,25,2,0,68.0,"[6, 8, 15, 17]",4.0,24,12,0,19,1,0,2,0,0,0,1,4.75,0,0,0,0,-2,23,68,0,91,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+Barbados Tridents,I Khan,2ae01eb0,4,1,5,0,0,20.0,"[7, 9, 11, 13]",4.0,24,11,0,19,1,0,1,0,1,0,1,4.75,0,0,0,0,0,1,50,0,51,40,True,False,False,Legbreak,Right-hand bat
+Barbados Tridents,EJG Morgan,d2a6c0e6,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,38,True,False,False,Right-arm medium,Left-hand bat
+Barbados Tridents,KA Pollard,a757b0d8,6,0,1,0,0,0.0,"[10, 12]",2.0,12,3,0,18,1,1,0,0,0,0,0,9.0,1,0,0,0,0,-2,3,8,9,37,True,False,True,Right-arm medium,Right-hand bat
+Barbados Tridents,N Pooran,3241e3fd,7,11,14,1,1,78.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21,29,True,True,False,Right-arm offbreak,Left-hand bat
+Barbados Tridents,SK Springer,4175d211,8,14,15,1,0,93.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26,27,True,False,True,Right-arm fast-medium,Right-hand bat
+Barbados Tridents,WD Parnell,3a60e0b5,9,2,4,0,0,50.0,"[1, 3, 20]",3.0,18,8,0,23,3,0,1,0,0,0,0,7.67,1,0,0,0,0,2,33,8,43,35,True,False,False,Left-arm medium-fast,Left-hand bat
+Barbados Tridents,Wahab Riaz,b3118300,10,0,6,0,0,0.0,"[2, 5, 16, 19]",4.0,24,9,0,44,3,2,0,0,0,2,3,11.0,0,0,0,0,0,-2,7,0,5,39,True,False,False,Left-arm fast,Right-hand bat
+Barbados Tridents,R Rampaul,d68e7f48,11,0,0,0,0,0.0,"[4, 14, 18]",3.0,18,9,0,33,3,3,2,0,0,0,0,11.0,1,0,0,0,0,0,57,8,65,40,True,False,False,Right-arm fast-medium,Left-hand bat
+Guyana Amazon Warriors,CAK Walton,bbff906c,1,20,15,3,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,34,0,16,50,39,True,False,False,,Right-hand bat
+Guyana Amazon Warriors,Sohail Tanvir,64d43928,2,7,5,1,0,140.0,"[1, 3, 5, 13]",4.0,24,20,0,3,0,0,5,1,1,0,1,0.75,0,0,0,0,0,11,179,0,190,40,True,False,False,Left-arm medium-fast,Left-hand bat
+Guyana Amazon Warriors,L Ronchi,0fa5042b,3,24,13,3,1,184.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,48,0,16,64,43,True,False,False,,Right-hand bat
+Guyana Amazon Warriors,JN Mohammed,773cec26,4,42,35,3,2,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,70,0,0,70,38,True,False,False,Right-arm offbreak,Right-hand bat
+Guyana Amazon Warriors,G Singh,e93b6c95,5,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,37,True,True,False,Right-arm offbreak,Left-hand bat
+Guyana Amazon Warriors,AB Fudadin,875909c0,6,27,28,1,1,96.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,41,0,0,41,39,True,False,False,Right-arm medium-fast,Left-hand bat
+Guyana Amazon Warriors,RS Primus,6f4c73ce,7,21,16,0,2,131.25,"[2, 4]",2.0,12,6,0,9,1,0,1,0,0,0,0,4.5,1,0,0,0,2,35,37,8,80,29,True,False,True,Right-arm medium,Right-hand bat
+Guyana Amazon Warriors,KMA Paul,75224f22,8,0,1,0,0,0.0,[11],1.0,6,3,0,6,1,0,1,0,0,0,0,6.0,1,0,0,0,0,0,28,8,36,27,True,False,True,Right-arm fast-medium,Right-hand bat
+Guyana Amazon Warriors,RR Emrit,e7de4f6b,9,6,2,1,0,300.0,"[7, 9]",2.0,12,6,0,11,0,1,0,0,0,0,0,5.5,0,0,0,0,0,10,10,0,20,44,True,False,True,Right-arm medium-fast,Right-hand bat
+Guyana Amazon Warriors,V Permaul,78dfe704,10,1,1,0,0,100.0,[10],1.0,6,2,0,5,0,0,0,0,0,0,1,5.0,0,0,0,0,0,1,2,0,3,35,True,False,False,Slow left-arm orthodox,Right-hand bat
+Guyana Amazon Warriors,Rashid Khan,5f547c8b,11,0,0,0,0,0.0,"[6, 8, 12, 14]",3.667,22,11,0,15,2,0,3,1,1,0,0,4.09,0,0,0,0,0,0,112,0,112,26,True,False,True,Legbreak googly,Right-hand bat

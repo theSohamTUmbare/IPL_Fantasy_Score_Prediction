@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Namibia,L Louwrens,b018e1eb,1,20,11,2,1,181.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,40,0,0,40
-Namibia,HN Ya France,915264c2,2,44,21,6,2,209.52,"[14, 16]",2.0,12,7,0,8,1,0,0,0,0,0,0,4.0,0,0,0,0,6,90,13,0,103
-Namibia,ZE Green,8716233e,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0,0,12,12
-Namibia,MD du Preez,e5ad357a,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Namibia,JN Frylinck,3c87f0c3,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
-Namibia,N Davin,72e361fe,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Namibia,JN Loftie-Eaton,f468293b,6,0,0,0,0,0.0,"[9, 11]",2.0,12,8,0,10,2,0,0,0,0,0,0,5.0,0,0,0,0,0,0,12,0,12
-Namibia,Z Groenewald,017faef2,7,0,0,0,0,0.0,"[3, 5, 7, 18]",4.0,24,20,1,1,0,0,5,0,2,0,0,0.25,0,0,0,0,0,0,191,0,191
-Namibia,CW Coombe,6e849a7b,8,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,16,0,10,0,0,1,0,1,0,2,2.5,0,0,0,0,0,0,55,0,55
-Namibia,BM Scholtz,e85d03d6,9,0,0,0,0,0.0,"[6, 8, 10, 12]",4.0,24,18,1,12,0,1,0,0,0,0,0,3.0,0,0,0,0,0,0,36,0,36
-Namibia,T Lungameni,1688f2dc,10,0,0,0,0,0.0,"[1, 13, 15, 20]",4.0,24,13,0,23,1,0,0,0,0,2,6,5.75,0,0,0,0,0,0,17,0,17
-Swaziland,A Nicholas,4ba77c99,1,17,51,1,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,15,0,0,15
-Swaziland,M Magagula,7a787b98,2,0,0,0,0,0.0,[6],0.333,2,1,0,6,1,0,0,0,0,1,0,18.02,0,0,0,0,0,0,1,0,1
-Swaziland,Mohsin Khan,2669d6b7,2,8,14,1,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,8,0,0,8
-Swaziland,J Hansrod,a8473c4a,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Swaziland,Jawad Muhammad,5117fa92,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Swaziland,Imran Patel,971439f3,4,0,0,0,0,0.0,[2],1.0,6,0,0,17,3,0,0,0,0,1,0,17.0,0,0,0,0,0,0,0,0,0
-Swaziland,Shehzad Patel,101373a3,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Swaziland,Sohail Akhtar,d469639b,5,25,38,2,1,65.79,[5],1.0,6,2,0,12,1,1,0,0,0,0,0,12.0,0,0,0,0,-2,41,2,0,43
-Swaziland,Shahzad Mahmood,a9af6fea,6,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Swaziland,SC Mucyo,4a90dda5,7,0,5,0,0,0.0,[4],1.0,6,2,0,15,1,1,0,0,0,1,1,15.0,0,0,0,0,0,-2,2,0,0
-Swaziland,Tehseen Hassan,c436c424,8,4,6,0,0,66.67,"[1, 3]",2.0,12,6,0,24,2,1,0,0,0,0,6,12.0,0,0,0,0,0,4,2,0,6
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Namibia,L Louwrens,b018e1eb,1,20,11,2,1,181.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,40,0,0,40,25,True,False,False,,Right-hand bat
+Namibia,HN Ya France,915264c2,2,44,21,6,2,209.52,"[14, 16]",2.0,12,7,0,8,1,0,0,0,0,0,0,4.0,0,0,0,0,6,90,13,0,103,34,True,False,False,Right-arm offbreak,Right-hand bat
+Namibia,ZE Green,8716233e,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0,0,12,12,28,True,False,False,,Left-hand bat
+Namibia,MD du Preez,e5ad357a,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,29,True,True,False,Legbreak,Right-hand bat
+Namibia,JN Frylinck,3c87f0c3,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,30,True,False,True,Left-arm fast-medium,Left-hand bat
+Namibia,N Davin,72e361fe,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,27,True,False,False,Legbreak,Right-hand bat
+Namibia,JN Loftie-Eaton,f468293b,6,0,0,0,0,0.0,"[9, 11]",2.0,12,8,0,10,2,0,0,0,0,0,0,5.0,0,0,0,0,0,0,12,0,12,24,True,False,True,Legbreak,Left-hand bat
+Namibia,Z Groenewald,017faef2,7,0,0,0,0,0.0,"[3, 5, 7, 18]",4.0,24,20,1,1,0,0,5,0,2,0,0,0.25,0,0,0,0,0,0,191,0,191,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Namibia,CW Coombe,6e849a7b,8,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,16,0,10,0,0,1,0,1,0,2,2.5,0,0,0,0,0,0,55,0,55,31,True,True,False,Right-arm fast-medium,Right-hand bat
+Namibia,BM Scholtz,e85d03d6,9,0,0,0,0,0.0,"[6, 8, 10, 12]",4.0,24,18,1,12,0,1,0,0,0,0,0,3.0,0,0,0,0,0,0,36,0,36,34,True,False,False,Slow left-arm orthodox,Right-hand bat
+Namibia,T Lungameni,1688f2dc,10,0,0,0,0,0.0,"[1, 13, 15, 20]",4.0,24,13,0,23,1,0,0,0,0,2,6,5.75,0,0,0,0,0,0,17,0,17,32,True,False,False,Left-arm medium,Right-hand bat
+Swaziland,A Nicholas,4ba77c99,1,17,51,1,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,15,0,0,15,0,True,False,False,,
+Swaziland,M Magagula,7a787b98,2,0,0,0,0,0.0,[6],0.333,2,1,0,6,1,0,0,0,0,1,0,18.02,0,0,0,0,0,0,1,0,1,30,True,True,False,Right-arm medium,Right-hand bat
+Swaziland,Mohsin Khan,2669d6b7,2,8,14,1,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,8,0,0,8,26,True,True,False,Left-arm medium-fast,Left-hand bat
+Swaziland,J Hansrod,a8473c4a,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,51,True,True,False,Right-arm medium,Right-hand bat
+Swaziland,Jawad Muhammad,5117fa92,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,23,True,True,False,Right-arm medium,Right-hand bat
+Swaziland,Imran Patel,971439f3,4,0,0,0,0,0.0,[2],1.0,6,0,0,17,3,0,0,0,0,1,0,17.0,0,0,0,0,0,0,0,0,0,46,True,False,False,,
+Swaziland,Shehzad Patel,101373a3,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,29,True,False,False,,
+Swaziland,Sohail Akhtar,d469639b,5,25,38,2,1,65.79,[5],1.0,6,2,0,12,1,1,0,0,0,0,0,12.0,0,0,0,0,-2,41,2,0,43,0,True,False,False,,
+Swaziland,Shahzad Mahmood,a9af6fea,6,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,45,True,False,False,,
+Swaziland,SC Mucyo,4a90dda5,7,0,5,0,0,0.0,[4],1.0,6,2,0,15,1,1,0,0,0,1,1,15.0,0,0,0,0,0,-2,2,0,0,0,True,False,False,,
+Swaziland,Tehseen Hassan,c436c424,8,4,6,0,0,66.67,"[1, 3]",2.0,12,6,0,24,2,1,0,0,0,0,6,12.0,0,0,0,0,0,4,2,0,6,0,True,False,False,,

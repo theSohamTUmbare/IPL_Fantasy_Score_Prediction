@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Netherlands,TP Visee,881b3f8e,1,25,15,4,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,55,0,0,55
-Netherlands,MP O'Dowd,b699df47,2,31,25,5,0,124.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,55,0,0,55
-Netherlands,W Barresi,0d677597,3,53,51,4,0,103.92,"[1, 10, 13, 18]",3.667,22,8,0,35,4,1,1,0,0,0,0,9.54,0,0,0,0,0,77,33,0,110
-Netherlands,BN Cooper,634a7b21,4,22,19,1,0,115.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,26,0,8,34
-Netherlands,FJ Klaassen,c042b412,5,0,0,0,0,0.0,"[3, 6, 8, 15]",4.0,24,11,0,29,5,0,1,0,0,0,0,7.25,0,0,0,0,0,0,36,0,36
-Netherlands,Sikander Zulfiqar,3b572f28,5,8,6,1,0,133.33,[16],1.0,6,2,0,13,3,0,0,0,0,0,0,13.0,0,0,0,0,0,12,2,0,14
-Netherlands,SA Edwards,b59db04f,6,5,3,1,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
-Netherlands,PA van Meekeren,4557dc54,6,0,0,0,0,0.0,"[4, 11]",2.0,12,3,0,27,4,1,0,0,0,0,0,13.5,0,0,0,0,0,0,-3,0,-3
-Netherlands,PM Seelaar,abbdca1a,7,0,0,0,0,0.0,"[5, 7, 12, 14]",4.0,24,9,0,31,3,1,1,0,1,0,0,7.75,0,0,0,0,0,0,42,0,42
-Netherlands,T van der Gugten,d99cc23a,7,0,1,0,0,0.0,"[2, 9, 17]",3.0,18,5,0,25,4,0,0,0,0,0,0,8.33,0,0,0,0,0,0,5,0,5
-Netherlands,BFW de Leede,fc4375ef,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Scotland,HG Munsey,ff014c34,1,46,29,6,2,158.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,90,0,0,90
-Scotland,KJ Coetzer,85d8110a,2,42,20,7,1,210.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,86,0,0,86
-Scotland,RD Berrington,e21bc7f3,3,49,32,9,0,153.12,"[10, 12]",2.0,12,2,0,9,0,0,1,0,0,0,0,4.5,0,0,0,0,4,93,33,0,126
-Scotland,CS MacLeod,9c376401,4,14,15,0,0,93.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
-Scotland,DE Budge,0d37dea9,5,9,10,1,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
-Scotland,MH Cross,8b261d84,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Scotland,MA Leask,28131839,6,0,0,0,0,0.0,"[7, 9, 14, 16]",4.0,24,4,0,29,2,0,0,0,0,0,0,7.25,2,0,0,0,0,0,4,16,20
-Scotland,SM Sharif,f43dd8c2,7,0,0,0,0,0.0,"[2, 6, 18, 20]",4.0,24,6,0,40,6,1,1,0,1,0,0,10.0,0,0,0,0,0,0,37,0,37
-Scotland,MRJ Watt,1252f71a,8,0,0,0,0,0.0,"[4, 8, 13, 15]",4.0,24,7,0,18,0,0,1,0,1,0,1,4.5,0,0,0,0,0,0,46,0,46
-Scotland,AC Evans,e9a870ed,9,0,0,0,0,0.0,"[3, 5, 17, 19]",4.0,24,7,0,32,5,0,2,0,0,0,0,8.0,0,0,0,0,0,0,57,0,57
-Scotland,SG Whittingham,2d4465da,10,0,0,0,0,0.0,"[1, 11]",2.0,12,5,0,19,3,0,0,0,0,0,2,9.5,0,0,0,0,0,0,5,0,5
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Netherlands,TP Visee,881b3f8e,1,25,15,4,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,55,0,0,55,34,True,False,False,,Right-hand bat
+Netherlands,MP O'Dowd,b699df47,2,31,25,5,0,124.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,55,0,0,55,31,True,False,False,Right-arm offbreak,Right-hand bat
+Netherlands,W Barresi,0d677597,3,53,51,4,0,103.92,"[1, 10, 13, 18]",3.667,22,8,0,35,4,1,1,0,0,0,0,9.54,0,0,0,0,0,77,33,0,110,40,True,False,False,Right-arm offbreak,Right-hand bat
+Netherlands,BN Cooper,634a7b21,4,22,19,1,0,115.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,26,0,8,34,33,True,False,False,Right-arm medium,Left-hand bat
+Netherlands,FJ Klaassen,c042b412,5,0,0,0,0,0.0,"[3, 6, 8, 15]",4.0,24,11,0,29,5,0,1,0,0,0,0,7.25,0,0,0,0,0,0,36,0,36,32,True,False,False,Left-arm fast-medium,Right-hand bat
+Netherlands,Sikander Zulfiqar,3b572f28,5,8,6,1,0,133.33,[16],1.0,6,2,0,13,3,0,0,0,0,0,0,13.0,0,0,0,0,0,12,2,0,14,28,True,False,False,Right-arm medium,Right-hand bat
+Netherlands,SA Edwards,b59db04f,6,5,3,1,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,28,True,False,False,,Right-hand bat
+Netherlands,PA van Meekeren,4557dc54,6,0,0,0,0,0.0,"[4, 11]",2.0,12,3,0,27,4,1,0,0,0,0,0,13.5,0,0,0,0,0,0,-3,0,-3,32,True,False,False,Right-arm fast-medium,Right-hand bat
+Netherlands,PM Seelaar,abbdca1a,7,0,0,0,0,0.0,"[5, 7, 12, 14]",4.0,24,9,0,31,3,1,1,0,1,0,0,7.75,0,0,0,0,0,0,42,0,42,37,True,False,True,Slow left-arm orthodox,Right-hand bat
+Netherlands,T van der Gugten,d99cc23a,7,0,1,0,0,0.0,"[2, 9, 17]",3.0,18,5,0,25,4,0,0,0,0,0,0,8.33,0,0,0,0,0,0,5,0,5,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Netherlands,BFW de Leede,fc4375ef,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,25,True,False,True,Right-arm fast-medium,Right-hand bat
+Scotland,HG Munsey,ff014c34,1,46,29,6,2,158.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,90,0,0,90,32,True,False,False,Right-arm medium-fast,Left-hand bat
+Scotland,KJ Coetzer,85d8110a,2,42,20,7,1,210.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,86,0,0,86,40,True,False,False,Right-arm medium-fast,Right-hand bat
+Scotland,RD Berrington,e21bc7f3,3,49,32,9,0,153.12,"[10, 12]",2.0,12,2,0,9,0,0,1,0,0,0,0,4.5,0,0,0,0,4,93,33,0,126,37,True,False,False,Right-arm medium-fast,Right-hand bat
+Scotland,CS MacLeod,9c376401,4,14,15,0,0,93.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,36,True,False,False,Right-arm offbreak,Right-hand bat
+Scotland,DE Budge,0d37dea9,5,9,10,1,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21,29,True,False,True,Right-arm medium,Right-hand bat
+Scotland,MH Cross,8b261d84,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,32,True,False,False,,Right-hand bat
+Scotland,MA Leask,28131839,6,0,0,0,0,0.0,"[7, 9, 14, 16]",4.0,24,4,0,29,2,0,0,0,0,0,0,7.25,2,0,0,0,0,0,4,16,20,34,True,False,True,Right-arm offbreak,Right-hand bat
+Scotland,SM Sharif,f43dd8c2,7,0,0,0,0,0.0,"[2, 6, 18, 20]",4.0,24,6,0,40,6,1,1,0,1,0,0,10.0,0,0,0,0,0,0,37,0,37,33,True,False,False,Right-arm medium-fast,Right-hand bat
+Scotland,MRJ Watt,1252f71a,8,0,0,0,0,0.0,"[4, 8, 13, 15]",4.0,24,7,0,18,0,0,1,0,1,0,1,4.5,0,0,0,0,0,0,46,0,46,28,True,False,False,Slow left-arm orthodox,Left-hand bat
+Scotland,AC Evans,e9a870ed,9,0,0,0,0,0.0,"[3, 5, 17, 19]",4.0,24,7,0,32,5,0,2,0,0,0,0,8.0,0,0,0,0,0,0,57,0,57,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Scotland,SG Whittingham,2d4465da,10,0,0,0,0,0.0,"[1, 11]",2.0,12,5,0,19,3,0,0,0,0,0,2,9.5,0,0,0,0,0,0,5,0,5,31,True,False,False,Right-arm fast-medium,Right-hand bat

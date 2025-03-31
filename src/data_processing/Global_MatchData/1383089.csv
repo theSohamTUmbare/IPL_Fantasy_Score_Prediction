@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Japan,L Yamamoto-Lake,fa23405f,1,41,44,3,0,93.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,57,0,0,57
-Japan,A Patmore,85119526,2,6,10,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,-2,4,0,20,24
-Japan,K Kadowaki-Fleming,33290a80,3,60,37,2,4,162.16,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,104,0,0,104
-Japan,S Navaratne,29573e43,4,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Japan,S Ravichandran,9f2be73d,5,2,4,0,0,50.0,"[6, 12, 14, 16]",4.0,24,16,0,13,1,0,0,0,0,0,0,3.25,0,0,0,0,0,2,22,0,24
-Japan,I Takahashi,c988daa1,6,31,13,1,3,238.46,"[9, 11, 13]",3.0,18,8,0,25,1,2,0,0,0,0,0,8.33,0,0,0,0,6,63,8,0,71
-Japan,K Kubota,42581e6d,7,0,0,0,0,0.0,"[7, 20]",2.0,12,2,0,16,1,0,0,0,0,0,1,8.0,0,0,0,0,0,0,2,0,2
-Japan,R Sakurano-Thomas,dd14abf5,7,14,9,2,0,155.56,"[2, 4, 19]",3.0,18,12,0,14,2,0,1,0,0,0,0,4.67,0,0,0,0,0,22,43,0,65
-Japan,D Suzuki,64c81abf,8,3,1,0,0,300.0,"[15, 17]",2.0,12,3,0,19,0,1,1,0,1,0,0,9.5,1,0,0,0,0,3,36,8,47
-Japan,P Kumbhare,ef503cfe,8,0,0,0,0,0.0,"[1, 3, 5, 18]",4.0,24,15,0,11,0,0,2,0,0,0,0,2.75,0,0,0,0,0,0,71,0,71
-Japan,M Taniyama,cbd91942,9,0,0,0,0,0.0,"[8, 10]",2.0,12,8,0,15,2,0,1,0,0,2,0,7.5,1,0,0,0,0,0,33,8,41
-Philippines,Kapil Kumar,d4e70d7c,1,21,32,2,0,65.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,27,0,0,27
-Philippines,DC Smith,a968d39b,2,12,13,2,0,92.31,"[6, 8, 18]",3.0,18,5,0,20,2,0,0,0,0,0,1,6.67,1,0,1,0,0,20,7,20,47
-Philippines,J Alegra,ac6be7ed,3,33,28,2,1,117.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,51,0,16,67
-Philippines,JEA Doctora,43449b1e,4,28,23,1,2,121.74,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,48,0,0,48
-Philippines,M Podosky,c46999c7,5,5,10,0,0,50.0,"[2, 4, 20]",3.0,18,10,0,21,2,0,2,0,1,0,1,7.0,0,0,0,0,-4,1,70,0,71
-Philippines,ASF Sirah,06bcade5,6,7,10,0,0,70.0,"[10, 12, 14, 16]",4.0,24,8,0,32,0,2,3,0,1,0,1,8.0,0,0,0,0,-2,5,95,0,100
-Philippines,G Chohan,b978780e,7,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
-Philippines,GR Russ,1f28fdfd,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Philippines,Huzaifa Mohammed,65a29a30,8,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,5,0,40,3,2,0,0,0,0,1,10.0,0,0,0,0,0,0,3,0,3
-Philippines,RJ Akram,3942903c,9,0,0,0,0,0.0,"[1, 3]",2.0,12,4,0,11,0,0,0,0,0,0,0,5.5,0,0,0,0,0,0,8,0,8
-Philippines,LJ Myott,3f9d95f9,10,0,0,0,0,0.0,"[5, 7, 17, 19]",4.0,24,8,0,37,1,3,1,0,0,0,0,9.25,1,0,0,0,0,0,33,8,41
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Japan,L Yamamoto-Lake,fa23405f,1,41,44,3,0,93.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,57,0,0,57,22,True,False,False,,Right-hand bat
+Japan,A Patmore,85119526,2,6,10,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,-2,4,0,20,24,27,True,False,False,,Left-hand bat
+Japan,K Kadowaki-Fleming,33290a80,3,60,37,2,4,162.16,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,104,0,0,104,29,True,False,False,Right-arm offbreak,Left-hand bat
+Japan,S Navaratne,29573e43,4,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,32,True,False,False,,Right-hand bat
+Japan,S Ravichandran,9f2be73d,5,2,4,0,0,50.0,"[6, 12, 14, 16]",4.0,24,16,0,13,1,0,0,0,0,0,0,3.25,0,0,0,0,0,2,22,0,24,32,True,False,True,Legbreak,Right-hand bat
+Japan,I Takahashi,c988daa1,6,31,13,1,3,238.46,"[9, 11, 13]",3.0,18,8,0,25,1,2,0,0,0,0,0,8.33,0,0,0,0,6,63,8,0,71,26,True,True,False,Right-arm offbreak,Right-hand bat
+Japan,K Kubota,42581e6d,7,0,0,0,0,0.0,"[7, 20]",2.0,12,2,0,16,1,0,0,0,0,0,1,8.0,0,0,0,0,0,0,2,0,2,26,True,True,False,Right-arm medium,Right-hand bat
+Japan,R Sakurano-Thomas,dd14abf5,7,14,9,2,0,155.56,"[2, 4, 19]",3.0,18,12,0,14,2,0,1,0,0,0,0,4.67,0,0,0,0,0,22,43,0,65,25,True,True,False,Right-arm medium,Right-hand bat
+Japan,D Suzuki,64c81abf,8,3,1,0,0,300.0,"[15, 17]",2.0,12,3,0,19,0,1,1,0,1,0,0,9.5,1,0,0,0,0,3,36,8,47,22,True,False,True,Right-arm medium,Left-hand bat
+Japan,P Kumbhare,ef503cfe,8,0,0,0,0,0.0,"[1, 3, 5, 18]",4.0,24,15,0,11,0,0,2,0,0,0,0,2.75,0,0,0,0,0,0,71,0,71,34,True,True,False,Slow left-arm orthodox,Right-hand bat
+Japan,M Taniyama,cbd91942,9,0,0,0,0,0.0,"[8, 10]",2.0,12,8,0,15,2,0,1,0,0,2,0,7.5,1,0,0,0,0,0,33,8,41,29,True,True,False,Legbreak googly,Right-hand bat
+Philippines,Kapil Kumar,d4e70d7c,1,21,32,2,0,65.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,27,0,0,27,36,True,True,False,Right-arm fast,Right-hand bat
+Philippines,DC Smith,a968d39b,2,12,13,2,0,92.31,"[6, 8, 18]",3.0,18,5,0,20,2,0,0,0,0,0,1,6.67,1,0,1,0,0,20,7,20,47,33,True,True,False,Right-arm medium-fast,Right-hand bat
+Philippines,J Alegra,ac6be7ed,3,33,28,2,1,117.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,51,0,16,67,26,True,False,False,,Right-hand bat
+Philippines,JEA Doctora,43449b1e,4,28,23,1,2,121.74,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,48,0,0,48,27,True,True,False,Right-arm offbreak,Right-hand bat
+Philippines,M Podosky,c46999c7,5,5,10,0,0,50.0,"[2, 4, 20]",3.0,18,10,0,21,2,0,2,0,1,0,1,7.0,0,0,0,0,-4,1,70,0,71,35,True,True,False,Right-arm medium,Right-hand bat
+Philippines,ASF Sirah,06bcade5,6,7,10,0,0,70.0,"[10, 12, 14, 16]",4.0,24,8,0,32,0,2,3,0,1,0,1,8.0,0,0,0,0,-2,5,95,0,100,21,True,True,False,Legbreak googly,Right-hand bat
+Philippines,G Chohan,b978780e,7,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,29,True,True,False,Right-arm medium,Right-hand bat
+Philippines,GR Russ,1f28fdfd,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,34,True,True,False,Right-arm medium,Right-hand bat
+Philippines,Huzaifa Mohammed,65a29a30,8,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,5,0,40,3,2,0,0,0,0,1,10.0,0,0,0,0,0,0,3,0,3,42,True,True,False,Right-arm offbreak,Right-hand bat
+Philippines,RJ Akram,3942903c,9,0,0,0,0,0.0,"[1, 3]",2.0,12,4,0,11,0,0,0,0,0,0,0,5.5,0,0,0,0,0,0,8,0,8,,,,,,
+Philippines,LJ Myott,3f9d95f9,10,0,0,0,0,0.0,"[5, 7, 17, 19]",4.0,24,8,0,37,1,3,1,0,0,0,0,9.25,1,0,0,0,0,0,33,8,41,24,True,True,False,Right-arm offbreak,Right-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Ireland,PR Stirling,cf494ffe,1,115,75,8,8,153.33,[1],1.0,6,1,0,14,3,0,0,0,0,0,0,14.0,0,0,0,0,4,215,1,0,216
-Ireland,KJ O'Brien,243431b5,2,9,10,0,1,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,15,0,8,23
-Ireland,A Balbirnie,6ef13460,3,31,24,3,1,129.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,53,0,16,69
-Ireland,SC Getkate,c8065f31,4,19,11,3,0,172.73,"[5, 8, 14, 17]",4.0,24,7,0,32,3,1,2,0,1,0,1,8.0,0,0,1,0,6,37,65,12,114
-Ireland,GH Dockrell,99cddc5e,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Ireland,W McClintock,b16ddb79,12,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Ireland,NA Rock,43f4087c,13,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Ireland,Simi Singh,c9945bdf,14,0,0,0,0,0.0,"[3, 10, 13, 15]",4.0,24,5,0,32,2,1,0,0,0,0,0,8.0,1,0,0,0,0,0,5,8,13
-Ireland,MR Adair,fc55ec67,15,0,0,0,0,0.0,"[2, 12, 18]",3.0,18,7,0,11,0,0,3,0,0,0,0,3.67,0,0,0,0,0,0,92,0,92
-Ireland,J Little,9061a703,16,0,0,0,0,0.0,"[4, 6, 16, 19]",3.333,20,11,0,18,2,0,2,0,1,0,1,5.4,0,0,0,0,0,0,73,0,73
-Ireland,B White,1a448be0,17,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,4,0,23,2,1,2,1,1,0,0,7.67,0,0,0,0,0,0,70,0,70
-Zimbabwe,W Madhevere,a879b92c,1,13,6,3,0,216.67,"[8, 10]",2.0,12,4,0,11,1,0,0,0,0,0,0,5.5,0,0,0,0,0,25,8,0,33
-Zimbabwe,T Marumani,3d5d51a5,2,14,12,1,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
-Zimbabwe,RW Chakabva,2f0d7e4a,3,7,13,0,0,53.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,3,0,0,3
-Zimbabwe,D Myers,d96165b5,4,14,10,2,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,24,0,0,24
-Zimbabwe,CR Ervine,c96311d4,5,33,18,3,2,183.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,67,0,8,75
-Zimbabwe,M Shumba,6766ca00,6,6,8,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,6,0,8,14
-Zimbabwe,LM Jongwe,b8704508,7,7,5,1,0,140.0,"[6, 14, 18, 20]",4.0,24,5,0,37,4,1,1,0,0,0,0,9.25,0,0,0,0,0,11,30,0,41
-Zimbabwe,RP Burl,b08252b8,8,26,23,2,1,113.04,"[7, 9, 12, 16]",4.0,24,8,0,30,4,0,1,0,0,0,0,7.5,0,0,0,0,0,44,33,0,77
-Zimbabwe,WP Masakadza,4bc0a378,9,4,6,0,0,66.67,"[1, 11, 13]",3.0,18,6,0,25,1,2,0,0,0,0,0,8.33,0,0,0,0,0,4,6,0,10
-Zimbabwe,TL Chatara,5bbabe59,10,3,8,0,0,37.5,"[2, 4, 15, 19]",4.0,24,10,0,47,2,5,0,0,0,0,2,11.75,0,0,0,0,0,3,6,0,9
-Zimbabwe,R Ngarava,6e3f5a5c,11,1,1,0,0,100.0,"[3, 5, 17]",3.0,18,8,1,26,2,2,0,0,0,0,0,8.67,0,0,0,0,0,1,20,0,21
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Ireland,PR Stirling,cf494ffe,1,115,75,8,8,153.33,[1],1.0,6,1,0,14,3,0,0,0,0,0,0,14.0,0,0,0,0,4,215,1,0,216,34,True,False,True,Right-arm offbreak,Right-hand bat
+Ireland,KJ O'Brien,243431b5,2,9,10,0,1,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,15,0,8,23,41,True,False,True,Right-arm medium-fast,Right-hand bat
+Ireland,A Balbirnie,6ef13460,3,31,24,3,1,129.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,53,0,16,69,34,True,False,False,Right-arm offbreak,Right-hand bat
+Ireland,SC Getkate,c8065f31,4,19,11,3,0,172.73,"[5, 8, 14, 17]",4.0,24,7,0,32,3,1,2,0,1,0,1,8.0,0,0,1,0,6,37,65,12,114,33,True,False,True,Right-arm medium-fast,Right-hand bat
+Ireland,GH Dockrell,99cddc5e,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,32,True,False,True,Slow left-arm orthodox,Right-hand bat
+Ireland,W McClintock,b16ddb79,12,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,28,True,False,False,Right-arm medium,Right-hand bat
+Ireland,NA Rock,43f4087c,13,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,24,True,False,False,,Left-hand bat
+Ireland,Simi Singh,c9945bdf,14,0,0,0,0,0.0,"[3, 10, 13, 15]",4.0,24,5,0,32,2,1,0,0,0,0,0,8.0,1,0,0,0,0,0,5,8,13,38,True,False,True,Legbreak googly,Right-hand bat
+Ireland,MR Adair,fc55ec67,15,0,0,0,0,0.0,"[2, 12, 18]",3.0,18,7,0,11,0,0,3,0,0,0,0,3.67,0,0,0,0,0,0,92,0,92,29,True,False,True,Right-arm fast-medium,Right-hand bat
+Ireland,J Little,9061a703,16,0,0,0,0,0.0,"[4, 6, 16, 19]",3.333,20,11,0,18,2,0,2,0,1,0,1,5.4,0,0,0,0,0,0,73,0,73,25,True,False,False,Left-arm fast-medium,Right-hand bat
+Ireland,B White,1a448be0,17,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,4,0,23,2,1,2,1,1,0,0,7.67,0,0,0,0,0,0,70,0,70,26,True,False,False,Legbreak,Right-hand bat
+Zimbabwe,W Madhevere,a879b92c,1,13,6,3,0,216.67,"[8, 10]",2.0,12,4,0,11,1,0,0,0,0,0,0,5.5,0,0,0,0,0,25,8,0,33,24,True,False,True,Right-arm offbreak,Right-hand bat
+Zimbabwe,T Marumani,3d5d51a5,2,14,12,1,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,23,True,False,False,Right-arm offbreak,Left-hand bat
+Zimbabwe,RW Chakabva,2f0d7e4a,3,7,13,0,0,53.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,3,0,0,3,37,True,True,False,Right-arm offbreak,Right-hand bat
+Zimbabwe,D Myers,d96165b5,4,14,10,2,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,24,0,0,24,23,True,False,False,Right-arm medium,Right-hand bat
+Zimbabwe,CR Ervine,c96311d4,5,33,18,3,2,183.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,67,0,8,75,39,True,False,False,Right-arm offbreak,Left-hand bat
+Zimbabwe,M Shumba,6766ca00,6,6,8,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,6,0,8,14,24,True,False,False,Slow left-arm orthodox,Left-hand bat
+Zimbabwe,LM Jongwe,b8704508,7,7,5,1,0,140.0,"[6, 14, 18, 20]",4.0,24,5,0,37,4,1,1,0,0,0,0,9.25,0,0,0,0,0,11,30,0,41,30,True,False,True,Right-arm fast-medium,Right-hand bat
+Zimbabwe,RP Burl,b08252b8,8,26,23,2,1,113.04,"[7, 9, 12, 16]",4.0,24,8,0,30,4,0,1,0,0,0,0,7.5,0,0,0,0,0,44,33,0,77,30,True,False,True,Legbreak,Left-hand bat
+Zimbabwe,WP Masakadza,4bc0a378,9,4,6,0,0,66.67,"[1, 11, 13]",3.0,18,6,0,25,1,2,0,0,0,0,0,8.33,0,0,0,0,0,4,6,0,10,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+Zimbabwe,TL Chatara,5bbabe59,10,3,8,0,0,37.5,"[2, 4, 15, 19]",4.0,24,10,0,47,2,5,0,0,0,0,2,11.75,0,0,0,0,0,3,6,0,9,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Zimbabwe,R Ngarava,6e3f5a5c,11,1,1,0,0,100.0,"[3, 5, 17]",3.0,18,8,1,26,2,2,0,0,0,0,0,8.67,0,0,0,0,0,1,20,0,21,27,True,False,False,Left-arm fast-medium,Left-hand bat

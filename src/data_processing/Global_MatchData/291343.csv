@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Australia,AC Gilchrist,2b6e6dec,1,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,4,0,0,0,0,1,0,36,37
-Australia,MJ Clarke,f842c2cf,2,33,26,3,1,126.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,55,0,0,55
-Australia,MEK Hussey,48fd7349,3,22,16,4,0,137.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,40,0,0,40
-Australia,A Symonds,bd77eb62,4,85,45,7,3,188.89,"[16, 18]",2.0,12,1,0,39,1,5,0,0,0,0,0,19.5,0,0,1,0,6,149,-5,12,156
-Australia,AC Voges,864c199e,5,26,20,3,0,130.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,44,0,0,44
-Australia,LA Pomersbach,b63ab531,6,15,7,1,1,214.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
-Australia,AA Noffke,b69e69ed,7,0,0,0,0,0.0,"[12, 14, 17, 19]",3.5,21,14,1,18,3,0,3,0,2,0,1,5.14,0,0,0,0,0,0,125,0,125
-Australia,B Lee,dd09ff8e,8,0,1,0,0,0.0,"[1, 3, 5, 13]",4.0,24,15,0,17,1,1,2,0,0,1,1,4.25,0,0,0,0,0,0,71,0,71
-Australia,NW Bracken,4c61a0f9,11,0,0,0,0,0.0,"[2, 4]",2.0,12,8,0,8,0,0,0,0,0,0,2,4.0,1,0,0,0,0,0,14,8,22
-Australia,MG Johnson,f5180fe6,12,0,0,0,0,0.0,"[6, 8, 10]",3.0,18,12,0,19,4,0,2,0,0,0,1,6.33,1,0,0,0,0,0,64,8,72
-Australia,SW Tait,addfb70e,13,0,0,0,0,0.0,"[7, 9, 11, 15]",4.0,24,15,0,22,2,1,2,0,1,0,1,5.5,0,0,0,0,0,0,77,0,77
-New Zealand,L Vincent,2764133a,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-New Zealand,BB McCullum,b8a55852,2,13,15,0,1,86.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,19,0,12,31
-New Zealand,JM How,fd8f11e9,3,4,17,0,0,23.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2
-New Zealand,SB Styris,57efa3be,4,18,15,4,0,120.0,[14],1.0,6,1,0,14,1,1,0,0,0,0,0,14.0,0,0,0,0,0,34,1,0,35
-New Zealand,LRPL Taylor,b61a3e1a,5,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,-2,0,28,26
-New Zealand,MS Sinclair,1b668884,6,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-New Zealand,JDP Oram,3eac9d95,7,66,31,5,6,212.9,"[6, 11, 13]",3.0,18,5,0,32,6,0,0,0,0,0,0,10.67,0,0,0,0,6,136,3,0,139
-New Zealand,DL Vettori,d7c6af50,8,3,4,0,0,75.0,"[8, 10, 12, 16]",4.0,24,5,0,24,0,0,1,0,0,0,0,6.0,0,0,0,0,0,3,32,0,35
-New Zealand,KD Mills,7fb32e5b,9,4,8,1,0,50.0,"[1, 3, 5, 19]",4.0,24,8,0,35,5,0,0,0,0,0,1,8.75,0,0,0,0,0,8,8,0,16
-New Zealand,MR Gillespie,7d7ab238,10,4,6,0,0,66.67,"[2, 4, 18, 20]",4.0,24,10,1,39,3,2,2,0,0,1,0,9.75,0,0,0,1,0,4,72,6,82
-New Zealand,JS Patel,f5821615,11,4,8,1,0,50.0,"[7, 9, 15, 17]",4.0,24,7,0,40,3,2,2,0,0,0,0,10.0,1,0,0,1,0,8,55,14,77
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Australia,AC Gilchrist,2b6e6dec,1,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,4,0,0,0,0,1,0,36,37,53,True,True,False,Right-arm offbreak,Left-hand bat
+Australia,MJ Clarke,f842c2cf,2,33,26,3,1,126.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,55,0,0,55,43,True,False,False,Slow left-arm orthodox,Right-hand bat
+Australia,MEK Hussey,48fd7349,3,22,16,4,0,137.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,40,0,0,40,49,True,False,False,Right-arm medium,Left-hand bat
+Australia,A Symonds,bd77eb62,4,85,45,7,3,188.89,"[16, 18]",2.0,12,1,0,39,1,5,0,0,0,0,0,19.5,0,0,1,0,6,149,-5,12,156,46,True,False,True,Right-arm offbreak,Right-hand bat
+Australia,AC Voges,864c199e,5,26,20,3,0,130.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,44,0,0,44,45,True,False,False,Slow left-arm orthodox,Right-hand bat
+Australia,LA Pomersbach,b63ab531,6,15,7,1,1,214.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,40,True,False,False,Right-arm offbreak,Left-hand bat
+Australia,AA Noffke,b69e69ed,7,0,0,0,0,0.0,"[12, 14, 17, 19]",3.5,21,14,1,18,3,0,3,0,2,0,1,5.14,0,0,0,0,0,0,125,0,125,47,True,False,True,Right-arm fast-medium,Right-hand bat
+Australia,B Lee,dd09ff8e,8,0,1,0,0,0.0,"[1, 3, 5, 13]",4.0,24,15,0,17,1,1,2,0,0,1,1,4.25,0,0,0,0,0,0,71,0,71,48,True,False,False,Right-arm fast,Right-hand bat
+Australia,NW Bracken,4c61a0f9,11,0,0,0,0,0.0,"[2, 4]",2.0,12,8,0,8,0,0,0,0,0,0,2,4.0,1,0,0,0,0,0,14,8,22,47,True,False,False,Left-arm fast-medium,Right-hand bat
+Australia,MG Johnson,f5180fe6,12,0,0,0,0,0.0,"[6, 8, 10]",3.0,18,12,0,19,4,0,2,0,0,0,1,6.33,1,0,0,0,0,0,64,8,72,43,True,False,False,Left-arm fast,Left-hand bat
+Australia,SW Tait,addfb70e,13,0,0,0,0,0.0,"[7, 9, 11, 15]",4.0,24,15,0,22,2,1,2,0,1,0,1,5.5,0,0,0,0,0,0,77,0,77,42,True,False,False,Right-arm fast,Right-hand bat
+New Zealand,L Vincent,2764133a,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,46,True,False,False,Right-arm medium,Right-hand bat
+New Zealand,BB McCullum,b8a55852,2,13,15,0,1,86.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,19,0,12,31,43,True,True,False,Right-arm offbreak,Right-hand bat
+New Zealand,JM How,fd8f11e9,3,4,17,0,0,23.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2,,,,,,
+New Zealand,SB Styris,57efa3be,4,18,15,4,0,120.0,[14],1.0,6,1,0,14,1,1,0,0,0,0,0,14.0,0,0,0,0,0,34,1,0,35,49,True,False,True,Right-arm medium,Right-hand bat
+New Zealand,LRPL Taylor,b61a3e1a,5,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,-2,0,28,26,41,True,False,False,Right-arm offbreak,Right-hand bat
+New Zealand,MS Sinclair,1b668884,6,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,,,,,,
+New Zealand,JDP Oram,3eac9d95,7,66,31,5,6,212.9,"[6, 11, 13]",3.0,18,5,0,32,6,0,0,0,0,0,0,10.67,0,0,0,0,6,136,3,0,139,46,True,False,True,Right-arm fast-medium,Left-hand bat
+New Zealand,DL Vettori,d7c6af50,8,3,4,0,0,75.0,"[8, 10, 12, 16]",4.0,24,5,0,24,0,0,1,0,0,0,0,6.0,0,0,0,0,0,3,32,0,35,46,True,False,True,Slow left-arm orthodox,Left-hand bat
+New Zealand,KD Mills,7fb32e5b,9,4,8,1,0,50.0,"[1, 3, 5, 19]",4.0,24,8,0,35,5,0,0,0,0,0,1,8.75,0,0,0,0,0,8,8,0,16,46,True,False,False,Right-arm fast-medium,Right-hand bat
+New Zealand,MR Gillespie,7d7ab238,10,4,6,0,0,66.67,"[2, 4, 18, 20]",4.0,24,10,1,39,3,2,2,0,0,1,0,9.75,0,0,0,1,0,4,72,6,82,,,,,,
+New Zealand,JS Patel,f5821615,11,4,8,1,0,50.0,"[7, 9, 15, 17]",4.0,24,7,0,40,3,2,2,0,0,0,0,10.0,1,0,0,1,0,8,55,14,77,44,True,False,False,Right-arm offbreak,Right-hand bat

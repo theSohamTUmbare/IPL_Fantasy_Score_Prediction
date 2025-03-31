@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Cambodia,RR Sharan,7cff331d,1,6,5,1,0,120.0,"[12, 14, 16, 18]",4.0,24,20,1,10,0,0,1,0,0,0,5,2.5,0,0,0,0,0,10,63,0,73
-Cambodia,US Hathinjar,5f77f23a,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,0,0,20,20
-Cambodia,Lakshit Gupta,52b090a6,3,5,9,0,0,55.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,5,0,20,25
-Cambodia,Luqman Butt,7a6decc8,4,43,29,7,1,148.28,"[6, 8, 10, 20]",4.0,24,16,0,10,0,0,1,0,0,0,1,2.5,1,0,0,0,2,83,47,8,138
-Cambodia,E Beukes,fbb8cf87,5,15,12,1,1,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,25,0,8,33
-Cambodia,Prasad Anish,a21d62c9,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Cambodia,GC Murtaza,6cc4d322,6,0,0,0,0,0.0,"[2, 4, 15, 19]",4.0,24,14,0,17,1,0,1,0,0,0,3,4.25,0,0,0,0,0,0,45,0,45
-Cambodia,Utkarsh Jain,1f4a78c5,7,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,16,0,21,1,2,3,0,0,0,0,5.25,2,0,0,0,0,0,99,16,115
-Cambodia,Phon Bunthean,8981deb8,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Cambodia,Manish Sharma,5473ec6f,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Cambodia,S Godara,dd7dd27a,10,0,0,0,0,0.0,"[1, 3, 5, 17]",4.0,24,20,1,12,1,0,0,0,0,0,5,3.0,0,0,0,0,0,0,38,0,38
-Myanmar,KK Lin Thu,6cf75582,1,3,13,0,0,23.08,"[2, 4, 6]",3.0,18,9,0,9,0,0,1,0,0,0,1,3.0,0,0,0,0,-6,-3,40,0,37
-Myanmar,Pyae Phyo Wai,09e86895,2,16,15,1,1,106.67,[10],0.167,1,0,0,6,0,1,0,0,0,0,0,35.93,0,0,0,0,0,26,0,0,26
-Myanmar,Khin Aye,ad2efd29,3,2,11,0,0,18.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-4,0,0,-4
-Myanmar,Paing Danu,1eb5affb,4,5,5,1,0,100.0,"[1, 3, 5]",3.0,18,9,0,27,5,0,1,0,0,0,1,9.0,0,0,0,0,0,9,34,0,43
-Myanmar,Myat Thu Aung,cebbf3c9,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Myanmar,H Lin Aung,c343a8c6,5,11,18,0,1,61.11,[8],1.0,6,3,0,8,1,0,0,0,0,0,1,8.0,0,0,0,0,-2,15,3,0,18
-Myanmar,H Lin Oo,2e005bfd,6,2,7,0,0,28.57,[9],1.0,6,2,0,12,1,1,0,0,0,0,0,12.0,0,0,0,0,0,2,2,0,4
-Myanmar,Thuya Aung,2e092d2c,7,13,34,1,0,38.24,[7],1.0,6,2,0,10,2,0,0,0,0,0,0,10.0,0,0,1,0,-6,11,2,12,25
-Myanmar,Y Naing Tun,97b109d2,8,0,8,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,-2,0,16,14
-Myanmar,Nyeing Cham Soe,45b5ce8d,9,2,7,0,0,28.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Myanmar,Aung Ko Ko,648d060e,10,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Cambodia,RR Sharan,7cff331d,1,6,5,1,0,120.0,"[12, 14, 16, 18]",4.0,24,20,1,10,0,0,1,0,0,0,5,2.5,0,0,0,0,0,10,63,0,73,22,True,True,False,Right-arm offbreak,Right-hand bat
+Cambodia,US Hathinjar,5f77f23a,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,0,0,20,20,27,True,True,False,Right-arm medium,Right-hand bat
+Cambodia,Lakshit Gupta,52b090a6,3,5,9,0,0,55.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,5,0,20,25,26,True,True,False,Right-arm offbreak,Right-hand bat
+Cambodia,Luqman Butt,7a6decc8,4,43,29,7,1,148.28,"[6, 8, 10, 20]",4.0,24,16,0,10,0,0,1,0,0,0,1,2.5,1,0,0,0,2,83,47,8,138,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Cambodia,E Beukes,fbb8cf87,5,15,12,1,1,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,25,0,8,33,27,True,True,False,Right-arm medium,Right-hand bat
+Cambodia,Prasad Anish,a21d62c9,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,22,True,True,False,Right-arm medium,Right-hand bat
+Cambodia,GC Murtaza,6cc4d322,6,0,0,0,0,0.0,"[2, 4, 15, 19]",4.0,24,14,0,17,1,0,1,0,0,0,3,4.25,0,0,0,0,0,0,45,0,45,27,True,True,False,Right-arm medium,Right-hand bat
+Cambodia,Utkarsh Jain,1f4a78c5,7,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,16,0,21,1,2,3,0,0,0,0,5.25,2,0,0,0,0,0,99,16,115,23,True,True,False,Slow left-arm orthodox,Right-hand bat
+Cambodia,Phon Bunthean,8981deb8,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,23,True,True,False,Right-arm medium,Right-hand bat
+Cambodia,Manish Sharma,5473ec6f,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,47,True,True,False,Right-arm offbreak,Right-hand bat
+Cambodia,S Godara,dd7dd27a,10,0,0,0,0,0.0,"[1, 3, 5, 17]",4.0,24,20,1,12,1,0,0,0,0,0,5,3.0,0,0,0,0,0,0,38,0,38,23,True,True,False,Right-arm medium,Right-hand bat
+Myanmar,KK Lin Thu,6cf75582,1,3,13,0,0,23.08,"[2, 4, 6]",3.0,18,9,0,9,0,0,1,0,0,0,1,3.0,0,0,0,0,-6,-3,40,0,37,26,True,True,False,Right-arm medium-fast,Right-hand bat
+Myanmar,Pyae Phyo Wai,09e86895,2,16,15,1,1,106.67,[10],0.167,1,0,0,6,0,1,0,0,0,0,0,35.93,0,0,0,0,0,26,0,0,26,25,True,True,False,Slow left-arm orthodox,Left-hand bat
+Myanmar,Khin Aye,ad2efd29,3,2,11,0,0,18.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-4,0,0,-4,31,True,True,False,Right-arm medium-fast,Right-hand bat
+Myanmar,Paing Danu,1eb5affb,4,5,5,1,0,100.0,"[1, 3, 5]",3.0,18,9,0,27,5,0,1,0,0,0,1,9.0,0,0,0,0,0,9,34,0,43,25,True,True,False,Right-arm medium-fast,Right-hand bat
+Myanmar,Myat Thu Aung,cebbf3c9,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,20,True,True,False,Right-arm medium-fast,Right-hand bat
+Myanmar,H Lin Aung,c343a8c6,5,11,18,0,1,61.11,[8],1.0,6,3,0,8,1,0,0,0,0,0,1,8.0,0,0,0,0,-2,15,3,0,18,29,True,True,False,Right-arm offbreak,Right-hand bat
+Myanmar,H Lin Oo,2e005bfd,6,2,7,0,0,28.57,[9],1.0,6,2,0,12,1,1,0,0,0,0,0,12.0,0,0,0,0,0,2,2,0,4,29,True,True,False,Right-arm medium-fast,Right-hand bat
+Myanmar,Thuya Aung,2e092d2c,7,13,34,1,0,38.24,[7],1.0,6,2,0,10,2,0,0,0,0,0,0,10.0,0,0,1,0,-6,11,2,12,25,30,True,False,False,,Right-hand bat
+Myanmar,Y Naing Tun,97b109d2,8,0,8,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,-2,0,16,14,31,True,False,False,,Right-hand bat
+Myanmar,Nyeing Cham Soe,45b5ce8d,9,2,7,0,0,28.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,27,True,True,False,Right-arm medium-fast,Right-hand bat
+Myanmar,Aung Ko Ko,648d060e,10,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,31,True,True,False,Legbreak,Right-hand bat

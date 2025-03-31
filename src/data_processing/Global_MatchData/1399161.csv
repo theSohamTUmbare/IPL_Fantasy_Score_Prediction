@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Bermuda,KS Leverock,e1592949,1,23,23,1,1,100.0,"[2, 4, 13, 18]",4.0,24,7,0,50,5,3,0,0,0,0,1,12.5,0,0,0,0,0,33,1,0,34
-Bermuda,T Manders,6d2b9724,2,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
-Bermuda,TS Fray,c7537f8a,3,30,35,2,2,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,54,0,0,54
-Bermuda,DMW Rawlins,f1eb3c73,4,1,4,0,0,25.0,"[7, 9, 17]",3.0,18,10,1,11,0,0,0,0,0,0,0,3.67,0,0,0,0,0,1,28,0,29
-Bermuda,AC Douglas,f86ce673,5,22,13,1,2,169.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,42,0,8,50
-Bermuda,D Sabir,04bc296f,6,1,4,0,0,25.0,"[10, 12, 14, 16]",4.0,24,6,0,34,1,2,2,0,0,0,0,8.5,1,0,0,0,0,1,56,8,65
-Bermuda,Z Burgess,d0042e16,7,3,8,0,0,37.5,"[6, 8]",2.0,12,3,0,17,2,0,0,0,0,0,1,8.5,0,0,0,0,0,3,3,0,6
-Bermuda,C Trott,ae624b05,8,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11
-Bermuda,DL Brangman,dab18aa5,9,0,1,0,0,0.0,"[11, 15]",2.0,12,6,0,7,0,0,1,0,0,0,1,3.5,0,0,0,0,0,-2,37,0,35
-Bermuda,S Smith,18a0ba24,10,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Bermuda,C Outerbridge,ff722bc8,11,0,3,0,0,0.0,"[1, 3, 5]",3.0,18,11,0,10,1,0,1,0,0,0,0,3.33,0,0,0,0,0,-2,42,0,40
-Canada,A Johnson,a28a7fba,1,15,13,2,1,115.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,29,0,16,45
-Canada,NS Dhaliwal,cbabd6ad,2,45,38,4,1,118.42,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,71,0,8,79
-Canada,Pargat Singh,d2e67105,3,9,18,0,0,50.0,[9],1.0,6,2,0,3,0,0,0,0,0,0,0,3.0,0,0,0,0,-4,5,2,0,7
-Canada,H Thaker,c01d7726,4,21,22,1,0,95.45,"[2, 4, 6]",3.0,18,5,0,21,1,1,1,0,0,0,0,7.0,0,0,0,0,0,25,32,0,57
-Canada,NR Kirton,6b75c2b1,5,26,10,2,2,260.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,56,0,8,64
-Canada,D Heyliger,f8c72766,6,10,7,0,1,142.86,[5],1.0,6,0,0,12,2,0,0,0,0,0,0,12.0,1,0,0,0,0,16,0,8,24
-Canada,N Dutta,e258a603,11,0,0,0,0,0.0,"[8, 10, 12]",3.0,18,9,0,16,0,1,2,0,0,0,1,5.33,1,0,0,0,0,0,63,8,71
-Canada,Saad Bin Zafar,f28a60e0,12,0,0,0,0,0.0,"[7, 11, 13]",3.0,18,11,0,26,1,3,1,0,0,0,0,8.67,0,0,0,0,0,0,36,0,36
-Canada,Kaleem Sana,14810ee7,13,0,0,0,0,0.0,"[1, 3, 15, 17]",3.833,23,21,1,4,0,0,3,1,1,0,2,1.04,0,0,0,0,0,0,134,0,134
-Canada,JOA Gordon,bb9b51f4,14,0,0,0,0,0.0,"[14, 16]",2.0,12,6,0,6,0,0,3,0,0,0,0,3.0,0,0,0,0,0,0,91,0,91
-Canada,SA Wijeratne,5fbd0632,15,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,0,20,20
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bermuda,KS Leverock,e1592949,1,23,23,1,1,100.0,"[2, 4, 13, 18]",4.0,24,7,0,50,5,3,0,0,0,0,1,12.5,0,0,0,0,0,33,1,0,34,30,True,True,False,Right-arm medium-fast,Left-hand bat
+Bermuda,T Manders,6d2b9724,2,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,30,True,False,False,,Right-hand bat
+Bermuda,TS Fray,c7537f8a,3,30,35,2,2,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,54,0,0,54,33,True,False,False,,Right-hand bat
+Bermuda,DMW Rawlins,f1eb3c73,4,1,4,0,0,25.0,"[7, 9, 17]",3.0,18,10,1,11,0,0,0,0,0,0,0,3.67,0,0,0,0,0,1,28,0,29,27,True,False,True,Slow left-arm orthodox,Left-hand bat
+Bermuda,AC Douglas,f86ce673,5,22,13,1,2,169.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,42,0,8,50,37,True,False,False,,Right-hand bat
+Bermuda,D Sabir,04bc296f,6,1,4,0,0,25.0,"[10, 12, 14, 16]",4.0,24,6,0,34,1,2,2,0,0,0,0,8.5,1,0,0,0,0,1,56,8,65,21,True,False,False,,Right-hand bat
+Bermuda,Z Burgess,d0042e16,7,3,8,0,0,37.5,"[6, 8]",2.0,12,3,0,17,2,0,0,0,0,0,1,8.5,0,0,0,0,0,3,3,0,6,30,True,True,False,Right-arm medium,Right-hand bat
+Bermuda,C Trott,ae624b05,8,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11,36,True,True,False,Left-arm medium-fast,Left-hand bat
+Bermuda,DL Brangman,dab18aa5,9,0,1,0,0,0.0,"[11, 15]",2.0,12,6,0,7,0,0,1,0,0,0,1,3.5,0,0,0,0,0,-2,37,0,35,37,True,True,False,Slow left-arm orthodox,Left-hand bat
+Bermuda,S Smith,18a0ba24,10,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,33,True,False,False,,Right-hand bat
+Bermuda,C Outerbridge,ff722bc8,11,0,3,0,0,0.0,"[1, 3, 5]",3.0,18,11,0,10,1,0,1,0,0,0,0,3.33,0,0,0,0,0,-2,42,0,40,28,True,True,False,Left-arm fast-medium,Right-hand bat
+Canada,A Johnson,a28a7fba,1,15,13,2,1,115.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,29,0,16,45,34,True,False,False,Right-arm offbreak,Right-hand bat
+Canada,NS Dhaliwal,cbabd6ad,2,45,38,4,1,118.42,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,71,0,8,79,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Canada,Pargat Singh,d2e67105,3,9,18,0,0,50.0,[9],1.0,6,2,0,3,0,0,0,0,0,0,0,3.0,0,0,0,0,-4,5,2,0,7,32,True,False,True,Right-arm offbreak,Right-hand bat
+Canada,H Thaker,c01d7726,4,21,22,1,0,95.45,"[2, 4, 6]",3.0,18,5,0,21,1,1,1,0,0,0,0,7.0,0,0,0,0,0,25,32,0,57,27,True,False,True,Right-arm offbreak,Right-hand bat
+Canada,NR Kirton,6b75c2b1,5,26,10,2,2,260.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,56,0,8,64,26,True,False,True,,Left-hand bat
+Canada,D Heyliger,f8c72766,6,10,7,0,1,142.86,[5],1.0,6,0,0,12,2,0,0,0,0,0,0,12.0,1,0,0,0,0,16,0,8,24,35,True,False,False,Right-arm medium,Right-hand bat
+Canada,N Dutta,e258a603,11,0,0,0,0,0.0,"[8, 10, 12]",3.0,18,9,0,16,0,1,2,0,0,0,1,5.33,1,0,0,0,0,0,63,8,71,30,True,False,False,Right-arm offbreak,Right-hand bat
+Canada,Saad Bin Zafar,f28a60e0,12,0,0,0,0,0.0,"[7, 11, 13]",3.0,18,11,0,26,1,3,1,0,0,0,0,8.67,0,0,0,0,0,0,36,0,36,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Canada,Kaleem Sana,14810ee7,13,0,0,0,0,0.0,"[1, 3, 15, 17]",3.833,23,21,1,4,0,0,3,1,1,0,2,1.04,0,0,0,0,0,0,134,0,134,31,True,False,False,Left-arm medium-fast,Right-hand bat
+Canada,JOA Gordon,bb9b51f4,14,0,0,0,0,0.0,"[14, 16]",2.0,12,6,0,6,0,0,3,0,0,0,0,3.0,0,0,0,0,0,0,91,0,91,38,True,False,False,Right-arm fast-medium,Right-hand bat
+Canada,SA Wijeratne,5fbd0632,15,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,0,20,20,35,True,False,False,,Right-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Oman,Aamir Kaleem,7ecb9a14,1,0,4,0,0,0.0,"[5, 14]",2.0,12,3,0,26,2,2,0,0,0,0,0,13.0,0,0,0,0,0,-2,-3,0,-5
-Oman,Jatinder Singh,b80dd12c,2,51,31,7,2,164.52,[16],0.167,1,0,0,6,0,1,0,0,0,0,0,35.93,0,0,0,0,4,103,0,0,103
-Oman,Mujibur Ali,e88468b7,3,5,6,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
-Oman,Hammad Mirza,0b7b78c6,4,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Oman,Mohammad Nadeem,c5d7b244,5,11,16,1,0,68.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,13,0,0,13
-Oman,J Ramanandi,f7ce2ff9,6,16,31,0,0,51.61,"[10, 12]",2.0,12,3,0,9,0,0,0,0,0,0,0,4.5,0,0,0,0,-4,12,9,0,21
-Oman,V Shukla,101b1180,7,13,13,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
-Oman,Shakeel Ahmed,e29e9c12,8,24,14,1,2,171.43,"[1, 3, 15]",3.0,18,8,0,21,2,1,0,0,0,0,0,7.0,0,0,0,0,6,46,10,0,56
-Oman,S Shrivastava,ac166f77,9,0,1,0,0,0.0,"[7, 9, 11, 13]",4.0,24,8,0,27,2,1,1,0,1,0,0,6.75,0,0,0,0,0,-2,43,0,41
-Oman,Muhammed Imran,5278cecc,10,0,1,0,0,0.0,"[2, 4]",2.0,12,5,0,19,4,0,1,0,0,0,0,9.5,0,0,0,0,0,-2,30,0,28
-Oman,Bilal Shah,c7530eeb,11,1,1,0,0,100.0,"[6, 8]",2.0,12,2,0,18,1,1,0,0,0,0,0,9.0,1,0,0,0,0,1,2,8,11
-United States of America,SR Mukkamalla,156d0ea2,1,19,11,3,1,172.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,43,0,0,43
-United States of America,AGS Gous,d1305df0,2,31,21,4,1,147.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,59,0,16,75
-United States of America,Milind Kumar,b4296080,3,56,38,4,3,147.37,"[2, 10, 12]",3.0,18,10,0,14,2,0,1,0,1,0,1,4.67,1,0,0,0,2,100,49,8,157
-United States of America,MD Patel,25d7f1ac,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-United States of America,Aaron Jones,17aa4f1d,4,20,21,0,1,95.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26
-United States of America,SP Krishnamurthi,3b8e7647,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-United States of America,Harmeet Singh,0bf15e52,6,0,0,0,0,0.0,"[7, 9, 15, 17]",4.0,24,7,0,25,1,1,0,0,0,0,0,6.25,0,0,0,0,0,0,9,0,9
-United States of America,NP Kenjige,f7d267f7,7,0,0,0,0,0.0,"[6, 8, 11, 13]",4.0,24,13,0,20,1,1,1,1,0,0,0,5.0,0,0,0,0,0,0,50,0,50
-United States of America,Ali Sheikh,fa4f5a0b,8,0,0,0,0,0.0,"[4, 14, 16, 18]",4.0,24,9,0,34,3,2,2,0,1,0,0,8.5,0,0,1,0,0,0,67,12,79
-United States of America,J Drysdale,23f94c02,9,0,0,0,0,0.0,"[1, 3, 19]",3.0,18,10,0,18,3,0,3,0,1,0,0,6.0,0,0,0,0,0,0,99,0,99
-United States of America,SV Wiig,44f11bd0,10,0,0,0,0,0.0,"[5, 20]",2.0,12,6,0,11,1,0,2,0,1,0,0,5.5,0,0,0,0,0,0,68,0,68
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Oman,Aamir Kaleem,7ecb9a14,1,0,4,0,0,0.0,"[5, 14]",2.0,12,3,0,26,2,2,0,0,0,0,0,13.0,0,0,0,0,0,-2,-3,0,-5,43,True,False,False,Slow left-arm orthodox,Left-hand bat
+Oman,Jatinder Singh,b80dd12c,2,51,31,7,2,164.52,[16],0.167,1,0,0,6,0,1,0,0,0,0,0,35.93,0,0,0,0,4,103,0,0,103,36,True,False,False,Right-arm offbreak,Right-hand bat
+Oman,Mujibur Ali,e88468b7,3,5,6,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,28,True,True,False,Left-arm medium,Left-hand bat
+Oman,Hammad Mirza,0b7b78c6,4,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,False,False,,Right-hand bat
+Oman,Mohammad Nadeem,c5d7b244,5,11,16,1,0,68.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,13,0,0,13,42,True,False,True,Right-arm medium-fast,Right-hand bat
+Oman,J Ramanandi,f7ce2ff9,6,16,31,0,0,51.61,"[10, 12]",2.0,12,3,0,9,0,0,0,0,0,0,0,4.5,0,0,0,0,-4,12,9,0,21,30,True,True,False,Left-arm medium,Left-hand bat
+Oman,V Shukla,101b1180,7,13,13,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,30,True,False,False,,Right-hand bat
+Oman,Shakeel Ahmed,e29e9c12,8,24,14,1,2,171.43,"[1, 3, 15]",3.0,18,8,0,21,2,1,0,0,0,0,0,7.0,0,0,0,0,6,46,10,0,56,37,True,False,False,Slow left-arm orthodox,Left-hand bat
+Oman,S Shrivastava,ac166f77,9,0,1,0,0,0.0,"[7, 9, 11, 13]",4.0,24,8,0,27,2,1,1,0,1,0,0,6.75,0,0,0,0,0,-2,43,0,41,34,True,False,False,Legbreak,Right-hand bat
+Oman,Muhammed Imran,5278cecc,10,0,1,0,0,0.0,"[2, 4]",2.0,12,5,0,19,4,0,1,0,0,0,0,9.5,0,0,0,0,0,-2,30,0,28,35,True,True,False,Right-arm fast-medium,Right-hand bat
+Oman,Bilal Shah,c7530eeb,11,1,1,0,0,100.0,"[6, 8]",2.0,12,2,0,18,1,1,0,0,0,0,0,9.0,1,0,0,0,0,1,2,8,11,27,True,True,False,Right-arm medium-fast,Right-hand bat
+United States of America,SR Mukkamalla,156d0ea2,1,19,11,3,1,172.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,43,0,0,43,20,True,False,False,Right-arm offbreak,Right-hand bat
+United States of America,AGS Gous,d1305df0,2,31,21,4,1,147.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,59,0,16,75,31,True,False,False,,Right-hand bat
+United States of America,Milind Kumar,b4296080,3,56,38,4,3,147.37,"[2, 10, 12]",3.0,18,10,0,14,2,0,1,0,1,0,1,4.67,1,0,0,0,2,100,49,8,157,34,True,False,True,Right-arm offbreak,Right-hand bat
+United States of America,MD Patel,25d7f1ac,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,31,True,False,False,,Right-hand bat
+United States of America,Aaron Jones,17aa4f1d,4,20,21,0,1,95.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26,30,True,False,False,Legbreak googly,Right-hand bat
+United States of America,SP Krishnamurthi,3b8e7647,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,21,True,False,True,Slow left-arm orthodox,Right-hand bat
+United States of America,Harmeet Singh,0bf15e52,6,0,0,0,0,0.0,"[7, 9, 15, 17]",4.0,24,7,0,25,1,1,0,0,0,0,0,6.25,0,0,0,0,0,0,9,0,9,32,True,False,True,Slow left-arm orthodox,Left-hand bat
+United States of America,NP Kenjige,f7d267f7,7,0,0,0,0,0.0,"[6, 8, 11, 13]",4.0,24,13,0,20,1,1,1,1,0,0,0,5.0,0,0,0,0,0,0,50,0,50,34,True,False,False,Slow left-arm orthodox,Right-hand bat
+United States of America,Ali Sheikh,fa4f5a0b,8,0,0,0,0,0.0,"[4, 14, 16, 18]",4.0,24,9,0,34,3,2,2,0,1,0,0,8.5,0,0,1,0,0,0,67,12,79,22,True,False,True,Slow left-arm orthodox,Left-hand bat
+United States of America,J Drysdale,23f94c02,9,0,0,0,0,0.0,"[1, 3, 19]",3.0,18,10,0,18,3,0,3,0,1,0,0,6.0,0,0,0,0,0,0,99,0,99,33,True,False,True,Right-arm medium,Right-hand bat
+United States of America,SV Wiig,44f11bd0,10,0,0,0,0,0.0,"[5, 20]",2.0,12,6,0,11,1,0,2,0,1,0,0,5.5,0,0,0,0,0,0,68,0,68,26,True,True,False,Left-arm medium-fast,Right-hand bat

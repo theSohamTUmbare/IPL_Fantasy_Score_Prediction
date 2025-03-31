@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Canada,RA Thomas,6db7068e,1,13,22,1,0,59.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,13,0,8,21
-Canada,NS Dhaliwal,cbabd6ad,2,36,26,4,1,138.46,"[12, 14]",2.0,12,3,0,12,1,0,1,0,0,0,0,6.0,0,0,0,0,2,64,30,0,94
-Canada,NR Kumar,b3bad3f2,3,83,36,4,6,230.56,"[8, 10]",2.0,12,4,0,15,0,1,0,0,0,0,0,7.5,2,0,0,0,6,153,4,16,173
-Canada,NR Kirton,6b75c2b1,4,21,21,1,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31
-Canada,Ravinderpal Singh,f80682f8,5,9,10,0,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17
-Canada,Hamza Tariq,82e81007,6,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Canada,D Heyliger,f8c72766,7,7,3,1,0,233.33,"[2, 5, 16]",3.0,18,9,0,20,2,0,3,0,1,0,5,6.67,0,0,0,0,0,11,98,0,109
-Canada,Abraash Khan,684dc2da,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Canada,Saad Bin Zafar,f28a60e0,12,0,0,0,0,0.0,"[4, 6, 11, 13]",4.0,24,8,0,34,2,2,1,0,1,0,0,8.5,0,0,0,0,0,0,41,0,41
-Canada,N Dutta,e258a603,13,0,0,0,0,0.0,"[7, 9, 15]",3.0,18,5,0,24,1,1,1,0,0,0,3,8.0,0,0,0,0,0,0,30,0,30
-Canada,JOA Gordon,bb9b51f4,14,0,0,0,0,0.0,"[1, 3, 17]",3.0,18,10,0,14,2,0,3,0,2,0,1,4.67,1,0,0,0,0,0,111,8,119
-Jersey,NJ Ferraby,c149b9ca,1,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Jersey,H Carlyon,42bf1b7d,2,12,13,2,0,92.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
-Jersey,BDH Stevens,f8035c2a,3,3,4,0,0,75.0,"[4, 11, 14, 18]",4.0,24,6,0,38,2,2,0,0,0,0,0,9.5,1,0,0,0,0,3,6,8,17
-Jersey,JW Jenner,32a8161e,4,56,32,5,3,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,108,0,8,116
-Jersey,NA Greenwood,7ca68967,5,7,6,1,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19
-Jersey,B Ward,9e0bd203,6,14,15,0,1,93.33,"[7, 9, 15]",3.0,18,9,0,22,0,2,1,0,0,0,0,7.33,0,0,0,0,0,20,34,0,54
-Jersey,DG Blampied,d8976cb7,7,14,18,0,0,77.78,"[2, 5, 13]",3.0,18,6,0,30,1,2,0,0,0,0,0,10.0,0,0,0,0,0,14,4,0,18
-Jersey,AW Hawkins-Kay,8160713d,8,2,4,0,0,50.0,"[1, 6, 20]",3.0,18,4,0,23,3,0,0,0,0,0,1,7.67,0,0,0,0,0,2,4,0,6
-Jersey,J Sumerauer,0b581ed6,9,2,5,0,0,40.0,"[8, 12, 17]",3.0,18,2,0,38,4,2,2,0,1,0,0,12.67,0,0,0,0,0,2,54,0,56
-Jersey,JE Dunford,89a7dd4a,10,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,-2,0,12,10
-Jersey,CW Perchard,9f998ed8,11,0,1,0,0,0.0,"[3, 10, 16, 19]",4.0,24,9,0,21,1,0,2,0,0,0,2,5.25,0,0,0,0,0,0,63,0,63
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Canada,RA Thomas,6db7068e,1,13,22,1,0,59.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,13,0,8,21,34,True,False,False,,Left-hand bat
+Canada,NS Dhaliwal,cbabd6ad,2,36,26,4,1,138.46,"[12, 14]",2.0,12,3,0,12,1,0,1,0,0,0,0,6.0,0,0,0,0,2,64,30,0,94,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Canada,NR Kumar,b3bad3f2,3,83,36,4,6,230.56,"[8, 10]",2.0,12,4,0,15,0,1,0,0,0,0,0,7.5,2,0,0,0,6,153,4,16,173,30,True,False,False,Right-arm offbreak,Right-hand bat
+Canada,NR Kirton,6b75c2b1,4,21,21,1,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31,26,True,False,True,,Left-hand bat
+Canada,Ravinderpal Singh,f80682f8,5,9,10,0,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17,36,True,False,False,Right-arm offbreak,Right-hand bat
+Canada,Hamza Tariq,82e81007,6,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,34,True,False,False,,Right-hand bat
+Canada,D Heyliger,f8c72766,7,7,3,1,0,233.33,"[2, 5, 16]",3.0,18,9,0,20,2,0,3,0,1,0,5,6.67,0,0,0,0,0,11,98,0,109,35,True,False,False,Right-arm medium,Right-hand bat
+Canada,Abraash Khan,684dc2da,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,True,False,Right-arm medium,Right-hand bat
+Canada,Saad Bin Zafar,f28a60e0,12,0,0,0,0,0.0,"[4, 6, 11, 13]",4.0,24,8,0,34,2,2,1,0,1,0,0,8.5,0,0,0,0,0,0,41,0,41,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Canada,N Dutta,e258a603,13,0,0,0,0,0.0,"[7, 9, 15]",3.0,18,5,0,24,1,1,1,0,0,0,3,8.0,0,0,0,0,0,0,30,0,30,30,True,False,False,Right-arm offbreak,Right-hand bat
+Canada,JOA Gordon,bb9b51f4,14,0,0,0,0,0.0,"[1, 3, 17]",3.0,18,10,0,14,2,0,3,0,2,0,1,4.67,1,0,0,0,0,0,111,8,119,38,True,False,False,Right-arm fast-medium,Right-hand bat
+Jersey,NJ Ferraby,c149b9ca,1,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,41,True,True,False,Right-arm medium,Right-hand bat
+Jersey,H Carlyon,42bf1b7d,2,12,13,2,0,92.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,24,True,True,False,Right-arm offbreak,Right-hand bat
+Jersey,BDH Stevens,f8035c2a,3,3,4,0,0,75.0,"[4, 11, 14, 18]",4.0,24,6,0,38,2,2,0,0,0,0,0,9.5,1,0,0,0,0,3,6,8,17,32,True,True,False,Slow left-arm orthodox,Left-hand bat
+Jersey,JW Jenner,32a8161e,4,56,32,5,3,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,108,0,8,116,27,True,True,False,Right-arm offbreak,Right-hand bat
+Jersey,NA Greenwood,7ca68967,5,7,6,1,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19,25,True,False,False,,Right-hand bat
+Jersey,B Ward,9e0bd203,6,14,15,0,1,93.33,"[7, 9, 15]",3.0,18,9,0,22,0,2,1,0,0,0,0,7.33,0,0,0,0,0,20,34,0,54,26,True,True,False,Legbreak,Right-hand bat
+Jersey,DG Blampied,d8976cb7,7,14,18,0,0,77.78,"[2, 5, 13]",3.0,18,6,0,30,1,2,0,0,0,0,0,10.0,0,0,0,0,0,14,4,0,18,28,True,True,False,Legbreak,Right-hand bat
+Jersey,AW Hawkins-Kay,8160713d,8,2,4,0,0,50.0,"[1, 6, 20]",3.0,18,4,0,23,3,0,0,0,0,0,1,7.67,0,0,0,0,0,2,4,0,6,34,True,True,False,Right-arm fast-medium,Right-hand bat
+Jersey,J Sumerauer,0b581ed6,9,2,5,0,0,40.0,"[8, 12, 17]",3.0,18,2,0,38,4,2,2,0,1,0,0,12.67,0,0,0,0,0,2,54,0,56,24,True,True,False,Right-arm fast-medium,Right-hand bat
+Jersey,JE Dunford,89a7dd4a,10,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,-2,0,12,10,30,True,False,False,,Right-hand bat
+Jersey,CW Perchard,9f998ed8,11,0,1,0,0,0.0,"[3, 10, 16, 19]",4.0,24,9,0,21,1,0,2,0,0,0,2,5.25,0,0,0,0,0,0,63,0,63,32,True,True,False,Right-arm medium,Right-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Glamorgan,MA Wallace,cabf72cc,1,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,2,0,20,22
-Glamorgan,J Allenby,7d5e0b78,2,38,30,6,0,126.67,"[7, 9, 16]",3.0,18,8,0,14,1,0,0,0,0,0,0,4.67,2,0,0,0,0,66,14,16,96
-Glamorgan,JA Rudolph,42537f07,3,67,49,6,1,136.73,[12],1.0,6,4,0,2,0,0,0,0,0,0,0,2.0,0,0,0,0,2,107,4,0,111
-Glamorgan,MW Goodwin,03ae720f,4,17,17,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,25,0,8,33
-Glamorgan,CB Cooke,6755cd5c,5,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Glamorgan,SJ Walters,0bfcc974,6,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Glamorgan,DL Lloyd,0c7f11be,7,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Glamorgan,GG Wagg,450f6fa6,8,3,7,0,0,42.86,"[2, 4, 6, 19]",4.0,24,11,0,28,3,0,3,0,1,0,3,7.0,0,0,0,0,0,3,100,0,103
-Glamorgan,DA Cosker,aac9f784,9,0,0,0,0,0.0,"[11, 13, 15, 17]",4.0,24,3,0,35,1,1,0,0,0,0,0,8.75,1,0,0,0,0,0,3,8,11
-Glamorgan,AG Salter,1a45b864,9,5,2,1,0,250.0,"[1, 8, 10, 14]",4.0,24,9,0,19,0,0,2,0,0,0,0,4.75,0,0,0,0,0,9,65,0,74
-Glamorgan,MG Hogan,5da34add,10,0,0,0,0,0.0,"[3, 5, 18, 20]",4.0,24,10,0,33,6,0,3,0,0,0,1,8.25,0,0,0,0,0,0,89,0,89
-Lancashire,TC Smith,c163432a,1,5,8,1,0,62.5,"[2, 4]",2.0,12,7,0,10,2,0,1,0,0,0,0,5.0,1,0,0,0,0,9,36,8,53
-Lancashire,AG Prince,035cb925,2,7,5,1,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
-Lancashire,UT Khawaja,331ea488,3,67,54,6,1,124.07,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,105,0,0,105
-Lancashire,KR Brown,818c9e0d,4,15,14,2,0,107.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
-Lancashire,PJ Horton,6f4775f7,5,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11
-Lancashire,SJ Croft,ab474682,6,16,22,0,0,72.73,"[1, 10, 12, 15]",4.0,24,8,0,25,3,0,1,0,0,0,0,6.25,0,0,0,0,0,16,35,0,51
-Lancashire,AL Davies,29ede60b,7,4,3,0,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12
-Lancashire,J Clark,c672e80e,8,6,5,0,0,120.0,"[14, 16, 18, 20]",4.0,24,13,1,22,2,0,4,0,3,0,0,5.5,0,0,0,0,0,6,161,0,167
-Lancashire,KM Jarvis,59792462,9,0,0,0,0,0.0,"[3, 5, 19]",3.0,18,6,0,25,4,0,1,0,0,0,0,8.33,0,0,0,0,0,0,31,0,31
-Lancashire,WA White,6355d428,9,4,3,1,0,133.33,"[6, 8, 17]",3.0,18,5,0,28,3,1,0,0,0,0,1,9.33,1,0,0,0,0,8,5,8,21
-Lancashire,SD Parry,fdb8ed0d,10,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,4,0,25,1,0,0,0,0,0,0,6.25,0,0,0,0,0,0,6,0,6
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Glamorgan,MA Wallace,cabf72cc,1,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,2,0,20,22,43,True,False,False,,Left-hand bat
+Glamorgan,J Allenby,7d5e0b78,2,38,30,6,0,126.67,"[7, 9, 16]",3.0,18,8,0,14,1,0,0,0,0,0,0,4.67,2,0,0,0,0,66,14,16,96,42,True,False,True,Right-arm medium,Right-hand bat
+Glamorgan,JA Rudolph,42537f07,3,67,49,6,1,136.73,[12],1.0,6,4,0,2,0,0,0,0,0,0,0,2.0,0,0,0,0,2,107,4,0,111,43,True,False,False,Legbreak googly,Left-hand bat
+Glamorgan,MW Goodwin,03ae720f,4,17,17,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,25,0,8,33,52,True,False,False,Legbreak,Right-hand bat
+Glamorgan,CB Cooke,6755cd5c,5,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,38,True,True,False,Right-arm slow-medium,Right-hand bat
+Glamorgan,SJ Walters,0bfcc974,6,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,41,True,False,False,Legbreak,Right-hand bat
+Glamorgan,DL Lloyd,0c7f11be,7,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,32,True,False,True,Right-arm medium,Right-hand bat
+Glamorgan,GG Wagg,450f6fa6,8,3,7,0,0,42.86,"[2, 4, 6, 19]",4.0,24,11,0,28,3,0,3,0,1,0,3,7.0,0,0,0,0,0,3,100,0,103,41,True,False,True,Left-arm medium-fast,Right-hand bat
+Glamorgan,DA Cosker,aac9f784,9,0,0,0,0,0.0,"[11, 13, 15, 17]",4.0,24,3,0,35,1,1,0,0,0,0,0,8.75,1,0,0,0,0,0,3,8,11,47,True,False,False,Slow left-arm orthodox,Right-hand bat
+Glamorgan,AG Salter,1a45b864,9,5,2,1,0,250.0,"[1, 8, 10, 14]",4.0,24,9,0,19,0,0,2,0,0,0,0,4.75,0,0,0,0,0,9,65,0,74,31,True,False,False,Right-arm offbreak,Right-hand bat
+Glamorgan,MG Hogan,5da34add,10,0,0,0,0,0.0,"[3, 5, 18, 20]",4.0,24,10,0,33,6,0,3,0,0,0,1,8.25,0,0,0,0,0,0,89,0,89,43,True,False,False,Right-arm fast-medium,Right-hand bat
+Lancashire,TC Smith,c163432a,1,5,8,1,0,62.5,"[2, 4]",2.0,12,7,0,10,2,0,1,0,0,0,0,5.0,1,0,0,0,0,9,36,8,53,39,True,False,True,Right-arm medium,Left-hand bat
+Lancashire,AG Prince,035cb925,2,7,5,1,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,47,True,False,False,Right-arm offbreak,Left-hand bat
+Lancashire,UT Khawaja,331ea488,3,67,54,6,1,124.07,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,105,0,0,105,38,True,False,False,Right-arm medium,Left-hand bat
+Lancashire,KR Brown,818c9e0d,4,15,14,2,0,107.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23,36,True,False,False,Right-arm medium,Right-hand bat
+Lancashire,PJ Horton,6f4775f7,5,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11,42,True,False,False,Right-arm medium,Right-hand bat
+Lancashire,SJ Croft,ab474682,6,16,22,0,0,72.73,"[1, 10, 12, 15]",4.0,24,8,0,25,3,0,1,0,0,0,0,6.25,0,0,0,0,0,16,35,0,51,40,True,False,True,Right-arm offbreak,Right-hand bat
+Lancashire,AL Davies,29ede60b,7,4,3,0,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12,30,True,False,False,,Right-hand bat
+Lancashire,J Clark,c672e80e,8,6,5,0,0,120.0,"[14, 16, 18, 20]",4.0,24,13,1,22,2,0,4,0,3,0,0,5.5,0,0,0,0,0,6,161,0,167,34,True,False,True,Right-arm medium-fast,Right-hand bat
+Lancashire,KM Jarvis,59792462,9,0,0,0,0,0.0,"[3, 5, 19]",3.0,18,6,0,25,4,0,1,0,0,0,0,8.33,0,0,0,0,0,0,31,0,31,36,True,False,False,Right-arm fast-medium,Right-hand bat
+Lancashire,WA White,6355d428,9,4,3,1,0,133.33,"[6, 8, 17]",3.0,18,5,0,28,3,1,0,0,0,0,1,9.33,1,0,0,0,0,8,5,8,21,39,True,False,True,Right-arm medium-fast,Right-hand bat
+Lancashire,SD Parry,fdb8ed0d,10,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,4,0,25,1,0,0,0,0,0,0,6.25,0,0,0,0,0,0,6,0,6,39,True,False,False,Slow left-arm orthodox,Right-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Gloucestershire,HJH Marshall,70542bef,1,12,7,1,1,171.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,22,0,8,30
-Gloucestershire,M Klinger,b970a03f,2,42,23,4,3,182.61,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,86,0,0,86
-Gloucestershire,CT Bancroft,399b0b94,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0,0,12,12
-Gloucestershire,IA Cockbain,542fd5a6,3,24,15,2,1,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,42,0,0,42
-Gloucestershire,CDJ Dent,10435ca2,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Gloucestershire,BAC Howell,0bec3a6c,5,0,0,0,0,0.0,"[7, 11, 14, 18]",4.0,24,4,0,50,3,4,2,0,0,0,0,12.5,0,0,0,0,0,0,48,0,48
-Gloucestershire,JMR Taylor,aed5be04,6,0,0,0,0,0.0,"[8, 10, 16]",3.0,18,6,0,27,0,2,0,0,0,0,5,9.0,1,0,0,0,0,0,6,8,14
-Gloucestershire,TMJ Smith,0a12e736,7,0,0,0,0,0.0,"[4, 6, 12, 20]",4.0,24,6,0,31,4,0,1,0,0,0,0,7.75,0,0,0,0,0,0,31,0,31
-Gloucestershire,CN Miles,5fed6272,8,0,0,0,0,0.0,"[2, 5, 19]",3.0,18,3,0,29,2,1,2,0,1,0,0,9.67,1,0,0,0,0,0,61,8,69
-Gloucestershire,DA Payne,6c79c098,9,0,0,0,0,0.0,"[1, 9, 15, 17]",4.0,24,2,0,62,5,4,0,0,0,0,1,15.5,0,0,0,0,0,0,-4,0,-4
-Gloucestershire,CJ Liddle,5b3acc53,10,0,0,0,0,0.0,"[3, 13]",2.0,12,2,0,35,3,3,0,0,0,0,1,17.5,0,0,0,0,0,0,-4,0,-4
-Sussex,CD Nash,6f049d41,1,30,17,6,0,176.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,64,0,0,64
-Sussex,PD Salt,3d284ca3,2,24,12,2,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,44,0,0,44
-Sussex,OE Robinson,0f3ee070,3,0,0,0,0,0.0,[4],1.0,6,0,0,17,0,2,0,0,0,0,0,17.0,0,0,0,0,0,0,0,0,0
-Sussex,BC Brown,8af86756,3,43,25,3,2,172.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,77,0,0,77
-Sussex,LRPL Taylor,b61a3e1a,4,93,48,4,8,193.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,175,0,0,175
-Sussex,DR Briggs,f3abd0c9,4,0,0,0,0,0.0,"[1, 7]",2.0,12,4,0,25,2,2,0,0,0,0,1,12.5,1,0,0,0,0,0,-2,8,6
-Sussex,A Shahzad,a73321d3,5,0,0,0,0,0.0,"[2, 6]",2.0,12,4,0,19,2,1,1,0,0,0,0,9.5,0,0,0,0,0,0,29,0,29
-Sussex,MW Machan,8c7d6cbe,5,31,12,2,3,258.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,67,0,0,67
-Sussex,Craig Cachopa,af294a6c,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Sussex,TS Mills,245c97cb,6,0,0,0,0,0.0,"[3, 5]",2.0,12,4,0,19,3,0,0,0,0,2,0,9.5,0,0,0,0,0,0,4,0,4
-Sussex,WAT Beer,98eacfe5,7,6,5,0,0,120.0,[8],0.5,3,1,0,1,0,0,0,0,0,0,0,2.0,0,0,0,0,0,6,1,0,7
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Gloucestershire,HJH Marshall,70542bef,1,12,7,1,1,171.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,22,0,8,30,46,True,False,False,Right-arm medium,Right-hand bat
+Gloucestershire,M Klinger,b970a03f,2,42,23,4,3,182.61,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,86,0,0,86,44,True,False,False,,Right-hand bat
+Gloucestershire,CT Bancroft,399b0b94,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0,0,12,12,32,True,False,False,,Right-hand bat
+Gloucestershire,IA Cockbain,542fd5a6,3,24,15,2,1,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,42,0,0,42,38,True,False,False,Right-arm medium,Right-hand bat
+Gloucestershire,CDJ Dent,10435ca2,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,34,True,False,False,Slow left-arm orthodox,Left-hand bat
+Gloucestershire,BAC Howell,0bec3a6c,5,0,0,0,0,0.0,"[7, 11, 14, 18]",4.0,24,4,0,50,3,4,2,0,0,0,0,12.5,0,0,0,0,0,0,48,0,48,36,True,False,True,Right-arm medium,Right-hand bat
+Gloucestershire,JMR Taylor,aed5be04,6,0,0,0,0,0.0,"[8, 10, 16]",3.0,18,6,0,27,0,2,0,0,0,0,5,9.0,1,0,0,0,0,0,6,8,14,33,True,False,False,Legbreak,Right-hand bat
+Gloucestershire,TMJ Smith,0a12e736,7,0,0,0,0,0.0,"[4, 6, 12, 20]",4.0,24,6,0,31,4,0,1,0,0,0,0,7.75,0,0,0,0,0,0,31,0,31,37,True,False,False,Slow left-arm orthodox,Right-hand bat
+Gloucestershire,CN Miles,5fed6272,8,0,0,0,0,0.0,"[2, 5, 19]",3.0,18,3,0,29,2,1,2,0,1,0,0,9.67,1,0,0,0,0,0,61,8,69,30,True,False,False,Right-arm medium,Right-hand bat
+Gloucestershire,DA Payne,6c79c098,9,0,0,0,0,0.0,"[1, 9, 15, 17]",4.0,24,2,0,62,5,4,0,0,0,0,1,15.5,0,0,0,0,0,0,-4,0,-4,34,True,False,False,Left-arm fast-medium,Right-hand bat
+Gloucestershire,CJ Liddle,5b3acc53,10,0,0,0,0,0.0,"[3, 13]",2.0,12,2,0,35,3,3,0,0,0,0,1,17.5,0,0,0,0,0,0,-4,0,-4,41,True,False,False,Left-arm fast-medium,Right-hand bat
+Sussex,CD Nash,6f049d41,1,30,17,6,0,176.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,64,0,0,64,41,True,False,False,Right-arm offbreak,Right-hand bat
+Sussex,PD Salt,3d284ca3,2,24,12,2,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,44,0,0,44,28,True,True,False,Right-arm offbreak,Right-hand bat
+Sussex,OE Robinson,0f3ee070,3,0,0,0,0,0.0,[4],1.0,6,0,0,17,0,2,0,0,0,0,0,17.0,0,0,0,0,0,0,0,0,0,31,True,False,False,Right-arm medium-fast,Right-hand bat
+Sussex,BC Brown,8af86756,3,43,25,3,2,172.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,77,0,0,77,36,True,True,False,Slow left-arm orthodox,Right-hand bat
+Sussex,LRPL Taylor,b61a3e1a,4,93,48,4,8,193.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,175,0,0,175,41,True,False,False,Right-arm offbreak,Right-hand bat
+Sussex,DR Briggs,f3abd0c9,4,0,0,0,0,0.0,"[1, 7]",2.0,12,4,0,25,2,2,0,0,0,0,1,12.5,1,0,0,0,0,0,-2,8,6,33,True,False,False,Slow left-arm orthodox,Right-hand bat
+Sussex,A Shahzad,a73321d3,5,0,0,0,0,0.0,"[2, 6]",2.0,12,4,0,19,2,1,1,0,0,0,0,9.5,0,0,0,0,0,0,29,0,29,39,True,False,False,Right-arm fast-medium,Right-hand bat
+Sussex,MW Machan,8c7d6cbe,5,31,12,2,3,258.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,67,0,0,67,34,True,False,False,Right-arm offbreak,Left-hand bat
+Sussex,Craig Cachopa,af294a6c,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,33,True,False,False,,Right-hand bat
+Sussex,TS Mills,245c97cb,6,0,0,0,0,0.0,"[3, 5]",2.0,12,4,0,19,3,0,0,0,0,2,0,9.5,0,0,0,0,0,0,4,0,4,32,True,False,False,Left-arm fast,Right-hand bat
+Sussex,WAT Beer,98eacfe5,7,6,5,0,0,120.0,[8],0.5,3,1,0,1,0,0,0,0,0,0,0,2.0,0,0,0,0,0,6,1,0,7,36,True,False,False,Legbreak,Right-hand bat

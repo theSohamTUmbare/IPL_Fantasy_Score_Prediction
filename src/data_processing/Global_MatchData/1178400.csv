@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Chennai Super Kings,SR Watson,4329fbb5,1,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Chennai Super Kings,F du Plessis,3355b542,2,7,10,0,0,70.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,5,0,0,5
-Chennai Super Kings,SK Raina,1dc12ab9,3,4,4,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
-Chennai Super Kings,AT Rayudu,70d205c9,4,57,47,2,3,121.28,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,91,0,16,107
-Chennai Super Kings,KM Jadhav,99d63244,5,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
-Chennai Super Kings,MS Dhoni,4a8a2e3b,6,58,43,2,3,134.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,94,0,8,102
-Chennai Super Kings,RA Jadeja,fe93fd9d,7,9,3,0,1,300.0,"[7, 9, 11, 17]",4.0,24,9,0,20,1,0,2,0,0,0,0,5.0,0,0,0,0,0,15,63,0,78
-Chennai Super Kings,DL Chahar,23eeb873,8,0,0,0,0,0.0,"[1, 3, 5, 19]",4.0,24,10,0,33,5,1,2,1,1,0,0,8.25,0,0,0,0,0,0,76,0,76
-Chennai Super Kings,MJ Santner,e4a0deae,8,10,3,0,1,333.33,"[2, 6, 8, 13]",4.0,24,11,0,25,2,0,1,0,0,0,5,6.25,0,0,0,0,0,16,38,0,54
-Chennai Super Kings,SN Thakur,1abb78f8,9,0,0,0,0,0.0,"[4, 15, 18, 20]",4.0,24,5,0,44,5,1,2,0,0,0,1,11.0,0,0,0,0,0,0,53,0,53
-Chennai Super Kings,Imran Tahir,acee4cc4,10,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,6,0,28,3,0,0,0,0,0,0,7.0,0,0,0,0,0,0,8,0,8
-Rajasthan Royals,AM Rahane,29e95537,1,14,11,3,0,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26
-Rajasthan Royals,JC Buttler,99b75528,2,23,10,4,1,230.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,51,0,0,51
-Rajasthan Royals,SV Samson,a4cc73aa,3,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
-Rajasthan Royals,SPD Smith,30a45b23,4,15,22,1,0,68.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,17,0,0,17
-Rajasthan Royals,RA Tripathi,77255a9e,5,10,12,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,14,0,8,22
-Rajasthan Royals,BA Stokes,e087956b,6,28,26,1,0,107.69,"[14, 18, 20]",3.0,18,5,0,39,1,3,2,0,1,1,3,13.0,1,0,0,0,0,36,57,8,101
-Rajasthan Royals,R Parag,04a418e8,7,16,14,2,0,114.29,"[7, 9, 11]",3.0,18,6,0,24,1,1,0,0,0,0,0,8.0,0,0,0,0,0,24,6,0,30
-Rajasthan Royals,JD Unadkat,1e66c162,8,0,0,0,0,0.0,"[2, 4, 15]",3.0,18,8,0,23,2,1,1,0,0,0,0,7.67,0,0,0,0,0,0,33,0,33
-Rajasthan Royals,JC Archer,5574750c,8,13,12,1,0,108.33,"[6, 12, 17, 19]",4.0,24,8,1,19,1,0,1,0,0,0,0,4.75,0,0,0,0,0,17,51,0,68
-Rajasthan Royals,S Gopal,7a8bd078,9,19,7,2,1,271.43,"[8, 10, 13, 16]",4.0,24,3,0,31,0,2,0,0,0,0,0,7.75,1,0,0,0,0,33,3,8,44
-Rajasthan Royals,DS Kulkarni,d2a989fc,9,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,11,1,14,0,1,1,0,1,0,0,4.67,0,0,0,0,0,0,62,0,62
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Chennai Super Kings,SR Watson,4329fbb5,1,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,43,True,False,True,Right-arm fast-medium,Right-hand bat
+Chennai Super Kings,F du Plessis,3355b542,2,7,10,0,0,70.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,5,0,0,5,40,True,False,False,Legbreak,Right-hand bat
+Chennai Super Kings,SK Raina,1dc12ab9,3,4,4,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,38,True,False,False,Right-arm offbreak,Left-hand bat
+Chennai Super Kings,AT Rayudu,70d205c9,4,57,47,2,3,121.28,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,91,0,16,107,39,True,False,False,Right-arm offbreak,Right-hand bat
+Chennai Super Kings,KM Jadhav,99d63244,5,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,40,True,False,True,Right-arm offbreak,Right-hand bat
+Chennai Super Kings,MS Dhoni,4a8a2e3b,6,58,43,2,3,134.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,94,0,8,102,43,True,True,False,Right-arm medium,Right-hand bat
+Chennai Super Kings,RA Jadeja,fe93fd9d,7,9,3,0,1,300.0,"[7, 9, 11, 17]",4.0,24,9,0,20,1,0,2,0,0,0,0,5.0,0,0,0,0,0,15,63,0,78,36,True,False,True,Slow left-arm orthodox,Left-hand bat
+Chennai Super Kings,DL Chahar,23eeb873,8,0,0,0,0,0.0,"[1, 3, 5, 19]",4.0,24,10,0,33,5,1,2,1,1,0,0,8.25,0,0,0,0,0,0,76,0,76,32,True,False,False,Right-arm medium,Right-hand bat
+Chennai Super Kings,MJ Santner,e4a0deae,8,10,3,0,1,333.33,"[2, 6, 8, 13]",4.0,24,11,0,25,2,0,1,0,0,0,5,6.25,0,0,0,0,0,16,38,0,54,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+Chennai Super Kings,SN Thakur,1abb78f8,9,0,0,0,0,0.0,"[4, 15, 18, 20]",4.0,24,5,0,44,5,1,2,0,0,0,1,11.0,0,0,0,0,0,0,53,0,53,33,True,False,False,Right-arm medium,Right-hand bat
+Chennai Super Kings,Imran Tahir,acee4cc4,10,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,6,0,28,3,0,0,0,0,0,0,7.0,0,0,0,0,0,0,8,0,8,46,True,False,False,Legbreak googly,Right-hand bat
+Rajasthan Royals,AM Rahane,29e95537,1,14,11,3,0,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26,36,True,False,False,Right-arm medium,Right-hand bat
+Rajasthan Royals,JC Buttler,99b75528,2,23,10,4,1,230.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,51,0,0,51,34,True,False,False,,Right-hand bat
+Rajasthan Royals,SV Samson,a4cc73aa,3,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,30,True,False,False,,Right-hand bat
+Rajasthan Royals,SPD Smith,30a45b23,4,15,22,1,0,68.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,17,0,0,17,35,True,False,False,Legbreak googly,Right-hand bat
+Rajasthan Royals,RA Tripathi,77255a9e,5,10,12,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,14,0,8,22,34,True,False,False,Right-arm medium,Right-hand bat
+Rajasthan Royals,BA Stokes,e087956b,6,28,26,1,0,107.69,"[14, 18, 20]",3.0,18,5,0,39,1,3,2,0,1,1,3,13.0,1,0,0,0,0,36,57,8,101,33,True,False,True,Right-arm fast-medium,Left-hand bat
+Rajasthan Royals,R Parag,04a418e8,7,16,14,2,0,114.29,"[7, 9, 11]",3.0,18,6,0,24,1,1,0,0,0,0,0,8.0,0,0,0,0,0,24,6,0,30,23,True,False,False,Legbreak,Right-hand bat
+Rajasthan Royals,JD Unadkat,1e66c162,8,0,0,0,0,0.0,"[2, 4, 15]",3.0,18,8,0,23,2,1,1,0,0,0,0,7.67,0,0,0,0,0,0,33,0,33,33,True,False,False,Left-arm medium,Right-hand bat
+Rajasthan Royals,JC Archer,5574750c,8,13,12,1,0,108.33,"[6, 12, 17, 19]",4.0,24,8,1,19,1,0,1,0,0,0,0,4.75,0,0,0,0,0,17,51,0,68,29,True,False,False,Right-arm fast,Right-hand bat
+Rajasthan Royals,S Gopal,7a8bd078,9,19,7,2,1,271.43,"[8, 10, 13, 16]",4.0,24,3,0,31,0,2,0,0,0,0,0,7.75,1,0,0,0,0,33,3,8,44,31,True,False,True,Legbreak,Right-hand bat
+Rajasthan Royals,DS Kulkarni,d2a989fc,9,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,11,1,14,0,1,1,0,1,0,0,4.67,0,0,0,0,0,0,62,0,62,36,True,False,False,Right-arm medium,Right-hand bat

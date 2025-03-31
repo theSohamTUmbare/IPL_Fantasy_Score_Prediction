@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Mumbai,AA Herwadkar,4ed49d3d,1,39,33,3,1,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,61,0,0,61
-Mumbai,SS Iyer,85ec8e33,2,17,15,3,0,113.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,29,0,16,45
-Mumbai,AP Tare,855a210c,3,49,42,5,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,73,0,12,85
-Mumbai,DS Kulkarni,d2a989fc,4,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,8,0,23,2,0,1,0,0,0,1,5.75,1,0,0,0,0,0,37,8,45
-Mumbai,SD Lad,9601c534,4,20,19,2,0,105.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,28,0,8,36
-Mumbai,SN Thakur,1abb78f8,5,0,0,0,0,0.0,"[2, 4, 6, 13]",4.0,24,11,0,17,1,0,2,0,1,0,1,4.25,1,0,0,0,0,0,75,8,83
-Mumbai,RR Raje,5f4e9e8f,6,0,0,0,0,0.0,"[5, 7, 17, 19]",4.0,24,10,0,37,5,1,2,0,0,0,0,9.25,0,0,0,0,0,0,60,0,60
-Mumbai,AM Nayar,a45a5e8d,7,0,0,0,0,0.0,"[8, 10, 12, 15]",4.0,24,5,0,24,1,0,1,0,0,0,0,6.0,0,0,0,0,0,0,32,0,32
-Mumbai,PV Tambe,6aed7e79,8,0,0,0,0,0.0,"[9, 11, 14, 16]",4.0,24,9,0,21,1,0,1,0,0,0,2,5.25,0,0,0,0,0,0,38,0,38
-Mumbai,SA Yadav,271f83cd,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Mumbai,AS Raut,c69a7b5c,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Services,Aanshul Gupta,71ee052e,1,13,15,2,0,86.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
-Services,Nakul Verma,38c0d699,2,8,11,1,0,72.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
-Services,Sumit Singh,9ad3a550,3,14,12,2,0,116.67,"[6, 17, 19]",2.167,13,3,0,17,2,0,0,0,0,0,1,7.84,0,0,0,0,0,22,3,0,25
-Services,Rajat Paliwal,2fcb040c,4,26,23,1,0,113.04,"[11, 13, 15]",3.0,18,5,0,15,0,0,1,0,0,0,0,5.0,1,0,0,0,0,34,34,8,76
-Services,Raushan Raj,4b2056c7,4,0,0,0,0,0.0,"[1, 3, 5, 18]",4.0,24,8,0,26,2,0,1,0,0,0,2,6.5,0,0,0,0,0,0,35,0,35
-Services,D Rai,549fdc26,5,0,0,0,0,0.0,"[2, 4]",2.0,12,3,0,19,3,0,0,0,0,0,0,9.5,0,0,0,0,0,0,3,0,3
-Services,Yashpal Singh,297b26da,5,40,34,3,1,117.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,62,0,0,62
-Services,SR Swain,17f7177e,6,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
-Services,Vikas Hathwala,904585d1,7,10,14,1,0,71.43,"[12, 14]",2.0,12,5,0,13,2,0,0,0,0,0,0,6.5,0,0,0,0,0,14,7,0,21
-Services,Ritesh Negi,9e8bb9d2,8,0,1,0,0,0.0,"[7, 9]",2.0,12,6,0,12,2,0,0,0,0,0,0,6.0,0,0,0,0,0,-2,8,0,6
-Services,Avishek Sinha,9fc68dcb,9,5,5,0,0,100.0,"[8, 10, 16]",3.0,18,6,0,26,2,1,0,0,0,0,0,8.67,0,0,0,0,0,5,6,0,11
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Mumbai,AA Herwadkar,4ed49d3d,1,39,33,3,1,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,61,0,0,61,30,True,False,False,Right-arm offbreak,Left-hand bat
+Mumbai,SS Iyer,85ec8e33,2,17,15,3,0,113.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,29,0,16,45,30,True,False,False,Legbreak googly,Right-hand bat
+Mumbai,AP Tare,855a210c,3,49,42,5,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,73,0,12,85,37,True,False,False,,Right-hand bat
+Mumbai,DS Kulkarni,d2a989fc,4,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,8,0,23,2,0,1,0,0,0,1,5.75,1,0,0,0,0,0,37,8,45,36,True,False,False,Right-arm medium,Right-hand bat
+Mumbai,SD Lad,9601c534,4,20,19,2,0,105.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,28,0,8,36,32,True,False,False,Right-arm offbreak,Right-hand bat
+Mumbai,SN Thakur,1abb78f8,5,0,0,0,0,0.0,"[2, 4, 6, 13]",4.0,24,11,0,17,1,0,2,0,1,0,1,4.25,1,0,0,0,0,0,75,8,83,33,True,False,False,Right-arm medium,Right-hand bat
+Mumbai,RR Raje,5f4e9e8f,6,0,0,0,0,0.0,"[5, 7, 17, 19]",4.0,24,10,0,37,5,1,2,0,0,0,0,9.25,0,0,0,0,0,0,60,0,60,38,True,True,False,Right-arm fast-medium,Right-hand bat
+Mumbai,AM Nayar,a45a5e8d,7,0,0,0,0,0.0,"[8, 10, 12, 15]",4.0,24,5,0,24,1,0,1,0,0,0,0,6.0,0,0,0,0,0,0,32,0,32,41,True,False,True,Right-arm medium,Left-hand bat
+Mumbai,PV Tambe,6aed7e79,8,0,0,0,0,0.0,"[9, 11, 14, 16]",4.0,24,9,0,21,1,0,1,0,0,0,2,5.25,0,0,0,0,0,0,38,0,38,53,True,False,False,Legbreak,Right-hand bat
+Mumbai,SA Yadav,271f83cd,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,34,True,False,False,Right-arm offbreak,Right-hand bat
+Mumbai,AS Raut,c69a7b5c,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,38,True,False,True,Legbreak googly,Right-hand bat
+Services,Aanshul Gupta,71ee052e,1,13,15,2,0,86.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21,35,True,True,False,Right-arm offbreak,Right-hand bat
+Services,Nakul Verma,38c0d699,2,8,11,1,0,72.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,33,True,True,False,Legbreak googly,Right-hand bat
+Services,Sumit Singh,9ad3a550,3,14,12,2,0,116.67,"[6, 17, 19]",2.167,13,3,0,17,2,0,0,0,0,0,1,7.84,0,0,0,0,0,22,3,0,25,37,True,True,False,Right-arm medium,Right-hand bat
+Services,Rajat Paliwal,2fcb040c,4,26,23,1,0,113.04,"[11, 13, 15]",3.0,18,5,0,15,0,0,1,0,0,0,0,5.0,1,0,0,0,0,34,34,8,76,33,True,False,False,Right-arm offbreak,Right-hand bat
+Services,Raushan Raj,4b2056c7,4,0,0,0,0,0.0,"[1, 3, 5, 18]",4.0,24,8,0,26,2,0,1,0,0,0,2,6.5,0,0,0,0,0,0,35,0,35,41,True,True,False,Right-arm medium,Right-hand bat
+Services,D Rai,549fdc26,5,0,0,0,0,0.0,"[2, 4]",2.0,12,3,0,19,3,0,0,0,0,0,0,9.5,0,0,0,0,0,0,3,0,3,0,True,True,False,Left-arm medium,Right-hand bat
+Services,Yashpal Singh,297b26da,5,40,34,3,1,117.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,62,0,0,62,43,True,False,False,Right-arm medium,Right-hand bat
+Services,SR Swain,17f7177e,6,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,37,True,True,False,Right-arm offbreak,Left-hand bat
+Services,Vikas Hathwala,904585d1,7,10,14,1,0,71.43,"[12, 14]",2.0,12,5,0,13,2,0,0,0,0,0,0,6.5,0,0,0,0,0,14,7,0,21,31,True,True,False,Left-arm medium,Left-hand bat
+Services,Ritesh Negi,9e8bb9d2,8,0,1,0,0,0.0,"[7, 9]",2.0,12,6,0,12,2,0,0,0,0,0,0,6.0,0,0,0,0,0,-2,8,0,6,37,True,True,False,Right-arm medium,Right-hand bat
+Services,Avishek Sinha,9fc68dcb,9,5,5,0,0,100.0,"[8, 10, 16]",3.0,18,6,0,26,2,1,0,0,0,0,0,8.67,0,0,0,0,0,5,6,0,11,40,True,True,False,Slow left-arm orthodox,Right-hand bat

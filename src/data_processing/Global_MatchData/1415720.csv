@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Oman,PS Athavale,c2f12310,1,54,40,5,2,135.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,96,0,0,96
-Oman,Naseem Khushi,c63671e9,2,10,9,0,1,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
-Oman,Aqib Ilyas,b3b39bed,3,16,6,2,1,266.67,"[7, 10, 12]",3.0,18,6,0,41,4,3,1,0,1,0,0,13.67,0,0,0,0,0,30,33,0,63
-Oman,Zeeshan Maqsood,34464143,4,3,4,0,0,75.0,"[9, 11]",2.0,12,4,0,22,2,1,0,0,0,0,0,11.0,0,0,0,0,0,3,2,0,5
-Oman,Khalid Kail,3ee90b67,5,5,7,0,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
-Oman,Kaleemullah,72253b87,5,0,0,0,0,0.0,"[4, 6]",2.0,12,6,0,17,2,1,0,0,0,0,0,8.5,0,0,0,0,0,0,6,0,6
-Oman,Ayan Khan,44d6a8b8,6,41,39,4,0,105.13,[13],1.0,6,1,0,20,0,3,0,0,0,0,0,20.0,0,0,0,0,0,61,1,0,62
-Oman,Bilal Khan,dcdb87f2,6,0,0,0,0,0.0,"[1, 3, 14]",2.167,13,8,0,12,2,0,1,0,0,0,0,5.54,0,0,0,0,0,0,37,0,37
-Oman,Mehran Khan,d7bfcc0b,7,13,10,2,0,130.0,[8],1.0,6,3,0,16,1,1,1,0,0,0,5,16.0,1,0,0,0,2,23,28,8,59
-Oman,Rafiullah,369cc49c,8,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Oman,Shakeel Ahmed,e29e9c12,9,3,2,0,0,150.0,"[2, 5]",2.0,12,4,0,23,2,2,0,0,0,0,0,11.5,1,0,0,0,0,3,0,8,11
-Scotland,HG Munsey,ff014c34,1,41,20,2,4,205.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,83,0,0,83
-Scotland,MA Jones,05f96194,2,16,13,1,2,123.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32
-Scotland,BJ McMullen,436c763a,3,61,31,9,2,196.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,123,0,8,131
-Scotland,RD Berrington,e21bc7f3,4,13,7,1,1,185.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
-Scotland,MA Leask,28131839,5,0,0,0,0,0.0,"[10, 12, 14]",3.0,18,8,0,21,1,1,0,0,0,0,1,7.0,0,0,0,0,0,0,10,0,10
-Scotland,MH Cross,8b261d84,5,15,8,0,2,187.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,27,0,16,43
-Scotland,CN Greaves,f42064d5,6,0,0,0,0,0.0,[16],1.0,6,4,0,2,0,0,1,0,0,0,0,2.0,0,0,0,0,0,0,29,0,29
-Scotland,MRJ Watt,1252f71a,7,0,0,0,0,0.0,"[1, 7, 9, 15]",4.0,24,8,0,25,2,0,1,0,0,0,2,6.25,1,0,0,1,0,0,35,14,49
-Scotland,CB Sole,469ccead,8,0,0,0,0,0.0,"[3, 5, 11, 17]",4.0,24,7,0,41,2,3,1,0,0,0,0,10.25,0,0,0,1,0,0,30,6,36
-Scotland,BTJ Wheal,3f61a062,9,0,0,0,0,0.0,"[2, 4, 13, 19]",4.0,24,11,0,19,2,0,1,0,0,0,0,4.75,0,0,0,0,0,0,42,0,42
-Scotland,SM Sharif,f43dd8c2,10,0,0,0,0,0.0,"[6, 8, 18, 20]",4.0,24,5,0,40,6,0,2,1,0,0,0,10.0,1,0,0,0,0,0,61,8,69
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Oman,PS Athavale,c2f12310,1,54,40,5,2,135.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,96,0,0,96,27,True,True,False,Right-arm offbreak,Right-hand bat
+Oman,Naseem Khushi,c63671e9,2,10,9,0,1,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,42,True,False,False,,Right-hand bat
+Oman,Aqib Ilyas,b3b39bed,3,16,6,2,1,266.67,"[7, 10, 12]",3.0,18,6,0,41,4,3,1,0,1,0,0,13.67,0,0,0,0,0,30,33,0,63,32,True,False,False,Legbreak googly,Right-hand bat
+Oman,Zeeshan Maqsood,34464143,4,3,4,0,0,75.0,"[9, 11]",2.0,12,4,0,22,2,1,0,0,0,0,0,11.0,0,0,0,0,0,3,2,0,5,37,True,False,False,Slow left-arm orthodox,Left-hand bat
+Oman,Khalid Kail,3ee90b67,5,5,7,0,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,28,True,False,False,,Right-hand bat
+Oman,Kaleemullah,72253b87,5,0,0,0,0,0.0,"[4, 6]",2.0,12,6,0,17,2,1,0,0,0,0,0,8.5,0,0,0,0,0,0,6,0,6,34,True,False,False,Right-arm medium,Right-hand bat
+Oman,Ayan Khan,44d6a8b8,6,41,39,4,0,105.13,[13],1.0,6,1,0,20,0,3,0,0,0,0,0,20.0,0,0,0,0,0,61,1,0,62,32,True,False,True,Slow left-arm orthodox,Left-hand bat
+Oman,Bilal Khan,dcdb87f2,6,0,0,0,0,0.0,"[1, 3, 14]",2.167,13,8,0,12,2,0,1,0,0,0,0,5.54,0,0,0,0,0,0,37,0,37,37,True,False,False,Left-arm medium-fast,Left-hand bat
+Oman,Mehran Khan,d7bfcc0b,7,13,10,2,0,130.0,[8],1.0,6,3,0,16,1,1,1,0,0,0,5,16.0,1,0,0,0,2,23,28,8,59,37,True,False,False,Right-arm medium-fast,Right-hand bat
+Oman,Rafiullah,369cc49c,8,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,28,True,False,False,Right-arm medium,Right-hand bat
+Oman,Shakeel Ahmed,e29e9c12,9,3,2,0,0,150.0,"[2, 5]",2.0,12,4,0,23,2,2,0,0,0,0,0,11.5,1,0,0,0,0,3,0,8,11,37,True,False,False,Slow left-arm orthodox,Left-hand bat
+Scotland,HG Munsey,ff014c34,1,41,20,2,4,205.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,83,0,0,83,32,True,False,False,Right-arm medium-fast,Left-hand bat
+Scotland,MA Jones,05f96194,2,16,13,1,2,123.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32,27,True,False,False,Right-arm offbreak,Right-hand bat
+Scotland,BJ McMullen,436c763a,3,61,31,9,2,196.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,123,0,8,131,25,True,False,True,Right-arm medium,Right-hand bat
+Scotland,RD Berrington,e21bc7f3,4,13,7,1,1,185.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23,37,True,False,False,Right-arm medium-fast,Right-hand bat
+Scotland,MA Leask,28131839,5,0,0,0,0,0.0,"[10, 12, 14]",3.0,18,8,0,21,1,1,0,0,0,0,1,7.0,0,0,0,0,0,0,10,0,10,34,True,False,True,Right-arm offbreak,Right-hand bat
+Scotland,MH Cross,8b261d84,5,15,8,0,2,187.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,27,0,16,43,32,True,False,False,,Right-hand bat
+Scotland,CN Greaves,f42064d5,6,0,0,0,0,0.0,[16],1.0,6,4,0,2,0,0,1,0,0,0,0,2.0,0,0,0,0,0,0,29,0,29,34,True,False,False,Legbreak,Right-hand bat
+Scotland,MRJ Watt,1252f71a,7,0,0,0,0,0.0,"[1, 7, 9, 15]",4.0,24,8,0,25,2,0,1,0,0,0,2,6.25,1,0,0,1,0,0,35,14,49,28,True,False,False,Slow left-arm orthodox,Left-hand bat
+Scotland,CB Sole,469ccead,8,0,0,0,0,0.0,"[3, 5, 11, 17]",4.0,24,7,0,41,2,3,1,0,0,0,0,10.25,0,0,0,1,0,0,30,6,36,31,True,False,False,Right-arm fast-medium,Right-hand bat
+Scotland,BTJ Wheal,3f61a062,9,0,0,0,0,0.0,"[2, 4, 13, 19]",4.0,24,11,0,19,2,0,1,0,0,0,0,4.75,0,0,0,0,0,0,42,0,42,28,True,False,False,Right-arm fast-medium,Right-hand bat
+Scotland,SM Sharif,f43dd8c2,10,0,0,0,0,0.0,"[6, 8, 18, 20]",4.0,24,5,0,40,6,0,2,1,0,0,0,10.0,1,0,0,0,0,0,61,8,69,33,True,False,False,Right-arm medium-fast,Right-hand bat

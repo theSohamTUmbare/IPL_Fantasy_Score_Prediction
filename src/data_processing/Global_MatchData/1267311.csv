@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Bulgaria,H Lakov,87a6f411,1,9,6,2,0,150.0,[4],0.833,5,3,0,2,0,0,1,0,0,0,0,2.4,0,0,0,0,0,17,28,0,45
-Bulgaria,Sulaiman Ali,13bf1d91,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Bulgaria,IA De Silva,58973aaf,3,19,22,4,0,86.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,35,0,0,35
-Bulgaria,Bakhtiar Tahiri,a9ee404e,4,49,45,5,3,108.89,[2],1.0,6,4,0,7,1,0,1,0,1,0,2,7.0,0,0,0,0,0,91,37,0,128
-Bulgaria,P Mishra,3fa5672e,5,0,7,0,0,0.0,[1],1.0,6,2,0,10,2,0,0,0,0,0,0,10.0,0,0,0,0,0,-2,2,0,0
-Bulgaria,KC D'Souza,2687fff2,6,19,10,1,2,190.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,41,0,0,41
-Bulgaria,Aswad Khan,596ed7e6,7,0,0,0,0,0.0,[3],1.0,6,2,0,14,1,1,0,0,0,0,2,14.0,0,0,0,0,0,0,2,0,2
-Bulgaria,H Ivanov,58b5299f,8,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Bulgaria,J Albin,a4a53adf,9,17,19,3,0,89.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29
-Bulgaria,D Nikolov,9c3a8776,10,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Bulgaria,Rohan Bhavesh Patel,7f46e127,11,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Greece,Arsalan Ahmed,e0febd97,1,9,6,2,0,150.0,"[10, 12, 14, 19]",4.0,24,14,1,32,4,2,1,0,0,0,0,8.0,0,0,1,0,0,17,51,12,80
-Greece,Aslam Mohammad,67ae5a56,2,2,4,0,0,50.0,"[2, 4, 6, 8]",4.0,24,14,0,23,3,0,2,0,1,0,6,5.75,0,0,0,0,0,2,76,0,78
-Greece,A Manousis,b672e825,3,17,10,2,1,170.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,4,35,0,12,47
-Greece,Syed Amanullah,ae4006ad,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Greece,Asrar Ahmed,88251c6c,4,1,3,0,0,33.33,"[5, 7, 9]",3.0,18,14,0,11,2,0,1,0,0,0,1,3.67,0,0,0,0,0,1,45,0,46
-Greece,A Manatos,eebc0141,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Greece,AS Mehmi,4612619b,6,0,0,0,0,0.0,[16],1.0,6,2,0,17,1,2,0,0,0,0,0,17.0,1,0,0,0,0,0,2,8,10
-Greece,GC Galanis,db218528,7,0,0,0,0,0.0,"[11, 13, 15, 17]",4.0,24,18,1,17,0,1,3,1,1,0,5,4.25,0,0,1,0,0,0,131,12,143
-Greece,T Zotos,4c4d245a,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Greece,S Gasteratos,11174f6d,9,0,0,0,0,0.0,"[1, 3, 18, 20]",3.833,23,11,0,35,5,0,1,0,1,0,8,9.13,0,0,0,0,0,0,44,0,44
-Greece,S Siriotis,ff8b37cb,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bulgaria,H Lakov,87a6f411,1,9,6,2,0,150.0,[4],0.833,5,3,0,2,0,0,1,0,0,0,0,2.4,0,0,0,0,0,17,28,0,45,33,True,True,False,Right-arm fast,Right-hand bat
+Bulgaria,Sulaiman Ali,13bf1d91,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,27,True,True,False,Right-arm medium-fast,Right-hand bat
+Bulgaria,IA De Silva,58973aaf,3,19,22,4,0,86.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,35,0,0,35,27,True,True,False,Right-arm medium,Right-hand bat
+Bulgaria,Bakhtiar Tahiri,a9ee404e,4,49,45,5,3,108.89,[2],1.0,6,4,0,7,1,0,1,0,1,0,2,7.0,0,0,0,0,0,91,37,0,128,34,True,True,False,Right-arm medium-fast,Right-hand bat
+Bulgaria,P Mishra,3fa5672e,5,0,7,0,0,0.0,[1],1.0,6,2,0,10,2,0,0,0,0,0,0,10.0,0,0,0,0,0,-2,2,0,0,46,True,True,False,Right-arm medium,Right-hand bat
+Bulgaria,KC D'Souza,2687fff2,6,19,10,1,2,190.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,41,0,0,41,26,True,True,False,Right-arm offbreak,Right-hand bat
+Bulgaria,Aswad Khan,596ed7e6,7,0,0,0,0,0.0,[3],1.0,6,2,0,14,1,1,0,0,0,0,2,14.0,0,0,0,0,0,0,2,0,2,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Bulgaria,H Ivanov,58b5299f,8,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,21,True,True,False,Right-arm medium,Right-hand bat
+Bulgaria,J Albin,a4a53adf,9,17,19,3,0,89.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29,26,True,True,False,Right-arm medium-fast,Right-hand bat
+Bulgaria,D Nikolov,9c3a8776,10,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,32,True,True,False,Right-arm medium,Right-hand bat
+Bulgaria,Rohan Bhavesh Patel,7f46e127,11,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,30,True,True,False,Slow left-arm orthodox,Left-hand bat
+Greece,Arsalan Ahmed,e0febd97,1,9,6,2,0,150.0,"[10, 12, 14, 19]",4.0,24,14,1,32,4,2,1,0,0,0,0,8.0,0,0,1,0,0,17,51,12,80,30,True,True,False,Right-arm medium,Right-hand bat
+Greece,Aslam Mohammad,67ae5a56,2,2,4,0,0,50.0,"[2, 4, 6, 8]",4.0,24,14,0,23,3,0,2,0,1,0,6,5.75,0,0,0,0,0,2,76,0,78,53,True,True,False,Right-arm medium,Right-hand bat
+Greece,A Manousis,b672e825,3,17,10,2,1,170.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,4,35,0,12,47,46,True,False,False,,
+Greece,Syed Amanullah,ae4006ad,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,37,True,True,False,Right-arm offbreak,Right-hand bat
+Greece,Asrar Ahmed,88251c6c,4,1,3,0,0,33.33,"[5, 7, 9]",3.0,18,14,0,11,2,0,1,0,0,0,1,3.67,0,0,0,0,0,1,45,0,46,40,True,True,False,Legbreak,Right-hand bat
+Greece,A Manatos,eebc0141,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,18,True,True,False,Left-arm medium-fast,Left-hand bat
+Greece,AS Mehmi,4612619b,6,0,0,0,0,0.0,[16],1.0,6,2,0,17,1,2,0,0,0,0,0,17.0,1,0,0,0,0,0,2,8,10,34,True,True,False,Right-arm medium,Right-hand bat
+Greece,GC Galanis,db218528,7,0,0,0,0,0.0,"[11, 13, 15, 17]",4.0,24,18,1,17,0,1,3,1,1,0,5,4.25,0,0,1,0,0,0,131,12,143,20,True,True,False,Left-arm wrist-spin,Left-hand bat
+Greece,T Zotos,4c4d245a,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,19,True,True,False,Right-arm medium-fast,Right-hand bat
+Greece,S Gasteratos,11174f6d,9,0,0,0,0,0.0,"[1, 3, 18, 20]",3.833,23,11,0,35,5,0,1,0,1,0,8,9.13,0,0,0,0,0,0,44,0,44,30,True,False,False,,
+Greece,S Siriotis,ff8b37cb,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,25,True,True,False,Right-arm medium-fast,Right-hand bat

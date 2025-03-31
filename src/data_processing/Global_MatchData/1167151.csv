@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Hampshire,AHT Donald,72918338,1,48,34,6,1,141.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,84,0,0,84
-Hampshire,RR Rossouw,cad00a4d,2,6,8,1,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
-Hampshire,JM Vince,a15618fe,3,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
-Hampshire,SA Northeast,7e4c8ba3,4,10,11,1,0,90.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
-Hampshire,LA Dawson,4a461c24,5,47,39,3,1,120.51,"[7, 14, 16]",3.0,18,4,0,31,2,2,0,0,0,0,0,10.33,0,0,0,0,0,69,2,0,71
-Hampshire,CH Morris,fb66ce1f,6,15,6,0,2,250.0,"[4, 6, 15, 18]",4.0,24,11,0,34,1,3,1,0,1,0,0,8.5,0,0,0,0,0,27,44,0,71
-Hampshire,JK Fuller,dda5aae5,7,28,11,1,3,254.55,"[9, 13]",2.0,12,1,0,25,3,1,0,0,0,0,0,12.5,0,0,0,0,6,60,-5,0,55
-Hampshire,CP Wood,1cfac535,8,0,0,0,0,0.0,"[1, 3, 11, 20]",4.0,24,12,0,22,3,0,1,0,1,0,0,5.5,0,0,0,0,0,0,49,0,49
-Hampshire,LD McManus,6feb46a4,8,15,5,2,1,300.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29
-Hampshire,KJ Abbott,a9da7784,9,0,0,0,0,0.0,"[2, 5, 17, 19]",4.0,24,8,0,42,3,2,1,0,0,2,1,10.5,0,0,0,0,0,0,31,0,31
-Hampshire,MS Crane,f0a0204e,10,0,0,0,0,0.0,"[8, 10, 12]",3.0,18,4,0,18,1,0,0,0,0,0,0,6.0,0,0,0,0,0,0,6,0,6
-Somerset,T Banton,25f7b7d6,1,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
-Somerset,Babar Azam,8a75e999,2,95,60,9,3,158.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,165,0,0,165
-Somerset,PD Trego,93e06301,3,35,29,2,2,120.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,59,0,0,59
-Somerset,JC Hildreth,782c0568,4,28,17,0,3,164.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,54,0,8,62
-Somerset,L Gregory,06c2de82,5,10,8,2,0,125.0,"[4, 7, 13, 19]",4.0,24,10,0,31,4,1,2,0,0,0,0,7.75,1,0,0,0,0,18,60,8,86
-Somerset,TB Abell,ba9258a7,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Somerset,TA Lammonby,73f1f6b0,9,0,0,0,0,0.0,[9],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,1,0,0,0,0,0,2,8,10
-Somerset,RE van der Merwe,05c2ca46,10,0,0,0,0,0.0,"[8, 12, 16, 18]",3.833,23,4,0,28,0,1,0,0,0,2,0,7.3,0,0,0,0,0,0,4,0,4
-Somerset,C Overton,e9987a94,11,0,0,0,0,0.0,"[3, 5, 11, 15]",4.0,24,7,0,39,3,2,2,0,1,0,1,9.75,0,0,0,0,0,0,65,0,65
-Somerset,JE Taylor,4180d897,12,0,0,0,0,0.0,"[2, 6, 17, 20]",3.5,21,8,0,40,2,4,2,0,0,0,0,11.43,0,0,0,0,0,0,54,0,54
-Somerset,MTC Waller,d74d1090,13,0,0,0,0,0.0,"[1, 10, 14]",3.0,18,2,0,28,4,0,0,0,0,0,0,9.33,1,0,0,0,0,0,2,8,10
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Hampshire,AHT Donald,72918338,1,48,34,6,1,141.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,84,0,0,84,28,True,False,False,Right-arm offbreak,Right-hand bat
+Hampshire,RR Rossouw,cad00a4d,2,6,8,1,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,35,True,False,False,Right-arm offbreak,Left-hand bat
+Hampshire,JM Vince,a15618fe,3,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,34,True,False,False,Right-arm medium,Right-hand bat
+Hampshire,SA Northeast,7e4c8ba3,4,10,11,1,0,90.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,35,True,False,False,Right-arm offbreak,Right-hand bat
+Hampshire,LA Dawson,4a461c24,5,47,39,3,1,120.51,"[7, 14, 16]",3.0,18,4,0,31,2,2,0,0,0,0,0,10.33,0,0,0,0,0,69,2,0,71,35,True,False,True,Slow left-arm orthodox,Right-hand bat
+Hampshire,CH Morris,fb66ce1f,6,15,6,0,2,250.0,"[4, 6, 15, 18]",4.0,24,11,0,34,1,3,1,0,1,0,0,8.5,0,0,0,0,0,27,44,0,71,37,True,False,True,Right-arm fast-medium,Right-hand bat
+Hampshire,JK Fuller,dda5aae5,7,28,11,1,3,254.55,"[9, 13]",2.0,12,1,0,25,3,1,0,0,0,0,0,12.5,0,0,0,0,6,60,-5,0,55,35,True,False,True,Right-arm fast-medium,Right-hand bat
+Hampshire,CP Wood,1cfac535,8,0,0,0,0,0.0,"[1, 3, 11, 20]",4.0,24,12,0,22,3,0,1,0,1,0,0,5.5,0,0,0,0,0,0,49,0,49,34,True,False,False,Left-arm medium-fast,Right-hand bat
+Hampshire,LD McManus,6feb46a4,8,15,5,2,1,300.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29,30,True,False,False,,Right-hand bat
+Hampshire,KJ Abbott,a9da7784,9,0,0,0,0,0.0,"[2, 5, 17, 19]",4.0,24,8,0,42,3,2,1,0,0,2,1,10.5,0,0,0,0,0,0,31,0,31,37,True,False,False,Right-arm fast-medium,Right-hand bat
+Hampshire,MS Crane,f0a0204e,10,0,0,0,0,0.0,"[8, 10, 12]",3.0,18,4,0,18,1,0,0,0,0,0,0,6.0,0,0,0,0,0,0,6,0,6,28,True,False,False,Legbreak googly,Right-hand bat
+Somerset,T Banton,25f7b7d6,1,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,26,True,False,False,,Right-hand bat
+Somerset,Babar Azam,8a75e999,2,95,60,9,3,158.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,165,0,0,165,30,True,False,False,Right-arm offbreak,Right-hand bat
+Somerset,PD Trego,93e06301,3,35,29,2,2,120.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,59,0,0,59,43,True,False,True,Right-arm medium,Right-hand bat
+Somerset,JC Hildreth,782c0568,4,28,17,0,3,164.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,54,0,8,62,40,True,False,False,Right-arm medium-fast,Right-hand bat
+Somerset,L Gregory,06c2de82,5,10,8,2,0,125.0,"[4, 7, 13, 19]",4.0,24,10,0,31,4,1,2,0,0,0,0,7.75,1,0,0,0,0,18,60,8,86,32,True,False,True,Right-arm medium-fast,Right-hand bat
+Somerset,TB Abell,ba9258a7,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,31,True,False,True,Right-arm medium,Right-hand bat
+Somerset,TA Lammonby,73f1f6b0,9,0,0,0,0,0.0,[9],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,1,0,0,0,0,0,2,8,10,24,True,False,True,Left-arm medium-fast,Left-hand bat
+Somerset,RE van der Merwe,05c2ca46,10,0,0,0,0,0.0,"[8, 12, 16, 18]",3.833,23,4,0,28,0,1,0,0,0,2,0,7.3,0,0,0,0,0,0,4,0,4,40,True,False,True,Slow left-arm orthodox,Right-hand bat
+Somerset,C Overton,e9987a94,11,0,0,0,0,0.0,"[3, 5, 11, 15]",4.0,24,7,0,39,3,2,2,0,1,0,1,9.75,0,0,0,0,0,0,65,0,65,30,True,False,True,Right-arm medium-fast,Right-hand bat
+Somerset,JE Taylor,4180d897,12,0,0,0,0,0.0,"[2, 6, 17, 20]",3.5,21,8,0,40,2,4,2,0,0,0,0,11.43,0,0,0,0,0,0,54,0,54,40,True,False,False,Right-arm fast,Right-hand bat
+Somerset,MTC Waller,d74d1090,13,0,0,0,0,0.0,"[1, 10, 14]",3.0,18,2,0,28,4,0,0,0,0,0,0,9.33,1,0,0,0,0,0,2,8,10,37,True,False,False,Legbreak,Right-hand bat

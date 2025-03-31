@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Denmark,Lucky Ali,28b032ac,1,18,16,2,0,112.5,"[8, 10, 12, 14]",4.0,24,7,0,20,0,0,1,0,0,0,3,5.0,0,0,0,0,0,26,36,0,62
-Denmark,Anique Uddin,1f41b702,2,26,34,3,0,76.47,[16],1.0,6,1,0,6,0,0,0,0,0,0,0,6.0,1,0,0,0,0,42,1,8,51
-Denmark,SA Ahmad,8de618ab,3,3,5,0,0,60.0,"[2, 5, 18, 20]",4.0,24,15,1,21,3,0,2,0,0,0,1,5.25,1,0,0,0,0,3,81,8,92
-Denmark,S Thanikaithasan,498aacac,4,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
-Denmark,Zameer Khan,fb0d3749,5,7,8,0,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,7,0,20,27
-Denmark,Surya Anand,ef141f36,6,36,26,1,2,138.46,"[9, 11]",2.0,12,2,0,16,1,0,0,0,0,0,1,8.0,0,0,0,0,2,58,2,0,60
-Denmark,A Khan,e27cff77,7,16,14,0,1,114.29,"[4, 6]",2.0,12,5,0,17,1,1,0,0,0,0,1,8.5,0,0,0,0,0,22,5,0,27
-Denmark,Delawar Khan,28b99edd,8,14,5,0,2,280.0,"[7, 13, 19]",3.0,18,8,0,20,1,1,0,0,0,0,0,6.67,0,0,0,0,0,26,10,0,36
-Denmark,Musa Shaheen,6709b2de,9,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Denmark,Bashir Shah,3b282e51,10,0,0,0,0,0.0,"[1, 3, 15, 17]",4.0,24,8,0,35,4,1,1,0,0,0,0,8.75,0,0,0,0,0,0,33,0,33
-Denmark,Bilal Aftab,9f4aeb13,10,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Italy,GP Meade,3957a70a,1,43,55,2,0,78.18,"[8, 10, 12, 20]",4.0,24,9,0,18,0,0,3,0,1,0,1,4.5,1,0,0,0,0,55,102,8,165
-Italy,G Stewart,a77472dc,2,51,31,5,3,164.52,"[3, 5, 17]",3.0,18,10,0,19,0,2,0,0,0,0,1,6.33,0,0,0,0,4,101,12,0,113
-Italy,Manpreet Singh,e9d6a2ce,3,15,17,1,0,88.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
-Italy,GK Berg,42151725,4,4,4,0,0,100.0,"[7, 9, 19]",3.0,18,8,0,23,2,1,2,0,0,1,0,7.67,1,0,0,0,0,4,58,8,70
-Italy,Amir Sharif,f815a3b7,5,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,2,0,16,18
-Italy,NL Smith,547408c8,6,14,11,2,0,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
-Italy,BBJL Perera,c8c9d60b,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Italy,JW Dernbach,7be8a0ed,11,0,0,0,0,0.0,"[2, 6]",2.0,12,7,0,10,1,0,0,0,0,0,0,5.0,1,0,0,0,0,0,11,8,19
-Italy,MGSM Fernando,658c2e71,12,0,0,0,0,0.0,"[1, 11, 13, 15]",4.0,24,11,0,22,1,0,2,0,1,0,2,5.5,0,0,0,0,0,0,73,0,73
-Italy,Jaspreet Singh,d76ab352,13,0,0,0,0,0.0,"[4, 14, 16, 18]",4.0,24,5,0,40,2,2,2,0,1,1,0,10.0,0,0,0,0,0,0,61,0,61
-Italy,J Grassi,913b4b9f,14,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Denmark,Lucky Ali,28b032ac,1,18,16,2,0,112.5,"[8, 10, 12, 14]",4.0,24,7,0,20,0,0,1,0,0,0,3,5.0,0,0,0,0,0,26,36,0,62,21,True,True,False,Slow left-arm orthodox,Left-hand bat
+Denmark,Anique Uddin,1f41b702,2,26,34,3,0,76.47,[16],1.0,6,1,0,6,0,0,0,0,0,0,0,6.0,1,0,0,0,0,42,1,8,51,27,True,True,False,Right-arm offbreak,Right-hand bat
+Denmark,SA Ahmad,8de618ab,3,3,5,0,0,60.0,"[2, 5, 18, 20]",4.0,24,15,1,21,3,0,2,0,0,0,1,5.25,1,0,0,0,0,3,81,8,92,26,True,True,False,Right-arm offbreak,Left-hand bat
+Denmark,S Thanikaithasan,498aacac,4,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,26,True,True,False,Legbreak googly,Right-hand bat
+Denmark,Zameer Khan,fb0d3749,5,7,8,0,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,7,0,20,27,34,True,False,False,,Right-hand bat
+Denmark,Surya Anand,ef141f36,6,36,26,1,2,138.46,"[9, 11]",2.0,12,2,0,16,1,0,0,0,0,0,1,8.0,0,0,0,0,2,58,2,0,60,27,True,True,False,Right-arm medium,Right-hand bat
+Denmark,A Khan,e27cff77,7,16,14,0,1,114.29,"[4, 6]",2.0,12,5,0,17,1,1,0,0,0,0,1,8.5,0,0,0,0,0,22,5,0,27,44,True,False,False,Right-arm fast-medium,Right-hand bat
+Denmark,Delawar Khan,28b99edd,8,14,5,0,2,280.0,"[7, 13, 19]",3.0,18,8,0,20,1,1,0,0,0,0,0,6.67,0,0,0,0,0,26,10,0,36,28,True,True,False,Left-arm medium,Right-hand bat
+Denmark,Musa Shaheen,6709b2de,9,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,21,True,True,False,Right-arm medium-fast,Right-hand bat
+Denmark,Bashir Shah,3b282e51,10,0,0,0,0,0.0,"[1, 3, 15, 17]",4.0,24,8,0,35,4,1,1,0,0,0,0,8.75,0,0,0,0,0,0,33,0,33,41,True,True,False,Slow left-arm orthodox,Right-hand bat
+Denmark,Bilal Aftab,9f4aeb13,10,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,21,True,True,False,Right-arm medium-fast,Right-hand bat
+Italy,GP Meade,3957a70a,1,43,55,2,0,78.18,"[8, 10, 12, 20]",4.0,24,9,0,18,0,0,3,0,1,0,1,4.5,1,0,0,0,0,55,102,8,165,29,True,True,False,Right-arm medium-fast,Right-hand bat
+Italy,G Stewart,a77472dc,2,51,31,5,3,164.52,"[3, 5, 17]",3.0,18,10,0,19,0,2,0,0,0,0,1,6.33,0,0,0,0,4,101,12,0,113,31,True,False,True,Right-arm medium-fast,Right-hand bat
+Italy,Manpreet Singh,e9d6a2ce,3,15,17,1,0,88.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,40,True,False,False,,Right-hand bat
+Italy,GK Berg,42151725,4,4,4,0,0,100.0,"[7, 9, 19]",3.0,18,8,0,23,2,1,2,0,0,1,0,7.67,1,0,0,0,0,4,58,8,70,44,True,False,True,Right-arm medium,Right-hand bat
+Italy,Amir Sharif,f815a3b7,5,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,2,0,16,18,32,True,True,False,Right-arm medium,Right-hand bat
+Italy,NL Smith,547408c8,6,14,11,2,0,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,32,True,False,False,,
+Italy,BBJL Perera,c8c9d60b,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,37,True,True,False,Right-arm offbreak,Right-hand bat
+Italy,JW Dernbach,7be8a0ed,11,0,0,0,0,0.0,"[2, 6]",2.0,12,7,0,10,1,0,0,0,0,0,0,5.0,1,0,0,0,0,0,11,8,19,39,True,False,False,Right-arm fast-medium,Right-hand bat
+Italy,MGSM Fernando,658c2e71,12,0,0,0,0,0.0,"[1, 11, 13, 15]",4.0,24,11,0,22,1,0,2,0,1,0,2,5.5,0,0,0,0,0,0,73,0,73,33,True,True,False,Slow left-arm orthodox,Left-hand bat
+Italy,Jaspreet Singh,d76ab352,13,0,0,0,0,0.0,"[4, 14, 16, 18]",4.0,24,5,0,40,2,2,2,0,1,1,0,10.0,0,0,0,0,0,0,61,0,61,31,True,True,False,Right-arm fast-medium,Right-hand bat
+Italy,J Grassi,913b4b9f,14,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,26,True,False,False,,Right-hand bat

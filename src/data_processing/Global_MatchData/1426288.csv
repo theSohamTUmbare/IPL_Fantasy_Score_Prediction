@@ -1,25 +1,25 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Rajasthan Royals,YBK Jaiswal,6c19c6e5,1,67,39,7,2,171.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,121,0,8,129
-Rajasthan Royals,JC Buttler,99b75528,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Rajasthan Royals,SV Samson,a4cc73aa,3,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Rajasthan Royals,R Parag,04a418e8,4,77,48,8,4,160.42,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,149,0,0,149
-Rajasthan Royals,SO Hetmyer,48a1d7b7,5,13,9,1,1,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
-Rajasthan Royals,R Powell,650d5e49,6,27,15,3,1,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,55,0,0,55
-Rajasthan Royals,Dhruv Jurel,bcf325d2,7,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
-Rajasthan Royals,R Ashwin,495d42a5,8,2,2,0,0,100.0,"[2, 4, 10, 16]",4.0,24,10,0,36,0,4,0,0,0,0,1,9.0,0,0,0,0,0,2,10,0,12
-Rajasthan Royals,YS Chahal,57ee1fde,8,0,0,0,0,0.0,"[7, 9, 13, 17]",4.0,24,6,0,62,4,6,0,0,0,0,1,15.5,0,0,0,0,0,0,0,0,0
-Rajasthan Royals,TA Boult,a818c1be,9,0,0,0,0,0.0,"[1, 3, 12, 19]",4.0,24,8,0,33,5,0,0,0,0,0,1,8.25,0,0,0,0,0,0,8,0,8
-Rajasthan Royals,Avesh Khan,eef2536f,10,0,0,0,0,0.0,"[5, 11, 15, 18]",4.0,24,12,0,39,3,3,2,0,1,0,3,9.75,0,0,0,0,0,0,70,0,70
-Rajasthan Royals,Sandeep Sharma,ce820073,11,0,0,0,0,0.0,"[6, 8, 14, 20]",4.0,24,10,0,31,1,2,1,0,0,0,2,7.75,0,0,0,0,0,0,35,0,35
-Sunrisers Hyderabad,TM Head,12b610c2,1,58,44,6,3,131.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,110,0,0,110
-Sunrisers Hyderabad,Abhishek Sharma,f29185a1,2,12,10,0,1,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26
-Sunrisers Hyderabad,Anmolpreet Singh,1399b39c,3,5,5,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
-Sunrisers Hyderabad,Nithish Kumar Reddy,aad0c365,4,76,42,3,8,180.95,[8],1.0,6,1,0,12,1,0,0,0,0,0,2,12.0,0,0,0,0,6,154,1,0,155
-Sunrisers Hyderabad,H Klaasen,235c2bb6,5,42,19,3,3,221.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,82,0,0,82
-Sunrisers Hyderabad,JD Unadkat,1e66c162,8,0,0,0,0,0.0,"[7, 15]",2.0,12,2,0,23,1,1,0,0,0,0,2,11.5,0,0,0,0,0,0,-2,0,-2
-Sunrisers Hyderabad,Abdul Samad,8e514b4c,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Sunrisers Hyderabad,Shahbaz Ahmed,f9e6e7ef,10,0,0,0,0,0.0,[11],1.0,6,2,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,0,0,2,0,2
-Sunrisers Hyderabad,M Jansen,81c36ee9,11,0,0,0,0,0.0,"[2, 4, 10, 17]",4.0,24,10,0,44,7,0,0,0,0,2,4,11.0,3,0,0,0,0,0,8,28,36
-Sunrisers Hyderabad,PJ Cummins,ded9240e,12,0,0,0,0,0.0,"[5, 9, 16, 19]",4.0,24,12,0,34,2,3,2,0,0,0,0,8.5,0,0,0,0,0,0,62,0,62
-Sunrisers Hyderabad,B Kumar,2e81a32d,13,0,0,0,0,0.0,"[1, 3, 13, 20]",4.0,24,8,0,41,4,2,3,1,1,0,0,10.25,0,0,0,0,0,0,101,0,101
-Sunrisers Hyderabad,T Natarajan,ce794613,14,0,0,0,0,0.0,"[6, 12, 14, 18]",4.0,24,8,0,35,2,2,2,0,1,0,3,8.75,0,0,0,0,0,0,66,0,66
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Rajasthan Royals,YBK Jaiswal,6c19c6e5,1,67,39,7,2,171.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,121,0,8,129,23,True,False,False,Legbreak,Left-hand bat
+Rajasthan Royals,JC Buttler,99b75528,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,34,True,False,False,,Right-hand bat
+Rajasthan Royals,SV Samson,a4cc73aa,3,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,30,True,False,False,,Right-hand bat
+Rajasthan Royals,R Parag,04a418e8,4,77,48,8,4,160.42,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,149,0,0,149,23,True,False,False,Legbreak,Right-hand bat
+Rajasthan Royals,SO Hetmyer,48a1d7b7,5,13,9,1,1,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23,28,True,False,False,,Left-hand bat
+Rajasthan Royals,R Powell,650d5e49,6,27,15,3,1,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,55,0,0,55,31,True,False,False,Right-arm medium-fast,Right-hand bat
+Rajasthan Royals,Dhruv Jurel,bcf325d2,7,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,24,True,False,False,,Right-hand bat
+Rajasthan Royals,R Ashwin,495d42a5,8,2,2,0,0,100.0,"[2, 4, 10, 16]",4.0,24,10,0,36,0,4,0,0,0,0,1,9.0,0,0,0,0,0,2,10,0,12,38,True,False,True,Right-arm offbreak,Right-hand bat
+Rajasthan Royals,YS Chahal,57ee1fde,8,0,0,0,0,0.0,"[7, 9, 13, 17]",4.0,24,6,0,62,4,6,0,0,0,0,1,15.5,0,0,0,0,0,0,0,0,0,34,True,False,False,Legbreak googly,Right-hand bat
+Rajasthan Royals,TA Boult,a818c1be,9,0,0,0,0,0.0,"[1, 3, 12, 19]",4.0,24,8,0,33,5,0,0,0,0,0,1,8.25,0,0,0,0,0,0,8,0,8,35,True,False,False,Left-arm fast-medium,Right-hand bat
+Rajasthan Royals,Avesh Khan,eef2536f,10,0,0,0,0,0.0,"[5, 11, 15, 18]",4.0,24,12,0,39,3,3,2,0,1,0,3,9.75,0,0,0,0,0,0,70,0,70,28,True,False,False,Right-arm fast-medium,Right-hand bat
+Rajasthan Royals,Sandeep Sharma,ce820073,11,0,0,0,0,0.0,"[6, 8, 14, 20]",4.0,24,10,0,31,1,2,1,0,0,0,2,7.75,0,0,0,0,0,0,35,0,35,31,True,False,False,Right-arm medium,Right-hand bat
+Sunrisers Hyderabad,TM Head,12b610c2,1,58,44,6,3,131.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,110,0,0,110,31,True,False,False,Right-arm offbreak,Left-hand bat
+Sunrisers Hyderabad,Abhishek Sharma,f29185a1,2,12,10,0,1,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26,24,True,False,True,Slow left-arm orthodox,Left-hand bat
+Sunrisers Hyderabad,Anmolpreet Singh,1399b39c,3,5,5,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,27,True,False,False,Right-arm offbreak,Right-hand bat
+Sunrisers Hyderabad,Nithish Kumar Reddy,aad0c365,4,76,42,3,8,180.95,[8],1.0,6,1,0,12,1,0,0,0,0,0,2,12.0,0,0,0,0,6,154,1,0,155,21,True,False,True,Right-arm medium-fast,Right-hand bat
+Sunrisers Hyderabad,H Klaasen,235c2bb6,5,42,19,3,3,221.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,82,0,0,82,33,True,True,False,Right-arm offbreak,Right-hand bat
+Sunrisers Hyderabad,JD Unadkat,1e66c162,8,0,0,0,0,0.0,"[7, 15]",2.0,12,2,0,23,1,1,0,0,0,0,2,11.5,0,0,0,0,0,0,-2,0,-2,33,True,False,False,Left-arm medium,Right-hand bat
+Sunrisers Hyderabad,Abdul Samad,8e514b4c,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,23,True,False,False,Legbreak,Right-hand bat
+Sunrisers Hyderabad,Shahbaz Ahmed,f9e6e7ef,10,0,0,0,0,0.0,[11],1.0,6,2,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,0,0,2,0,2,30,True,False,True,Slow left-arm orthodox,Left-hand bat
+Sunrisers Hyderabad,M Jansen,81c36ee9,11,0,0,0,0,0.0,"[2, 4, 10, 17]",4.0,24,10,0,44,7,0,0,0,0,2,4,11.0,3,0,0,0,0,0,8,28,36,24,True,False,True,Left-arm fast,Right-hand bat
+Sunrisers Hyderabad,PJ Cummins,ded9240e,12,0,0,0,0,0.0,"[5, 9, 16, 19]",4.0,24,12,0,34,2,3,2,0,0,0,0,8.5,0,0,0,0,0,0,62,0,62,31,True,False,False,Right-arm fast,Right-hand bat
+Sunrisers Hyderabad,B Kumar,2e81a32d,13,0,0,0,0,0.0,"[1, 3, 13, 20]",4.0,24,8,0,41,4,2,3,1,1,0,0,10.25,0,0,0,0,0,0,101,0,101,35,True,False,False,Right-arm medium,Right-hand bat
+Sunrisers Hyderabad,T Natarajan,ce794613,14,0,0,0,0,0.0,"[6, 12, 14, 18]",4.0,24,8,0,35,2,2,2,0,1,0,3,8.75,0,0,0,0,0,0,66,0,66,33,True,False,False,Left-arm medium,Left-hand bat

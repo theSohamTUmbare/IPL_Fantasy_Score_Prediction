@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Barisal Bulls,Shahriar Nafees,b9c225c2,1,3,13,0,0,23.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-3,0,0,-3
-Barisal Bulls,EMDY Munaweera,5a22d91c,2,10,7,2,0,142.86,[5],1.0,6,3,0,4,0,0,0,0,0,0,0,4.0,0,0,0,0,0,18,3,0,21
-Barisal Bulls,BMAJ Mendis,9868bc75,3,7,13,0,0,53.85,"[7, 14]",2.0,12,2,0,17,2,0,0,0,0,0,0,8.5,1,0,0,0,-4,3,2,8,13
-Barisal Bulls,Mushfiqur Rahim,a94e08ea,4,36,30,2,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,48,0,0,48
-Barisal Bulls,Nadif Chowdhury,d6ac6545,5,21,25,2,0,84.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,29,0,12,41
-Barisal Bulls,NLTC Perera,0f12f9df,6,15,15,1,0,100.0,"[15, 20]",1.333,8,2,0,15,2,0,0,0,0,0,1,11.25,1,0,0,0,0,19,2,8,29
-Barisal Bulls,Enamul Haque,7d6c0891,7,3,4,0,0,75.0,"[3, 8, 10, 12]",4.0,24,4,0,24,1,0,1,0,0,0,0,6.0,1,0,0,0,0,3,31,8,42
-Barisal Bulls,Rumman Raees,1c790f4f,8,25,13,2,1,192.31,"[2, 4, 16, 18]",4.0,24,9,0,25,3,0,0,0,0,0,0,6.25,0,0,0,0,6,49,11,0,60
-Barisal Bulls,Taijul Islam,9d1d34bd,8,0,0,0,0,0.0,"[1, 9, 11, 13]",4.0,24,10,0,19,1,0,2,0,1,0,0,4.75,0,0,0,0,0,0,74,0,74
-Barisal Bulls,Monir Hossain,760f445b,9,0,0,0,0,0.0,[17],1.0,6,1,0,12,1,1,1,1,0,0,0,12.0,0,0,0,0,0,0,34,0,34
-Barisal Bulls,Kamrul Islam Rabbi,f7e9a562,10,0,0,0,0,0.0,"[6, 19]",2.0,12,4,0,14,2,0,1,0,0,0,0,7.0,0,0,0,0,0,0,31,0,31
-Dhaka Dynamites,Mehedi Maruf,3361993b,1,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,1,0,12,13
-Dhaka Dynamites,KC Sangakkara,6b71e6cf,2,32,33,4,0,96.97,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,52,0,0,52
-Dhaka Dynamites,Shakib Al Hasan,7dc35884,3,22,21,2,0,104.76,"[2, 4, 14, 20]",4.0,24,11,0,31,3,1,1,0,1,0,5,7.75,0,0,0,0,0,30,44,0,74
-Dhaka Dynamites,Nasir Hossain,6eea0b32,4,34,29,2,1,117.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,52,0,0,52
-Dhaka Dynamites,Mosaddek Hossain,8919756f,5,23,20,2,0,115.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,31,0,12,43
-Dhaka Dynamites,S Prasanna,f78e7113,6,10,8,1,0,125.0,"[10, 12]",2.0,12,2,0,17,1,0,0,0,0,0,1,8.5,2,0,0,0,0,14,2,16,32
-Dhaka Dynamites,RS Bopara,7ca5e05d,7,1,1,0,0,100.0,"[7, 9, 13, 16]",4.0,24,7,0,23,1,0,1,0,0,0,0,5.75,0,0,0,0,0,1,36,0,37
-Dhaka Dynamites,DJ Bravo,87e562a9,8,6,2,1,0,300.0,"[5, 11, 17, 19]",4.0,24,7,0,35,3,0,1,0,0,0,1,8.75,0,0,0,0,0,10,32,0,42
-Dhaka Dynamites,Abu Jayed,1bb0993e,8,0,0,0,0,0.0,"[1, 3, 15, 18]",4.0,24,13,1,12,0,0,1,0,0,0,2,3.0,0,0,0,0,0,0,56,0,56
-Dhaka Dynamites,Sunzamul Islam,0f348f58,9,0,0,0,0,0.0,"[6, 8]",2.0,12,4,0,11,1,0,0,0,0,0,0,5.5,1,0,0,0,0,0,8,8,16
-Dhaka Dynamites,Alauddin Babu,721032ec,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Barisal Bulls,Shahriar Nafees,b9c225c2,1,3,13,0,0,23.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-3,0,0,-3,39,True,False,False,,Left-hand bat
+Barisal Bulls,EMDY Munaweera,5a22d91c,2,10,7,2,0,142.86,[5],1.0,6,3,0,4,0,0,0,0,0,0,0,4.0,0,0,0,0,0,18,3,0,21,35,True,False,False,Right-arm offbreak,Right-hand bat
+Barisal Bulls,BMAJ Mendis,9868bc75,3,7,13,0,0,53.85,"[7, 14]",2.0,12,2,0,17,2,0,0,0,0,0,0,8.5,1,0,0,0,-4,3,2,8,13,42,True,False,True,Legbreak,Left-hand bat
+Barisal Bulls,Mushfiqur Rahim,a94e08ea,4,36,30,2,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,48,0,0,48,37,True,False,False,,Right-hand bat
+Barisal Bulls,Nadif Chowdhury,d6ac6545,5,21,25,2,0,84.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,29,0,12,41,37,True,False,False,Slow left-arm orthodox,Right-hand bat
+Barisal Bulls,NLTC Perera,0f12f9df,6,15,15,1,0,100.0,"[15, 20]",1.333,8,2,0,15,2,0,0,0,0,0,1,11.25,1,0,0,0,0,19,2,8,29,35,True,False,True,Right-arm medium-fast,Left-hand bat
+Barisal Bulls,Enamul Haque,7d6c0891,7,3,4,0,0,75.0,"[3, 8, 10, 12]",4.0,24,4,0,24,1,0,1,0,0,0,0,6.0,1,0,0,0,0,3,31,8,42,38,True,True,False,Right-arm offbreak,Right-hand bat
+Barisal Bulls,Rumman Raees,1c790f4f,8,25,13,2,1,192.31,"[2, 4, 16, 18]",4.0,24,9,0,25,3,0,0,0,0,0,0,6.25,0,0,0,0,6,49,11,0,60,33,True,False,False,Left-arm medium-fast,Right-hand bat
+Barisal Bulls,Taijul Islam,9d1d34bd,8,0,0,0,0,0.0,"[1, 9, 11, 13]",4.0,24,10,0,19,1,0,2,0,1,0,0,4.75,0,0,0,0,0,0,74,0,74,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+Barisal Bulls,Monir Hossain,760f445b,9,0,0,0,0,0.0,[17],1.0,6,1,0,12,1,1,1,1,0,0,0,12.0,0,0,0,0,0,0,34,0,34,39,True,True,False,Slow left-arm orthodox,Right-hand bat
+Barisal Bulls,Kamrul Islam Rabbi,f7e9a562,10,0,0,0,0,0.0,"[6, 19]",2.0,12,4,0,14,2,0,1,0,0,0,0,7.0,0,0,0,0,0,0,31,0,31,33,True,False,False,Right-arm medium-fast,Right-hand bat
+Dhaka Dynamites,Mehedi Maruf,3361993b,1,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,1,0,12,13,36,True,True,False,Right-arm offbreak,Right-hand bat
+Dhaka Dynamites,KC Sangakkara,6b71e6cf,2,32,33,4,0,96.97,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,52,0,0,52,47,True,True,False,Right-arm offbreak,Left-hand bat
+Dhaka Dynamites,Shakib Al Hasan,7dc35884,3,22,21,2,0,104.76,"[2, 4, 14, 20]",4.0,24,11,0,31,3,1,1,0,1,0,5,7.75,0,0,0,0,0,30,44,0,74,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Dhaka Dynamites,Nasir Hossain,6eea0b32,4,34,29,2,1,117.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,52,0,0,52,33,True,False,True,Right-arm offbreak,Right-hand bat
+Dhaka Dynamites,Mosaddek Hossain,8919756f,5,23,20,2,0,115.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,31,0,12,43,29,True,False,True,Right-arm offbreak,Right-hand bat
+Dhaka Dynamites,S Prasanna,f78e7113,6,10,8,1,0,125.0,"[10, 12]",2.0,12,2,0,17,1,0,0,0,0,0,1,8.5,2,0,0,0,0,14,2,16,32,39,True,False,True,Legbreak,Right-hand bat
+Dhaka Dynamites,RS Bopara,7ca5e05d,7,1,1,0,0,100.0,"[7, 9, 13, 16]",4.0,24,7,0,23,1,0,1,0,0,0,0,5.75,0,0,0,0,0,1,36,0,37,39,True,False,True,Right-arm medium,Right-hand bat
+Dhaka Dynamites,DJ Bravo,87e562a9,8,6,2,1,0,300.0,"[5, 11, 17, 19]",4.0,24,7,0,35,3,0,1,0,0,0,1,8.75,0,0,0,0,0,10,32,0,42,41,True,False,True,Right-arm medium,Right-hand bat
+Dhaka Dynamites,Abu Jayed,1bb0993e,8,0,0,0,0,0.0,"[1, 3, 15, 18]",4.0,24,13,1,12,0,0,1,0,0,0,2,3.0,0,0,0,0,0,0,56,0,56,31,True,False,False,Right-arm fast-medium,Right-hand bat
+Dhaka Dynamites,Sunzamul Islam,0f348f58,9,0,0,0,0,0.0,"[6, 8]",2.0,12,4,0,11,1,0,0,0,0,0,0,5.5,1,0,0,0,0,0,8,8,16,35,True,False,True,Slow left-arm orthodox,Left-hand bat
+Dhaka Dynamites,Alauddin Babu,721032ec,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,33,True,False,True,Right-arm medium-fast,Right-hand bat

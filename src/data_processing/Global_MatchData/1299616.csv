@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Boland,JN Malan,f76d7466,1,15,12,3,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27
-Boland,PJ Malan,f32d890a,2,71,48,5,4,147.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,2,125,0,28,153
-Boland,C Fortuin,f25cebec,3,18,20,2,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,26,0,8,34
-Boland,FD Adams,f277f531,4,30,23,2,1,130.43,"[16, 18]",1.333,8,2,0,17,2,1,2,0,1,0,0,12.75,0,0,0,0,2,50,60,0,110
-Boland,C Jonker,a81d6706,5,20,14,0,1,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,28,0,0,28
-Boland,M Copeland,9943b637,6,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Boland,GC Viljoen,a316d663,11,0,0,0,0,0.0,"[4, 17]",2.0,12,4,0,15,2,0,2,0,0,0,2,7.5,0,0,0,0,0,0,54,0,54
-Boland,S von Berg,ffd3fc37,12,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,11,0,14,0,0,3,1,1,0,0,3.5,0,0,0,0,0,0,112,0,112
-Boland,I Manack,5ec126fa,13,0,0,0,0,0.0,"[2, 6, 8, 12]",4.0,24,4,0,27,2,0,1,0,1,0,1,6.75,0,0,0,0,0,0,39,0,39
-Boland,Siyabonga Mahima,1062bebb,14,0,0,0,0,0.0,"[1, 3, 5, 15]",4.0,24,12,0,20,2,0,2,1,0,0,0,5.0,0,0,0,0,0,0,74,0,74
-Boland,ZC Qwabe,00741bc7,15,0,0,0,0,0.0,"[10, 14]",2.0,12,2,0,20,2,1,0,0,0,0,1,10.0,1,0,0,0,0,0,0,8,8
-Lions,J Richards,15531194,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Lions,RR Hendricks,b8cc58c9,2,46,39,4,1,117.95,"[10, 12]",2.0,12,3,0,10,0,0,1,0,1,0,0,5.0,0,0,0,0,0,72,40,0,112
-Lions,S Dadswell,0ecf791e,3,29,24,4,0,120.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,49,0,0,49
-Lions,M Van Buuren,46e4a4e0,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Lions,DA Hendricks,f66f5343,5,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
-Lions,R Haasbroek,5d1c2102,6,5,9,0,0,55.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
-Lions,SSB Magala,8361e524,7,21,15,2,1,140.0,"[2, 6, 18, 20]",4.0,24,7,0,41,6,0,1,0,1,1,0,10.25,0,0,0,0,2,37,38,0,75
-Lions,BC Fortuin,9a2fc964,8,1,2,0,0,50.0,"[1, 3, 8, 14]",4.0,24,8,0,30,3,1,0,0,0,0,0,7.5,0,0,0,0,0,1,8,0,9
-Lions,MP Siboto,9d50c7e1,9,2,3,0,0,66.67,"[9, 15, 17, 19]",4.0,24,8,0,29,1,2,1,0,0,0,0,7.25,0,0,0,0,0,2,33,0,35
-Lions,Codi Yusuf,f2397e48,10,1,3,0,0,33.33,"[4, 11, 16]",3.0,18,5,0,23,1,1,0,0,0,0,0,7.67,0,0,0,0,0,1,5,0,6
-Lions,A Myoli,c50bfbc2,11,0,0,0,0,0.0,"[5, 7, 13]",3.0,18,8,0,24,1,2,1,0,0,0,0,8.0,0,0,0,0,0,0,33,0,33
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Boland,JN Malan,f76d7466,1,15,12,3,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27,28,True,False,False,Legbreak,Right-hand bat
+Boland,PJ Malan,f32d890a,2,71,48,5,4,147.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,2,125,0,28,153,35,True,False,False,Right-arm medium-fast,Right-hand bat
+Boland,C Fortuin,f25cebec,3,18,20,2,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,26,0,8,34,29,True,False,False,,Right-hand bat
+Boland,FD Adams,f277f531,4,30,23,2,1,130.43,"[16, 18]",1.333,8,2,0,17,2,1,2,0,1,0,0,12.75,0,0,0,0,2,50,60,0,110,35,True,False,True,Right-arm fast-medium,Right-hand bat
+Boland,C Jonker,a81d6706,5,20,14,0,1,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,28,0,0,28,38,True,False,False,Right-arm medium-fast,Right-hand bat
+Boland,M Copeland,9943b637,6,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,22,True,False,False,Right-arm offbreak,Right-hand bat
+Boland,GC Viljoen,a316d663,11,0,0,0,0,0.0,"[4, 17]",2.0,12,4,0,15,2,0,2,0,0,0,2,7.5,0,0,0,0,0,0,54,0,54,36,True,False,False,Right-arm fast,Right-hand bat
+Boland,S von Berg,ffd3fc37,12,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,11,0,14,0,0,3,1,1,0,0,3.5,0,0,0,0,0,0,112,0,112,38,True,False,True,Legbreak,Right-hand bat
+Boland,I Manack,5ec126fa,13,0,0,0,0,0.0,"[2, 6, 8, 12]",4.0,24,4,0,27,2,0,1,0,1,0,1,6.75,0,0,0,0,0,0,39,0,39,33,True,False,False,Right-arm offbreak,Right-hand bat
+Boland,Siyabonga Mahima,1062bebb,14,0,0,0,0,0.0,"[1, 3, 5, 15]",4.0,24,12,0,20,2,0,2,1,0,0,0,5.0,0,0,0,0,0,0,74,0,74,28,True,True,False,Slow left-arm orthodox,Left-hand bat
+Boland,ZC Qwabe,00741bc7,15,0,0,0,0,0.0,"[10, 14]",2.0,12,2,0,20,2,1,0,0,0,0,1,10.0,1,0,0,0,0,0,0,8,8,36,True,True,False,Right-arm medium-fast,Right-hand bat
+Lions,J Richards,15531194,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,26,True,False,False,Legbreak,Right-hand bat
+Lions,RR Hendricks,b8cc58c9,2,46,39,4,1,117.95,"[10, 12]",2.0,12,3,0,10,0,0,1,0,1,0,0,5.0,0,0,0,0,0,72,40,0,112,35,True,False,False,Right-arm offbreak,Right-hand bat
+Lions,S Dadswell,0ecf791e,3,29,24,4,0,120.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,49,0,0,49,27,True,False,False,Right-arm medium-fast,Right-hand bat
+Lions,M Van Buuren,46e4a4e0,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,27,True,False,False,Legbreak googly,Right-hand bat
+Lions,DA Hendricks,f66f5343,5,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,34,True,False,False,Right-arm offbreak,Left-hand bat
+Lions,R Haasbroek,5d1c2102,6,5,9,0,0,55.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,27,True,True,False,Right-arm offbreak,Right-hand bat
+Lions,SSB Magala,8361e524,7,21,15,2,1,140.0,"[2, 6, 18, 20]",4.0,24,7,0,41,6,0,1,0,1,1,0,10.25,0,0,0,0,2,37,38,0,75,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Lions,BC Fortuin,9a2fc964,8,1,2,0,0,50.0,"[1, 3, 8, 14]",4.0,24,8,0,30,3,1,0,0,0,0,0,7.5,0,0,0,0,0,1,8,0,9,30,True,False,False,Slow left-arm orthodox,Right-hand bat
+Lions,MP Siboto,9d50c7e1,9,2,3,0,0,66.67,"[9, 15, 17, 19]",4.0,24,8,0,29,1,2,1,0,0,0,0,7.25,0,0,0,0,0,2,33,0,35,37,True,False,False,Right-arm medium,Left-hand bat
+Lions,Codi Yusuf,f2397e48,10,1,3,0,0,33.33,"[4, 11, 16]",3.0,18,5,0,23,1,1,0,0,0,0,0,7.67,0,0,0,0,0,1,5,0,6,26,True,False,True,Right-arm medium,Right-hand bat
+Lions,A Myoli,c50bfbc2,11,0,0,0,0,0.0,"[5, 7, 13]",3.0,18,8,0,24,1,2,1,0,0,0,0,8.0,0,0,0,0,0,0,33,0,33,34,True,False,False,Right-arm fast,Right-hand bat

@@ -7,7 +7,7 @@ import json
 # print(match.get_json()['team'])
 
 load = True
-player_idx = 0
+player_idx = -1
 player_positions = set()
 # player = Player('1058210')
 # print(player.json)
@@ -25,20 +25,22 @@ if load:
     print("Loading from checkpoint at", player_idx)
 else:
     df = pd.read_csv('players.csv')
-    df['age'] = None
-    df['cricinfo_id'] = ''
-    df['bowling'] = False
-    df['batting'] = False
-    df['all_rounder'] = False
-    df['position'] = ''
-    df['batting_style'] = ''
-    df['bowling_style'] = ''
+    # df['age'] = None
+    # df['cricinfo_id'] = ''
+    # df['bowling'] = False
+    # df['batting'] = False
+    # df['all_rounder'] = False
+    # df['position'] = ''
+    # df['batting_style'] = ''
+    # df['bowling_style'] = ''
 
 mapping_df = pd.read_csv('player_id_mapping.csv')
 player_ids = df['player_id'].tolist()
 no_data = set()
+print(player_ids[0])
+# exit()
 
-for i, player_id in enumerate(player_ids):
+for i, player_id in enumerate(player_ids, start=0):
     if i <= player_idx:
         continue
     player_mapping = mapping_df.loc[mapping_df['identifier'] == player_id]
@@ -106,21 +108,21 @@ for i, player_id in enumerate(player_ids):
         
     print(player_age, batting, bowling, allrounder, batting_style, bowling_style, player_position_name) 
     
-    df.loc[df['player_id'] == player_id, 'age'] = player_age
-    df.loc[df['player_id'] == player_id, 'batting'] = batting
+    df.loc[df['player_id'] == player_id, 'age'] = int(player_age) if player_age is not None else None   
+    df.loc[df['player_id'] == player_id, 'batting'] = batting 
     df.loc[df['player_id'] == player_id, 'bowling'] = bowling
     df.loc[df['player_id'] == player_id, 'all_rounder'] = allrounder
     df.loc[df['player_id'] == player_id, 'batting_style'] = batting_style
     df.loc[df['player_id'] == player_id, 'bowling_style'] = bowling_style 
     df.loc[df['player_id'] == player_id, 'bowling_style'] = bowling_style 
     df.loc[df['player_id'] == player_id, 'player_position'] = player_position_name 
-    df.loc[df['player_id'] == player_id, 'cricinfo_id'] = player_cricinfo_id
+    df.loc[df['player_id'] == player_id, 'cricinfo_id'] = str(int(player_cricinfo_id)) if player_cricinfo_id is not None else None
     
-    if i % 50 == 0:
-        df.to_csv('updated_players\\updated_players.csv')
+    if i % 50 == 0 and i != 0:
+        df.to_csv('updated_players\\updated_players.csv', index=False)
         save_point = {'player_idx': i, 'no_data': list(no_data), 'player_positions': list(player_positions)}
         with open('updated_players\save_point.json', 'w') as file:
             json.dump(save_point, file)
         print("Saving checkpoint at player_idx:", i)
-df.to_csv('updated_players\\updated_players.csv')
+df.to_csv('updated_players\\updated_players.csv', index=False)
 print("Completed all players")

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Austria,Bilal Zalmai,33b67317,1,10,6,0,1,166.67,"[7, 9, 11, 13]",4.0,24,6,0,32,2,1,0,0,0,0,0,8.0,0,0,0,0,0,16,6,0,22
-Austria,Zeshan Arif,6829b373,2,19,11,1,2,172.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,41,0,0,41
-Austria,Razmal Shigiwal,60cc80ac,3,20,13,2,0,153.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,32,0,0,32
-Austria,Aqib Iqbal,14157abf,4,37,26,2,2,142.31,"[4, 6, 18, 20]",4.0,24,13,0,19,0,1,1,0,0,0,1,4.75,0,0,0,1,2,63,44,6,113
-Austria,M Simpson-Parker,fecd828e,5,63,26,6,3,242.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,119,0,16,135
-Austria,Sahel Zadran,dae28050,6,0,0,0,0,0.0,"[1, 3, 5, 17]",4.0,24,13,0,35,6,1,1,0,0,0,0,8.75,0,0,0,0,0,0,38,0,38
-Austria,Hamid Safi,ec4ae12d,6,15,3,0,2,500.0,[15],1.0,6,2,0,16,0,2,0,0,0,1,0,16.0,1,0,0,0,0,27,2,8,37
-Austria,J Ghelzai,b38a7890,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Austria,Arsalan Arif,cc65e4a4,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,0,0,14,14
-Austria,H Khogiyani,b85c0597,9,0,0,0,0,0.0,"[2, 12, 14, 16]",4.0,24,9,0,26,2,1,1,0,0,0,1,6.5,0,0,0,0,0,0,36,0,36
-Austria,Umair Tariq,67ec2b09,10,0,0,0,0,0.0,"[8, 10, 19]",3.0,18,4,0,32,3,2,2,0,1,0,0,10.67,0,0,0,0,0,0,60,0,60
-Malta,DR Patankar,e661915c,1,20,20,4,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,36,0,0,36
-Malta,R Dianish,17e2a2d6,2,16,12,0,2,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,30,0,0,30
-Malta,Sobu George,bed559c8,3,27,21,4,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,47,0,0,47
-Malta,VP Thamotharam,eb40ed89,4,58,34,5,4,170.59,"[7, 9, 11, 13]",4.0,24,8,0,44,4,2,2,1,0,0,2,11.0,1,0,0,0,6,116,64,8,188
-Malta,E Mathew,e00acf74,5,21,20,0,1,105.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27
-Malta,Amar Sharma,14e1fdab,6,0,0,0,0,0.0,"[8, 10]",2.0,12,1,0,28,1,2,0,0,0,0,0,14.0,0,0,0,0,0,0,-5,0,-5
-Malta,Washeem Abbas,6de4e430,6,10,6,0,1,166.67,"[2, 4, 14]",3.0,18,2,0,54,2,5,0,0,0,0,1,18.0,1,0,0,0,0,16,-4,8,20
-Malta,Jaspal Singh,adca37a2,7,4,6,0,0,66.67,[15],0.167,1,0,0,6,0,1,0,0,0,0,0,35.93,0,0,0,0,0,4,0,0,4
-Malta,D Marks,0813a8b1,7,0,0,0,0,0.0,"[1, 3, 5, 12]",4.0,24,11,0,28,3,0,2,0,0,0,2,7.0,1,0,0,0,0,0,63,8,71
-Malta,C Sudarsanan,391a825b,8,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Malta,P Ghosh,3f0e3504,8,0,0,0,0,0.0,[6],1.0,6,2,0,9,1,0,0,0,0,0,0,9.0,0,0,0,0,0,0,2,0,2
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Austria,Bilal Zalmai,33b67317,1,10,6,0,1,166.67,"[7, 9, 11, 13]",4.0,24,6,0,32,2,1,0,0,0,0,0,8.0,0,0,0,0,0,16,6,0,22,36,True,True,False,Right-arm offbreak,Right-hand bat
+Austria,Zeshan Arif,6829b373,2,19,11,1,2,172.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,41,0,0,41,27,True,True,False,Legbreak,Right-hand bat
+Austria,Razmal Shigiwal,60cc80ac,3,20,13,2,0,153.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,32,0,0,32,26,True,True,False,Right-arm medium,Right-hand bat
+Austria,Aqib Iqbal,14157abf,4,37,26,2,2,142.31,"[4, 6, 18, 20]",4.0,24,13,0,19,0,1,1,0,0,0,1,4.75,0,0,0,1,2,63,44,6,113,27,True,True,False,Right-arm medium,Right-hand bat
+Austria,M Simpson-Parker,fecd828e,5,63,26,6,3,242.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,119,0,16,135,27,True,True,False,Right-arm medium,Right-hand bat
+Austria,Sahel Zadran,dae28050,6,0,0,0,0,0.0,"[1, 3, 5, 17]",4.0,24,13,0,35,6,1,1,0,0,0,0,8.75,0,0,0,0,0,0,38,0,38,35,True,True,False,Right-arm medium,Right-hand bat
+Austria,Hamid Safi,ec4ae12d,6,15,3,0,2,500.0,[15],1.0,6,2,0,16,0,2,0,0,0,1,0,16.0,1,0,0,0,0,27,2,8,37,24,True,True,False,Right-arm medium,Right-hand bat
+Austria,J Ghelzai,b38a7890,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,24,True,True,False,Right-arm offbreak,Right-hand bat
+Austria,Arsalan Arif,cc65e4a4,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,0,0,14,14,29,True,False,False,,Right-hand bat
+Austria,H Khogiyani,b85c0597,9,0,0,0,0,0.0,"[2, 12, 14, 16]",4.0,24,9,0,26,2,1,1,0,0,0,1,6.5,0,0,0,0,0,0,36,0,36,23,True,True,False,Right-arm medium,Right-hand bat
+Austria,Umair Tariq,67ec2b09,10,0,0,0,0,0.0,"[8, 10, 19]",3.0,18,4,0,32,3,2,2,0,1,0,0,10.67,0,0,0,0,0,0,60,0,60,27,True,True,False,Right-arm medium,Right-hand bat
+Malta,DR Patankar,e661915c,1,20,20,4,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,36,0,0,36,26,True,False,False,,Right-hand bat
+Malta,R Dianish,17e2a2d6,2,16,12,0,2,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,30,0,0,30,38,True,False,False,,Right-hand bat
+Malta,Sobu George,bed559c8,3,27,21,4,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,47,0,0,47,32,True,True,False,Right-arm medium,Right-hand bat
+Malta,VP Thamotharam,eb40ed89,4,58,34,5,4,170.59,"[7, 9, 11, 13]",4.0,24,8,0,44,4,2,2,1,0,0,2,11.0,1,0,0,0,6,116,64,8,188,36,True,True,False,Left-arm medium-fast,Left-hand bat
+Malta,E Mathew,e00acf74,5,21,20,0,1,105.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27,30,True,True,False,Right-arm medium,Right-hand bat
+Malta,Amar Sharma,14e1fdab,6,0,0,0,0,0.0,"[8, 10]",2.0,12,1,0,28,1,2,0,0,0,0,0,14.0,0,0,0,0,0,0,-5,0,-5,46,True,True,False,Right-arm offbreak,Right-hand bat
+Malta,Washeem Abbas,6de4e430,6,10,6,0,1,166.67,"[2, 4, 14]",3.0,18,2,0,54,2,5,0,0,0,0,1,18.0,1,0,0,0,0,16,-4,8,20,34,True,True,False,Right-arm fast,Right-hand bat
+Malta,Jaspal Singh,adca37a2,7,4,6,0,0,66.67,[15],0.167,1,0,0,6,0,1,0,0,0,0,0,35.93,0,0,0,0,0,4,0,0,4,38,True,True,False,Right-arm medium,Right-hand bat
+Malta,D Marks,0813a8b1,7,0,0,0,0,0.0,"[1, 3, 5, 12]",4.0,24,11,0,28,3,0,2,0,0,0,2,7.0,1,0,0,0,0,0,63,8,71,38,True,True,False,Right-arm fast,Right-hand bat
+Malta,C Sudarsanan,391a825b,8,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,30,True,False,False,,Right-hand bat
+Malta,P Ghosh,3f0e3504,8,0,0,0,0,0.0,[6],1.0,6,2,0,9,1,0,0,0,0,0,0,9.0,0,0,0,0,0,0,2,0,2,34,True,True,False,Right-arm medium,Right-hand bat

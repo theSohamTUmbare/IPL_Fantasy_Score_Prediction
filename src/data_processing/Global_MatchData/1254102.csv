@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Kolkata Knight Riders,VR Iyer,a24be938,1,67,49,9,1,136.73,"[8, 13, 20]",2.5,15,2,0,30,0,3,1,0,0,1,0,12.0,0,0,0,0,2,119,23,0,142
-Kolkata Knight Riders,Shubman Gill,b4b99816,2,7,7,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19
-Kolkata Knight Riders,RA Tripathi,77255a9e,3,34,26,3,1,130.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,58,0,8,66
-Kolkata Knight Riders,N Rana,fb2d1dda,4,31,18,2,2,172.22,[12],1.0,6,1,0,7,0,0,0,0,0,0,0,7.0,0,0,0,0,6,61,1,0,62
-Kolkata Knight Riders,EJG Morgan,d2a6c0e6,5,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
-Kolkata Knight Riders,KD Karthik,c03f1114,6,11,11,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
-Kolkata Knight Riders,TL Seifert,4663bd23,7,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Kolkata Knight Riders,TG Southee,13c35c9e,7,0,0,0,0,0.0,"[1, 3, 15, 18]",4.0,24,5,0,40,3,2,0,0,0,0,1,10.0,0,0,0,0,0,0,3,0,3
-Kolkata Knight Riders,SP Narine,9d430b40,8,3,3,0,0,100.0,"[6, 10, 14, 16]",4.0,24,5,0,34,0,2,1,0,0,0,2,8.5,0,0,0,0,0,3,30,0,33
-Kolkata Knight Riders,CV Varun,5b7ab5a9,8,0,0,0,0,0.0,"[5, 7, 9, 11]",4.0,24,7,0,24,1,1,2,0,0,0,0,6.0,0,0,0,0,0,0,59,0,59
-Kolkata Knight Riders,Shivam Mavi,c38d3503,9,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,11,0,31,4,1,1,0,0,0,0,7.75,2,0,0,0,0,0,36,16,52
-Punjab Kings,KL Rahul,b17e2f24,1,67,55,4,2,121.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,103,0,0,103
-Punjab Kings,MA Agarwal,00ea847a,2,40,26,3,3,153.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,78,0,8,86
-Punjab Kings,N Pooran,3241e3fd,3,12,7,0,1,171.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
-Punjab Kings,AK Markram,6a26221c,4,18,16,0,1,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
-Punjab Kings,DJ Hooda,73ad96ed,5,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,3,0,16,19
-Punjab Kings,M Shahrukh Khan,7dcb9bc9,6,22,9,1,2,244.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,38,0,0,38
-Punjab Kings,FA Allen,b52ffbbd,7,0,0,0,0,0.0,"[1, 7, 9, 13]",4.0,24,5,0,38,3,2,0,0,0,0,0,9.5,0,0,0,0,0,0,5,0,5
-Punjab Kings,NT Ellis,9eb1455b,7,0,0,0,0,0.0,"[6, 11, 14, 17]",4.0,24,4,0,46,6,1,0,0,0,0,1,11.5,0,0,0,0,0,0,0,0,0
-Punjab Kings,Ravi Bishnoi,df064e1a,8,0,0,0,0,0.0,"[8, 10, 12, 15]",4.0,24,9,0,22,2,0,2,0,0,0,0,5.5,0,0,0,0,0,0,63,0,63
-Punjab Kings,Mohammed Shami,8cf9814c,9,0,0,0,0,0.0,"[2, 4, 16, 19]",4.0,24,9,0,23,2,0,1,1,0,0,1,5.75,0,0,1,0,0,0,46,12,58
-Punjab Kings,Arshdeep Singh,244048f6,10,0,0,0,0,0.0,"[3, 5, 18, 20]",4.0,24,8,0,32,2,1,3,0,2,0,2,8.0,0,0,0,0,0,0,103,0,103
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Kolkata Knight Riders,VR Iyer,a24be938,1,67,49,9,1,136.73,"[8, 13, 20]",2.5,15,2,0,30,0,3,1,0,0,1,0,12.0,0,0,0,0,2,119,23,0,142,30,True,False,True,Right-arm medium,Left-hand bat
+Kolkata Knight Riders,Shubman Gill,b4b99816,2,7,7,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19,25,True,False,False,Right-arm offbreak,Right-hand bat
+Kolkata Knight Riders,RA Tripathi,77255a9e,3,34,26,3,1,130.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,58,0,8,66,34,True,False,False,Right-arm medium,Right-hand bat
+Kolkata Knight Riders,N Rana,fb2d1dda,4,31,18,2,2,172.22,[12],1.0,6,1,0,7,0,0,0,0,0,0,0,7.0,0,0,0,0,6,61,1,0,62,31,True,False,False,Legbreak,Left-hand bat
+Kolkata Knight Riders,EJG Morgan,d2a6c0e6,5,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,38,True,False,False,Right-arm medium,Left-hand bat
+Kolkata Knight Riders,KD Karthik,c03f1114,6,11,11,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,39,True,True,False,Right-arm offbreak,Right-hand bat
+Kolkata Knight Riders,TL Seifert,4663bd23,7,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,30,True,False,False,,Right-hand bat
+Kolkata Knight Riders,TG Southee,13c35c9e,7,0,0,0,0,0.0,"[1, 3, 15, 18]",4.0,24,5,0,40,3,2,0,0,0,0,1,10.0,0,0,0,0,0,0,3,0,3,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Kolkata Knight Riders,SP Narine,9d430b40,8,3,3,0,0,100.0,"[6, 10, 14, 16]",4.0,24,5,0,34,0,2,1,0,0,0,2,8.5,0,0,0,0,0,3,30,0,33,36,True,False,True,Right-arm offbreak,Left-hand bat
+Kolkata Knight Riders,CV Varun,5b7ab5a9,8,0,0,0,0,0.0,"[5, 7, 9, 11]",4.0,24,7,0,24,1,1,2,0,0,0,0,6.0,0,0,0,0,0,0,59,0,59,33,True,False,False,Legbreak googly,Right-hand bat
+Kolkata Knight Riders,Shivam Mavi,c38d3503,9,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,11,0,31,4,1,1,0,0,0,0,7.75,2,0,0,0,0,0,36,16,52,26,True,False,False,Right-arm fast-medium,Right-hand bat
+Punjab Kings,KL Rahul,b17e2f24,1,67,55,4,2,121.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,103,0,0,103,32,True,False,False,,Right-hand bat
+Punjab Kings,MA Agarwal,00ea847a,2,40,26,3,3,153.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,78,0,8,86,34,True,False,False,Right-arm offbreak,Right-hand bat
+Punjab Kings,N Pooran,3241e3fd,3,12,7,0,1,171.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,29,True,True,False,Right-arm offbreak,Left-hand bat
+Punjab Kings,AK Markram,6a26221c,4,18,16,0,1,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24,30,True,False,True,Right-arm offbreak,Right-hand bat
+Punjab Kings,DJ Hooda,73ad96ed,5,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,3,0,16,19,29,True,False,True,Right-arm offbreak,Right-hand bat
+Punjab Kings,M Shahrukh Khan,7dcb9bc9,6,22,9,1,2,244.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,38,0,0,38,29,True,False,False,Right-arm offbreak,Right-hand bat
+Punjab Kings,FA Allen,b52ffbbd,7,0,0,0,0,0.0,"[1, 7, 9, 13]",4.0,24,5,0,38,3,2,0,0,0,0,0,9.5,0,0,0,0,0,0,5,0,5,29,True,False,True,Slow left-arm orthodox,Right-hand bat
+Punjab Kings,NT Ellis,9eb1455b,7,0,0,0,0,0.0,"[6, 11, 14, 17]",4.0,24,4,0,46,6,1,0,0,0,0,1,11.5,0,0,0,0,0,0,0,0,0,30,True,False,False,Right-arm fast-medium,Right-hand bat
+Punjab Kings,Ravi Bishnoi,df064e1a,8,0,0,0,0,0.0,"[8, 10, 12, 15]",4.0,24,9,0,22,2,0,2,0,0,0,0,5.5,0,0,0,0,0,0,63,0,63,24,True,False,False,Legbreak googly,Right-hand bat
+Punjab Kings,Mohammed Shami,8cf9814c,9,0,0,0,0,0.0,"[2, 4, 16, 19]",4.0,24,9,0,23,2,0,1,1,0,0,1,5.75,0,0,1,0,0,0,46,12,58,34,True,False,False,Right-arm fast,Right-hand bat
+Punjab Kings,Arshdeep Singh,244048f6,10,0,0,0,0,0.0,"[3, 5, 18, 20]",4.0,24,8,0,32,2,1,3,0,2,0,2,8.0,0,0,0,0,0,0,103,0,103,26,True,False,False,Left-arm medium-fast,Left-hand bat

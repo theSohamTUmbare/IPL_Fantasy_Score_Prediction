@@ -1,25 +1,25 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Andhra,Ashwin Hebbar,b11d8647,1,22,20,3,0,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,34,0,14,48
-Andhra,KS Bharat,44a89551,2,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
-Andhra,GH Vihari,94253925,3,84,55,12,1,152.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,154,0,0,154
-Andhra,SK Rasheed,cbf58a86,4,31,30,3,0,103.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,47,0,28,75
-Andhra,RK Bhui,b63e358a,5,40,13,4,3,307.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,84,0,8,92
-Andhra,S Akhil,21aa409e,11,0,0,0,0,0.0,"[7, 9]",2.0,12,6,0,10,1,0,0,0,0,0,1,5.0,0,0,0,0,0,0,10,0,10
-Andhra,Karan Shinde,08a349ac,12,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Andhra,K V Sasikanth,bf6e03ea,13,0,0,0,0,0.0,"[5, 14, 19]",3.0,18,3,0,34,1,2,0,0,0,0,3,11.33,0,0,0,1,0,0,-1,6,5
-Andhra,T Vijay,51ec3919,14,0,0,0,0,0.0,"[11, 13, 15, 17]",4.0,24,9,0,29,2,1,1,0,1,0,0,7.25,1,0,0,0,0,0,42,8,50
-Andhra,Manish Golamaru,327c7253,15,0,0,0,0,0.0,"[6, 8, 10, 12]",4.0,24,16,0,15,0,1,1,0,0,0,0,3.75,0,0,0,0,0,0,47,0,47
-Andhra,K Saiteja,16bdb9b7,16,0,0,0,0,0.0,"[2, 4, 18]",3.0,18,11,0,12,1,0,2,0,0,0,2,4.0,1,0,0,0,0,0,67,8,75
-Andhra,Cheepurapalli Stephen,48bf9d5c,17,0,0,0,0,0.0,"[1, 3, 16, 20]",3.833,23,16,0,10,0,1,5,0,0,0,0,2.61,0,0,0,0,0,0,159,0,159
-Manipur,B Rahman,c707b358,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Manipur,Kangabam Singh,59da1e8a,2,17,37,0,1,45.95,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,17,0,0,17
-Manipur,P Prafullomani,f9900488,3,31,28,3,1,110.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,53,0,0,53
-Manipur,Johnson Singh,5355e20a,4,22,18,1,1,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,32,0,8,40
-Manipur,BM Chingakham,90dd5193,5,17,10,0,2,170.0,"[5, 7, 18, 20]",4.0,24,5,0,42,6,1,0,0,0,0,0,10.5,0,0,0,0,4,33,3,0,36
-Manipur,Rex Rajkumar,f3ba1bdc,6,4,6,1,0,66.67,"[1, 3, 17, 19]",4.0,24,6,0,40,4,2,2,0,0,0,1,10.0,0,0,0,0,0,8,54,0,62
-Manipur,Bikash Singh,2be0cc2f,7,3,5,0,0,60.0,[9],1.0,6,1,0,12,2,0,0,0,0,0,1,12.0,0,0,0,0,0,3,1,0,4
-Manipur,L Kishan Singha,ca82673d,8,4,4,0,0,100.0,"[8, 10, 12, 14]",4.0,24,5,0,29,2,1,1,1,0,0,0,7.25,0,0,0,0,0,4,38,0,42
-Manipur,Sultan Karim,7ef0c030,9,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Manipur,Al Bashid Muhammed,1dc27b6b,10,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
-Manipur,Lamabam Singh,76860ea3,11,0,0,0,0,0.0,"[11, 13, 15]",3.0,18,2,0,27,3,0,0,0,0,0,0,9.0,1,0,0,0,0,0,2,8,10
-Manipur,Bishworjit Konthoujam,15deff66,11,1,2,0,0,50.0,"[2, 4, 6, 16]",4.0,24,8,0,31,5,0,0,0,0,0,1,7.75,0,0,0,0,0,1,8,0,9
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Andhra,Ashwin Hebbar,b11d8647,1,22,20,3,0,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,34,0,14,48,29,True,False,False,Right-arm slow-medium,Right-hand bat
+Andhra,KS Bharat,44a89551,2,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,31,True,False,False,,Right-hand bat
+Andhra,GH Vihari,94253925,3,84,55,12,1,152.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,154,0,0,154,31,True,False,True,Right-arm offbreak,Right-hand bat
+Andhra,SK Rasheed,cbf58a86,4,31,30,3,0,103.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,47,0,28,75,20,True,False,False,Legbreak,Right-hand bat
+Andhra,RK Bhui,b63e358a,5,40,13,4,3,307.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,84,0,8,92,28,True,False,False,Legbreak googly,Right-hand bat
+Andhra,S Akhil,21aa409e,11,0,0,0,0,0.0,"[7, 9]",2.0,12,6,0,10,1,0,0,0,0,0,1,5.0,0,0,0,0,0,0,10,0,10,26,True,True,False,Right-arm medium-fast,Right-hand bat
+Andhra,Karan Shinde,08a349ac,12,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,27,True,True,False,Legbreak googly,Left-hand bat
+Andhra,K V Sasikanth,bf6e03ea,13,0,0,0,0,0.0,"[5, 14, 19]",3.0,18,3,0,34,1,2,0,0,0,0,3,11.33,0,0,0,1,0,0,-1,6,5,29,True,False,False,Right-arm medium,Right-hand bat
+Andhra,T Vijay,51ec3919,14,0,0,0,0,0.0,"[11, 13, 15, 17]",4.0,24,9,0,29,2,1,1,0,1,0,0,7.25,1,0,0,0,0,0,42,8,50,23,True,False,False,Right-arm offbreak,Right-hand bat
+Andhra,Manish Golamaru,327c7253,15,0,0,0,0,0.0,"[6, 8, 10, 12]",4.0,24,16,0,15,0,1,1,0,0,0,0,3.75,0,0,0,0,0,0,47,0,47,28,True,True,False,Slow left-arm orthodox,Left-hand bat
+Andhra,K Saiteja,16bdb9b7,16,0,0,0,0,0.0,"[2, 4, 18]",3.0,18,11,0,12,1,0,2,0,0,0,2,4.0,1,0,0,0,0,0,67,8,75,25,True,True,False,Right-arm medium,Right-hand bat
+Andhra,Cheepurapalli Stephen,48bf9d5c,17,0,0,0,0,0.0,"[1, 3, 16, 20]",3.833,23,16,0,10,0,1,5,0,0,0,0,2.61,0,0,0,0,0,0,159,0,159,31,True,True,False,Left-arm medium,Left-hand bat
+Manipur,B Rahman,c707b358,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,32,True,True,False,Right-arm medium,Left-hand bat
+Manipur,Kangabam Singh,59da1e8a,2,17,37,0,1,45.95,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,17,0,0,17,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Manipur,P Prafullomani,f9900488,3,31,28,3,1,110.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,53,0,0,53,31,True,False,False,,Right-hand bat
+Manipur,Johnson Singh,5355e20a,4,22,18,1,1,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,32,0,8,40,25,True,False,False,,Right-hand bat
+Manipur,BM Chingakham,90dd5193,5,17,10,0,2,170.0,"[5, 7, 18, 20]",4.0,24,5,0,42,6,1,0,0,0,0,0,10.5,0,0,0,0,4,33,3,0,36,24,True,True,False,Right-arm medium-fast,Right-hand bat
+Manipur,Rex Rajkumar,f3ba1bdc,6,4,6,1,0,66.67,"[1, 3, 17, 19]",4.0,24,6,0,40,4,2,2,0,0,0,1,10.0,0,0,0,0,0,8,54,0,62,24,True,True,False,Left-arm medium-fast,Left-hand bat
+Manipur,Bikash Singh,2be0cc2f,7,3,5,0,0,60.0,[9],1.0,6,1,0,12,2,0,0,0,0,0,1,12.0,0,0,0,0,0,3,1,0,4,32,True,True,False,Left-arm medium,Right-hand bat
+Manipur,L Kishan Singha,ca82673d,8,4,4,0,0,100.0,"[8, 10, 12, 14]",4.0,24,5,0,29,2,1,1,1,0,0,0,7.25,0,0,0,0,0,4,38,0,42,28,True,True,False,Slow left-arm orthodox,Right-hand bat
+Manipur,Sultan Karim,7ef0c030,9,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Manipur,Al Bashid Muhammed,1dc27b6b,10,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,26,True,False,False,,Right-hand bat
+Manipur,Lamabam Singh,76860ea3,11,0,0,0,0,0.0,"[11, 13, 15]",3.0,18,2,0,27,3,0,0,0,0,0,0,9.0,1,0,0,0,0,0,2,8,10,26,True,True,False,Slow left-arm orthodox,Left-hand bat
+Manipur,Bishworjit Konthoujam,15deff66,11,1,2,0,0,50.0,"[2, 4, 6, 16]",4.0,24,8,0,31,5,0,0,0,0,0,1,7.75,0,0,0,0,0,1,8,0,9,29,True,True,False,Right-arm medium-fast,Right-hand bat

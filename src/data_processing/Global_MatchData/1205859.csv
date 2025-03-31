@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Mumbai,PP Shaw,8b3e9c7c,1,53,27,4,4,196.3,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,107,0,0,107
-Mumbai,AP Tare,855a210c,2,21,17,3,0,123.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,33,0,8,41
-Mumbai,SS Iyer,85ec8e33,3,80,40,7,4,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,150,0,16,166
-Mumbai,SA Yadav,271f83cd,4,80,35,8,5,228.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,160,0,0,160
-Mumbai,S Dube,a4e37e47,5,2,1,0,0,200.0,"[6, 11, 15, 20]",4.0,24,1,0,52,6,2,0,0,0,0,0,13.0,1,0,0,0,0,2,-5,8,5
-Mumbai,Shubham Ranjane,6c7a68d0,8,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,5,0,40,4,1,2,0,0,0,0,10.0,0,0,0,0,0,0,53,0,53
-Mumbai,SD Lad,9601c534,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Mumbai,Sujit Nayak,e06f7116,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Mumbai,SZ Mulani,9d704f6f,11,0,0,0,0,0.0,"[5, 7, 9, 13]",4.0,24,7,0,52,4,4,0,0,0,0,2,13.0,0,0,0,0,0,0,1,0,1
-Mumbai,SN Thakur,1abb78f8,12,0,0,0,0,0.0,"[1, 3, 16, 18]",4.0,24,6,0,41,1,3,2,0,0,0,1,10.25,0,0,0,0,0,0,54,0,54
-Mumbai,TU Deshpande,46a9bea1,13,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,8,0,35,2,2,2,1,1,0,1,8.75,0,0,0,0,0,0,74,0,74
-Punjab,Shubman Gill,b4b99816,1,78,38,7,5,205.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,154,0,8,162
-Punjab,Abhishek Sharma,f29185a1,2,47,29,4,3,162.07,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,89,0,0,89
-Punjab,Gurkeerat Singh,6eb146d2,3,40,21,4,2,190.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,78,0,8,86
-Punjab,Mandeep Singh,c3a96caf,4,12,8,2,0,150.0,"[12, 14]",2.0,12,0,0,27,1,2,0,0,0,0,1,13.5,0,0,0,0,0,20,-6,0,14
-Punjab,Nikhil Chaudhary,1f84183a,5,5,4,0,0,125.0,"[5, 18]",2.0,12,1,0,33,4,2,0,0,0,0,0,16.5,0,0,0,0,0,5,-5,0,0
-Punjab,Anmolpreet Singh,1399b39c,6,20,8,0,2,250.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32
-Punjab,Harpreet Brar,c05edf8e,7,8,6,0,0,133.33,"[4, 7, 9, 11]",4.0,24,6,0,44,5,2,2,0,1,0,1,11.0,0,0,0,0,0,8,62,0,70
-Punjab,Baltej Singh,0c0ef3fb,8,0,0,0,0,0.0,"[1, 3, 15, 20]",4.0,24,5,0,53,5,3,0,0,0,0,2,13.25,0,0,0,0,0,0,-1,0,-1
-Punjab,Anmol Malhotra,f59e9ac9,8,6,6,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6
-Punjab,S Kaul,dcf81436,9,0,0,0,0,0.0,"[2, 13, 17, 19]",4.0,24,4,0,46,5,2,1,0,0,0,1,11.5,0,0,0,0,0,0,25,0,25
-Punjab,Karan Kaila,b19f1fe9,10,0,0,0,0,0.0,"[6, 8, 10, 16]",4.0,24,6,0,38,2,2,0,0,0,0,0,9.5,0,0,0,0,0,0,6,0,6
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Mumbai,PP Shaw,8b3e9c7c,1,53,27,4,4,196.3,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,107,0,0,107,25,True,False,False,Right-arm offbreak,Right-hand bat
+Mumbai,AP Tare,855a210c,2,21,17,3,0,123.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,33,0,8,41,37,True,False,False,,Right-hand bat
+Mumbai,SS Iyer,85ec8e33,3,80,40,7,4,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,150,0,16,166,30,True,False,False,Legbreak googly,Right-hand bat
+Mumbai,SA Yadav,271f83cd,4,80,35,8,5,228.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,160,0,0,160,34,True,False,False,Right-arm offbreak,Right-hand bat
+Mumbai,S Dube,a4e37e47,5,2,1,0,0,200.0,"[6, 11, 15, 20]",4.0,24,1,0,52,6,2,0,0,0,0,0,13.0,1,0,0,0,0,2,-5,8,5,31,True,False,True,Right-arm medium,Left-hand bat
+Mumbai,Shubham Ranjane,6c7a68d0,8,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,5,0,40,4,1,2,0,0,0,0,10.0,0,0,0,0,0,0,53,0,53,31,True,False,True,Right-arm medium,Right-hand bat
+Mumbai,SD Lad,9601c534,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,32,True,False,False,Right-arm offbreak,Right-hand bat
+Mumbai,Sujit Nayak,e06f7116,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,35,True,True,False,Slow left-arm orthodox,Left-hand bat
+Mumbai,SZ Mulani,9d704f6f,11,0,0,0,0,0.0,"[5, 7, 9, 13]",4.0,24,7,0,52,4,4,0,0,0,0,2,13.0,0,0,0,0,0,0,1,0,1,28,True,False,True,Slow left-arm orthodox,Left-hand bat
+Mumbai,SN Thakur,1abb78f8,12,0,0,0,0,0.0,"[1, 3, 16, 18]",4.0,24,6,0,41,1,3,2,0,0,0,1,10.25,0,0,0,0,0,0,54,0,54,33,True,False,False,Right-arm medium,Right-hand bat
+Mumbai,TU Deshpande,46a9bea1,13,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,8,0,35,2,2,2,1,1,0,1,8.75,0,0,0,0,0,0,74,0,74,29,True,False,False,Right-arm medium,Left-hand bat
+Punjab,Shubman Gill,b4b99816,1,78,38,7,5,205.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,154,0,8,162,25,True,False,False,Right-arm offbreak,Right-hand bat
+Punjab,Abhishek Sharma,f29185a1,2,47,29,4,3,162.07,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,89,0,0,89,24,True,False,True,Slow left-arm orthodox,Left-hand bat
+Punjab,Gurkeerat Singh,6eb146d2,3,40,21,4,2,190.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,78,0,8,86,34,True,False,False,Right-arm offbreak,Right-hand bat
+Punjab,Mandeep Singh,c3a96caf,4,12,8,2,0,150.0,"[12, 14]",2.0,12,0,0,27,1,2,0,0,0,0,1,13.5,0,0,0,0,0,20,-6,0,14,33,True,False,True,Right-arm medium,Right-hand bat
+Punjab,Nikhil Chaudhary,1f84183a,5,5,4,0,0,125.0,"[5, 18]",2.0,12,1,0,33,4,2,0,0,0,0,0,16.5,0,0,0,0,0,5,-5,0,0,28,True,False,False,Legbreak googly,Right-hand bat
+Punjab,Anmolpreet Singh,1399b39c,6,20,8,0,2,250.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32,27,True,False,False,Right-arm offbreak,Right-hand bat
+Punjab,Harpreet Brar,c05edf8e,7,8,6,0,0,133.33,"[4, 7, 9, 11]",4.0,24,6,0,44,5,2,2,0,1,0,1,11.0,0,0,0,0,0,8,62,0,70,29,True,False,False,Slow left-arm orthodox,Left-hand bat
+Punjab,Baltej Singh,0c0ef3fb,8,0,0,0,0,0.0,"[1, 3, 15, 20]",4.0,24,5,0,53,5,3,0,0,0,0,2,13.25,0,0,0,0,0,0,-1,0,-1,34,True,False,False,Right-arm medium,Right-hand bat
+Punjab,Anmol Malhotra,f59e9ac9,8,6,6,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6,29,True,True,False,Right-arm offbreak,Right-hand bat
+Punjab,S Kaul,dcf81436,9,0,0,0,0,0.0,"[2, 13, 17, 19]",4.0,24,4,0,46,5,2,1,0,0,0,1,11.5,0,0,0,0,0,0,25,0,25,34,True,False,False,Right-arm medium,Right-hand bat
+Punjab,Karan Kaila,b19f1fe9,10,0,0,0,0,0.0,"[6, 8, 10, 16]",4.0,24,6,0,38,2,2,0,0,0,0,0,9.5,0,0,0,0,0,0,6,0,6,30,True,True,False,Slow left-arm orthodox,Left-hand bat

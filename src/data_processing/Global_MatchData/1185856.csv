@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Barbados Tridents,J Charles,09a9d073,1,31,35,3,0,88.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,47,0,28,75
-Barbados Tridents,AD Hales,92aeac25,2,16,16,1,2,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,32,0,8,40
-Barbados Tridents,JP Greaves,74d12124,3,6,12,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,2,0,8,10
-Barbados Tridents,JP Duminy,2e8994e7,4,3,5,0,0,60.0,"[8, 10]",2.0,12,4,0,12,1,0,1,0,0,0,0,6.0,2,0,0,0,0,3,31,16,50
-Barbados Tridents,JL Carter,0a9d8b61,5,17,15,2,0,113.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
-Barbados Tridents,JO Holder,0f721006,6,2,7,0,0,28.57,"[2, 4, 6, 12]",4.0,24,14,1,21,2,1,2,0,1,0,0,5.25,0,0,0,0,0,2,88,0,90
-Barbados Tridents,AR Nurse,4a745f65,7,4,6,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12
-Barbados Tridents,RS Primus,6f4c73ce,8,2,4,0,0,50.0,"[1, 3, 13]",3.0,18,9,0,21,2,1,1,0,0,0,1,7.0,0,0,0,0,0,2,36,0,38
-Barbados Tridents,RA Reifer,d7725664,9,26,12,2,2,216.67,"[11, 14, 20]",3.0,18,6,0,31,3,2,2,0,0,0,1,10.33,0,0,0,0,6,56,54,0,110
-Barbados Tridents,S Lamichhane,b410bd3d,10,9,8,1,0,112.5,"[5, 9, 16, 18]",4.0,24,9,0,17,0,0,2,0,0,0,0,4.25,0,0,0,0,0,13,65,0,78
-Barbados Tridents,HF Gurney,e412cb64,11,0,0,0,0,0.0,"[7, 15, 17, 19]",4.0,24,10,0,20,1,0,1,0,0,0,4,5.0,0,0,0,0,0,0,39,0,39
-Jamaica Tallawahs,CH Gayle,db584dad,1,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Jamaica Tallawahs,GD Phillips,9a46c4e5,2,41,35,5,1,117.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,0,0,0,71,0,28,99
-Jamaica Tallawahs,CAK Walton,bbff906c,3,13,8,1,1,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
-Jamaica Tallawahs,GH Worker,51a36d3e,4,6,11,0,0,54.55,"[1, 3]",2.333,14,8,0,19,1,2,0,0,0,0,0,8.14,1,0,0,0,-4,2,8,8,18
-Jamaica Tallawahs,DR Smith,35205dfc,5,1,2,0,0,50.0,"[9, 11, 20]",3.0,18,8,0,22,2,1,2,0,1,0,0,7.33,1,0,0,0,0,1,66,8,75
-Jamaica Tallawahs,I Khan,2ae01eb0,6,10,10,1,0,100.0,"[6, 8, 16, 18]",4.0,24,12,0,19,1,0,3,0,0,0,0,4.75,0,0,0,0,0,14,97,0,111
-Jamaica Tallawahs,SK Springer,4175d211,7,7,16,0,0,43.75,"[13, 15, 17, 19]",4.0,24,9,0,32,3,1,3,0,0,0,2,8.0,1,0,0,0,-6,1,88,8,97
-Jamaica Tallawahs,J Glen,151c258b,8,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Jamaica Tallawahs,RA Lewis,65be8bb2,9,27,22,1,2,122.73,"[10, 12]",2.0,12,4,0,11,1,0,0,0,0,0,0,5.5,0,0,0,0,0,47,8,0,55
-Jamaica Tallawahs,JW Dernbach,7be8a0ed,10,9,8,1,0,112.5,"[5, 7]",1.667,10,4,0,7,0,0,0,0,0,0,1,4.2,1,0,0,0,0,13,4,8,25
-Jamaica Tallawahs,Zahir Khan,786b7fe8,11,1,1,0,0,100.0,"[2, 4, 14]",3.0,18,12,0,11,1,0,1,0,0,0,2,3.67,0,0,0,0,0,1,43,0,44
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Barbados Tridents,J Charles,09a9d073,1,31,35,3,0,88.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,47,0,28,75,36,True,False,False,,Right-hand bat
+Barbados Tridents,AD Hales,92aeac25,2,16,16,1,2,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,32,0,8,40,36,True,False,False,Right-arm medium,Right-hand bat
+Barbados Tridents,JP Greaves,74d12124,3,6,12,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,2,0,8,10,31,True,False,True,Right-arm medium,Right-hand bat
+Barbados Tridents,JP Duminy,2e8994e7,4,3,5,0,0,60.0,"[8, 10]",2.0,12,4,0,12,1,0,1,0,0,0,0,6.0,2,0,0,0,0,3,31,16,50,40,True,False,True,Right-arm offbreak,Left-hand bat
+Barbados Tridents,JL Carter,0a9d8b61,5,17,15,2,0,113.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,37,True,False,True,Right-arm medium,Left-hand bat
+Barbados Tridents,JO Holder,0f721006,6,2,7,0,0,28.57,"[2, 4, 6, 12]",4.0,24,14,1,21,2,1,2,0,1,0,0,5.25,0,0,0,0,0,2,88,0,90,33,True,False,True,Right-arm medium-fast,Right-hand bat
+Barbados Tridents,AR Nurse,4a745f65,7,4,6,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12,36,True,False,False,Right-arm offbreak,Right-hand bat
+Barbados Tridents,RS Primus,6f4c73ce,8,2,4,0,0,50.0,"[1, 3, 13]",3.0,18,9,0,21,2,1,1,0,0,0,1,7.0,0,0,0,0,0,2,36,0,38,29,True,False,True,Right-arm medium,Right-hand bat
+Barbados Tridents,RA Reifer,d7725664,9,26,12,2,2,216.67,"[11, 14, 20]",3.0,18,6,0,31,3,2,2,0,0,0,1,10.33,0,0,0,0,6,56,54,0,110,33,True,False,True,Left-arm medium-fast,Left-hand bat
+Barbados Tridents,S Lamichhane,b410bd3d,10,9,8,1,0,112.5,"[5, 9, 16, 18]",4.0,24,9,0,17,0,0,2,0,0,0,0,4.25,0,0,0,0,0,13,65,0,78,24,True,False,False,Legbreak googly,Right-hand bat
+Barbados Tridents,HF Gurney,e412cb64,11,0,0,0,0,0.0,"[7, 15, 17, 19]",4.0,24,10,0,20,1,0,1,0,0,0,4,5.0,0,0,0,0,0,0,39,0,39,38,True,False,False,Left-arm fast-medium,Right-hand bat
+Jamaica Tallawahs,CH Gayle,db584dad,1,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,45,True,False,True,Right-arm offbreak,Left-hand bat
+Jamaica Tallawahs,GD Phillips,9a46c4e5,2,41,35,5,1,117.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,0,0,0,71,0,28,99,28,True,False,True,Right-arm offbreak,Right-hand bat
+Jamaica Tallawahs,CAK Walton,bbff906c,3,13,8,1,1,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23,39,True,False,False,,Right-hand bat
+Jamaica Tallawahs,GH Worker,51a36d3e,4,6,11,0,0,54.55,"[1, 3]",2.333,14,8,0,19,1,2,0,0,0,0,0,8.14,1,0,0,0,-4,2,8,8,18,35,True,False,True,Slow left-arm orthodox,Left-hand bat
+Jamaica Tallawahs,DR Smith,35205dfc,5,1,2,0,0,50.0,"[9, 11, 20]",3.0,18,8,0,22,2,1,2,0,1,0,0,7.33,1,0,0,0,0,1,66,8,75,41,True,False,True,Right-arm medium,Right-hand bat
+Jamaica Tallawahs,I Khan,2ae01eb0,6,10,10,1,0,100.0,"[6, 8, 16, 18]",4.0,24,12,0,19,1,0,3,0,0,0,0,4.75,0,0,0,0,0,14,97,0,111,40,True,False,False,Legbreak,Right-hand bat
+Jamaica Tallawahs,SK Springer,4175d211,7,7,16,0,0,43.75,"[13, 15, 17, 19]",4.0,24,9,0,32,3,1,3,0,0,0,2,8.0,1,0,0,0,-6,1,88,8,97,27,True,False,True,Right-arm fast-medium,Right-hand bat
+Jamaica Tallawahs,J Glen,151c258b,8,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,27,True,False,True,Legbreak,Left-hand bat
+Jamaica Tallawahs,RA Lewis,65be8bb2,9,27,22,1,2,122.73,"[10, 12]",2.0,12,4,0,11,1,0,0,0,0,0,0,5.5,0,0,0,0,0,47,8,0,55,28,True,False,False,Right-arm offbreak,Right-hand bat
+Jamaica Tallawahs,JW Dernbach,7be8a0ed,10,9,8,1,0,112.5,"[5, 7]",1.667,10,4,0,7,0,0,0,0,0,0,1,4.2,1,0,0,0,0,13,4,8,25,39,True,False,False,Right-arm fast-medium,Right-hand bat
+Jamaica Tallawahs,Zahir Khan,786b7fe8,11,1,1,0,0,100.0,"[2, 4, 14]",3.0,18,12,0,11,1,0,1,0,0,0,2,3.67,0,0,0,0,0,1,43,0,44,26,True,False,False,Left-arm wrist-spin,Left-hand bat

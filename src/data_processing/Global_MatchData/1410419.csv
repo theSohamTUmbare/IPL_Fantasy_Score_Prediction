@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Nottinghamshire,JM Clarke,2eca67f5,1,26,19,2,2,136.84,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,52,0,0,52
-Nottinghamshire,AD Hales,92aeac25,2,50,37,2,4,135.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,92,0,0,92
-Nottinghamshire,WA Young,8afe73e2,3,12,21,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,8,0,8,16
-Nottinghamshire,JA Haynes,fe4ebca0,4,5,7,0,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
-Nottinghamshire,M Montgomery,7671203a,5,0,0,0,0,0.0,"[1, 5]",2.0,12,6,0,10,1,0,1,1,0,0,1,5.0,0,0,0,0,0,0,43,0,43
-Nottinghamshire,TJ Moores,85dcb721,5,5,6,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
-Nottinghamshire,LW James,2baad3bd,6,0,0,0,0,0.0,"[8, 10, 12]",3.0,18,1,0,29,1,1,0,0,0,0,0,9.67,0,0,0,0,0,0,1,0,1
-Nottinghamshire,LA Patterson-White,d48c0f40,7,0,0,0,0,0.0,"[7, 13, 15]",3.0,18,4,0,22,0,1,0,0,0,0,0,7.33,1,0,0,0,0,0,4,8,12
-Nottinghamshire,CG Harrison,f655d740,8,0,0,0,0,0.0,"[9, 11, 14, 16]",4.0,24,9,0,22,0,1,2,0,1,0,3,5.5,0,0,0,0,0,0,71,0,71
-Nottinghamshire,OP Stone,3f659464,9,0,0,0,0,0.0,"[3, 6, 18, 20]",4.0,24,10,0,28,2,2,1,0,0,0,0,7.0,2,0,0,0,0,0,37,16,53
-Nottinghamshire,BG Lister,79f5bc26,10,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,9,0,23,2,0,2,0,0,0,1,5.75,0,0,0,0,0,0,63,0,63
-Worcestershire,BL D'Oliveira,9679838c,1,8,11,0,0,72.73,[8],1.0,6,0,0,9,0,0,0,0,0,0,0,9.0,0,0,0,0,0,8,0,0,8
-Worcestershire,MJ Waite,a4b810d0,2,7,13,1,0,53.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,7,0,0,7
-Worcestershire,JJ Cobb,58c481c6,3,6,6,1,0,100.0,[10],1.0,6,2,0,13,0,2,0,0,0,0,0,13.0,0,0,0,0,0,10,2,0,12
-Worcestershire,AJ Hose,104e88a4,4,43,35,1,2,122.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,63,0,0,63
-Worcestershire,GH Roderick,7081848a,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Worcestershire,EA Brookes,6ce9f3eb,5,9,12,0,0,75.0,"[7, 9]",2.0,12,4,0,11,1,0,0,0,0,0,0,5.5,0,0,0,0,0,9,8,0,17
-Worcestershire,HR Walsh,1ac2a995,6,0,0,0,0,0.0,"[12, 14]",2.0,12,6,0,16,0,2,2,1,1,0,0,8.0,0,0,0,0,0,0,72,0,72
-Worcestershire,NG Smith,05b1aef8,6,27,23,0,2,117.39,"[1, 3, 13, 15]",4.0,24,10,0,16,0,0,0,0,0,0,0,4.0,0,0,0,0,0,43,16,0,59
-Worcestershire,EJ Pollock,d6663a9a,7,26,17,3,1,152.94,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,52,0,0,52
-Worcestershire,AW Finch,fc63d916,7,0,0,0,0,0.0,"[4, 6, 11]",3.0,18,10,0,16,2,0,0,0,0,0,1,5.33,0,0,0,0,0,0,14,0,14
-Worcestershire,TAI Taylor,867a45a7,8,3,3,0,0,100.0,"[2, 5]",2.0,12,7,0,18,1,2,1,0,1,0,0,9.0,0,0,0,0,0,3,40,0,43
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Nottinghamshire,JM Clarke,2eca67f5,1,26,19,2,2,136.84,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,52,0,0,52,28,True,False,False,,Right-hand bat
+Nottinghamshire,AD Hales,92aeac25,2,50,37,2,4,135.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,92,0,0,92,36,True,False,False,Right-arm medium,Right-hand bat
+Nottinghamshire,WA Young,8afe73e2,3,12,21,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,8,0,8,16,32,True,False,False,Right-arm offbreak,Right-hand bat
+Nottinghamshire,JA Haynes,fe4ebca0,4,5,7,0,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,24,True,False,False,Right-arm offbreak,Right-hand bat
+Nottinghamshire,M Montgomery,7671203a,5,0,0,0,0,0.0,"[1, 5]",2.0,12,6,0,10,1,0,1,1,0,0,1,5.0,0,0,0,0,0,0,43,0,43,24,True,True,False,Right-arm offbreak,Right-hand bat
+Nottinghamshire,TJ Moores,85dcb721,5,5,6,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,28,True,False,False,,Left-hand bat
+Nottinghamshire,LW James,2baad3bd,6,0,0,0,0,0.0,"[8, 10, 12]",3.0,18,1,0,29,1,1,0,0,0,0,0,9.67,0,0,0,0,0,0,1,0,1,26,True,False,True,Right-arm medium-fast,Right-hand bat
+Nottinghamshire,LA Patterson-White,d48c0f40,7,0,0,0,0,0.0,"[7, 13, 15]",3.0,18,4,0,22,0,1,0,0,0,0,0,7.33,1,0,0,0,0,0,4,8,12,26,True,False,True,Slow left-arm orthodox,Left-hand bat
+Nottinghamshire,CG Harrison,f655d740,8,0,0,0,0,0.0,"[9, 11, 14, 16]",4.0,24,9,0,22,0,1,2,0,1,0,3,5.5,0,0,0,0,0,0,71,0,71,26,True,False,True,Legbreak googly,Right-hand bat
+Nottinghamshire,OP Stone,3f659464,9,0,0,0,0,0.0,"[3, 6, 18, 20]",4.0,24,10,0,28,2,2,1,0,0,0,0,7.0,2,0,0,0,0,0,37,16,53,31,True,False,False,Right-arm fast,Right-hand bat
+Nottinghamshire,BG Lister,79f5bc26,10,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,9,0,23,2,0,2,0,0,0,1,5.75,0,0,0,0,0,0,63,0,63,29,True,False,False,Left-arm fast-medium,Right-hand bat
+Worcestershire,BL D'Oliveira,9679838c,1,8,11,0,0,72.73,[8],1.0,6,0,0,9,0,0,0,0,0,0,0,9.0,0,0,0,0,0,8,0,0,8,33,True,False,True,Legbreak,Right-hand bat
+Worcestershire,MJ Waite,a4b810d0,2,7,13,1,0,53.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,7,0,0,7,29,True,False,True,Right-arm fast-medium,Right-hand bat
+Worcestershire,JJ Cobb,58c481c6,3,6,6,1,0,100.0,[10],1.0,6,2,0,13,0,2,0,0,0,0,0,13.0,0,0,0,0,0,10,2,0,12,34,True,False,True,Right-arm offbreak,Right-hand bat
+Worcestershire,AJ Hose,104e88a4,4,43,35,1,2,122.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,63,0,0,63,32,True,False,False,Right-arm medium-fast,Right-hand bat
+Worcestershire,GH Roderick,7081848a,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,33,True,True,False,Right-arm medium,Right-hand bat
+Worcestershire,EA Brookes,6ce9f3eb,5,9,12,0,0,75.0,"[7, 9]",2.0,12,4,0,11,1,0,0,0,0,0,0,5.5,0,0,0,0,0,9,8,0,17,23,True,False,True,Right-arm medium-fast,Right-hand bat
+Worcestershire,HR Walsh,1ac2a995,6,0,0,0,0,0.0,"[12, 14]",2.0,12,6,0,16,0,2,2,1,1,0,0,8.0,0,0,0,0,0,0,72,0,72,32,True,False,False,Legbreak googly,Left-hand bat
+Worcestershire,NG Smith,05b1aef8,6,27,23,0,2,117.39,"[1, 3, 13, 15]",4.0,24,10,0,16,0,0,0,0,0,0,0,4.0,0,0,0,0,0,43,16,0,59,26,True,False,True,Right-arm medium-fast,Right-hand bat
+Worcestershire,EJ Pollock,d6663a9a,7,26,17,3,1,152.94,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,52,0,0,52,29,True,False,False,Right-arm offbreak,Left-hand bat
+Worcestershire,AW Finch,fc63d916,7,0,0,0,0,0.0,"[4, 6, 11]",3.0,18,10,0,16,2,0,0,0,0,0,1,5.33,0,0,0,0,0,0,14,0,14,24,True,False,False,Right-arm fast-medium,Right-hand bat
+Worcestershire,TAI Taylor,867a45a7,8,3,3,0,0,100.0,"[2, 5]",2.0,12,7,0,18,1,2,1,0,1,0,0,9.0,0,0,0,0,0,3,40,0,43,30,True,False,True,Right-arm medium-fast,Right-hand bat

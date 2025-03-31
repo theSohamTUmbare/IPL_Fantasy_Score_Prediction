@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Gambia,A Conteh,97b9cb64,1,13,28,0,0,46.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,7,0,0,7
-Gambia,Andre Jarju,53dd7d8e,2,8,13,1,0,61.54,"[3, 5, 7]",3.0,18,6,0,25,2,0,1,0,1,1,2,8.33,0,0,0,0,-2,10,39,0,49
-Gambia,M Camara,f081f3c1,3,1,10,0,0,10.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-5,0,0,-5
-Gambia,N Cherry,b650a763,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Gambia,Ismaila Tanba,180e2c15,4,18,20,2,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26
-Gambia,Basiru Jaye,6e80042d,5,0,2,0,0,0.0,"[2, 8, 10]",2.833,17,4,0,34,1,2,0,0,0,0,2,12.0,0,0,0,0,0,-2,-2,0,-4
-Gambia,P Faye,58984fd0,6,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
-Gambia,P Campbell,3caaf69e,7,15,17,0,0,88.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
-Gambia,Abubacarr Kuyateh,0ec45a9a,8,13,22,0,0,59.09,"[4, 6]",2.0,12,8,0,6,0,0,1,0,1,0,2,3.0,0,0,0,0,-4,9,47,0,56
-Gambia,M Dumbuya,68da8887,9,1,1,0,0,100.0,"[1, 9]",2.0,12,4,0,18,1,0,0,0,0,0,5,9.0,0,0,0,0,0,1,4,0,5
-Gambia,J Badjan,1b31284b,10,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Sierra Leone,G Ngegba,69caf2be,1,29,27,1,0,107.41,"[10, 12, 14, 16]",4.0,24,17,1,10,0,0,3,1,1,0,0,2.5,0,0,0,0,0,37,130,0,167
-Sierra Leone,L Lamin,5a970aab,2,8,11,0,0,72.73,[19],1.0,6,3,0,3,0,0,1,0,1,0,0,3.0,1,0,0,0,0,8,36,8,52
-Sierra Leone,J Bangura,d7acab5d,3,11,7,2,0,157.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
-Sierra Leone,AB Kamara,3951be49,4,23,14,1,2,164.29,"[2, 4, 6, 8]",4.0,24,18,0,11,0,0,2,0,1,0,5,2.75,1,0,0,0,4,43,82,8,133
-Sierra Leone,I Mansaray,ea45f98b,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Sierra Leone,I Kamara,38702fb5,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Sierra Leone,A Gbla,34ab1e6e,6,0,0,0,0,0.0,"[18, 20]",2.0,12,5,0,8,0,0,1,0,0,0,0,4.0,0,0,0,0,0,0,36,0,36
-Sierra Leone,M Mansaray,20e085c6,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Sierra Leone,S Williams,7ae1aad9,8,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,8,0,23,2,0,1,0,0,0,0,5.75,0,0,0,0,0,0,37,0,37
-Sierra Leone,R Tommy,6579788b,9,0,0,0,0,0.0,[17],1.0,6,0,0,10,0,0,0,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
-Sierra Leone,HR Bhamu,879cf1dd,10,0,0,0,0,0.0,"[1, 3, 5, 7]",4.0,24,18,0,12,1,0,0,0,0,0,0,3.0,1,0,0,0,0,0,24,8,32
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Gambia,A Conteh,97b9cb64,1,13,28,0,0,46.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,7,0,0,7,36,True,True,False,Right-arm medium,Right-hand bat
+Gambia,Andre Jarju,53dd7d8e,2,8,13,1,0,61.54,"[3, 5, 7]",3.0,18,6,0,25,2,0,1,0,1,1,2,8.33,0,0,0,0,-2,10,39,0,49,32,True,True,False,Right-arm medium,Right-hand bat
+Gambia,M Camara,f081f3c1,3,1,10,0,0,10.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-5,0,0,-5,0,True,False,False,,
+Gambia,N Cherry,b650a763,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,True,False,False,,
+Gambia,Ismaila Tanba,180e2c15,4,18,20,2,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26,34,True,True,False,Right-arm medium,Right-hand bat
+Gambia,Basiru Jaye,6e80042d,5,0,2,0,0,0.0,"[2, 8, 10]",2.833,17,4,0,34,1,2,0,0,0,0,2,12.0,0,0,0,0,0,-2,-2,0,-4,29,True,True,False,Right-arm medium,Right-hand bat
+Gambia,P Faye,58984fd0,6,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,0,True,False,False,,
+Gambia,P Campbell,3caaf69e,7,15,17,0,0,88.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15,40,True,False,False,,Right-hand bat
+Gambia,Abubacarr Kuyateh,0ec45a9a,8,13,22,0,0,59.09,"[4, 6]",2.0,12,8,0,6,0,0,1,0,1,0,2,3.0,0,0,0,0,-4,9,47,0,56,27,True,True,False,Right-arm medium,Right-hand bat
+Gambia,M Dumbuya,68da8887,9,1,1,0,0,100.0,"[1, 9]",2.0,12,4,0,18,1,0,0,0,0,0,5,9.0,0,0,0,0,0,1,4,0,5,43,True,True,False,Right-arm fast-medium,Right-hand bat
+Gambia,J Badjan,1b31284b,10,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,True,False,False,,
+Sierra Leone,G Ngegba,69caf2be,1,29,27,1,0,107.41,"[10, 12, 14, 16]",4.0,24,17,1,10,0,0,3,1,1,0,0,2.5,0,0,0,0,0,37,130,0,167,22,True,True,False,Right-arm offbreak,Right-hand bat
+Sierra Leone,L Lamin,5a970aab,2,8,11,0,0,72.73,[19],1.0,6,3,0,3,0,0,1,0,1,0,0,3.0,1,0,0,0,0,8,36,8,52,39,True,True,False,Right-arm fast-medium,Right-hand bat
+Sierra Leone,J Bangura,d7acab5d,3,11,7,2,0,157.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,19,True,True,False,Right-arm offbreak,Right-hand bat
+Sierra Leone,AB Kamara,3951be49,4,23,14,1,2,164.29,"[2, 4, 6, 8]",4.0,24,18,0,11,0,0,2,0,1,0,5,2.75,1,0,0,0,4,43,82,8,133,34,True,True,False,Right-arm fast-medium,Right-hand bat
+Sierra Leone,I Mansaray,ea45f98b,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,32,True,False,False,,Right-hand bat
+Sierra Leone,I Kamara,38702fb5,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,32,True,True,False,Right-arm medium,Right-hand bat
+Sierra Leone,A Gbla,34ab1e6e,6,0,0,0,0,0.0,"[18, 20]",2.0,12,5,0,8,0,0,1,0,0,0,0,4.0,0,0,0,0,0,0,36,0,36,27,True,True,False,Right-arm medium,Right-hand bat
+Sierra Leone,M Mansaray,20e085c6,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,39,True,False,False,,Right-hand bat
+Sierra Leone,S Williams,7ae1aad9,8,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,8,0,23,2,0,1,0,0,0,0,5.75,0,0,0,0,0,0,37,0,37,28,True,True,False,Right-arm medium,Right-hand bat
+Sierra Leone,R Tommy,6579788b,9,0,0,0,0,0.0,[17],1.0,6,0,0,10,0,0,0,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0,28,True,True,False,Right-arm medium,Right-hand bat
+Sierra Leone,HR Bhamu,879cf1dd,10,0,0,0,0,0.0,"[1, 3, 5, 7]",4.0,24,18,0,12,1,0,0,0,0,0,0,3.0,1,0,0,0,0,0,24,8,32,29,True,False,False,,

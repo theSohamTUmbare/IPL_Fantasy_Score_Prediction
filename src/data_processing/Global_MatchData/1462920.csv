@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Botswana,M Kasselman,c6889eb6,1,20,15,1,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,32,0,0,32
-Botswana,K Motlanka,21549344,2,17,9,2,0,188.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
-Botswana,M Mooketsi,008a024c,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Botswana,P Silas,9f2e1944,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Botswana,T Perera,456397e5,3,8,3,1,0,266.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
-Botswana,T Tshose,18ae55e4,4,0,3,0,0,0.0,[2],1.0,6,1,0,19,1,2,0,0,0,0,0,19.0,0,0,0,0,0,0,1,0,1
-Botswana,B Khumalo,33ab1f1c,4,0,0,0,0,0.0,[3],0.833,5,1,0,15,0,2,0,0,0,0,0,18.01,0,0,0,0,0,0,1,0,1
-Botswana,R Nehonde,4393e047,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Botswana,B Kgosiemang,059ec7a5,6,0,0,0,0,0.0,[1],1.0,6,1,0,17,2,1,0,0,0,0,1,17.0,0,0,0,0,0,0,1,0,1
-Botswana,K Piet,39fd9295,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Botswana,V Balakrishnan,0c1da0c4,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Nigeria,Sulaimon Runsewe,c25d26dc,1,25,8,3,2,312.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,53,0,12,65
-Nigeria,IO Okpe,1c5c3dce,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Nigeria,I Danladi,c156cc1f,2,25,9,0,3,277.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,47,0,0,47
-Nigeria,Selim Salau,d18d3a0f,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Nigeria,O Olaleye,811785d2,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Nigeria,SA Okpe,681f522f,5,0,0,0,0,0.0,[3],1.0,6,1,0,11,1,0,0,0,0,0,1,11.0,0,0,0,0,0,0,1,0,1
-Nigeria,R Abdulkareem,b9e07e44,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Nigeria,VD Adewoye,45a34a2d,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Nigeria,P Aho,2e392afa,8,0,0,0,0,0.0,"[2, 4]",2.0,12,2,0,26,3,0,1,0,0,0,1,13.0,0,0,0,0,0,0,21,0,21
-Nigeria,Mohameed Taiwo,a9d788e3,9,0,0,0,0,0.0,"[1, 5]",2.0,12,9,0,10,0,1,1,0,1,0,0,5.0,1,0,0,0,0,0,46,8,54
-Nigeria,I Uboh,baf3cf01,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Botswana,M Kasselman,c6889eb6,1,20,15,1,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,32,0,0,32,18,True,False,False,,
+Botswana,K Motlanka,21549344,2,17,9,2,0,188.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,32,True,False,False,,Left-hand bat
+Botswana,M Mooketsi,008a024c,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,28,True,True,False,Slow left-arm orthodox,Left-hand bat
+Botswana,P Silas,9f2e1944,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,23,True,True,False,Legbreak,Right-hand bat
+Botswana,T Perera,456397e5,3,8,3,1,0,266.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,24,True,True,False,Right-arm fast,Right-hand bat
+Botswana,T Tshose,18ae55e4,4,0,3,0,0,0.0,[2],1.0,6,1,0,19,1,2,0,0,0,0,0,19.0,0,0,0,0,0,0,1,0,1,29,True,False,True,Right-arm medium,Right-hand bat
+Botswana,B Khumalo,33ab1f1c,4,0,0,0,0,0.0,[3],0.833,5,1,0,15,0,2,0,0,0,0,0,18.01,0,0,0,0,0,0,1,0,1,23,True,True,False,Right-arm medium-fast,Right-hand bat
+Botswana,R Nehonde,4393e047,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,34,True,True,False,Right-arm offbreak,Right-hand bat
+Botswana,B Kgosiemang,059ec7a5,6,0,0,0,0,0.0,[1],1.0,6,1,0,17,2,1,0,0,0,0,1,17.0,0,0,0,0,0,0,1,0,1,25,True,True,False,Right-arm fast,Right-hand bat
+Botswana,K Piet,39fd9295,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,22,True,True,False,Slow left-arm orthodox,Left-hand bat
+Botswana,V Balakrishnan,0c1da0c4,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,36,True,True,False,Right-arm offbreak,Right-hand bat
+Nigeria,Sulaimon Runsewe,c25d26dc,1,25,8,3,2,312.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,53,0,12,65,23,True,True,False,Right-arm offbreak,Right-hand bat
+Nigeria,IO Okpe,1c5c3dce,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,29,True,True,False,Right-arm medium,Right-hand bat
+Nigeria,I Danladi,c156cc1f,2,25,9,0,3,277.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,47,0,0,47,22,True,True,False,Slow left-arm orthodox,Left-hand bat
+Nigeria,Selim Salau,d18d3a0f,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,19,True,False,False,,Right-hand bat
+Nigeria,O Olaleye,811785d2,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,23,True,False,False,Right-arm offbreak,Right-hand bat
+Nigeria,SA Okpe,681f522f,5,0,0,0,0,0.0,[3],1.0,6,1,0,11,1,0,0,0,0,0,1,11.0,0,0,0,0,0,0,1,0,1,24,True,True,False,Right-arm offbreak,Right-hand bat
+Nigeria,R Abdulkareem,b9e07e44,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,20,True,True,False,Right-arm offbreak,Right-hand bat
+Nigeria,VD Adewoye,45a34a2d,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,24,True,False,False,,
+Nigeria,P Aho,2e392afa,8,0,0,0,0,0.0,"[2, 4]",2.0,12,2,0,26,3,0,1,0,0,0,1,13.0,0,0,0,0,0,0,21,0,21,22,True,True,False,Right-arm medium-fast,Right-hand bat
+Nigeria,Mohameed Taiwo,a9d788e3,9,0,0,0,0,0.0,"[1, 5]",2.0,12,9,0,10,0,1,1,0,1,0,0,5.0,1,0,0,0,0,0,46,8,54,22,True,False,False,Left-arm fast-medium,Left-hand bat
+Nigeria,I Uboh,baf3cf01,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,24,True,True,False,Right-arm medium,Right-hand bat

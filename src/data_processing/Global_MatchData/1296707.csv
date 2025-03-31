@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Chattogram Challengers,Zakir Hasan,e3e09091,1,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Chattogram Challengers,WG Jacks,9caf69a1,2,26,24,3,0,108.33,[13],1.0,6,2,0,9,0,1,0,0,0,0,0,9.0,0,0,0,0,0,42,2,0,44
-Chattogram Challengers,Afif Hossain,37138918,3,27,24,4,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,47,0,8,55
-Chattogram Challengers,Mehedi Hasan Miraz,c58b0108,4,2,3,0,0,66.67,"[7, 11, 15]",3.0,18,4,0,29,4,0,1,0,0,0,2,9.67,0,0,0,0,0,2,29,0,31
-Chattogram Challengers,Shamim Hossain,711249d1,5,52,37,5,1,140.54,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,88,0,8,96
-Chattogram Challengers,Akbar Ali,abae26ad,6,9,10,1,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
-Chattogram Challengers,BAC Howell,0bec3a6c,7,24,18,0,2,133.33,"[10, 12, 16, 18]",4.0,24,2,0,41,3,2,0,0,0,0,0,10.25,1,0,0,0,2,38,0,8,46
-Chattogram Challengers,Mrittunjoy Chowdhury,21b97584,8,0,0,0,0,0.0,"[5, 8, 17, 20]",4.0,24,10,0,21,1,0,2,0,2,1,2,5.25,0,0,0,0,0,0,80,0,80
-Chattogram Challengers,CAK Walton,bbff906c,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Chattogram Challengers,Shoriful Islam,bb34fd31,9,0,0,0,0,0.0,"[1, 3, 9, 19]",4.0,24,11,0,28,3,1,2,0,1,0,0,7.0,0,0,0,0,0,0,71,0,71
-Chattogram Challengers,Nasum Ahmed,37654b75,10,0,0,0,0,0.0,"[2, 4, 6, 14]",4.0,24,13,0,15,1,0,1,0,0,0,1,3.75,0,0,0,0,0,0,44,0,44
-Minister Group Dhaka,Tamim Iqbal,3b041a12,1,73,56,6,3,130.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,125,0,0,125
-Minister Group Dhaka,Mohammad Shahzad,d6dcb0c9,2,7,8,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,11,0,12,23
-Minister Group Dhaka,Imran Uzzaman,1eff4f98,3,8,8,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
-Minister Group Dhaka,Mashrafe Mortaza,e186f49c,4,0,2,0,0,0.0,"[1, 3, 7, 9]",4.0,24,9,0,24,2,0,1,0,0,0,1,6.0,0,0,0,0,0,-2,36,0,34
-Minister Group Dhaka,Mahmudullah,bf1d7d3e,5,24,29,1,0,82.76,[10],1.0,6,2,0,5,0,0,1,0,0,0,0,5.0,0,0,0,0,0,28,27,0,55
-Minister Group Dhaka,Shuvagata Hom,bb01f9e0,6,22,11,2,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,42,0,8,50
-Minister Group Dhaka,Qais Ahmad,8d5d991e,7,1,2,0,0,50.0,"[6, 11, 14, 17]",4.0,24,5,0,33,3,1,1,0,0,0,0,8.25,0,0,0,0,0,1,30,0,31
-Minister Group Dhaka,Arafat Sunny,1f7adc8a,8,0,0,0,0,0.0,"[4, 8, 15]",3.0,18,8,0,16,2,0,1,0,0,0,0,5.33,0,0,0,0,0,0,37,0,37
-Minister Group Dhaka,Mohammad Naim,7923a51d,8,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,2,0,28,30
-Minister Group Dhaka,Ebadat Hossain,cb5100f1,9,0,0,0,0,0.0,"[5, 12, 18, 20]",4.0,24,8,0,34,2,2,1,0,0,1,0,8.5,0,0,0,0,0,0,33,0,33
-Minister Group Dhaka,Fazalhaq Farooqi,e9c7f0d0,10,0,0,0,0,0.0,"[2, 13, 16, 19]",4.0,24,5,0,32,4,0,1,0,1,0,1,8.0,0,0,0,0,0,0,38,0,38
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Chattogram Challengers,Zakir Hasan,e3e09091,1,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,27,True,False,False,,Left-hand bat
+Chattogram Challengers,WG Jacks,9caf69a1,2,26,24,3,0,108.33,[13],1.0,6,2,0,9,0,1,0,0,0,0,0,9.0,0,0,0,0,0,42,2,0,44,26,True,False,True,Right-arm offbreak,Right-hand bat
+Chattogram Challengers,Afif Hossain,37138918,3,27,24,4,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,47,0,8,55,25,True,False,True,Right-arm offbreak,Left-hand bat
+Chattogram Challengers,Mehedi Hasan Miraz,c58b0108,4,2,3,0,0,66.67,"[7, 11, 15]",3.0,18,4,0,29,4,0,1,0,0,0,2,9.67,0,0,0,0,0,2,29,0,31,27,True,False,True,Right-arm offbreak,Right-hand bat
+Chattogram Challengers,Shamim Hossain,711249d1,5,52,37,5,1,140.54,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,88,0,8,96,24,True,False,True,Right-arm offbreak,Left-hand bat
+Chattogram Challengers,Akbar Ali,abae26ad,6,9,10,1,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,23,True,False,False,,Right-hand bat
+Chattogram Challengers,BAC Howell,0bec3a6c,7,24,18,0,2,133.33,"[10, 12, 16, 18]",4.0,24,2,0,41,3,2,0,0,0,0,0,10.25,1,0,0,0,2,38,0,8,46,36,True,False,True,Right-arm medium,Right-hand bat
+Chattogram Challengers,Mrittunjoy Chowdhury,21b97584,8,0,0,0,0,0.0,"[5, 8, 17, 20]",4.0,24,10,0,21,1,0,2,0,2,1,2,5.25,0,0,0,0,0,0,80,0,80,23,True,False,True,Left-arm medium-fast,Left-hand bat
+Chattogram Challengers,CAK Walton,bbff906c,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,39,True,False,False,,Right-hand bat
+Chattogram Challengers,Shoriful Islam,bb34fd31,9,0,0,0,0,0.0,"[1, 3, 9, 19]",4.0,24,11,0,28,3,1,2,0,1,0,0,7.0,0,0,0,0,0,0,71,0,71,23,True,False,False,Left-arm fast-medium,Left-hand bat
+Chattogram Challengers,Nasum Ahmed,37654b75,10,0,0,0,0,0.0,"[2, 4, 6, 14]",4.0,24,13,0,15,1,0,1,0,0,0,1,3.75,0,0,0,0,0,0,44,0,44,30,True,False,True,Slow left-arm orthodox,Left-hand bat
+Minister Group Dhaka,Tamim Iqbal,3b041a12,1,73,56,6,3,130.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,125,0,0,125,36,True,False,False,,Left-hand bat
+Minister Group Dhaka,Mohammad Shahzad,d6dcb0c9,2,7,8,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,11,0,12,23,38,True,False,False,,Right-hand bat
+Minister Group Dhaka,Imran Uzzaman,1eff4f98,3,8,8,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,30,True,False,False,,Right-hand bat
+Minister Group Dhaka,Mashrafe Mortaza,e186f49c,4,0,2,0,0,0.0,"[1, 3, 7, 9]",4.0,24,9,0,24,2,0,1,0,0,0,1,6.0,0,0,0,0,0,-2,36,0,34,41,True,False,False,Right-arm fast-medium,Right-hand bat
+Minister Group Dhaka,Mahmudullah,bf1d7d3e,5,24,29,1,0,82.76,[10],1.0,6,2,0,5,0,0,1,0,0,0,0,5.0,0,0,0,0,0,28,27,0,55,39,True,False,True,Right-arm offbreak,Right-hand bat
+Minister Group Dhaka,Shuvagata Hom,bb01f9e0,6,22,11,2,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,42,0,8,50,38,True,False,True,Right-arm offbreak,Right-hand bat
+Minister Group Dhaka,Qais Ahmad,8d5d991e,7,1,2,0,0,50.0,"[6, 11, 14, 17]",4.0,24,5,0,33,3,1,1,0,0,0,0,8.25,0,0,0,0,0,1,30,0,31,24,True,False,False,Legbreak,Right-hand bat
+Minister Group Dhaka,Arafat Sunny,1f7adc8a,8,0,0,0,0,0.0,"[4, 8, 15]",3.0,18,8,0,16,2,0,1,0,0,0,0,5.33,0,0,0,0,0,0,37,0,37,38,True,False,False,Slow left-arm orthodox,Left-hand bat
+Minister Group Dhaka,Mohammad Naim,7923a51d,8,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,2,0,28,30,25,True,False,False,,Left-hand bat
+Minister Group Dhaka,Ebadat Hossain,cb5100f1,9,0,0,0,0,0.0,"[5, 12, 18, 20]",4.0,24,8,0,34,2,2,1,0,0,1,0,8.5,0,0,0,0,0,0,33,0,33,31,True,False,False,Right-arm fast-medium,Right-hand bat
+Minister Group Dhaka,Fazalhaq Farooqi,e9c7f0d0,10,0,0,0,0,0.0,"[2, 13, 16, 19]",4.0,24,5,0,32,4,0,1,0,1,0,1,8.0,0,0,0,0,0,0,38,0,38,24,True,False,False,Left-arm fast-medium,Right-hand bat

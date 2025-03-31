@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Estonia,Arslan Amjad,c228c52d,1,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,10,0,8,18
-Estonia,Aditya Panwar,77e321db,2,62,45,3,4,137.78,"[14, 16]",2.0,12,4,0,12,1,0,0,0,0,0,0,6.0,0,0,0,0,2,108,6,0,114
-Estonia,Ali Masood,a138f597,3,8,10,1,0,80.0,"[15, 17, 19]",3.0,18,9,0,26,3,0,2,0,1,1,5,8.67,0,0,0,0,0,12,67,0,79
-Estonia,Ben Jones,f0568f9b,4,40,41,3,0,97.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,56,0,0,56
-Estonia,Bilal Masud,643e4882,5,7,11,0,0,63.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,5,0,0,5
-Estonia,Sahil Chauhan,f219df21,6,16,6,0,2,266.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
-Estonia,D Robson,fa39ad19,7,0,1,0,0,0.0,"[3, 5, 18, 20]",3.833,23,11,0,32,3,2,2,0,2,0,0,8.35,0,0,0,0,0,0,77,0,77
-Estonia,S Hook,eba871dd,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
-Estonia,P Gheewala,3b22ee4e,10,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,7,0,22,3,0,1,0,0,0,2,7.33,0,0,0,0,0,0,32,0,32
-Estonia,K Vislapuu,04855b85,11,0,0,0,0,0.0,"[1, 8, 10, 12]",4.0,24,7,0,34,5,0,0,0,0,1,0,8.5,0,0,0,0,0,0,7,0,7
-Estonia,A Paul,fa308279,12,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,9,0,25,2,0,3,0,2,0,0,6.25,0,0,0,0,0,0,106,0,106
-Gibraltar,BA Pai,716bf559,1,17,11,3,0,154.55,"[1, 3, 5, 7]",4.0,24,12,0,21,2,0,1,1,0,0,0,5.25,0,0,0,1,4,33,49,6,88
-Gibraltar,L Bruce,2a03bd2f,2,52,48,7,0,108.33,"[2, 4, 18, 20]",4.0,24,11,0,28,1,2,0,0,0,0,1,7.0,1,0,0,2,0,88,13,20,121
-Gibraltar,JD Freyone,7cd7eb50,3,19,18,2,0,105.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27
-Gibraltar,KJ Stagno,46ad7e01,4,6,5,1,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,0,10,0,12,22
-Gibraltar,IDM Latin,78f719ea,5,6,7,0,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6
-Gibraltar,P Hatchman,b504e8b8,6,11,13,1,0,84.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
-Gibraltar,JA Fitzgerald,4e6ff836,7,28,9,3,2,311.11,"[6, 8]",2.0,12,4,0,18,1,0,0,0,0,0,7,9.0,0,0,0,0,0,56,4,0,60
-Gibraltar,M Whelan,d613f046,8,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,1,0,6,7
-Gibraltar,RJ Hatchman,01c05b6c,9,2,4,0,0,50.0,"[9, 11, 13, 15]",4.0,24,10,0,21,1,0,1,0,1,0,0,5.25,0,0,0,0,0,2,47,0,49
-Gibraltar,K Mirpuri,441006af,10,0,0,0,0,0.0,"[10, 12, 14, 17]",4.0,24,7,0,42,0,4,0,0,0,0,1,10.5,0,0,0,0,0,0,5,0,5
-Gibraltar,S Bodha,00467a76,10,0,0,0,0,0.0,"[16, 19]",2.0,12,3,0,18,3,0,1,0,0,0,0,9.0,0,0,0,0,0,0,28,0,28
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Estonia,Arslan Amjad,c228c52d,1,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,10,0,8,18,33,True,True,False,Right-arm medium,Right-hand bat
+Estonia,Aditya Panwar,77e321db,2,62,45,3,4,137.78,"[14, 16]",2.0,12,4,0,12,1,0,0,0,0,0,0,6.0,0,0,0,0,2,108,6,0,114,31,True,True,False,Right-arm medium,Right-hand bat
+Estonia,Ali Masood,a138f597,3,8,10,1,0,80.0,"[15, 17, 19]",3.0,18,9,0,26,3,0,2,0,1,1,5,8.67,0,0,0,0,0,12,67,0,79,32,True,False,True,Right-arm medium,Right-hand bat
+Estonia,Ben Jones,f0568f9b,4,40,41,3,0,97.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,56,0,0,56,37,True,True,False,Right-arm medium,Right-hand bat
+Estonia,Bilal Masud,643e4882,5,7,11,0,0,63.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,5,0,0,5,30,True,True,False,Right-arm medium,Right-hand bat
+Estonia,Sahil Chauhan,f219df21,6,16,6,0,2,266.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28,33,True,True,False,Right-arm medium,Right-hand bat
+Estonia,D Robson,fa39ad19,7,0,1,0,0,0.0,"[3, 5, 18, 20]",3.833,23,11,0,32,3,2,2,0,2,0,0,8.35,0,0,0,0,0,0,77,0,77,45,True,True,False,Left-arm medium,Left-hand bat
+Estonia,S Hook,eba871dd,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,46,True,False,False,Legbreak,Right-hand bat
+Estonia,P Gheewala,3b22ee4e,10,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,7,0,22,3,0,1,0,0,0,2,7.33,0,0,0,0,0,0,32,0,32,29,True,True,False,Right-arm medium,Right-hand bat
+Estonia,K Vislapuu,04855b85,11,0,0,0,0,0.0,"[1, 8, 10, 12]",4.0,24,7,0,34,5,0,0,0,0,1,0,8.5,0,0,0,0,0,0,7,0,7,35,True,False,False,Right-arm medium-fast,Right-hand bat
+Estonia,A Paul,fa308279,12,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,9,0,25,2,0,3,0,2,0,0,6.25,0,0,0,0,0,0,106,0,106,29,True,True,False,Right-arm medium-fast,Right-hand bat
+Gibraltar,BA Pai,716bf559,1,17,11,3,0,154.55,"[1, 3, 5, 7]",4.0,24,12,0,21,2,0,1,1,0,0,0,5.25,0,0,0,1,4,33,49,6,88,43,True,True,False,Right-arm offbreak,Right-hand bat
+Gibraltar,L Bruce,2a03bd2f,2,52,48,7,0,108.33,"[2, 4, 18, 20]",4.0,24,11,0,28,1,2,0,0,0,0,1,7.0,1,0,0,2,0,88,13,20,121,19,True,True,False,Right-arm medium,Right-hand bat
+Gibraltar,JD Freyone,7cd7eb50,3,19,18,2,0,105.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27,30,True,True,False,Right-arm medium,Right-hand bat
+Gibraltar,KJ Stagno,46ad7e01,4,6,5,1,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,0,10,0,12,22,31,True,True,False,Right-arm offbreak,Right-hand bat
+Gibraltar,IDM Latin,78f719ea,5,6,7,0,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6,40,True,True,False,Legbreak,Right-hand bat
+Gibraltar,P Hatchman,b504e8b8,6,11,13,1,0,84.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15,31,True,True,False,Right-arm medium,Right-hand bat
+Gibraltar,JA Fitzgerald,4e6ff836,7,28,9,3,2,311.11,"[6, 8]",2.0,12,4,0,18,1,0,0,0,0,0,7,9.0,0,0,0,0,0,56,4,0,60,25,True,True,False,Right-arm medium-fast,Right-hand bat
+Gibraltar,M Whelan,d613f046,8,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,1,0,6,7,35,True,True,False,Right-arm offbreak,Right-hand bat
+Gibraltar,RJ Hatchman,01c05b6c,9,2,4,0,0,50.0,"[9, 11, 13, 15]",4.0,24,10,0,21,1,0,1,0,1,0,0,5.25,0,0,0,0,0,2,47,0,49,38,True,False,False,Right-arm medium,Right-hand bat
+Gibraltar,K Mirpuri,441006af,10,0,0,0,0,0.0,"[10, 12, 14, 17]",4.0,24,7,0,42,0,4,0,0,0,0,1,10.5,0,0,0,0,0,0,5,0,5,37,True,True,False,Right-arm offbreak,Right-hand bat
+Gibraltar,S Bodha,00467a76,10,0,0,0,0,0.0,"[16, 19]",2.0,12,3,0,18,3,0,1,0,0,0,0,9.0,0,0,0,0,0,0,28,0,28,22,True,True,False,Right-arm medium,Right-hand bat

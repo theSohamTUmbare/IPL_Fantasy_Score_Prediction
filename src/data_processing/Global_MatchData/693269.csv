@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Surrey,JJ Roy,d1c36f5c,1,58,24,10,2,241.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,124,0,0,124
-Surrey,SM Davies,8fc65c2b,2,39,34,4,1,114.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,65,0,0,65
-Surrey,KP Pietersen,39f01cdb,3,13,16,0,1,81.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
-Surrey,GC Wilson,05de1a5a,4,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
-Surrey,KJ O'Brien,243431b5,5,11,13,1,0,84.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,15,0,8,23
-Surrey,Azhar Mahmood,9a158001,6,16,11,2,0,145.45,"[1, 3, 17, 19]",4.0,24,7,0,38,4,1,1,0,1,0,1,9.5,0,0,0,0,2,26,40,0,66
-Surrey,RJ Peterson,26ff4c29,7,21,8,2,2,262.5,"[7, 9, 11, 16]",4.0,24,6,0,32,1,1,1,0,0,0,4,8.0,0,0,0,0,0,41,31,0,72
-Surrey,ZS Ansari,7b1e20ea,8,8,6,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
-Surrey,GJ Batty,5ac8f17b,9,1,1,0,0,100.0,"[8, 10, 12, 14]",4.0,24,6,0,24,0,1,1,0,0,0,0,6.0,1,0,0,0,0,1,33,8,42
-Surrey,JW Dernbach,7be8a0ed,9,0,0,0,0,0.0,"[2, 5, 18, 20]",4.0,24,2,0,56,5,3,0,0,0,0,0,14.0,0,0,0,0,0,0,-4,0,-4
-Surrey,MP Dunn,57a76baa,10,0,0,0,0,0.0,"[4, 6, 13, 15]",4.0,24,9,0,43,4,3,1,0,1,0,1,10.75,0,0,0,0,0,0,40,0,40
-Warwickshire,V Chopra,54745c20,1,23,24,3,0,95.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,35,0,8,43
-Warwickshire,IR Bell,33155d1b,2,38,17,4,2,223.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,76,0,0,76
-Warwickshire,WTS Porterfield,ec02b798,3,81,47,5,5,172.34,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,149,0,0,149
-Warwickshire,R Clarke,8728a058,4,35,24,1,2,145.83,"[1, 3]",2.0,12,3,0,39,6,2,0,0,0,2,0,19.5,0,0,0,0,2,57,-3,0,54
-Warwickshire,LJ Evans,1c513d54,5,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Warwickshire,CR Woakes,4c5d73db,6,8,5,1,0,160.0,"[2, 4, 18, 20]",4.0,24,9,0,35,6,0,2,0,2,0,2,8.75,1,0,0,0,0,12,75,8,95
-Warwickshire,TR Ambrose,a15aaa7f,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Warwickshire,A Javid,8d1dad51,10,0,0,0,0,0.0,"[12, 14, 16]",3.0,18,8,0,13,1,0,2,0,0,0,0,4.33,1,0,0,0,0,0,64,8,72
-Warwickshire,JS Patel,f5821615,11,0,0,0,0,0.0,"[6, 8, 10]",3.0,18,7,0,25,3,1,1,0,0,0,0,8.33,0,0,0,0,0,0,32,0,32
-Warwickshire,WB Rankin,29b89ae8,12,0,0,0,0,0.0,"[5, 7, 9, 11]",4.0,24,9,0,26,2,1,0,0,0,0,0,6.5,0,0,0,0,0,0,11,0,11
-Warwickshire,OJ Hannon-Dalby,e0ac7144,13,0,0,0,0,0.0,"[13, 15, 17, 19]",4.0,24,4,0,37,2,2,0,0,0,0,0,9.25,0,0,0,0,0,0,4,0,4
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Surrey,JJ Roy,d1c36f5c,1,58,24,10,2,241.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,124,0,0,124,34,True,False,False,,Right-hand bat
+Surrey,SM Davies,8fc65c2b,2,39,34,4,1,114.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,65,0,0,65,38,True,False,False,,Left-hand bat
+Surrey,KP Pietersen,39f01cdb,3,13,16,0,1,81.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,44,True,False,False,Right-arm offbreak,Right-hand bat
+Surrey,GC Wilson,05de1a5a,4,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,39,True,False,False,,Right-hand bat
+Surrey,KJ O'Brien,243431b5,5,11,13,1,0,84.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,15,0,8,23,41,True,False,True,Right-arm medium-fast,Right-hand bat
+Surrey,Azhar Mahmood,9a158001,6,16,11,2,0,145.45,"[1, 3, 17, 19]",4.0,24,7,0,38,4,1,1,0,1,0,1,9.5,0,0,0,0,2,26,40,0,66,50,True,False,True,Right-arm fast-medium,Right-hand bat
+Surrey,RJ Peterson,26ff4c29,7,21,8,2,2,262.5,"[7, 9, 11, 16]",4.0,24,6,0,32,1,1,1,0,0,0,4,8.0,0,0,0,0,0,41,31,0,72,45,True,False,False,Slow left-arm orthodox,Left-hand bat
+Surrey,ZS Ansari,7b1e20ea,8,8,6,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+Surrey,GJ Batty,5ac8f17b,9,1,1,0,0,100.0,"[8, 10, 12, 14]",4.0,24,6,0,24,0,1,1,0,0,0,0,6.0,1,0,0,0,0,1,33,8,42,47,True,False,False,Right-arm offbreak,Right-hand bat
+Surrey,JW Dernbach,7be8a0ed,9,0,0,0,0,0.0,"[2, 5, 18, 20]",4.0,24,2,0,56,5,3,0,0,0,0,0,14.0,0,0,0,0,0,0,-4,0,-4,39,True,False,False,Right-arm fast-medium,Right-hand bat
+Surrey,MP Dunn,57a76baa,10,0,0,0,0,0.0,"[4, 6, 13, 15]",4.0,24,9,0,43,4,3,1,0,1,0,1,10.75,0,0,0,0,0,0,40,0,40,32,True,False,False,Right-arm fast,Left-hand bat
+Warwickshire,V Chopra,54745c20,1,23,24,3,0,95.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,35,0,8,43,37,True,False,False,Legbreak googly,Right-hand bat
+Warwickshire,IR Bell,33155d1b,2,38,17,4,2,223.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,76,0,0,76,42,True,False,False,Right-arm medium,Right-hand bat
+Warwickshire,WTS Porterfield,ec02b798,3,81,47,5,5,172.34,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,149,0,0,149,40,True,False,False,Right-arm offbreak,Left-hand bat
+Warwickshire,R Clarke,8728a058,4,35,24,1,2,145.83,"[1, 3]",2.0,12,3,0,39,6,2,0,0,0,2,0,19.5,0,0,0,0,2,57,-3,0,54,43,True,False,True,Right-arm medium-fast,Right-hand bat
+Warwickshire,LJ Evans,1c513d54,5,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,37,True,False,False,Right-arm offbreak,Right-hand bat
+Warwickshire,CR Woakes,4c5d73db,6,8,5,1,0,160.0,"[2, 4, 18, 20]",4.0,24,9,0,35,6,0,2,0,2,0,2,8.75,1,0,0,0,0,12,75,8,95,36,True,False,True,Right-arm fast-medium,Right-hand bat
+Warwickshire,TR Ambrose,a15aaa7f,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,42,True,False,False,,Right-hand bat
+Warwickshire,A Javid,8d1dad51,10,0,0,0,0,0.0,"[12, 14, 16]",3.0,18,8,0,13,1,0,2,0,0,0,0,4.33,1,0,0,0,0,0,64,8,72,33,True,False,False,Right-arm offbreak,Right-hand bat
+Warwickshire,JS Patel,f5821615,11,0,0,0,0,0.0,"[6, 8, 10]",3.0,18,7,0,25,3,1,1,0,0,0,0,8.33,0,0,0,0,0,0,32,0,32,44,True,False,False,Right-arm offbreak,Right-hand bat
+Warwickshire,WB Rankin,29b89ae8,12,0,0,0,0,0.0,"[5, 7, 9, 11]",4.0,24,9,0,26,2,1,0,0,0,0,0,6.5,0,0,0,0,0,0,11,0,11,40,True,False,False,Right-arm fast-medium,Left-hand bat
+Warwickshire,OJ Hannon-Dalby,e0ac7144,13,0,0,0,0,0.0,"[13, 15, 17, 19]",4.0,24,4,0,37,2,2,0,0,0,0,0,9.25,0,0,0,0,0,0,4,0,4,35,True,False,False,Right-arm medium-fast,Left-hand bat

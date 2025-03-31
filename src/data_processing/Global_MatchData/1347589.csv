@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Gloucestershire,G Roelofsen,ac688e55,1,34,19,5,1,178.95,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,6,70,0,12,82
-Gloucestershire,CDJ Dent,10435ca2,2,10,7,2,0,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
-Gloucestershire,Miles Hammond,c88bc84a,3,59,42,4,3,140.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,103,0,0,103
-Gloucestershire,OJ Price,dfc3f02d,4,3,5,0,0,60.0,"[12, 18]",2.0,12,4,0,21,4,0,3,0,2,0,1,10.5,0,0,0,0,0,3,97,0,100
-Gloucestershire,JMR Taylor,aed5be04,5,5,5,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,5,0,8,13
-Gloucestershire,BG Charlesworth,ffdba4e2,6,13,9,0,1,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
-Gloucestershire,GL van Buuren,ba377b40,7,28,19,3,1,147.37,"[9, 11]",2.0,12,3,0,23,1,2,0,0,0,0,0,11.5,0,0,0,0,2,52,-1,0,51
-Gloucestershire,M de Lange,d4eef961,8,9,4,0,1,225.0,"[4, 7, 13, 17]",4.0,24,5,0,28,2,0,1,0,1,0,1,7.0,0,0,0,0,0,15,40,0,55
-Gloucestershire,MD Taylor,01a95383,9,7,5,1,0,140.0,"[3, 6, 15, 20]",4.0,24,5,0,41,6,1,0,0,0,0,0,10.25,0,0,0,0,0,11,3,0,14
-Gloucestershire,DA Payne,6c79c098,10,2,3,0,0,66.67,"[1, 5, 16, 19]",4.0,24,7,0,26,2,0,0,0,0,0,0,6.5,0,0,0,0,0,2,9,0,11
-Gloucestershire,TMJ Smith,0a12e736,11,1,2,0,0,50.0,"[2, 8, 10, 14]",4.0,24,7,0,33,5,0,1,1,0,0,0,8.25,0,0,0,0,0,1,40,0,41
-Middlesex,SS Eskinazi,75cbed9b,1,54,38,2,3,142.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,90,0,8,98
-Middlesex,JB Cracknell,dd6e32da,2,42,28,7,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,74,0,28,102
-Middlesex,MDE Holden,d34a2268,3,7,6,1,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
-Middlesex,PJ Malan,f32d890a,4,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
-Middlesex,LBK Hollman,bdc0670a,5,39,19,8,0,205.26,"[7, 10, 12, 15]",4.0,24,6,0,37,2,2,1,0,0,0,2,9.25,0,0,0,0,6,81,31,0,112
-Middlesex,RF Higgins,ad212f96,6,24,22,2,0,109.09,"[6, 13, 20]",3.0,18,5,0,32,4,0,1,0,0,0,5,10.67,1,0,0,0,0,32,28,8,68
-Middlesex,MK Andersson,d26e0405,7,0,0,0,0,0.0,"[5, 8, 11, 18]",4.0,24,10,0,30,2,1,2,0,0,0,0,7.5,0,0,0,0,0,0,60,0,60
-Middlesex,JA Simpson,f05fe9b1,7,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
-Middlesex,N Fernandes,01561e94,8,0,0,0,0,0.0,[14],1.0,6,1,0,6,0,0,1,0,0,0,0,6.0,0,0,0,0,0,0,26,0,26
-Middlesex,TG Helm,74a274cc,9,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,8,0,38,5,1,1,0,0,0,1,9.5,1,0,0,0,0,0,33,8,41
-Middlesex,BC Cullen,39180894,10,0,0,0,0,0.0,"[2, 4, 9, 16]",4.0,24,10,0,38,2,3,3,0,0,0,2,9.5,1,0,0,0,0,0,89,8,97
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Gloucestershire,G Roelofsen,ac688e55,1,34,19,5,1,178.95,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,6,70,0,12,82,28,True,False,False,,Right-hand bat
+Gloucestershire,CDJ Dent,10435ca2,2,10,7,2,0,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,34,True,False,False,Slow left-arm orthodox,Left-hand bat
+Gloucestershire,Miles Hammond,c88bc84a,3,59,42,4,3,140.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,103,0,0,103,29,True,False,False,Right-arm offbreak,Left-hand bat
+Gloucestershire,OJ Price,dfc3f02d,4,3,5,0,0,60.0,"[12, 18]",2.0,12,4,0,21,4,0,3,0,2,0,1,10.5,0,0,0,0,0,3,97,0,100,23,True,False,True,Right-arm offbreak,Right-hand bat
+Gloucestershire,JMR Taylor,aed5be04,5,5,5,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,5,0,8,13,33,True,False,False,Legbreak,Right-hand bat
+Gloucestershire,BG Charlesworth,ffdba4e2,6,13,9,0,1,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,24,True,False,False,Right-arm medium-fast,Left-hand bat
+Gloucestershire,GL van Buuren,ba377b40,7,28,19,3,1,147.37,"[9, 11]",2.0,12,3,0,23,1,2,0,0,0,0,0,11.5,0,0,0,0,2,52,-1,0,51,34,True,False,True,Slow left-arm orthodox,Right-hand bat
+Gloucestershire,M de Lange,d4eef961,8,9,4,0,1,225.0,"[4, 7, 13, 17]",4.0,24,5,0,28,2,0,1,0,1,0,1,7.0,0,0,0,0,0,15,40,0,55,34,True,False,False,Right-arm fast,Right-hand bat
+Gloucestershire,MD Taylor,01a95383,9,7,5,1,0,140.0,"[3, 6, 15, 20]",4.0,24,5,0,41,6,1,0,0,0,0,0,10.25,0,0,0,0,0,11,3,0,14,30,True,False,False,Left-arm fast-medium,Right-hand bat
+Gloucestershire,DA Payne,6c79c098,10,2,3,0,0,66.67,"[1, 5, 16, 19]",4.0,24,7,0,26,2,0,0,0,0,0,0,6.5,0,0,0,0,0,2,9,0,11,34,True,False,False,Left-arm fast-medium,Right-hand bat
+Gloucestershire,TMJ Smith,0a12e736,11,1,2,0,0,50.0,"[2, 8, 10, 14]",4.0,24,7,0,33,5,0,1,1,0,0,0,8.25,0,0,0,0,0,1,40,0,41,37,True,False,False,Slow left-arm orthodox,Right-hand bat
+Middlesex,SS Eskinazi,75cbed9b,1,54,38,2,3,142.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,90,0,8,98,31,True,False,False,,Right-hand bat
+Middlesex,JB Cracknell,dd6e32da,2,42,28,7,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,74,0,28,102,25,True,False,False,,Right-hand bat
+Middlesex,MDE Holden,d34a2268,3,7,6,1,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,27,True,False,False,Right-arm offbreak,Left-hand bat
+Middlesex,PJ Malan,f32d890a,4,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,35,True,False,False,Right-arm medium-fast,Right-hand bat
+Middlesex,LBK Hollman,bdc0670a,5,39,19,8,0,205.26,"[7, 10, 12, 15]",4.0,24,6,0,37,2,2,1,0,0,0,2,9.25,0,0,0,0,6,81,31,0,112,24,True,False,True,Legbreak,Left-hand bat
+Middlesex,RF Higgins,ad212f96,6,24,22,2,0,109.09,"[6, 13, 20]",3.0,18,5,0,32,4,0,1,0,0,0,5,10.67,1,0,0,0,0,32,28,8,68,30,True,False,True,Right-arm medium-fast,Right-hand bat
+Middlesex,MK Andersson,d26e0405,7,0,0,0,0,0.0,"[5, 8, 11, 18]",4.0,24,10,0,30,2,1,2,0,0,0,0,7.5,0,0,0,0,0,0,60,0,60,28,True,False,True,Right-arm medium,Right-hand bat
+Middlesex,JA Simpson,f05fe9b1,7,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,36,True,False,False,,Left-hand bat
+Middlesex,N Fernandes,01561e94,8,0,0,0,0,0.0,[14],1.0,6,1,0,6,0,0,1,0,0,0,0,6.0,0,0,0,0,0,0,26,0,26,20,True,False,True,Slow left-arm orthodox,Left-hand bat
+Middlesex,TG Helm,74a274cc,9,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,8,0,38,5,1,1,0,0,0,1,9.5,1,0,0,0,0,0,33,8,41,30,True,False,False,Right-arm fast-medium,Right-hand bat
+Middlesex,BC Cullen,39180894,10,0,0,0,0,0.0,"[2, 4, 9, 16]",4.0,24,10,0,38,2,3,3,0,0,0,2,9.5,1,0,0,0,0,0,89,8,97,23,True,False,False,Right-arm fast-medium,Right-hand bat

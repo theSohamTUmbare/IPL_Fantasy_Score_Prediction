@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Gloucestershire,APR Gidman,254db476,1,55,39,6,1,141.03,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,95,0,0,95
-Gloucestershire,M Klinger,b970a03f,2,35,25,3,1,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,59,0,0,59
-Gloucestershire,IA Cockbain,542fd5a6,3,29,25,3,0,116.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,45,0,28,73
-Gloucestershire,HJH Marshall,70542bef,4,13,10,1,0,130.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,19,0,8,27
-Gloucestershire,BAC Howell,0bec3a6c,5,19,13,2,0,146.15,"[7, 9, 11, 13]",4.0,24,7,0,23,1,0,2,0,0,0,0,5.75,0,0,0,0,2,29,61,0,90
-Gloucestershire,WRS Gidman,cd882d22,6,4,6,0,0,66.67,"[2, 4, 14]",3.0,18,7,0,26,1,1,1,0,0,0,5,8.67,0,0,0,0,0,4,32,0,36
-Gloucestershire,AP Rouse,46c5d4fb,7,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,2,0,0,0,-2,0,24,22
-Gloucestershire,JMR Taylor,aed5be04,7,0,0,0,0,0.0,"[8, 10, 12, 20]",4.0,24,4,0,36,3,1,0,0,0,0,0,9.0,0,0,0,0,0,0,4,0,4
-Gloucestershire,TMJ Smith,0a12e736,8,0,0,0,0,0.0,"[6, 16, 18]",3.0,18,5,0,24,3,0,2,0,0,0,1,8.0,0,0,0,0,0,0,55,0,55
-Gloucestershire,GJ McCarter,6232e1ed,9,0,0,0,0,0.0,"[5, 15]",2.0,12,1,0,19,1,1,1,0,0,0,0,9.5,0,0,0,0,0,0,26,0,26
-Gloucestershire,DA Payne,6c79c098,10,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,9,0,42,3,3,1,0,0,3,0,10.5,1,0,0,0,0,0,32,8,40
-Somerset,NRD Compton,e5437a99,1,46,31,4,2,148.39,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,80,0,8,88
-Somerset,C Kieswetter,1e960f2a,2,39,35,2,1,111.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,57,0,0,57
-Somerset,PD Trego,93e06301,3,5,6,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
-Somerset,CA Ingram,c995d726,4,24,15,0,2,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,4,40,0,16,56
-Somerset,CAJ Meschede,eddf25bd,5,2,3,0,0,66.67,"[6, 9, 11]",3.0,18,5,0,28,1,1,1,0,0,0,5,9.33,0,0,0,0,0,2,30,0,32
-Somerset,C Overton,e9987a94,6,4,6,0,0,66.67,[7],1.0,6,3,0,8,1,0,0,0,0,0,0,8.0,1,0,0,0,0,4,3,8,15
-Somerset,JC Hildreth,782c0568,7,12,9,1,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
-Somerset,MTC Waller,d74d1090,7,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,4,0,27,1,0,0,0,0,0,1,6.75,0,0,0,0,0,0,6,0,6
-Somerset,DP Nannes,c404f58a,8,0,0,0,0,0.0,"[2, 4, 13, 19]",4.0,24,6,0,34,3,1,1,1,0,0,0,8.5,0,0,0,0,0,0,39,0,39
-Somerset,TD Groenewald,dddc811c,8,17,7,4,0,242.86,"[1, 3, 15, 17]",4.0,24,3,0,32,3,0,1,0,0,2,0,8.0,0,0,0,0,0,33,28,0,61
-Somerset,AC Thomas,b552a935,9,12,8,1,0,150.0,"[5, 16, 18, 20]",4.0,24,9,0,34,6,0,3,0,1,0,0,8.5,0,0,0,0,0,16,96,0,112
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Gloucestershire,APR Gidman,254db476,1,55,39,6,1,141.03,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,95,0,0,95,43,True,False,True,Right-arm medium,Right-hand bat
+Gloucestershire,M Klinger,b970a03f,2,35,25,3,1,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,59,0,0,59,44,True,False,False,,Right-hand bat
+Gloucestershire,IA Cockbain,542fd5a6,3,29,25,3,0,116.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,45,0,28,73,38,True,False,False,Right-arm medium,Right-hand bat
+Gloucestershire,HJH Marshall,70542bef,4,13,10,1,0,130.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,19,0,8,27,46,True,False,False,Right-arm medium,Right-hand bat
+Gloucestershire,BAC Howell,0bec3a6c,5,19,13,2,0,146.15,"[7, 9, 11, 13]",4.0,24,7,0,23,1,0,2,0,0,0,0,5.75,0,0,0,0,2,29,61,0,90,36,True,False,True,Right-arm medium,Right-hand bat
+Gloucestershire,WRS Gidman,cd882d22,6,4,6,0,0,66.67,"[2, 4, 14]",3.0,18,7,0,26,1,1,1,0,0,0,5,8.67,0,0,0,0,0,4,32,0,36,40,True,True,False,Right-arm medium,Left-hand bat
+Gloucestershire,AP Rouse,46c5d4fb,7,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,2,0,0,0,-2,0,24,22,32,True,False,False,,Right-hand bat
+Gloucestershire,JMR Taylor,aed5be04,7,0,0,0,0,0.0,"[8, 10, 12, 20]",4.0,24,4,0,36,3,1,0,0,0,0,0,9.0,0,0,0,0,0,0,4,0,4,33,True,False,False,Legbreak,Right-hand bat
+Gloucestershire,TMJ Smith,0a12e736,8,0,0,0,0,0.0,"[6, 16, 18]",3.0,18,5,0,24,3,0,2,0,0,0,1,8.0,0,0,0,0,0,0,55,0,55,37,True,False,False,Slow left-arm orthodox,Right-hand bat
+Gloucestershire,GJ McCarter,6232e1ed,9,0,0,0,0,0.0,"[5, 15]",2.0,12,1,0,19,1,1,1,0,0,0,0,9.5,0,0,0,0,0,0,26,0,26,32,True,False,False,Right-arm medium,Right-hand bat
+Gloucestershire,DA Payne,6c79c098,10,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,9,0,42,3,3,1,0,0,3,0,10.5,1,0,0,0,0,0,32,8,40,34,True,False,False,Left-arm fast-medium,Right-hand bat
+Somerset,NRD Compton,e5437a99,1,46,31,4,2,148.39,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,80,0,8,88,41,True,False,False,Right-arm offbreak,Right-hand bat
+Somerset,C Kieswetter,1e960f2a,2,39,35,2,1,111.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,57,0,0,57,37,True,False,False,Right-arm offbreak,Right-hand bat
+Somerset,PD Trego,93e06301,3,5,6,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,43,True,False,True,Right-arm medium,Right-hand bat
+Somerset,CA Ingram,c995d726,4,24,15,0,2,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,4,40,0,16,56,39,True,False,False,Legbreak,Left-hand bat
+Somerset,CAJ Meschede,eddf25bd,5,2,3,0,0,66.67,"[6, 9, 11]",3.0,18,5,0,28,1,1,1,0,0,0,5,9.33,0,0,0,0,0,2,30,0,32,33,True,False,True,Right-arm medium-fast,Right-hand bat
+Somerset,C Overton,e9987a94,6,4,6,0,0,66.67,[7],1.0,6,3,0,8,1,0,0,0,0,0,0,8.0,1,0,0,0,0,4,3,8,15,30,True,False,True,Right-arm medium-fast,Right-hand bat
+Somerset,JC Hildreth,782c0568,7,12,9,1,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,40,True,False,False,Right-arm medium-fast,Right-hand bat
+Somerset,MTC Waller,d74d1090,7,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,4,0,27,1,0,0,0,0,0,1,6.75,0,0,0,0,0,0,6,0,6,37,True,False,False,Legbreak,Right-hand bat
+Somerset,DP Nannes,c404f58a,8,0,0,0,0,0.0,"[2, 4, 13, 19]",4.0,24,6,0,34,3,1,1,1,0,0,0,8.5,0,0,0,0,0,0,39,0,39,48,True,False,False,Left-arm fast,Right-hand bat
+Somerset,TD Groenewald,dddc811c,8,17,7,4,0,242.86,"[1, 3, 15, 17]",4.0,24,3,0,32,3,0,1,0,0,2,0,8.0,0,0,0,0,0,33,28,0,61,41,True,False,False,Right-arm fast-medium,Right-hand bat
+Somerset,AC Thomas,b552a935,9,12,8,1,0,150.0,"[5, 16, 18, 20]",4.0,24,9,0,34,6,0,3,0,1,0,0,8.5,0,0,0,0,0,16,96,0,112,48,True,False,False,Right-arm fast-medium,Right-hand bat

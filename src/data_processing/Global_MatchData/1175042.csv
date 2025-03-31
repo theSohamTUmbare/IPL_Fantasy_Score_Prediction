@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Mumbai,Jay Bista,f079e8fe,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Mumbai,Eknath Kerkar,84085032,2,46,36,3,1,127.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,68,0,8,76
-Mumbai,SD Lad,9601c534,3,62,44,3,4,140.91,"[15, 19]",2.0,12,4,0,23,3,1,3,1,0,0,0,11.5,0,0,0,0,2,108,87,0,195
-Mumbai,SS Iyer,85ec8e33,4,43,25,5,1,172.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,79,0,0,79
-Mumbai,SA Yadav,271f83cd,5,6,5,1,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,10,0,16,26
-Mumbai,S Dube,a4e37e47,6,12,7,1,1,171.43,"[6, 8, 10, 12]",4.0,24,10,0,31,3,0,3,0,2,1,3,7.75,0,0,0,0,0,22,105,0,127
-Mumbai,Akash Parkar,f992200b,7,5,2,1,0,250.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
-Mumbai,Shubham Ranjane,6c7a68d0,8,0,0,0,0,0.0,[18],1.0,6,2,0,8,1,0,0,0,0,0,0,8.0,1,0,0,0,0,0,2,8,10
-Mumbai,SN Thakur,1abb78f8,11,0,0,0,0,0.0,"[2, 4, 14, 16]",4.0,24,17,0,15,1,1,3,0,1,0,1,3.75,0,0,0,0,0,0,110,0,110
-Mumbai,TU Deshpande,46a9bea1,12,0,0,0,0,0.0,"[3, 5, 7, 17]",4.0,24,10,0,25,3,0,1,1,0,0,2,6.25,0,0,0,0,0,0,45,0,45
-Mumbai,SZ Mulani,9d704f6f,13,0,0,0,0,0.0,"[1, 9, 11, 13]",4.0,24,10,0,26,2,1,0,0,0,0,0,6.5,1,0,0,0,0,0,12,8,20
-Uttar Pradesh,Madhav Kaushik,49110249,1,9,7,1,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
-Uttar Pradesh,Samarth Singh,9889da93,2,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Uttar Pradesh,Aryan Juyal,5f2732f7,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Uttar Pradesh,PK Garg,bb965e9a,4,23,26,2,0,88.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31
-Uttar Pradesh,Shubham Chaubey,58588e5a,5,0,6,0,0,0.0,[9],1.0,6,1,0,10,0,1,0,0,0,0,0,10.0,0,0,0,0,0,-2,1,0,-1
-Uttar Pradesh,RK Singh,0a509d6b,6,19,14,3,0,135.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,2,33,0,28,61
-Uttar Pradesh,Saurabh Kumar,2a6afc6f,7,24,15,3,1,160.0,"[6, 8, 11]",3.0,18,2,0,33,1,2,0,0,0,0,0,11.0,0,0,0,0,4,46,0,0,46
-Uttar Pradesh,Ankit Chaudhary,c0e59e39,8,18,20,2,0,90.0,"[10, 12, 14, 16]",4.0,24,7,0,34,2,2,0,0,0,0,0,8.5,1,0,1,0,0,26,7,20,53
-Uttar Pradesh,AS Rajpoot,db31895a,9,8,11,0,1,72.73,"[1, 3, 18, 20]",4.0,24,8,0,47,7,0,3,0,0,2,6,11.75,0,0,0,0,0,14,83,0,97
-Uttar Pradesh,Mohsin Khan,c33d8116,10,19,8,2,1,237.5,"[5, 7, 15, 19]",4.0,24,10,0,28,1,2,1,0,0,0,0,7.0,0,0,0,0,0,33,37,0,70
-Uttar Pradesh,Mohit Jangra,4052ab5c,11,1,1,0,0,100.0,"[2, 4, 13, 17]",4.0,24,7,0,30,3,0,1,0,0,0,0,7.5,0,0,1,0,0,1,32,12,45
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Mumbai,Jay Bista,f079e8fe,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,29,True,True,False,Right-arm offbreak,Right-hand bat
+Mumbai,Eknath Kerkar,84085032,2,46,36,3,1,127.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,68,0,8,76,31,True,False,False,,Right-hand bat
+Mumbai,SD Lad,9601c534,3,62,44,3,4,140.91,"[15, 19]",2.0,12,4,0,23,3,1,3,1,0,0,0,11.5,0,0,0,0,2,108,87,0,195,32,True,False,False,Right-arm offbreak,Right-hand bat
+Mumbai,SS Iyer,85ec8e33,4,43,25,5,1,172.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,79,0,0,79,30,True,False,False,Legbreak googly,Right-hand bat
+Mumbai,SA Yadav,271f83cd,5,6,5,1,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,10,0,16,26,34,True,False,False,Right-arm offbreak,Right-hand bat
+Mumbai,S Dube,a4e37e47,6,12,7,1,1,171.43,"[6, 8, 10, 12]",4.0,24,10,0,31,3,0,3,0,2,1,3,7.75,0,0,0,0,0,22,105,0,127,31,True,False,True,Right-arm medium,Left-hand bat
+Mumbai,Akash Parkar,f992200b,7,5,2,1,0,250.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,30,True,True,False,Right-arm medium,Right-hand bat
+Mumbai,Shubham Ranjane,6c7a68d0,8,0,0,0,0,0.0,[18],1.0,6,2,0,8,1,0,0,0,0,0,0,8.0,1,0,0,0,0,0,2,8,10,31,True,False,True,Right-arm medium,Right-hand bat
+Mumbai,SN Thakur,1abb78f8,11,0,0,0,0,0.0,"[2, 4, 14, 16]",4.0,24,17,0,15,1,1,3,0,1,0,1,3.75,0,0,0,0,0,0,110,0,110,33,True,False,False,Right-arm medium,Right-hand bat
+Mumbai,TU Deshpande,46a9bea1,12,0,0,0,0,0.0,"[3, 5, 7, 17]",4.0,24,10,0,25,3,0,1,1,0,0,2,6.25,0,0,0,0,0,0,45,0,45,29,True,False,False,Right-arm medium,Left-hand bat
+Mumbai,SZ Mulani,9d704f6f,13,0,0,0,0,0.0,"[1, 9, 11, 13]",4.0,24,10,0,26,2,1,0,0,0,0,0,6.5,1,0,0,0,0,0,12,8,20,28,True,False,True,Slow left-arm orthodox,Left-hand bat
+Uttar Pradesh,Madhav Kaushik,49110249,1,9,7,1,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,27,True,False,False,Right-arm offbreak,Right-hand bat
+Uttar Pradesh,Samarth Singh,9889da93,2,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,33,True,False,False,Right-arm offbreak,Right-hand bat
+Uttar Pradesh,Aryan Juyal,5f2732f7,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,23,True,False,False,,Right-hand bat
+Uttar Pradesh,PK Garg,bb965e9a,4,23,26,2,0,88.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31,24,True,False,False,Right-arm medium,Right-hand bat
+Uttar Pradesh,Shubham Chaubey,58588e5a,5,0,6,0,0,0.0,[9],1.0,6,1,0,10,0,1,0,0,0,0,0,10.0,0,0,0,0,0,-2,1,0,-1,29,True,True,False,Right-arm offbreak,Right-hand bat
+Uttar Pradesh,RK Singh,0a509d6b,6,19,14,3,0,135.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,2,33,0,28,61,27,True,False,False,Right-arm offbreak,Left-hand bat
+Uttar Pradesh,Saurabh Kumar,2a6afc6f,7,24,15,3,1,160.0,"[6, 8, 11]",3.0,18,2,0,33,1,2,0,0,0,0,0,11.0,0,0,0,0,4,46,0,0,46,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Uttar Pradesh,Ankit Chaudhary,c0e59e39,8,18,20,2,0,90.0,"[10, 12, 14, 16]",4.0,24,7,0,34,2,2,0,0,0,0,0,8.5,1,0,1,0,0,26,7,20,53,28,True,True,False,Slow left-arm orthodox,Right-hand bat
+Uttar Pradesh,AS Rajpoot,db31895a,9,8,11,0,1,72.73,"[1, 3, 18, 20]",4.0,24,8,0,47,7,0,3,0,0,2,6,11.75,0,0,0,0,0,14,83,0,97,31,True,False,False,Right-arm medium,Right-hand bat
+Uttar Pradesh,Mohsin Khan,c33d8116,10,19,8,2,1,237.5,"[5, 7, 15, 19]",4.0,24,10,0,28,1,2,1,0,0,0,0,7.0,0,0,0,0,0,33,37,0,70,26,True,False,False,Left-arm medium-fast,Left-hand bat
+Uttar Pradesh,Mohit Jangra,4052ab5c,11,1,1,0,0,100.0,"[2, 4, 13, 17]",4.0,24,7,0,30,3,0,1,0,0,0,0,7.5,0,0,1,0,0,1,32,12,45,25,True,True,False,Left-arm medium,Left-hand bat

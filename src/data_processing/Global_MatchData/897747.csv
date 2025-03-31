@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Melbourne Renegades,CH Gayle,db584dad,1,28,20,5,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,54,0,0,54
-Melbourne Renegades,TLW Cooper,2318ba22,2,25,17,4,0,147.06,"[1, 7]",2.0,12,6,0,13,2,0,1,0,0,0,0,6.5,0,0,0,0,2,47,33,0,80
-Melbourne Renegades,CL White,d0513f63,3,61,46,3,4,132.61,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,107,0,0,107
-Melbourne Renegades,DJ Bravo,87e562a9,4,47,24,3,3,195.83,"[6, 11, 16, 20]",4.0,24,8,0,26,3,0,2,1,0,0,0,6.5,0,0,0,0,6,87,68,0,155
-Melbourne Renegades,TM Beaton,f0ec8597,5,6,5,1,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
-Melbourne Renegades,PM Nevill,a22fb7b5,6,4,2,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16
-Melbourne Renegades,BR McDermott,c41043e6,7,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
-Melbourne Renegades,CJ Gannon,519c30cb,7,0,0,0,0,0.0,"[5, 10, 14, 18]",4.0,24,9,0,29,1,2,1,0,0,0,0,7.25,0,0,0,0,0,0,34,0,34
-Melbourne Renegades,CP Tremain,96824e68,8,0,0,0,0,0.0,"[3, 8, 13, 15]",4.0,24,4,0,38,4,1,0,0,0,1,0,9.5,1,0,0,0,0,0,4,8,12
-Melbourne Renegades,NJ Rimmington,6042bf26,9,0,0,0,0,0.0,"[4, 12, 17, 19]",4.0,24,8,0,31,3,1,1,0,0,0,1,7.75,0,0,0,0,0,0,33,0,33
-Melbourne Renegades,XJ Doherty,502b2c81,10,0,0,0,0,0.0,"[2, 9]",2.0,12,3,0,31,2,3,0,0,0,0,0,15.5,0,0,0,0,0,0,-3,0,-3
-Sydney Thunder,UT Khawaja,331ea488,1,62,42,9,1,147.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,114,0,0,114
-Sydney Thunder,JH Kallis,86dc8f2e,2,13,15,1,1,86.67,"[6, 10, 12]",3.0,18,7,0,11,0,0,0,0,0,0,0,3.67,0,0,0,0,0,23,13,0,36
-Sydney Thunder,SR Watson,4329fbb5,3,62,43,3,4,144.19,"[2, 8, 14, 20]",3.333,20,6,0,36,3,2,0,0,0,0,0,10.8,0,0,0,0,2,108,4,0,112
-Sydney Thunder,AD Russell,bbd41817,4,16,8,1,1,200.0,"[1, 4, 15, 18]",4.0,24,6,0,42,4,2,2,0,0,1,0,10.5,1,0,0,0,0,26,54,8,88
-Sydney Thunder,MEK Hussey,48fd7349,5,13,12,1,0,108.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
-Sydney Thunder,BJ Rohrer,27af6414,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Sydney Thunder,AC Blizzard,1efb8a28,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Sydney Thunder,CD Hartley,9a06679d,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,0,0,12,12
-Sydney Thunder,CJ McKay,94eac556,9,0,0,0,0,0.0,"[5, 7, 17, 19]",4.0,24,12,0,29,5,0,1,0,0,0,1,7.25,0,0,0,0,0,0,37,0,37
-Sydney Thunder,Fawad Ahmed,22ae3041,10,0,0,0,0,0.0,"[9, 11]",2.0,12,2,0,19,1,1,1,0,1,0,0,9.5,1,0,0,0,0,0,35,8,43
-Sydney Thunder,GS Sandhu,1558d83b,11,0,0,0,0,0.0,"[3, 13, 16]",3.0,18,3,0,38,4,2,0,0,0,0,0,12.67,0,0,0,0,0,0,-3,0,-3
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Melbourne Renegades,CH Gayle,db584dad,1,28,20,5,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,54,0,0,54,45,True,False,True,Right-arm offbreak,Left-hand bat
+Melbourne Renegades,TLW Cooper,2318ba22,2,25,17,4,0,147.06,"[1, 7]",2.0,12,6,0,13,2,0,1,0,0,0,0,6.5,0,0,0,0,2,47,33,0,80,38,True,False,False,Right-arm offbreak,Right-hand bat
+Melbourne Renegades,CL White,d0513f63,3,61,46,3,4,132.61,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,107,0,0,107,41,True,False,False,Legbreak googly,Right-hand bat
+Melbourne Renegades,DJ Bravo,87e562a9,4,47,24,3,3,195.83,"[6, 11, 16, 20]",4.0,24,8,0,26,3,0,2,1,0,0,0,6.5,0,0,0,0,6,87,68,0,155,41,True,False,True,Right-arm medium,Right-hand bat
+Melbourne Renegades,TM Beaton,f0ec8597,5,6,5,1,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,34,True,True,False,Right-arm medium,Right-hand bat
+Melbourne Renegades,PM Nevill,a22fb7b5,6,4,2,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16,39,True,False,False,,Right-hand bat
+Melbourne Renegades,BR McDermott,c41043e6,7,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,30,True,True,False,Right-arm medium,Right-hand bat
+Melbourne Renegades,CJ Gannon,519c30cb,7,0,0,0,0,0.0,"[5, 10, 14, 18]",4.0,24,9,0,29,1,2,1,0,0,0,0,7.25,0,0,0,0,0,0,34,0,34,36,True,False,False,Right-arm fast-medium,Right-hand bat
+Melbourne Renegades,CP Tremain,96824e68,8,0,0,0,0,0.0,"[3, 8, 13, 15]",4.0,24,4,0,38,4,1,0,0,0,1,0,9.5,1,0,0,0,0,0,4,8,12,33,True,False,False,Right-arm medium-fast,Right-hand bat
+Melbourne Renegades,NJ Rimmington,6042bf26,9,0,0,0,0,0.0,"[4, 12, 17, 19]",4.0,24,8,0,31,3,1,1,0,0,0,1,7.75,0,0,0,0,0,0,33,0,33,42,True,False,False,Right-arm fast-medium,Right-hand bat
+Melbourne Renegades,XJ Doherty,502b2c81,10,0,0,0,0,0.0,"[2, 9]",2.0,12,3,0,31,2,3,0,0,0,0,0,15.5,0,0,0,0,0,0,-3,0,-3,42,True,False,False,Slow left-arm orthodox,Left-hand bat
+Sydney Thunder,UT Khawaja,331ea488,1,62,42,9,1,147.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,114,0,0,114,38,True,False,False,Right-arm medium,Left-hand bat
+Sydney Thunder,JH Kallis,86dc8f2e,2,13,15,1,1,86.67,"[6, 10, 12]",3.0,18,7,0,11,0,0,0,0,0,0,0,3.67,0,0,0,0,0,23,13,0,36,49,True,False,True,Right-arm fast-medium,Right-hand bat
+Sydney Thunder,SR Watson,4329fbb5,3,62,43,3,4,144.19,"[2, 8, 14, 20]",3.333,20,6,0,36,3,2,0,0,0,0,0,10.8,0,0,0,0,2,108,4,0,112,43,True,False,True,Right-arm fast-medium,Right-hand bat
+Sydney Thunder,AD Russell,bbd41817,4,16,8,1,1,200.0,"[1, 4, 15, 18]",4.0,24,6,0,42,4,2,2,0,0,1,0,10.5,1,0,0,0,0,26,54,8,88,36,True,False,True,Right-arm fast,Right-hand bat
+Sydney Thunder,MEK Hussey,48fd7349,5,13,12,1,0,108.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,49,True,False,False,Right-arm medium,Left-hand bat
+Sydney Thunder,BJ Rohrer,27af6414,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,44,True,False,False,,Left-hand bat
+Sydney Thunder,AC Blizzard,1efb8a28,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,40,True,False,False,Left-arm medium,Left-hand bat
+Sydney Thunder,CD Hartley,9a06679d,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,0,0,12,12,42,True,False,False,,Left-hand bat
+Sydney Thunder,CJ McKay,94eac556,9,0,0,0,0,0.0,"[5, 7, 17, 19]",4.0,24,12,0,29,5,0,1,0,0,0,1,7.25,0,0,0,0,0,0,37,0,37,42,True,False,False,Right-arm fast-medium,Right-hand bat
+Sydney Thunder,Fawad Ahmed,22ae3041,10,0,0,0,0,0.0,"[9, 11]",2.0,12,2,0,19,1,1,1,0,1,0,0,9.5,1,0,0,0,0,0,35,8,43,43,True,False,False,Legbreak googly,Right-hand bat
+Sydney Thunder,GS Sandhu,1558d83b,11,0,0,0,0,0.0,"[3, 13, 16]",3.0,18,3,0,38,4,2,0,0,0,0,0,12.67,0,0,0,0,0,0,-3,0,-3,31,True,False,False,Right-arm fast-medium,Left-hand bat

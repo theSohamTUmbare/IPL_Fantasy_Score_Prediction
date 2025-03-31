@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Hampshire,JM Vince,a15618fe,1,23,10,5,0,230.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,49,0,8,57
-Hampshire,C Munro,af2c687b,2,63,39,5,3,161.54,"[7, 9, 15]",3.0,18,7,0,20,0,1,2,0,0,2,0,6.67,1,0,0,0,4,113,59,8,180
-Hampshire,SA Northeast,7e4c8ba3,3,12,11,2,0,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
-Hampshire,RR Rossouw,cad00a4d,4,32,22,4,0,145.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,54,0,8,62
-Hampshire,TP Alsop,961b8ff1,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,-2,0,16,14
-Hampshire,LA Dawson,4a461c24,6,10,8,1,0,125.0,"[8, 10, 12, 14]",4.0,24,9,0,31,1,2,1,0,0,0,3,7.75,0,0,0,0,0,14,34,0,48
-Hampshire,LD McManus,6feb46a4,7,23,15,3,0,153.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,39,0,0,39
-Hampshire,GK Berg,42151725,8,0,1,0,0,0.0,[4],1.0,6,1,0,12,2,0,0,0,0,0,0,12.0,0,0,0,0,0,-2,1,0,-1
-Hampshire,CP Wood,1cfac535,9,13,8,2,0,162.5,"[1, 3, 18, 20]",4.0,24,11,0,33,5,0,2,0,1,2,0,8.25,1,0,0,0,0,21,69,8,98
-Hampshire,RA Stevenson,978bd738,10,4,2,1,0,200.0,"[2, 5, 16, 19]",4.0,24,7,0,37,6,0,1,0,0,0,0,9.25,0,0,0,0,0,8,32,0,40
-Hampshire,Mujeeb Ur Rahman,7d92277a,11,0,1,0,0,0.0,"[6, 11, 13, 17]",4.0,24,7,0,23,1,0,1,0,0,0,0,5.75,0,0,0,0,0,-2,36,0,34
-Middlesex,PR Stirling,cf494ffe,1,8,6,2,0,133.33,"[2, 7, 9]",3.0,18,3,0,37,5,1,0,0,0,0,0,12.33,0,0,0,0,0,16,-3,0,13
-Middlesex,MDE Holden,d34a2268,2,36,22,7,0,163.64,[8],1.0,6,1,0,12,2,0,0,0,0,0,0,12.0,1,0,0,0,4,72,1,8,81
-Middlesex,DJ Malan,ad9c32a2,3,7,7,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
-Middlesex,EJG Morgan,d2a6c0e6,4,3,3,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,3,0,16,19
-Middlesex,JA Simpson,f05fe9b1,5,16,19,0,0,84.21,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24
-Middlesex,DJ Bravo,87e562a9,6,38,29,1,3,131.03,"[5, 10, 18, 20]",3.667,22,3,0,28,2,0,1,0,1,0,0,7.64,1,0,0,0,2,66,36,8,110
-Middlesex,AC Agar,a2421394,7,3,4,0,0,75.0,"[11, 14, 16]",3.0,18,3,0,25,3,0,0,0,0,0,0,8.33,0,0,0,0,0,3,3,0,6
-Middlesex,JK Fuller,dda5aae5,8,8,8,0,0,100.0,"[13, 15, 17, 19]",4.0,24,9,0,28,3,0,6,0,1,2,1,7.0,1,0,0,0,0,8,181,8,197
-Middlesex,TG Helm,74a274cc,9,28,20,4,0,140.0,"[4, 6]",2.0,12,6,0,15,3,0,1,0,0,0,0,7.5,0,0,0,0,2,50,31,0,81
-Middlesex,NA Sowter,ee0c05c0,10,0,1,0,0,0.0,[12],1.0,6,2,0,10,2,0,0,0,0,0,0,10.0,1,0,0,0,0,-2,2,8,8
-Middlesex,ST Finn,ccdd8308,11,2,1,0,0,200.0,"[1, 3]",2.0,12,3,0,28,3,2,1,0,0,0,0,14.0,0,0,0,0,0,2,22,0,24
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Hampshire,JM Vince,a15618fe,1,23,10,5,0,230.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,49,0,8,57,34,True,False,False,Right-arm medium,Right-hand bat
+Hampshire,C Munro,af2c687b,2,63,39,5,3,161.54,"[7, 9, 15]",3.0,18,7,0,20,0,1,2,0,0,2,0,6.67,1,0,0,0,4,113,59,8,180,38,True,False,False,Right-arm medium-fast,Left-hand bat
+Hampshire,SA Northeast,7e4c8ba3,3,12,11,2,0,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,35,True,False,False,Right-arm offbreak,Right-hand bat
+Hampshire,RR Rossouw,cad00a4d,4,32,22,4,0,145.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,54,0,8,62,35,True,False,False,Right-arm offbreak,Left-hand bat
+Hampshire,TP Alsop,961b8ff1,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,-2,0,16,14,29,True,False,False,,Left-hand bat
+Hampshire,LA Dawson,4a461c24,6,10,8,1,0,125.0,"[8, 10, 12, 14]",4.0,24,9,0,31,1,2,1,0,0,0,3,7.75,0,0,0,0,0,14,34,0,48,35,True,False,True,Slow left-arm orthodox,Right-hand bat
+Hampshire,LD McManus,6feb46a4,7,23,15,3,0,153.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,39,0,0,39,30,True,False,False,,Right-hand bat
+Hampshire,GK Berg,42151725,8,0,1,0,0,0.0,[4],1.0,6,1,0,12,2,0,0,0,0,0,0,12.0,0,0,0,0,0,-2,1,0,-1,44,True,False,True,Right-arm medium,Right-hand bat
+Hampshire,CP Wood,1cfac535,9,13,8,2,0,162.5,"[1, 3, 18, 20]",4.0,24,11,0,33,5,0,2,0,1,2,0,8.25,1,0,0,0,0,21,69,8,98,34,True,False,False,Left-arm medium-fast,Right-hand bat
+Hampshire,RA Stevenson,978bd738,10,4,2,1,0,200.0,"[2, 5, 16, 19]",4.0,24,7,0,37,6,0,1,0,0,0,0,9.25,0,0,0,0,0,8,32,0,40,32,True,True,False,Right-arm fast-medium,Right-hand bat
+Hampshire,Mujeeb Ur Rahman,7d92277a,11,0,1,0,0,0.0,"[6, 11, 13, 17]",4.0,24,7,0,23,1,0,1,0,0,0,0,5.75,0,0,0,0,0,-2,36,0,34,24,True,False,False,Right-arm offbreak,Right-hand bat
+Middlesex,PR Stirling,cf494ffe,1,8,6,2,0,133.33,"[2, 7, 9]",3.0,18,3,0,37,5,1,0,0,0,0,0,12.33,0,0,0,0,0,16,-3,0,13,34,True,False,True,Right-arm offbreak,Right-hand bat
+Middlesex,MDE Holden,d34a2268,2,36,22,7,0,163.64,[8],1.0,6,1,0,12,2,0,0,0,0,0,0,12.0,1,0,0,0,4,72,1,8,81,27,True,False,False,Right-arm offbreak,Left-hand bat
+Middlesex,DJ Malan,ad9c32a2,3,7,7,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,37,True,False,False,Legbreak,Left-hand bat
+Middlesex,EJG Morgan,d2a6c0e6,4,3,3,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,3,0,16,19,38,True,False,False,Right-arm medium,Left-hand bat
+Middlesex,JA Simpson,f05fe9b1,5,16,19,0,0,84.21,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24,36,True,False,False,,Left-hand bat
+Middlesex,DJ Bravo,87e562a9,6,38,29,1,3,131.03,"[5, 10, 18, 20]",3.667,22,3,0,28,2,0,1,0,1,0,0,7.64,1,0,0,0,2,66,36,8,110,41,True,False,True,Right-arm medium,Right-hand bat
+Middlesex,AC Agar,a2421394,7,3,4,0,0,75.0,"[11, 14, 16]",3.0,18,3,0,25,3,0,0,0,0,0,0,8.33,0,0,0,0,0,3,3,0,6,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+Middlesex,JK Fuller,dda5aae5,8,8,8,0,0,100.0,"[13, 15, 17, 19]",4.0,24,9,0,28,3,0,6,0,1,2,1,7.0,1,0,0,0,0,8,181,8,197,35,True,False,True,Right-arm fast-medium,Right-hand bat
+Middlesex,TG Helm,74a274cc,9,28,20,4,0,140.0,"[4, 6]",2.0,12,6,0,15,3,0,1,0,0,0,0,7.5,0,0,0,0,2,50,31,0,81,30,True,False,False,Right-arm fast-medium,Right-hand bat
+Middlesex,NA Sowter,ee0c05c0,10,0,1,0,0,0.0,[12],1.0,6,2,0,10,2,0,0,0,0,0,0,10.0,1,0,0,0,0,-2,2,8,8,32,True,False,False,Legbreak,Right-hand bat
+Middlesex,ST Finn,ccdd8308,11,2,1,0,0,200.0,"[1, 3]",2.0,12,3,0,28,3,2,1,0,0,0,0,14.0,0,0,0,0,0,2,22,0,24,35,True,False,False,Right-arm fast-medium,Right-hand bat

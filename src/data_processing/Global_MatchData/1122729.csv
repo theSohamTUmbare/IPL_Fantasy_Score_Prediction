@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-India,RG Sharma,740742ef,1,17,13,2,0,130.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,27,0,0,27
-India,KL Rahul,b17e2f24,2,61,48,7,1,127.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,103,0,16,119
-India,SS Iyer,85ec8e33,3,24,20,3,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,36,0,0,36
-India,MS Dhoni,4a8a2e3b,4,39,22,4,1,177.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,6,71,0,40,111
-India,MK Pandey,93b4fc78,5,32,17,2,2,188.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,62,0,0,62
-India,KD Karthik,c03f1114,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-India,HH Pandya,dbe50b21,12,0,0,0,0,0.0,"[1, 3, 14, 16]",4.0,24,10,0,29,0,1,3,0,0,0,1,7.25,2,0,0,0,0,0,89,16,105
-India,Kuldeep Yadav,8d2c70ad,13,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,9,0,18,0,0,2,0,0,0,0,4.5,0,0,0,0,0,0,65,0,65
-India,JJ Bumrah,462411b3,14,0,0,0,0,0.0,"[6, 15]",2.0,12,8,0,10,2,0,0,0,0,0,0,5.0,0,0,0,0,0,0,12,0,12
-India,JD Unadkat,1e66c162,15,0,0,0,0,0.0,"[2, 4]",2.0,12,8,0,7,1,0,1,0,0,0,0,3.5,1,0,0,0,0,0,39,8,47
-India,YS Chahal,57ee1fde,16,0,0,0,0,0.0,"[5, 8, 10, 12]",4.0,24,12,0,23,1,1,4,0,0,0,1,5.75,1,0,0,0,0,0,124,8,132
-Sri Lanka,N Dickwella,45963d9e,1,13,8,1,0,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,17,0,8,25
-Sri Lanka,WU Tharanga,7ed9fd56,2,23,16,1,2,143.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,41,0,0,41
-Sri Lanka,MDKJ Perera,f21043a5,3,19,28,0,0,67.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,17,0,0,17
-Sri Lanka,AD Mathews,896d78ad,4,1,7,0,0,14.29,"[5, 7, 9]",3.0,18,6,0,19,1,1,1,0,0,0,0,6.33,0,0,0,0,0,1,33,0,34
-Sri Lanka,DAS Gunaratne,770494eb,5,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
-Sri Lanka,MD Shanaka,3ff033bb,6,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Sri Lanka,NLTC Perera,0f12f9df,7,3,4,0,0,75.0,"[8, 15, 18, 20]",4.0,24,3,0,37,3,1,1,0,1,0,0,9.25,0,0,0,0,0,3,36,0,39
-Sri Lanka,A Dananjaya,5b16a806,8,7,7,0,0,100.0,"[2, 4, 12, 14]",4.0,24,6,0,30,4,0,0,0,0,0,0,7.5,0,0,0,0,0,7,6,0,13
-Sri Lanka,PVD Chameera,327b58d3,9,12,14,2,0,85.71,"[3, 6, 17]",3.0,18,3,0,38,5,1,0,0,0,0,2,12.67,1,0,0,0,0,20,-3,8,25
-Sri Lanka,MVT Fernando,5eef2118,10,2,2,0,0,100.0,"[1, 11]",2.0,12,5,0,16,2,0,0,0,0,0,0,8.0,0,0,0,0,0,2,5,0,7
-Sri Lanka,N Pradeep,2af838ee,11,0,0,0,0,0.0,"[10, 13, 16, 19]",4.0,24,5,0,38,3,1,1,0,0,1,2,9.5,0,0,0,0,0,0,30,0,30
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+India,RG Sharma,740742ef,1,17,13,2,0,130.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,27,0,0,27,37,True,False,False,Right-arm offbreak,Right-hand bat
+India,KL Rahul,b17e2f24,2,61,48,7,1,127.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,103,0,16,119,32,True,False,False,,Right-hand bat
+India,SS Iyer,85ec8e33,3,24,20,3,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,36,0,0,36,30,True,False,False,Legbreak googly,Right-hand bat
+India,MS Dhoni,4a8a2e3b,4,39,22,4,1,177.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,6,71,0,40,111,43,True,True,False,Right-arm medium,Right-hand bat
+India,MK Pandey,93b4fc78,5,32,17,2,2,188.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,62,0,0,62,35,True,False,False,Right-arm medium,Right-hand bat
+India,KD Karthik,c03f1114,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,39,True,True,False,Right-arm offbreak,Right-hand bat
+India,HH Pandya,dbe50b21,12,0,0,0,0,0.0,"[1, 3, 14, 16]",4.0,24,10,0,29,0,1,3,0,0,0,1,7.25,2,0,0,0,0,0,89,16,105,31,True,False,True,Right-arm medium-fast,Right-hand bat
+India,Kuldeep Yadav,8d2c70ad,13,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,9,0,18,0,0,2,0,0,0,0,4.5,0,0,0,0,0,0,65,0,65,30,True,False,False,Left-arm wrist-spin,Left-hand bat
+India,JJ Bumrah,462411b3,14,0,0,0,0,0.0,"[6, 15]",2.0,12,8,0,10,2,0,0,0,0,0,0,5.0,0,0,0,0,0,0,12,0,12,31,True,False,False,Right-arm fast,Right-hand bat
+India,JD Unadkat,1e66c162,15,0,0,0,0,0.0,"[2, 4]",2.0,12,8,0,7,1,0,1,0,0,0,0,3.5,1,0,0,0,0,0,39,8,47,33,True,False,False,Left-arm medium,Right-hand bat
+India,YS Chahal,57ee1fde,16,0,0,0,0,0.0,"[5, 8, 10, 12]",4.0,24,12,0,23,1,1,4,0,0,0,1,5.75,1,0,0,0,0,0,124,8,132,34,True,False,False,Legbreak googly,Right-hand bat
+Sri Lanka,N Dickwella,45963d9e,1,13,8,1,0,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,17,0,8,25,31,True,False,False,,Left-hand bat
+Sri Lanka,WU Tharanga,7ed9fd56,2,23,16,1,2,143.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,41,0,0,41,40,True,False,False,,Left-hand bat
+Sri Lanka,MDKJ Perera,f21043a5,3,19,28,0,0,67.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,17,0,0,17,34,True,False,False,,Left-hand bat
+Sri Lanka,AD Mathews,896d78ad,4,1,7,0,0,14.29,"[5, 7, 9]",3.0,18,6,0,19,1,1,1,0,0,0,0,6.33,0,0,0,0,0,1,33,0,34,37,True,False,True,Right-arm medium,Right-hand bat
+Sri Lanka,DAS Gunaratne,770494eb,5,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,39,True,False,False,Right-arm medium-fast,Right-hand bat
+Sri Lanka,MD Shanaka,3ff033bb,6,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,33,True,False,True,Right-arm medium,Right-hand bat
+Sri Lanka,NLTC Perera,0f12f9df,7,3,4,0,0,75.0,"[8, 15, 18, 20]",4.0,24,3,0,37,3,1,1,0,1,0,0,9.25,0,0,0,0,0,3,36,0,39,35,True,False,True,Right-arm medium-fast,Left-hand bat
+Sri Lanka,A Dananjaya,5b16a806,8,7,7,0,0,100.0,"[2, 4, 12, 14]",4.0,24,6,0,30,4,0,0,0,0,0,0,7.5,0,0,0,0,0,7,6,0,13,31,True,False,True,Legbreak,Left-hand bat
+Sri Lanka,PVD Chameera,327b58d3,9,12,14,2,0,85.71,"[3, 6, 17]",3.0,18,3,0,38,5,1,0,0,0,0,2,12.67,1,0,0,0,0,20,-3,8,25,33,True,False,False,Right-arm fast,Right-hand bat
+Sri Lanka,MVT Fernando,5eef2118,10,2,2,0,0,100.0,"[1, 11]",2.0,12,5,0,16,2,0,0,0,0,0,0,8.0,0,0,0,0,0,2,5,0,7,33,True,False,False,Left-arm medium-fast,Right-hand bat
+Sri Lanka,N Pradeep,2af838ee,11,0,0,0,0,0.0,"[10, 13, 16, 19]",4.0,24,5,0,38,3,1,1,0,0,1,2,9.5,0,0,0,0,0,0,30,0,30,38,True,False,False,Right-arm fast-medium,Right-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Nagaland,AN Longchar,04cd8289,1,8,27,0,0,29.63,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,2,0,0,2
-Nagaland,YV Takawale,4e04666c,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Nagaland,Tahmeed Rahman,13903f13,3,0,0,0,0,0.0,"[8, 10]",2.0,12,4,0,12,1,0,0,0,0,0,1,6.0,0,0,0,0,0,0,6,0,6
-Nagaland,Rongsen Jonathan,d4753890,3,9,19,1,0,47.37,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,7,0,0,7
-Nagaland,Moakumzuk Tzudir,dcb0fe34,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Nagaland,STR Binny,bd17b45f,4,5,11,0,0,45.45,"[1, 3, 5]",3.0,18,13,0,10,0,1,0,0,0,0,0,3.33,0,0,0,0,-6,-1,19,0,18
-Nagaland,Mughavi Wotsa,f45e828c,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Nagaland,Nagaho Chishi,5b4d1d4e,5,5,17,0,0,29.41,"[4, 11]",1.333,8,2,0,18,4,0,0,0,0,0,0,13.5,0,0,0,0,-6,-1,2,0,1
-Nagaland,SS Mundhe,0af3426f,6,9,9,0,0,100.0,"[2, 6]",2.0,12,8,0,9,1,0,1,0,1,0,2,4.5,0,0,0,0,0,9,47,0,56
-Nagaland,Hokaito Zhimomi,96477053,7,10,7,0,1,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
-Nagaland,Imliwati Lemtur,76a33e00,8,11,4,0,1,275.0,"[7, 9]",2.0,12,5,0,16,1,1,0,0,0,0,1,8.0,0,0,0,0,0,17,5,0,22
-Saurashtra,H Desai,9c86350f,1,22,26,2,1,84.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,36,0,12,48
-Saurashtra,Kishan Parmar M,6fa5314b,2,20,20,2,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34
-Saurashtra,JD Unadkat,1e66c162,3,0,0,0,0,0.0,"[1, 3, 13, 15]",4.0,24,15,0,10,0,0,2,0,1,0,1,2.5,0,0,0,0,0,0,79,0,79
-Saurashtra,Samarth Vyas,34819e70,3,19,16,3,0,118.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,31,0,8,39
-Saurashtra,C Sakariya,2cdce1be,4,0,0,0,0,0.0,"[2, 4, 14]",3.0,18,13,1,8,1,0,1,0,1,0,0,2.67,0,0,0,0,0,0,64,0,64
-Saurashtra,Chirag Jani,783e6111,5,0,0,0,0,0.0,[5],1.0,6,4,0,3,0,0,0,0,0,0,1,3.0,0,0,0,0,0,0,4,0,4
-Saurashtra,Dharmendrasinh Jadeja,d330f9b9,6,0,0,0,0,0.0,"[6, 8, 16]",3.0,18,5,0,31,0,2,0,0,0,0,6,10.33,1,0,0,0,0,0,3,8,11
-Saurashtra,Parth Chauhan,c7375760,7,0,0,0,0,0.0,"[7, 9]",2.0,12,7,0,9,0,0,1,0,0,0,3,4.5,0,0,0,0,0,0,38,0,38
-Saurashtra,Jay Chauhan,c2468df1,8,0,0,0,0,0.0,"[10, 12]",2.0,12,8,0,4,0,0,1,0,0,0,0,2.0,0,0,0,0,0,0,39,0,39
-Saurashtra,Arpit Vasavada,2bbab579,9,0,0,0,0,0.0,[11],1.0,6,4,0,3,0,0,1,0,0,0,0,3.0,0,0,0,0,0,0,29,0,29
-Saurashtra,SP Jackson,acc1aeda,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Nagaland,AN Longchar,04cd8289,1,8,27,0,0,29.63,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,2,0,0,2,31,True,True,False,Slow left-arm orthodox,Left-hand bat
+Nagaland,YV Takawale,4e04666c,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,40,True,False,False,,Right-hand bat
+Nagaland,Tahmeed Rahman,13903f13,3,0,0,0,0,0.0,"[8, 10]",2.0,12,4,0,12,1,0,0,0,0,0,1,6.0,0,0,0,0,0,0,6,0,6,26,True,False,False,Right-arm offbreak,Right-hand bat
+Nagaland,Rongsen Jonathan,d4753890,3,9,19,1,0,47.37,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,7,0,0,7,38,True,False,True,,Right-hand bat
+Nagaland,Moakumzuk Tzudir,dcb0fe34,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,29,True,True,False,Right-arm medium,Right-hand bat
+Nagaland,STR Binny,bd17b45f,4,5,11,0,0,45.45,"[1, 3, 5]",3.0,18,13,0,10,0,1,0,0,0,0,0,3.33,0,0,0,0,-6,-1,19,0,18,40,True,False,True,Right-arm medium,Right-hand bat
+Nagaland,Mughavi Wotsa,f45e828c,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,32,True,False,False,Right-arm medium,Right-hand bat
+Nagaland,Nagaho Chishi,5b4d1d4e,5,5,17,0,0,29.41,"[4, 11]",1.333,8,2,0,18,4,0,0,0,0,0,0,13.5,0,0,0,0,-6,-1,2,0,1,27,True,True,False,Right-arm medium,Right-hand bat
+Nagaland,SS Mundhe,0af3426f,6,9,9,0,0,100.0,"[2, 6]",2.0,12,8,0,9,1,0,1,0,1,0,2,4.5,0,0,0,0,0,9,47,0,56,36,True,False,True,Right-arm medium,Right-hand bat
+Nagaland,Hokaito Zhimomi,96477053,7,10,7,0,1,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,38,True,False,False,Left-arm medium,Right-hand bat
+Nagaland,Imliwati Lemtur,76a33e00,8,11,4,0,1,275.0,"[7, 9]",2.0,12,5,0,16,1,1,0,0,0,0,1,8.0,0,0,0,0,0,17,5,0,22,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+Saurashtra,H Desai,9c86350f,1,22,26,2,1,84.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,36,0,12,48,25,True,False,False,,Right-hand bat
+Saurashtra,Kishan Parmar M,6fa5314b,2,20,20,2,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34,32,True,True,False,Right-arm medium,Right-hand bat
+Saurashtra,JD Unadkat,1e66c162,3,0,0,0,0,0.0,"[1, 3, 13, 15]",4.0,24,15,0,10,0,0,2,0,1,0,1,2.5,0,0,0,0,0,0,79,0,79,33,True,False,False,Left-arm medium,Right-hand bat
+Saurashtra,Samarth Vyas,34819e70,3,19,16,3,0,118.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,31,0,8,39,29,True,False,True,Legbreak googly,Right-hand bat
+Saurashtra,C Sakariya,2cdce1be,4,0,0,0,0,0.0,"[2, 4, 14]",3.0,18,13,1,8,1,0,1,0,1,0,0,2.67,0,0,0,0,0,0,64,0,64,27,True,False,False,Left-arm medium-fast,Left-hand bat
+Saurashtra,Chirag Jani,783e6111,5,0,0,0,0,0.0,[5],1.0,6,4,0,3,0,0,0,0,0,0,1,3.0,0,0,0,0,0,0,4,0,4,35,True,False,True,Right-arm medium,Right-hand bat
+Saurashtra,Dharmendrasinh Jadeja,d330f9b9,6,0,0,0,0,0.0,"[6, 8, 16]",3.0,18,5,0,31,0,2,0,0,0,0,6,10.33,1,0,0,0,0,0,3,8,11,34,True,False,False,Slow left-arm orthodox,Left-hand bat
+Saurashtra,Parth Chauhan,c7375760,7,0,0,0,0,0.0,"[7, 9]",2.0,12,7,0,9,0,0,1,0,0,0,3,4.5,0,0,0,0,0,0,38,0,38,29,True,True,False,Right-arm medium-fast,Right-hand bat
+Saurashtra,Jay Chauhan,c2468df1,8,0,0,0,0,0.0,"[10, 12]",2.0,12,8,0,4,0,0,1,0,0,0,0,2.0,0,0,0,0,0,0,39,0,39,32,True,False,False,Slow left-arm orthodox,Right-hand bat
+Saurashtra,Arpit Vasavada,2bbab579,9,0,0,0,0,0.0,[11],1.0,6,4,0,3,0,0,1,0,0,0,0,3.0,0,0,0,0,0,0,29,0,29,36,True,False,False,Slow left-arm orthodox,Left-hand bat
+Saurashtra,SP Jackson,acc1aeda,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,38,True,True,False,Right-arm offbreak,Right-hand bat

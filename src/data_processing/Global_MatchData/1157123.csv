@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Maharashtra,Yash Nahar,487f5721,1,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Maharashtra,RD Gaikwad,45a43fe2,2,55,44,5,1,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,89,0,16,105
-Maharashtra,VH Zol,6dbcf855,3,3,9,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
-Maharashtra,Naushad Shaikh,9ed95736,4,44,37,3,0,118.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,60,0,8,68
-Maharashtra,SM Fallah,c8f697bd,4,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,13,0,15,1,0,1,0,0,0,0,3.75,0,0,0,0,0,0,44,0,44
-Maharashtra,MD Ingale,a584021c,5,0,0,0,0,0.0,"[2, 4, 14, 18]",4.0,24,10,1,16,0,0,0,0,0,0,0,4.0,1,0,0,0,0,0,28,8,36
-Maharashtra,Satyajeet Bachhav,09a71776,6,0,0,0,0,0.0,"[5, 10, 12, 15]",4.0,24,7,0,27,0,2,1,0,0,0,0,6.75,0,0,0,0,0,0,34,0,34
-Maharashtra,Divyang Hinganekar,cb461421,7,0,0,0,0,0.0,"[6, 8, 16, 20]",4.0,24,8,0,19,1,0,4,0,1,0,0,4.75,1,0,0,0,0,0,130,8,138
-Maharashtra,Azim Kazi,ccae927b,8,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,7,0,21,1,0,0,0,0,0,1,5.25,0,0,0,0,0,0,11,0,11
-Maharashtra,NS Naik,aedc3b7c,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Maharashtra,AR Bawne,afe3355a,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Puducherry,S Karthik,14c90152,1,8,15,0,0,53.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,4,0,0,4
-Puducherry,Damodaran Rohit,37fec668,2,4,5,1,0,80.0,[13],1.0,6,0,0,9,1,0,0,0,0,0,0,9.0,0,0,0,0,0,8,0,0,8
-Puducherry,X Thalaivan Sargunam,1763bc6c,3,29,39,0,1,74.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,39,0,0,39
-Puducherry,Akshay Jain,cd626284,4,0,0,0,0,0.0,"[6, 8, 10]",3.0,18,3,0,25,2,0,0,0,0,0,0,8.33,0,0,0,0,0,0,3,0,3
-Puducherry,P Dogra,2728e7e9,4,32,33,1,1,96.97,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,46,0,0,46
-Puducherry,Pankaj Singh,e32d22f6,5,0,0,0,0,0.0,"[1, 3, 5, 15]",4.0,24,13,1,18,2,0,2,1,1,0,1,4.5,0,0,0,0,0,0,97,0,97
-Puducherry,Marimuthu Vikneshwaran,ee2ac9d7,5,9,12,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
-Puducherry,S Santhosh Kumaran,e1d6a861,6,0,0,0,0,0.0,[16],0.667,4,0,0,11,2,0,0,0,0,0,1,16.49,0,0,0,0,0,0,0,0,0
-Puducherry,Fabid Ahmed,f705d984,6,15,15,1,0,100.0,"[2, 4, 12]",3.0,18,9,0,16,0,1,0,0,0,0,0,5.33,0,0,0,0,0,19,13,0,32
-Puducherry,Pratik Sargade,6a1fc8dd,7,0,0,0,0,0.0,"[9, 11, 14]",3.0,18,6,0,19,1,0,0,0,0,0,0,6.33,0,0,0,0,0,0,8,0,8
-Puducherry,P Thamaraikannan,df72675b,7,0,1,0,0,0.0,[7],1.0,6,1,0,6,0,0,0,0,0,0,0,6.0,0,0,0,0,0,-2,1,0,-1
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Maharashtra,Yash Nahar,487f5721,1,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,30,True,True,False,Right-arm offbreak,Right-hand bat
+Maharashtra,RD Gaikwad,45a43fe2,2,55,44,5,1,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,89,0,16,105,28,True,False,False,Right-arm offbreak,Right-hand bat
+Maharashtra,VH Zol,6dbcf855,3,3,9,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,30,True,True,False,Right-arm offbreak,Left-hand bat
+Maharashtra,Naushad Shaikh,9ed95736,4,44,37,3,0,118.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,60,0,8,68,33,True,False,False,Right-arm offbreak,Right-hand bat
+Maharashtra,SM Fallah,c8f697bd,4,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,13,0,15,1,0,1,0,0,0,0,3.75,0,0,0,0,0,0,44,0,44,39,True,False,False,Left-arm medium,Left-hand bat
+Maharashtra,MD Ingale,a584021c,5,0,0,0,0,0.0,"[2, 4, 14, 18]",4.0,24,10,1,16,0,0,0,0,0,0,0,4.0,1,0,0,0,0,0,28,8,36,30,True,False,False,Right-arm medium,Right-hand bat
+Maharashtra,Satyajeet Bachhav,09a71776,6,0,0,0,0,0.0,"[5, 10, 12, 15]",4.0,24,7,0,27,0,2,1,0,0,0,0,6.75,0,0,0,0,0,0,34,0,34,32,True,False,False,Slow left-arm orthodox,Left-hand bat
+Maharashtra,Divyang Hinganekar,cb461421,7,0,0,0,0,0.0,"[6, 8, 16, 20]",4.0,24,8,0,19,1,0,4,0,1,0,0,4.75,1,0,0,0,0,0,130,8,138,31,True,False,False,Left-arm medium,Right-hand bat
+Maharashtra,Azim Kazi,ccae927b,8,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,7,0,21,1,0,0,0,0,0,1,5.25,0,0,0,0,0,0,11,0,11,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Maharashtra,NS Naik,aedc3b7c,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,30,True,False,False,,Right-hand bat
+Maharashtra,AR Bawne,afe3355a,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,32,True,False,False,Right-arm offbreak,Right-hand bat
+Puducherry,S Karthik,14c90152,1,8,15,0,0,53.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,4,0,0,4,35,True,False,False,,Right-hand bat
+Puducherry,Damodaran Rohit,37fec668,2,4,5,1,0,80.0,[13],1.0,6,0,0,9,1,0,0,0,0,0,0,9.0,0,0,0,0,0,8,0,0,8,32,True,True,False,Right-arm offbreak,Right-hand bat
+Puducherry,X Thalaivan Sargunam,1763bc6c,3,29,39,0,1,74.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,39,0,0,39,39,True,True,False,Right-arm offbreak,Right-hand bat
+Puducherry,Akshay Jain,cd626284,4,0,0,0,0,0.0,"[6, 8, 10]",3.0,18,3,0,25,2,0,0,0,0,0,0,8.33,0,0,0,0,0,0,3,0,3,32,True,False,False,Slow left-arm orthodox,Right-hand bat
+Puducherry,P Dogra,2728e7e9,4,32,33,1,1,96.97,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,46,0,0,46,40,True,False,False,Legbreak,Right-hand bat
+Puducherry,Pankaj Singh,e32d22f6,5,0,0,0,0,0.0,"[1, 3, 5, 15]",4.0,24,13,1,18,2,0,2,1,1,0,1,4.5,0,0,0,0,0,0,97,0,97,39,True,False,False,Right-arm medium-fast,Right-hand bat
+Puducherry,Marimuthu Vikneshwaran,ee2ac9d7,5,9,12,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,32,True,True,False,Right-arm medium,Right-hand bat
+Puducherry,S Santhosh Kumaran,e1d6a861,6,0,0,0,0,0.0,[16],0.667,4,0,0,11,2,0,0,0,0,0,1,16.49,0,0,0,0,0,0,0,0,0,26,True,True,False,Right-arm medium,Right-hand bat
+Puducherry,Fabid Ahmed,f705d984,6,15,15,1,0,100.0,"[2, 4, 12]",3.0,18,9,0,16,0,1,0,0,0,0,0,5.33,0,0,0,0,0,19,13,0,32,29,True,True,False,Right-arm offbreak,Right-hand bat
+Puducherry,Pratik Sargade,6a1fc8dd,7,0,0,0,0,0.0,"[9, 11, 14]",3.0,18,6,0,19,1,0,0,0,0,0,0,6.33,0,0,0,0,0,0,8,0,8,35,True,True,False,Slow left-arm orthodox,Left-hand bat
+Puducherry,P Thamaraikannan,df72675b,7,0,1,0,0,0.0,[7],1.0,6,1,0,6,0,0,0,0,0,0,0,6.0,0,0,0,0,0,-2,1,0,-1,32,True,True,False,Right-arm medium,Right-hand bat

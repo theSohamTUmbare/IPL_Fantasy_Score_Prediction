@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Austria,Iqbal Hossain,e1824e7d,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Austria,M Simpson-Parker,fecd828e,2,5,7,1,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17
-Austria,Razmal Shigiwal,60cc80ac,3,33,32,3,1,103.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,55,0,8,63
-Austria,A Randhawa,1798078c,4,9,21,1,0,42.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,7,0,0,7
-Austria,Shahil Momin,46821fbd,5,1,6,0,0,16.67,"[8, 10, 12, 15]",4.0,24,6,0,43,2,1,0,0,0,0,4,10.75,0,0,0,0,0,1,4,0,5
-Austria,Aqib Iqbal,14157abf,6,29,17,3,1,170.59,"[6, 14, 17, 20]",4.0,24,5,0,46,2,4,2,0,1,0,1,11.5,0,0,0,0,6,57,59,0,116
-Austria,Mirza Ahsan,6b74c13b,7,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Austria,MPS Cheema,97181d1b,8,10,17,1,0,58.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,10,0,0,10
-Austria,Abdullah Akbarjan,5de198db,9,1,4,0,0,25.0,"[7, 9, 11, 19]",4.0,24,4,0,31,1,1,1,0,1,0,2,7.75,0,0,0,0,0,1,37,0,38
-Austria,Sahel Zadran,dae28050,10,1,1,0,0,100.0,"[2, 4, 16, 18]",4.0,24,2,0,57,7,1,0,0,0,0,3,14.25,0,0,0,0,0,1,-4,0,-3
-Austria,A Nathwani,f1c4f2ea,11,0,1,0,0,0.0,"[1, 3, 5, 13]",4.0,24,7,0,45,6,2,1,0,0,0,0,11.25,0,0,0,0,0,-2,28,0,26
-Ireland,GR Adair,4ec96094,1,46,24,4,3,191.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,90,0,0,90
-Ireland,PR Stirling,cf494ffe,2,9,5,2,0,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
-Ireland,L Tucker,3979b5e0,3,94,51,8,4,184.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,168,0,16,184
-Ireland,HT Tector,59ea70a4,4,18,19,0,0,94.74,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
-Ireland,NA Rock,43f4087c,5,36,18,4,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,68,0,8,76
-Ireland,GH Dockrell,99cddc5e,6,9,3,0,1,300.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,15,0,8,23
-Ireland,C Campher,478a63e7,11,0,0,0,0,0.0,"[8, 16, 18]",3.0,18,9,0,18,1,1,2,0,2,0,1,6.0,1,0,0,0,0,0,77,8,85
-Ireland,MR Adair,fc55ec67,12,0,0,0,0,0.0,"[1, 5, 13, 19]",3.667,22,16,0,13,1,0,4,0,1,0,2,3.55,2,0,0,0,0,0,138,16,154
-Ireland,BJ McCarthy,3766056b,13,0,0,0,0,0.0,"[3, 6, 12, 17]",4.0,24,12,0,22,3,0,1,0,0,0,0,5.5,0,0,0,0,0,0,41,0,41
-Ireland,J Little,9061a703,14,0,0,0,0,0.0,"[2, 4, 10, 14]",4.0,24,16,0,16,1,1,2,0,0,0,1,4.0,0,0,0,0,0,0,72,0,72
-Ireland,B White,1a448be0,15,0,0,0,0,0.0,"[7, 9, 11, 15]",4.0,24,9,0,25,3,0,1,0,0,0,0,6.25,0,0,0,0,0,0,36,0,36
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Austria,Iqbal Hossain,e1824e7d,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,30,True,True,False,Right-arm offbreak,Right-hand bat
+Austria,M Simpson-Parker,fecd828e,2,5,7,1,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17,27,True,True,False,Right-arm medium,Right-hand bat
+Austria,Razmal Shigiwal,60cc80ac,3,33,32,3,1,103.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,55,0,8,63,26,True,True,False,Right-arm medium,Right-hand bat
+Austria,A Randhawa,1798078c,4,9,21,1,0,42.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,7,0,0,7,30,True,False,False,,
+Austria,Shahil Momin,46821fbd,5,1,6,0,0,16.67,"[8, 10, 12, 15]",4.0,24,6,0,43,2,1,0,0,0,0,4,10.75,0,0,0,0,0,1,4,0,5,34,True,True,False,Slow left-arm orthodox,Left-hand bat
+Austria,Aqib Iqbal,14157abf,6,29,17,3,1,170.59,"[6, 14, 17, 20]",4.0,24,5,0,46,2,4,2,0,1,0,1,11.5,0,0,0,0,6,57,59,0,116,27,True,True,False,Right-arm medium,Right-hand bat
+Austria,Mirza Ahsan,6b74c13b,7,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,36,True,True,False,Right-arm offbreak,Right-hand bat
+Austria,MPS Cheema,97181d1b,8,10,17,1,0,58.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,10,0,0,10,31,True,False,False,,Right-hand bat
+Austria,Abdullah Akbarjan,5de198db,9,1,4,0,0,25.0,"[7, 9, 11, 19]",4.0,24,4,0,31,1,1,1,0,1,0,2,7.75,0,0,0,0,0,1,37,0,38,35,True,True,False,Slow left-arm orthodox,Left-hand bat
+Austria,Sahel Zadran,dae28050,10,1,1,0,0,100.0,"[2, 4, 16, 18]",4.0,24,2,0,57,7,1,0,0,0,0,3,14.25,0,0,0,0,0,1,-4,0,-3,35,True,True,False,Right-arm medium,Right-hand bat
+Austria,A Nathwani,f1c4f2ea,11,0,1,0,0,0.0,"[1, 3, 5, 13]",4.0,24,7,0,45,6,2,1,0,0,0,0,11.25,0,0,0,0,0,-2,28,0,26,23,True,True,False,Right-arm offbreak,Right-hand bat
+Ireland,GR Adair,4ec96094,1,46,24,4,3,191.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,90,0,0,90,30,True,False,False,Slow left-arm orthodox,Right-hand bat
+Ireland,PR Stirling,cf494ffe,2,9,5,2,0,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,34,True,False,True,Right-arm offbreak,Right-hand bat
+Ireland,L Tucker,3979b5e0,3,94,51,8,4,184.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,168,0,16,184,28,True,False,False,,Right-hand bat
+Ireland,HT Tector,59ea70a4,4,18,19,0,0,94.74,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,25,True,False,False,Right-arm offbreak,Right-hand bat
+Ireland,NA Rock,43f4087c,5,36,18,4,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,68,0,8,76,24,True,False,False,,Left-hand bat
+Ireland,GH Dockrell,99cddc5e,6,9,3,0,1,300.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,15,0,8,23,32,True,False,True,Slow left-arm orthodox,Right-hand bat
+Ireland,C Campher,478a63e7,11,0,0,0,0,0.0,"[8, 16, 18]",3.0,18,9,0,18,1,1,2,0,2,0,1,6.0,1,0,0,0,0,0,77,8,85,25,True,False,True,Right-arm medium-fast,Right-hand bat
+Ireland,MR Adair,fc55ec67,12,0,0,0,0,0.0,"[1, 5, 13, 19]",3.667,22,16,0,13,1,0,4,0,1,0,2,3.55,2,0,0,0,0,0,138,16,154,29,True,False,True,Right-arm fast-medium,Right-hand bat
+Ireland,BJ McCarthy,3766056b,13,0,0,0,0,0.0,"[3, 6, 12, 17]",4.0,24,12,0,22,3,0,1,0,0,0,0,5.5,0,0,0,0,0,0,41,0,41,32,True,False,False,Right-arm fast-medium,Right-hand bat
+Ireland,J Little,9061a703,14,0,0,0,0,0.0,"[2, 4, 10, 14]",4.0,24,16,0,16,1,1,2,0,0,0,1,4.0,0,0,0,0,0,0,72,0,72,25,True,False,False,Left-arm fast-medium,Right-hand bat
+Ireland,B White,1a448be0,15,0,0,0,0,0.0,"[7, 9, 11, 15]",4.0,24,9,0,25,3,0,1,0,0,0,0,6.25,0,0,0,0,0,0,36,0,36,26,True,False,False,Legbreak,Right-hand bat

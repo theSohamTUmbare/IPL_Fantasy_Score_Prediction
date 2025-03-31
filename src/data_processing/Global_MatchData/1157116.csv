@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Goa,Sagun Kamat,8a58cc2a,1,50,39,4,2,128.21,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,86,0,0,86
-Goa,Amogh Desai,017e2f0d,2,12,17,1,1,70.59,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
-Goa,Amit Verma,3b30b8c4,3,23,20,2,1,115.0,"[9, 11]",2.0,12,1,0,17,2,0,0,0,0,0,0,8.5,0,0,0,0,0,37,1,0,38
-Goa,Krishna Das,2009e01b,4,0,0,0,0,0.0,"[1, 3, 13, 15]",4.0,24,13,0,14,1,0,1,0,1,0,0,3.5,0,0,0,0,0,0,52,0,52
-Goa,KA Vaz,2b126005,4,12,8,2,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,20,0,16,36
-Goa,Lakshay Garg,4af886ed,5,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,18,1,14,3,0,3,0,1,0,1,3.5,0,0,0,0,0,0,123,0,123
-Goa,Vijesh Prabhudessai,773bf733,6,0,0,0,0,0.0,"[5, 7, 12, 19]",4.0,24,13,0,23,1,1,1,0,0,0,2,5.75,1,0,0,0,0,0,42,8,50
-Goa,Darshan Misal,ce2b42ae,7,0,0,0,0,0.0,"[6, 8, 14, 17]",4.0,24,11,0,19,2,0,2,0,1,0,1,4.75,1,0,1,0,0,0,75,20,95
-Goa,Amulya Pandrekar,47ccd2bb,8,0,0,0,0,0.0,"[10, 16]",2.0,12,4,0,7,0,0,0,0,0,0,1,3.5,0,0,0,0,0,0,10,0,10
-Goa,SS Prabhudessai,9385de2e,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Goa,Snehal Kauthankar,3a0dc16e,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Sikkim,Bibek Diyali,54d9489d,1,22,24,2,1,91.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,36,0,0,36
-Sikkim,Nilesh Lamichaney,dc501d26,2,6,15,1,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,4,0,0,4
-Sikkim,Ashish Thapa,60c6038a,3,12,20,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,10,0,0,10
-Sikkim,Milind Kumar,b4296080,4,16,15,2,0,106.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
-Sikkim,KN Luitel,d6e2a10e,4,0,0,0,0,0.0,"[10, 12]",2.0,12,4,0,16,1,1,1,0,0,0,0,8.0,1,0,0,0,0,0,29,8,37
-Sikkim,Bipul Sharma,c18496e1,5,2,4,0,0,50.0,"[1, 3, 5, 7]",4.0,24,15,0,15,0,1,0,0,0,0,0,3.75,0,0,0,0,0,2,21,0,23
-Sikkim,Lee Yong Lepcha,dd967d0d,6,1,4,0,0,25.0,"[9, 11, 13]",3.0,18,5,0,25,2,0,0,0,0,0,5,8.33,0,0,0,0,0,1,5,0,6
-Sikkim,Palzor Tamang,61a3c20c,7,19,17,3,0,111.76,[14],1.0,6,1,0,17,2,1,0,0,0,0,1,17.0,0,0,0,0,0,31,1,0,32
-Sikkim,Mandup Bhutia,2c06dca9,8,8,13,1,0,61.54,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,10,0,8,18
-Sikkim,Ishwar Chaudhary,fe473dc2,9,3,6,0,0,50.0,"[2, 4, 6, 8]",4.0,24,11,0,31,4,1,1,0,0,0,1,7.75,0,0,0,0,0,3,36,0,39
-Sikkim,Amos Rai,821403b6,10,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Goa,Sagun Kamat,8a58cc2a,1,50,39,4,2,128.21,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,86,0,0,86,41,True,False,False,Legbreak,Left-hand bat
+Goa,Amogh Desai,017e2f0d,2,12,17,1,1,70.59,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,32,True,True,False,Right-arm offbreak,Right-hand bat
+Goa,Amit Verma,3b30b8c4,3,23,20,2,1,115.0,"[9, 11]",2.0,12,1,0,17,2,0,0,0,0,0,0,8.5,0,0,0,0,0,37,1,0,38,37,True,False,True,Legbreak,Left-hand bat
+Goa,Krishna Das,2009e01b,4,0,0,0,0,0.0,"[1, 3, 13, 15]",4.0,24,13,0,14,1,0,1,0,1,0,0,3.5,0,0,0,0,0,0,52,0,52,34,True,True,False,Right-arm medium,Right-hand bat
+Goa,KA Vaz,2b126005,4,12,8,2,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,20,0,16,36,33,True,False,False,,Right-hand bat
+Goa,Lakshay Garg,4af886ed,5,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,18,1,14,3,0,3,0,1,0,1,3.5,0,0,0,0,0,0,123,0,123,29,True,False,True,Right-arm medium,Right-hand bat
+Goa,Vijesh Prabhudessai,773bf733,6,0,0,0,0,0.0,"[5, 7, 12, 19]",4.0,24,13,0,23,1,1,1,0,0,0,2,5.75,1,0,0,0,0,0,42,8,50,28,True,True,False,Right-arm medium,Right-hand bat
+Goa,Darshan Misal,ce2b42ae,7,0,0,0,0,0.0,"[6, 8, 14, 17]",4.0,24,11,0,19,2,0,2,0,1,0,1,4.75,1,0,1,0,0,0,75,20,95,32,True,False,True,Slow left-arm orthodox,Left-hand bat
+Goa,Amulya Pandrekar,47ccd2bb,8,0,0,0,0,0.0,"[10, 16]",2.0,12,4,0,7,0,0,0,0,0,0,1,3.5,0,0,0,0,0,0,10,0,10,28,True,True,False,Slow left-arm orthodox,Left-hand bat
+Goa,SS Prabhudessai,9385de2e,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,27,True,False,True,Right-arm medium,Right-hand bat
+Goa,Snehal Kauthankar,3a0dc16e,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,29,True,False,False,Right-arm offbreak,Right-hand bat
+Sikkim,Bibek Diyali,54d9489d,1,22,24,2,1,91.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,36,0,0,36,35,True,False,False,,Right-hand bat
+Sikkim,Nilesh Lamichaney,dc501d26,2,6,15,1,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,4,0,0,4,33,True,True,False,Legbreak googly,Right-hand bat
+Sikkim,Ashish Thapa,60c6038a,3,12,20,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,10,0,0,10,31,True,True,False,Right-arm medium,Right-hand bat
+Sikkim,Milind Kumar,b4296080,4,16,15,2,0,106.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24,34,True,False,True,Right-arm offbreak,Right-hand bat
+Sikkim,KN Luitel,d6e2a10e,4,0,0,0,0,0.0,"[10, 12]",2.0,12,4,0,16,1,1,1,0,0,0,0,8.0,1,0,0,0,0,0,29,8,37,31,True,True,False,Left-arm medium,Left-hand bat
+Sikkim,Bipul Sharma,c18496e1,5,2,4,0,0,50.0,"[1, 3, 5, 7]",4.0,24,15,0,15,0,1,0,0,0,0,0,3.75,0,0,0,0,0,2,21,0,23,41,True,False,True,Slow left-arm orthodox,Left-hand bat
+Sikkim,Lee Yong Lepcha,dd967d0d,6,1,4,0,0,25.0,"[9, 11, 13]",3.0,18,5,0,25,2,0,0,0,0,0,5,8.33,0,0,0,0,0,1,5,0,6,33,True,True,False,Right-arm offbreak,Right-hand bat
+Sikkim,Palzor Tamang,61a3c20c,7,19,17,3,0,111.76,[14],1.0,6,1,0,17,2,1,0,0,0,0,1,17.0,0,0,0,0,0,31,1,0,32,32,True,True,False,Right-arm medium,Right-hand bat
+Sikkim,Mandup Bhutia,2c06dca9,8,8,13,1,0,61.54,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,10,0,8,18,30,True,True,False,Right-arm medium,Right-hand bat
+Sikkim,Ishwar Chaudhary,fe473dc2,9,3,6,0,0,50.0,"[2, 4, 6, 8]",4.0,24,11,0,31,4,1,1,0,0,0,1,7.75,0,0,0,0,0,3,36,0,39,36,True,True,False,Right-arm fast-medium,Right-hand bat
+Sikkim,Amos Rai,821403b6,10,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,40,True,False,False,Legbreak googly,Right-hand bat

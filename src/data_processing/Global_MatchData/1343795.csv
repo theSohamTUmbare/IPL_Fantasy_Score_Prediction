@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Cameroon,I Tchakou,4d2b96b4,1,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Cameroon,CB Ondoa,b3179e21,2,2,16,0,0,12.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-4,0,0,-4
-Cameroon,P Abanda,90a8dfec,3,2,10,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-4,0,0,-4
-Cameroon,BN Toube,75f3aa00,4,0,3,0,0,0.0,"[2, 4, 14, 18]",4.0,24,8,0,37,6,0,2,0,0,0,0,9.25,0,0,0,0,0,-2,58,0,56
-Cameroon,AR Balla,4b83e65a,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Cameroon,AN Toube,7f929ebe,6,0,7,0,0,0.0,"[1, 3, 10, 12]",4.0,24,6,0,46,4,2,0,0,0,1,0,11.5,2,0,0,0,0,-2,2,16,16
-Cameroon,RGA Amah,90f9aedf,7,20,16,2,1,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34
-Cameroon,JB Abega,b7abb123,8,1,3,0,0,33.33,"[5, 7, 15, 19]",4.0,24,5,0,47,6,1,1,1,0,0,4,11.75,0,0,0,0,0,1,34,0,35
-Cameroon,N Ndouteng,25640e61,9,1,4,0,0,25.0,"[6, 8, 16, 20]",4.0,24,5,0,58,9,1,2,0,1,0,0,14.5,0,0,0,0,0,1,57,0,58
-Cameroon,AB Mengoumou,8ad3d034,10,0,6,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Cameroon,RD Atangana,490f475a,11,1,6,0,0,16.67,"[9, 11, 13, 17]",4.0,24,8,0,24,1,0,1,0,1,0,0,6.0,0,0,0,0,0,1,43,0,44
-Tanzania,AR Patwa,b43f7a6a,1,33,16,6,0,206.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,67,0,0,67
-Tanzania,II Selemani,b2dadc51,2,71,39,8,3,182.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,135,0,0,135
-Tanzania,S Thakor,0848ac5f,3,6,5,1,0,120.0,"[5, 7, 9, 11]",4.0,24,20,1,5,0,0,4,1,1,0,1,1.25,0,0,0,0,0,10,162,0,172
-Tanzania,MO Kitunda,badef0dc,4,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
-Tanzania,AP Rajeevan,63d6f031,5,30,29,2,0,103.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,42,0,0,42
-Tanzania,K Nassoro,29ee9bf9,6,44,19,6,0,231.58,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,78,0,8,86
-Tanzania,Akhil Anil,c06c25fd,7,9,4,2,0,225.0,"[1, 3, 10, 12]",4.0,24,12,0,21,1,1,0,0,0,0,2,5.25,0,0,0,0,0,17,16,0,33
-Tanzania,M Yunusu Issa,bbab35a3,8,11,3,1,1,366.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
-Tanzania,YM Nkanya,9238dd92,11,0,0,0,0,0.0,"[2, 4, 6, 8]",4.0,24,22,2,2,0,0,5,1,2,0,0,0.5,0,0,0,0,0,0,213,0,213
-Tanzania,AM Kimote,34e36b65,12,0,0,0,0,0.0,[13],0.5,3,2,0,4,1,0,1,0,1,0,0,8.0,1,0,0,0,0,0,35,8,43
-Tanzania,JJ Nyambo,ffb3b559,13,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Cameroon,I Tchakou,4d2b96b4,1,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,32,True,True,False,Right-arm medium-fast,Right-hand bat
+Cameroon,CB Ondoa,b3179e21,2,2,16,0,0,12.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-4,0,0,-4,42,True,False,False,,Right-hand bat
+Cameroon,P Abanda,90a8dfec,3,2,10,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-4,0,0,-4,40,True,True,False,Right-arm medium-fast,Right-hand bat
+Cameroon,BN Toube,75f3aa00,4,0,3,0,0,0.0,"[2, 4, 14, 18]",4.0,24,8,0,37,6,0,2,0,0,0,0,9.25,0,0,0,0,0,-2,58,0,56,29,True,True,False,Right-arm medium-fast,Right-hand bat
+Cameroon,AR Balla,4b83e65a,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Cameroon,AN Toube,7f929ebe,6,0,7,0,0,0.0,"[1, 3, 10, 12]",4.0,24,6,0,46,4,2,0,0,0,1,0,11.5,2,0,0,0,0,-2,2,16,16,28,True,False,False,,Right-hand bat
+Cameroon,RGA Amah,90f9aedf,7,20,16,2,1,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34,44,True,True,False,Right-arm offbreak,Right-hand bat
+Cameroon,JB Abega,b7abb123,8,1,3,0,0,33.33,"[5, 7, 15, 19]",4.0,24,5,0,47,6,1,1,1,0,0,4,11.75,0,0,0,0,0,1,34,0,35,38,True,True,False,Right-arm medium,Right-hand bat
+Cameroon,N Ndouteng,25640e61,9,1,4,0,0,25.0,"[6, 8, 16, 20]",4.0,24,5,0,58,9,1,2,0,1,0,0,14.5,0,0,0,0,0,1,57,0,58,37,True,True,False,Right-arm medium-fast,Right-hand bat
+Cameroon,AB Mengoumou,8ad3d034,10,0,6,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,20,True,True,False,Right-arm medium-fast,Right-hand bat
+Cameroon,RD Atangana,490f475a,11,1,6,0,0,16.67,"[9, 11, 13, 17]",4.0,24,8,0,24,1,0,1,0,1,0,0,6.0,0,0,0,0,0,1,43,0,44,24,True,False,False,Left-arm medium-fast,Right-hand bat
+Tanzania,AR Patwa,b43f7a6a,1,33,16,6,0,206.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,67,0,0,67,38,True,False,False,Right-arm offbreak,Right-hand bat
+Tanzania,II Selemani,b2dadc51,2,71,39,8,3,182.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,135,0,0,135,24,True,True,False,Right-arm offbreak,Right-hand bat
+Tanzania,S Thakor,0848ac5f,3,6,5,1,0,120.0,"[5, 7, 9, 11]",4.0,24,20,1,5,0,0,4,1,1,0,1,1.25,0,0,0,0,0,10,162,0,172,34,True,True,False,Legbreak,Right-hand bat
+Tanzania,MO Kitunda,badef0dc,4,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,25,True,True,False,Right-arm bowler,Right-hand bat
+Tanzania,AP Rajeevan,63d6f031,5,30,29,2,0,103.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,42,0,0,42,27,True,False,False,,Right-hand bat
+Tanzania,K Nassoro,29ee9bf9,6,44,19,6,0,231.58,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,78,0,8,86,36,True,True,False,Right-arm offbreak,Right-hand bat
+Tanzania,Akhil Anil,c06c25fd,7,9,4,2,0,225.0,"[1, 3, 10, 12]",4.0,24,12,0,21,1,1,0,0,0,0,2,5.25,0,0,0,0,0,17,16,0,33,27,True,True,False,Right-arm offbreak,Left-hand bat
+Tanzania,M Yunusu Issa,bbab35a3,8,11,3,1,1,366.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21,23,True,True,False,Right-arm medium,Right-hand bat
+Tanzania,YM Nkanya,9238dd92,11,0,0,0,0,0.0,"[2, 4, 6, 8]",4.0,24,22,2,2,0,0,5,1,2,0,0,0.5,0,0,0,0,0,0,213,0,213,21,True,True,False,Slow left-arm orthodox,Right-hand bat
+Tanzania,AM Kimote,34e36b65,12,0,0,0,0,0.0,[13],0.5,3,2,0,4,1,0,1,0,1,0,0,8.0,1,0,0,0,0,0,35,8,43,32,True,True,False,Right-arm medium,Right-hand bat
+Tanzania,JJ Nyambo,ffb3b559,13,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,19,True,True,False,Right-arm medium-fast,Right-hand bat

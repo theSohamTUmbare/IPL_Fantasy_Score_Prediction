@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Northamptonshire,RE Levi,18c78b11,1,39,27,3,3,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,75,0,0,75
-Northamptonshire,BM Duckett,5f26f677,2,25,16,3,1,156.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,51,0,0,51
-Northamptonshire,JJ Cobb,58c481c6,3,7,10,0,0,70.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,5,0,8,13
-Northamptonshire,AG Wakely,730d120f,4,28,22,2,1,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,46,0,0,46
-Northamptonshire,KJ Coetzer,85d8110a,5,6,8,0,0,75.0,[10],1.0,6,0,0,19,1,2,0,0,0,0,0,19.0,0,0,0,0,0,6,0,0,6
-Northamptonshire,SP Crook,c4450a69,6,33,12,3,3,275.0,[7],1.0,6,0,0,13,0,1,0,0,0,0,0,13.0,0,0,0,0,6,73,0,0,73
-Northamptonshire,S Prasanna,f78e7113,7,12,8,1,1,150.0,"[5, 9]",2.0,12,0,0,33,5,1,0,0,0,0,0,16.5,0,0,0,0,0,22,-6,0,16
-Northamptonshire,RK Kleinveldt,7955eb15,8,15,5,2,1,300.0,"[1, 6]",2.0,12,2,0,34,4,2,0,0,0,2,0,17.0,0,0,0,0,0,29,-4,0,25
-Northamptonshire,GG White,0f21680d,9,8,5,1,0,160.0,[8],1.0,6,1,0,19,1,2,0,0,0,0,1,19.0,0,0,0,0,0,12,1,0,13
-Northamptonshire,NL Buck,5239d782,10,4,6,0,0,66.67,"[3, 12, 14]",2.167,13,4,0,33,1,4,0,0,0,0,0,15.23,0,0,0,0,0,4,-2,0,2
-Northamptonshire,RJ Gleeson,402f8494,11,2,1,0,0,200.0,"[2, 4, 11, 13]",4.0,24,12,0,37,5,1,1,0,0,0,2,9.25,0,0,0,0,0,2,37,0,39
-Worcestershire,MJ Guptill,2be41edb,1,102,37,12,7,275.68,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,214,0,8,222
-Worcestershire,JM Clarke,2eca67f5,2,61,33,4,4,184.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,115,0,8,123
-Worcestershire,MM Ali,bb351c23,3,0,0,0,0,0.0,"[9, 11, 13, 16]",4.0,24,4,0,45,4,2,2,0,0,2,0,11.25,0,0,0,0,0,0,50,0,50
-Worcestershire,TM Head,12b610c2,3,20,9,1,2,222.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,36,0,8,44
-Worcestershire,BL D'Oliveira,9679838c,4,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,7,0,31,1,2,1,0,0,0,0,7.75,0,0,0,0,0,0,32,0,32
-Worcestershire,OB Cox,324a6ee1,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Worcestershire,RA Whiteley,d346d939,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Worcestershire,EG Barnard,a510bdd3,7,0,0,0,0,0.0,"[5, 7, 15, 18]",4.0,24,8,0,38,4,2,2,0,0,0,2,9.5,3,0,0,0,0,0,58,28,86
-Worcestershire,L Wood,65b6943c,8,0,0,0,0,0.0,"[1, 3, 19]",3.0,18,9,0,25,2,2,1,0,1,0,0,8.33,0,0,0,0,0,0,42,0,42
-Worcestershire,PR Brown,1efd12d1,9,0,0,0,0,0.0,"[6, 17, 20]",3.0,18,8,0,31,3,2,3,0,0,0,0,10.33,1,0,0,0,0,0,85,8,93
-Worcestershire,A Carter,6fe2c1c0,10,0,0,0,0,0.0,"[2, 4]",2.0,12,3,0,15,1,0,0,0,0,2,0,7.5,0,0,0,0,0,0,3,0,3
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Northamptonshire,RE Levi,18c78b11,1,39,27,3,3,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,75,0,0,75,37,True,False,False,Right-arm medium,Right-hand bat
+Northamptonshire,BM Duckett,5f26f677,2,25,16,3,1,156.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,51,0,0,51,30,True,False,False,Right-arm offbreak,Left-hand bat
+Northamptonshire,JJ Cobb,58c481c6,3,7,10,0,0,70.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,5,0,8,13,34,True,False,True,Right-arm offbreak,Right-hand bat
+Northamptonshire,AG Wakely,730d120f,4,28,22,2,1,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,46,0,0,46,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Northamptonshire,KJ Coetzer,85d8110a,5,6,8,0,0,75.0,[10],1.0,6,0,0,19,1,2,0,0,0,0,0,19.0,0,0,0,0,0,6,0,0,6,40,True,False,False,Right-arm medium-fast,Right-hand bat
+Northamptonshire,SP Crook,c4450a69,6,33,12,3,3,275.0,[7],1.0,6,0,0,13,0,1,0,0,0,0,0,13.0,0,0,0,0,6,73,0,0,73,41,True,False,True,Right-arm fast-medium,Right-hand bat
+Northamptonshire,S Prasanna,f78e7113,7,12,8,1,1,150.0,"[5, 9]",2.0,12,0,0,33,5,1,0,0,0,0,0,16.5,0,0,0,0,0,22,-6,0,16,39,True,False,True,Legbreak,Right-hand bat
+Northamptonshire,RK Kleinveldt,7955eb15,8,15,5,2,1,300.0,"[1, 6]",2.0,12,2,0,34,4,2,0,0,0,2,0,17.0,0,0,0,0,0,29,-4,0,25,42,True,False,False,Right-arm fast-medium,Right-hand bat
+Northamptonshire,GG White,0f21680d,9,8,5,1,0,160.0,[8],1.0,6,1,0,19,1,2,0,0,0,0,1,19.0,0,0,0,0,0,12,1,0,13,37,True,False,False,Slow left-arm orthodox,Right-hand bat
+Northamptonshire,NL Buck,5239d782,10,4,6,0,0,66.67,"[3, 12, 14]",2.167,13,4,0,33,1,4,0,0,0,0,0,15.23,0,0,0,0,0,4,-2,0,2,33,True,False,False,Right-arm medium-fast,Right-hand bat
+Northamptonshire,RJ Gleeson,402f8494,11,2,1,0,0,200.0,"[2, 4, 11, 13]",4.0,24,12,0,37,5,1,1,0,0,0,2,9.25,0,0,0,0,0,2,37,0,39,37,True,False,False,Right-arm fast-medium,Right-hand bat
+Worcestershire,MJ Guptill,2be41edb,1,102,37,12,7,275.68,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,214,0,8,222,38,True,False,False,Right-arm offbreak,Right-hand bat
+Worcestershire,JM Clarke,2eca67f5,2,61,33,4,4,184.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,115,0,8,123,28,True,False,False,,Right-hand bat
+Worcestershire,MM Ali,bb351c23,3,0,0,0,0,0.0,"[9, 11, 13, 16]",4.0,24,4,0,45,4,2,2,0,0,2,0,11.25,0,0,0,0,0,0,50,0,50,37,True,False,True,Right-arm offbreak,Left-hand bat
+Worcestershire,TM Head,12b610c2,3,20,9,1,2,222.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,36,0,8,44,31,True,False,False,Right-arm offbreak,Left-hand bat
+Worcestershire,BL D'Oliveira,9679838c,4,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,7,0,31,1,2,1,0,0,0,0,7.75,0,0,0,0,0,0,32,0,32,33,True,False,True,Legbreak,Right-hand bat
+Worcestershire,OB Cox,324a6ee1,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,33,True,False,False,,Right-hand bat
+Worcestershire,RA Whiteley,d346d939,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,36,True,False,False,Left-arm medium,Left-hand bat
+Worcestershire,EG Barnard,a510bdd3,7,0,0,0,0,0.0,"[5, 7, 15, 18]",4.0,24,8,0,38,4,2,2,0,0,0,2,9.5,3,0,0,0,0,0,58,28,86,29,True,False,True,Right-arm fast-medium,Right-hand bat
+Worcestershire,L Wood,65b6943c,8,0,0,0,0,0.0,"[1, 3, 19]",3.0,18,9,0,25,2,2,1,0,1,0,0,8.33,0,0,0,0,0,0,42,0,42,29,True,False,False,Left-arm fast-medium,Left-hand bat
+Worcestershire,PR Brown,1efd12d1,9,0,0,0,0,0.0,"[6, 17, 20]",3.0,18,8,0,31,3,2,3,0,0,0,0,10.33,1,0,0,0,0,0,85,8,93,26,True,False,False,Right-arm fast-medium,Right-hand bat
+Worcestershire,A Carter,6fe2c1c0,10,0,0,0,0,0.0,"[2, 4]",2.0,12,3,0,15,1,0,0,0,0,2,0,7.5,0,0,0,0,0,0,3,0,3,36,True,True,False,Right-arm medium,Right-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Chennai Super Kings,PA Patel,b5da6c24,1,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Chennai Super Kings,ML Hayden,d8699ab7,2,49,33,8,0,148.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,87,0,0,87
-Chennai Super Kings,SK Raina,1dc12ab9,3,25,19,1,2,131.58,"[6, 8, 10, 12]",4.0,24,10,0,18,1,0,2,0,0,0,0,4.5,0,0,0,0,2,47,66,0,113
-Chennai Super Kings,MS Dhoni,4a8a2e3b,4,22,22,1,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,32,0,8,40
-Chennai Super Kings,JDP Oram,3eac9d95,5,41,28,4,2,146.43,"[13, 15, 18]",3.0,18,3,0,28,2,1,0,0,0,0,0,9.33,1,0,0,0,2,75,3,8,86
-Chennai Super Kings,JA Morkel,c3d35165,6,13,7,1,1,185.71,"[4, 17, 19]",3.0,18,3,0,29,1,1,0,0,0,5,0,9.67,0,0,0,0,0,23,3,0,26
-Chennai Super Kings,Joginder Sharma,9f961c14,6,0,0,0,0,0.0,[11],1.0,6,0,0,14,1,1,0,0,0,0,0,14.0,0,0,0,0,0,0,0,0,0
-Chennai Super Kings,S Badrinath,3576e47e,7,8,9,1,0,88.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
-Chennai Super Kings,L Balaji,b2b50355,7,0,0,0,0,0.0,"[1, 3, 14, 20]",3.5,21,9,0,41,4,3,1,0,0,0,1,11.71,0,0,0,0,0,0,30,0,30
-Chennai Super Kings,M Muralitharan,4ba44e19,8,0,0,0,0,0.0,"[5, 7, 9, 16]",4.0,24,11,0,17,1,0,1,1,0,0,1,4.25,1,0,0,0,0,0,50,8,58
-Chennai Super Kings,MS Gony,ae78bc32,8,0,0,0,0,0.0,[2],1.0,6,1,0,20,3,1,0,0,0,0,1,20.0,0,0,0,0,0,0,1,0,1
-Deccan Chargers,AC Gilchrist,2b6e6dec,1,44,19,5,3,231.58,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,92,0,8,100
-Deccan Chargers,HH Gibbs,e1d1b294,2,69,55,6,2,125.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,113,0,0,113
-Deccan Chargers,VVS Laxman,de8cce37,3,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
-Deccan Chargers,RG Sharma,740742ef,4,18,19,0,1,94.74,"[7, 9, 15]",3.0,18,6,0,18,2,0,1,0,0,0,0,6.0,2,0,0,0,0,24,33,16,73
-Deccan Chargers,DR Smith,35205dfc,5,12,5,1,1,240.0,[5],1.0,6,0,0,17,2,1,0,0,0,0,0,17.0,0,0,0,0,0,22,0,0,22
-Deccan Chargers,AA Bilakhia,bff458c6,6,12,14,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
-Deccan Chargers,Y Venugopal Rao,fe763256,6,0,0,0,0,0.0,"[6, 8, 10, 17]",4.0,24,6,0,35,2,2,1,0,0,0,1,8.75,0,0,0,0,0,0,31,0,31
-Deccan Chargers,PP Ojha,6c6591ab,7,0,0,0,0,0.0,"[11, 13]",2.0,12,4,0,11,1,0,2,0,0,0,0,5.5,0,0,0,0,0,0,58,0,58
-Deccan Chargers,RP Singh,c3d1402f,8,0,0,0,0,0.0,"[2, 4, 20]",3.0,18,9,0,32,4,1,1,0,0,3,2,10.67,2,0,0,0,0,0,32,16,48
-Deccan Chargers,FH Edwards,a7c226e1,9,0,0,0,0,0.0,"[1, 3, 14, 19]",4.0,24,15,0,21,3,0,1,0,0,0,0,5.25,0,0,0,0,0,0,44,0,44
-Deccan Chargers,Shoaib Ahmed,8a668774,10,0,0,0,0,0.0,"[12, 16, 18]",3.0,18,5,0,31,2,2,0,0,0,0,1,10.33,1,0,0,0,0,0,3,8,11
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Chennai Super Kings,PA Patel,b5da6c24,1,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,40,True,True,False,Right-arm offbreak,Left-hand bat
+Chennai Super Kings,ML Hayden,d8699ab7,2,49,33,8,0,148.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,87,0,0,87,53,True,False,False,Right-arm medium,Left-hand bat
+Chennai Super Kings,SK Raina,1dc12ab9,3,25,19,1,2,131.58,"[6, 8, 10, 12]",4.0,24,10,0,18,1,0,2,0,0,0,0,4.5,0,0,0,0,2,47,66,0,113,38,True,False,False,Right-arm offbreak,Left-hand bat
+Chennai Super Kings,MS Dhoni,4a8a2e3b,4,22,22,1,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,32,0,8,40,43,True,True,False,Right-arm medium,Right-hand bat
+Chennai Super Kings,JDP Oram,3eac9d95,5,41,28,4,2,146.43,"[13, 15, 18]",3.0,18,3,0,28,2,1,0,0,0,0,0,9.33,1,0,0,0,2,75,3,8,86,46,True,False,True,Right-arm fast-medium,Left-hand bat
+Chennai Super Kings,JA Morkel,c3d35165,6,13,7,1,1,185.71,"[4, 17, 19]",3.0,18,3,0,29,1,1,0,0,0,5,0,9.67,0,0,0,0,0,23,3,0,26,43,True,False,True,Right-arm medium-fast,Left-hand bat
+Chennai Super Kings,Joginder Sharma,9f961c14,6,0,0,0,0,0.0,[11],1.0,6,0,0,14,1,1,0,0,0,0,0,14.0,0,0,0,0,0,0,0,0,0,41,True,False,True,Right-arm fast-medium,Right-hand bat
+Chennai Super Kings,S Badrinath,3576e47e,7,8,9,1,0,88.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,44,True,False,False,Right-arm offbreak,Right-hand bat
+Chennai Super Kings,L Balaji,b2b50355,7,0,0,0,0,0.0,"[1, 3, 14, 20]",3.5,21,9,0,41,4,3,1,0,0,0,1,11.71,0,0,0,0,0,0,30,0,30,43,True,False,False,Right-arm medium-fast,Right-hand bat
+Chennai Super Kings,M Muralitharan,4ba44e19,8,0,0,0,0,0.0,"[5, 7, 9, 16]",4.0,24,11,0,17,1,0,1,1,0,0,1,4.25,1,0,0,0,0,0,50,8,58,52,True,False,False,Right-arm offbreak,Right-hand bat
+Chennai Super Kings,MS Gony,ae78bc32,8,0,0,0,0,0.0,[2],1.0,6,1,0,20,3,1,0,0,0,0,1,20.0,0,0,0,0,0,0,1,0,1,41,True,False,False,Right-arm medium,Right-hand bat
+Deccan Chargers,AC Gilchrist,2b6e6dec,1,44,19,5,3,231.58,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,92,0,8,100,53,True,True,False,Right-arm offbreak,Left-hand bat
+Deccan Chargers,HH Gibbs,e1d1b294,2,69,55,6,2,125.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,113,0,0,113,51,True,False,False,Right-arm bowler,Right-hand bat
+Deccan Chargers,VVS Laxman,de8cce37,3,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,50,True,False,False,Right-arm offbreak,Right-hand bat
+Deccan Chargers,RG Sharma,740742ef,4,18,19,0,1,94.74,"[7, 9, 15]",3.0,18,6,0,18,2,0,1,0,0,0,0,6.0,2,0,0,0,0,24,33,16,73,37,True,False,False,Right-arm offbreak,Right-hand bat
+Deccan Chargers,DR Smith,35205dfc,5,12,5,1,1,240.0,[5],1.0,6,0,0,17,2,1,0,0,0,0,0,17.0,0,0,0,0,0,22,0,0,22,41,True,False,True,Right-arm medium,Right-hand bat
+Deccan Chargers,AA Bilakhia,bff458c6,6,12,14,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,38,True,True,False,Right-arm medium,Right-hand bat
+Deccan Chargers,Y Venugopal Rao,fe763256,6,0,0,0,0,0.0,"[6, 8, 10, 17]",4.0,24,6,0,35,2,2,1,0,0,0,1,8.75,0,0,0,0,0,0,31,0,31,43,True,False,False,Right-arm offbreak,Right-hand bat
+Deccan Chargers,PP Ojha,6c6591ab,7,0,0,0,0,0.0,"[11, 13]",2.0,12,4,0,11,1,0,2,0,0,0,0,5.5,0,0,0,0,0,0,58,0,58,38,True,False,False,Slow left-arm orthodox,Left-hand bat
+Deccan Chargers,RP Singh,c3d1402f,8,0,0,0,0,0.0,"[2, 4, 20]",3.0,18,9,0,32,4,1,1,0,0,3,2,10.67,2,0,0,0,0,0,32,16,48,39,True,False,False,Left-arm fast-medium,Right-hand bat
+Deccan Chargers,FH Edwards,a7c226e1,9,0,0,0,0,0.0,"[1, 3, 14, 19]",4.0,24,15,0,21,3,0,1,0,0,0,0,5.25,0,0,0,0,0,0,44,0,44,43,True,False,False,Right-arm fast,Right-hand bat
+Deccan Chargers,Shoaib Ahmed,8a668774,10,0,0,0,0,0.0,"[12, 16, 18]",3.0,18,5,0,31,2,2,0,0,0,0,1,10.33,1,0,0,0,0,0,3,8,11,37,True,True,False,Right-arm fast-medium,Right-hand bat

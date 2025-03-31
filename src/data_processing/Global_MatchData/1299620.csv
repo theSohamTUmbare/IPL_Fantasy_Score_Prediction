@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Knights,CP Klijnhans,d50fba28,1,6,10,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,-2,4,0,28,32
-Knights,GJ Snyman,a3ae63f4,2,20,21,3,0,95.24,"[3, 7, 9]",3.0,18,6,0,21,1,1,0,0,0,0,0,7.0,0,0,0,0,0,32,8,0,40
-Knights,R van Tonder,0ba03cec,3,1,9,0,0,11.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Knights,PJ van Biljon,4025c262,4,40,35,3,1,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,62,0,0,62
-Knights,F Behardien,dce2019b,5,6,6,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6
-Knights,M Budaza,1d105638,6,0,0,0,0,0.0,"[6, 8, 12, 16]",3.833,23,6,0,34,4,0,1,0,0,0,5,8.87,0,0,0,0,0,0,31,0,31
-Knights,PE Kruger,39181592,6,34,21,2,2,161.9,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,62,0,0,62
-Knights,M Mosehle,8836fcac,7,9,9,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
-Knights,G Coetzee,3204c99f,8,1,2,0,0,50.0,"[1, 4, 10, 14]",4.0,24,7,0,31,1,2,1,0,0,0,2,7.75,0,0,0,0,0,1,32,0,33
-Knights,N van Heerden,ad19dda3,9,4,7,0,0,57.14,[11],1.0,6,0,0,12,2,0,0,0,0,0,0,12.0,0,0,0,0,0,4,0,0,4
-Knights,SA Mothoa,ea1eba98,10,0,0,0,0,0.0,"[2, 5, 13, 15]",4.0,24,8,0,30,1,2,2,0,0,0,0,7.5,0,0,0,0,0,0,58,0,58
-Western Province,RE Levi,18c78b11,1,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
-Western Province,JA Bird,572f55fb,2,43,35,2,3,122.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,73,0,0,73
-Western Province,T de Zorzi,d3a1c63d,3,41,27,5,0,151.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,69,0,0,69
-Western Province,DJ Vilas,087210b1,4,21,13,1,1,161.54,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,35,0,8,43
-Western Province,GF Linde,e5437608,5,10,10,0,1,100.0,"[6, 8, 10, 12]",4.0,24,8,0,28,2,1,1,0,0,0,0,7.0,0,0,0,0,0,16,35,0,51
-Western Province,WD Parnell,3a60e0b5,6,0,0,0,0,0.0,"[2, 4, 16, 20]",4.0,24,13,1,16,1,0,2,0,0,0,1,4.0,2,0,0,0,0,0,81,16,97
-Western Province,A Mgijima,955e8e86,6,4,5,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
-Western Province,M Mpongwana,547c5509,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Western Province,BE Hendricks,b56dc5f7,8,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,10,0,25,3,0,1,0,0,0,0,6.25,0,0,0,0,0,0,37,0,37
-Western Province,J Dawood,a2316f90,9,0,0,0,0,0.0,"[9, 11, 14, 18]",4.0,24,7,0,28,1,1,3,0,2,0,1,7.0,0,0,0,0,0,0,104,0,104
-Western Province,BD Walters,1e182ae2,10,0,0,0,0,0.0,"[5, 7, 13, 15]",4.0,24,7,0,28,1,1,1,0,0,0,2,7.0,1,0,0,0,0,0,34,8,42
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Knights,CP Klijnhans,d50fba28,1,6,10,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,-2,4,0,28,32,25,True,True,False,Left-arm medium,Left-hand bat
+Knights,GJ Snyman,a3ae63f4,2,20,21,3,0,95.24,"[3, 7, 9]",3.0,18,6,0,21,1,1,0,0,0,0,0,7.0,0,0,0,0,0,32,8,0,40,30,True,False,True,Right-arm offbreak,Right-hand bat
+Knights,R van Tonder,0ba03cec,3,1,9,0,0,11.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,26,True,False,False,,Right-hand bat
+Knights,PJ van Biljon,4025c262,4,40,35,3,1,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,62,0,0,62,38,True,True,False,Right-arm medium,Right-hand bat
+Knights,F Behardien,dce2019b,5,6,6,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6,41,True,False,True,Right-arm fast-medium,Right-hand bat
+Knights,M Budaza,1d105638,6,0,0,0,0,0.0,"[6, 8, 12, 16]",3.833,23,6,0,34,4,0,1,0,0,0,5,8.87,0,0,0,0,0,0,31,0,31,31,True,False,False,Left-arm fast,Right-hand bat
+Knights,PE Kruger,39181592,6,34,21,2,2,161.9,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,62,0,0,62,30,True,False,True,Right-arm medium,Right-hand bat
+Knights,M Mosehle,8836fcac,7,9,9,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,34,True,False,False,,Right-hand bat
+Knights,G Coetzee,3204c99f,8,1,2,0,0,50.0,"[1, 4, 10, 14]",4.0,24,7,0,31,1,2,1,0,0,0,2,7.75,0,0,0,0,0,1,32,0,33,24,True,False,False,Right-arm fast,Right-hand bat
+Knights,N van Heerden,ad19dda3,9,4,7,0,0,57.14,[11],1.0,6,0,0,12,2,0,0,0,0,0,0,12.0,0,0,0,0,0,4,0,0,4,28,True,False,False,Right-arm fast,Left-hand bat
+Knights,SA Mothoa,ea1eba98,10,0,0,0,0,0.0,"[2, 5, 13, 15]",4.0,24,8,0,30,1,2,2,0,0,0,0,7.5,0,0,0,0,0,0,58,0,58,35,True,False,False,Right-arm fast-medium,Right-hand bat
+Western Province,RE Levi,18c78b11,1,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,37,True,False,False,Right-arm medium,Right-hand bat
+Western Province,JA Bird,572f55fb,2,43,35,2,3,122.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,73,0,0,73,23,True,False,False,Left-arm wrist-spin,Left-hand bat
+Western Province,T de Zorzi,d3a1c63d,3,41,27,5,0,151.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,69,0,0,69,27,True,False,False,Right-arm offbreak,Left-hand bat
+Western Province,DJ Vilas,087210b1,4,21,13,1,1,161.54,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,35,0,8,43,39,True,False,False,,Right-hand bat
+Western Province,GF Linde,e5437608,5,10,10,0,1,100.0,"[6, 8, 10, 12]",4.0,24,8,0,28,2,1,1,0,0,0,0,7.0,0,0,0,0,0,16,35,0,51,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+Western Province,WD Parnell,3a60e0b5,6,0,0,0,0,0.0,"[2, 4, 16, 20]",4.0,24,13,1,16,1,0,2,0,0,0,1,4.0,2,0,0,0,0,0,81,16,97,35,True,False,False,Left-arm medium-fast,Left-hand bat
+Western Province,A Mgijima,955e8e86,6,4,5,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,36,True,False,True,Right-arm offbreak,Right-hand bat
+Western Province,M Mpongwana,547c5509,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,24,True,False,True,Right-arm medium,Right-hand bat
+Western Province,BE Hendricks,b56dc5f7,8,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,10,0,25,3,0,1,0,0,0,0,6.25,0,0,0,0,0,0,37,0,37,34,True,False,False,Left-arm fast-medium,Left-hand bat
+Western Province,J Dawood,a2316f90,9,0,0,0,0,0.0,"[9, 11, 14, 18]",4.0,24,7,0,28,1,1,3,0,2,0,1,7.0,0,0,0,0,0,0,104,0,104,28,True,False,False,Legbreak,Right-hand bat
+Western Province,BD Walters,1e182ae2,10,0,0,0,0,0.0,"[5, 7, 13, 15]",4.0,24,7,0,28,1,1,1,0,0,0,2,7.0,1,0,0,0,0,0,34,8,42,38,True,False,False,Right-arm medium-fast,Right-hand bat

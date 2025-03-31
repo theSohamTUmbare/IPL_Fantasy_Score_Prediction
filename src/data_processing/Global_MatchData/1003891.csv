@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Lions,HE van der Dussen,9948e262,1,45,18,3,4,250.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,91,0,0,91
-Lions,RR Hendricks,b8cc58c9,2,24,20,2,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,32,0,8,40
-Lions,M Mosehle,8836fcac,3,11,8,0,1,137.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
-Lions,T Bavuma,9ffd1ac1,4,33,24,3,0,137.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,51,0,8,59
-Lions,D Pretorius,11614d87,5,12,4,0,2,300.0,"[2, 5, 17, 20]",4.0,24,5,0,45,2,3,0,0,0,0,0,11.25,0,0,0,0,0,24,1,0,25
-Lions,NJ van den Bergh,055e8d7b,6,22,18,2,0,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30
-Lions,GC Viljoen,a316d663,7,28,22,1,2,127.27,"[1, 3, 15, 19]",4.0,24,6,0,47,3,3,1,0,0,0,3,11.75,0,0,0,0,0,48,27,0,75
-Lions,BC Fortuin,9a2fc964,8,0,1,0,0,0.0,"[6, 8, 10]",3.833,23,5,0,30,2,1,1,0,0,0,0,7.83,1,0,0,0,0,-2,30,8,36
-Lions,AM Phangiso,7f8ecc51,9,7,5,0,1,140.0,"[9, 12, 14]",3.0,18,5,0,28,2,1,2,0,0,0,0,9.33,1,0,0,0,0,13,55,8,76
-Lions,E Leie,a7bc76a0,9,0,0,0,0,0.0,"[7, 11, 16]",3.0,18,3,0,42,1,4,1,0,0,1,0,14.0,1,0,0,0,0,0,22,8,30
-Lions,MK McGillivray,52c0576c,10,0,0,0,0,0.0,"[4, 13, 18]",2.167,13,4,0,29,5,1,0,0,0,0,0,13.38,0,0,0,0,0,0,-2,0,-2
-Titans,JD Vandiar,a833f99c,1,67,41,6,3,163.41,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,121,0,0,121
-Titans,AK Markram,6a26221c,2,27,23,5,0,117.39,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,51,0,8,59
-Titans,H Klaasen,235c2bb6,3,26,15,2,1,173.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,50,0,0,50
-Titans,HG Kuhn,ede05b97,4,29,10,1,3,290.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,61,0,16,77
-Titans,JA Morkel,c3d35165,5,32,17,1,2,188.24,"[1, 12]",2.0,12,1,0,23,1,1,0,0,0,0,1,11.5,1,0,0,0,6,58,-3,8,63
-Titans,F Behardien,dce2019b,6,19,9,0,2,211.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,31,0,8,39
-Titans,D Wiese,aa8d28ae,7,17,5,0,2,340.0,"[2, 4, 18, 20]",4.0,24,11,0,21,1,1,1,0,0,0,0,5.25,0,0,0,0,0,29,40,0,69
-Titans,MP Siboto,9d50c7e1,9,0,0,0,0,0.0,"[7, 9]",2.0,12,4,0,27,1,3,3,0,0,0,0,13.5,0,0,0,0,0,0,77,0,77
-Titans,CJ Dala,1cb14aa4,10,0,0,0,0,0.0,"[3, 5, 17, 19]",4.0,24,8,0,40,2,3,2,0,1,0,0,10.0,0,0,0,0,0,0,64,0,64
-Titans,L Ngidi,f834dcfc,11,0,0,0,0,0.0,"[6, 11, 13, 15]",4.0,24,7,0,42,5,1,1,0,0,1,0,10.5,0,0,0,0,0,0,30,0,30
-Titans,T Shamsi,a03bba42,12,0,0,0,0,0.0,"[8, 10, 14, 16]",4.0,24,5,0,31,1,1,0,0,0,0,0,7.75,0,0,0,0,0,0,5,0,5
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Lions,HE van der Dussen,9948e262,1,45,18,3,4,250.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,91,0,0,91,36,True,False,False,Legbreak,Right-hand bat
+Lions,RR Hendricks,b8cc58c9,2,24,20,2,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,32,0,8,40,35,True,False,False,Right-arm offbreak,Right-hand bat
+Lions,M Mosehle,8836fcac,3,11,8,0,1,137.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,34,True,False,False,,Right-hand bat
+Lions,T Bavuma,9ffd1ac1,4,33,24,3,0,137.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,51,0,8,59,34,True,False,False,Right-arm medium,Right-hand bat
+Lions,D Pretorius,11614d87,5,12,4,0,2,300.0,"[2, 5, 17, 20]",4.0,24,5,0,45,2,3,0,0,0,0,0,11.25,0,0,0,0,0,24,1,0,25,36,True,False,True,Right-arm medium-fast,Right-hand bat
+Lions,NJ van den Bergh,055e8d7b,6,22,18,2,0,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30,35,True,False,False,,Right-hand bat
+Lions,GC Viljoen,a316d663,7,28,22,1,2,127.27,"[1, 3, 15, 19]",4.0,24,6,0,47,3,3,1,0,0,0,3,11.75,0,0,0,0,0,48,27,0,75,36,True,False,False,Right-arm fast,Right-hand bat
+Lions,BC Fortuin,9a2fc964,8,0,1,0,0,0.0,"[6, 8, 10]",3.833,23,5,0,30,2,1,1,0,0,0,0,7.83,1,0,0,0,0,-2,30,8,36,30,True,False,False,Slow left-arm orthodox,Right-hand bat
+Lions,AM Phangiso,7f8ecc51,9,7,5,0,1,140.0,"[9, 12, 14]",3.0,18,5,0,28,2,1,2,0,0,0,0,9.33,1,0,0,0,0,13,55,8,76,41,True,False,False,Slow left-arm orthodox,Right-hand bat
+Lions,E Leie,a7bc76a0,9,0,0,0,0,0.0,"[7, 11, 16]",3.0,18,3,0,42,1,4,1,0,0,1,0,14.0,1,0,0,0,0,0,22,8,30,38,True,False,False,Legbreak,Right-hand bat
+Lions,MK McGillivray,52c0576c,10,0,0,0,0,0.0,"[4, 13, 18]",2.167,13,4,0,29,5,1,0,0,0,0,0,13.38,0,0,0,0,0,0,-2,0,-2,34,True,True,False,Right-arm medium-fast,Right-hand bat
+Titans,JD Vandiar,a833f99c,1,67,41,6,3,163.41,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,121,0,0,121,34,True,False,False,Legbreak,Left-hand bat
+Titans,AK Markram,6a26221c,2,27,23,5,0,117.39,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,51,0,8,59,30,True,False,True,Right-arm offbreak,Right-hand bat
+Titans,H Klaasen,235c2bb6,3,26,15,2,1,173.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,50,0,0,50,33,True,True,False,Right-arm offbreak,Right-hand bat
+Titans,HG Kuhn,ede05b97,4,29,10,1,3,290.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,61,0,16,77,40,True,False,False,,Right-hand bat
+Titans,JA Morkel,c3d35165,5,32,17,1,2,188.24,"[1, 12]",2.0,12,1,0,23,1,1,0,0,0,0,1,11.5,1,0,0,0,6,58,-3,8,63,43,True,False,True,Right-arm medium-fast,Left-hand bat
+Titans,F Behardien,dce2019b,6,19,9,0,2,211.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,31,0,8,39,41,True,False,True,Right-arm fast-medium,Right-hand bat
+Titans,D Wiese,aa8d28ae,7,17,5,0,2,340.0,"[2, 4, 18, 20]",4.0,24,11,0,21,1,1,1,0,0,0,0,5.25,0,0,0,0,0,29,40,0,69,39,True,False,True,Right-arm medium-fast,Right-hand bat
+Titans,MP Siboto,9d50c7e1,9,0,0,0,0,0.0,"[7, 9]",2.0,12,4,0,27,1,3,3,0,0,0,0,13.5,0,0,0,0,0,0,77,0,77,37,True,False,False,Right-arm medium,Left-hand bat
+Titans,CJ Dala,1cb14aa4,10,0,0,0,0,0.0,"[3, 5, 17, 19]",4.0,24,8,0,40,2,3,2,0,1,0,0,10.0,0,0,0,0,0,0,64,0,64,35,True,False,False,Right-arm medium,Right-hand bat
+Titans,L Ngidi,f834dcfc,11,0,0,0,0,0.0,"[6, 11, 13, 15]",4.0,24,7,0,42,5,1,1,0,0,1,0,10.5,0,0,0,0,0,0,30,0,30,29,True,False,False,Right-arm fast-medium,Right-hand bat
+Titans,T Shamsi,a03bba42,12,0,0,0,0,0.0,"[8, 10, 14, 16]",4.0,24,5,0,31,1,1,0,0,0,0,0,7.75,0,0,0,0,0,0,5,0,5,35,True,False,False,Left-arm wrist-spin,Right-hand bat

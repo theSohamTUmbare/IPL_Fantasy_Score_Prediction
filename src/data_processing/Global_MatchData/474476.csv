@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-England,AD Hales,92aeac25,1,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-England,C Kieswetter,1e960f2a,2,18,13,2,1,138.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,0,0,2,34,0,28,62
-England,KP Pietersen,39f01cdb,3,33,23,5,0,143.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,59,0,0,59
-England,EJG Morgan,d2a6c0e6,4,49,27,7,1,181.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,93,0,8,101
-England,RS Bopara,7ca5e05d,5,31,36,2,0,86.11,[12],1.0,6,3,0,4,0,0,1,0,0,0,0,4.0,0,0,0,0,0,43,28,0,71
-England,JC Buttler,99b75528,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-England,SR Patel,18fac429,6,25,16,3,0,156.25,"[7, 9, 11]",3.0,18,2,0,34,0,3,0,0,0,0,0,11.33,0,0,0,0,4,45,-2,0,43
-England,TT Bresnan,58043739,7,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,11,0,33,3,2,1,0,0,0,2,8.25,0,0,0,0,0,0,36,0,36
-England,SCJ Broad,eba6a852,8,0,0,0,0,0.0,"[4, 6, 13, 15]",4.0,24,11,0,37,5,1,2,0,0,0,1,9.25,2,0,0,0,0,0,61,16,77
-England,GP Swann,221ad9d9,9,0,0,0,0,0.0,"[8, 10, 14, 16]",4.0,24,5,0,28,2,0,1,0,0,0,0,7.0,0,0,0,0,0,0,32,0,32
-England,JW Dernbach,7be8a0ed,10,0,0,0,0,0.0,"[2, 5, 18, 20]",3.667,22,10,0,22,4,0,4,0,1,0,0,6.0,1,0,1,0,0,0,126,20,146
-India,PA Patel,b5da6c24,1,10,12,2,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
-India,AM Rahane,29e95537,2,61,39,8,0,156.41,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,105,0,0,105
-India,R Dravid,0184dc35,3,31,21,0,3,147.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,55,0,0,55
-India,V Kohli,ba607b88,4,4,5,0,0,80.0,"[8, 10, 12]",3.0,18,5,0,22,2,0,1,0,0,0,1,7.33,0,0,0,0,0,4,30,0,34
-India,RG Sharma,740742ef,5,1,3,0,0,33.33,[9],1.0,6,0,0,16,2,1,0,0,0,0,0,16.0,1,0,0,0,0,1,0,8,9
-India,SK Raina,1dc12ab9,6,33,19,2,3,173.68,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,69,0,8,77
-India,MS Dhoni,4a8a2e3b,7,8,8,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,12,0,12,24
-India,R Ashwin,495d42a5,8,4,2,1,0,200.0,"[6, 11, 13, 15]",4.0,24,7,0,37,4,0,0,0,0,0,4,9.25,0,0,0,0,0,8,7,0,15
-India,P Kumar,e938e1bc,9,1,4,0,0,25.0,"[1, 3, 14, 17]",4.0,24,6,0,27,4,0,1,1,0,0,0,6.75,0,0,0,0,0,1,41,0,42
-India,R Vinay Kumar,41eb4a4f,10,2,4,0,0,50.0,"[2, 5, 18, 20]",3.5,21,5,0,35,5,0,0,0,0,0,1,10.0,0,0,0,0,0,2,3,0,5
-India,MM Patel,f0f628c7,11,0,1,0,0,0.0,"[4, 7, 16, 19]",4.0,24,10,0,25,2,1,2,0,0,0,0,6.25,0,0,0,0,0,-2,62,0,60
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+England,AD Hales,92aeac25,1,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,36,True,False,False,Right-arm medium,Right-hand bat
+England,C Kieswetter,1e960f2a,2,18,13,2,1,138.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,0,0,2,34,0,28,62,37,True,False,False,Right-arm offbreak,Right-hand bat
+England,KP Pietersen,39f01cdb,3,33,23,5,0,143.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,59,0,0,59,44,True,False,False,Right-arm offbreak,Right-hand bat
+England,EJG Morgan,d2a6c0e6,4,49,27,7,1,181.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,93,0,8,101,38,True,False,False,Right-arm medium,Left-hand bat
+England,RS Bopara,7ca5e05d,5,31,36,2,0,86.11,[12],1.0,6,3,0,4,0,0,1,0,0,0,0,4.0,0,0,0,0,0,43,28,0,71,39,True,False,True,Right-arm medium,Right-hand bat
+England,JC Buttler,99b75528,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,34,True,False,False,,Right-hand bat
+England,SR Patel,18fac429,6,25,16,3,0,156.25,"[7, 9, 11]",3.0,18,2,0,34,0,3,0,0,0,0,0,11.33,0,0,0,0,4,45,-2,0,43,40,True,False,True,Slow left-arm orthodox,Right-hand bat
+England,TT Bresnan,58043739,7,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,11,0,33,3,2,1,0,0,0,2,8.25,0,0,0,0,0,0,36,0,36,40,True,False,True,Right-arm medium-fast,Right-hand bat
+England,SCJ Broad,eba6a852,8,0,0,0,0,0.0,"[4, 6, 13, 15]",4.0,24,11,0,37,5,1,2,0,0,0,1,9.25,2,0,0,0,0,0,61,16,77,38,True,False,False,Right-arm fast-medium,Left-hand bat
+England,GP Swann,221ad9d9,9,0,0,0,0,0.0,"[8, 10, 14, 16]",4.0,24,5,0,28,2,0,1,0,0,0,0,7.0,0,0,0,0,0,0,32,0,32,46,True,False,False,Right-arm offbreak,Right-hand bat
+England,JW Dernbach,7be8a0ed,10,0,0,0,0,0.0,"[2, 5, 18, 20]",3.667,22,10,0,22,4,0,4,0,1,0,0,6.0,1,0,1,0,0,0,126,20,146,39,True,False,False,Right-arm fast-medium,Right-hand bat
+India,PA Patel,b5da6c24,1,10,12,2,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,40,True,True,False,Right-arm offbreak,Left-hand bat
+India,AM Rahane,29e95537,2,61,39,8,0,156.41,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,105,0,0,105,36,True,False,False,Right-arm medium,Right-hand bat
+India,R Dravid,0184dc35,3,31,21,0,3,147.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,55,0,0,55,52,True,False,False,Right-arm offbreak,Right-hand bat
+India,V Kohli,ba607b88,4,4,5,0,0,80.0,"[8, 10, 12]",3.0,18,5,0,22,2,0,1,0,0,0,1,7.33,0,0,0,0,0,4,30,0,34,36,True,False,False,Right-arm medium,Right-hand bat
+India,RG Sharma,740742ef,5,1,3,0,0,33.33,[9],1.0,6,0,0,16,2,1,0,0,0,0,0,16.0,1,0,0,0,0,1,0,8,9,37,True,False,False,Right-arm offbreak,Right-hand bat
+India,SK Raina,1dc12ab9,6,33,19,2,3,173.68,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,69,0,8,77,38,True,False,False,Right-arm offbreak,Left-hand bat
+India,MS Dhoni,4a8a2e3b,7,8,8,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,12,0,12,24,43,True,True,False,Right-arm medium,Right-hand bat
+India,R Ashwin,495d42a5,8,4,2,1,0,200.0,"[6, 11, 13, 15]",4.0,24,7,0,37,4,0,0,0,0,0,4,9.25,0,0,0,0,0,8,7,0,15,38,True,False,True,Right-arm offbreak,Right-hand bat
+India,P Kumar,e938e1bc,9,1,4,0,0,25.0,"[1, 3, 14, 17]",4.0,24,6,0,27,4,0,1,1,0,0,0,6.75,0,0,0,0,0,1,41,0,42,38,True,False,False,Right-arm medium,Right-hand bat
+India,R Vinay Kumar,41eb4a4f,10,2,4,0,0,50.0,"[2, 5, 18, 20]",3.5,21,5,0,35,5,0,0,0,0,0,1,10.0,0,0,0,0,0,2,3,0,5,41,True,False,False,Right-arm medium,Right-hand bat
+India,MM Patel,f0f628c7,11,0,1,0,0,0.0,"[4, 7, 16, 19]",4.0,24,10,0,25,2,1,2,0,0,0,0,6.25,0,0,0,0,0,-2,62,0,60,41,True,False,False,Right-arm medium-fast,Right-hand bat

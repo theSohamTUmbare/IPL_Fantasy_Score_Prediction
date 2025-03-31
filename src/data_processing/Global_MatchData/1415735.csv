@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Australia,TM Head,12b610c2,1,68,49,5,4,138.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,122,0,0,122
-Australia,DA Warner,dcce6f09,2,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Australia,MR Marsh,3d8feaf8,3,8,9,1,0,88.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
-Australia,GJ Maxwell,b681e71e,4,11,8,0,1,137.5,"[5, 9, 11, 15]",4.0,24,7,0,44,2,4,2,0,0,0,1,11.0,0,0,0,0,0,17,55,0,72
-Australia,MP Stoinis,d9273ee7,5,59,29,9,2,203.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,121,0,0,121
-Australia,TH David,f1f99156,6,24,14,2,1,171.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,44,0,0,44
-Australia,AC Agar,a2421394,7,0,0,0,0,0.0,"[1, 8, 13, 16]",4.0,24,6,0,39,0,3,1,0,1,0,1,9.75,1,0,0,0,0,0,39,8,47
-Australia,MS Wade,afa7e784,7,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
-Australia,MA Starc,3fb19989,8,0,0,0,0,0.0,"[2, 4, 14, 19]",4.0,24,9,0,31,1,2,0,0,0,0,1,7.75,2,0,0,0,0,0,9,16,25
-Australia,NT Ellis,9eb1455b,9,0,0,0,0,0.0,"[3, 6, 17, 20]",4.0,24,7,0,34,2,1,1,0,0,0,4,8.5,1,0,0,0,0,0,32,8,40
-Australia,A Zampa,14f96089,10,0,0,0,0,0.0,"[7, 10, 12, 18]",4.0,24,8,0,30,1,2,1,0,0,0,0,7.5,0,0,0,0,0,0,33,0,33
-Scotland,HG Munsey,ff014c34,1,35,23,2,3,152.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,69,0,0,69
-Scotland,MA Jones,05f96194,2,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
-Scotland,BJ McMullen,436c763a,3,60,34,2,6,176.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,118,0,0,118
-Scotland,RD Berrington,e21bc7f3,4,42,31,1,2,135.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,64,0,8,72
-Scotland,MH Cross,8b261d84,5,18,11,1,1,163.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,32,0,0,32
-Scotland,MA Leask,28131839,6,5,8,0,0,62.5,"[1, 8, 10, 14]",4.0,24,8,0,39,2,3,0,0,0,0,0,9.75,0,0,0,0,0,5,8,0,13
-Scotland,CN Greaves,f42064d5,7,9,10,0,0,90.0,[12],1.0,6,2,0,4,0,0,0,0,0,0,0,4.0,0,0,0,0,0,9,2,0,11
-Scotland,MRJ Watt,1252f71a,7,0,0,0,0,0.0,"[3, 9, 13, 17]",4.0,24,9,0,34,6,0,2,0,2,0,1,8.5,0,0,0,0,0,0,75,0,75
-Scotland,CB Sole,469ccead,8,0,0,0,0,0.0,"[5, 7, 15]",3.0,18,4,0,33,3,1,0,0,0,0,1,11.0,0,0,0,0,0,0,2,0,2
-Scotland,BTJ Wheal,3f61a062,9,0,0,0,0,0.0,"[2, 4, 18, 20]",3.667,22,10,0,28,4,1,1,0,0,0,0,7.64,0,0,0,0,0,0,35,0,35
-Scotland,SM Sharif,f43dd8c2,10,0,0,0,0,0.0,"[6, 11, 16, 19]",4.0,24,8,0,42,2,3,2,0,0,0,3,10.5,0,0,0,0,0,0,56,0,56
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Australia,TM Head,12b610c2,1,68,49,5,4,138.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,122,0,0,122,31,True,False,False,Right-arm offbreak,Left-hand bat
+Australia,DA Warner,dcce6f09,2,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,38,True,False,False,Legbreak,Left-hand bat
+Australia,MR Marsh,3d8feaf8,3,8,9,1,0,88.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,33,True,False,True,Right-arm medium,Right-hand bat
+Australia,GJ Maxwell,b681e71e,4,11,8,0,1,137.5,"[5, 9, 11, 15]",4.0,24,7,0,44,2,4,2,0,0,0,1,11.0,0,0,0,0,0,17,55,0,72,36,True,False,True,Right-arm offbreak,Right-hand bat
+Australia,MP Stoinis,d9273ee7,5,59,29,9,2,203.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,121,0,0,121,35,True,False,True,Right-arm medium,Right-hand bat
+Australia,TH David,f1f99156,6,24,14,2,1,171.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,44,0,0,44,29,True,False,False,Right-arm offbreak,Right-hand bat
+Australia,AC Agar,a2421394,7,0,0,0,0,0.0,"[1, 8, 13, 16]",4.0,24,6,0,39,0,3,1,0,1,0,1,9.75,1,0,0,0,0,0,39,8,47,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+Australia,MS Wade,afa7e784,7,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,37,True,True,False,Right-arm medium,Left-hand bat
+Australia,MA Starc,3fb19989,8,0,0,0,0,0.0,"[2, 4, 14, 19]",4.0,24,9,0,31,1,2,0,0,0,0,1,7.75,2,0,0,0,0,0,9,16,25,35,True,False,False,Left-arm fast,Left-hand bat
+Australia,NT Ellis,9eb1455b,9,0,0,0,0,0.0,"[3, 6, 17, 20]",4.0,24,7,0,34,2,1,1,0,0,0,4,8.5,1,0,0,0,0,0,32,8,40,30,True,False,False,Right-arm fast-medium,Right-hand bat
+Australia,A Zampa,14f96089,10,0,0,0,0,0.0,"[7, 10, 12, 18]",4.0,24,8,0,30,1,2,1,0,0,0,0,7.5,0,0,0,0,0,0,33,0,33,32,True,False,False,Legbreak googly,Right-hand bat
+Scotland,HG Munsey,ff014c34,1,35,23,2,3,152.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,69,0,0,69,32,True,False,False,Right-arm medium-fast,Left-hand bat
+Scotland,MA Jones,05f96194,2,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,27,True,False,False,Right-arm offbreak,Right-hand bat
+Scotland,BJ McMullen,436c763a,3,60,34,2,6,176.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,118,0,0,118,25,True,False,True,Right-arm medium,Right-hand bat
+Scotland,RD Berrington,e21bc7f3,4,42,31,1,2,135.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,64,0,8,72,37,True,False,False,Right-arm medium-fast,Right-hand bat
+Scotland,MH Cross,8b261d84,5,18,11,1,1,163.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,32,0,0,32,32,True,False,False,,Right-hand bat
+Scotland,MA Leask,28131839,6,5,8,0,0,62.5,"[1, 8, 10, 14]",4.0,24,8,0,39,2,3,0,0,0,0,0,9.75,0,0,0,0,0,5,8,0,13,34,True,False,True,Right-arm offbreak,Right-hand bat
+Scotland,CN Greaves,f42064d5,7,9,10,0,0,90.0,[12],1.0,6,2,0,4,0,0,0,0,0,0,0,4.0,0,0,0,0,0,9,2,0,11,34,True,False,False,Legbreak,Right-hand bat
+Scotland,MRJ Watt,1252f71a,7,0,0,0,0,0.0,"[3, 9, 13, 17]",4.0,24,9,0,34,6,0,2,0,2,0,1,8.5,0,0,0,0,0,0,75,0,75,28,True,False,False,Slow left-arm orthodox,Left-hand bat
+Scotland,CB Sole,469ccead,8,0,0,0,0,0.0,"[5, 7, 15]",3.0,18,4,0,33,3,1,0,0,0,0,1,11.0,0,0,0,0,0,0,2,0,2,31,True,False,False,Right-arm fast-medium,Right-hand bat
+Scotland,BTJ Wheal,3f61a062,9,0,0,0,0,0.0,"[2, 4, 18, 20]",3.667,22,10,0,28,4,1,1,0,0,0,0,7.64,0,0,0,0,0,0,35,0,35,28,True,False,False,Right-arm fast-medium,Right-hand bat
+Scotland,SM Sharif,f43dd8c2,10,0,0,0,0,0.0,"[6, 11, 16, 19]",4.0,24,8,0,42,2,3,2,0,0,0,3,10.5,0,0,0,0,0,0,56,0,56,33,True,False,False,Right-arm medium-fast,Right-hand bat

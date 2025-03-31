@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Perth Scorchers,MS Harris,9e85455c,1,14,13,3,0,107.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26
-Perth Scorchers,M Klinger,b970a03f,2,10,6,2,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26
-Perth Scorchers,AC Voges,864c199e,3,8,9,1,0,88.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
-Perth Scorchers,MA Carberry,8305580c,4,69,48,8,1,143.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,117,0,0,117
-Perth Scorchers,AJ Turner,ff1e12a0,5,0,4,0,0,0.0,[1],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,1,0,0,0,0,-2,1,8,7
-Perth Scorchers,SM Whiteman,f4427cc6,6,16,15,0,1,106.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
-Perth Scorchers,Yasir Arafat,3cf5ae43,7,0,0,0,0,0.0,"[7, 9, 17, 19]",4.0,24,7,0,30,2,1,0,0,0,0,1,7.5,0,0,0,0,0,0,7,0,7
-Perth Scorchers,AC Agar,a2421394,7,31,25,1,1,124.0,"[10, 14, 16]",3.0,18,3,0,26,1,1,1,0,0,0,0,8.67,0,0,0,0,0,45,28,0,73
-Perth Scorchers,AJ Tye,7c7d63a2,8,0,0,0,0,0.0,"[6, 11, 13, 20]",4.0,24,10,0,26,2,1,1,0,0,0,0,6.5,0,0,0,0,0,0,37,0,37
-Perth Scorchers,JP Behrendorff,4933f499,9,0,0,0,0,0.0,"[2, 4, 12, 18]",4.0,24,4,0,40,5,0,1,0,0,1,0,10.0,1,0,0,0,0,0,27,8,35
-Perth Scorchers,MW Dixon,314ed7e6,10,0,0,0,0,0.0,"[3, 5, 8, 15]",4.0,24,8,0,48,9,1,0,0,0,0,0,12.0,0,0,0,0,0,0,4,0,4
-Sydney Thunder,JH Kallis,86dc8f2e,1,70,48,9,2,145.83,"[1, 7, 11, 15]",4.0,24,11,0,24,2,1,2,0,0,0,1,6.0,0,0,0,0,2,128,63,0,191
-Sydney Thunder,AB McDonald,16043342,2,7,8,0,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,7,0,0,7
-Sydney Thunder,AC Blizzard,1efb8a28,3,47,31,5,2,151.61,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,87,0,0,87
-Sydney Thunder,MEK Hussey,48fd7349,4,36,21,4,0,171.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,62,0,8,70
-Sydney Thunder,EJG Morgan,d2a6c0e6,5,16,12,2,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,26,0,0,26
-Sydney Thunder,CD Hartley,9a06679d,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0,0,12,12
-Sydney Thunder,DP Hughes,f3982af9,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Sydney Thunder,PJ Cummins,ded9240e,9,0,0,0,0,0.0,"[6, 12, 16, 20]",4.0,24,7,0,39,3,1,0,0,0,0,5,9.75,0,0,0,0,0,0,7,0,7
-Sydney Thunder,GS Sandhu,1558d83b,10,0,0,0,0,0.0,"[8, 14, 17, 19]",4.0,24,6,0,37,4,0,0,0,0,2,1,9.25,0,0,0,0,0,0,6,0,6
-Sydney Thunder,NM Hauritz,8ea6e670,11,0,0,0,0,0.0,"[3, 5, 9, 13]",4.0,24,7,0,34,3,1,2,0,1,0,0,8.5,0,0,0,0,0,0,65,0,65
-Sydney Thunder,JK Lalor,88209c84,12,0,0,0,0,0.0,"[2, 4, 10, 18]",4.0,24,10,0,23,3,0,1,0,1,0,0,5.75,1,0,0,0,0,0,47,8,55
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Perth Scorchers,MS Harris,9e85455c,1,14,13,3,0,107.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26,32,True,False,False,,Left-hand bat
+Perth Scorchers,M Klinger,b970a03f,2,10,6,2,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26,44,True,False,False,,Right-hand bat
+Perth Scorchers,AC Voges,864c199e,3,8,9,1,0,88.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,45,True,False,False,Slow left-arm orthodox,Right-hand bat
+Perth Scorchers,MA Carberry,8305580c,4,69,48,8,1,143.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,117,0,0,117,44,True,False,False,Right-arm offbreak,Left-hand bat
+Perth Scorchers,AJ Turner,ff1e12a0,5,0,4,0,0,0.0,[1],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,1,0,0,0,0,-2,1,8,7,32,True,False,False,Right-arm offbreak,Right-hand bat
+Perth Scorchers,SM Whiteman,f4427cc6,6,16,15,0,1,106.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,33,True,False,False,,Left-hand bat
+Perth Scorchers,Yasir Arafat,3cf5ae43,7,0,0,0,0,0.0,"[7, 9, 17, 19]",4.0,24,7,0,30,2,1,0,0,0,0,1,7.5,0,0,0,0,0,0,7,0,7,43,True,False,True,Right-arm fast-medium,Right-hand bat
+Perth Scorchers,AC Agar,a2421394,7,31,25,1,1,124.0,"[10, 14, 16]",3.0,18,3,0,26,1,1,1,0,0,0,0,8.67,0,0,0,0,0,45,28,0,73,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+Perth Scorchers,AJ Tye,7c7d63a2,8,0,0,0,0,0.0,"[6, 11, 13, 20]",4.0,24,10,0,26,2,1,1,0,0,0,0,6.5,0,0,0,0,0,0,37,0,37,38,True,False,False,Right-arm medium-fast,Right-hand bat
+Perth Scorchers,JP Behrendorff,4933f499,9,0,0,0,0,0.0,"[2, 4, 12, 18]",4.0,24,4,0,40,5,0,1,0,0,1,0,10.0,1,0,0,0,0,0,27,8,35,34,True,False,False,Left-arm fast-medium,Right-hand bat
+Perth Scorchers,MW Dixon,314ed7e6,10,0,0,0,0,0.0,"[3, 5, 8, 15]",4.0,24,8,0,48,9,1,0,0,0,0,0,12.0,0,0,0,0,0,0,4,0,4,32,True,True,False,Right-arm fast,Right-hand bat
+Sydney Thunder,JH Kallis,86dc8f2e,1,70,48,9,2,145.83,"[1, 7, 11, 15]",4.0,24,11,0,24,2,1,2,0,0,0,1,6.0,0,0,0,0,2,128,63,0,191,49,True,False,True,Right-arm fast-medium,Right-hand bat
+Sydney Thunder,AB McDonald,16043342,2,7,8,0,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,7,0,0,7,43,True,False,True,Right-arm fast-medium,Right-hand bat
+Sydney Thunder,AC Blizzard,1efb8a28,3,47,31,5,2,151.61,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,87,0,0,87,40,True,False,False,Left-arm medium,Left-hand bat
+Sydney Thunder,MEK Hussey,48fd7349,4,36,21,4,0,171.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,62,0,8,70,49,True,False,False,Right-arm medium,Left-hand bat
+Sydney Thunder,EJG Morgan,d2a6c0e6,5,16,12,2,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,26,0,0,26,38,True,False,False,Right-arm medium,Left-hand bat
+Sydney Thunder,CD Hartley,9a06679d,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0,0,12,12,42,True,False,False,,Left-hand bat
+Sydney Thunder,DP Hughes,f3982af9,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,36,True,False,False,Right-arm medium,Left-hand bat
+Sydney Thunder,PJ Cummins,ded9240e,9,0,0,0,0,0.0,"[6, 12, 16, 20]",4.0,24,7,0,39,3,1,0,0,0,0,5,9.75,0,0,0,0,0,0,7,0,7,31,True,False,False,Right-arm fast,Right-hand bat
+Sydney Thunder,GS Sandhu,1558d83b,10,0,0,0,0,0.0,"[8, 14, 17, 19]",4.0,24,6,0,37,4,0,0,0,0,2,1,9.25,0,0,0,0,0,0,6,0,6,31,True,False,False,Right-arm fast-medium,Left-hand bat
+Sydney Thunder,NM Hauritz,8ea6e670,11,0,0,0,0,0.0,"[3, 5, 9, 13]",4.0,24,7,0,34,3,1,2,0,1,0,0,8.5,0,0,0,0,0,0,65,0,65,43,True,False,False,Right-arm offbreak,Right-hand bat
+Sydney Thunder,JK Lalor,88209c84,12,0,0,0,0,0.0,"[2, 4, 10, 18]",4.0,24,10,0,23,3,0,1,0,1,0,0,5.75,1,0,0,0,0,0,47,8,55,37,True,False,False,Left-arm fast-medium,Right-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Guernsey,AS Wright,e801ac71,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Guernsey,MWR Stokes,c573d173,2,11,15,2,0,73.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,19,0,8,27
-Guernsey,J Butler,efcb778e,3,12,19,1,1,63.16,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,20,0,0,20
-Guernsey,LJ Barker,da1f80f8,4,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Guernsey,DR Hooper,0ac067e8,5,18,27,1,0,66.67,"[6, 13, 18, 20]",3.333,20,13,0,13,2,0,2,0,1,0,0,3.9,2,0,0,0,-2,20,77,16,113
-Guernsey,LB Ferbrache,0f72f582,6,55,43,3,3,127.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,93,0,8,101
-Guernsey,TCR Kimber,ad76746f,7,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Guernsey,LC Le Tissier,c471750e,8,7,6,0,0,116.67,"[8, 10, 12, 16]",4.0,24,12,0,17,1,0,3,0,0,0,1,4.25,2,0,0,0,0,7,97,16,120
-Guernsey,TCW Veillard,eaeb065e,9,0,0,0,0,0.0,"[1, 5, 11, 17]",4.0,24,7,0,30,3,1,1,0,1,0,0,7.5,0,0,0,0,0,0,40,0,40
-Guernsey,ACF Stokes,7f74b21d,9,0,4,0,0,0.0,"[3, 7, 9, 15]",4.0,24,10,0,30,3,1,1,0,0,0,1,7.5,0,0,0,0,0,-2,35,0,33
-Guernsey,W Peatfield,609d6c7c,10,0,0,0,0,0.0,"[2, 4, 14, 19]",4.0,24,13,0,27,2,2,1,0,0,0,1,6.75,0,0,0,0,0,0,40,0,40
-Italy,BBJL Perera,c8c9d60b,1,47,28,5,3,167.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,93,0,0,93
-Italy,Manpreet Singh,e9d6a2ce,2,22,29,1,1,75.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,32,0,8,40
-Italy,NA Maiolo,362fde0f,3,7,10,0,0,70.0,"[2, 4, 6, 8]",4.0,24,15,0,16,2,0,1,0,1,0,1,4.0,0,0,0,0,-2,5,54,0,59
-Italy,GP Meade,3957a70a,4,6,4,1,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
-Italy,MJ Ross,d1c7dd6d,5,6,7,1,0,85.71,[13],1.0,6,3,0,10,0,1,0,0,0,0,1,10.0,1,0,0,0,0,10,3,8,21
-Italy,Anam Mollik,927a5ef5,6,9,10,1,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
-Italy,Rakibul Hasan,b75b7b09,7,5,3,1,0,166.67,"[5, 11, 15, 17]",4.0,24,9,0,31,2,2,1,0,0,0,0,7.75,0,0,0,0,0,9,34,0,43
-Italy,Baljit Singh,39f0b039,8,3,10,0,0,30.0,"[7, 9]",2.0,12,6,0,12,1,0,1,0,0,0,1,6.0,0,0,0,0,-6,-3,33,0,30
-Italy,GRD Munasinghe,eff8b730,9,1,4,0,0,25.0,"[1, 3, 18, 20]",4.0,24,14,1,11,0,0,4,0,3,0,1,2.75,1,0,0,0,0,1,164,8,173
-Italy,Charanjeet Singh,cb4a3840,10,8,9,1,0,88.89,"[10, 12, 19]",3.0,18,9,0,18,1,1,1,0,0,0,0,6.0,0,0,0,0,0,12,36,0,48
-Italy,S Arachchige,2a7a3137,11,0,2,0,0,0.0,"[14, 16]",2.0,12,4,0,11,1,0,0,0,0,0,0,5.5,0,0,0,0,0,-2,8,0,6
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Guernsey,AS Wright,e801ac71,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,44,True,True,False,Right-arm medium,Right-hand bat
+Guernsey,MWR Stokes,c573d173,2,11,15,2,0,73.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,19,0,8,27,29,True,True,False,Right-arm medium,Right-hand bat
+Guernsey,J Butler,efcb778e,3,12,19,1,1,63.16,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,20,0,0,20,28,True,True,False,Right-arm medium,Right-hand bat
+Guernsey,LJ Barker,da1f80f8,4,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,29,True,True,False,Right-arm medium,Right-hand bat
+Guernsey,DR Hooper,0ac067e8,5,18,27,1,0,66.67,"[6, 13, 18, 20]",3.333,20,13,0,13,2,0,2,0,1,0,0,3.9,2,0,0,0,-2,20,77,16,113,33,True,True,False,Right-arm medium,Right-hand bat
+Guernsey,LB Ferbrache,0f72f582,6,55,43,3,3,127.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,93,0,8,101,37,True,True,False,Right-arm offbreak,Right-hand bat
+Guernsey,TCR Kimber,ad76746f,7,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,34,True,True,False,Left-arm medium,Right-hand bat
+Guernsey,LC Le Tissier,c471750e,8,7,6,0,0,116.67,"[8, 10, 12, 16]",4.0,24,12,0,17,1,0,3,0,0,0,1,4.25,2,0,0,0,0,7,97,16,120,28,True,True,False,Right-arm offbreak,Right-hand bat
+Guernsey,TCW Veillard,eaeb065e,9,0,0,0,0,0.0,"[1, 5, 11, 17]",4.0,24,7,0,30,3,1,1,0,1,0,0,7.5,0,0,0,0,0,0,40,0,40,28,True,True,False,Slow left-arm orthodox,Right-hand bat
+Guernsey,ACF Stokes,7f74b21d,9,0,4,0,0,0.0,"[3, 7, 9, 15]",4.0,24,10,0,30,3,1,1,0,0,0,1,7.5,0,0,0,0,0,-2,35,0,33,26,True,True,False,Slow left-arm orthodox,Right-hand bat
+Guernsey,W Peatfield,609d6c7c,10,0,0,0,0,0.0,"[2, 4, 14, 19]",4.0,24,13,0,27,2,2,1,0,0,0,1,6.75,0,0,0,0,0,0,40,0,40,34,True,True,False,Right-arm medium,Right-hand bat
+Italy,BBJL Perera,c8c9d60b,1,47,28,5,3,167.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,93,0,0,93,37,True,True,False,Right-arm offbreak,Right-hand bat
+Italy,Manpreet Singh,e9d6a2ce,2,22,29,1,1,75.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,32,0,8,40,40,True,False,False,,Right-hand bat
+Italy,NA Maiolo,362fde0f,3,7,10,0,0,70.0,"[2, 4, 6, 8]",4.0,24,15,0,16,2,0,1,0,1,0,1,4.0,0,0,0,0,-2,5,54,0,59,30,True,True,False,Slow left-arm orthodox,Right-hand bat
+Italy,GP Meade,3957a70a,4,6,4,1,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,29,True,True,False,Right-arm medium-fast,Right-hand bat
+Italy,MJ Ross,d1c7dd6d,5,6,7,1,0,85.71,[13],1.0,6,3,0,10,0,1,0,0,0,0,1,10.0,1,0,0,0,0,10,3,8,21,26,True,True,False,Right-arm offbreak,Right-hand bat
+Italy,Anam Mollik,927a5ef5,6,9,10,1,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21,35,True,True,False,Legbreak,Right-hand bat
+Italy,Rakibul Hasan,b75b7b09,7,5,3,1,0,166.67,"[5, 11, 15, 17]",4.0,24,9,0,31,2,2,1,0,0,0,0,7.75,0,0,0,0,0,9,34,0,43,36,True,True,False,Slow left-arm orthodox,Left-hand bat
+Italy,Baljit Singh,39f0b039,8,3,10,0,0,30.0,"[7, 9]",2.0,12,6,0,12,1,0,1,0,0,0,1,6.0,0,0,0,0,-6,-3,33,0,30,41,True,True,False,Right-arm medium,Right-hand bat
+Italy,GRD Munasinghe,eff8b730,9,1,4,0,0,25.0,"[1, 3, 18, 20]",4.0,24,14,1,11,0,0,4,0,3,0,1,2.75,1,0,0,0,0,1,164,8,173,38,True,True,False,Right-arm medium-fast,Right-hand bat
+Italy,Charanjeet Singh,cb4a3840,10,8,9,1,0,88.89,"[10, 12, 19]",3.0,18,9,0,18,1,1,1,0,0,0,0,6.0,0,0,0,0,0,12,36,0,48,31,True,True,False,Right-arm medium,Right-hand bat
+Italy,S Arachchige,2a7a3137,11,0,2,0,0,0.0,"[14, 16]",2.0,12,4,0,11,1,0,0,0,0,0,0,5.5,0,0,0,0,0,-2,8,0,6,32,True,True,False,Right-arm offbreak,Right-hand bat

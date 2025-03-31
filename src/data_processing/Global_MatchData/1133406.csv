@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Mumbai,AA Herwadkar,4ed49d3d,1,42,36,1,1,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,56,0,20,76
-Mumbai,Jay Bista,f079e8fe,2,24,19,1,2,126.32,"[12, 14, 16]",3.0,18,7,0,21,2,0,1,0,0,0,5,7.0,1,0,0,0,0,40,34,8,82
-Mumbai,SS Iyer,85ec8e33,3,79,44,8,4,179.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,153,0,0,153
-Mumbai,SA Yadav,271f83cd,4,7,5,1,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
-Mumbai,S Dube,a4e37e47,5,22,12,1,2,183.33,"[11, 13, 18, 20]",3.333,20,5,0,27,2,1,3,1,0,0,0,8.1,0,0,0,0,6,44,92,0,136
-Mumbai,AP Tare,855a210c,6,13,4,0,2,325.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,25,0,8,33
-Mumbai,Sagar Trivedi,8da6dbf1,9,0,0,0,0,0.0,"[2, 7, 9]",3.0,18,6,0,32,2,2,0,0,0,1,1,10.67,0,0,0,0,0,0,4,0,4
-Mumbai,Parikshit Valsangkar,84ba2fbc,10,0,0,0,0,0.0,"[6, 8, 10]",3.0,18,3,0,28,2,1,0,0,0,0,2,9.33,0,0,0,0,0,0,3,0,3
-Mumbai,SD Lad,9601c534,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Mumbai,Akash Parkar,f992200b,12,0,0,0,0,0.0,"[3, 5, 15]",3.0,18,3,0,48,7,2,0,0,0,0,2,16.0,1,0,0,0,0,0,-3,8,5
-Mumbai,DS Kulkarni,d2a989fc,13,0,0,0,0,0.0,"[1, 4, 17, 19]",4.0,24,7,0,42,2,3,1,0,0,0,1,10.5,0,0,1,0,0,0,30,12,42
-Punjab,M Vohra,c03e2850,1,42,30,3,2,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,72,0,0,72
-Punjab,Mandeep Singh,c3a96caf,2,20,11,2,1,181.82,[12],1.0,6,0,0,11,0,1,0,0,0,0,0,11.0,0,0,0,0,6,40,0,0,40
-Punjab,Harbhajan Singh,8b5b6769,3,11,7,2,0,157.14,"[7, 9, 11]",3.0,18,4,0,27,2,1,0,0,0,0,2,9.0,0,0,0,0,0,19,4,0,23
-Punjab,Yuvraj Singh,1c914163,4,40,34,2,2,117.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,64,0,0,64
-Punjab,Gurkeerat Singh,6eb146d2,5,43,18,6,2,238.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,89,0,16,105
-Punjab,Sharad Lumba,03c29939,6,21,10,1,2,210.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,43,0,0,43
-Punjab,MS Gony,ae78bc32,7,7,3,1,0,233.33,"[2, 5, 16, 18]",4.0,24,9,0,35,2,2,1,0,0,0,2,8.75,0,0,0,0,0,11,34,0,45
-Punjab,Abhishek Gupta,22a2a635,8,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Punjab,Baltej Singh,0c0ef3fb,9,0,0,0,0,0.0,"[1, 3, 15, 19]",4.0,24,7,0,47,4,3,0,0,0,0,2,11.75,0,0,0,0,0,0,3,0,3
-Punjab,S Kaul,dcf81436,9,1,1,0,0,100.0,"[4, 13, 17, 20]",4.0,24,5,0,42,1,3,0,0,0,0,1,10.5,0,0,1,0,0,1,3,12,16
-Punjab,M Markande,a9fd84fb,10,0,0,0,0,0.0,"[6, 8, 10, 14]",4.0,24,8,0,32,3,1,2,1,0,0,0,8.0,0,0,0,0,0,0,66,0,66
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Mumbai,AA Herwadkar,4ed49d3d,1,42,36,1,1,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,56,0,20,76,30,True,False,False,Right-arm offbreak,Left-hand bat
+Mumbai,Jay Bista,f079e8fe,2,24,19,1,2,126.32,"[12, 14, 16]",3.0,18,7,0,21,2,0,1,0,0,0,5,7.0,1,0,0,0,0,40,34,8,82,29,True,True,False,Right-arm offbreak,Right-hand bat
+Mumbai,SS Iyer,85ec8e33,3,79,44,8,4,179.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,153,0,0,153,30,True,False,False,Legbreak googly,Right-hand bat
+Mumbai,SA Yadav,271f83cd,4,7,5,1,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,34,True,False,False,Right-arm offbreak,Right-hand bat
+Mumbai,S Dube,a4e37e47,5,22,12,1,2,183.33,"[11, 13, 18, 20]",3.333,20,5,0,27,2,1,3,1,0,0,0,8.1,0,0,0,0,6,44,92,0,136,31,True,False,True,Right-arm medium,Left-hand bat
+Mumbai,AP Tare,855a210c,6,13,4,0,2,325.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,25,0,8,33,37,True,False,False,,Right-hand bat
+Mumbai,Sagar Trivedi,8da6dbf1,9,0,0,0,0,0.0,"[2, 7, 9]",3.0,18,6,0,32,2,2,0,0,0,1,1,10.67,0,0,0,0,0,0,4,0,4,33,True,True,False,Right-arm medium,Left-hand bat
+Mumbai,Parikshit Valsangkar,84ba2fbc,10,0,0,0,0,0.0,"[6, 8, 10]",3.0,18,3,0,28,2,1,0,0,0,0,2,9.33,0,0,0,0,0,0,3,0,3,30,True,True,False,Legbreak googly,Right-hand bat
+Mumbai,SD Lad,9601c534,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,32,True,False,False,Right-arm offbreak,Right-hand bat
+Mumbai,Akash Parkar,f992200b,12,0,0,0,0,0.0,"[3, 5, 15]",3.0,18,3,0,48,7,2,0,0,0,0,2,16.0,1,0,0,0,0,0,-3,8,5,30,True,True,False,Right-arm medium,Right-hand bat
+Mumbai,DS Kulkarni,d2a989fc,13,0,0,0,0,0.0,"[1, 4, 17, 19]",4.0,24,7,0,42,2,3,1,0,0,0,1,10.5,0,0,1,0,0,0,30,12,42,36,True,False,False,Right-arm medium,Right-hand bat
+Punjab,M Vohra,c03e2850,1,42,30,3,2,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,72,0,0,72,31,True,False,False,Right-arm medium,Right-hand bat
+Punjab,Mandeep Singh,c3a96caf,2,20,11,2,1,181.82,[12],1.0,6,0,0,11,0,1,0,0,0,0,0,11.0,0,0,0,0,6,40,0,0,40,33,True,False,True,Right-arm medium,Right-hand bat
+Punjab,Harbhajan Singh,8b5b6769,3,11,7,2,0,157.14,"[7, 9, 11]",3.0,18,4,0,27,2,1,0,0,0,0,2,9.0,0,0,0,0,0,19,4,0,23,44,True,False,False,Right-arm offbreak,Right-hand bat
+Punjab,Yuvraj Singh,1c914163,4,40,34,2,2,117.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,64,0,0,64,43,True,False,False,Slow left-arm orthodox,Left-hand bat
+Punjab,Gurkeerat Singh,6eb146d2,5,43,18,6,2,238.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,89,0,16,105,34,True,False,False,Right-arm offbreak,Right-hand bat
+Punjab,Sharad Lumba,03c29939,6,21,10,1,2,210.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,43,0,0,43,35,True,False,False,Right-arm offbreak,Right-hand bat
+Punjab,MS Gony,ae78bc32,7,7,3,1,0,233.33,"[2, 5, 16, 18]",4.0,24,9,0,35,2,2,1,0,0,0,2,8.75,0,0,0,0,0,11,34,0,45,41,True,False,False,Right-arm medium,Right-hand bat
+Punjab,Abhishek Gupta,22a2a635,8,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,34,True,False,False,,Right-hand bat
+Punjab,Baltej Singh,0c0ef3fb,9,0,0,0,0,0.0,"[1, 3, 15, 19]",4.0,24,7,0,47,4,3,0,0,0,0,2,11.75,0,0,0,0,0,0,3,0,3,34,True,False,False,Right-arm medium,Right-hand bat
+Punjab,S Kaul,dcf81436,9,1,1,0,0,100.0,"[4, 13, 17, 20]",4.0,24,5,0,42,1,3,0,0,0,0,1,10.5,0,0,1,0,0,1,3,12,16,34,True,False,False,Right-arm medium,Right-hand bat
+Punjab,M Markande,a9fd84fb,10,0,0,0,0,0.0,"[6, 8, 10, 14]",4.0,24,8,0,32,3,1,2,1,0,0,0,8.0,0,0,0,0,0,0,66,0,66,27,True,False,False,Legbreak,Right-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Glamorgan,DL Lloyd,0c7f11be,1,7,10,1,0,70.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,9,0,8,17
-Glamorgan,MA Wallace,cabf72cc,2,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Glamorgan,CA Ingram,c995d726,3,10,7,1,1,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
-Glamorgan,AHT Donald,72918338,4,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
-Glamorgan,JA Rudolph,42537f07,5,6,7,0,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6
-Glamorgan,GG Wagg,450f6fa6,6,7,8,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
-Glamorgan,AG Salter,1a45b864,7,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Glamorgan,CAJ Meschede,eddf25bd,8,8,14,1,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,8,0,0,8
-Glamorgan,T van der Gugten,d99cc23a,9,4,3,1,0,133.33,"[1, 3]",2.0,12,4,0,13,2,0,0,0,0,0,0,6.5,0,0,0,0,0,8,6,0,14
-Glamorgan,MG Hogan,5da34add,10,13,9,1,1,144.44,[5],0.167,1,1,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,1,0,24
-Glamorgan,SW Tait,addfb70e,11,12,7,2,0,171.43,"[2, 4]",2.0,12,5,0,13,1,0,1,0,0,0,3,6.5,0,0,0,0,0,20,32,0,52
-Sussex,CD Nash,6f049d41,1,10,9,2,0,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
-Sussex,LJ Wright,cca50cd6,2,5,9,0,0,55.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
-Sussex,PD Salt,3d284ca3,3,8,7,1,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
-Sussex,Craig Cachopa,af294a6c,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Sussex,MW Machan,8c7d6cbe,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,5,0,0,0,0,0,0,44,44
-Sussex,CJ Jordan,ffe699c0,5,0,0,0,0,0.0,"[12, 14]",1.333,8,4,0,16,2,0,2,0,0,6,0,12.0,0,0,0,0,0,0,54,0,54
-Sussex,JC Archer,5574750c,6,0,0,0,0,0.0,"[2, 4, 13]",3.0,18,7,0,34,5,1,1,0,0,0,2,11.33,1,0,0,0,0,0,28,8,36
-Sussex,HZ Finch,6b16f8ba,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Sussex,WAT Beer,98eacfe5,8,0,0,0,0,0.0,"[6, 8, 10]",3.0,18,5,0,18,0,1,1,0,0,0,1,6.0,0,0,0,0,0,0,32,0,32
-Sussex,GHS Garton,be869ccf,9,0,0,0,0,0.0,"[5, 7, 9]",3.0,18,11,0,16,2,0,4,0,1,2,1,5.33,1,0,0,0,0,0,131,8,139
-Sussex,TS Mills,245c97cb,10,0,0,0,0,0.0,"[1, 3, 11]",3.0,18,15,0,14,0,0,2,0,0,7,4,4.67,1,0,0,0,0,0,71,8,79
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Glamorgan,DL Lloyd,0c7f11be,1,7,10,1,0,70.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,9,0,8,17,32,True,False,True,Right-arm medium,Right-hand bat
+Glamorgan,MA Wallace,cabf72cc,2,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,43,True,False,False,,Left-hand bat
+Glamorgan,CA Ingram,c995d726,3,10,7,1,1,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,39,True,False,False,Legbreak,Left-hand bat
+Glamorgan,AHT Donald,72918338,4,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,28,True,False,False,Right-arm offbreak,Right-hand bat
+Glamorgan,JA Rudolph,42537f07,5,6,7,0,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6,43,True,False,False,Legbreak googly,Left-hand bat
+Glamorgan,GG Wagg,450f6fa6,6,7,8,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,41,True,False,True,Left-arm medium-fast,Right-hand bat
+Glamorgan,AG Salter,1a45b864,7,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,31,True,False,False,Right-arm offbreak,Right-hand bat
+Glamorgan,CAJ Meschede,eddf25bd,8,8,14,1,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,8,0,0,8,33,True,False,True,Right-arm medium-fast,Right-hand bat
+Glamorgan,T van der Gugten,d99cc23a,9,4,3,1,0,133.33,"[1, 3]",2.0,12,4,0,13,2,0,0,0,0,0,0,6.5,0,0,0,0,0,8,6,0,14,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Glamorgan,MG Hogan,5da34add,10,13,9,1,1,144.44,[5],0.167,1,1,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,1,0,24,43,True,False,False,Right-arm fast-medium,Right-hand bat
+Glamorgan,SW Tait,addfb70e,11,12,7,2,0,171.43,"[2, 4]",2.0,12,5,0,13,1,0,1,0,0,0,3,6.5,0,0,0,0,0,20,32,0,52,42,True,False,False,Right-arm fast,Right-hand bat
+Sussex,CD Nash,6f049d41,1,10,9,2,0,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,41,True,False,False,Right-arm offbreak,Right-hand bat
+Sussex,LJ Wright,cca50cd6,2,5,9,0,0,55.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,40,True,False,False,Right-arm medium,Right-hand bat
+Sussex,PD Salt,3d284ca3,3,8,7,1,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,28,True,True,False,Right-arm offbreak,Right-hand bat
+Sussex,Craig Cachopa,af294a6c,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,33,True,False,False,,Right-hand bat
+Sussex,MW Machan,8c7d6cbe,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,5,0,0,0,0,0,0,44,44,34,True,False,False,Right-arm offbreak,Left-hand bat
+Sussex,CJ Jordan,ffe699c0,5,0,0,0,0,0.0,"[12, 14]",1.333,8,4,0,16,2,0,2,0,0,6,0,12.0,0,0,0,0,0,0,54,0,54,36,True,False,False,Right-arm fast-medium,Right-hand bat
+Sussex,JC Archer,5574750c,6,0,0,0,0,0.0,"[2, 4, 13]",3.0,18,7,0,34,5,1,1,0,0,0,2,11.33,1,0,0,0,0,0,28,8,36,29,True,False,False,Right-arm fast,Right-hand bat
+Sussex,HZ Finch,6b16f8ba,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Sussex,WAT Beer,98eacfe5,8,0,0,0,0,0.0,"[6, 8, 10]",3.0,18,5,0,18,0,1,1,0,0,0,1,6.0,0,0,0,0,0,0,32,0,32,36,True,False,False,Legbreak,Right-hand bat
+Sussex,GHS Garton,be869ccf,9,0,0,0,0,0.0,"[5, 7, 9]",3.0,18,11,0,16,2,0,4,0,1,2,1,5.33,1,0,0,0,0,0,131,8,139,27,True,False,True,Left-arm fast,Left-hand bat
+Sussex,TS Mills,245c97cb,10,0,0,0,0,0.0,"[1, 3, 11]",3.0,18,15,0,14,0,0,2,0,0,7,4,4.67,1,0,0,0,0,0,71,8,79,32,True,False,False,Left-arm fast,Right-hand bat

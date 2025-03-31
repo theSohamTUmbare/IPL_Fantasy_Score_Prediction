@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Lions,DA Hendricks,f66f5343,1,38,48,2,0,79.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,50,0,0,50
-Lions,HE van der Dussen,9948e262,2,29,25,2,1,116.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,47,0,0,47
-Lions,M Mosehle,8836fcac,3,49,28,4,2,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,87,0,8,95
-Lions,DP Conway,df5a6881,4,6,8,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6
-Lions,NJ van den Bergh,055e8d7b,5,11,6,0,1,183.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
-Lions,PWA Mulder,c96f6ac5,6,4,3,0,0,133.33,"[4, 6, 16]",3.0,18,4,0,39,1,3,0,0,0,1,2,13.0,0,0,0,0,0,4,-2,0,2
-Lions,OA Ramela,04a5b56e,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Lions,GC Viljoen,a316d663,7,1,2,0,0,50.0,"[1, 3, 13, 17]",4.0,24,11,0,30,3,1,2,0,1,0,0,7.5,0,0,0,0,0,1,69,0,70
-Lions,AM Phangiso,7f8ecc51,7,0,0,0,0,0.0,"[7, 9, 11, 15]",4.0,24,5,0,20,0,0,1,0,1,0,1,5.0,0,0,0,0,0,0,42,0,42
-Lions,Z Pongolo,01698fee,8,0,0,0,0,0.0,"[5, 14, 18]",2.833,17,4,0,33,3,2,0,0,0,0,1,11.65,0,0,0,0,0,0,0,0,0
-Lions,E Leie,a7bc76a0,9,0,0,0,0,0.0,"[2, 8, 10, 12]",4.0,24,9,0,29,3,1,1,0,1,0,0,7.25,0,0,0,0,0,0,42,0,42
-Warriors,JT Smuts,42172c3c,1,31,24,4,1,129.17,"[7, 9, 11, 15]",4.0,24,11,0,15,0,0,2,0,1,0,0,3.75,1,0,0,0,0,57,75,8,140
-Warriors,S Seyibokwe,2f873ad6,2,17,24,1,0,70.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
-Warriors,DJ White,d9092a19,3,9,13,0,0,69.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,7,0,0,7
-Warriors,CN Ackermann,e734d090,4,22,15,1,1,146.67,"[8, 12, 14]",3.0,18,3,0,30,1,2,0,0,0,0,0,10.0,0,0,0,0,2,34,1,0,35
-Warriors,C Jonker,a81d6706,5,49,17,3,5,288.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,6,101,0,20,121
-Warriors,LC Ngoepe,51355a30,6,18,14,1,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
-Warriors,C Fortuin,f25cebec,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Warriors,SSB Magala,8361e524,7,0,0,0,0,0.0,"[4, 6, 18, 20]",4.0,24,9,1,28,3,0,1,0,1,0,5,7.0,0,0,0,0,0,0,56,0,56
-Warriors,SSN Nqweni,179bea21,8,0,0,0,0,0.0,[10],1.0,6,0,0,12,0,1,0,0,0,0,1,12.0,0,0,0,0,0,0,0,0,0
-Warriors,ACR Birch,9df3a2f4,9,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,8,0,30,1,1,1,0,0,0,2,7.5,0,0,0,0,0,0,33,0,33
-Warriors,BD Walters,1e182ae2,10,0,0,0,0,0.0,"[2, 5, 13, 16]",4.0,24,6,0,32,3,0,0,0,0,0,1,8.0,0,0,0,0,0,0,6,0,6
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Lions,DA Hendricks,f66f5343,1,38,48,2,0,79.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,50,0,0,50,34,True,False,False,Right-arm offbreak,Left-hand bat
+Lions,HE van der Dussen,9948e262,2,29,25,2,1,116.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,47,0,0,47,36,True,False,False,Legbreak,Right-hand bat
+Lions,M Mosehle,8836fcac,3,49,28,4,2,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,87,0,8,95,34,True,False,False,,Right-hand bat
+Lions,DP Conway,df5a6881,4,6,8,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6,33,True,True,False,Right-arm medium,Left-hand bat
+Lions,NJ van den Bergh,055e8d7b,5,11,6,0,1,183.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,35,True,False,False,,Right-hand bat
+Lions,PWA Mulder,c96f6ac5,6,4,3,0,0,133.33,"[4, 6, 16]",3.0,18,4,0,39,1,3,0,0,0,1,2,13.0,0,0,0,0,0,4,-2,0,2,27,True,False,True,Right-arm medium,Right-hand bat
+Lions,OA Ramela,04a5b56e,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,37,True,True,False,Slow left-arm orthodox,Left-hand bat
+Lions,GC Viljoen,a316d663,7,1,2,0,0,50.0,"[1, 3, 13, 17]",4.0,24,11,0,30,3,1,2,0,1,0,0,7.5,0,0,0,0,0,1,69,0,70,36,True,False,False,Right-arm fast,Right-hand bat
+Lions,AM Phangiso,7f8ecc51,7,0,0,0,0,0.0,"[7, 9, 11, 15]",4.0,24,5,0,20,0,0,1,0,1,0,1,5.0,0,0,0,0,0,0,42,0,42,41,True,False,False,Slow left-arm orthodox,Right-hand bat
+Lions,Z Pongolo,01698fee,8,0,0,0,0,0.0,"[5, 14, 18]",2.833,17,4,0,33,3,2,0,0,0,0,1,11.65,0,0,0,0,0,0,0,0,0,35,True,True,False,Right-arm medium,Right-hand bat
+Lions,E Leie,a7bc76a0,9,0,0,0,0,0.0,"[2, 8, 10, 12]",4.0,24,9,0,29,3,1,1,0,1,0,0,7.25,0,0,0,0,0,0,42,0,42,38,True,False,False,Legbreak,Right-hand bat
+Warriors,JT Smuts,42172c3c,1,31,24,4,1,129.17,"[7, 9, 11, 15]",4.0,24,11,0,15,0,0,2,0,1,0,0,3.75,1,0,0,0,0,57,75,8,140,36,True,False,True,Slow left-arm orthodox,Right-hand bat
+Warriors,S Seyibokwe,2f873ad6,2,17,24,1,0,70.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21,37,True,True,False,Right-arm medium,Right-hand bat
+Warriors,DJ White,d9092a19,3,9,13,0,0,69.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,7,0,0,7,33,True,False,False,Right-arm medium-fast,Right-hand bat
+Warriors,CN Ackermann,e734d090,4,22,15,1,1,146.67,"[8, 12, 14]",3.0,18,3,0,30,1,2,0,0,0,0,0,10.0,0,0,0,0,2,34,1,0,35,33,True,False,True,Right-arm offbreak,Right-hand bat
+Warriors,C Jonker,a81d6706,5,49,17,3,5,288.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,6,101,0,20,121,38,True,False,False,Right-arm medium-fast,Right-hand bat
+Warriors,LC Ngoepe,51355a30,6,18,14,1,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Warriors,C Fortuin,f25cebec,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,29,True,False,False,,Right-hand bat
+Warriors,SSB Magala,8361e524,7,0,0,0,0,0.0,"[4, 6, 18, 20]",4.0,24,9,1,28,3,0,1,0,1,0,5,7.0,0,0,0,0,0,0,56,0,56,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Warriors,SSN Nqweni,179bea21,8,0,0,0,0,0.0,[10],1.0,6,0,0,12,0,1,0,0,0,0,1,12.0,0,0,0,0,0,0,0,0,0,31,True,True,False,Right-arm fast-medium,Right-hand bat
+Warriors,ACR Birch,9df3a2f4,9,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,8,0,30,1,1,1,0,0,0,2,7.5,0,0,0,0,0,0,33,0,33,39,True,True,False,Right-arm medium-fast,Right-hand bat
+Warriors,BD Walters,1e182ae2,10,0,0,0,0,0.0,"[2, 5, 13, 16]",4.0,24,6,0,32,3,0,0,0,0,0,1,8.0,0,0,0,0,0,0,6,0,6,38,True,False,False,Right-arm medium-fast,Right-hand bat

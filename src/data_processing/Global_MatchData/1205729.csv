@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Assam,Pallav Kumar Das,c2294408,1,30,22,5,0,136.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,56,0,0,56
-Assam,Swarupam Purkayastha,dfc887dc,2,14,15,2,0,93.33,"[2, 4]",2.0,12,2,0,33,3,2,1,0,0,1,0,16.5,0,0,0,0,0,22,21,0,43
-Assam,Sibsankar Roy,3d8348d0,3,41,41,1,1,100.0,[7],1.0,6,2,0,8,1,0,1,0,1,0,0,8.0,0,0,0,0,0,55,35,0,90
-Assam,R Parag,04a418e8,4,31,20,2,2,155.0,"[10, 12, 14]",3.0,18,6,0,24,2,1,0,0,0,0,0,8.0,0,0,0,0,4,59,6,0,65
-Assam,Mrinmoy Dutta,64959652,4,0,0,0,0,0.0,"[3, 5, 15]",3.0,18,7,0,14,1,0,0,0,0,0,0,4.67,0,0,0,0,0,0,13,0,13
-Assam,Rajjakuddin Ahmed,69cbffb8,5,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
-Assam,Amit Sinha,2f48362d,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Assam,Hrishikesh Tamuli,70b51feb,7,11,10,0,0,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
-Assam,AN Ahmed,2af1b6d2,8,1,2,0,0,50.0,"[1, 17]",1.833,11,1,0,24,3,1,0,0,0,0,0,13.09,0,0,0,0,0,1,1,0,2
-Assam,Pritam Das,e342d310,9,7,5,1,0,140.0,"[6, 8, 16]",3.0,18,5,0,17,0,0,0,0,0,0,1,5.67,0,0,0,0,0,11,9,0,20
-Assam,Roshan Alam,7cc093f4,10,0,0,0,0,0.0,"[9, 11, 13]",3.0,18,7,0,17,1,0,0,0,0,0,0,5.67,0,0,0,0,0,0,11,0,11
-Bengal,SP Goswami,541f85c9,1,10,8,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
-Bengal,Vivek Singh,a446c7be,2,46,25,4,3,184.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,90,0,0,90
-Bengal,AR Easwaran,10b58586,3,36,30,3,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,52,0,8,60
-Bengal,IC Porel,fdf7491e,4,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,11,0,23,3,0,3,0,2,0,0,5.75,0,0,0,0,0,0,110,0,110
-Bengal,MK Tiwary,26e5cabf,4,43,38,3,1,113.16,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,65,0,0,65
-Bengal,Akash Deep,0a67aec0,5,0,0,0,0,0.0,"[2, 4, 13, 15]",4.0,24,10,0,37,5,1,1,0,0,0,3,9.25,0,0,0,0,0,0,35,0,35
-Bengal,Writtick Chatterjee,a00e1842,6,0,0,0,0,0.0,"[5, 7, 9, 11]",4.0,24,11,0,20,1,0,1,1,0,0,0,5.0,1,0,0,0,0,0,48,8,56
-Bengal,Ravikant Singh,824b6ca0,7,0,0,0,0,0.0,"[6, 8, 18, 20]",4.0,24,4,0,31,2,0,2,0,0,0,0,7.75,0,0,0,0,0,0,54,0,54
-Bengal,Shahbaz Ahmed,f9e6e7ef,8,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,5,0,29,0,2,1,0,0,0,0,7.25,3,0,0,0,0,0,30,28,58
-Bengal,Ritwik Roy Chowdhury,6033d30a,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Bengal,Abhishek Raman,43d1ee59,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Assam,Pallav Kumar Das,c2294408,1,30,22,5,0,136.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,56,0,0,56,35,True,False,False,Right-arm medium,Left-hand bat
+Assam,Swarupam Purkayastha,dfc887dc,2,14,15,2,0,93.33,"[2, 4]",2.0,12,2,0,33,3,2,1,0,0,1,0,16.5,0,0,0,0,0,22,21,0,43,35,True,True,False,Right-arm offbreak,Right-hand bat
+Assam,Sibsankar Roy,3d8348d0,3,41,41,1,1,100.0,[7],1.0,6,2,0,8,1,0,1,0,1,0,0,8.0,0,0,0,0,0,55,35,0,90,34,True,False,False,Right-arm offbreak,Left-hand bat
+Assam,R Parag,04a418e8,4,31,20,2,2,155.0,"[10, 12, 14]",3.0,18,6,0,24,2,1,0,0,0,0,0,8.0,0,0,0,0,4,59,6,0,65,23,True,False,False,Legbreak,Right-hand bat
+Assam,Mrinmoy Dutta,64959652,4,0,0,0,0,0.0,"[3, 5, 15]",3.0,18,7,0,14,1,0,0,0,0,0,0,4.67,0,0,0,0,0,0,13,0,13,26,True,True,False,Left-arm medium-fast,Left-hand bat
+Assam,Rajjakuddin Ahmed,69cbffb8,5,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,29,True,True,False,Right-arm medium,Right-hand bat
+Assam,Amit Sinha,2f48362d,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,36,True,True,False,Legbreak,Right-hand bat
+Assam,Hrishikesh Tamuli,70b51feb,7,11,10,0,0,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,29,True,False,False,,Right-hand bat
+Assam,AN Ahmed,2af1b6d2,8,1,2,0,0,50.0,"[1, 17]",1.833,11,1,0,24,3,1,0,0,0,0,0,13.09,0,0,0,0,0,1,1,0,2,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Assam,Pritam Das,e342d310,9,7,5,1,0,140.0,"[6, 8, 16]",3.0,18,5,0,17,0,0,0,0,0,0,1,5.67,0,0,0,0,0,11,9,0,20,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Assam,Roshan Alam,7cc093f4,10,0,0,0,0,0.0,"[9, 11, 13]",3.0,18,7,0,17,1,0,0,0,0,0,0,5.67,0,0,0,0,0,0,11,0,11,29,True,True,False,Slow left-arm orthodox,Right-hand bat
+Bengal,SP Goswami,541f85c9,1,10,8,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,35,True,False,False,,Left-hand bat
+Bengal,Vivek Singh,a446c7be,2,46,25,4,3,184.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,90,0,0,90,31,True,False,False,Right-arm medium,Left-hand bat
+Bengal,AR Easwaran,10b58586,3,36,30,3,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,52,0,8,60,29,True,False,False,Legbreak googly,Right-hand bat
+Bengal,IC Porel,fdf7491e,4,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,11,0,23,3,0,3,0,2,0,0,5.75,0,0,0,0,0,0,110,0,110,26,True,False,False,Right-arm medium,Right-hand bat
+Bengal,MK Tiwary,26e5cabf,4,43,38,3,1,113.16,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,65,0,0,65,39,True,False,False,Legbreak googly,Right-hand bat
+Bengal,Akash Deep,0a67aec0,5,0,0,0,0,0.0,"[2, 4, 13, 15]",4.0,24,10,0,37,5,1,1,0,0,0,3,9.25,0,0,0,0,0,0,35,0,35,28,True,False,False,Right-arm fast-medium,Right-hand bat
+Bengal,Writtick Chatterjee,a00e1842,6,0,0,0,0,0.0,"[5, 7, 9, 11]",4.0,24,11,0,20,1,0,1,1,0,0,0,5.0,1,0,0,0,0,0,48,8,56,32,True,False,True,Right-arm offbreak,Right-hand bat
+Bengal,Ravikant Singh,824b6ca0,7,0,0,0,0,0.0,"[6, 8, 18, 20]",4.0,24,4,0,31,2,0,2,0,0,0,0,7.75,0,0,0,0,0,0,54,0,54,31,True,True,False,Right-arm medium,Right-hand bat
+Bengal,Shahbaz Ahmed,f9e6e7ef,8,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,5,0,29,0,2,1,0,0,0,0,7.25,3,0,0,0,0,0,30,28,58,30,True,False,True,Slow left-arm orthodox,Left-hand bat
+Bengal,Ritwik Roy Chowdhury,6033d30a,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,29,True,True,False,Right-arm medium,Right-hand bat
+Bengal,Abhishek Raman,43d1ee59,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,31,True,True,False,Right-arm offbreak,Left-hand bat

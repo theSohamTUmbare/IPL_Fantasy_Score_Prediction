@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Adelaide Strikers,MT Renshaw,218d4d78,1,30,23,5,0,130.43,[5],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,2,56,1,0,57
-Adelaide Strikers,PD Salt,3d284ca3,2,59,42,3,3,140.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,99,0,0,99
-Adelaide Strikers,AT Carey,69d03465,3,42,25,3,3,168.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,80,0,0,80
-Adelaide Strikers,J Weatherald,edc7ddb6,4,19,10,1,2,190.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,41,0,0,41
-Adelaide Strikers,RJ Gibson,50636767,5,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
-Adelaide Strikers,WA Agar,15de1f5d,6,0,0,0,0,0.0,"[4, 10, 16, 20]",3.833,23,5,0,33,2,2,1,1,0,0,2,8.61,0,0,0,0,0,0,38,0,38
-Adelaide Strikers,JW Wells,8bdac857,6,16,13,1,0,123.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
-Adelaide Strikers,Rashid Khan,5f547c8b,7,0,1,0,0,0.0,"[7, 9, 13, 17]",4.0,24,10,0,24,1,1,2,1,0,0,0,6.0,0,0,0,0,0,-2,70,0,68
-Adelaide Strikers,PM Siddle,bd93fea4,7,0,0,0,0,0.0,"[2, 12, 15, 19]",4.0,24,8,0,38,4,1,0,0,0,0,1,9.5,0,0,0,0,0,0,8,0,8
-Adelaide Strikers,DR Briggs,f3abd0c9,8,2,4,0,0,50.0,"[6, 11, 14, 18]",4.0,24,6,0,37,4,1,1,0,1,0,0,9.25,0,0,0,0,0,2,39,0,41
-Adelaide Strikers,HNA Conway,272fc5ad,8,0,0,0,0,0.0,"[1, 3, 8]",3.0,18,7,0,23,3,0,0,0,0,0,0,7.67,0,0,0,0,0,0,7,0,7
-Melbourne Renegades,MW Harvey,47dc9794,1,14,13,2,0,107.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,22,0,8,30
-Melbourne Renegades,AJ Finch,b8d490fd,2,14,15,1,0,93.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
-Melbourne Renegades,SB Harper,a756e61a,3,18,14,2,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26
-Melbourne Renegades,Mohammad Nabi,62af8546,4,71,41,9,2,173.17,[12],1.0,6,1,0,9,1,0,0,0,0,0,0,9.0,1,0,0,0,6,133,1,8,142
-Melbourne Renegades,JA Prestwidge,5f317fd4,5,14,13,1,1,107.69,"[8, 10, 19]",3.0,18,6,0,20,2,0,2,0,0,0,2,6.67,1,0,0,0,0,24,58,8,90
-Melbourne Renegades,BJ Webster,56b93d46,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Melbourne Renegades,J Fraser-McGurk,9b6e1b3f,6,29,23,0,2,126.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,45,0,16,61
-Melbourne Renegades,Imad Wasim,9cb8d7a6,7,0,0,0,0,0.0,"[1, 5, 11, 15]",4.0,24,6,0,28,3,0,1,0,0,0,0,7.0,0,0,0,0,0,0,33,0,33
-Melbourne Renegades,KW Richardson,dfc4d8b5,8,0,0,0,0,0.0,"[2, 4, 14, 20]",4.0,24,9,0,40,2,3,1,0,0,0,3,10.0,0,0,0,0,0,0,32,0,32
-Melbourne Renegades,P Hatzoglou,6f95e5fa,9,0,0,0,0,0.0,"[3, 7, 16, 18]",4.0,24,6,0,43,3,3,3,0,1,0,0,10.75,0,0,0,0,0,0,91,0,91
-Melbourne Renegades,Noor Ahmad,efc04be7,10,0,0,0,0,0.0,"[6, 9, 13, 17]",4.0,24,7,0,35,2,2,0,0,0,0,1,8.75,0,0,0,0,0,0,7,0,7
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Adelaide Strikers,MT Renshaw,218d4d78,1,30,23,5,0,130.43,[5],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,2,56,1,0,57,29,True,False,False,Right-arm offbreak,Left-hand bat
+Adelaide Strikers,PD Salt,3d284ca3,2,59,42,3,3,140.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,99,0,0,99,28,True,True,False,Right-arm offbreak,Right-hand bat
+Adelaide Strikers,AT Carey,69d03465,3,42,25,3,3,168.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,80,0,0,80,33,True,False,False,,Left-hand bat
+Adelaide Strikers,J Weatherald,edc7ddb6,4,19,10,1,2,190.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,41,0,0,41,30,True,False,False,Legbreak,Left-hand bat
+Adelaide Strikers,RJ Gibson,50636767,5,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,31,True,False,False,Right-arm medium,Right-hand bat
+Adelaide Strikers,WA Agar,15de1f5d,6,0,0,0,0,0.0,"[4, 10, 16, 20]",3.833,23,5,0,33,2,2,1,1,0,0,2,8.61,0,0,0,0,0,0,38,0,38,28,True,False,False,Right-arm fast,Right-hand bat
+Adelaide Strikers,JW Wells,8bdac857,6,16,13,1,0,123.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,36,True,False,False,Right-arm medium,Right-hand bat
+Adelaide Strikers,Rashid Khan,5f547c8b,7,0,1,0,0,0.0,"[7, 9, 13, 17]",4.0,24,10,0,24,1,1,2,1,0,0,0,6.0,0,0,0,0,0,-2,70,0,68,26,True,False,True,Legbreak googly,Right-hand bat
+Adelaide Strikers,PM Siddle,bd93fea4,7,0,0,0,0,0.0,"[2, 12, 15, 19]",4.0,24,8,0,38,4,1,0,0,0,0,1,9.5,0,0,0,0,0,0,8,0,8,40,True,False,False,Right-arm fast-medium,Right-hand bat
+Adelaide Strikers,DR Briggs,f3abd0c9,8,2,4,0,0,50.0,"[6, 11, 14, 18]",4.0,24,6,0,37,4,1,1,0,1,0,0,9.25,0,0,0,0,0,2,39,0,41,33,True,False,False,Slow left-arm orthodox,Right-hand bat
+Adelaide Strikers,HNA Conway,272fc5ad,8,0,0,0,0,0.0,"[1, 3, 8]",3.0,18,7,0,23,3,0,0,0,0,0,0,7.67,0,0,0,0,0,0,7,0,7,32,True,False,False,Right-arm fast-medium,Right-hand bat
+Melbourne Renegades,MW Harvey,47dc9794,1,14,13,2,0,107.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,22,0,8,30,24,True,False,False,Right-arm medium-fast,Left-hand bat
+Melbourne Renegades,AJ Finch,b8d490fd,2,14,15,1,0,93.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,38,True,False,False,Slow left-arm orthodox,Right-hand bat
+Melbourne Renegades,SB Harper,a756e61a,3,18,14,2,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26,28,True,False,False,,Right-hand bat
+Melbourne Renegades,Mohammad Nabi,62af8546,4,71,41,9,2,173.17,[12],1.0,6,1,0,9,1,0,0,0,0,0,0,9.0,1,0,0,0,6,133,1,8,142,40,True,False,True,Right-arm offbreak,Right-hand bat
+Melbourne Renegades,JA Prestwidge,5f317fd4,5,14,13,1,1,107.69,"[8, 10, 19]",3.0,18,6,0,20,2,0,2,0,0,0,2,6.67,1,0,0,0,0,24,58,8,90,29,True,False,False,Right-arm medium-fast,Right-hand bat
+Melbourne Renegades,BJ Webster,56b93d46,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,31,True,False,True,Right-arm offbreak,Right-hand bat
+Melbourne Renegades,J Fraser-McGurk,9b6e1b3f,6,29,23,0,2,126.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,45,0,16,61,22,True,False,False,Legbreak googly,Right-hand bat
+Melbourne Renegades,Imad Wasim,9cb8d7a6,7,0,0,0,0,0.0,"[1, 5, 11, 15]",4.0,24,6,0,28,3,0,1,0,0,0,0,7.0,0,0,0,0,0,0,33,0,33,36,True,False,True,Slow left-arm orthodox,Left-hand bat
+Melbourne Renegades,KW Richardson,dfc4d8b5,8,0,0,0,0,0.0,"[2, 4, 14, 20]",4.0,24,9,0,40,2,3,1,0,0,0,3,10.0,0,0,0,0,0,0,32,0,32,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Melbourne Renegades,P Hatzoglou,6f95e5fa,9,0,0,0,0,0.0,"[3, 7, 16, 18]",4.0,24,6,0,43,3,3,3,0,1,0,0,10.75,0,0,0,0,0,0,91,0,91,26,True,False,False,Legbreak googly,Right-hand bat
+Melbourne Renegades,Noor Ahmad,efc04be7,10,0,0,0,0,0.0,"[6, 9, 13, 17]",4.0,24,7,0,35,2,2,0,0,0,0,1,8.75,0,0,0,0,0,0,7,0,7,20,True,False,False,Left-arm wrist-spin,Right-hand bat

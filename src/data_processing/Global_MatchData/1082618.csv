@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Mumbai Indians,PA Patel,b5da6c24,1,33,27,4,0,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,53,0,0,53
-Mumbai Indians,JC Buttler,99b75528,2,17,13,3,0,130.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,31,0,0,31
-Mumbai Indians,N Rana,fb2d1dda,3,3,9,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
-Mumbai Indians,RG Sharma,740742ef,4,58,39,6,3,148.72,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,110,0,0,110
-Mumbai Indians,KV Sharma,119678fd,5,11,10,0,1,110.0,"[4, 6, 10, 12]",4.0,24,7,0,39,3,2,2,0,0,0,0,9.75,1,0,0,0,0,17,57,8,82
-Mumbai Indians,KA Pollard,a757b0d8,6,9,9,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
-Mumbai Indians,HH Pandya,dbe50b21,7,13,11,2,0,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
-Mumbai Indians,Harbhajan Singh,8b5b6769,8,7,2,0,1,350.0,"[7, 9, 11, 13]",4.0,24,7,0,20,0,0,1,0,1,0,0,5.0,0,0,0,0,0,13,44,0,57
-Mumbai Indians,MJ McClenaghan,51a3c5ef,9,0,0,0,0,0.0,"[2, 8, 16, 19]",4.0,24,9,0,36,7,0,0,0,0,0,1,9.0,0,0,0,0,0,0,9,0,9
-Mumbai Indians,MG Johnson,f5180fe6,10,0,0,0,0,0.0,"[1, 3, 14, 17]",4.0,24,9,0,34,4,1,1,0,1,0,1,8.5,0,0,0,0,0,0,42,0,42
-Mumbai Indians,JJ Bumrah,462411b3,10,0,0,0,0,0.0,"[5, 15, 18, 20]",4.0,24,9,0,29,3,0,2,1,1,0,0,7.25,0,0,0,0,0,0,75,0,75
-Rising Pune Supergiant,AM Rahane,29e95537,1,38,32,5,1,118.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,68,0,0,68
-Rising Pune Supergiant,RA Tripathi,77255a9e,2,45,31,3,2,145.16,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,75,0,0,75
-Rising Pune Supergiant,SPD Smith,30a45b23,3,17,12,2,0,141.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,27,0,8,35
-Rising Pune Supergiant,MS Dhoni,4a8a2e3b,4,7,11,0,0,63.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,5,0,0,5
-Rising Pune Supergiant,BA Stokes,e087956b,5,17,12,2,0,141.67,"[5, 13, 15, 19]",4.0,24,8,1,21,2,0,2,0,1,0,1,5.25,1,0,0,1,2,27,82,14,123
-Rising Pune Supergiant,MK Tiwary,26e5cabf,6,22,13,4,0,169.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,42,0,0,42
-Rising Pune Supergiant,DT Christian,2a2e6343,7,8,7,1,0,114.29,[8],1.0,6,3,0,6,1,0,1,0,0,0,0,6.0,0,0,0,0,0,12,28,0,40
-Rising Pune Supergiant,Washington Sundar,f19ccfad,8,2,2,0,0,100.0,"[1, 3, 7, 9]",4.0,24,8,0,26,3,0,1,0,1,0,0,6.5,1,0,0,0,0,2,43,8,53
-Rising Pune Supergiant,SN Thakur,1abb78f8,10,0,0,0,0,0.0,"[2, 6, 16]",3.0,18,6,0,29,3,1,0,0,0,0,1,9.67,0,0,0,0,0,0,6,0,6
-Rising Pune Supergiant,JD Unadkat,1e66c162,11,0,0,0,0,0.0,"[4, 11, 18, 20]",4.0,24,7,0,40,4,2,2,0,0,0,1,10.0,2,0,0,1,0,0,55,22,77
-Rising Pune Supergiant,Imran Tahir,acee4cc4,12,0,0,0,0,0.0,"[10, 12, 14, 17]",4.0,24,12,0,32,3,2,1,0,0,0,0,8.0,0,0,0,0,0,0,37,0,37
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Mumbai Indians,PA Patel,b5da6c24,1,33,27,4,0,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,53,0,0,53,40,True,True,False,Right-arm offbreak,Left-hand bat
+Mumbai Indians,JC Buttler,99b75528,2,17,13,3,0,130.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,31,0,0,31,34,True,False,False,,Right-hand bat
+Mumbai Indians,N Rana,fb2d1dda,3,3,9,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,31,True,False,False,Legbreak,Left-hand bat
+Mumbai Indians,RG Sharma,740742ef,4,58,39,6,3,148.72,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,110,0,0,110,37,True,False,False,Right-arm offbreak,Right-hand bat
+Mumbai Indians,KV Sharma,119678fd,5,11,10,0,1,110.0,"[4, 6, 10, 12]",4.0,24,7,0,39,3,2,2,0,0,0,0,9.75,1,0,0,0,0,17,57,8,82,37,True,False,False,Legbreak googly,Left-hand bat
+Mumbai Indians,KA Pollard,a757b0d8,6,9,9,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21,37,True,False,True,Right-arm medium,Right-hand bat
+Mumbai Indians,HH Pandya,dbe50b21,7,13,11,2,0,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21,31,True,False,True,Right-arm medium-fast,Right-hand bat
+Mumbai Indians,Harbhajan Singh,8b5b6769,8,7,2,0,1,350.0,"[7, 9, 11, 13]",4.0,24,7,0,20,0,0,1,0,1,0,0,5.0,0,0,0,0,0,13,44,0,57,44,True,False,False,Right-arm offbreak,Right-hand bat
+Mumbai Indians,MJ McClenaghan,51a3c5ef,9,0,0,0,0,0.0,"[2, 8, 16, 19]",4.0,24,9,0,36,7,0,0,0,0,0,1,9.0,0,0,0,0,0,0,9,0,9,38,True,False,False,Left-arm fast-medium,Left-hand bat
+Mumbai Indians,MG Johnson,f5180fe6,10,0,0,0,0,0.0,"[1, 3, 14, 17]",4.0,24,9,0,34,4,1,1,0,1,0,1,8.5,0,0,0,0,0,0,42,0,42,43,True,False,False,Left-arm fast,Left-hand bat
+Mumbai Indians,JJ Bumrah,462411b3,10,0,0,0,0,0.0,"[5, 15, 18, 20]",4.0,24,9,0,29,3,0,2,1,1,0,0,7.25,0,0,0,0,0,0,75,0,75,31,True,False,False,Right-arm fast,Right-hand bat
+Rising Pune Supergiant,AM Rahane,29e95537,1,38,32,5,1,118.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,68,0,0,68,36,True,False,False,Right-arm medium,Right-hand bat
+Rising Pune Supergiant,RA Tripathi,77255a9e,2,45,31,3,2,145.16,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,75,0,0,75,34,True,False,False,Right-arm medium,Right-hand bat
+Rising Pune Supergiant,SPD Smith,30a45b23,3,17,12,2,0,141.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,27,0,8,35,35,True,False,False,Legbreak googly,Right-hand bat
+Rising Pune Supergiant,MS Dhoni,4a8a2e3b,4,7,11,0,0,63.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,5,0,0,5,43,True,True,False,Right-arm medium,Right-hand bat
+Rising Pune Supergiant,BA Stokes,e087956b,5,17,12,2,0,141.67,"[5, 13, 15, 19]",4.0,24,8,1,21,2,0,2,0,1,0,1,5.25,1,0,0,1,2,27,82,14,123,33,True,False,True,Right-arm fast-medium,Left-hand bat
+Rising Pune Supergiant,MK Tiwary,26e5cabf,6,22,13,4,0,169.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,42,0,0,42,39,True,False,False,Legbreak googly,Right-hand bat
+Rising Pune Supergiant,DT Christian,2a2e6343,7,8,7,1,0,114.29,[8],1.0,6,3,0,6,1,0,1,0,0,0,0,6.0,0,0,0,0,0,12,28,0,40,41,True,False,True,Right-arm fast-medium,Right-hand bat
+Rising Pune Supergiant,Washington Sundar,f19ccfad,8,2,2,0,0,100.0,"[1, 3, 7, 9]",4.0,24,8,0,26,3,0,1,0,1,0,0,6.5,1,0,0,0,0,2,43,8,53,25,True,False,True,Right-arm offbreak,Left-hand bat
+Rising Pune Supergiant,SN Thakur,1abb78f8,10,0,0,0,0,0.0,"[2, 6, 16]",3.0,18,6,0,29,3,1,0,0,0,0,1,9.67,0,0,0,0,0,0,6,0,6,33,True,False,False,Right-arm medium,Right-hand bat
+Rising Pune Supergiant,JD Unadkat,1e66c162,11,0,0,0,0,0.0,"[4, 11, 18, 20]",4.0,24,7,0,40,4,2,2,0,0,0,1,10.0,2,0,0,1,0,0,55,22,77,33,True,False,False,Left-arm medium,Right-hand bat
+Rising Pune Supergiant,Imran Tahir,acee4cc4,12,0,0,0,0,0.0,"[10, 12, 14, 17]",4.0,24,12,0,32,3,2,1,0,0,0,0,8.0,0,0,0,0,0,0,37,0,37,46,True,False,False,Legbreak googly,Right-hand bat

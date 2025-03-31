@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Arunachal Pradesh,Abhinav Srivastava,2eca546a,1,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
-Arunachal Pradesh,Techi Doria,dde809f3,2,24,30,2,0,80.0,"[13, 15]",2.0,12,2,0,20,0,1,0,0,0,2,1,10.0,0,0,1,0,0,32,0,12,44
-Arunachal Pradesh,Techi Sonam,4494e8b7,3,4,8,1,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,8,0,12,20
-Arunachal Pradesh,Techi Neri,d3885f28,4,19,16,2,1,118.75,"[7, 9, 11]",3.0,18,5,0,18,1,0,0,0,0,0,0,6.0,0,0,0,0,0,33,7,0,40
-Arunachal Pradesh,Nazeeb Saiyed,2122c023,5,32,21,2,2,152.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,60,0,0,60
-Arunachal Pradesh,Vipin Dhaka,f9da1515,6,9,9,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
-Arunachal Pradesh,Akhilesh Sahani,d6ac52e8,7,31,21,2,2,147.62,"[1, 3]",2.0,12,6,0,14,2,0,0,0,0,0,1,7.0,0,0,0,0,2,57,8,0,65
-Arunachal Pradesh,RB Bishnoi Jr,99fdf8c9,8,3,3,0,0,100.0,"[5, 8, 10, 17]",4.0,24,7,0,28,2,0,0,0,0,0,0,7.0,0,0,0,0,0,3,9,0,12
-Arunachal Pradesh,Myendung Singpho,d2b99c2d,9,0,1,0,0,0.0,"[12, 14, 16, 18]",4.0,24,9,0,36,2,2,3,0,0,0,1,9.0,0,0,0,0,0,-2,88,0,86
-Arunachal Pradesh,Kamsha Yangfo,451db894,10,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Arunachal Pradesh,Manvan Patel,b6d95d47,11,2,2,0,0,100.0,"[2, 4, 6]",3.0,18,9,0,14,1,0,0,0,0,0,0,4.67,0,0,0,0,0,2,15,0,17
-Manipur,Narsingh Yadav,4c450aee,1,50,42,3,2,119.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,0,0,0,82,0,28,110
-Manipur,Nitesh Sedai,e9cb8d60,2,49,47,3,0,104.26,"[12, 14]",2.0,12,4,0,17,1,1,0,0,0,0,0,8.5,2,0,0,0,0,65,4,16,85
-Manipur,Kangabam Singh,59da1e8a,3,5,8,0,0,62.5,"[5, 8, 16, 18]",4.0,24,10,0,23,0,1,2,1,0,0,1,5.75,0,0,0,0,0,5,72,0,77
-Manipur,Jayanta Sagatpam,8e5b6ee3,4,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Manipur,Al Bashid Muhammed,1dc27b6b,5,19,8,2,1,237.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,33,0,8,41
-Manipur,Rex Rajkumar,f3ba1bdc,6,2,1,0,0,200.0,"[1, 3]",2.0,12,8,0,7,1,0,0,0,0,0,0,3.5,0,0,0,0,0,2,14,0,16
-Manipur,Bishworjit Konthoujam,15deff66,6,0,0,0,0,0.0,"[2, 4, 6, 20]",3.667,22,12,0,23,4,0,4,0,1,0,0,6.27,0,0,0,0,0,0,130,0,130
-Manipur,L Kishan Singha,ca82673d,7,0,0,0,0,0.0,"[7, 9, 11, 19]",4.0,24,12,0,26,1,2,1,0,0,0,0,6.5,0,0,1,0,0,0,39,12,51
-Manipur,Lamabam Singh,76860ea3,8,0,0,0,0,0.0,"[10, 13, 15, 17]",4.0,24,6,0,32,3,1,2,0,0,0,0,8.0,1,0,0,0,0,0,56,8,64
-Manipur,Langlonyamba Meitan Keishangbam,61b9410c,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Manipur,Chabungbam Ishworjit,f39013c1,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Arunachal Pradesh,Abhinav Srivastava,2eca546a,1,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,23,True,True,False,Right-arm medium-fast,Right-hand bat
+Arunachal Pradesh,Techi Doria,dde809f3,2,24,30,2,0,80.0,"[13, 15]",2.0,12,2,0,20,0,1,0,0,0,2,1,10.0,0,0,1,0,0,32,0,12,44,31,True,True,False,Right-arm medium,Right-hand bat
+Arunachal Pradesh,Techi Sonam,4494e8b7,3,4,8,1,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,8,0,12,20,27,True,False,False,,Right-hand bat
+Arunachal Pradesh,Techi Neri,d3885f28,4,19,16,2,1,118.75,"[7, 9, 11]",3.0,18,5,0,18,1,0,0,0,0,0,0,6.0,0,0,0,0,0,33,7,0,40,30,True,True,False,Right-arm offbreak,Right-hand bat
+Arunachal Pradesh,Nazeeb Saiyed,2122c023,5,32,21,2,2,152.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,60,0,0,60,29,True,True,False,Right-arm medium-fast,Right-hand bat
+Arunachal Pradesh,Vipin Dhaka,f9da1515,6,9,9,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21,28,True,True,False,Right-arm medium,Right-hand bat
+Arunachal Pradesh,Akhilesh Sahani,d6ac52e8,7,31,21,2,2,147.62,"[1, 3]",2.0,12,6,0,14,2,0,0,0,0,0,1,7.0,0,0,0,0,2,57,8,0,65,0,True,False,False,,
+Arunachal Pradesh,RB Bishnoi Jr,99fdf8c9,8,3,3,0,0,100.0,"[5, 8, 10, 17]",4.0,24,7,0,28,2,0,0,0,0,0,0,7.0,0,0,0,0,0,3,9,0,12,35,True,False,True,Slow left-arm orthodox,Left-hand bat
+Arunachal Pradesh,Myendung Singpho,d2b99c2d,9,0,1,0,0,0.0,"[12, 14, 16, 18]",4.0,24,9,0,36,2,2,3,0,0,0,1,9.0,0,0,0,0,0,-2,88,0,86,28,True,True,False,Legbreak googly,Right-hand bat
+Arunachal Pradesh,Kamsha Yangfo,451db894,10,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,32,True,False,False,,Right-hand bat
+Arunachal Pradesh,Manvan Patel,b6d95d47,11,2,2,0,0,100.0,"[2, 4, 6]",3.0,18,9,0,14,1,0,0,0,0,0,0,4.67,0,0,0,0,0,2,15,0,17,25,True,True,False,Right-arm medium-fast,Right-hand bat
+Manipur,Narsingh Yadav,4c450aee,1,50,42,3,2,119.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,0,0,0,82,0,28,110,33,True,False,False,,Right-hand bat
+Manipur,Nitesh Sedai,e9cb8d60,2,49,47,3,0,104.26,"[12, 14]",2.0,12,4,0,17,1,1,0,0,0,0,0,8.5,2,0,0,0,0,65,4,16,85,27,True,True,False,Right-arm offbreak,Right-hand bat
+Manipur,Kangabam Singh,59da1e8a,3,5,8,0,0,62.5,"[5, 8, 16, 18]",4.0,24,10,0,23,0,1,2,1,0,0,1,5.75,0,0,0,0,0,5,72,0,77,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Manipur,Jayanta Sagatpam,8e5b6ee3,4,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,32,True,False,False,Right-arm offbreak,Right-hand bat
+Manipur,Al Bashid Muhammed,1dc27b6b,5,19,8,2,1,237.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,33,0,8,41,26,True,False,False,,Right-hand bat
+Manipur,Rex Rajkumar,f3ba1bdc,6,2,1,0,0,200.0,"[1, 3]",2.0,12,8,0,7,1,0,0,0,0,0,0,3.5,0,0,0,0,0,2,14,0,16,24,True,True,False,Left-arm medium-fast,Left-hand bat
+Manipur,Bishworjit Konthoujam,15deff66,6,0,0,0,0,0.0,"[2, 4, 6, 20]",3.667,22,12,0,23,4,0,4,0,1,0,0,6.27,0,0,0,0,0,0,130,0,130,29,True,True,False,Right-arm medium-fast,Right-hand bat
+Manipur,L Kishan Singha,ca82673d,7,0,0,0,0,0.0,"[7, 9, 11, 19]",4.0,24,12,0,26,1,2,1,0,0,0,0,6.5,0,0,1,0,0,0,39,12,51,28,True,True,False,Slow left-arm orthodox,Right-hand bat
+Manipur,Lamabam Singh,76860ea3,8,0,0,0,0,0.0,"[10, 13, 15, 17]",4.0,24,6,0,32,3,1,2,0,0,0,0,8.0,1,0,0,0,0,0,56,8,64,26,True,True,False,Slow left-arm orthodox,Left-hand bat
+Manipur,Langlonyamba Meitan Keishangbam,61b9410c,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,27,True,True,False,Legbreak,Right-hand bat
+Manipur,Chabungbam Ishworjit,f39013c1,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,31,True,False,False,,Right-hand bat

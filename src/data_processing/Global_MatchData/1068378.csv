@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Lancashire,KR Brown,818c9e0d,1,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Lancashire,LS Livingstone,50c6bc2b,2,4,3,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
-Lancashire,AM Lilley,88a004e9,3,4,4,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16
-Lancashire,SJ Croft,ab474682,4,6,14,1,0,42.86,[13],1.0,6,1,0,10,0,1,0,0,0,0,0,10.0,0,0,0,0,-6,4,1,0,5
-Lancashire,JC Buttler,99b75528,5,8,6,0,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
-Lancashire,DJ Vilas,087210b1,6,40,27,4,1,148.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,68,0,0,68
-Lancashire,R McLaren,c654af19,7,77,50,6,4,154.0,"[4, 6, 16, 20]",4.0,24,9,0,44,6,1,2,0,1,2,2,11.0,0,0,0,0,4,141,65,0,206
-Lancashire,J Clark,c672e80e,8,1,2,0,0,50.0,"[3, 12, 14, 18]",4.0,24,7,0,30,1,2,1,0,1,0,0,7.5,1,0,0,0,0,1,40,8,49
-Lancashire,SD Parry,fdb8ed0d,9,1,4,0,0,25.0,"[2, 8, 10]",3.0,18,4,0,24,1,1,0,0,0,0,0,8.0,0,0,0,0,0,1,4,0,5
-Lancashire,MW Parkinson,19708692,10,2,4,0,0,50.0,"[7, 9, 11, 15]",4.0,24,8,0,23,1,1,0,0,0,0,0,5.75,0,0,0,0,0,2,12,0,14
-Lancashire,Junaid Khan,086f5984,11,1,2,0,0,50.0,"[1, 5, 17, 19]",4.0,24,10,0,21,1,1,1,0,0,0,1,5.25,0,0,0,0,0,1,39,0,40
-Northamptonshire,RE Levi,18c78b11,1,71,53,5,3,133.96,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,119,0,8,127
-Northamptonshire,AM Rossington,7bcde3fe,2,29,16,5,1,181.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,65,0,8,73
-Northamptonshire,BM Duckett,5f26f677,3,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Northamptonshire,AG Wakely,730d120f,4,35,37,0,2,94.59,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,51,0,0,51
-Northamptonshire,RK Kleinveldt,7955eb15,5,9,6,0,1,150.0,"[2, 4, 6, 20]",4.0,24,18,1,16,0,2,3,0,0,0,0,4.0,0,0,0,0,0,15,115,0,130
-Northamptonshire,SP Crook,c4450a69,6,3,3,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11
-Northamptonshire,RI Keogh,e22d3b5c,11,0,0,0,0,0.0,"[10, 12]",2.0,12,4,0,24,2,2,0,0,0,0,0,12.0,1,0,0,0,0,0,0,8,8
-Northamptonshire,SA Zaib,ab01e323,12,0,0,0,0,0.0,"[13, 15]",2.0,12,6,0,19,2,1,0,0,0,0,0,9.5,0,0,0,0,0,0,6,0,6
-Northamptonshire,NL Buck,5239d782,13,0,0,0,0,0.0,"[7, 9, 14, 18]",4.0,24,5,0,31,2,0,1,0,1,0,0,7.75,0,0,0,0,0,0,38,0,38
-Northamptonshire,RJ Gleeson,402f8494,14,0,0,0,0,0.0,"[1, 3, 5, 17]",4.0,24,12,0,29,4,1,3,0,3,0,0,7.25,0,0,0,0,0,0,115,0,115
-Northamptonshire,Azharullah,2a0d5d4a,15,0,0,0,0,0.0,"[8, 11, 16, 19]",4.0,24,7,0,27,3,0,1,0,0,0,0,6.75,0,0,0,0,0,0,34,0,34
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Lancashire,KR Brown,818c9e0d,1,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,36,True,False,False,Right-arm medium,Right-hand bat
+Lancashire,LS Livingstone,50c6bc2b,2,4,3,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,31,True,False,True,Legbreak,Right-hand bat
+Lancashire,AM Lilley,88a004e9,3,4,4,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16,33,True,False,True,Right-arm offbreak,Right-hand bat
+Lancashire,SJ Croft,ab474682,4,6,14,1,0,42.86,[13],1.0,6,1,0,10,0,1,0,0,0,0,0,10.0,0,0,0,0,-6,4,1,0,5,40,True,False,True,Right-arm offbreak,Right-hand bat
+Lancashire,JC Buttler,99b75528,5,8,6,0,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,34,True,False,False,,Right-hand bat
+Lancashire,DJ Vilas,087210b1,6,40,27,4,1,148.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,68,0,0,68,39,True,False,False,,Right-hand bat
+Lancashire,R McLaren,c654af19,7,77,50,6,4,154.0,"[4, 6, 16, 20]",4.0,24,9,0,44,6,1,2,0,1,2,2,11.0,0,0,0,0,4,141,65,0,206,42,True,False,True,Right-arm medium-fast,Left-hand bat
+Lancashire,J Clark,c672e80e,8,1,2,0,0,50.0,"[3, 12, 14, 18]",4.0,24,7,0,30,1,2,1,0,1,0,0,7.5,1,0,0,0,0,1,40,8,49,34,True,False,True,Right-arm medium-fast,Right-hand bat
+Lancashire,SD Parry,fdb8ed0d,9,1,4,0,0,25.0,"[2, 8, 10]",3.0,18,4,0,24,1,1,0,0,0,0,0,8.0,0,0,0,0,0,1,4,0,5,39,True,False,False,Slow left-arm orthodox,Right-hand bat
+Lancashire,MW Parkinson,19708692,10,2,4,0,0,50.0,"[7, 9, 11, 15]",4.0,24,8,0,23,1,1,0,0,0,0,0,5.75,0,0,0,0,0,2,12,0,14,28,True,False,False,Legbreak,Right-hand bat
+Lancashire,Junaid Khan,086f5984,11,1,2,0,0,50.0,"[1, 5, 17, 19]",4.0,24,10,0,21,1,1,1,0,0,0,1,5.25,0,0,0,0,0,1,39,0,40,35,True,False,False,Left-arm fast,Right-hand bat
+Northamptonshire,RE Levi,18c78b11,1,71,53,5,3,133.96,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,119,0,8,127,37,True,False,False,Right-arm medium,Right-hand bat
+Northamptonshire,AM Rossington,7bcde3fe,2,29,16,5,1,181.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,65,0,8,73,31,True,False,False,,Right-hand bat
+Northamptonshire,BM Duckett,5f26f677,3,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,30,True,False,False,Right-arm offbreak,Left-hand bat
+Northamptonshire,AG Wakely,730d120f,4,35,37,0,2,94.59,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,51,0,0,51,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Northamptonshire,RK Kleinveldt,7955eb15,5,9,6,0,1,150.0,"[2, 4, 6, 20]",4.0,24,18,1,16,0,2,3,0,0,0,0,4.0,0,0,0,0,0,15,115,0,130,42,True,False,False,Right-arm fast-medium,Right-hand bat
+Northamptonshire,SP Crook,c4450a69,6,3,3,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11,41,True,False,True,Right-arm fast-medium,Right-hand bat
+Northamptonshire,RI Keogh,e22d3b5c,11,0,0,0,0,0.0,"[10, 12]",2.0,12,4,0,24,2,2,0,0,0,0,0,12.0,1,0,0,0,0,0,0,8,8,33,True,False,True,Right-arm offbreak,Right-hand bat
+Northamptonshire,SA Zaib,ab01e323,12,0,0,0,0,0.0,"[13, 15]",2.0,12,6,0,19,2,1,0,0,0,0,0,9.5,0,0,0,0,0,0,6,0,6,26,True,False,True,Slow left-arm orthodox,Left-hand bat
+Northamptonshire,NL Buck,5239d782,13,0,0,0,0,0.0,"[7, 9, 14, 18]",4.0,24,5,0,31,2,0,1,0,1,0,0,7.75,0,0,0,0,0,0,38,0,38,33,True,False,False,Right-arm medium-fast,Right-hand bat
+Northamptonshire,RJ Gleeson,402f8494,14,0,0,0,0,0.0,"[1, 3, 5, 17]",4.0,24,12,0,29,4,1,3,0,3,0,0,7.25,0,0,0,0,0,0,115,0,115,37,True,False,False,Right-arm fast-medium,Right-hand bat
+Northamptonshire,Azharullah,2a0d5d4a,15,0,0,0,0,0.0,"[8, 11, 16, 19]",4.0,24,7,0,27,3,0,1,0,0,0,0,6.75,0,0,0,0,0,0,34,0,34,41,True,False,False,Right-arm fast-medium,Right-hand bat

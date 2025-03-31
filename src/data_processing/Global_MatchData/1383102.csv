@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Bhutan,Tenjin Rabgey,1fed517a,1,12,22,0,0,54.55,"[10, 12, 14]",3.0,18,13,0,10,1,0,1,0,1,0,2,3.33,0,0,1,0,-4,8,52,12,72
-Bhutan,S Pradhan,04f0d409,2,5,12,0,0,41.67,"[6, 8, 16]",3.0,18,9,0,15,1,0,0,0,0,0,0,5.0,0,0,0,0,-6,-1,13,0,12
-Bhutan,Namgay Thinley,9c333e40,3,10,14,0,0,71.43,"[7, 9, 11, 13]",4.0,24,15,0,13,0,1,2,1,1,0,0,3.25,0,0,0,0,0,10,87,0,97
-Bhutan,Tashi Phuntsho,43d365ca,4,11,15,0,0,73.33,"[1, 3, 5]",3.0,18,15,0,9,0,0,2,1,0,0,6,3.0,0,0,0,0,0,11,79,0,90
-Bhutan,K Ghalley,55d07946,5,13,23,0,0,56.52,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,9,0,0,9
-Bhutan,GK Ghalley,2d1b6dee,6,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Bhutan,S Loday,448dab1a,7,18,16,0,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,18,0,6,24
-Bhutan,T Wangchuk,39799e49,8,0,1,0,0,0.0,"[17, 19]",2.0,12,7,0,9,1,0,0,0,0,0,1,4.5,2,0,0,0,0,-2,13,16,27
-Bhutan,S Chophel,45f4af74,9,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,4,0,6,10
-Bhutan,S Yeshi,0c24fb7b,10,11,6,1,0,183.33,"[2, 4, 15]",3.0,18,11,0,12,1,0,0,0,0,0,0,4.0,0,0,0,0,0,15,17,0,32
-Bhutan,Karma Dorji,80058153,11,6,3,1,0,200.0,"[18, 20]",2.0,12,9,0,4,0,0,2,0,1,0,0,2.0,0,0,0,0,0,10,73,0,83
-Myanmar,KK Lin Thu,6cf75582,1,10,27,1,0,37.04,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,-6,8,0,16,24
-Myanmar,Paing Danu,1eb5affb,2,1,5,0,0,20.0,"[1, 3, 5]",3.0,18,10,0,16,0,0,0,0,0,0,6,5.33,0,0,0,0,0,1,14,0,15
-Myanmar,Khin Aye,ad2efd29,3,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
-Myanmar,Pyae Phyo Wai,09e86895,4,7,13,0,0,53.85,"[8, 14, 16, 18]",4.0,24,12,0,29,1,0,3,0,1,1,5,7.25,1,0,0,0,-4,3,99,8,110
-Myanmar,H Lin Aung,c343a8c6,5,8,11,0,1,72.73,"[2, 4, 6, 20]",4.0,24,11,0,20,1,0,2,0,0,0,2,5.0,0,0,0,0,0,14,65,0,79
-Myanmar,Swann Htet Ko Ko,9ee21ee4,6,10,20,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,6,0,0,6
-Myanmar,Thuya Aung,2e092d2c,7,0,6,0,0,0.0,"[7, 9, 11, 13]",4.0,24,13,0,12,0,0,2,1,0,0,0,3.0,0,0,0,0,0,0,77,0,77
-Myanmar,Y Naing Tun,97b109d2,8,19,17,3,0,111.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31
-Myanmar,Nay Lin Htun,5319f95b,9,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Myanmar,H Lin Oo,2e005bfd,10,4,7,0,0,57.14,[19],1.0,6,2,0,7,0,0,0,0,0,0,0,7.0,2,0,0,0,0,4,2,16,22
-Myanmar,Aung Ko Ko,648d060e,11,2,6,0,0,33.33,"[10, 12, 15, 17]",4.0,24,8,0,21,0,0,2,0,1,0,1,5.25,0,0,1,0,0,2,70,12,84
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bhutan,Tenjin Rabgey,1fed517a,1,12,22,0,0,54.55,"[10, 12, 14]",3.0,18,13,0,10,1,0,1,0,1,0,2,3.33,0,0,1,0,-4,8,52,12,72,17,True,True,False,Legbreak,Right-hand bat
+Bhutan,S Pradhan,04f0d409,2,5,12,0,0,41.67,"[6, 8, 16]",3.0,18,9,0,15,1,0,0,0,0,0,0,5.0,0,0,0,0,-6,-1,13,0,12,40,True,True,False,Right-arm medium-fast,Right-hand bat
+Bhutan,Namgay Thinley,9c333e40,3,10,14,0,0,71.43,"[7, 9, 11, 13]",4.0,24,15,0,13,0,1,2,1,1,0,0,3.25,0,0,0,0,0,10,87,0,97,21,True,True,False,Slow left-arm orthodox,Left-hand bat
+Bhutan,Tashi Phuntsho,43d365ca,4,11,15,0,0,73.33,"[1, 3, 5]",3.0,18,15,0,9,0,0,2,1,0,0,6,3.0,0,0,0,0,0,11,79,0,90,24,True,True,False,Right-arm medium-fast,Right-hand bat
+Bhutan,K Ghalley,55d07946,5,13,23,0,0,56.52,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,9,0,0,9,26,True,False,False,,Right-hand bat
+Bhutan,GK Ghalley,2d1b6dee,6,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,24,True,False,False,,Right-hand bat
+Bhutan,S Loday,448dab1a,7,18,16,0,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,18,0,6,24,22,True,False,False,,Right-hand bat
+Bhutan,T Wangchuk,39799e49,8,0,1,0,0,0.0,"[17, 19]",2.0,12,7,0,9,1,0,0,0,0,0,1,4.5,2,0,0,0,0,-2,13,16,27,29,True,True,False,Right-arm medium,Right-hand bat
+Bhutan,S Chophel,45f4af74,9,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,4,0,6,10,21,True,False,False,,Right-hand bat
+Bhutan,S Yeshi,0c24fb7b,10,11,6,1,0,183.33,"[2, 4, 15]",3.0,18,11,0,12,1,0,0,0,0,0,0,4.0,0,0,0,0,0,15,17,0,32,21,True,True,False,Slow left-arm orthodox,Right-hand bat
+Bhutan,Karma Dorji,80058153,11,6,3,1,0,200.0,"[18, 20]",2.0,12,9,0,4,0,0,2,0,1,0,0,2.0,0,0,0,0,0,10,73,0,83,18,True,False,False,,Right-hand bat
+Myanmar,KK Lin Thu,6cf75582,1,10,27,1,0,37.04,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,-6,8,0,16,24,26,True,True,False,Right-arm medium-fast,Right-hand bat
+Myanmar,Paing Danu,1eb5affb,2,1,5,0,0,20.0,"[1, 3, 5]",3.0,18,10,0,16,0,0,0,0,0,0,6,5.33,0,0,0,0,0,1,14,0,15,25,True,True,False,Right-arm medium-fast,Right-hand bat
+Myanmar,Khin Aye,ad2efd29,3,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,31,True,True,False,Right-arm medium-fast,Right-hand bat
+Myanmar,Pyae Phyo Wai,09e86895,4,7,13,0,0,53.85,"[8, 14, 16, 18]",4.0,24,12,0,29,1,0,3,0,1,1,5,7.25,1,0,0,0,-4,3,99,8,110,25,True,True,False,Slow left-arm orthodox,Left-hand bat
+Myanmar,H Lin Aung,c343a8c6,5,8,11,0,1,72.73,"[2, 4, 6, 20]",4.0,24,11,0,20,1,0,2,0,0,0,2,5.0,0,0,0,0,0,14,65,0,79,29,True,True,False,Right-arm offbreak,Right-hand bat
+Myanmar,Swann Htet Ko Ko,9ee21ee4,6,10,20,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,6,0,0,6,27,True,False,False,,Right-hand bat
+Myanmar,Thuya Aung,2e092d2c,7,0,6,0,0,0.0,"[7, 9, 11, 13]",4.0,24,13,0,12,0,0,2,1,0,0,0,3.0,0,0,0,0,0,0,77,0,77,30,True,False,False,,Right-hand bat
+Myanmar,Y Naing Tun,97b109d2,8,19,17,3,0,111.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31,31,True,False,False,,Right-hand bat
+Myanmar,Nay Lin Htun,5319f95b,9,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,25,True,True,False,Right-arm medium-fast,Right-hand bat
+Myanmar,H Lin Oo,2e005bfd,10,4,7,0,0,57.14,[19],1.0,6,2,0,7,0,0,0,0,0,0,0,7.0,2,0,0,0,0,4,2,16,22,29,True,True,False,Right-arm medium-fast,Right-hand bat
+Myanmar,Aung Ko Ko,648d060e,11,2,6,0,0,33.33,"[10, 12, 15, 17]",4.0,24,8,0,21,0,0,2,0,1,0,1,5.25,0,0,1,0,0,2,70,12,84,31,True,True,False,Legbreak,Right-hand bat

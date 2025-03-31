@@ -1,24 +1,24 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-England,PD Salt,3d284ca3,1,23,21,4,0,109.52,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,39,0,6,45
-England,BM Duckett,5f26f677,2,39,19,7,1,205.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,83,0,0,83
-England,JC Buttler,99b75528,3,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,2,0,20,22
-England,HC Brook,4ae1755b,4,51,26,5,2,196.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,97,0,0,97
-England,LS Livingstone,50c6bc2b,5,9,13,0,0,69.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,7,0,0,7
-England,JG Bethell,3c55c703,6,6,9,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,6,0,16,22
-England,BA Carse,cad40f5e,7,0,2,0,0,0.0,"[5, 11, 13, 19]",4.0,24,8,0,39,7,0,1,0,0,0,1,9.75,2,0,0,0,0,-2,33,16,47
-England,J Overton,59559bc2,8,19,15,1,1,126.67,"[7, 15, 18, 20]",4.0,24,12,0,32,3,1,2,0,0,1,2,8.0,0,0,0,1,0,29,62,6,97
-England,JC Archer,5574750c,9,0,2,0,0,0.0,"[1, 3, 9, 17]",4.0,24,8,0,37,4,2,0,0,0,1,1,9.25,1,0,0,0,0,-2,8,8,14
-England,AU Rashid,249d60c9,10,10,6,0,1,166.67,"[8, 10, 12, 14]",4.0,24,8,0,35,3,2,1,0,0,0,0,8.75,1,0,0,0,0,16,33,8,57
-England,S Mahmood,0f6db197,11,1,2,0,0,50.0,"[2, 4, 6, 16]",4.0,24,12,1,35,2,3,3,0,0,0,1,8.75,0,0,0,0,0,1,103,0,104
-India,SV Samson,a4cc73aa,1,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
-India,Abhishek Sharma,f29185a1,2,29,19,4,1,152.63,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,59,0,0,59
-India,Tilak Varma,b0482a1d,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-India,SA Yadav,271f83cd,4,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,-2,0,16,14
-India,RK Singh,0a509d6b,5,30,26,4,1,115.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,56,0,8,64
-India,S Dube,a4e37e47,6,53,33,7,2,160.61,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,105,0,0,105
-India,HH Pandya,dbe50b21,7,53,29,4,4,182.76,[2],1.0,6,2,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,6,107,2,0,109
-India,AR Patel,2e171977,8,5,4,0,0,125.0,"[5, 7, 11]",3.0,18,7,0,26,3,1,1,0,1,0,1,8.67,1,0,0,0,0,5,40,8,53
-India,Arshdeep Singh,244048f6,9,0,1,0,0,0.0,"[1, 3, 18, 20]",3.667,22,7,0,35,5,1,1,0,0,0,0,9.54,1,0,0,0,0,0,32,8,40
-India,Ravi Bishnoi,df064e1a,10,0,0,0,0,0.0,"[6, 8, 10, 17]",4.0,24,9,0,28,1,1,3,0,1,0,0,7.0,0,0,0,0,0,0,98,0,98
-India,CV Varun,5b7ab5a9,11,0,0,0,0,0.0,"[4, 9, 13, 15]",4.0,24,10,0,28,4,0,2,0,0,0,0,7.0,0,0,0,0,0,0,62,0,62
-India,Harshit Rana,77b1aa15,12,0,0,0,0,0.0,"[12, 14, 16, 19]",4.0,24,11,0,33,2,2,3,0,1,0,0,8.25,1,0,0,0,0,0,98,8,106
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+England,PD Salt,3d284ca3,1,23,21,4,0,109.52,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,39,0,6,45,28,True,True,False,Right-arm offbreak,Right-hand bat
+England,BM Duckett,5f26f677,2,39,19,7,1,205.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,83,0,0,83,30,True,False,False,Right-arm offbreak,Left-hand bat
+England,JC Buttler,99b75528,3,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,2,0,20,22,34,True,False,False,,Right-hand bat
+England,HC Brook,4ae1755b,4,51,26,5,2,196.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,97,0,0,97,26,True,False,False,Right-arm medium,Right-hand bat
+England,LS Livingstone,50c6bc2b,5,9,13,0,0,69.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,7,0,0,7,31,True,False,True,Legbreak,Right-hand bat
+England,JG Bethell,3c55c703,6,6,9,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,6,0,16,22,21,True,False,True,Slow left-arm orthodox,Left-hand bat
+England,BA Carse,cad40f5e,7,0,2,0,0,0.0,"[5, 11, 13, 19]",4.0,24,8,0,39,7,0,1,0,0,0,1,9.75,2,0,0,0,0,-2,33,16,47,29,True,False,True,Right-arm fast,Right-hand bat
+England,J Overton,59559bc2,8,19,15,1,1,126.67,"[7, 15, 18, 20]",4.0,24,12,0,32,3,1,2,0,0,1,2,8.0,0,0,0,1,0,29,62,6,97,30,True,False,True,Right-arm fast,Right-hand bat
+England,JC Archer,5574750c,9,0,2,0,0,0.0,"[1, 3, 9, 17]",4.0,24,8,0,37,4,2,0,0,0,1,1,9.25,1,0,0,0,0,-2,8,8,14,29,True,False,False,Right-arm fast,Right-hand bat
+England,AU Rashid,249d60c9,10,10,6,0,1,166.67,"[8, 10, 12, 14]",4.0,24,8,0,35,3,2,1,0,0,0,0,8.75,1,0,0,0,0,16,33,8,57,37,True,False,False,Legbreak,Right-hand bat
+England,S Mahmood,0f6db197,11,1,2,0,0,50.0,"[2, 4, 6, 16]",4.0,24,12,1,35,2,3,3,0,0,0,1,8.75,0,0,0,0,0,1,103,0,104,28,True,False,False,Right-arm fast-medium,Right-hand bat
+India,SV Samson,a4cc73aa,1,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,30,True,False,False,,Right-hand bat
+India,Abhishek Sharma,f29185a1,2,29,19,4,1,152.63,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,59,0,0,59,24,True,False,True,Slow left-arm orthodox,Left-hand bat
+India,Tilak Varma,b0482a1d,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,22,True,False,True,Right-arm offbreak,Left-hand bat
+India,SA Yadav,271f83cd,4,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,-2,0,16,14,34,True,False,False,Right-arm offbreak,Right-hand bat
+India,RK Singh,0a509d6b,5,30,26,4,1,115.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,56,0,8,64,27,True,False,False,Right-arm offbreak,Left-hand bat
+India,S Dube,a4e37e47,6,53,33,7,2,160.61,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,105,0,0,105,31,True,False,True,Right-arm medium,Left-hand bat
+India,HH Pandya,dbe50b21,7,53,29,4,4,182.76,[2],1.0,6,2,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,6,107,2,0,109,31,True,False,True,Right-arm medium-fast,Right-hand bat
+India,AR Patel,2e171977,8,5,4,0,0,125.0,"[5, 7, 11]",3.0,18,7,0,26,3,1,1,0,1,0,1,8.67,1,0,0,0,0,5,40,8,53,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+India,Arshdeep Singh,244048f6,9,0,1,0,0,0.0,"[1, 3, 18, 20]",3.667,22,7,0,35,5,1,1,0,0,0,0,9.54,1,0,0,0,0,0,32,8,40,26,True,False,False,Left-arm medium-fast,Left-hand bat
+India,Ravi Bishnoi,df064e1a,10,0,0,0,0,0.0,"[6, 8, 10, 17]",4.0,24,9,0,28,1,1,3,0,1,0,0,7.0,0,0,0,0,0,0,98,0,98,24,True,False,False,Legbreak googly,Right-hand bat
+India,CV Varun,5b7ab5a9,11,0,0,0,0,0.0,"[4, 9, 13, 15]",4.0,24,10,0,28,4,0,2,0,0,0,0,7.0,0,0,0,0,0,0,62,0,62,33,True,False,False,Legbreak googly,Right-hand bat
+India,Harshit Rana,77b1aa15,12,0,0,0,0,0.0,"[12, 14, 16, 19]",4.0,24,11,0,33,2,2,3,0,1,0,0,8.25,1,0,0,0,0,0,98,8,106,23,True,False,False,Right-arm fast,Right-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Jharkhand,Anand Singh,d2550980,1,14,11,3,0,127.27,[10],1.0,6,3,0,5,0,0,0,0,0,0,1,5.0,0,0,0,0,0,26,3,0,29
-Jharkhand,Ishan Kishan,752f7486,2,52,39,6,2,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,98,0,8,106
-Jharkhand,Virat Singh,26d76ad9,3,9,15,0,0,60.0,"[11, 13, 15]",3.0,18,4,0,32,2,2,0,0,0,0,1,10.67,0,0,0,0,-2,7,2,0,9
-Jharkhand,Kumar Deobrat,bc6d8229,4,69,32,5,6,215.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,139,0,8,147
-Jharkhand,Vikash Singh,8b018008,5,0,0,0,0,0.0,"[2, 4, 20]",3.0,18,9,0,35,3,3,0,0,0,1,0,11.67,0,0,0,0,0,0,5,0,5
-Jharkhand,AS Roy,e4cdf230,5,47,23,4,3,204.35,"[6, 8]",2.0,12,6,0,23,4,1,1,0,0,0,0,11.5,0,0,0,0,6,91,27,0,118
-Jharkhand,Ajay Yadav,752e972f,6,0,0,0,0,0.0,"[5, 7]",2.0,12,8,0,14,3,0,0,0,0,0,1,7.0,0,0,0,0,0,0,10,0,10
-Jharkhand,VR Aaron,0a3d54b9,7,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,14,0,13,1,0,1,1,0,0,0,3.25,0,0,0,0,0,0,53,0,53
-Jharkhand,Utkarsh Singh,b2a55ac1,8,0,0,0,0,0.0,[18],1.0,6,1,0,5,0,0,1,0,0,0,0,5.0,0,0,0,0,0,0,26,0,26
-Jharkhand,Nazim Siddiqui,88a4a356,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Jharkhand,S Nadeem,9d80c5e1,10,0,0,0,0,0.0,"[9, 12, 14, 16]",4.0,24,12,0,15,1,0,0,0,0,0,0,3.75,0,0,0,0,0,0,18,0,18
-Nagaland,AJ Kaushik,16d029ec,1,31,23,5,1,134.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,63,0,0,63
-Nagaland,Sedezhalie Rupero,e49574d6,2,38,54,5,0,70.37,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,62,0,0,62
-Nagaland,Rongsen Jonathan,d4753890,3,47,33,4,2,142.42,"[13, 15]",2.0,12,6,0,6,0,0,0,0,0,0,0,3.0,0,0,0,0,2,81,12,0,93
-Nagaland,Paras Sehrawat,302a90a6,4,22,10,0,3,220.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,46,0,8,54
-Nagaland,Aditya,b6b1155c,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Nagaland,Tahmeed Rahman,13903f13,5,0,0,0,0,0.0,"[1, 8, 10, 16]",4.0,24,4,0,50,4,3,1,0,0,0,0,12.5,0,0,0,0,0,0,23,0,23
-Nagaland,P Suyal,cedc1d9a,6,0,0,0,0,0.0,"[2, 4, 17, 20]",4.0,24,14,0,32,2,3,1,0,0,0,0,8.0,0,0,0,0,0,0,39,0,39
-Nagaland,Kiran Reddy,2275cb50,7,0,0,0,0,0.0,"[3, 5, 7, 18]",4.0,24,11,0,31,1,2,0,0,0,0,4,7.75,1,0,0,0,0,0,11,8,19
-Nagaland,Bhavik Patel,ac50c987,8,0,0,0,0,0.0,"[6, 9, 11, 19]",4.0,24,4,0,48,6,2,0,0,0,0,1,12.0,0,0,0,0,0,0,0,0,0
-Nagaland,Imliwati Lemtur,76a33e00,9,0,0,0,0,0.0,"[12, 14]",2.0,12,3,0,29,5,1,1,0,0,0,0,14.5,1,0,0,0,0,0,22,8,30
-Nagaland,Dhavanath,3d894b46,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Jharkhand,Anand Singh,d2550980,1,14,11,3,0,127.27,[10],1.0,6,3,0,5,0,0,0,0,0,0,1,5.0,0,0,0,0,0,26,3,0,29,38,True,True,False,Right-arm medium,Right-hand bat
+Jharkhand,Ishan Kishan,752f7486,2,52,39,6,2,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,98,0,8,106,26,True,True,False,Legbreak,Left-hand bat
+Jharkhand,Virat Singh,26d76ad9,3,9,15,0,0,60.0,"[11, 13, 15]",3.0,18,4,0,32,2,2,0,0,0,0,1,10.67,0,0,0,0,-2,7,2,0,9,27,True,False,False,Legbreak googly,Left-hand bat
+Jharkhand,Kumar Deobrat,bc6d8229,4,69,32,5,6,215.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,139,0,8,147,32,True,False,False,Right-arm medium,Right-hand bat
+Jharkhand,Vikash Singh,8b018008,5,0,0,0,0,0.0,"[2, 4, 20]",3.0,18,9,0,35,3,3,0,0,0,1,0,11.67,0,0,0,0,0,0,5,0,5,30,True,True,False,Left-arm medium,Left-hand bat
+Jharkhand,AS Roy,e4cdf230,5,47,23,4,3,204.35,"[6, 8]",2.0,12,6,0,23,4,1,1,0,0,0,0,11.5,0,0,0,0,6,91,27,0,118,26,True,False,True,Slow left-arm orthodox,Left-hand bat
+Jharkhand,Ajay Yadav,752e972f,6,0,0,0,0,0.0,"[5, 7]",2.0,12,8,0,14,3,0,0,0,0,0,1,7.0,0,0,0,0,0,0,10,0,10,38,True,True,False,Right-arm medium-fast,Right-hand bat
+Jharkhand,VR Aaron,0a3d54b9,7,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,14,0,13,1,0,1,1,0,0,0,3.25,0,0,0,0,0,0,53,0,53,35,True,False,False,Right-arm fast,Right-hand bat
+Jharkhand,Utkarsh Singh,b2a55ac1,8,0,0,0,0,0.0,[18],1.0,6,1,0,5,0,0,1,0,0,0,0,5.0,0,0,0,0,0,0,26,0,26,26,True,False,True,Right-arm offbreak,Left-hand bat
+Jharkhand,Nazim Siddiqui,88a4a356,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,30,True,True,False,Right-arm medium,Right-hand bat
+Jharkhand,S Nadeem,9d80c5e1,10,0,0,0,0,0.0,"[9, 12, 14, 16]",4.0,24,12,0,15,1,0,0,0,0,0,0,3.75,0,0,0,0,0,0,18,0,18,35,True,False,False,Slow left-arm orthodox,Right-hand bat
+Nagaland,AJ Kaushik,16d029ec,1,31,23,5,1,134.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,63,0,0,63,30,True,False,False,,Right-hand bat
+Nagaland,Sedezhalie Rupero,e49574d6,2,38,54,5,0,70.37,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,62,0,0,62,27,True,True,False,Right-arm offbreak,Right-hand bat
+Nagaland,Rongsen Jonathan,d4753890,3,47,33,4,2,142.42,"[13, 15]",2.0,12,6,0,6,0,0,0,0,0,0,0,3.0,0,0,0,0,2,81,12,0,93,38,True,False,True,,Right-hand bat
+Nagaland,Paras Sehrawat,302a90a6,4,22,10,0,3,220.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,46,0,8,54,27,True,False,False,,Right-hand bat
+Nagaland,Aditya,b6b1155c,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,True,False,False,,
+Nagaland,Tahmeed Rahman,13903f13,5,0,0,0,0,0.0,"[1, 8, 10, 16]",4.0,24,4,0,50,4,3,1,0,0,0,0,12.5,0,0,0,0,0,0,23,0,23,26,True,False,False,Right-arm offbreak,Right-hand bat
+Nagaland,P Suyal,cedc1d9a,6,0,0,0,0,0.0,"[2, 4, 17, 20]",4.0,24,14,0,32,2,3,1,0,0,0,0,8.0,0,0,0,0,0,0,39,0,39,35,True,False,False,Left-arm medium,Right-hand bat
+Nagaland,Kiran Reddy,2275cb50,7,0,0,0,0,0.0,"[3, 5, 7, 18]",4.0,24,11,0,31,1,2,0,0,0,0,4,7.75,1,0,0,0,0,0,11,8,19,28,True,True,False,Right-arm medium,Right-hand bat
+Nagaland,Bhavik Patel,ac50c987,8,0,0,0,0,0.0,"[6, 9, 11, 19]",4.0,24,4,0,48,6,2,0,0,0,0,1,12.0,0,0,0,0,0,0,0,0,0,33,True,True,False,Right-arm medium,Right-hand bat
+Nagaland,Imliwati Lemtur,76a33e00,9,0,0,0,0,0.0,"[12, 14]",2.0,12,3,0,29,5,1,1,0,0,0,0,14.5,1,0,0,0,0,0,22,8,30,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+Nagaland,Dhavanath,3d894b46,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,True,False,False,,

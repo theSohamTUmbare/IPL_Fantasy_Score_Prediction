@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Kings XI Punjab,AC Gilchrist,2b6e6dec,1,26,22,4,0,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,46,0,8,54
-Kings XI Punjab,Mandeep Singh,c3a96caf,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Kings XI Punjab,SE Marsh,508a1ea7,3,18,20,3,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30
-Kings XI Punjab,LA Pomersbach,b63ab531,4,33,40,1,1,82.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,47,0,0,47
-Kings XI Punjab,DA Miller,d67d5f00,5,6,7,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,10,0,8,18
-Kings XI Punjab,R Sathish,626c5379,6,25,18,1,2,138.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,2,47,0,6,53
-Kings XI Punjab,PP Chawla,98ae73b1,7,0,2,0,0,0.0,"[9, 11, 13, 16]",4.0,24,10,0,20,0,0,1,1,0,0,0,5.0,0,0,0,0,0,-2,47,0,45
-Kings XI Punjab,P Kumar,e938e1bc,8,1,3,0,0,33.33,"[1, 3, 18, 20]",4.0,24,7,0,32,3,1,0,0,0,0,1,8.0,0,0,0,0,0,1,7,0,8
-Kings XI Punjab,Harmeet Singh,2a72fd4f,9,3,4,0,0,75.0,"[5, 7, 14, 19]",4.0,24,8,0,39,4,2,1,0,0,0,0,9.75,1,0,0,1,0,3,33,14,50
-Kings XI Punjab,P Awana,1a0c3177,10,0,1,0,0,0.0,"[2, 4, 15, 17]",4.0,24,11,0,35,4,2,1,0,0,0,0,8.75,0,0,0,0,0,-2,36,0,34
-Kings XI Punjab,Sandeep Sharma,ce820073,11,0,1,0,0,0.0,"[6, 8, 10, 12]",4.0,24,12,0,21,3,0,3,1,1,0,0,5.25,0,0,0,0,0,0,111,0,111
-Sunrisers Hyderabad,PA Patel,b5da6c24,1,61,47,5,2,129.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,101,0,6,107
-Sunrisers Hyderabad,S Dhawan,0a476045,2,15,14,2,0,107.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,23,0,8,31
-Sunrisers Hyderabad,GH Vihari,94253925,3,5,7,1,0,71.43,"[7, 9]",2.0,12,8,0,5,0,0,0,0,0,0,1,2.5,0,0,0,0,0,9,14,0,23
-Sunrisers Hyderabad,CL White,d0513f63,4,10,8,2,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,18,0,16,34
-Sunrisers Hyderabad,BB Samantray,53f27a35,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Sunrisers Hyderabad,DJG Sammy,c03c6200,6,0,3,0,0,0.0,"[8, 10, 17, 20]",4.0,24,11,0,22,1,1,4,0,1,0,0,5.5,0,0,0,1,0,-2,131,6,135
-Sunrisers Hyderabad,KV Sharma,119678fd,7,22,18,2,1,122.22,[11],1.0,6,3,0,6,0,0,0,0,0,0,0,6.0,0,0,0,0,0,36,3,0,39
-Sunrisers Hyderabad,NLTC Perera,0f12f9df,8,32,19,2,2,168.42,"[5, 13, 16, 18]",4.0,24,10,0,19,2,0,1,0,0,0,0,4.75,1,0,0,1,4,60,41,14,115
-Sunrisers Hyderabad,DW Steyn,8fd1a8f5,9,1,3,0,0,33.33,"[1, 3, 15, 19]",4.0,24,13,0,20,2,0,2,0,1,0,1,5.0,0,0,0,0,0,1,75,0,76
-Sunrisers Hyderabad,A Mishra,6b19d823,11,0,0,0,0,0.0,"[12, 14]",2.0,12,5,0,20,1,2,0,0,0,0,0,10.0,0,0,0,0,0,0,3,0,3
-Sunrisers Hyderabad,I Sharma,5bb1a1c4,12,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,10,0,22,4,0,0,0,0,0,0,7.33,1,0,0,1,0,0,10,14,24
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Kings XI Punjab,AC Gilchrist,2b6e6dec,1,26,22,4,0,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,46,0,8,54,53,True,True,False,Right-arm offbreak,Left-hand bat
+Kings XI Punjab,Mandeep Singh,c3a96caf,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,33,True,False,True,Right-arm medium,Right-hand bat
+Kings XI Punjab,SE Marsh,508a1ea7,3,18,20,3,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30,41,True,False,False,Slow left-arm orthodox,Left-hand bat
+Kings XI Punjab,LA Pomersbach,b63ab531,4,33,40,1,1,82.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,47,0,0,47,40,True,False,False,Right-arm offbreak,Left-hand bat
+Kings XI Punjab,DA Miller,d67d5f00,5,6,7,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,10,0,8,18,35,True,False,False,Right-arm offbreak,Left-hand bat
+Kings XI Punjab,R Sathish,626c5379,6,25,18,1,2,138.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,2,47,0,6,53,44,True,False,True,Right-arm medium,Right-hand bat
+Kings XI Punjab,PP Chawla,98ae73b1,7,0,2,0,0,0.0,"[9, 11, 13, 16]",4.0,24,10,0,20,0,0,1,1,0,0,0,5.0,0,0,0,0,0,-2,47,0,45,36,True,False,True,Legbreak,Left-hand bat
+Kings XI Punjab,P Kumar,e938e1bc,8,1,3,0,0,33.33,"[1, 3, 18, 20]",4.0,24,7,0,32,3,1,0,0,0,0,1,8.0,0,0,0,0,0,1,7,0,8,38,True,False,False,Right-arm medium,Right-hand bat
+Kings XI Punjab,Harmeet Singh,2a72fd4f,9,3,4,0,0,75.0,"[5, 7, 14, 19]",4.0,24,8,0,39,4,2,1,0,0,0,0,9.75,1,0,0,1,0,3,33,14,50,37,True,False,False,Right-arm medium,Right-hand bat
+Kings XI Punjab,P Awana,1a0c3177,10,0,1,0,0,0.0,"[2, 4, 15, 17]",4.0,24,11,0,35,4,2,1,0,0,0,0,8.75,0,0,0,0,0,-2,36,0,34,38,True,False,False,Right-arm medium,Right-hand bat
+Kings XI Punjab,Sandeep Sharma,ce820073,11,0,1,0,0,0.0,"[6, 8, 10, 12]",4.0,24,12,0,21,3,0,3,1,1,0,0,5.25,0,0,0,0,0,0,111,0,111,31,True,False,False,Right-arm medium,Right-hand bat
+Sunrisers Hyderabad,PA Patel,b5da6c24,1,61,47,5,2,129.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,101,0,6,107,40,True,True,False,Right-arm offbreak,Left-hand bat
+Sunrisers Hyderabad,S Dhawan,0a476045,2,15,14,2,0,107.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,23,0,8,31,39,True,False,False,Right-arm offbreak,Left-hand bat
+Sunrisers Hyderabad,GH Vihari,94253925,3,5,7,1,0,71.43,"[7, 9]",2.0,12,8,0,5,0,0,0,0,0,0,1,2.5,0,0,0,0,0,9,14,0,23,31,True,False,True,Right-arm offbreak,Right-hand bat
+Sunrisers Hyderabad,CL White,d0513f63,4,10,8,2,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,18,0,16,34,41,True,False,False,Legbreak googly,Right-hand bat
+Sunrisers Hyderabad,BB Samantray,53f27a35,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,36,True,False,True,Right-arm medium,Right-hand bat
+Sunrisers Hyderabad,DJG Sammy,c03c6200,6,0,3,0,0,0.0,"[8, 10, 17, 20]",4.0,24,11,0,22,1,1,4,0,1,0,0,5.5,0,0,0,1,0,-2,131,6,135,41,True,False,True,Right-arm medium,Right-hand bat
+Sunrisers Hyderabad,KV Sharma,119678fd,7,22,18,2,1,122.22,[11],1.0,6,3,0,6,0,0,0,0,0,0,0,6.0,0,0,0,0,0,36,3,0,39,37,True,False,False,Legbreak googly,Left-hand bat
+Sunrisers Hyderabad,NLTC Perera,0f12f9df,8,32,19,2,2,168.42,"[5, 13, 16, 18]",4.0,24,10,0,19,2,0,1,0,0,0,0,4.75,1,0,0,1,4,60,41,14,115,35,True,False,True,Right-arm medium-fast,Left-hand bat
+Sunrisers Hyderabad,DW Steyn,8fd1a8f5,9,1,3,0,0,33.33,"[1, 3, 15, 19]",4.0,24,13,0,20,2,0,2,0,1,0,1,5.0,0,0,0,0,0,1,75,0,76,41,True,False,False,Right-arm fast,Right-hand bat
+Sunrisers Hyderabad,A Mishra,6b19d823,11,0,0,0,0,0.0,"[12, 14]",2.0,12,5,0,20,1,2,0,0,0,0,0,10.0,0,0,0,0,0,0,3,0,3,42,True,False,False,Legbreak,Right-hand bat
+Sunrisers Hyderabad,I Sharma,5bb1a1c4,12,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,10,0,22,4,0,0,0,0,0,0,7.33,1,0,0,1,0,0,10,14,24,36,True,False,False,Right-arm fast-medium,Right-hand bat

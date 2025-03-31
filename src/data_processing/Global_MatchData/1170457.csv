@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Nepal,PS Airee,cc18ba92,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,-2,0,20,18
-Nepal,P Khadka,12c3ba4d,2,25,25,4,0,100.0,[10],1.0,6,1,0,10,0,1,0,0,0,0,0,10.0,1,0,0,0,0,45,1,8,54
-Nepal,G Malla,b2e1d224,3,7,10,0,0,70.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,5,0,0,5
-Nepal,DS Airee,1747ea18,4,4,2,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
-Nepal,S Jora,156378d8,5,53,46,3,1,115.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,79,0,8,87
-Nepal,RK Paudel,1a3cc554,6,4,8,1,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
-Nepal,Karan KC,f53b3e1d,7,4,7,0,0,57.14,"[4, 6, 13, 20]",4.0,24,7,0,43,6,1,0,0,0,0,1,10.75,0,0,0,0,0,4,5,0,9
-Nepal,Sompal Kami,1adb8ee8,8,27,19,1,1,142.11,"[1, 3, 5]",3.0,18,8,0,16,2,0,1,0,0,0,0,5.33,0,0,0,0,2,43,37,0,80
-Nepal,A Bohara,64fb6b15,9,0,0,0,0,0.0,"[12, 15, 17, 19]",4.0,24,7,0,36,2,2,1,0,1,0,1,9.0,0,0,0,0,0,0,40,0,40
-Nepal,S Lamichhane,b410bd3d,9,2,2,0,0,100.0,"[2, 8, 14, 16]",4.0,24,8,0,25,2,0,2,0,0,0,2,6.25,0,0,0,0,0,2,60,0,62
-Nepal,B Regmi,98d05440,10,0,0,0,0,0.0,"[7, 9, 11, 18]",4.0,24,9,0,23,0,1,2,0,0,0,1,5.75,1,0,0,0,0,0,63,8,71
-United Arab Emirates,Ashfaq Ahmed,9d1f42c6,1,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-United Arab Emirates,CP Rizwan,e5309baa,2,22,19,4,0,115.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,38,0,0,38
-United Arab Emirates,Ghulam Shabber,ced0ec25,3,8,10,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,12,0,16,28
-United Arab Emirates,Shaiman Anwar,e9630504,4,59,38,5,2,155.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,103,0,8,111
-United Arab Emirates,Muhammad Usman,45642393,5,30,24,1,2,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,50,0,0,50
-United Arab Emirates,Mohammad Boota,39713d08,6,20,15,1,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,32,0,0,32
-United Arab Emirates,Mohammad Naveed,4861d29b,7,1,4,0,0,25.0,"[1, 3, 16, 20]",4.0,24,11,0,19,2,0,2,0,0,0,0,4.75,1,0,0,0,0,1,67,8,76
-United Arab Emirates,Sultan Ahmed,07687c15,8,6,6,0,0,100.0,"[5, 7, 9, 14]",4.0,24,9,0,26,2,0,2,0,0,0,1,6.5,3,0,0,0,0,6,61,28,95
-United Arab Emirates,Imran Haider,0226b73a,9,0,0,0,0,0.0,"[11, 13, 15, 19]",4.0,24,5,0,34,2,1,0,0,0,0,1,8.5,0,0,0,0,0,0,5,0,5
-United Arab Emirates,Zahoor Khan,f0e293b0,10,0,0,0,0,0.0,"[8, 10, 12, 17]",4.0,24,12,0,17,1,0,2,0,0,0,1,4.25,0,0,0,0,0,0,68,0,68
-United Arab Emirates,Amir Hayat,5faa30f7,11,0,0,0,0,0.0,"[2, 4, 6, 18]",4.0,24,9,0,34,3,1,1,0,0,0,1,8.5,0,0,0,0,0,0,34,0,34
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Nepal,PS Airee,cc18ba92,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,-2,0,20,18,32,True,True,False,Right-arm medium,Right-hand bat
+Nepal,P Khadka,12c3ba4d,2,25,25,4,0,100.0,[10],1.0,6,1,0,10,0,1,0,0,0,0,0,10.0,1,0,0,0,0,45,1,8,54,37,True,False,True,Right-arm offbreak,Right-hand bat
+Nepal,G Malla,b2e1d224,3,7,10,0,0,70.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,5,0,0,5,34,True,False,False,,Right-hand bat
+Nepal,DS Airee,1747ea18,4,4,2,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,25,True,False,False,Right-arm offbreak,Right-hand bat
+Nepal,S Jora,156378d8,5,53,46,3,1,115.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,79,0,8,87,23,True,False,False,,Right-hand bat
+Nepal,RK Paudel,1a3cc554,6,4,8,1,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,22,True,False,True,Right-arm offbreak,Right-hand bat
+Nepal,Karan KC,f53b3e1d,7,4,7,0,0,57.14,"[4, 6, 13, 20]",4.0,24,7,0,43,6,1,0,0,0,0,1,10.75,0,0,0,0,0,4,5,0,9,33,True,False,True,Right-arm fast,Right-hand bat
+Nepal,Sompal Kami,1adb8ee8,8,27,19,1,1,142.11,"[1, 3, 5]",3.0,18,8,0,16,2,0,1,0,0,0,0,5.33,0,0,0,0,2,43,37,0,80,29,True,False,True,Right-arm fast-medium,Right-hand bat
+Nepal,A Bohara,64fb6b15,9,0,0,0,0,0.0,"[12, 15, 17, 19]",4.0,24,7,0,36,2,2,1,0,1,0,1,9.0,0,0,0,0,0,0,40,0,40,27,True,False,False,Right-arm medium,Right-hand bat
+Nepal,S Lamichhane,b410bd3d,9,2,2,0,0,100.0,"[2, 8, 14, 16]",4.0,24,8,0,25,2,0,2,0,0,0,2,6.25,0,0,0,0,0,2,60,0,62,24,True,False,False,Legbreak googly,Right-hand bat
+Nepal,B Regmi,98d05440,10,0,0,0,0,0.0,"[7, 9, 11, 18]",4.0,24,9,0,23,0,1,2,0,0,0,1,5.75,1,0,0,0,0,0,63,8,71,38,True,False,False,Slow left-arm orthodox,Left-hand bat
+United Arab Emirates,Ashfaq Ahmed,9d1f42c6,1,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,40,True,False,False,Right-arm offbreak,Right-hand bat
+United Arab Emirates,CP Rizwan,e5309baa,2,22,19,4,0,115.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,38,0,0,38,36,True,False,False,Legbreak googly,Right-hand bat
+United Arab Emirates,Ghulam Shabber,ced0ec25,3,8,10,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,12,0,16,28,39,True,False,False,,Left-hand bat
+United Arab Emirates,Shaiman Anwar,e9630504,4,59,38,5,2,155.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,103,0,8,111,46,True,False,False,Legbreak googly,Right-hand bat
+United Arab Emirates,Muhammad Usman,45642393,5,30,24,1,2,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,50,0,0,50,39,True,False,False,,Left-hand bat
+United Arab Emirates,Mohammad Boota,39713d08,6,20,15,1,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,32,0,0,32,42,True,False,False,Right-arm medium,Right-hand bat
+United Arab Emirates,Mohammad Naveed,4861d29b,7,1,4,0,0,25.0,"[1, 3, 16, 20]",4.0,24,11,0,19,2,0,2,0,0,0,0,4.75,1,0,0,0,0,1,67,8,76,37,True,False,False,Right-arm medium,Right-hand bat
+United Arab Emirates,Sultan Ahmed,07687c15,8,6,6,0,0,100.0,"[5, 7, 9, 14]",4.0,24,9,0,26,2,0,2,0,0,0,1,6.5,3,0,0,0,0,6,61,28,95,35,True,False,False,Slow left-arm orthodox,Left-hand bat
+United Arab Emirates,Imran Haider,0226b73a,9,0,0,0,0,0.0,"[11, 13, 15, 19]",4.0,24,5,0,34,2,1,0,0,0,0,1,8.5,0,0,0,0,0,0,5,0,5,37,True,False,False,Legbreak googly,Right-hand bat
+United Arab Emirates,Zahoor Khan,f0e293b0,10,0,0,0,0,0.0,"[8, 10, 12, 17]",4.0,24,12,0,17,1,0,2,0,0,0,1,4.25,0,0,0,0,0,0,68,0,68,35,True,False,False,Right-arm medium-fast,Right-hand bat
+United Arab Emirates,Amir Hayat,5faa30f7,11,0,0,0,0,0.0,"[2, 4, 6, 18]",4.0,24,9,0,34,3,1,1,0,0,0,1,8.5,0,0,0,0,0,0,34,0,34,42,True,False,False,Right-arm medium,Right-hand bat

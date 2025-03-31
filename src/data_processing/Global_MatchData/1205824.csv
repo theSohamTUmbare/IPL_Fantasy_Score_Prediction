@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Kerala,Vishnu Vinod,0494fa6e,1,13,14,1,1,92.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,23,0,8,31
-Kerala,Rohan Kunnummal,a6004ded,2,3,10,0,0,30.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,-6,-3,0,12,9
-Kerala,SV Samson,a4cc73aa,3,38,28,2,3,135.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,2,70,0,12,82
-Kerala,Sachin Baby,dc9dd038,4,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
-Kerala,RV Uthappa,1c17e270,5,2,11,0,0,18.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-4,0,0,-4
-Kerala,Akshay Chandran,f0f5b2aa,6,18,25,0,0,72.0,[4],1.0,6,2,0,5,0,0,1,0,0,0,1,5.0,0,0,0,0,0,18,27,0,45
-Kerala,KM Asif,798cc28e,6,0,0,0,0,0.0,[1],1.0,6,2,0,12,2,0,0,0,0,0,1,12.0,0,0,0,0,0,0,2,0,2
-Kerala,S Sandeep Warrier,cdc6bdba,7,0,0,0,0,0.0,[2],1.0,6,3,0,3,0,0,0,0,0,0,0,3.0,0,0,0,0,0,0,3,0,3
-Kerala,Jalaj S Saxena,249abedf,7,14,19,0,0,73.68,"[5, 7]",2.0,12,5,0,11,1,0,2,0,0,0,0,5.5,0,0,0,0,0,14,59,0,73
-Kerala,S Midhun,ade90de7,8,17,8,0,2,212.5,[6],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,29,1,0,30
-Kerala,MD Nidheesh,96513a65,9,6,2,0,1,300.0,[3],1.0,6,4,0,3,0,0,0,0,0,0,1,3.0,0,0,0,0,0,12,4,0,16
-Uttar Pradesh,AD Nath,f10e94c4,1,30,27,4,0,111.11,[],0.5,3,1,0,7,0,1,1,0,0,0,0,14.0,0,0,0,0,0,50,26,0,76
-Uttar Pradesh,Samarth Singh,9889da93,2,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
-Uttar Pradesh,Upendra Yadav,80ffea17,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Uttar Pradesh,RK Singh,0a509d6b,4,5,9,0,0,55.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,5,0,8,13
-Uttar Pradesh,Shubham Chaubey,58588e5a,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Uttar Pradesh,B Kumar,2e81a32d,6,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,9,0,23,1,1,1,0,0,0,0,5.75,3,0,0,0,0,0,38,28,66
-Uttar Pradesh,Sameer Choudhary,9e67cfd0,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Uttar Pradesh,AS Rajpoot,db31895a,7,0,0,0,0,0.0,"[2, 5, 12, 20]",3.5,21,11,0,24,0,2,2,0,0,0,3,6.86,1,0,0,0,0,0,63,8,71
-Uttar Pradesh,Saurabh Kumar,2a6afc6f,8,0,0,0,0,0.0,"[4, 7, 10, 14]",4.0,24,13,0,27,1,2,0,0,0,0,2,6.75,1,0,0,0,0,0,15,8,23
-Uttar Pradesh,Mohsin Khan,c33d8116,9,0,0,0,0,0.0,"[6, 8, 16, 18]",4.0,24,11,0,15,0,0,2,0,1,0,0,3.75,0,0,0,0,0,0,75,0,75
-Uttar Pradesh,Shanu Saini,61d1a3d3,10,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,12,0,23,1,1,2,0,0,0,2,5.75,0,0,0,0,0,0,66,0,66
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Kerala,Vishnu Vinod,0494fa6e,1,13,14,1,1,92.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,23,0,8,31,31,True,False,False,,Right-hand bat
+Kerala,Rohan Kunnummal,a6004ded,2,3,10,0,0,30.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,-6,-3,0,12,9,26,True,False,False,Right-arm bowler,Right-hand bat
+Kerala,SV Samson,a4cc73aa,3,38,28,2,3,135.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,2,70,0,12,82,30,True,False,False,,Right-hand bat
+Kerala,Sachin Baby,dc9dd038,4,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,36,True,False,False,Right-arm offbreak,Left-hand bat
+Kerala,RV Uthappa,1c17e270,5,2,11,0,0,18.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-4,0,0,-4,39,True,False,False,Right-arm medium,Right-hand bat
+Kerala,Akshay Chandran,f0f5b2aa,6,18,25,0,0,72.0,[4],1.0,6,2,0,5,0,0,1,0,0,0,1,5.0,0,0,0,0,0,18,27,0,45,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+Kerala,KM Asif,798cc28e,6,0,0,0,0,0.0,[1],1.0,6,2,0,12,2,0,0,0,0,0,1,12.0,0,0,0,0,0,0,2,0,2,31,True,False,False,Right-arm medium,Right-hand bat
+Kerala,S Sandeep Warrier,cdc6bdba,7,0,0,0,0,0.0,[2],1.0,6,3,0,3,0,0,0,0,0,0,0,3.0,0,0,0,0,0,0,3,0,3,33,True,False,False,Right-arm medium,Right-hand bat
+Kerala,Jalaj S Saxena,249abedf,7,14,19,0,0,73.68,"[5, 7]",2.0,12,5,0,11,1,0,2,0,0,0,0,5.5,0,0,0,0,0,14,59,0,73,38,True,False,True,Legbreak googly,Right-hand bat
+Kerala,S Midhun,ade90de7,8,17,8,0,2,212.5,[6],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,29,1,0,30,30,True,False,False,Legbreak googly,Right-hand bat
+Kerala,MD Nidheesh,96513a65,9,6,2,0,1,300.0,[3],1.0,6,4,0,3,0,0,0,0,0,0,1,3.0,0,0,0,0,0,12,4,0,16,33,True,False,False,Right-arm medium,Right-hand bat
+Uttar Pradesh,AD Nath,f10e94c4,1,30,27,4,0,111.11,[],0.5,3,1,0,7,0,1,1,0,0,0,0,14.0,0,0,0,0,0,50,26,0,76,31,True,False,False,Right-arm medium-fast,Right-hand bat
+Uttar Pradesh,Samarth Singh,9889da93,2,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,33,True,False,False,Right-arm offbreak,Right-hand bat
+Uttar Pradesh,Upendra Yadav,80ffea17,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,28,True,True,False,Right-arm offbreak,Right-hand bat
+Uttar Pradesh,RK Singh,0a509d6b,4,5,9,0,0,55.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,5,0,8,13,27,True,False,False,Right-arm offbreak,Left-hand bat
+Uttar Pradesh,Shubham Chaubey,58588e5a,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,29,True,True,False,Right-arm offbreak,Right-hand bat
+Uttar Pradesh,B Kumar,2e81a32d,6,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,9,0,23,1,1,1,0,0,0,0,5.75,3,0,0,0,0,0,38,28,66,35,True,False,False,Right-arm medium,Right-hand bat
+Uttar Pradesh,Sameer Choudhary,9e67cfd0,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,25,True,True,False,Right-arm offbreak,Right-hand bat
+Uttar Pradesh,AS Rajpoot,db31895a,7,0,0,0,0,0.0,"[2, 5, 12, 20]",3.5,21,11,0,24,0,2,2,0,0,0,3,6.86,1,0,0,0,0,0,63,8,71,31,True,False,False,Right-arm medium,Right-hand bat
+Uttar Pradesh,Saurabh Kumar,2a6afc6f,8,0,0,0,0,0.0,"[4, 7, 10, 14]",4.0,24,13,0,27,1,2,0,0,0,0,2,6.75,1,0,0,0,0,0,15,8,23,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Uttar Pradesh,Mohsin Khan,c33d8116,9,0,0,0,0,0.0,"[6, 8, 16, 18]",4.0,24,11,0,15,0,0,2,0,1,0,0,3.75,0,0,0,0,0,0,75,0,75,26,True,False,False,Left-arm medium-fast,Left-hand bat
+Uttar Pradesh,Shanu Saini,61d1a3d3,10,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,12,0,23,1,1,2,0,0,0,2,5.75,0,0,0,0,0,0,66,0,66,27,True,True,False,Slow left-arm orthodox,Left-hand bat

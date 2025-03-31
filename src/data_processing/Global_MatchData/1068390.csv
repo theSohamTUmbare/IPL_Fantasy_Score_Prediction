@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Durham,CT Steel,5899dceb,1,35,23,3,1,152.17,"[7, 9, 11, 13]",4.0,24,7,0,60,5,5,2,0,0,2,0,15.0,1,0,0,0,4,61,51,8,120
-Durham,G Clark,4fd09cfc,2,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Durham,MJ Richardson,22176fe7,3,53,41,5,0,129.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,81,0,0,81
-Durham,JTA Burnham,a4a2a0c0,4,1,5,0,0,20.0,[],0.167,1,1,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,1,0,2
-Durham,GJ Harte,67954d19,5,6,5,1,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
-Durham,P Coughlin,71440756,6,42,25,2,3,168.0,[],0.833,5,2,0,14,2,1,0,0,0,0,0,16.81,0,0,0,0,4,76,2,0,78
-Durham,SW Poynter,cdf59953,7,8,4,0,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,14,0,8,22
-Durham,U Arshad,02b93a83,7,0,0,0,0,0.0,[2],0.0,0,0,0,5,0,0,0,0,0,4,0,0.0,0,0,0,0,0,0,0,0,0
-Durham,RD Pringle,757502b5,8,25,12,4,0,208.33,"[4, 6]",2.0,12,4,0,34,2,4,0,0,0,0,0,17.0,0,0,0,0,6,51,-2,0,49
-Durham,WJ Weighell,10f68de1,8,0,0,0,0,0.0,"[1, 8, 10]",3.0,18,7,0,25,3,1,2,0,0,0,0,8.33,2,0,0,0,0,0,57,16,73
-Durham,BA Carse,cad40f5e,9,1,1,0,0,100.0,"[3, 5, 12, 14]",3.833,23,10,0,45,7,1,1,0,0,4,0,11.74,1,0,0,0,0,1,31,8,40
-Nottinghamshire,MH Wessels,90f47cf2,1,41,32,4,2,128.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,73,0,0,73
-Nottinghamshire,AD Hales,92aeac25,2,95,28,9,9,339.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,203,0,8,211
-Nottinghamshire,TJ Moores,85dcb721,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Nottinghamshire,DT Christian,2a2e6343,4,10,5,2,0,200.0,[4],1.0,6,3,0,9,0,1,0,0,0,0,0,9.0,1,0,0,0,0,18,3,8,29
-Nottinghamshire,SJ Mullaney,0e0d43b4,5,0,1,0,0,0.0,"[8, 10, 12]",3.0,18,5,0,24,3,0,2,0,0,0,0,8.0,0,0,0,0,0,-2,55,0,53
-Nottinghamshire,SR Patel,18fac429,6,26,15,4,1,173.33,"[1, 7, 13, 15]",4.0,24,5,0,23,1,0,2,0,2,0,0,5.75,0,0,0,0,6,58,75,0,133
-Nottinghamshire,WT Root,72898514,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Nottinghamshire,BRM Taylor,53597be1,7,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
-Nottinghamshire,IS Sodhi,641ac5ff,8,0,0,0,0,0.0,"[9, 11, 14, 16]",4.0,24,4,0,31,0,2,2,0,1,0,0,7.75,0,0,0,0,0,0,62,0,62
-Nottinghamshire,JT Ball,3d0ed2f9,9,0,0,0,0,0.0,"[3, 6, 18, 20]",4.0,24,5,0,46,7,1,1,0,1,0,0,11.5,0,0,0,0,0,0,34,0,34
-Nottinghamshire,HF Gurney,e412cb64,10,0,0,0,0,0.0,"[2, 5, 17, 19]",4.0,24,5,0,39,4,1,0,0,0,0,0,9.75,0,0,0,0,0,0,5,0,5
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Durham,CT Steel,5899dceb,1,35,23,3,1,152.17,"[7, 9, 11, 13]",4.0,24,7,0,60,5,5,2,0,0,2,0,15.0,1,0,0,0,4,61,51,8,120,29,True,False,False,Legbreak,Right-hand bat
+Durham,G Clark,4fd09cfc,2,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,32,True,False,False,Legbreak,Right-hand bat
+Durham,MJ Richardson,22176fe7,3,53,41,5,0,129.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,81,0,0,81,38,True,False,False,,Right-hand bat
+Durham,JTA Burnham,a4a2a0c0,4,1,5,0,0,20.0,[],0.167,1,1,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,1,0,2,28,True,False,False,Right-arm medium,Right-hand bat
+Durham,GJ Harte,67954d19,5,6,5,1,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,32,True,False,True,Right-arm medium,Right-hand bat
+Durham,P Coughlin,71440756,6,42,25,2,3,168.0,[],0.833,5,2,0,14,2,1,0,0,0,0,0,16.81,0,0,0,0,4,76,2,0,78,32,True,False,True,Right-arm medium,Right-hand bat
+Durham,SW Poynter,cdf59953,7,8,4,0,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,14,0,8,22,34,True,False,False,,Right-hand bat
+Durham,U Arshad,02b93a83,7,0,0,0,0,0.0,[2],0.0,0,0,0,5,0,0,0,0,0,4,0,0.0,0,0,0,0,0,0,0,0,0,32,True,False,False,Right-arm medium-fast,Right-hand bat
+Durham,RD Pringle,757502b5,8,25,12,4,0,208.33,"[4, 6]",2.0,12,4,0,34,2,4,0,0,0,0,0,17.0,0,0,0,0,6,51,-2,0,49,32,True,False,True,Right-arm offbreak,Right-hand bat
+Durham,WJ Weighell,10f68de1,8,0,0,0,0,0.0,"[1, 8, 10]",3.0,18,7,0,25,3,1,2,0,0,0,0,8.33,2,0,0,0,0,0,57,16,73,31,True,False,True,Right-arm medium,Left-hand bat
+Durham,BA Carse,cad40f5e,9,1,1,0,0,100.0,"[3, 5, 12, 14]",3.833,23,10,0,45,7,1,1,0,0,4,0,11.74,1,0,0,0,0,1,31,8,40,29,True,False,True,Right-arm fast,Right-hand bat
+Nottinghamshire,MH Wessels,90f47cf2,1,41,32,4,2,128.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,73,0,0,73,39,True,False,False,,Right-hand bat
+Nottinghamshire,AD Hales,92aeac25,2,95,28,9,9,339.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,203,0,8,211,36,True,False,False,Right-arm medium,Right-hand bat
+Nottinghamshire,TJ Moores,85dcb721,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,28,True,False,False,,Left-hand bat
+Nottinghamshire,DT Christian,2a2e6343,4,10,5,2,0,200.0,[4],1.0,6,3,0,9,0,1,0,0,0,0,0,9.0,1,0,0,0,0,18,3,8,29,41,True,False,True,Right-arm fast-medium,Right-hand bat
+Nottinghamshire,SJ Mullaney,0e0d43b4,5,0,1,0,0,0.0,"[8, 10, 12]",3.0,18,5,0,24,3,0,2,0,0,0,0,8.0,0,0,0,0,0,-2,55,0,53,38,True,False,True,Right-arm medium,Right-hand bat
+Nottinghamshire,SR Patel,18fac429,6,26,15,4,1,173.33,"[1, 7, 13, 15]",4.0,24,5,0,23,1,0,2,0,2,0,0,5.75,0,0,0,0,6,58,75,0,133,40,True,False,True,Slow left-arm orthodox,Right-hand bat
+Nottinghamshire,WT Root,72898514,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,32,True,False,False,Right-arm offbreak,Left-hand bat
+Nottinghamshire,BRM Taylor,53597be1,7,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,39,True,True,False,Right-arm offbreak,Right-hand bat
+Nottinghamshire,IS Sodhi,641ac5ff,8,0,0,0,0,0.0,"[9, 11, 14, 16]",4.0,24,4,0,31,0,2,2,0,1,0,0,7.75,0,0,0,0,0,0,62,0,62,32,True,False,False,Legbreak,Right-hand bat
+Nottinghamshire,JT Ball,3d0ed2f9,9,0,0,0,0,0.0,"[3, 6, 18, 20]",4.0,24,5,0,46,7,1,1,0,1,0,0,11.5,0,0,0,0,0,0,34,0,34,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Nottinghamshire,HF Gurney,e412cb64,10,0,0,0,0,0.0,"[2, 5, 17, 19]",4.0,24,5,0,39,4,1,0,0,0,0,0,9.75,0,0,0,0,0,0,5,0,5,38,True,False,False,Left-arm fast-medium,Right-hand bat

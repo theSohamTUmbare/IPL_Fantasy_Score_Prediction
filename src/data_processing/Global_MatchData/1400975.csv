@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Ghana,JK Vifah,a1448a10,1,4,3,0,0,133.33,"[2, 4, 16]",3.0,18,11,0,18,0,1,1,0,0,0,5,6.0,0,0,0,0,0,4,38,0,42
-Ghana,A Osei,375322d1,2,12,29,0,1,41.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,12,0,0,12
-Ghana,OH Agbomadzie,b38a9f73,3,14,20,0,0,70.0,"[7, 9, 11, 13]",4.0,24,13,0,21,0,1,0,0,0,1,1,5.25,0,0,0,0,-2,12,17,0,29
-Ghana,R Bakum,c74c583b,4,10,14,0,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
-Ghana,SK Awiah,bc3fc527,5,8,12,0,0,66.67,"[8, 10, 12, 14]",4.0,24,11,0,21,1,1,2,0,1,0,1,5.25,0,0,0,0,-2,6,73,0,79
-Ghana,KM Awala,c6c7d01b,6,23,14,2,1,164.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,41,0,0,41
-Ghana,DK Anefie,f98c24ec,7,1,3,0,0,33.33,"[17, 19]",2.0,12,5,0,17,1,1,1,0,0,0,1,8.5,1,0,0,0,0,1,30,8,39
-Ghana,TK Joseph,4fafd79a,8,21,13,0,2,161.54,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,1,0,4,37,0,24,61
-Ghana,M Aboagye,afe8ff08,9,8,6,0,0,133.33,"[1, 3, 5, 15]",5.0,30,18,0,17,1,0,3,0,2,0,1,3.4,0,0,0,0,0,8,119,0,127
-Ghana,G Bakiweyem,5fe3709e,10,13,9,0,0,144.44,"[18, 20]",2.0,12,2,0,17,1,0,1,0,1,0,1,8.5,2,0,0,0,0,13,35,16,64
-Ghana,KS Bagabena,1ce4f664,11,6,3,1,0,200.0,[6],1.0,6,2,0,11,1,0,0,0,0,0,4,11.0,0,0,0,0,0,10,2,0,12
-Rwanda,D Ndikubwimana,3cbedf51,1,2,13,0,0,15.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,-6,-4,0,12,8
-Rwanda,E Dusingizimana,c15e7ba4,2,8,10,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20
-Rwanda,Hamza Khan,44a5f2b2,3,46,48,2,1,95.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,64,0,12,76
-Rwanda,O Tuyisenge,e6a6888f,4,5,12,0,0,41.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,-6,-1,0,16,15
-Rwanda,W Niyitanga,e7631adc,5,3,16,0,0,18.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-3,0,0,-3
-Rwanda,K Irakoze,9ccb6e52,6,34,19,1,3,178.95,"[5, 9, 12, 15]",4.0,24,10,0,30,1,2,4,0,1,0,1,7.5,1,0,0,0,6,66,126,8,200
-Rwanda,Z Bimenyimana,ba57fb08,7,7,6,1,0,116.67,"[17, 19]",2.0,12,2,0,25,0,2,0,0,0,0,2,12.5,0,0,0,0,0,11,-4,0,7
-Rwanda,M Akayezu,1f3b9f8d,8,0,1,0,0,0.0,"[18, 20]",2.0,12,5,0,17,1,0,4,0,1,0,1,8.5,0,0,1,0,0,-2,121,12,131
-Rwanda,E Sebareme,f99a219a,9,2,1,0,0,200.0,"[6, 8, 14, 16]",4.0,24,12,1,19,1,0,1,0,1,0,0,4.75,1,0,0,0,0,2,63,8,73
-Rwanda,E Rukiriza,3ac13a94,11,0,0,0,0,0.0,"[2, 4, 7, 10]",4.0,24,13,0,13,0,0,0,0,0,0,0,3.25,0,0,0,0,0,0,19,0,19
-Rwanda,Muhammad Nadir,090f96e4,12,0,0,0,0,0.0,"[1, 3, 11, 13]",5.0,30,16,0,21,0,0,0,0,0,0,1,4.2,0,0,0,0,0,0,22,0,22
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Ghana,JK Vifah,a1448a10,1,4,3,0,0,133.33,"[2, 4, 16]",3.0,18,11,0,18,0,1,1,0,0,0,5,6.0,0,0,0,0,0,4,38,0,42,35,True,True,False,Right-arm medium,Right-hand bat
+Ghana,A Osei,375322d1,2,12,29,0,1,41.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,12,0,0,12,25,True,False,False,,Right-hand bat
+Ghana,OH Agbomadzie,b38a9f73,3,14,20,0,0,70.0,"[7, 9, 11, 13]",4.0,24,13,0,21,0,1,0,0,0,1,1,5.25,0,0,0,0,-2,12,17,0,29,34,True,True,False,Left-arm medium,Left-hand bat
+Ghana,R Bakum,c74c583b,4,10,14,0,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,25,True,False,True,Right-arm medium,Right-hand bat
+Ghana,SK Awiah,bc3fc527,5,8,12,0,0,66.67,"[8, 10, 12, 14]",4.0,24,11,0,21,1,1,2,0,1,0,1,5.25,0,0,0,0,-2,6,73,0,79,35,True,False,False,Right-arm offbreak,Right-hand bat
+Ghana,KM Awala,c6c7d01b,6,23,14,2,1,164.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,41,0,0,41,25,True,False,True,Right-arm offbreak,Right-hand bat
+Ghana,DK Anefie,f98c24ec,7,1,3,0,0,33.33,"[17, 19]",2.0,12,5,0,17,1,1,1,0,0,0,1,8.5,1,0,0,0,0,1,30,8,39,24,True,False,True,Right-arm medium,Right-hand bat
+Ghana,TK Joseph,4fafd79a,8,21,13,0,2,161.54,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,1,0,4,37,0,24,61,25,True,False,False,,Right-hand bat
+Ghana,M Aboagye,afe8ff08,9,8,6,0,0,133.33,"[1, 3, 5, 15]",5.0,30,18,0,17,1,0,3,0,2,0,1,3.4,0,0,0,0,0,8,119,0,127,23,True,False,True,Legbreak,Right-hand bat
+Ghana,G Bakiweyem,5fe3709e,10,13,9,0,0,144.44,"[18, 20]",2.0,12,2,0,17,1,0,1,0,1,0,1,8.5,2,0,0,0,0,13,35,16,64,26,True,True,False,Right-arm medium,Right-hand bat
+Ghana,KS Bagabena,1ce4f664,11,6,3,1,0,200.0,[6],1.0,6,2,0,11,1,0,0,0,0,0,4,11.0,0,0,0,0,0,10,2,0,12,36,True,True,False,Right-arm medium,Right-hand bat
+Rwanda,D Ndikubwimana,3cbedf51,1,2,13,0,0,15.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,-6,-4,0,12,8,21,True,False,False,,Right-hand bat
+Rwanda,E Dusingizimana,c15e7ba4,2,8,10,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20,38,True,False,False,,Right-hand bat
+Rwanda,Hamza Khan,44a5f2b2,3,46,48,2,1,95.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,64,0,12,76,27,True,False,False,,Right-hand bat
+Rwanda,O Tuyisenge,e6a6888f,4,5,12,0,0,41.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,-6,-1,0,16,15,24,True,False,False,,Right-hand bat
+Rwanda,W Niyitanga,e7631adc,5,3,16,0,0,18.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-3,0,0,-3,23,True,False,False,,Right-hand bat
+Rwanda,K Irakoze,9ccb6e52,6,34,19,1,3,178.95,"[5, 9, 12, 15]",4.0,24,10,0,30,1,2,4,0,1,0,1,7.5,1,0,0,0,6,66,126,8,200,24,True,True,False,Right-arm offbreak,Right-hand bat
+Rwanda,Z Bimenyimana,ba57fb08,7,7,6,1,0,116.67,"[17, 19]",2.0,12,2,0,25,0,2,0,0,0,0,2,12.5,0,0,0,0,0,11,-4,0,7,26,True,True,False,Right-arm medium,Right-hand bat
+Rwanda,M Akayezu,1f3b9f8d,8,0,1,0,0,0.0,"[18, 20]",2.0,12,5,0,17,1,0,4,0,1,0,1,8.5,0,0,1,0,0,-2,121,12,131,22,True,True,False,Right-arm medium,Right-hand bat
+Rwanda,E Sebareme,f99a219a,9,2,1,0,0,200.0,"[6, 8, 14, 16]",4.0,24,12,1,19,1,0,1,0,1,0,0,4.75,1,0,0,0,0,2,63,8,73,29,True,False,True,Right-arm offbreak,Right-hand bat
+Rwanda,E Rukiriza,3ac13a94,11,0,0,0,0,0.0,"[2, 4, 7, 10]",4.0,24,13,0,13,0,0,0,0,0,0,0,3.25,0,0,0,0,0,0,19,0,19,21,True,True,False,Right-arm offbreak,Right-hand bat
+Rwanda,Muhammad Nadir,090f96e4,12,0,0,0,0,0.0,"[1, 3, 11, 13]",5.0,30,16,0,21,0,0,0,0,0,0,1,4.2,0,0,0,0,0,0,22,0,22,26,True,True,False,Slow left-arm orthodox,Left-hand bat

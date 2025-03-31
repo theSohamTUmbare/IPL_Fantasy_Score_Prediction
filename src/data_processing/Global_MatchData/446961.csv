@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Australia,DA Warner,dcce6f09,1,30,26,3,0,115.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,46,0,16,62
-Australia,SR Watson,4329fbb5,2,17,10,0,2,170.0,"[5, 10, 12, 14]",4.0,24,12,0,17,1,0,2,0,0,0,0,4.25,0,0,0,0,4,33,68,0,101
-Australia,TD Paine,5748e866,3,21,12,2,1,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,41,0,0,41
-Australia,DJ Hussey,fd835ab3,4,8,16,0,0,50.0,"[7, 11, 15]",3.0,18,3,0,18,0,0,0,0,0,0,0,6.0,0,0,0,0,-4,4,5,0,9
-Australia,CL White,d0513f63,5,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Australia,AJ Finch,b8d490fd,6,53,33,4,2,160.61,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,93,0,8,101
-Australia,SPD Smith,30a45b23,7,13,18,0,0,72.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
-Australia,B Lee,dd09ff8e,8,0,0,0,0,0.0,"[2, 4, 16, 20]",4.0,24,6,0,29,0,1,0,0,0,1,0,7.25,0,0,0,0,0,0,6,0,6
-Australia,SNJ O'Keefe,3540beff,8,1,2,0,0,50.0,[9],1.0,6,1,0,9,1,0,0,0,0,0,0,9.0,0,0,0,0,0,1,1,0,2
-Australia,SW Tait,addfb70e,9,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,7,0,39,3,0,1,0,0,1,5,9.75,0,0,0,0,0,0,32,0,32
-Australia,MG Johnson,f5180fe6,9,1,1,0,0,100.0,"[6, 8, 13, 18]",4.0,24,7,0,29,2,0,3,0,1,0,1,7.25,0,0,0,0,0,1,94,0,95
-England,IR Bell,33155d1b,1,39,29,3,0,134.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,57,0,0,57
-England,SM Davies,8fc65c2b,2,29,25,2,0,116.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,41,0,0,41
-England,KP Pietersen,39f01cdb,3,1,2,0,0,50.0,"[15, 17]",2.0,12,6,0,17,2,1,0,0,0,0,0,8.5,1,0,0,0,0,1,6,8,15
-England,PD Collingwood,a386e91b,4,6,10,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,-2,4,0,16,20
-England,EJG Morgan,d2a6c0e6,5,14,21,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,16,0,8,24
-England,LJ Wright,cca50cd6,6,18,15,1,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
-England,TT Bresnan,58043739,7,15,12,0,0,125.0,"[6, 8, 18, 20]",4.0,24,4,0,27,1,0,1,0,1,0,0,6.75,0,0,0,0,0,15,39,0,54
-England,CR Woakes,4c5d73db,8,11,6,0,1,183.33,"[1, 3, 5]",3.0,18,6,0,29,1,2,1,0,0,0,1,9.67,1,0,0,0,0,17,31,8,56
-England,MH Yardy,3812d56b,8,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,9,0,19,0,0,2,0,0,0,0,4.75,0,0,0,0,0,0,65,0,65
-England,GP Swann,221ad9d9,9,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,13,0,19,2,0,2,1,0,0,0,4.75,0,0,0,0,0,0,77,0,77
-England,A Shahzad,a73321d3,10,0,0,0,0,0.0,"[2, 4, 19]",3.0,18,7,0,34,3,2,1,0,0,0,0,11.33,0,0,0,0,0,0,28,0,28
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Australia,DA Warner,dcce6f09,1,30,26,3,0,115.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,46,0,16,62,38,True,False,False,Legbreak,Left-hand bat
+Australia,SR Watson,4329fbb5,2,17,10,0,2,170.0,"[5, 10, 12, 14]",4.0,24,12,0,17,1,0,2,0,0,0,0,4.25,0,0,0,0,4,33,68,0,101,43,True,False,True,Right-arm fast-medium,Right-hand bat
+Australia,TD Paine,5748e866,3,21,12,2,1,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,41,0,0,41,40,True,True,False,Right-arm medium,Right-hand bat
+Australia,DJ Hussey,fd835ab3,4,8,16,0,0,50.0,"[7, 11, 15]",3.0,18,3,0,18,0,0,0,0,0,0,0,6.0,0,0,0,0,-4,4,5,0,9,47,True,False,True,Right-arm offbreak,Right-hand bat
+Australia,CL White,d0513f63,5,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,41,True,False,False,Legbreak googly,Right-hand bat
+Australia,AJ Finch,b8d490fd,6,53,33,4,2,160.61,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,93,0,8,101,38,True,False,False,Slow left-arm orthodox,Right-hand bat
+Australia,SPD Smith,30a45b23,7,13,18,0,0,72.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21,35,True,False,False,Legbreak googly,Right-hand bat
+Australia,B Lee,dd09ff8e,8,0,0,0,0,0.0,"[2, 4, 16, 20]",4.0,24,6,0,29,0,1,0,0,0,1,0,7.25,0,0,0,0,0,0,6,0,6,48,True,False,False,Right-arm fast,Right-hand bat
+Australia,SNJ O'Keefe,3540beff,8,1,2,0,0,50.0,[9],1.0,6,1,0,9,1,0,0,0,0,0,0,9.0,0,0,0,0,0,1,1,0,2,40,True,False,True,Slow left-arm orthodox,Right-hand bat
+Australia,SW Tait,addfb70e,9,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,7,0,39,3,0,1,0,0,1,5,9.75,0,0,0,0,0,0,32,0,32,42,True,False,False,Right-arm fast,Right-hand bat
+Australia,MG Johnson,f5180fe6,9,1,1,0,0,100.0,"[6, 8, 13, 18]",4.0,24,7,0,29,2,0,3,0,1,0,1,7.25,0,0,0,0,0,1,94,0,95,43,True,False,False,Left-arm fast,Left-hand bat
+England,IR Bell,33155d1b,1,39,29,3,0,134.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,57,0,0,57,42,True,False,False,Right-arm medium,Right-hand bat
+England,SM Davies,8fc65c2b,2,29,25,2,0,116.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,41,0,0,41,38,True,False,False,,Left-hand bat
+England,KP Pietersen,39f01cdb,3,1,2,0,0,50.0,"[15, 17]",2.0,12,6,0,17,2,1,0,0,0,0,0,8.5,1,0,0,0,0,1,6,8,15,44,True,False,False,Right-arm offbreak,Right-hand bat
+England,PD Collingwood,a386e91b,4,6,10,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,-2,4,0,16,20,48,True,False,True,Right-arm medium,Right-hand bat
+England,EJG Morgan,d2a6c0e6,5,14,21,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,16,0,8,24,38,True,False,False,Right-arm medium,Left-hand bat
+England,LJ Wright,cca50cd6,6,18,15,1,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,40,True,False,False,Right-arm medium,Right-hand bat
+England,TT Bresnan,58043739,7,15,12,0,0,125.0,"[6, 8, 18, 20]",4.0,24,4,0,27,1,0,1,0,1,0,0,6.75,0,0,0,0,0,15,39,0,54,40,True,False,True,Right-arm medium-fast,Right-hand bat
+England,CR Woakes,4c5d73db,8,11,6,0,1,183.33,"[1, 3, 5]",3.0,18,6,0,29,1,2,1,0,0,0,1,9.67,1,0,0,0,0,17,31,8,56,36,True,False,True,Right-arm fast-medium,Right-hand bat
+England,MH Yardy,3812d56b,8,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,9,0,19,0,0,2,0,0,0,0,4.75,0,0,0,0,0,0,65,0,65,44,True,False,True,Slow left-arm orthodox,Left-hand bat
+England,GP Swann,221ad9d9,9,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,13,0,19,2,0,2,1,0,0,0,4.75,0,0,0,0,0,0,77,0,77,46,True,False,False,Right-arm offbreak,Right-hand bat
+England,A Shahzad,a73321d3,10,0,0,0,0,0.0,"[2, 4, 19]",3.0,18,7,0,34,3,2,1,0,0,0,0,11.33,0,0,0,0,0,0,28,0,28,39,True,False,False,Right-arm fast-medium,Right-hand bat

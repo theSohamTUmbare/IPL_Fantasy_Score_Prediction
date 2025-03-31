@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Ghana,Amoluk Singh,266473e2,1,36,31,7,0,116.13,"[1, 3, 5, 7]",4.0,24,14,0,23,4,0,2,0,2,0,0,5.75,0,0,0,0,0,68,84,0,152
-Ghana,JK Vifah,a1448a10,2,18,10,1,1,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,34,0,0,34
-Ghana,MK Anafie,6949f713,3,41,20,3,3,205.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,81,0,0,81
-Ghana,OH Agbomadzie,b38a9f73,3,0,0,0,0,0.0,"[12, 14, 18]",3.0,18,8,0,21,3,0,0,0,0,0,0,7.0,0,0,0,0,0,0,10,0,10
-Ghana,R Bakum,c74c583b,4,0,0,0,0,0.0,"[17, 19]",2.0,12,10,0,1,0,0,0,0,0,0,0,0.5,0,0,0,0,0,0,16,0,16
-Ghana,Devender Singh,68e21fb1,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Ghana,SK Awiah,bc3fc527,6,0,0,0,0,0.0,"[9, 13, 15]",3.0,18,7,0,21,1,1,1,0,0,0,1,7.0,1,0,0,0,0,0,34,8,42
-Ghana,DK Anefie,f98c24ec,7,0,0,0,0,0.0,"[2, 4, 11, 20]",4.0,24,17,0,19,3,0,1,0,1,0,2,4.75,0,0,0,0,0,0,56,0,56
-Ghana,KS Bagabena,1ce4f664,8,0,0,0,0,0.0,"[6, 8, 10, 16]",4.0,24,19,1,9,1,0,5,2,2,0,0,2.25,0,0,0,0,0,0,206,0,206
-Ghana,TK Joseph,4fafd79a,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,0,0,20,20
-Ghana,Aziz Sualley,118b0a7c,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Seychelles,T Rajiv,1ab8beda,1,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Seychelles,N Krishna,c62a0327,2,11,14,2,0,78.57,"[4, 6]",2.0,12,6,0,19,2,1,0,0,0,0,1,9.5,0,0,0,0,0,19,6,0,25
-Seychelles,SKDT Madusanka,95c2d309,3,15,18,3,0,83.33,[8],1.0,6,3,0,11,1,1,0,0,0,0,0,11.0,0,0,0,0,0,27,3,0,30
-Seychelles,SR Mohan,58533699,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,-2,0,6,4
-Seychelles,D Kalvin,895ae8b6,5,30,26,3,0,115.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,46,0,6,52
-Seychelles,Mazharul Islam,30564b3e,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Seychelles,S Udhayan,a8d6305d,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Seychelles,VL Mukesh,44744467,8,7,10,0,1,70.0,"[1, 3]",2.0,12,3,0,19,3,0,0,0,0,0,0,9.5,0,0,0,0,-2,11,3,0,14
-Seychelles,R Nil,b0f9dac4,9,14,14,2,0,100.0,[10],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,22,1,0,23
-Seychelles,SR Rocket,ee3bfb9b,10,5,7,1,0,71.43,[2],1.0,6,4,0,5,1,0,0,0,0,0,0,5.0,0,0,0,0,0,9,4,0,13
-Seychelles,KJ Patel,d6b4e3e2,11,8,24,1,0,33.33,"[5, 7, 9, 11]",3.167,19,6,0,34,3,2,0,0,0,0,0,10.74,0,0,0,0,-6,6,4,0,10
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Ghana,Amoluk Singh,266473e2,1,36,31,7,0,116.13,"[1, 3, 5, 7]",4.0,24,14,0,23,4,0,2,0,2,0,0,5.75,0,0,0,0,0,68,84,0,152,49,True,True,False,Right-arm offbreak,Right-hand bat
+Ghana,JK Vifah,a1448a10,2,18,10,1,1,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,34,0,0,34,35,True,True,False,Right-arm medium,Right-hand bat
+Ghana,MK Anafie,6949f713,3,41,20,3,3,205.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,81,0,0,81,36,True,True,False,Right-arm offbreak,Right-hand bat
+Ghana,OH Agbomadzie,b38a9f73,3,0,0,0,0,0.0,"[12, 14, 18]",3.0,18,8,0,21,3,0,0,0,0,0,0,7.0,0,0,0,0,0,0,10,0,10,34,True,True,False,Left-arm medium,Left-hand bat
+Ghana,R Bakum,c74c583b,4,0,0,0,0,0.0,"[17, 19]",2.0,12,10,0,1,0,0,0,0,0,0,0,0.5,0,0,0,0,0,0,16,0,16,25,True,False,True,Right-arm medium,Right-hand bat
+Ghana,Devender Singh,68e21fb1,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,34,True,False,False,,Right-hand bat
+Ghana,SK Awiah,bc3fc527,6,0,0,0,0,0.0,"[9, 13, 15]",3.0,18,7,0,21,1,1,1,0,0,0,1,7.0,1,0,0,0,0,0,34,8,42,35,True,False,False,Right-arm offbreak,Right-hand bat
+Ghana,DK Anefie,f98c24ec,7,0,0,0,0,0.0,"[2, 4, 11, 20]",4.0,24,17,0,19,3,0,1,0,1,0,2,4.75,0,0,0,0,0,0,56,0,56,24,True,False,True,Right-arm medium,Right-hand bat
+Ghana,KS Bagabena,1ce4f664,8,0,0,0,0,0.0,"[6, 8, 10, 16]",4.0,24,19,1,9,1,0,5,2,2,0,0,2.25,0,0,0,0,0,0,206,0,206,36,True,True,False,Right-arm medium,Right-hand bat
+Ghana,TK Joseph,4fafd79a,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,0,0,20,20,25,True,False,False,,Right-hand bat
+Ghana,Aziz Sualley,118b0a7c,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,False,True,Legbreak,Right-hand bat
+Seychelles,T Rajiv,1ab8beda,1,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,33,True,False,False,,Right-hand bat
+Seychelles,N Krishna,c62a0327,2,11,14,2,0,78.57,"[4, 6]",2.0,12,6,0,19,2,1,0,0,0,0,1,9.5,0,0,0,0,0,19,6,0,25,45,True,False,True,Slow left-arm orthodox,Right-hand bat
+Seychelles,SKDT Madusanka,95c2d309,3,15,18,3,0,83.33,[8],1.0,6,3,0,11,1,1,0,0,0,0,0,11.0,0,0,0,0,0,27,3,0,30,42,True,True,False,Right-arm medium-fast,Right-hand bat
+Seychelles,SR Mohan,58533699,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,-2,0,6,4,35,True,False,False,,Right-hand bat
+Seychelles,D Kalvin,895ae8b6,5,30,26,3,0,115.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,46,0,6,52,37,True,True,False,Right-arm medium-fast,Right-hand bat
+Seychelles,Mazharul Islam,30564b3e,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,31,True,False,False,,Right-hand bat
+Seychelles,S Udhayan,a8d6305d,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,35,True,False,False,Right-arm medium-fast,Right-hand bat
+Seychelles,VL Mukesh,44744467,8,7,10,0,1,70.0,"[1, 3]",2.0,12,3,0,19,3,0,0,0,0,0,0,9.5,0,0,0,0,-2,11,3,0,14,41,True,False,False,Right-arm medium,Right-hand bat
+Seychelles,R Nil,b0f9dac4,9,14,14,2,0,100.0,[10],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,22,1,0,23,34,True,True,False,Right-arm medium-fast,Right-hand bat
+Seychelles,SR Rocket,ee3bfb9b,10,5,7,1,0,71.43,[2],1.0,6,4,0,5,1,0,0,0,0,0,0,5.0,0,0,0,0,0,9,4,0,13,32,True,True,False,Right-arm medium-fast,Right-hand bat
+Seychelles,KJ Patel,d6b4e3e2,11,8,24,1,0,33.33,"[5, 7, 9, 11]",3.167,19,6,0,34,3,2,0,0,0,0,0,10.74,0,0,0,0,-6,6,4,0,10,50,True,True,False,Right-arm offbreak,Right-hand bat

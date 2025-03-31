@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Northamptonshire,RE Levi,18c78b11,1,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
-Northamptonshire,AM Rossington,7bcde3fe,2,22,11,1,2,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,44,0,0,44
-Northamptonshire,R Vasconcelos,efe3fcc5,3,12,14,1,1,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,22,0,16,38
-Northamptonshire,JJ Cobb,58c481c6,4,62,32,6,3,193.75,[10],1.0,6,0,0,15,1,1,0,0,0,0,0,15.0,1,0,0,0,6,118,0,8,126
-Northamptonshire,RI Keogh,e22d3b5c,5,45,31,3,2,145.16,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,75,0,0,75
-Northamptonshire,WD Parnell,3a60e0b5,6,14,10,2,0,140.0,"[3, 11, 17, 19]",4.0,24,8,0,30,4,0,2,0,1,0,1,7.5,1,0,0,0,2,24,66,8,98
-Northamptonshire,SA Zaib,ab01e323,7,22,11,1,2,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,44,0,8,52
-Northamptonshire,TAI Taylor,867a45a7,8,6,5,0,0,120.0,"[5, 9, 15, 20]",4.0,24,6,0,36,2,2,2,0,0,0,1,9.0,0,0,0,0,0,6,56,0,62
-Northamptonshire,GG White,0f21680d,9,0,0,0,0,0.0,"[1, 8, 12, 14]",4.0,24,7,0,37,1,3,2,0,0,0,0,9.25,0,0,0,0,0,0,57,0,57
-Northamptonshire,BW Sanderson,e871a7a1,9,0,0,0,0,0.0,"[2, 6, 16]",3.667,22,2,0,43,1,4,0,0,0,0,0,11.73,1,0,0,0,0,0,-2,8,6
-Northamptonshire,BD Glover,0dbe27b8,10,0,0,0,0,0.0,"[4, 7, 13, 18]",3.333,20,6,0,51,4,3,1,0,0,4,3,15.3,0,0,0,0,0,0,25,0,25
-Nottinghamshire,JM Clarke,2eca67f5,1,136,63,6,11,215.87,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,248,0,0,248
-Nottinghamshire,AD Hales,92aeac25,2,14,11,1,1,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,24,0,8,32
-Nottinghamshire,PD Trego,93e06301,3,24,21,3,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,36,0,8,44
-Nottinghamshire,TJ Moores,85dcb721,4,8,6,0,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
-Nottinghamshire,SJ Mullaney,0e0d43b4,5,7,7,1,0,100.0,[8],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,11,1,0,12
-Nottinghamshire,SR Patel,18fac429,6,11,7,2,0,157.14,"[1, 7, 9, 13]",4.0,24,6,0,43,6,1,0,0,0,0,1,10.75,0,0,0,0,0,19,4,0,23
-Nottinghamshire,LW James,2baad3bd,7,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
-Nottinghamshire,LJ Fletcher,e423d162,8,1,1,0,0,100.0,"[5, 11, 17, 19]",4.0,24,6,0,41,2,3,2,0,0,0,1,10.25,0,0,0,0,0,1,54,0,55
-Nottinghamshire,CG Harrison,f655d740,9,1,2,0,0,50.0,"[10, 12, 15]",3.0,18,4,0,31,1,2,1,0,0,0,1,10.33,1,0,0,0,0,1,27,8,36
-Nottinghamshire,M Carter,1ca7c00f,9,0,0,0,0,0.0,"[2, 4, 14, 16]",4.0,24,10,0,15,0,0,1,0,0,0,0,3.75,1,0,0,0,0,0,41,8,49
-Nottinghamshire,JT Ball,3d0ed2f9,10,0,0,0,0,0.0,"[3, 6, 18, 20]",4.0,24,6,0,58,5,4,3,0,0,2,2,14.5,0,0,0,0,0,0,79,0,79
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Northamptonshire,RE Levi,18c78b11,1,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,37,True,False,False,Right-arm medium,Right-hand bat
+Northamptonshire,AM Rossington,7bcde3fe,2,22,11,1,2,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,44,0,0,44,31,True,False,False,,Right-hand bat
+Northamptonshire,R Vasconcelos,efe3fcc5,3,12,14,1,1,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,22,0,16,38,27,True,False,False,,Left-hand bat
+Northamptonshire,JJ Cobb,58c481c6,4,62,32,6,3,193.75,[10],1.0,6,0,0,15,1,1,0,0,0,0,0,15.0,1,0,0,0,6,118,0,8,126,34,True,False,True,Right-arm offbreak,Right-hand bat
+Northamptonshire,RI Keogh,e22d3b5c,5,45,31,3,2,145.16,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,75,0,0,75,33,True,False,True,Right-arm offbreak,Right-hand bat
+Northamptonshire,WD Parnell,3a60e0b5,6,14,10,2,0,140.0,"[3, 11, 17, 19]",4.0,24,8,0,30,4,0,2,0,1,0,1,7.5,1,0,0,0,2,24,66,8,98,35,True,False,False,Left-arm medium-fast,Left-hand bat
+Northamptonshire,SA Zaib,ab01e323,7,22,11,1,2,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,44,0,8,52,26,True,False,True,Slow left-arm orthodox,Left-hand bat
+Northamptonshire,TAI Taylor,867a45a7,8,6,5,0,0,120.0,"[5, 9, 15, 20]",4.0,24,6,0,36,2,2,2,0,0,0,1,9.0,0,0,0,0,0,6,56,0,62,30,True,False,True,Right-arm medium-fast,Right-hand bat
+Northamptonshire,GG White,0f21680d,9,0,0,0,0,0.0,"[1, 8, 12, 14]",4.0,24,7,0,37,1,3,2,0,0,0,0,9.25,0,0,0,0,0,0,57,0,57,37,True,False,False,Slow left-arm orthodox,Right-hand bat
+Northamptonshire,BW Sanderson,e871a7a1,9,0,0,0,0,0.0,"[2, 6, 16]",3.667,22,2,0,43,1,4,0,0,0,0,0,11.73,1,0,0,0,0,0,-2,8,6,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Northamptonshire,BD Glover,0dbe27b8,10,0,0,0,0,0.0,"[4, 7, 13, 18]",3.333,20,6,0,51,4,3,1,0,0,4,3,15.3,0,0,0,0,0,0,25,0,25,27,True,False,False,Right-arm fast,Right-hand bat
+Nottinghamshire,JM Clarke,2eca67f5,1,136,63,6,11,215.87,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,248,0,0,248,28,True,False,False,,Right-hand bat
+Nottinghamshire,AD Hales,92aeac25,2,14,11,1,1,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,24,0,8,32,36,True,False,False,Right-arm medium,Right-hand bat
+Nottinghamshire,PD Trego,93e06301,3,24,21,3,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,36,0,8,44,43,True,False,True,Right-arm medium,Right-hand bat
+Nottinghamshire,TJ Moores,85dcb721,4,8,6,0,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,28,True,False,False,,Left-hand bat
+Nottinghamshire,SJ Mullaney,0e0d43b4,5,7,7,1,0,100.0,[8],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,11,1,0,12,38,True,False,True,Right-arm medium,Right-hand bat
+Nottinghamshire,SR Patel,18fac429,6,11,7,2,0,157.14,"[1, 7, 9, 13]",4.0,24,6,0,43,6,1,0,0,0,0,1,10.75,0,0,0,0,0,19,4,0,23,40,True,False,True,Slow left-arm orthodox,Right-hand bat
+Nottinghamshire,LW James,2baad3bd,7,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,26,True,False,True,Right-arm medium-fast,Right-hand bat
+Nottinghamshire,LJ Fletcher,e423d162,8,1,1,0,0,100.0,"[5, 11, 17, 19]",4.0,24,6,0,41,2,3,2,0,0,0,1,10.25,0,0,0,0,0,1,54,0,55,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Nottinghamshire,CG Harrison,f655d740,9,1,2,0,0,50.0,"[10, 12, 15]",3.0,18,4,0,31,1,2,1,0,0,0,1,10.33,1,0,0,0,0,1,27,8,36,26,True,False,True,Legbreak googly,Right-hand bat
+Nottinghamshire,M Carter,1ca7c00f,9,0,0,0,0,0.0,"[2, 4, 14, 16]",4.0,24,10,0,15,0,0,1,0,0,0,0,3.75,1,0,0,0,0,0,41,8,49,28,True,False,False,Right-arm offbreak,Right-hand bat
+Nottinghamshire,JT Ball,3d0ed2f9,10,0,0,0,0,0.0,"[3, 6, 18, 20]",4.0,24,6,0,58,5,4,3,0,0,2,2,14.5,0,0,0,0,0,0,79,0,79,34,True,False,False,Right-arm fast-medium,Right-hand bat

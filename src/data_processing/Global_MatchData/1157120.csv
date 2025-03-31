@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Bengal,SP Goswami,541f85c9,1,40,29,6,1,137.93,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,76,0,0,76
-Bengal,Vivek Singh,a446c7be,2,10,7,0,1,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
-Bengal,AR Easwaran,10b58586,3,16,12,1,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,28,0,0,28
-Bengal,MK Tiwary,26e5cabf,4,36,37,2,1,97.3,"[8, 10, 12, 14]",4.0,24,5,0,24,1,0,0,0,0,0,0,6.0,0,0,0,0,0,54,7,0,61
-Bengal,WP Saha,fe11caa6,5,6,6,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6
-Bengal,Ritwik Roy Chowdhury,6033d30a,6,17,16,2,0,106.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
-Bengal,Pradipta Pramanik,24e3f53e,7,1,3,0,0,33.33,"[6, 13, 15]",3.0,18,6,0,28,3,1,1,0,0,0,0,9.33,0,0,0,0,0,1,31,0,32
-Bengal,P Ray Barman,441c72ae,8,1,1,0,0,100.0,"[5, 7]",2.0,12,4,0,19,3,0,0,0,0,0,0,9.5,0,0,0,0,0,1,4,0,5
-Bengal,Kanishk Seth,98f27d4b,9,2,4,0,0,50.0,"[2, 4]",2.0,12,7,0,14,3,0,0,0,0,0,0,7.0,1,0,0,0,0,2,9,8,19
-Bengal,AB Dinda,66b30f71,10,1,3,0,0,33.33,"[1, 3]",2.0,12,5,0,22,5,0,0,0,0,0,0,11.0,0,0,0,0,0,1,3,0,4
-Bengal,Sayan Ghosh,d4b8ea98,11,0,0,0,0,0.0,"[9, 11, 16]",2.833,17,8,0,27,4,1,0,0,0,0,1,9.53,0,0,0,0,0,0,8,0,8
-Karnataka,Rohan Kadam,673314ef,1,81,55,10,2,147.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,147,0,8,155
-Karnataka,BR Sharath,c2dd89ea,2,50,37,9,0,135.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,96,0,8,104
-Karnataka,KK Nair,944533a5,3,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
-Karnataka,R Vinay Kumar,41eb4a4f,3,0,0,0,0,0.0,"[1, 3, 20]",2.667,16,6,0,18,1,1,2,0,0,0,0,6.75,1,0,1,0,0,0,58,20,78
-Karnataka,A Mithun,66cf56a5,4,0,0,0,0,0.0,"[2, 5, 16, 19]",4.0,24,12,0,22,3,0,3,0,0,0,0,5.5,0,0,0,0,0,0,95,0,95
-Karnataka,M Prasidh Krishna,85e0cf10,5,0,0,0,0,0.0,"[4, 6, 14, 18]",4.0,24,10,0,30,2,2,0,0,0,0,0,7.5,1,0,0,0,0,0,10,8,18
-Karnataka,KC Cariappa,edb3d4f8,6,0,0,0,0,0.0,"[7, 9, 12, 17]",4.0,24,7,0,19,1,0,1,0,0,0,0,4.75,0,0,0,0,0,0,38,0,38
-Karnataka,MS Bhandage,e96801ea,7,0,0,0,0,0.0,"[8, 10]",2.0,12,3,0,18,3,0,2,0,0,0,0,9.0,1,0,0,0,0,0,53,8,61
-Karnataka,J Suchith,4125d931,8,0,0,0,0,0.0,"[11, 13, 15]",3.0,18,3,0,23,1,1,0,0,0,0,0,7.67,0,0,1,0,0,0,3,12,15
-Karnataka,MK Pandey,93b4fc78,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
-Karnataka,Krishnamurthy Siddharth,330bc788,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bengal,SP Goswami,541f85c9,1,40,29,6,1,137.93,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,76,0,0,76,35,True,False,False,,Left-hand bat
+Bengal,Vivek Singh,a446c7be,2,10,7,0,1,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,31,True,False,False,Right-arm medium,Left-hand bat
+Bengal,AR Easwaran,10b58586,3,16,12,1,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,28,0,0,28,29,True,False,False,Legbreak googly,Right-hand bat
+Bengal,MK Tiwary,26e5cabf,4,36,37,2,1,97.3,"[8, 10, 12, 14]",4.0,24,5,0,24,1,0,0,0,0,0,0,6.0,0,0,0,0,0,54,7,0,61,39,True,False,False,Legbreak googly,Right-hand bat
+Bengal,WP Saha,fe11caa6,5,6,6,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6,40,True,False,False,,Right-hand bat
+Bengal,Ritwik Roy Chowdhury,6033d30a,6,17,16,2,0,106.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,29,True,True,False,Right-arm medium,Right-hand bat
+Bengal,Pradipta Pramanik,24e3f53e,7,1,3,0,0,33.33,"[6, 13, 15]",3.0,18,6,0,28,3,1,1,0,0,0,0,9.33,0,0,0,0,0,1,31,0,32,26,True,True,False,Slow left-arm orthodox,Right-hand bat
+Bengal,P Ray Barman,441c72ae,8,1,1,0,0,100.0,"[5, 7]",2.0,12,4,0,19,3,0,0,0,0,0,0,9.5,0,0,0,0,0,1,4,0,5,22,True,False,False,Legbreak googly,Right-hand bat
+Bengal,Kanishk Seth,98f27d4b,9,2,4,0,0,50.0,"[2, 4]",2.0,12,7,0,14,3,0,0,0,0,0,0,7.0,1,0,0,0,0,2,9,8,19,27,True,False,True,Left-arm medium,Right-hand bat
+Bengal,AB Dinda,66b30f71,10,1,3,0,0,33.33,"[1, 3]",2.0,12,5,0,22,5,0,0,0,0,0,0,11.0,0,0,0,0,0,1,3,0,4,41,True,False,False,Right-arm medium-fast,Right-hand bat
+Bengal,Sayan Ghosh,d4b8ea98,11,0,0,0,0,0.0,"[9, 11, 16]",2.833,17,8,0,27,4,1,0,0,0,0,1,9.53,0,0,0,0,0,0,8,0,8,32,True,False,False,Right-arm medium,Right-hand bat
+Karnataka,Rohan Kadam,673314ef,1,81,55,10,2,147.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,147,0,8,155,30,True,False,False,Legbreak googly,Left-hand bat
+Karnataka,BR Sharath,c2dd89ea,2,50,37,9,0,135.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,96,0,8,104,28,True,False,False,,Right-hand bat
+Karnataka,KK Nair,944533a5,3,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,33,True,False,False,Right-arm offbreak,Right-hand bat
+Karnataka,R Vinay Kumar,41eb4a4f,3,0,0,0,0,0.0,"[1, 3, 20]",2.667,16,6,0,18,1,1,2,0,0,0,0,6.75,1,0,1,0,0,0,58,20,78,41,True,False,False,Right-arm medium,Right-hand bat
+Karnataka,A Mithun,66cf56a5,4,0,0,0,0,0.0,"[2, 5, 16, 19]",4.0,24,12,0,22,3,0,3,0,0,0,0,5.5,0,0,0,0,0,0,95,0,95,35,True,False,False,Right-arm medium,Right-hand bat
+Karnataka,M Prasidh Krishna,85e0cf10,5,0,0,0,0,0.0,"[4, 6, 14, 18]",4.0,24,10,0,30,2,2,0,0,0,0,0,7.5,1,0,0,0,0,0,10,8,18,29,True,False,False,Right-arm fast-medium,Right-hand bat
+Karnataka,KC Cariappa,edb3d4f8,6,0,0,0,0,0.0,"[7, 9, 12, 17]",4.0,24,7,0,19,1,0,1,0,0,0,0,4.75,0,0,0,0,0,0,38,0,38,30,True,False,False,Legbreak,Right-hand bat
+Karnataka,MS Bhandage,e96801ea,7,0,0,0,0,0.0,"[8, 10]",2.0,12,3,0,18,3,0,2,0,0,0,0,9.0,1,0,0,0,0,0,53,8,61,26,True,False,True,Right-arm medium-fast,Left-hand bat
+Karnataka,J Suchith,4125d931,8,0,0,0,0,0.0,"[11, 13, 15]",3.0,18,3,0,23,1,1,0,0,0,0,0,7.67,0,0,1,0,0,0,3,12,15,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+Karnataka,MK Pandey,93b4fc78,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,35,True,False,False,Right-arm medium,Right-hand bat
+Karnataka,Krishnamurthy Siddharth,330bc788,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,32,True,False,False,Right-arm medium,Right-hand bat

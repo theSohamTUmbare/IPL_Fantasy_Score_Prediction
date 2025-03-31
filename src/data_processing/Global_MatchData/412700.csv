@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Australia,DA Warner,dcce6f09,1,25,12,4,1,208.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,57,0,8,65
-Australia,SR Watson,4329fbb5,2,5,7,0,0,71.43,"[4, 19]",2.0,12,7,0,13,1,1,1,0,1,0,0,6.5,0,0,0,0,0,5,42,0,47
-Australia,MJ Clarke,f842c2cf,3,16,24,0,0,66.67,"[12, 14]",2.0,12,5,0,12,0,1,0,0,0,0,0,6.0,0,0,0,0,-2,14,7,0,21
-Australia,BJ Haddin,b0c772ee,4,42,46,5,0,91.3,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,66,0,20,86
-Australia,DJ Hussey,fd835ab3,5,10,9,1,0,111.11,[15],1.0,6,3,0,3,0,0,2,0,0,0,0,3.0,1,0,0,0,0,14,53,8,75
-Australia,MEK Hussey,48fd7349,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Australia,CL White,d0513f63,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Australia,SPD Smith,30a45b23,7,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,10,0,20,1,0,3,0,0,0,0,5.0,1,0,0,0,0,0,93,8,101
-Australia,MG Johnson,f5180fe6,8,0,0,0,0,0.0,"[5, 8, 10, 16]",4.0,24,13,0,22,3,0,2,0,0,1,2,5.5,1,0,1,0,0,0,67,20,87
-Australia,SW Tait,addfb70e,9,0,0,0,0,0.0,"[2, 6, 18]",3.0,18,10,0,12,1,0,0,0,0,0,1,4.0,0,0,0,0,0,0,16,0,16
-Australia,DP Nannes,c404f58a,10,0,0,0,0,0.0,"[1, 3, 17]",3.0,18,8,0,19,2,0,1,0,1,0,1,6.33,0,0,0,0,0,0,43,0,43
-West Indies,CH Gayle,db584dad,1,4,2,1,0,200.0,[17],0.333,2,2,0,5,0,0,1,0,0,0,5,15.02,1,0,0,0,0,8,27,8,43
-West Indies,S Chanderpaul,881a9bdd,2,24,18,4,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,42,0,0,42
-West Indies,RR Sarwan,36d33dd0,3,26,31,2,0,83.87,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,38,0,0,38
-West Indies,DJ Bravo,87e562a9,4,6,9,0,0,66.67,[8],1.0,6,2,0,11,2,0,0,0,0,0,0,11.0,0,0,1,0,0,6,2,12,20
-West Indies,N Deonarine,caf1b14c,5,0,2,0,0,0.0,"[9, 11]",2.0,12,4,0,15,2,0,0,0,0,0,0,7.5,0,0,0,0,0,-2,4,0,2
-West Indies,D Ramdin,d1523761,6,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-West Indies,KA Pollard,a757b0d8,7,13,14,1,1,92.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
-West Indies,DJG Sammy,c03c6200,8,0,1,0,0,0.0,[13],1.0,6,3,0,3,0,0,0,0,0,0,0,3.0,1,0,0,0,0,-2,3,8,9
-West Indies,JE Taylor,4180d897,9,3,7,0,0,42.86,"[1, 3, 14, 16]",4.0,24,6,0,47,5,1,1,0,0,0,6,11.75,0,0,0,0,0,3,27,0,30
-West Indies,NO Miller,ea3ffd1b,10,10,13,0,0,76.92,"[5, 7, 10, 12]",4.0,24,10,0,16,0,0,0,0,0,0,0,4.0,0,0,0,0,0,10,16,0,26
-West Indies,SJ Benn,364ee2cf,11,9,15,0,1,60.0,"[2, 4, 6, 15]",4.0,24,15,1,12,1,0,1,0,1,0,0,3.0,0,0,0,0,-2,13,66,0,79
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Australia,DA Warner,dcce6f09,1,25,12,4,1,208.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,57,0,8,65,38,True,False,False,Legbreak,Left-hand bat
+Australia,SR Watson,4329fbb5,2,5,7,0,0,71.43,"[4, 19]",2.0,12,7,0,13,1,1,1,0,1,0,0,6.5,0,0,0,0,0,5,42,0,47,43,True,False,True,Right-arm fast-medium,Right-hand bat
+Australia,MJ Clarke,f842c2cf,3,16,24,0,0,66.67,"[12, 14]",2.0,12,5,0,12,0,1,0,0,0,0,0,6.0,0,0,0,0,-2,14,7,0,21,43,True,False,False,Slow left-arm orthodox,Right-hand bat
+Australia,BJ Haddin,b0c772ee,4,42,46,5,0,91.3,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,66,0,20,86,47,True,False,False,,Right-hand bat
+Australia,DJ Hussey,fd835ab3,5,10,9,1,0,111.11,[15],1.0,6,3,0,3,0,0,2,0,0,0,0,3.0,1,0,0,0,0,14,53,8,75,47,True,False,True,Right-arm offbreak,Right-hand bat
+Australia,MEK Hussey,48fd7349,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,49,True,False,False,Right-arm medium,Left-hand bat
+Australia,CL White,d0513f63,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,41,True,False,False,Legbreak googly,Right-hand bat
+Australia,SPD Smith,30a45b23,7,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,10,0,20,1,0,3,0,0,0,0,5.0,1,0,0,0,0,0,93,8,101,35,True,False,False,Legbreak googly,Right-hand bat
+Australia,MG Johnson,f5180fe6,8,0,0,0,0,0.0,"[5, 8, 10, 16]",4.0,24,13,0,22,3,0,2,0,0,1,2,5.5,1,0,1,0,0,0,67,20,87,43,True,False,False,Left-arm fast,Left-hand bat
+Australia,SW Tait,addfb70e,9,0,0,0,0,0.0,"[2, 6, 18]",3.0,18,10,0,12,1,0,0,0,0,0,1,4.0,0,0,0,0,0,0,16,0,16,42,True,False,False,Right-arm fast,Right-hand bat
+Australia,DP Nannes,c404f58a,10,0,0,0,0,0.0,"[1, 3, 17]",3.0,18,8,0,19,2,0,1,0,1,0,1,6.33,0,0,0,0,0,0,43,0,43,48,True,False,False,Left-arm fast,Right-hand bat
+West Indies,CH Gayle,db584dad,1,4,2,1,0,200.0,[17],0.333,2,2,0,5,0,0,1,0,0,0,5,15.02,1,0,0,0,0,8,27,8,43,45,True,False,True,Right-arm offbreak,Left-hand bat
+West Indies,S Chanderpaul,881a9bdd,2,24,18,4,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,42,0,0,42,50,True,False,False,Legbreak,Left-hand bat
+West Indies,RR Sarwan,36d33dd0,3,26,31,2,0,83.87,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,38,0,0,38,44,True,False,False,Legbreak,Right-hand bat
+West Indies,DJ Bravo,87e562a9,4,6,9,0,0,66.67,[8],1.0,6,2,0,11,2,0,0,0,0,0,0,11.0,0,0,1,0,0,6,2,12,20,41,True,False,True,Right-arm medium,Right-hand bat
+West Indies,N Deonarine,caf1b14c,5,0,2,0,0,0.0,"[9, 11]",2.0,12,4,0,15,2,0,0,0,0,0,0,7.5,0,0,0,0,0,-2,4,0,2,41,True,False,False,Right-arm offbreak,Left-hand bat
+West Indies,D Ramdin,d1523761,6,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,40,True,False,False,,Right-hand bat
+West Indies,KA Pollard,a757b0d8,7,13,14,1,1,92.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23,37,True,False,True,Right-arm medium,Right-hand bat
+West Indies,DJG Sammy,c03c6200,8,0,1,0,0,0.0,[13],1.0,6,3,0,3,0,0,0,0,0,0,0,3.0,1,0,0,0,0,-2,3,8,9,41,True,False,True,Right-arm medium,Right-hand bat
+West Indies,JE Taylor,4180d897,9,3,7,0,0,42.86,"[1, 3, 14, 16]",4.0,24,6,0,47,5,1,1,0,0,0,6,11.75,0,0,0,0,0,3,27,0,30,40,True,False,False,Right-arm fast,Right-hand bat
+West Indies,NO Miller,ea3ffd1b,10,10,13,0,0,76.92,"[5, 7, 10, 12]",4.0,24,10,0,16,0,0,0,0,0,0,0,4.0,0,0,0,0,0,10,16,0,26,42,True,False,False,Slow left-arm orthodox,Right-hand bat
+West Indies,SJ Benn,364ee2cf,11,9,15,0,1,60.0,"[2, 4, 6, 15]",4.0,24,15,1,12,1,0,1,0,1,0,0,3.0,0,0,0,0,-2,13,66,0,79,43,True,False,False,Slow left-arm orthodox,Left-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Portugal,Mian Mehmood,4a4991c1,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Portugal,Imran Khan,a0a32dd1,2,36,26,2,3,138.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,68,0,0,68
-Portugal,Tariq Aziz,a049c39b,3,4,3,1,0,133.33,"[8, 10, 14, 16]",4.0,24,9,0,20,1,0,3,0,2,0,4,5.0,0,0,0,0,0,8,108,0,116
-Portugal,Aamer Ikram,161641cd,4,11,15,2,0,73.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
-Portugal,Zohaib Sarwar,bd3cecc6,5,0,3,0,0,0.0,"[12, 18, 20]",3.0,18,4,0,26,1,1,0,0,0,0,0,8.67,0,0,0,0,0,-2,4,0,2
-Portugal,F Stoman,69e53eb3,6,2,7,0,0,28.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,2,0,20,22
-Portugal,Najjam Shahzad,58aa33cd,7,46,31,2,4,148.39,"[1, 3, 5, 17]",4.0,24,13,0,28,0,0,1,0,1,0,13,7.0,0,0,0,0,2,84,48,0,132
-Portugal,Fakhrul Mohon,33328ec7,8,0,0,0,0,0.0,"[2, 4, 6, 19]",4.0,24,12,0,21,1,1,1,0,1,0,0,5.25,0,0,0,0,0,0,49,0,49
-Portugal,S Singh,321fcf79,9,0,9,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Portugal,P Buccimazza,ddc7e056,10,1,11,0,0,9.09,"[11, 13, 15]",3.0,18,9,0,24,4,1,1,0,0,0,0,8.0,0,0,0,0,-6,-5,34,0,29
-Portugal,Ali Naqi,7db29f25,11,0,0,0,0,0.0,"[7, 9]",2.0,12,2,0,17,0,1,0,0,0,0,2,8.5,0,0,0,0,0,0,2,0,2
-Spain,Farzan Afzal,6ebf4d4e,1,41,38,2,2,107.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,65,0,0,65
-Spain,PD Hennessy,a3b9191a,2,22,27,1,0,81.48,"[6, 8]",2.0,12,6,0,12,1,1,2,0,0,0,0,6.0,0,0,0,0,0,26,58,0,84
-Spain,Yasir Ali,79209272,3,28,21,3,2,133.33,[10],1.0,6,1,0,10,0,1,0,0,0,0,0,10.0,1,0,0,0,2,58,1,8,67
-Spain,C Munoz-Mills,17bc032c,4,5,7,1,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
-Spain,R Panchal,91cd337c,5,3,8,0,0,37.5,"[2, 4]",2.0,12,7,0,16,2,1,0,0,0,0,1,8.0,1,0,0,0,0,3,7,8,18
-Spain,Kuldeep Lal,8a1d0222,6,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Spain,Awais Ahmed,f9f857dc,7,13,13,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
-Spain,Tauqeer Hussain,84d0b84c,8,3,3,0,0,100.0,"[7, 9, 18]",2.667,16,7,0,12,1,0,2,0,1,0,0,4.5,1,0,0,0,0,3,71,8,82
-Spain,Zulqarnain Haider,2d46e8ed,11,0,0,0,0,0.0,"[12, 14, 16]",3.0,18,12,0,7,0,0,0,0,0,0,2,2.33,0,0,0,0,0,0,18,0,18
-Spain,Atif Mehmood,7fcc57bf,12,0,0,0,0,0.0,"[1, 3, 5, 17]",4.0,24,18,0,14,2,0,2,0,2,0,0,3.5,0,0,0,0,0,0,90,0,90
-Spain,NH Naureen,ecbd4377,13,0,0,0,0,0.0,"[11, 13, 15]",3.0,18,10,1,32,1,4,1,0,0,0,0,10.67,0,0,0,0,0,0,45,0,45
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Portugal,Mian Mehmood,4a4991c1,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,48,True,True,False,Right-arm medium-fast,Right-hand bat
+Portugal,Imran Khan,a0a32dd1,2,36,26,2,3,138.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,68,0,0,68,38,True,False,False,,
+Portugal,Tariq Aziz,a049c39b,3,4,3,1,0,133.33,"[8, 10, 14, 16]",4.0,24,9,0,20,1,0,3,0,2,0,4,5.0,0,0,0,0,0,8,108,0,116,50,True,True,False,Right-arm offbreak,Right-hand bat
+Portugal,Aamer Ikram,161641cd,4,11,15,2,0,73.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,45,True,False,False,,
+Portugal,Zohaib Sarwar,bd3cecc6,5,0,3,0,0,0.0,"[12, 18, 20]",3.0,18,4,0,26,1,1,0,0,0,0,0,8.67,0,0,0,0,0,-2,4,0,2,34,True,True,False,Right-arm medium-fast,Right-hand bat
+Portugal,F Stoman,69e53eb3,6,2,7,0,0,28.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,2,0,20,22,25,True,False,False,,
+Portugal,Najjam Shahzad,58aa33cd,7,46,31,2,4,148.39,"[1, 3, 5, 17]",4.0,24,13,0,28,0,0,1,0,1,0,13,7.0,0,0,0,0,2,84,48,0,132,37,True,False,False,,
+Portugal,Fakhrul Mohon,33328ec7,8,0,0,0,0,0.0,"[2, 4, 6, 19]",4.0,24,12,0,21,1,1,1,0,1,0,0,5.25,0,0,0,0,0,0,49,0,49,36,True,False,False,,
+Portugal,S Singh,321fcf79,9,0,9,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,39,True,False,False,,
+Portugal,P Buccimazza,ddc7e056,10,1,11,0,0,9.09,"[11, 13, 15]",3.0,18,9,0,24,4,1,1,0,0,0,0,8.0,0,0,0,0,-6,-5,34,0,29,43,True,False,False,,Right-hand bat
+Portugal,Ali Naqi,7db29f25,11,0,0,0,0,0.0,"[7, 9]",2.0,12,2,0,17,0,1,0,0,0,0,2,8.5,0,0,0,0,0,0,2,0,2,36,True,False,False,,
+Spain,Farzan Afzal,6ebf4d4e,1,41,38,2,2,107.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,65,0,0,65,50,True,True,False,Right-arm medium,Right-hand bat
+Spain,PD Hennessy,a3b9191a,2,22,27,1,0,81.48,"[6, 8]",2.0,12,6,0,12,1,1,2,0,0,0,0,6.0,0,0,0,0,0,26,58,0,84,34,True,True,False,Right-arm medium,Right-hand bat
+Spain,Yasir Ali,79209272,3,28,21,3,2,133.33,[10],1.0,6,1,0,10,0,1,0,0,0,0,0,10.0,1,0,0,0,2,58,1,8,67,33,True,True,False,Right-arm offbreak,Right-hand bat
+Spain,C Munoz-Mills,17bc032c,4,5,7,1,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,33,True,True,False,Right-arm offbreak,Right-hand bat
+Spain,R Panchal,91cd337c,5,3,8,0,0,37.5,"[2, 4]",2.0,12,7,0,16,2,1,0,0,0,0,1,8.0,1,0,0,0,0,3,7,8,18,31,True,True,False,Right-arm medium-fast,Right-hand bat
+Spain,Kuldeep Lal,8a1d0222,6,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,28,True,False,False,Right-arm offbreak,Right-hand bat
+Spain,Awais Ahmed,f9f857dc,7,13,13,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21,33,True,False,False,,Right-hand bat
+Spain,Tauqeer Hussain,84d0b84c,8,3,3,0,0,100.0,"[7, 9, 18]",2.667,16,7,0,12,1,0,2,0,1,0,0,4.5,1,0,0,0,0,3,71,8,82,43,True,True,False,Right-arm fast-medium,Right-hand bat
+Spain,Zulqarnain Haider,2d46e8ed,11,0,0,0,0,0.0,"[12, 14, 16]",3.0,18,12,0,7,0,0,0,0,0,0,2,2.33,0,0,0,0,0,0,18,0,18,36,True,False,False,Right-arm medium,Right-hand bat
+Spain,Atif Mehmood,7fcc57bf,12,0,0,0,0,0.0,"[1, 3, 5, 17]",4.0,24,18,0,14,2,0,2,0,2,0,0,3.5,0,0,0,0,0,0,90,0,90,37,True,True,False,Left-arm medium-fast,Right-hand bat
+Spain,NH Naureen,ecbd4377,13,0,0,0,0,0.0,"[11, 13, 15]",3.0,18,10,1,32,1,4,1,0,0,0,0,10.67,0,0,0,0,0,0,45,0,45,23,True,True,False,Legbreak,Right-hand bat

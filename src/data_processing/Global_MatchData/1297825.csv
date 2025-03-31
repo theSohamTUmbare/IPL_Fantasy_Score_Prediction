@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Leicestershire,HD Rutherford,0605de92,1,2,7,0,0,28.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
-Leicestershire,S Steel,de6c2c6e,2,64,45,5,1,142.22,"[2, 10]",2.0,12,2,0,22,4,0,0,0,0,0,0,11.0,0,0,0,0,2,100,0,0,100
-Leicestershire,AM Lilley,88a004e9,3,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Leicestershire,CN Ackermann,e734d090,4,33,22,5,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,57,0,0,57
-Leicestershire,RK Patel,4531f249,5,10,8,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
-Leicestershire,BWM Mike,ed12fcd7,6,30,12,3,2,250.0,"[6, 9, 13, 20]",4.0,24,2,0,47,3,2,0,0,0,0,3,11.75,0,0,0,0,6,64,-2,0,62
-Leicestershire,Rehan Ahmed,0ecb4de6,7,2,4,0,0,50.0,"[7, 12, 14, 18]",4.0,24,6,0,39,3,2,1,0,0,0,0,9.75,0,0,0,0,0,2,31,0,33
-Leicestershire,LJ Hill,35f9a295,8,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Leicestershire,RI Walker,c78a879c,9,19,8,2,1,237.5,"[8, 15]",2.0,12,3,0,29,2,1,0,0,0,2,5,14.5,0,0,0,0,0,33,-3,0,30
-Leicestershire,Naveen-ul-Haq,c0c411cb,10,6,7,1,0,85.71,"[3, 5, 17, 19]",4.0,24,7,0,43,6,1,0,0,0,0,1,10.75,0,0,0,0,0,10,5,0,15
-Leicestershire,CF Parkinson,aa1210d8,11,4,2,1,0,200.0,"[1, 4, 11, 16]",4.0,24,6,0,46,3,3,0,0,0,0,3,11.5,0,0,0,0,0,8,2,0,10
-Northamptonshire,BJ Curran,1786a21b,1,31,25,4,0,124.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,51,0,8,59
-Northamptonshire,CA Lynn,45eda7c8,2,106,65,12,3,163.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,192,0,0,192
-Northamptonshire,JDS Neesham,9219eff0,3,75,30,5,6,250.0,"[4, 9, 17]",3.0,18,4,0,26,4,0,2,0,0,0,0,8.67,0,0,0,0,6,149,54,0,203
-Northamptonshire,JJ Cobb,58c481c6,11,0,0,0,0,0.0,"[1, 14]",2.0,12,3,0,22,1,1,0,0,0,0,3,11.0,2,0,0,0,0,0,1,16,17
-Northamptonshire,RI Keogh,e22d3b5c,12,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Northamptonshire,SA Zaib,ab01e323,13,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Northamptonshire,LD McManus,6feb46a4,14,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Northamptonshire,TAI Taylor,867a45a7,15,0,0,0,0,0.0,"[3, 7, 19]",3.0,18,2,0,22,2,0,1,0,0,0,0,7.33,0,0,0,0,0,0,27,0,27
-Northamptonshire,GG White,0f21680d,16,0,0,0,0,0.0,"[8, 11, 13, 15]",4.0,24,2,0,38,3,1,0,0,0,0,0,9.5,1,0,0,0,0,0,2,8,10
-Northamptonshire,BW Sanderson,e871a7a1,17,0,0,0,0,0.0,"[2, 5, 18, 20]",4.0,24,9,0,30,3,1,3,1,0,2,0,7.5,2,0,0,0,0,0,96,16,112
-Northamptonshire,FJ Heldreich,56ef4f99,18,0,0,0,0,0.0,"[6, 10, 12, 16]",4.0,24,5,0,42,5,1,3,0,0,2,0,10.5,0,0,0,0,0,0,82,0,82
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Leicestershire,HD Rutherford,0605de92,1,2,7,0,0,28.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,35,True,False,False,Slow left-arm orthodox,Left-hand bat
+Leicestershire,S Steel,de6c2c6e,2,64,45,5,1,142.22,"[2, 10]",2.0,12,2,0,22,4,0,0,0,0,0,0,11.0,0,0,0,0,2,100,0,0,100,25,True,False,False,Right-arm offbreak,Right-hand bat
+Leicestershire,AM Lilley,88a004e9,3,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,33,True,False,True,Right-arm offbreak,Right-hand bat
+Leicestershire,CN Ackermann,e734d090,4,33,22,5,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,57,0,0,57,33,True,False,True,Right-arm offbreak,Right-hand bat
+Leicestershire,RK Patel,4531f249,5,10,8,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,26,True,False,False,Legbreak,Right-hand bat
+Leicestershire,BWM Mike,ed12fcd7,6,30,12,3,2,250.0,"[6, 9, 13, 20]",4.0,24,2,0,47,3,2,0,0,0,0,3,11.75,0,0,0,0,6,64,-2,0,62,26,True,False,True,Right-arm medium-fast,Right-hand bat
+Leicestershire,Rehan Ahmed,0ecb4de6,7,2,4,0,0,50.0,"[7, 12, 14, 18]",4.0,24,6,0,39,3,2,1,0,0,0,0,9.75,0,0,0,0,0,2,31,0,33,20,True,False,True,Legbreak googly,Right-hand bat
+Leicestershire,LJ Hill,35f9a295,8,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,34,True,True,False,Right-arm medium,Right-hand bat
+Leicestershire,RI Walker,c78a879c,9,19,8,2,1,237.5,"[8, 15]",2.0,12,3,0,29,2,1,0,0,0,2,5,14.5,0,0,0,0,0,33,-3,0,30,24,True,False,False,Right-arm fast-medium,Right-hand bat
+Leicestershire,Naveen-ul-Haq,c0c411cb,10,6,7,1,0,85.71,"[3, 5, 17, 19]",4.0,24,7,0,43,6,1,0,0,0,0,1,10.75,0,0,0,0,0,10,5,0,15,25,True,False,False,Right-arm medium-fast,Right-hand bat
+Leicestershire,CF Parkinson,aa1210d8,11,4,2,1,0,200.0,"[1, 4, 11, 16]",4.0,24,6,0,46,3,3,0,0,0,0,3,11.5,0,0,0,0,0,8,2,0,10,28,True,False,False,Slow left-arm orthodox,Right-hand bat
+Northamptonshire,BJ Curran,1786a21b,1,31,25,4,0,124.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,51,0,8,59,28,True,False,False,Right-arm offbreak,Left-hand bat
+Northamptonshire,CA Lynn,45eda7c8,2,106,65,12,3,163.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,192,0,0,192,34,True,False,False,Slow left-arm orthodox,Right-hand bat
+Northamptonshire,JDS Neesham,9219eff0,3,75,30,5,6,250.0,"[4, 9, 17]",3.0,18,4,0,26,4,0,2,0,0,0,0,8.67,0,0,0,0,6,149,54,0,203,34,True,False,True,Right-arm medium-fast,Left-hand bat
+Northamptonshire,JJ Cobb,58c481c6,11,0,0,0,0,0.0,"[1, 14]",2.0,12,3,0,22,1,1,0,0,0,0,3,11.0,2,0,0,0,0,0,1,16,17,34,True,False,True,Right-arm offbreak,Right-hand bat
+Northamptonshire,RI Keogh,e22d3b5c,12,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,33,True,False,True,Right-arm offbreak,Right-hand bat
+Northamptonshire,SA Zaib,ab01e323,13,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,False,True,Slow left-arm orthodox,Left-hand bat
+Northamptonshire,LD McManus,6feb46a4,14,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,30,True,False,False,,Right-hand bat
+Northamptonshire,TAI Taylor,867a45a7,15,0,0,0,0,0.0,"[3, 7, 19]",3.0,18,2,0,22,2,0,1,0,0,0,0,7.33,0,0,0,0,0,0,27,0,27,30,True,False,True,Right-arm medium-fast,Right-hand bat
+Northamptonshire,GG White,0f21680d,16,0,0,0,0,0.0,"[8, 11, 13, 15]",4.0,24,2,0,38,3,1,0,0,0,0,0,9.5,1,0,0,0,0,0,2,8,10,37,True,False,False,Slow left-arm orthodox,Right-hand bat
+Northamptonshire,BW Sanderson,e871a7a1,17,0,0,0,0,0.0,"[2, 5, 18, 20]",4.0,24,9,0,30,3,1,3,1,0,2,0,7.5,2,0,0,0,0,0,96,16,112,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Northamptonshire,FJ Heldreich,56ef4f99,18,0,0,0,0,0.0,"[6, 10, 12, 16]",4.0,24,5,0,42,5,1,3,0,0,2,0,10.5,0,0,0,0,0,0,82,0,82,23,True,False,False,Left-arm wrist-spin,Right-hand bat

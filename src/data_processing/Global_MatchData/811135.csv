@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Kuwait,Mohammed Irfan,f752873d,1,5,12,0,0,41.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-1,0,0,-1
-Kuwait,Khalid Butt,8ccb3da7,2,31,17,4,2,182.35,"[1, 3]",2.0,12,5,0,18,1,1,0,0,0,0,1,9.0,0,0,0,0,6,69,5,0,74
-Kuwait,Aamir Javed,66f9ecc2,3,25,21,3,0,119.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,41,0,0,41
-Kuwait,Sibtain Raza,d01849a2,4,21,17,3,0,123.53,"[8, 10, 19]",3.0,18,2,0,34,2,2,1,0,0,1,0,11.33,0,0,0,0,0,33,23,0,56
-Kuwait,Muhammad Kashif,e7458e4b,5,1,3,0,0,33.33,"[2, 4, 6, 18]",4.0,24,9,0,21,0,1,1,0,0,0,0,5.25,0,0,1,0,0,1,38,12,51
-Kuwait,Hisham Mirza,25d642b2,6,2,9,0,0,22.22,"[5, 7, 9, 11]",4.0,24,13,0,20,2,0,2,0,1,0,0,5.0,0,0,0,0,0,2,75,0,77
-Kuwait,Abid Mushtaq,f9979b69,7,31,23,3,1,134.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,55,0,8,63
-Kuwait,Usman Waheed,910584a7,8,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
-Kuwait,Yasar Idrees,c98d4a41,9,13,12,1,0,108.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,17,0,16,33
-Kuwait,Bilal Ahmed,ad4622c0,10,1,2,0,0,50.0,"[13, 15, 17, 20]",4.0,24,7,0,33,2,1,2,0,0,0,1,8.25,0,0,0,0,0,1,57,0,58
-Kuwait,Haroon Shahid,cc3ebe28,11,1,1,0,0,100.0,"[12, 14, 16]",3.0,18,6,0,21,2,0,1,1,0,0,0,7.0,1,0,0,0,0,1,41,8,50
-Oman,AV Lalcheta,b858be20,1,10,22,0,1,45.45,"[1, 3, 5, 7]",4.0,24,12,0,25,3,0,1,0,1,0,3,6.25,0,0,0,0,-6,10,47,0,57
-Oman,Zeeshan Maqsood,34464143,2,13,12,1,0,108.33,"[2, 4, 17, 19]",4.0,24,10,0,39,3,3,1,0,0,0,0,9.75,1,0,0,0,0,17,35,8,60
-Oman,Jatinder Singh,b80dd12c,3,12,7,1,1,171.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,22,0,8,30
-Oman,VS Wategaonkar,dd340ef9,4,14,17,0,0,82.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
-Oman,Adnan Ilyas,d376bbaa,5,26,13,2,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,50,0,8,58
-Oman,Sultan Ahmed,3bf7c034,6,12,9,2,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,20,0,12,32
-Oman,Amir Ali,3748955d,7,12,11,1,0,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
-Oman,Aamir Kaleem,7ecb9a14,8,23,15,1,1,153.33,"[9, 11, 13, 15]",4.0,24,12,0,18,2,0,3,0,1,0,0,4.5,0,0,1,0,4,37,105,12,154
-Oman,RJ Ranpura,c024db94,9,22,14,1,1,157.14,"[10, 12, 14, 16]",4.0,24,7,0,28,3,0,2,0,1,0,0,7.0,0,0,0,0,4,36,67,0,103
-Oman,M Ansari,681af475,11,0,0,0,0,0.0,"[6, 8, 18, 20]",4.0,24,10,0,28,3,0,1,1,0,0,2,7.0,0,0,0,0,0,0,45,0,45
-Oman,Sufyan Mehmood,bf172ae6,12,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Kuwait,Mohammed Irfan,f752873d,1,5,12,0,0,41.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-1,0,0,-1,40,True,False,False,,Right-hand bat
+Kuwait,Khalid Butt,8ccb3da7,2,31,17,4,2,182.35,"[1, 3]",2.0,12,5,0,18,1,1,0,0,0,0,1,9.0,0,0,0,0,6,69,5,0,74,0,True,False,False,,Right-hand bat
+Kuwait,Aamir Javed,66f9ecc2,3,25,21,3,0,119.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,41,0,0,41,35,True,True,False,Right-arm medium,Right-hand bat
+Kuwait,Sibtain Raza,d01849a2,4,21,17,3,0,123.53,"[8, 10, 19]",3.0,18,2,0,34,2,2,1,0,0,1,0,11.33,0,0,0,0,0,33,23,0,56,39,True,True,False,Right-arm offbreak,Left-hand bat
+Kuwait,Muhammad Kashif,e7458e4b,5,1,3,0,0,33.33,"[2, 4, 6, 18]",4.0,24,9,0,21,0,1,1,0,0,0,0,5.25,0,0,1,0,0,1,38,12,51,37,True,True,False,Right-arm offbreak,Right-hand bat
+Kuwait,Hisham Mirza,25d642b2,6,2,9,0,0,22.22,"[5, 7, 9, 11]",4.0,24,13,0,20,2,0,2,0,1,0,0,5.0,0,0,0,0,0,2,75,0,77,44,True,True,False,Right-arm offbreak,Right-hand bat
+Kuwait,Abid Mushtaq,f9979b69,7,31,23,3,1,134.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,55,0,8,63,42,True,False,False,,Right-hand bat
+Kuwait,Usman Waheed,910584a7,8,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,37,True,False,False,,Left-hand bat
+Kuwait,Yasar Idrees,c98d4a41,9,13,12,1,0,108.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,17,0,16,33,37,True,True,False,Right-arm medium-fast,Right-hand bat
+Kuwait,Bilal Ahmed,ad4622c0,10,1,2,0,0,50.0,"[13, 15, 17, 20]",4.0,24,7,0,33,2,1,2,0,0,0,1,8.25,0,0,0,0,0,1,57,0,58,38,True,True,False,Right-arm medium,
+Kuwait,Haroon Shahid,cc3ebe28,11,1,1,0,0,100.0,"[12, 14, 16]",3.0,18,6,0,21,2,0,1,1,0,0,0,7.0,1,0,0,0,0,1,41,8,50,33,True,True,False,Slow left-arm orthodox,Right-hand bat
+Oman,AV Lalcheta,b858be20,1,10,22,0,1,45.45,"[1, 3, 5, 7]",4.0,24,12,0,25,3,0,1,0,1,0,3,6.25,0,0,0,0,-6,10,47,0,57,41,True,False,True,Slow left-arm orthodox,Left-hand bat
+Oman,Zeeshan Maqsood,34464143,2,13,12,1,0,108.33,"[2, 4, 17, 19]",4.0,24,10,0,39,3,3,1,0,0,0,0,9.75,1,0,0,0,0,17,35,8,60,37,True,False,False,Slow left-arm orthodox,Left-hand bat
+Oman,Jatinder Singh,b80dd12c,3,12,7,1,1,171.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,22,0,8,30,36,True,False,False,Right-arm offbreak,Right-hand bat
+Oman,VS Wategaonkar,dd340ef9,4,14,17,0,0,82.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,42,True,False,False,,Left-hand bat
+Oman,Adnan Ilyas,d376bbaa,5,26,13,2,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,50,0,8,58,40,True,True,False,Right-arm medium,Right-hand bat
+Oman,Sultan Ahmed,3bf7c034,6,12,9,2,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,20,0,12,32,47,True,False,False,,Right-hand bat
+Oman,Amir Ali,3748955d,7,12,11,1,0,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,46,True,False,False,Right-arm offbreak,Right-hand bat
+Oman,Aamir Kaleem,7ecb9a14,8,23,15,1,1,153.33,"[9, 11, 13, 15]",4.0,24,12,0,18,2,0,3,0,1,0,0,4.5,0,0,1,0,4,37,105,12,154,43,True,False,False,Slow left-arm orthodox,Left-hand bat
+Oman,RJ Ranpura,c024db94,9,22,14,1,1,157.14,"[10, 12, 14, 16]",4.0,24,7,0,28,3,0,2,0,1,0,0,7.0,0,0,0,0,4,36,67,0,103,41,True,False,False,Right-arm fast-medium,Left-hand bat
+Oman,M Ansari,681af475,11,0,0,0,0,0.0,"[6, 8, 18, 20]",4.0,24,10,0,28,3,0,1,1,0,0,2,7.0,0,0,0,0,0,0,45,0,45,40,True,False,False,Right-arm fast-medium,Right-hand bat
+Oman,Sufyan Mehmood,bf172ae6,12,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,33,True,False,False,Right-arm medium,Left-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Bermuda,OGL Bascome,94a1827c,1,18,13,4,0,138.46,"[7, 9, 15, 17]",4.0,24,10,0,15,0,0,0,0,0,0,0,3.75,1,0,0,0,2,36,16,8,60
-Bermuda,TS Fray,c7537f8a,2,10,16,1,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,12,0,0,12
-Bermuda,DAP Darrell,56f53516,3,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Bermuda,KS Leverock,e1592949,4,18,22,1,1,81.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
-Bermuda,AC Douglas,f86ce673,5,47,28,3,4,167.86,"[11, 18, 20]",2.333,14,9,0,18,1,2,5,0,2,0,0,7.72,3,0,0,0,4,91,162,28,281
-Bermuda,JE Pitcher,ab126ea8,6,0,0,0,0,0.0,"[2, 8, 12]",3.0,18,8,0,14,1,0,0,0,0,0,1,4.67,2,0,0,0,0,0,14,16,30
-Bermuda,DC Stovell,7f6c2dae,6,18,16,2,0,112.5,"[4, 6, 14, 16]",4.0,24,12,0,21,1,1,2,0,0,0,0,5.25,1,0,0,0,0,26,66,8,100
-Bermuda,DL Brangman,dab18aa5,7,0,0,0,0,0.0,"[5, 10]",2.0,12,5,0,19,2,1,1,0,0,0,0,9.5,0,0,0,0,0,0,30,0,30
-Bermuda,M Simmons,b561eea1,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Bermuda,RJ Trott,52f96571,9,0,0,0,0,0.0,"[1, 3, 13, 19]",4.0,24,10,0,26,2,1,1,0,0,0,0,6.5,0,0,0,0,0,0,37,0,37
-Bermuda,S Smith,18a0ba24,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Cayman Islands,YSD Seneveratne,0f71478c,1,6,9,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6
-Cayman Islands,P Manning,f06b5585,2,28,32,4,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,48,0,8,56
-Cayman Islands,OR Willis,819574ef,3,15,20,0,1,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,21,0,12,33
-Cayman Islands,GM Strydom,5dc19220,4,23,14,1,2,164.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,43,0,0,43
-Cayman Islands,C Wright,d465c6d7,5,4,3,1,0,133.33,[9],1.0,6,3,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,0,8,3,0,11
-Cayman Islands,LHB Harrington-Myers,91136091,6,13,16,1,0,81.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
-Cayman Islands,T Taylor,1d6e8f52,7,17,9,0,2,188.89,"[10, 15]",2.0,12,5,0,23,3,1,0,0,0,0,1,11.5,0,0,0,0,0,29,1,0,30
-Cayman Islands,AF Ifill,0e6c2f00,8,3,5,0,0,60.0,"[5, 7, 12, 17]",3.5,21,14,0,14,0,1,1,0,0,0,0,4.0,1,0,0,0,0,3,45,8,56
-Cayman Islands,Z McLaughlin,679302a1,9,2,3,0,0,66.67,"[4, 6, 8, 14]",4.0,24,12,0,30,3,2,2,0,1,0,0,7.5,0,0,0,0,0,2,70,0,72
-Cayman Islands,KR Ebanks,e52eb657,10,0,2,0,0,0.0,"[2, 16]",2.0,12,3,0,22,2,1,0,0,0,0,0,11.0,0,0,0,0,0,-2,1,0,-1
-Cayman Islands,A Morris,04cf2e94,11,1,3,0,0,33.33,"[1, 3, 11, 13]",4.0,24,13,0,18,2,0,1,0,0,0,0,4.5,0,0,0,0,0,1,44,0,45
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bermuda,OGL Bascome,94a1827c,1,18,13,4,0,138.46,"[7, 9, 15, 17]",4.0,24,10,0,15,0,0,0,0,0,0,0,3.75,1,0,0,0,2,36,16,8,60,29,True,True,False,Right-arm medium,Right-hand bat
+Bermuda,TS Fray,c7537f8a,2,10,16,1,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,12,0,0,12,33,True,False,False,,Right-hand bat
+Bermuda,DAP Darrell,56f53516,3,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,32,True,False,False,Right-arm medium,Right-hand bat
+Bermuda,KS Leverock,e1592949,4,18,22,1,1,81.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28,30,True,True,False,Right-arm medium-fast,Left-hand bat
+Bermuda,AC Douglas,f86ce673,5,47,28,3,4,167.86,"[11, 18, 20]",2.333,14,9,0,18,1,2,5,0,2,0,0,7.72,3,0,0,0,4,91,162,28,281,37,True,False,False,,Right-hand bat
+Bermuda,JE Pitcher,ab126ea8,6,0,0,0,0,0.0,"[2, 8, 12]",3.0,18,8,0,14,1,0,0,0,0,0,1,4.67,2,0,0,0,0,0,14,16,30,38,True,False,True,Right-arm medium-fast,Left-hand bat
+Bermuda,DC Stovell,7f6c2dae,6,18,16,2,0,112.5,"[4, 6, 14, 16]",4.0,24,12,0,21,1,1,2,0,0,0,0,5.25,1,0,0,0,0,26,66,8,100,40,True,True,False,Right-arm offbreak,Right-hand bat
+Bermuda,DL Brangman,dab18aa5,7,0,0,0,0,0.0,"[5, 10]",2.0,12,5,0,19,2,1,1,0,0,0,0,9.5,0,0,0,0,0,0,30,0,30,37,True,True,False,Slow left-arm orthodox,Left-hand bat
+Bermuda,M Simmons,b561eea1,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,32,True,False,False,Right-arm medium,Right-hand bat
+Bermuda,RJ Trott,52f96571,9,0,0,0,0,0.0,"[1, 3, 13, 19]",4.0,24,10,0,26,2,1,1,0,0,0,0,6.5,0,0,0,0,0,0,37,0,37,37,True,False,False,Right-arm offbreak,Right-hand bat
+Bermuda,S Smith,18a0ba24,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,33,True,False,False,,Right-hand bat
+Cayman Islands,YSD Seneveratne,0f71478c,1,6,9,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6,33,True,False,False,Slow left-arm orthodox,Left-hand bat
+Cayman Islands,P Manning,f06b5585,2,28,32,4,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,48,0,8,56,34,True,False,True,Right-arm offbreak,Right-hand bat
+Cayman Islands,OR Willis,819574ef,3,15,20,0,1,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,21,0,12,33,38,True,True,False,Legbreak,Right-hand bat
+Cayman Islands,GM Strydom,5dc19220,4,23,14,1,2,164.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,43,0,0,43,41,True,True,False,Right-arm medium,Right-hand bat
+Cayman Islands,C Wright,d465c6d7,5,4,3,1,0,133.33,[9],1.0,6,3,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,0,8,3,0,11,39,True,True,False,Right-arm medium,Right-hand bat
+Cayman Islands,LHB Harrington-Myers,91136091,6,13,16,1,0,81.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,23,True,True,False,Slow left-arm orthodox,Left-hand bat
+Cayman Islands,T Taylor,1d6e8f52,7,17,9,0,2,188.89,"[10, 15]",2.0,12,5,0,23,3,1,0,0,0,0,1,11.5,0,0,0,0,0,29,1,0,30,41,True,False,False,Right-arm medium-fast,Right-hand bat
+Cayman Islands,AF Ifill,0e6c2f00,8,3,5,0,0,60.0,"[5, 7, 12, 17]",3.5,21,14,0,14,0,1,1,0,0,0,0,4.0,1,0,0,0,0,3,45,8,56,48,True,True,False,Legbreak,Right-hand bat
+Cayman Islands,Z McLaughlin,679302a1,9,2,3,0,0,66.67,"[4, 6, 8, 14]",4.0,24,12,0,30,3,2,2,0,1,0,0,7.5,0,0,0,0,0,2,70,0,72,34,True,True,False,Legbreak,Right-hand bat
+Cayman Islands,KR Ebanks,e52eb657,10,0,2,0,0,0.0,"[2, 16]",2.0,12,3,0,22,2,1,0,0,0,0,0,11.0,0,0,0,0,0,-2,1,0,-1,36,True,False,True,Right-arm medium-fast,Right-hand bat
+Cayman Islands,A Morris,04cf2e94,11,1,3,0,0,33.33,"[1, 3, 11, 13]",4.0,24,13,0,18,2,0,1,0,0,0,0,4.5,0,0,0,0,0,1,44,0,45,42,True,True,False,Right-arm offbreak,Right-hand bat

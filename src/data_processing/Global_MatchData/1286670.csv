@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Belize,AK Muslar,93f72fdc,1,0,12,0,0,0.0,"[2, 5, 7, 9]",4.0,24,7,0,36,4,1,0,0,0,0,1,9.0,0,1,1,0,-6,-8,7,24,23
-Belize,GG Banner,aeb893b4,2,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Belize,TW Samuels,df3438ae,3,0,5,0,0,0.0,[20],1.0,6,0,0,15,1,1,0,0,0,0,0,15.0,0,0,0,0,0,-2,0,0,-2
-Belize,C Brown,d504bc4c,4,27,28,4,0,96.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,47,0,0,47
-Belize,KJ Young,8bba9ec2,5,42,46,4,2,91.3,"[12, 14, 16, 18]",4.0,24,7,0,37,3,2,2,0,1,0,0,9.25,0,0,0,0,0,74,65,0,139
-Belize,TAW Patterson,5abb0f07,6,7,20,0,0,35.0,"[11, 13]",2.0,12,1,0,31,2,2,0,0,0,1,0,15.5,0,0,0,0,-6,1,-5,0,-4
-Belize,BS Stephenson,db571b24,7,2,5,0,0,40.0,"[1, 3, 19]",3.0,18,5,0,46,5,2,0,0,0,2,4,15.33,0,0,0,0,0,2,-1,0,1
-Belize,KK Tillett,55fedd51,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Belize,Muhammad Zaghlool,b8f1cda4,8,0,0,0,0,0.0,"[8, 10]",2.0,12,3,0,20,3,0,0,0,0,0,0,10.0,0,0,0,0,0,0,1,0,1
-Belize,Garret Banner,ac1ddea1,9,0,0,0,0,0.0,"[4, 6, 15, 17]",4.0,24,5,0,38,6,0,0,0,0,0,0,9.5,0,0,0,0,0,0,5,0,5
-Belize,AA Banner,02d11602,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Canada,H Patel,c4ff0618,1,51,34,6,1,150.0,"[10, 12]",2.0,12,5,0,14,2,0,0,0,0,0,1,7.0,0,0,0,0,0,89,7,0,96
-Canada,R Pathan,7c840f73,2,37,24,5,1,154.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,71,0,0,71
-Canada,NS Dhaliwal,cbabd6ad,3,69,35,6,4,197.14,"[14, 16]",2.0,12,6,0,16,0,2,1,0,0,0,1,8.0,1,0,0,0,6,131,31,8,170
-Canada,Ravinderpal Singh,f80682f8,4,42,20,6,1,210.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,82,0,0,82
-Canada,Hamza Tariq,82e81007,5,16,7,1,1,228.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26
-Canada,Saad Bin Zafar,f28a60e0,7,0,0,0,0,0.0,"[9, 11, 13]",3.0,18,9,0,18,3,0,0,0,0,0,0,6.0,0,0,0,0,0,0,11,0,11
-Canada,D Heyliger,f8c72766,8,0,0,0,0,0.0,"[6, 8, 18, 20]",4.0,24,15,0,11,1,0,0,0,0,0,0,2.75,0,0,1,0,0,0,21,12,33
-Canada,C Pervez,7bf34437,9,0,0,0,0,0.0,"[2, 4, 19]",3.0,18,14,1,7,0,0,3,1,2,0,1,2.33,1,0,0,0,0,0,135,8,143
-Canada,H Thaker,c01d7726,10,0,0,0,0,0.0,"[5, 7, 15]",3.0,18,11,0,7,0,0,0,0,0,0,0,2.33,0,0,0,0,0,0,17,0,17
-Canada,J Matharu,f0398c2f,11,0,0,0,0,0.0,[17],1.0,6,3,0,8,2,0,0,0,0,0,0,8.0,0,0,0,0,0,0,3,0,3
-Canada,Junaid Siddiqui,9025e58f,12,0,0,0,0,0.0,"[1, 3]",2.0,12,10,1,0,0,0,1,0,0,0,0,0.0,0,0,0,0,0,0,53,0,53
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Belize,AK Muslar,93f72fdc,1,0,12,0,0,0.0,"[2, 5, 7, 9]",4.0,24,7,0,36,4,1,0,0,0,0,1,9.0,0,1,1,0,-6,-8,7,24,23,28,True,True,False,Right-arm medium,Right-hand bat
+Belize,GG Banner,aeb893b4,2,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,26,True,True,False,Right-arm medium,Right-hand bat
+Belize,TW Samuels,df3438ae,3,0,5,0,0,0.0,[20],1.0,6,0,0,15,1,1,0,0,0,0,0,15.0,0,0,0,0,0,-2,0,0,-2,27,True,True,False,Right-arm medium-fast,Right-hand bat
+Belize,C Brown,d504bc4c,4,27,28,4,0,96.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,47,0,0,47,47,True,True,False,Right-arm medium,Right-hand bat
+Belize,KJ Young,8bba9ec2,5,42,46,4,2,91.3,"[12, 14, 16, 18]",4.0,24,7,0,37,3,2,2,0,1,0,0,9.25,0,0,0,0,0,74,65,0,139,27,True,False,False,,Left-hand bat
+Belize,TAW Patterson,5abb0f07,6,7,20,0,0,35.0,"[11, 13]",2.0,12,1,0,31,2,2,0,0,0,1,0,15.5,0,0,0,0,-6,1,-5,0,-4,34,True,True,False,Right-arm offbreak,Left-hand bat
+Belize,BS Stephenson,db571b24,7,2,5,0,0,40.0,"[1, 3, 19]",3.0,18,5,0,46,5,2,0,0,0,2,4,15.33,0,0,0,0,0,2,-1,0,1,27,True,True,False,Left-arm medium,Left-hand bat
+Belize,KK Tillett,55fedd51,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,24,True,False,True,Right-arm medium-fast,Right-hand bat
+Belize,Muhammad Zaghlool,b8f1cda4,8,0,0,0,0,0.0,"[8, 10]",2.0,12,3,0,20,3,0,0,0,0,0,0,10.0,0,0,0,0,0,0,1,0,1,44,True,True,False,Slow left-arm orthodox,Right-hand bat
+Belize,Garret Banner,ac1ddea1,9,0,0,0,0,0.0,"[4, 6, 15, 17]",4.0,24,5,0,38,6,0,0,0,0,0,0,9.5,0,0,0,0,0,0,5,0,5,23,True,True,False,Right-arm medium,Right-hand bat
+Belize,AA Banner,02d11602,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,True,False,Right-arm medium,Right-hand bat
+Canada,H Patel,c4ff0618,1,51,34,6,1,150.0,"[10, 12]",2.0,12,5,0,14,2,0,0,0,0,0,1,7.0,0,0,0,0,0,89,7,0,96,33,True,False,False,Slow left-arm orthodox,Right-hand bat
+Canada,R Pathan,7c840f73,2,37,24,5,1,154.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,71,0,0,71,33,True,False,True,Right-arm fast-medium,Right-hand bat
+Canada,NS Dhaliwal,cbabd6ad,3,69,35,6,4,197.14,"[14, 16]",2.0,12,6,0,16,0,2,1,0,0,0,1,8.0,1,0,0,0,6,131,31,8,170,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Canada,Ravinderpal Singh,f80682f8,4,42,20,6,1,210.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,82,0,0,82,36,True,False,False,Right-arm offbreak,Right-hand bat
+Canada,Hamza Tariq,82e81007,5,16,7,1,1,228.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26,34,True,False,False,,Right-hand bat
+Canada,Saad Bin Zafar,f28a60e0,7,0,0,0,0,0.0,"[9, 11, 13]",3.0,18,9,0,18,3,0,0,0,0,0,0,6.0,0,0,0,0,0,0,11,0,11,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Canada,D Heyliger,f8c72766,8,0,0,0,0,0.0,"[6, 8, 18, 20]",4.0,24,15,0,11,1,0,0,0,0,0,0,2.75,0,0,1,0,0,0,21,12,33,35,True,False,False,Right-arm medium,Right-hand bat
+Canada,C Pervez,7bf34437,9,0,0,0,0,0.0,"[2, 4, 19]",3.0,18,14,1,7,0,0,3,1,2,0,1,2.33,1,0,0,0,0,0,135,8,143,40,True,False,False,Right-arm medium-fast,Right-hand bat
+Canada,H Thaker,c01d7726,10,0,0,0,0,0.0,"[5, 7, 15]",3.0,18,11,0,7,0,0,0,0,0,0,0,2.33,0,0,0,0,0,0,17,0,17,27,True,False,True,Right-arm offbreak,Right-hand bat
+Canada,J Matharu,f0398c2f,11,0,0,0,0,0.0,[17],1.0,6,3,0,8,2,0,0,0,0,0,0,8.0,0,0,0,0,0,0,3,0,3,32,True,False,False,Right-arm medium-fast,Left-hand bat
+Canada,Junaid Siddiqui,9025e58f,12,0,0,0,0,0.0,"[1, 3]",2.0,12,10,1,0,0,0,1,0,0,0,0,0.0,0,0,0,0,0,0,53,0,53,40,True,False,True,Legbreak,Right-hand bat

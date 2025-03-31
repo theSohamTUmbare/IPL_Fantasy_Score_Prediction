@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Belgium,Muhammad Muneeb,5338b9f5,1,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Belgium,Sazzad Hosen,4dd6a707,2,28,27,5,0,103.7,"[17, 19]",2.0,12,2,0,22,3,0,0,0,0,0,0,11.0,0,0,0,0,0,52,0,0,52
-Belgium,Sherul Mehta,e9bdb79b,3,14,16,2,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
-Belgium,Wahidullah Usmani,6d27e42d,4,38,35,1,1,108.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,52,0,0,52
-Belgium,Shaheryar Butt,b6bad765,5,28,13,3,1,215.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,56,0,0,56
-Belgium,NSK Mehta,d516a95f,5,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,7,0,39,3,2,0,0,0,0,1,9.75,0,0,0,0,0,0,7,0,7
-Belgium,Saber Zakhil,036dcf9b,6,44,16,3,4,275.0,"[7, 9, 11, 13]",4.0,24,12,0,22,2,0,0,0,0,0,0,5.5,2,0,0,0,6,90,16,16,122
-Belgium,Mamoon Latif,8d78d0d0,7,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
-Belgium,Khalid Ahmadi,cf0b9a0d,8,14,4,2,1,350.0,"[3, 5, 16, 18]",4.0,24,13,0,19,2,0,2,0,1,0,3,4.75,0,0,0,0,0,28,77,0,105
-Belgium,Murid Ekrami,76b19864,9,1,1,0,0,100.0,"[1, 15]",2.0,12,6,0,14,1,1,0,0,0,0,0,7.0,0,0,0,0,0,1,8,0,9
-Belgium,Ashiqullah Said,407d13cc,10,4,1,1,0,400.0,"[2, 4, 6, 20]",4.0,24,14,0,16,0,0,1,0,0,0,4,4.0,0,0,0,0,0,8,45,0,53
-Luxembourg,J Barker,c18cecbe,1,2,9,0,0,22.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
-Luxembourg,S Browne,71847f28,2,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Luxembourg,J Mees,ab1445ea,3,67,55,8,1,121.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,113,0,8,121
-Luxembourg,V Vijh,b857468a,4,43,42,2,2,102.38,"[11, 13, 20]",3.0,18,4,0,42,5,1,1,0,1,0,6,14.0,0,0,0,0,0,67,31,0,98
-Luxembourg,S Kushretha,4e3fd330,5,0,0,0,0,0.0,"[2, 4, 15, 18]",4.0,24,6,0,48,4,3,0,0,0,0,0,12.0,0,0,0,0,0,0,2,0,2
-Luxembourg,T Whiteman,472455a3,5,12,9,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
-Luxembourg,R Heyns,8708c072,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
-Luxembourg,M Dixit,d85d52c2,7,0,0,0,0,0.0,"[5, 7, 9]",3.0,18,10,0,15,1,0,1,0,0,0,1,5.0,1,0,0,0,0,0,39,8,47
-Luxembourg,WJ Cope,fb34b0ec,8,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,15,0,18,1,1,4,1,0,0,0,4.5,0,0,0,0,0,0,137,0,137
-Luxembourg,M Cope,c83c594d,9,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,5,0,43,3,2,2,0,0,0,0,10.75,1,0,0,0,0,0,53,8,61
-Luxembourg,S Vats,1afd4f89,10,0,0,0,0,0.0,"[6, 8]",2.0,12,5,0,17,3,0,0,0,0,0,1,8.5,0,0,0,0,0,0,5,0,5
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Belgium,Muhammad Muneeb,5338b9f5,1,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,27,True,True,False,Right-arm offbreak,Left-hand bat
+Belgium,Sazzad Hosen,4dd6a707,2,28,27,5,0,103.7,"[17, 19]",2.0,12,2,0,22,3,0,0,0,0,0,0,11.0,0,0,0,0,0,52,0,0,52,34,True,True,False,Right-arm medium-fast,Right-hand bat
+Belgium,Sherul Mehta,e9bdb79b,3,14,16,2,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,34,True,True,False,Right-arm offbreak,Right-hand bat
+Belgium,Wahidullah Usmani,6d27e42d,4,38,35,1,1,108.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,52,0,0,52,36,True,True,False,Right-arm medium-fast,Right-hand bat
+Belgium,Shaheryar Butt,b6bad765,5,28,13,3,1,215.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,56,0,0,56,43,True,False,True,Right-arm offbreak,Right-hand bat
+Belgium,NSK Mehta,d516a95f,5,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,7,0,39,3,2,0,0,0,0,1,9.75,0,0,0,0,0,0,7,0,7,33,True,True,False,Slow left-arm orthodox,Left-hand bat
+Belgium,Saber Zakhil,036dcf9b,6,44,16,3,4,275.0,"[7, 9, 11, 13]",4.0,24,12,0,22,2,0,0,0,0,0,0,5.5,2,0,0,0,6,90,16,16,122,28,True,False,False,Right-arm fast,Right-hand bat
+Belgium,Mamoon Latif,8d78d0d0,7,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,32,True,False,False,,Left-hand bat
+Belgium,Khalid Ahmadi,cf0b9a0d,8,14,4,2,1,350.0,"[3, 5, 16, 18]",4.0,24,13,0,19,2,0,2,0,1,0,3,4.75,0,0,0,0,0,28,77,0,105,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Belgium,Murid Ekrami,76b19864,9,1,1,0,0,100.0,"[1, 15]",2.0,12,6,0,14,1,1,0,0,0,0,0,7.0,0,0,0,0,0,1,8,0,9,24,True,True,False,Slow left-arm orthodox,Left-hand bat
+Belgium,Ashiqullah Said,407d13cc,10,4,1,1,0,400.0,"[2, 4, 6, 20]",4.0,24,14,0,16,0,0,1,0,0,0,4,4.0,0,0,0,0,0,8,45,0,53,31,True,False,False,Right-arm fast,Right-hand bat
+Luxembourg,J Barker,c18cecbe,1,2,9,0,0,22.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,29,True,False,False,,Left-hand bat
+Luxembourg,S Browne,71847f28,2,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,37,True,False,False,,Right-hand bat
+Luxembourg,J Mees,ab1445ea,3,67,55,8,1,121.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,113,0,8,121,46,True,False,False,,Right-hand bat
+Luxembourg,V Vijh,b857468a,4,43,42,2,2,102.38,"[11, 13, 20]",3.0,18,4,0,42,5,1,1,0,1,0,6,14.0,0,0,0,0,0,67,31,0,98,38,True,True,False,Right-arm medium-fast,Left-hand bat
+Luxembourg,S Kushretha,4e3fd330,5,0,0,0,0,0.0,"[2, 4, 15, 18]",4.0,24,6,0,48,4,3,0,0,0,0,0,12.0,0,0,0,0,0,0,2,0,2,40,True,True,False,Right-arm offbreak,Right-hand bat
+Luxembourg,T Whiteman,472455a3,5,12,9,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,55,True,True,False,Right-arm offbreak,Right-hand bat
+Luxembourg,R Heyns,8708c072,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,36,True,True,False,Right-arm medium-fast,Right-hand bat
+Luxembourg,M Dixit,d85d52c2,7,0,0,0,0,0.0,"[5, 7, 9]",3.0,18,10,0,15,1,0,1,0,0,0,1,5.0,1,0,0,0,0,0,39,8,47,32,True,True,False,Left-arm medium-fast,Right-hand bat
+Luxembourg,WJ Cope,fb34b0ec,8,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,15,0,18,1,1,4,1,0,0,0,4.5,0,0,0,0,0,0,137,0,137,28,True,True,False,Right-arm medium,Right-hand bat
+Luxembourg,M Cope,c83c594d,9,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,5,0,43,3,2,2,0,0,0,0,10.75,1,0,0,0,0,0,53,8,61,24,True,True,False,Right-arm offbreak,Right-hand bat
+Luxembourg,S Vats,1afd4f89,10,0,0,0,0,0.0,"[6, 8]",2.0,12,5,0,17,3,0,0,0,0,0,1,8.5,0,0,0,0,0,0,5,0,5,34,True,False,False,Right-arm medium-fast,Right-hand bat

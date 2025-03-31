@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Ireland,PR Stirling,cf494ffe,1,51,29,10,0,175.86,"[12, 14]",2.0,12,2,0,11,0,0,1,0,0,0,0,5.5,0,0,0,0,6,105,31,0,136
-Ireland,JNK Shannon,6e161a33,2,5,3,1,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
-Ireland,A Balbirnie,6ef13460,3,74,40,11,1,185.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,138,0,0,138
-Ireland,Simi Singh,c9945bdf,4,0,2,0,0,0.0,"[1, 3, 13, 16]",4.0,24,10,0,25,3,0,1,0,0,0,0,6.25,0,0,0,0,0,0,37,0,37
-Ireland,GC Wilson,05de1a5a,5,58,38,4,2,152.63,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,98,0,0,98
-Ireland,KJ O'Brien,243431b5,6,7,7,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,7,0,8,15
-Ireland,SR Thompson,7f3ad1ed,7,1,1,0,0,100.0,"[6, 10, 15]",3.0,18,4,0,37,4,1,0,0,0,1,3,12.33,1,0,0,0,0,1,-2,8,7
-Ireland,SW Poynter,cdf59953,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Ireland,GH Dockrell,99cddc5e,8,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,5,0,15,0,0,2,1,0,0,0,5.0,1,0,0,0,0,0,67,8,75
-Ireland,BJ McCarthy,3766056b,9,0,0,0,0,0.0,"[4, 8, 17, 19]",4.0,24,9,0,37,4,1,1,0,0,0,5,9.25,0,0,0,0,0,0,34,0,34
-Ireland,PKD Chase,8c2aa0f9,10,0,0,0,0,0.0,"[2, 5, 18, 20]",4.0,24,11,0,34,3,2,0,0,0,0,0,8.5,1,0,0,0,0,0,11,8,19
-Scotland,HG Munsey,ff014c34,1,41,24,4,2,170.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,79,0,0,79
-Scotland,KJ Coetzer,85d8110a,2,33,22,6,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,61,0,0,61
-Scotland,RD Berrington,e21bc7f3,3,29,25,1,1,116.0,[12],1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,0,43,1,0,44
-Scotland,CS MacLeod,9c376401,4,12,13,1,0,92.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
-Scotland,DE Budge,0d37dea9,5,23,20,1,1,115.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,33,0,8,41
-Scotland,MA Leask,28131839,6,5,3,1,0,166.67,"[7, 9, 13, 15]",4.0,24,4,0,38,2,1,1,0,0,0,2,9.5,0,0,0,0,0,9,29,0,38
-Scotland,MRJ Watt,1252f71a,7,0,0,0,0,0.0,"[1, 10, 14]",3.0,18,5,0,36,8,0,0,0,0,0,0,12.0,1,0,0,0,0,0,1,8,9
-Scotland,MH Cross,8b261d84,7,7,13,0,0,53.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,3,0,8,11
-Scotland,CB Sole,469ccead,8,0,0,0,0,0.0,"[2, 4, 16, 19]",4.0,24,5,0,38,3,1,0,0,0,0,1,9.5,1,0,0,0,0,0,5,8,13
-Scotland,AC Evans,e9a870ed,9,0,0,0,0,0.0,"[3, 5, 18, 20]",4.0,24,6,0,51,8,1,2,0,0,0,2,12.75,0,0,0,0,0,0,50,0,50
-Scotland,SG Whittingham,2d4465da,10,0,0,0,0,0.0,"[6, 8, 11, 17]",4.0,24,9,0,27,3,0,1,0,0,0,0,6.75,0,0,0,0,0,0,36,0,36
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Ireland,PR Stirling,cf494ffe,1,51,29,10,0,175.86,"[12, 14]",2.0,12,2,0,11,0,0,1,0,0,0,0,5.5,0,0,0,0,6,105,31,0,136,34,True,False,True,Right-arm offbreak,Right-hand bat
+Ireland,JNK Shannon,6e161a33,2,5,3,1,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,35,True,False,False,Right-arm offbreak,Right-hand bat
+Ireland,A Balbirnie,6ef13460,3,74,40,11,1,185.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,138,0,0,138,34,True,False,False,Right-arm offbreak,Right-hand bat
+Ireland,Simi Singh,c9945bdf,4,0,2,0,0,0.0,"[1, 3, 13, 16]",4.0,24,10,0,25,3,0,1,0,0,0,0,6.25,0,0,0,0,0,0,37,0,37,38,True,False,True,Legbreak googly,Right-hand bat
+Ireland,GC Wilson,05de1a5a,5,58,38,4,2,152.63,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,98,0,0,98,39,True,False,False,,Right-hand bat
+Ireland,KJ O'Brien,243431b5,6,7,7,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,7,0,8,15,41,True,False,True,Right-arm medium-fast,Right-hand bat
+Ireland,SR Thompson,7f3ad1ed,7,1,1,0,0,100.0,"[6, 10, 15]",3.0,18,4,0,37,4,1,0,0,0,1,3,12.33,1,0,0,0,0,1,-2,8,7,33,True,False,False,Right-arm medium-fast,Left-hand bat
+Ireland,SW Poynter,cdf59953,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,34,True,False,False,,Right-hand bat
+Ireland,GH Dockrell,99cddc5e,8,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,5,0,15,0,0,2,1,0,0,0,5.0,1,0,0,0,0,0,67,8,75,32,True,False,True,Slow left-arm orthodox,Right-hand bat
+Ireland,BJ McCarthy,3766056b,9,0,0,0,0,0.0,"[4, 8, 17, 19]",4.0,24,9,0,37,4,1,1,0,0,0,5,9.25,0,0,0,0,0,0,34,0,34,32,True,False,False,Right-arm fast-medium,Right-hand bat
+Ireland,PKD Chase,8c2aa0f9,10,0,0,0,0,0.0,"[2, 5, 18, 20]",4.0,24,11,0,34,3,2,0,0,0,0,0,8.5,1,0,0,0,0,0,11,8,19,31,True,False,False,Right-arm medium-fast,Right-hand bat
+Scotland,HG Munsey,ff014c34,1,41,24,4,2,170.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,79,0,0,79,32,True,False,False,Right-arm medium-fast,Left-hand bat
+Scotland,KJ Coetzer,85d8110a,2,33,22,6,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,61,0,0,61,40,True,False,False,Right-arm medium-fast,Right-hand bat
+Scotland,RD Berrington,e21bc7f3,3,29,25,1,1,116.0,[12],1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,0,43,1,0,44,37,True,False,False,Right-arm medium-fast,Right-hand bat
+Scotland,CS MacLeod,9c376401,4,12,13,1,0,92.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,36,True,False,False,Right-arm offbreak,Right-hand bat
+Scotland,DE Budge,0d37dea9,5,23,20,1,1,115.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,33,0,8,41,29,True,False,True,Right-arm medium,Right-hand bat
+Scotland,MA Leask,28131839,6,5,3,1,0,166.67,"[7, 9, 13, 15]",4.0,24,4,0,38,2,1,1,0,0,0,2,9.5,0,0,0,0,0,9,29,0,38,34,True,False,True,Right-arm offbreak,Right-hand bat
+Scotland,MRJ Watt,1252f71a,7,0,0,0,0,0.0,"[1, 10, 14]",3.0,18,5,0,36,8,0,0,0,0,0,0,12.0,1,0,0,0,0,0,1,8,9,28,True,False,False,Slow left-arm orthodox,Left-hand bat
+Scotland,MH Cross,8b261d84,7,7,13,0,0,53.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,3,0,8,11,32,True,False,False,,Right-hand bat
+Scotland,CB Sole,469ccead,8,0,0,0,0,0.0,"[2, 4, 16, 19]",4.0,24,5,0,38,3,1,0,0,0,0,1,9.5,1,0,0,0,0,0,5,8,13,31,True,False,False,Right-arm fast-medium,Right-hand bat
+Scotland,AC Evans,e9a870ed,9,0,0,0,0,0.0,"[3, 5, 18, 20]",4.0,24,6,0,51,8,1,2,0,0,0,2,12.75,0,0,0,0,0,0,50,0,50,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Scotland,SG Whittingham,2d4465da,10,0,0,0,0,0.0,"[6, 8, 11, 17]",4.0,24,9,0,27,3,0,1,0,0,0,0,6.75,0,0,0,0,0,0,36,0,36,31,True,False,False,Right-arm fast-medium,Right-hand bat

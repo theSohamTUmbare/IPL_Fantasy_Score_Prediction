@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Bihar,Mangal Mahrour,97c06e86,1,20,21,2,0,95.24,"[12, 14]",2.0,12,2,0,23,4,0,0,0,0,0,0,11.5,1,0,0,0,0,28,-2,8,34
-Bihar,Bipin Saurabh,4cb5e3d1,2,72,54,10,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,128,0,8,136
-Bihar,Babul Kumar,85e6ccde,3,36,27,3,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,60,0,8,68
-Bihar,S Gani,2ada2d82,4,18,9,0,2,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30
-Bihar,Sachin Kumar,b76b2d25,5,5,6,0,0,83.33,"[15, 17]",2.0,12,2,0,17,1,0,1,0,0,0,0,8.5,0,0,0,0,0,5,27,0,32
-Bihar,Pratyush Singh,456af189,6,7,3,1,0,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19
-Bihar,Amod Yadav,65d905ea,11,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,8,0,19,3,0,1,0,1,0,0,6.33,0,0,0,0,0,0,43,0,43
-Bihar,Abhijeet Saket,5fd3f9db,12,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,11,0,15,2,0,3,2,0,0,2,5.0,0,0,0,0,0,0,110,0,110
-Bihar,Hrishi Raj,e5fa9ca2,13,0,0,0,0,0.0,"[8, 10, 16, 18]",4.0,24,8,0,31,2,1,3,0,1,0,4,7.75,0,0,0,0,0,0,95,0,95
-Bihar,Ashutosh Aman,4948a916,14,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,6,0,25,1,0,2,0,0,0,1,6.25,2,0,0,0,0,0,58,16,74
-Bihar,Yashaswi Rishav,5b8cf03a,15,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Railways,Mrunal Devdhar,a1765140,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Railways,Pratham Singh,f9f21866,2,61,48,5,1,127.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,95,0,8,103
-Railways,Shivam Chaudhary,e53af640,3,6,7,1,0,85.71,[2],1.0,6,1,0,5,0,0,0,0,0,0,1,5.0,1,0,0,0,0,10,1,8,19
-Railways,Upendra Yadav,80ffea17,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Railways,Vivek Singh,a446c7be,5,5,7,1,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17
-Railways,Shubham Chaubey,58588e5a,6,7,5,1,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
-Railways,KV Sharma,119678fd,7,12,16,1,0,75.0,"[8, 10, 12, 16]",4.0,24,11,0,23,2,0,1,0,1,0,0,5.75,0,0,0,0,0,16,48,0,64
-Railways,Harsh Tyagi,4a15018a,8,24,15,3,0,160.0,"[3, 5, 9, 13]",4.0,24,8,0,30,3,1,1,0,0,0,0,7.5,0,0,0,0,4,40,33,0,73
-Railways,Dhrushant Soni,13abdc50,9,2,3,0,0,66.67,"[7, 11, 15, 20]",4.0,24,4,0,43,5,1,0,0,0,0,1,10.75,0,0,0,0,0,2,2,0,4
-Railways,T Pradeep,a0d66374,10,5,4,1,0,125.0,"[1, 4, 18]",3.0,18,7,0,30,3,2,0,0,0,0,1,10.0,0,0,0,0,0,9,5,0,14
-Railways,Himanshu Sangwan,531f7ccc,11,1,1,0,0,100.0,"[6, 14, 17, 19]",4.0,24,6,0,31,3,0,2,0,0,0,1,7.75,0,0,0,0,0,1,56,0,57
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bihar,Mangal Mahrour,97c06e86,1,20,21,2,0,95.24,"[12, 14]",2.0,12,2,0,23,4,0,0,0,0,0,0,11.5,1,0,0,0,0,28,-2,8,34,32,True,True,False,Right-arm medium,Right-hand bat
+Bihar,Bipin Saurabh,4cb5e3d1,2,72,54,10,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,128,0,8,136,25,True,True,False,Right-arm medium-fast,Right-hand bat
+Bihar,Babul Kumar,85e6ccde,3,36,27,3,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,60,0,8,68,32,True,False,False,,Right-hand bat
+Bihar,S Gani,2ada2d82,4,18,9,0,2,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30,25,True,True,False,Right-arm medium-fast,Right-hand bat
+Bihar,Sachin Kumar,b76b2d25,5,5,6,0,0,83.33,"[15, 17]",2.0,12,2,0,17,1,0,1,0,0,0,0,8.5,0,0,0,0,0,5,27,0,32,35,True,True,False,Right-arm offbreak,Right-hand bat
+Bihar,Pratyush Singh,456af189,6,7,3,1,0,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19,30,True,False,False,Legbreak googly,Right-hand bat
+Bihar,Amod Yadav,65d905ea,11,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,8,0,19,3,0,1,0,1,0,0,6.33,0,0,0,0,0,0,43,0,43,23,True,True,False,Right-arm medium,Right-hand bat
+Bihar,Abhijeet Saket,5fd3f9db,12,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,11,0,15,2,0,3,2,0,0,2,5.0,0,0,0,0,0,0,110,0,110,29,True,True,False,Right-arm medium,Right-hand bat
+Bihar,Hrishi Raj,e5fa9ca2,13,0,0,0,0,0.0,"[8, 10, 16, 18]",4.0,24,8,0,31,2,1,3,0,1,0,4,7.75,0,0,0,0,0,0,95,0,95,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Bihar,Ashutosh Aman,4948a916,14,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,6,0,25,1,0,2,0,0,0,1,6.25,2,0,0,0,0,0,58,16,74,38,True,False,True,Slow left-arm orthodox,Right-hand bat
+Bihar,Yashaswi Rishav,5b8cf03a,15,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,27,True,True,False,Legbreak googly,Right-hand bat
+Railways,Mrunal Devdhar,a1765140,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,32,True,True,False,Right-arm medium,Right-hand bat
+Railways,Pratham Singh,f9f21866,2,61,48,5,1,127.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,95,0,8,103,32,True,False,False,Right-arm offbreak,Left-hand bat
+Railways,Shivam Chaudhary,e53af640,3,6,7,1,0,85.71,[2],1.0,6,1,0,5,0,0,0,0,0,0,1,5.0,1,0,0,0,0,10,1,8,19,27,True,True,False,Right-arm offbreak,Right-hand bat
+Railways,Upendra Yadav,80ffea17,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,28,True,True,False,Right-arm offbreak,Right-hand bat
+Railways,Vivek Singh,a446c7be,5,5,7,1,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17,31,True,False,False,Right-arm medium,Left-hand bat
+Railways,Shubham Chaubey,58588e5a,6,7,5,1,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,29,True,True,False,Right-arm offbreak,Right-hand bat
+Railways,KV Sharma,119678fd,7,12,16,1,0,75.0,"[8, 10, 12, 16]",4.0,24,11,0,23,2,0,1,0,1,0,0,5.75,0,0,0,0,0,16,48,0,64,37,True,False,False,Legbreak googly,Left-hand bat
+Railways,Harsh Tyagi,4a15018a,8,24,15,3,0,160.0,"[3, 5, 9, 13]",4.0,24,8,0,30,3,1,1,0,0,0,0,7.5,0,0,0,0,4,40,33,0,73,25,True,True,False,Slow left-arm orthodox,Left-hand bat
+Railways,Dhrushant Soni,13abdc50,9,2,3,0,0,66.67,"[7, 11, 15, 20]",4.0,24,4,0,43,5,1,0,0,0,0,1,10.75,0,0,0,0,0,2,2,0,4,29,True,True,False,Right-arm medium,Right-hand bat
+Railways,T Pradeep,a0d66374,10,5,4,1,0,125.0,"[1, 4, 18]",3.0,18,7,0,30,3,2,0,0,0,0,1,10.0,0,0,0,0,0,9,5,0,14,30,True,False,False,Right-arm medium-fast,Right-hand bat
+Railways,Himanshu Sangwan,531f7ccc,11,1,1,0,0,100.0,"[6, 14, 17, 19]",4.0,24,6,0,31,3,0,2,0,0,0,1,7.75,0,0,0,0,0,1,56,0,57,29,True,True,False,Right-arm medium-fast,Right-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-South Africa,GC Smith,72861603,1,58,29,9,2,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,120,0,0,120
-South Africa,LE Bosman,73e749e1,2,33,15,2,3,220.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,69,0,0,69
-South Africa,CA Ingram,c995d726,3,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,3,0,12,15
-South Africa,JP Duminy,2e8994e7,4,35,22,2,2,159.09,"[11, 13]",2.0,12,3,0,23,3,1,0,0,0,0,0,11.5,0,0,0,0,4,63,-1,0,62
-South Africa,R McLaren,c654af19,5,0,0,0,0,0.0,"[6, 9, 16, 20]",4.0,24,6,0,37,5,1,0,0,0,0,1,9.25,0,0,0,0,0,0,6,0,6
-South Africa,DA Miller,d67d5f00,5,36,24,5,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,66,0,0,66
-South Africa,J Botha,7c503806,6,0,0,0,0,0.0,"[8, 10, 12, 15]",4.0,24,7,0,30,2,1,0,0,0,0,0,7.5,1,0,0,0,0,0,7,8,15
-South Africa,HG Kuhn,ede05b97,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-South Africa,WD Parnell,3a60e0b5,8,0,0,0,0,0.0,"[2, 5, 14, 18]",4.0,24,10,0,29,3,1,2,1,0,0,0,7.25,0,0,0,0,0,0,68,0,68
-South Africa,M Morkel,5bb5a915,9,0,0,0,0,0.0,"[1, 3]",2.0,12,9,0,9,1,0,0,0,0,0,1,4.5,0,0,0,0,0,0,15,0,15
-South Africa,J Theron,dec8e038,10,0,0,0,0,0.0,"[4, 7, 17, 19]",4.0,24,9,0,33,2,2,1,0,1,0,1,8.25,0,0,0,0,0,0,42,0,42
-Zimbabwe,H Masakadza,31fbf891,1,72,63,7,2,114.29,[6],1.0,6,3,0,14,2,1,0,0,0,0,0,14.0,1,0,0,0,0,120,3,8,131
-Zimbabwe,BRM Taylor,53597be1,2,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Zimbabwe,CJ Chibhabha,f32dbc84,3,52,32,6,2,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,100,0,0,100
-Zimbabwe,E Chigumbura,d2babdd5,4,10,8,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
-Zimbabwe,T Taibu,75de770f,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Zimbabwe,CK Coventry,a21ea40c,5,12,7,1,1,171.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
-Zimbabwe,P Utseya,9de271ef,6,0,0,0,0,0.0,"[5, 7, 9, 16]",3.833,23,6,0,41,4,2,2,0,0,0,0,10.7,0,0,0,0,0,0,54,0,54
-Zimbabwe,KM Dabengwa,df08c69e,6,12,5,1,1,240.0,[11],1.0,6,0,0,12,2,0,0,0,0,0,0,12.0,0,0,0,0,0,22,0,0,22
-Zimbabwe,AG Cremer,9f0270e0,7,0,0,0,0,0.0,"[8, 10, 12]",3.0,18,6,0,32,3,2,1,1,0,0,0,10.67,0,0,0,0,0,0,37,0,37
-Zimbabwe,EC Rainsford,f771a151,8,0,0,0,0,0.0,"[2, 4, 14]",3.0,18,2,0,42,3,3,0,0,0,0,0,14.0,0,0,0,0,0,0,-4,0,-4
-Zimbabwe,CB Mpofu,49691d7a,9,0,0,0,0,0.0,"[1, 3, 13, 15]",4.0,24,12,0,25,4,0,0,0,0,0,1,6.25,0,0,0,0,0,0,14,0,14
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+South Africa,GC Smith,72861603,1,58,29,9,2,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,120,0,0,120,44,True,False,False,Right-arm offbreak,Left-hand bat
+South Africa,LE Bosman,73e749e1,2,33,15,2,3,220.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,69,0,0,69,47,True,False,False,Right-arm medium,Right-hand bat
+South Africa,CA Ingram,c995d726,3,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,3,0,12,15,39,True,False,False,Legbreak,Left-hand bat
+South Africa,JP Duminy,2e8994e7,4,35,22,2,2,159.09,"[11, 13]",2.0,12,3,0,23,3,1,0,0,0,0,0,11.5,0,0,0,0,4,63,-1,0,62,40,True,False,True,Right-arm offbreak,Left-hand bat
+South Africa,R McLaren,c654af19,5,0,0,0,0,0.0,"[6, 9, 16, 20]",4.0,24,6,0,37,5,1,0,0,0,0,1,9.25,0,0,0,0,0,0,6,0,6,42,True,False,True,Right-arm medium-fast,Left-hand bat
+South Africa,DA Miller,d67d5f00,5,36,24,5,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,66,0,0,66,35,True,False,False,Right-arm offbreak,Left-hand bat
+South Africa,J Botha,7c503806,6,0,0,0,0,0.0,"[8, 10, 12, 15]",4.0,24,7,0,30,2,1,0,0,0,0,0,7.5,1,0,0,0,0,0,7,8,15,42,True,False,True,Right-arm offbreak,Right-hand bat
+South Africa,HG Kuhn,ede05b97,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,40,True,False,False,,Right-hand bat
+South Africa,WD Parnell,3a60e0b5,8,0,0,0,0,0.0,"[2, 5, 14, 18]",4.0,24,10,0,29,3,1,2,1,0,0,0,7.25,0,0,0,0,0,0,68,0,68,35,True,False,False,Left-arm medium-fast,Left-hand bat
+South Africa,M Morkel,5bb5a915,9,0,0,0,0,0.0,"[1, 3]",2.0,12,9,0,9,1,0,0,0,0,0,1,4.5,0,0,0,0,0,0,15,0,15,40,True,False,False,Right-arm fast,Left-hand bat
+South Africa,J Theron,dec8e038,10,0,0,0,0,0.0,"[4, 7, 17, 19]",4.0,24,9,0,33,2,2,1,0,1,0,1,8.25,0,0,0,0,0,0,42,0,42,39,True,False,False,Right-arm medium-fast,Right-hand bat
+Zimbabwe,H Masakadza,31fbf891,1,72,63,7,2,114.29,[6],1.0,6,3,0,14,2,1,0,0,0,0,0,14.0,1,0,0,0,0,120,3,8,131,41,True,False,False,Right-arm medium,Right-hand bat
+Zimbabwe,BRM Taylor,53597be1,2,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,39,True,True,False,Right-arm offbreak,Right-hand bat
+Zimbabwe,CJ Chibhabha,f32dbc84,3,52,32,6,2,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,100,0,0,100,38,True,False,False,Right-arm medium,Right-hand bat
+Zimbabwe,E Chigumbura,d2babdd5,4,10,8,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,39,True,False,True,Right-arm fast-medium,Right-hand bat
+Zimbabwe,T Taibu,75de770f,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,41,True,True,False,Right-arm medium,Right-hand bat
+Zimbabwe,CK Coventry,a21ea40c,5,12,7,1,1,171.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,42,True,False,False,Legbreak,Right-hand bat
+Zimbabwe,P Utseya,9de271ef,6,0,0,0,0,0.0,"[5, 7, 9, 16]",3.833,23,6,0,41,4,2,2,0,0,0,0,10.7,0,0,0,0,0,0,54,0,54,40,True,False,False,Right-arm offbreak,Right-hand bat
+Zimbabwe,KM Dabengwa,df08c69e,6,12,5,1,1,240.0,[11],1.0,6,0,0,12,2,0,0,0,0,0,0,12.0,0,0,0,0,0,22,0,0,22,44,True,False,True,Slow left-arm orthodox,Left-hand bat
+Zimbabwe,AG Cremer,9f0270e0,7,0,0,0,0,0.0,"[8, 10, 12]",3.0,18,6,0,32,3,2,1,1,0,0,0,10.67,0,0,0,0,0,0,37,0,37,38,True,False,False,Legbreak googly,Right-hand bat
+Zimbabwe,EC Rainsford,f771a151,8,0,0,0,0,0.0,"[2, 4, 14]",3.0,18,2,0,42,3,3,0,0,0,0,0,14.0,0,0,0,0,0,0,-4,0,-4,40,True,False,False,Right-arm fast-medium,Right-hand bat
+Zimbabwe,CB Mpofu,49691d7a,9,0,0,0,0,0.0,"[1, 3, 13, 15]",4.0,24,12,0,25,4,0,0,0,0,0,1,6.25,0,0,0,0,0,0,14,0,14,39,True,False,False,Right-arm fast-medium,Right-hand bat

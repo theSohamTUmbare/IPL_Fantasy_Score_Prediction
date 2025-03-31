@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Hong Kong,Tanwir Afzal,5f5ca1a7,1,32,22,3,2,145.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,62,0,8,70
-Hong Kong,Nizakat Khan,e3eb9e46,2,0,0,0,0,0.0,"[10, 12]",2.0,12,0,0,26,1,2,0,0,0,0,0,13.0,1,0,0,0,0,0,-6,8,2
-Hong Kong,Waqas Barkat,a2eac9df,3,0,3,0,0,0.0,"[18, 20]",2.0,12,0,0,14,0,0,0,0,0,0,0,7.0,0,0,0,0,0,-2,2,0,0
-Hong Kong,Babar Hayat,fbb657bb,4,23,17,1,2,135.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,41,0,0,41
-Hong Kong,Irfan Ahmed,5c124657,5,55,39,2,3,141.03,"[14, 16]",2.0,12,5,0,9,0,0,0,0,0,0,1,4.5,0,0,0,0,2,91,11,0,102
-Hong Kong,JJ Atkinson,bf2d865c,6,64,37,5,4,172.97,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,122,0,16,138
-Hong Kong,Waqas Khan,35971419,7,2,2,0,0,100.0,"[7, 9, 11, 13]",4.0,24,7,0,30,2,1,1,0,0,0,0,7.5,0,0,0,0,0,2,32,0,34
-Hong Kong,A Mehmood,7cefb2a2,9,0,0,0,0,0.0,"[2, 4, 6, 8]",4.0,24,14,0,18,2,0,2,0,0,0,3,4.5,1,0,0,0,0,0,70,8,78
-Hong Kong,Nadeem Ahmed,023f6b02,10,0,0,0,0,0.0,"[15, 17, 19]",3.0,18,5,0,21,0,1,2,0,1,0,1,7.0,0,0,0,0,0,0,65,0,65
-Hong Kong,Ehsan Nawaz,70456281,11,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,14,1,8,1,0,2,0,0,0,1,2.67,0,0,0,0,0,0,82,0,82
-Hong Kong,JPR Lamsam,cb5211dc,12,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Namibia,CG Williams,e16e7347,1,1,3,0,0,33.33,"[6, 8, 10, 20]",4.0,24,12,0,32,1,3,3,0,1,0,0,8.0,0,0,0,0,0,1,99,0,100
-Namibia,G Snyman,5af592d2,2,9,8,2,0,112.5,"[1, 3, 17, 19]",4.0,24,7,0,32,1,1,0,0,0,0,5,8.0,0,0,0,0,0,17,7,0,24
-Namibia,HN Ya France,915264c2,3,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,-2,0,12,10
-Namibia,MD du Preez,e5ad357a,4,2,8,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Namibia,SF Burger,9ff7f691,5,51,46,2,1,110.87,"[2, 4, 14]",3.0,18,9,0,20,2,1,1,1,0,0,0,6.67,0,0,0,0,0,73,44,0,117
-Namibia,Z Groenewald,017faef2,6,7,16,1,0,43.75,"[12, 15]",2.0,12,3,0,19,0,2,0,0,0,0,0,9.5,0,0,0,0,-6,5,3,0,8
-Namibia,R van Schoor,57ac1d99,7,46,30,1,3,153.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,76,0,8,84
-Namibia,NRP Scholtz,47e20f64,8,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Namibia,JJ Smit,bb134e5c,9,4,5,0,0,80.0,"[5, 7, 18]",3.0,18,4,0,43,2,4,0,0,0,0,1,14.33,0,0,0,0,0,4,-2,0,2
-Namibia,ZE Green,8716233e,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Namibia,CW Coombe,6e849a7b,10,0,0,0,0,0.0,"[9, 11, 13, 16]",4.0,24,5,0,37,5,0,0,0,0,0,1,9.25,1,0,0,0,0,0,5,8,13
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Hong Kong,Tanwir Afzal,5f5ca1a7,1,32,22,3,2,145.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,62,0,8,70,36,True,False,True,Right-arm fast-medium,Right-hand bat
+Hong Kong,Nizakat Khan,e3eb9e46,2,0,0,0,0,0.0,"[10, 12]",2.0,12,0,0,26,1,2,0,0,0,0,0,13.0,1,0,0,0,0,0,-6,8,2,32,True,False,True,Legbreak,Right-hand bat
+Hong Kong,Waqas Barkat,a2eac9df,3,0,3,0,0,0.0,"[18, 20]",2.0,12,0,0,14,0,0,0,0,0,0,0,7.0,0,0,0,0,0,-2,2,0,0,35,True,True,False,Legbreak,Right-hand bat
+Hong Kong,Babar Hayat,fbb657bb,4,23,17,1,2,135.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,41,0,0,41,33,True,False,False,Right-arm medium,Right-hand bat
+Hong Kong,Irfan Ahmed,5c124657,5,55,39,2,3,141.03,"[14, 16]",2.0,12,5,0,9,0,0,0,0,0,0,1,4.5,0,0,0,0,2,91,11,0,102,35,True,False,True,Right-arm fast-medium,Right-hand bat
+Hong Kong,JJ Atkinson,bf2d865c,6,64,37,5,4,172.97,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,122,0,16,138,34,True,False,False,,Right-hand bat
+Hong Kong,Waqas Khan,35971419,7,2,2,0,0,100.0,"[7, 9, 11, 13]",4.0,24,7,0,30,2,1,1,0,0,0,0,7.5,0,0,0,0,0,2,32,0,34,26,True,False,False,Right-arm medium-fast,Right-hand bat
+Hong Kong,A Mehmood,7cefb2a2,9,0,0,0,0,0.0,"[2, 4, 6, 8]",4.0,24,14,0,18,2,0,2,0,0,0,3,4.5,1,0,0,0,0,0,70,8,78,36,True,False,False,Right-arm medium,Right-hand bat
+Hong Kong,Nadeem Ahmed,023f6b02,10,0,0,0,0,0.0,"[15, 17, 19]",3.0,18,5,0,21,0,1,2,0,1,0,1,7.0,0,0,0,0,0,0,65,0,65,37,True,False,False,Slow left-arm orthodox,Right-hand bat
+Hong Kong,Ehsan Nawaz,70456281,11,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,14,1,8,1,0,2,0,0,0,1,2.67,0,0,0,0,0,0,82,0,82,30,True,False,False,Right-arm fast-medium,Right-hand bat
+Hong Kong,JPR Lamsam,cb5211dc,12,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,44,True,False,True,Right-arm medium,Right-hand bat
+Namibia,CG Williams,e16e7347,1,1,3,0,0,33.33,"[6, 8, 10, 20]",4.0,24,12,0,32,1,3,3,0,1,0,0,8.0,0,0,0,0,0,1,99,0,100,41,True,False,False,Right-arm medium,Right-hand bat
+Namibia,G Snyman,5af592d2,2,9,8,2,0,112.5,"[1, 3, 17, 19]",4.0,24,7,0,32,1,1,0,0,0,0,5,8.0,0,0,0,0,0,17,7,0,24,43,True,True,False,Right-arm offbreak,Right-hand bat
+Namibia,HN Ya France,915264c2,3,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,-2,0,12,10,34,True,False,False,Right-arm offbreak,Right-hand bat
+Namibia,MD du Preez,e5ad357a,4,2,8,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,29,True,True,False,Legbreak,Right-hand bat
+Namibia,SF Burger,9ff7f691,5,51,46,2,1,110.87,"[2, 4, 14]",3.0,18,9,0,20,2,1,1,1,0,0,0,6.67,0,0,0,0,0,73,44,0,117,42,True,False,True,Right-arm medium-fast,Right-hand bat
+Namibia,Z Groenewald,017faef2,6,7,16,1,0,43.75,"[12, 15]",2.0,12,3,0,19,0,2,0,0,0,0,0,9.5,0,0,0,0,-6,5,3,0,8,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Namibia,R van Schoor,57ac1d99,7,46,30,1,3,153.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,76,0,8,84,25,True,True,False,Right-arm medium,Right-hand bat
+Namibia,NRP Scholtz,47e20f64,8,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,38,True,True,False,Legbreak,Left-hand bat
+Namibia,JJ Smit,bb134e5c,9,4,5,0,0,80.0,"[5, 7, 18]",3.0,18,4,0,43,2,4,0,0,0,0,1,14.33,0,0,0,0,0,4,-2,0,2,29,True,False,True,Left-arm medium-fast,Right-hand bat
+Namibia,ZE Green,8716233e,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,28,True,False,False,,Left-hand bat
+Namibia,CW Coombe,6e849a7b,10,0,0,0,0,0.0,"[9, 11, 13, 16]",4.0,24,5,0,37,5,0,0,0,0,0,1,9.25,1,0,0,0,0,0,5,8,13,31,True,True,False,Right-arm fast-medium,Right-hand bat

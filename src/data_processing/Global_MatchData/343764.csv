@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Bangladesh,Tamim Iqbal,3b041a12,1,23,16,4,0,143.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,41,0,0,41
-Bangladesh,Nazimuddin,4aef496b,2,42,47,0,3,89.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,64,0,0,64
-Bangladesh,Mohammad Ashraful,2bb09eb2,3,13,11,1,0,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
-Bangladesh,Aftab Ahmed,53bc7b84,4,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
-Bangladesh,Shakib Al Hasan,7dc35884,5,0,1,0,0,0.0,"[10, 12, 14, 16]",4.0,24,4,0,33,0,2,1,0,0,0,0,8.25,1,0,0,0,0,-2,29,8,35
-Bangladesh,Farhad Reza,4948a447,6,2,3,0,0,66.67,"[7, 9, 11, 13]",4.0,24,5,0,41,3,2,0,0,0,0,0,10.25,0,0,0,0,0,2,3,0,5
-Bangladesh,Dhiman Ghosh,1494a583,7,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,1,0,12,13
-Bangladesh,Mahmudullah,bf1d7d3e,8,2,5,0,0,40.0,[],0.167,1,0,0,1,0,0,0,0,0,0,0,5.99,0,0,1,0,0,2,0,12,14
-Bangladesh,Mashrafe Mortaza,e186f49c,9,2,3,0,0,66.67,"[1, 3, 5, 19]",3.833,23,8,0,38,5,0,1,0,1,0,5,9.91,0,0,0,0,0,2,41,0,43
-Bangladesh,Abdur Razzak,888e32bf,10,1,2,0,0,50.0,"[6, 8, 15, 17]",4.0,24,5,0,46,4,2,1,0,0,0,2,11.5,0,0,0,0,0,1,26,0,27
-Bangladesh,Shahadat Hossain,090f9211,11,0,1,0,0,0.0,"[2, 4, 18, 20]",4.0,24,7,0,44,2,3,1,0,1,0,0,11.0,0,0,0,0,0,-2,38,0,36
-Pakistan,Salman Butt,4d6d6280,1,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Pakistan,Kamran Akmal,ff077124,2,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,1,0,-2,0,18,16
-Pakistan,Younis Khan,33cb3411,3,47,28,7,0,167.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,83,0,8,91
-Pakistan,Misbah-ul-Haq,7eae4418,4,87,53,3,5,164.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,1,4,145,0,18,163
-Pakistan,Shoaib Malik,64c34cd0,5,35,18,2,3,194.44,"[7, 9, 11]",3.0,18,3,0,27,0,2,1,0,0,0,2,9.0,0,0,0,0,6,71,28,0,99
-Pakistan,Shahid Afridi,0dc00542,6,10,8,1,0,125.0,"[8, 10, 12, 14]",4.0,24,8,0,19,1,0,1,0,0,0,0,4.75,0,0,0,1,0,14,39,6,59
-Pakistan,Fawad Alam,61f05b05,7,16,7,1,1,228.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,26,0,6,32
-Pakistan,Sohail Tanvir,64d43928,11,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,9,0,23,2,1,1,0,1,1,1,7.67,0,0,0,0,0,0,42,0,42
-Pakistan,Wahab Riaz,b3118300,12,0,0,0,0,0.0,"[13, 15]",2.0,12,7,0,7,0,0,1,0,0,2,0,3.5,0,0,0,0,0,0,38,0,38
-Pakistan,Umar Gul,16dfcc19,13,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,9,0,19,2,0,0,0,0,1,1,6.33,1,0,0,0,0,0,11,8,19
-Pakistan,Mansoor Amjad,9018bf65,14,0,0,0,0,0.0,[16],1.0,6,4,0,3,0,0,3,0,1,1,0,3.0,2,0,0,0,0,0,91,16,107
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bangladesh,Tamim Iqbal,3b041a12,1,23,16,4,0,143.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,41,0,0,41,36,True,False,False,,Left-hand bat
+Bangladesh,Nazimuddin,4aef496b,2,42,47,0,3,89.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,64,0,0,64,39,True,False,False,Right-arm medium,Right-hand bat
+Bangladesh,Mohammad Ashraful,2bb09eb2,3,13,11,1,0,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,40,True,False,False,Legbreak,Right-hand bat
+Bangladesh,Aftab Ahmed,53bc7b84,4,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,39,True,False,False,Right-arm medium,Right-hand bat
+Bangladesh,Shakib Al Hasan,7dc35884,5,0,1,0,0,0.0,"[10, 12, 14, 16]",4.0,24,4,0,33,0,2,1,0,0,0,0,8.25,1,0,0,0,0,-2,29,8,35,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Bangladesh,Farhad Reza,4948a447,6,2,3,0,0,66.67,"[7, 9, 11, 13]",4.0,24,5,0,41,3,2,0,0,0,0,0,10.25,0,0,0,0,0,2,3,0,5,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Bangladesh,Dhiman Ghosh,1494a583,7,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,1,0,12,13,37,True,False,False,,Right-hand bat
+Bangladesh,Mahmudullah,bf1d7d3e,8,2,5,0,0,40.0,[],0.167,1,0,0,1,0,0,0,0,0,0,0,5.99,0,0,1,0,0,2,0,12,14,39,True,False,True,Right-arm offbreak,Right-hand bat
+Bangladesh,Mashrafe Mortaza,e186f49c,9,2,3,0,0,66.67,"[1, 3, 5, 19]",3.833,23,8,0,38,5,0,1,0,1,0,5,9.91,0,0,0,0,0,2,41,0,43,41,True,False,False,Right-arm fast-medium,Right-hand bat
+Bangladesh,Abdur Razzak,888e32bf,10,1,2,0,0,50.0,"[6, 8, 15, 17]",4.0,24,5,0,46,4,2,1,0,0,0,2,11.5,0,0,0,0,0,1,26,0,27,42,True,False,False,Slow left-arm orthodox,Left-hand bat
+Bangladesh,Shahadat Hossain,090f9211,11,0,1,0,0,0.0,"[2, 4, 18, 20]",4.0,24,7,0,44,2,3,1,0,1,0,0,11.0,0,0,0,0,0,-2,38,0,36,38,True,False,False,Right-arm medium-fast,Right-hand bat
+Pakistan,Salman Butt,4d6d6280,1,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,40,True,False,False,Right-arm offbreak,Left-hand bat
+Pakistan,Kamran Akmal,ff077124,2,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,1,0,-2,0,18,16,43,True,False,False,,Right-hand bat
+Pakistan,Younis Khan,33cb3411,3,47,28,7,0,167.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,83,0,8,91,47,True,False,False,Legbreak,Right-hand bat
+Pakistan,Misbah-ul-Haq,7eae4418,4,87,53,3,5,164.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,1,4,145,0,18,163,50,True,False,False,Legbreak,Right-hand bat
+Pakistan,Shoaib Malik,64c34cd0,5,35,18,2,3,194.44,"[7, 9, 11]",3.0,18,3,0,27,0,2,1,0,0,0,2,9.0,0,0,0,0,6,71,28,0,99,43,True,False,True,Right-arm offbreak,Right-hand bat
+Pakistan,Shahid Afridi,0dc00542,6,10,8,1,0,125.0,"[8, 10, 12, 14]",4.0,24,8,0,19,1,0,1,0,0,0,0,4.75,0,0,0,1,0,14,39,6,59,45,True,False,True,Legbreak googly,Right-hand bat
+Pakistan,Fawad Alam,61f05b05,7,16,7,1,1,228.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,26,0,6,32,39,True,False,False,Slow left-arm orthodox,Left-hand bat
+Pakistan,Sohail Tanvir,64d43928,11,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,9,0,23,2,1,1,0,1,1,1,7.67,0,0,0,0,0,0,42,0,42,40,True,False,False,Left-arm medium-fast,Left-hand bat
+Pakistan,Wahab Riaz,b3118300,12,0,0,0,0,0.0,"[13, 15]",2.0,12,7,0,7,0,0,1,0,0,2,0,3.5,0,0,0,0,0,0,38,0,38,39,True,False,False,Left-arm fast,Right-hand bat
+Pakistan,Umar Gul,16dfcc19,13,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,9,0,19,2,0,0,0,0,1,1,6.33,1,0,0,0,0,0,11,8,19,42,True,False,False,Right-arm fast-medium,Right-hand bat
+Pakistan,Mansoor Amjad,9018bf65,14,0,0,0,0,0.0,[16],1.0,6,4,0,3,0,0,3,0,1,1,0,3.0,2,0,0,0,0,0,91,16,107,37,True,False,True,Legbreak googly,Right-hand bat

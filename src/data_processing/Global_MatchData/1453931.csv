@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Mozambique,JJ Huo,d816fc1c,1,25,30,4,0,83.33,"[10, 12, 18, 20]",4.0,24,12,1,13,0,0,3,0,2,0,0,3.25,0,0,0,0,0,45,125,0,170
-Mozambique,LI Salomone,a7b67d5d,2,5,8,1,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17
-Mozambique,VE Tembo,1439a13c,3,15,11,1,1,136.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,27,0,0,27
-Mozambique,F Damiao Couana,2c535f08,4,31,25,3,1,124.0,"[1, 3, 5, 7]",4.0,24,21,2,6,1,0,2,0,0,0,0,1.5,0,0,0,0,0,53,101,0,154
-Mozambique,AA Navicha,5c805a60,5,0,0,0,0,0.0,"[9, 11]",2.0,12,5,0,16,1,0,0,0,0,0,5,8.0,0,0,0,0,0,0,5,0,5
-Mozambique,FFZ Nhaduate,a82e0db7,5,8,17,0,0,47.06,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,1,0,0,-6,2,0,40,42
-Mozambique,FA Cossa,3b52d247,6,0,0,0,0,0.0,"[14, 16]",2.0,12,4,0,11,1,0,0,0,0,0,0,5.5,0,0,0,0,0,0,8,0,8
-Mozambique,MF Manjate,882fd091,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Mozambique,JM Joao,2ef6c852,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Mozambique,CB Roposo,31f01815,9,0,0,0,0,0.0,"[13, 15, 17, 19]",4.0,24,11,0,21,0,1,1,0,0,0,0,5.25,0,0,0,0,0,0,40,0,40
-Mozambique,DV Macome,af4c15c5,10,0,0,0,0,0.0,"[2, 4, 6, 8]",4.0,24,16,0,18,1,0,2,1,0,0,6,4.5,0,0,0,0,0,0,80,0,80
-Rwanda,O Manishimwe,fb31ca49,1,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Rwanda,D Ndikubwimana,3cbedf51,2,8,11,1,0,72.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20
-Rwanda,I Niyomugabo,72bf5103,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Rwanda,D Gumyusenge,eeb78e0a,4,9,21,1,0,42.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,7,0,8,15
-Rwanda,Yves Cyusa,b5aa28ce,5,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Rwanda,I Ntirenganya,e73f6c4b,5,0,0,0,0,0.0,"[2, 4, 14]",3.0,18,11,0,21,4,0,1,0,0,0,1,7.0,1,0,0,0,0,0,38,8,46
-Rwanda,C Rububagumya,8088632c,6,28,42,1,0,66.67,"[11, 13]",2.0,12,5,0,8,0,0,0,0,0,0,0,4.0,0,0,0,0,-2,34,11,0,45
-Rwanda,Muhammad Nadir,090f96e4,7,7,5,1,0,140.0,"[6, 8, 10, 12]",4.0,24,15,0,15,0,1,2,0,0,0,0,3.75,0,0,0,0,0,11,71,0,82
-Rwanda,I Mugisha,d3eedb51,8,16,20,0,1,80.0,"[7, 9]",2.0,12,4,0,17,1,1,0,0,0,0,1,8.5,0,0,0,0,0,22,4,0,26
-Rwanda,E Kubwimana,bfc7799f,9,1,3,0,0,33.33,"[5, 16]",1.167,7,1,0,17,3,0,0,0,0,0,1,14.57,0,0,0,0,0,1,1,0,2
-Rwanda,Z Bimenyimana,ba57fb08,10,4,6,0,0,66.67,"[1, 3, 15]",3.0,18,12,0,9,1,0,0,0,0,0,0,3.0,0,0,0,0,0,4,18,0,22
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Mozambique,JJ Huo,d816fc1c,1,25,30,4,0,83.33,"[10, 12, 18, 20]",4.0,24,12,1,13,0,0,3,0,2,0,0,3.25,0,0,0,0,0,45,125,0,170,22,True,True,False,Right-arm medium,Right-hand bat
+Mozambique,LI Salomone,a7b67d5d,2,5,8,1,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17,22,True,True,False,Legbreak,Right-hand bat
+Mozambique,VE Tembo,1439a13c,3,15,11,1,1,136.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,27,0,0,27,22,True,False,False,,Right-hand bat
+Mozambique,F Damiao Couana,2c535f08,4,31,25,3,1,124.0,"[1, 3, 5, 7]",4.0,24,21,2,6,1,0,2,0,0,0,0,1.5,0,0,0,0,0,53,101,0,154,28,True,True,False,Right-arm medium,Right-hand bat
+Mozambique,AA Navicha,5c805a60,5,0,0,0,0,0.0,"[9, 11]",2.0,12,5,0,16,1,0,0,0,0,0,5,8.0,0,0,0,0,0,0,5,0,5,21,True,True,False,Legbreak,Right-hand bat
+Mozambique,FFZ Nhaduate,a82e0db7,5,8,17,0,0,47.06,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,1,0,0,-6,2,0,40,42,22,True,False,False,,Right-hand bat
+Mozambique,FA Cossa,3b52d247,6,0,0,0,0,0.0,"[14, 16]",2.0,12,4,0,11,1,0,0,0,0,0,0,5.5,0,0,0,0,0,0,8,0,8,30,True,True,False,Right-arm medium,Right-hand bat
+Mozambique,MF Manjate,882fd091,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,29,True,False,False,,Right-hand bat
+Mozambique,JM Joao,2ef6c852,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,20,True,True,False,Left-arm medium,Right-hand bat
+Mozambique,CB Roposo,31f01815,9,0,0,0,0,0.0,"[13, 15, 17, 19]",4.0,24,11,0,21,0,1,1,0,0,0,0,5.25,0,0,0,0,0,0,40,0,40,19,True,True,False,Right-arm medium-fast,Right-hand bat
+Mozambique,DV Macome,af4c15c5,10,0,0,0,0,0.0,"[2, 4, 6, 8]",4.0,24,16,0,18,1,0,2,1,0,0,6,4.5,0,0,0,0,0,0,80,0,80,21,True,True,False,Right-arm medium-fast,Right-hand bat
+Rwanda,O Manishimwe,fb31ca49,1,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,22,True,False,False,,Right-hand bat
+Rwanda,D Ndikubwimana,3cbedf51,2,8,11,1,0,72.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20,21,True,False,False,,Right-hand bat
+Rwanda,I Niyomugabo,72bf5103,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,21,True,False,False,,Right-hand bat
+Rwanda,D Gumyusenge,eeb78e0a,4,9,21,1,0,42.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,7,0,8,15,21,True,True,False,Right-arm medium-fast,Right-hand bat
+Rwanda,Yves Cyusa,b5aa28ce,5,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,18,True,True,False,Right-arm offbreak,Right-hand bat
+Rwanda,I Ntirenganya,e73f6c4b,5,0,0,0,0,0.0,"[2, 4, 14]",3.0,18,11,0,21,4,0,1,0,0,0,1,7.0,1,0,0,0,0,0,38,8,46,22,True,True,False,Left-arm medium,Right-hand bat
+Rwanda,C Rububagumya,8088632c,6,28,42,1,0,66.67,"[11, 13]",2.0,12,5,0,8,0,0,0,0,0,0,0,4.0,0,0,0,0,-2,34,11,0,45,29,True,True,False,Right-arm medium,Right-hand bat
+Rwanda,Muhammad Nadir,090f96e4,7,7,5,1,0,140.0,"[6, 8, 10, 12]",4.0,24,15,0,15,0,1,2,0,0,0,0,3.75,0,0,0,0,0,11,71,0,82,26,True,True,False,Slow left-arm orthodox,Left-hand bat
+Rwanda,I Mugisha,d3eedb51,8,16,20,0,1,80.0,"[7, 9]",2.0,12,4,0,17,1,1,0,0,0,0,1,8.5,0,0,0,0,0,22,4,0,26,20,True,True,False,Legbreak,Right-hand bat
+Rwanda,E Kubwimana,bfc7799f,9,1,3,0,0,33.33,"[5, 16]",1.167,7,1,0,17,3,0,0,0,0,0,1,14.57,0,0,0,0,0,1,1,0,2,22,True,True,False,Right-arm medium-fast,Right-hand bat
+Rwanda,Z Bimenyimana,ba57fb08,10,4,6,0,0,66.67,"[1, 3, 15]",3.0,18,12,0,9,1,0,0,0,0,0,0,3.0,0,0,0,0,0,4,18,0,22,26,True,True,False,Right-arm medium,Right-hand bat

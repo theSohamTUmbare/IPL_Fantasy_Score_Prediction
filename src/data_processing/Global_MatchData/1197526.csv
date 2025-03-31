@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Ireland,PR Stirling,cf494ffe,1,59,47,6,2,125.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,103,0,0,103
-Ireland,KJ O'Brien,243431b5,2,5,6,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,9,0,16,25
-Ireland,A Balbirnie,6ef13460,3,38,28,5,1,135.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,70,0,0,70
-Ireland,HT Tector,59ea70a4,4,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,1,0,16,17
-Ireland,GC Wilson,05de1a5a,5,6,9,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,6,0,8,14
-Ireland,MR Adair,fc55ec67,6,0,2,0,0,0.0,"[1, 5, 16, 20]",3.833,23,16,0,22,3,1,3,0,0,0,1,5.74,0,0,0,0,0,0,99,0,99
-Ireland,GJ Delany,33b3d2df,7,4,6,0,0,66.67,"[2, 7, 10, 18]",4.0,24,10,0,30,1,2,2,0,0,0,2,7.5,0,0,0,0,0,4,60,0,64
-Ireland,Simi Singh,c9945bdf,8,5,9,0,0,55.56,"[9, 12, 14]",3.0,18,7,0,20,0,1,0,0,0,0,1,6.67,1,0,0,0,0,5,9,8,22
-Ireland,SR Thompson,7f3ad1ed,9,21,11,0,2,190.91,"[3, 8]",2.0,12,5,0,17,3,0,0,0,0,0,2,8.5,1,0,0,0,6,39,5,8,52
-Ireland,GH Dockrell,99cddc5e,10,1,1,0,0,100.0,"[11, 13, 15, 17]",4.0,24,8,0,23,1,0,3,0,0,0,2,5.75,1,0,0,0,0,1,91,8,100
-Ireland,WB Rankin,29b89ae8,11,0,0,0,0,0.0,"[4, 6, 19]",3.0,18,9,0,18,1,0,0,0,0,0,0,6.0,0,0,0,0,0,0,11,0,11
-Nepal,I Pandey,ed547c49,1,22,30,3,0,73.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34
-Nepal,P Khadka,12c3ba4d,2,25,14,2,2,178.57,[7],1.0,6,2,0,12,1,1,0,0,0,0,0,12.0,1,0,0,0,6,55,2,8,65
-Nepal,Aarif Sheikh,cd4d7695,3,26,26,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,38,0,0,38
-Nepal,DS Airee,1747ea18,4,19,20,0,1,95.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,25,0,8,33
-Nepal,B Bhandari,82342b13,5,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,1,0,12,13
-Nepal,S Jora,156378d8,6,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Nepal,Sompal Kami,1adb8ee8,7,7,6,1,0,116.67,"[4, 11, 13]",3.0,18,6,0,25,3,0,0,0,0,0,0,8.33,0,0,0,0,0,11,6,0,17
-Nepal,Karan KC,f53b3e1d,8,16,9,1,1,177.78,"[6, 8, 16, 20]",4.0,24,7,0,38,3,2,1,0,0,0,0,9.5,2,0,0,0,0,26,32,16,74
-Nepal,S Lamichhane,b410bd3d,9,1,2,0,0,50.0,"[2, 5, 14, 18]",4.0,24,13,0,21,3,0,2,0,0,0,1,5.25,0,0,0,0,0,1,67,0,68
-Nepal,LN Rajbanshi,6ad2d5f7,10,3,7,0,0,42.86,"[1, 3, 9, 12]",4.0,24,12,0,23,0,2,1,0,0,0,0,5.75,0,0,0,0,0,3,41,0,44
-Nepal,A Bohara,64fb6b15,11,0,0,0,0,0.0,"[10, 15, 17, 19]",4.0,24,8,0,22,2,0,2,1,0,0,0,5.5,0,0,0,0,0,0,70,0,70
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Ireland,PR Stirling,cf494ffe,1,59,47,6,2,125.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,103,0,0,103,34,True,False,True,Right-arm offbreak,Right-hand bat
+Ireland,KJ O'Brien,243431b5,2,5,6,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,9,0,16,25,41,True,False,True,Right-arm medium-fast,Right-hand bat
+Ireland,A Balbirnie,6ef13460,3,38,28,5,1,135.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,70,0,0,70,34,True,False,False,Right-arm offbreak,Right-hand bat
+Ireland,HT Tector,59ea70a4,4,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,1,0,16,17,25,True,False,False,Right-arm offbreak,Right-hand bat
+Ireland,GC Wilson,05de1a5a,5,6,9,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,6,0,8,14,39,True,False,False,,Right-hand bat
+Ireland,MR Adair,fc55ec67,6,0,2,0,0,0.0,"[1, 5, 16, 20]",3.833,23,16,0,22,3,1,3,0,0,0,1,5.74,0,0,0,0,0,0,99,0,99,29,True,False,True,Right-arm fast-medium,Right-hand bat
+Ireland,GJ Delany,33b3d2df,7,4,6,0,0,66.67,"[2, 7, 10, 18]",4.0,24,10,0,30,1,2,2,0,0,0,2,7.5,0,0,0,0,0,4,60,0,64,27,True,False,True,Legbreak googly,Right-hand bat
+Ireland,Simi Singh,c9945bdf,8,5,9,0,0,55.56,"[9, 12, 14]",3.0,18,7,0,20,0,1,0,0,0,0,1,6.67,1,0,0,0,0,5,9,8,22,38,True,False,True,Legbreak googly,Right-hand bat
+Ireland,SR Thompson,7f3ad1ed,9,21,11,0,2,190.91,"[3, 8]",2.0,12,5,0,17,3,0,0,0,0,0,2,8.5,1,0,0,0,6,39,5,8,52,33,True,False,False,Right-arm medium-fast,Left-hand bat
+Ireland,GH Dockrell,99cddc5e,10,1,1,0,0,100.0,"[11, 13, 15, 17]",4.0,24,8,0,23,1,0,3,0,0,0,2,5.75,1,0,0,0,0,1,91,8,100,32,True,False,True,Slow left-arm orthodox,Right-hand bat
+Ireland,WB Rankin,29b89ae8,11,0,0,0,0,0.0,"[4, 6, 19]",3.0,18,9,0,18,1,0,0,0,0,0,0,6.0,0,0,0,0,0,0,11,0,11,40,True,False,False,Right-arm fast-medium,Left-hand bat
+Nepal,I Pandey,ed547c49,1,22,30,3,0,73.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34,27,True,False,False,,Left-hand bat
+Nepal,P Khadka,12c3ba4d,2,25,14,2,2,178.57,[7],1.0,6,2,0,12,1,1,0,0,0,0,0,12.0,1,0,0,0,6,55,2,8,65,37,True,False,True,Right-arm offbreak,Right-hand bat
+Nepal,Aarif Sheikh,cd4d7695,3,26,26,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,38,0,0,38,27,True,False,False,Right-arm medium,Right-hand bat
+Nepal,DS Airee,1747ea18,4,19,20,0,1,95.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,25,0,8,33,25,True,False,False,Right-arm offbreak,Right-hand bat
+Nepal,B Bhandari,82342b13,5,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,1,0,12,13,35,True,True,False,Right-arm bowler,Right-hand bat
+Nepal,S Jora,156378d8,6,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,23,True,False,False,,Right-hand bat
+Nepal,Sompal Kami,1adb8ee8,7,7,6,1,0,116.67,"[4, 11, 13]",3.0,18,6,0,25,3,0,0,0,0,0,0,8.33,0,0,0,0,0,11,6,0,17,29,True,False,True,Right-arm fast-medium,Right-hand bat
+Nepal,Karan KC,f53b3e1d,8,16,9,1,1,177.78,"[6, 8, 16, 20]",4.0,24,7,0,38,3,2,1,0,0,0,0,9.5,2,0,0,0,0,26,32,16,74,33,True,False,True,Right-arm fast,Right-hand bat
+Nepal,S Lamichhane,b410bd3d,9,1,2,0,0,50.0,"[2, 5, 14, 18]",4.0,24,13,0,21,3,0,2,0,0,0,1,5.25,0,0,0,0,0,1,67,0,68,24,True,False,False,Legbreak googly,Right-hand bat
+Nepal,LN Rajbanshi,6ad2d5f7,10,3,7,0,0,42.86,"[1, 3, 9, 12]",4.0,24,12,0,23,0,2,1,0,0,0,0,5.75,0,0,0,0,0,3,41,0,44,26,True,False,False,Slow left-arm orthodox,Right-hand bat
+Nepal,A Bohara,64fb6b15,11,0,0,0,0,0.0,"[10, 15, 17, 19]",4.0,24,8,0,22,2,0,2,1,0,0,0,5.5,0,0,0,0,0,0,70,0,70,27,True,False,False,Right-arm medium,Right-hand bat

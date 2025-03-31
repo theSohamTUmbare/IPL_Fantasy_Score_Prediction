@@ -1,25 +1,25 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Gujarat Titans,WP Saha,fe11caa6,1,12,14,2,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,20,0,20,40
-Gujarat Titans,Shubman Gill,b4b99816,2,104,51,5,8,203.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,194,0,0,194
-Gujarat Titans,V Shankar,0994d0ae,3,53,35,7,2,151.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,105,0,0,105
-Gujarat Titans,MD Shanaka,3ff033bb,4,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Gujarat Titans,DA Miller,d67d5f00,5,6,7,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
-Gujarat Titans,Yash Dayal,7210d461,6,0,0,0,0,0.0,"[2, 4, 15, 18]",4.0,24,7,0,39,5,1,1,0,0,0,0,9.75,0,0,0,0,0,0,32,0,32
-Gujarat Titans,R Tewatia,39a2dfa8,6,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12
-Gujarat Titans,HH Pandya,dbe50b21,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Gujarat Titans,Rashid Khan,5f547c8b,8,0,0,0,0,0.0,"[5, 7, 9, 17]",4.0,24,5,0,24,1,0,1,0,1,0,0,6.0,0,0,0,0,0,0,40,0,40
-Gujarat Titans,Noor Ahmad,efc04be7,9,0,0,0,0,0.0,"[6, 8, 10, 12]",4.0,24,5,0,39,4,1,2,0,0,0,2,9.75,0,0,0,0,0,0,55,0,55
-Gujarat Titans,Mohammed Shami,8cf9814c,10,0,0,0,0,0.0,"[1, 3, 14, 19]",4.0,24,8,0,39,7,0,1,0,0,0,1,9.75,1,0,0,0,0,0,33,8,41
-Gujarat Titans,MM Sharma,759ac88f,11,0,0,0,0,0.0,"[11, 13, 16, 20]",4.0,24,2,0,54,8,1,0,0,0,0,2,13.5,0,0,0,0,0,0,-4,0,-4
-Royal Challengers Bangalore,V Kohli,ba607b88,1,101,61,13,1,165.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,179,0,8,187
-Royal Challengers Bangalore,F du Plessis,3355b542,2,28,19,5,0,147.37,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,54,0,0,54
-Royal Challengers Bangalore,GJ Maxwell,b681e71e,3,11,5,1,1,220.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
-Royal Challengers Bangalore,MK Lomror,da934ee8,4,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Royal Challengers Bangalore,MG Bracewell,e38bce7a,5,26,16,5,0,162.5,[13],1.0,6,2,0,16,0,2,0,0,0,0,0,16.0,0,0,0,0,4,54,2,0,56
-Royal Challengers Bangalore,H Sharma,52294a79,6,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,2,0,28,3,1,0,0,0,0,0,9.33,0,0,0,0,0,0,2,0,2
-Royal Challengers Bangalore,KD Karthik,c03f1114,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Royal Challengers Bangalore,Anuj Rawat,c8f5f961,7,23,15,1,1,153.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,37,0,0,37
-Royal Challengers Bangalore,HV Patel,f986ca1a,7,0,0,0,0,0.0,"[10, 12, 16, 19]",4.0,24,9,0,29,2,1,1,0,0,0,2,7.25,0,0,0,0,0,0,34,0,34
-Royal Challengers Bangalore,WD Parnell,3a60e0b5,8,0,0,0,0,0.0,"[2, 4, 6, 20]",3.167,19,7,0,42,6,2,0,0,0,1,1,13.26,1,0,0,0,0,0,1,8,9
-Royal Challengers Bangalore,Vijaykumar Vyshak,54e52590,9,0,0,0,0,0.0,"[5, 8, 15, 17]",4.0,24,6,0,40,2,2,1,0,0,0,2,10.0,0,0,0,0,0,0,29,0,29
-Royal Challengers Bangalore,Mohammed Siraj,2f49c897,10,0,0,0,0,0.0,"[1, 3, 14, 18]",4.0,24,10,0,32,2,2,2,0,0,0,2,8.0,0,0,0,0,0,0,60,0,60
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Gujarat Titans,WP Saha,fe11caa6,1,12,14,2,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,20,0,20,40,40,True,False,False,,Right-hand bat
+Gujarat Titans,Shubman Gill,b4b99816,2,104,51,5,8,203.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,194,0,0,194,25,True,False,False,Right-arm offbreak,Right-hand bat
+Gujarat Titans,V Shankar,0994d0ae,3,53,35,7,2,151.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,105,0,0,105,34,True,False,True,Right-arm medium,Right-hand bat
+Gujarat Titans,MD Shanaka,3ff033bb,4,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,33,True,False,True,Right-arm medium,Right-hand bat
+Gujarat Titans,DA Miller,d67d5f00,5,6,7,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,35,True,False,False,Right-arm offbreak,Left-hand bat
+Gujarat Titans,Yash Dayal,7210d461,6,0,0,0,0,0.0,"[2, 4, 15, 18]",4.0,24,7,0,39,5,1,1,0,0,0,0,9.75,0,0,0,0,0,0,32,0,32,27,True,False,False,Left-arm medium-fast,Right-hand bat
+Gujarat Titans,R Tewatia,39a2dfa8,6,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12,31,True,False,True,Legbreak,Left-hand bat
+Gujarat Titans,HH Pandya,dbe50b21,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,31,True,False,True,Right-arm medium-fast,Right-hand bat
+Gujarat Titans,Rashid Khan,5f547c8b,8,0,0,0,0,0.0,"[5, 7, 9, 17]",4.0,24,5,0,24,1,0,1,0,1,0,0,6.0,0,0,0,0,0,0,40,0,40,26,True,False,True,Legbreak googly,Right-hand bat
+Gujarat Titans,Noor Ahmad,efc04be7,9,0,0,0,0,0.0,"[6, 8, 10, 12]",4.0,24,5,0,39,4,1,2,0,0,0,2,9.75,0,0,0,0,0,0,55,0,55,20,True,False,False,Left-arm wrist-spin,Right-hand bat
+Gujarat Titans,Mohammed Shami,8cf9814c,10,0,0,0,0,0.0,"[1, 3, 14, 19]",4.0,24,8,0,39,7,0,1,0,0,0,1,9.75,1,0,0,0,0,0,33,8,41,34,True,False,False,Right-arm fast,Right-hand bat
+Gujarat Titans,MM Sharma,759ac88f,11,0,0,0,0,0.0,"[11, 13, 16, 20]",4.0,24,2,0,54,8,1,0,0,0,0,2,13.5,0,0,0,0,0,0,-4,0,-4,36,True,False,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,V Kohli,ba607b88,1,101,61,13,1,165.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,179,0,8,187,36,True,False,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,F du Plessis,3355b542,2,28,19,5,0,147.37,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,54,0,0,54,40,True,False,False,Legbreak,Right-hand bat
+Royal Challengers Bangalore,GJ Maxwell,b681e71e,3,11,5,1,1,220.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21,36,True,False,True,Right-arm offbreak,Right-hand bat
+Royal Challengers Bangalore,MK Lomror,da934ee8,4,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,25,True,False,True,Slow left-arm orthodox,Left-hand bat
+Royal Challengers Bangalore,MG Bracewell,e38bce7a,5,26,16,5,0,162.5,[13],1.0,6,2,0,16,0,2,0,0,0,0,0,16.0,0,0,0,0,4,54,2,0,56,34,True,False,True,Right-arm offbreak,Left-hand bat
+Royal Challengers Bangalore,H Sharma,52294a79,6,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,2,0,28,3,1,0,0,0,0,0,9.33,0,0,0,0,0,0,2,0,2,26,True,False,False,Legbreak,Right-hand bat
+Royal Challengers Bangalore,KD Karthik,c03f1114,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,39,True,True,False,Right-arm offbreak,Right-hand bat
+Royal Challengers Bangalore,Anuj Rawat,c8f5f961,7,23,15,1,1,153.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,37,0,0,37,25,True,False,False,,Left-hand bat
+Royal Challengers Bangalore,HV Patel,f986ca1a,7,0,0,0,0,0.0,"[10, 12, 16, 19]",4.0,24,9,0,29,2,1,1,0,0,0,2,7.25,0,0,0,0,0,0,34,0,34,34,True,False,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,WD Parnell,3a60e0b5,8,0,0,0,0,0.0,"[2, 4, 6, 20]",3.167,19,7,0,42,6,2,0,0,0,1,1,13.26,1,0,0,0,0,0,1,8,9,35,True,False,False,Left-arm medium-fast,Left-hand bat
+Royal Challengers Bangalore,Vijaykumar Vyshak,54e52590,9,0,0,0,0,0.0,"[5, 8, 15, 17]",4.0,24,6,0,40,2,2,1,0,0,0,2,10.0,0,0,0,0,0,0,29,0,29,28,True,False,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,Mohammed Siraj,2f49c897,10,0,0,0,0,0.0,"[1, 3, 14, 18]",4.0,24,10,0,32,2,2,2,0,0,0,2,8.0,0,0,0,0,0,0,60,0,60,31,True,False,False,Right-arm fast,Right-hand bat

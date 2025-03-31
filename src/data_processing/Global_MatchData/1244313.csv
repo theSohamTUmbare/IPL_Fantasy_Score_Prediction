@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Chhattisgarh,Shashank Chandrakar,9c20688d,1,9,13,1,0,69.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,11,0,0,11
-Chhattisgarh,Shashank Singh,26989d80,2,1,3,0,0,33.33,[8],1.0,6,1,0,12,1,1,0,0,0,0,0,12.0,0,0,0,0,0,1,1,0,2
-Chhattisgarh,Harpreet Singh,28c78fb3,3,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
-Chhattisgarh,Amandeep Khare,6c6cc94c,4,87,60,5,5,145.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,151,0,0,151
-Chhattisgarh,Ajay Mandal,31ee319e,5,4,5,0,0,80.0,"[5, 10]",2.0,12,3,0,17,1,1,1,0,0,0,0,8.5,1,0,0,0,0,4,28,8,40
-Chhattisgarh,AG Rao,0420f51f,6,10,10,1,0,100.0,"[4, 13, 15]",3.0,18,5,0,24,1,1,1,0,0,0,3,8.0,0,0,0,0,0,14,30,0,44
-Chhattisgarh,Vishal Kushwah,cc8531c2,7,11,16,1,0,68.75,"[12, 14, 16]",3.0,18,6,0,18,2,0,3,0,0,0,0,6.0,1,0,0,0,-2,13,87,8,108
-Chhattisgarh,Sumit Ruikar,f4ef0fd7,8,3,5,0,0,60.0,"[7, 9, 11]",3.0,18,6,0,22,0,2,0,0,0,0,0,7.33,0,0,0,0,0,3,6,0,9
-Chhattisgarh,MSS Hussain,9fa93dcd,9,6,4,1,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,10,0,8,18
-Chhattisgarh,V Pratap Singh,d718440b,10,1,1,0,0,100.0,"[1, 3, 17, 19]",4.0,24,5,0,38,4,1,0,0,0,0,2,9.5,0,0,0,0,0,1,5,0,6
-Chhattisgarh,Ravi Kiran,0ff9728b,10,0,0,0,0,0.0,"[2, 6, 18, 20]",4.0,24,9,0,36,3,2,0,0,0,0,0,9.0,1,0,0,0,0,0,9,8,17
-Himachal,RI Thakur,12ac8ca5,1,53,36,5,3,147.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,101,0,0,101
-Himachal,P Chopra,8ac93ca2,2,28,30,1,2,93.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,48,0,0,48
-Himachal,AR Kumar,d1f63ad5,3,11,10,1,0,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
-Himachal,Akash Vasisht,35ccfdd4,4,25,18,2,0,138.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,2,39,0,12,51
-Himachal,R Dhawan,26a85969,5,1,2,0,0,50.0,"[1, 3, 15, 20]",4.0,24,10,0,29,1,2,3,1,1,0,1,7.25,0,0,0,0,0,1,105,0,106
-Himachal,N A Sharma,5663eaa5,6,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
-Himachal,EC Sen,8a0ae9da,7,38,18,2,3,211.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,74,0,0,74
-Himachal,VG Arora,7c3b3b78,10,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,8,0,24,2,0,2,2,0,0,2,6.0,0,0,0,0,0,0,76,0,76
-Himachal,Mayank Dagar,a457cfb5,11,0,0,0,0,0.0,"[6, 8, 10, 12]",4.0,24,16,1,11,1,0,1,0,0,0,0,2.75,2,0,0,0,0,0,59,16,75
-Himachal,Pankaj Jaswal,3bc10d5b,12,0,0,0,0,0.0,"[5, 11, 13, 18]",4.0,24,6,0,35,3,1,1,0,0,0,0,8.75,0,0,0,0,0,0,31,0,31
-Himachal,Ayush Jamwal,fcd1dd35,13,0,0,0,0,0.0,"[7, 9, 14, 16]",4.0,24,3,0,40,2,2,0,0,0,0,3,10.0,1,0,0,0,0,0,1,8,9
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Chhattisgarh,Shashank Chandrakar,9c20688d,1,9,13,1,0,69.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,11,0,0,11,30,True,True,False,Right-arm medium,Right-hand bat
+Chhattisgarh,Shashank Singh,26989d80,2,1,3,0,0,33.33,[8],1.0,6,1,0,12,1,1,0,0,0,0,0,12.0,0,0,0,0,0,1,1,0,2,33,True,False,True,Right-arm offbreak,Right-hand bat
+Chhattisgarh,Harpreet Singh,28c78fb3,3,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,33,True,False,False,Right-arm medium,Left-hand bat
+Chhattisgarh,Amandeep Khare,6c6cc94c,4,87,60,5,5,145.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,151,0,0,151,27,True,True,False,Right-arm medium,Right-hand bat
+Chhattisgarh,Ajay Mandal,31ee319e,5,4,5,0,0,80.0,"[5, 10]",2.0,12,3,0,17,1,1,1,0,0,0,0,8.5,1,0,0,0,0,4,28,8,40,29,True,False,True,Slow left-arm orthodox,Left-hand bat
+Chhattisgarh,AG Rao,0420f51f,6,10,10,1,0,100.0,"[4, 13, 15]",3.0,18,5,0,24,1,1,1,0,0,0,3,8.0,0,0,0,0,0,14,30,0,44,41,True,True,False,Right-arm offbreak,Right-hand bat
+Chhattisgarh,Vishal Kushwah,cc8531c2,7,11,16,1,0,68.75,"[12, 14, 16]",3.0,18,6,0,18,2,0,3,0,0,0,0,6.0,1,0,0,0,-2,13,87,8,108,34,True,True,False,Right-arm medium,Right-hand bat
+Chhattisgarh,Sumit Ruikar,f4ef0fd7,8,3,5,0,0,60.0,"[7, 9, 11]",3.0,18,6,0,22,0,2,0,0,0,0,0,7.33,0,0,0,0,0,3,6,0,9,34,True,True,False,Slow left-arm orthodox,Left-hand bat
+Chhattisgarh,MSS Hussain,9fa93dcd,9,6,4,1,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,10,0,8,18,28,True,False,False,,Right-hand bat
+Chhattisgarh,V Pratap Singh,d718440b,10,1,1,0,0,100.0,"[1, 3, 17, 19]",4.0,24,5,0,38,4,1,0,0,0,0,2,9.5,0,0,0,0,0,1,5,0,6,32,True,True,False,Right-arm medium,Right-hand bat
+Chhattisgarh,Ravi Kiran,0ff9728b,10,0,0,0,0,0.0,"[2, 6, 18, 20]",4.0,24,9,0,36,3,2,0,0,0,0,0,9.0,1,0,0,0,0,0,9,8,17,34,True,True,False,Right-arm medium,Right-hand bat
+Himachal,RI Thakur,12ac8ca5,1,53,36,5,3,147.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,101,0,0,101,27,True,True,False,Right-arm medium,Left-hand bat
+Himachal,P Chopra,8ac93ca2,2,28,30,1,2,93.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,48,0,0,48,32,True,False,False,Legbreak googly,Right-hand bat
+Himachal,AR Kumar,d1f63ad5,3,11,10,1,0,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15,35,True,True,False,Legbreak googly,Right-hand bat
+Himachal,Akash Vasisht,35ccfdd4,4,25,18,2,0,138.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,2,39,0,12,51,30,True,False,True,Slow left-arm orthodox,Left-hand bat
+Himachal,R Dhawan,26a85969,5,1,2,0,0,50.0,"[1, 3, 15, 20]",4.0,24,10,0,29,1,2,3,1,1,0,1,7.25,0,0,0,0,0,1,105,0,106,35,True,False,True,Right-arm medium-fast,Right-hand bat
+Himachal,N A Sharma,5663eaa5,6,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,28,True,True,False,Right-arm medium-fast,Right-hand bat
+Himachal,EC Sen,8a0ae9da,7,38,18,2,3,211.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,74,0,0,74,29,True,False,False,Right-arm medium,Right-hand bat
+Himachal,VG Arora,7c3b3b78,10,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,8,0,24,2,0,2,2,0,0,2,6.0,0,0,0,0,0,0,76,0,76,27,True,False,False,Right-arm fast-medium,Right-hand bat
+Himachal,Mayank Dagar,a457cfb5,11,0,0,0,0,0.0,"[6, 8, 10, 12]",4.0,24,16,1,11,1,0,1,0,0,0,0,2.75,2,0,0,0,0,0,59,16,75,28,True,False,False,Slow left-arm orthodox,Right-hand bat
+Himachal,Pankaj Jaswal,3bc10d5b,12,0,0,0,0,0.0,"[5, 11, 13, 18]",4.0,24,6,0,35,3,1,1,0,0,0,0,8.75,0,0,0,0,0,0,31,0,31,29,True,False,False,Right-arm medium,Right-hand bat
+Himachal,Ayush Jamwal,fcd1dd35,13,0,0,0,0,0.0,"[7, 9, 14, 16]",4.0,24,3,0,40,2,2,0,0,0,0,3,10.0,1,0,0,0,0,0,1,8,9,25,True,True,False,Slow left-arm orthodox,Right-hand bat

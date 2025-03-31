@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-St Lucia Zouks,J Charles,09a9d073,1,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-St Lucia Zouks,H Davids,9c9f8dbc,2,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-St Lucia Zouks,ADS Fletcher,1bae756b,3,24,36,3,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,34,0,0,34
-St Lucia Zouks,K Lesporis,fb496f7a,4,22,23,3,0,95.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34
-St Lucia Zouks,DJG Sammy,c03c6200,5,5,5,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17
-St Lucia Zouks,RE van der Merwe,05c2ca46,6,1,3,0,0,33.33,[11],1.0,6,2,0,12,1,1,0,0,0,0,0,12.0,0,0,0,0,0,1,2,0,3
-St Lucia Zouks,Sohail Tanvir,64d43928,7,18,14,3,0,128.57,"[1, 4]",2.0,12,6,0,11,1,0,0,0,0,0,0,5.5,0,0,0,0,0,30,10,0,40
-St Lucia Zouks,M Matthew,e9200997,8,7,7,1,0,100.0,"[7, 9, 13, 15]",3.833,23,10,0,21,0,1,0,0,0,0,2,5.48,0,0,0,0,0,11,14,0,25
-St Lucia Zouks,LAS Sebastien,a8333aa9,9,3,4,0,0,75.0,"[8, 10, 12]",3.0,18,4,0,30,1,2,0,0,0,0,2,10.0,0,0,0,0,0,3,2,0,5
-St Lucia Zouks,TL Best,db767b89,10,11,10,2,0,110.0,"[2, 6]",2.0,12,7,0,20,1,2,0,0,0,0,2,10.0,0,0,0,0,0,19,5,0,24
-St Lucia Zouks,ROO Jordan,416881d1,11,9,6,0,1,150.0,"[3, 5, 14]",3.0,18,8,0,25,2,1,2,0,0,1,2,8.33,0,0,0,0,0,15,58,0,73
-Trinidad & Tobago Red Steel,KJ O'Brien,243431b5,1,9,9,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
-Trinidad & Tobago Red Steel,E Lewis,0ebfb1ad,2,59,39,3,5,151.28,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,113,0,0,113
-Trinidad & Tobago Red Steel,LRPL Taylor,b61a3e1a,3,35,38,2,1,92.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,4,0,0,0,0,53,0,36,89
-Trinidad & Tobago Red Steel,N Pooran,3241e3fd,4,7,3,0,1,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
-Trinidad & Tobago Red Steel,DM Bravo,14b14cd8,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Trinidad & Tobago Red Steel,DJ Bravo,87e562a9,5,0,0,0,0,0.0,"[10, 12, 16, 19]",4.0,24,10,0,33,5,0,3,0,0,0,4,8.25,0,0,0,0,0,0,89,0,89
-Trinidad & Tobago Red Steel,JPR Scantlebury-Searles,99ed60f8,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Trinidad & Tobago Red Steel,KK Cooper,557153ca,7,0,0,0,0,0.0,"[11, 13, 18, 20]",3.833,23,10,0,26,2,1,3,0,2,0,1,6.78,0,0,0,0,0,0,107,0,107
-Trinidad & Tobago Red Steel,SJ Benn,364ee2cf,8,0,0,0,0,0.0,"[7, 9, 15, 17]",4.0,24,11,0,20,3,0,1,0,0,0,0,5.0,0,0,0,0,0,0,40,0,40
-Trinidad & Tobago Red Steel,S Badree,76388dc8,9,0,0,0,0,0.0,"[2, 4, 6, 8]",4.0,24,16,0,10,1,0,0,0,0,0,0,2.5,0,0,0,0,0,0,22,0,22
-Trinidad & Tobago Red Steel,ST Gabriel,d9609443,10,0,0,0,0,0.0,"[1, 3, 5, 14]",4.0,24,13,0,20,2,0,3,0,0,0,2,5.0,1,0,0,0,0,0,96,8,104
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+St Lucia Zouks,J Charles,09a9d073,1,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,36,True,False,False,,Right-hand bat
+St Lucia Zouks,H Davids,9c9f8dbc,2,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,45,True,False,False,Right-arm medium-fast,Right-hand bat
+St Lucia Zouks,ADS Fletcher,1bae756b,3,24,36,3,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,34,0,0,34,37,True,False,False,Legbreak,Right-hand bat
+St Lucia Zouks,K Lesporis,fb496f7a,4,22,23,3,0,95.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34,36,True,False,False,Right-arm offbreak,Right-hand bat
+St Lucia Zouks,DJG Sammy,c03c6200,5,5,5,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17,41,True,False,True,Right-arm medium,Right-hand bat
+St Lucia Zouks,RE van der Merwe,05c2ca46,6,1,3,0,0,33.33,[11],1.0,6,2,0,12,1,1,0,0,0,0,0,12.0,0,0,0,0,0,1,2,0,3,40,True,False,True,Slow left-arm orthodox,Right-hand bat
+St Lucia Zouks,Sohail Tanvir,64d43928,7,18,14,3,0,128.57,"[1, 4]",2.0,12,6,0,11,1,0,0,0,0,0,0,5.5,0,0,0,0,0,30,10,0,40,40,True,False,False,Left-arm medium-fast,Left-hand bat
+St Lucia Zouks,M Matthew,e9200997,8,7,7,1,0,100.0,"[7, 9, 13, 15]",3.833,23,10,0,21,0,1,0,0,0,0,2,5.48,0,0,0,0,0,11,14,0,25,39,True,False,False,Right-arm fast-medium,Right-hand bat
+St Lucia Zouks,LAS Sebastien,a8333aa9,9,3,4,0,0,75.0,"[8, 10, 12]",3.0,18,4,0,30,1,2,0,0,0,0,2,10.0,0,0,0,0,0,3,2,0,5,40,True,False,True,Right-arm offbreak,Left-hand bat
+St Lucia Zouks,TL Best,db767b89,10,11,10,2,0,110.0,"[2, 6]",2.0,12,7,0,20,1,2,0,0,0,0,2,10.0,0,0,0,0,0,19,5,0,24,43,True,False,False,Right-arm fast,Right-hand bat
+St Lucia Zouks,ROO Jordan,416881d1,11,9,6,0,1,150.0,"[3, 5, 14]",3.0,18,8,0,25,2,1,2,0,0,1,2,8.33,0,0,0,0,0,15,58,0,73,30,True,True,False,Right-arm fast-medium,Right-hand bat
+Trinidad & Tobago Red Steel,KJ O'Brien,243431b5,1,9,9,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21,41,True,False,True,Right-arm medium-fast,Right-hand bat
+Trinidad & Tobago Red Steel,E Lewis,0ebfb1ad,2,59,39,3,5,151.28,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,113,0,0,113,33,True,False,False,,Left-hand bat
+Trinidad & Tobago Red Steel,LRPL Taylor,b61a3e1a,3,35,38,2,1,92.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,4,0,0,0,0,53,0,36,89,41,True,False,False,Right-arm offbreak,Right-hand bat
+Trinidad & Tobago Red Steel,N Pooran,3241e3fd,4,7,3,0,1,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21,29,True,True,False,Right-arm offbreak,Left-hand bat
+Trinidad & Tobago Red Steel,DM Bravo,14b14cd8,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,36,True,False,False,Right-arm medium,Left-hand bat
+Trinidad & Tobago Red Steel,DJ Bravo,87e562a9,5,0,0,0,0,0.0,"[10, 12, 16, 19]",4.0,24,10,0,33,5,0,3,0,0,0,4,8.25,0,0,0,0,0,0,89,0,89,41,True,False,True,Right-arm medium,Right-hand bat
+Trinidad & Tobago Red Steel,JPR Scantlebury-Searles,99ed60f8,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Trinidad & Tobago Red Steel,KK Cooper,557153ca,7,0,0,0,0,0.0,"[11, 13, 18, 20]",3.833,23,10,0,26,2,1,3,0,2,0,1,6.78,0,0,0,0,0,0,107,0,107,36,True,False,True,Right-arm medium,Right-hand bat
+Trinidad & Tobago Red Steel,SJ Benn,364ee2cf,8,0,0,0,0,0.0,"[7, 9, 15, 17]",4.0,24,11,0,20,3,0,1,0,0,0,0,5.0,0,0,0,0,0,0,40,0,40,43,True,False,False,Slow left-arm orthodox,Left-hand bat
+Trinidad & Tobago Red Steel,S Badree,76388dc8,9,0,0,0,0,0.0,"[2, 4, 6, 8]",4.0,24,16,0,10,1,0,0,0,0,0,0,2.5,0,0,0,0,0,0,22,0,22,44,True,False,False,Legbreak,Right-hand bat
+Trinidad & Tobago Red Steel,ST Gabriel,d9609443,10,0,0,0,0,0.0,"[1, 3, 5, 14]",4.0,24,13,0,20,2,0,3,0,0,0,2,5.0,1,0,0,0,0,0,96,8,104,36,True,False,False,Right-arm fast,Right-hand bat

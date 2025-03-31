@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Pune Warriors,SC Ganguly,725529bc,1,14,18,1,0,77.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
-Pune Warriors,MJ Clarke,f842c2cf,2,16,18,1,0,88.89,"[14, 16]",2.0,12,4,0,12,1,0,1,0,0,0,0,6.0,1,0,0,0,0,20,31,8,59
-Pune Warriors,RV Uthappa,1c17e270,3,13,19,0,0,68.42,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,11,0,0,11
-Pune Warriors,AP Majumdar,f4cb4f53,4,30,20,1,2,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,50,0,0,50
-Pune Warriors,B Kumar,2e81a32d,5,0,0,0,0,0.0,"[2, 4, 13]",3.0,18,8,0,17,2,0,1,0,0,0,0,5.67,0,0,0,0,0,0,37,0,37
-Pune Warriors,SPD Smith,30a45b23,5,18,22,1,0,81.82,[17],0.333,2,0,0,5,1,0,0,0,0,0,0,15.02,1,0,0,0,0,22,0,8,30
-Pune Warriors,AD Mathews,896d78ad,6,11,12,0,0,91.67,"[8, 10, 12]",3.0,18,3,0,15,0,0,0,0,0,0,0,5.0,0,0,0,0,0,11,7,0,18
-Pune Warriors,M Kartik,abfeb126,6,0,0,0,0,0.0,"[3, 11, 15]",3.0,18,8,0,32,2,3,0,0,0,0,0,10.67,0,0,0,0,0,0,6,0,6
-Pune Warriors,M Manhas,c42aaf71,7,11,9,1,0,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,15,0,8,23
-Pune Warriors,A Nehra,96fd40ae,7,0,0,0,0,0.0,"[5, 7, 9]",3.0,18,6,0,33,5,1,0,0,0,0,0,11.0,0,0,0,0,0,0,4,0,4
-Pune Warriors,WD Parnell,3a60e0b5,8,2,2,0,0,100.0,"[1, 6]",2.0,12,6,0,12,2,0,1,0,0,0,0,6.0,0,0,0,0,0,2,33,0,35
-Rajasthan Royals,R Dravid,0184dc35,1,14,16,2,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
-Rajasthan Royals,AM Rahane,29e95537,2,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Rajasthan Royals,SR Watson,4329fbb5,3,90,51,10,4,176.47,"[3, 5, 17, 19]",4.0,24,4,0,28,2,0,0,0,0,0,1,7.0,0,0,0,0,6,172,6,0,178
-Rajasthan Royals,AL Menaria,8291f939,4,18,21,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
-Rajasthan Royals,AA Chavan,29d72eb2,5,0,0,0,0,0.0,"[1, 11]",2.0,12,3,0,20,0,2,0,0,0,0,1,10.0,1,0,0,0,0,0,1,8,9
-Rajasthan Royals,OA Shah,7bf96684,5,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,4,0,12,16
-Rajasthan Royals,J Botha,7c503806,6,0,0,0,0,0.0,"[4, 12, 14, 16]",4.0,24,9,0,25,3,0,1,0,1,0,0,6.25,0,0,0,0,0,0,44,0,44
-Rajasthan Royals,STR Binny,bd17b45f,7,0,0,0,0,0.0,"[7, 9, 15]",3.0,18,7,0,12,0,0,1,1,0,0,0,4.0,0,0,0,0,0,0,46,0,46
-Rajasthan Royals,DH Yagnik,063b3673,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Rajasthan Royals,SW Tait,addfb70e,9,0,0,0,0,0.0,"[2, 6, 13, 20]",4.0,24,14,0,13,0,0,3,0,1,0,0,3.25,0,0,0,0,0,0,107,0,107
-Rajasthan Royals,SK Trivedi,3d7e087f,10,0,0,0,0,0.0,"[8, 10, 18]",3.0,18,1,0,20,0,0,0,0,0,0,1,6.67,0,0,0,0,0,0,3,0,3
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Pune Warriors,SC Ganguly,725529bc,1,14,18,1,0,77.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,52,True,False,False,Right-arm medium,Left-hand bat
+Pune Warriors,MJ Clarke,f842c2cf,2,16,18,1,0,88.89,"[14, 16]",2.0,12,4,0,12,1,0,1,0,0,0,0,6.0,1,0,0,0,0,20,31,8,59,43,True,False,False,Slow left-arm orthodox,Right-hand bat
+Pune Warriors,RV Uthappa,1c17e270,3,13,19,0,0,68.42,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,11,0,0,11,39,True,False,False,Right-arm medium,Right-hand bat
+Pune Warriors,AP Majumdar,f4cb4f53,4,30,20,1,2,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,50,0,0,50,40,True,True,False,Legbreak googly,Right-hand bat
+Pune Warriors,B Kumar,2e81a32d,5,0,0,0,0,0.0,"[2, 4, 13]",3.0,18,8,0,17,2,0,1,0,0,0,0,5.67,0,0,0,0,0,0,37,0,37,35,True,False,False,Right-arm medium,Right-hand bat
+Pune Warriors,SPD Smith,30a45b23,5,18,22,1,0,81.82,[17],0.333,2,0,0,5,1,0,0,0,0,0,0,15.02,1,0,0,0,0,22,0,8,30,35,True,False,False,Legbreak googly,Right-hand bat
+Pune Warriors,AD Mathews,896d78ad,6,11,12,0,0,91.67,"[8, 10, 12]",3.0,18,3,0,15,0,0,0,0,0,0,0,5.0,0,0,0,0,0,11,7,0,18,37,True,False,True,Right-arm medium,Right-hand bat
+Pune Warriors,M Kartik,abfeb126,6,0,0,0,0,0.0,"[3, 11, 15]",3.0,18,8,0,32,2,3,0,0,0,0,0,10.67,0,0,0,0,0,0,6,0,6,48,True,False,False,Slow left-arm orthodox,Left-hand bat
+Pune Warriors,M Manhas,c42aaf71,7,11,9,1,0,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,15,0,8,23,45,True,False,True,Right-arm offbreak,Right-hand bat
+Pune Warriors,A Nehra,96fd40ae,7,0,0,0,0,0.0,"[5, 7, 9]",3.0,18,6,0,33,5,1,0,0,0,0,0,11.0,0,0,0,0,0,0,4,0,4,45,True,False,False,Left-arm medium-fast,Right-hand bat
+Pune Warriors,WD Parnell,3a60e0b5,8,2,2,0,0,100.0,"[1, 6]",2.0,12,6,0,12,2,0,1,0,0,0,0,6.0,0,0,0,0,0,2,33,0,35,35,True,False,False,Left-arm medium-fast,Left-hand bat
+Rajasthan Royals,R Dravid,0184dc35,1,14,16,2,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,52,True,False,False,Right-arm offbreak,Right-hand bat
+Rajasthan Royals,AM Rahane,29e95537,2,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,36,True,False,False,Right-arm medium,Right-hand bat
+Rajasthan Royals,SR Watson,4329fbb5,3,90,51,10,4,176.47,"[3, 5, 17, 19]",4.0,24,4,0,28,2,0,0,0,0,0,1,7.0,0,0,0,0,6,172,6,0,178,43,True,False,True,Right-arm fast-medium,Right-hand bat
+Rajasthan Royals,AL Menaria,8291f939,4,18,21,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,34,True,False,True,Slow left-arm orthodox,Left-hand bat
+Rajasthan Royals,AA Chavan,29d72eb2,5,0,0,0,0,0.0,"[1, 11]",2.0,12,3,0,20,0,2,0,0,0,0,1,10.0,1,0,0,0,0,0,1,8,9,39,True,False,False,Slow left-arm orthodox,Left-hand bat
+Rajasthan Royals,OA Shah,7bf96684,5,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,4,0,12,16,46,True,False,False,Right-arm offbreak,Right-hand bat
+Rajasthan Royals,J Botha,7c503806,6,0,0,0,0,0.0,"[4, 12, 14, 16]",4.0,24,9,0,25,3,0,1,0,1,0,0,6.25,0,0,0,0,0,0,44,0,44,42,True,False,True,Right-arm offbreak,Right-hand bat
+Rajasthan Royals,STR Binny,bd17b45f,7,0,0,0,0,0.0,"[7, 9, 15]",3.0,18,7,0,12,0,0,1,1,0,0,0,4.0,0,0,0,0,0,0,46,0,46,40,True,False,True,Right-arm medium,Right-hand bat
+Rajasthan Royals,DH Yagnik,063b3673,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,41,True,False,False,,Left-hand bat
+Rajasthan Royals,SW Tait,addfb70e,9,0,0,0,0,0.0,"[2, 6, 13, 20]",4.0,24,14,0,13,0,0,3,0,1,0,0,3.25,0,0,0,0,0,0,107,0,107,42,True,False,False,Right-arm fast,Right-hand bat
+Rajasthan Royals,SK Trivedi,3d7e087f,10,0,0,0,0,0.0,"[8, 10, 18]",3.0,18,1,0,20,0,0,0,0,0,0,1,6.67,0,0,0,0,0,0,3,0,3,42,True,False,False,Right-arm medium,Right-hand bat

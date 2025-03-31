@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Bahrain,Umer Imtiaz,7b729851,1,7,4,0,1,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
-Bahrain,Sarfaraz Ali,db95ddeb,2,5,7,1,0,71.43,"[6, 8, 10, 12]",4.0,24,16,0,14,0,0,2,0,2,0,3,3.5,0,0,0,0,0,9,88,0,97
-Bahrain,Sohail Ahmed,4db71b2e,3,32,46,2,1,69.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,48,0,8,56
-Bahrain,Haider Butt,14fd10b5,4,37,37,2,3,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,67,0,20,87
-Bahrain,Imran Anwar,a9a18e3e,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Bahrain,Junaid Aziz,c39ee9e0,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Bahrain,Ahmer Bin Nisar,afbc53ba,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Bahrain,S Veerapathiran,1e569fb0,7,0,0,0,0,0.0,"[5, 7, 9, 14]",4.0,24,10,0,20,2,0,1,0,0,0,0,5.0,0,0,0,0,0,0,39,0,39
-Bahrain,Abdul Majid Abbasi,0cfb42b5,8,0,0,0,0,0.0,"[11, 13, 15, 19]",4.0,24,7,0,22,0,1,1,0,0,0,0,5.5,1,0,0,0,0,0,36,8,44
-Bahrain,Rizwan Butt,e741ed8f,9,0,0,0,0,0.0,"[2, 4, 17, 20]",4.0,24,17,0,10,1,0,3,1,0,0,0,2.5,0,0,0,0,0,0,110,0,110
-Bahrain,Ali Dawood,596982e6,10,0,0,0,0,0.0,"[1, 3, 16, 18]",4.0,24,14,0,10,0,0,1,0,1,0,0,2.5,0,0,0,0,0,0,53,0,53
-Malaysia,Syed Aziz,6667067e,1,8,10,1,0,80.0,[1],1.0,6,4,0,7,0,1,0,0,0,0,0,7.0,0,0,0,0,0,12,4,0,16
-Malaysia,Virandeep Singh,415d30b6,2,2,6,0,0,33.33,"[10, 12, 14, 16]",3.667,22,15,0,15,1,1,0,0,0,0,0,4.09,0,0,0,0,0,2,21,0,23
-Malaysia,S Muniandy,57fcfd3b,3,4,9,0,0,44.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,4,0,12,16
-Malaysia,Ahmed Faiz,f6b4f746,4,14,19,1,0,73.68,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
-Malaysia,M Syahadat Ramli,5efa8af3,5,4,8,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
-Malaysia,Zubaidi Zulkifle,dca8273d,6,7,11,0,0,63.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,5,0,0,5
-Malaysia,S Vijay Unni,f737ab44,7,5,10,0,0,50.0,[9],1.0,6,3,0,3,0,0,0,0,0,0,0,3.0,0,0,0,0,-4,1,3,0,4
-Malaysia,Khizar Hayat,78bbeba1,8,18,23,0,1,78.26,"[11, 13, 15]",3.0,18,9,0,19,1,1,0,0,0,0,0,6.33,0,0,0,0,0,24,11,0,35
-Malaysia,Ainool Hafizs,1bada9da,9,9,12,1,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
-Malaysia,Fitri Sham,d2ec068c,10,0,2,0,0,0.0,"[3, 5, 7]",3.0,18,8,0,30,3,2,0,0,0,1,0,10.0,0,0,0,0,0,-2,6,0,4
-Malaysia,Pavandeep Singh,78fcc740,11,2,10,0,0,20.0,"[2, 4, 6, 8]",4.0,24,17,0,8,0,0,1,0,0,0,0,2.0,0,0,0,0,-6,-4,48,0,44
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bahrain,Umer Imtiaz,7b729851,1,7,4,0,1,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21,33,True,False,False,,Right-hand bat
+Bahrain,Sarfaraz Ali,db95ddeb,2,5,7,1,0,71.43,"[6, 8, 10, 12]",4.0,24,16,0,14,0,0,2,0,2,0,3,3.5,0,0,0,0,0,9,88,0,97,43,True,False,True,Right-arm medium,Right-hand bat
+Bahrain,Sohail Ahmed,4db71b2e,3,32,46,2,1,69.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,48,0,8,56,30,True,False,False,,Right-hand bat
+Bahrain,Haider Butt,14fd10b5,4,37,37,2,3,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,67,0,20,87,27,True,False,False,Right-arm offbreak,Right-hand bat
+Bahrain,Imran Anwar,a9a18e3e,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,35,True,False,True,Left-arm medium,Right-hand bat
+Bahrain,Junaid Aziz,c39ee9e0,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,31,True,False,True,Legbreak googly,Right-hand bat
+Bahrain,Ahmer Bin Nisar,afbc53ba,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,31,True,False,False,,Right-hand bat
+Bahrain,S Veerapathiran,1e569fb0,7,0,0,0,0,0.0,"[5, 7, 9, 14]",4.0,24,10,0,20,2,0,1,0,0,0,0,5.0,0,0,0,0,0,0,39,0,39,33,True,False,True,Right-arm medium,Right-hand bat
+Bahrain,Abdul Majid Abbasi,0cfb42b5,8,0,0,0,0,0.0,"[11, 13, 15, 19]",4.0,24,7,0,22,0,1,1,0,0,0,0,5.5,1,0,0,0,0,0,36,8,44,,,,,,
+Bahrain,Rizwan Butt,e741ed8f,9,0,0,0,0,0.0,"[2, 4, 17, 20]",4.0,24,17,0,10,1,0,3,1,0,0,0,2.5,0,0,0,0,0,0,110,0,110,34,True,False,False,Right-arm medium,Right-hand bat
+Bahrain,Ali Dawood,596982e6,10,0,0,0,0,0.0,"[1, 3, 16, 18]",4.0,24,14,0,10,0,0,1,0,1,0,0,2.5,0,0,0,0,0,0,53,0,53,32,True,False,False,Right-arm medium,Right-hand bat
+Malaysia,Syed Aziz,6667067e,1,8,10,1,0,80.0,[1],1.0,6,4,0,7,0,1,0,0,0,0,0,7.0,0,0,0,0,0,12,4,0,16,26,True,False,True,Right-arm medium,Left-hand bat
+Malaysia,Virandeep Singh,415d30b6,2,2,6,0,0,33.33,"[10, 12, 14, 16]",3.667,22,15,0,15,1,1,0,0,0,0,0,4.09,0,0,0,0,0,2,21,0,23,26,True,False,True,Slow left-arm orthodox,Right-hand bat
+Malaysia,S Muniandy,57fcfd3b,3,4,9,0,0,44.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,4,0,12,16,29,True,False,False,Right-arm medium,Right-hand bat
+Malaysia,Ahmed Faiz,f6b4f746,4,14,19,1,0,73.68,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,37,True,False,False,Legbreak,Right-hand bat
+Malaysia,M Syahadat Ramli,5efa8af3,5,4,8,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,31,True,True,False,Right-arm offbreak,Right-hand bat
+Malaysia,Zubaidi Zulkifle,dca8273d,6,7,11,0,0,63.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,5,0,0,5,25,True,False,False,Right-arm medium,Right-hand bat
+Malaysia,S Vijay Unni,f737ab44,7,5,10,0,0,50.0,[9],1.0,6,3,0,3,0,0,0,0,0,0,0,3.0,0,0,0,0,-4,1,3,0,4,21,True,False,False,Right-arm offbreak,Right-hand bat
+Malaysia,Khizar Hayat,78bbeba1,8,18,23,0,1,78.26,"[11, 13, 15]",3.0,18,9,0,19,1,1,0,0,0,0,0,6.33,0,0,0,0,0,24,11,0,35,35,True,False,False,Right-arm offbreak,Right-hand bat
+Malaysia,Ainool Hafizs,1bada9da,9,9,12,1,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21,29,True,False,False,Right-arm medium,Right-hand bat
+Malaysia,Fitri Sham,d2ec068c,10,0,2,0,0,0.0,"[3, 5, 7]",3.0,18,8,0,30,3,2,0,0,0,1,0,10.0,0,0,0,0,0,-2,6,0,4,31,True,True,False,Slow left-arm orthodox,Left-hand bat
+Malaysia,Pavandeep Singh,78fcc740,11,2,10,0,0,20.0,"[2, 4, 6, 8]",4.0,24,17,0,8,0,0,1,0,0,0,0,2.0,0,0,0,0,-6,-4,48,0,44,27,True,False,False,Slow left-arm orthodox,Right-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Surrey,JJ Roy,d1c36f5c,1,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Surrey,WG Jacks,9caf69a1,2,38,18,4,3,211.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,82,0,0,82
-Surrey,LJ Evans,1c513d54,3,8,7,0,1,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
-Surrey,JL Smith,c834c290,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Surrey,SM Curran,e94915e6,4,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Surrey,J Clark,c672e80e,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Surrey,J Overton,59559bc2,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Surrey,TK Curran,e86754b2,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Surrey,R Clarke,8728a058,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Surrey,GJ Batty,5ac8f17b,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Surrey,D Moriarty,6ea2710f,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Sussex,PD Salt,3d284ca3,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Sussex,LJ Wright,cca50cd6,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Sussex,TM Head,12b610c2,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Sussex,RS Bopara,7ca5e05d,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Sussex,DMW Rawlins,f1eb3c73,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Sussex,D Wiese,aa8d28ae,9,0,0,0,0,0.0,[1],1.0,6,5,0,4,1,0,1,0,0,0,0,4.0,0,0,0,0,0,0,30,0,30
-Sussex,CJ Jordan,ffe699c0,10,0,0,0,0,0.0,[5],1.0,6,3,0,2,0,0,0,0,0,0,0,2.0,0,0,0,0,0,0,3,0,3
-Sussex,GHS Garton,be869ccf,11,0,0,0,0,0.0,[2],1.0,6,2,0,6,1,0,0,0,0,0,0,6.0,0,0,0,0,0,0,2,0,2
-Sussex,WAT Beer,98eacfe5,12,0,0,0,0,0.0,[4],1.0,6,3,0,8,0,1,1,1,0,0,0,8.0,0,0,0,0,0,0,36,0,36
-Sussex,AC Lenham,8f9c5014,13,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Sussex,TS Mills,245c97cb,14,0,0,0,0,0.0,[3],1.0,6,1,0,28,2,3,0,0,0,0,2,28.0,0,0,0,0,0,0,1,0,1
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Surrey,JJ Roy,d1c36f5c,1,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,34,True,False,False,,Right-hand bat
+Surrey,WG Jacks,9caf69a1,2,38,18,4,3,211.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,82,0,0,82,26,True,False,True,Right-arm offbreak,Right-hand bat
+Surrey,LJ Evans,1c513d54,3,8,7,0,1,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,37,True,False,False,Right-arm offbreak,Right-hand bat
+Surrey,JL Smith,c834c290,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,24,True,False,False,,Right-hand bat
+Surrey,SM Curran,e94915e6,4,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,False,True,Left-arm medium-fast,Left-hand bat
+Surrey,J Clark,c672e80e,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,34,True,False,True,Right-arm medium-fast,Right-hand bat
+Surrey,J Overton,59559bc2,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,30,True,False,True,Right-arm fast,Right-hand bat
+Surrey,TK Curran,e86754b2,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,30,True,False,True,Right-arm fast-medium,Right-hand bat
+Surrey,R Clarke,8728a058,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,43,True,False,True,Right-arm medium-fast,Right-hand bat
+Surrey,GJ Batty,5ac8f17b,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,47,True,False,False,Right-arm offbreak,Right-hand bat
+Surrey,D Moriarty,6ea2710f,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,False,False,Slow left-arm orthodox,Left-hand bat
+Sussex,PD Salt,3d284ca3,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,28,True,True,False,Right-arm offbreak,Right-hand bat
+Sussex,LJ Wright,cca50cd6,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,40,True,False,False,Right-arm medium,Right-hand bat
+Sussex,TM Head,12b610c2,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,31,True,False,False,Right-arm offbreak,Left-hand bat
+Sussex,RS Bopara,7ca5e05d,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,39,True,False,True,Right-arm medium,Right-hand bat
+Sussex,DMW Rawlins,f1eb3c73,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,27,True,False,True,Slow left-arm orthodox,Left-hand bat
+Sussex,D Wiese,aa8d28ae,9,0,0,0,0,0.0,[1],1.0,6,5,0,4,1,0,1,0,0,0,0,4.0,0,0,0,0,0,0,30,0,30,39,True,False,True,Right-arm medium-fast,Right-hand bat
+Sussex,CJ Jordan,ffe699c0,10,0,0,0,0,0.0,[5],1.0,6,3,0,2,0,0,0,0,0,0,0,2.0,0,0,0,0,0,0,3,0,3,36,True,False,False,Right-arm fast-medium,Right-hand bat
+Sussex,GHS Garton,be869ccf,11,0,0,0,0,0.0,[2],1.0,6,2,0,6,1,0,0,0,0,0,0,6.0,0,0,0,0,0,0,2,0,2,27,True,False,True,Left-arm fast,Left-hand bat
+Sussex,WAT Beer,98eacfe5,12,0,0,0,0,0.0,[4],1.0,6,3,0,8,0,1,1,1,0,0,0,8.0,0,0,0,0,0,0,36,0,36,36,True,False,False,Legbreak,Right-hand bat
+Sussex,AC Lenham,8f9c5014,13,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,20,True,False,False,Legbreak googly,Right-hand bat
+Sussex,TS Mills,245c97cb,14,0,0,0,0,0.0,[3],1.0,6,1,0,28,2,3,0,0,0,0,2,28.0,0,0,0,0,0,0,1,0,1,32,True,False,False,Left-arm fast,Right-hand bat

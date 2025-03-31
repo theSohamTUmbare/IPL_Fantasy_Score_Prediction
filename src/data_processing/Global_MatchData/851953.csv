@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Cape Cobras,RE Levi,18c78b11,1,61,28,5,5,217.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,125,0,0,125
-Cape Cobras,AG Puttick,637b6fbd,2,33,30,2,1,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,51,0,16,67
-Cape Cobras,OA Ramela,04a5b56e,3,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Cape Cobras,JL Ontong,55f33b32,4,16,12,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,22,0,0,22
-Cape Cobras,KA Pollard,a757b0d8,5,7,12,1,0,58.33,"[8, 10, 14, 16]",4.0,24,7,0,32,1,2,1,0,0,0,2,8.0,2,0,0,0,-4,7,32,16,55
-Cape Cobras,SA Engelbrecht,81a0e294,6,21,20,2,0,105.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,1,0,29,0,18,47
-Cape Cobras,WD Parnell,3a60e0b5,7,0,0,0,0,0.0,"[2, 4, 12, 18]",4.0,24,14,0,20,3,0,4,0,0,0,0,5.0,0,0,0,0,0,0,126,0,126
-Cape Cobras,LC Ngoepe,51355a30,7,8,11,1,0,72.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20
-Cape Cobras,D Paterson,462d7c62,8,0,0,0,0,0.0,"[1, 3, 15, 19]",4.0,24,10,0,25,2,0,0,0,0,0,2,6.25,0,0,0,0,0,0,12,0,12
-Cape Cobras,M Shezi,016e5101,9,0,0,0,0,0.0,"[5, 7, 17, 20]",4.0,24,10,0,25,2,1,1,0,1,0,0,6.25,0,0,0,1,0,0,45,6,51
-Cape Cobras,GF Linde,e5437608,10,0,0,0,0,0.0,"[6, 9, 11, 13]",4.0,24,5,0,43,6,1,1,0,1,0,0,10.75,0,0,0,0,0,0,36,0,36
-Dolphins,MN van Wyk,710dd98c,1,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,1,0,12,13
-Dolphins,AL Phehlukwayo,ab6b1c45,2,0,4,0,0,0.0,"[5, 18]",2.0,12,4,0,20,2,1,0,0,0,0,0,10.0,0,0,0,0,0,0,2,0,2
-Dolphins,KP Pietersen,39f01cdb,3,59,35,6,3,168.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,113,0,8,121
-Dolphins,K Zondo,4aad78d3,4,7,15,0,0,46.67,"[7, 9, 11, 13]",4.0,24,10,0,22,2,0,2,0,1,0,0,5.5,0,0,0,0,-6,1,72,0,73
-Dolphins,DA Miller,d67d5f00,5,35,29,3,1,120.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,57,0,8,65
-Dolphins,DJ Bravo,87e562a9,6,0,1,0,0,0.0,"[6, 15, 17, 19]",4.0,24,11,0,35,2,2,1,0,0,1,1,8.75,0,0,0,0,0,-2,36,0,34
-Dolphins,C Chetty,27ca3a11,7,9,9,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
-Dolphins,R McLaren,c654af19,8,26,17,4,0,152.94,"[4, 16, 20]",2.667,16,5,0,33,1,3,1,0,1,0,2,12.37,0,0,0,0,4,50,32,0,82
-Dolphins,KA Maharaj,0b60eb09,9,3,2,0,0,150.0,"[2, 8, 12, 14]",4.0,24,13,0,15,1,0,1,0,0,0,1,3.75,0,0,0,0,0,3,44,0,47
-Dolphins,CJ Alexander,26d9937d,10,0,2,0,0,0.0,"[1, 3, 10]",3.0,18,7,0,26,4,0,0,0,0,0,0,8.67,0,0,0,0,0,-2,7,0,5
-Dolphins,A Myoli,c50bfbc2,11,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Cape Cobras,RE Levi,18c78b11,1,61,28,5,5,217.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,125,0,0,125,37,True,False,False,Right-arm medium,Right-hand bat
+Cape Cobras,AG Puttick,637b6fbd,2,33,30,2,1,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,51,0,16,67,44,True,False,False,,Left-hand bat
+Cape Cobras,OA Ramela,04a5b56e,3,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,37,True,True,False,Slow left-arm orthodox,Left-hand bat
+Cape Cobras,JL Ontong,55f33b32,4,16,12,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,22,0,0,22,45,True,False,True,Right-arm offbreak,Right-hand bat
+Cape Cobras,KA Pollard,a757b0d8,5,7,12,1,0,58.33,"[8, 10, 14, 16]",4.0,24,7,0,32,1,2,1,0,0,0,2,8.0,2,0,0,0,-4,7,32,16,55,37,True,False,True,Right-arm medium,Right-hand bat
+Cape Cobras,SA Engelbrecht,81a0e294,6,21,20,2,0,105.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,1,0,29,0,18,47,36,True,False,True,Right-arm offbreak,Right-hand bat
+Cape Cobras,WD Parnell,3a60e0b5,7,0,0,0,0,0.0,"[2, 4, 12, 18]",4.0,24,14,0,20,3,0,4,0,0,0,0,5.0,0,0,0,0,0,0,126,0,126,35,True,False,False,Left-arm medium-fast,Left-hand bat
+Cape Cobras,LC Ngoepe,51355a30,7,8,11,1,0,72.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Cape Cobras,D Paterson,462d7c62,8,0,0,0,0,0.0,"[1, 3, 15, 19]",4.0,24,10,0,25,2,0,0,0,0,0,2,6.25,0,0,0,0,0,0,12,0,12,35,True,False,False,Right-arm fast-medium,Right-hand bat
+Cape Cobras,M Shezi,016e5101,9,0,0,0,0,0.0,"[5, 7, 17, 20]",4.0,24,10,0,25,2,1,1,0,1,0,0,6.25,0,0,0,1,0,0,45,6,51,37,True,False,False,Left-arm medium,Left-hand bat
+Cape Cobras,GF Linde,e5437608,10,0,0,0,0,0.0,"[6, 9, 11, 13]",4.0,24,5,0,43,6,1,1,0,1,0,0,10.75,0,0,0,0,0,0,36,0,36,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+Dolphins,MN van Wyk,710dd98c,1,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,1,0,12,13,46,True,True,False,Slow left-arm orthodox,Right-hand bat
+Dolphins,AL Phehlukwayo,ab6b1c45,2,0,4,0,0,0.0,"[5, 18]",2.0,12,4,0,20,2,1,0,0,0,0,0,10.0,0,0,0,0,0,0,2,0,2,29,True,False,True,Right-arm medium-fast,Left-hand bat
+Dolphins,KP Pietersen,39f01cdb,3,59,35,6,3,168.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,113,0,8,121,44,True,False,False,Right-arm offbreak,Right-hand bat
+Dolphins,K Zondo,4aad78d3,4,7,15,0,0,46.67,"[7, 9, 11, 13]",4.0,24,10,0,22,2,0,2,0,1,0,0,5.5,0,0,0,0,-6,1,72,0,73,35,True,False,False,Right-arm offbreak,Right-hand bat
+Dolphins,DA Miller,d67d5f00,5,35,29,3,1,120.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,57,0,8,65,35,True,False,False,Right-arm offbreak,Left-hand bat
+Dolphins,DJ Bravo,87e562a9,6,0,1,0,0,0.0,"[6, 15, 17, 19]",4.0,24,11,0,35,2,2,1,0,0,1,1,8.75,0,0,0,0,0,-2,36,0,34,41,True,False,True,Right-arm medium,Right-hand bat
+Dolphins,C Chetty,27ca3a11,7,9,9,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,33,True,False,False,Right-arm offbreak,Right-hand bat
+Dolphins,R McLaren,c654af19,8,26,17,4,0,152.94,"[4, 16, 20]",2.667,16,5,0,33,1,3,1,0,1,0,2,12.37,0,0,0,0,4,50,32,0,82,42,True,False,True,Right-arm medium-fast,Left-hand bat
+Dolphins,KA Maharaj,0b60eb09,9,3,2,0,0,150.0,"[2, 8, 12, 14]",4.0,24,13,0,15,1,0,1,0,0,0,1,3.75,0,0,0,0,0,3,44,0,47,35,True,False,False,Slow left-arm orthodox,Right-hand bat
+Dolphins,CJ Alexander,26d9937d,10,0,2,0,0,0.0,"[1, 3, 10]",3.0,18,7,0,26,4,0,0,0,0,0,0,8.67,0,0,0,0,0,-2,7,0,5,38,True,True,False,Right-arm fast-medium,Right-hand bat
+Dolphins,A Myoli,c50bfbc2,11,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,34,True,False,False,Right-arm fast,Right-hand bat

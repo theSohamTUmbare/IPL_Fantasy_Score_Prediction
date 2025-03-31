@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Barisal Burners,Ahmed Shehzad,f8fd6e3f,1,28,20,3,1,140.0,"[9, 11, 14]",3.0,18,4,0,31,1,3,0,0,0,0,0,10.33,1,0,0,0,2,52,2,8,62
-Barisal Burners,BJ Hodge,b57f8a9a,2,70,50,4,4,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,120,0,0,120
-Barisal Burners,P Mustard,1b6fef02,3,5,5,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
-Barisal Burners,Mohammad Mithun,77191792,4,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Barisal Burners,Suhrawadi Shuvo,8fb49ef8,4,0,0,0,0,0.0,"[4, 6, 12]",3.0,18,6,0,24,2,1,1,0,0,0,0,8.0,0,0,0,0,0,0,31,0,31
-Barisal Burners,Nazmul Islam,6575e3bc,5,0,0,0,0,0.0,"[3, 7, 10, 16]",3.667,22,10,0,26,4,0,0,0,0,0,1,7.09,0,0,0,0,0,0,10,0,10
-Barisal Burners,Mominul Haque,de0a3209,5,11,13,0,0,84.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
-Barisal Burners,Farhad Hossain,7f9bd93c,6,11,14,0,1,78.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
-Barisal Burners,Yasir Arafat,3cf5ae43,7,5,6,1,0,83.33,"[1, 5]",2.0,12,5,0,25,2,2,0,0,0,0,2,12.5,0,0,0,0,0,9,-1,0,8
-Barisal Burners,Kabir Ali,60dd8960,8,6,7,0,0,85.71,"[2, 8]",2.0,12,3,0,26,3,1,0,0,0,0,0,13.0,0,0,0,0,0,6,-3,0,3
-Barisal Burners,Alauddin Babu,721032ec,9,0,0,0,0,0.0,"[13, 15]",2.0,12,8,0,9,1,0,1,0,0,0,1,4.5,1,0,0,0,0,0,39,8,47
-Dhaka Gladiators,Imran Nazir,3eb7c45d,1,75,43,6,6,174.42,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,153,0,8,161
-Dhaka Gladiators,Nazimuddin,4aef496b,2,13,12,2,0,108.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
-Dhaka Gladiators,Anamul Haque,72b245dd,3,49,38,5,1,128.95,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,79,0,0,79
-Dhaka Gladiators,Elias Sunny,817c1746,4,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,5,0,27,0,1,0,0,0,0,0,6.75,0,0,1,0,0,0,7,12,19
-Dhaka Gladiators,Azhar Mahmood,9a158001,4,0,1,0,0,0.0,"[2, 4]",2.0,12,4,0,25,3,1,0,0,0,1,0,12.5,0,0,0,0,0,0,-2,0,-2
-Dhaka Gladiators,Mashrafe Mortaza,e186f49c,5,0,0,0,0,0.0,"[1, 3]",2.0,12,5,0,17,1,1,0,0,0,0,0,8.5,0,0,0,0,0,0,5,0,5
-Dhaka Gladiators,Mohammad Ashraful,2bb09eb2,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Dhaka Gladiators,Naved-ul-Hasan,33f28243,7,0,0,0,0,0.0,"[11, 13, 17, 19]",4.0,24,13,0,24,1,2,2,0,0,0,0,6.0,0,0,0,0,0,0,65,0,65
-Dhaka Gladiators,Dhiman Ghosh,1494a583,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0,0,28,28
-Dhaka Gladiators,Saeed Ajmal,05d74535,9,0,0,0,0,0.0,"[6, 16, 18, 20]",4.0,24,11,0,23,2,0,1,1,0,0,1,5.75,1,0,0,0,0,0,48,8,56
-Dhaka Gladiators,Shahid Afridi,0dc00542,10,0,0,0,0,0.0,"[5, 7, 9, 15]",4.0,24,11,0,23,2,1,3,0,0,0,0,5.75,0,0,0,0,0,0,94,0,94
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Barisal Burners,Ahmed Shehzad,f8fd6e3f,1,28,20,3,1,140.0,"[9, 11, 14]",3.0,18,4,0,31,1,3,0,0,0,0,0,10.33,1,0,0,0,2,52,2,8,62,33,True,False,False,Legbreak,Right-hand bat
+Barisal Burners,BJ Hodge,b57f8a9a,2,70,50,4,4,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,120,0,0,120,50,True,False,False,Right-arm offbreak,Right-hand bat
+Barisal Burners,P Mustard,1b6fef02,3,5,5,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,42,True,True,False,Legbreak,Left-hand bat
+Barisal Burners,Mohammad Mithun,77191792,4,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,34,True,False,False,,Right-hand bat
+Barisal Burners,Suhrawadi Shuvo,8fb49ef8,4,0,0,0,0,0.0,"[4, 6, 12]",3.0,18,6,0,24,2,1,1,0,0,0,0,8.0,0,0,0,0,0,0,31,0,31,36,True,False,False,Slow left-arm orthodox,Left-hand bat
+Barisal Burners,Nazmul Islam,6575e3bc,5,0,0,0,0,0.0,"[3, 7, 10, 16]",3.667,22,10,0,26,4,0,0,0,0,0,1,7.09,0,0,0,0,0,0,10,0,10,33,True,False,False,Slow left-arm orthodox,Left-hand bat
+Barisal Burners,Mominul Haque,de0a3209,5,11,13,0,0,84.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+Barisal Burners,Farhad Hossain,7f9bd93c,6,11,14,0,1,78.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,38,True,True,False,Right-arm offbreak,Right-hand bat
+Barisal Burners,Yasir Arafat,3cf5ae43,7,5,6,1,0,83.33,"[1, 5]",2.0,12,5,0,25,2,2,0,0,0,0,2,12.5,0,0,0,0,0,9,-1,0,8,43,True,False,True,Right-arm fast-medium,Right-hand bat
+Barisal Burners,Kabir Ali,60dd8960,8,6,7,0,0,85.71,"[2, 8]",2.0,12,3,0,26,3,1,0,0,0,0,0,13.0,0,0,0,0,0,6,-3,0,3,44,True,False,False,Right-arm medium-fast,Right-hand bat
+Barisal Burners,Alauddin Babu,721032ec,9,0,0,0,0,0.0,"[13, 15]",2.0,12,8,0,9,1,0,1,0,0,0,1,4.5,1,0,0,0,0,0,39,8,47,33,True,False,True,Right-arm medium-fast,Right-hand bat
+Dhaka Gladiators,Imran Nazir,3eb7c45d,1,75,43,6,6,174.42,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,153,0,8,161,43,True,False,False,Legbreak,Right-hand bat
+Dhaka Gladiators,Nazimuddin,4aef496b,2,13,12,2,0,108.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21,39,True,False,False,Right-arm medium,Right-hand bat
+Dhaka Gladiators,Anamul Haque,72b245dd,3,49,38,5,1,128.95,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,79,0,0,79,32,True,False,False,,Right-hand bat
+Dhaka Gladiators,Elias Sunny,817c1746,4,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,5,0,27,0,1,0,0,0,0,0,6.75,0,0,1,0,0,0,7,12,19,39,True,False,False,Slow left-arm orthodox,Left-hand bat
+Dhaka Gladiators,Azhar Mahmood,9a158001,4,0,1,0,0,0.0,"[2, 4]",2.0,12,4,0,25,3,1,0,0,0,1,0,12.5,0,0,0,0,0,0,-2,0,-2,50,True,False,True,Right-arm fast-medium,Right-hand bat
+Dhaka Gladiators,Mashrafe Mortaza,e186f49c,5,0,0,0,0,0.0,"[1, 3]",2.0,12,5,0,17,1,1,0,0,0,0,0,8.5,0,0,0,0,0,0,5,0,5,41,True,False,False,Right-arm fast-medium,Right-hand bat
+Dhaka Gladiators,Mohammad Ashraful,2bb09eb2,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,40,True,False,False,Legbreak,Right-hand bat
+Dhaka Gladiators,Naved-ul-Hasan,33f28243,7,0,0,0,0,0.0,"[11, 13, 17, 19]",4.0,24,13,0,24,1,2,2,0,0,0,0,6.0,0,0,0,0,0,0,65,0,65,47,True,False,False,Right-arm medium-fast,Right-hand bat
+Dhaka Gladiators,Dhiman Ghosh,1494a583,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0,0,28,28,37,True,False,False,,Right-hand bat
+Dhaka Gladiators,Saeed Ajmal,05d74535,9,0,0,0,0,0.0,"[6, 16, 18, 20]",4.0,24,11,0,23,2,0,1,1,0,0,1,5.75,1,0,0,0,0,0,48,8,56,47,True,False,False,Right-arm offbreak,Right-hand bat
+Dhaka Gladiators,Shahid Afridi,0dc00542,10,0,0,0,0,0.0,"[5, 7, 9, 15]",4.0,24,11,0,23,2,1,3,0,0,0,0,5.75,0,0,0,0,0,0,94,0,94,45,True,False,True,Legbreak googly,Right-hand bat

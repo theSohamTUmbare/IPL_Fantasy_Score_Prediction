@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Bahamas,M Taylor,92075cdc,1,22,28,1,0,78.57,"[2, 4, 15]",3.0,18,10,0,13,1,0,2,1,1,0,1,4.33,0,0,0,0,0,26,82,0,108
-Bahamas,K Hinds,a268c07b,2,0,2,0,0,0.0,"[7, 9, 11, 13]",4.0,24,13,0,13,0,0,3,0,2,0,1,3.25,0,0,0,0,0,0,114,0,114
-Bahamas,E Duff,b7873c81,3,5,8,1,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
-Bahamas,D Wheatley,04539335,4,5,11,0,0,45.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-1,0,0,-1
-Bahamas,J Jemison,ce1abd25,5,21,24,1,1,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31
-Bahamas,Rudolph Fox,fd1041d2,6,24,23,0,1,104.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,30,0,8,38
-Bahamas,DG Weakley,224a9f5e,11,0,0,0,0,0.0,"[1, 3, 5]",2.833,17,11,0,14,2,0,1,0,1,0,1,4.94,0,0,0,0,0,0,50,0,50
-Bahamas,Festus Benn,de6b3760,12,0,0,0,0,0.0,"[12, 14, 16]",3.0,18,10,0,8,0,0,2,0,1,0,0,2.67,0,0,0,0,0,0,74,0,74
-Bahamas,Sandeep Goud,c83ef4d6,13,0,0,0,0,0.0,"[6, 8, 10]",3.0,18,11,0,11,0,0,1,0,1,0,2,3.67,0,0,0,0,0,0,50,0,50
-Bahamas,R Davson,7804d401,14,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Bahamas,A Harris,bbafa5d6,15,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Brazil,W Maximo,e41dee27,1,13,25,0,0,52.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,9,0,0,9
-Brazil,Muhammad Saleem,a025c156,2,10,6,2,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
-Brazil,Yasar Haroon,5a8dc41e,3,7,16,1,0,43.75,"[11, 13, 15]",3.0,18,6,0,21,0,2,0,0,0,0,0,7.0,0,0,0,0,-6,5,8,0,13
-Brazil,LH Rodrigues,57c95c3c,4,4,6,0,0,66.67,"[2, 4, 6]",3.0,18,11,0,13,0,0,1,0,1,0,3,4.33,0,0,0,1,0,4,50,6,60
-Brazil,LF Muller,f6411545,5,4,11,0,0,36.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2
-Brazil,Kawsar Khan,a14b3bc0,6,8,13,0,0,61.54,"[1, 3, 14, 16]",4.0,24,15,0,17,2,0,0,0,0,0,2,4.25,0,0,0,0,-2,6,21,0,27
-Brazil,MFI Assuncao,d8e48e1b,7,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Brazil,CC Machado,5992ef03,8,2,7,0,0,28.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,1,0,2,0,22,24
-Brazil,R Avery,094ebfb6,9,0,2,0,0,0.0,"[8, 10, 12]",3.0,18,5,0,16,0,0,0,0,0,0,2,5.33,0,0,0,0,0,-2,9,0,7
-Brazil,G Oliveira,b4c52f5f,10,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Brazil,IC Simao,dcc76384,11,2,3,0,0,66.67,"[5, 7, 9]",3.0,18,10,0,18,1,0,2,0,0,1,0,6.0,0,0,0,0,0,2,62,0,64
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bahamas,M Taylor,92075cdc,1,22,28,1,0,78.57,"[2, 4, 15]",3.0,18,10,0,13,1,0,2,1,1,0,1,4.33,0,0,0,0,0,26,82,0,108,35,True,False,False,Right-arm offbreak,Left-hand bat
+Bahamas,K Hinds,a268c07b,2,0,2,0,0,0.0,"[7, 9, 11, 13]",4.0,24,13,0,13,0,0,3,0,2,0,1,3.25,0,0,0,0,0,0,114,0,114,24,True,False,True,Slow left-arm orthodox,Left-hand bat
+Bahamas,E Duff,b7873c81,3,5,8,1,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,36,True,True,False,Right-arm medium,Right-hand bat
+Bahamas,D Wheatley,04539335,4,5,11,0,0,45.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-1,0,0,-1,28,True,False,False,,Right-hand bat
+Bahamas,J Jemison,ce1abd25,5,21,24,1,1,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31,31,True,False,False,,Right-hand bat
+Bahamas,Rudolph Fox,fd1041d2,6,24,23,0,1,104.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,30,0,8,38,32,True,True,False,Left-arm medium,Left-hand bat
+Bahamas,DG Weakley,224a9f5e,11,0,0,0,0,0.0,"[1, 3, 5]",2.833,17,11,0,14,2,0,1,0,1,0,1,4.94,0,0,0,0,0,0,50,0,50,55,True,False,True,Slow left-arm orthodox,Right-hand bat
+Bahamas,Festus Benn,de6b3760,12,0,0,0,0,0.0,"[12, 14, 16]",3.0,18,10,0,8,0,0,2,0,1,0,0,2.67,0,0,0,0,0,0,74,0,74,42,True,True,False,Right-arm offbreak,Right-hand bat
+Bahamas,Sandeep Goud,c83ef4d6,13,0,0,0,0,0.0,"[6, 8, 10]",3.0,18,11,0,11,0,0,1,0,1,0,2,3.67,0,0,0,0,0,0,50,0,50,41,True,True,False,Left-arm medium-fast,Left-hand bat
+Bahamas,R Davson,7804d401,14,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,47,True,False,False,,Right-hand bat
+Bahamas,A Harris,bbafa5d6,15,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,20,True,True,False,Right-arm medium,Right-hand bat
+Brazil,W Maximo,e41dee27,1,13,25,0,0,52.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,9,0,0,9,24,True,False,False,,
+Brazil,Muhammad Saleem,a025c156,2,10,6,2,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,37,True,True,False,Right-arm medium,Left-hand bat
+Brazil,Yasar Haroon,5a8dc41e,3,7,16,1,0,43.75,"[11, 13, 15]",3.0,18,6,0,21,0,2,0,0,0,0,0,7.0,0,0,0,0,-6,5,8,0,13,40,True,True,False,Right-arm offbreak,Right-hand bat
+Brazil,LH Rodrigues,57c95c3c,4,4,6,0,0,66.67,"[2, 4, 6]",3.0,18,11,0,13,0,0,1,0,1,0,3,4.33,0,0,0,1,0,4,50,6,60,23,True,False,False,Right-arm medium-fast,Right-hand bat
+Brazil,LF Muller,f6411545,5,4,11,0,0,36.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2,19,True,False,False,,
+Brazil,Kawsar Khan,a14b3bc0,6,8,13,0,0,61.54,"[1, 3, 14, 16]",4.0,24,15,0,17,2,0,0,0,0,0,2,4.25,0,0,0,0,-2,6,21,0,27,27,True,False,False,,
+Brazil,MFI Assuncao,d8e48e1b,7,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,24,True,False,False,,
+Brazil,CC Machado,5992ef03,8,2,7,0,0,28.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,1,0,2,0,22,24,21,True,False,False,,Right-hand bat
+Brazil,R Avery,094ebfb6,9,0,2,0,0,0.0,"[8, 10, 12]",3.0,18,5,0,16,0,0,0,0,0,0,2,5.33,0,0,0,0,0,-2,9,0,7,49,True,True,False,Right-arm medium,Right-hand bat
+Brazil,G Oliveira,b4c52f5f,10,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,28,True,True,False,Right-arm medium,Right-hand bat
+Brazil,IC Simao,dcc76384,11,2,3,0,0,66.67,"[5, 7, 9]",3.0,18,10,0,18,1,0,2,0,0,1,0,6.0,0,0,0,0,0,2,62,0,64,21,True,True,False,Left-arm medium,Left-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Manipur,P Prafullomani,f9900488,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Manipur,Al Bashid Muhammed,1dc27b6b,2,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Manipur,Narsingh Yadav,4c450aee,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Manipur,Johnson Singh,5355e20a,4,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Manipur,Kangabam Singh,59da1e8a,5,55,64,4,2,85.94,"[6, 9]",2.0,12,4,0,22,4,0,0,0,0,0,0,11.0,0,0,0,0,0,91,2,0,93
-Manipur,Sultan Karim,7ef0c030,6,1,7,0,0,14.29,"[16, 18, 20]",3.0,18,5,0,33,1,3,3,0,0,0,1,11.0,1,0,0,0,0,1,82,8,91
-Manipur,Nitesh Sedai,e9cb8d60,7,1,5,0,0,20.0,"[11, 13]",2.0,12,1,0,26,1,2,0,0,0,0,0,13.0,0,0,0,0,0,1,-5,0,-4
-Manipur,Homendro Kabrambam,1b480a44,8,9,15,0,1,60.0,"[1, 3, 12]",3.0,18,5,0,24,3,0,0,0,0,0,0,8.0,1,0,0,0,-2,13,5,8,26
-Manipur,Rex Rajkumar,f3ba1bdc,9,4,9,0,0,44.44,"[2, 4, 14, 17]",4.0,24,10,0,26,2,1,0,0,0,0,0,6.5,1,0,0,0,0,4,12,8,24
-Manipur,Bishworjit Konthoujam,15deff66,10,1,7,0,0,14.29,"[5, 7, 15, 19]",4.0,24,10,0,22,2,0,1,0,0,0,0,5.5,0,0,0,0,0,1,39,0,40
-Manipur,Lamabam Singh,76860ea3,11,0,3,0,0,0.0,"[8, 10]",2.0,12,3,0,16,2,0,0,0,0,0,0,8.0,0,0,0,0,0,0,3,0,3
-Rajasthan,MN Singh,7ba6ef29,1,77,51,8,2,150.98,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,4,137,0,20,157
-Rajasthan,Ankit Lamba,90a3c0dc,2,49,41,6,0,119.51,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,77,0,8,85
-Rajasthan,MK Lomror,da934ee8,3,20,16,0,2,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32
-Rajasthan,Aditya Garhwal,8e02f42b,4,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
-Rajasthan,Arjit Gupta,145903a5,5,15,8,1,1,187.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
-Rajasthan,R Bishnoi,4d5a1617,6,6,1,0,1,600.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
-Rajasthan,Tanveer Ul-Haq,2795b0f6,11,0,0,0,0,0.0,"[1, 3, 5, 15]",4.0,24,18,1,7,0,0,4,1,2,0,0,1.75,0,0,0,0,0,0,168,0,168
-Rajasthan,CP Singh,077da288,12,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,14,0,14,0,1,1,0,0,0,0,3.5,0,0,0,0,0,0,45,0,45
-Rajasthan,A Choudhary,18e6906e,13,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,18,0,12,1,0,1,0,1,1,0,3.0,0,0,0,0,0,0,57,0,57
-Rajasthan,Ravi Bishnoi,df064e1a,14,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,13,0,23,2,1,2,0,0,0,0,5.75,0,0,0,0,0,0,67,0,67
-Rajasthan,AR Lamba,e941cd33,15,0,0,0,0,0.0,"[6, 8, 18, 20]",4.0,24,15,0,17,1,1,1,0,0,0,0,4.25,1,0,0,0,0,0,46,8,54
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Manipur,P Prafullomani,f9900488,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,31,True,False,False,,Right-hand bat
+Manipur,Al Bashid Muhammed,1dc27b6b,2,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,26,True,False,False,,Right-hand bat
+Manipur,Narsingh Yadav,4c450aee,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,33,True,False,False,,Right-hand bat
+Manipur,Johnson Singh,5355e20a,4,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,25,True,False,False,,Right-hand bat
+Manipur,Kangabam Singh,59da1e8a,5,55,64,4,2,85.94,"[6, 9]",2.0,12,4,0,22,4,0,0,0,0,0,0,11.0,0,0,0,0,0,91,2,0,93,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Manipur,Sultan Karim,7ef0c030,6,1,7,0,0,14.29,"[16, 18, 20]",3.0,18,5,0,33,1,3,3,0,0,0,1,11.0,1,0,0,0,0,1,82,8,91,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Manipur,Nitesh Sedai,e9cb8d60,7,1,5,0,0,20.0,"[11, 13]",2.0,12,1,0,26,1,2,0,0,0,0,0,13.0,0,0,0,0,0,1,-5,0,-4,27,True,True,False,Right-arm offbreak,Right-hand bat
+Manipur,Homendro Kabrambam,1b480a44,8,9,15,0,1,60.0,"[1, 3, 12]",3.0,18,5,0,24,3,0,0,0,0,0,0,8.0,1,0,0,0,-2,13,5,8,26,32,True,True,False,Right-arm medium-fast,Right-hand bat
+Manipur,Rex Rajkumar,f3ba1bdc,9,4,9,0,0,44.44,"[2, 4, 14, 17]",4.0,24,10,0,26,2,1,0,0,0,0,0,6.5,1,0,0,0,0,4,12,8,24,24,True,True,False,Left-arm medium-fast,Left-hand bat
+Manipur,Bishworjit Konthoujam,15deff66,10,1,7,0,0,14.29,"[5, 7, 15, 19]",4.0,24,10,0,22,2,0,1,0,0,0,0,5.5,0,0,0,0,0,1,39,0,40,29,True,True,False,Right-arm medium-fast,Right-hand bat
+Manipur,Lamabam Singh,76860ea3,11,0,3,0,0,0.0,"[8, 10]",2.0,12,3,0,16,2,0,0,0,0,0,0,8.0,0,0,0,0,0,0,3,0,3,26,True,True,False,Slow left-arm orthodox,Left-hand bat
+Rajasthan,MN Singh,7ba6ef29,1,77,51,8,2,150.98,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,4,137,0,20,157,29,True,False,False,,Right-hand bat
+Rajasthan,Ankit Lamba,90a3c0dc,2,49,41,6,0,119.51,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,77,0,8,85,33,True,False,False,Legbreak googly,Right-hand bat
+Rajasthan,MK Lomror,da934ee8,3,20,16,0,2,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32,25,True,False,True,Slow left-arm orthodox,Left-hand bat
+Rajasthan,Aditya Garhwal,8e02f42b,4,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,28,True,True,False,Legbreak googly,Right-hand bat
+Rajasthan,Arjit Gupta,145903a5,5,15,8,1,1,187.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,35,True,True,False,Right-arm medium,Right-hand bat
+Rajasthan,R Bishnoi,4d5a1617,6,6,1,0,1,600.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,37,True,False,False,Right-arm medium-fast,Right-hand bat
+Rajasthan,Tanveer Ul-Haq,2795b0f6,11,0,0,0,0,0.0,"[1, 3, 5, 15]",4.0,24,18,1,7,0,0,4,1,2,0,0,1.75,0,0,0,0,0,0,168,0,168,33,True,True,False,Left-arm medium,Right-hand bat
+Rajasthan,CP Singh,077da288,12,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,14,0,14,0,1,1,0,0,0,0,3.5,0,0,0,0,0,0,45,0,45,30,True,True,False,Slow left-arm orthodox,Right-hand bat
+Rajasthan,A Choudhary,18e6906e,13,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,18,0,12,1,0,1,0,1,1,0,3.0,0,0,0,0,0,0,57,0,57,35,True,False,False,Left-arm medium,Right-hand bat
+Rajasthan,Ravi Bishnoi,df064e1a,14,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,13,0,23,2,1,2,0,0,0,0,5.75,0,0,0,0,0,0,67,0,67,24,True,False,False,Legbreak googly,Right-hand bat
+Rajasthan,AR Lamba,e941cd33,15,0,0,0,0,0.0,"[6, 8, 18, 20]",4.0,24,15,0,17,1,1,1,0,0,0,0,4.25,1,0,0,0,0,0,46,8,54,29,True,False,False,Right-arm medium,Right-hand bat

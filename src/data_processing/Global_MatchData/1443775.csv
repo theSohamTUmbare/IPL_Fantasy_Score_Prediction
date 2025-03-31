@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Finland,Ghulam Abbas Butt,cc796077,1,12,11,0,1,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
-Finland,VS Padhaal,c4fb0b39,2,9,9,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
-Finland,Jordan O'Brien,c31d7da1,3,5,6,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
-Finland,Faheem Nellancheri,6513502f,4,14,11,1,1,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
-Finland,NM Salonen,f5bd70f2,5,5,7,0,0,71.43,"[2, 4, 12]",3.0,18,6,0,21,2,0,0,0,0,0,1,7.0,1,0,0,2,0,5,8,20,33
-Finland,Amjad Sher,3b4a8cfb,6,15,10,1,1,150.0,"[9, 11]",2.0,12,2,0,19,1,1,1,0,0,0,0,9.5,1,0,0,1,0,25,27,14,66
-Finland,Atif Rasheed,c7726eec,7,23,14,1,1,164.29,"[1, 13]",1.833,11,3,0,20,0,2,1,0,0,0,0,10.91,1,0,0,0,4,37,28,8,73
-Finland,JOP Scamans,4e56e796,8,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,1,0,-2,0,22,20
-Finland,MB Tambe,1c1bb0d5,9,0,2,0,0,0.0,"[6, 8, 10]",3.0,18,5,0,18,0,0,2,0,0,0,0,6.0,1,0,0,0,0,-2,57,8,63
-Finland,E Kuchey,5d6064b0,10,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Finland,Raaz Mohammad,f83b77f9,11,2,2,0,0,100.0,"[3, 5, 7]",3.0,18,11,0,7,0,0,4,1,1,0,0,2.33,0,0,0,0,0,2,141,0,143
-Guernsey,J Butler,efcb778e,1,21,18,1,1,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,31,0,16,47
-Guernsey,B Fitchet,d77ecd14,2,7,11,1,0,63.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,9,0,8,17
-Guernsey,T Nightingale,51a125b3,3,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,3,0,14,17
-Guernsey,MWR Stokes,c573d173,4,1,2,0,0,50.0,"[6, 9]",2.0,12,3,0,18,1,1,1,0,0,0,1,9.0,1,0,0,0,0,1,28,8,37
-Guernsey,IDA Damarell,580ae7f2,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,-2,0,14,12
-Guernsey,OB Nightingale,1deb4c0c,6,33,22,1,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,47,0,0,47
-Guernsey,LB Ferbrache,0f72f582,7,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Guernsey,LT Bichard,dfcdb11e,8,8,9,0,0,88.89,"[2, 8, 12]",3.0,18,10,0,15,0,1,3,0,0,0,1,5.0,0,0,0,0,0,8,93,0,101
-Guernsey,M Dale-Bradley,62b2aa65,9,7,2,0,1,350.0,"[3, 7, 11]",3.0,18,12,0,11,0,0,3,1,1,0,1,3.67,1,0,0,0,0,13,113,8,134
-Guernsey,C Forshaw,0ed66ce6,10,3,3,0,0,100.0,"[4, 10]",2.0,12,4,0,22,1,2,2,0,0,0,0,11.0,0,0,0,0,0,3,52,0,55
-Guernsey,D Mullen,61da7440,11,1,1,0,0,100.0,"[1, 5, 13]",2.667,16,4,0,22,3,0,0,0,0,0,0,8.25,0,0,0,0,0,1,4,0,5
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Finland,Ghulam Abbas Butt,cc796077,1,12,11,0,1,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,42,True,True,False,Right-arm offbreak,Right-hand bat
+Finland,VS Padhaal,c4fb0b39,2,9,9,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,46,True,True,False,Right-arm offbreak,Right-hand bat
+Finland,Jordan O'Brien,c31d7da1,3,5,6,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,29,True,True,False,Right-arm offbreak,Right-hand bat
+Finland,Faheem Nellancheri,6513502f,4,14,11,1,1,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24,34,True,True,False,Right-arm medium,Right-hand bat
+Finland,NM Salonen,f5bd70f2,5,5,7,0,0,71.43,"[2, 4, 12]",3.0,18,6,0,21,2,0,0,0,0,0,1,7.0,1,0,0,2,0,5,8,20,33,30,True,True,False,Right-arm medium,Right-hand bat
+Finland,Amjad Sher,3b4a8cfb,6,15,10,1,1,150.0,"[9, 11]",2.0,12,2,0,19,1,1,1,0,0,0,0,9.5,1,0,0,1,0,25,27,14,66,38,True,True,False,Right-arm medium,Right-hand bat
+Finland,Atif Rasheed,c7726eec,7,23,14,1,1,164.29,"[1, 13]",1.833,11,3,0,20,0,2,1,0,0,0,0,10.91,1,0,0,0,4,37,28,8,73,35,True,True,False,Right-arm medium,Right-hand bat
+Finland,JOP Scamans,4e56e796,8,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,1,0,-2,0,22,20,35,True,False,False,,Right-hand bat
+Finland,MB Tambe,1c1bb0d5,9,0,2,0,0,0.0,"[6, 8, 10]",3.0,18,5,0,18,0,0,2,0,0,0,0,6.0,1,0,0,0,0,-2,57,8,63,39,True,True,False,Right-arm medium,Right-hand bat
+Finland,E Kuchey,5d6064b0,10,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,40,True,True,False,Legbreak googly,Right-hand bat
+Finland,Raaz Mohammad,f83b77f9,11,2,2,0,0,100.0,"[3, 5, 7]",3.0,18,11,0,7,0,0,4,1,1,0,0,2.33,0,0,0,0,0,2,141,0,143,33,True,True,False,Right-arm medium,Right-hand bat
+Guernsey,J Butler,efcb778e,1,21,18,1,1,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,31,0,16,47,28,True,True,False,Right-arm medium,Right-hand bat
+Guernsey,B Fitchet,d77ecd14,2,7,11,1,0,63.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,9,0,8,17,32,True,True,False,Legbreak,Right-hand bat
+Guernsey,T Nightingale,51a125b3,3,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,3,0,14,17,26,True,True,False,Right-arm offbreak,Right-hand bat
+Guernsey,MWR Stokes,c573d173,4,1,2,0,0,50.0,"[6, 9]",2.0,12,3,0,18,1,1,1,0,0,0,1,9.0,1,0,0,0,0,1,28,8,37,29,True,True,False,Right-arm medium,Right-hand bat
+Guernsey,IDA Damarell,580ae7f2,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,-2,0,14,12,31,True,False,False,,Left-hand bat
+Guernsey,OB Nightingale,1deb4c0c,6,33,22,1,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,47,0,0,47,29,True,False,True,Right-arm medium,Right-hand bat
+Guernsey,LB Ferbrache,0f72f582,7,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,37,True,True,False,Right-arm offbreak,Right-hand bat
+Guernsey,LT Bichard,dfcdb11e,8,8,9,0,0,88.89,"[2, 8, 12]",3.0,18,10,0,15,0,1,3,0,0,0,1,5.0,0,0,0,0,0,8,93,0,101,22,True,True,False,Right-arm medium-fast,Right-hand bat
+Guernsey,M Dale-Bradley,62b2aa65,9,7,2,0,1,350.0,"[3, 7, 11]",3.0,18,12,0,11,0,0,3,1,1,0,1,3.67,1,0,0,0,0,13,113,8,134,37,True,True,False,Legbreak,Right-hand bat
+Guernsey,C Forshaw,0ed66ce6,10,3,3,0,0,100.0,"[4, 10]",2.0,12,4,0,22,1,2,2,0,0,0,0,11.0,0,0,0,0,0,3,52,0,55,17,True,True,False,Right-arm medium,Right-hand bat
+Guernsey,D Mullen,61da7440,11,1,1,0,0,100.0,"[1, 5, 13]",2.667,16,4,0,22,3,0,0,0,0,0,0,8.25,0,0,0,0,0,1,4,0,5,31,True,True,False,Right-arm medium,Right-hand bat

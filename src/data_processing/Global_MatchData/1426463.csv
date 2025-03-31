@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Cambodia,US Hathinjar,5f77f23a,1,18,11,1,1,163.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,32,0,0,32
-Cambodia,RR Sharan,7cff331d,2,12,11,0,1,109.09,[5],1.0,6,1,0,18,1,2,0,0,0,0,0,18.0,0,0,0,0,0,18,1,0,19
-Cambodia,Luqman Butt,7a6decc8,3,41,21,1,4,195.24,"[2, 10]",2.0,12,3,0,31,4,2,0,0,0,0,0,15.5,1,0,0,0,6,79,-3,8,84
-Cambodia,RV Viraj,a744d530,4,2,6,0,0,33.33,"[9, 11]",2.0,12,2,0,32,2,3,2,0,1,0,0,16.0,0,0,0,0,0,2,54,0,56
-Cambodia,E Beukes,fbb8cf87,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,-2,0,16,14
-Cambodia,S Godara,dd7dd27a,6,0,1,0,0,0.0,"[1, 3]",2.0,12,6,0,25,1,3,2,0,0,0,0,12.5,0,0,0,0,0,-2,50,0,48
-Cambodia,Lakshit Gupta,52b090a6,7,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Cambodia,Salvin Stanly,a6631b55,8,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Cambodia,Utkarsh Jain,1f4a78c5,9,8,9,1,0,88.89,"[4, 6, 8]",3.0,18,3,0,26,2,1,2,0,1,0,0,8.67,0,0,0,0,0,12,61,0,73
-Cambodia,Prasad Anish,a21d62c9,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Cambodia,GC Murtaza,6cc4d322,10,0,0,0,0,0.0,[7],1.0,6,2,0,20,2,2,0,0,0,0,0,20.0,0,0,0,0,0,0,2,0,2
-Oman,KH Prajapati,c4e73ff1,1,8,4,0,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,14,0,8,22
-Oman,Naseem Khushi,c63671e9,2,69,27,6,6,255.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,143,0,0,143
-Oman,Aqib Ilyas,b3b39bed,3,10,6,1,1,166.67,"[6, 8, 10]",3.0,18,8,0,17,1,1,4,0,3,0,0,5.67,1,0,0,0,0,20,144,8,172
-Oman,Zeeshan Maqsood,34464143,4,7,5,1,0,140.0,"[4, 7]",2.0,12,4,0,14,0,1,1,0,0,0,0,7.0,1,0,0,0,0,11,31,8,50
-Oman,Ayan Khan,44d6a8b8,5,16,7,0,2,228.57,[11],1.0,6,1,0,12,0,1,0,0,0,0,1,12.0,0,0,0,0,0,28,1,0,29
-Oman,Khalid Kail,3ee90b67,6,19,9,2,1,211.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33
-Oman,Rafiullah,369cc49c,7,23,8,2,2,287.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,43,0,0,43
-Oman,PS Athavale,c2f12310,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Oman,Mehran Khan,d7bfcc0b,10,0,0,0,0,0.0,"[3, 5]",2.0,12,8,0,10,2,0,2,0,1,0,0,5.0,0,0,0,0,0,0,70,0,70
-Oman,Fayyaz Butt,bd9fbd51,11,0,0,0,0,0.0,[2],1.0,6,3,0,9,0,0,0,0,0,0,5,9.0,0,0,0,0,0,0,3,0,3
-Oman,Bilal Khan,dcdb87f2,12,0,0,0,0,0.0,"[1, 9]",2.0,12,2,0,27,0,3,0,0,0,0,0,13.5,0,0,0,0,0,0,-4,0,-4
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Cambodia,US Hathinjar,5f77f23a,1,18,11,1,1,163.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,32,0,0,32,27,True,True,False,Right-arm medium,Right-hand bat
+Cambodia,RR Sharan,7cff331d,2,12,11,0,1,109.09,[5],1.0,6,1,0,18,1,2,0,0,0,0,0,18.0,0,0,0,0,0,18,1,0,19,22,True,True,False,Right-arm offbreak,Right-hand bat
+Cambodia,Luqman Butt,7a6decc8,3,41,21,1,4,195.24,"[2, 10]",2.0,12,3,0,31,4,2,0,0,0,0,0,15.5,1,0,0,0,6,79,-3,8,84,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Cambodia,RV Viraj,a744d530,4,2,6,0,0,33.33,"[9, 11]",2.0,12,2,0,32,2,3,2,0,1,0,0,16.0,0,0,0,0,0,2,54,0,56,30,True,True,False,Legbreak,Right-hand bat
+Cambodia,E Beukes,fbb8cf87,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,-2,0,16,14,27,True,True,False,Right-arm medium,Right-hand bat
+Cambodia,S Godara,dd7dd27a,6,0,1,0,0,0.0,"[1, 3]",2.0,12,6,0,25,1,3,2,0,0,0,0,12.5,0,0,0,0,0,-2,50,0,48,23,True,True,False,Right-arm medium,Right-hand bat
+Cambodia,Lakshit Gupta,52b090a6,7,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,26,True,True,False,Right-arm offbreak,Right-hand bat
+Cambodia,Salvin Stanly,a6631b55,8,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,40,True,True,False,Right-arm medium,Right-hand bat
+Cambodia,Utkarsh Jain,1f4a78c5,9,8,9,1,0,88.89,"[4, 6, 8]",3.0,18,3,0,26,2,1,2,0,1,0,0,8.67,0,0,0,0,0,12,61,0,73,23,True,True,False,Slow left-arm orthodox,Right-hand bat
+Cambodia,Prasad Anish,a21d62c9,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,22,True,True,False,Right-arm medium,Right-hand bat
+Cambodia,GC Murtaza,6cc4d322,10,0,0,0,0,0.0,[7],1.0,6,2,0,20,2,2,0,0,0,0,0,20.0,0,0,0,0,0,0,2,0,2,27,True,True,False,Right-arm medium,Right-hand bat
+Oman,KH Prajapati,c4e73ff1,1,8,4,0,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,14,0,8,22,29,True,False,False,Right-arm offbreak,Right-hand bat
+Oman,Naseem Khushi,c63671e9,2,69,27,6,6,255.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,143,0,0,143,42,True,False,False,,Right-hand bat
+Oman,Aqib Ilyas,b3b39bed,3,10,6,1,1,166.67,"[6, 8, 10]",3.0,18,8,0,17,1,1,4,0,3,0,0,5.67,1,0,0,0,0,20,144,8,172,32,True,False,False,Legbreak googly,Right-hand bat
+Oman,Zeeshan Maqsood,34464143,4,7,5,1,0,140.0,"[4, 7]",2.0,12,4,0,14,0,1,1,0,0,0,0,7.0,1,0,0,0,0,11,31,8,50,37,True,False,False,Slow left-arm orthodox,Left-hand bat
+Oman,Ayan Khan,44d6a8b8,5,16,7,0,2,228.57,[11],1.0,6,1,0,12,0,1,0,0,0,0,1,12.0,0,0,0,0,0,28,1,0,29,32,True,False,True,Slow left-arm orthodox,Left-hand bat
+Oman,Khalid Kail,3ee90b67,6,19,9,2,1,211.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33,28,True,False,False,,Right-hand bat
+Oman,Rafiullah,369cc49c,7,23,8,2,2,287.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,43,0,0,43,28,True,False,False,Right-arm medium,Right-hand bat
+Oman,PS Athavale,c2f12310,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,27,True,True,False,Right-arm offbreak,Right-hand bat
+Oman,Mehran Khan,d7bfcc0b,10,0,0,0,0,0.0,"[3, 5]",2.0,12,8,0,10,2,0,2,0,1,0,0,5.0,0,0,0,0,0,0,70,0,70,37,True,False,False,Right-arm medium-fast,Right-hand bat
+Oman,Fayyaz Butt,bd9fbd51,11,0,0,0,0,0.0,[2],1.0,6,3,0,9,0,0,0,0,0,0,5,9.0,0,0,0,0,0,0,3,0,3,31,True,False,False,Right-arm medium-fast,Right-hand bat
+Oman,Bilal Khan,dcdb87f2,12,0,0,0,0,0.0,"[1, 9]",2.0,12,2,0,27,0,3,0,0,0,0,0,13.5,0,0,0,0,0,0,-4,0,-4,37,True,False,False,Left-arm medium-fast,Left-hand bat

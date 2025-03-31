@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Brisbane Heat,M Bryant,f32012f4,1,18,16,2,1,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32
-Brisbane Heat,BB McCullum,b8a55852,2,50,47,3,1,106.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,76,0,0,76
-Brisbane Heat,CA Lynn,45eda7c8,3,14,15,0,1,93.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
-Brisbane Heat,MT Renshaw,218d4d78,4,8,6,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
-Brisbane Heat,Mujeeb Ur Rahman,7d92277a,4,0,0,0,0,0.0,"[2, 5, 11, 13]",4.0,24,11,0,23,4,0,1,0,1,0,0,5.75,0,0,0,0,0,0,48,0,48
-Brisbane Heat,JJ Peirson,2b55c3b4,5,12,16,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
-Brisbane Heat,BCJ Cutting,2e11c706,6,20,10,2,1,200.0,"[9, 15]",2.0,12,3,0,23,4,0,0,0,0,0,0,11.5,0,0,0,0,6,40,-1,0,39
-Brisbane Heat,JA Burns,7a5f232a,7,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Brisbane Heat,JL Pattinson,f752db61,8,3,2,0,0,150.0,"[1, 3, 7]",3.0,18,7,0,27,3,1,0,0,0,0,0,9.0,1,0,0,0,0,3,7,8,18
-Brisbane Heat,B Doggett,898e628d,9,1,1,0,0,100.0,"[4, 10, 16]",2.667,16,7,0,31,2,2,1,0,0,0,3,11.62,0,0,0,0,0,1,28,0,29
-Brisbane Heat,MJ Swepson,86b4bf88,10,2,3,0,0,66.67,"[6, 8, 12, 14]",4.0,24,7,0,29,2,1,0,0,0,0,0,7.25,0,0,0,0,0,2,7,0,9
-Melbourne Renegades,MW Harvey,47dc9794,1,10,8,0,1,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
-Melbourne Renegades,MS Harris,9e85455c,2,28,18,5,1,155.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,62,0,0,62
-Melbourne Renegades,SB Harper,a756e61a,3,56,40,7,1,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,100,0,0,100
-Melbourne Renegades,BJ Webster,56b93d46,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
-Melbourne Renegades,TLW Cooper,2318ba22,4,36,28,3,1,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,58,0,0,58
-Melbourne Renegades,Mohammad Nabi,62af8546,5,0,0,0,0,0.0,"[11, 15]",2.0,12,3,0,14,1,0,0,0,0,0,1,7.0,2,0,0,0,0,0,5,16,21
-Melbourne Renegades,DT Christian,2a2e6343,6,0,0,0,0,0.0,"[7, 9, 13, 17]",4.0,24,4,0,32,2,1,0,0,0,0,0,8.0,2,0,0,0,0,0,4,16,20
-Melbourne Renegades,JD Wildermuth,f1c61793,7,0,0,0,0,0.0,"[4, 12]",2.0,12,2,0,24,4,0,1,0,0,0,1,12.0,0,0,0,0,0,0,23,0,23
-Melbourne Renegades,CJ Boyce,51a60c16,8,0,0,0,0,0.0,"[8, 10, 14, 16]",4.0,24,9,0,17,0,0,2,0,0,0,0,4.25,0,0,0,0,0,0,65,0,65
-Melbourne Renegades,JM Mennie,f048bb41,9,0,0,0,0,0.0,"[2, 6, 18, 20]",4.0,24,7,0,30,1,2,1,0,0,0,0,7.5,0,0,0,0,0,0,32,0,32
-Melbourne Renegades,Usman Shinwari,f0e722e0,10,0,0,0,0,0.0,"[1, 3, 5, 19]",4.0,24,13,0,16,0,1,3,0,0,0,1,4.0,1,0,0,0,0,0,98,8,106
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Brisbane Heat,M Bryant,f32012f4,1,18,16,2,1,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32,26,True,False,False,Right-arm medium,Right-hand bat
+Brisbane Heat,BB McCullum,b8a55852,2,50,47,3,1,106.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,76,0,0,76,43,True,True,False,Right-arm offbreak,Right-hand bat
+Brisbane Heat,CA Lynn,45eda7c8,3,14,15,0,1,93.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,34,True,False,False,Slow left-arm orthodox,Right-hand bat
+Brisbane Heat,MT Renshaw,218d4d78,4,8,6,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,29,True,False,False,Right-arm offbreak,Left-hand bat
+Brisbane Heat,Mujeeb Ur Rahman,7d92277a,4,0,0,0,0,0.0,"[2, 5, 11, 13]",4.0,24,11,0,23,4,0,1,0,1,0,0,5.75,0,0,0,0,0,0,48,0,48,24,True,False,False,Right-arm offbreak,Right-hand bat
+Brisbane Heat,JJ Peirson,2b55c3b4,5,12,16,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,32,True,False,False,,Right-hand bat
+Brisbane Heat,BCJ Cutting,2e11c706,6,20,10,2,1,200.0,"[9, 15]",2.0,12,3,0,23,4,0,0,0,0,0,0,11.5,0,0,0,0,6,40,-1,0,39,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Brisbane Heat,JA Burns,7a5f232a,7,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,35,True,False,False,Right-arm offbreak,Right-hand bat
+Brisbane Heat,JL Pattinson,f752db61,8,3,2,0,0,150.0,"[1, 3, 7]",3.0,18,7,0,27,3,1,0,0,0,0,0,9.0,1,0,0,0,0,3,7,8,18,34,True,False,False,Right-arm fast-medium,Left-hand bat
+Brisbane Heat,B Doggett,898e628d,9,1,1,0,0,100.0,"[4, 10, 16]",2.667,16,7,0,31,2,2,1,0,0,0,3,11.62,0,0,0,0,0,1,28,0,29,30,True,False,False,Right-arm fast-medium,Right-hand bat
+Brisbane Heat,MJ Swepson,86b4bf88,10,2,3,0,0,66.67,"[6, 8, 12, 14]",4.0,24,7,0,29,2,1,0,0,0,0,0,7.25,0,0,0,0,0,2,7,0,9,31,True,False,False,Legbreak,Right-hand bat
+Melbourne Renegades,MW Harvey,47dc9794,1,10,8,0,1,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,24,True,False,False,Right-arm medium-fast,Left-hand bat
+Melbourne Renegades,MS Harris,9e85455c,2,28,18,5,1,155.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,62,0,0,62,32,True,False,False,,Left-hand bat
+Melbourne Renegades,SB Harper,a756e61a,3,56,40,7,1,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,100,0,0,100,28,True,False,False,,Right-hand bat
+Melbourne Renegades,BJ Webster,56b93d46,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,31,True,False,True,Right-arm offbreak,Right-hand bat
+Melbourne Renegades,TLW Cooper,2318ba22,4,36,28,3,1,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,58,0,0,58,38,True,False,False,Right-arm offbreak,Right-hand bat
+Melbourne Renegades,Mohammad Nabi,62af8546,5,0,0,0,0,0.0,"[11, 15]",2.0,12,3,0,14,1,0,0,0,0,0,1,7.0,2,0,0,0,0,0,5,16,21,40,True,False,True,Right-arm offbreak,Right-hand bat
+Melbourne Renegades,DT Christian,2a2e6343,6,0,0,0,0,0.0,"[7, 9, 13, 17]",4.0,24,4,0,32,2,1,0,0,0,0,0,8.0,2,0,0,0,0,0,4,16,20,41,True,False,True,Right-arm fast-medium,Right-hand bat
+Melbourne Renegades,JD Wildermuth,f1c61793,7,0,0,0,0,0.0,"[4, 12]",2.0,12,2,0,24,4,0,1,0,0,0,1,12.0,0,0,0,0,0,0,23,0,23,31,True,False,True,Right-arm medium-fast,Right-hand bat
+Melbourne Renegades,CJ Boyce,51a60c16,8,0,0,0,0,0.0,"[8, 10, 14, 16]",4.0,24,9,0,17,0,0,2,0,0,0,0,4.25,0,0,0,0,0,0,65,0,65,35,True,False,False,Legbreak,Right-hand bat
+Melbourne Renegades,JM Mennie,f048bb41,9,0,0,0,0,0.0,"[2, 6, 18, 20]",4.0,24,7,0,30,1,2,1,0,0,0,0,7.5,0,0,0,0,0,0,32,0,32,36,True,False,False,Right-arm fast-medium,Right-hand bat
+Melbourne Renegades,Usman Shinwari,f0e722e0,10,0,0,0,0,0.0,"[1, 3, 5, 19]",4.0,24,13,0,16,0,1,3,0,0,0,1,4.0,1,0,0,0,0,0,98,8,106,31,True,False,False,Left-arm medium-fast,Right-hand bat

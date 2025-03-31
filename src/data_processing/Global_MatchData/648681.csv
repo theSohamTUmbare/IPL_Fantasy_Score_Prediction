@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Australia,AJ Finch,b8d490fd,1,5,5,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
-Australia,DA Warner,dcce6f09,2,40,16,5,2,250.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,82,0,0,82
-Australia,SR Watson,4329fbb5,3,2,3,0,0,66.67,[4],1.0,6,1,0,14,1,1,0,0,0,0,0,14.0,0,0,0,0,0,2,1,0,3
-Australia,GJ Maxwell,b681e71e,4,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Australia,GJ Bailey,5056011d,5,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Australia,BJ Hodge,b57f8a9a,6,21,7,1,2,300.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,37,0,0,37
-Australia,BJ Haddin,b0c772ee,7,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
-Australia,GB Hogg,f708a0bc,7,0,0,0,0,0.0,[3],1.0,6,2,0,5,0,0,0,0,0,0,0,5.0,0,0,0,0,0,0,2,0,2
-Australia,DT Christian,2a2e6343,8,0,0,0,0,0.0,[5],1.0,6,2,0,18,1,2,0,0,0,0,0,18.0,0,0,0,0,0,0,2,0,2
-Australia,NM Coulter-Nile,56ab442f,9,0,0,0,0,0.0,"[2, 6]",2.0,12,6,0,17,2,1,1,0,0,0,0,8.5,1,0,0,0,0,0,31,8,39
-Australia,MA Starc,3fb19989,10,0,0,0,0,0.0,"[1, 7]",2.0,12,5,0,24,1,2,0,0,0,0,6,12.0,0,0,0,0,0,0,1,0,1
-South Africa,HM Amla,e798611a,1,4,9,1,0,44.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16
-South Africa,Q de Kock,372455c4,2,41,20,2,4,205.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,6,83,0,6,89
-South Africa,F du Plessis,3355b542,3,27,13,2,2,207.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,57,0,8,65
-South Africa,F Behardien,dce2019b,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-South Africa,DA Miller,d67d5f00,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,0,0,6,6
-South Africa,LL Tsotsobe,12bffe91,9,0,0,0,0,0.0,[1],1.0,6,0,0,21,3,1,0,0,0,0,0,21.0,0,0,0,0,0,0,0,0,0
-South Africa,JP Duminy,2e8994e7,10,0,0,0,0,0.0,[5],1.0,6,2,0,5,0,0,2,1,0,0,1,5.0,0,0,0,0,0,0,60,0,60
-South Africa,KJ Abbott,a9da7784,11,0,0,0,0,0.0,[2],1.0,6,4,0,5,1,0,1,0,0,0,0,5.0,1,0,0,0,0,0,29,8,37
-South Africa,JA Morkel,c3d35165,12,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-South Africa,WD Parnell,3a60e0b5,13,0,0,0,0,0.0,"[4, 7]",1.667,10,2,0,17,0,2,1,0,0,0,1,10.2,0,0,0,0,0,0,27,0,27
-South Africa,BE Hendricks,b56dc5f7,14,0,0,0,0,0.0,"[3, 6]",2.0,12,0,0,31,3,1,0,0,0,1,1,15.5,0,0,0,0,0,0,-6,0,-6
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Australia,AJ Finch,b8d490fd,1,5,5,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,38,True,False,False,Slow left-arm orthodox,Right-hand bat
+Australia,DA Warner,dcce6f09,2,40,16,5,2,250.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,82,0,0,82,38,True,False,False,Legbreak,Left-hand bat
+Australia,SR Watson,4329fbb5,3,2,3,0,0,66.67,[4],1.0,6,1,0,14,1,1,0,0,0,0,0,14.0,0,0,0,0,0,2,1,0,3,43,True,False,True,Right-arm fast-medium,Right-hand bat
+Australia,GJ Maxwell,b681e71e,4,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,36,True,False,True,Right-arm offbreak,Right-hand bat
+Australia,GJ Bailey,5056011d,5,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,42,True,False,False,Right-arm medium,Right-hand bat
+Australia,BJ Hodge,b57f8a9a,6,21,7,1,2,300.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,37,0,0,37,50,True,False,False,Right-arm offbreak,Right-hand bat
+Australia,BJ Haddin,b0c772ee,7,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,47,True,False,False,,Right-hand bat
+Australia,GB Hogg,f708a0bc,7,0,0,0,0,0.0,[3],1.0,6,2,0,5,0,0,0,0,0,0,0,5.0,0,0,0,0,0,0,2,0,2,54,True,False,True,Left-arm wrist-spin,Left-hand bat
+Australia,DT Christian,2a2e6343,8,0,0,0,0,0.0,[5],1.0,6,2,0,18,1,2,0,0,0,0,0,18.0,0,0,0,0,0,0,2,0,2,41,True,False,True,Right-arm fast-medium,Right-hand bat
+Australia,NM Coulter-Nile,56ab442f,9,0,0,0,0,0.0,"[2, 6]",2.0,12,6,0,17,2,1,1,0,0,0,0,8.5,1,0,0,0,0,0,31,8,39,37,True,False,True,Right-arm fast,Right-hand bat
+Australia,MA Starc,3fb19989,10,0,0,0,0,0.0,"[1, 7]",2.0,12,5,0,24,1,2,0,0,0,0,6,12.0,0,0,0,0,0,0,1,0,1,35,True,False,False,Left-arm fast,Left-hand bat
+South Africa,HM Amla,e798611a,1,4,9,1,0,44.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16,41,True,False,False,Right-arm offbreak,Right-hand bat
+South Africa,Q de Kock,372455c4,2,41,20,2,4,205.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,6,83,0,6,89,32,True,False,False,,Left-hand bat
+South Africa,F du Plessis,3355b542,3,27,13,2,2,207.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,57,0,8,65,40,True,False,False,Legbreak,Right-hand bat
+South Africa,F Behardien,dce2019b,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,41,True,False,True,Right-arm fast-medium,Right-hand bat
+South Africa,DA Miller,d67d5f00,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,0,0,6,6,35,True,False,False,Right-arm offbreak,Left-hand bat
+South Africa,LL Tsotsobe,12bffe91,9,0,0,0,0,0.0,[1],1.0,6,0,0,21,3,1,0,0,0,0,0,21.0,0,0,0,0,0,0,0,0,0,41,True,False,False,Left-arm fast-medium,Right-hand bat
+South Africa,JP Duminy,2e8994e7,10,0,0,0,0,0.0,[5],1.0,6,2,0,5,0,0,2,1,0,0,1,5.0,0,0,0,0,0,0,60,0,60,40,True,False,True,Right-arm offbreak,Left-hand bat
+South Africa,KJ Abbott,a9da7784,11,0,0,0,0,0.0,[2],1.0,6,4,0,5,1,0,1,0,0,0,0,5.0,1,0,0,0,0,0,29,8,37,37,True,False,False,Right-arm fast-medium,Right-hand bat
+South Africa,JA Morkel,c3d35165,12,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,43,True,False,True,Right-arm medium-fast,Left-hand bat
+South Africa,WD Parnell,3a60e0b5,13,0,0,0,0,0.0,"[4, 7]",1.667,10,2,0,17,0,2,1,0,0,0,1,10.2,0,0,0,0,0,0,27,0,27,35,True,False,False,Left-arm medium-fast,Left-hand bat
+South Africa,BE Hendricks,b56dc5f7,14,0,0,0,0,0.0,"[3, 6]",2.0,12,0,0,31,3,1,0,0,0,1,1,15.5,0,0,0,0,0,0,-6,0,-6,34,True,False,False,Left-arm fast-medium,Left-hand bat

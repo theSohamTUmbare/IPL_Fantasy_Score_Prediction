@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Leicestershire,CS Delport,afa78c3a,1,21,15,4,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,39,0,8,47
-Leicestershire,NJ Dexter,dc670143,2,30,17,4,1,176.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,62,0,0,62
-Leicestershire,MJ Cosgrove,be768595,3,9,12,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
-Leicestershire,BA Raine,4c0f3806,4,83,43,6,5,193.02,"[4, 8, 17, 20]",4.0,24,5,0,47,7,1,2,0,1,0,1,11.75,1,0,0,0,6,155,59,8,222
-Leicestershire,CN Ackermann,e734d090,5,29,20,2,1,145.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,49,0,0,49
-Leicestershire,Mohammad Nabi,62af8546,6,4,4,0,0,100.0,"[1, 3, 10, 16]",4.0,24,5,0,27,2,0,1,1,0,0,0,6.75,0,0,0,0,0,4,40,0,44
-Leicestershire,ZJ Chappell,fe5b4367,7,9,8,0,0,112.5,"[5, 11, 14, 18]",4.0,24,5,0,40,1,2,0,0,0,0,3,10.0,2,0,0,0,0,9,3,16,28
-Leicestershire,TJ Wells,eb1a5b03,8,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
-Leicestershire,EJH Eckersley,d510d457,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Leicestershire,CF Parkinson,aa1210d8,12,0,0,0,0,0.0,"[7, 9, 12, 15]",4.0,24,6,0,28,1,1,3,0,0,0,1,7.0,0,0,0,0,0,0,87,0,87
-Leicestershire,Mohammad Abbas,a089f93f,13,0,0,0,0,0.0,"[2, 6, 13, 19]",4.0,24,10,0,32,4,1,3,0,2,0,0,8.0,0,0,0,0,0,0,105,0,105
-Nottinghamshire,MH Wessels,90f47cf2,1,58,30,7,3,193.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,118,0,0,118
-Nottinghamshire,WAR Fraine,e3bc992b,2,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,1,0,16,17
-Nottinghamshire,TJ Moores,85dcb721,3,23,12,3,1,191.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,47,0,0,47
-Nottinghamshire,SR Patel,18fac429,4,13,17,0,0,76.47,"[1, 7, 9, 13]",4.0,24,3,0,33,0,2,0,0,0,0,1,8.25,0,0,0,0,0,13,3,0,16
-Nottinghamshire,DT Christian,2a2e6343,5,8,12,0,0,66.67,"[4, 11, 15, 18]",4.0,24,3,0,49,5,2,0,0,0,0,0,12.25,1,0,0,0,-2,6,-3,8,11
-Nottinghamshire,SJ Mullaney,0e0d43b4,6,9,7,0,1,128.57,"[10, 12]",2.0,12,3,0,16,2,0,1,0,1,0,0,8.0,0,0,0,0,0,15,36,0,51
-Nottinghamshire,JT Ball,3d0ed2f9,7,0,1,0,0,0.0,"[3, 6, 17, 19]",4.0,24,7,0,40,5,1,3,0,2,0,1,10.0,0,0,0,0,0,-2,100,0,98
-Nottinghamshire,WT Root,72898514,8,23,17,1,0,135.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,29,0,0,29
-Nottinghamshire,JD Libby,0d61d8f0,9,28,16,3,0,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,50,0,0,50
-Nottinghamshire,IS Sodhi,641ac5ff,10,5,4,1,0,125.0,"[8, 16]",2.0,12,3,0,23,1,2,1,0,0,0,0,11.5,0,0,0,0,0,9,24,0,33
-Nottinghamshire,HF Gurney,e412cb64,11,1,1,0,0,100.0,"[2, 5, 14, 20]",4.0,24,8,0,30,3,0,1,0,0,0,3,7.5,0,0,0,0,0,1,33,0,34
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Leicestershire,CS Delport,afa78c3a,1,21,15,4,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,39,0,8,47,35,True,False,False,Right-arm medium,Left-hand bat
+Leicestershire,NJ Dexter,dc670143,2,30,17,4,1,176.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,62,0,0,62,40,True,False,True,Right-arm medium-fast,Right-hand bat
+Leicestershire,MJ Cosgrove,be768595,3,9,12,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,40,True,False,False,Right-arm medium,Left-hand bat
+Leicestershire,BA Raine,4c0f3806,4,83,43,6,5,193.02,"[4, 8, 17, 20]",4.0,24,5,0,47,7,1,2,0,1,0,1,11.75,1,0,0,0,6,155,59,8,222,33,True,False,True,Right-arm medium-fast,Left-hand bat
+Leicestershire,CN Ackermann,e734d090,5,29,20,2,1,145.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,49,0,0,49,33,True,False,True,Right-arm offbreak,Right-hand bat
+Leicestershire,Mohammad Nabi,62af8546,6,4,4,0,0,100.0,"[1, 3, 10, 16]",4.0,24,5,0,27,2,0,1,1,0,0,0,6.75,0,0,0,0,0,4,40,0,44,40,True,False,True,Right-arm offbreak,Right-hand bat
+Leicestershire,ZJ Chappell,fe5b4367,7,9,8,0,0,112.5,"[5, 11, 14, 18]",4.0,24,5,0,40,1,2,0,0,0,0,3,10.0,2,0,0,0,0,9,3,16,28,28,True,False,False,Right-arm fast-medium,Right-hand bat
+Leicestershire,TJ Wells,eb1a5b03,8,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,32,True,False,True,Right-arm medium-fast,Right-hand bat
+Leicestershire,EJH Eckersley,d510d457,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,35,True,True,False,Right-arm offbreak,Right-hand bat
+Leicestershire,CF Parkinson,aa1210d8,12,0,0,0,0,0.0,"[7, 9, 12, 15]",4.0,24,6,0,28,1,1,3,0,0,0,1,7.0,0,0,0,0,0,0,87,0,87,28,True,False,False,Slow left-arm orthodox,Right-hand bat
+Leicestershire,Mohammad Abbas,a089f93f,13,0,0,0,0,0.0,"[2, 6, 13, 19]",4.0,24,10,0,32,4,1,3,0,2,0,0,8.0,0,0,0,0,0,0,105,0,105,35,True,False,False,Right-arm medium-fast,Right-hand bat
+Nottinghamshire,MH Wessels,90f47cf2,1,58,30,7,3,193.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,118,0,0,118,39,True,False,False,,Right-hand bat
+Nottinghamshire,WAR Fraine,e3bc992b,2,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,1,0,16,17,28,True,False,True,Right-arm medium,Right-hand bat
+Nottinghamshire,TJ Moores,85dcb721,3,23,12,3,1,191.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,47,0,0,47,28,True,False,False,,Left-hand bat
+Nottinghamshire,SR Patel,18fac429,4,13,17,0,0,76.47,"[1, 7, 9, 13]",4.0,24,3,0,33,0,2,0,0,0,0,1,8.25,0,0,0,0,0,13,3,0,16,40,True,False,True,Slow left-arm orthodox,Right-hand bat
+Nottinghamshire,DT Christian,2a2e6343,5,8,12,0,0,66.67,"[4, 11, 15, 18]",4.0,24,3,0,49,5,2,0,0,0,0,0,12.25,1,0,0,0,-2,6,-3,8,11,41,True,False,True,Right-arm fast-medium,Right-hand bat
+Nottinghamshire,SJ Mullaney,0e0d43b4,6,9,7,0,1,128.57,"[10, 12]",2.0,12,3,0,16,2,0,1,0,1,0,0,8.0,0,0,0,0,0,15,36,0,51,38,True,False,True,Right-arm medium,Right-hand bat
+Nottinghamshire,JT Ball,3d0ed2f9,7,0,1,0,0,0.0,"[3, 6, 17, 19]",4.0,24,7,0,40,5,1,3,0,2,0,1,10.0,0,0,0,0,0,-2,100,0,98,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Nottinghamshire,WT Root,72898514,8,23,17,1,0,135.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,29,0,0,29,32,True,False,False,Right-arm offbreak,Left-hand bat
+Nottinghamshire,JD Libby,0d61d8f0,9,28,16,3,0,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,50,0,0,50,32,True,False,False,Right-arm offbreak,Right-hand bat
+Nottinghamshire,IS Sodhi,641ac5ff,10,5,4,1,0,125.0,"[8, 16]",2.0,12,3,0,23,1,2,1,0,0,0,0,11.5,0,0,0,0,0,9,24,0,33,32,True,False,False,Legbreak,Right-hand bat
+Nottinghamshire,HF Gurney,e412cb64,11,1,1,0,0,100.0,"[2, 5, 14, 20]",4.0,24,8,0,30,3,0,1,0,0,0,3,7.5,0,0,0,0,0,1,33,0,34,38,True,False,False,Left-arm fast-medium,Right-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Rwanda,O Manishimwe,fb31ca49,1,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Rwanda,D Ndikubwimana,3cbedf51,2,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,1,0,12,13
-Rwanda,I Niyomugabo,72bf5103,3,39,31,5,0,125.81,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,63,0,16,79
-Rwanda,D Gumyusenge,eeb78e0a,4,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Rwanda,Yves Cyusa,b5aa28ce,5,30,23,5,0,130.43,"[15, 17, 19]",3.0,18,11,0,6,0,0,3,1,1,0,0,2.0,0,0,0,0,2,56,112,0,168
-Rwanda,C Rububagumya,8088632c,6,31,27,3,0,114.81,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,47,0,0,47
-Rwanda,E Rukiriza,3ac13a94,7,8,10,0,0,80.0,"[7, 9, 11, 13]",4.0,24,14,0,18,2,0,2,0,0,0,3,4.5,0,0,0,0,0,8,70,0,78
-Rwanda,Muhammad Nadir,090f96e4,8,17,9,1,1,188.89,"[2, 4, 14, 16]",4.0,24,18,0,9,0,0,1,0,0,1,0,2.25,0,0,0,0,0,27,49,0,76
-Rwanda,I Mugisha,d3eedb51,9,5,5,1,0,100.0,"[6, 8, 10, 12]",4.0,24,13,0,15,1,0,1,0,1,0,0,3.75,0,0,0,0,0,9,52,0,61
-Rwanda,Z Bimenyimana,ba57fb08,10,0,1,0,0,0.0,"[1, 3]",2.0,12,9,0,6,1,0,1,0,1,0,0,3.0,0,0,0,0,0,-2,48,0,46
-Rwanda,I Ntirenganya,e73f6c4b,11,0,0,0,0,0.0,"[5, 18, 20]",3.0,18,11,0,17,3,0,1,0,1,0,1,5.67,1,0,0,0,0,0,48,8,56
-Seychelles,T Horpinitch,90c734f8,1,4,7,1,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,8,0,16,24
-Seychelles,TKP Rajapaksha,b5dcec37,2,0,2,0,0,0.0,"[8, 10, 12, 14]",4.0,24,11,0,27,2,0,1,0,1,0,4,6.75,0,0,0,1,0,-2,46,6,50
-Seychelles,M Mariyappan,69cbd850,3,16,20,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
-Seychelles,Mazharul Islam,30564b3e,4,8,16,1,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,-4,8,0,14,22
-Seychelles,SKDT Madusanka,95c2d309,5,17,29,2,0,58.62,"[7, 9, 17, 19]",4.0,24,8,0,33,3,1,1,1,0,0,0,8.25,0,0,0,0,-4,21,41,0,62
-Seychelles,HL Harji,29663fda,6,4,3,1,0,133.33,"[1, 3, 15]",3.0,18,6,0,22,3,0,0,0,0,0,0,7.33,0,0,0,0,0,8,6,0,14
-Seychelles,STRA de Silva,21fe743b,7,6,14,0,0,42.86,[11],1.0,6,1,0,11,1,0,0,0,0,0,0,11.0,0,0,0,0,-6,0,1,0,1
-Seychelles,Jobayer Hossen,656fc15b,8,3,12,0,0,25.0,"[2, 4, 6, 20]",4.0,24,14,0,25,3,0,5,0,1,0,4,6.25,0,0,0,0,-6,-3,161,0,158
-Seychelles,SR Mohan,58533699,9,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
-Seychelles,N Krishna,c62a0327,10,3,10,0,0,30.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-3,0,0,-3
-Seychelles,S Rukmal,f5be7b08,11,4,5,1,0,80.0,"[5, 13, 16, 18]",4.0,24,9,0,27,3,0,1,0,0,0,3,6.75,1,0,0,0,0,8,36,8,52
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Rwanda,O Manishimwe,fb31ca49,1,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,22,True,False,False,,Right-hand bat
+Rwanda,D Ndikubwimana,3cbedf51,2,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,1,0,12,13,21,True,False,False,,Right-hand bat
+Rwanda,I Niyomugabo,72bf5103,3,39,31,5,0,125.81,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,63,0,16,79,21,True,False,False,,Right-hand bat
+Rwanda,D Gumyusenge,eeb78e0a,4,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,21,True,True,False,Right-arm medium-fast,Right-hand bat
+Rwanda,Yves Cyusa,b5aa28ce,5,30,23,5,0,130.43,"[15, 17, 19]",3.0,18,11,0,6,0,0,3,1,1,0,0,2.0,0,0,0,0,2,56,112,0,168,18,True,True,False,Right-arm offbreak,Right-hand bat
+Rwanda,C Rububagumya,8088632c,6,31,27,3,0,114.81,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,47,0,0,47,29,True,True,False,Right-arm medium,Right-hand bat
+Rwanda,E Rukiriza,3ac13a94,7,8,10,0,0,80.0,"[7, 9, 11, 13]",4.0,24,14,0,18,2,0,2,0,0,0,3,4.5,0,0,0,0,0,8,70,0,78,21,True,True,False,Right-arm offbreak,Right-hand bat
+Rwanda,Muhammad Nadir,090f96e4,8,17,9,1,1,188.89,"[2, 4, 14, 16]",4.0,24,18,0,9,0,0,1,0,0,1,0,2.25,0,0,0,0,0,27,49,0,76,26,True,True,False,Slow left-arm orthodox,Left-hand bat
+Rwanda,I Mugisha,d3eedb51,9,5,5,1,0,100.0,"[6, 8, 10, 12]",4.0,24,13,0,15,1,0,1,0,1,0,0,3.75,0,0,0,0,0,9,52,0,61,20,True,True,False,Legbreak,Right-hand bat
+Rwanda,Z Bimenyimana,ba57fb08,10,0,1,0,0,0.0,"[1, 3]",2.0,12,9,0,6,1,0,1,0,1,0,0,3.0,0,0,0,0,0,-2,48,0,46,26,True,True,False,Right-arm medium,Right-hand bat
+Rwanda,I Ntirenganya,e73f6c4b,11,0,0,0,0,0.0,"[5, 18, 20]",3.0,18,11,0,17,3,0,1,0,1,0,1,5.67,1,0,0,0,0,0,48,8,56,22,True,True,False,Left-arm medium,Right-hand bat
+Seychelles,T Horpinitch,90c734f8,1,4,7,1,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,8,0,16,24,32,True,True,False,Right-arm medium,Left-hand bat
+Seychelles,TKP Rajapaksha,b5dcec37,2,0,2,0,0,0.0,"[8, 10, 12, 14]",4.0,24,11,0,27,2,0,1,0,1,0,4,6.75,0,0,0,1,0,-2,46,6,50,32,True,True,False,Right-arm medium-fast,Right-hand bat
+Seychelles,M Mariyappan,69cbd850,3,16,20,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,28,True,False,False,,Right-hand bat
+Seychelles,Mazharul Islam,30564b3e,4,8,16,1,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,-4,8,0,14,22,31,True,False,False,,Right-hand bat
+Seychelles,SKDT Madusanka,95c2d309,5,17,29,2,0,58.62,"[7, 9, 17, 19]",4.0,24,8,0,33,3,1,1,1,0,0,0,8.25,0,0,0,0,-4,21,41,0,62,42,True,True,False,Right-arm medium-fast,Right-hand bat
+Seychelles,HL Harji,29663fda,6,4,3,1,0,133.33,"[1, 3, 15]",3.0,18,6,0,22,3,0,0,0,0,0,0,7.33,0,0,0,0,0,8,6,0,14,36,True,True,False,Right-arm medium-fast,Right-hand bat
+Seychelles,STRA de Silva,21fe743b,7,6,14,0,0,42.86,[11],1.0,6,1,0,11,1,0,0,0,0,0,0,11.0,0,0,0,0,-6,0,1,0,1,33,True,True,False,Legbreak,Right-hand bat
+Seychelles,Jobayer Hossen,656fc15b,8,3,12,0,0,25.0,"[2, 4, 6, 20]",4.0,24,14,0,25,3,0,5,0,1,0,4,6.25,0,0,0,0,-6,-3,161,0,158,30,True,True,False,Right-arm medium,Right-hand bat
+Seychelles,SR Mohan,58533699,9,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,35,True,False,False,,Right-hand bat
+Seychelles,N Krishna,c62a0327,10,3,10,0,0,30.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-3,0,0,-3,45,True,False,True,Slow left-arm orthodox,Right-hand bat
+Seychelles,S Rukmal,f5be7b08,11,4,5,1,0,80.0,"[5, 13, 16, 18]",4.0,24,9,0,27,3,0,1,0,0,0,3,6.75,1,0,0,0,0,8,36,8,52,31,True,True,False,Left-arm medium-fast,Right-hand bat

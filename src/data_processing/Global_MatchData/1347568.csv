@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Birmingham Bears,PR Stirling,cf494ffe,1,10,12,0,1,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
-Birmingham Bears,RM Yates,3581a798,2,9,4,2,0,225.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
-Birmingham Bears,AL Davies,29ede60b,3,9,8,1,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,13,0,16,29
-Birmingham Bears,SR Hain,67b9536c,4,83,43,7,4,193.02,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,153,0,0,153
-Birmingham Bears,DR Mousley,876dbe2d,5,11,10,2,0,110.0,"[6, 11, 14]",3.0,18,8,0,14,1,0,1,0,0,0,0,4.67,0,0,0,0,0,19,39,0,58
-Birmingham Bears,CG Benjamin,95a15317,6,46,28,4,2,164.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,82,0,0,82
-Birmingham Bears,CR Woakes,4c5d73db,7,4,7,0,0,57.14,"[1, 3, 16, 19]",4.0,24,11,0,34,2,2,2,0,1,0,3,8.5,0,0,0,0,0,4,69,0,73
-Birmingham Bears,HJH Brookes,2085e1fa,8,10,8,0,1,125.0,"[2, 4, 13, 20]",3.833,23,10,0,32,5,0,4,0,3,0,0,8.35,1,0,0,0,0,16,142,8,166
-Birmingham Bears,DR Briggs,f3abd0c9,11,0,0,0,0,0.0,"[7, 9]",2.0,12,2,0,15,0,1,0,0,0,0,0,7.5,2,0,0,0,0,0,2,16,18
-Birmingham Bears,JB Lintott,e5218454,12,0,0,0,0,0.0,"[8, 15, 17]",3.0,18,5,0,45,2,4,1,1,0,0,5,15.0,0,0,0,0,0,0,32,0,32
-Birmingham Bears,CN Miles,5fed6272,13,0,0,0,0,0.0,"[5, 10, 12, 18]",4.0,24,11,1,25,3,0,2,0,0,0,0,6.25,0,0,0,0,0,0,75,0,75
-Yorkshire,A Lyth,70b8fd28,1,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Yorkshire,DJ Malan,ad9c32a2,2,43,29,4,2,148.28,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,77,0,0,77
-Yorkshire,JM Bairstow,abb83e27,3,7,6,1,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
-Yorkshire,Shan Masood,6843a783,4,5,6,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17
-Yorkshire,WAR Fraine,e3bc992b,5,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Yorkshire,ML Revis,28217d89,6,10,8,2,0,125.0,"[4, 6, 16, 18]",4.0,24,10,0,25,2,1,2,0,1,0,0,6.25,1,0,0,0,0,18,70,8,96
-Yorkshire,BWM Mike,ed12fcd7,7,12,12,0,1,100.0,"[2, 9, 13, 20]",4.0,24,5,0,45,6,1,1,0,0,2,1,11.25,0,0,0,0,0,18,26,0,44
-Yorkshire,JA Thompson,1d2f290a,8,0,3,0,0,0.0,"[5, 7, 15, 19]",4.0,24,5,0,41,4,2,1,0,1,0,0,10.25,0,0,0,0,0,-2,36,0,34
-Yorkshire,DM Bess,ad46c747,9,42,28,4,1,150.0,"[8, 14]",2.0,12,3,0,19,2,0,1,0,1,0,0,9.5,1,0,0,0,0,68,36,8,112
-Yorkshire,JA Chohan,58be5e46,10,37,20,1,3,185.0,"[10, 12]",2.0,12,2,0,22,0,1,0,0,0,0,6,11.0,0,0,0,0,6,69,0,0,69
-Yorkshire,DJ Leech,2413a688,11,0,1,0,0,0.0,"[1, 3, 11, 17]",4.0,24,9,0,44,2,3,1,0,0,2,3,11.0,0,0,0,0,0,-2,32,0,30
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Birmingham Bears,PR Stirling,cf494ffe,1,10,12,0,1,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,34,True,False,True,Right-arm offbreak,Right-hand bat
+Birmingham Bears,RM Yates,3581a798,2,9,4,2,0,225.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,25,True,False,False,Right-arm offbreak,Left-hand bat
+Birmingham Bears,AL Davies,29ede60b,3,9,8,1,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,13,0,16,29,30,True,False,False,,Right-hand bat
+Birmingham Bears,SR Hain,67b9536c,4,83,43,7,4,193.02,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,153,0,0,153,29,True,False,False,Right-arm offbreak,Right-hand bat
+Birmingham Bears,DR Mousley,876dbe2d,5,11,10,2,0,110.0,"[6, 11, 14]",3.0,18,8,0,14,1,0,1,0,0,0,0,4.67,0,0,0,0,0,19,39,0,58,23,True,False,True,Right-arm offbreak,Left-hand bat
+Birmingham Bears,CG Benjamin,95a15317,6,46,28,4,2,164.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,82,0,0,82,25,True,True,False,Right-arm medium,Right-hand bat
+Birmingham Bears,CR Woakes,4c5d73db,7,4,7,0,0,57.14,"[1, 3, 16, 19]",4.0,24,11,0,34,2,2,2,0,1,0,3,8.5,0,0,0,0,0,4,69,0,73,36,True,False,True,Right-arm fast-medium,Right-hand bat
+Birmingham Bears,HJH Brookes,2085e1fa,8,10,8,0,1,125.0,"[2, 4, 13, 20]",3.833,23,10,0,32,5,0,4,0,3,0,0,8.35,1,0,0,0,0,16,142,8,166,25,True,False,False,Right-arm fast-medium,Right-hand bat
+Birmingham Bears,DR Briggs,f3abd0c9,11,0,0,0,0,0.0,"[7, 9]",2.0,12,2,0,15,0,1,0,0,0,0,0,7.5,2,0,0,0,0,0,2,16,18,33,True,False,False,Slow left-arm orthodox,Right-hand bat
+Birmingham Bears,JB Lintott,e5218454,12,0,0,0,0,0.0,"[8, 15, 17]",3.0,18,5,0,45,2,4,1,1,0,0,5,15.0,0,0,0,0,0,0,32,0,32,31,True,False,False,Left-arm wrist-spin,Right-hand bat
+Birmingham Bears,CN Miles,5fed6272,13,0,0,0,0,0.0,"[5, 10, 12, 18]",4.0,24,11,1,25,3,0,2,0,0,0,0,6.25,0,0,0,0,0,0,75,0,75,30,True,False,False,Right-arm medium,Right-hand bat
+Yorkshire,A Lyth,70b8fd28,1,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,37,True,False,False,Right-arm offbreak,Left-hand bat
+Yorkshire,DJ Malan,ad9c32a2,2,43,29,4,2,148.28,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,77,0,0,77,37,True,False,False,Legbreak,Left-hand bat
+Yorkshire,JM Bairstow,abb83e27,3,7,6,1,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,35,True,True,False,Right-arm medium,Right-hand bat
+Yorkshire,Shan Masood,6843a783,4,5,6,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17,35,True,False,False,Right-arm medium-fast,Left-hand bat
+Yorkshire,WAR Fraine,e3bc992b,5,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,28,True,False,True,Right-arm medium,Right-hand bat
+Yorkshire,ML Revis,28217d89,6,10,8,2,0,125.0,"[4, 6, 16, 18]",4.0,24,10,0,25,2,1,2,0,1,0,0,6.25,1,0,0,0,0,18,70,8,96,23,True,False,False,Right-arm medium-fast,Right-hand bat
+Yorkshire,BWM Mike,ed12fcd7,7,12,12,0,1,100.0,"[2, 9, 13, 20]",4.0,24,5,0,45,6,1,1,0,0,2,1,11.25,0,0,0,0,0,18,26,0,44,26,True,False,True,Right-arm medium-fast,Right-hand bat
+Yorkshire,JA Thompson,1d2f290a,8,0,3,0,0,0.0,"[5, 7, 15, 19]",4.0,24,5,0,41,4,2,1,0,1,0,0,10.25,0,0,0,0,0,-2,36,0,34,28,True,False,True,Right-arm medium-fast,Left-hand bat
+Yorkshire,DM Bess,ad46c747,9,42,28,4,1,150.0,"[8, 14]",2.0,12,3,0,19,2,0,1,0,1,0,0,9.5,1,0,0,0,0,68,36,8,112,27,True,False,True,Right-arm offbreak,Right-hand bat
+Yorkshire,JA Chohan,58be5e46,10,37,20,1,3,185.0,"[10, 12]",2.0,12,2,0,22,0,1,0,0,0,0,6,11.0,0,0,0,0,6,69,0,0,69,22,True,False,False,Legbreak googly,Right-hand bat
+Yorkshire,DJ Leech,2413a688,11,0,1,0,0,0.0,"[1, 3, 11, 17]",4.0,24,9,0,44,2,3,1,0,0,2,3,11.0,0,0,0,0,0,-2,32,0,30,24,True,False,False,Right-arm medium,Right-hand bat

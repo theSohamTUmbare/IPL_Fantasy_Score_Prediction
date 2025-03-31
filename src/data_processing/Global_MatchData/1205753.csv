@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Tamil Nadu,M Vijay,4b57e452,1,51,42,5,1,121.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,85,0,0,85
-Tamil Nadu,N Jagadeesan,bd54eef5,2,2,7,0,0,28.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Tamil Nadu,KD Karthik,c03f1114,3,61,41,5,4,148.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,2,115,0,12,127
-Tamil Nadu,V Shankar,0994d0ae,4,28,14,2,2,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,58,0,8,66
-Tamil Nadu,M Shahrukh Khan,7dcb9bc9,5,4,3,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16
-Tamil Nadu,Washington Sundar,f19ccfad,6,5,6,0,0,83.33,"[11, 13]",2.0,12,3,0,16,1,1,0,0,0,0,0,8.0,0,0,0,0,0,5,3,0,8
-Tamil Nadu,M Mohammed,1b7c4d69,7,8,7,1,0,114.29,"[10, 12]",2.0,12,2,0,12,1,0,1,0,0,0,0,6.0,0,0,0,0,0,12,29,0,41
-Tamil Nadu,G Periyaswamy,2e099662,7,0,0,0,0,0.0,"[4, 15, 17, 19]",4.0,24,9,0,35,2,2,2,0,0,0,3,8.75,1,0,0,0,0,0,59,8,67
-Tamil Nadu,M Ashwin,e2db2409,8,0,0,0,0,0.0,"[7, 9, 14, 16]",4.0,24,6,0,31,4,0,1,0,0,0,0,7.75,0,0,0,0,0,0,31,0,31
-Tamil Nadu,T Natarajan,ce794613,8,0,0,0,0,0.0,"[2, 5, 18, 20]",3.833,23,9,0,46,1,5,1,0,0,0,2,12.0,1,0,0,0,0,0,28,8,36
-Tamil Nadu,R Sai Kishore,c7a995d3,9,0,0,0,0,0.0,"[1, 3, 6, 8]",4.0,24,10,0,32,1,3,0,0,0,0,0,8.0,0,0,0,0,0,0,10,0,10
-Uttar Pradesh,AD Nath,f10e94c4,1,25,28,2,1,89.29,[11],1.0,6,1,0,10,0,1,0,0,0,0,0,10.0,0,0,0,0,0,43,1,0,44
-Uttar Pradesh,Samarth Singh,9889da93,2,21,15,1,2,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,39,0,0,39
-Uttar Pradesh,Upendra Yadav,80ffea17,3,70,41,4,5,170.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,2,0,0,6,130,0,32,162
-Uttar Pradesh,RK Singh,0a509d6b,4,16,14,2,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,24,0,16,40
-Uttar Pradesh,Shubham Chaubey,58588e5a,5,35,18,1,3,194.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,6,67,0,12,79
-Uttar Pradesh,Sameer Choudhary,9e67cfd0,6,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Uttar Pradesh,Mohsin Khan,c33d8116,7,0,1,0,0,0.0,"[5, 8, 15, 19]",4.0,24,13,0,13,1,0,2,0,0,0,0,3.25,0,0,0,0,0,0,69,0,69
-Uttar Pradesh,AS Rajpoot,db31895a,7,0,0,0,0,0.0,"[1, 3, 17, 20]",4.0,24,8,0,35,4,1,2,0,0,0,1,8.75,0,0,0,0,0,0,58,0,58
-Uttar Pradesh,Mohit Jangra,4052ab5c,8,0,0,0,0,0.0,"[2, 6, 13]",3.0,18,6,0,30,4,1,0,0,0,0,0,10.0,0,0,0,0,0,0,4,0,4
-Uttar Pradesh,Saurabh Kumar,2a6afc6f,9,0,0,0,0,0.0,"[4, 10, 12, 16]",4.0,24,4,0,38,2,2,0,0,0,0,2,9.5,0,0,0,0,0,0,4,0,4
-Uttar Pradesh,Kuldeep Yadav,8d2c70ad,10,0,0,0,0,0.0,"[7, 9, 14, 18]",4.0,24,7,0,37,3,2,2,0,0,0,1,9.25,0,0,0,0,0,0,57,0,57
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Tamil Nadu,M Vijay,4b57e452,1,51,42,5,1,121.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,85,0,0,85,40,True,False,False,Right-arm offbreak,Right-hand bat
+Tamil Nadu,N Jagadeesan,bd54eef5,2,2,7,0,0,28.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,29,True,False,False,,Right-hand bat
+Tamil Nadu,KD Karthik,c03f1114,3,61,41,5,4,148.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,2,115,0,12,127,39,True,True,False,Right-arm offbreak,Right-hand bat
+Tamil Nadu,V Shankar,0994d0ae,4,28,14,2,2,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,58,0,8,66,34,True,False,True,Right-arm medium,Right-hand bat
+Tamil Nadu,M Shahrukh Khan,7dcb9bc9,5,4,3,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16,29,True,False,False,Right-arm offbreak,Right-hand bat
+Tamil Nadu,Washington Sundar,f19ccfad,6,5,6,0,0,83.33,"[11, 13]",2.0,12,3,0,16,1,1,0,0,0,0,0,8.0,0,0,0,0,0,5,3,0,8,25,True,False,True,Right-arm offbreak,Left-hand bat
+Tamil Nadu,M Mohammed,1b7c4d69,7,8,7,1,0,114.29,"[10, 12]",2.0,12,2,0,12,1,0,1,0,0,0,0,6.0,0,0,0,0,0,12,29,0,41,33,True,False,False,Right-arm medium,Right-hand bat
+Tamil Nadu,G Periyaswamy,2e099662,7,0,0,0,0,0.0,"[4, 15, 17, 19]",4.0,24,9,0,35,2,2,2,0,0,0,3,8.75,1,0,0,0,0,0,59,8,67,31,True,False,False,Right-arm medium,Right-hand bat
+Tamil Nadu,M Ashwin,e2db2409,8,0,0,0,0,0.0,"[7, 9, 14, 16]",4.0,24,6,0,31,4,0,1,0,0,0,0,7.75,0,0,0,0,0,0,31,0,31,34,True,False,False,Legbreak googly,Right-hand bat
+Tamil Nadu,T Natarajan,ce794613,8,0,0,0,0,0.0,"[2, 5, 18, 20]",3.833,23,9,0,46,1,5,1,0,0,0,2,12.0,1,0,0,0,0,0,28,8,36,33,True,False,False,Left-arm medium,Left-hand bat
+Tamil Nadu,R Sai Kishore,c7a995d3,9,0,0,0,0,0.0,"[1, 3, 6, 8]",4.0,24,10,0,32,1,3,0,0,0,0,0,8.0,0,0,0,0,0,0,10,0,10,28,True,False,False,Slow left-arm orthodox,Left-hand bat
+Uttar Pradesh,AD Nath,f10e94c4,1,25,28,2,1,89.29,[11],1.0,6,1,0,10,0,1,0,0,0,0,0,10.0,0,0,0,0,0,43,1,0,44,31,True,False,False,Right-arm medium-fast,Right-hand bat
+Uttar Pradesh,Samarth Singh,9889da93,2,21,15,1,2,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,39,0,0,39,33,True,False,False,Right-arm offbreak,Right-hand bat
+Uttar Pradesh,Upendra Yadav,80ffea17,3,70,41,4,5,170.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,2,0,0,6,130,0,32,162,28,True,True,False,Right-arm offbreak,Right-hand bat
+Uttar Pradesh,RK Singh,0a509d6b,4,16,14,2,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,24,0,16,40,27,True,False,False,Right-arm offbreak,Left-hand bat
+Uttar Pradesh,Shubham Chaubey,58588e5a,5,35,18,1,3,194.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,6,67,0,12,79,29,True,True,False,Right-arm offbreak,Right-hand bat
+Uttar Pradesh,Sameer Choudhary,9e67cfd0,6,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,25,True,True,False,Right-arm offbreak,Right-hand bat
+Uttar Pradesh,Mohsin Khan,c33d8116,7,0,1,0,0,0.0,"[5, 8, 15, 19]",4.0,24,13,0,13,1,0,2,0,0,0,0,3.25,0,0,0,0,0,0,69,0,69,26,True,False,False,Left-arm medium-fast,Left-hand bat
+Uttar Pradesh,AS Rajpoot,db31895a,7,0,0,0,0,0.0,"[1, 3, 17, 20]",4.0,24,8,0,35,4,1,2,0,0,0,1,8.75,0,0,0,0,0,0,58,0,58,31,True,False,False,Right-arm medium,Right-hand bat
+Uttar Pradesh,Mohit Jangra,4052ab5c,8,0,0,0,0,0.0,"[2, 6, 13]",3.0,18,6,0,30,4,1,0,0,0,0,0,10.0,0,0,0,0,0,0,4,0,4,25,True,True,False,Left-arm medium,Left-hand bat
+Uttar Pradesh,Saurabh Kumar,2a6afc6f,9,0,0,0,0,0.0,"[4, 10, 12, 16]",4.0,24,4,0,38,2,2,0,0,0,0,2,9.5,0,0,0,0,0,0,4,0,4,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Uttar Pradesh,Kuldeep Yadav,8d2c70ad,10,0,0,0,0,0.0,"[7, 9, 14, 18]",4.0,24,7,0,37,3,2,2,0,0,0,1,9.25,0,0,0,0,0,0,57,0,57,30,True,False,False,Left-arm wrist-spin,Left-hand bat

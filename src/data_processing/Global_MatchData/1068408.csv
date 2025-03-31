@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Glamorgan,AHT Donald,72918338,1,33,29,4,0,113.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,53,0,0,53
-Glamorgan,NJ Selman,bab08c8b,2,66,41,8,0,160.98,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,110,0,8,118
-Glamorgan,CA Ingram,c995d726,3,35,25,3,1,140.0,"[7, 11, 13, 15]",4.0,24,2,0,42,3,2,0,0,0,0,0,10.5,0,0,0,0,2,59,0,0,59
-Glamorgan,CB Cooke,6755cd5c,4,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Glamorgan,GG Wagg,450f6fa6,5,28,16,3,1,175.0,"[4, 12, 14]",3.0,18,7,0,20,3,0,2,0,0,0,0,6.67,0,0,0,0,6,56,59,0,115
-Glamorgan,JA Rudolph,42537f07,6,7,3,0,1,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
-Glamorgan,CAJ Meschede,eddf25bd,7,2,4,0,0,50.0,[9],1.0,6,0,0,12,2,0,0,0,0,0,0,12.0,0,0,0,0,0,2,0,0,2
-Glamorgan,M de Lange,d4eef961,8,0,0,0,0,0.0,"[6, 16, 18, 20]",4.0,24,8,0,32,5,0,1,0,1,2,0,8.0,2,0,0,0,0,0,41,16,57
-Glamorgan,AG Salter,1a45b864,8,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,7,0,25,1,2,1,0,0,0,1,8.33,0,0,0,0,0,0,32,0,32
-Glamorgan,MG Hogan,5da34add,9,0,0,0,0,0.0,"[2, 10, 17, 19]",4.0,24,4,0,39,4,1,1,0,0,0,0,9.75,0,0,0,0,0,0,29,0,29
-Glamorgan,LJ Carey,5e6d1a54,10,0,0,0,0,0.0,[8],1.0,6,0,0,10,1,0,0,0,0,0,1,10.0,1,0,0,0,0,0,0,8,8
-Somerset,L Gregory,06c2de82,1,18,12,2,1,150.0,"[5, 11, 18]",3.0,18,1,0,39,4,1,1,0,0,2,2,13.0,0,0,0,0,0,32,20,0,52
-Somerset,SM Davies,8fc65c2b,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,-2,0,12,10
-Somerset,JG Myburgh,47b4ad09,3,87,50,11,2,174.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,161,0,0,161
-Somerset,D Elgar,33085ffb,4,24,19,2,1,126.32,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,38,0,16,54
-Somerset,JC Hildreth,782c0568,5,9,7,1,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
-Somerset,J Allenby,7d5e0b78,6,21,18,2,0,116.67,[10],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,29,1,0,30
-Somerset,RE van der Merwe,05c2ca46,7,10,5,0,1,200.0,"[2, 7, 13, 17]",4.0,24,1,0,45,5,1,0,0,0,0,0,11.25,0,0,0,0,0,16,-3,0,13
-Somerset,PD Trego,93e06301,8,7,8,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
-Somerset,C Overton,e9987a94,8,0,0,0,0,0.0,"[3, 9, 14, 19]",4.0,24,8,0,35,4,1,2,0,0,0,1,8.75,0,0,0,0,0,0,58,0,58
-Somerset,MTC Waller,d74d1090,9,0,0,0,0,0.0,"[1, 8, 12, 15]",4.0,24,9,0,22,1,0,1,0,0,0,0,5.5,0,0,0,0,0,0,38,0,38
-Somerset,PA van Meekeren,4557dc54,10,0,0,0,0,0.0,"[4, 6, 16, 20]",4.0,24,6,0,28,3,0,1,0,1,0,0,7.0,1,0,0,0,0,0,41,8,49
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Glamorgan,AHT Donald,72918338,1,33,29,4,0,113.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,53,0,0,53,28,True,False,False,Right-arm offbreak,Right-hand bat
+Glamorgan,NJ Selman,bab08c8b,2,66,41,8,0,160.98,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,110,0,8,118,29,True,False,False,Right-arm medium,Right-hand bat
+Glamorgan,CA Ingram,c995d726,3,35,25,3,1,140.0,"[7, 11, 13, 15]",4.0,24,2,0,42,3,2,0,0,0,0,0,10.5,0,0,0,0,2,59,0,0,59,39,True,False,False,Legbreak,Left-hand bat
+Glamorgan,CB Cooke,6755cd5c,4,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,38,True,True,False,Right-arm slow-medium,Right-hand bat
+Glamorgan,GG Wagg,450f6fa6,5,28,16,3,1,175.0,"[4, 12, 14]",3.0,18,7,0,20,3,0,2,0,0,0,0,6.67,0,0,0,0,6,56,59,0,115,41,True,False,True,Left-arm medium-fast,Right-hand bat
+Glamorgan,JA Rudolph,42537f07,6,7,3,0,1,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,43,True,False,False,Legbreak googly,Left-hand bat
+Glamorgan,CAJ Meschede,eddf25bd,7,2,4,0,0,50.0,[9],1.0,6,0,0,12,2,0,0,0,0,0,0,12.0,0,0,0,0,0,2,0,0,2,33,True,False,True,Right-arm medium-fast,Right-hand bat
+Glamorgan,M de Lange,d4eef961,8,0,0,0,0,0.0,"[6, 16, 18, 20]",4.0,24,8,0,32,5,0,1,0,1,2,0,8.0,2,0,0,0,0,0,41,16,57,34,True,False,False,Right-arm fast,Right-hand bat
+Glamorgan,AG Salter,1a45b864,8,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,7,0,25,1,2,1,0,0,0,1,8.33,0,0,0,0,0,0,32,0,32,31,True,False,False,Right-arm offbreak,Right-hand bat
+Glamorgan,MG Hogan,5da34add,9,0,0,0,0,0.0,"[2, 10, 17, 19]",4.0,24,4,0,39,4,1,1,0,0,0,0,9.75,0,0,0,0,0,0,29,0,29,43,True,False,False,Right-arm fast-medium,Right-hand bat
+Glamorgan,LJ Carey,5e6d1a54,10,0,0,0,0,0.0,[8],1.0,6,0,0,10,1,0,0,0,0,0,1,10.0,1,0,0,0,0,0,0,8,8,27,True,False,False,Right-arm fast-medium,Right-hand bat
+Somerset,L Gregory,06c2de82,1,18,12,2,1,150.0,"[5, 11, 18]",3.0,18,1,0,39,4,1,1,0,0,2,2,13.0,0,0,0,0,0,32,20,0,52,32,True,False,True,Right-arm medium-fast,Right-hand bat
+Somerset,SM Davies,8fc65c2b,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,-2,0,12,10,38,True,False,False,,Left-hand bat
+Somerset,JG Myburgh,47b4ad09,3,87,50,11,2,174.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,161,0,0,161,44,True,False,False,Right-arm offbreak,Right-hand bat
+Somerset,D Elgar,33085ffb,4,24,19,2,1,126.32,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,38,0,16,54,37,True,False,False,Slow left-arm orthodox,Left-hand bat
+Somerset,JC Hildreth,782c0568,5,9,7,1,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,40,True,False,False,Right-arm medium-fast,Right-hand bat
+Somerset,J Allenby,7d5e0b78,6,21,18,2,0,116.67,[10],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,29,1,0,30,42,True,False,True,Right-arm medium,Right-hand bat
+Somerset,RE van der Merwe,05c2ca46,7,10,5,0,1,200.0,"[2, 7, 13, 17]",4.0,24,1,0,45,5,1,0,0,0,0,0,11.25,0,0,0,0,0,16,-3,0,13,40,True,False,True,Slow left-arm orthodox,Right-hand bat
+Somerset,PD Trego,93e06301,8,7,8,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,43,True,False,True,Right-arm medium,Right-hand bat
+Somerset,C Overton,e9987a94,8,0,0,0,0,0.0,"[3, 9, 14, 19]",4.0,24,8,0,35,4,1,2,0,0,0,1,8.75,0,0,0,0,0,0,58,0,58,30,True,False,True,Right-arm medium-fast,Right-hand bat
+Somerset,MTC Waller,d74d1090,9,0,0,0,0,0.0,"[1, 8, 12, 15]",4.0,24,9,0,22,1,0,1,0,0,0,0,5.5,0,0,0,0,0,0,38,0,38,37,True,False,False,Legbreak,Right-hand bat
+Somerset,PA van Meekeren,4557dc54,10,0,0,0,0,0.0,"[4, 6, 16, 20]",4.0,24,6,0,28,3,0,1,0,1,0,0,7.0,1,0,0,0,0,0,41,8,49,32,True,False,False,Right-arm fast-medium,Right-hand bat

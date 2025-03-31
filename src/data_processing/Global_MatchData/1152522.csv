@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Melbourne Renegades,MW Harvey,47dc9794,1,30,25,4,1,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,56,0,8,64
-Melbourne Renegades,TP Ludeman,c3f7898b,2,10,10,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
-Melbourne Renegades,CL White,d0513f63,3,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Melbourne Renegades,TLW Cooper,2318ba22,4,13,17,0,0,76.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
-Melbourne Renegades,Mohammad Nabi,62af8546,5,8,13,0,0,61.54,"[2, 16]",2.0,12,1,0,17,0,1,1,0,0,0,0,8.5,0,0,0,0,-2,6,26,0,32
-Melbourne Renegades,DT Christian,2a2e6343,6,3,10,0,0,30.0,"[8, 15]",2.0,12,3,0,23,2,1,0,0,0,0,1,11.5,3,0,0,0,-6,-3,-1,28,24
-Melbourne Renegades,SB Harper,a756e61a,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Melbourne Renegades,JD Wildermuth,f1c61793,8,6,13,0,0,46.15,"[5, 10, 12, 14]",4.0,24,9,0,22,1,0,2,0,1,0,0,5.5,0,0,0,0,-6,0,71,0,71
-Melbourne Renegades,CJ Boyce,51a60c16,9,13,14,0,1,92.86,"[9, 11, 13, 17]",4.0,24,2,0,31,0,0,0,0,0,0,3,7.75,0,0,0,0,0,19,2,0,21
-Melbourne Renegades,KW Richardson,dfc4d8b5,10,8,7,0,0,114.29,"[4, 6, 18, 20]",4.0,24,11,0,22,1,1,3,0,0,0,0,5.5,1,0,0,0,0,8,94,8,110
-Melbourne Renegades,Usman Shinwari,f0e722e0,11,2,4,0,0,50.0,"[1, 3, 7, 19]",4.0,24,14,0,17,1,0,1,0,1,0,3,4.25,0,0,0,0,0,2,53,0,55
-Sydney Sixers,J Edwards,f787e0eb,1,5,9,0,0,55.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
-Sydney Sixers,JL Denly,bdadf7da,2,12,12,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,18,0,16,34
-Sydney Sixers,DP Hughes,f3982af9,3,6,11,1,0,54.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,6,0,0,6
-Sydney Sixers,MC Henriques,32198ae0,4,20,20,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,24,0,8,32
-Sydney Sixers,JC Silk,7a6dc294,5,30,33,0,0,90.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,34,0,16,50
-Sydney Sixers,JR Philippe,39086549,6,20,13,1,1,153.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,4,34,0,16,50
-Sydney Sixers,TK Curran,e86754b2,7,23,15,2,0,153.33,"[2, 5, 17, 20]",4.0,24,13,0,18,0,1,3,0,1,0,2,4.5,0,0,0,0,4,35,106,0,141
-Sydney Sixers,SA Abbott,1a2676c5,8,9,7,0,1,128.57,"[4, 6, 15, 18]",4.0,24,12,0,16,0,0,2,0,0,0,0,4.0,0,0,0,0,0,15,68,0,83
-Sydney Sixers,SNJ O'Keefe,3540beff,11,0,0,0,0,0.0,"[7, 11, 13, 16]",4.0,24,12,0,19,0,1,2,0,0,0,0,4.75,0,0,0,0,0,0,68,0,68
-Sydney Sixers,BJ Dwarshuis,e1b9f3a9,12,0,0,0,0,0.0,"[1, 3, 9, 19]",4.0,24,10,0,31,5,0,0,0,0,0,0,7.75,0,0,0,0,0,0,10,0,10
-Sydney Sixers,BAD Manenti,ab21795b,13,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,13,0,13,0,0,2,0,1,0,1,3.25,0,0,0,0,0,0,77,0,77
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Melbourne Renegades,MW Harvey,47dc9794,1,30,25,4,1,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,56,0,8,64,24,True,False,False,Right-arm medium-fast,Left-hand bat
+Melbourne Renegades,TP Ludeman,c3f7898b,2,10,10,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,37,True,False,False,,Right-hand bat
+Melbourne Renegades,CL White,d0513f63,3,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,41,True,False,False,Legbreak googly,Right-hand bat
+Melbourne Renegades,TLW Cooper,2318ba22,4,13,17,0,0,76.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,38,True,False,False,Right-arm offbreak,Right-hand bat
+Melbourne Renegades,Mohammad Nabi,62af8546,5,8,13,0,0,61.54,"[2, 16]",2.0,12,1,0,17,0,1,1,0,0,0,0,8.5,0,0,0,0,-2,6,26,0,32,40,True,False,True,Right-arm offbreak,Right-hand bat
+Melbourne Renegades,DT Christian,2a2e6343,6,3,10,0,0,30.0,"[8, 15]",2.0,12,3,0,23,2,1,0,0,0,0,1,11.5,3,0,0,0,-6,-3,-1,28,24,41,True,False,True,Right-arm fast-medium,Right-hand bat
+Melbourne Renegades,SB Harper,a756e61a,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,28,True,False,False,,Right-hand bat
+Melbourne Renegades,JD Wildermuth,f1c61793,8,6,13,0,0,46.15,"[5, 10, 12, 14]",4.0,24,9,0,22,1,0,2,0,1,0,0,5.5,0,0,0,0,-6,0,71,0,71,31,True,False,True,Right-arm medium-fast,Right-hand bat
+Melbourne Renegades,CJ Boyce,51a60c16,9,13,14,0,1,92.86,"[9, 11, 13, 17]",4.0,24,2,0,31,0,0,0,0,0,0,3,7.75,0,0,0,0,0,19,2,0,21,35,True,False,False,Legbreak,Right-hand bat
+Melbourne Renegades,KW Richardson,dfc4d8b5,10,8,7,0,0,114.29,"[4, 6, 18, 20]",4.0,24,11,0,22,1,1,3,0,0,0,0,5.5,1,0,0,0,0,8,94,8,110,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Melbourne Renegades,Usman Shinwari,f0e722e0,11,2,4,0,0,50.0,"[1, 3, 7, 19]",4.0,24,14,0,17,1,0,1,0,1,0,3,4.25,0,0,0,0,0,2,53,0,55,31,True,False,False,Left-arm medium-fast,Right-hand bat
+Sydney Sixers,J Edwards,f787e0eb,1,5,9,0,0,55.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,24,True,False,False,Right-arm medium,Right-hand bat
+Sydney Sixers,JL Denly,bdadf7da,2,12,12,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,18,0,16,34,39,True,False,False,Legbreak,Right-hand bat
+Sydney Sixers,DP Hughes,f3982af9,3,6,11,1,0,54.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,6,0,0,6,36,True,False,False,Right-arm medium,Left-hand bat
+Sydney Sixers,MC Henriques,32198ae0,4,20,20,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,24,0,8,32,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Sydney Sixers,JC Silk,7a6dc294,5,30,33,0,0,90.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,34,0,16,50,32,True,False,False,,Right-hand bat
+Sydney Sixers,JR Philippe,39086549,6,20,13,1,1,153.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,4,34,0,16,50,27,True,False,False,,Right-hand bat
+Sydney Sixers,TK Curran,e86754b2,7,23,15,2,0,153.33,"[2, 5, 17, 20]",4.0,24,13,0,18,0,1,3,0,1,0,2,4.5,0,0,0,0,4,35,106,0,141,30,True,False,True,Right-arm fast-medium,Right-hand bat
+Sydney Sixers,SA Abbott,1a2676c5,8,9,7,0,1,128.57,"[4, 6, 15, 18]",4.0,24,12,0,16,0,0,2,0,0,0,0,4.0,0,0,0,0,0,15,68,0,83,33,True,False,True,Right-arm fast-medium,Right-hand bat
+Sydney Sixers,SNJ O'Keefe,3540beff,11,0,0,0,0,0.0,"[7, 11, 13, 16]",4.0,24,12,0,19,0,1,2,0,0,0,0,4.75,0,0,0,0,0,0,68,0,68,40,True,False,True,Slow left-arm orthodox,Right-hand bat
+Sydney Sixers,BJ Dwarshuis,e1b9f3a9,12,0,0,0,0,0.0,"[1, 3, 9, 19]",4.0,24,10,0,31,5,0,0,0,0,0,0,7.75,0,0,0,0,0,0,10,0,10,30,True,False,False,Left-arm fast-medium,Left-hand bat
+Sydney Sixers,BAD Manenti,ab21795b,13,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,13,0,13,0,0,2,0,1,0,1,3.25,0,0,0,0,0,0,77,0,77,28,True,False,False,Right-arm offbreak,Right-hand bat

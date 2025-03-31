@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Barbados Royals,GD Phillips,9a46c4e5,1,5,6,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
-Barbados Royals,J Charles,09a9d073,2,12,4,3,0,300.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
-Barbados Royals,SD Hope,1fc6ef83,3,44,38,4,1,115.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,70,0,0,70
-Barbados Royals,JO Holder,0f721006,4,10,14,2,0,71.43,"[2, 5, 15, 19]",4.0,24,10,0,45,2,4,1,0,1,0,3,11.25,1,0,0,0,0,18,39,8,65
-Barbados Royals,KR Mayers,73c18486,5,9,16,0,0,56.25,"[7, 9, 16]",3.0,18,8,0,20,1,1,0,0,0,0,1,6.67,0,0,0,0,-4,5,10,0,15
-Barbados Royals,Azam Khan,ee8f1a6d,6,28,16,0,3,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,56,0,8,64
-Barbados Royals,NLTC Perera,0f12f9df,7,3,6,0,0,50.0,"[14, 17, 20]",3.0,18,4,0,38,3,2,0,0,0,0,0,12.67,0,0,0,0,0,3,-2,0,1
-Barbados Royals,AR Nurse,4a745f65,8,8,11,1,0,72.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
-Barbados Royals,Mohammad Amir,e174dadd,9,0,0,0,0,0.0,"[1, 3, 12, 18]",4.0,24,10,0,20,1,0,1,0,0,0,3,5.0,0,0,0,0,0,0,39,0,39
-Barbados Royals,HR Walsh,1ac2a995,9,16,9,0,2,177.78,"[11, 13]",2.0,12,6,0,25,0,3,0,0,0,1,2,12.5,0,0,0,0,0,28,0,0,28
-Barbados Royals,O Thomas,c6097d68,10,0,0,0,0,0.0,"[4, 6, 8, 10]",4.0,24,16,0,22,2,0,3,1,1,1,7,5.5,0,0,0,0,0,0,115,0,115
-St Kitts and Nevis Patriots,E Lewis,0ebfb1ad,1,6,8,1,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
-St Kitts and Nevis Patriots,DC Thomas,08a4f9ad,2,7,9,1,0,77.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,2,0,0,11,0,32,43
-St Kitts and Nevis Patriots,CH Gayle,db584dad,3,12,8,1,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
-St Kitts and Nevis Patriots,Asif Ali,0a4736eb,4,8,11,1,0,72.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20
-St Kitts and Nevis Patriots,SE Rutherford,d014d5ac,5,53,43,2,4,123.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,93,0,8,101
-St Kitts and Nevis Patriots,DJ Bravo,87e562a9,6,47,34,1,4,138.24,"[14, 16, 18]",3.0,18,1,0,37,1,3,0,0,0,0,2,12.33,1,0,0,0,2,81,-5,8,84
-St Kitts and Nevis Patriots,FA Allen,b52ffbbd,7,19,7,2,1,271.43,"[9, 11, 13]",3.0,18,7,0,12,1,0,1,0,0,0,0,4.0,1,0,0,0,0,33,38,8,79
-St Kitts and Nevis Patriots,DC Drakes,34b332d3,9,0,0,0,0,0.0,"[5, 7, 17, 19]",4.0,24,15,0,13,1,0,2,0,0,0,1,3.25,0,0,0,0,0,0,71,0,71
-St Kitts and Nevis Patriots,SS Cottrell,a1d053dd,10,0,0,0,0,0.0,"[1, 3, 15, 20]",4.0,24,11,1,39,3,2,2,0,0,1,5,9.75,0,0,0,0,0,0,73,0,73
-St Kitts and Nevis Patriots,PA van Meekeren,4557dc54,11,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,6,0,25,4,0,0,0,0,0,1,8.33,0,0,0,0,0,0,6,0,6
-St Kitts and Nevis Patriots,Fawad Ahmed,22ae3041,12,0,0,0,0,0.0,"[8, 10, 12]",3.0,18,5,0,19,0,1,0,0,0,0,0,6.33,0,0,0,0,0,0,7,0,7
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Barbados Royals,GD Phillips,9a46c4e5,1,5,6,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,28,True,False,True,Right-arm offbreak,Right-hand bat
+Barbados Royals,J Charles,09a9d073,2,12,4,3,0,300.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24,36,True,False,False,,Right-hand bat
+Barbados Royals,SD Hope,1fc6ef83,3,44,38,4,1,115.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,70,0,0,70,31,True,False,False,,Right-hand bat
+Barbados Royals,JO Holder,0f721006,4,10,14,2,0,71.43,"[2, 5, 15, 19]",4.0,24,10,0,45,2,4,1,0,1,0,3,11.25,1,0,0,0,0,18,39,8,65,33,True,False,True,Right-arm medium-fast,Right-hand bat
+Barbados Royals,KR Mayers,73c18486,5,9,16,0,0,56.25,"[7, 9, 16]",3.0,18,8,0,20,1,1,0,0,0,0,1,6.67,0,0,0,0,-4,5,10,0,15,32,True,False,True,Right-arm medium,Left-hand bat
+Barbados Royals,Azam Khan,ee8f1a6d,6,28,16,0,3,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,56,0,8,64,26,True,False,False,,Right-hand bat
+Barbados Royals,NLTC Perera,0f12f9df,7,3,6,0,0,50.0,"[14, 17, 20]",3.0,18,4,0,38,3,2,0,0,0,0,0,12.67,0,0,0,0,0,3,-2,0,1,35,True,False,True,Right-arm medium-fast,Left-hand bat
+Barbados Royals,AR Nurse,4a745f65,8,8,11,1,0,72.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,36,True,False,False,Right-arm offbreak,Right-hand bat
+Barbados Royals,Mohammad Amir,e174dadd,9,0,0,0,0,0.0,"[1, 3, 12, 18]",4.0,24,10,0,20,1,0,1,0,0,0,3,5.0,0,0,0,0,0,0,39,0,39,32,True,False,False,Left-arm fast-medium,Left-hand bat
+Barbados Royals,HR Walsh,1ac2a995,9,16,9,0,2,177.78,"[11, 13]",2.0,12,6,0,25,0,3,0,0,0,1,2,12.5,0,0,0,0,0,28,0,0,28,32,True,False,False,Legbreak googly,Left-hand bat
+Barbados Royals,O Thomas,c6097d68,10,0,0,0,0,0.0,"[4, 6, 8, 10]",4.0,24,16,0,22,2,0,3,1,1,1,7,5.5,0,0,0,0,0,0,115,0,115,28,True,False,False,Right-arm fast,Left-hand bat
+St Kitts and Nevis Patriots,E Lewis,0ebfb1ad,1,6,8,1,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,33,True,False,False,,Left-hand bat
+St Kitts and Nevis Patriots,DC Thomas,08a4f9ad,2,7,9,1,0,77.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,2,0,0,11,0,32,43,35,True,False,False,Right-arm medium,Right-hand bat
+St Kitts and Nevis Patriots,CH Gayle,db584dad,3,12,8,1,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,45,True,False,True,Right-arm offbreak,Left-hand bat
+St Kitts and Nevis Patriots,Asif Ali,0a4736eb,4,8,11,1,0,72.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20,33,True,False,False,Right-arm offbreak,Right-hand bat
+St Kitts and Nevis Patriots,SE Rutherford,d014d5ac,5,53,43,2,4,123.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,93,0,8,101,26,True,False,False,Right-arm fast-medium,Left-hand bat
+St Kitts and Nevis Patriots,DJ Bravo,87e562a9,6,47,34,1,4,138.24,"[14, 16, 18]",3.0,18,1,0,37,1,3,0,0,0,0,2,12.33,1,0,0,0,2,81,-5,8,84,41,True,False,True,Right-arm medium,Right-hand bat
+St Kitts and Nevis Patriots,FA Allen,b52ffbbd,7,19,7,2,1,271.43,"[9, 11, 13]",3.0,18,7,0,12,1,0,1,0,0,0,0,4.0,1,0,0,0,0,33,38,8,79,29,True,False,True,Slow left-arm orthodox,Right-hand bat
+St Kitts and Nevis Patriots,DC Drakes,34b332d3,9,0,0,0,0,0.0,"[5, 7, 17, 19]",4.0,24,15,0,13,1,0,2,0,0,0,1,3.25,0,0,0,0,0,0,71,0,71,27,True,False,True,Left-arm medium-fast,Left-hand bat
+St Kitts and Nevis Patriots,SS Cottrell,a1d053dd,10,0,0,0,0,0.0,"[1, 3, 15, 20]",4.0,24,11,1,39,3,2,2,0,0,1,5,9.75,0,0,0,0,0,0,73,0,73,35,True,False,False,Left-arm fast-medium,Right-hand bat
+St Kitts and Nevis Patriots,PA van Meekeren,4557dc54,11,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,6,0,25,4,0,0,0,0,0,1,8.33,0,0,0,0,0,0,6,0,6,32,True,False,False,Right-arm fast-medium,Right-hand bat
+St Kitts and Nevis Patriots,Fawad Ahmed,22ae3041,12,0,0,0,0,0.0,"[8, 10, 12]",3.0,18,5,0,19,0,1,0,0,0,0,0,6.33,0,0,0,0,0,0,7,0,7,43,True,False,False,Legbreak googly,Right-hand bat

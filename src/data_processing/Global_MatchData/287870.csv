@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Australia,AC Gilchrist,2b6e6dec,1,24,12,5,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,50,0,0,50
-Australia,ML Hayden,d8699ab7,2,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Australia,RT Ponting,7d415ea5,3,27,26,3,0,103.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,43,0,0,43
-Australia,A Symonds,bd77eb62,4,29,18,5,0,161.11,"[8, 15, 20]",2.167,13,1,0,27,4,0,0,0,0,0,1,12.46,0,0,0,0,4,57,-5,0,52
-Australia,MEK Hussey,48fd7349,5,37,25,3,1,148.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,61,0,0,61
-Australia,NW Bracken,4c61a0f9,6,0,0,0,0,0.0,"[2, 11, 13, 19]",4.0,24,9,0,35,3,2,0,0,0,0,0,8.75,0,0,0,0,0,0,9,0,9
-Australia,BJ Hodge,b57f8a9a,6,36,29,3,0,124.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,52,0,0,52
-Australia,MJ Clarke,f842c2cf,7,0,1,0,0,0.0,[12],1.0,6,0,0,17,2,1,0,0,0,0,0,17.0,1,0,0,0,0,0,0,8,8
-Australia,SR Clark,a3bfec5d,7,0,0,0,0,0.0,"[4, 6, 10, 16]",4.0,24,10,0,27,2,1,3,0,0,0,0,6.75,0,0,0,0,0,0,91,0,91
-Australia,B Lee,dd09ff8e,8,2,3,0,0,66.67,"[1, 3, 14, 17]",4.0,24,12,0,30,3,1,0,0,0,1,0,7.5,1,0,0,0,0,2,12,8,22
-Australia,MG Johnson,f5180fe6,9,1,1,0,0,100.0,"[5, 7, 9, 18]",4.0,24,13,0,28,3,0,1,1,0,0,4,7.0,1,0,0,0,0,1,48,8,57
-Pakistan,Imran Nazir,3eb7c45d,1,10,10,1,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,20,0,8,28
-Pakistan,Mohammad Hafeez,9ab63e7b,2,15,11,2,1,136.36,"[8, 10, 12, 14]",4.0,24,5,0,31,3,0,1,0,1,0,0,7.75,1,0,0,0,2,31,38,8,77
-Pakistan,Salman Butt,4d6d6280,3,11,12,2,0,91.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
-Pakistan,Younis Khan,33cb3411,4,4,3,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,8,0,16,24
-Pakistan,Shoaib Malik,64c34cd0,5,52,37,4,2,140.54,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,90,0,0,90
-Pakistan,Shahid Afridi,0dc00542,6,0,0,0,0,0.0,"[7, 9, 11, 16]",4.0,24,7,0,35,4,1,1,0,1,0,0,8.75,0,0,1,0,0,0,40,12,52
-Pakistan,Misbah-ul-Haq,7eae4418,6,66,42,7,1,157.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,112,0,0,112
-Pakistan,Kamran Akmal,ff077124,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Pakistan,Mohammad Asif,e03b66ec,8,0,0,0,0,0.0,"[1, 3, 5, 20]",4.0,24,6,0,34,5,0,1,0,0,0,2,8.5,0,0,0,0,0,0,31,0,31
-Pakistan,Umar Gul,16dfcc19,9,0,0,0,0,0.0,"[13, 15, 17, 19]",4.0,24,8,0,29,3,0,0,0,0,0,0,7.25,0,0,0,0,0,0,8,0,8
-Pakistan,Sohail Tanvir,64d43928,10,0,0,0,0,0.0,"[2, 4, 6, 18]",4.0,24,8,0,31,4,0,3,0,0,0,1,7.75,0,0,0,0,0,0,87,0,87
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Australia,AC Gilchrist,2b6e6dec,1,24,12,5,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,50,0,0,50,53,True,True,False,Right-arm offbreak,Left-hand bat
+Australia,ML Hayden,d8699ab7,2,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,53,True,False,False,Right-arm medium,Left-hand bat
+Australia,RT Ponting,7d415ea5,3,27,26,3,0,103.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,43,0,0,43,50,True,False,False,Right-arm medium,Right-hand bat
+Australia,A Symonds,bd77eb62,4,29,18,5,0,161.11,"[8, 15, 20]",2.167,13,1,0,27,4,0,0,0,0,0,1,12.46,0,0,0,0,4,57,-5,0,52,46,True,False,True,Right-arm offbreak,Right-hand bat
+Australia,MEK Hussey,48fd7349,5,37,25,3,1,148.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,61,0,0,61,49,True,False,False,Right-arm medium,Left-hand bat
+Australia,NW Bracken,4c61a0f9,6,0,0,0,0,0.0,"[2, 11, 13, 19]",4.0,24,9,0,35,3,2,0,0,0,0,0,8.75,0,0,0,0,0,0,9,0,9,47,True,False,False,Left-arm fast-medium,Right-hand bat
+Australia,BJ Hodge,b57f8a9a,6,36,29,3,0,124.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,52,0,0,52,50,True,False,False,Right-arm offbreak,Right-hand bat
+Australia,MJ Clarke,f842c2cf,7,0,1,0,0,0.0,[12],1.0,6,0,0,17,2,1,0,0,0,0,0,17.0,1,0,0,0,0,0,0,8,8,43,True,False,False,Slow left-arm orthodox,Right-hand bat
+Australia,SR Clark,a3bfec5d,7,0,0,0,0,0.0,"[4, 6, 10, 16]",4.0,24,10,0,27,2,1,3,0,0,0,0,6.75,0,0,0,0,0,0,91,0,91,,,,,,
+Australia,B Lee,dd09ff8e,8,2,3,0,0,66.67,"[1, 3, 14, 17]",4.0,24,12,0,30,3,1,0,0,0,1,0,7.5,1,0,0,0,0,2,12,8,22,48,True,False,False,Right-arm fast,Right-hand bat
+Australia,MG Johnson,f5180fe6,9,1,1,0,0,100.0,"[5, 7, 9, 18]",4.0,24,13,0,28,3,0,1,1,0,0,4,7.0,1,0,0,0,0,1,48,8,57,43,True,False,False,Left-arm fast,Left-hand bat
+Pakistan,Imran Nazir,3eb7c45d,1,10,10,1,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,20,0,8,28,43,True,False,False,Legbreak,Right-hand bat
+Pakistan,Mohammad Hafeez,9ab63e7b,2,15,11,2,1,136.36,"[8, 10, 12, 14]",4.0,24,5,0,31,3,0,1,0,1,0,0,7.75,1,0,0,0,2,31,38,8,77,44,True,False,True,Right-arm offbreak,Right-hand bat
+Pakistan,Salman Butt,4d6d6280,3,11,12,2,0,91.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,40,True,False,False,Right-arm offbreak,Left-hand bat
+Pakistan,Younis Khan,33cb3411,4,4,3,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,8,0,16,24,47,True,False,False,Legbreak,Right-hand bat
+Pakistan,Shoaib Malik,64c34cd0,5,52,37,4,2,140.54,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,90,0,0,90,43,True,False,True,Right-arm offbreak,Right-hand bat
+Pakistan,Shahid Afridi,0dc00542,6,0,0,0,0,0.0,"[7, 9, 11, 16]",4.0,24,7,0,35,4,1,1,0,1,0,0,8.75,0,0,1,0,0,0,40,12,52,45,True,False,True,Legbreak googly,Right-hand bat
+Pakistan,Misbah-ul-Haq,7eae4418,6,66,42,7,1,157.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,112,0,0,112,50,True,False,False,Legbreak,Right-hand bat
+Pakistan,Kamran Akmal,ff077124,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,43,True,False,False,,Right-hand bat
+Pakistan,Mohammad Asif,e03b66ec,8,0,0,0,0,0.0,"[1, 3, 5, 20]",4.0,24,6,0,34,5,0,1,0,0,0,2,8.5,0,0,0,0,0,0,31,0,31,42,True,False,False,Right-arm fast-medium,Left-hand bat
+Pakistan,Umar Gul,16dfcc19,9,0,0,0,0,0.0,"[13, 15, 17, 19]",4.0,24,8,0,29,3,0,0,0,0,0,0,7.25,0,0,0,0,0,0,8,0,8,42,True,False,False,Right-arm fast-medium,Right-hand bat
+Pakistan,Sohail Tanvir,64d43928,10,0,0,0,0,0.0,"[2, 4, 6, 18]",4.0,24,8,0,31,4,0,3,0,0,0,1,7.75,0,0,0,0,0,0,87,0,87,40,True,False,False,Left-arm medium-fast,Left-hand bat

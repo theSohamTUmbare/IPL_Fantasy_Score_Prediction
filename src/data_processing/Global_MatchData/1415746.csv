@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-United States of America,SR Taylor,a9231c3f,1,2,7,0,0,28.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-United States of America,AGS Gous,d1305df0,2,29,15,3,1,193.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,57,0,0,57
-United States of America,NR Kumar,b3bad3f2,3,20,19,2,0,105.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
-United States of America,Aaron Jones,17aa4f1d,4,11,11,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
-United States of America,CJ Anderson,8abdf100,5,7,15,0,0,46.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,1,0,0,1
-United States of America,Milind Kumar,b4296080,6,19,21,1,0,90.48,[9],1.0,6,1,0,22,0,3,0,0,0,0,2,22.0,1,0,0,0,0,23,1,8,32
-United States of America,Harmeet Singh,0bf15e52,7,0,1,0,0,0.0,"[5, 7]",2.0,12,4,0,18,1,1,1,0,0,0,0,9.0,0,0,0,0,0,-2,29,0,27
-United States of America,SC van Schalkwyk,97b0e4ff,8,18,17,3,0,105.88,"[6, 10]",2.0,12,3,0,29,3,2,0,0,0,0,1,14.5,0,0,0,0,0,30,-3,0,27
-United States of America,NP Kenjige,f7d267f7,9,1,3,0,0,33.33,[2],1.0,6,1,0,11,0,1,0,0,0,0,0,11.0,0,0,0,0,0,1,1,0,2
-United States of America,Ali Khan,b0eaaac6,10,14,6,1,1,233.33,"[4, 8]",2.0,12,5,0,18,1,1,0,0,0,0,2,9.0,0,0,0,0,0,24,5,0,29
-United States of America,SN Netravalkar,c8a3f688,11,0,4,0,0,0.0,"[1, 3, 11]",2.833,17,6,0,31,2,3,0,0,0,0,0,10.94,0,0,0,0,0,-2,4,0,2
-West Indies,SD Hope,1fc6ef83,1,82,39,4,8,210.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,164,0,8,172
-West Indies,J Charles,09a9d073,2,15,14,2,0,107.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,23,0,16,39
-West Indies,N Pooran,3241e3fd,3,27,12,1,3,225.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,59,0,8,67
-West Indies,R Powell,650d5e49,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-West Indies,AD Russell,bbd41817,4,0,0,0,0,0.0,"[2, 11, 18, 20]",3.833,23,13,0,31,3,1,3,0,0,0,3,8.09,0,0,0,1,0,0,92,6,98
-West Indies,SE Rutherford,d014d5ac,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-West Indies,RL Chase,3feda4fa,6,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,9,0,19,1,0,3,1,1,0,1,4.75,1,0,0,0,0,0,110,8,118
-West Indies,OC McCoy,529eb9e0,7,0,0,0,0,0.0,"[4, 13]",2.0,12,4,0,20,3,0,0,0,0,0,1,10.0,0,0,0,0,0,0,2,0,2
-West Indies,AJ Hosein,4d7f517e,8,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,8,0,13,1,0,0,0,0,0,0,4.33,0,0,0,0,0,0,14,0,14
-West Indies,AS Joseph,b0946605,9,0,0,0,0,0.0,"[6, 8, 15, 19]",4.0,24,9,0,31,1,2,2,0,0,1,1,7.75,0,0,0,0,0,0,59,0,59
-West Indies,G Motie,97bdec3d,10,0,0,0,0,0.0,"[7, 9, 17]",3.0,18,9,0,14,1,0,1,1,0,0,0,4.67,0,0,0,1,0,0,48,6,54
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+United States of America,SR Taylor,a9231c3f,1,2,7,0,0,28.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,31,True,False,False,Right-arm offbreak,Left-hand bat
+United States of America,AGS Gous,d1305df0,2,29,15,3,1,193.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,57,0,0,57,31,True,False,False,,Right-hand bat
+United States of America,NR Kumar,b3bad3f2,3,20,19,2,0,105.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28,30,True,False,False,Right-arm offbreak,Right-hand bat
+United States of America,Aaron Jones,17aa4f1d,4,11,11,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,30,True,False,False,Legbreak googly,Right-hand bat
+United States of America,CJ Anderson,8abdf100,5,7,15,0,0,46.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,1,0,0,1,34,True,False,True,Left-arm medium-fast,Left-hand bat
+United States of America,Milind Kumar,b4296080,6,19,21,1,0,90.48,[9],1.0,6,1,0,22,0,3,0,0,0,0,2,22.0,1,0,0,0,0,23,1,8,32,34,True,False,True,Right-arm offbreak,Right-hand bat
+United States of America,Harmeet Singh,0bf15e52,7,0,1,0,0,0.0,"[5, 7]",2.0,12,4,0,18,1,1,1,0,0,0,0,9.0,0,0,0,0,0,-2,29,0,27,32,True,False,True,Slow left-arm orthodox,Left-hand bat
+United States of America,SC van Schalkwyk,97b0e4ff,8,18,17,3,0,105.88,"[6, 10]",2.0,12,3,0,29,3,2,0,0,0,0,1,14.5,0,0,0,0,0,30,-3,0,27,36,True,False,True,Right-arm medium,Left-hand bat
+United States of America,NP Kenjige,f7d267f7,9,1,3,0,0,33.33,[2],1.0,6,1,0,11,0,1,0,0,0,0,0,11.0,0,0,0,0,0,1,1,0,2,34,True,False,False,Slow left-arm orthodox,Right-hand bat
+United States of America,Ali Khan,b0eaaac6,10,14,6,1,1,233.33,"[4, 8]",2.0,12,5,0,18,1,1,0,0,0,0,2,9.0,0,0,0,0,0,24,5,0,29,34,True,False,False,Right-arm fast-medium,Right-hand bat
+United States of America,SN Netravalkar,c8a3f688,11,0,4,0,0,0.0,"[1, 3, 11]",2.833,17,6,0,31,2,3,0,0,0,0,0,10.94,0,0,0,0,0,-2,4,0,2,33,True,False,False,Left-arm fast-medium,Right-hand bat
+West Indies,SD Hope,1fc6ef83,1,82,39,4,8,210.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,164,0,8,172,31,True,False,False,,Right-hand bat
+West Indies,J Charles,09a9d073,2,15,14,2,0,107.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,23,0,16,39,36,True,False,False,,Right-hand bat
+West Indies,N Pooran,3241e3fd,3,27,12,1,3,225.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,59,0,8,67,29,True,True,False,Right-arm offbreak,Left-hand bat
+West Indies,R Powell,650d5e49,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,31,True,False,False,Right-arm medium-fast,Right-hand bat
+West Indies,AD Russell,bbd41817,4,0,0,0,0,0.0,"[2, 11, 18, 20]",3.833,23,13,0,31,3,1,3,0,0,0,3,8.09,0,0,0,1,0,0,92,6,98,36,True,False,True,Right-arm fast,Right-hand bat
+West Indies,SE Rutherford,d014d5ac,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,False,False,Right-arm fast-medium,Left-hand bat
+West Indies,RL Chase,3feda4fa,6,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,9,0,19,1,0,3,1,1,0,1,4.75,1,0,0,0,0,0,110,8,118,33,True,False,True,Right-arm offbreak,Right-hand bat
+West Indies,OC McCoy,529eb9e0,7,0,0,0,0,0.0,"[4, 13]",2.0,12,4,0,20,3,0,0,0,0,0,1,10.0,0,0,0,0,0,0,2,0,2,28,True,False,False,Left-arm fast-medium,Left-hand bat
+West Indies,AJ Hosein,4d7f517e,8,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,8,0,13,1,0,0,0,0,0,0,4.33,0,0,0,0,0,0,14,0,14,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+West Indies,AS Joseph,b0946605,9,0,0,0,0,0.0,"[6, 8, 15, 19]",4.0,24,9,0,31,1,2,2,0,0,1,1,7.75,0,0,0,0,0,0,59,0,59,28,True,False,False,Right-arm fast,Right-hand bat
+West Indies,G Motie,97bdec3d,10,0,0,0,0,0.0,"[7, 9, 17]",3.0,18,9,0,14,1,0,1,1,0,0,0,4.67,0,0,0,1,0,0,48,6,54,30,True,False,False,Slow left-arm orthodox,Left-hand bat

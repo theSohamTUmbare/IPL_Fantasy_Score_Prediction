@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Ghana,SK Awiah,bc3fc527,1,18,9,1,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
-Ghana,R Baaleri,26c9b5be,2,9,5,1,0,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
-Ghana,OH Agbomadzie,b38a9f73,2,0,0,0,0,0.0,"[8, 10]",2.0,12,8,0,5,0,0,4,1,1,0,0,2.5,0,0,0,0,0,0,138,0,138
-Ghana,G Bakiweyem,5fe3709e,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Ghana,KS Bagabena,1ce4f664,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Ghana,Aziz Sualley,118b0a7c,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Ghana,A Osei,375322d1,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Ghana,L Nyarko,c391d077,7,0,0,0,0,0.0,"[1, 3, 5, 7]",4.0,24,21,1,3,0,0,3,1,2,0,0,0.75,2,0,0,0,0,0,142,16,158
-Ghana,V Ateak,65a60be7,8,0,0,0,0,0.0,"[9, 11]",1.5,9,5,0,4,0,0,2,0,1,0,0,2.67,0,0,0,0,0,0,63,0,63
-Ghana,Syed Aqeel Israr,4286e899,9,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,13,1,8,0,0,1,0,1,0,5,2.67,0,0,0,0,0,0,64,0,64
-Ghana,F Baleri,6efdad14,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Mali,TM Macalou,8a9320a1,1,0,1,0,0,0.0,[2],1.0,6,1,0,11,1,0,0,0,0,0,0,11.0,0,0,0,0,0,-2,1,0,-1
-Mali,MS Diakite,69795fcd,2,0,9,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Mali,D Berthe,a671e99e,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Mali,M Malle,e15c6692,4,8,27,0,0,29.63,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,2,0,0,2
-Mali,S Kamate,d7af6207,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Mali,AD Fofana,8d4a236d,6,2,13,0,0,15.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-4,0,0,-4
-Mali,L Sanogo,abbc06cf,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Mali,CA Keita,5b9b8d98,8,1,2,0,0,50.0,"[1, 3]",1.333,8,2,0,16,1,1,0,0,0,0,0,12.0,0,0,0,0,0,1,2,0,3
-Mali,Y Konate,5934e1b2,9,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Mali,A Nimaga,bc304f82,10,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Mali,L Berthe,8eb7c5a6,11,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Ghana,SK Awiah,bc3fc527,1,18,9,1,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28,35,True,False,False,Right-arm offbreak,Right-hand bat
+Ghana,R Baaleri,26c9b5be,2,9,5,1,0,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21,22,True,True,False,Right-arm offbreak,Right-hand bat
+Ghana,OH Agbomadzie,b38a9f73,2,0,0,0,0,0.0,"[8, 10]",2.0,12,8,0,5,0,0,4,1,1,0,0,2.5,0,0,0,0,0,0,138,0,138,34,True,True,False,Left-arm medium,Left-hand bat
+Ghana,G Bakiweyem,5fe3709e,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,True,False,Right-arm medium,Right-hand bat
+Ghana,KS Bagabena,1ce4f664,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,36,True,True,False,Right-arm medium,Right-hand bat
+Ghana,Aziz Sualley,118b0a7c,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,False,True,Legbreak,Right-hand bat
+Ghana,A Osei,375322d1,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,25,True,False,False,,Right-hand bat
+Ghana,L Nyarko,c391d077,7,0,0,0,0,0.0,"[1, 3, 5, 7]",4.0,24,21,1,3,0,0,3,1,2,0,0,0.75,2,0,0,0,0,0,142,16,158,16,True,False,False,,Right-hand bat
+Ghana,V Ateak,65a60be7,8,0,0,0,0,0.0,"[9, 11]",1.5,9,5,0,4,0,0,2,0,1,0,0,2.67,0,0,0,0,0,0,63,0,63,27,True,True,False,Slow left-arm orthodox,Left-hand bat
+Ghana,Syed Aqeel Israr,4286e899,9,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,13,1,8,0,0,1,0,1,0,5,2.67,0,0,0,0,0,0,64,0,64,37,True,True,False,Right-arm medium,Right-hand bat
+Ghana,F Baleri,6efdad14,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,False,False,,Right-hand bat
+Mali,TM Macalou,8a9320a1,1,0,1,0,0,0.0,[2],1.0,6,1,0,11,1,0,0,0,0,0,0,11.0,0,0,0,0,0,-2,1,0,-1,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Mali,MS Diakite,69795fcd,2,0,9,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,25,True,True,False,Right-arm medium-fast,Right-hand bat
+Mali,D Berthe,a671e99e,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,27,True,False,False,,Right-hand bat
+Mali,M Malle,e15c6692,4,8,27,0,0,29.63,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,2,0,0,2,25,True,True,False,Right-arm medium-fast,Right-hand bat
+Mali,S Kamate,d7af6207,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Mali,AD Fofana,8d4a236d,6,2,13,0,0,15.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-4,0,0,-4,27,True,False,False,,Right-hand bat
+Mali,L Sanogo,abbc06cf,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Mali,CA Keita,5b9b8d98,8,1,2,0,0,50.0,"[1, 3]",1.333,8,2,0,16,1,1,0,0,0,0,0,12.0,0,0,0,0,0,1,2,0,3,27,True,True,False,Right-arm medium-fast,Right-hand bat
+Mali,Y Konate,5934e1b2,9,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,29,True,False,False,,Right-hand bat
+Mali,A Nimaga,bc304f82,10,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,21,True,True,False,Right-arm medium,Right-hand bat
+Mali,L Berthe,8eb7c5a6,11,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,27,True,True,False,Right-arm medium-fast,Left-hand bat

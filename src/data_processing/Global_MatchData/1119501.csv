@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Australia,DA Warner,dcce6f09,1,8,5,2,0,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
-Australia,AJ Finch,b8d490fd,2,42,30,4,1,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,70,0,0,70
-Australia,JP Behrendorff,4933f499,3,0,0,0,0,0.0,[1],1.0,6,4,0,5,1,0,0,0,0,0,0,5.0,0,0,0,0,0,0,4,0,4
-Australia,GJ Maxwell,b681e71e,3,17,16,2,0,106.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
-Australia,TM Head,12b610c2,4,9,16,0,0,56.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,5,0,0,5
-Australia,MC Henriques,32198ae0,5,8,9,1,0,88.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
-Australia,DT Christian,2a2e6343,6,9,13,0,0,69.23,[6],0.5,3,0,0,7,1,0,0,0,0,0,0,14.0,0,0,0,0,-2,7,0,0,7
-Australia,TD Paine,5748e866,7,17,16,1,1,106.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27
-Australia,NM Coulter-Nile,56ab442f,8,1,2,0,0,50.0,"[2, 4]",2.0,12,4,0,20,2,1,1,0,1,0,0,10.0,0,0,0,0,0,1,35,0,36
-Australia,AJ Tye,7c7d63a2,9,0,2,0,0,0.0,[3],1.0,6,1,0,10,2,0,0,0,0,0,0,10.0,0,0,0,0,0,0,1,0,1
-Australia,A Zampa,14f96089,10,4,3,1,0,133.33,[5],1.0,6,3,0,6,1,0,0,0,0,0,0,6.0,0,0,0,0,0,8,3,0,11
-India,RG Sharma,740742ef,1,11,7,1,1,157.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
-India,S Dhawan,0a476045,2,15,12,3,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27
-India,MK Pandey,93b4fc78,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-India,V Kohli,ba607b88,3,22,14,3,0,157.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,38,0,0,38
-India,KM Jadhav,99d63244,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-India,MS Dhoni,4a8a2e3b,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-India,HH Pandya,dbe50b21,6,0,0,0,0,0.0,"[3, 6, 12, 14]",4.0,24,8,0,33,5,0,1,0,1,0,0,8.25,0,0,0,0,0,0,41,0,41
-India,B Kumar,2e81a32d,7,0,0,0,0,0.0,"[1, 4, 17, 19]",3.667,22,11,0,28,4,1,1,0,1,0,0,7.64,0,0,0,0,0,0,44,0,44
-India,YS Chahal,57ee1fde,8,0,0,0,0,0.0,"[7, 9, 11, 15]",4.0,24,10,0,23,1,1,1,0,0,0,1,5.75,0,0,0,0,0,0,39,0,39
-India,Kuldeep Yadav,8d2c70ad,9,0,0,0,0,0.0,"[8, 10, 13, 16]",4.0,24,9,0,16,0,0,2,0,2,0,0,4.0,0,0,0,0,0,0,81,0,81
-India,JJ Bumrah,462411b3,10,0,0,0,0,0.0,"[2, 5, 18]",3.0,18,7,0,17,1,0,2,0,2,0,1,5.67,1,0,0,0,0,0,77,8,85
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Australia,DA Warner,dcce6f09,1,8,5,2,0,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,38,True,False,False,Legbreak,Left-hand bat
+Australia,AJ Finch,b8d490fd,2,42,30,4,1,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,70,0,0,70,38,True,False,False,Slow left-arm orthodox,Right-hand bat
+Australia,JP Behrendorff,4933f499,3,0,0,0,0,0.0,[1],1.0,6,4,0,5,1,0,0,0,0,0,0,5.0,0,0,0,0,0,0,4,0,4,34,True,False,False,Left-arm fast-medium,Right-hand bat
+Australia,GJ Maxwell,b681e71e,3,17,16,2,0,106.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,36,True,False,True,Right-arm offbreak,Right-hand bat
+Australia,TM Head,12b610c2,4,9,16,0,0,56.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,5,0,0,5,31,True,False,False,Right-arm offbreak,Left-hand bat
+Australia,MC Henriques,32198ae0,5,8,9,1,0,88.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Australia,DT Christian,2a2e6343,6,9,13,0,0,69.23,[6],0.5,3,0,0,7,1,0,0,0,0,0,0,14.0,0,0,0,0,-2,7,0,0,7,41,True,False,True,Right-arm fast-medium,Right-hand bat
+Australia,TD Paine,5748e866,7,17,16,1,1,106.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27,40,True,True,False,Right-arm medium,Right-hand bat
+Australia,NM Coulter-Nile,56ab442f,8,1,2,0,0,50.0,"[2, 4]",2.0,12,4,0,20,2,1,1,0,1,0,0,10.0,0,0,0,0,0,1,35,0,36,37,True,False,True,Right-arm fast,Right-hand bat
+Australia,AJ Tye,7c7d63a2,9,0,2,0,0,0.0,[3],1.0,6,1,0,10,2,0,0,0,0,0,0,10.0,0,0,0,0,0,0,1,0,1,38,True,False,False,Right-arm medium-fast,Right-hand bat
+Australia,A Zampa,14f96089,10,4,3,1,0,133.33,[5],1.0,6,3,0,6,1,0,0,0,0,0,0,6.0,0,0,0,0,0,8,3,0,11,32,True,False,False,Legbreak googly,Right-hand bat
+India,RG Sharma,740742ef,1,11,7,1,1,157.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21,37,True,False,False,Right-arm offbreak,Right-hand bat
+India,S Dhawan,0a476045,2,15,12,3,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27,39,True,False,False,Right-arm offbreak,Left-hand bat
+India,MK Pandey,93b4fc78,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,35,True,False,False,Right-arm medium,Right-hand bat
+India,V Kohli,ba607b88,3,22,14,3,0,157.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,38,0,0,38,36,True,False,False,Right-arm medium,Right-hand bat
+India,KM Jadhav,99d63244,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,40,True,False,True,Right-arm offbreak,Right-hand bat
+India,MS Dhoni,4a8a2e3b,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,43,True,True,False,Right-arm medium,Right-hand bat
+India,HH Pandya,dbe50b21,6,0,0,0,0,0.0,"[3, 6, 12, 14]",4.0,24,8,0,33,5,0,1,0,1,0,0,8.25,0,0,0,0,0,0,41,0,41,31,True,False,True,Right-arm medium-fast,Right-hand bat
+India,B Kumar,2e81a32d,7,0,0,0,0,0.0,"[1, 4, 17, 19]",3.667,22,11,0,28,4,1,1,0,1,0,0,7.64,0,0,0,0,0,0,44,0,44,35,True,False,False,Right-arm medium,Right-hand bat
+India,YS Chahal,57ee1fde,8,0,0,0,0,0.0,"[7, 9, 11, 15]",4.0,24,10,0,23,1,1,1,0,0,0,1,5.75,0,0,0,0,0,0,39,0,39,34,True,False,False,Legbreak googly,Right-hand bat
+India,Kuldeep Yadav,8d2c70ad,9,0,0,0,0,0.0,"[8, 10, 13, 16]",4.0,24,9,0,16,0,0,2,0,2,0,0,4.0,0,0,0,0,0,0,81,0,81,30,True,False,False,Left-arm wrist-spin,Left-hand bat
+India,JJ Bumrah,462411b3,10,0,0,0,0,0.0,"[2, 5, 18]",3.0,18,7,0,17,1,0,2,0,2,0,1,5.67,1,0,0,0,0,0,77,8,85,31,True,False,False,Right-arm fast,Right-hand bat

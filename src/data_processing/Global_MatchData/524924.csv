@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Adelaide Strikers,AC Blizzard,1efb8a28,1,20,14,2,1,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,36,0,8,44
-Adelaide Strikers,M Klinger,b970a03f,2,36,31,4,0,116.13,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,56,0,8,64
-Adelaide Strikers,AJ Crosthwaite,0c8836b6,3,5,10,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,1,0,0,1
-Adelaide Strikers,CJ Ferguson,9b4935c8,4,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Adelaide Strikers,CJ Borgas,d901964b,5,31,25,4,0,124.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,51,0,0,51
-Adelaide Strikers,TLW Cooper,2318ba22,6,43,27,5,1,159.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,77,0,8,85
-Adelaide Strikers,J Botha,7c503806,7,6,3,1,0,200.0,"[2, 8, 10, 18]",4.0,24,8,0,28,2,1,2,0,0,0,1,7.0,0,0,0,0,0,10,60,0,70
-Adelaide Strikers,KW Richardson,dfc4d8b5,8,0,2,0,0,0.0,"[4, 7, 12, 16]",4.0,24,7,0,32,2,1,0,0,0,0,1,8.0,1,0,0,0,0,-2,7,8,13
-Adelaide Strikers,AW O'Brien,d29be810,9,0,1,0,0,0.0,"[3, 5, 13, 19]",4.0,24,7,0,32,1,2,1,0,0,0,0,8.0,0,0,0,0,0,-2,32,0,30
-Adelaide Strikers,BE McGain,6d62117a,10,0,0,0,0,0.0,"[9, 11, 15, 17]",4.0,24,5,0,49,4,3,1,0,0,0,0,12.25,0,0,0,0,0,0,24,0,24
-Adelaide Strikers,AC Thomas,b552a935,10,1,3,0,0,33.33,"[1, 6, 14, 20]",4.0,24,6,0,27,1,1,0,0,0,0,0,6.75,0,0,0,0,0,1,8,0,9
-Hobart Hurricanes,JW Wells,8bdac857,1,31,27,3,1,114.81,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,53,0,6,59
-Hobart Hurricanes,PA Jaques,03252e44,2,41,42,2,0,97.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,53,0,0,53
-Hobart Hurricanes,TR Birt,d2d4bb0a,3,44,26,3,3,169.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,82,0,0,82
-Hobart Hurricanes,OA Shah,7bf96684,4,36,18,2,3,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,72,0,0,72
-Hobart Hurricanes,TIF Triffitt,593513d5,5,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,1,0,14,15
-Hobart Hurricanes,MJ Johnston,db2114f1,6,13,5,0,1,260.0,"[5, 7]",2.0,12,5,0,9,0,0,0,0,0,0,0,4.5,0,0,0,0,0,19,11,0,30
-Hobart Hurricanes,RJG Lockyear,c8e7c983,10,0,0,0,0,0.0,"[4, 10]",2.0,12,3,0,15,2,0,0,0,0,0,0,7.5,1,0,0,0,0,0,3,8,11
-Hobart Hurricanes,JJ Krejza,047d9032,11,0,0,0,0,0.0,"[2, 8, 12, 14]",4.0,24,8,0,40,5,1,1,1,0,0,0,10.0,1,0,0,0,0,0,39,8,47
-Hobart Hurricanes,Naved-ul-Hasan,33f28243,12,0,0,0,0,0.0,"[9, 15, 17, 20]",4.0,24,7,0,37,5,1,2,0,0,0,0,9.25,0,0,0,0,0,0,57,0,57
-Hobart Hurricanes,XJ Doherty,502b2c81,13,0,0,0,0,0.0,"[1, 3, 11, 19]",4.0,24,11,0,17,1,0,4,0,3,0,0,4.25,0,0,0,0,0,0,149,0,149
-Hobart Hurricanes,B Laughlin,b2a79f17,14,0,0,0,0,0.0,"[6, 13, 16, 18]",4.0,24,9,0,26,3,0,0,0,0,0,0,6.5,0,0,0,0,0,0,11,0,11
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Adelaide Strikers,AC Blizzard,1efb8a28,1,20,14,2,1,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,36,0,8,44,40,True,False,False,Left-arm medium,Left-hand bat
+Adelaide Strikers,M Klinger,b970a03f,2,36,31,4,0,116.13,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,56,0,8,64,44,True,False,False,,Right-hand bat
+Adelaide Strikers,AJ Crosthwaite,0c8836b6,3,5,10,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,1,0,0,1,40,True,False,False,Legbreak googly,Right-hand bat
+Adelaide Strikers,CJ Ferguson,9b4935c8,4,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,40,True,False,False,Right-arm medium,Right-hand bat
+Adelaide Strikers,CJ Borgas,d901964b,5,31,25,4,0,124.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,51,0,0,51,41,True,True,False,Right-arm offbreak,Right-hand bat
+Adelaide Strikers,TLW Cooper,2318ba22,6,43,27,5,1,159.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,77,0,8,85,38,True,False,False,Right-arm offbreak,Right-hand bat
+Adelaide Strikers,J Botha,7c503806,7,6,3,1,0,200.0,"[2, 8, 10, 18]",4.0,24,8,0,28,2,1,2,0,0,0,1,7.0,0,0,0,0,0,10,60,0,70,42,True,False,True,Right-arm offbreak,Right-hand bat
+Adelaide Strikers,KW Richardson,dfc4d8b5,8,0,2,0,0,0.0,"[4, 7, 12, 16]",4.0,24,7,0,32,2,1,0,0,0,0,1,8.0,1,0,0,0,0,-2,7,8,13,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Adelaide Strikers,AW O'Brien,d29be810,9,0,1,0,0,0.0,"[3, 5, 13, 19]",4.0,24,7,0,32,1,2,1,0,0,0,0,8.0,0,0,0,0,0,-2,32,0,30,43,True,True,False,Slow left-arm orthodox,Left-hand bat
+Adelaide Strikers,BE McGain,6d62117a,10,0,0,0,0,0.0,"[9, 11, 15, 17]",4.0,24,5,0,49,4,3,1,0,0,0,0,12.25,0,0,0,0,0,0,24,0,24,53,True,False,False,Legbreak googly,Right-hand bat
+Adelaide Strikers,AC Thomas,b552a935,10,1,3,0,0,33.33,"[1, 6, 14, 20]",4.0,24,6,0,27,1,1,0,0,0,0,0,6.75,0,0,0,0,0,1,8,0,9,48,True,False,False,Right-arm fast-medium,Right-hand bat
+Hobart Hurricanes,JW Wells,8bdac857,1,31,27,3,1,114.81,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,53,0,6,59,36,True,False,False,Right-arm medium,Right-hand bat
+Hobart Hurricanes,PA Jaques,03252e44,2,41,42,2,0,97.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,53,0,0,53,45,True,False,False,Left-arm medium,Left-hand bat
+Hobart Hurricanes,TR Birt,d2d4bb0a,3,44,26,3,3,169.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,82,0,0,82,43,True,False,False,Right-arm medium,Left-hand bat
+Hobart Hurricanes,OA Shah,7bf96684,4,36,18,2,3,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,72,0,0,72,46,True,False,False,Right-arm offbreak,Right-hand bat
+Hobart Hurricanes,TIF Triffitt,593513d5,5,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,1,0,14,15,34,True,False,False,,Right-hand bat
+Hobart Hurricanes,MJ Johnston,db2114f1,6,13,5,0,1,260.0,"[5, 7]",2.0,12,5,0,9,0,0,0,0,0,0,0,4.5,0,0,0,0,0,19,11,0,30,39,True,False,True,Right-arm medium,Left-hand bat
+Hobart Hurricanes,RJG Lockyear,c8e7c983,10,0,0,0,0,0.0,"[4, 10]",2.0,12,3,0,15,2,0,0,0,0,0,0,7.5,1,0,0,0,0,0,3,8,11,42,True,True,False,Right-arm medium,Right-hand bat
+Hobart Hurricanes,JJ Krejza,047d9032,11,0,0,0,0,0.0,"[2, 8, 12, 14]",4.0,24,8,0,40,5,1,1,1,0,0,0,10.0,1,0,0,0,0,0,39,8,47,42,True,False,False,Right-arm offbreak,Right-hand bat
+Hobart Hurricanes,Naved-ul-Hasan,33f28243,12,0,0,0,0,0.0,"[9, 15, 17, 20]",4.0,24,7,0,37,5,1,2,0,0,0,0,9.25,0,0,0,0,0,0,57,0,57,47,True,False,False,Right-arm medium-fast,Right-hand bat
+Hobart Hurricanes,XJ Doherty,502b2c81,13,0,0,0,0,0.0,"[1, 3, 11, 19]",4.0,24,11,0,17,1,0,4,0,3,0,0,4.25,0,0,0,0,0,0,149,0,149,42,True,False,False,Slow left-arm orthodox,Left-hand bat
+Hobart Hurricanes,B Laughlin,b2a79f17,14,0,0,0,0,0.0,"[6, 13, 16, 18]",4.0,24,9,0,26,3,0,0,0,0,0,0,6.5,0,0,0,0,0,0,11,0,11,42,True,False,False,Right-arm fast-medium,Right-hand bat

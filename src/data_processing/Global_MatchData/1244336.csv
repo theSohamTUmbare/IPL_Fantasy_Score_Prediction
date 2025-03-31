@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Madhya Pradesh,Arpit Gaud,a6a50969,1,15,20,1,1,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
-Madhya Pradesh,VR Iyer,a24be938,2,27,19,5,0,142.11,"[8, 10, 12, 14]",4.0,24,9,0,27,4,0,1,0,0,0,0,6.75,0,0,0,0,2,53,36,0,89
-Madhya Pradesh,RM Patidar,c740ea83,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Madhya Pradesh,Parth Sahani,239f7526,4,74,45,4,5,164.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,4,132,0,16,148
-Madhya Pradesh,Avesh Khan,eef2536f,5,0,1,0,0,0.0,"[2, 4, 17, 19]",4.0,24,13,0,22,3,0,4,0,2,0,0,5.5,0,0,0,0,0,-2,141,0,139
-Madhya Pradesh,Rakesh Thakur,2c5fb7f6,6,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,1,0,16,17
-Madhya Pradesh,Rishabh Chouhan,a64608ec,7,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Madhya Pradesh,Ankit Sharma,24d94623,8,13,25,0,0,52.0,"[9, 11]",2.0,12,0,0,33,2,3,0,0,0,0,0,16.5,2,0,0,0,-4,9,-6,16,19
-Madhya Pradesh,IC Pandey,e0407c01,9,2,3,0,0,66.67,"[1, 3, 6, 16]",4.0,24,9,0,29,2,1,1,0,0,0,1,7.25,1,0,0,0,0,2,34,8,44
-Madhya Pradesh,KR Sen,2e78f685,10,0,0,0,0,0.0,"[5, 7, 18, 20]",3.333,20,7,0,21,2,0,3,0,0,0,1,6.3,0,0,0,0,0,0,88,0,88
-Madhya Pradesh,Mihir Hirwani,49bacd0f,10,1,2,0,0,50.0,"[13, 15]",2.0,12,3,0,16,0,1,1,0,0,0,0,8.0,0,0,0,0,0,1,28,0,29
-Rajasthan,MN Singh,7ba6ef29,1,12,12,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,1,0,0,20,0,24,44
-Rajasthan,Ankit Lamba,90a3c0dc,2,32,30,3,0,106.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,48,0,0,48
-Rajasthan,R Bishnoi,4d5a1617,3,9,5,2,0,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
-Rajasthan,AL Menaria,8291f939,4,13,8,1,1,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
-Rajasthan,MK Lomror,da934ee8,5,51,27,4,3,188.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,99,0,0,99
-Rajasthan,Arjit Gupta,145903a5,6,11,10,0,1,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,17,0,8,25
-Rajasthan,DL Chahar,23eeb873,7,6,7,0,0,85.71,"[1, 3, 17, 19]",4.0,24,8,0,40,4,2,0,0,0,0,1,10.0,1,0,0,0,0,6,6,8,20
-Rajasthan,RD Chahar,2ed569a0,8,6,5,1,0,120.0,"[6, 8, 10, 12]",4.0,24,12,0,14,1,0,5,0,1,0,0,3.5,0,0,0,0,0,10,163,0,173
-Rajasthan,Ravi Bishnoi,df064e1a,9,0,1,0,0,0.0,"[9, 11, 13, 15]",4.0,24,10,0,17,1,0,0,0,0,0,0,4.25,1,0,0,0,0,-2,16,8,22
-Rajasthan,A Choudhary,18e6906e,10,4,6,0,0,66.67,"[2, 4, 16, 18]",4.0,24,8,0,36,3,2,1,0,0,0,0,9.0,0,0,0,0,0,4,33,0,37
-Rajasthan,KK Ahmed,a2f46292,11,2,5,0,0,40.0,"[5, 7, 14, 20]",4.0,24,11,0,29,1,2,0,0,0,0,1,7.25,0,0,0,0,0,2,11,0,13
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Madhya Pradesh,Arpit Gaud,a6a50969,1,15,20,1,1,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,28,True,False,False,Slow left-arm orthodox,Right-hand bat
+Madhya Pradesh,VR Iyer,a24be938,2,27,19,5,0,142.11,"[8, 10, 12, 14]",4.0,24,9,0,27,4,0,1,0,0,0,0,6.75,0,0,0,0,2,53,36,0,89,30,True,False,True,Right-arm medium,Left-hand bat
+Madhya Pradesh,RM Patidar,c740ea83,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,31,True,False,False,Right-arm offbreak,Right-hand bat
+Madhya Pradesh,Parth Sahani,239f7526,4,74,45,4,5,164.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,4,132,0,16,148,32,True,False,True,Slow left-arm orthodox,Left-hand bat
+Madhya Pradesh,Avesh Khan,eef2536f,5,0,1,0,0,0.0,"[2, 4, 17, 19]",4.0,24,13,0,22,3,0,4,0,2,0,0,5.5,0,0,0,0,0,-2,141,0,139,28,True,False,False,Right-arm fast-medium,Right-hand bat
+Madhya Pradesh,Rakesh Thakur,2c5fb7f6,6,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,1,0,16,17,33,True,False,False,,Right-hand bat
+Madhya Pradesh,Rishabh Chouhan,a64608ec,7,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,25,True,True,False,Slow left-arm orthodox,Right-hand bat
+Madhya Pradesh,Ankit Sharma,24d94623,8,13,25,0,0,52.0,"[9, 11]",2.0,12,0,0,33,2,3,0,0,0,0,0,16.5,2,0,0,0,-4,9,-6,16,19,33,True,False,False,Slow left-arm orthodox,Left-hand bat
+Madhya Pradesh,IC Pandey,e0407c01,9,2,3,0,0,66.67,"[1, 3, 6, 16]",4.0,24,9,0,29,2,1,1,0,0,0,1,7.25,1,0,0,0,0,2,34,8,44,35,True,False,False,Right-arm medium,Right-hand bat
+Madhya Pradesh,KR Sen,2e78f685,10,0,0,0,0,0.0,"[5, 7, 18, 20]",3.333,20,7,0,21,2,0,3,0,0,0,1,6.3,0,0,0,0,0,0,88,0,88,28,True,False,False,Right-arm fast,Right-hand bat
+Madhya Pradesh,Mihir Hirwani,49bacd0f,10,1,2,0,0,50.0,"[13, 15]",2.0,12,3,0,16,0,1,1,0,0,0,0,8.0,0,0,0,0,0,1,28,0,29,30,True,True,False,Legbreak googly,Right-hand bat
+Rajasthan,MN Singh,7ba6ef29,1,12,12,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,1,0,0,20,0,24,44,29,True,False,False,,Right-hand bat
+Rajasthan,Ankit Lamba,90a3c0dc,2,32,30,3,0,106.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,48,0,0,48,33,True,False,False,Legbreak googly,Right-hand bat
+Rajasthan,R Bishnoi,4d5a1617,3,9,5,2,0,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,37,True,False,False,Right-arm medium-fast,Right-hand bat
+Rajasthan,AL Menaria,8291f939,4,13,8,1,1,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23,34,True,False,True,Slow left-arm orthodox,Left-hand bat
+Rajasthan,MK Lomror,da934ee8,5,51,27,4,3,188.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,99,0,0,99,25,True,False,True,Slow left-arm orthodox,Left-hand bat
+Rajasthan,Arjit Gupta,145903a5,6,11,10,0,1,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,17,0,8,25,35,True,True,False,Right-arm medium,Right-hand bat
+Rajasthan,DL Chahar,23eeb873,7,6,7,0,0,85.71,"[1, 3, 17, 19]",4.0,24,8,0,40,4,2,0,0,0,0,1,10.0,1,0,0,0,0,6,6,8,20,32,True,False,False,Right-arm medium,Right-hand bat
+Rajasthan,RD Chahar,2ed569a0,8,6,5,1,0,120.0,"[6, 8, 10, 12]",4.0,24,12,0,14,1,0,5,0,1,0,0,3.5,0,0,0,0,0,10,163,0,173,25,True,False,False,Legbreak googly,Right-hand bat
+Rajasthan,Ravi Bishnoi,df064e1a,9,0,1,0,0,0.0,"[9, 11, 13, 15]",4.0,24,10,0,17,1,0,0,0,0,0,0,4.25,1,0,0,0,0,-2,16,8,22,24,True,False,False,Legbreak googly,Right-hand bat
+Rajasthan,A Choudhary,18e6906e,10,4,6,0,0,66.67,"[2, 4, 16, 18]",4.0,24,8,0,36,3,2,1,0,0,0,0,9.0,0,0,0,0,0,4,33,0,37,35,True,False,False,Left-arm medium,Right-hand bat
+Rajasthan,KK Ahmed,a2f46292,11,2,5,0,0,40.0,"[5, 7, 14, 20]",4.0,24,11,0,29,1,2,0,0,0,0,1,7.25,0,0,0,0,0,2,11,0,13,27,True,False,False,Left-arm fast-medium,Right-hand bat

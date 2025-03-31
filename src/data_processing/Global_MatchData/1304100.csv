@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Royal Challengers Bangalore,V Kohli,ba607b88,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Royal Challengers Bangalore,F du Plessis,3355b542,2,73,50,8,2,146.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,127,0,8,135
-Royal Challengers Bangalore,RM Patidar,c740ea83,3,48,38,4,2,126.32,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,80,0,8,88
-Royal Challengers Bangalore,GJ Maxwell,b681e71e,4,33,23,3,2,143.48,"[1, 3]",2.0,12,7,0,13,1,1,1,0,1,0,0,6.5,1,0,0,0,2,63,42,8,113
-Royal Challengers Bangalore,KD Karthik,c03f1114,5,30,8,1,4,375.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,62,0,12,74
-Royal Challengers Bangalore,MK Lomror,da934ee8,11,0,0,0,0,0.0,[7],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,1,0,0,0,0,0,2,8,10
-Royal Challengers Bangalore,Shahbaz Ahmed,f9e6e7ef,12,0,0,0,0,0.0,"[5, 10]",2.0,12,3,0,20,3,0,0,0,0,0,2,10.0,1,0,1,0,0,0,1,20,21
-Royal Challengers Bangalore,PWH de Silva,a97c8ec2,13,0,0,0,0,0.0,"[9, 13, 15, 17]",4.0,24,13,1,18,1,1,5,1,0,0,0,4.5,0,0,0,0,0,0,176,0,176
-Royal Challengers Bangalore,HV Patel,f986ca1a,14,0,0,0,0,0.0,"[8, 12, 18, 20]",3.333,20,8,0,20,1,1,1,0,0,0,1,6.0,0,0,0,0,0,0,35,0,35
-Royal Challengers Bangalore,JR Hazlewood,03806cf8,15,0,0,0,0,0.0,"[2, 4, 16, 19]",4.0,24,13,0,17,2,0,2,0,0,0,0,4.25,0,0,0,0,0,0,69,0,69
-Royal Challengers Bangalore,Mohammed Siraj,2f49c897,16,0,0,0,0,0.0,"[6, 11, 14]",3.0,18,6,0,27,1,2,0,0,0,0,1,9.0,0,0,0,0,0,0,6,0,6
-Sunrisers Hyderabad,Abhishek Sharma,f29185a1,1,0,3,0,0,0.0,"[9, 11]",2.0,12,2,0,13,1,0,0,0,0,0,0,6.5,0,0,0,0,0,-2,4,0,2
-Sunrisers Hyderabad,KS Williamson,d027ba9f,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Sunrisers Hyderabad,RA Tripathi,77255a9e,3,58,37,6,2,156.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,106,0,8,114
-Sunrisers Hyderabad,AK Markram,6a26221c,4,21,27,1,1,77.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,31,0,8,39
-Sunrisers Hyderabad,N Pooran,3241e3fd,5,19,14,2,1,135.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,35,0,0,35
-Sunrisers Hyderabad,J Suchith,4125d931,6,2,7,0,0,28.57,"[1, 3, 7, 13]",4.0,24,12,0,30,1,2,2,0,0,0,3,7.5,0,0,0,0,0,2,62,0,64
-Sunrisers Hyderabad,Shashank Singh,26989d80,7,8,9,0,1,88.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
-Sunrisers Hyderabad,Kartik Tyagi,5d2eea49,8,0,1,0,0,0.0,"[6, 12, 15, 19]",4.0,24,10,0,42,4,2,1,0,0,1,3,10.5,0,0,0,0,0,-2,33,0,31
-Sunrisers Hyderabad,B Kumar,2e81a32d,9,8,9,1,0,88.89,"[2, 4, 16, 18]",4.0,24,6,0,34,2,2,0,0,0,0,0,8.5,0,0,0,0,0,12,6,0,18
-Sunrisers Hyderabad,Umran Malik,81c08fa3,10,0,1,0,0,0.0,"[8, 14]",2.0,12,4,0,25,4,1,0,0,0,0,0,12.5,0,0,0,0,0,-2,-2,0,-4
-Sunrisers Hyderabad,Fazalhaq Farooqi,e9c7f0d0,11,2,8,0,0,25.0,"[5, 10, 17, 20]",4.0,24,6,0,47,4,3,0,0,0,0,0,11.75,0,0,0,0,0,2,2,0,4
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Royal Challengers Bangalore,V Kohli,ba607b88,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,36,True,False,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,F du Plessis,3355b542,2,73,50,8,2,146.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,127,0,8,135,40,True,False,False,Legbreak,Right-hand bat
+Royal Challengers Bangalore,RM Patidar,c740ea83,3,48,38,4,2,126.32,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,80,0,8,88,31,True,False,False,Right-arm offbreak,Right-hand bat
+Royal Challengers Bangalore,GJ Maxwell,b681e71e,4,33,23,3,2,143.48,"[1, 3]",2.0,12,7,0,13,1,1,1,0,1,0,0,6.5,1,0,0,0,2,63,42,8,113,36,True,False,True,Right-arm offbreak,Right-hand bat
+Royal Challengers Bangalore,KD Karthik,c03f1114,5,30,8,1,4,375.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,62,0,12,74,39,True,True,False,Right-arm offbreak,Right-hand bat
+Royal Challengers Bangalore,MK Lomror,da934ee8,11,0,0,0,0,0.0,[7],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,1,0,0,0,0,0,2,8,10,25,True,False,True,Slow left-arm orthodox,Left-hand bat
+Royal Challengers Bangalore,Shahbaz Ahmed,f9e6e7ef,12,0,0,0,0,0.0,"[5, 10]",2.0,12,3,0,20,3,0,0,0,0,0,2,10.0,1,0,1,0,0,0,1,20,21,30,True,False,True,Slow left-arm orthodox,Left-hand bat
+Royal Challengers Bangalore,PWH de Silva,a97c8ec2,13,0,0,0,0,0.0,"[9, 13, 15, 17]",4.0,24,13,1,18,1,1,5,1,0,0,0,4.5,0,0,0,0,0,0,176,0,176,27,True,False,True,Legbreak,Right-hand bat
+Royal Challengers Bangalore,HV Patel,f986ca1a,14,0,0,0,0,0.0,"[8, 12, 18, 20]",3.333,20,8,0,20,1,1,1,0,0,0,1,6.0,0,0,0,0,0,0,35,0,35,34,True,False,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,JR Hazlewood,03806cf8,15,0,0,0,0,0.0,"[2, 4, 16, 19]",4.0,24,13,0,17,2,0,2,0,0,0,0,4.25,0,0,0,0,0,0,69,0,69,34,True,False,False,Right-arm fast-medium,Left-hand bat
+Royal Challengers Bangalore,Mohammed Siraj,2f49c897,16,0,0,0,0,0.0,"[6, 11, 14]",3.0,18,6,0,27,1,2,0,0,0,0,1,9.0,0,0,0,0,0,0,6,0,6,31,True,False,False,Right-arm fast,Right-hand bat
+Sunrisers Hyderabad,Abhishek Sharma,f29185a1,1,0,3,0,0,0.0,"[9, 11]",2.0,12,2,0,13,1,0,0,0,0,0,0,6.5,0,0,0,0,0,-2,4,0,2,24,True,False,True,Slow left-arm orthodox,Left-hand bat
+Sunrisers Hyderabad,KS Williamson,d027ba9f,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,34,True,False,False,Right-arm offbreak,Right-hand bat
+Sunrisers Hyderabad,RA Tripathi,77255a9e,3,58,37,6,2,156.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,106,0,8,114,34,True,False,False,Right-arm medium,Right-hand bat
+Sunrisers Hyderabad,AK Markram,6a26221c,4,21,27,1,1,77.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,31,0,8,39,30,True,False,True,Right-arm offbreak,Right-hand bat
+Sunrisers Hyderabad,N Pooran,3241e3fd,5,19,14,2,1,135.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,35,0,0,35,29,True,True,False,Right-arm offbreak,Left-hand bat
+Sunrisers Hyderabad,J Suchith,4125d931,6,2,7,0,0,28.57,"[1, 3, 7, 13]",4.0,24,12,0,30,1,2,2,0,0,0,3,7.5,0,0,0,0,0,2,62,0,64,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+Sunrisers Hyderabad,Shashank Singh,26989d80,7,8,9,0,1,88.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,33,True,False,True,Right-arm offbreak,Right-hand bat
+Sunrisers Hyderabad,Kartik Tyagi,5d2eea49,8,0,1,0,0,0.0,"[6, 12, 15, 19]",4.0,24,10,0,42,4,2,1,0,0,1,3,10.5,0,0,0,0,0,-2,33,0,31,24,True,False,False,Right-arm fast,Right-hand bat
+Sunrisers Hyderabad,B Kumar,2e81a32d,9,8,9,1,0,88.89,"[2, 4, 16, 18]",4.0,24,6,0,34,2,2,0,0,0,0,0,8.5,0,0,0,0,0,12,6,0,18,35,True,False,False,Right-arm medium,Right-hand bat
+Sunrisers Hyderabad,Umran Malik,81c08fa3,10,0,1,0,0,0.0,"[8, 14]",2.0,12,4,0,25,4,1,0,0,0,0,0,12.5,0,0,0,0,0,-2,-2,0,-4,25,True,False,False,Right-arm fast,Right-hand bat
+Sunrisers Hyderabad,Fazalhaq Farooqi,e9c7f0d0,11,2,8,0,0,25.0,"[5, 10, 17, 20]",4.0,24,6,0,47,4,3,0,0,0,0,0,11.75,0,0,0,0,0,2,2,0,4,24,True,False,False,Left-arm fast-medium,Right-hand bat

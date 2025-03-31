@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Durham,G Clark,4fd09cfc,1,53,56,2,2,94.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,81,0,0,81
-Durham,AZ Lees,c9c0fe50,2,8,10,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
-Durham,DG Bedingham,a1b69936,3,5,6,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
-Durham,OG Robinson,60f4c586,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Durham,AJ Turner,ff1e12a0,5,49,32,4,2,153.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,85,0,0,85
-Durham,BA Raine,4c0f3806,6,2,4,0,0,50.0,"[8, 14, 18, 20]",4.0,24,7,0,28,1,1,2,1,1,0,1,7.0,0,0,0,0,0,2,75,0,77
-Durham,P Coughlin,71440756,7,2,4,0,0,50.0,"[2, 4, 6]",3.0,18,10,0,24,5,0,0,0,0,0,0,8.0,1,0,0,0,0,2,10,8,20
-Durham,JJ Bushnell,2ca9cf48,8,3,5,0,0,60.0,[5],1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,0,3,1,0,4
-Durham,MJ Potts,894b2d25,9,0,1,0,0,0.0,"[3, 7, 17, 19]",4.0,24,10,0,20,0,1,3,0,2,0,0,5.0,0,0,0,0,0,-2,109,0,107
-Durham,CF Parkinson,aa1210d8,10,1,1,0,0,100.0,"[1, 10, 12, 16]",4.0,24,7,0,28,3,0,1,0,0,0,1,7.0,0,0,0,0,0,1,34,0,35
-Durham,NA Sowter,ee0c05c0,10,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,12,0,17,0,1,1,0,1,0,0,4.25,0,0,1,0,0,0,51,12,63
-Leicestershire,RK Patel,4531f249,1,48,44,6,1,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,82,0,0,82
-Leicestershire,SG Budinger,bfc60227,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Leicestershire,Rehan Ahmed,0ecb4de6,3,20,16,3,0,125.0,"[8, 13]",2.0,12,3,0,20,2,1,0,0,0,0,0,10.0,0,0,0,0,0,32,1,0,33
-Leicestershire,PSP Handscomb,ada15e88,4,26,28,1,0,92.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,34,0,20,54
-Leicestershire,PWA Mulder,c96f6ac5,5,2,4,0,0,50.0,"[1, 3, 5, 7]",4.0,24,8,0,19,1,0,2,1,0,0,0,4.75,0,0,0,0,0,2,72,0,74
-Leicestershire,LPJ Kimber,9f812582,6,10,10,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
-Leicestershire,BWM Mike,ed12fcd7,7,11,8,0,1,137.5,"[6, 11, 17]",3.0,18,7,0,27,2,2,1,0,0,0,0,9.0,0,0,0,0,0,17,32,0,49
-Leicestershire,OB Cox,324a6ee1,8,6,4,1,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,10,0,14,24
-Leicestershire,LP Goldsworthy,ed47cb25,9,1,2,0,0,50.0,"[9, 16, 18]",3.0,18,7,0,19,0,1,1,0,0,0,0,6.33,0,0,0,0,0,1,34,0,35
-Leicestershire,J Hull,1cc0a83d,10,0,0,0,0,0.0,"[2, 4, 14, 20]",4.0,24,13,0,16,0,0,1,0,0,0,1,4.0,0,0,0,0,0,0,44,0,44
-Leicestershire,SW Currie,c5f40e35,10,2,3,0,0,66.67,"[10, 12, 15, 19]",4.0,24,8,0,24,2,0,1,0,1,0,1,6.0,2,0,0,0,0,2,43,16,61
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Durham,G Clark,4fd09cfc,1,53,56,2,2,94.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,81,0,0,81,32,True,False,False,Legbreak,Right-hand bat
+Durham,AZ Lees,c9c0fe50,2,8,10,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,31,True,False,False,Legbreak,Left-hand bat
+Durham,DG Bedingham,a1b69936,3,5,6,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,30,True,False,False,,Right-hand bat
+Durham,OG Robinson,60f4c586,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,26,True,False,False,,Right-hand bat
+Durham,AJ Turner,ff1e12a0,5,49,32,4,2,153.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,85,0,0,85,32,True,False,False,Right-arm offbreak,Right-hand bat
+Durham,BA Raine,4c0f3806,6,2,4,0,0,50.0,"[8, 14, 18, 20]",4.0,24,7,0,28,1,1,2,1,1,0,1,7.0,0,0,0,0,0,2,75,0,77,33,True,False,True,Right-arm medium-fast,Left-hand bat
+Durham,P Coughlin,71440756,7,2,4,0,0,50.0,"[2, 4, 6]",3.0,18,10,0,24,5,0,0,0,0,0,0,8.0,1,0,0,0,0,2,10,8,20,32,True,False,True,Right-arm medium,Right-hand bat
+Durham,JJ Bushnell,2ca9cf48,8,3,5,0,0,60.0,[5],1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,0,3,1,0,4,23,True,True,False,Right-arm medium,Right-hand bat
+Durham,MJ Potts,894b2d25,9,0,1,0,0,0.0,"[3, 7, 17, 19]",4.0,24,10,0,20,0,1,3,0,2,0,0,5.0,0,0,0,0,0,-2,109,0,107,26,True,False,False,Right-arm fast-medium,Right-hand bat
+Durham,CF Parkinson,aa1210d8,10,1,1,0,0,100.0,"[1, 10, 12, 16]",4.0,24,7,0,28,3,0,1,0,0,0,1,7.0,0,0,0,0,0,1,34,0,35,28,True,False,False,Slow left-arm orthodox,Right-hand bat
+Durham,NA Sowter,ee0c05c0,10,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,12,0,17,0,1,1,0,1,0,0,4.25,0,0,1,0,0,0,51,12,63,32,True,False,False,Legbreak,Right-hand bat
+Leicestershire,RK Patel,4531f249,1,48,44,6,1,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,82,0,0,82,26,True,False,False,Legbreak,Right-hand bat
+Leicestershire,SG Budinger,bfc60227,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,25,True,False,False,,Left-hand bat
+Leicestershire,Rehan Ahmed,0ecb4de6,3,20,16,3,0,125.0,"[8, 13]",2.0,12,3,0,20,2,1,0,0,0,0,0,10.0,0,0,0,0,0,32,1,0,33,20,True,False,True,Legbreak googly,Right-hand bat
+Leicestershire,PSP Handscomb,ada15e88,4,26,28,1,0,92.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,34,0,20,54,33,True,False,False,,Right-hand bat
+Leicestershire,PWA Mulder,c96f6ac5,5,2,4,0,0,50.0,"[1, 3, 5, 7]",4.0,24,8,0,19,1,0,2,1,0,0,0,4.75,0,0,0,0,0,2,72,0,74,27,True,False,True,Right-arm medium,Right-hand bat
+Leicestershire,LPJ Kimber,9f812582,6,10,10,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,28,True,False,False,Right-arm offbreak,Right-hand bat
+Leicestershire,BWM Mike,ed12fcd7,7,11,8,0,1,137.5,"[6, 11, 17]",3.0,18,7,0,27,2,2,1,0,0,0,0,9.0,0,0,0,0,0,17,32,0,49,26,True,False,True,Right-arm medium-fast,Right-hand bat
+Leicestershire,OB Cox,324a6ee1,8,6,4,1,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,10,0,14,24,33,True,False,False,,Right-hand bat
+Leicestershire,LP Goldsworthy,ed47cb25,9,1,2,0,0,50.0,"[9, 16, 18]",3.0,18,7,0,19,0,1,1,0,0,0,0,6.33,0,0,0,0,0,1,34,0,35,24,True,False,True,Slow left-arm orthodox,Right-hand bat
+Leicestershire,J Hull,1cc0a83d,10,0,0,0,0,0.0,"[2, 4, 14, 20]",4.0,24,13,0,16,0,0,1,0,0,0,1,4.0,0,0,0,0,0,0,44,0,44,20,True,False,False,Left-arm fast-medium,Left-hand bat
+Leicestershire,SW Currie,c5f40e35,10,2,3,0,0,66.67,"[10, 12, 15, 19]",4.0,24,8,0,24,2,0,1,0,1,0,1,6.0,2,0,0,0,0,2,43,16,61,23,True,False,True,Right-arm medium-fast,Right-hand bat

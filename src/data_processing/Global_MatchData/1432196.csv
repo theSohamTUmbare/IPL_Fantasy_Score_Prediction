@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Belgium,Muhammad Muneeb,5338b9f5,1,5,3,1,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
-Belgium,A Raza,838bc6ab,2,22,18,5,0,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,42,0,8,50
-Belgium,F Khaliq,c17dcc29,3,4,3,1,0,133.33,"[7, 9, 19]",3.0,18,4,0,26,2,1,1,0,0,0,0,8.67,2,0,0,1,0,8,29,22,59
-Belgium,Sheraz Sheikh,4aad6842,4,19,28,1,1,67.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,27,0,0,27
-Belgium,D Dewald,f97e4db3,5,23,25,2,0,92.0,"[8, 10, 12, 14]",4.0,24,12,0,22,1,0,2,0,1,0,2,5.5,0,0,0,0,0,31,74,0,105
-Belgium,Shaheryar Butt,b6bad765,6,2,7,0,0,28.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Belgium,Saber Zakhil,036dcf9b,7,13,13,1,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
-Belgium,Waqas Ali,2fd4669a,8,6,9,0,0,66.67,"[16, 18, 20]",2.667,16,5,0,26,2,1,2,0,1,1,0,9.75,0,0,1,0,0,6,63,12,81
-Belgium,Khalid Ahmadi,cf0b9a0d,9,25,14,2,2,178.57,"[1, 3, 5, 15, 17]",5.0,30,15,0,29,2,0,1,1,0,0,0,5.8,1,0,0,0,6,55,52,8,115
-Belgium,Murid Ekrami,76b19864,10,15,6,3,0,250.0,"[1, 11, 13]",3.0,18,8,0,28,1,3,1,0,0,0,0,9.33,1,0,0,0,0,27,33,8,68
-Belgium,Sajad Ahmadzai,6978bff0,11,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,9,0,17,2,0,1,0,0,0,2,5.67,0,0,0,0,0,0,38,0,38
-France,G Mckeon,31366b7e,1,24,21,1,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,28,0,14,42
-France,H Niaz,d0e2e8ea,2,10,6,1,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
-France,C Roberts,07ac9c54,3,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
-France,L Canessane,72a4c3b2,4,20,18,3,0,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32
-France,HA Jackson,ee40679e,5,7,16,0,0,43.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,-6,1,0,14,15
-France,Usman Khan,e8a552ef,6,27,25,1,1,108.0,"[1, 16, 18]",3.0,18,8,0,24,1,1,2,0,0,0,5,8.0,1,0,0,0,0,41,58,8,107
-France,Kamran Ahmadzai,afa2ebba,7,15,7,0,2,214.29,"[2, 4, 6, 20]",4.0,24,12,0,47,7,2,1,0,0,0,1,11.75,0,0,0,1,0,27,33,6,66
-France,Noman Amjad,c079c66a,8,10,10,1,0,100.0,"[7, 9, 19]",3.0,18,9,0,14,2,0,0,0,0,0,1,4.67,0,0,0,0,0,14,15,0,29
-France,Zaheer Zahiri,62f6d8ce,9,20,10,2,1,200.0,"[1, 3, 5, 17]",4.0,24,14,0,26,4,0,3,0,2,0,3,6.5,0,0,0,1,6,40,111,6,157
-France,S Stanikzay,c5445834,10,2,2,0,0,100.0,"[8, 10, 12, 14]",4.0,24,11,0,16,1,0,1,0,1,0,1,4.0,0,0,0,0,0,2,50,0,52
-France,Dawood Ahmadzai,951686f5,11,7,3,1,0,233.33,"[11, 13, 15]",3.0,18,8,0,18,1,1,1,0,0,0,0,6.0,0,0,0,0,0,11,35,0,46
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Belgium,Muhammad Muneeb,5338b9f5,1,5,3,1,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,27,True,True,False,Right-arm offbreak,Left-hand bat
+Belgium,A Raza,838bc6ab,2,22,18,5,0,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,42,0,8,50,41,True,False,False,,Right-hand bat
+Belgium,F Khaliq,c17dcc29,3,4,3,1,0,133.33,"[7, 9, 19]",3.0,18,4,0,26,2,1,1,0,0,0,0,8.67,2,0,0,1,0,8,29,22,59,30,True,False,False,,
+Belgium,Sheraz Sheikh,4aad6842,4,19,28,1,1,67.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,27,0,0,27,37,True,False,False,Slow left-arm orthodox,Right-hand bat
+Belgium,D Dewald,f97e4db3,5,23,25,2,0,92.0,"[8, 10, 12, 14]",4.0,24,12,0,22,1,0,2,0,1,0,2,5.5,0,0,0,0,0,31,74,0,105,24,True,True,False,Legbreak,Right-hand bat
+Belgium,Shaheryar Butt,b6bad765,6,2,7,0,0,28.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,43,True,False,True,Right-arm offbreak,Right-hand bat
+Belgium,Saber Zakhil,036dcf9b,7,13,13,1,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23,28,True,False,False,Right-arm fast,Right-hand bat
+Belgium,Waqas Ali,2fd4669a,8,6,9,0,0,66.67,"[16, 18, 20]",2.667,16,5,0,26,2,1,2,0,1,1,0,9.75,0,0,1,0,0,6,63,12,81,38,True,False,True,Right-arm medium,Right-hand bat
+Belgium,Khalid Ahmadi,cf0b9a0d,9,25,14,2,2,178.57,"[1, 3, 5, 15, 17]",5.0,30,15,0,29,2,0,1,1,0,0,0,5.8,1,0,0,0,6,55,52,8,115,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Belgium,Murid Ekrami,76b19864,10,15,6,3,0,250.0,"[1, 11, 13]",3.0,18,8,0,28,1,3,1,0,0,0,0,9.33,1,0,0,0,0,27,33,8,68,24,True,True,False,Slow left-arm orthodox,Left-hand bat
+Belgium,Sajad Ahmadzai,6978bff0,11,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,9,0,17,2,0,1,0,0,0,2,5.67,0,0,0,0,0,0,38,0,38,25,True,True,False,Left-arm medium,Right-hand bat
+France,G Mckeon,31366b7e,1,24,21,1,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,28,0,14,42,21,True,True,False,Right-arm medium-fast,Right-hand bat
+France,H Niaz,d0e2e8ea,2,10,6,1,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,29,True,False,False,,
+France,C Roberts,07ac9c54,3,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,21,True,False,False,,Right-hand bat
+France,L Canessane,72a4c3b2,4,20,18,3,0,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32,22,True,False,False,,Right-hand bat
+France,HA Jackson,ee40679e,5,7,16,0,0,43.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,-6,1,0,14,15,28,True,False,False,,Right-hand bat
+France,Usman Khan,e8a552ef,6,27,25,1,1,108.0,"[1, 16, 18]",3.0,18,8,0,24,1,1,2,0,0,0,5,8.0,1,0,0,0,0,41,58,8,107,34,True,True,False,Right-arm medium,Right-hand bat
+France,Kamran Ahmadzai,afa2ebba,7,15,7,0,2,214.29,"[2, 4, 6, 20]",4.0,24,12,0,47,7,2,1,0,0,0,1,11.75,0,0,0,1,0,27,33,6,66,31,True,True,False,Right-arm medium,Right-hand bat
+France,Noman Amjad,c079c66a,8,10,10,1,0,100.0,"[7, 9, 19]",3.0,18,9,0,14,2,0,0,0,0,0,1,4.67,0,0,0,0,0,14,15,0,29,20,True,True,False,Right-arm medium-fast,Right-hand bat
+France,Zaheer Zahiri,62f6d8ce,9,20,10,2,1,200.0,"[1, 3, 5, 17]",4.0,24,14,0,26,4,0,3,0,2,0,3,6.5,0,0,0,1,6,40,111,6,157,22,True,True,False,Left-arm medium,Right-hand bat
+France,S Stanikzay,c5445834,10,2,2,0,0,100.0,"[8, 10, 12, 14]",4.0,24,11,0,16,1,0,1,0,1,0,1,4.0,0,0,0,0,0,2,50,0,52,17,True,True,False,Legbreak,Right-hand bat
+France,Dawood Ahmadzai,951686f5,11,7,3,1,0,233.33,"[11, 13, 15]",3.0,18,8,0,18,1,1,1,0,0,0,0,6.0,0,0,0,0,0,11,35,0,46,31,True,True,False,Legbreak,Right-hand bat

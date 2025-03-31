@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Malawi,D Kansonkho,45ca12a7,1,24,9,3,1,266.67,[15],1.0,6,4,0,2,0,0,0,0,0,0,0,2.0,2,0,0,0,0,42,4,16,62
-Malawi,GM Ntambalika,8c8a3f08,2,8,4,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
-Malawi,G Kansonkho,f3ca5af8,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Malawi,Sami Sohail,602ebd4c,3,11,6,1,0,183.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
-Malawi,M Choamba,5570c4c1,4,0,0,0,0,0.0,"[14, 16]",2.0,12,8,0,6,0,0,3,0,0,0,1,3.0,0,0,0,0,0,0,93,0,93
-Malawi,P Zuze,04420914,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Malawi,D Jakiel,8b7ce771,6,0,0,0,0,0.0,"[1, 3, 5, 7]",4.0,24,22,1,6,1,0,2,0,2,0,1,1.5,2,0,0,0,0,0,106,16,122
-Malawi,A Limdawala,2bcbcac3,7,0,0,0,0,0.0,[17],1.0,6,2,0,3,0,0,0,0,0,0,0,3.0,0,0,1,0,0,0,2,12,14
-Malawi,SZ Vayani,a4afc486,8,0,0,0,0,0.0,"[2, 4, 6, 8]",4.0,24,19,1,8,1,0,4,0,0,0,0,2.0,1,0,0,0,0,0,145,8,153
-Malawi,K Thuchila,af42d9f2,9,0,0,0,0,0.0,"[10, 12]",2.0,12,8,1,8,1,0,0,0,0,0,1,4.0,0,0,0,0,0,0,26,0,26
-Malawi,MA Baig,89394502,10,0,0,0,0,0.0,"[9, 11, 13]",3.0,18,15,1,6,1,0,0,0,0,0,0,2.0,1,0,0,0,0,0,33,8,41
-Mali,Mohamed Coulibaly,86ea6123,1,1,12,0,0,8.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-5,0,0,-5
-Mali,MS Diakite,69795fcd,2,4,11,1,0,36.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,2,0,0,2
-Mali,L Sanogo,abbc06cf,3,2,8,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Mali,TM Macalou,8a9320a1,4,9,33,0,0,27.27,"[2, 4]",1.167,7,2,0,12,2,0,1,0,0,0,0,10.28,0,0,0,0,-6,3,27,0,30
-Mali,S Kamate,d7af6207,5,0,1,0,0,0.0,[1],1.0,6,0,0,21,2,1,0,0,0,0,1,21.0,0,0,0,0,0,-2,0,0,-2
-Mali,CA Keita,5b9b8d98,6,5,5,1,0,100.0,[3],1.0,6,0,0,11,1,0,0,0,0,0,0,11.0,1,0,0,0,0,9,0,8,17
-Mali,Z Makadji,7fcaa9f4,7,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Mali,Y Konate,5934e1b2,8,11,20,2,0,55.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,15,0,0,15
-Mali,M Malle,e15c6692,9,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Mali,L Berthe,8eb7c5a6,10,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
-Mali,AD Fofana,8d4a236d,11,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Malawi,D Kansonkho,45ca12a7,1,24,9,3,1,266.67,[15],1.0,6,4,0,2,0,0,0,0,0,0,0,2.0,2,0,0,0,0,42,4,16,62,26,True,True,False,Right-arm medium,Left-hand bat
+Malawi,GM Ntambalika,8c8a3f08,2,8,4,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,29,True,True,False,Right-arm medium,Right-hand bat
+Malawi,G Kansonkho,f3ca5af8,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,33,True,True,False,Right-arm medium,Right-hand bat
+Malawi,Sami Sohail,602ebd4c,3,11,6,1,0,183.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15,23,True,True,False,Right-arm medium,Right-hand bat
+Malawi,M Choamba,5570c4c1,4,0,0,0,0,0.0,"[14, 16]",2.0,12,8,0,6,0,0,3,0,0,0,1,3.0,0,0,0,0,0,0,93,0,93,20,True,True,False,Right-arm offbreak,Right-hand bat
+Malawi,P Zuze,04420914,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,18,True,False,False,,Right-hand bat
+Malawi,D Jakiel,8b7ce771,6,0,0,0,0,0.0,"[1, 3, 5, 7]",4.0,24,22,1,6,1,0,2,0,2,0,1,1.5,2,0,0,0,0,0,106,16,122,34,True,True,False,Right-arm fast-medium,Right-hand bat
+Malawi,A Limdawala,2bcbcac3,7,0,0,0,0,0.0,[17],1.0,6,2,0,3,0,0,0,0,0,0,0,3.0,0,0,1,0,0,0,2,12,14,20,True,False,False,,Left-hand bat
+Malawi,SZ Vayani,a4afc486,8,0,0,0,0,0.0,"[2, 4, 6, 8]",4.0,24,19,1,8,1,0,4,0,0,0,0,2.0,1,0,0,0,0,0,145,8,153,17,True,True,False,Right-arm offbreak,Right-hand bat
+Malawi,K Thuchila,af42d9f2,9,0,0,0,0,0.0,"[10, 12]",2.0,12,8,1,8,1,0,0,0,0,0,1,4.0,0,0,0,0,0,0,26,0,26,20,True,True,False,Slow left-arm orthodox,Left-hand bat
+Malawi,MA Baig,89394502,10,0,0,0,0,0.0,"[9, 11, 13]",3.0,18,15,1,6,1,0,0,0,0,0,0,2.0,1,0,0,0,0,0,33,8,41,40,True,True,False,Right-arm offbreak,Right-hand bat
+Mali,Mohamed Coulibaly,86ea6123,1,1,12,0,0,8.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-5,0,0,-5,25,True,True,False,Right-arm medium-fast,Right-hand bat
+Mali,MS Diakite,69795fcd,2,4,11,1,0,36.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,2,0,0,2,25,True,True,False,Right-arm medium-fast,Right-hand bat
+Mali,L Sanogo,abbc06cf,3,2,8,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Mali,TM Macalou,8a9320a1,4,9,33,0,0,27.27,"[2, 4]",1.167,7,2,0,12,2,0,1,0,0,0,0,10.28,0,0,0,0,-6,3,27,0,30,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Mali,S Kamate,d7af6207,5,0,1,0,0,0.0,[1],1.0,6,0,0,21,2,1,0,0,0,0,1,21.0,0,0,0,0,0,-2,0,0,-2,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Mali,CA Keita,5b9b8d98,6,5,5,1,0,100.0,[3],1.0,6,0,0,11,1,0,0,0,0,0,0,11.0,1,0,0,0,0,9,0,8,17,27,True,True,False,Right-arm medium-fast,Right-hand bat
+Mali,Z Makadji,7fcaa9f4,7,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,22,True,True,False,Right-arm medium-fast,Right-hand bat
+Mali,Y Konate,5934e1b2,8,11,20,2,0,55.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,15,0,0,15,29,True,False,False,,Right-hand bat
+Mali,M Malle,e15c6692,9,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,25,True,True,False,Right-arm medium-fast,Right-hand bat
+Mali,L Berthe,8eb7c5a6,10,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,27,True,True,False,Right-arm medium-fast,Left-hand bat
+Mali,AD Fofana,8d4a236d,11,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,27,True,False,False,,Right-hand bat

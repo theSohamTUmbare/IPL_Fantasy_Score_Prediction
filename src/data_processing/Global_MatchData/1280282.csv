@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Jammu & Kashmir,Qamran Iqbal,6375ef6a,1,37,30,2,2,123.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,61,0,0,61
-Jammu & Kashmir,Jatin Wadhwan,2cd4271e,2,45,41,5,0,109.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,69,0,8,77
-Jammu & Kashmir,Abdul Samad,8e514b4c,3,17,13,0,1,130.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,25,0,0,25
-Jammu & Kashmir,Ian Dev Singh,f732f3e7,4,10,9,0,1,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24
-Jammu & Kashmir,Shubham Pundir,86a98b15,5,26,12,3,1,216.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,54,0,0,54
-Jammu & Kashmir,Parvez Rasool,9170ff49,6,14,11,2,0,127.27,"[7, 9, 11, 13]",4.0,24,8,0,24,2,0,1,0,0,0,1,6.0,1,0,0,0,0,22,35,8,65
-Jammu & Kashmir,Auqib Nabi,7c3c0337,7,6,4,0,1,150.0,"[2, 6, 15, 18]",4.0,24,7,0,35,5,0,1,0,0,0,0,8.75,0,0,0,0,0,12,32,0,44
-Jammu & Kashmir,Irfan-ul-Haq,c9b0f3df,7,0,0,0,0,0.0,[17],1.0,6,0,0,18,2,1,0,0,0,0,0,18.0,1,0,0,0,0,0,0,8,8
-Jammu & Kashmir,Abid Mushtaq,b10e8c85,8,0,0,0,0,0.0,"[4, 8, 14, 16]",4.0,24,10,0,26,2,1,1,0,1,0,0,6.5,0,0,0,0,0,0,45,0,45
-Jammu & Kashmir,Waseem Raza,c32087fc,9,0,0,0,0,0.0,"[10, 12, 20]",2.333,14,1,0,25,2,1,0,0,0,0,0,10.72,0,0,0,0,0,0,-1,0,-1
-Jammu & Kashmir,Ram Dayal,93fefdfa,10,0,0,0,0,0.0,"[1, 3, 5, 19]",4.0,24,12,0,28,1,2,2,0,0,0,2,7.0,0,0,0,0,0,0,64,0,64
-Jharkhand,IR Jaggi,dded65e7,1,30,29,4,0,103.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,50,0,0,50
-Jharkhand,Utkarsh Singh,b2a55ac1,2,6,9,1,0,66.67,"[8, 10, 12, 14]",4.0,24,7,0,22,0,1,2,0,1,0,0,5.5,0,0,0,0,0,10,69,0,79
-Jharkhand,SS Tiwary,709b0bac,3,24,16,3,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,36,0,12,48
-Jharkhand,Virat Singh,26d76ad9,4,40,29,3,2,137.93,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,70,0,0,70
-Jharkhand,KR Singh,fe608a7e,5,29,23,2,1,126.09,[16],1.0,6,1,0,8,1,0,1,0,0,0,0,8.0,0,0,0,0,0,47,26,0,73
-Jharkhand,AS Roy,e4cdf230,6,16,7,1,1,228.57,"[3, 5, 9, 11]",4.0,24,10,0,24,1,1,0,0,0,0,0,6.0,0,0,0,0,0,26,12,0,38
-Jharkhand,Pankaj Kumar,cca2aa1a,7,8,3,0,1,266.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,14,0,16,30
-Jharkhand,Shubham Kumar Singh,65654ac9,7,0,0,0,0,0.0,"[1, 19]",2.0,12,6,0,18,4,0,0,0,0,0,0,9.0,0,0,0,0,0,0,6,0,6
-Jharkhand,S Nadeem,9d80c5e1,8,0,0,0,0,0.0,"[2, 6, 13, 15]",4.0,24,8,0,25,2,0,1,0,0,0,1,6.25,0,0,0,0,0,0,35,0,35
-Jharkhand,Bal Krishna,35dee2d1,9,0,0,0,0,0.0,"[4, 18, 20]",3.0,18,5,0,39,3,3,1,0,0,0,0,13.0,1,0,0,0,0,0,24,8,32
-Jharkhand,Vikash Singh,8b018008,10,0,0,0,0,0.0,"[7, 17]",2.0,12,2,0,20,1,1,0,0,0,0,0,10.0,1,0,0,0,0,0,0,8,8
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Jammu & Kashmir,Qamran Iqbal,6375ef6a,1,37,30,2,2,123.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,61,0,0,61,23,True,False,False,Legbreak,Right-hand bat
+Jammu & Kashmir,Jatin Wadhwan,2cd4271e,2,45,41,5,0,109.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,69,0,8,77,30,True,True,False,Right-arm medium,Right-hand bat
+Jammu & Kashmir,Abdul Samad,8e514b4c,3,17,13,0,1,130.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,25,0,0,25,23,True,False,False,Legbreak,Right-hand bat
+Jammu & Kashmir,Ian Dev Singh,f732f3e7,4,10,9,0,1,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24,36,True,False,False,Right-arm offbreak,Right-hand bat
+Jammu & Kashmir,Shubham Pundir,86a98b15,5,26,12,3,1,216.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,54,0,0,54,26,True,False,False,Legbreak googly,Left-hand bat
+Jammu & Kashmir,Parvez Rasool,9170ff49,6,14,11,2,0,127.27,"[7, 9, 11, 13]",4.0,24,8,0,24,2,0,1,0,0,0,1,6.0,1,0,0,0,0,22,35,8,65,36,True,False,True,Right-arm offbreak,Right-hand bat
+Jammu & Kashmir,Auqib Nabi,7c3c0337,7,6,4,0,1,150.0,"[2, 6, 15, 18]",4.0,24,7,0,35,5,0,1,0,0,0,0,8.75,0,0,0,0,0,12,32,0,44,28,True,True,False,Right-arm medium,Right-hand bat
+Jammu & Kashmir,Irfan-ul-Haq,c9b0f3df,7,0,0,0,0,0.0,[17],1.0,6,0,0,18,2,1,0,0,0,0,0,18.0,1,0,0,0,0,0,0,8,8,28,True,True,False,Right-arm medium-fast,Right-hand bat
+Jammu & Kashmir,Abid Mushtaq,b10e8c85,8,0,0,0,0,0.0,"[4, 8, 14, 16]",4.0,24,10,0,26,2,1,1,0,1,0,0,6.5,0,0,0,0,0,0,45,0,45,28,True,False,True,Slow left-arm orthodox,Left-hand bat
+Jammu & Kashmir,Waseem Raza,c32087fc,9,0,0,0,0,0.0,"[10, 12, 20]",2.333,14,1,0,25,2,1,0,0,0,0,0,10.72,0,0,0,0,0,0,-1,0,-1,32,True,True,False,Slow left-arm orthodox,Right-hand bat
+Jammu & Kashmir,Ram Dayal,93fefdfa,10,0,0,0,0,0.0,"[1, 3, 5, 19]",4.0,24,12,0,28,1,2,2,0,0,0,2,7.0,0,0,0,0,0,0,64,0,64,36,True,False,True,Right-arm medium,Right-hand bat
+Jharkhand,IR Jaggi,dded65e7,1,30,29,4,0,103.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,50,0,0,50,36,True,False,False,Legbreak googly,Right-hand bat
+Jharkhand,Utkarsh Singh,b2a55ac1,2,6,9,1,0,66.67,"[8, 10, 12, 14]",4.0,24,7,0,22,0,1,2,0,1,0,0,5.5,0,0,0,0,0,10,69,0,79,26,True,False,True,Right-arm offbreak,Left-hand bat
+Jharkhand,SS Tiwary,709b0bac,3,24,16,3,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,36,0,12,48,35,True,False,False,,Left-hand bat
+Jharkhand,Virat Singh,26d76ad9,4,40,29,3,2,137.93,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,70,0,0,70,27,True,False,False,Legbreak googly,Left-hand bat
+Jharkhand,KR Singh,fe608a7e,5,29,23,2,1,126.09,[16],1.0,6,1,0,8,1,0,1,0,0,0,0,8.0,0,0,0,0,0,47,26,0,73,28,True,True,False,Right-arm medium,Right-hand bat
+Jharkhand,AS Roy,e4cdf230,6,16,7,1,1,228.57,"[3, 5, 9, 11]",4.0,24,10,0,24,1,1,0,0,0,0,0,6.0,0,0,0,0,0,26,12,0,38,26,True,False,True,Slow left-arm orthodox,Left-hand bat
+Jharkhand,Pankaj Kumar,cca2aa1a,7,8,3,0,1,266.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,14,0,16,30,25,True,False,False,,Right-hand bat
+Jharkhand,Shubham Kumar Singh,65654ac9,7,0,0,0,0,0.0,"[1, 19]",2.0,12,6,0,18,4,0,0,0,0,0,0,9.0,0,0,0,0,0,0,6,0,6,26,True,True,False,Right-arm medium-fast,Right-hand bat
+Jharkhand,S Nadeem,9d80c5e1,8,0,0,0,0,0.0,"[2, 6, 13, 15]",4.0,24,8,0,25,2,0,1,0,0,0,1,6.25,0,0,0,0,0,0,35,0,35,35,True,False,False,Slow left-arm orthodox,Right-hand bat
+Jharkhand,Bal Krishna,35dee2d1,9,0,0,0,0,0.0,"[4, 18, 20]",3.0,18,5,0,39,3,3,1,0,0,0,0,13.0,1,0,0,0,0,0,24,8,32,26,True,False,False,Right-arm medium-fast,Right-hand bat
+Jharkhand,Vikash Singh,8b018008,10,0,0,0,0,0.0,"[7, 17]",2.0,12,2,0,20,1,1,0,0,0,0,0,10.0,1,0,0,0,0,0,0,8,8,30,True,True,False,Left-arm medium,Left-hand bat

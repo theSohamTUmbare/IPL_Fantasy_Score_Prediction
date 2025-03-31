@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Rajasthan Royals,AM Rahane,29e95537,1,23,19,4,0,121.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,39,0,6,45
-Rajasthan Royals,KK Nair,944533a5,2,8,12,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,6,0,0,6
-Rajasthan Royals,SV Samson,a4cc73aa,3,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,2,0,14,16
-Rajasthan Royals,AM Nayar,a45a5e8d,4,11,17,1,0,64.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,13,0,0,13
-Rajasthan Royals,SR Watson,4329fbb5,5,24,24,1,2,100.0,"[6, 8]",2.0,12,9,0,5,1,0,1,0,1,0,1,2.5,0,0,0,0,0,40,48,0,88
-Rajasthan Royals,STR Binny,bd17b45f,6,0,0,0,0,0.0,[1],1.0,6,5,0,1,0,0,1,0,0,0,0,1.0,1,0,0,0,0,0,30,8,38
-Rajasthan Royals,SPD Smith,30a45b23,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
-Rajasthan Royals,R Bhatia,33a364a6,7,0,0,0,0,0.0,[14],1.0,6,2,0,7,1,0,1,0,0,0,0,7.0,0,0,0,0,0,0,27,0,27
-Rajasthan Royals,KW Richardson,dfc4d8b5,8,0,0,0,0,0.0,"[3, 5, 7, 12]",4.0,24,11,0,18,1,0,2,0,1,0,0,4.5,0,0,0,0,0,0,75,0,75
-Rajasthan Royals,PV Tambe,6aed7e79,9,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,14,0,20,1,1,4,1,0,0,0,5.0,0,0,0,0,0,0,134,0,134
-Rajasthan Royals,TG Southee,13c35c9e,10,0,0,0,0,0.0,"[2, 4, 10]",3.0,18,9,0,16,2,0,0,0,0,0,0,5.33,2,0,0,0,0,0,13,16,29
-Royal Challengers Bangalore,PA Patel,b5da6c24,1,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,1,0,1,0,22,23
-Royal Challengers Bangalore,YV Takawale,4e04666c,2,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,-2,0,6,4
-Royal Challengers Bangalore,V Kohli,ba607b88,3,21,25,3,0,84.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33
-Royal Challengers Bangalore,Yuvraj Singh,1c914163,4,3,7,0,0,42.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
-Royal Challengers Bangalore,AB de Villiers,c4487b84,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Royal Challengers Bangalore,S Rana,90edaaa9,6,3,8,0,0,37.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
-Royal Challengers Bangalore,JA Morkel,c3d35165,7,7,13,1,0,53.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,7,0,0,7
-Royal Challengers Bangalore,MA Starc,3fb19989,8,18,16,2,0,112.5,"[1, 3, 5, 7]",4.0,24,14,0,29,5,0,2,0,0,0,1,7.25,0,0,0,0,0,26,64,0,90
-Royal Challengers Bangalore,R Rampaul,d68e7f48,9,13,13,0,1,100.0,"[2, 4, 6, 8]",4.0,24,13,0,16,1,0,0,0,0,0,1,4.0,0,0,0,0,0,19,19,0,38
-Royal Challengers Bangalore,AB Dinda,66b30f71,10,0,3,0,0,0.0,"[10, 12]",2.0,12,7,0,8,0,0,0,0,0,0,0,4.0,0,0,0,0,0,-2,13,0,11
-Royal Challengers Bangalore,YS Chahal,57ee1fde,11,0,0,0,0,0.0,"[9, 11, 13]",3.0,18,13,1,17,0,2,1,0,0,0,0,5.67,0,0,0,0,0,0,54,0,54
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Rajasthan Royals,AM Rahane,29e95537,1,23,19,4,0,121.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,39,0,6,45,36,True,False,False,Right-arm medium,Right-hand bat
+Rajasthan Royals,KK Nair,944533a5,2,8,12,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,6,0,0,6,33,True,False,False,Right-arm offbreak,Right-hand bat
+Rajasthan Royals,SV Samson,a4cc73aa,3,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,2,0,14,16,30,True,False,False,,Right-hand bat
+Rajasthan Royals,AM Nayar,a45a5e8d,4,11,17,1,0,64.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,13,0,0,13,41,True,False,True,Right-arm medium,Left-hand bat
+Rajasthan Royals,SR Watson,4329fbb5,5,24,24,1,2,100.0,"[6, 8]",2.0,12,9,0,5,1,0,1,0,1,0,1,2.5,0,0,0,0,0,40,48,0,88,43,True,False,True,Right-arm fast-medium,Right-hand bat
+Rajasthan Royals,STR Binny,bd17b45f,6,0,0,0,0,0.0,[1],1.0,6,5,0,1,0,0,1,0,0,0,0,1.0,1,0,0,0,0,0,30,8,38,40,True,False,True,Right-arm medium,Right-hand bat
+Rajasthan Royals,SPD Smith,30a45b23,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,35,True,False,False,Legbreak googly,Right-hand bat
+Rajasthan Royals,R Bhatia,33a364a6,7,0,0,0,0,0.0,[14],1.0,6,2,0,7,1,0,1,0,0,0,0,7.0,0,0,0,0,0,0,27,0,27,45,True,False,True,Right-arm medium-fast,Right-hand bat
+Rajasthan Royals,KW Richardson,dfc4d8b5,8,0,0,0,0,0.0,"[3, 5, 7, 12]",4.0,24,11,0,18,1,0,2,0,1,0,0,4.5,0,0,0,0,0,0,75,0,75,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Rajasthan Royals,PV Tambe,6aed7e79,9,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,14,0,20,1,1,4,1,0,0,0,5.0,0,0,0,0,0,0,134,0,134,53,True,False,False,Legbreak,Right-hand bat
+Rajasthan Royals,TG Southee,13c35c9e,10,0,0,0,0,0.0,"[2, 4, 10]",3.0,18,9,0,16,2,0,0,0,0,0,0,5.33,2,0,0,0,0,0,13,16,29,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Royal Challengers Bangalore,PA Patel,b5da6c24,1,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,1,0,1,0,22,23,40,True,True,False,Right-arm offbreak,Left-hand bat
+Royal Challengers Bangalore,YV Takawale,4e04666c,2,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,-2,0,6,4,40,True,False,False,,Right-hand bat
+Royal Challengers Bangalore,V Kohli,ba607b88,3,21,25,3,0,84.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33,36,True,False,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,Yuvraj Singh,1c914163,4,3,7,0,0,42.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,43,True,False,False,Slow left-arm orthodox,Left-hand bat
+Royal Challengers Bangalore,AB de Villiers,c4487b84,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,41,True,True,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,S Rana,90edaaa9,6,3,8,0,0,37.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,40,True,False,False,Right-arm medium-fast,Right-hand bat
+Royal Challengers Bangalore,JA Morkel,c3d35165,7,7,13,1,0,53.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,7,0,0,7,43,True,False,True,Right-arm medium-fast,Left-hand bat
+Royal Challengers Bangalore,MA Starc,3fb19989,8,18,16,2,0,112.5,"[1, 3, 5, 7]",4.0,24,14,0,29,5,0,2,0,0,0,1,7.25,0,0,0,0,0,26,64,0,90,35,True,False,False,Left-arm fast,Left-hand bat
+Royal Challengers Bangalore,R Rampaul,d68e7f48,9,13,13,0,1,100.0,"[2, 4, 6, 8]",4.0,24,13,0,16,1,0,0,0,0,0,1,4.0,0,0,0,0,0,19,19,0,38,40,True,False,False,Right-arm fast-medium,Left-hand bat
+Royal Challengers Bangalore,AB Dinda,66b30f71,10,0,3,0,0,0.0,"[10, 12]",2.0,12,7,0,8,0,0,0,0,0,0,0,4.0,0,0,0,0,0,-2,13,0,11,41,True,False,False,Right-arm medium-fast,Right-hand bat
+Royal Challengers Bangalore,YS Chahal,57ee1fde,11,0,0,0,0,0.0,"[9, 11, 13]",3.0,18,13,1,17,0,2,1,0,0,0,0,5.67,0,0,0,0,0,0,54,0,54,34,True,False,False,Legbreak googly,Right-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-France,G Mckeon,31366b7e,1,9,6,1,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
-France,H Niaz,d0e2e8ea,2,53,30,3,5,176.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,109,0,0,109
-France,Mukhtar Ghulami,d3b1d991,3,5,12,0,0,41.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-1,0,0,-1
-France,C Roberts,07ac9c54,4,40,37,3,0,108.11,[6],1.0,6,3,0,10,2,0,0,0,0,0,1,10.0,2,0,0,0,0,56,3,16,75
-France,L Canessane,72a4c3b2,5,12,10,1,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24
-France,Kamran Ahmadzai,afa2ebba,6,29,15,4,1,193.33,"[2, 4]",2.0,12,5,0,16,3,0,0,0,0,0,2,8.0,1,0,0,0,6,61,5,8,74
-France,Usman Khan,e8a552ef,7,14,10,2,0,140.0,[14],1.0,6,4,0,2,0,0,0,0,0,0,0,2.0,1,0,0,0,2,24,4,8,36
-France,HA Jackson,ee40679e,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-France,Dawood Ahmadzai,951686f5,12,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,11,0,21,0,0,6,2,1,0,5,5.25,0,0,0,0,0,0,201,0,201
-France,Zaheer Zahiri,62f6d8ce,13,0,0,0,0,0.0,"[1, 3, 5, 15]",3.833,23,8,0,22,0,1,3,0,1,0,0,5.74,0,0,0,0,0,0,99,0,99
-France,S Stanikzay,c5445834,14,0,0,0,0,0.0,"[8, 10, 12]",3.0,18,14,1,11,1,0,1,1,0,0,3,3.67,0,0,0,0,0,0,65,0,65
-Malta,B George,1bdbf53b,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Malta,Zeeshan Khan,3f9b1a96,2,21,18,3,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33
-Malta,SSM Stanislaus,34dd3fd9,3,17,9,2,1,188.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31
-Malta,Jaspal Singh,adca37a2,4,8,15,0,0,53.33,"[6, 8, 10]",3.0,18,6,0,25,2,1,0,0,0,0,1,8.33,0,0,0,0,-4,4,6,0,10
-Malta,VP Thamotharam,eb40ed89,5,5,8,0,0,62.5,"[7, 9, 11, 13]",4.0,24,10,0,23,2,0,0,0,0,0,1,5.75,1,0,0,0,0,5,14,8,27
-Malta,DR Patankar,e661915c,6,1,9,0,0,11.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Malta,Fanyan Mughal,e85bb4b3,7,0,1,0,0,0.0,"[2, 4, 20]",3.0,18,10,0,22,3,0,1,0,0,0,1,7.33,1,0,0,0,0,-2,35,8,41
-Malta,B Arora,39e9f0c9,8,7,10,0,0,70.0,"[12, 14]",2.0,12,4,0,23,1,2,1,0,0,0,0,11.5,0,0,0,0,-2,5,25,0,30
-Malta,C Sudarsanan,391a825b,9,10,11,1,0,90.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,14,0,8,22
-Malta,Washeem Abbas,6de4e430,10,0,1,0,0,0.0,"[1, 3, 16, 18]",4.0,24,7,0,45,3,3,1,0,1,0,2,11.25,1,0,0,0,0,-2,36,8,42
-Malta,J Shaju,d8bee9a1,11,2,6,0,0,33.33,"[5, 15, 17, 19]",4.0,24,8,0,30,3,0,2,0,0,0,1,7.5,0,0,0,0,0,2,58,0,60
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+France,G Mckeon,31366b7e,1,9,6,1,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,21,True,True,False,Right-arm medium-fast,Right-hand bat
+France,H Niaz,d0e2e8ea,2,53,30,3,5,176.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,109,0,0,109,29,True,False,False,,
+France,Mukhtar Ghulami,d3b1d991,3,5,12,0,0,41.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-1,0,0,-1,26,True,False,False,,Right-hand bat
+France,C Roberts,07ac9c54,4,40,37,3,0,108.11,[6],1.0,6,3,0,10,2,0,0,0,0,0,1,10.0,2,0,0,0,0,56,3,16,75,21,True,False,False,,Right-hand bat
+France,L Canessane,72a4c3b2,5,12,10,1,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24,22,True,False,False,,Right-hand bat
+France,Kamran Ahmadzai,afa2ebba,6,29,15,4,1,193.33,"[2, 4]",2.0,12,5,0,16,3,0,0,0,0,0,2,8.0,1,0,0,0,6,61,5,8,74,31,True,True,False,Right-arm medium,Right-hand bat
+France,Usman Khan,e8a552ef,7,14,10,2,0,140.0,[14],1.0,6,4,0,2,0,0,0,0,0,0,0,2.0,1,0,0,0,2,24,4,8,36,34,True,True,False,Right-arm medium,Right-hand bat
+France,HA Jackson,ee40679e,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,28,True,False,False,,Right-hand bat
+France,Dawood Ahmadzai,951686f5,12,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,11,0,21,0,0,6,2,1,0,5,5.25,0,0,0,0,0,0,201,0,201,31,True,True,False,Legbreak,Right-hand bat
+France,Zaheer Zahiri,62f6d8ce,13,0,0,0,0,0.0,"[1, 3, 5, 15]",3.833,23,8,0,22,0,1,3,0,1,0,0,5.74,0,0,0,0,0,0,99,0,99,22,True,True,False,Left-arm medium,Right-hand bat
+France,S Stanikzay,c5445834,14,0,0,0,0,0.0,"[8, 10, 12]",3.0,18,14,1,11,1,0,1,1,0,0,3,3.67,0,0,0,0,0,0,65,0,65,17,True,True,False,Legbreak,Right-hand bat
+Malta,B George,1bdbf53b,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,27,True,True,False,Right-arm medium-fast,Right-hand bat
+Malta,Zeeshan Khan,3f9b1a96,2,21,18,3,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33,36,True,True,False,Legbreak,Right-hand bat
+Malta,SSM Stanislaus,34dd3fd9,3,17,9,2,1,188.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31,44,True,True,False,Right-arm offbreak,Right-hand bat
+Malta,Jaspal Singh,adca37a2,4,8,15,0,0,53.33,"[6, 8, 10]",3.0,18,6,0,25,2,1,0,0,0,0,1,8.33,0,0,0,0,-4,4,6,0,10,38,True,True,False,Right-arm medium,Right-hand bat
+Malta,VP Thamotharam,eb40ed89,5,5,8,0,0,62.5,"[7, 9, 11, 13]",4.0,24,10,0,23,2,0,0,0,0,0,1,5.75,1,0,0,0,0,5,14,8,27,36,True,True,False,Left-arm medium-fast,Left-hand bat
+Malta,DR Patankar,e661915c,6,1,9,0,0,11.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,26,True,False,False,,Right-hand bat
+Malta,Fanyan Mughal,e85bb4b3,7,0,1,0,0,0.0,"[2, 4, 20]",3.0,18,10,0,22,3,0,1,0,0,0,1,7.33,1,0,0,0,0,-2,35,8,41,38,True,False,False,,
+Malta,B Arora,39e9f0c9,8,7,10,0,0,70.0,"[12, 14]",2.0,12,4,0,23,1,2,1,0,0,0,0,11.5,0,0,0,0,-2,5,25,0,30,42,True,True,False,Legbreak,Right-hand bat
+Malta,C Sudarsanan,391a825b,9,10,11,1,0,90.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,14,0,8,22,30,True,False,False,,Right-hand bat
+Malta,Washeem Abbas,6de4e430,10,0,1,0,0,0.0,"[1, 3, 16, 18]",4.0,24,7,0,45,3,3,1,0,1,0,2,11.25,1,0,0,0,0,-2,36,8,42,34,True,True,False,Right-arm fast,Right-hand bat
+Malta,J Shaju,d8bee9a1,11,2,6,0,0,33.33,"[5, 15, 17, 19]",4.0,24,8,0,30,3,0,2,0,0,0,1,7.5,0,0,0,0,0,2,58,0,60,36,True,True,False,Right-arm medium-fast,Right-hand bat

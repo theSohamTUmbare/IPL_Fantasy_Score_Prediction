@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Fortune Barishal,Saif Hassan,bb95564b,1,31,19,0,4,163.16,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,63,0,8,71
-Fortune Barishal,Ibrahim Zadran,d4550956,2,42,37,4,2,113.51,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,74,0,0,74
-Fortune Barishal,Anamul Haque,72b245dd,3,3,8,0,0,37.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,3,0,12,15
-Fortune Barishal,Shakib Al Hasan,7dc35884,4,29,18,3,1,161.11,"[8, 14]",2.0,12,2,0,11,0,0,1,0,0,0,0,5.5,0,0,0,0,4,55,31,0,86
-Fortune Barishal,Iftikhar Ahmed,29e253dd,5,17,13,1,1,130.77,[7],1.0,6,0,0,11,1,0,0,0,0,0,0,11.0,0,0,0,0,2,29,0,0,29
-Fortune Barishal,Karim Janat,62175638,6,21,12,0,3,175.0,"[3, 13, 19]",3.0,18,4,0,28,3,1,0,0,0,0,1,9.33,0,0,0,0,6,45,4,0,49
-Fortune Barishal,Mahmudullah,bf1d7d3e,7,7,4,0,1,175.0,[11],1.0,6,1,0,10,1,0,0,0,0,0,1,10.0,0,0,0,0,0,13,1,0,14
-Fortune Barishal,Mehedi Hasan Miraz,c58b0108,8,7,4,0,1,175.0,"[4, 6, 9]",3.0,18,10,0,15,2,0,0,0,0,0,0,5.0,0,0,0,0,0,13,14,0,27
-Fortune Barishal,Mohammad Wasim,9e9af5f2,9,10,4,1,1,250.0,"[2, 5, 15, 17]",4.0,24,7,0,34,5,0,3,1,1,0,4,8.5,0,0,0,0,0,20,102,0,122
-Fortune Barishal,Khaled Ahmed,5dbdecf1,10,0,0,0,0,0.0,"[1, 12, 16]",3.0,18,7,0,29,4,1,0,0,0,0,1,9.67,1,0,0,0,0,0,7,8,15
-Fortune Barishal,Kamrul Islam Rabbi,f7e9a562,10,1,1,0,0,100.0,"[10, 18, 20]",3.0,18,5,0,31,5,0,1,0,0,0,3,10.33,0,0,0,0,0,1,28,0,29
-Sylhet Strikers,Nazmul Hossain Shanto,1274d7ab,1,89,66,11,1,134.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,153,0,8,161
-Sylhet Strikers,Zakir Hasan,e3e09091,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Sylhet Strikers,Towhid Hridoy,9e52a414,3,4,4,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
-Sylhet Strikers,Mushfiqur Rahim,a94e08ea,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,-2,0,20,18
-Sylhet Strikers,TJ Moores,85dcb721,5,40,30,4,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,68,0,8,76
-Sylhet Strikers,NLTC Perera,0f12f9df,6,21,16,4,0,131.25,[13],1.0,6,1,0,10,1,0,0,0,0,0,0,10.0,0,0,0,0,2,39,1,0,40
-Sylhet Strikers,Imad Wasim,9cb8d7a6,7,5,2,1,0,250.0,"[1, 6, 11, 15]",4.0,24,14,0,13,1,0,0,0,0,0,0,3.25,0,0,0,0,0,9,20,0,29
-Sylhet Strikers,Tanzim Hasan Sakib,0b0cc297,8,0,0,0,0,0.0,"[5, 7, 12, 18]",4.0,24,8,0,40,3,3,2,0,0,0,0,10.0,0,0,0,0,0,0,56,0,56
-Sylhet Strikers,Mashrafe Mortaza,e186f49c,10,0,0,0,0,0.0,"[2, 4, 16]",3.0,18,7,0,42,0,6,0,0,0,0,0,14.0,0,0,0,0,0,0,1,0,1
-Sylhet Strikers,Mohammad Amir,e174dadd,11,0,0,0,0,0.0,"[3, 9, 17, 19]",4.0,24,14,0,24,1,2,2,0,0,0,0,6.0,1,0,0,0,0,0,66,8,74
-Sylhet Strikers,Rejaur Rahman,267be846,12,0,0,0,0,0.0,"[8, 10, 14, 20]",4.0,24,9,0,41,3,3,3,0,2,0,2,10.25,0,0,0,0,0,0,102,0,102
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Fortune Barishal,Saif Hassan,bb95564b,1,31,19,0,4,163.16,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,63,0,8,71,26,True,False,True,Right-arm offbreak,Right-hand bat
+Fortune Barishal,Ibrahim Zadran,d4550956,2,42,37,4,2,113.51,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,74,0,0,74,23,True,False,False,Right-arm medium-fast,Right-hand bat
+Fortune Barishal,Anamul Haque,72b245dd,3,3,8,0,0,37.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,3,0,12,15,32,True,False,False,,Right-hand bat
+Fortune Barishal,Shakib Al Hasan,7dc35884,4,29,18,3,1,161.11,"[8, 14]",2.0,12,2,0,11,0,0,1,0,0,0,0,5.5,0,0,0,0,4,55,31,0,86,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Fortune Barishal,Iftikhar Ahmed,29e253dd,5,17,13,1,1,130.77,[7],1.0,6,0,0,11,1,0,0,0,0,0,0,11.0,0,0,0,0,2,29,0,0,29,34,True,False,False,Right-arm offbreak,Right-hand bat
+Fortune Barishal,Karim Janat,62175638,6,21,12,0,3,175.0,"[3, 13, 19]",3.0,18,4,0,28,3,1,0,0,0,0,1,9.33,0,0,0,0,6,45,4,0,49,26,True,False,True,Right-arm medium,Right-hand bat
+Fortune Barishal,Mahmudullah,bf1d7d3e,7,7,4,0,1,175.0,[11],1.0,6,1,0,10,1,0,0,0,0,0,1,10.0,0,0,0,0,0,13,1,0,14,39,True,False,True,Right-arm offbreak,Right-hand bat
+Fortune Barishal,Mehedi Hasan Miraz,c58b0108,8,7,4,0,1,175.0,"[4, 6, 9]",3.0,18,10,0,15,2,0,0,0,0,0,0,5.0,0,0,0,0,0,13,14,0,27,27,True,False,True,Right-arm offbreak,Right-hand bat
+Fortune Barishal,Mohammad Wasim,9e9af5f2,9,10,4,1,1,250.0,"[2, 5, 15, 17]",4.0,24,7,0,34,5,0,3,1,1,0,4,8.5,0,0,0,0,0,20,102,0,122,23,True,False,False,Right-arm fast-medium,Right-hand bat
+Fortune Barishal,Khaled Ahmed,5dbdecf1,10,0,0,0,0,0.0,"[1, 12, 16]",3.0,18,7,0,29,4,1,0,0,0,0,1,9.67,1,0,0,0,0,0,7,8,15,32,True,False,False,Right-arm medium-fast,Right-hand bat
+Fortune Barishal,Kamrul Islam Rabbi,f7e9a562,10,1,1,0,0,100.0,"[10, 18, 20]",3.0,18,5,0,31,5,0,1,0,0,0,3,10.33,0,0,0,0,0,1,28,0,29,33,True,False,False,Right-arm medium-fast,Right-hand bat
+Sylhet Strikers,Nazmul Hossain Shanto,1274d7ab,1,89,66,11,1,134.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,153,0,8,161,26,True,False,False,Right-arm offbreak,Left-hand bat
+Sylhet Strikers,Zakir Hasan,e3e09091,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,27,True,False,False,,Left-hand bat
+Sylhet Strikers,Towhid Hridoy,9e52a414,3,4,4,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,24,True,False,False,Right-arm offbreak,Right-hand bat
+Sylhet Strikers,Mushfiqur Rahim,a94e08ea,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,-2,0,20,18,37,True,False,False,,Right-hand bat
+Sylhet Strikers,TJ Moores,85dcb721,5,40,30,4,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,68,0,8,76,28,True,False,False,,Left-hand bat
+Sylhet Strikers,NLTC Perera,0f12f9df,6,21,16,4,0,131.25,[13],1.0,6,1,0,10,1,0,0,0,0,0,0,10.0,0,0,0,0,2,39,1,0,40,35,True,False,True,Right-arm medium-fast,Left-hand bat
+Sylhet Strikers,Imad Wasim,9cb8d7a6,7,5,2,1,0,250.0,"[1, 6, 11, 15]",4.0,24,14,0,13,1,0,0,0,0,0,0,3.25,0,0,0,0,0,9,20,0,29,36,True,False,True,Slow left-arm orthodox,Left-hand bat
+Sylhet Strikers,Tanzim Hasan Sakib,0b0cc297,8,0,0,0,0,0.0,"[5, 7, 12, 18]",4.0,24,8,0,40,3,3,2,0,0,0,0,10.0,0,0,0,0,0,0,56,0,56,22,True,False,True,Right-arm fast-medium,Right-hand bat
+Sylhet Strikers,Mashrafe Mortaza,e186f49c,10,0,0,0,0,0.0,"[2, 4, 16]",3.0,18,7,0,42,0,6,0,0,0,0,0,14.0,0,0,0,0,0,0,1,0,1,41,True,False,False,Right-arm fast-medium,Right-hand bat
+Sylhet Strikers,Mohammad Amir,e174dadd,11,0,0,0,0,0.0,"[3, 9, 17, 19]",4.0,24,14,0,24,1,2,2,0,0,0,0,6.0,1,0,0,0,0,0,66,8,74,32,True,False,False,Left-arm fast-medium,Left-hand bat
+Sylhet Strikers,Rejaur Rahman,267be846,12,0,0,0,0,0.0,"[8, 10, 14, 20]",4.0,24,9,0,41,3,3,3,0,2,0,2,10.25,0,0,0,0,0,0,102,0,102,25,True,False,False,Right-arm medium,Right-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Japan,L Yamamoto-Lake,fa23405f,1,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Japan,A Patmore,85119526,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Japan,S Navaratne,29573e43,3,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11
-Japan,K Kadowaki-Fleming,33290a80,4,65,54,2,4,120.37,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,105,0,8,113
-Japan,I Takahashi,c988daa1,5,20,20,1,1,100.0,"[10, 12, 14]",3.0,18,9,0,10,0,0,1,0,0,0,0,3.33,1,0,0,0,0,30,40,8,78
-Japan,S Ravichandran,9f2be73d,6,19,18,2,0,105.56,"[6, 8, 16, 18]",4.0,24,8,0,23,2,0,0,0,0,0,0,5.75,0,0,0,0,0,27,12,0,39
-Japan,R Sakurano-Thomas,dd14abf5,7,0,1,0,0,0.0,"[2, 4, 13, 19]",4.0,24,13,0,18,0,1,1,0,0,0,0,4.5,0,0,0,0,0,-2,44,0,42
-Japan,D Suzuki,64c81abf,8,5,3,1,0,166.67,"[5, 17]",2.0,12,6,0,16,1,0,1,0,0,0,4,8.0,2,0,0,0,0,9,31,16,56
-Japan,M Taniyama,cbd91942,9,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Japan,P Kumbhare,ef503cfe,10,5,6,0,0,83.33,"[1, 3, 11, 20]",4.0,24,11,0,23,1,1,2,0,1,0,0,5.75,0,0,0,0,0,5,73,0,78
-Japan,R Drake,57b3c398,11,1,4,0,0,25.0,"[7, 9, 15]",3.0,18,7,0,16,0,0,3,0,1,1,2,5.33,0,0,0,0,0,1,98,0,99
-Vanuatu,N Nipiko,c498c510,1,18,17,2,1,105.88,"[11, 13, 17, 19]",4.0,24,10,0,17,0,0,4,0,2,0,0,4.25,0,0,0,0,0,32,140,0,172
-Vanuatu,AL Stephen,49f6d023,2,5,11,0,0,45.45,"[7, 9]",1.167,7,2,0,5,0,0,0,0,0,0,1,4.28,0,0,0,0,-6,-1,2,0,1
-Vanuatu,JP Kaltapau,d8dccff5,3,7,13,0,0,53.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,3,0,0,3
-Vanuatu,JD Allan,3758028b,4,4,9,0,0,44.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,4,0,16,20
-Vanuatu,A Mansale,a22b4f3f,5,29,33,0,0,87.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33
-Vanuatu,PK Matautaava,af19aa66,6,0,4,0,0,0.0,"[2, 18, 20]",3.5,21,13,0,10,1,0,3,0,1,0,1,2.86,1,0,0,0,0,-2,106,8,112
-Vanuatu,R Tari,c4d19735,7,18,20,1,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,22,0,6,28
-Vanuatu,J Rasu,1021b6e5,8,16,10,1,1,160.0,"[1, 3, 5, 8]",4.0,24,12,0,22,1,1,2,1,0,0,1,5.5,0,0,0,1,4,30,74,6,110
-Vanuatu,SH Obed,f49c401e,9,2,3,0,0,66.67,[16],1.0,6,1,0,19,1,2,0,0,0,0,0,19.0,1,0,0,0,0,2,1,8,11
-Vanuatu,W Nalisa,673be48f,9,0,0,0,0,0.0,"[6, 10, 12, 14]",4.0,24,8,0,29,2,1,0,0,0,0,1,7.25,0,0,0,0,0,0,8,0,8
-Vanuatu,Obed Yosef,a843d7a8,10,0,0,0,0,0.0,"[4, 15]",2.0,12,4,0,23,1,1,0,0,0,0,3,11.5,1,0,0,0,0,0,0,8,8
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Japan,L Yamamoto-Lake,fa23405f,1,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,22,True,False,False,,Right-hand bat
+Japan,A Patmore,85119526,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,27,True,False,False,,Left-hand bat
+Japan,S Navaratne,29573e43,3,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11,32,True,False,False,,Right-hand bat
+Japan,K Kadowaki-Fleming,33290a80,4,65,54,2,4,120.37,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,105,0,8,113,29,True,False,False,Right-arm offbreak,Left-hand bat
+Japan,I Takahashi,c988daa1,5,20,20,1,1,100.0,"[10, 12, 14]",3.0,18,9,0,10,0,0,1,0,0,0,0,3.33,1,0,0,0,0,30,40,8,78,26,True,True,False,Right-arm offbreak,Right-hand bat
+Japan,S Ravichandran,9f2be73d,6,19,18,2,0,105.56,"[6, 8, 16, 18]",4.0,24,8,0,23,2,0,0,0,0,0,0,5.75,0,0,0,0,0,27,12,0,39,32,True,False,True,Legbreak,Right-hand bat
+Japan,R Sakurano-Thomas,dd14abf5,7,0,1,0,0,0.0,"[2, 4, 13, 19]",4.0,24,13,0,18,0,1,1,0,0,0,0,4.5,0,0,0,0,0,-2,44,0,42,25,True,True,False,Right-arm medium,Right-hand bat
+Japan,D Suzuki,64c81abf,8,5,3,1,0,166.67,"[5, 17]",2.0,12,6,0,16,1,0,1,0,0,0,4,8.0,2,0,0,0,0,9,31,16,56,22,True,False,True,Right-arm medium,Left-hand bat
+Japan,M Taniyama,cbd91942,9,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,29,True,True,False,Legbreak googly,Right-hand bat
+Japan,P Kumbhare,ef503cfe,10,5,6,0,0,83.33,"[1, 3, 11, 20]",4.0,24,11,0,23,1,1,2,0,1,0,0,5.75,0,0,0,0,0,5,73,0,78,34,True,True,False,Slow left-arm orthodox,Right-hand bat
+Japan,R Drake,57b3c398,11,1,4,0,0,25.0,"[7, 9, 15]",3.0,18,7,0,16,0,0,3,0,1,1,2,5.33,0,0,0,0,0,1,98,0,99,22,True,False,False,Right-arm medium,Right-hand bat
+Vanuatu,N Nipiko,c498c510,1,18,17,2,1,105.88,"[11, 13, 17, 19]",4.0,24,10,0,17,0,0,4,0,2,0,0,4.25,0,0,0,0,0,32,140,0,172,29,True,True,False,Right-arm medium,Right-hand bat
+Vanuatu,AL Stephen,49f6d023,2,5,11,0,0,45.45,"[7, 9]",1.167,7,2,0,5,0,0,0,0,0,0,1,4.28,0,0,0,0,-6,-1,2,0,1,29,True,True,False,Right-arm medium,Right-hand bat
+Vanuatu,JP Kaltapau,d8dccff5,3,7,13,0,0,53.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,3,0,0,3,25,True,True,False,Right-arm offbreak,Right-hand bat
+Vanuatu,JD Allan,3758028b,4,4,9,0,0,44.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,4,0,16,20,34,True,False,False,,Right-hand bat
+Vanuatu,A Mansale,a22b4f3f,5,29,33,0,0,87.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33,36,True,True,False,Right-arm offbreak,Right-hand bat
+Vanuatu,PK Matautaava,af19aa66,6,0,4,0,0,0.0,"[2, 18, 20]",3.5,21,13,0,10,1,0,3,0,1,0,1,2.86,1,0,0,0,0,-2,106,8,112,33,True,True,False,Right-arm medium,Right-hand bat
+Vanuatu,R Tari,c4d19735,7,18,20,1,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,22,0,6,28,31,True,True,False,Right-arm medium,Right-hand bat
+Vanuatu,J Rasu,1021b6e5,8,16,10,1,1,160.0,"[1, 3, 5, 8]",4.0,24,12,0,22,1,1,2,1,0,0,1,5.5,0,0,0,1,4,30,74,6,110,30,True,True,False,Right-arm medium,Right-hand bat
+Vanuatu,SH Obed,f49c401e,9,2,3,0,0,66.67,[16],1.0,6,1,0,19,1,2,0,0,0,0,0,19.0,1,0,0,0,0,2,1,8,11,35,True,True,False,Legbreak,Right-hand bat
+Vanuatu,W Nalisa,673be48f,9,0,0,0,0,0.0,"[6, 10, 12, 14]",4.0,24,8,0,29,2,1,0,0,0,0,1,7.25,0,0,0,0,0,0,8,0,8,25,True,True,False,Legbreak googly,Right-hand bat
+Vanuatu,Obed Yosef,a843d7a8,10,0,0,0,0,0.0,"[4, 15]",2.0,12,4,0,23,1,1,0,0,0,0,3,11.5,1,0,0,0,0,0,0,8,8,22,True,True,False,Slow left-arm orthodox,

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-India,S Dhawan,0a476045,1,36,25,4,2,144.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,70,0,0,70
-India,RG Sharma,740742ef,2,9,8,2,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
-India,V Kohli,ba607b88,3,9,15,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,7,0,8,15
-India,RR Pant,919a3be2,4,19,20,1,1,95.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29
-India,SS Iyer,85ec8e33,5,5,8,0,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
-India,HH Pandya,dbe50b21,6,14,18,1,0,77.78,"[11, 13]",2.0,12,5,0,23,3,1,1,0,0,0,2,11.5,0,0,0,0,0,18,26,0,44
-India,KH Pandya,5b8c830e,7,4,7,0,0,57.14,"[8, 10, 15, 17]",3.833,23,2,0,40,2,2,0,0,0,0,1,10.44,0,0,0,0,0,4,0,0,4
-India,RA Jadeja,fe93fd9d,8,19,17,1,1,111.76,"[14, 16]",2.0,12,5,0,8,0,0,0,0,0,0,0,4.0,0,0,0,0,0,29,11,0,40
-India,Washington Sundar,f19ccfad,9,4,1,1,0,400.0,"[1, 3, 7, 9]",4.0,24,10,0,27,3,1,0,0,0,0,0,6.75,0,0,0,0,0,8,12,0,20
-India,DL Chahar,23eeb873,10,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,9,0,15,2,0,0,0,0,0,1,5.0,0,0,0,0,0,0,13,0,13
-India,Navdeep Saini,21d4e29b,11,0,1,0,0,0.0,"[5, 12]",2.0,12,4,0,25,2,2,0,0,0,0,0,12.5,0,0,0,0,0,0,-2,0,-2
-South Africa,RR Hendricks,b8cc58c9,1,28,26,4,0,107.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,48,0,8,56
-South Africa,Q de Kock,372455c4,2,79,52,6,5,151.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,4,149,0,20,169
-South Africa,T Bavuma,9ffd1ac1,3,27,23,2,1,117.39,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,45,0,8,53
-South Africa,HE van der Dussen,9948e262,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-South Africa,DA Miller,d67d5f00,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-South Africa,D Pretorius,11614d87,5,0,0,0,0,0.0,[12],1.0,6,3,0,8,0,1,0,0,0,0,0,8.0,0,0,0,0,0,0,3,0,3
-South Africa,AL Phehlukwayo,ab6b1c45,6,0,0,0,0,0.0,"[4, 11, 16, 19]",4.0,24,9,0,28,4,0,0,0,0,0,0,7.0,2,0,0,0,0,0,11,16,27
-South Africa,BC Fortuin,9a2fc964,7,0,0,0,0,0.0,"[1, 7, 13]",3.0,18,6,0,19,2,0,2,0,0,0,1,6.33,0,0,0,0,0,0,58,0,58
-South Africa,K Rabada,e62dd25d,8,0,0,0,0,0.0,"[2, 9, 18, 20]",4.0,24,9,0,39,4,1,3,0,0,0,8,9.75,1,0,0,0,0,0,88,8,96
-South Africa,BE Hendricks,b56dc5f7,9,0,0,0,0,0.0,"[3, 5, 15, 17]",4.0,24,12,0,14,0,0,2,0,0,0,3,3.5,0,0,0,0,0,0,68,0,68
-South Africa,T Shamsi,a03bba42,10,0,0,0,0,0.0,"[6, 8, 10, 14]",4.0,24,11,0,23,0,2,1,0,0,0,0,5.75,0,0,0,0,0,0,40,0,40
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+India,S Dhawan,0a476045,1,36,25,4,2,144.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,70,0,0,70,39,True,False,False,Right-arm offbreak,Left-hand bat
+India,RG Sharma,740742ef,2,9,8,2,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,37,True,False,False,Right-arm offbreak,Right-hand bat
+India,V Kohli,ba607b88,3,9,15,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,7,0,8,15,36,True,False,False,Right-arm medium,Right-hand bat
+India,RR Pant,919a3be2,4,19,20,1,1,95.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29,27,True,False,False,,Left-hand bat
+India,SS Iyer,85ec8e33,5,5,8,0,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,30,True,False,False,Legbreak googly,Right-hand bat
+India,HH Pandya,dbe50b21,6,14,18,1,0,77.78,"[11, 13]",2.0,12,5,0,23,3,1,1,0,0,0,2,11.5,0,0,0,0,0,18,26,0,44,31,True,False,True,Right-arm medium-fast,Right-hand bat
+India,KH Pandya,5b8c830e,7,4,7,0,0,57.14,"[8, 10, 15, 17]",3.833,23,2,0,40,2,2,0,0,0,0,1,10.44,0,0,0,0,0,4,0,0,4,34,True,False,True,Slow left-arm orthodox,Left-hand bat
+India,RA Jadeja,fe93fd9d,8,19,17,1,1,111.76,"[14, 16]",2.0,12,5,0,8,0,0,0,0,0,0,0,4.0,0,0,0,0,0,29,11,0,40,36,True,False,True,Slow left-arm orthodox,Left-hand bat
+India,Washington Sundar,f19ccfad,9,4,1,1,0,400.0,"[1, 3, 7, 9]",4.0,24,10,0,27,3,1,0,0,0,0,0,6.75,0,0,0,0,0,8,12,0,20,25,True,False,True,Right-arm offbreak,Left-hand bat
+India,DL Chahar,23eeb873,10,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,9,0,15,2,0,0,0,0,0,1,5.0,0,0,0,0,0,0,13,0,13,32,True,False,False,Right-arm medium,Right-hand bat
+India,Navdeep Saini,21d4e29b,11,0,1,0,0,0.0,"[5, 12]",2.0,12,4,0,25,2,2,0,0,0,0,0,12.5,0,0,0,0,0,0,-2,0,-2,32,True,False,False,Right-arm fast,Right-hand bat
+South Africa,RR Hendricks,b8cc58c9,1,28,26,4,0,107.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,48,0,8,56,35,True,False,False,Right-arm offbreak,Right-hand bat
+South Africa,Q de Kock,372455c4,2,79,52,6,5,151.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,4,149,0,20,169,32,True,False,False,,Left-hand bat
+South Africa,T Bavuma,9ffd1ac1,3,27,23,2,1,117.39,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,45,0,8,53,34,True,False,False,Right-arm medium,Right-hand bat
+South Africa,HE van der Dussen,9948e262,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,36,True,False,False,Legbreak,Right-hand bat
+South Africa,DA Miller,d67d5f00,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,35,True,False,False,Right-arm offbreak,Left-hand bat
+South Africa,D Pretorius,11614d87,5,0,0,0,0,0.0,[12],1.0,6,3,0,8,0,1,0,0,0,0,0,8.0,0,0,0,0,0,0,3,0,3,36,True,False,True,Right-arm medium-fast,Right-hand bat
+South Africa,AL Phehlukwayo,ab6b1c45,6,0,0,0,0,0.0,"[4, 11, 16, 19]",4.0,24,9,0,28,4,0,0,0,0,0,0,7.0,2,0,0,0,0,0,11,16,27,29,True,False,True,Right-arm medium-fast,Left-hand bat
+South Africa,BC Fortuin,9a2fc964,7,0,0,0,0,0.0,"[1, 7, 13]",3.0,18,6,0,19,2,0,2,0,0,0,1,6.33,0,0,0,0,0,0,58,0,58,30,True,False,False,Slow left-arm orthodox,Right-hand bat
+South Africa,K Rabada,e62dd25d,8,0,0,0,0,0.0,"[2, 9, 18, 20]",4.0,24,9,0,39,4,1,3,0,0,0,8,9.75,1,0,0,0,0,0,88,8,96,29,True,False,False,Right-arm fast,Left-hand bat
+South Africa,BE Hendricks,b56dc5f7,9,0,0,0,0,0.0,"[3, 5, 15, 17]",4.0,24,12,0,14,0,0,2,0,0,0,3,3.5,0,0,0,0,0,0,68,0,68,34,True,False,False,Left-arm fast-medium,Left-hand bat
+South Africa,T Shamsi,a03bba42,10,0,0,0,0,0.0,"[6, 8, 10, 14]",4.0,24,11,0,23,0,2,1,0,0,0,0,5.75,0,0,0,0,0,0,40,0,40,35,True,False,False,Left-arm wrist-spin,Right-hand bat

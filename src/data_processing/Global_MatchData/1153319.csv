@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Bangladesh,Tamim Iqbal,3b041a12,1,8,5,0,1,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
-Bangladesh,Liton Das,0404d43c,2,43,22,3,3,195.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,83,0,8,91
-Bangladesh,Soumya Sarkar,4d9f9686,3,9,9,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
-Bangladesh,Shakib Al Hasan,7dc35884,4,0,1,0,0,0.0,"[5, 11, 13, 19]",4.0,24,13,0,37,2,4,3,0,1,0,0,9.25,0,0,0,0,0,-2,100,0,98
-Bangladesh,Mushfiqur Rahim,a94e08ea,5,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,1,0,20,21
-Bangladesh,Mahmudullah,bf1d7d3e,6,11,9,2,0,122.22,"[10, 12, 14, 20]",3.333,20,8,0,18,1,0,3,1,1,0,2,5.4,0,0,0,0,0,19,107,0,126
-Bangladesh,Mehedi Hasan Miraz,c58b0108,7,19,19,1,1,100.0,"[4, 8]",2.0,12,3,0,26,2,2,0,0,0,0,0,13.0,1,0,0,0,0,29,-3,8,34
-Bangladesh,Ariful Haque,ad1730bc,8,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Bangladesh,Mohammad Saifuddin,b3a28446,9,5,7,1,0,71.43,"[2, 6, 16, 18]",4.0,24,10,0,36,4,1,0,0,0,0,2,9.0,0,0,0,0,0,9,10,0,19
-Bangladesh,Abu Hider,31803fac,10,22,17,3,1,129.41,"[1, 3]",2.0,12,3,0,39,2,4,0,0,0,0,2,19.5,1,0,0,0,0,40,-3,8,45
-Bangladesh,Mustafizur Rahman,0a8fce53,11,7,7,0,1,100.0,"[7, 9, 15, 17]",4.0,24,9,0,33,3,1,3,0,0,0,1,8.25,0,0,0,0,0,13,88,0,101
-West Indies,E Lewis,0ebfb1ad,1,89,36,6,8,247.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,179,0,0,179
-West Indies,SD Hope,1fc6ef83,2,23,12,3,1,191.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,47,0,8,55
-West Indies,KMA Paul,75224f22,3,2,3,0,0,66.67,"[6, 8, 10, 12]",4.0,24,18,0,15,3,0,5,0,0,0,0,3.75,0,0,0,0,0,2,161,0,163
-West Indies,R Powell,650d5e49,4,19,16,1,1,118.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29
-West Indies,SO Hetmyer,48a1d7b7,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-West Indies,N Pooran,3241e3fd,6,29,24,2,2,120.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,53,0,0,53
-West Indies,CR Brathwaite,e342e5fb,7,8,7,1,0,114.29,"[15, 17]",2.0,12,5,0,15,1,1,1,0,1,0,0,7.5,2,0,0,0,0,12,38,16,66
-West Indies,SE Rutherford,d014d5ac,8,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
-West Indies,FA Allen,b52ffbbd,9,8,7,1,0,114.29,"[5, 7, 9, 11]",4.0,24,12,0,19,1,0,2,0,0,0,1,4.75,2,0,0,0,0,12,68,16,96
-West Indies,SS Cottrell,a1d053dd,10,2,2,0,0,100.0,"[1, 3, 14, 16]",4.0,24,14,0,31,1,3,1,0,0,1,3,7.75,2,0,0,0,0,2,39,16,57
-West Indies,O Thomas,c6097d68,11,0,2,0,0,0.0,"[2, 4, 13]",3.0,18,5,0,56,4,4,0,0,0,4,2,18.67,0,0,0,0,0,0,-1,0,-1
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bangladesh,Tamim Iqbal,3b041a12,1,8,5,0,1,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,36,True,False,False,,Left-hand bat
+Bangladesh,Liton Das,0404d43c,2,43,22,3,3,195.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,83,0,8,91,30,True,True,False,Right-arm offbreak,Right-hand bat
+Bangladesh,Soumya Sarkar,4d9f9686,3,9,9,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15,32,True,False,True,Right-arm medium-fast,Left-hand bat
+Bangladesh,Shakib Al Hasan,7dc35884,4,0,1,0,0,0.0,"[5, 11, 13, 19]",4.0,24,13,0,37,2,4,3,0,1,0,0,9.25,0,0,0,0,0,-2,100,0,98,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Bangladesh,Mushfiqur Rahim,a94e08ea,5,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,1,0,20,21,37,True,False,False,,Right-hand bat
+Bangladesh,Mahmudullah,bf1d7d3e,6,11,9,2,0,122.22,"[10, 12, 14, 20]",3.333,20,8,0,18,1,0,3,1,1,0,2,5.4,0,0,0,0,0,19,107,0,126,39,True,False,True,Right-arm offbreak,Right-hand bat
+Bangladesh,Mehedi Hasan Miraz,c58b0108,7,19,19,1,1,100.0,"[4, 8]",2.0,12,3,0,26,2,2,0,0,0,0,0,13.0,1,0,0,0,0,29,-3,8,34,27,True,False,True,Right-arm offbreak,Right-hand bat
+Bangladesh,Ariful Haque,ad1730bc,8,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,32,True,False,True,Right-arm medium-fast,Right-hand bat
+Bangladesh,Mohammad Saifuddin,b3a28446,9,5,7,1,0,71.43,"[2, 6, 16, 18]",4.0,24,10,0,36,4,1,0,0,0,0,2,9.0,0,0,0,0,0,9,10,0,19,28,True,False,True,Right-arm medium-fast,Left-hand bat
+Bangladesh,Abu Hider,31803fac,10,22,17,3,1,129.41,"[1, 3]",2.0,12,3,0,39,2,4,0,0,0,0,2,19.5,1,0,0,0,0,40,-3,8,45,29,True,False,True,Left-arm fast-medium,Right-hand bat
+Bangladesh,Mustafizur Rahman,0a8fce53,11,7,7,0,1,100.0,"[7, 9, 15, 17]",4.0,24,9,0,33,3,1,3,0,0,0,1,8.25,0,0,0,0,0,13,88,0,101,29,True,False,False,Left-arm fast-medium,Left-hand bat
+West Indies,E Lewis,0ebfb1ad,1,89,36,6,8,247.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,179,0,0,179,33,True,False,False,,Left-hand bat
+West Indies,SD Hope,1fc6ef83,2,23,12,3,1,191.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,47,0,8,55,31,True,False,False,,Right-hand bat
+West Indies,KMA Paul,75224f22,3,2,3,0,0,66.67,"[6, 8, 10, 12]",4.0,24,18,0,15,3,0,5,0,0,0,0,3.75,0,0,0,0,0,2,161,0,163,27,True,False,True,Right-arm fast-medium,Right-hand bat
+West Indies,R Powell,650d5e49,4,19,16,1,1,118.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29,31,True,False,False,Right-arm medium-fast,Right-hand bat
+West Indies,SO Hetmyer,48a1d7b7,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,28,True,False,False,,Left-hand bat
+West Indies,N Pooran,3241e3fd,6,29,24,2,2,120.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,53,0,0,53,29,True,True,False,Right-arm offbreak,Left-hand bat
+West Indies,CR Brathwaite,e342e5fb,7,8,7,1,0,114.29,"[15, 17]",2.0,12,5,0,15,1,1,1,0,1,0,0,7.5,2,0,0,0,0,12,38,16,66,36,True,False,True,Right-arm fast-medium,Right-hand bat
+West Indies,SE Rutherford,d014d5ac,8,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,26,True,False,False,Right-arm fast-medium,Left-hand bat
+West Indies,FA Allen,b52ffbbd,9,8,7,1,0,114.29,"[5, 7, 9, 11]",4.0,24,12,0,19,1,0,2,0,0,0,1,4.75,2,0,0,0,0,12,68,16,96,29,True,False,True,Slow left-arm orthodox,Right-hand bat
+West Indies,SS Cottrell,a1d053dd,10,2,2,0,0,100.0,"[1, 3, 14, 16]",4.0,24,14,0,31,1,3,1,0,0,1,3,7.75,2,0,0,0,0,2,39,16,57,35,True,False,False,Left-arm fast-medium,Right-hand bat
+West Indies,O Thomas,c6097d68,11,0,2,0,0,0.0,"[2, 4, 13]",3.0,18,5,0,56,4,4,0,0,0,4,2,18.67,0,0,0,0,0,0,-1,0,-1,28,True,False,False,Right-arm fast,Left-hand bat

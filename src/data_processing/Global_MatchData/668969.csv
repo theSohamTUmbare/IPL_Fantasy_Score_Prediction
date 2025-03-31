@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-New Zealand,HD Rutherford,0605de92,1,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
-New Zealand,AP Devcich,ed90abe4,2,30,23,4,1,130.43,"[7, 9, 17]",3.0,18,4,0,13,0,0,0,0,0,0,0,4.33,0,0,0,0,2,58,10,0,68
-New Zealand,NT Broom,a354c917,3,6,6,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6
-New Zealand,TWM Latham,e824e6ee,4,20,24,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
-New Zealand,KD Mills,7fb32e5b,4,0,0,0,0,0.0,"[1, 3, 13]",3.0,18,10,0,26,3,1,0,0,0,0,1,8.67,0,0,0,0,0,0,10,0,10
-New Zealand,MJ McClenaghan,51a3c5ef,5,0,0,0,0,0.0,"[2, 4, 10, 16]",4.0,24,7,0,34,3,1,1,1,0,0,0,8.5,0,0,0,0,0,0,40,0,40
-New Zealand,C Munro,af2c687b,5,17,19,2,0,89.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
-New Zealand,L Ronchi,0fa5042b,6,34,25,3,1,136.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,58,0,0,58
-New Zealand,NL McCullum,5673a3fc,7,26,16,3,0,162.5,"[5, 8, 12, 18]",3.833,23,4,0,34,4,0,0,0,0,0,0,8.87,0,0,0,0,4,46,4,0,50
-New Zealand,RJ Nicol,8d8c24fd,8,2,2,0,0,100.0,"[11, 14]",2.0,12,3,0,18,3,0,1,0,0,0,0,9.0,1,0,0,0,0,2,28,8,38
-New Zealand,AM Ellis,f987245c,9,2,1,0,0,200.0,"[6, 15]",2.0,12,3,0,15,2,0,0,0,0,0,0,7.5,0,0,0,0,0,2,3,0,5
-Sri Lanka,DPMD Jayawardene,d18f9182,1,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
-Sri Lanka,TM Dilshan,5bdcdb72,2,59,49,8,0,120.41,[10],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,1,0,0,1,0,99,2,14,115
-Sri Lanka,MDKJ Perera,f21043a5,3,57,37,6,2,154.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,105,0,0,105
-Sri Lanka,AD Mathews,896d78ad,4,0,0,0,0,0.0,"[3, 13]",2.0,12,5,0,17,3,0,1,0,0,0,0,8.5,0,0,0,0,0,0,30,0,30
-Sri Lanka,KC Sangakkara,6b71e6cf,4,20,17,1,0,117.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,24,0,14,38
-Sri Lanka,LD Chandimal,8dd02a98,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Sri Lanka,NLTC Perera,0f12f9df,6,0,0,0,0,0.0,"[15, 17]",2.0,12,6,0,13,1,1,1,0,0,0,0,6.5,0,0,0,0,0,0,33,0,33
-Sri Lanka,RLB Rambukwella,5a892f36,7,0,0,0,0,0.0,"[5, 7, 9, 11]",4.0,24,9,0,19,1,0,1,0,0,0,0,4.75,0,0,0,0,0,0,40,0,40
-Sri Lanka,KMDN Kulasekara,469ea22b,8,0,0,0,0,0.0,"[2, 4, 16, 19]",4.0,24,7,0,31,4,0,1,0,0,0,0,7.75,2,0,0,0,0,0,32,16,48
-Sri Lanka,SL Malinga,a12e1d51,9,0,0,0,0,0.0,"[1, 6, 18, 20]",4.0,24,9,0,33,1,1,1,1,0,0,0,8.25,0,0,0,0,0,0,42,0,42
-Sri Lanka,BAW Mendis,ea0cdc12,10,0,0,0,0,0.0,"[8, 12, 14]",3.0,18,4,0,20,2,0,1,0,0,0,0,6.67,1,0,0,0,0,0,31,8,39
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+New Zealand,HD Rutherford,0605de92,1,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,35,True,False,False,Slow left-arm orthodox,Left-hand bat
+New Zealand,AP Devcich,ed90abe4,2,30,23,4,1,130.43,"[7, 9, 17]",3.0,18,4,0,13,0,0,0,0,0,0,0,4.33,0,0,0,0,2,58,10,0,68,39,True,False,False,Slow left-arm orthodox,Left-hand bat
+New Zealand,NT Broom,a354c917,3,6,6,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6,41,True,False,False,Right-arm medium,Right-hand bat
+New Zealand,TWM Latham,e824e6ee,4,20,24,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24,32,True,True,False,Right-arm medium,Left-hand bat
+New Zealand,KD Mills,7fb32e5b,4,0,0,0,0,0.0,"[1, 3, 13]",3.0,18,10,0,26,3,1,0,0,0,0,1,8.67,0,0,0,0,0,0,10,0,10,46,True,False,False,Right-arm fast-medium,Right-hand bat
+New Zealand,MJ McClenaghan,51a3c5ef,5,0,0,0,0,0.0,"[2, 4, 10, 16]",4.0,24,7,0,34,3,1,1,1,0,0,0,8.5,0,0,0,0,0,0,40,0,40,38,True,False,False,Left-arm fast-medium,Left-hand bat
+New Zealand,C Munro,af2c687b,5,17,19,2,0,89.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,38,True,False,False,Right-arm medium-fast,Left-hand bat
+New Zealand,L Ronchi,0fa5042b,6,34,25,3,1,136.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,58,0,0,58,43,True,False,False,,Right-hand bat
+New Zealand,NL McCullum,5673a3fc,7,26,16,3,0,162.5,"[5, 8, 12, 18]",3.833,23,4,0,34,4,0,0,0,0,0,0,8.87,0,0,0,0,4,46,4,0,50,44,True,False,False,Right-arm offbreak,Right-hand bat
+New Zealand,RJ Nicol,8d8c24fd,8,2,2,0,0,100.0,"[11, 14]",2.0,12,3,0,18,3,0,1,0,0,0,0,9.0,1,0,0,0,0,2,28,8,38,41,True,False,False,Right-arm offbreak,Right-hand bat
+New Zealand,AM Ellis,f987245c,9,2,1,0,0,200.0,"[6, 15]",2.0,12,3,0,15,2,0,0,0,0,0,0,7.5,0,0,0,0,0,2,3,0,5,43,True,False,True,Right-arm fast-medium,Right-hand bat
+Sri Lanka,DPMD Jayawardene,d18f9182,1,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,47,True,False,False,Right-arm medium,Right-hand bat
+Sri Lanka,TM Dilshan,5bdcdb72,2,59,49,8,0,120.41,[10],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,1,0,0,1,0,99,2,14,115,48,True,False,True,Right-arm offbreak,Right-hand bat
+Sri Lanka,MDKJ Perera,f21043a5,3,57,37,6,2,154.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,105,0,0,105,34,True,False,False,,Left-hand bat
+Sri Lanka,AD Mathews,896d78ad,4,0,0,0,0,0.0,"[3, 13]",2.0,12,5,0,17,3,0,1,0,0,0,0,8.5,0,0,0,0,0,0,30,0,30,37,True,False,True,Right-arm medium,Right-hand bat
+Sri Lanka,KC Sangakkara,6b71e6cf,4,20,17,1,0,117.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,24,0,14,38,47,True,True,False,Right-arm offbreak,Left-hand bat
+Sri Lanka,LD Chandimal,8dd02a98,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,35,True,True,False,Right-arm offbreak,Right-hand bat
+Sri Lanka,NLTC Perera,0f12f9df,6,0,0,0,0,0.0,"[15, 17]",2.0,12,6,0,13,1,1,1,0,0,0,0,6.5,0,0,0,0,0,0,33,0,33,35,True,False,True,Right-arm medium-fast,Left-hand bat
+Sri Lanka,RLB Rambukwella,5a892f36,7,0,0,0,0,0.0,"[5, 7, 9, 11]",4.0,24,9,0,19,1,0,1,0,0,0,0,4.75,0,0,0,0,0,0,40,0,40,33,True,False,False,Right-arm offbreak,Left-hand bat
+Sri Lanka,KMDN Kulasekara,469ea22b,8,0,0,0,0,0.0,"[2, 4, 16, 19]",4.0,24,7,0,31,4,0,1,0,0,0,0,7.75,2,0,0,0,0,0,32,16,48,42,True,False,False,Right-arm fast-medium,Right-hand bat
+Sri Lanka,SL Malinga,a12e1d51,9,0,0,0,0,0.0,"[1, 6, 18, 20]",4.0,24,9,0,33,1,1,1,1,0,0,0,8.25,0,0,0,0,0,0,42,0,42,41,True,False,False,Right-arm fast,Right-hand bat
+Sri Lanka,BAW Mendis,ea0cdc12,10,0,0,0,0,0.0,"[8, 12, 14]",3.0,18,4,0,20,2,0,1,0,0,0,0,6.67,1,0,0,0,0,0,31,8,39,40,True,False,False,Right-arm offbreak,Right-hand bat

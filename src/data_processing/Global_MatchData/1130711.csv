@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Bengal,SP Goswami,541f85c9,1,58,41,5,2,141.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,2,0,2,100,0,32,132
-Bengal,Vivek Singh,a446c7be,2,63,40,3,5,157.5,[15],1.0,6,4,0,1,0,0,1,0,0,0,0,1.0,0,0,0,0,4,117,29,0,146
-Bengal,MK Tiwary,26e5cabf,3,8,6,1,0,133.33,"[10, 12, 14, 16]",4.0,24,8,0,27,3,0,2,0,0,0,1,6.75,2,0,0,0,0,12,60,16,88
-Bengal,Sudip Chatterjee,0cb8626f,4,26,18,3,0,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,44,0,8,52
-Bengal,Pramod Chandila,f6f60dca,5,6,9,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6
-Bengal,Kanishk Seth,98f27d4b,6,0,0,0,0,0.0,"[1, 3, 5, 13]",4.0,24,11,0,26,3,0,1,0,0,0,1,6.5,0,0,0,0,0,0,38,0,38
-Bengal,Writtick Chatterjee,a00e1842,6,4,2,1,0,200.0,[7],1.0,6,1,0,16,2,1,0,0,0,0,0,16.0,0,0,0,0,0,8,1,0,9
-Bengal,AB Dinda,66b30f71,7,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,9,0,41,5,1,2,0,2,0,2,10.25,0,0,0,0,0,0,73,0,73
-Bengal,Sayan Ghosh,d4b8ea98,8,0,0,0,0,0.0,"[6, 8, 17, 19]",4.0,24,12,0,31,4,1,1,0,0,0,1,7.75,0,0,0,0,0,0,37,0,37
-Bengal,Anurag Tiwari,7793e24b,9,0,0,0,0,0.0,"[9, 11]",2.0,12,1,0,31,1,3,0,0,0,1,1,15.5,0,0,0,0,0,0,-5,0,-5
-Bengal,AP Majumdar,f4cb4f53,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Jharkhand,Virat Singh,26d76ad9,1,10,11,2,0,90.91,[13],1.0,6,1,0,6,0,0,0,0,0,0,0,6.0,0,0,0,0,0,18,1,0,19
-Jharkhand,Ishan Kishan,752f7486,2,49,34,4,3,144.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,2,89,0,20,109
-Jharkhand,IR Jaggi,dded65e7,3,72,39,10,2,184.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,138,0,0,138
-Jharkhand,Kumar Deobrat,bc6d8229,4,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
-Jharkhand,SS Tiwary,709b0bac,5,11,11,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
-Jharkhand,KR Singh,fe608a7e,6,11,13,1,0,84.62,"[7, 9, 14]",3.0,18,5,0,28,3,1,2,0,0,0,1,9.33,0,0,0,0,0,15,55,0,70
-Jharkhand,Jaskaran Singh,5efcabe2,6,0,0,0,0,0.0,"[4, 6, 15, 19]",4.0,24,8,0,29,3,0,1,0,0,0,3,7.25,1,0,0,0,0,0,33,8,41
-Jharkhand,Pratyush Singh,456af189,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Jharkhand,S Nadeem,9d80c5e1,8,8,4,1,0,200.0,"[8, 10, 12, 16]",4.0,24,5,0,34,1,2,1,0,0,0,0,8.5,0,0,0,0,0,12,30,0,42
-Jharkhand,Monu Kumar,fb24e76c,9,2,2,0,0,100.0,"[1, 3, 5, 18]",4.0,24,12,0,21,0,1,0,0,0,0,2,5.25,0,0,0,0,0,2,16,0,18
-Jharkhand,VR Aaron,0a3d54b9,10,0,1,0,0,0.0,"[2, 11, 17, 20]",3.333,20,1,0,57,6,3,0,0,0,0,4,17.1,0,0,0,0,0,-2,-5,0,-7
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bengal,SP Goswami,541f85c9,1,58,41,5,2,141.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,2,0,2,100,0,32,132,35,True,False,False,,Left-hand bat
+Bengal,Vivek Singh,a446c7be,2,63,40,3,5,157.5,[15],1.0,6,4,0,1,0,0,1,0,0,0,0,1.0,0,0,0,0,4,117,29,0,146,31,True,False,False,Right-arm medium,Left-hand bat
+Bengal,MK Tiwary,26e5cabf,3,8,6,1,0,133.33,"[10, 12, 14, 16]",4.0,24,8,0,27,3,0,2,0,0,0,1,6.75,2,0,0,0,0,12,60,16,88,39,True,False,False,Legbreak googly,Right-hand bat
+Bengal,Sudip Chatterjee,0cb8626f,4,26,18,3,0,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,44,0,8,52,33,True,False,False,Legbreak googly,Left-hand bat
+Bengal,Pramod Chandila,f6f60dca,5,6,9,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6,31,True,True,False,Right-arm offbreak,Right-hand bat
+Bengal,Kanishk Seth,98f27d4b,6,0,0,0,0,0.0,"[1, 3, 5, 13]",4.0,24,11,0,26,3,0,1,0,0,0,1,6.5,0,0,0,0,0,0,38,0,38,27,True,False,True,Left-arm medium,Right-hand bat
+Bengal,Writtick Chatterjee,a00e1842,6,4,2,1,0,200.0,[7],1.0,6,1,0,16,2,1,0,0,0,0,0,16.0,0,0,0,0,0,8,1,0,9,32,True,False,True,Right-arm offbreak,Right-hand bat
+Bengal,AB Dinda,66b30f71,7,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,9,0,41,5,1,2,0,2,0,2,10.25,0,0,0,0,0,0,73,0,73,41,True,False,False,Right-arm medium-fast,Right-hand bat
+Bengal,Sayan Ghosh,d4b8ea98,8,0,0,0,0,0.0,"[6, 8, 17, 19]",4.0,24,12,0,31,4,1,1,0,0,0,1,7.75,0,0,0,0,0,0,37,0,37,32,True,False,False,Right-arm medium,Right-hand bat
+Bengal,Anurag Tiwari,7793e24b,9,0,0,0,0,0.0,"[9, 11]",2.0,12,1,0,31,1,3,0,0,0,1,1,15.5,0,0,0,0,0,0,-5,0,-5,29,True,False,True,Slow left-arm orthodox,Right-hand bat
+Bengal,AP Majumdar,f4cb4f53,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,40,True,True,False,Legbreak googly,Right-hand bat
+Jharkhand,Virat Singh,26d76ad9,1,10,11,2,0,90.91,[13],1.0,6,1,0,6,0,0,0,0,0,0,0,6.0,0,0,0,0,0,18,1,0,19,27,True,False,False,Legbreak googly,Left-hand bat
+Jharkhand,Ishan Kishan,752f7486,2,49,34,4,3,144.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,2,89,0,20,109,26,True,True,False,Legbreak,Left-hand bat
+Jharkhand,IR Jaggi,dded65e7,3,72,39,10,2,184.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,138,0,0,138,36,True,False,False,Legbreak googly,Right-hand bat
+Jharkhand,Kumar Deobrat,bc6d8229,4,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,32,True,False,False,Right-arm medium,Right-hand bat
+Jharkhand,SS Tiwary,709b0bac,5,11,11,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,35,True,False,False,,Left-hand bat
+Jharkhand,KR Singh,fe608a7e,6,11,13,1,0,84.62,"[7, 9, 14]",3.0,18,5,0,28,3,1,2,0,0,0,1,9.33,0,0,0,0,0,15,55,0,70,28,True,True,False,Right-arm medium,Right-hand bat
+Jharkhand,Jaskaran Singh,5efcabe2,6,0,0,0,0,0.0,"[4, 6, 15, 19]",4.0,24,8,0,29,3,0,1,0,0,0,3,7.25,1,0,0,0,0,0,33,8,41,33,True,False,False,Left-arm medium,Left-hand bat
+Jharkhand,Pratyush Singh,456af189,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,30,True,False,False,Legbreak googly,Right-hand bat
+Jharkhand,S Nadeem,9d80c5e1,8,8,4,1,0,200.0,"[8, 10, 12, 16]",4.0,24,5,0,34,1,2,1,0,0,0,0,8.5,0,0,0,0,0,12,30,0,42,35,True,False,False,Slow left-arm orthodox,Right-hand bat
+Jharkhand,Monu Kumar,fb24e76c,9,2,2,0,0,100.0,"[1, 3, 5, 18]",4.0,24,12,0,21,0,1,0,0,0,0,2,5.25,0,0,0,0,0,2,16,0,18,30,True,False,True,Right-arm medium,Right-hand bat
+Jharkhand,VR Aaron,0a3d54b9,10,0,1,0,0,0.0,"[2, 11, 17, 20]",3.333,20,1,0,57,6,3,0,0,0,0,4,17.1,0,0,0,0,0,-2,-5,0,-7,35,True,False,False,Right-arm fast,Right-hand bat

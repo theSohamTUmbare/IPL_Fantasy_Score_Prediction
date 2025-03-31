@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Finland,NG Collins,be3bdc15,1,11,19,1,0,57.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,11,0,0,11
-Finland,PF Gallagher,8e9d3dc4,2,11,8,1,0,137.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
-Finland,VS Padhaal,c4fb0b39,3,4,10,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2
-Finland,A Pusthay,0393fbdc,4,11,15,0,0,73.33,"[6, 8, 10, 13]",4.0,24,11,0,20,2,0,0,0,0,0,0,5.0,2,0,0,0,0,11,15,16,42
-Finland,R Pathak,025f79d1,5,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Finland,AK Mohan,d55474ac,6,10,11,0,1,90.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
-Finland,TDF Vehvilainen,47f1e175,7,8,15,0,0,53.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,-4,4,0,12,16
-Finland,TK Saha,35b84618,8,6,5,0,0,120.0,"[5, 7, 9, 11]",4.0,24,9,0,23,1,1,2,0,1,0,0,5.75,0,0,0,0,0,6,71,0,77
-Finland,M Chauhan,8534e758,9,1,4,0,0,25.0,"[1, 3, 15, 20]",4.0,24,10,0,27,3,0,1,0,0,0,0,6.75,0,0,0,0,0,1,37,0,38
-Finland,H Dandapani,9960a421,10,1,2,0,0,50.0,"[12, 14, 16, 18]",4.0,24,11,0,19,1,0,3,0,1,0,2,4.75,1,0,0,0,0,1,104,8,113
-Finland,Shoaib Qureshi,bc791e2d,11,0,2,0,0,0.0,"[2, 4, 17, 19]",4.0,24,8,0,36,4,0,2,0,1,0,2,9.0,1,0,0,0,0,-2,66,8,72
-Jersey,B Ward,9e0bd203,1,36,32,4,0,112.5,"[8, 10, 13]",3.0,18,10,0,9,0,0,2,1,1,0,0,3.0,0,0,0,0,0,56,82,0,138
-Jersey,JW Jenner,32a8161e,2,40,28,6,1,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,76,0,0,76
-Jersey,BDH Stevens,f8035c2a,3,4,8,0,0,50.0,"[9, 11, 15]",3.0,18,11,0,12,0,1,2,0,0,0,0,4.0,1,0,0,0,0,4,67,8,79
-Jersey,H Carlyon,42bf1b7d,4,2,6,0,0,33.33,[1],1.0,6,4,0,3,0,0,0,0,0,0,0,3.0,0,0,0,0,0,2,4,0,6
-Jersey,C Bisson,85ba5659,5,3,7,0,0,42.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
-Jersey,DG Blampied,d8976cb7,6,24,22,1,0,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
-Jersey,J Sumerauer,0b581ed6,7,1,4,0,0,25.0,"[4, 6]",2.0,12,5,0,12,1,0,1,0,0,0,1,6.0,0,0,0,0,0,1,32,0,33
-Jersey,B Kynman,b6980844,8,8,8,0,0,100.0,"[12, 14, 16]",2.5,15,9,0,10,0,0,4,0,1,0,1,4.0,0,0,0,0,0,8,131,0,139
-Jersey,CW Perchard,9f998ed8,9,2,3,0,0,66.67,[3],1.0,6,2,0,10,1,0,0,0,0,0,0,10.0,1,0,0,0,0,2,2,8,12
-Jersey,JE Dunford,89a7dd4a,10,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,0,1,0,40,41
-Jersey,EJB Miles,6b46ce43,11,0,0,0,0,0.0,"[2, 5, 7]",3.0,18,8,0,10,0,0,1,0,1,0,0,3.33,0,0,0,0,0,0,47,0,47
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Finland,NG Collins,be3bdc15,1,11,19,1,0,57.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,11,0,0,11,30,True,True,False,Right-arm offbreak,Right-hand bat
+Finland,PF Gallagher,8e9d3dc4,2,11,8,1,0,137.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15,40,True,True,False,Right-arm offbreak,Right-hand bat
+Finland,VS Padhaal,c4fb0b39,3,4,10,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2,46,True,True,False,Right-arm offbreak,Right-hand bat
+Finland,A Pusthay,0393fbdc,4,11,15,0,0,73.33,"[6, 8, 10, 13]",4.0,24,11,0,20,2,0,0,0,0,0,0,5.0,2,0,0,0,0,11,15,16,42,36,True,True,False,Right-arm medium,Right-hand bat
+Finland,R Pathak,025f79d1,5,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,0,True,True,False,Left-arm medium,Left-hand bat
+Finland,AK Mohan,d55474ac,6,10,11,0,1,90.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,38,True,True,False,Right-arm offbreak,Right-hand bat
+Finland,TDF Vehvilainen,47f1e175,7,8,15,0,0,53.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,-4,4,0,12,16,39,True,True,False,Right-arm medium,Right-hand bat
+Finland,TK Saha,35b84618,8,6,5,0,0,120.0,"[5, 7, 9, 11]",4.0,24,9,0,23,1,1,2,0,1,0,0,5.75,0,0,0,0,0,6,71,0,77,39,True,True,False,Right-arm medium,Right-hand bat
+Finland,M Chauhan,8534e758,9,1,4,0,0,25.0,"[1, 3, 15, 20]",4.0,24,10,0,27,3,0,1,0,0,0,0,6.75,0,0,0,0,0,1,37,0,38,38,True,True,False,Right-arm medium,Right-hand bat
+Finland,H Dandapani,9960a421,10,1,2,0,0,50.0,"[12, 14, 16, 18]",4.0,24,11,0,19,1,0,3,0,1,0,2,4.75,1,0,0,0,0,1,104,8,113,37,True,True,False,Right-arm offbreak,Right-hand bat
+Finland,Shoaib Qureshi,bc791e2d,11,0,2,0,0,0.0,"[2, 4, 17, 19]",4.0,24,8,0,36,4,0,2,0,1,0,2,9.0,1,0,0,0,0,-2,66,8,72,32,True,False,False,Right-arm medium,Right-hand bat
+Jersey,B Ward,9e0bd203,1,36,32,4,0,112.5,"[8, 10, 13]",3.0,18,10,0,9,0,0,2,1,1,0,0,3.0,0,0,0,0,0,56,82,0,138,26,True,True,False,Legbreak,Right-hand bat
+Jersey,JW Jenner,32a8161e,2,40,28,6,1,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,76,0,0,76,27,True,True,False,Right-arm offbreak,Right-hand bat
+Jersey,BDH Stevens,f8035c2a,3,4,8,0,0,50.0,"[9, 11, 15]",3.0,18,11,0,12,0,1,2,0,0,0,0,4.0,1,0,0,0,0,4,67,8,79,32,True,True,False,Slow left-arm orthodox,Left-hand bat
+Jersey,H Carlyon,42bf1b7d,4,2,6,0,0,33.33,[1],1.0,6,4,0,3,0,0,0,0,0,0,0,3.0,0,0,0,0,0,2,4,0,6,24,True,True,False,Right-arm offbreak,Right-hand bat
+Jersey,C Bisson,85ba5659,5,3,7,0,0,42.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,31,True,True,False,Right-arm medium,Right-hand bat
+Jersey,DG Blampied,d8976cb7,6,24,22,1,0,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28,28,True,True,False,Legbreak,Right-hand bat
+Jersey,J Sumerauer,0b581ed6,7,1,4,0,0,25.0,"[4, 6]",2.0,12,5,0,12,1,0,1,0,0,0,1,6.0,0,0,0,0,0,1,32,0,33,24,True,True,False,Right-arm fast-medium,Right-hand bat
+Jersey,B Kynman,b6980844,8,8,8,0,0,100.0,"[12, 14, 16]",2.5,15,9,0,10,0,0,4,0,1,0,1,4.0,0,0,0,0,0,8,131,0,139,29,True,False,False,Right-arm fast-medium,Right-hand bat
+Jersey,CW Perchard,9f998ed8,9,2,3,0,0,66.67,[3],1.0,6,2,0,10,1,0,0,0,0,0,0,10.0,1,0,0,0,0,2,2,8,12,32,True,True,False,Right-arm medium,Right-hand bat
+Jersey,JE Dunford,89a7dd4a,10,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,0,1,0,40,41,30,True,False,False,,Right-hand bat
+Jersey,EJB Miles,6b46ce43,11,0,0,0,0,0.0,"[2, 5, 7]",3.0,18,8,0,10,0,0,1,0,1,0,0,3.33,0,0,0,0,0,0,47,0,47,27,True,True,False,Slow left-arm orthodox,Right-hand bat

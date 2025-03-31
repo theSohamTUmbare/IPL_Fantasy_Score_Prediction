@@ -109,14 +109,38 @@ class Match(object):
         return (f'{self.__class__.__name__}('f'{self.match_id!r})')
 
     def get_json(self):
-        r = requests.get(self.json_url,headers=self.headers)
-        if r.status_code == 404:
-            raise MatchNotFoundError
-        elif 'Scorecard not yet available' in r.text:
-            raise NoScorecardError
-        else:
-            # print("r", r._content)
-            return r.json()
+        i = 0
+        session = requests.Session()
+        while i < 10:
+            try:
+                # r = requests.get(url)
+                print(i, end=" ")
+                r = session.get(self.json_url, headers=self.headers, timeout=3)
+                print("done")
+                if r.status_code == 404:
+                    raise MatchNotFoundError
+                elif 'Scorecard not yet available' in r.text:
+                    raise NoScorecardError
+                else:
+                    # print("r", r._content)
+                    return r.json()
+                
+            except requests.exceptions.Timeout:
+                print("Request timed out. Consider increasing the timeout value or checking the server load.")
+            except requests.exceptions.HTTPError as e:
+                print(f"HTTP Error: {e}")
+                
+            except json.JSONDecodeError as e:
+                print(f"JSON Decode Error: {e}")
+                print(f"Response content: {r.content}")  # Debug: See raw bytes
+                
+            except Exception as e:
+                print(f"Unexpected error: {e}")
+            
+            i+=1
+            
+        return None
+        
 
     def get_html(self):
         r = requests.get(self.match_url,headers=self.headers)

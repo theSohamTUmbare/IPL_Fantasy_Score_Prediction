@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Cyprus,MPGT Ketiyage,2d45d7d2,1,0,1,0,0,0.0,[8],1.0,6,0,0,15,3,0,0,0,0,0,0,15.0,1,0,0,0,0,-2,0,8,6
-Cyprus,Syed Hussain,3ff4f76c,2,6,15,1,0,40.0,"[11, 13, 15, 17]",4.0,24,10,0,23,0,1,2,0,0,0,0,5.75,0,0,0,0,-6,4,64,0,68
-Cyprus,Muhammad Shoaib Ahmed,2a13e6b1,3,20,28,1,1,71.43,"[2, 4]",2.0,12,6,0,13,1,0,1,0,1,0,2,6.5,0,0,0,0,0,30,41,0,71
-Cyprus,Harvinder Singh,903d35ed,4,16,25,1,0,64.0,[18],1.0,6,3,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,-2,18,3,0,21
-Cyprus,Azan Baig,b971183b,5,9,14,0,0,64.29,[6],1.0,6,1,0,9,0,0,0,0,0,0,0,9.0,0,0,0,0,-2,7,1,0,8
-Cyprus,SN Pathirana,f4000a7d,6,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,2,0,0,0,-2,0,24,22
-Cyprus,SRMJJ Arachchilage,c9473a95,7,0,0,0,0,0.0,"[7, 9, 19]",2.0,12,5,0,22,3,0,0,0,0,0,5,11.0,0,0,0,0,0,0,3,0,3
-Cyprus,Rafiqul Islam,c099a381,7,24,15,1,2,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,44,0,0,44
-Cyprus,Abdul Manan,353e92b3,8,10,7,1,0,142.86,"[10, 12, 14, 16]",4.0,24,14,0,14,1,0,0,0,0,0,0,3.5,0,0,0,0,0,14,20,0,34
-Cyprus,M Kyriacou,9818cc88,9,9,6,1,0,150.0,"[1, 3, 5]",3.0,18,10,0,11,0,0,1,0,0,0,0,3.67,0,0,0,0,0,13,41,0,54
-Cyprus,CP Wellage,89337e1d,10,7,4,0,0,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,7,0,0,7
-Portugal,Tariq Aziz,a049c39b,1,10,13,0,0,76.92,"[16, 18, 20]",3.0,18,3,0,34,2,1,1,0,0,0,4,11.33,0,0,0,0,0,10,24,0,34
-Portugal,Umar Farooq,8f400760,2,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Portugal,Arslan Ahmed,f70c0c66,3,49,34,7,0,144.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,83,0,0,83
-Portugal,Nadeem Butt,02df7b37,4,12,19,1,0,63.16,"[10, 12, 14, 17]",4.0,24,12,0,20,0,1,1,0,1,0,1,5.0,1,0,0,0,-2,14,49,8,71
-Portugal,SP Sharma,d9fd42e4,5,12,15,0,0,80.0,"[2, 4, 6, 8]",4.0,24,15,0,18,1,1,1,0,0,0,2,4.5,0,0,0,0,0,12,46,0,58
-Portugal,Zohaib Sarwar,bd3cecc6,6,13,13,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
-Portugal,Khalid Izaz,5087811b,7,0,0,0,0,0.0,"[1, 3, 5, 7]",4.0,24,15,0,12,1,0,1,1,0,0,1,3.0,0,0,0,0,0,0,54,0,54
-Portugal,P Buccimazza,ddc7e056,7,11,9,1,0,122.22,"[9, 11, 13, 15]",4.0,24,14,0,15,1,0,2,0,1,0,0,3.75,0,0,0,0,0,15,78,0,93
-Portugal,ARA Chambers,8db27a28,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Portugal,Rizwan Khaliq,278b90a5,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Portugal,Mian Mehmood,4a4991c1,10,0,0,0,0,0.0,[19],1.0,6,2,0,10,1,0,1,0,1,0,0,10.0,0,0,0,0,0,0,35,0,35
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Cyprus,MPGT Ketiyage,2d45d7d2,1,0,1,0,0,0.0,[8],1.0,6,0,0,15,3,0,0,0,0,0,0,15.0,1,0,0,0,0,-2,0,8,6,38,True,False,True,Right-arm medium,Left-hand bat
+Cyprus,Syed Hussain,3ff4f76c,2,6,15,1,0,40.0,"[11, 13, 15, 17]",4.0,24,10,0,23,0,1,2,0,0,0,0,5.75,0,0,0,0,-6,4,64,0,68,44,True,True,False,Right-arm offbreak,Right-hand bat
+Cyprus,Muhammad Shoaib Ahmed,2a13e6b1,3,20,28,1,1,71.43,"[2, 4]",2.0,12,6,0,13,1,0,1,0,1,0,2,6.5,0,0,0,0,0,30,41,0,71,44,True,False,True,Right-arm medium,Right-hand bat
+Cyprus,Harvinder Singh,903d35ed,4,16,25,1,0,64.0,[18],1.0,6,3,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,-2,18,3,0,21,41,True,True,False,Legbreak,Right-hand bat
+Cyprus,Azan Baig,b971183b,5,9,14,0,0,64.29,[6],1.0,6,1,0,9,0,0,0,0,0,0,0,9.0,0,0,0,0,-2,7,1,0,8,36,True,False,True,Right-arm medium,Left-hand bat
+Cyprus,SN Pathirana,f4000a7d,6,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,2,0,0,0,-2,0,24,22,41,True,True,False,Right-arm medium,Right-hand bat
+Cyprus,SRMJJ Arachchilage,c9473a95,7,0,0,0,0,0.0,"[7, 9, 19]",2.0,12,5,0,22,3,0,0,0,0,0,5,11.0,0,0,0,0,0,0,3,0,3,44,True,False,False,Right-arm offbreak,Right-hand bat
+Cyprus,Rafiqul Islam,c099a381,7,24,15,1,2,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,44,0,0,44,38,True,False,True,Right-arm medium,Right-hand bat
+Cyprus,Abdul Manan,353e92b3,8,10,7,1,0,142.86,"[10, 12, 14, 16]",4.0,24,14,0,14,1,0,0,0,0,0,0,3.5,0,0,0,0,0,14,20,0,34,40,True,True,False,Right-arm medium,Right-hand bat
+Cyprus,M Kyriacou,9818cc88,9,9,6,1,0,150.0,"[1, 3, 5]",3.0,18,10,0,11,0,0,1,0,0,0,0,3.67,0,0,0,0,0,13,41,0,54,43,True,False,False,,
+Cyprus,CP Wellage,89337e1d,10,7,4,0,0,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,7,0,0,7,50,True,True,False,Right-arm medium,Right-hand bat
+Portugal,Tariq Aziz,a049c39b,1,10,13,0,0,76.92,"[16, 18, 20]",3.0,18,3,0,34,2,1,1,0,0,0,4,11.33,0,0,0,0,0,10,24,0,34,50,True,True,False,Right-arm offbreak,Right-hand bat
+Portugal,Umar Farooq,8f400760,2,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,39,True,False,False,,Left-hand bat
+Portugal,Arslan Ahmed,f70c0c66,3,49,34,7,0,144.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,83,0,0,83,38,True,False,False,,Right-hand bat
+Portugal,Nadeem Butt,02df7b37,4,12,19,1,0,63.16,"[10, 12, 14, 17]",4.0,24,12,0,20,0,1,1,0,1,0,1,5.0,1,0,0,0,-2,14,49,8,71,52,True,True,False,Right-arm medium,Right-hand bat
+Portugal,SP Sharma,d9fd42e4,5,12,15,0,0,80.0,"[2, 4, 6, 8]",4.0,24,15,0,18,1,1,1,0,0,0,2,4.5,0,0,0,0,0,12,46,0,58,42,True,True,False,Right-arm offbreak,Right-hand bat
+Portugal,Zohaib Sarwar,bd3cecc6,6,13,13,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,34,True,True,False,Right-arm medium-fast,Right-hand bat
+Portugal,Khalid Izaz,5087811b,7,0,0,0,0,0.0,"[1, 3, 5, 7]",4.0,24,15,0,12,1,0,1,1,0,0,1,3.0,0,0,0,0,0,0,54,0,54,46,True,False,False,,
+Portugal,P Buccimazza,ddc7e056,7,11,9,1,0,122.22,"[9, 11, 13, 15]",4.0,24,14,0,15,1,0,2,0,1,0,0,3.75,0,0,0,0,0,15,78,0,93,43,True,False,False,,Right-hand bat
+Portugal,ARA Chambers,8db27a28,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Portugal,Rizwan Khaliq,278b90a5,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,51,True,False,False,,
+Portugal,Mian Mehmood,4a4991c1,10,0,0,0,0,0.0,[19],1.0,6,2,0,10,1,0,1,0,1,0,0,10.0,0,0,0,0,0,0,35,0,35,48,True,True,False,Right-arm medium-fast,Right-hand bat

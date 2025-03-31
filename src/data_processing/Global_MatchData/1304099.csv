@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Kolkata Knight Riders,B Indrajith,ff1e68fa,1,0,6,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,-2,0,12,10
-Kolkata Knight Riders,AJ Finch,b8d490fd,2,14,14,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26
-Kolkata Knight Riders,SS Iyer,85ec8e33,3,6,9,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,1,0,0,10,0,28,38
-Kolkata Knight Riders,N Rana,fb2d1dda,4,2,11,0,0,18.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-4,0,0,-4
-Kolkata Knight Riders,RK Singh,0a509d6b,5,6,10,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,4,0,8,12
-Kolkata Knight Riders,AD Russell,bbd41817,6,45,19,3,5,236.84,"[13, 15, 18]",3.0,18,2,0,22,0,0,2,0,0,0,1,7.33,0,0,0,0,6,97,52,0,149
-Kolkata Knight Riders,SP Narine,9d430b40,7,22,12,3,1,183.33,"[4, 8, 12, 16]",4.0,24,12,0,20,0,1,1,0,0,0,0,5.0,0,0,0,0,6,46,41,0,87
-Kolkata Knight Riders,AS Roy,e4cdf230,8,0,2,0,0,0.0,"[5, 7, 11]",3.0,18,4,0,27,2,1,0,0,0,0,0,9.0,0,0,0,0,0,-2,4,0,2
-Kolkata Knight Riders,Shivam Mavi,c38d3503,9,1,2,0,0,50.0,"[2, 9, 17, 19]",4.0,24,10,0,50,3,5,1,0,0,0,1,12.5,1,0,0,0,0,1,29,8,38
-Kolkata Knight Riders,TG Southee,13c35c9e,10,0,1,0,0,0.0,"[1, 3, 14, 20]",4.0,24,11,0,28,3,1,1,0,0,0,0,7.0,0,0,0,0,0,-2,38,0,36
-Kolkata Knight Riders,Harshit Rana,77b1aa15,11,2,1,0,0,200.0,"[6, 10]",2.0,12,3,0,27,3,2,0,0,0,0,0,13.5,0,0,0,0,0,2,-3,0,-1
-Lucknow Super Giants,Q de Kock,372455c4,1,50,29,4,3,172.41,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,98,0,16,114
-Lucknow Super Giants,KL Rahul,b17e2f24,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Lucknow Super Giants,DJ Hooda,73ad96ed,3,41,27,4,2,151.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,77,0,0,77
-Lucknow Super Giants,KH Pandya,5b8c830e,4,25,27,2,0,92.59,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,37,0,16,53
-Lucknow Super Giants,A Badoni,872b03f7,5,15,18,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,1,0,15,0,22,37
-Lucknow Super Giants,MP Stoinis,d9273ee7,6,28,14,1,3,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,60,0,0,60
-Lucknow Super Giants,JO Holder,0f721006,7,13,4,0,2,325.0,"[6, 9, 15]",2.5,15,4,0,31,1,3,3,0,0,0,0,12.4,1,0,0,1,0,25,77,14,116
-Lucknow Super Giants,PVD Chameera,327b58d3,8,0,1,0,0,0.0,"[2, 4, 11]",3.0,18,11,0,14,2,0,1,0,0,0,0,4.67,0,0,0,0,0,0,42,0,42
-Lucknow Super Giants,Avesh Khan,eef2536f,11,0,0,0,0,0.0,"[5, 7, 13]",3.0,18,11,1,19,1,1,3,0,1,0,2,6.33,1,0,0,0,0,0,112,8,120
-Lucknow Super Giants,Mohsin Khan,c33d8116,12,0,0,0,0,0.0,"[1, 3, 8]",3.0,18,14,1,6,1,0,1,0,0,0,0,2.0,0,0,0,0,0,0,57,0,57
-Lucknow Super Giants,Ravi Bishnoi,df064e1a,13,0,0,0,0,0.0,"[10, 12, 14]",3.0,18,8,0,30,3,2,1,0,0,0,0,10.0,0,0,0,0,0,0,31,0,31
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Kolkata Knight Riders,B Indrajith,ff1e68fa,1,0,6,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,-2,0,12,10,30,True,False,False,Legbreak googly,Right-hand bat
+Kolkata Knight Riders,AJ Finch,b8d490fd,2,14,14,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26,38,True,False,False,Slow left-arm orthodox,Right-hand bat
+Kolkata Knight Riders,SS Iyer,85ec8e33,3,6,9,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,1,0,0,10,0,28,38,30,True,False,False,Legbreak googly,Right-hand bat
+Kolkata Knight Riders,N Rana,fb2d1dda,4,2,11,0,0,18.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-4,0,0,-4,31,True,False,False,Legbreak,Left-hand bat
+Kolkata Knight Riders,RK Singh,0a509d6b,5,6,10,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,4,0,8,12,27,True,False,False,Right-arm offbreak,Left-hand bat
+Kolkata Knight Riders,AD Russell,bbd41817,6,45,19,3,5,236.84,"[13, 15, 18]",3.0,18,2,0,22,0,0,2,0,0,0,1,7.33,0,0,0,0,6,97,52,0,149,36,True,False,True,Right-arm fast,Right-hand bat
+Kolkata Knight Riders,SP Narine,9d430b40,7,22,12,3,1,183.33,"[4, 8, 12, 16]",4.0,24,12,0,20,0,1,1,0,0,0,0,5.0,0,0,0,0,6,46,41,0,87,36,True,False,True,Right-arm offbreak,Left-hand bat
+Kolkata Knight Riders,AS Roy,e4cdf230,8,0,2,0,0,0.0,"[5, 7, 11]",3.0,18,4,0,27,2,1,0,0,0,0,0,9.0,0,0,0,0,0,-2,4,0,2,26,True,False,True,Slow left-arm orthodox,Left-hand bat
+Kolkata Knight Riders,Shivam Mavi,c38d3503,9,1,2,0,0,50.0,"[2, 9, 17, 19]",4.0,24,10,0,50,3,5,1,0,0,0,1,12.5,1,0,0,0,0,1,29,8,38,26,True,False,False,Right-arm fast-medium,Right-hand bat
+Kolkata Knight Riders,TG Southee,13c35c9e,10,0,1,0,0,0.0,"[1, 3, 14, 20]",4.0,24,11,0,28,3,1,1,0,0,0,0,7.0,0,0,0,0,0,-2,38,0,36,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Kolkata Knight Riders,Harshit Rana,77b1aa15,11,2,1,0,0,200.0,"[6, 10]",2.0,12,3,0,27,3,2,0,0,0,0,0,13.5,0,0,0,0,0,2,-3,0,-1,23,True,False,False,Right-arm fast,Right-hand bat
+Lucknow Super Giants,Q de Kock,372455c4,1,50,29,4,3,172.41,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,98,0,16,114,32,True,False,False,,Left-hand bat
+Lucknow Super Giants,KL Rahul,b17e2f24,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,32,True,False,False,,Right-hand bat
+Lucknow Super Giants,DJ Hooda,73ad96ed,3,41,27,4,2,151.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,77,0,0,77,29,True,False,True,Right-arm offbreak,Right-hand bat
+Lucknow Super Giants,KH Pandya,5b8c830e,4,25,27,2,0,92.59,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,37,0,16,53,34,True,False,True,Slow left-arm orthodox,Left-hand bat
+Lucknow Super Giants,A Badoni,872b03f7,5,15,18,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,1,0,15,0,22,37,25,True,False,False,Right-arm offbreak,Right-hand bat
+Lucknow Super Giants,MP Stoinis,d9273ee7,6,28,14,1,3,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,60,0,0,60,35,True,False,True,Right-arm medium,Right-hand bat
+Lucknow Super Giants,JO Holder,0f721006,7,13,4,0,2,325.0,"[6, 9, 15]",2.5,15,4,0,31,1,3,3,0,0,0,0,12.4,1,0,0,1,0,25,77,14,116,33,True,False,True,Right-arm medium-fast,Right-hand bat
+Lucknow Super Giants,PVD Chameera,327b58d3,8,0,1,0,0,0.0,"[2, 4, 11]",3.0,18,11,0,14,2,0,1,0,0,0,0,4.67,0,0,0,0,0,0,42,0,42,33,True,False,False,Right-arm fast,Right-hand bat
+Lucknow Super Giants,Avesh Khan,eef2536f,11,0,0,0,0,0.0,"[5, 7, 13]",3.0,18,11,1,19,1,1,3,0,1,0,2,6.33,1,0,0,0,0,0,112,8,120,28,True,False,False,Right-arm fast-medium,Right-hand bat
+Lucknow Super Giants,Mohsin Khan,c33d8116,12,0,0,0,0,0.0,"[1, 3, 8]",3.0,18,14,1,6,1,0,1,0,0,0,0,2.0,0,0,0,0,0,0,57,0,57,26,True,False,False,Left-arm medium-fast,Left-hand bat
+Lucknow Super Giants,Ravi Bishnoi,df064e1a,13,0,0,0,0,0.0,"[10, 12, 14]",3.0,18,8,0,30,3,2,1,0,0,0,0,10.0,0,0,0,0,0,0,31,0,31,24,True,False,False,Legbreak googly,Right-hand bat

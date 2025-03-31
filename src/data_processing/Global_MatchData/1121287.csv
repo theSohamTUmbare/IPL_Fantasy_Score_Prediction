@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Khulna Titans,Nazmul Hossain Shanto,1274d7ab,1,15,16,3,0,93.75,[16],0.333,2,0,0,12,0,2,0,0,0,0,0,36.04,0,0,0,0,0,27,0,0,27
-Khulna Titans,M Klinger,b970a03f,2,21,26,1,0,80.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
-Khulna Titans,Afif Hossain,37138918,3,11,9,1,1,122.22,"[10, 12]",2.0,12,3,0,21,2,1,0,0,0,0,1,10.5,0,0,0,0,0,21,1,0,22
-Khulna Titans,Mohammad Irfan,32885b08,4,0,0,0,0,0.0,"[7, 9]",2.0,12,3,0,25,0,3,0,0,0,1,0,12.5,0,0,0,0,0,0,-3,0,-3
-Khulna Titans,Mahmudullah,bf1d7d3e,4,20,6,2,2,333.33,"[2, 14]",2.0,12,3,0,30,2,3,0,0,0,0,0,15.0,0,0,0,0,0,40,-3,0,37
-Khulna Titans,Ariful Haque,ad1730bc,5,29,30,3,0,96.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,45,0,8,53
-Khulna Titans,Abu Jayed,1bb0993e,5,0,0,0,0,0.0,"[1, 4, 6]",3.0,18,8,0,23,0,2,0,0,0,0,1,7.67,0,0,0,0,0,0,8,0,8
-Khulna Titans,Tanvir Islam,aa467af0,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Khulna Titans,N Pooran,3241e3fd,6,28,22,2,1,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,46,0,0,46
-Khulna Titans,CR Brathwaite,e342e5fb,7,25,9,3,1,277.78,"[8, 11]",2.0,12,1,0,30,2,2,0,0,0,0,3,15.0,0,0,0,0,0,47,-5,0,42
-Khulna Titans,JC Archer,5574750c,8,6,2,1,0,300.0,"[3, 5, 13, 15]",4.0,24,16,0,30,3,1,2,0,1,0,8,7.5,0,0,0,0,0,10,74,0,84
-Rangpur Riders,CH Gayle,db584dad,1,126,50,6,14,252.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,256,0,0,256
-Rangpur Riders,Sohag Gazi,5a4c12ab,2,1,4,0,0,25.0,"[2, 4, 13]",3.0,18,8,0,24,3,1,1,0,0,0,1,8.0,2,0,0,0,0,1,33,16,50
-Rangpur Riders,BB McCullum,b8a55852,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Rangpur Riders,RS Bopara,7ca5e05d,4,0,0,0,0,0.0,"[12, 14]",2.0,12,3,0,15,2,0,1,0,1,0,0,7.5,1,0,0,0,0,0,36,8,44
-Rangpur Riders,Mohammad Mithun,77191792,4,30,36,3,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,46,0,0,46
-Rangpur Riders,Nahidul Islam,8c7b16c8,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Rangpur Riders,Mashrafe Mortaza,e186f49c,6,0,0,0,0,0.0,"[1, 3, 5, 15]",4.0,24,11,0,23,1,1,0,0,0,0,1,5.75,0,0,0,0,0,0,15,0,15
-Rangpur Riders,J Charles,09a9d073,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Rangpur Riders,Nazmul Islam,6575e3bc,8,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,7,0,19,1,1,1,0,0,0,0,6.33,0,0,0,0,0,0,34,0,34
-Rangpur Riders,SL Malinga,a12e1d51,9,0,0,0,0,0.0,"[6, 16, 18, 20]",4.0,24,8,0,49,5,2,2,1,1,1,4,12.25,0,0,0,0,0,0,68,0,68
-Rangpur Riders,Rubel Hossain,f56cd097,10,0,0,0,0,0.0,"[8, 10, 17, 19]",4.0,24,5,0,33,4,0,1,0,0,0,1,8.25,0,0,0,0,0,0,30,0,30
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Khulna Titans,Nazmul Hossain Shanto,1274d7ab,1,15,16,3,0,93.75,[16],0.333,2,0,0,12,0,2,0,0,0,0,0,36.04,0,0,0,0,0,27,0,0,27,26,True,False,False,Right-arm offbreak,Left-hand bat
+Khulna Titans,M Klinger,b970a03f,2,21,26,1,0,80.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,44,True,False,False,,Right-hand bat
+Khulna Titans,Afif Hossain,37138918,3,11,9,1,1,122.22,"[10, 12]",2.0,12,3,0,21,2,1,0,0,0,0,1,10.5,0,0,0,0,0,21,1,0,22,25,True,False,True,Right-arm offbreak,Left-hand bat
+Khulna Titans,Mohammad Irfan,32885b08,4,0,0,0,0,0.0,"[7, 9]",2.0,12,3,0,25,0,3,0,0,0,1,0,12.5,0,0,0,0,0,0,-3,0,-3,35,True,False,False,Legbreak googly,Right-hand bat
+Khulna Titans,Mahmudullah,bf1d7d3e,4,20,6,2,2,333.33,"[2, 14]",2.0,12,3,0,30,2,3,0,0,0,0,0,15.0,0,0,0,0,0,40,-3,0,37,39,True,False,True,Right-arm offbreak,Right-hand bat
+Khulna Titans,Ariful Haque,ad1730bc,5,29,30,3,0,96.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,45,0,8,53,32,True,False,True,Right-arm medium-fast,Right-hand bat
+Khulna Titans,Abu Jayed,1bb0993e,5,0,0,0,0,0.0,"[1, 4, 6]",3.0,18,8,0,23,0,2,0,0,0,0,1,7.67,0,0,0,0,0,0,8,0,8,31,True,False,False,Right-arm fast-medium,Right-hand bat
+Khulna Titans,Tanvir Islam,aa467af0,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,28,True,False,False,Slow left-arm orthodox,Left-hand bat
+Khulna Titans,N Pooran,3241e3fd,6,28,22,2,1,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,46,0,0,46,29,True,True,False,Right-arm offbreak,Left-hand bat
+Khulna Titans,CR Brathwaite,e342e5fb,7,25,9,3,1,277.78,"[8, 11]",2.0,12,1,0,30,2,2,0,0,0,0,3,15.0,0,0,0,0,0,47,-5,0,42,36,True,False,True,Right-arm fast-medium,Right-hand bat
+Khulna Titans,JC Archer,5574750c,8,6,2,1,0,300.0,"[3, 5, 13, 15]",4.0,24,16,0,30,3,1,2,0,1,0,8,7.5,0,0,0,0,0,10,74,0,84,29,True,False,False,Right-arm fast,Right-hand bat
+Rangpur Riders,CH Gayle,db584dad,1,126,50,6,14,252.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,256,0,0,256,45,True,False,True,Right-arm offbreak,Left-hand bat
+Rangpur Riders,Sohag Gazi,5a4c12ab,2,1,4,0,0,25.0,"[2, 4, 13]",3.0,18,8,0,24,3,1,1,0,0,0,1,8.0,2,0,0,0,0,1,33,16,50,33,True,False,True,Right-arm offbreak,Right-hand bat
+Rangpur Riders,BB McCullum,b8a55852,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,43,True,True,False,Right-arm offbreak,Right-hand bat
+Rangpur Riders,RS Bopara,7ca5e05d,4,0,0,0,0,0.0,"[12, 14]",2.0,12,3,0,15,2,0,1,0,1,0,0,7.5,1,0,0,0,0,0,36,8,44,39,True,False,True,Right-arm medium,Right-hand bat
+Rangpur Riders,Mohammad Mithun,77191792,4,30,36,3,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,46,0,0,46,34,True,False,False,,Right-hand bat
+Rangpur Riders,Nahidul Islam,8c7b16c8,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,31,True,False,True,Right-arm offbreak,Right-hand bat
+Rangpur Riders,Mashrafe Mortaza,e186f49c,6,0,0,0,0,0.0,"[1, 3, 5, 15]",4.0,24,11,0,23,1,1,0,0,0,0,1,5.75,0,0,0,0,0,0,15,0,15,41,True,False,False,Right-arm fast-medium,Right-hand bat
+Rangpur Riders,J Charles,09a9d073,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,36,True,False,False,,Right-hand bat
+Rangpur Riders,Nazmul Islam,6575e3bc,8,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,7,0,19,1,1,1,0,0,0,0,6.33,0,0,0,0,0,0,34,0,34,33,True,False,False,Slow left-arm orthodox,Left-hand bat
+Rangpur Riders,SL Malinga,a12e1d51,9,0,0,0,0,0.0,"[6, 16, 18, 20]",4.0,24,8,0,49,5,2,2,1,1,1,4,12.25,0,0,0,0,0,0,68,0,68,41,True,False,False,Right-arm fast,Right-hand bat
+Rangpur Riders,Rubel Hossain,f56cd097,10,0,0,0,0,0.0,"[8, 10, 17, 19]",4.0,24,5,0,33,4,0,1,0,0,0,1,8.25,0,0,0,0,0,0,30,0,30,35,True,False,False,Right-arm fast,Right-hand bat

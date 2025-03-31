@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Melbourne Stars,EP Gulbis,bbce4647,1,37,29,3,1,127.59,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,59,0,0,59
-Melbourne Stars,BR Dunk,272d796e,2,62,47,6,1,131.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,102,0,0,102
-Melbourne Stars,NJ Maddinson,44afbf2d,3,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Melbourne Stars,SE Gotch,9a0e4ca5,4,18,22,1,0,81.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,22,0,12,34
-Melbourne Stars,DJ Bravo,87e562a9,5,0,2,0,0,0.0,"[7, 13, 17]",3.0,18,5,0,18,0,1,2,0,2,0,0,6.0,0,0,0,0,0,-2,73,0,71
-Melbourne Stars,J Merlo,02ba80a0,6,7,7,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
-Melbourne Stars,SM Boland,d167edd3,6,0,0,0,0,0.0,"[2, 4, 16]",3.0,18,5,0,30,1,2,0,0,0,0,0,10.0,0,0,0,0,0,0,3,0,3
-Melbourne Stars,MA Beer,f60dc2a5,7,0,0,0,0,0.0,"[1, 3, 6, 15]",4.0,24,8,0,38,3,2,0,0,0,0,1,9.5,0,0,0,0,0,0,8,0,8
-Melbourne Stars,LE Plunkett,9a963804,7,4,4,0,0,100.0,"[5, 9, 11, 18]",3.667,22,4,0,35,3,0,1,0,0,1,1,9.54,1,0,0,0,0,4,29,8,41
-Melbourne Stars,L Bowe,a5b71472,8,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,8,0,22,1,0,1,0,0,0,0,5.5,0,0,0,0,0,0,37,0,37
-Melbourne Stars,NCR Larkin,02bce9a8,8,6,4,0,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6
-Perth Scorchers,CT Bancroft,399b0b94,1,59,42,4,2,140.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,97,0,8,105
-Perth Scorchers,M Klinger,b970a03f,2,29,30,2,0,96.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,41,0,0,41
-Perth Scorchers,AJ Turner,ff1e12a0,3,43,22,2,3,195.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,79,0,0,79
-Perth Scorchers,AC Agar,a2421394,4,7,8,0,0,87.5,"[6, 12, 14]",3.0,18,5,0,32,4,1,0,0,0,0,0,10.67,1,0,0,0,0,7,3,8,18
-Perth Scorchers,HWR Cartwright,ab965cad,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Perth Scorchers,AM Hardie,d405c0d5,6,0,0,0,0,0.0,[4],1.0,6,1,0,13,2,0,0,0,0,0,0,13.0,0,0,0,0,0,0,1,0,1
-Perth Scorchers,WG Bosisto,04ef663a,6,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Perth Scorchers,NM Coulter-Nile,56ab442f,7,0,0,0,0,0.0,"[1, 3, 15, 20]",4.0,24,8,0,30,1,1,0,0,0,0,2,7.5,2,0,0,0,0,0,8,16,24
-Perth Scorchers,DJ Willey,7f048519,8,0,0,0,0,0.0,"[2, 8, 16, 18]",4.0,24,10,0,27,3,0,1,0,0,0,1,6.75,1,0,0,0,0,0,37,8,45
-Perth Scorchers,AJ Tye,7c7d63a2,9,0,0,0,0,0.0,"[5, 10, 17, 19]",4.0,24,13,0,18,0,0,4,0,1,0,4,4.5,0,0,0,0,0,0,135,0,135
-Perth Scorchers,Usman Qadir,33742f04,10,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,8,0,25,1,0,1,0,0,0,2,6.25,0,0,0,0,0,0,35,0,35
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Melbourne Stars,EP Gulbis,bbce4647,1,37,29,3,1,127.59,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,59,0,0,59,39,True,False,True,Right-arm medium,Right-hand bat
+Melbourne Stars,BR Dunk,272d796e,2,62,47,6,1,131.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,102,0,0,102,38,True,True,False,Right-arm offbreak,Left-hand bat
+Melbourne Stars,NJ Maddinson,44afbf2d,3,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,33,True,False,False,Slow left-arm orthodox,Left-hand bat
+Melbourne Stars,SE Gotch,9a0e4ca5,4,18,22,1,0,81.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,22,0,12,34,31,True,True,False,Right-arm medium,Right-hand bat
+Melbourne Stars,DJ Bravo,87e562a9,5,0,2,0,0,0.0,"[7, 13, 17]",3.0,18,5,0,18,0,1,2,0,2,0,0,6.0,0,0,0,0,0,-2,73,0,71,41,True,False,True,Right-arm medium,Right-hand bat
+Melbourne Stars,J Merlo,02ba80a0,6,7,7,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,26,True,False,True,Right-arm medium-fast,Right-hand bat
+Melbourne Stars,SM Boland,d167edd3,6,0,0,0,0,0.0,"[2, 4, 16]",3.0,18,5,0,30,1,2,0,0,0,0,0,10.0,0,0,0,0,0,0,3,0,3,35,True,False,False,Right-arm fast-medium,Right-hand bat
+Melbourne Stars,MA Beer,f60dc2a5,7,0,0,0,0,0.0,"[1, 3, 6, 15]",4.0,24,8,0,38,3,2,0,0,0,0,1,9.5,0,0,0,0,0,0,8,0,8,40,True,False,False,Slow left-arm orthodox,Right-hand bat
+Melbourne Stars,LE Plunkett,9a963804,7,4,4,0,0,100.0,"[5, 9, 11, 18]",3.667,22,4,0,35,3,0,1,0,0,1,1,9.54,1,0,0,0,0,4,29,8,41,39,True,False,False,Right-arm fast,Right-hand bat
+Melbourne Stars,L Bowe,a5b71472,8,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,8,0,22,1,0,1,0,0,0,0,5.5,0,0,0,0,0,0,37,0,37,27,True,False,False,Left-arm wrist-spin,Left-hand bat
+Melbourne Stars,NCR Larkin,02bce9a8,8,6,4,0,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6,34,True,False,False,,Right-hand bat
+Perth Scorchers,CT Bancroft,399b0b94,1,59,42,4,2,140.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,97,0,8,105,32,True,False,False,,Right-hand bat
+Perth Scorchers,M Klinger,b970a03f,2,29,30,2,0,96.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,41,0,0,41,44,True,False,False,,Right-hand bat
+Perth Scorchers,AJ Turner,ff1e12a0,3,43,22,2,3,195.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,79,0,0,79,32,True,False,False,Right-arm offbreak,Right-hand bat
+Perth Scorchers,AC Agar,a2421394,4,7,8,0,0,87.5,"[6, 12, 14]",3.0,18,5,0,32,4,1,0,0,0,0,0,10.67,1,0,0,0,0,7,3,8,18,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+Perth Scorchers,HWR Cartwright,ab965cad,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,33,True,False,False,Right-arm medium,Right-hand bat
+Perth Scorchers,AM Hardie,d405c0d5,6,0,0,0,0,0.0,[4],1.0,6,1,0,13,2,0,0,0,0,0,0,13.0,0,0,0,0,0,0,1,0,1,26,True,False,True,Right-arm medium-fast,Right-hand bat
+Perth Scorchers,WG Bosisto,04ef663a,6,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,31,True,True,False,Right-arm offbreak,Right-hand bat
+Perth Scorchers,NM Coulter-Nile,56ab442f,7,0,0,0,0,0.0,"[1, 3, 15, 20]",4.0,24,8,0,30,1,1,0,0,0,0,2,7.5,2,0,0,0,0,0,8,16,24,37,True,False,True,Right-arm fast,Right-hand bat
+Perth Scorchers,DJ Willey,7f048519,8,0,0,0,0,0.0,"[2, 8, 16, 18]",4.0,24,10,0,27,3,0,1,0,0,0,1,6.75,1,0,0,0,0,0,37,8,45,35,True,False,True,Left-arm fast-medium,Left-hand bat
+Perth Scorchers,AJ Tye,7c7d63a2,9,0,0,0,0,0.0,"[5, 10, 17, 19]",4.0,24,13,0,18,0,0,4,0,1,0,4,4.5,0,0,0,0,0,0,135,0,135,38,True,False,False,Right-arm medium-fast,Right-hand bat
+Perth Scorchers,Usman Qadir,33742f04,10,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,8,0,25,1,0,1,0,0,0,2,6.25,0,0,0,0,0,0,35,0,35,31,True,False,False,Legbreak,Left-hand bat

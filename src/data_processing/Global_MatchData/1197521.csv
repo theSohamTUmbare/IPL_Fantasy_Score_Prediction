@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Ireland,PR Stirling,cf494ffe,1,23,19,3,0,121.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,35,0,0,35
-Ireland,KJ O'Brien,243431b5,2,23,15,2,2,153.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,47,0,0,47
-Ireland,A Balbirnie,6ef13460,3,32,20,3,1,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,58,0,0,58
-Ireland,GJ Delany,33b3d2df,4,29,25,1,1,116.0,"[3, 11, 15]",3.0,18,6,0,21,1,1,0,0,0,0,0,7.0,1,0,0,0,0,43,8,8,59
-Ireland,HT Tector,59ea70a4,5,47,26,6,1,180.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,87,0,8,95
-Ireland,MR Adair,fc55ec67,6,10,5,0,1,200.0,"[1, 5, 12, 19]",4.0,24,8,0,30,4,0,2,0,0,0,1,7.5,0,0,0,0,0,16,58,0,74
-Ireland,CA Young,bd0a4a7d,6,0,0,0,0,0.0,"[2, 6, 17, 20]",4.0,24,8,0,38,6,0,2,0,0,0,1,9.5,2,0,0,0,0,0,58,16,74
-Ireland,SC Getkate,c8065f31,7,0,0,0,0,0.0,"[8, 10, 13, 16]",4.0,24,5,0,36,3,1,0,0,0,0,1,9.0,0,0,0,0,0,0,5,0,5
-Ireland,WB Rankin,29b89ae8,8,0,0,0,0,0.0,"[4, 9, 14, 18]",4.0,24,8,0,27,3,0,1,0,0,0,0,6.75,1,0,0,0,0,0,35,8,43
-Ireland,GH Dockrell,99cddc5e,9,0,0,0,0,0.0,[7],1.0,6,0,0,15,1,1,0,0,0,0,0,15.0,0,0,0,0,0,0,0,0,0
-Ireland,GC Wilson,05de1a5a,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Netherlands,TP Visee,881b3f8e,1,9,4,2,0,225.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
-Netherlands,MP O'Dowd,b699df47,2,38,23,4,2,165.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,74,0,8,82
-Netherlands,BN Cooper,634a7b21,3,65,45,8,1,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,113,0,8,121
-Netherlands,CN Ackermann,e734d090,4,27,21,3,0,128.57,"[1, 13]",2.0,12,4,0,16,2,0,0,0,0,0,0,8.0,0,0,0,0,0,43,4,0,47
-Netherlands,RE van der Merwe,05c2ca46,5,22,20,1,0,110.0,"[8, 11, 17]",3.0,18,3,0,32,3,1,0,0,0,0,0,10.67,1,0,0,0,0,26,1,8,35
-Netherlands,BD Glover,0dbe27b8,6,0,0,0,0,0.0,"[2, 4, 12, 18]",4.0,24,6,0,46,2,4,0,0,0,0,2,11.5,1,0,0,0,0,0,2,8,10
-Netherlands,SA Edwards,b59db04f,6,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Netherlands,PM Seelaar,abbdca1a,7,2,3,0,0,66.67,"[7, 9, 15]",3.0,18,4,0,28,2,1,1,0,0,0,2,9.33,0,0,0,0,0,2,29,0,31
-Netherlands,PA van Meekeren,4557dc54,7,0,0,0,0,0.0,"[3, 5, 14, 19]",3.333,20,8,0,26,4,0,1,0,0,0,0,7.8,0,0,0,0,0,0,33,0,33
-Netherlands,AJ Staal,62c713bf,8,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Netherlands,S Snater,a790df98,9,0,0,0,0,0.0,"[6, 10, 16]",3.0,18,6,0,21,2,0,2,0,0,0,1,7.0,0,0,0,0,0,0,58,0,58
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Ireland,PR Stirling,cf494ffe,1,23,19,3,0,121.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,35,0,0,35,34,True,False,True,Right-arm offbreak,Right-hand bat
+Ireland,KJ O'Brien,243431b5,2,23,15,2,2,153.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,47,0,0,47,41,True,False,True,Right-arm medium-fast,Right-hand bat
+Ireland,A Balbirnie,6ef13460,3,32,20,3,1,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,58,0,0,58,34,True,False,False,Right-arm offbreak,Right-hand bat
+Ireland,GJ Delany,33b3d2df,4,29,25,1,1,116.0,"[3, 11, 15]",3.0,18,6,0,21,1,1,0,0,0,0,0,7.0,1,0,0,0,0,43,8,8,59,27,True,False,True,Legbreak googly,Right-hand bat
+Ireland,HT Tector,59ea70a4,5,47,26,6,1,180.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,87,0,8,95,25,True,False,False,Right-arm offbreak,Right-hand bat
+Ireland,MR Adair,fc55ec67,6,10,5,0,1,200.0,"[1, 5, 12, 19]",4.0,24,8,0,30,4,0,2,0,0,0,1,7.5,0,0,0,0,0,16,58,0,74,29,True,False,True,Right-arm fast-medium,Right-hand bat
+Ireland,CA Young,bd0a4a7d,6,0,0,0,0,0.0,"[2, 6, 17, 20]",4.0,24,8,0,38,6,0,2,0,0,0,1,9.5,2,0,0,0,0,0,58,16,74,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Ireland,SC Getkate,c8065f31,7,0,0,0,0,0.0,"[8, 10, 13, 16]",4.0,24,5,0,36,3,1,0,0,0,0,1,9.0,0,0,0,0,0,0,5,0,5,33,True,False,True,Right-arm medium-fast,Right-hand bat
+Ireland,WB Rankin,29b89ae8,8,0,0,0,0,0.0,"[4, 9, 14, 18]",4.0,24,8,0,27,3,0,1,0,0,0,0,6.75,1,0,0,0,0,0,35,8,43,40,True,False,False,Right-arm fast-medium,Left-hand bat
+Ireland,GH Dockrell,99cddc5e,9,0,0,0,0,0.0,[7],1.0,6,0,0,15,1,1,0,0,0,0,0,15.0,0,0,0,0,0,0,0,0,0,32,True,False,True,Slow left-arm orthodox,Right-hand bat
+Ireland,GC Wilson,05de1a5a,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,39,True,False,False,,Right-hand bat
+Netherlands,TP Visee,881b3f8e,1,9,4,2,0,225.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,34,True,False,False,,Right-hand bat
+Netherlands,MP O'Dowd,b699df47,2,38,23,4,2,165.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,74,0,8,82,31,True,False,False,Right-arm offbreak,Right-hand bat
+Netherlands,BN Cooper,634a7b21,3,65,45,8,1,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,113,0,8,121,33,True,False,False,Right-arm medium,Left-hand bat
+Netherlands,CN Ackermann,e734d090,4,27,21,3,0,128.57,"[1, 13]",2.0,12,4,0,16,2,0,0,0,0,0,0,8.0,0,0,0,0,0,43,4,0,47,33,True,False,True,Right-arm offbreak,Right-hand bat
+Netherlands,RE van der Merwe,05c2ca46,5,22,20,1,0,110.0,"[8, 11, 17]",3.0,18,3,0,32,3,1,0,0,0,0,0,10.67,1,0,0,0,0,26,1,8,35,40,True,False,True,Slow left-arm orthodox,Right-hand bat
+Netherlands,BD Glover,0dbe27b8,6,0,0,0,0,0.0,"[2, 4, 12, 18]",4.0,24,6,0,46,2,4,0,0,0,0,2,11.5,1,0,0,0,0,0,2,8,10,27,True,False,False,Right-arm fast,Right-hand bat
+Netherlands,SA Edwards,b59db04f,6,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,28,True,False,False,,Right-hand bat
+Netherlands,PM Seelaar,abbdca1a,7,2,3,0,0,66.67,"[7, 9, 15]",3.0,18,4,0,28,2,1,1,0,0,0,2,9.33,0,0,0,0,0,2,29,0,31,37,True,False,True,Slow left-arm orthodox,Right-hand bat
+Netherlands,PA van Meekeren,4557dc54,7,0,0,0,0,0.0,"[3, 5, 14, 19]",3.333,20,8,0,26,4,0,1,0,0,0,0,7.8,0,0,0,0,0,0,33,0,33,32,True,False,False,Right-arm fast-medium,Right-hand bat
+Netherlands,AJ Staal,62c713bf,8,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,28,True,False,False,Legbreak googly,Right-hand bat
+Netherlands,S Snater,a790df98,9,0,0,0,0,0.0,"[6, 10, 16]",3.0,18,6,0,21,2,0,2,0,0,0,1,7.0,0,0,0,0,0,0,58,0,58,29,True,False,False,Right-arm fast-medium,Right-hand bat

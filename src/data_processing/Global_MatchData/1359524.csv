@@ -1,25 +1,25 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Delhi Capitals,DA Warner,dcce6f09,1,22,14,3,1,157.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,44,0,8,52
-Delhi Capitals,PD Salt,3d284ca3,2,87,45,8,6,193.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,173,0,8,181
-Delhi Capitals,MR Marsh,3d8feaf8,3,26,17,3,1,152.94,"[7, 11, 15]",3.0,18,3,0,21,0,1,2,0,0,0,1,7.0,0,0,0,0,4,52,55,0,107
-Delhi Capitals,RR Rossouw,cad00a4d,4,35,21,1,3,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,65,0,0,65
-Delhi Capitals,AR Patel,2e171977,5,8,3,0,1,266.67,"[2, 4, 9]",3.0,18,7,0,17,2,0,0,0,0,0,0,5.67,1,0,0,0,0,14,11,8,33
-Delhi Capitals,I Sharma,5bb1a1c4,5,0,0,0,0,0.0,"[3, 13, 17]",3.0,18,4,0,29,4,0,0,0,0,0,2,9.67,0,0,0,0,0,0,4,0,4
-Delhi Capitals,Aman Hakim Khan,378daa89,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Delhi Capitals,MK Pandey,93b4fc78,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Delhi Capitals,Kuldeep Yadav,8d2c70ad,8,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,5,0,37,2,2,0,0,0,0,0,9.25,0,0,0,0,0,0,5,0,5
-Delhi Capitals,Mukesh Kumar,2cffab74,9,0,0,0,0,0.0,"[5, 16, 19]",3.0,18,6,0,30,5,0,1,0,0,0,1,10.0,0,0,0,0,0,0,29,0,29
-Delhi Capitals,KK Ahmed,a2f46292,10,0,0,0,0,0.0,"[1, 6, 18, 20]",4.0,24,6,0,45,3,3,1,0,0,0,2,11.25,1,0,0,0,0,0,27,8,35
-Delhi Capitals,RV Patel,60500956,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Royal Challengers Bangalore,V Kohli,ba607b88,1,55,46,5,0,119.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,83,0,0,83
-Royal Challengers Bangalore,F du Plessis,3355b542,2,45,32,5,1,140.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,77,0,8,85
-Royal Challengers Bangalore,GJ Maxwell,b681e71e,3,0,1,0,0,0.0,"[2, 17]",1.667,10,3,0,14,1,1,0,0,0,0,0,8.4,0,0,0,0,0,-2,3,0,1
-Royal Challengers Bangalore,MK Lomror,da934ee8,4,54,29,6,3,186.21,[10],1.0,6,1,0,13,1,1,0,0,0,0,0,13.0,1,0,0,0,6,110,1,8,119
-Royal Challengers Bangalore,HV Patel,f986ca1a,5,0,0,0,0,0.0,"[11, 13]",2.0,12,4,0,32,2,3,1,0,0,0,1,16.0,0,0,0,0,0,0,23,0,23
-Royal Challengers Bangalore,KD Karthik,c03f1114,5,11,9,0,1,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
-Royal Challengers Bangalore,KM Jadhav,99d63244,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Royal Challengers Bangalore,Anuj Rawat,c8f5f961,6,8,3,0,1,266.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
-Royal Challengers Bangalore,PWH de Silva,a97c8ec2,7,0,0,0,0,0.0,"[4, 8, 12, 14]",4.0,24,9,0,32,2,2,0,0,0,0,0,8.0,0,0,0,0,0,0,9,0,9
-Royal Challengers Bangalore,KV Sharma,119678fd,8,0,0,0,0,0.0,"[7, 9, 16]",3.0,18,3,0,33,4,1,1,0,1,0,0,11.0,0,0,0,0,0,0,34,0,34
-Royal Challengers Bangalore,Mohammed Siraj,2f49c897,9,0,0,0,0,0.0,"[1, 5]",2.0,12,3,0,28,3,2,0,0,0,0,1,14.0,0,0,0,0,0,0,-3,0,-3
-Royal Challengers Bangalore,JR Hazlewood,03806cf8,10,0,0,0,0,0.0,"[3, 6, 15]",3.0,18,9,0,29,2,2,1,0,0,1,0,9.67,0,0,0,0,0,0,34,0,34
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Delhi Capitals,DA Warner,dcce6f09,1,22,14,3,1,157.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,44,0,8,52,38,True,False,False,Legbreak,Left-hand bat
+Delhi Capitals,PD Salt,3d284ca3,2,87,45,8,6,193.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,173,0,8,181,28,True,True,False,Right-arm offbreak,Right-hand bat
+Delhi Capitals,MR Marsh,3d8feaf8,3,26,17,3,1,152.94,"[7, 11, 15]",3.0,18,3,0,21,0,1,2,0,0,0,1,7.0,0,0,0,0,4,52,55,0,107,33,True,False,True,Right-arm medium,Right-hand bat
+Delhi Capitals,RR Rossouw,cad00a4d,4,35,21,1,3,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,65,0,0,65,35,True,False,False,Right-arm offbreak,Left-hand bat
+Delhi Capitals,AR Patel,2e171977,5,8,3,0,1,266.67,"[2, 4, 9]",3.0,18,7,0,17,2,0,0,0,0,0,0,5.67,1,0,0,0,0,14,11,8,33,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Delhi Capitals,I Sharma,5bb1a1c4,5,0,0,0,0,0.0,"[3, 13, 17]",3.0,18,4,0,29,4,0,0,0,0,0,2,9.67,0,0,0,0,0,0,4,0,4,36,True,False,False,Right-arm fast-medium,Right-hand bat
+Delhi Capitals,Aman Hakim Khan,378daa89,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,28,True,False,True,Right-arm medium,Right-hand bat
+Delhi Capitals,MK Pandey,93b4fc78,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,35,True,False,False,Right-arm medium,Right-hand bat
+Delhi Capitals,Kuldeep Yadav,8d2c70ad,8,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,5,0,37,2,2,0,0,0,0,0,9.25,0,0,0,0,0,0,5,0,5,30,True,False,False,Left-arm wrist-spin,Left-hand bat
+Delhi Capitals,Mukesh Kumar,2cffab74,9,0,0,0,0,0.0,"[5, 16, 19]",3.0,18,6,0,30,5,0,1,0,0,0,1,10.0,0,0,0,0,0,0,29,0,29,31,True,False,False,Right-arm medium,Right-hand bat
+Delhi Capitals,KK Ahmed,a2f46292,10,0,0,0,0,0.0,"[1, 6, 18, 20]",4.0,24,6,0,45,3,3,1,0,0,0,2,11.25,1,0,0,0,0,0,27,8,35,27,True,False,False,Left-arm fast-medium,Right-hand bat
+Delhi Capitals,RV Patel,60500956,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,29,True,False,False,Right-arm medium-fast,Right-hand bat
+Royal Challengers Bangalore,V Kohli,ba607b88,1,55,46,5,0,119.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,83,0,0,83,36,True,False,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,F du Plessis,3355b542,2,45,32,5,1,140.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,77,0,8,85,40,True,False,False,Legbreak,Right-hand bat
+Royal Challengers Bangalore,GJ Maxwell,b681e71e,3,0,1,0,0,0.0,"[2, 17]",1.667,10,3,0,14,1,1,0,0,0,0,0,8.4,0,0,0,0,0,-2,3,0,1,36,True,False,True,Right-arm offbreak,Right-hand bat
+Royal Challengers Bangalore,MK Lomror,da934ee8,4,54,29,6,3,186.21,[10],1.0,6,1,0,13,1,1,0,0,0,0,0,13.0,1,0,0,0,6,110,1,8,119,25,True,False,True,Slow left-arm orthodox,Left-hand bat
+Royal Challengers Bangalore,HV Patel,f986ca1a,5,0,0,0,0,0.0,"[11, 13]",2.0,12,4,0,32,2,3,1,0,0,0,1,16.0,0,0,0,0,0,0,23,0,23,34,True,False,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,KD Karthik,c03f1114,5,11,9,0,1,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,39,True,True,False,Right-arm offbreak,Right-hand bat
+Royal Challengers Bangalore,KM Jadhav,99d63244,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,40,True,False,True,Right-arm offbreak,Right-hand bat
+Royal Challengers Bangalore,Anuj Rawat,c8f5f961,6,8,3,0,1,266.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,25,True,False,False,,Left-hand bat
+Royal Challengers Bangalore,PWH de Silva,a97c8ec2,7,0,0,0,0,0.0,"[4, 8, 12, 14]",4.0,24,9,0,32,2,2,0,0,0,0,0,8.0,0,0,0,0,0,0,9,0,9,27,True,False,True,Legbreak,Right-hand bat
+Royal Challengers Bangalore,KV Sharma,119678fd,8,0,0,0,0,0.0,"[7, 9, 16]",3.0,18,3,0,33,4,1,1,0,1,0,0,11.0,0,0,0,0,0,0,34,0,34,37,True,False,False,Legbreak googly,Left-hand bat
+Royal Challengers Bangalore,Mohammed Siraj,2f49c897,9,0,0,0,0,0.0,"[1, 5]",2.0,12,3,0,28,3,2,0,0,0,0,1,14.0,0,0,0,0,0,0,-3,0,-3,31,True,False,False,Right-arm fast,Right-hand bat
+Royal Challengers Bangalore,JR Hazlewood,03806cf8,10,0,0,0,0,0.0,"[3, 6, 15]",3.0,18,9,0,29,2,2,1,0,0,1,0,9.67,0,0,0,0,0,0,34,0,34,34,True,False,False,Right-arm fast-medium,Left-hand bat

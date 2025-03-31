@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Dhaka Dynamites,Hazratullah,5ea51c25,1,4,4,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
-Dhaka Dynamites,SP Narine,9d430b40,2,25,21,2,2,119.05,"[4, 11, 13]",3.0,18,10,0,13,0,1,1,0,0,0,0,4.33,0,0,0,0,0,49,41,0,90
-Dhaka Dynamites,Rony Talukdar,8bd614b2,3,58,34,5,3,170.59,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,110,0,8,118
-Dhaka Dynamites,Shakib Al Hasan,7dc35884,4,23,17,3,0,135.29,"[1, 3, 5, 17]",4.0,24,13,0,34,1,4,2,0,0,0,1,8.5,0,0,0,0,2,37,63,0,100
-Dhaka Dynamites,KA Pollard,a757b0d8,5,3,7,0,0,42.86,[20],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,2,0,0,0,0,3,2,16,21
-Dhaka Dynamites,AD Russell,bbd41817,6,5,4,1,0,125.0,"[6, 8]",2.0,12,7,0,21,1,2,0,0,0,0,3,10.5,1,0,0,0,0,9,5,8,22
-Dhaka Dynamites,Nurul Hasan,d365d463,7,18,10,0,1,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,30,0,8,38
-Dhaka Dynamites,Shuvagata Hom,bb01f9e0,8,0,1,0,0,0.0,"[2, 15, 19]",3.0,18,6,0,28,0,3,2,1,0,0,0,9.33,1,0,0,0,0,-2,64,8,70
-Dhaka Dynamites,Mohammad Naim,7923a51d,9,25,22,1,1,113.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,39,0,0,39
-Dhaka Dynamites,Rubel Hossain,f56cd097,11,0,0,0,0,0.0,"[7, 9, 18]",3.0,18,7,0,22,0,2,3,0,1,0,1,7.33,1,0,0,0,0,0,94,8,102
-Dhaka Dynamites,Al Islam,45d38a84,12,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,14,0,14,1,0,1,0,0,0,0,3.5,0,0,0,0,0,0,45,0,45
-Sylhet Sixers,DA Warner,dcce6f09,1,7,3,0,1,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
-Sylhet Sixers,Liton Das,0404d43c,2,9,9,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,15,0,16,31
-Sylhet Sixers,Afif Hossain,37138918,3,4,4,0,0,100.0,"[10, 12]",2.0,12,3,0,25,3,1,1,0,0,0,0,12.5,2,0,0,0,0,4,22,16,42
-Sylhet Sixers,Nasir Hossain,6eea0b32,4,1,8,0,0,12.5,[6],1.0,6,3,0,11,1,1,0,0,0,0,0,11.0,0,0,0,0,0,1,3,0,4
-Sylhet Sixers,Sabbir Rahman,7147f314,5,12,10,2,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
-Sylhet Sixers,N Pooran,3241e3fd,6,72,47,1,9,153.19,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,142,0,8,150
-Sylhet Sixers,Alok Kapali,54279e23,7,2,3,0,0,66.67,"[7, 9]",2.0,12,2,0,13,0,0,1,0,0,0,1,6.5,1,0,0,0,0,2,29,8,39
-Sylhet Sixers,Sohail Tanvir,64d43928,8,7,11,0,0,63.64,"[1, 3, 17, 19]",4.0,24,14,0,21,2,0,1,0,0,1,2,5.25,0,0,0,0,-2,5,43,0,48
-Sylhet Sixers,Taskin Ahmed,ef18b66e,9,18,19,1,1,94.74,"[2, 5, 15, 20]",4.0,24,9,0,38,2,2,3,0,0,0,1,9.5,1,0,0,0,0,28,88,8,124
-Sylhet Sixers,S Lamichhane,b410bd3d,10,1,4,0,0,25.0,"[8, 11, 14, 16]",4.0,24,8,0,33,2,2,0,0,0,0,0,8.25,0,0,0,0,0,1,8,0,9
-Sylhet Sixers,Al-Amin Hossain,3f5f39cd,11,1,2,0,0,50.0,"[4, 13, 18]",3.0,18,7,0,26,3,1,1,0,0,0,1,8.67,0,0,0,0,0,1,32,0,33
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Dhaka Dynamites,Hazratullah,5ea51c25,1,4,4,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,27,True,False,False,Slow left-arm orthodox,Left-hand bat
+Dhaka Dynamites,SP Narine,9d430b40,2,25,21,2,2,119.05,"[4, 11, 13]",3.0,18,10,0,13,0,1,1,0,0,0,0,4.33,0,0,0,0,0,49,41,0,90,36,True,False,True,Right-arm offbreak,Left-hand bat
+Dhaka Dynamites,Rony Talukdar,8bd614b2,3,58,34,5,3,170.59,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,110,0,8,118,34,True,False,False,Right-arm slow-medium,Right-hand bat
+Dhaka Dynamites,Shakib Al Hasan,7dc35884,4,23,17,3,0,135.29,"[1, 3, 5, 17]",4.0,24,13,0,34,1,4,2,0,0,0,1,8.5,0,0,0,0,2,37,63,0,100,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Dhaka Dynamites,KA Pollard,a757b0d8,5,3,7,0,0,42.86,[20],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,2,0,0,0,0,3,2,16,21,37,True,False,True,Right-arm medium,Right-hand bat
+Dhaka Dynamites,AD Russell,bbd41817,6,5,4,1,0,125.0,"[6, 8]",2.0,12,7,0,21,1,2,0,0,0,0,3,10.5,1,0,0,0,0,9,5,8,22,36,True,False,True,Right-arm fast,Right-hand bat
+Dhaka Dynamites,Nurul Hasan,d365d463,7,18,10,0,1,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,30,0,8,38,31,True,False,False,,Right-hand bat
+Dhaka Dynamites,Shuvagata Hom,bb01f9e0,8,0,1,0,0,0.0,"[2, 15, 19]",3.0,18,6,0,28,0,3,2,1,0,0,0,9.33,1,0,0,0,0,-2,64,8,70,38,True,False,True,Right-arm offbreak,Right-hand bat
+Dhaka Dynamites,Mohammad Naim,7923a51d,9,25,22,1,1,113.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,39,0,0,39,25,True,False,False,,Left-hand bat
+Dhaka Dynamites,Rubel Hossain,f56cd097,11,0,0,0,0,0.0,"[7, 9, 18]",3.0,18,7,0,22,0,2,3,0,1,0,1,7.33,1,0,0,0,0,0,94,8,102,35,True,False,False,Right-arm fast,Right-hand bat
+Dhaka Dynamites,Al Islam,45d38a84,12,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,14,0,14,1,0,1,0,0,0,0,3.5,0,0,0,0,0,0,45,0,45,28,True,False,False,Right-arm offbreak,Right-hand bat
+Sylhet Sixers,DA Warner,dcce6f09,1,7,3,0,1,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,38,True,False,False,Legbreak,Left-hand bat
+Sylhet Sixers,Liton Das,0404d43c,2,9,9,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,15,0,16,31,30,True,True,False,Right-arm offbreak,Right-hand bat
+Sylhet Sixers,Afif Hossain,37138918,3,4,4,0,0,100.0,"[10, 12]",2.0,12,3,0,25,3,1,1,0,0,0,0,12.5,2,0,0,0,0,4,22,16,42,25,True,False,True,Right-arm offbreak,Left-hand bat
+Sylhet Sixers,Nasir Hossain,6eea0b32,4,1,8,0,0,12.5,[6],1.0,6,3,0,11,1,1,0,0,0,0,0,11.0,0,0,0,0,0,1,3,0,4,33,True,False,True,Right-arm offbreak,Right-hand bat
+Sylhet Sixers,Sabbir Rahman,7147f314,5,12,10,2,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,33,True,False,True,Legbreak,Right-hand bat
+Sylhet Sixers,N Pooran,3241e3fd,6,72,47,1,9,153.19,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,142,0,8,150,29,True,True,False,Right-arm offbreak,Left-hand bat
+Sylhet Sixers,Alok Kapali,54279e23,7,2,3,0,0,66.67,"[7, 9]",2.0,12,2,0,13,0,0,1,0,0,0,1,6.5,1,0,0,0,0,2,29,8,39,41,True,False,True,Legbreak,Right-hand bat
+Sylhet Sixers,Sohail Tanvir,64d43928,8,7,11,0,0,63.64,"[1, 3, 17, 19]",4.0,24,14,0,21,2,0,1,0,0,1,2,5.25,0,0,0,0,-2,5,43,0,48,40,True,False,False,Left-arm medium-fast,Left-hand bat
+Sylhet Sixers,Taskin Ahmed,ef18b66e,9,18,19,1,1,94.74,"[2, 5, 15, 20]",4.0,24,9,0,38,2,2,3,0,0,0,1,9.5,1,0,0,0,0,28,88,8,124,29,True,False,False,Right-arm fast,Left-hand bat
+Sylhet Sixers,S Lamichhane,b410bd3d,10,1,4,0,0,25.0,"[8, 11, 14, 16]",4.0,24,8,0,33,2,2,0,0,0,0,0,8.25,0,0,0,0,0,1,8,0,9,24,True,False,False,Legbreak googly,Right-hand bat
+Sylhet Sixers,Al-Amin Hossain,3f5f39cd,11,1,2,0,0,50.0,"[4, 13, 18]",3.0,18,7,0,26,3,1,1,0,0,0,1,8.67,0,0,0,0,0,1,32,0,33,32,True,False,False,Right-arm medium-fast,Right-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Dolphins,AM Amla,dd8ba405,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Dolphins,CS Delport,afa78c3a,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Dolphins,C Chetty,27ca3a11,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Dolphins,VB van Jaarsveld,890b877d,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Dolphins,DA Miller,d67d5f00,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Dolphins,I Khan,719c5146,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Dolphins,D Smit,4bb02ef1,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Dolphins,R Frylinck,8b248d88,11,0,0,0,0,0.0,[6],1.0,6,5,0,3,0,0,1,0,0,0,2,3.0,1,0,0,0,0,0,30,8,38
-Dolphins,KJ Abbott,a9da7784,12,0,0,0,0,0.0,[5],1.0,6,4,0,3,0,0,0,0,0,0,0,3.0,0,0,0,0,0,0,4,0,4
-Dolphins,FH Edwards,a7c226e1,13,0,0,0,0,0.0,"[2, 4]",2.0,12,7,0,9,1,0,1,0,0,0,2,4.5,0,0,0,0,0,0,38,0,38
-Dolphins,P Subrayen,7ec9711d,14,0,0,0,0,0.0,"[1, 3]",2.0,12,9,0,7,1,0,0,0,0,0,0,3.5,0,0,0,0,0,0,15,0,15
-Lions,JD Vandiar,a833f99c,1,6,12,1,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,6,0,0,6
-Lions,GH Bodi,f390904d,2,10,19,1,0,52.63,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,10,0,0,10
-Lions,Q de Kock,372455c4,3,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Lions,ND McKenzie,a830c083,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Lions,J Symes,77841dcc,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Lions,CH Morris,fb66ce1f,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Lions,TL Tsolekile,3b94297b,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Lions,D Pretorius,11614d87,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Lions,AM Phangiso,7f8ecc51,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Lions,DP Nannes,c404f58a,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Lions,Sohail Tanvir,64d43928,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Dolphins,AM Amla,dd8ba405,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,45,True,True,False,Legbreak,Right-hand bat
+Dolphins,CS Delport,afa78c3a,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,35,True,False,False,Right-arm medium,Left-hand bat
+Dolphins,C Chetty,27ca3a11,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,33,True,False,False,Right-arm offbreak,Right-hand bat
+Dolphins,VB van Jaarsveld,890b877d,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,40,True,False,False,Right-arm medium,Left-hand bat
+Dolphins,DA Miller,d67d5f00,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,35,True,False,False,Right-arm offbreak,Left-hand bat
+Dolphins,I Khan,719c5146,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,40,True,False,False,Right-arm offbreak,Left-hand bat
+Dolphins,D Smit,4bb02ef1,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,41,True,True,False,Legbreak,Right-hand bat
+Dolphins,R Frylinck,8b248d88,11,0,0,0,0,0.0,[6],1.0,6,5,0,3,0,0,1,0,0,0,2,3.0,1,0,0,0,0,0,30,8,38,40,True,False,True,Right-arm medium,Right-hand bat
+Dolphins,KJ Abbott,a9da7784,12,0,0,0,0,0.0,[5],1.0,6,4,0,3,0,0,0,0,0,0,0,3.0,0,0,0,0,0,0,4,0,4,37,True,False,False,Right-arm fast-medium,Right-hand bat
+Dolphins,FH Edwards,a7c226e1,13,0,0,0,0,0.0,"[2, 4]",2.0,12,7,0,9,1,0,1,0,0,0,2,4.5,0,0,0,0,0,0,38,0,38,43,True,False,False,Right-arm fast,Right-hand bat
+Dolphins,P Subrayen,7ec9711d,14,0,0,0,0,0.0,"[1, 3]",2.0,12,9,0,7,1,0,0,0,0,0,0,3.5,0,0,0,0,0,0,15,0,15,31,True,False,True,Right-arm offbreak,Right-hand bat
+Lions,JD Vandiar,a833f99c,1,6,12,1,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,6,0,0,6,34,True,False,False,Legbreak,Left-hand bat
+Lions,GH Bodi,f390904d,2,10,19,1,0,52.63,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,10,0,0,10,46,True,False,False,Left-arm wrist-spin,Left-hand bat
+Lions,Q de Kock,372455c4,3,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,32,True,False,False,,Left-hand bat
+Lions,ND McKenzie,a830c083,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,49,True,False,False,Right-arm medium,Right-hand bat
+Lions,J Symes,77841dcc,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,38,True,True,False,Slow left-arm orthodox,Left-hand bat
+Lions,CH Morris,fb66ce1f,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,37,True,False,True,Right-arm fast-medium,Right-hand bat
+Lions,TL Tsolekile,3b94297b,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,44,True,True,False,Right-arm offbreak,Right-hand bat
+Lions,D Pretorius,11614d87,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,36,True,False,True,Right-arm medium-fast,Right-hand bat
+Lions,AM Phangiso,7f8ecc51,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,41,True,False,False,Slow left-arm orthodox,Right-hand bat
+Lions,DP Nannes,c404f58a,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,48,True,False,False,Left-arm fast,Right-hand bat
+Lions,Sohail Tanvir,64d43928,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,40,True,False,False,Left-arm medium-fast,Left-hand bat

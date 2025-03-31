@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Bhutan,Namgay Thinley,9c333e40,1,17,25,1,0,68.0,"[7, 9, 11, 16]",4.0,24,9,0,41,1,4,1,0,0,0,1,10.25,0,0,0,0,-2,19,32,0,51
-Bhutan,J Singye,28574428,2,14,25,0,0,56.0,"[8, 10]",2.0,12,3,0,21,2,1,0,0,0,0,0,10.5,0,0,0,0,-4,10,1,0,11
-Bhutan,T Jamtsho,c01d1c0a,3,0,1,0,0,0.0,"[12, 14, 20]",3.0,18,5,0,42,4,2,0,0,0,0,5,14.0,0,0,0,0,0,-2,-1,0,-3
-Bhutan,N Chejay,a9e63549,4,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Bhutan,GK Ghalley,2d1b6dee,5,11,19,1,0,57.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,11,0,0,11
-Bhutan,RM Dorji,3d7f02d4,6,0,13,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-8,0,0,-8
-Bhutan,S Pradhan,04f0d409,7,0,1,0,0,0.0,"[2, 18]",2.0,12,5,0,22,1,2,1,0,0,0,1,11.0,0,0,0,0,0,-2,28,0,26
-Bhutan,Manoj Adhikari,26529e00,8,9,29,0,0,31.03,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,-6,3,0,12,15
-Bhutan,T Wangchuk,39799e49,9,2,2,0,0,100.0,"[1, 3, 5]",3.0,18,9,0,25,4,0,0,0,0,0,0,8.33,1,0,0,0,0,2,9,8,19
-Bhutan,K Penjor,f2957511,10,0,0,0,0,0.0,"[4, 6]",2.0,12,6,0,19,2,1,0,0,0,0,1,9.5,1,0,0,0,0,0,6,8,14
-Bhutan,Ngawang Thinley,cc62ec8a,10,0,1,0,0,0.0,"[13, 15, 17, 19]",4.0,24,9,0,43,3,3,2,0,0,0,1,10.75,0,0,0,0,0,0,57,0,57
-Malaysia,Zubaidi Zulkifle,dca8273d,1,96,43,6,8,223.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,186,0,0,186
-Malaysia,Virandeep Singh,415d30b6,2,54,44,7,2,122.73,"[17, 19]",2.0,12,12,2,0,0,0,1,0,0,0,0,0.0,0,0,0,0,0,102,67,0,169
-Malaysia,Nazril Rahman,6d5bdc43,3,20,14,1,1,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,32,0,16,48
-Malaysia,Syed Aziz,6667067e,4,7,10,1,0,70.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,9,0,0,9
-Malaysia,M Syahadat Ramli,5efa8af3,5,18,5,1,2,360.0,"[18, 20]",2.0,12,6,0,7,0,0,0,0,0,0,0,3.5,0,0,0,2,0,34,12,12,58
-Malaysia,S Muniandy,57fcfd3b,6,9,4,1,0,225.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,13,0,6,19
-Malaysia,Ainool Hafizs,1bada9da,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,0,0,6,6
-Malaysia,Pavandeep Singh,78fcc740,11,0,0,0,0,0.0,"[1, 3, 5, 7]",4.0,24,16,0,13,0,0,1,0,0,0,0,3.25,1,0,0,0,0,0,47,8,55
-Malaysia,Muhammad Wafiq,f104c434,12,0,0,0,0,0.0,"[2, 4, 6, 8]",4.0,24,15,1,14,1,0,2,0,1,1,0,3.5,0,0,0,0,0,0,91,0,91
-Malaysia,Fitri Sham,d2ec068c,13,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,15,0,15,1,0,1,0,0,0,0,3.75,0,0,0,0,0,0,46,0,46
-Malaysia,Khizar Hayat,78bbeba1,14,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,20,1,6,0,0,1,1,0,0,1,1.5,1,0,0,0,0,0,71,8,79
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bhutan,Namgay Thinley,9c333e40,1,17,25,1,0,68.0,"[7, 9, 11, 16]",4.0,24,9,0,41,1,4,1,0,0,0,1,10.25,0,0,0,0,-2,19,32,0,51,21,True,True,False,Slow left-arm orthodox,Left-hand bat
+Bhutan,J Singye,28574428,2,14,25,0,0,56.0,"[8, 10]",2.0,12,3,0,21,2,1,0,0,0,0,0,10.5,0,0,0,0,-4,10,1,0,11,32,True,True,False,Legbreak,Right-hand bat
+Bhutan,T Jamtsho,c01d1c0a,3,0,1,0,0,0.0,"[12, 14, 20]",3.0,18,5,0,42,4,2,0,0,0,0,5,14.0,0,0,0,0,0,-2,-1,0,-3,33,True,True,False,Right-arm medium-fast,Right-hand bat
+Bhutan,N Chejay,a9e63549,4,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,23,True,False,False,,Right-hand bat
+Bhutan,GK Ghalley,2d1b6dee,5,11,19,1,0,57.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,11,0,0,11,24,True,False,False,,Right-hand bat
+Bhutan,RM Dorji,3d7f02d4,6,0,13,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-8,0,0,-8,25,True,True,False,Right-arm medium,Right-hand bat
+Bhutan,S Pradhan,04f0d409,7,0,1,0,0,0.0,"[2, 18]",2.0,12,5,0,22,1,2,1,0,0,0,1,11.0,0,0,0,0,0,-2,28,0,26,40,True,True,False,Right-arm medium-fast,Right-hand bat
+Bhutan,Manoj Adhikari,26529e00,8,9,29,0,0,31.03,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,-6,3,0,12,15,35,True,False,False,,Right-hand bat
+Bhutan,T Wangchuk,39799e49,9,2,2,0,0,100.0,"[1, 3, 5]",3.0,18,9,0,25,4,0,0,0,0,0,0,8.33,1,0,0,0,0,2,9,8,19,29,True,True,False,Right-arm medium,Right-hand bat
+Bhutan,K Penjor,f2957511,10,0,0,0,0,0.0,"[4, 6]",2.0,12,6,0,19,2,1,0,0,0,0,1,9.5,1,0,0,0,0,0,6,8,14,29,True,True,False,Right-arm medium,Right-hand bat
+Bhutan,Ngawang Thinley,cc62ec8a,10,0,1,0,0,0.0,"[13, 15, 17, 19]",4.0,24,9,0,43,3,3,2,0,0,0,1,10.75,0,0,0,0,0,0,57,0,57,24,True,True,False,Right-arm medium,Right-hand bat
+Malaysia,Zubaidi Zulkifle,dca8273d,1,96,43,6,8,223.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,186,0,0,186,25,True,False,False,Right-arm medium,Right-hand bat
+Malaysia,Virandeep Singh,415d30b6,2,54,44,7,2,122.73,"[17, 19]",2.0,12,12,2,0,0,0,1,0,0,0,0,0.0,0,0,0,0,0,102,67,0,169,26,True,False,True,Slow left-arm orthodox,Right-hand bat
+Malaysia,Nazril Rahman,6d5bdc43,3,20,14,1,1,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,32,0,16,48,32,True,True,False,Right-arm medium,Right-hand bat
+Malaysia,Syed Aziz,6667067e,4,7,10,1,0,70.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,9,0,0,9,26,True,False,True,Right-arm medium,Left-hand bat
+Malaysia,M Syahadat Ramli,5efa8af3,5,18,5,1,2,360.0,"[18, 20]",2.0,12,6,0,7,0,0,0,0,0,0,0,3.5,0,0,0,2,0,34,12,12,58,31,True,True,False,Right-arm offbreak,Right-hand bat
+Malaysia,S Muniandy,57fcfd3b,6,9,4,1,0,225.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,13,0,6,19,29,True,False,False,Right-arm medium,Right-hand bat
+Malaysia,Ainool Hafizs,1bada9da,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,0,0,6,6,29,True,False,False,Right-arm medium,Right-hand bat
+Malaysia,Pavandeep Singh,78fcc740,11,0,0,0,0,0.0,"[1, 3, 5, 7]",4.0,24,16,0,13,0,0,1,0,0,0,0,3.25,1,0,0,0,0,0,47,8,55,27,True,False,False,Slow left-arm orthodox,Right-hand bat
+Malaysia,Muhammad Wafiq,f104c434,12,0,0,0,0,0.0,"[2, 4, 6, 8]",4.0,24,15,1,14,1,0,2,0,1,1,0,3.5,0,0,0,0,0,0,91,0,91,28,True,True,False,Left-arm medium-fast,Left-hand bat
+Malaysia,Fitri Sham,d2ec068c,13,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,15,0,15,1,0,1,0,0,0,0,3.75,0,0,0,0,0,0,46,0,46,31,True,True,False,Slow left-arm orthodox,Left-hand bat
+Malaysia,Khizar Hayat,78bbeba1,14,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,20,1,6,0,0,1,1,0,0,1,1.5,1,0,0,0,0,0,71,8,79,35,True,False,False,Right-arm offbreak,Right-hand bat

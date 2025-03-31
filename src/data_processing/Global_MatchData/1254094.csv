@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Chennai Super Kings,RD Gaikwad,45a43fe2,1,12,14,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
-Chennai Super Kings,F du Plessis,3355b542,2,76,55,8,2,138.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,134,0,8,142
-Chennai Super Kings,MM Ali,bb351c23,3,0,6,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Chennai Super Kings,RV Uthappa,1c17e270,4,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Chennai Super Kings,AT Rayudu,70d205c9,5,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
-Chennai Super Kings,MS Dhoni,4a8a2e3b,6,12,15,2,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,20,0,8,28
-Chennai Super Kings,DL Chahar,23eeb873,6,0,0,0,0,0.0,"[1, 3, 9, 11]",4.0,24,5,0,48,3,3,1,0,0,0,3,12.0,0,0,0,0,0,0,26,0,26
-Chennai Super Kings,RA Jadeja,fe93fd9d,7,15,17,1,0,88.24,[8],1.0,6,2,0,9,0,1,0,0,0,0,0,9.0,0,0,0,0,0,19,2,0,21
-Chennai Super Kings,SN Thakur,1abb78f8,7,0,0,0,0,0.0,"[5, 7, 13]",3.0,18,10,0,28,3,2,3,1,0,0,0,9.33,0,0,0,0,0,0,97,0,97
-Chennai Super Kings,JR Hazlewood,03806cf8,8,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,10,0,22,3,1,0,0,0,0,0,7.33,0,0,0,0,0,0,10,0,10
-Chennai Super Kings,DJ Bravo,87e562a9,8,4,2,1,0,200.0,"[10, 12]",2.0,12,0,0,32,0,3,0,0,0,0,2,16.0,1,0,0,0,0,8,-6,8,10
-Punjab Kings,KL Rahul,b17e2f24,1,98,42,7,8,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,192,0,16,208
-Punjab Kings,MA Agarwal,00ea847a,2,12,12,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
-Punjab Kings,SN Khan,f088b960,3,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Punjab Kings,M Shahrukh Khan,7dcb9bc9,4,8,10,0,1,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,14,0,8,22
-Punjab Kings,AK Markram,6a26221c,5,13,8,0,1,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
-Punjab Kings,CJ Jordan,ffe699c0,6,0,0,0,0,0.0,"[7, 9, 18]",3.0,18,6,0,20,2,0,2,0,0,0,1,6.67,0,0,0,0,0,0,58,0,58
-Punjab Kings,MC Henriques,32198ae0,6,3,3,0,0,100.0,[14],1.0,6,1,0,9,1,0,0,0,0,0,1,9.0,0,0,0,0,0,3,1,0,4
-Punjab Kings,Harpreet Brar,c05edf8e,7,0,0,0,0,0.0,"[2, 11, 13, 15]",4.0,24,12,0,22,2,0,0,0,0,0,3,5.5,1,0,0,0,0,0,16,8,24
-Punjab Kings,Ravi Bishnoi,df064e1a,8,0,0,0,0,0.0,"[8, 10, 12, 16]",4.0,24,10,0,25,3,0,1,0,1,0,1,6.25,0,0,0,0,0,0,45,0,45
-Punjab Kings,Mohammed Shami,8cf9814c,9,0,0,0,0,0.0,"[1, 3, 5, 20]",4.0,24,14,0,22,2,1,1,0,0,0,1,5.5,0,0,0,0,0,0,43,0,43
-Punjab Kings,Arshdeep Singh,244048f6,10,0,0,0,0,0.0,"[4, 6, 17, 19]",4.0,24,5,0,35,3,1,2,0,0,0,1,8.75,1,0,0,0,0,0,55,8,63
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Chennai Super Kings,RD Gaikwad,45a43fe2,1,12,14,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,28,True,False,False,Right-arm offbreak,Right-hand bat
+Chennai Super Kings,F du Plessis,3355b542,2,76,55,8,2,138.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,134,0,8,142,40,True,False,False,Legbreak,Right-hand bat
+Chennai Super Kings,MM Ali,bb351c23,3,0,6,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,37,True,False,True,Right-arm offbreak,Left-hand bat
+Chennai Super Kings,RV Uthappa,1c17e270,4,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,39,True,False,False,Right-arm medium,Right-hand bat
+Chennai Super Kings,AT Rayudu,70d205c9,5,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,39,True,False,False,Right-arm offbreak,Right-hand bat
+Chennai Super Kings,MS Dhoni,4a8a2e3b,6,12,15,2,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,20,0,8,28,43,True,True,False,Right-arm medium,Right-hand bat
+Chennai Super Kings,DL Chahar,23eeb873,6,0,0,0,0,0.0,"[1, 3, 9, 11]",4.0,24,5,0,48,3,3,1,0,0,0,3,12.0,0,0,0,0,0,0,26,0,26,32,True,False,False,Right-arm medium,Right-hand bat
+Chennai Super Kings,RA Jadeja,fe93fd9d,7,15,17,1,0,88.24,[8],1.0,6,2,0,9,0,1,0,0,0,0,0,9.0,0,0,0,0,0,19,2,0,21,36,True,False,True,Slow left-arm orthodox,Left-hand bat
+Chennai Super Kings,SN Thakur,1abb78f8,7,0,0,0,0,0.0,"[5, 7, 13]",3.0,18,10,0,28,3,2,3,1,0,0,0,9.33,0,0,0,0,0,0,97,0,97,33,True,False,False,Right-arm medium,Right-hand bat
+Chennai Super Kings,JR Hazlewood,03806cf8,8,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,10,0,22,3,1,0,0,0,0,0,7.33,0,0,0,0,0,0,10,0,10,34,True,False,False,Right-arm fast-medium,Left-hand bat
+Chennai Super Kings,DJ Bravo,87e562a9,8,4,2,1,0,200.0,"[10, 12]",2.0,12,0,0,32,0,3,0,0,0,0,2,16.0,1,0,0,0,0,8,-6,8,10,41,True,False,True,Right-arm medium,Right-hand bat
+Punjab Kings,KL Rahul,b17e2f24,1,98,42,7,8,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,192,0,16,208,32,True,False,False,,Right-hand bat
+Punjab Kings,MA Agarwal,00ea847a,2,12,12,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,34,True,False,False,Right-arm offbreak,Right-hand bat
+Punjab Kings,SN Khan,f088b960,3,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,27,True,False,False,Legbreak,Right-hand bat
+Punjab Kings,M Shahrukh Khan,7dcb9bc9,4,8,10,0,1,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,14,0,8,22,29,True,False,False,Right-arm offbreak,Right-hand bat
+Punjab Kings,AK Markram,6a26221c,5,13,8,0,1,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,30,True,False,True,Right-arm offbreak,Right-hand bat
+Punjab Kings,CJ Jordan,ffe699c0,6,0,0,0,0,0.0,"[7, 9, 18]",3.0,18,6,0,20,2,0,2,0,0,0,1,6.67,0,0,0,0,0,0,58,0,58,36,True,False,False,Right-arm fast-medium,Right-hand bat
+Punjab Kings,MC Henriques,32198ae0,6,3,3,0,0,100.0,[14],1.0,6,1,0,9,1,0,0,0,0,0,1,9.0,0,0,0,0,0,3,1,0,4,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Punjab Kings,Harpreet Brar,c05edf8e,7,0,0,0,0,0.0,"[2, 11, 13, 15]",4.0,24,12,0,22,2,0,0,0,0,0,3,5.5,1,0,0,0,0,0,16,8,24,29,True,False,False,Slow left-arm orthodox,Left-hand bat
+Punjab Kings,Ravi Bishnoi,df064e1a,8,0,0,0,0,0.0,"[8, 10, 12, 16]",4.0,24,10,0,25,3,0,1,0,1,0,1,6.25,0,0,0,0,0,0,45,0,45,24,True,False,False,Legbreak googly,Right-hand bat
+Punjab Kings,Mohammed Shami,8cf9814c,9,0,0,0,0,0.0,"[1, 3, 5, 20]",4.0,24,14,0,22,2,1,1,0,0,0,1,5.5,0,0,0,0,0,0,43,0,43,34,True,False,False,Right-arm fast,Right-hand bat
+Punjab Kings,Arshdeep Singh,244048f6,10,0,0,0,0,0.0,"[4, 6, 17, 19]",4.0,24,5,0,35,3,1,2,0,0,0,1,8.75,1,0,0,0,0,0,55,8,63,26,True,False,False,Left-arm medium-fast,Left-hand bat

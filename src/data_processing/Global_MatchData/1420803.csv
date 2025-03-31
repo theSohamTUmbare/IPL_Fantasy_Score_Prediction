@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Saudi Arabia,Faisal Khan,a7553f15,1,8,4,2,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
-Saudi Arabia,Kashif Siddique,2513b4fe,2,26,16,6,0,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,58,0,0,58
-Saudi Arabia,Abdul Waheed,23fa9ea9,3,58,38,9,1,152.63,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,112,0,0,112
-Saudi Arabia,Waji Ul Hassan,6892f9c3,4,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Saudi Arabia,Usman Khalid,314f0889,5,2,3,0,0,66.67,"[13, 16]",2.0,12,5,0,13,0,1,2,0,0,0,0,6.5,0,0,0,0,0,2,57,0,59
-Saudi Arabia,Manan Ali,d0b643e1,6,2,9,0,0,22.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Saudi Arabia,Ishtiaq Ahmad,056b433b,7,0,0,0,0,0.0,"[3, 5, 17]",3.0,18,12,0,11,1,0,1,1,0,1,1,3.67,0,0,2,0,0,0,51,24,75
-Saudi Arabia,Hisham Sheikh,c4441675,7,14,25,0,0,56.0,"[7, 9, 11]",3.0,18,7,0,19,1,0,0,0,0,0,5,6.33,1,0,0,0,-4,10,9,8,27
-Saudi Arabia,Atif-Ur-Rehman,d20e22f7,8,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,17,0,12,1,0,0,0,0,0,0,3.0,2,0,0,0,0,0,23,16,39
-Saudi Arabia,Usman Najeeb,615688b6,9,0,0,0,0,0.0,"[6, 8, 15, 19]",4.0,24,9,0,37,6,1,1,0,1,0,1,9.25,0,0,0,0,0,0,42,0,42
-Saudi Arabia,Zain Ul Abidin,b93b87ae,10,0,0,0,0,0.0,"[1, 10, 12, 14]",4.0,24,16,0,16,1,1,1,0,0,0,0,4.0,0,0,0,0,0,0,47,0,47
-Thailand,AP Yadav,a5501504,1,2,9,0,0,22.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Thailand,C Chatphaisan,85c56be8,2,3,9,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11
-Thailand,S Desungnoen,3eb26dc4,3,6,19,0,0,31.58,"[13, 15]",2.0,12,3,0,9,0,0,0,0,0,0,0,4.5,0,0,0,0,-6,0,9,0,9
-Thailand,AV Lazarus,30c917bf,4,51,38,6,3,134.21,[17],0.167,1,0,0,4,1,0,0,0,0,0,0,23.95,0,0,0,0,2,103,0,0,103
-Thailand,N Nuntarach,9e3575ce,5,20,26,2,0,76.92,[5],1.0,6,0,0,14,3,0,0,0,0,0,0,14.0,0,0,0,0,0,28,0,0,28
-Thailand,C Pengkumta,b3540b2a,6,3,3,0,0,100.0,"[1, 3]",2.0,12,5,0,24,5,0,1,0,0,0,2,12.0,0,0,0,0,0,3,26,0,29
-Thailand,Robert Raina,8e38d470,7,6,3,1,0,200.0,[2],1.0,6,3,0,8,1,0,0,0,0,0,2,8.0,2,0,0,0,0,10,3,16,29
-Thailand,K Namchaikul,f4ccbe6f,7,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,9,0,15,2,0,2,1,1,0,0,5.0,0,0,0,0,0,0,79,0,79
-Thailand,Y Saranonnakkun,9c93c0a3,8,8,11,1,0,72.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
-Thailand,Sarawut Maliwan,36a0a88c,8,0,0,0,0,0.0,"[4, 12, 14]",3.0,18,7,0,25,3,1,0,0,0,0,0,8.33,0,0,0,0,0,0,7,0,7
-Thailand,N Senamontree,44e00a4c,9,1,2,0,0,50.0,"[6, 8, 10, 16]",4.0,24,16,0,15,2,0,2,0,0,0,0,3.75,0,0,0,0,0,1,72,0,73
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Saudi Arabia,Faisal Khan,a7553f15,1,8,4,2,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,28,True,True,False,Right-arm medium,Right-hand bat
+Saudi Arabia,Kashif Siddique,2513b4fe,2,26,16,6,0,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,58,0,0,58,35,True,False,False,,Left-hand bat
+Saudi Arabia,Abdul Waheed,23fa9ea9,3,58,38,9,1,152.63,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,112,0,0,112,31,True,True,False,Legbreak,Right-hand bat
+Saudi Arabia,Waji Ul Hassan,6892f9c3,4,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,30,True,False,False,,Right-hand bat
+Saudi Arabia,Usman Khalid,314f0889,5,2,3,0,0,66.67,"[13, 16]",2.0,12,5,0,13,0,1,2,0,0,0,0,6.5,0,0,0,0,0,2,57,0,59,41,True,False,False,,Left-hand bat
+Saudi Arabia,Manan Ali,d0b643e1,6,2,9,0,0,22.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,27,True,True,False,Right-arm offbreak,Right-hand bat
+Saudi Arabia,Ishtiaq Ahmad,056b433b,7,0,0,0,0,0.0,"[3, 5, 17]",3.0,18,12,0,11,1,0,1,1,0,1,1,3.67,0,0,2,0,0,0,51,24,75,31,True,True,False,Right-arm medium-fast,Right-hand bat
+Saudi Arabia,Hisham Sheikh,c4441675,7,14,25,0,0,56.0,"[7, 9, 11]",3.0,18,7,0,19,1,0,0,0,0,0,5,6.33,1,0,0,0,-4,10,9,8,27,28,True,True,False,Right-arm offbreak,Right-hand bat
+Saudi Arabia,Atif-Ur-Rehman,d20e22f7,8,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,17,0,12,1,0,0,0,0,0,0,3.0,2,0,0,0,0,0,23,16,39,43,True,True,False,Right-arm medium,Right-hand bat
+Saudi Arabia,Usman Najeeb,615688b6,9,0,0,0,0,0.0,"[6, 8, 15, 19]",4.0,24,9,0,37,6,1,1,0,1,0,1,9.25,0,0,0,0,0,0,42,0,42,29,True,True,False,Right-arm medium,Right-hand bat
+Saudi Arabia,Zain Ul Abidin,b93b87ae,10,0,0,0,0,0.0,"[1, 10, 12, 14]",4.0,24,16,0,16,1,1,1,0,0,0,0,4.0,0,0,0,0,0,0,47,0,47,32,True,True,False,Slow left-arm orthodox,Left-hand bat
+Thailand,AP Yadav,a5501504,1,2,9,0,0,22.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,26,True,True,False,Right-arm offbreak,Right-hand bat
+Thailand,C Chatphaisan,85c56be8,2,3,9,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11,20,True,True,False,Right-arm medium,Right-hand bat
+Thailand,S Desungnoen,3eb26dc4,3,6,19,0,0,31.58,"[13, 15]",2.0,12,3,0,9,0,0,0,0,0,0,0,4.5,0,0,0,0,-6,0,9,0,9,22,True,True,False,Right-arm offbreak,Right-hand bat
+Thailand,AV Lazarus,30c917bf,4,51,38,6,3,134.21,[17],0.167,1,0,0,4,1,0,0,0,0,0,0,23.95,0,0,0,0,2,103,0,0,103,33,True,False,False,,
+Thailand,N Nuntarach,9e3575ce,5,20,26,2,0,76.92,[5],1.0,6,0,0,14,3,0,0,0,0,0,0,14.0,0,0,0,0,0,28,0,0,28,22,True,True,False,Right-arm medium,Right-hand bat
+Thailand,C Pengkumta,b3540b2a,6,3,3,0,0,100.0,"[1, 3]",2.0,12,5,0,24,5,0,1,0,0,0,2,12.0,0,0,0,0,0,3,26,0,29,27,True,False,True,Right-arm medium,Right-hand bat
+Thailand,Robert Raina,8e38d470,7,6,3,1,0,200.0,[2],1.0,6,3,0,8,1,0,0,0,0,0,2,8.0,2,0,0,0,0,10,3,16,29,40,True,True,False,Right-arm medium,Left-hand bat
+Thailand,K Namchaikul,f4ccbe6f,7,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,9,0,15,2,0,2,1,1,0,0,5.0,0,0,0,0,0,0,79,0,79,18,True,True,False,Legbreak,Right-hand bat
+Thailand,Y Saranonnakkun,9c93c0a3,8,8,11,1,0,72.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,21,True,False,False,,Right-hand bat
+Thailand,Sarawut Maliwan,36a0a88c,8,0,0,0,0,0.0,"[4, 12, 14]",3.0,18,7,0,25,3,1,0,0,0,0,0,8.33,0,0,0,0,0,0,7,0,7,23,True,True,False,Slow left-arm orthodox,Right-hand bat
+Thailand,N Senamontree,44e00a4c,9,1,2,0,0,50.0,"[6, 8, 10, 16]",4.0,24,16,0,15,2,0,2,0,0,0,0,3.75,0,0,0,0,0,1,72,0,73,33,True,True,False,Slow left-arm orthodox,Right-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Finland,NG Collins,be3bdc15,1,64,45,6,1,142.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,104,0,8,112
-Finland,PF Gallagher,8e9d3dc4,2,16,16,2,1,100.0,"[8, 10, 12, 14]",4.0,24,5,0,24,1,0,0,0,0,0,0,6.0,0,0,1,0,0,30,7,12,49
-Finland,A Pusthay,0393fbdc,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Finland,AK Mohan,d55474ac,4,24,21,3,1,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,42,0,0,42
-Finland,VS Padhaal,c4fb0b39,5,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Finland,Amjad Sher,3b4a8cfb,6,3,3,0,0,100.0,"[1, 3, 5, 7]",4.0,24,16,1,12,1,0,2,0,0,0,1,3.0,0,0,0,0,0,3,84,0,87
-Finland,JOP Scamans,4e56e796,7,13,12,1,0,108.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,1,0,0,17,0,28,45
-Finland,MB Tambe,1c1bb0d5,8,6,6,0,0,100.0,"[15, 17, 19]",3.0,18,5,0,19,1,0,0,0,0,0,1,6.33,1,0,0,0,0,6,7,8,21
-Finland,Naveed Shahid,9e51462f,8,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,7,0,27,4,0,1,0,0,0,1,9.0,0,0,0,0,0,0,32,0,32
-Finland,H Dandapani,9960a421,9,0,0,0,0,0.0,"[11, 13, 16]",3.0,18,2,0,31,1,1,1,0,0,0,3,10.33,0,0,0,0,0,0,25,0,25
-Finland,Raaz Mohammad,f83b77f9,10,0,0,0,0,0.0,"[9, 18]",2.0,12,3,0,19,1,0,0,0,0,0,4,9.5,0,0,0,0,0,0,3,0,3
-Sweden,Khalid Zahid,5c93efb1,1,1,2,0,0,50.0,"[2, 4, 18]",2.833,17,7,0,21,1,0,0,0,0,0,4,7.41,1,0,0,0,0,1,7,8,16
-Sweden,Rahel Khan,c443b748,2,11,12,2,0,91.67,"[7, 9]",2.0,12,6,0,16,1,1,1,0,0,0,0,8.0,1,0,0,0,0,19,31,8,58
-Sweden,A Venkatesh,06b45b20,3,54,41,5,0,131.71,"[12, 14, 17]",3.0,18,8,0,13,0,0,3,0,1,0,0,4.33,0,0,0,0,2,84,101,0,185
-Sweden,W Boshoff,cad11a02,4,2,11,0,0,18.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-4,0,0,-4
-Sweden,R Gowthaman,bfd93f9b,5,29,29,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,37,0,0,37
-Sweden,Dipanjan Dey,fa180043,6,15,9,0,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
-Sweden,Hassan Mehmood,0331c99a,7,5,7,0,0,71.43,"[6, 10, 16]",3.0,18,6,0,32,4,1,1,0,0,0,1,10.67,0,0,0,0,0,5,29,0,34
-Sweden,Qudratullah Mir Afzail,bd021695,8,5,3,1,0,166.67,[3],1.0,6,4,0,8,2,0,0,0,0,0,0,8.0,1,0,0,0,0,9,4,8,21
-Sweden,O Gholami,c0fca5eb,8,0,0,0,0,0.0,[8],1.0,6,3,0,10,2,0,0,0,0,0,1,10.0,0,0,0,0,0,0,3,0,3
-Sweden,L Karlsson,90a41671,9,0,0,0,0,0.0,"[5, 11, 13, 15]",4.0,24,8,0,26,1,1,1,0,0,0,0,6.5,0,0,0,0,0,0,35,0,35
-Sweden,Lemar Momand,249fe400,10,0,0,0,0,0.0,[1],1.0,6,2,0,8,1,0,0,0,0,0,2,8.0,2,0,0,0,0,0,2,16,18
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Finland,NG Collins,be3bdc15,1,64,45,6,1,142.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,104,0,8,112,30,True,True,False,Right-arm offbreak,Right-hand bat
+Finland,PF Gallagher,8e9d3dc4,2,16,16,2,1,100.0,"[8, 10, 12, 14]",4.0,24,5,0,24,1,0,0,0,0,0,0,6.0,0,0,1,0,0,30,7,12,49,40,True,True,False,Right-arm offbreak,Right-hand bat
+Finland,A Pusthay,0393fbdc,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,36,True,True,False,Right-arm medium,Right-hand bat
+Finland,AK Mohan,d55474ac,4,24,21,3,1,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,42,0,0,42,38,True,True,False,Right-arm offbreak,Right-hand bat
+Finland,VS Padhaal,c4fb0b39,5,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,46,True,True,False,Right-arm offbreak,Right-hand bat
+Finland,Amjad Sher,3b4a8cfb,6,3,3,0,0,100.0,"[1, 3, 5, 7]",4.0,24,16,1,12,1,0,2,0,0,0,1,3.0,0,0,0,0,0,3,84,0,87,38,True,True,False,Right-arm medium,Right-hand bat
+Finland,JOP Scamans,4e56e796,7,13,12,1,0,108.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,1,0,0,17,0,28,45,35,True,False,False,,Right-hand bat
+Finland,MB Tambe,1c1bb0d5,8,6,6,0,0,100.0,"[15, 17, 19]",3.0,18,5,0,19,1,0,0,0,0,0,1,6.33,1,0,0,0,0,6,7,8,21,39,True,True,False,Right-arm medium,Right-hand bat
+Finland,Naveed Shahid,9e51462f,8,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,7,0,27,4,0,1,0,0,0,1,9.0,0,0,0,0,0,0,32,0,32,33,True,True,False,Left-arm medium,Right-hand bat
+Finland,H Dandapani,9960a421,9,0,0,0,0,0.0,"[11, 13, 16]",3.0,18,2,0,31,1,1,1,0,0,0,3,10.33,0,0,0,0,0,0,25,0,25,37,True,True,False,Right-arm offbreak,Right-hand bat
+Finland,Raaz Mohammad,f83b77f9,10,0,0,0,0,0.0,"[9, 18]",2.0,12,3,0,19,1,0,0,0,0,0,4,9.5,0,0,0,0,0,0,3,0,3,33,True,True,False,Right-arm medium,Right-hand bat
+Sweden,Khalid Zahid,5c93efb1,1,1,2,0,0,50.0,"[2, 4, 18]",2.833,17,7,0,21,1,0,0,0,0,0,4,7.41,1,0,0,0,0,1,7,8,16,,,,,,
+Sweden,Rahel Khan,c443b748,2,11,12,2,0,91.67,"[7, 9]",2.0,12,6,0,16,1,1,1,0,0,0,0,8.0,1,0,0,0,0,19,31,8,58,38,True,False,False,,
+Sweden,A Venkatesh,06b45b20,3,54,41,5,0,131.71,"[12, 14, 17]",3.0,18,8,0,13,0,0,3,0,1,0,0,4.33,0,0,0,0,2,84,101,0,185,35,True,True,False,Right-arm medium,Right-hand bat
+Sweden,W Boshoff,cad11a02,4,2,11,0,0,18.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-4,0,0,-4,35,True,False,False,,Right-hand bat
+Sweden,R Gowthaman,bfd93f9b,5,29,29,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,37,0,0,37,29,True,False,False,Right-arm offbreak,Right-hand bat
+Sweden,Dipanjan Dey,fa180043,6,15,9,0,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21,33,True,True,False,Right-arm medium-fast,Right-hand bat
+Sweden,Hassan Mehmood,0331c99a,7,5,7,0,0,71.43,"[6, 10, 16]",3.0,18,6,0,32,4,1,1,0,0,0,1,10.67,0,0,0,0,0,5,29,0,34,31,True,False,False,Right-arm medium-fast,Right-hand bat
+Sweden,Qudratullah Mir Afzail,bd021695,8,5,3,1,0,166.67,[3],1.0,6,4,0,8,2,0,0,0,0,0,0,8.0,1,0,0,0,0,9,4,8,21,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Sweden,O Gholami,c0fca5eb,8,0,0,0,0,0.0,[8],1.0,6,3,0,10,2,0,0,0,0,0,1,10.0,0,0,0,0,0,0,3,0,3,29,True,True,False,Slow left-arm orthodox,Right-hand bat
+Sweden,L Karlsson,90a41671,9,0,0,0,0,0.0,"[5, 11, 13, 15]",4.0,24,8,0,26,1,1,1,0,0,0,0,6.5,0,0,0,0,0,0,35,0,35,28,True,True,False,Right-arm medium-fast,Right-hand bat
+Sweden,Lemar Momand,249fe400,10,0,0,0,0,0.0,[1],1.0,6,2,0,8,1,0,0,0,0,0,2,8.0,2,0,0,0,0,0,2,16,18,24,True,True,False,Left-arm medium-fast,Right-hand bat

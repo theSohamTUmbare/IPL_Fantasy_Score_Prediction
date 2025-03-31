@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Antigua Hawksbills,J Charles,09a9d073,1,44,37,5,1,118.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,74,0,0,74
-Antigua Hawksbills,DC Thomas,08a4f9ad,2,2,13,0,0,15.38,[19],1.0,6,1,0,15,0,2,1,0,0,0,0,15.0,4,0,0,0,-6,-4,26,36,58
-Antigua Hawksbills,RT Ponting,7d415ea5,3,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Antigua Hawksbills,MN Samuels,f846de6a,4,23,31,2,0,74.19,"[7, 9, 11, 17]",4.0,24,12,0,17,1,0,2,0,0,0,0,4.25,1,0,0,0,0,31,68,8,107
-Antigua Hawksbills,BJ Rohrer,27af6414,5,23,17,1,1,135.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,35,0,0,35
-Antigua Hawksbills,JM Kemp,6581d753,6,6,9,0,0,66.67,[13],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,6,1,0,7
-Antigua Hawksbills,KOA Powell,e012ad13,7,10,5,2,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
-Antigua Hawksbills,D Mohammed,77079be1,8,2,2,0,0,100.0,"[8, 10, 12, 14]",4.0,24,9,0,24,1,1,1,0,0,0,0,6.0,0,0,0,0,0,2,36,0,38
-Antigua Hawksbills,KAJ Roach,78eb4223,9,12,3,0,2,400.0,"[1, 3, 15]",3.0,18,9,0,21,2,1,1,0,0,0,2,7.0,1,0,0,0,0,24,36,8,68
-Antigua Hawksbills,GC Tonge,7d21eb9b,10,1,1,0,0,100.0,"[2, 4, 6]",3.0,18,10,0,22,1,2,0,0,0,0,1,7.33,1,0,0,0,0,1,10,8,19
-Antigua Hawksbills,SS Cottrell,a1d053dd,10,0,0,0,0,0.0,"[5, 16, 18, 20]",4.0,24,11,0,36,2,2,2,0,0,3,3,9.0,0,0,0,0,0,0,61,0,61
-Barbados Tridents,DR Smith,35205dfc,1,8,10,1,0,80.0,"[9, 11, 13, 15]",4.0,24,9,0,25,3,0,1,0,1,0,0,6.25,0,0,0,0,0,12,44,0,56
-Barbados Tridents,JL Carter,0a9d8b61,2,31,29,3,2,106.9,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,59,0,0,59
-Barbados Tridents,Shoaib Malik,64c34cd0,3,33,30,2,1,110.0,[17],1.0,6,1,0,4,0,0,0,0,0,0,0,4.0,0,0,0,0,0,51,1,0,52
-Barbados Tridents,Shakib Al Hasan,7dc35884,4,1,6,0,0,16.67,"[2, 4, 6, 14]",4.0,24,12,1,16,0,1,1,0,0,0,0,4.0,0,0,0,0,0,1,55,0,56
-Barbados Tridents,Umar Akmal,fd2bf2a0,5,30,21,1,2,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,2,0,0,2,52,0,24,76
-Barbados Tridents,KA Pollard,a757b0d8,6,18,16,0,2,112.5,"[8, 10, 12]",3.0,18,6,0,17,1,0,0,0,0,0,2,5.67,3,0,0,0,0,30,10,28,68
-Barbados Tridents,KR Mayers,73c18486,7,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
-Barbados Tridents,AR Nurse,4a745f65,8,2,3,0,0,66.67,"[16, 18, 20]",3.0,18,9,0,28,0,3,4,0,0,0,2,9.33,1,0,0,0,0,2,117,8,127
-Barbados Tridents,RR Emrit,e7de4f6b,9,4,2,1,0,200.0,"[5, 7, 19]",3.0,18,8,0,25,4,0,2,0,0,0,1,8.33,0,0,0,0,0,8,58,0,66
-Barbados Tridents,ST Gabriel,d9609443,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Barbados Tridents,JO Holder,0f721006,10,6,1,0,1,600.0,"[1, 3]",2.0,12,6,0,15,2,0,0,0,0,0,1,7.5,0,0,0,0,0,12,6,0,18
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Antigua Hawksbills,J Charles,09a9d073,1,44,37,5,1,118.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,74,0,0,74,36,True,False,False,,Right-hand bat
+Antigua Hawksbills,DC Thomas,08a4f9ad,2,2,13,0,0,15.38,[19],1.0,6,1,0,15,0,2,1,0,0,0,0,15.0,4,0,0,0,-6,-4,26,36,58,35,True,False,False,Right-arm medium,Right-hand bat
+Antigua Hawksbills,RT Ponting,7d415ea5,3,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,50,True,False,False,Right-arm medium,Right-hand bat
+Antigua Hawksbills,MN Samuels,f846de6a,4,23,31,2,0,74.19,"[7, 9, 11, 17]",4.0,24,12,0,17,1,0,2,0,0,0,0,4.25,1,0,0,0,0,31,68,8,107,44,True,False,False,Right-arm offbreak,Right-hand bat
+Antigua Hawksbills,BJ Rohrer,27af6414,5,23,17,1,1,135.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,35,0,0,35,44,True,False,False,,Left-hand bat
+Antigua Hawksbills,JM Kemp,6581d753,6,6,9,0,0,66.67,[13],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,6,1,0,7,47,True,False,True,Right-arm fast-medium,Right-hand bat
+Antigua Hawksbills,KOA Powell,e012ad13,7,10,5,2,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,35,True,False,False,Right-arm offbreak,Left-hand bat
+Antigua Hawksbills,D Mohammed,77079be1,8,2,2,0,0,100.0,"[8, 10, 12, 14]",4.0,24,9,0,24,1,1,1,0,0,0,0,6.0,0,0,0,0,0,2,36,0,38,45,True,True,False,Left-arm wrist-spin,Left-hand bat
+Antigua Hawksbills,KAJ Roach,78eb4223,9,12,3,0,2,400.0,"[1, 3, 15]",3.0,18,9,0,21,2,1,1,0,0,0,2,7.0,1,0,0,0,0,24,36,8,68,36,True,False,False,Right-arm fast-medium,Right-hand bat
+Antigua Hawksbills,GC Tonge,7d21eb9b,10,1,1,0,0,100.0,"[2, 4, 6]",3.0,18,10,0,22,1,2,0,0,0,0,1,7.33,1,0,0,0,0,1,10,8,19,42,True,False,False,Right-arm fast-medium,Right-hand bat
+Antigua Hawksbills,SS Cottrell,a1d053dd,10,0,0,0,0,0.0,"[5, 16, 18, 20]",4.0,24,11,0,36,2,2,2,0,0,3,3,9.0,0,0,0,0,0,0,61,0,61,35,True,False,False,Left-arm fast-medium,Right-hand bat
+Barbados Tridents,DR Smith,35205dfc,1,8,10,1,0,80.0,"[9, 11, 13, 15]",4.0,24,9,0,25,3,0,1,0,1,0,0,6.25,0,0,0,0,0,12,44,0,56,41,True,False,True,Right-arm medium,Right-hand bat
+Barbados Tridents,JL Carter,0a9d8b61,2,31,29,3,2,106.9,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,59,0,0,59,37,True,False,True,Right-arm medium,Left-hand bat
+Barbados Tridents,Shoaib Malik,64c34cd0,3,33,30,2,1,110.0,[17],1.0,6,1,0,4,0,0,0,0,0,0,0,4.0,0,0,0,0,0,51,1,0,52,43,True,False,True,Right-arm offbreak,Right-hand bat
+Barbados Tridents,Shakib Al Hasan,7dc35884,4,1,6,0,0,16.67,"[2, 4, 6, 14]",4.0,24,12,1,16,0,1,1,0,0,0,0,4.0,0,0,0,0,0,1,55,0,56,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Barbados Tridents,Umar Akmal,fd2bf2a0,5,30,21,1,2,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,2,0,0,2,52,0,24,76,34,True,False,False,Right-arm offbreak,Right-hand bat
+Barbados Tridents,KA Pollard,a757b0d8,6,18,16,0,2,112.5,"[8, 10, 12]",3.0,18,6,0,17,1,0,0,0,0,0,2,5.67,3,0,0,0,0,30,10,28,68,37,True,False,True,Right-arm medium,Right-hand bat
+Barbados Tridents,KR Mayers,73c18486,7,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,32,True,False,True,Right-arm medium,Left-hand bat
+Barbados Tridents,AR Nurse,4a745f65,8,2,3,0,0,66.67,"[16, 18, 20]",3.0,18,9,0,28,0,3,4,0,0,0,2,9.33,1,0,0,0,0,2,117,8,127,36,True,False,False,Right-arm offbreak,Right-hand bat
+Barbados Tridents,RR Emrit,e7de4f6b,9,4,2,1,0,200.0,"[5, 7, 19]",3.0,18,8,0,25,4,0,2,0,0,0,1,8.33,0,0,0,0,0,8,58,0,66,44,True,False,True,Right-arm medium-fast,Right-hand bat
+Barbados Tridents,ST Gabriel,d9609443,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,36,True,False,False,Right-arm fast,Right-hand bat
+Barbados Tridents,JO Holder,0f721006,10,6,1,0,1,600.0,"[1, 3]",2.0,12,6,0,15,2,0,0,0,0,0,1,7.5,0,0,0,0,0,12,6,0,18,33,True,False,True,Right-arm medium-fast,Right-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Assam,Pallav Kumar Das,c2294408,1,19,14,3,0,135.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,33,0,0,33
-Assam,Rishav Das,8963ee49,2,15,30,1,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,15,0,0,15
-Assam,Rahul Singh,42df38b0,2,0,0,0,0,0.0,"[7, 9, 11, 14]",4.0,24,8,0,28,2,1,0,0,0,0,0,7.0,0,0,0,0,0,0,10,0,10
-Assam,Denish Das,9cd9e3f4,3,15,23,0,1,65.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,19,0,0,19
-Assam,Arup Das,4f36495c,3,0,0,0,0,0.0,"[1, 3]",2.0,12,8,0,16,2,1,0,0,0,0,1,8.0,0,0,0,0,0,0,8,0,8
-Assam,R Parag,04a418e8,4,24,26,1,1,92.31,"[6, 8, 13]",3.0,18,6,0,24,2,1,0,0,0,0,0,8.0,0,0,0,0,0,34,6,0,40
-Assam,Saahil Jain,a454fa21,5,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Assam,Abhishek Thakuri,ff9c2522,6,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Assam,Rajjakuddin Ahmed,69cbffb8,7,29,14,4,1,207.14,[10],1.0,6,1,0,9,1,0,0,0,0,0,0,9.0,0,0,0,0,6,61,1,0,62
-Assam,Amlanjyoti Das,8eaa058c,8,1,3,0,0,33.33,"[2, 5, 15]",3.0,18,7,0,27,3,1,0,0,0,0,1,9.0,0,0,0,0,0,1,7,0,8
-Assam,Pritam Das,e342d310,9,6,2,1,0,300.0,"[4, 12]",2.0,12,1,0,24,3,0,0,0,0,0,1,12.0,0,0,0,0,0,10,-3,0,7
-Tamil Nadu,Hari Nishaanth,c3f37533,1,47,40,5,1,117.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,77,0,0,77
-Tamil Nadu,S Sandeep Warrier,cdc6bdba,2,0,0,0,0,0.0,"[1, 3, 6]",3.0,18,8,0,21,2,1,0,0,0,0,1,7.0,0,0,0,0,0,0,10,0,10
-Tamil Nadu,N Jagadeesan,bd54eef5,2,78,50,8,3,156.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,144,0,0,144
-Tamil Nadu,Sonu Yadav,6ab96cc2,3,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,9,0,41,6,1,1,0,1,0,3,10.25,2,0,0,0,0,0,40,16,56
-Tamil Nadu,M Mohammed,1b7c4d69,4,0,0,0,0,0.0,"[5, 7, 16, 19]",4.0,24,9,0,23,1,1,2,0,1,0,0,5.75,0,0,0,0,0,0,71,0,71
-Tamil Nadu,R Sai Kishore,c7a995d3,5,0,0,0,0,0.0,"[8, 10, 12, 15]",4.0,24,15,0,17,1,0,2,0,0,0,5,4.25,0,0,0,0,0,0,71,0,71
-Tamil Nadu,M Ashwin,e2db2409,6,0,0,0,0,0.0,"[9, 11, 13, 17]",4.0,24,9,0,16,0,0,2,0,1,0,0,4.0,0,0,0,0,0,0,73,0,73
-Tamil Nadu,B Aparajith,5b627626,7,0,0,0,0,0.0,[14],1.0,6,2,0,4,0,0,0,0,0,0,0,4.0,1,0,0,0,0,0,2,8,10
-Tamil Nadu,KD Karthik,c03f1114,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Tamil Nadu,M Shahrukh Khan,7dcb9bc9,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Tamil Nadu,KB Arun Karthik,7daedf2f,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Assam,Pallav Kumar Das,c2294408,1,19,14,3,0,135.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,33,0,0,33,35,True,False,False,Right-arm medium,Left-hand bat
+Assam,Rishav Das,8963ee49,2,15,30,1,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,15,0,0,15,35,True,True,False,Right-arm offbreak,Right-hand bat
+Assam,Rahul Singh,42df38b0,2,0,0,0,0,0.0,"[7, 9, 11, 14]",4.0,24,8,0,28,2,1,0,0,0,0,0,7.0,0,0,0,0,0,0,10,0,10,27,True,False,False,Slow left-arm orthodox,Right-hand bat
+Assam,Denish Das,9cd9e3f4,3,15,23,0,1,65.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,19,0,0,19,22,True,True,False,Legbreak,Right-hand bat
+Assam,Arup Das,4f36495c,3,0,0,0,0,0.0,"[1, 3]",2.0,12,8,0,16,2,1,0,0,0,0,1,8.0,0,0,0,0,0,0,8,0,8,33,True,True,False,Right-arm medium,Right-hand bat
+Assam,R Parag,04a418e8,4,24,26,1,1,92.31,"[6, 8, 13]",3.0,18,6,0,24,2,1,0,0,0,0,0,8.0,0,0,0,0,0,34,6,0,40,23,True,False,False,Legbreak,Right-hand bat
+Assam,Saahil Jain,a454fa21,5,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,26,True,True,False,Right-arm offbreak,Right-hand bat
+Assam,Abhishek Thakuri,ff9c2522,6,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,26,True,False,False,,Left-hand bat
+Assam,Rajjakuddin Ahmed,69cbffb8,7,29,14,4,1,207.14,[10],1.0,6,1,0,9,1,0,0,0,0,0,0,9.0,0,0,0,0,6,61,1,0,62,29,True,True,False,Right-arm medium,Right-hand bat
+Assam,Amlanjyoti Das,8eaa058c,8,1,3,0,0,33.33,"[2, 5, 15]",3.0,18,7,0,27,3,1,0,0,0,0,1,9.0,0,0,0,0,0,1,7,0,8,23,True,True,False,Right-arm offbreak,Right-hand bat
+Assam,Pritam Das,e342d310,9,6,2,1,0,300.0,"[4, 12]",2.0,12,1,0,24,3,0,0,0,0,0,1,12.0,0,0,0,0,0,10,-3,0,7,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Tamil Nadu,Hari Nishaanth,c3f37533,1,47,40,5,1,117.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,77,0,0,77,28,True,False,False,Right-arm offbreak,Left-hand bat
+Tamil Nadu,S Sandeep Warrier,cdc6bdba,2,0,0,0,0,0.0,"[1, 3, 6]",3.0,18,8,0,21,2,1,0,0,0,0,1,7.0,0,0,0,0,0,0,10,0,10,33,True,False,False,Right-arm medium,Right-hand bat
+Tamil Nadu,N Jagadeesan,bd54eef5,2,78,50,8,3,156.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,144,0,0,144,29,True,False,False,,Right-hand bat
+Tamil Nadu,Sonu Yadav,6ab96cc2,3,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,9,0,41,6,1,1,0,1,0,3,10.25,2,0,0,0,0,0,40,16,56,25,True,False,True,Right-arm medium-fast,Right-hand bat
+Tamil Nadu,M Mohammed,1b7c4d69,4,0,0,0,0,0.0,"[5, 7, 16, 19]",4.0,24,9,0,23,1,1,2,0,1,0,0,5.75,0,0,0,0,0,0,71,0,71,33,True,False,False,Right-arm medium,Right-hand bat
+Tamil Nadu,R Sai Kishore,c7a995d3,5,0,0,0,0,0.0,"[8, 10, 12, 15]",4.0,24,15,0,17,1,0,2,0,0,0,5,4.25,0,0,0,0,0,0,71,0,71,28,True,False,False,Slow left-arm orthodox,Left-hand bat
+Tamil Nadu,M Ashwin,e2db2409,6,0,0,0,0,0.0,"[9, 11, 13, 17]",4.0,24,9,0,16,0,0,2,0,1,0,0,4.0,0,0,0,0,0,0,73,0,73,34,True,False,False,Legbreak googly,Right-hand bat
+Tamil Nadu,B Aparajith,5b627626,7,0,0,0,0,0.0,[14],1.0,6,2,0,4,0,0,0,0,0,0,0,4.0,1,0,0,0,0,0,2,8,10,30,True,False,True,Right-arm offbreak,Right-hand bat
+Tamil Nadu,KD Karthik,c03f1114,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,39,True,True,False,Right-arm offbreak,Right-hand bat
+Tamil Nadu,M Shahrukh Khan,7dcb9bc9,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,29,True,False,False,Right-arm offbreak,Right-hand bat
+Tamil Nadu,KB Arun Karthik,7daedf2f,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,39,True,True,False,Legbreak googly,Right-hand bat

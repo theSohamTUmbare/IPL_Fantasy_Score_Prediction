@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Essex,ML Pettini,eba62359,1,6,7,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,10,0,8,18
-Essex,JD Ryder,91ffa6c6,2,19,15,3,0,126.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,31,0,16,47
-Essex,T Westley,25a42048,3,19,12,3,0,158.33,[14],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,3,0,0,0,4,35,1,28,64
-Essex,RS Bopara,7ca5e05d,4,52,40,1,2,130.0,"[8, 10, 16, 18]",4.0,24,7,0,25,1,0,3,0,0,0,0,6.25,0,0,0,0,2,78,88,0,166
-Essex,NLJ Browne,81efec30,5,38,21,3,1,180.95,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,66,0,0,66
-Essex,RN ten Doeschate,4ec07775,6,5,7,0,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
-Essex,JS Foster,e68dd455,7,14,9,0,1,155.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,20,0,8,28
-Essex,GR Napier,611926bc,8,27,7,0,4,385.71,"[5, 11, 15, 19]",4.0,24,7,0,43,6,1,1,0,0,0,0,10.75,0,0,0,0,0,55,30,0,85
-Essex,DD Masters,61a9ce31,9,2,2,0,0,100.0,"[2, 4, 7, 12]",4.0,24,11,0,35,3,2,0,0,0,0,2,8.75,0,0,0,0,0,2,11,0,13
-Essex,RJW Topley,8db7f47f,11,0,0,0,0,0.0,"[1, 3, 17, 20]",3.667,22,10,0,23,1,2,2,0,1,0,1,6.27,0,0,0,0,0,0,70,0,70
-Essex,SW Tait,addfb70e,12,0,0,0,0,0.0,"[6, 9, 13]",3.0,18,9,0,33,3,2,3,0,0,0,2,11.0,1,0,0,0,0,0,86,8,94
-Glamorgan,CAJ Meschede,eddf25bd,1,0,3,0,0,0.0,"[1, 3, 11, 13]",4.0,24,8,0,27,2,1,1,0,0,0,0,6.75,0,0,0,0,0,-2,35,0,33
-Glamorgan,JA Rudolph,42537f07,2,3,10,0,0,30.0,[12],1.0,6,0,0,14,1,1,0,0,0,0,0,14.0,1,0,0,0,-6,-3,0,8,5
-Glamorgan,CA Ingram,c995d726,3,70,46,4,4,152.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,122,0,0,122
-Glamorgan,GG Wagg,450f6fa6,4,41,19,4,3,215.79,"[7, 9, 17, 19]",4.0,24,2,0,46,0,4,1,0,0,0,1,11.5,2,0,0,0,6,85,23,16,124
-Glamorgan,CB Cooke,6755cd5c,5,14,10,2,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,24,0,0,24
-Glamorgan,BJ Wright,84548f53,6,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Glamorgan,MA Wallace,cabf72cc,7,13,13,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,21,0,8,29
-Glamorgan,WD Parnell,3a60e0b5,8,0,1,0,0,0.0,"[2, 5, 15, 20]",4.0,24,5,0,36,3,1,1,0,0,0,1,9.0,0,0,0,0,0,-2,30,0,28
-Glamorgan,DL Lloyd,0c7f11be,9,18,11,3,0,163.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,34,0,0,34
-Glamorgan,DA Cosker,aac9f784,10,2,2,0,0,100.0,"[8, 10, 14]",3.0,18,1,0,30,2,0,0,0,0,0,2,10.0,1,0,0,0,0,2,-1,8,9
-Glamorgan,MG Hogan,5da34add,11,1,1,0,0,100.0,"[4, 6, 16, 18]",4.0,24,8,0,33,3,1,3,0,0,0,0,8.25,0,0,0,0,0,1,87,0,88
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Essex,ML Pettini,eba62359,1,6,7,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,10,0,8,18,41,True,False,False,Right-arm medium,Right-hand bat
+Essex,JD Ryder,91ffa6c6,2,19,15,3,0,126.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,31,0,16,47,40,True,False,True,Right-arm medium,Left-hand bat
+Essex,T Westley,25a42048,3,19,12,3,0,158.33,[14],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,3,0,0,0,4,35,1,28,64,36,True,False,False,Right-arm offbreak,Right-hand bat
+Essex,RS Bopara,7ca5e05d,4,52,40,1,2,130.0,"[8, 10, 16, 18]",4.0,24,7,0,25,1,0,3,0,0,0,0,6.25,0,0,0,0,2,78,88,0,166,39,True,False,True,Right-arm medium,Right-hand bat
+Essex,NLJ Browne,81efec30,5,38,21,3,1,180.95,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,66,0,0,66,34,True,False,False,Legbreak,Left-hand bat
+Essex,RN ten Doeschate,4ec07775,6,5,7,0,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,44,True,False,True,Right-arm medium-fast,Right-hand bat
+Essex,JS Foster,e68dd455,7,14,9,0,1,155.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,20,0,8,28,44,True,False,False,,Right-hand bat
+Essex,GR Napier,611926bc,8,27,7,0,4,385.71,"[5, 11, 15, 19]",4.0,24,7,0,43,6,1,1,0,0,0,0,10.75,0,0,0,0,0,55,30,0,85,45,True,False,True,Right-arm medium,Right-hand bat
+Essex,DD Masters,61a9ce31,9,2,2,0,0,100.0,"[2, 4, 7, 12]",4.0,24,11,0,35,3,2,0,0,0,0,2,8.75,0,0,0,0,0,2,11,0,13,46,True,False,False,Right-arm medium-fast,Right-hand bat
+Essex,RJW Topley,8db7f47f,11,0,0,0,0,0.0,"[1, 3, 17, 20]",3.667,22,10,0,23,1,2,2,0,1,0,1,6.27,0,0,0,0,0,0,70,0,70,31,True,False,False,Left-arm fast-medium,Right-hand bat
+Essex,SW Tait,addfb70e,12,0,0,0,0,0.0,"[6, 9, 13]",3.0,18,9,0,33,3,2,3,0,0,0,2,11.0,1,0,0,0,0,0,86,8,94,42,True,False,False,Right-arm fast,Right-hand bat
+Glamorgan,CAJ Meschede,eddf25bd,1,0,3,0,0,0.0,"[1, 3, 11, 13]",4.0,24,8,0,27,2,1,1,0,0,0,0,6.75,0,0,0,0,0,-2,35,0,33,33,True,False,True,Right-arm medium-fast,Right-hand bat
+Glamorgan,JA Rudolph,42537f07,2,3,10,0,0,30.0,[12],1.0,6,0,0,14,1,1,0,0,0,0,0,14.0,1,0,0,0,-6,-3,0,8,5,43,True,False,False,Legbreak googly,Left-hand bat
+Glamorgan,CA Ingram,c995d726,3,70,46,4,4,152.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,122,0,0,122,39,True,False,False,Legbreak,Left-hand bat
+Glamorgan,GG Wagg,450f6fa6,4,41,19,4,3,215.79,"[7, 9, 17, 19]",4.0,24,2,0,46,0,4,1,0,0,0,1,11.5,2,0,0,0,6,85,23,16,124,41,True,False,True,Left-arm medium-fast,Right-hand bat
+Glamorgan,CB Cooke,6755cd5c,5,14,10,2,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,24,0,0,24,38,True,True,False,Right-arm slow-medium,Right-hand bat
+Glamorgan,BJ Wright,84548f53,6,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,37,True,False,False,Right-arm medium-fast,Right-hand bat
+Glamorgan,MA Wallace,cabf72cc,7,13,13,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,21,0,8,29,43,True,False,False,,Left-hand bat
+Glamorgan,WD Parnell,3a60e0b5,8,0,1,0,0,0.0,"[2, 5, 15, 20]",4.0,24,5,0,36,3,1,1,0,0,0,1,9.0,0,0,0,0,0,-2,30,0,28,35,True,False,False,Left-arm medium-fast,Left-hand bat
+Glamorgan,DL Lloyd,0c7f11be,9,18,11,3,0,163.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,34,0,0,34,32,True,False,True,Right-arm medium,Right-hand bat
+Glamorgan,DA Cosker,aac9f784,10,2,2,0,0,100.0,"[8, 10, 14]",3.0,18,1,0,30,2,0,0,0,0,0,2,10.0,1,0,0,0,0,2,-1,8,9,47,True,False,False,Slow left-arm orthodox,Right-hand bat
+Glamorgan,MG Hogan,5da34add,11,1,1,0,0,100.0,"[4, 6, 16, 18]",4.0,24,8,0,33,3,1,3,0,0,0,0,8.25,0,0,0,0,0,1,87,0,88,43,True,False,False,Right-arm fast-medium,Right-hand bat

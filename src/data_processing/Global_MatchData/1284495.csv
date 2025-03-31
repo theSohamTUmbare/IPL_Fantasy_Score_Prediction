@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Kuwait,R Sandaruwan,cf6acc0d,1,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,-2,0,16,14
-Kuwait,ED Silva,c1b74851,2,58,29,6,4,200.0,"[6, 8, 10]",3.0,18,9,0,15,1,0,2,0,0,0,2,5.0,0,0,0,0,6,120,63,0,183
-Kuwait,Adnan Idrees,0e34c23a,3,11,10,2,0,110.0,"[12, 14, 16, 18]",4.0,24,16,0,17,1,1,3,0,0,0,0,4.25,1,0,0,0,0,19,101,8,128
-Kuwait,Muhammad Kashif,e7458e4b,4,14,16,0,1,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
-Kuwait,Shiraz Khan,f310704c,5,13,7,1,1,185.71,"[5, 7, 9, 19]",4.0,24,15,0,22,1,2,0,0,0,0,0,5.5,0,0,0,0,0,23,19,0,42
-Kuwait,Bilal Tahir,3cf06094,6,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
-Kuwait,Meet Bhavsar,b25a3800,7,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
-Kuwait,MNM Aslam,20481563,7,0,0,0,0,0.0,"[11, 13, 15, 17]",4.0,24,11,0,18,1,0,2,1,0,0,0,4.5,1,0,0,0,0,0,75,8,83
-Kuwait,Nawaf Ahmed,bfe33045,8,0,0,0,0,0.0,"[1, 3, 20]",3.0,18,7,0,14,0,0,2,0,1,0,1,4.67,1,0,0,0,0,0,71,8,79
-Kuwait,MM Sarwar,51abacb2,9,0,0,0,0,0.0,"[2, 4]",2.0,12,7,0,14,3,0,1,0,0,0,0,7.0,0,0,0,0,0,0,34,0,34
-Kuwait,Naveed Fakhr,76e84cb1,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Maldives,Azyan Farhath,3e06e7ac,1,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Maldives,Mohamed Rishwan,7d15170b,2,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Maldives,Umar Adam,5d77a96a,3,12,8,1,0,150.0,"[1, 3]",2.0,12,6,0,22,2,1,1,0,0,0,4,11.0,2,0,0,0,0,16,29,16,61
-Maldives,Ahmed Hassan,7c885103,4,42,38,5,2,110.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,78,0,0,78
-Maldives,Ibrahim Nashath,98514dce,5,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Maldives,Mohamed Azzam,e43c9818,6,9,20,0,0,45.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,3,0,0,3
-Maldives,Mohamed Mahfooz,44f5a3e4,7,4,7,0,0,57.14,"[10, 12]",2.0,12,5,0,14,1,1,2,0,0,0,0,7.0,0,0,0,0,0,4,57,0,61
-Maldives,WJ Malinda,8f5313ce,8,2,6,0,0,33.33,[8],1.0,6,1,0,12,2,0,0,0,0,0,0,12.0,0,0,0,0,0,2,1,0,3
-Maldives,Ibrahim Hassan,4add4c98,9,11,11,0,1,100.0,"[2, 4, 6]",3.0,18,11,0,24,2,2,1,0,1,0,1,8.0,0,0,0,0,0,17,44,0,61
-Maldives,L Shafeeg,ed82d9a5,10,7,10,0,0,70.0,"[5, 7]",2.0,12,7,0,16,0,2,0,0,0,0,0,8.0,0,0,0,0,-2,5,7,0,12
-Maldives,Ibrahim Rizan,7267e3cd,11,7,12,1,0,58.33,"[9, 11]",2.0,12,2,0,16,2,0,1,0,1,0,0,8.0,1,0,0,0,-4,7,35,8,50
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Kuwait,R Sandaruwan,cf6acc0d,1,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,-2,0,16,14,32,True,False,False,Right-arm offbreak,Right-hand bat
+Kuwait,ED Silva,c1b74851,2,58,29,6,4,200.0,"[6, 8, 10]",3.0,18,9,0,15,1,0,2,0,0,0,2,5.0,0,0,0,0,6,120,63,0,183,37,True,False,True,,Right-hand bat
+Kuwait,Adnan Idrees,0e34c23a,3,11,10,2,0,110.0,"[12, 14, 16, 18]",4.0,24,16,0,17,1,1,3,0,0,0,0,4.25,1,0,0,0,0,19,101,8,128,34,True,False,True,Legbreak,Right-hand bat
+Kuwait,Muhammad Kashif,e7458e4b,4,14,16,0,1,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,37,True,True,False,Right-arm offbreak,Right-hand bat
+Kuwait,Shiraz Khan,f310704c,5,13,7,1,1,185.71,"[5, 7, 9, 19]",4.0,24,15,0,22,1,2,0,0,0,0,0,5.5,0,0,0,0,0,23,19,0,42,30,True,False,True,Legbreak googly,Right-hand bat
+Kuwait,Bilal Tahir,3cf06094,6,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,26,True,False,False,,Left-hand bat
+Kuwait,Meet Bhavsar,b25a3800,7,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,20,True,False,False,,Left-hand bat
+Kuwait,MNM Aslam,20481563,7,0,0,0,0,0.0,"[11, 13, 15, 17]",4.0,24,11,0,18,1,0,2,1,0,0,0,4.5,1,0,0,0,0,0,75,8,83,34,True,False,True,Left-arm slow,Right-hand bat
+Kuwait,Nawaf Ahmed,bfe33045,8,0,0,0,0,0.0,"[1, 3, 20]",3.0,18,7,0,14,0,0,2,0,1,0,1,4.67,1,0,0,0,0,0,71,8,79,33,True,False,False,Right-arm medium,Left-hand bat
+Kuwait,MM Sarwar,51abacb2,9,0,0,0,0,0.0,"[2, 4]",2.0,12,7,0,14,3,0,1,0,0,0,0,7.0,0,0,0,0,0,0,34,0,34,27,True,True,False,Right-arm medium,Right-hand bat
+Kuwait,Naveed Fakhr,76e84cb1,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,35,True,True,False,Left-arm wrist-spin,Left-hand bat
+Maldives,Azyan Farhath,3e06e7ac,1,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,24,True,True,False,Right-arm medium,Right-hand bat
+Maldives,Mohamed Rishwan,7d15170b,2,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,31,True,False,False,,Right-hand bat
+Maldives,Umar Adam,5d77a96a,3,12,8,1,0,150.0,"[1, 3]",2.0,12,6,0,22,2,1,1,0,0,0,4,11.0,2,0,0,0,0,16,29,16,61,27,True,True,False,Right-arm offbreak,Right-hand bat
+Maldives,Ahmed Hassan,7c885103,4,42,38,5,2,110.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,78,0,0,78,35,True,True,False,Right-arm offbreak,Right-hand bat
+Maldives,Ibrahim Nashath,98514dce,5,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,29,True,True,False,Right-arm medium,Right-hand bat
+Maldives,Mohamed Azzam,e43c9818,6,9,20,0,0,45.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,3,0,0,3,33,True,False,False,,Right-hand bat
+Maldives,Mohamed Mahfooz,44f5a3e4,7,4,7,0,0,57.14,"[10, 12]",2.0,12,5,0,14,1,1,2,0,0,0,0,7.0,0,0,0,0,0,4,57,0,61,37,True,True,False,Slow left-arm orthodox,Right-hand bat
+Maldives,WJ Malinda,8f5313ce,8,2,6,0,0,33.33,[8],1.0,6,1,0,12,2,0,0,0,0,0,0,12.0,0,0,0,0,0,2,1,0,3,33,True,True,False,Right-arm medium,Left-hand bat
+Maldives,Ibrahim Hassan,4add4c98,9,11,11,0,1,100.0,"[2, 4, 6]",3.0,18,11,0,24,2,2,1,0,1,0,1,8.0,0,0,0,0,0,17,44,0,61,33,True,True,False,Right-arm medium,Right-hand bat
+Maldives,L Shafeeg,ed82d9a5,10,7,10,0,0,70.0,"[5, 7]",2.0,12,7,0,16,0,2,0,0,0,0,0,8.0,0,0,0,0,-2,5,7,0,12,29,True,True,False,Right-arm medium,Right-hand bat
+Maldives,Ibrahim Rizan,7267e3cd,11,7,12,1,0,58.33,"[9, 11]",2.0,12,2,0,16,2,0,1,0,1,0,0,8.0,1,0,0,0,-4,7,35,8,50,38,True,True,False,Right-arm offbreak,Right-hand bat

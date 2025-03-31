@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Hong Kong,Nizakat Khan,e3eb9e46,1,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
-Hong Kong,Aizaz Khan,f6c2659d,2,3,6,0,0,50.0,"[1, 8, 17, 19]",4.0,24,8,0,34,3,1,1,0,0,0,1,8.5,0,0,0,0,0,3,33,0,36
-Hong Kong,Babar Hayat,fbb657bb,3,86,45,6,7,191.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,170,0,16,186
-Hong Kong,KD Shah,d5ae21a2,4,5,4,1,0,125.0,"[4, 12, 14]",3.0,18,3,0,30,3,1,0,0,0,0,0,10.0,0,0,0,0,0,9,1,0,10
-Hong Kong,Yasim Murtaza,c9d05f1a,5,9,16,0,0,56.25,"[7, 9]",2.0,12,3,0,24,1,2,1,0,0,0,0,12.0,0,0,0,0,-4,5,24,0,29
-Hong Kong,Zeeshan Ali,987187b9,6,42,23,7,0,182.61,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,80,0,8,88
-Hong Kong,Shahid Wasif,2cc08c3c,7,12,9,0,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26
-Hong Kong,Ehsan Khan,d3851cd8,8,2,3,0,0,66.67,"[2, 6, 16, 18]",4.0,24,13,0,20,3,0,3,0,3,0,1,5.0,0,0,0,0,0,2,120,0,122
-Hong Kong,SS McKechnie,e6dd77bb,9,9,8,1,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
-Hong Kong,Mohammad Ghazanfar,00321fff,10,0,0,0,0,0.0,"[10, 13, 15]",3.0,18,6,0,35,1,3,1,0,0,0,1,11.67,0,0,0,0,0,0,27,0,27
-Hong Kong,A Shukla,a1e80d06,10,0,0,0,0,0.0,"[3, 5, 11, 20]",4.0,24,5,0,39,3,2,1,0,0,0,1,9.75,0,0,0,0,0,0,30,0,30
-Papua New Guinea,L Siaka,6b4593ee,1,21,21,1,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,31,0,16,47
-Papua New Guinea,A Vala,72e60730,2,9,8,2,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
-Papua New Guinea,CJA Amini,4d84ad05,3,37,29,4,0,127.59,"[9, 12]",2.0,12,3,0,18,3,0,0,0,0,0,0,9.0,0,0,0,0,0,57,3,0,60
-Papua New Guinea,TP Ura,a82eb3fb,4,83,33,4,8,251.52,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,165,0,0,165
-Papua New Guinea,S Bau,9a95bebb,5,7,8,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19
-Papua New Guinea,N Vanua,a36915ce,6,1,4,0,0,25.0,"[6, 8, 16, 18]",4.0,24,8,0,36,3,2,2,0,0,0,0,9.0,0,0,0,0,0,1,58,0,59
-Papua New Guinea,R Hekure,c70448aa,7,10,9,1,0,111.11,"[7, 10, 13, 15]",4.0,24,9,0,32,4,0,1,0,1,0,1,8.0,1,0,0,0,0,14,42,8,64
-Papua New Guinea,HGV Vare,98299b67,8,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Papua New Guinea,KV Morea,270bf7e2,9,10,7,1,0,142.86,"[3, 5, 17, 19]",4.0,24,9,0,34,3,1,3,0,1,0,5,8.5,0,0,0,0,0,14,96,0,110
-Papua New Guinea,SK Atai,a64e3b89,10,0,0,0,0,0.0,"[1, 11]",2.0,12,3,0,18,1,1,0,0,0,0,1,9.0,1,0,0,0,0,0,3,8,11
-Papua New Guinea,SI Kamea,0730a707,11,0,0,0,0,0.0,"[2, 4, 14, 20]",4.0,24,10,0,47,2,4,2,0,0,0,4,11.75,0,0,0,0,0,0,56,0,56
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Hong Kong,Nizakat Khan,e3eb9e46,1,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,32,True,False,True,Legbreak,Right-hand bat
+Hong Kong,Aizaz Khan,f6c2659d,2,3,6,0,0,50.0,"[1, 8, 17, 19]",4.0,24,8,0,34,3,1,1,0,0,0,1,8.5,0,0,0,0,0,3,33,0,36,32,True,False,True,Right-arm medium-fast,Right-hand bat
+Hong Kong,Babar Hayat,fbb657bb,3,86,45,6,7,191.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,170,0,16,186,33,True,False,False,Right-arm medium,Right-hand bat
+Hong Kong,KD Shah,d5ae21a2,4,5,4,1,0,125.0,"[4, 12, 14]",3.0,18,3,0,30,3,1,0,0,0,0,0,10.0,0,0,0,0,0,9,1,0,10,29,True,False,False,Right-arm offbreak,Left-hand bat
+Hong Kong,Yasim Murtaza,c9d05f1a,5,9,16,0,0,56.25,"[7, 9]",2.0,12,3,0,24,1,2,1,0,0,0,0,12.0,0,0,0,0,-4,5,24,0,29,34,True,False,True,Slow left-arm orthodox,Left-hand bat
+Hong Kong,Zeeshan Ali,987187b9,6,42,23,7,0,182.61,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,80,0,8,88,35,True,False,False,,Right-hand bat
+Hong Kong,Shahid Wasif,2cc08c3c,7,12,9,0,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26,27,True,False,False,Right-arm offbreak,Right-hand bat
+Hong Kong,Ehsan Khan,d3851cd8,8,2,3,0,0,66.67,"[2, 6, 16, 18]",4.0,24,13,0,20,3,0,3,0,3,0,1,5.0,0,0,0,0,0,2,120,0,122,40,True,False,False,Right-arm offbreak,Right-hand bat
+Hong Kong,SS McKechnie,e6dd77bb,9,9,8,1,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,33,True,False,False,,Right-hand bat
+Hong Kong,Mohammad Ghazanfar,00321fff,10,0,0,0,0,0.0,"[10, 13, 15]",3.0,18,6,0,35,1,3,1,0,0,0,1,11.67,0,0,0,0,0,0,27,0,27,30,True,False,False,Legbreak,Right-hand bat
+Hong Kong,A Shukla,a1e80d06,10,0,0,0,0,0.0,"[3, 5, 11, 20]",4.0,24,5,0,39,3,2,1,0,0,0,1,9.75,0,0,0,0,0,0,30,0,30,22,True,False,False,Right-arm medium,Right-hand bat
+Papua New Guinea,L Siaka,6b4593ee,1,21,21,1,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,31,0,16,47,32,True,False,False,Legbreak,Right-hand bat
+Papua New Guinea,A Vala,72e60730,2,9,8,2,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,37,True,False,False,Right-arm offbreak,Left-hand bat
+Papua New Guinea,CJA Amini,4d84ad05,3,37,29,4,0,127.59,"[9, 12]",2.0,12,3,0,18,3,0,0,0,0,0,0,9.0,0,0,0,0,0,57,3,0,60,32,True,False,True,Legbreak,Left-hand bat
+Papua New Guinea,TP Ura,a82eb3fb,4,83,33,4,8,251.52,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,165,0,0,165,35,True,False,False,,Right-hand bat
+Papua New Guinea,S Bau,9a95bebb,5,7,8,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19,32,True,False,False,Right-arm offbreak,Left-hand bat
+Papua New Guinea,N Vanua,a36915ce,6,1,4,0,0,25.0,"[6, 8, 16, 18]",4.0,24,8,0,36,3,2,2,0,0,0,0,9.0,0,0,0,0,0,1,58,0,59,31,True,False,False,Right-arm medium,Right-hand bat
+Papua New Guinea,R Hekure,c70448aa,7,10,9,1,0,111.11,"[7, 10, 13, 15]",4.0,24,9,0,32,4,0,1,0,1,0,1,8.0,1,0,0,0,0,14,42,8,64,30,True,False,False,Right-arm medium,Right-hand bat
+Papua New Guinea,HGV Vare,98299b67,8,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,23,True,False,False,,Left-hand bat
+Papua New Guinea,KV Morea,270bf7e2,9,10,7,1,0,142.86,"[3, 5, 17, 19]",4.0,24,9,0,34,3,1,3,0,1,0,5,8.5,0,0,0,0,0,14,96,0,110,31,True,False,False,Left-arm medium,Right-hand bat
+Papua New Guinea,SK Atai,a64e3b89,10,0,0,0,0,0.0,"[1, 11]",2.0,12,3,0,18,1,1,0,0,0,0,1,9.0,1,0,0,0,0,0,3,8,11,25,True,False,False,,Left-hand bat
+Papua New Guinea,SI Kamea,0730a707,11,0,0,0,0,0.0,"[2, 4, 14, 20]",4.0,24,10,0,47,2,4,2,0,0,0,4,11.75,0,0,0,0,0,0,56,0,56,23,True,False,False,Left-arm fast,Left-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Assam,Rishav Das,8963ee49,1,26,19,5,0,136.84,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,52,0,0,52
-Assam,Pallav Kumar Das,c2294408,2,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,0,0,12,12
-Assam,Sibsankar Roy,3d8348d0,3,7,8,1,0,87.5,[12],1.0,6,1,0,7,1,0,1,0,0,0,0,7.0,0,0,0,0,0,11,26,0,37
-Assam,Amit Sinha,2f48362d,4,17,28,0,0,60.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,-2,15,0,16,31
-Assam,Wasiqur Rahman,645eaa96,5,5,14,0,0,35.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-1,0,0,-1
-Assam,Romario Sharma,e15fb6f9,6,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Assam,Pritam Das,e342d310,7,1,4,0,0,25.0,"[3, 5, 17, 20]",4.0,24,9,0,25,3,0,2,0,2,0,0,6.25,0,0,0,0,0,1,77,0,78
-Assam,Rajjakuddin Ahmed,69cbffb8,8,8,10,0,0,80.0,"[8, 10, 14, 16]",4.0,24,8,0,22,0,1,1,0,0,0,0,5.5,2,0,0,0,0,8,37,16,61
-Assam,AN Ahmed,2af1b6d2,9,3,4,0,0,75.0,"[1, 15, 19]",3.0,18,12,0,13,2,0,2,0,0,0,1,4.33,0,0,0,0,0,3,68,0,71
-Assam,Arup Das,4f36495c,10,5,8,0,0,62.5,"[2, 4, 6, 18]",4.0,24,7,0,38,5,1,1,0,0,0,0,9.5,0,0,0,0,0,5,32,0,37
-Assam,SJ Barman,aef46dfc,11,3,3,0,0,100.0,"[7, 9, 11, 13]",4.0,24,4,0,21,0,0,1,0,1,0,0,5.25,0,0,0,0,0,3,41,0,44
-Odisha,Rajesh Dhuper,0861a8d6,1,11,11,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,3,0,0,0,17,0,36,53
-Odisha,Anurag Sarangi,fb3a1c89,2,22,13,4,0,169.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,42,0,0,42
-Odisha,Subhransu Senapati,0edcb652,3,16,13,2,0,123.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,24,0,16,40
-Odisha,AS Raut,c69a7b5c,4,10,16,0,0,62.5,"[11, 13, 15, 17]",4.0,24,10,0,14,0,0,3,0,0,0,0,3.5,0,0,0,0,-2,8,95,0,103
-Odisha,Debasish Samantray,e4332bbf,5,25,25,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33
-Odisha,Prayas Singh,d8fee704,6,4,5,0,0,80.0,"[6, 8, 10]",3.0,18,12,0,6,0,0,3,1,0,0,0,2.0,0,0,0,0,0,4,105,0,109
-Odisha,Paresh Patel,8372988e,7,14,10,1,1,140.0,"[16, 18]",1.333,8,3,0,6,0,0,1,0,0,0,0,4.5,2,0,1,0,2,26,28,28,82
-Odisha,Suryakant Pradhan,a81e957f,8,0,2,0,0,0.0,"[1, 3, 5]",3.0,18,10,0,18,3,0,1,0,0,1,0,6.0,0,0,1,0,0,-2,37,12,47
-Odisha,Lagnajit Samal,473041ad,9,11,9,1,0,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
-Odisha,Debabrata Pradhan,347fb4e1,10,11,9,2,0,122.22,"[2, 4]",2.0,12,6,0,16,3,0,0,0,0,0,0,8.0,0,0,0,0,0,19,6,0,25
-Odisha,Jayanta Behera,f9daec85,11,1,7,0,0,14.29,"[7, 9, 12, 14]",4.0,24,8,0,16,0,0,0,0,0,0,0,4.0,0,0,0,0,0,1,14,0,15
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Assam,Rishav Das,8963ee49,1,26,19,5,0,136.84,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,52,0,0,52,35,True,True,False,Right-arm offbreak,Right-hand bat
+Assam,Pallav Kumar Das,c2294408,2,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,0,0,12,12,35,True,False,False,Right-arm medium,Left-hand bat
+Assam,Sibsankar Roy,3d8348d0,3,7,8,1,0,87.5,[12],1.0,6,1,0,7,1,0,1,0,0,0,0,7.0,0,0,0,0,0,11,26,0,37,34,True,False,False,Right-arm offbreak,Left-hand bat
+Assam,Amit Sinha,2f48362d,4,17,28,0,0,60.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,-2,15,0,16,31,36,True,True,False,Legbreak,Right-hand bat
+Assam,Wasiqur Rahman,645eaa96,5,5,14,0,0,35.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-1,0,0,-1,30,True,False,False,,Right-hand bat
+Assam,Romario Sharma,e15fb6f9,6,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,30,True,True,False,Right-arm offbreak,Left-hand bat
+Assam,Pritam Das,e342d310,7,1,4,0,0,25.0,"[3, 5, 17, 20]",4.0,24,9,0,25,3,0,2,0,2,0,0,6.25,0,0,0,0,0,1,77,0,78,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Assam,Rajjakuddin Ahmed,69cbffb8,8,8,10,0,0,80.0,"[8, 10, 14, 16]",4.0,24,8,0,22,0,1,1,0,0,0,0,5.5,2,0,0,0,0,8,37,16,61,29,True,True,False,Right-arm medium,Right-hand bat
+Assam,AN Ahmed,2af1b6d2,9,3,4,0,0,75.0,"[1, 15, 19]",3.0,18,12,0,13,2,0,2,0,0,0,1,4.33,0,0,0,0,0,3,68,0,71,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Assam,Arup Das,4f36495c,10,5,8,0,0,62.5,"[2, 4, 6, 18]",4.0,24,7,0,38,5,1,1,0,0,0,0,9.5,0,0,0,0,0,5,32,0,37,33,True,True,False,Right-arm medium,Right-hand bat
+Assam,SJ Barman,aef46dfc,11,3,3,0,0,100.0,"[7, 9, 11, 13]",4.0,24,4,0,21,0,0,1,0,1,0,0,5.25,0,0,0,0,0,3,41,0,44,36,True,True,False,Slow left-arm orthodox,Left-hand bat
+Odisha,Rajesh Dhuper,0861a8d6,1,11,11,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,3,0,0,0,17,0,36,53,25,True,False,False,,Right-hand bat
+Odisha,Anurag Sarangi,fb3a1c89,2,22,13,4,0,169.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,42,0,0,42,32,True,True,False,Right-arm medium,Left-hand bat
+Odisha,Subhransu Senapati,0edcb652,3,16,13,2,0,123.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,24,0,16,40,28,True,False,False,Right-arm medium,Right-hand bat
+Odisha,AS Raut,c69a7b5c,4,10,16,0,0,62.5,"[11, 13, 15, 17]",4.0,24,10,0,14,0,0,3,0,0,0,0,3.5,0,0,0,0,-2,8,95,0,103,38,True,False,True,Legbreak googly,Right-hand bat
+Odisha,Debasish Samantray,e4332bbf,5,25,25,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33,28,True,True,False,Right-arm offbreak,Left-hand bat
+Odisha,Prayas Singh,d8fee704,6,4,5,0,0,80.0,"[6, 8, 10]",3.0,18,12,0,6,0,0,3,1,0,0,0,2.0,0,0,0,0,0,4,105,0,109,31,True,True,False,Right-arm medium,Right-hand bat
+Odisha,Paresh Patel,8372988e,7,14,10,1,1,140.0,"[16, 18]",1.333,8,3,0,6,0,0,1,0,0,0,0,4.5,2,0,1,0,2,26,28,28,82,39,True,True,False,Slow left-arm orthodox,Left-hand bat
+Odisha,Suryakant Pradhan,a81e957f,8,0,2,0,0,0.0,"[1, 3, 5]",3.0,18,10,0,18,3,0,1,0,0,1,0,6.0,0,0,1,0,0,-2,37,12,47,31,True,False,False,Right-arm medium,Right-hand bat
+Odisha,Lagnajit Samal,473041ad,9,11,9,1,0,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15,35,True,True,False,Right-arm medium,Right-hand bat
+Odisha,Debabrata Pradhan,347fb4e1,10,11,9,2,0,122.22,"[2, 4]",2.0,12,6,0,16,3,0,0,0,0,0,0,8.0,0,0,0,0,0,19,6,0,25,28,True,True,False,Right-arm medium,Right-hand bat
+Odisha,Jayanta Behera,f9daec85,11,1,7,0,0,14.29,"[7, 9, 12, 14]",4.0,24,8,0,16,0,0,0,0,0,0,0,4.0,0,0,0,0,0,1,14,0,15,38,True,True,False,Slow left-arm orthodox,Left-hand bat

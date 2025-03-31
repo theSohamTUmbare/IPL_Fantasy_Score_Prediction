@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Birmingham Bears,EJ Pollock,d6663a9a,1,21,13,0,3,161.54,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,43,0,0,43
-Birmingham Bears,AJ Hose,104e88a4,2,18,6,1,2,300.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34
-Birmingham Bears,SR Hain,67b9536c,3,11,8,1,1,137.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
-Birmingham Bears,WMH Rhodes,f54dbda7,4,1,2,0,0,50.0,[12],1.0,6,0,0,17,2,1,0,0,0,0,0,17.0,0,0,0,0,0,1,0,0,1
-Birmingham Bears,MGK Burgess,715941c3,5,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Birmingham Bears,DR Mousley,876dbe2d,6,3,5,0,0,60.0,[2],1.0,6,1,0,9,1,0,1,0,1,0,0,9.0,0,0,0,0,0,3,34,0,37
-Birmingham Bears,TT Bresnan,58043739,7,9,8,1,0,112.5,[5],1.0,6,0,0,24,1,3,0,0,0,0,0,24.0,0,0,0,0,0,13,0,0,13
-Birmingham Bears,HJH Brookes,2085e1fa,8,16,12,3,0,133.33,"[4, 9, 11]",3.0,18,3,0,35,4,1,1,0,0,0,0,11.67,0,0,0,0,2,30,24,0,54
-Birmingham Bears,OP Stone,3f659464,9,6,2,0,1,300.0,"[3, 7]",2.0,12,3,0,24,1,2,0,0,0,0,0,12.0,1,0,0,0,0,12,-1,8,19
-Birmingham Bears,JB Lintott,e5218454,10,7,4,1,0,175.0,[6],1.0,6,2,0,10,2,0,0,0,0,0,0,10.0,0,0,0,0,0,11,2,0,13
-Birmingham Bears,JS Patel,f5821615,11,1,3,0,0,33.33,"[1, 8, 10]",3.0,18,6,0,32,2,2,1,0,1,0,4,10.67,0,0,0,0,0,1,37,0,38
-Gloucestershire,Miles Hammond,c88bc84a,1,41,23,6,1,178.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,81,0,0,81
-Gloucestershire,CDJ Dent,10435ca2,2,3,3,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,3,0,16,19
-Gloucestershire,IA Cockbain,542fd5a6,3,84,35,6,7,240.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,168,0,8,176
-Gloucestershire,JMR Taylor,aed5be04,4,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11
-Gloucestershire,RF Higgins,ad212f96,5,16,7,1,1,228.57,"[6, 8, 10]",3.0,18,5,0,22,3,0,1,0,1,0,0,7.33,0,0,0,0,0,26,38,0,64
-Gloucestershire,James Bracey,5bfdc77a,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0,0,12,12
-Gloucestershire,GFB Scott,c2b6764d,12,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
-Gloucestershire,GL van Buuren,ba377b40,13,0,0,0,0,0.0,"[1, 3]",2.0,12,5,0,22,0,3,1,0,1,0,0,11.0,0,0,0,0,0,0,36,0,36
-Gloucestershire,TMJ Smith,0a12e736,14,0,0,0,0,0.0,"[5, 7, 9]",3.0,18,11,0,16,1,1,5,0,0,0,0,5.33,0,0,0,0,0,0,152,0,152
-Gloucestershire,DA Payne,6c79c098,15,0,0,0,0,0.0,"[2, 11]",2.0,12,5,0,20,1,2,1,0,0,0,0,10.0,0,0,0,0,0,0,28,0,28
-Gloucestershire,MD Taylor,01a95383,16,0,0,0,0,0.0,"[4, 12]",1.167,7,4,0,19,2,1,1,0,0,4,0,16.28,0,0,0,0,0,0,29,0,29
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Birmingham Bears,EJ Pollock,d6663a9a,1,21,13,0,3,161.54,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,43,0,0,43,29,True,False,False,Right-arm offbreak,Left-hand bat
+Birmingham Bears,AJ Hose,104e88a4,2,18,6,1,2,300.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34,32,True,False,False,Right-arm medium-fast,Right-hand bat
+Birmingham Bears,SR Hain,67b9536c,3,11,8,1,1,137.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21,29,True,False,False,Right-arm offbreak,Right-hand bat
+Birmingham Bears,WMH Rhodes,f54dbda7,4,1,2,0,0,50.0,[12],1.0,6,0,0,17,2,1,0,0,0,0,0,17.0,0,0,0,0,0,1,0,0,1,30,True,False,True,Right-arm medium-fast,Left-hand bat
+Birmingham Bears,MGK Burgess,715941c3,5,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,30,True,False,False,,Right-hand bat
+Birmingham Bears,DR Mousley,876dbe2d,6,3,5,0,0,60.0,[2],1.0,6,1,0,9,1,0,1,0,1,0,0,9.0,0,0,0,0,0,3,34,0,37,23,True,False,True,Right-arm offbreak,Left-hand bat
+Birmingham Bears,TT Bresnan,58043739,7,9,8,1,0,112.5,[5],1.0,6,0,0,24,1,3,0,0,0,0,0,24.0,0,0,0,0,0,13,0,0,13,40,True,False,True,Right-arm medium-fast,Right-hand bat
+Birmingham Bears,HJH Brookes,2085e1fa,8,16,12,3,0,133.33,"[4, 9, 11]",3.0,18,3,0,35,4,1,1,0,0,0,0,11.67,0,0,0,0,2,30,24,0,54,25,True,False,False,Right-arm fast-medium,Right-hand bat
+Birmingham Bears,OP Stone,3f659464,9,6,2,0,1,300.0,"[3, 7]",2.0,12,3,0,24,1,2,0,0,0,0,0,12.0,1,0,0,0,0,12,-1,8,19,31,True,False,False,Right-arm fast,Right-hand bat
+Birmingham Bears,JB Lintott,e5218454,10,7,4,1,0,175.0,[6],1.0,6,2,0,10,2,0,0,0,0,0,0,10.0,0,0,0,0,0,11,2,0,13,31,True,False,False,Left-arm wrist-spin,Right-hand bat
+Birmingham Bears,JS Patel,f5821615,11,1,3,0,0,33.33,"[1, 8, 10]",3.0,18,6,0,32,2,2,1,0,1,0,4,10.67,0,0,0,0,0,1,37,0,38,44,True,False,False,Right-arm offbreak,Right-hand bat
+Gloucestershire,Miles Hammond,c88bc84a,1,41,23,6,1,178.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,81,0,0,81,29,True,False,False,Right-arm offbreak,Left-hand bat
+Gloucestershire,CDJ Dent,10435ca2,2,3,3,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,3,0,16,19,34,True,False,False,Slow left-arm orthodox,Left-hand bat
+Gloucestershire,IA Cockbain,542fd5a6,3,84,35,6,7,240.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,168,0,8,176,38,True,False,False,Right-arm medium,Right-hand bat
+Gloucestershire,JMR Taylor,aed5be04,4,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11,33,True,False,False,Legbreak,Right-hand bat
+Gloucestershire,RF Higgins,ad212f96,5,16,7,1,1,228.57,"[6, 8, 10]",3.0,18,5,0,22,3,0,1,0,1,0,0,7.33,0,0,0,0,0,26,38,0,64,30,True,False,True,Right-arm medium-fast,Right-hand bat
+Gloucestershire,James Bracey,5bfdc77a,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0,0,12,12,27,True,True,False,Right-arm medium,Left-hand bat
+Gloucestershire,GFB Scott,c2b6764d,12,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,29,True,False,True,Right-arm medium-fast,Right-hand bat
+Gloucestershire,GL van Buuren,ba377b40,13,0,0,0,0,0.0,"[1, 3]",2.0,12,5,0,22,0,3,1,0,1,0,0,11.0,0,0,0,0,0,0,36,0,36,34,True,False,True,Slow left-arm orthodox,Right-hand bat
+Gloucestershire,TMJ Smith,0a12e736,14,0,0,0,0,0.0,"[5, 7, 9]",3.0,18,11,0,16,1,1,5,0,0,0,0,5.33,0,0,0,0,0,0,152,0,152,37,True,False,False,Slow left-arm orthodox,Right-hand bat
+Gloucestershire,DA Payne,6c79c098,15,0,0,0,0,0.0,"[2, 11]",2.0,12,5,0,20,1,2,1,0,0,0,0,10.0,0,0,0,0,0,0,28,0,28,34,True,False,False,Left-arm fast-medium,Right-hand bat
+Gloucestershire,MD Taylor,01a95383,16,0,0,0,0,0.0,"[4, 12]",1.167,7,4,0,19,2,1,1,0,0,4,0,16.28,0,0,0,0,0,0,29,0,29,30,True,False,False,Left-arm fast-medium,Right-hand bat

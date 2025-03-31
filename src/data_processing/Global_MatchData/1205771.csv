@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Tripura,U U Bose,d28a7a2a,1,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Tripura,T Mishra,c9cac448,2,7,3,0,1,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
-Tripura,Manisankar Murasingh,52cb36a0,3,20,11,2,1,181.82,"[1, 4]",2.0,12,2,0,13,0,0,1,1,0,0,2,6.5,0,0,0,0,6,40,37,0,77
-Tripura,Milind Kumar,b4296080,4,10,12,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
-Tripura,Harmeet Singh,0bf15e52,5,7,4,0,1,175.0,[6],0.333,2,0,0,5,1,0,0,0,0,0,0,15.02,0,0,0,0,0,13,0,0,13
-Tripura,Ajay Sarkar,10636efb,5,0,0,0,0,0.0,"[2, 5]",2.0,12,4,0,22,2,1,2,0,1,0,0,11.0,0,0,0,0,0,0,60,0,60
-Tripura,Saurabh Das,38f548aa,6,0,1,0,0,0.0,[3],1.0,6,1,0,10,1,0,0,0,0,0,0,10.0,0,0,0,0,0,-2,1,0,-1
-Tripura,Bappa Das,ddeaa5fa,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Tripura,Neelambuj Vats,899bc881,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Tripura,JR Banik,e87cc53a,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Tripura,AA Chakraborty,44e58b5b,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Uttar Pradesh,RK Singh,0a509d6b,1,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Uttar Pradesh,Upendra Yadav,80ffea17,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Uttar Pradesh,Samarth Singh,9889da93,3,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
-Uttar Pradesh,AD Nath,f10e94c4,4,28,14,2,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,52,0,0,52
-Uttar Pradesh,Yash Dayal,7210d461,5,0,0,0,0,0.0,[1],1.0,6,3,0,8,0,1,0,0,0,0,0,8.0,0,0,0,0,0,0,3,0,3
-Uttar Pradesh,Shubham Chaubey,58588e5a,5,16,9,2,0,177.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
-Uttar Pradesh,AS Rajpoot,db31895a,6,0,0,0,0,0.0,"[2, 6]",2.0,12,7,0,17,0,2,5,0,0,0,2,8.5,1,0,0,0,0,0,144,8,152
-Uttar Pradesh,Mohsin Khan,c33d8116,7,0,0,0,0,0.0,"[3, 5]",2.0,12,6,0,13,2,0,1,0,1,0,1,6.5,1,0,0,0,0,0,41,8,49
-Uttar Pradesh,Saurabh Kumar,2a6afc6f,8,0,0,0,0,0.0,[4],1.0,6,0,0,10,1,0,0,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
-Uttar Pradesh,Shanu Saini,61d1a3d3,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
-Uttar Pradesh,Sameer Choudhary,9e67cfd0,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Tripura,U U Bose,d28a7a2a,1,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,31,True,False,False,Right-arm offbreak,Right-hand bat
+Tripura,T Mishra,c9cac448,2,7,3,0,1,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21,38,True,False,False,Right-arm fast-medium,Right-hand bat
+Tripura,Manisankar Murasingh,52cb36a0,3,20,11,2,1,181.82,"[1, 4]",2.0,12,2,0,13,0,0,1,1,0,0,2,6.5,0,0,0,0,6,40,37,0,77,32,True,False,True,Right-arm medium,Left-hand bat
+Tripura,Milind Kumar,b4296080,4,10,12,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,34,True,False,True,Right-arm offbreak,Right-hand bat
+Tripura,Harmeet Singh,0bf15e52,5,7,4,0,1,175.0,[6],0.333,2,0,0,5,1,0,0,0,0,0,0,15.02,0,0,0,0,0,13,0,0,13,32,True,False,True,Slow left-arm orthodox,Left-hand bat
+Tripura,Ajay Sarkar,10636efb,5,0,0,0,0,0.0,"[2, 5]",2.0,12,4,0,22,2,1,2,0,1,0,0,11.0,0,0,0,0,0,0,60,0,60,28,True,False,False,Right-arm medium,Right-hand bat
+Tripura,Saurabh Das,38f548aa,6,0,1,0,0,0.0,[3],1.0,6,1,0,10,1,0,0,0,0,0,0,10.0,0,0,0,0,0,-2,1,0,-1,31,True,True,False,Right-arm offbreak,Right-hand bat
+Tripura,Bappa Das,ddeaa5fa,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,39,True,True,False,Right-arm fast-medium,Right-hand bat
+Tripura,Neelambuj Vats,899bc881,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,29,True,True,False,Right-arm medium,Right-hand bat
+Tripura,JR Banik,e87cc53a,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,32,True,True,False,Right-arm offbreak,Right-hand bat
+Tripura,AA Chakraborty,44e58b5b,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,34,True,True,False,Slow left-arm orthodox,Right-hand bat
+Uttar Pradesh,RK Singh,0a509d6b,1,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,27,True,False,False,Right-arm offbreak,Left-hand bat
+Uttar Pradesh,Upendra Yadav,80ffea17,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,28,True,True,False,Right-arm offbreak,Right-hand bat
+Uttar Pradesh,Samarth Singh,9889da93,3,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,33,True,False,False,Right-arm offbreak,Right-hand bat
+Uttar Pradesh,AD Nath,f10e94c4,4,28,14,2,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,52,0,0,52,31,True,False,False,Right-arm medium-fast,Right-hand bat
+Uttar Pradesh,Yash Dayal,7210d461,5,0,0,0,0,0.0,[1],1.0,6,3,0,8,0,1,0,0,0,0,0,8.0,0,0,0,0,0,0,3,0,3,27,True,False,False,Left-arm medium-fast,Right-hand bat
+Uttar Pradesh,Shubham Chaubey,58588e5a,5,16,9,2,0,177.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24,29,True,True,False,Right-arm offbreak,Right-hand bat
+Uttar Pradesh,AS Rajpoot,db31895a,6,0,0,0,0,0.0,"[2, 6]",2.0,12,7,0,17,0,2,5,0,0,0,2,8.5,1,0,0,0,0,0,144,8,152,31,True,False,False,Right-arm medium,Right-hand bat
+Uttar Pradesh,Mohsin Khan,c33d8116,7,0,0,0,0,0.0,"[3, 5]",2.0,12,6,0,13,2,0,1,0,1,0,1,6.5,1,0,0,0,0,0,41,8,49,26,True,False,False,Left-arm medium-fast,Left-hand bat
+Uttar Pradesh,Saurabh Kumar,2a6afc6f,8,0,0,0,0,0.0,[4],1.0,6,0,0,10,1,0,0,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Uttar Pradesh,Shanu Saini,61d1a3d3,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,27,True,True,False,Slow left-arm orthodox,Left-hand bat
+Uttar Pradesh,Sameer Choudhary,9e67cfd0,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,25,True,True,False,Right-arm offbreak,Right-hand bat

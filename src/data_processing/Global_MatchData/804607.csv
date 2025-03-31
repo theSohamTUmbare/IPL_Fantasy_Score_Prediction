@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Gloucestershire,M Klinger,b970a03f,1,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Gloucestershire,HJH Marshall,70542bef,2,32,20,4,1,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,62,0,0,62
-Gloucestershire,IA Cockbain,542fd5a6,3,31,17,5,1,182.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,67,0,0,67
-Gloucestershire,PSP Handscomb,ada15e88,4,39,36,3,0,108.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,55,0,8,63
-Gloucestershire,BAC Howell,0bec3a6c,5,1,5,0,0,20.0,"[9, 11, 15, 19]",4.0,24,6,0,30,1,0,1,0,0,2,2,7.5,1,0,0,0,0,1,31,8,40
-Gloucestershire,GO Jones,2e929b99,6,37,30,2,1,123.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,55,0,12,67
-Gloucestershire,K Noema-Barnett,1ad0b441,7,4,6,0,0,66.67,[14],1.0,6,2,0,8,0,0,0,0,0,0,4,8.0,0,0,0,0,0,4,2,0,6
-Gloucestershire,JMR Taylor,aed5be04,8,0,0,0,0,0.0,"[8, 10, 12, 16]",4.0,24,7,0,22,0,0,1,0,0,0,0,5.5,0,0,0,0,0,0,36,0,36
-Gloucestershire,LC Norwell,85ebf2be,9,0,0,0,0,0.0,"[2, 4, 6, 18]",4.0,24,9,0,37,5,1,0,0,0,0,2,9.25,1,0,0,0,0,0,9,8,17
-Gloucestershire,TMJ Smith,0a12e736,10,0,0,0,0,0.0,"[1, 7, 13, 17]",4.0,24,10,0,24,0,1,2,0,0,0,0,6.0,0,0,0,0,0,0,62,0,62
-Gloucestershire,CN Miles,5fed6272,11,0,0,0,0,0.0,"[3, 5, 20]",3.0,18,7,0,29,2,2,1,0,0,0,1,9.67,1,0,0,0,0,0,32,8,40
-Surrey,JJ Roy,d1c36f5c,1,33,17,5,1,194.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,69,0,0,69
-Surrey,TK Curran,e86754b2,2,10,16,1,0,62.5,"[4, 15, 18, 20]",4.0,24,8,0,41,5,1,1,0,0,2,0,10.25,0,0,0,0,-2,12,31,0,43
-Surrey,KC Sangakkara,6b71e6cf,3,34,33,0,1,103.03,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,44,0,0,44
-Surrey,GC Wilson,05de1a5a,4,4,6,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12
-Surrey,BT Foakes,fd770945,5,27,26,1,0,103.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,35,0,8,43
-Surrey,Azhar Mahmood,9a158001,6,22,13,1,2,169.23,"[3, 5, 17, 19]",4.0,24,7,0,32,5,0,0,0,0,0,0,8.0,0,0,0,0,4,42,7,0,49
-Surrey,ZS Ansari,7b1e20ea,7,9,9,0,0,100.0,"[1, 7, 9, 11]",4.0,24,6,0,27,1,1,1,0,0,0,0,6.75,0,0,0,0,0,9,33,0,42
-Surrey,JE Burke,ce24059d,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Surrey,GJ Batty,5ac8f17b,8,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,6,0,20,1,0,1,0,0,0,0,5.0,1,0,0,0,0,0,35,8,43
-Surrey,SM Curran,e94915e6,9,0,0,0,0,0.0,"[13, 16]",2.0,12,2,0,15,1,0,0,0,0,0,1,7.5,1,0,0,0,0,0,2,8,10
-Surrey,MP Dunn,57a76baa,10,0,0,0,0,0.0,"[2, 6]",2.0,12,7,0,15,1,1,2,0,1,0,1,7.5,0,0,0,0,0,0,65,0,65
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Gloucestershire,M Klinger,b970a03f,1,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,44,True,False,False,,Right-hand bat
+Gloucestershire,HJH Marshall,70542bef,2,32,20,4,1,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,62,0,0,62,46,True,False,False,Right-arm medium,Right-hand bat
+Gloucestershire,IA Cockbain,542fd5a6,3,31,17,5,1,182.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,67,0,0,67,38,True,False,False,Right-arm medium,Right-hand bat
+Gloucestershire,PSP Handscomb,ada15e88,4,39,36,3,0,108.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,55,0,8,63,33,True,False,False,,Right-hand bat
+Gloucestershire,BAC Howell,0bec3a6c,5,1,5,0,0,20.0,"[9, 11, 15, 19]",4.0,24,6,0,30,1,0,1,0,0,2,2,7.5,1,0,0,0,0,1,31,8,40,36,True,False,True,Right-arm medium,Right-hand bat
+Gloucestershire,GO Jones,2e929b99,6,37,30,2,1,123.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,55,0,12,67,48,True,False,False,,Right-hand bat
+Gloucestershire,K Noema-Barnett,1ad0b441,7,4,6,0,0,66.67,[14],1.0,6,2,0,8,0,0,0,0,0,0,4,8.0,0,0,0,0,0,4,2,0,6,37,True,True,False,Right-arm medium,Left-hand bat
+Gloucestershire,JMR Taylor,aed5be04,8,0,0,0,0,0.0,"[8, 10, 12, 16]",4.0,24,7,0,22,0,0,1,0,0,0,0,5.5,0,0,0,0,0,0,36,0,36,33,True,False,False,Legbreak,Right-hand bat
+Gloucestershire,LC Norwell,85ebf2be,9,0,0,0,0,0.0,"[2, 4, 6, 18]",4.0,24,9,0,37,5,1,0,0,0,0,2,9.25,1,0,0,0,0,0,9,8,17,33,True,False,False,Right-arm fast-medium,Right-hand bat
+Gloucestershire,TMJ Smith,0a12e736,10,0,0,0,0,0.0,"[1, 7, 13, 17]",4.0,24,10,0,24,0,1,2,0,0,0,0,6.0,0,0,0,0,0,0,62,0,62,37,True,False,False,Slow left-arm orthodox,Right-hand bat
+Gloucestershire,CN Miles,5fed6272,11,0,0,0,0,0.0,"[3, 5, 20]",3.0,18,7,0,29,2,2,1,0,0,0,1,9.67,1,0,0,0,0,0,32,8,40,30,True,False,False,Right-arm medium,Right-hand bat
+Surrey,JJ Roy,d1c36f5c,1,33,17,5,1,194.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,69,0,0,69,34,True,False,False,,Right-hand bat
+Surrey,TK Curran,e86754b2,2,10,16,1,0,62.5,"[4, 15, 18, 20]",4.0,24,8,0,41,5,1,1,0,0,2,0,10.25,0,0,0,0,-2,12,31,0,43,30,True,False,True,Right-arm fast-medium,Right-hand bat
+Surrey,KC Sangakkara,6b71e6cf,3,34,33,0,1,103.03,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,44,0,0,44,47,True,True,False,Right-arm offbreak,Left-hand bat
+Surrey,GC Wilson,05de1a5a,4,4,6,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12,39,True,False,False,,Right-hand bat
+Surrey,BT Foakes,fd770945,5,27,26,1,0,103.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,35,0,8,43,32,True,False,False,,Right-hand bat
+Surrey,Azhar Mahmood,9a158001,6,22,13,1,2,169.23,"[3, 5, 17, 19]",4.0,24,7,0,32,5,0,0,0,0,0,0,8.0,0,0,0,0,4,42,7,0,49,50,True,False,True,Right-arm fast-medium,Right-hand bat
+Surrey,ZS Ansari,7b1e20ea,7,9,9,0,0,100.0,"[1, 7, 9, 11]",4.0,24,6,0,27,1,1,1,0,0,0,0,6.75,0,0,0,0,0,9,33,0,42,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+Surrey,JE Burke,ce24059d,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,34,True,True,False,Right-arm medium-fast,Right-hand bat
+Surrey,GJ Batty,5ac8f17b,8,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,6,0,20,1,0,1,0,0,0,0,5.0,1,0,0,0,0,0,35,8,43,47,True,False,False,Right-arm offbreak,Right-hand bat
+Surrey,SM Curran,e94915e6,9,0,0,0,0,0.0,"[13, 16]",2.0,12,2,0,15,1,0,0,0,0,0,1,7.5,1,0,0,0,0,0,2,8,10,26,True,False,True,Left-arm medium-fast,Left-hand bat
+Surrey,MP Dunn,57a76baa,10,0,0,0,0,0.0,"[2, 6]",2.0,12,7,0,15,1,1,2,0,1,0,1,7.5,0,0,0,0,0,0,65,0,65,32,True,False,False,Right-arm fast,Left-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Philippines,JH Kiani,7370ca3d,1,36,31,4,1,116.13,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,62,0,0,62
-Philippines,MK Gohal,024aece0,2,29,21,3,1,138.1,"[12, 14]",2.0,12,3,0,25,2,2,0,0,0,0,0,12.5,0,0,0,0,2,53,-3,0,50
-Philippines,MP Biddappa,c45701b6,3,12,16,1,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,16,0,16,32
-Philippines,Karweng NG,6af3f1e6,4,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Philippines,HER Tyler,0ba9de33,5,33,27,0,3,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,55,0,8,63
-Philippines,J Hill,5481bd91,6,12,8,0,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
-Philippines,DC Smith,a968d39b,7,7,6,1,0,116.67,"[1, 3, 15, 17]",4.0,24,14,0,23,0,2,1,0,1,0,2,5.75,1,0,0,0,0,11,51,8,70
-Philippines,GR Russ,1f28fdfd,8,5,5,0,0,100.0,"[6, 8, 10, 20]",3.833,23,9,0,29,1,1,3,0,2,0,3,7.57,1,0,0,0,0,5,104,8,117
-Philippines,R Mahajan,ea0e8ea2,9,7,3,1,0,233.33,"[13, 18]",2.0,12,4,0,23,2,1,1,0,0,0,3,11.5,0,0,0,0,0,11,25,0,36
-Philippines,Tariq Ali,ce677d83,11,0,0,0,0,0.0,"[5, 7, 9, 11]",4.0,24,11,0,22,3,0,1,0,0,0,0,5.5,2,0,0,0,0,0,40,16,56
-Philippines,Surinder Singh,2dcad6fa,12,0,0,0,0,0.0,"[2, 4, 16, 19]",4.0,24,12,0,23,3,0,4,0,0,0,2,5.75,0,0,0,0,0,0,124,0,124
-South Korea,Raja Shoaib,7b0ea09e,1,17,18,2,0,94.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,0,25,0,40,65
-South Korea,Park Keunyeol,d17b73f7,2,7,14,1,0,50.0,"[10, 12, 14, 16]",4.0,24,10,0,26,0,2,3,0,0,0,0,6.5,0,0,0,0,-4,7,91,0,98
-South Korea,Mudassir Iqbal,63f306ac,3,4,10,0,0,40.0,"[2, 4, 19]",3.0,18,11,0,12,1,0,0,0,0,0,0,4.0,0,0,0,0,-6,-2,17,0,15
-South Korea,Jun Hyunwoo,431f2dd4,4,42,31,3,2,135.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,72,0,0,72
-South Korea,Kim Daeyeon,4a51c045,5,31,16,3,2,193.75,"[9, 11, 13, 15]",4.0,24,12,0,21,1,1,2,0,1,0,0,5.25,0,0,0,0,6,65,74,0,139
-South Korea,Muhammad Nadeem,f681481e,6,19,11,1,2,172.73,"[5, 7, 17]",3.0,18,2,0,25,2,0,0,0,0,1,3,8.33,0,0,0,0,6,41,2,0,43
-South Korea,F Pieters,a07c24ea,7,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-South Korea,Jiwon Choi,766e328e,8,8,7,0,0,114.29,"[1, 3, 18, 20]",4.0,24,8,0,38,2,2,2,1,1,0,4,9.5,0,0,0,0,0,8,74,0,82
-South Korea,Altaf Gill,b9b194d6,9,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-South Korea,Nishat Sakib,554f19e4,10,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-South Korea,Taekwan Park,9a5668db,11,6,5,1,0,120.0,"[6, 8]",2.0,12,3,0,31,4,1,0,0,0,0,3,15.5,0,0,0,0,0,10,-3,0,7
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Philippines,JH Kiani,7370ca3d,1,36,31,4,1,116.13,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,62,0,0,62,38,True,False,False,,Left-hand bat
+Philippines,MK Gohal,024aece0,2,29,21,3,1,138.1,"[12, 14]",2.0,12,3,0,25,2,2,0,0,0,0,0,12.5,0,0,0,0,2,53,-3,0,50,43,True,True,False,Right-arm medium-fast,Right-hand bat
+Philippines,MP Biddappa,c45701b6,3,12,16,1,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,16,0,16,32,42,True,False,False,,Right-hand bat
+Philippines,Karweng NG,6af3f1e6,4,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,43,True,False,False,,Right-hand bat
+Philippines,HER Tyler,0ba9de33,5,33,27,0,3,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,55,0,8,63,33,True,False,False,,Right-hand bat
+Philippines,J Hill,5481bd91,6,12,8,0,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,34,True,True,False,Right-arm medium-fast,Right-hand bat
+Philippines,DC Smith,a968d39b,7,7,6,1,0,116.67,"[1, 3, 15, 17]",4.0,24,14,0,23,0,2,1,0,1,0,2,5.75,1,0,0,0,0,11,51,8,70,33,True,True,False,Right-arm medium-fast,Right-hand bat
+Philippines,GR Russ,1f28fdfd,8,5,5,0,0,100.0,"[6, 8, 10, 20]",3.833,23,9,0,29,1,1,3,0,2,0,3,7.57,1,0,0,0,0,5,104,8,117,34,True,True,False,Right-arm medium,Right-hand bat
+Philippines,R Mahajan,ea0e8ea2,9,7,3,1,0,233.33,"[13, 18]",2.0,12,4,0,23,2,1,1,0,0,0,3,11.5,0,0,0,0,0,11,25,0,36,43,True,True,False,Legbreak,Right-hand bat
+Philippines,Tariq Ali,ce677d83,11,0,0,0,0,0.0,"[5, 7, 9, 11]",4.0,24,11,0,22,3,0,1,0,0,0,0,5.5,2,0,0,0,0,0,40,16,56,49,True,True,False,Left-arm medium-fast,Right-hand bat
+Philippines,Surinder Singh,2dcad6fa,12,0,0,0,0,0.0,"[2, 4, 16, 19]",4.0,24,12,0,23,3,0,4,0,0,0,2,5.75,0,0,0,0,0,0,124,0,124,33,True,True,False,Right-arm medium,Right-hand bat
+South Korea,Raja Shoaib,7b0ea09e,1,17,18,2,0,94.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,0,25,0,40,65,49,True,False,False,,Right-hand bat
+South Korea,Park Keunyeol,d17b73f7,2,7,14,1,0,50.0,"[10, 12, 14, 16]",4.0,24,10,0,26,0,2,3,0,0,0,0,6.5,0,0,0,0,-4,7,91,0,98,34,True,False,False,,Right-hand bat
+South Korea,Mudassir Iqbal,63f306ac,3,4,10,0,0,40.0,"[2, 4, 19]",3.0,18,11,0,12,1,0,0,0,0,0,0,4.0,0,0,0,0,-6,-2,17,0,15,36,True,True,False,Right-arm medium,Right-hand bat
+South Korea,Jun Hyunwoo,431f2dd4,4,42,31,3,2,135.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,72,0,0,72,36,True,True,False,Right-arm medium,Right-hand bat
+South Korea,Kim Daeyeon,4a51c045,5,31,16,3,2,193.75,"[9, 11, 13, 15]",4.0,24,12,0,21,1,1,2,0,1,0,0,5.25,0,0,0,0,6,65,74,0,139,29,True,True,False,Legbreak,Right-hand bat
+South Korea,Muhammad Nadeem,f681481e,6,19,11,1,2,172.73,"[5, 7, 17]",3.0,18,2,0,25,2,0,0,0,0,1,3,8.33,0,0,0,0,6,41,2,0,43,0,True,False,False,,
+South Korea,F Pieters,a07c24ea,7,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,26,True,False,False,,Right-hand bat
+South Korea,Jiwon Choi,766e328e,8,8,7,0,0,114.29,"[1, 3, 18, 20]",4.0,24,8,0,38,2,2,2,1,1,0,4,9.5,0,0,0,0,0,8,74,0,82,34,True,True,False,Right-arm fast-medium,Right-hand bat
+South Korea,Altaf Gill,b9b194d6,9,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,47,True,False,False,,
+South Korea,Nishat Sakib,554f19e4,10,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,34,True,False,False,,Right-hand bat
+South Korea,Taekwan Park,9a5668db,11,6,5,1,0,120.0,"[6, 8]",2.0,12,3,0,31,4,1,0,0,0,0,3,15.5,0,0,0,0,0,10,-3,0,7,34,True,True,False,Left-arm fast-medium,Left-hand bat

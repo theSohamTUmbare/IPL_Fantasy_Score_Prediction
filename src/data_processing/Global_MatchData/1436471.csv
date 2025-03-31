@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Italy,J Mosca,8f02f6a8,1,28,14,3,2,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,62,0,16,78
-Italy,Syed Naqvi,c520c3b9,2,4,8,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
-Italy,JA Burns,7a5f232a,3,58,42,2,4,138.1,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,100,0,8,108
-Italy,AJ Mosca,19c56e6e,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Italy,HJ Manenti,0e56c514,5,30,26,3,1,115.38,"[1, 6, 17, 19]",4.0,24,19,0,8,0,0,2,0,1,0,1,2.0,0,0,0,0,0,52,83,0,135
-Italy,M Campopiano,26d80a9d,6,26,18,3,1,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,50,0,0,50
-Italy,GP Meade,3957a70a,7,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Italy,Zain Ali,cccac242,8,0,1,0,0,0.0,"[9, 11, 13, 18]",4.0,24,12,0,27,3,1,1,0,0,0,0,6.75,1,0,0,0,0,-2,39,8,45
-Italy,GK Berg,42151725,9,12,7,1,0,171.43,"[3, 5, 7, 15]",4.0,24,19,1,16,2,0,3,2,0,0,5,4.0,1,0,0,0,0,16,132,8,156
-Italy,CJPF Kalugamage,31c04b7b,11,0,0,0,0,0.0,"[8, 10, 12, 20]",4.0,24,16,0,23,1,1,1,0,0,0,6,5.75,0,0,0,0,0,0,45,0,45
-Italy,TJ Draca,88fac705,12,0,0,0,0,0.0,"[2, 4, 14, 16]",4.0,24,17,0,15,2,0,2,0,1,1,0,3.75,0,0,0,0,0,0,81,0,81
-Luxembourg,TC Barker,c31adb5c,1,27,31,3,1,87.1,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,49,0,0,49
-Luxembourg,J Barker,c18cecbe,2,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Luxembourg,SKS Gill,faef026c,3,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Luxembourg,V Vijh,b857468a,4,4,4,1,0,100.0,"[9, 11, 16, 19]",4.0,24,6,0,35,1,2,2,0,0,0,0,8.75,0,0,0,0,0,8,56,0,64
-Luxembourg,J Mees,ab1445ea,5,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Luxembourg,WJ Cope,fb34b0ec,6,1,10,0,0,10.0,[8],1.0,6,3,0,15,2,1,0,0,0,0,1,15.0,0,0,1,0,-6,-5,3,12,10
-Luxembourg,Anoop Orsu,488b7e22,7,23,18,3,1,127.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,41,0,0,41
-Luxembourg,S Kushretha,4e3fd330,8,9,20,0,0,45.0,"[1, 5, 7, 15]",4.0,24,8,0,33,3,1,0,0,0,0,1,8.25,0,0,1,0,-6,3,8,12,23
-Luxembourg,M Cope,c83c594d,9,1,4,0,0,25.0,"[10, 12, 14]",3.0,18,10,0,17,0,1,0,0,0,0,3,5.67,2,0,0,0,0,1,14,16,31
-Luxembourg,Milad Momend,84880baf,10,6,13,1,0,46.15,"[3, 6, 18, 20]",4.0,24,10,0,26,3,0,1,0,0,0,1,6.5,0,0,0,0,-6,4,37,0,41
-Luxembourg,A Nanda,704e0160,11,3,7,0,0,42.86,"[2, 4, 13, 17]",4.0,24,9,0,40,3,3,2,0,0,0,0,10.0,2,0,0,0,0,3,57,16,76
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Italy,J Mosca,8f02f6a8,1,28,14,3,2,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,62,0,16,78,30,True,False,False,,Left-hand bat
+Italy,Syed Naqvi,c520c3b9,2,4,8,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,23,True,True,False,Right-arm medium-fast,Right-hand bat
+Italy,JA Burns,7a5f232a,3,58,42,2,4,138.1,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,100,0,8,108,35,True,False,False,Right-arm offbreak,Right-hand bat
+Italy,AJ Mosca,19c56e6e,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,33,True,False,False,,Right-hand bat
+Italy,HJ Manenti,0e56c514,5,30,26,3,1,115.38,"[1, 6, 17, 19]",4.0,24,19,0,8,0,0,2,0,1,0,1,2.0,0,0,0,0,0,52,83,0,135,24,True,True,False,Right-arm medium-fast,Right-hand bat
+Italy,M Campopiano,26d80a9d,6,26,18,3,1,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,50,0,0,50,30,True,True,False,Right-arm offbreak,Right-hand bat
+Italy,GP Meade,3957a70a,7,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,29,True,True,False,Right-arm medium-fast,Right-hand bat
+Italy,Zain Ali,cccac242,8,0,1,0,0,0.0,"[9, 11, 13, 18]",4.0,24,12,0,27,3,1,1,0,0,0,0,6.75,1,0,0,0,0,-2,39,8,45,23,True,True,False,Right-arm medium,Right-hand bat
+Italy,GK Berg,42151725,9,12,7,1,0,171.43,"[3, 5, 7, 15]",4.0,24,19,1,16,2,0,3,2,0,0,5,4.0,1,0,0,0,0,16,132,8,156,44,True,False,True,Right-arm medium,Right-hand bat
+Italy,CJPF Kalugamage,31c04b7b,11,0,0,0,0,0.0,"[8, 10, 12, 20]",4.0,24,16,0,23,1,1,1,0,0,0,6,5.75,0,0,0,0,0,0,45,0,45,33,True,True,False,Right-arm offbreak,Right-hand bat
+Italy,TJ Draca,88fac705,12,0,0,0,0,0.0,"[2, 4, 14, 16]",4.0,24,17,0,15,2,0,2,0,1,1,0,3.75,0,0,0,0,0,0,81,0,81,24,True,True,False,Right-arm medium,Right-hand bat
+Luxembourg,TC Barker,c31adb5c,1,27,31,3,1,87.1,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,49,0,0,49,29,True,False,False,,Left-hand bat
+Luxembourg,J Barker,c18cecbe,2,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,29,True,False,False,,Left-hand bat
+Luxembourg,SKS Gill,faef026c,3,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,40,True,True,False,Right-arm medium,Right-hand bat
+Luxembourg,V Vijh,b857468a,4,4,4,1,0,100.0,"[9, 11, 16, 19]",4.0,24,6,0,35,1,2,2,0,0,0,0,8.75,0,0,0,0,0,8,56,0,64,38,True,True,False,Right-arm medium-fast,Left-hand bat
+Luxembourg,J Mees,ab1445ea,5,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,46,True,False,False,,Right-hand bat
+Luxembourg,WJ Cope,fb34b0ec,6,1,10,0,0,10.0,[8],1.0,6,3,0,15,2,1,0,0,0,0,1,15.0,0,0,1,0,-6,-5,3,12,10,28,True,True,False,Right-arm medium,Right-hand bat
+Luxembourg,Anoop Orsu,488b7e22,7,23,18,3,1,127.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,41,0,0,41,35,True,True,False,Right-arm medium,Right-hand bat
+Luxembourg,S Kushretha,4e3fd330,8,9,20,0,0,45.0,"[1, 5, 7, 15]",4.0,24,8,0,33,3,1,0,0,0,0,1,8.25,0,0,1,0,-6,3,8,12,23,40,True,True,False,Right-arm offbreak,Right-hand bat
+Luxembourg,M Cope,c83c594d,9,1,4,0,0,25.0,"[10, 12, 14]",3.0,18,10,0,17,0,1,0,0,0,0,3,5.67,2,0,0,0,0,1,14,16,31,24,True,True,False,Right-arm offbreak,Right-hand bat
+Luxembourg,Milad Momend,84880baf,10,6,13,1,0,46.15,"[3, 6, 18, 20]",4.0,24,10,0,26,3,0,1,0,0,0,1,6.5,0,0,0,0,-6,4,37,0,41,22,True,True,False,Right-arm medium,Right-hand bat
+Luxembourg,A Nanda,704e0160,11,3,7,0,0,42.86,"[2, 4, 13, 17]",4.0,24,9,0,40,3,3,2,0,0,0,0,10.0,2,0,0,0,0,3,57,16,76,39,True,True,False,Right-arm medium-fast,Right-hand bat

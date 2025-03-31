@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Kenya,P Sharma,d047f983,1,14,9,3,0,155.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26
-Kenya,CO Obuya,5680f1ad,2,18,6,1,2,300.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34
-Kenya,LN Oluoch,eb4f9c61,2,0,0,0,0,0.0,"[1, 3, 5, 7]",4.0,24,22,1,5,0,0,1,0,0,0,2,1.25,0,0,0,0,0,0,65,0,65
-Kenya,NM Odhiambo,c07a1f41,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,0,0,6,6
-Kenya,P Koech,f4a0a615,4,0,0,0,0,0.0,"[2, 4, 6, 8]",4.0,24,19,1,17,2,0,6,0,2,1,0,4.25,0,0,0,0,0,0,215,0,215
-Kenya,IA Karim,ca92a578,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,4,1,0,0,0,0,0,48,48
-Kenya,RR Patel,7fa6bd8e,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Kenya,SR Bhudia,e9173fb0,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Kenya,SO Ngoche,49118dc7,8,0,0,0,0,0.0,[10],1.0,6,5,0,4,1,0,0,0,0,0,0,4.0,1,0,0,0,0,0,5,8,13
-Kenya,Tanzeel Sheikh,5493ad5c,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Kenya,Vraj Patel,2af28253,10,0,0,0,0,0.0,"[9, 11]",1.667,10,9,0,4,1,0,1,0,0,0,0,2.4,0,0,1,1,0,0,34,18,52
-Mali,MT Diaby,5d00cd6f,1,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Mali,Mohamed Coulibaly,86ea6123,2,5,8,0,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
-Mali,M Sidibe,78091b14,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Mali,L Berthe,8eb7c5a6,4,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Mali,CA Keita,5b9b8d98,5,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Mali,MS Diawara,8c95e2dd,6,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Mali,TM Macalou,8a9320a1,7,12,20,2,0,60.0,[3],0.5,3,0,0,11,1,1,0,0,0,0,0,22.0,0,0,0,0,-2,18,0,0,18
-Mali,S Kamate,d7af6207,8,0,6,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Mali,L Sanogo,abbc06cf,9,4,3,1,0,133.33,[2],1.0,6,1,0,15,2,1,0,0,0,0,0,15.0,0,0,0,0,0,8,1,0,9
-Mali,SG Diaby,fe3e9880,10,0,1,0,0,0.0,[1],1.0,6,3,0,7,1,0,0,0,0,0,1,7.0,0,0,0,0,0,-2,3,0,1
-Mali,D Traore,273be75a,11,4,9,1,0,44.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Kenya,P Sharma,d047f983,1,14,9,3,0,155.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26,24,True,True,False,Left-arm medium-fast,Left-hand bat
+Kenya,CO Obuya,5680f1ad,2,18,6,1,2,300.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34,43,True,False,True,Legbreak,Right-hand bat
+Kenya,LN Oluoch,eb4f9c61,2,0,0,0,0,0.0,"[1, 3, 5, 7]",4.0,24,22,1,5,0,0,1,0,0,0,2,1.25,0,0,0,0,0,0,65,0,65,33,True,False,False,Left-arm fast-medium,Right-hand bat
+Kenya,NM Odhiambo,c07a1f41,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,0,0,6,6,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Kenya,P Koech,f4a0a615,4,0,0,0,0,0.0,"[2, 4, 6, 8]",4.0,24,19,1,17,2,0,6,0,2,1,0,4.25,0,0,0,0,0,0,215,0,215,31,True,False,False,Right-arm medium,Right-hand bat
+Kenya,IA Karim,ca92a578,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,4,1,0,0,0,0,0,48,48,32,True,True,False,Right-arm offbreak,Left-hand bat
+Kenya,RR Patel,7fa6bd8e,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,35,True,True,False,Right-arm offbreak,Right-hand bat
+Kenya,SR Bhudia,e9173fb0,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,False,True,Right-arm medium,Right-hand bat
+Kenya,SO Ngoche,49118dc7,8,0,0,0,0,0.0,[10],1.0,6,5,0,4,1,0,0,0,0,0,0,4.0,1,0,0,0,0,0,5,8,13,35,True,False,False,Slow left-arm orthodox,Right-hand bat
+Kenya,Tanzeel Sheikh,5493ad5c,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,29,True,True,False,Right-arm medium,Right-hand bat
+Kenya,Vraj Patel,2af28253,10,0,0,0,0,0.0,"[9, 11]",1.667,10,9,0,4,1,0,1,0,0,0,0,2.4,0,0,1,1,0,0,34,18,52,23,True,False,False,Slow left-arm orthodox,Left-hand bat
+Mali,MT Diaby,5d00cd6f,1,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,36,True,True,False,Right-arm medium-fast,Right-hand bat
+Mali,Mohamed Coulibaly,86ea6123,2,5,8,0,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,25,True,True,False,Right-arm medium-fast,Right-hand bat
+Mali,M Sidibe,78091b14,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,22,True,True,False,Right-arm medium-fast,Right-hand bat
+Mali,L Berthe,8eb7c5a6,4,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,27,True,True,False,Right-arm medium-fast,Left-hand bat
+Mali,CA Keita,5b9b8d98,5,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,27,True,True,False,Right-arm medium-fast,Right-hand bat
+Mali,MS Diawara,8c95e2dd,6,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,27,True,True,False,Right-arm medium-fast,Right-hand bat
+Mali,TM Macalou,8a9320a1,7,12,20,2,0,60.0,[3],0.5,3,0,0,11,1,1,0,0,0,0,0,22.0,0,0,0,0,-2,18,0,0,18,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Mali,S Kamate,d7af6207,8,0,6,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Mali,L Sanogo,abbc06cf,9,4,3,1,0,133.33,[2],1.0,6,1,0,15,2,1,0,0,0,0,0,15.0,0,0,0,0,0,8,1,0,9,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Mali,SG Diaby,fe3e9880,10,0,1,0,0,0.0,[1],1.0,6,3,0,7,1,0,0,0,0,0,1,7.0,0,0,0,0,0,-2,3,0,1,35,True,True,False,Right-arm medium-fast,Right-hand bat
+Mali,D Traore,273be75a,11,4,9,1,0,44.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,23,True,True,False,Right-arm medium-fast,Right-hand bat

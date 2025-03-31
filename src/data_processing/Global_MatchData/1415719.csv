@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-India,RG Sharma,740742ef,1,13,12,1,1,108.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
-India,V Kohli,ba607b88,2,4,3,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
-India,RR Pant,919a3be2,3,42,31,6,0,135.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,2,72,0,28,100
-India,AR Patel,2e171977,4,20,18,2,1,111.11,"[11, 16]",2.0,12,6,0,11,0,1,1,1,0,0,0,5.5,0,0,0,0,0,34,43,0,77
-India,SA Yadav,271f83cd,5,7,8,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19
-India,S Dube,a4e37e47,6,3,9,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
-India,HH Pandya,dbe50b21,7,7,11,1,0,63.64,"[6, 9, 13, 17]",4.0,24,11,0,24,1,1,2,0,0,0,1,6.0,0,0,0,0,-2,9,63,0,72
-India,RA Jadeja,fe93fd9d,8,0,1,0,0,0.0,"[8, 10]",2.0,12,5,0,10,1,0,0,0,0,0,0,5.0,0,0,0,0,0,-2,9,0,7
-India,Arshdeep Singh,244048f6,9,9,13,1,0,69.23,"[1, 12, 14, 20]",4.0,24,9,0,31,4,0,1,0,0,0,2,7.75,1,0,0,0,-2,11,34,8,53
-India,JJ Bumrah,462411b3,10,0,1,0,0,0.0,"[3, 5, 15, 19]",4.0,24,14,0,14,1,0,3,0,1,0,0,3.5,0,0,0,0,0,-2,107,0,105
-India,Mohammed Siraj,2f49c897,11,7,7,0,0,100.0,"[2, 4, 7, 18]",4.0,24,10,0,19,1,0,0,0,0,1,1,4.75,0,0,0,0,0,7,16,0,23
-Pakistan,Mohammad Rizwan,2f26ac1a,1,31,44,1,1,70.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,45,0,6,51
-Pakistan,Babar Azam,8a75e999,2,13,10,2,0,130.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,2,23,0,14,37
-Pakistan,Usman Khan,bafb9238,3,13,15,1,0,86.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,17,0,8,25
-Pakistan,Fakhar Zaman,1777c020,4,13,8,1,1,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
-Pakistan,Imad Wasim,9cb8d7a6,5,15,23,1,0,65.22,"[9, 11, 13]",3.0,18,5,0,17,1,0,0,0,0,0,1,5.67,2,0,0,0,-2,17,9,16,42
-Pakistan,Shadab Khan,9de62878,6,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
-Pakistan,Iftikhar Ahmed,29e253dd,7,5,8,0,0,62.5,[7],1.0,6,3,0,7,1,0,0,0,0,0,1,7.0,1,0,0,0,0,5,3,8,16
-Pakistan,Shaheen Shah Afridi,45a7e761,8,0,1,0,0,0.0,"[1, 3, 5, 19]",4.0,24,14,0,29,1,2,1,0,0,0,1,7.25,0,0,0,0,0,0,39,0,39
-Pakistan,Naseem Shah,9c9af282,9,10,4,2,0,250.0,"[2, 8, 14, 16]",4.0,24,15,0,21,3,0,3,0,1,1,2,5.25,1,0,0,0,0,18,106,8,132
-Pakistan,Mohammad Amir,e174dadd,9,0,0,0,0,0.0,"[4, 6, 15, 17]",4.0,24,15,0,23,3,0,2,0,0,0,0,5.75,1,0,0,0,0,0,69,8,77
-Pakistan,Haris Rauf,24bb1c2f,10,0,0,0,0,0.0,"[10, 12, 18]",3.0,18,10,0,21,4,0,3,0,0,0,0,7.0,1,0,0,0,0,0,91,8,99
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+India,RG Sharma,740742ef,1,13,12,1,1,108.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23,37,True,False,False,Right-arm offbreak,Right-hand bat
+India,V Kohli,ba607b88,2,4,3,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,36,True,False,False,Right-arm medium,Right-hand bat
+India,RR Pant,919a3be2,3,42,31,6,0,135.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,2,72,0,28,100,27,True,False,False,,Left-hand bat
+India,AR Patel,2e171977,4,20,18,2,1,111.11,"[11, 16]",2.0,12,6,0,11,0,1,1,1,0,0,0,5.5,0,0,0,0,0,34,43,0,77,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+India,SA Yadav,271f83cd,5,7,8,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19,34,True,False,False,Right-arm offbreak,Right-hand bat
+India,S Dube,a4e37e47,6,3,9,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,31,True,False,True,Right-arm medium,Left-hand bat
+India,HH Pandya,dbe50b21,7,7,11,1,0,63.64,"[6, 9, 13, 17]",4.0,24,11,0,24,1,1,2,0,0,0,1,6.0,0,0,0,0,-2,9,63,0,72,31,True,False,True,Right-arm medium-fast,Right-hand bat
+India,RA Jadeja,fe93fd9d,8,0,1,0,0,0.0,"[8, 10]",2.0,12,5,0,10,1,0,0,0,0,0,0,5.0,0,0,0,0,0,-2,9,0,7,36,True,False,True,Slow left-arm orthodox,Left-hand bat
+India,Arshdeep Singh,244048f6,9,9,13,1,0,69.23,"[1, 12, 14, 20]",4.0,24,9,0,31,4,0,1,0,0,0,2,7.75,1,0,0,0,-2,11,34,8,53,26,True,False,False,Left-arm medium-fast,Left-hand bat
+India,JJ Bumrah,462411b3,10,0,1,0,0,0.0,"[3, 5, 15, 19]",4.0,24,14,0,14,1,0,3,0,1,0,0,3.5,0,0,0,0,0,-2,107,0,105,31,True,False,False,Right-arm fast,Right-hand bat
+India,Mohammed Siraj,2f49c897,11,7,7,0,0,100.0,"[2, 4, 7, 18]",4.0,24,10,0,19,1,0,0,0,0,1,1,4.75,0,0,0,0,0,7,16,0,23,31,True,False,False,Right-arm fast,Right-hand bat
+Pakistan,Mohammad Rizwan,2f26ac1a,1,31,44,1,1,70.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,45,0,6,51,32,True,True,False,Right-arm medium,Right-hand bat
+Pakistan,Babar Azam,8a75e999,2,13,10,2,0,130.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,2,23,0,14,37,30,True,False,False,Right-arm offbreak,Right-hand bat
+Pakistan,Usman Khan,bafb9238,3,13,15,1,0,86.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,17,0,8,25,29,True,True,False,Right-arm offbreak,Right-hand bat
+Pakistan,Fakhar Zaman,1777c020,4,13,8,1,1,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23,34,True,False,False,Slow left-arm orthodox,Left-hand bat
+Pakistan,Imad Wasim,9cb8d7a6,5,15,23,1,0,65.22,"[9, 11, 13]",3.0,18,5,0,17,1,0,0,0,0,0,1,5.67,2,0,0,0,-2,17,9,16,42,36,True,False,True,Slow left-arm orthodox,Left-hand bat
+Pakistan,Shadab Khan,9de62878,6,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,26,True,False,True,Legbreak,Right-hand bat
+Pakistan,Iftikhar Ahmed,29e253dd,7,5,8,0,0,62.5,[7],1.0,6,3,0,7,1,0,0,0,0,0,1,7.0,1,0,0,0,0,5,3,8,16,34,True,False,False,Right-arm offbreak,Right-hand bat
+Pakistan,Shaheen Shah Afridi,45a7e761,8,0,1,0,0,0.0,"[1, 3, 5, 19]",4.0,24,14,0,29,1,2,1,0,0,0,1,7.25,0,0,0,0,0,0,39,0,39,24,True,False,False,Left-arm fast,Left-hand bat
+Pakistan,Naseem Shah,9c9af282,9,10,4,2,0,250.0,"[2, 8, 14, 16]",4.0,24,15,0,21,3,0,3,0,1,1,2,5.25,1,0,0,0,0,18,106,8,132,22,True,False,False,Right-arm fast,Right-hand bat
+Pakistan,Mohammad Amir,e174dadd,9,0,0,0,0,0.0,"[4, 6, 15, 17]",4.0,24,15,0,23,3,0,2,0,0,0,0,5.75,1,0,0,0,0,0,69,8,77,32,True,False,False,Left-arm fast-medium,Left-hand bat
+Pakistan,Haris Rauf,24bb1c2f,10,0,0,0,0,0.0,"[10, 12, 18]",3.0,18,10,0,21,4,0,3,0,0,0,0,7.0,1,0,0,0,0,0,91,8,99,31,True,False,False,Right-arm fast,Right-hand bat

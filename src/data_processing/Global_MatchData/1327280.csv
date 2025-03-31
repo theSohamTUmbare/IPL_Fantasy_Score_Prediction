@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Pakistan,Mohammad Rizwan,2f26ac1a,1,14,14,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,14,0,8,22
-Pakistan,Babar Azam,8a75e999,2,30,29,2,0,103.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,42,0,8,50
-Pakistan,Fakhar Zaman,1777c020,3,13,18,1,0,72.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
-Pakistan,Iftikhar Ahmed,29e253dd,4,13,17,0,1,76.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,19,0,8,27
-Pakistan,Khushdil Shah,fce581b5,5,4,8,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
-Pakistan,Mohammad Nawaz,3086f7a4,6,26,17,1,2,152.94,"[7, 9, 11, 13]",4.0,24,5,0,21,0,0,0,0,0,0,0,5.25,0,0,0,0,4,50,9,0,59
-Pakistan,Asif Ali,0a4736eb,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Pakistan,Hasan Ali,2911de16,8,0,2,0,0,0.0,"[4, 6, 16]",3.0,18,7,0,25,5,0,0,0,0,0,0,8.33,1,0,0,0,0,-2,7,8,13
-Pakistan,Usman Qadir,33742f04,9,3,6,0,0,50.0,"[8, 10, 12, 14]",4.0,24,9,0,34,0,3,1,0,0,1,0,8.5,0,0,0,0,0,3,34,0,37
-Pakistan,Haris Rauf,24bb1c2f,10,1,2,0,0,50.0,"[2, 5, 15]",3.0,18,11,0,19,2,1,2,0,0,0,0,6.33,1,0,0,0,0,1,63,8,72
-Pakistan,Mohammad Hasnain,8596fe80,11,0,1,0,0,0.0,"[1, 3, 17]",3.0,18,7,0,21,2,1,2,0,0,0,0,7.0,0,0,0,0,0,0,59,0,59
-Sri Lanka,P Nissanka,8ee36b18,1,55,47,5,1,117.02,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,89,0,16,105
-Sri Lanka,BKG Mendis,5d1e7582,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,-2,0,14,12
-Sri Lanka,MD Gunathilaka,509a7ca1,3,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Sri Lanka,DM de Silva,7d608e12,4,9,12,1,0,75.0,"[5, 8, 12, 14]",4.0,24,8,0,18,0,0,1,0,0,0,0,4.5,1,0,0,0,0,13,39,8,60
-Sri Lanka,PBB Rajapaksa,6c882e9a,5,24,19,0,2,126.32,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,36,0,0,36
-Sri Lanka,MD Shanaka,3ff033bb,6,21,16,1,2,131.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,39,0,0,39
-Sri Lanka,C Karunaratne,fb3e0d39,7,0,0,0,0,0.0,[10],1.0,6,2,0,4,0,0,1,0,0,0,0,4.0,0,0,0,0,0,0,27,0,27
-Sri Lanka,PWH de Silva,a97c8ec2,7,10,3,2,0,333.33,"[7, 9, 11, 15]",4.0,24,14,0,21,0,1,3,0,3,0,5,5.25,2,0,0,1,0,18,121,22,161
-Sri Lanka,M Theekshana,f24c6701,8,0,0,0,0,0.0,"[2, 13, 16, 18]",4.0,24,12,0,21,0,1,2,0,0,0,2,5.25,0,0,0,0,0,0,66,0,66
-Sri Lanka,D Madushanka,de7d833e,9,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,10,0,35,2,1,0,0,0,1,7,8.75,0,0,0,0,0,0,10,0,10
-Sri Lanka,PM Liyanagamage,3ee0050f,10,0,0,0,0,0.0,"[4, 6, 20]",2.167,13,4,0,21,2,0,2,0,0,0,1,9.69,0,0,0,0,0,0,54,0,54
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Pakistan,Mohammad Rizwan,2f26ac1a,1,14,14,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,14,0,8,22,32,True,True,False,Right-arm medium,Right-hand bat
+Pakistan,Babar Azam,8a75e999,2,30,29,2,0,103.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,42,0,8,50,30,True,False,False,Right-arm offbreak,Right-hand bat
+Pakistan,Fakhar Zaman,1777c020,3,13,18,1,0,72.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,34,True,False,False,Slow left-arm orthodox,Left-hand bat
+Pakistan,Iftikhar Ahmed,29e253dd,4,13,17,0,1,76.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,19,0,8,27,34,True,False,False,Right-arm offbreak,Right-hand bat
+Pakistan,Khushdil Shah,fce581b5,5,4,8,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,30,True,False,True,Slow left-arm orthodox,Left-hand bat
+Pakistan,Mohammad Nawaz,3086f7a4,6,26,17,1,2,152.94,"[7, 9, 11, 13]",4.0,24,5,0,21,0,0,0,0,0,0,0,5.25,0,0,0,0,4,50,9,0,59,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Pakistan,Asif Ali,0a4736eb,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,33,True,False,False,Right-arm offbreak,Right-hand bat
+Pakistan,Hasan Ali,2911de16,8,0,2,0,0,0.0,"[4, 6, 16]",3.0,18,7,0,25,5,0,0,0,0,0,0,8.33,1,0,0,0,0,-2,7,8,13,30,True,False,False,Right-arm medium-fast,Right-hand bat
+Pakistan,Usman Qadir,33742f04,9,3,6,0,0,50.0,"[8, 10, 12, 14]",4.0,24,9,0,34,0,3,1,0,0,1,0,8.5,0,0,0,0,0,3,34,0,37,31,True,False,False,Legbreak,Left-hand bat
+Pakistan,Haris Rauf,24bb1c2f,10,1,2,0,0,50.0,"[2, 5, 15]",3.0,18,11,0,19,2,1,2,0,0,0,0,6.33,1,0,0,0,0,1,63,8,72,31,True,False,False,Right-arm fast,Right-hand bat
+Pakistan,Mohammad Hasnain,8596fe80,11,0,1,0,0,0.0,"[1, 3, 17]",3.0,18,7,0,21,2,1,2,0,0,0,0,7.0,0,0,0,0,0,0,59,0,59,24,True,False,False,Right-arm fast,Right-hand bat
+Sri Lanka,P Nissanka,8ee36b18,1,55,47,5,1,117.02,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,89,0,16,105,26,True,False,False,,Right-hand bat
+Sri Lanka,BKG Mendis,5d1e7582,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,-2,0,14,12,30,True,True,False,Legbreak,Right-hand bat
+Sri Lanka,MD Gunathilaka,509a7ca1,3,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,34,True,False,True,Right-arm offbreak,Left-hand bat
+Sri Lanka,DM de Silva,7d608e12,4,9,12,1,0,75.0,"[5, 8, 12, 14]",4.0,24,8,0,18,0,0,1,0,0,0,0,4.5,1,0,0,0,0,13,39,8,60,33,True,False,True,Right-arm offbreak,Right-hand bat
+Sri Lanka,PBB Rajapaksa,6c882e9a,5,24,19,0,2,126.32,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,36,0,0,36,33,True,False,False,Right-arm medium,Left-hand bat
+Sri Lanka,MD Shanaka,3ff033bb,6,21,16,1,2,131.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,39,0,0,39,33,True,False,True,Right-arm medium,Right-hand bat
+Sri Lanka,C Karunaratne,fb3e0d39,7,0,0,0,0,0.0,[10],1.0,6,2,0,4,0,0,1,0,0,0,0,4.0,0,0,0,0,0,0,27,0,27,28,True,False,True,Right-arm medium-fast,Right-hand bat
+Sri Lanka,PWH de Silva,a97c8ec2,7,10,3,2,0,333.33,"[7, 9, 11, 15]",4.0,24,14,0,21,0,1,3,0,3,0,5,5.25,2,0,0,1,0,18,121,22,161,27,True,False,True,Legbreak,Right-hand bat
+Sri Lanka,M Theekshana,f24c6701,8,0,0,0,0,0.0,"[2, 13, 16, 18]",4.0,24,12,0,21,0,1,2,0,0,0,2,5.25,0,0,0,0,0,0,66,0,66,24,True,False,False,Right-arm offbreak,Right-hand bat
+Sri Lanka,D Madushanka,de7d833e,9,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,10,0,35,2,1,0,0,0,1,7,8.75,0,0,0,0,0,0,10,0,10,24,True,False,False,Left-arm fast-medium,Right-hand bat
+Sri Lanka,PM Liyanagamage,3ee0050f,10,0,0,0,0,0.0,"[4, 6, 20]",2.167,13,4,0,21,2,0,2,0,0,0,1,9.69,0,0,0,0,0,0,54,0,54,31,True,False,False,Right-arm medium-fast,Right-hand bat

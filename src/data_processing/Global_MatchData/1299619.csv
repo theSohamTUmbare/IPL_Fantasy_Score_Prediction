@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Boland,JN Malan,f76d7466,1,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Boland,PJ Malan,f32d890a,2,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
-Boland,C Fortuin,f25cebec,3,27,17,5,0,158.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,4,55,0,12,67
-Boland,FD Adams,f277f531,4,27,17,3,1,158.82,"[7, 15, 17, 19]",4.0,24,3,0,45,2,3,0,0,0,0,1,11.25,0,0,0,0,4,53,-1,0,52
-Boland,M Copeland,9943b637,5,40,38,3,0,105.26,[9],1.0,6,3,0,3,0,0,0,0,0,0,0,3.0,1,0,0,0,0,56,3,8,67
-Boland,C Jonker,a81d6706,6,30,25,2,2,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,54,0,0,54
-Boland,GC Viljoen,a316d663,7,18,8,3,0,225.0,"[2, 18, 20]",3.0,18,3,0,36,5,1,1,1,0,0,1,12.0,0,0,0,0,0,30,32,0,62
-Boland,H Hanabe,28d46c78,8,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
-Boland,I Manack,5ec126fa,9,0,0,0,0,0.0,"[1, 3, 5, 13]",4.0,24,11,0,21,1,0,1,0,0,0,4,5.25,0,0,0,0,0,0,40,0,40
-Boland,S von Berg,ffd3fc37,9,6,3,1,0,200.0,"[8, 10, 12, 14]",4.0,24,8,0,26,1,1,3,0,0,0,0,6.5,0,0,0,0,0,10,89,0,99
-Boland,Siyabonga Mahima,1062bebb,10,0,0,0,0,0.0,"[4, 6, 11, 16]",4.0,24,5,0,22,0,0,0,0,0,0,0,5.5,2,0,0,0,0,0,9,16,25
-Warriors,MP Breetzke,35f173a0,1,11,13,1,0,84.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,15,0,8,23
-Warriors,WJ Lubbe,10f42013,2,35,25,3,1,140.0,"[6, 8]",2.0,12,5,0,8,0,0,0,0,0,0,0,4.0,0,0,0,1,2,59,11,6,76
-Warriors,JT Smuts,42172c3c,3,12,14,0,0,85.71,"[1, 3, 10, 13]",4.0,24,14,0,16,2,0,1,0,0,0,0,4.0,0,0,0,0,0,12,45,0,57
-Warriors,LC Ngoepe,51355a30,4,6,10,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,4,0,0,4
-Warriors,T Stubbs,85b3fab2,5,47,30,3,3,156.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,85,0,0,85
-Warriors,DS Rosier,f8e6dbdd,6,31,22,2,1,140.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,51,0,8,59
-Warriors,S Qeshile,94268960,7,5,3,0,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,1,0,5,0,18,23
-Warriors,T van Vuuren,20afc7e7,8,0,3,0,0,0.0,"[5, 16, 18, 20]",3.667,22,2,0,55,7,2,0,0,0,0,2,15.0,0,0,0,0,0,0,-4,0,-4
-Warriors,A Mnyaka,bd36db2c,9,0,0,0,0,0.0,"[14, 17, 19]",3.0,18,2,0,27,3,0,2,1,0,0,0,9.0,1,0,0,0,0,0,60,8,68
-Warriors,Tsepo Ndwandwa,be3ffb65,10,0,0,0,0,0.0,"[2, 4, 9, 12]",4.0,24,8,0,33,3,1,2,0,0,0,0,8.25,1,0,0,0,0,0,58,8,66
-Warriors,L Makhosi,deccdffa,11,0,0,0,0,0.0,"[7, 11, 15]",3.0,18,8,0,16,2,0,1,0,0,0,0,5.33,0,0,0,0,0,0,37,0,37
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Boland,JN Malan,f76d7466,1,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,28,True,False,False,Legbreak,Right-hand bat
+Boland,PJ Malan,f32d890a,2,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,35,True,False,False,Right-arm medium-fast,Right-hand bat
+Boland,C Fortuin,f25cebec,3,27,17,5,0,158.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,4,55,0,12,67,29,True,False,False,,Right-hand bat
+Boland,FD Adams,f277f531,4,27,17,3,1,158.82,"[7, 15, 17, 19]",4.0,24,3,0,45,2,3,0,0,0,0,1,11.25,0,0,0,0,4,53,-1,0,52,35,True,False,True,Right-arm fast-medium,Right-hand bat
+Boland,M Copeland,9943b637,5,40,38,3,0,105.26,[9],1.0,6,3,0,3,0,0,0,0,0,0,0,3.0,1,0,0,0,0,56,3,8,67,22,True,False,False,Right-arm offbreak,Right-hand bat
+Boland,C Jonker,a81d6706,6,30,25,2,2,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,54,0,0,54,38,True,False,False,Right-arm medium-fast,Right-hand bat
+Boland,GC Viljoen,a316d663,7,18,8,3,0,225.0,"[2, 18, 20]",3.0,18,3,0,36,5,1,1,1,0,0,1,12.0,0,0,0,0,0,30,32,0,62,36,True,False,False,Right-arm fast,Right-hand bat
+Boland,H Hanabe,28d46c78,8,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,23,True,False,False,,Right-hand bat
+Boland,I Manack,5ec126fa,9,0,0,0,0,0.0,"[1, 3, 5, 13]",4.0,24,11,0,21,1,0,1,0,0,0,4,5.25,0,0,0,0,0,0,40,0,40,33,True,False,False,Right-arm offbreak,Right-hand bat
+Boland,S von Berg,ffd3fc37,9,6,3,1,0,200.0,"[8, 10, 12, 14]",4.0,24,8,0,26,1,1,3,0,0,0,0,6.5,0,0,0,0,0,10,89,0,99,38,True,False,True,Legbreak,Right-hand bat
+Boland,Siyabonga Mahima,1062bebb,10,0,0,0,0,0.0,"[4, 6, 11, 16]",4.0,24,5,0,22,0,0,0,0,0,0,0,5.5,2,0,0,0,0,0,9,16,25,28,True,True,False,Slow left-arm orthodox,Left-hand bat
+Warriors,MP Breetzke,35f173a0,1,11,13,1,0,84.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,15,0,8,23,26,True,False,False,,Right-hand bat
+Warriors,WJ Lubbe,10f42013,2,35,25,3,1,140.0,"[6, 8]",2.0,12,5,0,8,0,0,0,0,0,0,0,4.0,0,0,0,1,2,59,11,6,76,32,True,False,False,Right-arm offbreak,Left-hand bat
+Warriors,JT Smuts,42172c3c,3,12,14,0,0,85.71,"[1, 3, 10, 13]",4.0,24,14,0,16,2,0,1,0,0,0,0,4.0,0,0,0,0,0,12,45,0,57,36,True,False,True,Slow left-arm orthodox,Right-hand bat
+Warriors,LC Ngoepe,51355a30,4,6,10,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,4,0,0,4,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Warriors,T Stubbs,85b3fab2,5,47,30,3,3,156.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,85,0,0,85,24,True,False,False,Right-arm offbreak,Right-hand bat
+Warriors,DS Rosier,f8e6dbdd,6,31,22,2,1,140.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,51,0,8,59,30,True,False,False,Legbreak,Right-hand bat
+Warriors,S Qeshile,94268960,7,5,3,0,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,1,0,5,0,18,23,26,True,False,False,,Right-hand bat
+Warriors,T van Vuuren,20afc7e7,8,0,3,0,0,0.0,"[5, 16, 18, 20]",3.667,22,2,0,55,7,2,0,0,0,0,2,15.0,0,0,0,0,0,0,-4,0,-4,23,True,False,True,Left-arm medium-fast,Right-hand bat
+Warriors,A Mnyaka,bd36db2c,9,0,0,0,0,0.0,"[14, 17, 19]",3.0,18,2,0,27,3,0,2,1,0,0,0,9.0,1,0,0,0,0,0,60,8,68,25,True,False,False,Left-arm fast,Right-hand bat
+Warriors,Tsepo Ndwandwa,be3ffb65,10,0,0,0,0,0.0,"[2, 4, 9, 12]",4.0,24,8,0,33,3,1,2,0,0,0,0,8.25,1,0,0,0,0,0,58,8,66,29,True,False,False,Slow left-arm orthodox,Right-hand bat
+Warriors,L Makhosi,deccdffa,11,0,0,0,0,0.0,"[7, 11, 15]",3.0,18,8,0,16,2,0,1,0,0,0,0,5.33,0,0,0,0,0,0,37,0,37,30,True,True,False,Left-arm wrist-spin,Left-hand bat

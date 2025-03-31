@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Boland,PJ Malan,f32d890a,1,15,15,3,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,27,0,20,47
-Boland,G Roelofsen,ac688e55,2,63,41,3,4,153.66,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,111,0,0,111
-Boland,G Kaplan,a5c3d564,3,34,28,3,0,121.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,50,0,0,50
-Boland,C Fortuin,f25cebec,4,6,4,1,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
-Boland,FD Adams,f277f531,5,8,6,1,0,133.33,"[7, 16]",2.0,12,3,0,22,3,0,0,0,0,0,0,11.0,1,0,0,0,0,12,1,8,21
-Boland,M Copeland,9943b637,6,16,14,1,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
-Boland,KJ Dudgeon,b8828a1b,7,17,10,2,0,170.0,"[6, 13]",2.0,12,3,0,24,2,1,0,0,0,0,1,12.0,0,0,0,0,4,29,-1,0,28
-Boland,A Gqamane,a83c44b8,8,0,1,0,0,0.0,"[9, 11, 17, 19]",4.0,24,7,0,41,2,3,1,0,0,0,0,10.25,1,0,0,0,0,-2,30,8,36
-Boland,I Manack,5ec126fa,9,2,1,0,0,200.0,"[8, 10, 12, 14]",4.0,24,7,0,27,1,1,1,0,0,0,0,6.75,0,0,0,0,0,2,34,0,36
-Boland,GA Stuurman,d4d37c31,9,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,6,0,32,2,1,2,0,1,0,1,8.0,0,0,0,0,0,0,64,0,64
-Boland,Siyabonga Mahima,1062bebb,10,0,0,0,0,0.0,"[1, 3, 5, 15]",4.0,24,6,0,26,2,0,0,0,0,0,0,6.5,0,0,0,0,0,0,8,0,8
-North West,JN Malan,f76d7466,1,35,28,2,1,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,53,0,0,53
-North West,M Prince,aa80a6c3,2,83,55,8,3,150.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,149,0,0,149
-North West,WJ Lubbe,10f42013,3,17,15,1,0,113.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
-North West,LC Ngoepe,51355a30,4,32,19,1,2,168.42,"[4, 14]",2.0,12,5,0,15,1,1,2,0,1,0,0,7.5,1,0,0,0,4,56,63,8,127
-North West,M Jansen,81c36ee9,5,2,2,0,0,100.0,"[1, 3, 13, 19]",4.0,24,8,0,35,4,0,1,0,0,1,0,8.75,1,0,0,0,0,2,33,8,43
-North West,D Jansen,8dc152d1,6,1,1,0,0,100.0,"[5, 11]",2.0,12,3,0,27,3,1,0,0,0,1,1,13.5,1,0,0,0,0,1,-3,8,6
-North West,R van Tonder,0ba03cec,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-North West,T Kumalo,1484cad1,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-North West,C Seleka,be8b147b,11,0,0,0,0,0.0,"[8, 10, 15, 17]",4.0,24,5,0,36,2,1,1,0,1,0,2,9.0,0,0,0,0,0,0,38,0,38
-North West,K Mungroo,56feceb0,12,0,0,0,0,0.0,"[2, 6, 12, 18]",4.0,24,8,0,22,2,0,1,1,0,0,1,5.5,0,0,0,0,0,0,45,0,45
-North West,A Cloete,45a6cf8a,13,0,0,0,0,0.0,"[7, 9, 16, 20]",4.0,24,6,0,33,2,1,2,0,1,0,1,8.25,0,0,0,0,0,0,64,0,64
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Boland,PJ Malan,f32d890a,1,15,15,3,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,27,0,20,47,35,True,False,False,Right-arm medium-fast,Right-hand bat
+Boland,G Roelofsen,ac688e55,2,63,41,3,4,153.66,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,111,0,0,111,28,True,False,False,,Right-hand bat
+Boland,G Kaplan,a5c3d564,3,34,28,3,0,121.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,50,0,0,50,27,True,True,False,Right-arm offbreak,Right-hand bat
+Boland,C Fortuin,f25cebec,4,6,4,1,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,29,True,False,False,,Right-hand bat
+Boland,FD Adams,f277f531,5,8,6,1,0,133.33,"[7, 16]",2.0,12,3,0,22,3,0,0,0,0,0,0,11.0,1,0,0,0,0,12,1,8,21,35,True,False,True,Right-arm fast-medium,Right-hand bat
+Boland,M Copeland,9943b637,6,16,14,1,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,22,True,False,False,Right-arm offbreak,Right-hand bat
+Boland,KJ Dudgeon,b8828a1b,7,17,10,2,0,170.0,"[6, 13]",2.0,12,3,0,24,2,1,0,0,0,0,1,12.0,0,0,0,0,4,29,-1,0,28,29,True,True,False,Right-arm fast-medium,Right-hand bat
+Boland,A Gqamane,a83c44b8,8,0,1,0,0,0.0,"[9, 11, 17, 19]",4.0,24,7,0,41,2,3,1,0,0,0,0,10.25,1,0,0,0,0,-2,30,8,36,35,True,False,True,Right-arm fast-medium,Right-hand bat
+Boland,I Manack,5ec126fa,9,2,1,0,0,200.0,"[8, 10, 12, 14]",4.0,24,7,0,27,1,1,1,0,0,0,0,6.75,0,0,0,0,0,2,34,0,36,33,True,False,False,Right-arm offbreak,Right-hand bat
+Boland,GA Stuurman,d4d37c31,9,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,6,0,32,2,1,2,0,1,0,1,8.0,0,0,0,0,0,0,64,0,64,32,True,False,False,Right-arm fast-medium,Right-hand bat
+Boland,Siyabonga Mahima,1062bebb,10,0,0,0,0,0.0,"[1, 3, 5, 15]",4.0,24,6,0,26,2,0,0,0,0,0,0,6.5,0,0,0,0,0,0,8,0,8,28,True,True,False,Slow left-arm orthodox,Left-hand bat
+North West,JN Malan,f76d7466,1,35,28,2,1,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,53,0,0,53,28,True,False,False,Legbreak,Right-hand bat
+North West,M Prince,aa80a6c3,2,83,55,8,3,150.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,149,0,0,149,0,True,False,False,,
+North West,WJ Lubbe,10f42013,3,17,15,1,0,113.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21,32,True,False,False,Right-arm offbreak,Left-hand bat
+North West,LC Ngoepe,51355a30,4,32,19,1,2,168.42,"[4, 14]",2.0,12,5,0,15,1,1,2,0,1,0,0,7.5,1,0,0,0,4,56,63,8,127,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+North West,M Jansen,81c36ee9,5,2,2,0,0,100.0,"[1, 3, 13, 19]",4.0,24,8,0,35,4,0,1,0,0,1,0,8.75,1,0,0,0,0,2,33,8,43,24,True,False,True,Left-arm fast,Right-hand bat
+North West,D Jansen,8dc152d1,6,1,1,0,0,100.0,"[5, 11]",2.0,12,3,0,27,3,1,0,0,0,1,1,13.5,1,0,0,0,0,1,-3,8,6,24,True,False,False,Left-arm fast,Right-hand bat
+North West,R van Tonder,0ba03cec,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,False,False,,Right-hand bat
+North West,T Kumalo,1484cad1,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,25,True,True,False,Right-arm offbreak,Left-hand bat
+North West,C Seleka,be8b147b,11,0,0,0,0,0.0,"[8, 10, 15, 17]",4.0,24,5,0,36,2,1,1,0,1,0,2,9.0,0,0,0,0,0,0,38,0,38,22,True,False,False,Legbreak,Right-hand bat
+North West,K Mungroo,56feceb0,12,0,0,0,0,0.0,"[2, 6, 12, 18]",4.0,24,8,0,22,2,0,1,1,0,0,1,5.5,0,0,0,0,0,0,45,0,45,30,True,False,False,Right-arm fast,Right-hand bat
+North West,A Cloete,45a6cf8a,13,0,0,0,0,0.0,"[7, 9, 16, 20]",4.0,24,6,0,33,2,1,2,0,1,0,1,8.25,0,0,0,0,0,0,64,0,64,23,True,False,False,Right-arm fast,Right-hand bat

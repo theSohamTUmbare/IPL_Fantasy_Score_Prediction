@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Essex,JD Ryder,91ffa6c6,1,18,14,1,1,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
-Essex,KS Velani,a83107e2,2,17,15,2,1,113.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31
-Essex,T Westley,25a42048,3,27,31,3,0,87.1,"[7, 14]",2.0,12,4,0,11,1,0,1,0,0,0,0,5.5,1,0,0,0,0,43,33,8,84
-Essex,RS Bopara,7ca5e05d,4,0,2,0,0,0.0,"[12, 15, 17]",3.0,18,5,0,15,0,0,2,0,2,0,0,5.0,0,0,0,0,0,-2,75,0,73
-Essex,Ashar Zaidi,9bab2b81,5,52,32,4,2,162.5,"[9, 11]",2.0,12,1,0,16,1,0,0,0,0,0,0,8.0,0,0,0,0,4,92,1,0,93
-Essex,RN ten Doeschate,4ec07775,6,14,16,0,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,14,0,8,22
-Essex,JS Foster,e68dd455,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0,0,12,12
-Essex,DW Lawrence,4b685e2d,7,1,3,0,0,33.33,"[2, 4, 8, 10]",4.0,24,8,0,21,2,0,1,0,0,0,0,5.25,0,0,0,0,0,1,37,0,38
-Essex,GR Napier,611926bc,8,0,0,0,0,0.0,"[6, 13, 18, 20]",4.0,24,6,0,31,3,0,3,0,3,0,1,7.75,0,0,0,0,0,0,109,0,109
-Essex,PI Walter,57590dbb,9,0,0,0,0,0.0,[1],1.0,6,4,0,7,1,0,0,0,0,0,1,7.0,0,0,0,0,0,0,4,0,4
-Essex,MR Quinn,b082d112,10,0,0,0,0,0.0,"[3, 5, 16, 19]",4.0,24,9,0,31,1,2,1,0,0,2,0,7.75,0,0,0,0,0,0,34,0,34
-Hampshire,MA Carberry,8305580c,1,34,26,4,1,130.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,62,0,0,62
-Hampshire,TP Alsop,961b8ff1,2,13,17,1,0,76.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,17,0,8,25
-Hampshire,JJ Weatherley,a05d0552,3,18,17,1,0,105.88,[1],1.0,6,1,0,9,1,0,0,0,0,0,1,9.0,0,0,0,0,0,22,1,0,23
-Hampshire,LA Dawson,4a461c24,4,26,23,2,0,113.04,"[7, 9, 11, 14]",4.0,24,10,0,24,2,0,3,2,0,0,1,6.0,0,0,0,0,0,38,107,0,145
-Hampshire,SM Ervine,556302a7,5,3,9,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
-Hampshire,Shahid Afridi,0dc00542,6,1,3,0,0,33.33,"[8, 10, 13, 15]",4.0,24,7,0,28,2,1,0,0,0,0,0,7.0,0,0,0,0,0,1,9,0,10
-Hampshire,TL Best,db767b89,7,0,0,0,0,0.0,"[2, 12]",2.0,12,4,0,21,2,1,0,0,0,0,1,10.5,1,0,0,0,0,0,2,8,10
-Hampshire,DJG Sammy,c03c6200,7,11,9,1,0,122.22,"[4, 16, 19]",2.833,17,7,0,18,1,0,1,0,0,0,2,6.35,0,0,0,0,0,15,34,0,49
-Hampshire,LD McManus,6feb46a4,8,4,3,0,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12
-Hampshire,GM Andrew,fac298ff,9,13,8,0,1,162.5,"[6, 18]",2.0,12,6,0,9,0,0,1,0,0,0,0,4.5,0,0,0,0,0,19,37,0,56
-Hampshire,GK Berg,42151725,10,5,5,0,0,100.0,"[3, 5, 17]",3.0,18,9,0,25,2,2,0,0,0,0,0,8.33,0,0,0,0,0,5,9,0,14
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Essex,JD Ryder,91ffa6c6,1,18,14,1,1,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28,40,True,False,True,Right-arm medium,Left-hand bat
+Essex,KS Velani,a83107e2,2,17,15,2,1,113.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31,30,True,True,False,Right-arm medium,Right-hand bat
+Essex,T Westley,25a42048,3,27,31,3,0,87.1,"[7, 14]",2.0,12,4,0,11,1,0,1,0,0,0,0,5.5,1,0,0,0,0,43,33,8,84,36,True,False,False,Right-arm offbreak,Right-hand bat
+Essex,RS Bopara,7ca5e05d,4,0,2,0,0,0.0,"[12, 15, 17]",3.0,18,5,0,15,0,0,2,0,2,0,0,5.0,0,0,0,0,0,-2,75,0,73,39,True,False,True,Right-arm medium,Right-hand bat
+Essex,Ashar Zaidi,9bab2b81,5,52,32,4,2,162.5,"[9, 11]",2.0,12,1,0,16,1,0,0,0,0,0,0,8.0,0,0,0,0,4,92,1,0,93,43,True,False,True,Slow left-arm orthodox,Left-hand bat
+Essex,RN ten Doeschate,4ec07775,6,14,16,0,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,14,0,8,22,44,True,False,True,Right-arm medium-fast,Right-hand bat
+Essex,JS Foster,e68dd455,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0,0,12,12,44,True,False,False,,Right-hand bat
+Essex,DW Lawrence,4b685e2d,7,1,3,0,0,33.33,"[2, 4, 8, 10]",4.0,24,8,0,21,2,0,1,0,0,0,0,5.25,0,0,0,0,0,1,37,0,38,27,True,False,False,Right-arm offbreak,Right-hand bat
+Essex,GR Napier,611926bc,8,0,0,0,0,0.0,"[6, 13, 18, 20]",4.0,24,6,0,31,3,0,3,0,3,0,1,7.75,0,0,0,0,0,0,109,0,109,45,True,False,True,Right-arm medium,Right-hand bat
+Essex,PI Walter,57590dbb,9,0,0,0,0,0.0,[1],1.0,6,4,0,7,1,0,0,0,0,0,1,7.0,0,0,0,0,0,0,4,0,4,30,True,False,True,Left-arm medium,Left-hand bat
+Essex,MR Quinn,b082d112,10,0,0,0,0,0.0,"[3, 5, 16, 19]",4.0,24,9,0,31,1,2,1,0,0,2,0,7.75,0,0,0,0,0,0,34,0,34,32,True,False,False,Right-arm medium-fast,Right-hand bat
+Hampshire,MA Carberry,8305580c,1,34,26,4,1,130.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,62,0,0,62,44,True,False,False,Right-arm offbreak,Left-hand bat
+Hampshire,TP Alsop,961b8ff1,2,13,17,1,0,76.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,17,0,8,25,29,True,False,False,,Left-hand bat
+Hampshire,JJ Weatherley,a05d0552,3,18,17,1,0,105.88,[1],1.0,6,1,0,9,1,0,0,0,0,0,1,9.0,0,0,0,0,0,22,1,0,23,28,True,False,False,Right-arm offbreak,Right-hand bat
+Hampshire,LA Dawson,4a461c24,4,26,23,2,0,113.04,"[7, 9, 11, 14]",4.0,24,10,0,24,2,0,3,2,0,0,1,6.0,0,0,0,0,0,38,107,0,145,35,True,False,True,Slow left-arm orthodox,Right-hand bat
+Hampshire,SM Ervine,556302a7,5,3,9,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,42,True,False,True,Right-arm offbreak,Left-hand bat
+Hampshire,Shahid Afridi,0dc00542,6,1,3,0,0,33.33,"[8, 10, 13, 15]",4.0,24,7,0,28,2,1,0,0,0,0,0,7.0,0,0,0,0,0,1,9,0,10,45,True,False,True,Legbreak googly,Right-hand bat
+Hampshire,TL Best,db767b89,7,0,0,0,0,0.0,"[2, 12]",2.0,12,4,0,21,2,1,0,0,0,0,1,10.5,1,0,0,0,0,0,2,8,10,43,True,False,False,Right-arm fast,Right-hand bat
+Hampshire,DJG Sammy,c03c6200,7,11,9,1,0,122.22,"[4, 16, 19]",2.833,17,7,0,18,1,0,1,0,0,0,2,6.35,0,0,0,0,0,15,34,0,49,41,True,False,True,Right-arm medium,Right-hand bat
+Hampshire,LD McManus,6feb46a4,8,4,3,0,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12,30,True,False,False,,Right-hand bat
+Hampshire,GM Andrew,fac298ff,9,13,8,0,1,162.5,"[6, 18]",2.0,12,6,0,9,0,0,1,0,0,0,0,4.5,0,0,0,0,0,19,37,0,56,41,True,False,True,Right-arm medium-fast,Left-hand bat
+Hampshire,GK Berg,42151725,10,5,5,0,0,100.0,"[3, 5, 17]",3.0,18,9,0,25,2,2,0,0,0,0,0,8.33,0,0,0,0,0,5,9,0,14,44,True,False,True,Right-arm medium,Right-hand bat

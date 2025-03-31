@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Knights,LLL Sesele,22b70cb8,1,2,17,0,0,11.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-4,0,0,-4
-Knights,PE Kruger,39181592,2,37,26,7,0,142.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,71,0,0,71
-Knights,TB de Bruyn,90d6cdea,3,11,10,1,0,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,15,0,8,23
-Knights,AGS Gous,d1305df0,4,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
-Knights,P Botha,01dc3ec0,5,12,15,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
-Knights,AR Swanepoel,cba5185d,6,0,1,0,0,0.0,[11],1.0,6,4,0,1,0,0,1,0,0,0,0,1.0,0,0,0,0,0,-2,29,0,27
-Knights,M de Lange,d4eef961,7,1,4,0,0,25.0,"[1, 8, 10]",3.0,18,7,0,27,5,0,0,0,0,0,0,9.0,0,0,0,0,0,1,7,0,8
-Knights,TM Bodibe,ed982dfa,8,6,11,0,0,54.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,2,0,0,2
-Knights,SC van Schalkwyk,97b0e4ff,9,10,18,1,0,55.56,"[3, 5, 7, 9]",4.0,24,15,0,24,2,0,1,0,0,0,7,6.0,0,0,0,0,-4,10,42,0,52
-Knights,D Olivier,a8e56914,10,8,9,1,0,88.89,"[2, 4, 12]",2.333,14,4,0,28,1,2,0,0,0,0,2,12.0,0,0,0,0,0,12,-2,0,10
-Knights,LM Zuma,58f01d47,11,2,4,0,0,50.0,[6],1.0,6,3,0,12,3,0,0,0,0,0,0,12.0,0,0,0,0,0,2,3,0,5
-Warriors,JT Smuts,42172c3c,1,49,35,7,2,140.0,"[7, 9, 13, 15]",4.0,24,12,0,13,0,0,2,0,2,0,0,3.25,1,0,0,0,2,95,84,8,187
-Warriors,S Seyibokwe,2f873ad6,2,11,12,0,0,91.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19
-Warriors,CA Ingram,c995d726,3,23,19,4,0,121.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,39,0,0,39
-Warriors,A Gqamane,a83c44b8,4,0,0,0,0,0.0,"[8, 11]",2.0,12,5,0,10,1,0,2,0,0,0,0,5.0,0,0,0,0,0,0,59,0,59
-Warriors,CN Ackermann,e734d090,4,0,2,0,0,0.0,"[10, 12, 14, 16]",4.0,24,14,0,17,2,0,2,0,1,0,0,4.25,1,0,0,0,0,0,78,8,86
-Warriors,ACR Birch,9df3a2f4,5,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,12,1,30,6,0,2,0,0,0,0,7.5,0,0,0,0,0,0,74,0,74
-Warriors,C Jonker,a81d6706,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
-Warriors,SSB Magala,8361e524,7,0,0,0,0,0.0,"[4, 6, 18, 20]",3.667,22,11,0,14,1,0,1,0,1,0,1,3.82,0,0,0,0,0,0,50,0,50
-Warriors,LC Ngoepe,51355a30,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,0,0,12,12
-Warriors,C Fortuin,f25cebec,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Warriors,BD Walters,1e182ae2,10,0,0,0,0,0.0,"[2, 5]",2.0,12,8,0,7,1,0,0,0,0,0,0,3.5,0,0,0,0,0,0,14,0,14
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Knights,LLL Sesele,22b70cb8,1,2,17,0,0,11.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-4,0,0,-4,37,True,False,False,,Right-hand bat
+Knights,PE Kruger,39181592,2,37,26,7,0,142.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,71,0,0,71,30,True,False,True,Right-arm medium,Right-hand bat
+Knights,TB de Bruyn,90d6cdea,3,11,10,1,0,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,15,0,8,23,32,True,False,False,Right-arm medium-fast,Right-hand bat
+Knights,AGS Gous,d1305df0,4,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,31,True,False,False,,Right-hand bat
+Knights,P Botha,01dc3ec0,5,12,15,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,35,True,True,False,Right-arm offbreak,Left-hand bat
+Knights,AR Swanepoel,cba5185d,6,0,1,0,0,0.0,[11],1.0,6,4,0,1,0,0,1,0,0,0,0,1.0,0,0,0,0,0,-2,29,0,27,35,True,False,True,Right-arm offbreak,Right-hand bat
+Knights,M de Lange,d4eef961,7,1,4,0,0,25.0,"[1, 8, 10]",3.0,18,7,0,27,5,0,0,0,0,0,0,9.0,0,0,0,0,0,1,7,0,8,34,True,False,False,Right-arm fast,Right-hand bat
+Knights,TM Bodibe,ed982dfa,8,6,11,0,0,54.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,2,0,0,2,37,True,False,False,,Right-hand bat
+Knights,SC van Schalkwyk,97b0e4ff,9,10,18,1,0,55.56,"[3, 5, 7, 9]",4.0,24,15,0,24,2,0,1,0,0,0,7,6.0,0,0,0,0,-4,10,42,0,52,36,True,False,True,Right-arm medium,Left-hand bat
+Knights,D Olivier,a8e56914,10,8,9,1,0,88.89,"[2, 4, 12]",2.333,14,4,0,28,1,2,0,0,0,0,2,12.0,0,0,0,0,0,12,-2,0,10,32,True,False,False,Right-arm fast-medium,Right-hand bat
+Knights,LM Zuma,58f01d47,11,2,4,0,0,50.0,[6],1.0,6,3,0,12,3,0,0,0,0,0,0,12.0,0,0,0,0,0,2,3,0,5,28,True,False,False,Right-arm fast,Right-hand bat
+Warriors,JT Smuts,42172c3c,1,49,35,7,2,140.0,"[7, 9, 13, 15]",4.0,24,12,0,13,0,0,2,0,2,0,0,3.25,1,0,0,0,2,95,84,8,187,36,True,False,True,Slow left-arm orthodox,Right-hand bat
+Warriors,S Seyibokwe,2f873ad6,2,11,12,0,0,91.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19,37,True,True,False,Right-arm medium,Right-hand bat
+Warriors,CA Ingram,c995d726,3,23,19,4,0,121.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,39,0,0,39,39,True,False,False,Legbreak,Left-hand bat
+Warriors,A Gqamane,a83c44b8,4,0,0,0,0,0.0,"[8, 11]",2.0,12,5,0,10,1,0,2,0,0,0,0,5.0,0,0,0,0,0,0,59,0,59,35,True,False,True,Right-arm fast-medium,Right-hand bat
+Warriors,CN Ackermann,e734d090,4,0,2,0,0,0.0,"[10, 12, 14, 16]",4.0,24,14,0,17,2,0,2,0,1,0,0,4.25,1,0,0,0,0,0,78,8,86,33,True,False,True,Right-arm offbreak,Right-hand bat
+Warriors,ACR Birch,9df3a2f4,5,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,12,1,30,6,0,2,0,0,0,0,7.5,0,0,0,0,0,0,74,0,74,39,True,True,False,Right-arm medium-fast,Right-hand bat
+Warriors,C Jonker,a81d6706,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,38,True,False,False,Right-arm medium-fast,Right-hand bat
+Warriors,SSB Magala,8361e524,7,0,0,0,0,0.0,"[4, 6, 18, 20]",3.667,22,11,0,14,1,0,1,0,1,0,1,3.82,0,0,0,0,0,0,50,0,50,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Warriors,LC Ngoepe,51355a30,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,0,0,12,12,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Warriors,C Fortuin,f25cebec,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,29,True,False,False,,Right-hand bat
+Warriors,BD Walters,1e182ae2,10,0,0,0,0,0.0,"[2, 5]",2.0,12,8,0,7,1,0,0,0,0,0,0,3.5,0,0,0,0,0,0,14,0,14,38,True,False,False,Right-arm medium-fast,Right-hand bat

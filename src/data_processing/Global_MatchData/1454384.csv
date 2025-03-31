@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Malawi,D Kansonkho,45ca12a7,1,11,9,1,1,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
-Malawi,G Kansonkho,f3ca5af8,2,7,15,1,0,46.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,5,0,0,5
-Malawi,Sami Sohail,602ebd4c,3,17,17,1,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27
-Malawi,A Limdawala,2bcbcac3,4,9,17,1,0,52.94,"[13, 15]",2.0,12,7,0,5,0,0,0,0,0,0,0,2.5,0,0,0,0,-4,9,13,0,22
-Malawi,P Zuze,04420914,5,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11
-Malawi,C Chete,ef4f539a,6,2,7,0,0,28.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Malawi,M Choamba,5570c4c1,7,16,24,0,1,66.67,"[11, 16]",2.0,12,4,0,13,1,0,0,0,0,0,1,6.5,1,0,0,0,-2,20,6,8,34
-Malawi,D Jakiel,8b7ce771,8,2,6,0,0,33.33,"[1, 3]",2.0,12,6,0,13,2,0,0,0,0,0,2,6.5,0,0,0,0,0,2,8,0,10
-Malawi,SZ Vayani,a4afc486,9,9,12,1,0,75.0,"[8, 10, 12, 14]",4.0,24,10,0,29,4,0,0,0,0,0,1,7.25,0,0,0,0,0,13,10,0,23
-Malawi,B Pondani,e5117568,10,2,3,0,0,66.67,"[2, 4, 6]",3.0,18,14,0,9,1,0,1,0,0,0,1,3.0,0,0,0,0,0,2,45,0,47
-Malawi,B Balala,a2f8e873,11,1,2,0,0,50.0,"[5, 7, 9]",3.0,18,10,0,19,1,1,1,0,0,0,1,6.33,0,0,0,0,0,1,37,0,38
-Rwanda,O Manishimwe,fb31ca49,1,11,18,1,0,61.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,13,0,0,13
-Rwanda,D Ndikubwimana,3cbedf51,2,40,43,4,1,93.02,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,66,0,20,86
-Rwanda,W Niyitanga,e7631adc,3,10,15,2,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,16,0,8,24
-Rwanda,I Ntirenganya,e73f6c4b,4,0,0,0,0,0.0,"[2, 4, 18]",3.0,18,10,0,19,3,0,1,0,0,0,2,6.33,0,0,0,0,0,0,37,0,37
-Rwanda,D Gumyusenge,eeb78e0a,4,21,20,2,0,105.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,29,0,8,37
-Rwanda,Z Bimenyimana,ba57fb08,5,0,0,0,0,0.0,"[1, 3, 19]",3.0,18,12,0,17,0,2,1,0,0,1,0,5.67,0,0,0,0,0,0,41,0,41
-Rwanda,C Rububagumya,8088632c,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Rwanda,Muhammad Nadir,090f96e4,7,0,0,0,0,0.0,"[6, 8, 14, 16]",4.0,24,14,0,14,0,1,0,0,0,0,0,3.5,1,0,0,0,0,0,20,8,28
-Rwanda,M Akayezu,1f3b9f8d,8,0,0,0,0,0.0,"[5, 7, 20]",2.667,16,10,0,6,0,0,3,0,1,0,0,2.25,1,0,0,0,0,0,103,8,111
-Rwanda,E Rukiriza,3ac13a94,9,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,16,0,11,1,0,5,2,1,0,0,2.75,0,0,0,0,0,0,183,0,183
-Rwanda,Yves Cyusa,b5aa28ce,10,0,0,0,0,0.0,"[10, 12, 17]",3.0,18,7,0,15,1,0,0,0,0,0,0,5.0,0,0,0,0,0,0,11,0,11
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Malawi,D Kansonkho,45ca12a7,1,11,9,1,1,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21,26,True,True,False,Right-arm medium,Left-hand bat
+Malawi,G Kansonkho,f3ca5af8,2,7,15,1,0,46.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,5,0,0,5,33,True,True,False,Right-arm medium,Right-hand bat
+Malawi,Sami Sohail,602ebd4c,3,17,17,1,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27,23,True,True,False,Right-arm medium,Right-hand bat
+Malawi,A Limdawala,2bcbcac3,4,9,17,1,0,52.94,"[13, 15]",2.0,12,7,0,5,0,0,0,0,0,0,0,2.5,0,0,0,0,-4,9,13,0,22,20,True,False,False,,Left-hand bat
+Malawi,P Zuze,04420914,5,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11,18,True,False,False,,Right-hand bat
+Malawi,C Chete,ef4f539a,6,2,7,0,0,28.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,30,True,False,False,,Right-hand bat
+Malawi,M Choamba,5570c4c1,7,16,24,0,1,66.67,"[11, 16]",2.0,12,4,0,13,1,0,0,0,0,0,1,6.5,1,0,0,0,-2,20,6,8,34,20,True,True,False,Right-arm offbreak,Right-hand bat
+Malawi,D Jakiel,8b7ce771,8,2,6,0,0,33.33,"[1, 3]",2.0,12,6,0,13,2,0,0,0,0,0,2,6.5,0,0,0,0,0,2,8,0,10,34,True,True,False,Right-arm fast-medium,Right-hand bat
+Malawi,SZ Vayani,a4afc486,9,9,12,1,0,75.0,"[8, 10, 12, 14]",4.0,24,10,0,29,4,0,0,0,0,0,1,7.25,0,0,0,0,0,13,10,0,23,17,True,True,False,Right-arm offbreak,Right-hand bat
+Malawi,B Pondani,e5117568,10,2,3,0,0,66.67,"[2, 4, 6]",3.0,18,14,0,9,1,0,1,0,0,0,1,3.0,0,0,0,0,0,2,45,0,47,22,True,True,False,Right-arm medium-fast,Right-hand bat
+Malawi,B Balala,a2f8e873,11,1,2,0,0,50.0,"[5, 7, 9]",3.0,18,10,0,19,1,1,1,0,0,0,1,6.33,0,0,0,0,0,1,37,0,38,17,True,True,False,Right-arm medium,Right-hand bat
+Rwanda,O Manishimwe,fb31ca49,1,11,18,1,0,61.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,13,0,0,13,22,True,False,False,,Right-hand bat
+Rwanda,D Ndikubwimana,3cbedf51,2,40,43,4,1,93.02,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,66,0,20,86,21,True,False,False,,Right-hand bat
+Rwanda,W Niyitanga,e7631adc,3,10,15,2,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,16,0,8,24,23,True,False,False,,Right-hand bat
+Rwanda,I Ntirenganya,e73f6c4b,4,0,0,0,0,0.0,"[2, 4, 18]",3.0,18,10,0,19,3,0,1,0,0,0,2,6.33,0,0,0,0,0,0,37,0,37,22,True,True,False,Left-arm medium,Right-hand bat
+Rwanda,D Gumyusenge,eeb78e0a,4,21,20,2,0,105.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,29,0,8,37,21,True,True,False,Right-arm medium-fast,Right-hand bat
+Rwanda,Z Bimenyimana,ba57fb08,5,0,0,0,0,0.0,"[1, 3, 19]",3.0,18,12,0,17,0,2,1,0,0,1,0,5.67,0,0,0,0,0,0,41,0,41,26,True,True,False,Right-arm medium,Right-hand bat
+Rwanda,C Rububagumya,8088632c,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,29,True,True,False,Right-arm medium,Right-hand bat
+Rwanda,Muhammad Nadir,090f96e4,7,0,0,0,0,0.0,"[6, 8, 14, 16]",4.0,24,14,0,14,0,1,0,0,0,0,0,3.5,1,0,0,0,0,0,20,8,28,26,True,True,False,Slow left-arm orthodox,Left-hand bat
+Rwanda,M Akayezu,1f3b9f8d,8,0,0,0,0,0.0,"[5, 7, 20]",2.667,16,10,0,6,0,0,3,0,1,0,0,2.25,1,0,0,0,0,0,103,8,111,22,True,True,False,Right-arm medium,Right-hand bat
+Rwanda,E Rukiriza,3ac13a94,9,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,16,0,11,1,0,5,2,1,0,0,2.75,0,0,0,0,0,0,183,0,183,21,True,True,False,Right-arm offbreak,Right-hand bat
+Rwanda,Yves Cyusa,b5aa28ce,10,0,0,0,0,0.0,"[10, 12, 17]",3.0,18,7,0,15,1,0,0,0,0,0,0,5.0,0,0,0,0,0,0,11,0,11,18,True,True,False,Right-arm offbreak,Right-hand bat

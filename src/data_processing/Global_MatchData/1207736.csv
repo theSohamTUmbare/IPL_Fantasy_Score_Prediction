@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Birmingham Bears,EJ Pollock,d6663a9a,1,20,15,1,2,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,38,0,0,38
-Birmingham Bears,IR Bell,33155d1b,2,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Birmingham Bears,AJ Hose,104e88a4,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Birmingham Bears,SR Hain,67b9536c,4,55,31,6,3,177.42,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,111,0,0,111
-Birmingham Bears,WMH Rhodes,f54dbda7,5,21,18,2,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,29,0,8,37
-Birmingham Bears,MGK Burgess,715941c3,6,7,3,0,1,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
-Birmingham Bears,TT Bresnan,58043739,9,0,0,0,0,0.0,"[1, 9]",2.0,12,5,0,24,2,2,1,0,0,0,0,12.0,0,0,0,0,0,0,26,0,26
-Birmingham Bears,HJH Brookes,2085e1fa,10,0,0,0,0,0.0,"[3, 6, 12]",3.0,18,8,0,29,3,2,2,0,0,0,0,9.67,0,0,0,0,0,0,58,0,58
-Birmingham Bears,OP Stone,3f659464,11,0,0,0,0,0.0,"[2, 11]",2.0,12,6,0,24,3,2,2,0,1,0,0,12.0,1,0,0,0,0,0,60,8,68
-Birmingham Bears,JB Lintott,e5218454,12,0,0,0,0,0.0,"[5, 7]",2.0,12,3,0,13,1,0,1,1,0,0,1,6.5,0,0,0,0,0,0,38,0,38
-Birmingham Bears,JS Patel,f5821615,13,0,0,0,0,0.0,"[4, 8, 10]",3.0,18,6,0,28,3,1,0,0,0,0,0,9.33,0,0,0,0,0,0,6,0,6
-Somerset,Babar Azam,8a75e999,1,6,3,0,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
-Somerset,SM Davies,8fc65c2b,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Somerset,JC Hildreth,782c0568,3,25,13,4,1,192.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,57,0,8,65
-Somerset,TB Abell,ba9258a7,4,4,5,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
-Somerset,EJ Byrom,9e1b7792,5,8,8,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
-Somerset,L Gregory,06c2de82,6,6,7,1,0,85.71,"[2, 4]",2.0,12,7,0,18,2,1,2,0,0,2,0,9.0,1,0,0,0,0,10,57,8,75
-Somerset,TA Lammonby,73f1f6b0,7,43,20,4,3,215.0,"[7, 11]",2.0,12,4,0,14,0,1,1,0,1,0,0,7.0,0,0,0,0,6,87,39,0,126
-Somerset,RE van der Merwe,05c2ca46,8,25,14,1,2,178.57,[9],1.0,6,2,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,6,51,2,0,53
-Somerset,JH Davey,d3868bd0,9,0,1,0,0,0.0,[5],1.0,6,4,0,5,1,0,1,0,0,0,0,5.0,0,0,0,0,0,0,29,0,29
-Somerset,ORT Sale,eab61ead,9,0,0,0,0,0.0,"[3, 6, 12]",3.0,18,4,0,41,3,4,0,0,0,0,0,13.67,0,0,0,0,0,0,-2,0,-2
-Somerset,MTC Waller,d74d1090,10,0,0,0,0,0.0,"[1, 8, 10]",3.0,18,6,0,19,2,0,0,0,0,0,0,6.33,0,0,0,0,0,0,8,0,8
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Birmingham Bears,EJ Pollock,d6663a9a,1,20,15,1,2,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,38,0,0,38,29,True,False,False,Right-arm offbreak,Left-hand bat
+Birmingham Bears,IR Bell,33155d1b,2,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,42,True,False,False,Right-arm medium,Right-hand bat
+Birmingham Bears,AJ Hose,104e88a4,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,32,True,False,False,Right-arm medium-fast,Right-hand bat
+Birmingham Bears,SR Hain,67b9536c,4,55,31,6,3,177.42,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,111,0,0,111,29,True,False,False,Right-arm offbreak,Right-hand bat
+Birmingham Bears,WMH Rhodes,f54dbda7,5,21,18,2,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,29,0,8,37,30,True,False,True,Right-arm medium-fast,Left-hand bat
+Birmingham Bears,MGK Burgess,715941c3,6,7,3,0,1,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21,30,True,False,False,,Right-hand bat
+Birmingham Bears,TT Bresnan,58043739,9,0,0,0,0,0.0,"[1, 9]",2.0,12,5,0,24,2,2,1,0,0,0,0,12.0,0,0,0,0,0,0,26,0,26,40,True,False,True,Right-arm medium-fast,Right-hand bat
+Birmingham Bears,HJH Brookes,2085e1fa,10,0,0,0,0,0.0,"[3, 6, 12]",3.0,18,8,0,29,3,2,2,0,0,0,0,9.67,0,0,0,0,0,0,58,0,58,25,True,False,False,Right-arm fast-medium,Right-hand bat
+Birmingham Bears,OP Stone,3f659464,11,0,0,0,0,0.0,"[2, 11]",2.0,12,6,0,24,3,2,2,0,1,0,0,12.0,1,0,0,0,0,0,60,8,68,31,True,False,False,Right-arm fast,Right-hand bat
+Birmingham Bears,JB Lintott,e5218454,12,0,0,0,0,0.0,"[5, 7]",2.0,12,3,0,13,1,0,1,1,0,0,1,6.5,0,0,0,0,0,0,38,0,38,31,True,False,False,Left-arm wrist-spin,Right-hand bat
+Birmingham Bears,JS Patel,f5821615,13,0,0,0,0,0.0,"[4, 8, 10]",3.0,18,6,0,28,3,1,0,0,0,0,0,9.33,0,0,0,0,0,0,6,0,6,44,True,False,False,Right-arm offbreak,Right-hand bat
+Somerset,Babar Azam,8a75e999,1,6,3,0,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,30,True,False,False,Right-arm offbreak,Right-hand bat
+Somerset,SM Davies,8fc65c2b,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,38,True,False,False,,Left-hand bat
+Somerset,JC Hildreth,782c0568,3,25,13,4,1,192.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,57,0,8,65,40,True,False,False,Right-arm medium-fast,Right-hand bat
+Somerset,TB Abell,ba9258a7,4,4,5,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,31,True,False,True,Right-arm medium,Right-hand bat
+Somerset,EJ Byrom,9e1b7792,5,8,8,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,27,True,False,False,Legbreak,Left-hand bat
+Somerset,L Gregory,06c2de82,6,6,7,1,0,85.71,"[2, 4]",2.0,12,7,0,18,2,1,2,0,0,2,0,9.0,1,0,0,0,0,10,57,8,75,32,True,False,True,Right-arm medium-fast,Right-hand bat
+Somerset,TA Lammonby,73f1f6b0,7,43,20,4,3,215.0,"[7, 11]",2.0,12,4,0,14,0,1,1,0,1,0,0,7.0,0,0,0,0,6,87,39,0,126,24,True,False,True,Left-arm medium-fast,Left-hand bat
+Somerset,RE van der Merwe,05c2ca46,8,25,14,1,2,178.57,[9],1.0,6,2,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,6,51,2,0,53,40,True,False,True,Slow left-arm orthodox,Right-hand bat
+Somerset,JH Davey,d3868bd0,9,0,1,0,0,0.0,[5],1.0,6,4,0,5,1,0,1,0,0,0,0,5.0,0,0,0,0,0,0,29,0,29,34,True,False,False,Right-arm medium-fast,Right-hand bat
+Somerset,ORT Sale,eab61ead,9,0,0,0,0,0.0,"[3, 6, 12]",3.0,18,4,0,41,3,4,0,0,0,0,0,13.67,0,0,0,0,0,0,-2,0,-2,29,True,False,False,Right-arm medium-fast,Right-hand bat
+Somerset,MTC Waller,d74d1090,10,0,0,0,0,0.0,"[1, 8, 10]",3.0,18,6,0,19,2,0,0,0,0,0,0,6.33,0,0,0,0,0,0,8,0,8,37,True,False,False,Legbreak,Right-hand bat

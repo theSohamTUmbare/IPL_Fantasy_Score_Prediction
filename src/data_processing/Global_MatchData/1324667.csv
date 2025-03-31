@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Brisbane Heat,J Brown,647e7d44,1,5,4,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,9,0,16,25
-Brisbane Heat,UT Khawaja,331ea488,2,14,8,3,0,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,26,0,8,34
-Brisbane Heat,M Labuschagne,fa433be6,3,6,11,1,0,54.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,6,0,8,14
-Brisbane Heat,MT Renshaw,218d4d78,4,90,56,6,4,160.71,[10],1.0,6,2,0,5,0,0,1,0,0,0,0,5.0,0,0,0,0,4,154,27,0,181
-Brisbane Heat,SR Hain,67b9536c,5,5,10,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,1,0,0,1
-Brisbane Heat,JJ Peirson,2b55c3b4,6,22,18,1,0,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,26,0,8,34
-Brisbane Heat,JJ Bazley,003d49e6,7,9,7,0,1,128.57,"[4, 6, 9, 17]",4.0,24,13,0,35,0,4,1,0,0,0,2,8.75,0,0,0,0,0,15,38,0,53
-Brisbane Heat,MG Neser,0164b064,8,1,4,0,0,25.0,"[1, 3, 16, 20]",4.0,24,15,0,25,4,0,4,0,1,0,1,6.25,0,0,0,0,0,1,133,0,134
-Brisbane Heat,SH Johnson,83c3e8e3,9,0,0,0,0,0.0,"[2, 5, 15, 19]",4.0,24,8,0,41,4,1,1,0,0,0,4,10.25,1,0,0,0,0,0,31,8,39
-Brisbane Heat,MP Kuhnemann,7b953689,9,1,2,0,0,50.0,"[7, 11, 13, 18]",4.0,24,6,0,31,4,0,0,0,0,0,0,7.75,0,0,0,0,0,1,6,0,7
-Brisbane Heat,MJ Swepson,86b4bf88,10,0,0,0,0,0.0,"[8, 12, 14]",3.0,18,2,0,21,1,0,0,0,0,0,1,7.0,0,0,0,0,0,0,4,0,4
-Melbourne Stars,JM Clarke,2eca67f5,1,4,9,0,0,44.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,4,0,12,16
-Melbourne Stars,TF Rogers,7f232d46,2,26,23,3,0,113.04,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,42,0,8,50
-Melbourne Stars,HWR Cartwright,ab965cad,3,7,6,1,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
-Melbourne Stars,BJ Webster,56b93d46,4,36,34,1,2,105.88,"[5, 20]",2.0,12,5,0,22,2,1,0,0,0,0,1,11.0,1,0,1,0,0,56,3,20,79
-Melbourne Stars,NCR Larkin,02bce9a8,5,58,36,7,1,161.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,104,0,0,104
-Melbourne Stars,NM Coulter-Nile,56ab442f,6,0,1,0,0,0.0,"[3, 7, 13, 16]",4.0,24,7,0,22,1,0,1,0,0,0,2,5.5,0,0,0,0,0,-2,36,0,34
-Melbourne Stars,J Seymour,cb54a1d6,7,13,6,0,2,216.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
-Melbourne Stars,CD Hinchliffe,8891669e,8,6,5,1,0,120.0,"[6, 8, 10]",3.0,18,4,0,27,2,1,1,0,0,0,0,9.0,2,0,0,0,0,10,29,16,55
-Melbourne Stars,L Wood,65b6943c,9,0,0,0,0,0.0,"[1, 12, 18]",3.0,18,4,0,27,2,1,0,0,0,0,1,9.0,1,0,0,0,0,0,4,8,12
-Melbourne Stars,LC Hatcher,8f3fde65,10,0,0,0,0,0.0,"[2, 4, 14, 19]",4.0,24,12,0,29,3,1,2,0,0,0,2,7.25,0,0,0,0,0,0,62,0,62
-Melbourne Stars,A Zampa,14f96089,11,0,0,0,0,0.0,"[9, 11, 15, 17]",4.0,24,5,0,32,2,1,2,0,0,0,0,8.0,0,0,0,0,0,0,55,0,55
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Brisbane Heat,J Brown,647e7d44,1,5,4,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,9,0,16,25,31,True,False,False,Right-arm offbreak,Right-hand bat
+Brisbane Heat,UT Khawaja,331ea488,2,14,8,3,0,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,26,0,8,34,38,True,False,False,Right-arm medium,Left-hand bat
+Brisbane Heat,M Labuschagne,fa433be6,3,6,11,1,0,54.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,6,0,8,14,30,True,False,False,Legbreak,Right-hand bat
+Brisbane Heat,MT Renshaw,218d4d78,4,90,56,6,4,160.71,[10],1.0,6,2,0,5,0,0,1,0,0,0,0,5.0,0,0,0,0,4,154,27,0,181,29,True,False,False,Right-arm offbreak,Left-hand bat
+Brisbane Heat,SR Hain,67b9536c,5,5,10,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,1,0,0,1,29,True,False,False,Right-arm offbreak,Right-hand bat
+Brisbane Heat,JJ Peirson,2b55c3b4,6,22,18,1,0,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,26,0,8,34,32,True,False,False,,Right-hand bat
+Brisbane Heat,JJ Bazley,003d49e6,7,9,7,0,1,128.57,"[4, 6, 9, 17]",4.0,24,13,0,35,0,4,1,0,0,0,2,8.75,0,0,0,0,0,15,38,0,53,29,True,False,True,Right-arm fast-medium,Right-hand bat
+Brisbane Heat,MG Neser,0164b064,8,1,4,0,0,25.0,"[1, 3, 16, 20]",4.0,24,15,0,25,4,0,4,0,1,0,1,6.25,0,0,0,0,0,1,133,0,134,35,True,False,True,Right-arm medium-fast,Right-hand bat
+Brisbane Heat,SH Johnson,83c3e8e3,9,0,0,0,0,0.0,"[2, 5, 15, 19]",4.0,24,8,0,41,4,1,1,0,0,0,4,10.25,1,0,0,0,0,0,31,8,39,29,True,False,False,Left-arm fast,Left-hand bat
+Brisbane Heat,MP Kuhnemann,7b953689,9,1,2,0,0,50.0,"[7, 11, 13, 18]",4.0,24,6,0,31,4,0,0,0,0,0,0,7.75,0,0,0,0,0,1,6,0,7,28,True,False,False,Slow left-arm orthodox,Left-hand bat
+Brisbane Heat,MJ Swepson,86b4bf88,10,0,0,0,0,0.0,"[8, 12, 14]",3.0,18,2,0,21,1,0,0,0,0,0,1,7.0,0,0,0,0,0,0,4,0,4,31,True,False,False,Legbreak,Right-hand bat
+Melbourne Stars,JM Clarke,2eca67f5,1,4,9,0,0,44.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,4,0,12,16,28,True,False,False,,Right-hand bat
+Melbourne Stars,TF Rogers,7f232d46,2,26,23,3,0,113.04,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,42,0,8,50,26,True,False,False,Right-arm medium,Left-hand bat
+Melbourne Stars,HWR Cartwright,ab965cad,3,7,6,1,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,33,True,False,False,Right-arm medium,Right-hand bat
+Melbourne Stars,BJ Webster,56b93d46,4,36,34,1,2,105.88,"[5, 20]",2.0,12,5,0,22,2,1,0,0,0,0,1,11.0,1,0,1,0,0,56,3,20,79,31,True,False,True,Right-arm offbreak,Right-hand bat
+Melbourne Stars,NCR Larkin,02bce9a8,5,58,36,7,1,161.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,104,0,0,104,34,True,False,False,,Right-hand bat
+Melbourne Stars,NM Coulter-Nile,56ab442f,6,0,1,0,0,0.0,"[3, 7, 13, 16]",4.0,24,7,0,22,1,0,1,0,0,0,2,5.5,0,0,0,0,0,-2,36,0,34,37,True,False,True,Right-arm fast,Right-hand bat
+Melbourne Stars,J Seymour,cb54a1d6,7,13,6,0,2,216.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,33,True,False,False,Right-arm offbreak,Left-hand bat
+Melbourne Stars,CD Hinchliffe,8891669e,8,6,5,1,0,120.0,"[6, 8, 10]",3.0,18,4,0,27,2,1,1,0,0,0,0,9.0,2,0,0,0,0,10,29,16,55,28,True,False,True,Left-arm wrist-spin,Left-hand bat
+Melbourne Stars,L Wood,65b6943c,9,0,0,0,0,0.0,"[1, 12, 18]",3.0,18,4,0,27,2,1,0,0,0,0,1,9.0,1,0,0,0,0,0,4,8,12,29,True,False,False,Left-arm fast-medium,Left-hand bat
+Melbourne Stars,LC Hatcher,8f3fde65,10,0,0,0,0,0.0,"[2, 4, 14, 19]",4.0,24,12,0,29,3,1,2,0,0,0,2,7.25,0,0,0,0,0,0,62,0,62,28,True,False,False,Right-arm fast-medium,Right-hand bat
+Melbourne Stars,A Zampa,14f96089,11,0,0,0,0,0.0,"[9, 11, 15, 17]",4.0,24,5,0,32,2,1,2,0,0,0,0,8.0,0,0,0,0,0,0,55,0,55,32,True,False,False,Legbreak googly,Right-hand bat

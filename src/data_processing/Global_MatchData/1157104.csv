@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Baroda,KH Devdhar,62e07f92,1,24,27,3,0,88.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,36,0,0,36
-Baroda,Vishnu Solanki,2e802011,2,32,35,2,1,91.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,50,0,0,50
-Baroda,DJ Hooda,73ad96ed,3,18,22,1,0,81.82,"[12, 14, 16]",3.0,18,5,0,22,1,1,1,0,1,0,0,7.33,0,0,0,0,0,22,38,0,60
-Baroda,A Sheth,4312e8f9,4,0,0,0,0,0.0,"[1, 3, 13, 19]",4.0,24,16,0,13,2,0,5,0,2,0,0,3.25,1,0,0,0,0,0,175,8,183
-Baroda,YK Pathan,3c6ffae8,4,19,17,2,0,111.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,27,0,8,35
-Baroda,LI Meriwala,d3611425,5,0,0,0,0,0.0,"[2, 4]",2.0,12,3,0,19,3,0,0,0,0,0,0,9.5,0,0,0,0,0,0,3,0,3
-Baroda,RT Arothe,50455929,6,0,0,0,0,0.0,"[5, 7, 18]",3.0,18,5,0,18,1,0,0,0,0,0,1,6.0,1,0,0,0,0,0,7,8,15
-Baroda,BA Bhatt,dc4686e6,7,0,0,0,0,0.0,"[6, 8, 10, 15]",4.0,24,13,0,17,1,0,2,0,0,0,1,4.25,1,0,0,0,0,0,69,8,77
-Baroda,Swapnil Singh,983f2f61,8,0,0,0,0,0.0,"[9, 11, 17]",3.0,18,11,0,8,0,0,2,1,0,0,1,2.67,0,0,0,0,0,0,75,0,75
-Baroda,Mitesh Patel,ab636882,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0,0,12,12
-Baroda,Mohit Mongia,e5b78474,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Tripura,JR Banik,e87cc53a,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Tripura,U U Bose,d28a7a2a,2,14,15,2,0,93.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
-Tripura,NN Sen Chowdhary,08a11820,3,21,24,2,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29
-Tripura,Ninad Kadam,b8b024c7,4,6,11,0,0,54.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,2,0,0,2
-Tripura,Manisankar Murasingh,52cb36a0,5,18,15,1,1,120.0,"[1, 3, 5]",3.0,18,7,0,16,2,0,0,0,0,0,0,5.33,0,0,0,0,0,28,11,0,39
-Tripura,Pratyush Singh,456af189,6,10,11,1,0,90.91,[17],0.833,5,1,0,6,0,0,0,0,0,0,0,7.2,0,0,0,0,0,14,1,0,15
-Tripura,KK Acharjee,d57936b4,7,15,19,1,0,78.95,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
-Tripura,TS Saha,eb46e18d,8,5,10,0,0,50.0,"[7, 9, 11, 13]",4.0,24,9,0,29,1,1,2,1,0,0,5,7.25,0,0,0,0,-4,1,67,0,68
-Tripura,SS Majumder,76307fc7,9,4,4,1,0,100.0,"[14, 16]",2.0,12,6,0,10,1,0,0,0,0,0,0,5.0,0,0,0,0,0,8,10,0,18
-Tripura,Saurabh Das,38f548aa,10,0,1,0,0,0.0,"[2, 4, 6]",3.0,18,9,0,16,2,0,0,0,0,0,1,5.33,1,0,0,0,0,-2,13,8,19
-Tripura,AA Chakraborty,44e58b5b,11,1,3,0,0,33.33,"[8, 10, 12, 15]",4.0,24,11,0,22,2,0,0,0,0,0,0,5.5,0,0,0,0,0,1,15,0,16
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Baroda,KH Devdhar,62e07f92,1,24,27,3,0,88.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,36,0,0,36,35,True,False,False,,Right-hand bat
+Baroda,Vishnu Solanki,2e802011,2,32,35,2,1,91.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,50,0,0,50,32,True,False,False,Right-arm offbreak,Right-hand bat
+Baroda,DJ Hooda,73ad96ed,3,18,22,1,0,81.82,"[12, 14, 16]",3.0,18,5,0,22,1,1,1,0,1,0,0,7.33,0,0,0,0,0,22,38,0,60,29,True,False,True,Right-arm offbreak,Right-hand bat
+Baroda,A Sheth,4312e8f9,4,0,0,0,0,0.0,"[1, 3, 13, 19]",4.0,24,16,0,13,2,0,5,0,2,0,0,3.25,1,0,0,0,0,0,175,8,183,29,True,False,True,Right-arm medium,Right-hand bat
+Baroda,YK Pathan,3c6ffae8,4,19,17,2,0,111.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,27,0,8,35,42,True,False,True,Right-arm offbreak,Right-hand bat
+Baroda,LI Meriwala,d3611425,5,0,0,0,0,0.0,"[2, 4]",2.0,12,3,0,19,3,0,0,0,0,0,0,9.5,0,0,0,0,0,0,3,0,3,33,True,False,False,Left-arm fast-medium,Left-hand bat
+Baroda,RT Arothe,50455929,6,0,0,0,0,0.0,"[5, 7, 18]",3.0,18,5,0,18,1,0,0,0,0,0,1,6.0,1,0,0,0,0,0,7,8,15,29,True,False,False,Left-arm medium,Left-hand bat
+Baroda,BA Bhatt,dc4686e6,7,0,0,0,0,0.0,"[6, 8, 10, 15]",4.0,24,13,0,17,1,0,2,0,0,0,1,4.25,1,0,0,0,0,0,69,8,77,34,True,False,False,Slow left-arm orthodox,Left-hand bat
+Baroda,Swapnil Singh,983f2f61,8,0,0,0,0,0.0,"[9, 11, 17]",3.0,18,11,0,8,0,0,2,1,0,0,1,2.67,0,0,0,0,0,0,75,0,75,34,True,False,False,Slow left-arm orthodox,Right-hand bat
+Baroda,Mitesh Patel,ab636882,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0,0,12,12,27,True,False,False,,Right-hand bat
+Baroda,Mohit Mongia,e5b78474,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,25,True,True,False,Slow left-arm orthodox,Right-hand bat
+Tripura,JR Banik,e87cc53a,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,32,True,True,False,Right-arm offbreak,Right-hand bat
+Tripura,U U Bose,d28a7a2a,2,14,15,2,0,93.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,31,True,False,False,Right-arm offbreak,Right-hand bat
+Tripura,NN Sen Chowdhary,08a11820,3,21,24,2,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29,34,True,True,False,Right-arm offbreak,Right-hand bat
+Tripura,Ninad Kadam,b8b024c7,4,6,11,0,0,54.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,2,0,0,2,32,True,True,False,Right-arm offbreak,Right-hand bat
+Tripura,Manisankar Murasingh,52cb36a0,5,18,15,1,1,120.0,"[1, 3, 5]",3.0,18,7,0,16,2,0,0,0,0,0,0,5.33,0,0,0,0,0,28,11,0,39,32,True,False,True,Right-arm medium,Left-hand bat
+Tripura,Pratyush Singh,456af189,6,10,11,1,0,90.91,[17],0.833,5,1,0,6,0,0,0,0,0,0,0,7.2,0,0,0,0,0,14,1,0,15,30,True,False,False,Legbreak googly,Right-hand bat
+Tripura,KK Acharjee,d57936b4,7,15,19,1,0,78.95,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,34,True,True,False,Right-arm medium,Right-hand bat
+Tripura,TS Saha,eb46e18d,8,5,10,0,0,50.0,"[7, 9, 11, 13]",4.0,24,9,0,29,1,1,2,1,0,0,5,7.25,0,0,0,0,-4,1,67,0,68,39,True,True,False,Slow left-arm orthodox,Left-hand bat
+Tripura,SS Majumder,76307fc7,9,4,4,1,0,100.0,"[14, 16]",2.0,12,6,0,10,1,0,0,0,0,0,0,5.0,0,0,0,0,0,8,10,0,18,37,True,True,False,Right-arm medium,Right-hand bat
+Tripura,Saurabh Das,38f548aa,10,0,1,0,0,0.0,"[2, 4, 6]",3.0,18,9,0,16,2,0,0,0,0,0,1,5.33,1,0,0,0,0,-2,13,8,19,31,True,True,False,Right-arm offbreak,Right-hand bat
+Tripura,AA Chakraborty,44e58b5b,11,1,3,0,0,33.33,"[8, 10, 12, 15]",4.0,24,11,0,22,2,0,0,0,0,0,0,5.5,0,0,0,0,0,1,15,0,16,34,True,True,False,Slow left-arm orthodox,Right-hand bat

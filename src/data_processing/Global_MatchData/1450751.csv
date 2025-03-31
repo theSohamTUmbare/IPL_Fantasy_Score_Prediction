@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Lesotho,LM Gabriel,88a5adcf,1,0,3,0,0,0.0,"[16, 18]",2.0,12,2,0,15,0,0,0,0,0,0,4,7.5,0,0,0,0,0,-2,2,0,0
-Lesotho,ME Leoela,3b107df5,2,11,14,1,0,78.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
-Lesotho,LJ Leokaoke,456884dd,3,3,13,0,0,23.08,"[2, 8, 10, 12]",4.0,24,7,0,29,3,0,0,0,0,0,0,7.25,0,0,0,0,-6,-3,7,0,4
-Lesotho,V Jayant,6535cc7b,4,5,10,0,0,50.0,"[13, 15, 17]",3.0,18,3,0,19,0,0,1,0,0,0,1,6.33,0,0,0,0,-4,1,30,0,31
-Lesotho,Maaz Khan,6f14ddcb,5,7,9,0,0,77.78,[14],1.0,6,0,0,13,1,1,0,0,0,0,0,13.0,1,0,0,0,0,7,0,8,15
-Lesotho,Waseem Yaqoob,06b387f1,6,11,15,0,1,73.33,"[4, 6, 19]",3.0,18,3,0,25,1,1,1,0,0,0,0,8.33,0,0,0,0,0,17,28,0,45
-Lesotho,C Tlali,70841eab,7,1,9,0,0,11.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Lesotho,L Monanthane,07e5bda2,8,3,9,0,0,33.33,"[7, 9, 11]",3.0,18,4,0,23,2,0,0,0,0,0,0,7.67,0,0,0,0,0,3,4,0,7
-Lesotho,Omar Hussain,2002c586,9,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Lesotho,Sajid Patel,f8279d15,10,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Lesotho,TD Chaoana,16ddd36b,11,1,1,0,0,100.0,"[1, 3, 5, 20]",4.0,24,14,0,15,0,0,1,1,0,0,2,3.75,0,0,1,0,0,1,53,12,66
-Malawi,D Kansonkho,45ca12a7,1,29,38,1,0,76.32,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,37,0,0,37
-Malawi,G Kansonkho,f3ca5af8,2,19,14,3,0,135.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,33,0,0,33
-Malawi,Sami Sohail,602ebd4c,3,64,46,3,2,139.13,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,98,0,8,106
-Malawi,A Limdawala,2bcbcac3,4,12,13,0,0,92.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,12,0,16,28
-Malawi,MA Baig,89394502,5,5,7,0,0,71.43,"[6, 8, 10]",3.0,18,10,0,9,0,0,0,0,0,0,0,3.0,1,0,0,0,0,5,16,8,29
-Malawi,M Choamba,5570c4c1,6,3,2,0,0,150.0,"[12, 14]",2.0,12,7,0,5,0,0,1,0,0,0,1,2.5,0,0,0,0,0,3,38,0,41
-Malawi,GM Ntambalika,8c8a3f08,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Malawi,D Jakiel,8b7ce771,12,0,0,0,0,0.0,"[1, 3, 5, 15]",3.833,23,19,0,12,1,0,4,0,3,0,4,3.13,0,0,0,1,0,0,157,6,163
-Malawi,B Pondani,e5117568,13,0,0,0,0,0.0,"[2, 4]",2.0,12,4,0,10,0,0,0,0,0,0,2,5.0,0,0,0,0,0,0,8,0,8
-Malawi,P Zuze,04420914,14,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,0,0,14,14
-Malawi,SZ Vayani,a4afc486,15,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,16,0,14,0,1,4,0,1,0,0,3.5,0,0,0,0,0,0,138,0,138
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Lesotho,LM Gabriel,88a5adcf,1,0,3,0,0,0.0,"[16, 18]",2.0,12,2,0,15,0,0,0,0,0,0,4,7.5,0,0,0,0,0,-2,2,0,0,27,True,False,False,,Right-hand bat
+Lesotho,ME Leoela,3b107df5,2,11,14,1,0,78.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15,23,True,False,False,,Left-hand bat
+Lesotho,LJ Leokaoke,456884dd,3,3,13,0,0,23.08,"[2, 8, 10, 12]",4.0,24,7,0,29,3,0,0,0,0,0,0,7.25,0,0,0,0,-6,-3,7,0,4,36,True,True,False,Right-arm offbreak,Right-hand bat
+Lesotho,V Jayant,6535cc7b,4,5,10,0,0,50.0,"[13, 15, 17]",3.0,18,3,0,19,0,0,1,0,0,0,1,6.33,0,0,0,0,-4,1,30,0,31,28,True,False,False,,Right-hand bat
+Lesotho,Maaz Khan,6f14ddcb,5,7,9,0,0,77.78,[14],1.0,6,0,0,13,1,1,0,0,0,0,0,13.0,1,0,0,0,0,7,0,8,15,27,True,False,False,,Left-hand bat
+Lesotho,Waseem Yaqoob,06b387f1,6,11,15,0,1,73.33,"[4, 6, 19]",3.0,18,3,0,25,1,1,1,0,0,0,0,8.33,0,0,0,0,0,17,28,0,45,34,True,True,False,Right-arm medium-fast,Right-hand bat
+Lesotho,C Tlali,70841eab,7,1,9,0,0,11.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,27,True,False,False,,Right-hand bat
+Lesotho,L Monanthane,07e5bda2,8,3,9,0,0,33.33,"[7, 9, 11]",3.0,18,4,0,23,2,0,0,0,0,0,0,7.67,0,0,0,0,0,3,4,0,7,26,True,False,False,Right-arm medium-fast,Right-hand bat
+Lesotho,Omar Hussain,2002c586,9,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,29,True,False,False,,Right-hand bat
+Lesotho,Sajid Patel,f8279d15,10,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,34,True,False,False,,Right-hand bat
+Lesotho,TD Chaoana,16ddd36b,11,1,1,0,0,100.0,"[1, 3, 5, 20]",4.0,24,14,0,15,0,0,1,1,0,0,2,3.75,0,0,1,0,0,1,53,12,66,23,True,False,False,Right-arm medium,Right-hand bat
+Malawi,D Kansonkho,45ca12a7,1,29,38,1,0,76.32,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,37,0,0,37,26,True,True,False,Right-arm medium,Left-hand bat
+Malawi,G Kansonkho,f3ca5af8,2,19,14,3,0,135.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,33,0,0,33,33,True,True,False,Right-arm medium,Right-hand bat
+Malawi,Sami Sohail,602ebd4c,3,64,46,3,2,139.13,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,98,0,8,106,23,True,True,False,Right-arm medium,Right-hand bat
+Malawi,A Limdawala,2bcbcac3,4,12,13,0,0,92.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,12,0,16,28,20,True,False,False,,Left-hand bat
+Malawi,MA Baig,89394502,5,5,7,0,0,71.43,"[6, 8, 10]",3.0,18,10,0,9,0,0,0,0,0,0,0,3.0,1,0,0,0,0,5,16,8,29,40,True,True,False,Right-arm offbreak,Right-hand bat
+Malawi,M Choamba,5570c4c1,6,3,2,0,0,150.0,"[12, 14]",2.0,12,7,0,5,0,0,1,0,0,0,1,2.5,0,0,0,0,0,3,38,0,41,20,True,True,False,Right-arm offbreak,Right-hand bat
+Malawi,GM Ntambalika,8c8a3f08,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,29,True,True,False,Right-arm medium,Right-hand bat
+Malawi,D Jakiel,8b7ce771,12,0,0,0,0,0.0,"[1, 3, 5, 15]",3.833,23,19,0,12,1,0,4,0,3,0,4,3.13,0,0,0,1,0,0,157,6,163,34,True,True,False,Right-arm fast-medium,Right-hand bat
+Malawi,B Pondani,e5117568,13,0,0,0,0,0.0,"[2, 4]",2.0,12,4,0,10,0,0,0,0,0,0,2,5.0,0,0,0,0,0,0,8,0,8,22,True,True,False,Right-arm medium-fast,Right-hand bat
+Malawi,P Zuze,04420914,14,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,0,0,14,14,18,True,False,False,,Right-hand bat
+Malawi,SZ Vayani,a4afc486,15,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,16,0,14,0,1,4,0,1,0,0,3.5,0,0,0,0,0,0,138,0,138,17,True,True,False,Right-arm offbreak,Right-hand bat

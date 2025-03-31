@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Mali,MT Diaby,5d00cd6f,1,0,2,0,0,0.0,[3],0.5,3,0,0,11,1,1,0,0,0,0,0,22.0,0,0,0,0,0,-2,0,0,-2
-Mali,Mohamed Coulibaly,86ea6123,2,6,10,1,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,8,0,0,8
-Mali,S Kamate,d7af6207,3,4,13,1,0,30.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,2,0,0,2
-Mali,L Sanogo,abbc06cf,4,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Mali,Z Makadji,7fcaa9f4,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Mali,L Berthe,8eb7c5a6,6,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Mali,M Malle,e15c6692,7,3,24,0,0,12.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-3,0,0,-3
-Mali,MS Diakite,69795fcd,8,8,8,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
-Mali,CA Keita,5b9b8d98,9,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Mali,MS Diawara,8c95e2dd,10,2,3,0,0,66.67,[1],1.0,6,1,0,10,1,0,0,0,0,0,2,10.0,0,0,0,0,0,2,1,0,3
-Mali,TM Macalou,8a9320a1,11,0,8,0,0,0.0,[2],1.0,6,1,0,13,2,0,0,0,0,1,0,13.0,0,0,0,0,0,0,1,0,1
-Rwanda,O Tuyisenge,e6a6888f,1,18,9,2,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32
-Rwanda,E Dusingizimana,c15e7ba4,2,13,6,2,0,216.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
-Rwanda,D Ndikubwimana,3cbedf51,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,0,0,14,14
-Rwanda,C Rububagumya,8088632c,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Rwanda,E Niyomugabo,2dcac6ff,4,0,0,0,0,0.0,[13],0.5,3,3,0,0,0,0,1,0,0,0,0,0.0,0,0,0,0,0,0,28,0,28
-Rwanda,Z Bimenyimana,ba57fb08,5,0,0,0,0,0.0,"[1, 3]",2.0,12,11,1,4,1,0,1,0,0,0,0,2.0,0,0,0,0,0,0,54,0,54
-Rwanda,V Mitari,3a82673c,6,0,0,0,0,0.0,"[2, 4]",2.0,12,10,0,11,1,0,1,0,1,0,5,5.5,0,0,0,0,0,0,47,0,47
-Rwanda,K Irakoze,9ccb6e52,7,0,0,0,0,0.0,"[6, 8, 10, 12]",4.0,24,22,1,4,0,0,3,0,3,0,1,1.0,0,0,0,0,0,0,143,0,143
-Rwanda,M Akayezu,1f3b9f8d,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Rwanda,W Niyitanga,e7631adc,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Rwanda,E Sebareme,f99a219a,10,0,0,0,0,0.0,"[5, 7, 9, 11]",4.0,24,20,1,11,2,0,3,1,2,0,0,2.75,0,0,0,1,0,0,141,6,147
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Mali,MT Diaby,5d00cd6f,1,0,2,0,0,0.0,[3],0.5,3,0,0,11,1,1,0,0,0,0,0,22.0,0,0,0,0,0,-2,0,0,-2,36,True,True,False,Right-arm medium-fast,Right-hand bat
+Mali,Mohamed Coulibaly,86ea6123,2,6,10,1,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,8,0,0,8,25,True,True,False,Right-arm medium-fast,Right-hand bat
+Mali,S Kamate,d7af6207,3,4,13,1,0,30.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,2,0,0,2,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Mali,L Sanogo,abbc06cf,4,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Mali,Z Makadji,7fcaa9f4,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,22,True,True,False,Right-arm medium-fast,Right-hand bat
+Mali,L Berthe,8eb7c5a6,6,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,27,True,True,False,Right-arm medium-fast,Left-hand bat
+Mali,M Malle,e15c6692,7,3,24,0,0,12.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-3,0,0,-3,25,True,True,False,Right-arm medium-fast,Right-hand bat
+Mali,MS Diakite,69795fcd,8,8,8,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,25,True,True,False,Right-arm medium-fast,Right-hand bat
+Mali,CA Keita,5b9b8d98,9,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,27,True,True,False,Right-arm medium-fast,Right-hand bat
+Mali,MS Diawara,8c95e2dd,10,2,3,0,0,66.67,[1],1.0,6,1,0,10,1,0,0,0,0,0,2,10.0,0,0,0,0,0,2,1,0,3,27,True,True,False,Right-arm medium-fast,Right-hand bat
+Mali,TM Macalou,8a9320a1,11,0,8,0,0,0.0,[2],1.0,6,1,0,13,2,0,0,0,0,1,0,13.0,0,0,0,0,0,0,1,0,1,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Rwanda,O Tuyisenge,e6a6888f,1,18,9,2,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32,24,True,False,False,,Right-hand bat
+Rwanda,E Dusingizimana,c15e7ba4,2,13,6,2,0,216.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21,38,True,False,False,,Right-hand bat
+Rwanda,D Ndikubwimana,3cbedf51,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,0,0,14,14,21,True,False,False,,Right-hand bat
+Rwanda,C Rububagumya,8088632c,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,29,True,True,False,Right-arm medium,Right-hand bat
+Rwanda,E Niyomugabo,2dcac6ff,4,0,0,0,0,0.0,[13],0.5,3,3,0,0,0,0,1,0,0,0,0,0.0,0,0,0,0,0,0,28,0,28,30,True,True,False,Right-arm offbreak,Right-hand bat
+Rwanda,Z Bimenyimana,ba57fb08,5,0,0,0,0,0.0,"[1, 3]",2.0,12,11,1,4,1,0,1,0,0,0,0,2.0,0,0,0,0,0,0,54,0,54,26,True,True,False,Right-arm medium,Right-hand bat
+Rwanda,V Mitari,3a82673c,6,0,0,0,0,0.0,"[2, 4]",2.0,12,10,0,11,1,0,1,0,1,0,5,5.5,0,0,0,0,0,0,47,0,47,29,True,False,False,Right-arm medium,Right-hand bat
+Rwanda,K Irakoze,9ccb6e52,7,0,0,0,0,0.0,"[6, 8, 10, 12]",4.0,24,22,1,4,0,0,3,0,3,0,1,1.0,0,0,0,0,0,0,143,0,143,24,True,True,False,Right-arm offbreak,Right-hand bat
+Rwanda,M Akayezu,1f3b9f8d,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,22,True,True,False,Right-arm medium,Right-hand bat
+Rwanda,W Niyitanga,e7631adc,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,23,True,False,False,,Right-hand bat
+Rwanda,E Sebareme,f99a219a,10,0,0,0,0,0.0,"[5, 7, 9, 11]",4.0,24,20,1,11,2,0,3,1,2,0,0,2.75,0,0,0,1,0,0,141,6,147,29,True,False,True,Right-arm offbreak,Right-hand bat

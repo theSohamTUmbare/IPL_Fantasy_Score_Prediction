@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Khulna Tigers,E Lewis,0ebfb1ad,1,11,11,1,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,21,0,16,37
-Khulna Tigers,AD Hales,92aeac25,2,60,33,7,3,181.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,120,0,0,120
-Khulna Tigers,Anamul Haque,72b245dd,3,5,8,1,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17
-Khulna Tigers,Afif Hossain,37138918,4,11,8,0,1,137.5,[13],1.0,6,1,0,18,1,2,0,0,0,0,0,18.0,0,0,0,0,0,17,1,0,18
-Khulna Tigers,Habibur Rahman,cee2fbd8,5,13,13,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
-Khulna Tigers,Akbar Ali,abae26ad,6,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Khulna Tigers,Nahidul Islam,8c7b16c8,7,0,1,0,0,0.0,"[1, 3, 11, 15]",4.0,24,5,0,50,2,5,0,0,0,0,0,12.5,0,0,0,0,0,-2,-1,0,-3
-Khulna Tigers,L Wood,65b6943c,8,20,14,2,1,142.86,"[2, 4, 12, 19]",4.0,24,14,0,19,1,1,3,0,2,0,0,4.75,0,0,0,0,2,36,115,0,151
-Khulna Tigers,Nasum Ahmed,37654b75,9,17,9,1,2,188.89,"[6, 10, 16]",3.0,18,5,0,55,5,4,1,0,0,0,7,18.33,0,0,0,0,0,33,24,0,57
-Khulna Tigers,Mukidul Islam,a699488a,10,1,7,0,0,14.29,"[7, 9, 18, 20]",4.0,24,6,0,41,4,2,0,0,0,0,0,10.25,0,0,0,0,0,1,4,0,5
-Khulna Tigers,Nahid Rana,5318ee68,11,1,4,0,0,25.0,"[5, 8, 14, 17]",4.0,24,10,0,33,4,0,1,0,0,1,8,8.25,0,0,0,0,0,1,35,0,36
-Rangpur Riders,Rony Talukdar,8bd614b2,1,5,7,1,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
-Rangpur Riders,RR Hendricks,b8cc58c9,2,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12
-Rangpur Riders,Shakib Al Hasan,7dc35884,3,69,31,6,6,222.58,"[3, 5, 7, 19]",3.333,20,10,0,30,1,3,2,1,1,0,0,9.0,0,0,0,0,6,143,76,0,219
-Rangpur Riders,Mahedi Hasan,9dad0f2e,4,60,36,6,4,166.67,"[2, 16]",2.0,12,8,0,13,1,1,1,0,1,0,1,6.5,1,0,0,0,4,120,43,8,171
-Rangpur Riders,JDS Neesham,9219eff0,5,13,14,0,1,92.86,"[10, 13]",2.0,12,7,0,5,0,0,1,0,1,0,0,2.5,0,0,0,0,0,19,46,0,65
-Rangpur Riders,Nurul Hasan,d365d463,6,32,13,3,2,246.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,66,0,0,66
-Rangpur Riders,D Pretorius,11614d87,7,17,12,1,1,141.67,"[1, 11]",2.0,12,4,0,19,1,1,0,0,0,0,1,9.5,0,0,0,0,2,29,4,0,33
-Rangpur Riders,Shamim Hossain,711249d1,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Rangpur Riders,Hasan Mahmud,80ad39ac,12,0,0,0,0,0.0,"[4, 9, 18]",3.0,18,9,0,29,5,1,1,0,0,0,0,9.67,1,0,0,0,0,0,34,8,42
-Rangpur Riders,R Mondol,492ff0c2,13,0,0,0,0,0.0,"[15, 17]",2.0,12,6,0,19,1,2,0,0,0,0,0,9.5,1,0,0,0,0,0,6,8,14
-Rangpur Riders,Imran Tahir,acee4cc4,14,0,0,0,0,0.0,"[6, 8, 12, 14]",4.0,24,13,0,26,3,1,5,1,1,0,0,6.5,0,0,0,0,0,0,168,0,168
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Khulna Tigers,E Lewis,0ebfb1ad,1,11,11,1,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,21,0,16,37,33,True,False,False,,Left-hand bat
+Khulna Tigers,AD Hales,92aeac25,2,60,33,7,3,181.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,120,0,0,120,36,True,False,False,Right-arm medium,Right-hand bat
+Khulna Tigers,Anamul Haque,72b245dd,3,5,8,1,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17,32,True,False,False,,Right-hand bat
+Khulna Tigers,Afif Hossain,37138918,4,11,8,0,1,137.5,[13],1.0,6,1,0,18,1,2,0,0,0,0,0,18.0,0,0,0,0,0,17,1,0,18,25,True,False,True,Right-arm offbreak,Left-hand bat
+Khulna Tigers,Habibur Rahman,cee2fbd8,5,13,13,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,37,True,False,True,Right-arm offbreak,Right-hand bat
+Khulna Tigers,Akbar Ali,abae26ad,6,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,23,True,False,False,,Right-hand bat
+Khulna Tigers,Nahidul Islam,8c7b16c8,7,0,1,0,0,0.0,"[1, 3, 11, 15]",4.0,24,5,0,50,2,5,0,0,0,0,0,12.5,0,0,0,0,0,-2,-1,0,-3,31,True,False,True,Right-arm offbreak,Right-hand bat
+Khulna Tigers,L Wood,65b6943c,8,20,14,2,1,142.86,"[2, 4, 12, 19]",4.0,24,14,0,19,1,1,3,0,2,0,0,4.75,0,0,0,0,2,36,115,0,151,29,True,False,False,Left-arm fast-medium,Left-hand bat
+Khulna Tigers,Nasum Ahmed,37654b75,9,17,9,1,2,188.89,"[6, 10, 16]",3.0,18,5,0,55,5,4,1,0,0,0,7,18.33,0,0,0,0,0,33,24,0,57,30,True,False,True,Slow left-arm orthodox,Left-hand bat
+Khulna Tigers,Mukidul Islam,a699488a,10,1,7,0,0,14.29,"[7, 9, 18, 20]",4.0,24,6,0,41,4,2,0,0,0,0,0,10.25,0,0,0,0,0,1,4,0,5,24,True,False,False,Right-arm medium-fast,Right-hand bat
+Khulna Tigers,Nahid Rana,5318ee68,11,1,4,0,0,25.0,"[5, 8, 14, 17]",4.0,24,10,0,33,4,0,1,0,0,1,8,8.25,0,0,0,0,0,1,35,0,36,22,True,False,False,Right-arm fast,Right-hand bat
+Rangpur Riders,Rony Talukdar,8bd614b2,1,5,7,1,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,34,True,False,False,Right-arm slow-medium,Right-hand bat
+Rangpur Riders,RR Hendricks,b8cc58c9,2,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12,35,True,False,False,Right-arm offbreak,Right-hand bat
+Rangpur Riders,Shakib Al Hasan,7dc35884,3,69,31,6,6,222.58,"[3, 5, 7, 19]",3.333,20,10,0,30,1,3,2,1,1,0,0,9.0,0,0,0,0,6,143,76,0,219,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Rangpur Riders,Mahedi Hasan,9dad0f2e,4,60,36,6,4,166.67,"[2, 16]",2.0,12,8,0,13,1,1,1,0,1,0,1,6.5,1,0,0,0,4,120,43,8,171,30,True,False,True,Right-arm offbreak,Right-hand bat
+Rangpur Riders,JDS Neesham,9219eff0,5,13,14,0,1,92.86,"[10, 13]",2.0,12,7,0,5,0,0,1,0,1,0,0,2.5,0,0,0,0,0,19,46,0,65,34,True,False,True,Right-arm medium-fast,Left-hand bat
+Rangpur Riders,Nurul Hasan,d365d463,6,32,13,3,2,246.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,66,0,0,66,31,True,False,False,,Right-hand bat
+Rangpur Riders,D Pretorius,11614d87,7,17,12,1,1,141.67,"[1, 11]",2.0,12,4,0,19,1,1,0,0,0,0,1,9.5,0,0,0,0,2,29,4,0,33,36,True,False,True,Right-arm medium-fast,Right-hand bat
+Rangpur Riders,Shamim Hossain,711249d1,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,24,True,False,True,Right-arm offbreak,Left-hand bat
+Rangpur Riders,Hasan Mahmud,80ad39ac,12,0,0,0,0,0.0,"[4, 9, 18]",3.0,18,9,0,29,5,1,1,0,0,0,0,9.67,1,0,0,0,0,0,34,8,42,25,True,False,False,Right-arm fast-medium,Right-hand bat
+Rangpur Riders,R Mondol,492ff0c2,13,0,0,0,0,0.0,"[15, 17]",2.0,12,6,0,19,1,2,0,0,0,0,0,9.5,1,0,0,0,0,0,6,8,14,22,True,False,False,Right-arm medium,Right-hand bat
+Rangpur Riders,Imran Tahir,acee4cc4,14,0,0,0,0,0.0,"[6, 8, 12, 14]",4.0,24,13,0,26,3,1,5,1,1,0,0,6.5,0,0,0,0,0,0,168,0,168,46,True,False,False,Legbreak googly,Right-hand bat

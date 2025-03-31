@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Denmark,S Thanikaithasan,498aacac,1,5,6,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
-Denmark,Delawar Khan,28b99edd,2,24,31,3,1,77.42,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,42,0,20,62
-Denmark,FA Klokker,821a412e,3,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,0,3,0,40,43
-Denmark,Zameer Khan,fb0d3749,4,15,19,0,0,78.95,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,15,0,12,27
-Denmark,Lucky Ali,28b032ac,5,3,7,0,0,42.86,"[7, 9, 11, 15]",4.0,24,12,0,20,2,0,1,0,0,0,0,5.0,0,0,0,0,0,3,41,0,44
-Denmark,SA Ahmad,8de618ab,6,17,21,1,0,80.95,"[2, 8, 10, 18]",4.0,24,11,0,13,0,0,0,0,0,0,0,3.25,0,0,0,0,0,21,17,0,38
-Denmark,Anique Uddin,1f41b702,7,1,5,0,0,20.0,"[12, 14, 16, 20]",3.5,21,12,0,27,2,2,2,0,0,0,0,7.71,1,0,0,0,0,1,62,8,71
-Denmark,A Khan,e27cff77,8,5,7,1,0,71.43,"[4, 6, 17, 19]",4.0,24,12,0,25,2,1,2,1,0,0,0,6.25,0,0,0,0,0,9,72,0,81
-Denmark,Surya Anand,ef141f36,9,12,10,1,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
-Denmark,Musa Shaheen,6709b2de,10,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
-Denmark,Bashir Shah,3b282e51,11,0,4,0,0,0.0,"[1, 3, 5, 13]",4.0,24,18,1,6,0,0,3,0,1,0,0,1.5,0,0,0,0,0,-2,123,0,121
-Jersey,H Carlyon,42bf1b7d,1,2,4,0,0,50.0,"[1, 3, 5]",3.0,18,11,0,10,0,0,0,0,0,0,0,3.33,0,0,0,0,0,2,17,0,19
-Jersey,NJ Ferraby,c149b9ca,2,5,9,0,0,55.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
-Jersey,ZM Tribe,96fe3e9f,3,2,9,0,0,22.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Jersey,JW Jenner,32a8161e,4,10,23,0,0,43.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,4,0,0,4
-Jersey,AM Tribe,86f84b37,5,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
-Jersey,B Ward,9e0bd203,6,32,39,3,1,82.05,"[7, 9, 15, 17]",4.0,24,13,0,20,2,0,2,0,0,0,0,5.0,0,0,1,0,0,54,67,12,133
-Jersey,J Sumerauer,0b581ed6,7,1,4,0,0,25.0,"[4, 6, 8, 16]",4.0,24,18,0,12,2,0,2,0,0,0,0,3.0,0,0,0,0,0,1,74,0,75
-Jersey,DG Blampied,d8976cb7,8,6,8,0,0,75.0,"[2, 13]",2.0,12,4,0,19,2,1,0,0,0,0,0,9.5,0,0,0,0,0,6,4,0,10
-Jersey,JE Dunford,89a7dd4a,9,5,4,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,3,0,0,0,9,0,44,53
-Jersey,CW Perchard,9f998ed8,10,23,9,2,2,255.56,"[10, 12, 18, 20]",3.833,23,12,0,14,0,0,4,1,1,0,0,3.65,1,0,0,0,0,43,142,8,193
-Jersey,D Birrell,aea11d1d,11,1,3,0,0,33.33,"[11, 14, 19]",3.0,18,6,0,14,0,0,1,0,0,1,0,4.67,1,0,0,0,0,1,37,8,46
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Denmark,S Thanikaithasan,498aacac,1,5,6,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,26,True,True,False,Legbreak googly,Right-hand bat
+Denmark,Delawar Khan,28b99edd,2,24,31,3,1,77.42,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,42,0,20,62,28,True,True,False,Left-arm medium,Right-hand bat
+Denmark,FA Klokker,821a412e,3,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,0,3,0,40,43,42,True,False,False,,Left-hand bat
+Denmark,Zameer Khan,fb0d3749,4,15,19,0,0,78.95,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,15,0,12,27,34,True,False,False,,Right-hand bat
+Denmark,Lucky Ali,28b032ac,5,3,7,0,0,42.86,"[7, 9, 11, 15]",4.0,24,12,0,20,2,0,1,0,0,0,0,5.0,0,0,0,0,0,3,41,0,44,21,True,True,False,Slow left-arm orthodox,Left-hand bat
+Denmark,SA Ahmad,8de618ab,6,17,21,1,0,80.95,"[2, 8, 10, 18]",4.0,24,11,0,13,0,0,0,0,0,0,0,3.25,0,0,0,0,0,21,17,0,38,26,True,True,False,Right-arm offbreak,Left-hand bat
+Denmark,Anique Uddin,1f41b702,7,1,5,0,0,20.0,"[12, 14, 16, 20]",3.5,21,12,0,27,2,2,2,0,0,0,0,7.71,1,0,0,0,0,1,62,8,71,27,True,True,False,Right-arm offbreak,Right-hand bat
+Denmark,A Khan,e27cff77,8,5,7,1,0,71.43,"[4, 6, 17, 19]",4.0,24,12,0,25,2,1,2,1,0,0,0,6.25,0,0,0,0,0,9,72,0,81,44,True,False,False,Right-arm fast-medium,Right-hand bat
+Denmark,Surya Anand,ef141f36,9,12,10,1,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,27,True,True,False,Right-arm medium,Right-hand bat
+Denmark,Musa Shaheen,6709b2de,10,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,21,True,True,False,Right-arm medium-fast,Right-hand bat
+Denmark,Bashir Shah,3b282e51,11,0,4,0,0,0.0,"[1, 3, 5, 13]",4.0,24,18,1,6,0,0,3,0,1,0,0,1.5,0,0,0,0,0,-2,123,0,121,41,True,True,False,Slow left-arm orthodox,Right-hand bat
+Jersey,H Carlyon,42bf1b7d,1,2,4,0,0,50.0,"[1, 3, 5]",3.0,18,11,0,10,0,0,0,0,0,0,0,3.33,0,0,0,0,0,2,17,0,19,24,True,True,False,Right-arm offbreak,Right-hand bat
+Jersey,NJ Ferraby,c149b9ca,2,5,9,0,0,55.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,41,True,True,False,Right-arm medium,Right-hand bat
+Jersey,ZM Tribe,96fe3e9f,3,2,9,0,0,22.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,23,True,False,False,Legbreak googly,Right-hand bat
+Jersey,JW Jenner,32a8161e,4,10,23,0,0,43.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,4,0,0,4,27,True,True,False,Right-arm offbreak,Right-hand bat
+Jersey,AM Tribe,86f84b37,5,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,21,True,False,False,Right-arm offbreak,Right-hand bat
+Jersey,B Ward,9e0bd203,6,32,39,3,1,82.05,"[7, 9, 15, 17]",4.0,24,13,0,20,2,0,2,0,0,0,0,5.0,0,0,1,0,0,54,67,12,133,26,True,True,False,Legbreak,Right-hand bat
+Jersey,J Sumerauer,0b581ed6,7,1,4,0,0,25.0,"[4, 6, 8, 16]",4.0,24,18,0,12,2,0,2,0,0,0,0,3.0,0,0,0,0,0,1,74,0,75,24,True,True,False,Right-arm fast-medium,Right-hand bat
+Jersey,DG Blampied,d8976cb7,8,6,8,0,0,75.0,"[2, 13]",2.0,12,4,0,19,2,1,0,0,0,0,0,9.5,0,0,0,0,0,6,4,0,10,28,True,True,False,Legbreak,Right-hand bat
+Jersey,JE Dunford,89a7dd4a,9,5,4,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,3,0,0,0,9,0,44,53,30,True,False,False,,Right-hand bat
+Jersey,CW Perchard,9f998ed8,10,23,9,2,2,255.56,"[10, 12, 18, 20]",3.833,23,12,0,14,0,0,4,1,1,0,0,3.65,1,0,0,0,0,43,142,8,193,32,True,True,False,Right-arm medium,Right-hand bat
+Jersey,D Birrell,aea11d1d,11,1,3,0,0,33.33,"[11, 14, 19]",3.0,18,6,0,14,0,0,1,0,0,1,0,4.67,1,0,0,0,0,1,37,8,46,24,True,False,False,Right-arm fast-medium,Right-hand bat

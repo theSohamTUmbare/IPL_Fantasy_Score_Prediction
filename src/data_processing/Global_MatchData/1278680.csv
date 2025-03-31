@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-India,RG Sharma,740742ef,1,19,18,2,1,105.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33
-India,Ishan Kishan,752f7486,2,2,8,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-India,V Kohli,ba607b88,3,52,41,7,1,126.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,94,0,0,94
-India,SA Yadav,271f83cd,4,8,6,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20
-India,RR Pant,919a3be2,5,52,28,7,1,185.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,100,0,0,100
-India,DL Chahar,23eeb873,5,0,0,0,0,0.0,"[2, 5, 12, 17]",4.0,24,8,0,40,3,3,0,0,0,0,0,10.0,0,0,0,0,0,0,6,0,6
-India,Ravi Bishnoi,df064e1a,6,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,9,0,30,2,1,1,0,0,0,3,7.5,1,0,0,0,0,0,34,8,42
-India,VR Iyer,a24be938,6,33,18,4,1,183.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,65,0,0,65
-India,HV Patel,f986ca1a,7,1,1,0,0,100.0,"[7, 14, 18, 20]",4.0,24,3,0,46,3,3,0,0,0,0,1,11.5,0,0,0,0,0,1,-1,0,0
-India,B Kumar,2e81a32d,7,0,0,0,0,0.0,"[1, 3, 16, 19]",4.0,24,8,0,29,2,0,1,0,0,0,6,7.25,0,0,0,0,0,0,33,0,33
-India,YS Chahal,57ee1fde,8,0,0,0,0,0.0,"[4, 6, 8, 10]",4.0,24,6,0,31,2,1,1,0,0,0,2,7.75,1,0,0,0,0,0,31,8,39
-West Indies,BA King,7fca84b7,1,22,30,2,0,73.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,30,0,8,38
-West Indies,KR Mayers,73c18486,2,9,10,1,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
-West Indies,N Pooran,3241e3fd,3,62,41,5,3,151.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,112,0,0,112
-West Indies,R Powell,650d5e49,4,68,36,4,5,188.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,128,0,0,128
-West Indies,KA Pollard,a757b0d8,5,3,3,0,0,100.0,[15],1.0,6,1,0,14,3,0,0,0,0,0,0,14.0,0,0,0,0,0,3,1,0,4
-West Indies,RL Chase,3feda4fa,5,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,10,0,25,2,1,3,0,1,0,1,6.25,1,0,0,0,0,0,99,8,107
-West Indies,JO Holder,0f721006,6,0,0,0,0,0.0,"[5, 11, 17, 19]",4.0,24,3,0,45,4,2,0,0,0,0,3,11.25,0,0,0,0,0,0,-1,0,-1
-West Indies,AJ Hosein,4d7f517e,7,0,0,0,0,0.0,"[1, 3, 7, 9]",4.0,24,10,0,30,4,0,0,0,0,2,0,7.5,0,0,0,0,0,0,10,0,10
-West Indies,OF Smith,23cca426,8,0,0,0,0,0.0,[13],1.0,6,2,0,10,1,0,0,0,0,0,2,10.0,0,0,0,0,0,0,2,0,2
-West Indies,R Shepherd,c5aef772,9,0,0,0,0,0.0,"[6, 18, 20]",3.0,18,4,0,34,3,1,1,0,1,0,2,11.33,0,0,0,0,0,0,33,0,33
-West Indies,SS Cottrell,a1d053dd,10,0,0,0,0,0.0,"[2, 4, 16]",3.0,18,11,1,20,4,0,1,0,0,0,1,6.67,0,0,0,0,0,0,50,0,50
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+India,RG Sharma,740742ef,1,19,18,2,1,105.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33,37,True,False,False,Right-arm offbreak,Right-hand bat
+India,Ishan Kishan,752f7486,2,2,8,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,26,True,True,False,Legbreak,Left-hand bat
+India,V Kohli,ba607b88,3,52,41,7,1,126.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,94,0,0,94,36,True,False,False,Right-arm medium,Right-hand bat
+India,SA Yadav,271f83cd,4,8,6,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20,34,True,False,False,Right-arm offbreak,Right-hand bat
+India,RR Pant,919a3be2,5,52,28,7,1,185.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,100,0,0,100,27,True,False,False,,Left-hand bat
+India,DL Chahar,23eeb873,5,0,0,0,0,0.0,"[2, 5, 12, 17]",4.0,24,8,0,40,3,3,0,0,0,0,0,10.0,0,0,0,0,0,0,6,0,6,32,True,False,False,Right-arm medium,Right-hand bat
+India,Ravi Bishnoi,df064e1a,6,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,9,0,30,2,1,1,0,0,0,3,7.5,1,0,0,0,0,0,34,8,42,24,True,False,False,Legbreak googly,Right-hand bat
+India,VR Iyer,a24be938,6,33,18,4,1,183.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,65,0,0,65,30,True,False,True,Right-arm medium,Left-hand bat
+India,HV Patel,f986ca1a,7,1,1,0,0,100.0,"[7, 14, 18, 20]",4.0,24,3,0,46,3,3,0,0,0,0,1,11.5,0,0,0,0,0,1,-1,0,0,34,True,False,False,Right-arm medium,Right-hand bat
+India,B Kumar,2e81a32d,7,0,0,0,0,0.0,"[1, 3, 16, 19]",4.0,24,8,0,29,2,0,1,0,0,0,6,7.25,0,0,0,0,0,0,33,0,33,35,True,False,False,Right-arm medium,Right-hand bat
+India,YS Chahal,57ee1fde,8,0,0,0,0,0.0,"[4, 6, 8, 10]",4.0,24,6,0,31,2,1,1,0,0,0,2,7.75,1,0,0,0,0,0,31,8,39,34,True,False,False,Legbreak googly,Right-hand bat
+West Indies,BA King,7fca84b7,1,22,30,2,0,73.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,30,0,8,38,30,True,False,False,,Right-hand bat
+West Indies,KR Mayers,73c18486,2,9,10,1,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21,32,True,False,True,Right-arm medium,Left-hand bat
+West Indies,N Pooran,3241e3fd,3,62,41,5,3,151.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,112,0,0,112,29,True,True,False,Right-arm offbreak,Left-hand bat
+West Indies,R Powell,650d5e49,4,68,36,4,5,188.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,128,0,0,128,31,True,False,False,Right-arm medium-fast,Right-hand bat
+West Indies,KA Pollard,a757b0d8,5,3,3,0,0,100.0,[15],1.0,6,1,0,14,3,0,0,0,0,0,0,14.0,0,0,0,0,0,3,1,0,4,37,True,False,True,Right-arm medium,Right-hand bat
+West Indies,RL Chase,3feda4fa,5,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,10,0,25,2,1,3,0,1,0,1,6.25,1,0,0,0,0,0,99,8,107,33,True,False,True,Right-arm offbreak,Right-hand bat
+West Indies,JO Holder,0f721006,6,0,0,0,0,0.0,"[5, 11, 17, 19]",4.0,24,3,0,45,4,2,0,0,0,0,3,11.25,0,0,0,0,0,0,-1,0,-1,33,True,False,True,Right-arm medium-fast,Right-hand bat
+West Indies,AJ Hosein,4d7f517e,7,0,0,0,0,0.0,"[1, 3, 7, 9]",4.0,24,10,0,30,4,0,0,0,0,2,0,7.5,0,0,0,0,0,0,10,0,10,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+West Indies,OF Smith,23cca426,8,0,0,0,0,0.0,[13],1.0,6,2,0,10,1,0,0,0,0,0,2,10.0,0,0,0,0,0,0,2,0,2,28,True,False,True,Right-arm fast-medium,Right-hand bat
+West Indies,R Shepherd,c5aef772,9,0,0,0,0,0.0,"[6, 18, 20]",3.0,18,4,0,34,3,1,1,0,1,0,2,11.33,0,0,0,0,0,0,33,0,33,30,True,False,True,Right-arm fast-medium,Right-hand bat
+West Indies,SS Cottrell,a1d053dd,10,0,0,0,0,0.0,"[2, 4, 16]",3.0,18,11,1,20,4,0,1,0,0,0,1,6.67,0,0,0,0,0,0,50,0,50,35,True,False,False,Left-arm fast-medium,Right-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Hobart Hurricanes,BR McDermott,c41043e6,1,17,11,2,0,154.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,29,0,0,29
-Hobart Hurricanes,DJM Short,1a156c88,2,15,15,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
-Hobart Hurricanes,MS Wade,afa7e784,3,35,35,1,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,49,0,12,61
-Hobart Hurricanes,Shadab Khan,9de62878,4,7,10,0,0,70.0,"[4, 6, 9, 14]",4.0,24,6,0,29,3,0,1,0,0,0,0,7.25,0,0,0,0,-2,5,31,0,36
-Hobart Hurricanes,TH David,f1f99156,5,24,17,2,1,141.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,40,0,8,48
-Hobart Hurricanes,Asif Ali,0a4736eb,6,4,6,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
-Hobart Hurricanes,JDS Neesham,9219eff0,7,16,11,3,0,145.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,30,0,0,30
-Hobart Hurricanes,JS Paris,7c8f533d,8,5,6,0,0,83.33,"[1, 3, 15, 17]",4.0,24,7,0,43,5,2,0,0,0,0,0,10.75,0,0,0,0,0,5,5,0,10
-Hobart Hurricanes,NT Ellis,9eb1455b,9,0,1,0,0,0.0,"[10, 16, 18, 20]",4.0,24,7,0,39,2,2,0,0,0,0,3,9.75,0,0,0,0,0,-2,7,0,5
-Hobart Hurricanes,PG Dooley,5e3054d0,10,5,5,1,0,100.0,"[2, 7, 11, 13]",4.0,24,9,0,27,0,1,1,0,1,0,6,6.75,1,0,0,0,0,9,44,8,61
-Hobart Hurricanes,RP Meredith,64775749,11,7,3,1,0,233.33,"[5, 8, 12, 19]",4.0,24,6,0,38,4,1,2,0,0,0,1,9.5,1,0,0,0,0,11,56,8,75
-Melbourne Stars,JM Clarke,2eca67f5,1,101,66,9,4,153.03,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,181,0,8,189
-Melbourne Stars,TF Rogers,7f232d46,2,20,13,2,1,153.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,38,0,8,46
-Melbourne Stars,BJ Webster,56b93d46,3,24,22,2,1,109.09,"[5, 9, 11, 13]",4.0,24,4,0,21,0,0,0,0,0,0,0,5.25,0,0,0,0,0,38,8,0,46
-Melbourne Stars,MP Stoinis,d9273ee7,4,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Melbourne Stars,HWR Cartwright,ab965cad,5,17,13,1,0,130.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,23,0,16,39
-Melbourne Stars,NCR Larkin,02bce9a8,6,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,4,0,16,20
-Melbourne Stars,L Wood,65b6943c,7,0,0,0,0,0.0,"[2, 4, 16, 18]",4.0,24,10,0,25,0,1,3,0,0,0,2,6.25,0,0,0,0,0,0,91,0,91
-Melbourne Stars,C Kellaway,60c28835,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Melbourne Stars,NM Coulter-Nile,56ab442f,12,0,0,0,0,0.0,"[7, 10, 12, 14]",4.0,24,7,0,24,2,0,2,0,0,0,0,6.0,0,0,0,0,0,0,59,0,59
-Melbourne Stars,TA Boult,a818c1be,13,0,0,0,0,0.0,"[1, 3, 17, 20]",4.0,24,6,0,41,7,0,1,0,0,0,1,10.25,1,0,0,0,0,0,29,8,37
-Melbourne Stars,A Zampa,14f96089,14,0,0,0,0,0.0,"[6, 8, 15, 19]",4.0,24,9,0,27,2,1,3,0,0,0,0,6.75,0,0,0,0,0,0,90,0,90
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Hobart Hurricanes,BR McDermott,c41043e6,1,17,11,2,0,154.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,29,0,0,29,30,True,True,False,Right-arm medium,Right-hand bat
+Hobart Hurricanes,DJM Short,1a156c88,2,15,15,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,34,True,False,False,Left-arm wrist-spin,Left-hand bat
+Hobart Hurricanes,MS Wade,afa7e784,3,35,35,1,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,49,0,12,61,37,True,True,False,Right-arm medium,Left-hand bat
+Hobart Hurricanes,Shadab Khan,9de62878,4,7,10,0,0,70.0,"[4, 6, 9, 14]",4.0,24,6,0,29,3,0,1,0,0,0,0,7.25,0,0,0,0,-2,5,31,0,36,26,True,False,True,Legbreak,Right-hand bat
+Hobart Hurricanes,TH David,f1f99156,5,24,17,2,1,141.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,40,0,8,48,29,True,False,False,Right-arm offbreak,Right-hand bat
+Hobart Hurricanes,Asif Ali,0a4736eb,6,4,6,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,33,True,False,False,Right-arm offbreak,Right-hand bat
+Hobart Hurricanes,JDS Neesham,9219eff0,7,16,11,3,0,145.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,30,0,0,30,34,True,False,True,Right-arm medium-fast,Left-hand bat
+Hobart Hurricanes,JS Paris,7c8f533d,8,5,6,0,0,83.33,"[1, 3, 15, 17]",4.0,24,7,0,43,5,2,0,0,0,0,0,10.75,0,0,0,0,0,5,5,0,10,32,True,False,False,Left-arm fast-medium,Left-hand bat
+Hobart Hurricanes,NT Ellis,9eb1455b,9,0,1,0,0,0.0,"[10, 16, 18, 20]",4.0,24,7,0,39,2,2,0,0,0,0,3,9.75,0,0,0,0,0,-2,7,0,5,30,True,False,False,Right-arm fast-medium,Right-hand bat
+Hobart Hurricanes,PG Dooley,5e3054d0,10,5,5,1,0,100.0,"[2, 7, 11, 13]",4.0,24,9,0,27,0,1,1,0,1,0,6,6.75,1,0,0,0,0,9,44,8,61,27,True,False,False,Left-arm wrist-spin,Left-hand bat
+Hobart Hurricanes,RP Meredith,64775749,11,7,3,1,0,233.33,"[5, 8, 12, 19]",4.0,24,6,0,38,4,1,2,0,0,0,1,9.5,1,0,0,0,0,11,56,8,75,28,True,False,False,Right-arm fast,Right-hand bat
+Melbourne Stars,JM Clarke,2eca67f5,1,101,66,9,4,153.03,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,181,0,8,189,28,True,False,False,,Right-hand bat
+Melbourne Stars,TF Rogers,7f232d46,2,20,13,2,1,153.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,38,0,8,46,26,True,False,False,Right-arm medium,Left-hand bat
+Melbourne Stars,BJ Webster,56b93d46,3,24,22,2,1,109.09,"[5, 9, 11, 13]",4.0,24,4,0,21,0,0,0,0,0,0,0,5.25,0,0,0,0,0,38,8,0,46,31,True,False,True,Right-arm offbreak,Right-hand bat
+Melbourne Stars,MP Stoinis,d9273ee7,4,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,35,True,False,True,Right-arm medium,Right-hand bat
+Melbourne Stars,HWR Cartwright,ab965cad,5,17,13,1,0,130.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,23,0,16,39,33,True,False,False,Right-arm medium,Right-hand bat
+Melbourne Stars,NCR Larkin,02bce9a8,6,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,4,0,16,20,34,True,False,False,,Right-hand bat
+Melbourne Stars,L Wood,65b6943c,7,0,0,0,0,0.0,"[2, 4, 16, 18]",4.0,24,10,0,25,0,1,3,0,0,0,2,6.25,0,0,0,0,0,0,91,0,91,29,True,False,False,Left-arm fast-medium,Left-hand bat
+Melbourne Stars,C Kellaway,60c28835,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,22,True,False,False,,Left-hand bat
+Melbourne Stars,NM Coulter-Nile,56ab442f,12,0,0,0,0,0.0,"[7, 10, 12, 14]",4.0,24,7,0,24,2,0,2,0,0,0,0,6.0,0,0,0,0,0,0,59,0,59,37,True,False,True,Right-arm fast,Right-hand bat
+Melbourne Stars,TA Boult,a818c1be,13,0,0,0,0,0.0,"[1, 3, 17, 20]",4.0,24,6,0,41,7,0,1,0,0,0,1,10.25,1,0,0,0,0,0,29,8,37,35,True,False,False,Left-arm fast-medium,Right-hand bat
+Melbourne Stars,A Zampa,14f96089,14,0,0,0,0,0.0,"[6, 8, 15, 19]",4.0,24,9,0,27,2,1,3,0,0,0,0,6.75,0,0,0,0,0,0,90,0,90,32,True,False,False,Legbreak googly,Right-hand bat

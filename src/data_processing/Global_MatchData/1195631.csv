@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Adelaide Strikers,J Weatherald,edc7ddb6,1,18,14,3,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30
-Adelaide Strikers,PD Salt,3d284ca3,2,5,4,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
-Adelaide Strikers,TM Head,12b610c2,3,32,23,4,0,139.13,[14],1.0,6,1,0,9,1,0,1,0,0,0,0,9.0,0,0,0,0,2,54,26,0,80
-Adelaide Strikers,AT Carey,69d03465,4,28,32,2,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,40,0,8,48
-Adelaide Strikers,JW Wells,8bdac857,5,34,27,3,0,125.93,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,50,0,8,58
-Adelaide Strikers,Rashid Khan,5f547c8b,6,0,2,0,0,0.0,"[10, 12, 16, 18]",4.0,24,10,0,24,0,2,1,0,0,0,0,6.0,0,0,0,0,0,-2,37,0,35
-Adelaide Strikers,MW Short,a90e53ec,7,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Adelaide Strikers,MG Neser,0164b064,8,12,8,2,0,150.0,"[2, 4, 9, 15]",4.0,24,8,0,21,1,0,1,0,1,0,0,5.25,0,0,0,0,0,20,45,0,65
-Adelaide Strikers,PM Siddle,bd93fea4,9,0,1,0,0,0.0,"[3, 6, 17, 20]",4.0,24,12,0,21,1,0,2,1,1,0,1,5.25,1,0,0,0,0,-2,82,8,88
-Adelaide Strikers,WA Agar,15de1f5d,10,3,3,0,0,100.0,"[5, 7, 11, 19]",4.0,24,12,0,43,4,3,1,0,0,0,4,10.75,0,0,0,0,0,3,35,0,38
-Adelaide Strikers,B Stanlake,6834d1f2,11,1,2,0,0,50.0,"[1, 8, 13]",3.0,18,5,0,32,3,2,0,0,0,0,0,10.67,0,0,0,0,0,1,3,0,4
-Sydney Thunder,UT Khawaja,331ea488,1,15,13,3,0,115.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27
-Sydney Thunder,AD Hales,92aeac25,2,59,35,6,4,168.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,4,119,0,16,135
-Sydney Thunder,CJ Ferguson,9b4935c8,3,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
-Sydney Thunder,AI Ross,fb0d68b4,4,12,20,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,10,0,0,10
-Sydney Thunder,AJ Nair,4ba2c04d,5,18,18,0,1,100.0,"[3, 8]",2.0,12,3,0,14,1,0,0,0,0,0,0,7.0,1,0,0,0,0,24,5,8,37
-Sydney Thunder,CH Morris,fb66ce1f,6,21,14,1,1,150.0,"[7, 13, 17, 20]",4.0,24,12,0,22,3,0,2,1,0,0,0,5.5,0,0,0,0,0,31,74,0,105
-Sydney Thunder,DR Sams,caf69bf7,7,10,10,0,1,100.0,"[1, 11, 14, 19]",4.0,24,5,0,26,1,0,3,0,0,0,1,6.5,0,0,0,0,0,16,86,0,102
-Sydney Thunder,JS Lenton,8820c9ef,8,6,4,0,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,6,0,8,14
-Sydney Thunder,CP Tremain,96824e68,9,3,1,0,0,300.0,"[5, 9, 15, 18]",4.0,24,8,0,40,6,0,1,0,0,0,4,10.0,0,0,0,0,0,3,31,0,34
-Sydney Thunder,JD Cook,45f56920,11,0,0,0,0,0.0,"[2, 6, 10, 16]",4.0,24,14,0,16,1,0,2,0,1,0,0,4.0,0,0,0,0,0,0,78,0,78
-Sydney Thunder,B Doggett,898e628d,12,0,0,0,0,0.0,"[4, 12]",2.0,12,1,0,25,3,0,0,0,0,0,5,12.5,0,0,0,0,0,0,-5,0,-5
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Adelaide Strikers,J Weatherald,edc7ddb6,1,18,14,3,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30,30,True,False,False,Legbreak,Left-hand bat
+Adelaide Strikers,PD Salt,3d284ca3,2,5,4,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,28,True,True,False,Right-arm offbreak,Right-hand bat
+Adelaide Strikers,TM Head,12b610c2,3,32,23,4,0,139.13,[14],1.0,6,1,0,9,1,0,1,0,0,0,0,9.0,0,0,0,0,2,54,26,0,80,31,True,False,False,Right-arm offbreak,Left-hand bat
+Adelaide Strikers,AT Carey,69d03465,4,28,32,2,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,40,0,8,48,33,True,False,False,,Left-hand bat
+Adelaide Strikers,JW Wells,8bdac857,5,34,27,3,0,125.93,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,50,0,8,58,36,True,False,False,Right-arm medium,Right-hand bat
+Adelaide Strikers,Rashid Khan,5f547c8b,6,0,2,0,0,0.0,"[10, 12, 16, 18]",4.0,24,10,0,24,0,2,1,0,0,0,0,6.0,0,0,0,0,0,-2,37,0,35,26,True,False,True,Legbreak googly,Right-hand bat
+Adelaide Strikers,MW Short,a90e53ec,7,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,29,True,False,False,Right-arm offbreak,Right-hand bat
+Adelaide Strikers,MG Neser,0164b064,8,12,8,2,0,150.0,"[2, 4, 9, 15]",4.0,24,8,0,21,1,0,1,0,1,0,0,5.25,0,0,0,0,0,20,45,0,65,35,True,False,True,Right-arm medium-fast,Right-hand bat
+Adelaide Strikers,PM Siddle,bd93fea4,9,0,1,0,0,0.0,"[3, 6, 17, 20]",4.0,24,12,0,21,1,0,2,1,1,0,1,5.25,1,0,0,0,0,-2,82,8,88,40,True,False,False,Right-arm fast-medium,Right-hand bat
+Adelaide Strikers,WA Agar,15de1f5d,10,3,3,0,0,100.0,"[5, 7, 11, 19]",4.0,24,12,0,43,4,3,1,0,0,0,4,10.75,0,0,0,0,0,3,35,0,38,28,True,False,False,Right-arm fast,Right-hand bat
+Adelaide Strikers,B Stanlake,6834d1f2,11,1,2,0,0,50.0,"[1, 8, 13]",3.0,18,5,0,32,3,2,0,0,0,0,0,10.67,0,0,0,0,0,1,3,0,4,30,True,False,False,Right-arm fast,Left-hand bat
+Sydney Thunder,UT Khawaja,331ea488,1,15,13,3,0,115.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27,38,True,False,False,Right-arm medium,Left-hand bat
+Sydney Thunder,AD Hales,92aeac25,2,59,35,6,4,168.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,4,119,0,16,135,36,True,False,False,Right-arm medium,Right-hand bat
+Sydney Thunder,CJ Ferguson,9b4935c8,3,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,40,True,False,False,Right-arm medium,Right-hand bat
+Sydney Thunder,AI Ross,fb0d68b4,4,12,20,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,10,0,0,10,32,True,False,False,Right-arm offbreak,Right-hand bat
+Sydney Thunder,AJ Nair,4ba2c04d,5,18,18,0,1,100.0,"[3, 8]",2.0,12,3,0,14,1,0,0,0,0,0,0,7.0,1,0,0,0,0,24,5,8,37,26,True,False,False,Right-arm offbreak,Right-hand bat
+Sydney Thunder,CH Morris,fb66ce1f,6,21,14,1,1,150.0,"[7, 13, 17, 20]",4.0,24,12,0,22,3,0,2,1,0,0,0,5.5,0,0,0,0,0,31,74,0,105,37,True,False,True,Right-arm fast-medium,Right-hand bat
+Sydney Thunder,DR Sams,caf69bf7,7,10,10,0,1,100.0,"[1, 11, 14, 19]",4.0,24,5,0,26,1,0,3,0,0,0,1,6.5,0,0,0,0,0,16,86,0,102,32,True,False,True,Left-arm fast-medium,Right-hand bat
+Sydney Thunder,JS Lenton,8820c9ef,8,6,4,0,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,6,0,8,14,34,True,False,False,,Left-hand bat
+Sydney Thunder,CP Tremain,96824e68,9,3,1,0,0,300.0,"[5, 9, 15, 18]",4.0,24,8,0,40,6,0,1,0,0,0,4,10.0,0,0,0,0,0,3,31,0,34,33,True,False,False,Right-arm medium-fast,Right-hand bat
+Sydney Thunder,JD Cook,45f56920,11,0,0,0,0,0.0,"[2, 6, 10, 16]",4.0,24,14,0,16,1,0,2,0,1,0,0,4.0,0,0,0,0,0,0,78,0,78,35,True,False,False,Legbreak,Right-hand bat
+Sydney Thunder,B Doggett,898e628d,12,0,0,0,0,0.0,"[4, 12]",2.0,12,1,0,25,3,0,0,0,0,0,5,12.5,0,0,0,0,0,0,-5,0,-5,30,True,False,False,Right-arm fast-medium,Right-hand bat

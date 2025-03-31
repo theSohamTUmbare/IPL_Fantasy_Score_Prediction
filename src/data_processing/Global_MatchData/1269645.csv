@@ -1,24 +1,24 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Hobart Hurricanes,MS Wade,afa7e784,1,93,46,9,5,202.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,177,0,0,177
-Hobart Hurricanes,DJM Short,1a156c88,2,73,51,7,3,143.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,129,0,0,129
-Hobart Hurricanes,CP Jewell,806c4e58,3,42,23,6,1,182.61,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,82,0,0,82
-Hobart Hurricanes,TH David,f1f99156,4,0,0,0,0,0.0,"[1, 9]",2.0,12,4,0,8,0,0,0,0,0,0,0,4.0,0,0,0,0,0,0,10,0,10
-Hobart Hurricanes,TA Lammonby,73f1f6b0,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Hobart Hurricanes,PSP Handscomb,ada15e88,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Hobart Hurricanes,JA Thompson,1d2f290a,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Hobart Hurricanes,NT Ellis,9eb1455b,9,0,0,0,0,0.0,"[4, 12, 16, 18]",4.0,24,6,0,37,2,1,1,0,0,0,3,9.25,1,0,0,0,0,0,31,8,39
-Hobart Hurricanes,JS Paris,7c8f533d,10,0,0,0,0,0.0,"[2, 8, 14, 17]",4.0,24,10,0,35,6,0,3,0,1,0,1,8.75,0,0,0,0,0,0,97,0,97
-Hobart Hurricanes,TS Rogers,1b04e02b,11,0,0,0,0,0.0,"[3, 7, 11]",3.0,18,1,0,36,3,2,0,0,0,0,0,12.0,1,0,0,0,0,0,-3,8,5
-Hobart Hurricanes,S Lamichhane,b410bd3d,12,0,0,0,0,0.0,"[6, 10, 13, 15]",4.0,24,6,0,24,1,0,0,0,0,0,0,6.0,0,0,0,0,0,0,8,0,8
-Hobart Hurricanes,J Kann,cccea5bc,13,0,0,0,0,0.0,[5],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,0,1,0,1
-Sydney Sixers,JR Philippe,39086549,1,72,46,6,3,156.52,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,126,0,0,126
-Sydney Sixers,JM Vince,a15618fe,2,26,22,2,0,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,38,0,0,38
-Sydney Sixers,MC Henriques,32198ae0,3,26,25,2,0,104.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,38,0,0,38
-Sydney Sixers,DT Christian,2a2e6343,4,12,9,2,0,133.33,"[7, 10, 13, 17]",4.0,24,7,0,36,2,2,0,0,0,0,2,9.0,0,0,0,0,0,20,7,0,27
-Sydney Sixers,DP Hughes,f3982af9,5,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Sydney Sixers,TK Curran,e86754b2,6,6,3,1,0,200.0,"[2, 9, 12]",3.0,18,4,0,46,8,1,1,0,0,0,2,15.33,0,0,0,0,0,10,23,0,33
-Sydney Sixers,JC Silk,7a6dc294,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
-Sydney Sixers,CJ Jordan,ffe699c0,7,0,0,0,0,0.0,"[4, 11, 18, 20]",4.0,24,7,0,51,4,3,1,0,0,0,0,12.75,0,0,0,0,0,0,26,0,26
-Sydney Sixers,SA Abbott,1a2676c5,8,0,0,0,0,0.0,"[1, 5, 15, 19]",4.0,24,9,0,42,3,3,0,0,0,0,1,10.5,0,0,0,0,0,0,7,0,7
-Sydney Sixers,H Kerr,f422728b,9,0,0,0,0,0.0,[3],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,0,1,0,1
-Sydney Sixers,SNJ O'Keefe,3540beff,10,0,0,0,0,0.0,"[6, 8, 14, 16]",4.0,24,8,0,30,4,0,0,0,0,0,0,7.5,0,0,0,0,0,0,8,0,8
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Hobart Hurricanes,MS Wade,afa7e784,1,93,46,9,5,202.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,177,0,0,177,37,True,True,False,Right-arm medium,Left-hand bat
+Hobart Hurricanes,DJM Short,1a156c88,2,73,51,7,3,143.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,129,0,0,129,34,True,False,False,Left-arm wrist-spin,Left-hand bat
+Hobart Hurricanes,CP Jewell,806c4e58,3,42,23,6,1,182.61,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,82,0,0,82,27,True,False,False,,Left-hand bat
+Hobart Hurricanes,TH David,f1f99156,4,0,0,0,0,0.0,"[1, 9]",2.0,12,4,0,8,0,0,0,0,0,0,0,4.0,0,0,0,0,0,0,10,0,10,29,True,False,False,Right-arm offbreak,Right-hand bat
+Hobart Hurricanes,TA Lammonby,73f1f6b0,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,24,True,False,True,Left-arm medium-fast,Left-hand bat
+Hobart Hurricanes,PSP Handscomb,ada15e88,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,33,True,False,False,,Right-hand bat
+Hobart Hurricanes,JA Thompson,1d2f290a,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,28,True,False,True,Right-arm medium-fast,Left-hand bat
+Hobart Hurricanes,NT Ellis,9eb1455b,9,0,0,0,0,0.0,"[4, 12, 16, 18]",4.0,24,6,0,37,2,1,1,0,0,0,3,9.25,1,0,0,0,0,0,31,8,39,30,True,False,False,Right-arm fast-medium,Right-hand bat
+Hobart Hurricanes,JS Paris,7c8f533d,10,0,0,0,0,0.0,"[2, 8, 14, 17]",4.0,24,10,0,35,6,0,3,0,1,0,1,8.75,0,0,0,0,0,0,97,0,97,32,True,False,False,Left-arm fast-medium,Left-hand bat
+Hobart Hurricanes,TS Rogers,1b04e02b,11,0,0,0,0,0.0,"[3, 7, 11]",3.0,18,1,0,36,3,2,0,0,0,0,0,12.0,1,0,0,0,0,0,-3,8,5,31,True,False,True,Right-arm medium-fast,Left-hand bat
+Hobart Hurricanes,S Lamichhane,b410bd3d,12,0,0,0,0,0.0,"[6, 10, 13, 15]",4.0,24,6,0,24,1,0,0,0,0,0,0,6.0,0,0,0,0,0,0,8,0,8,24,True,False,False,Legbreak googly,Right-hand bat
+Hobart Hurricanes,J Kann,cccea5bc,13,0,0,0,0,0.0,[5],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,0,1,0,1,25,True,False,True,Right-arm fast,Right-hand bat
+Sydney Sixers,JR Philippe,39086549,1,72,46,6,3,156.52,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,126,0,0,126,27,True,False,False,,Right-hand bat
+Sydney Sixers,JM Vince,a15618fe,2,26,22,2,0,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,38,0,0,38,34,True,False,False,Right-arm medium,Right-hand bat
+Sydney Sixers,MC Henriques,32198ae0,3,26,25,2,0,104.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,38,0,0,38,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Sydney Sixers,DT Christian,2a2e6343,4,12,9,2,0,133.33,"[7, 10, 13, 17]",4.0,24,7,0,36,2,2,0,0,0,0,2,9.0,0,0,0,0,0,20,7,0,27,41,True,False,True,Right-arm fast-medium,Right-hand bat
+Sydney Sixers,DP Hughes,f3982af9,5,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,36,True,False,False,Right-arm medium,Left-hand bat
+Sydney Sixers,TK Curran,e86754b2,6,6,3,1,0,200.0,"[2, 9, 12]",3.0,18,4,0,46,8,1,1,0,0,0,2,15.33,0,0,0,0,0,10,23,0,33,30,True,False,True,Right-arm fast-medium,Right-hand bat
+Sydney Sixers,JC Silk,7a6dc294,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,32,True,False,False,,Right-hand bat
+Sydney Sixers,CJ Jordan,ffe699c0,7,0,0,0,0,0.0,"[4, 11, 18, 20]",4.0,24,7,0,51,4,3,1,0,0,0,0,12.75,0,0,0,0,0,0,26,0,26,36,True,False,False,Right-arm fast-medium,Right-hand bat
+Sydney Sixers,SA Abbott,1a2676c5,8,0,0,0,0,0.0,"[1, 5, 15, 19]",4.0,24,9,0,42,3,3,0,0,0,0,1,10.5,0,0,0,0,0,0,7,0,7,33,True,False,True,Right-arm fast-medium,Right-hand bat
+Sydney Sixers,H Kerr,f422728b,9,0,0,0,0,0.0,[3],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,0,1,0,1,28,True,False,True,Left-arm fast-medium,Right-hand bat
+Sydney Sixers,SNJ O'Keefe,3540beff,10,0,0,0,0,0.0,"[6, 8, 14, 16]",4.0,24,8,0,30,4,0,0,0,0,0,0,7.5,0,0,0,0,0,0,8,0,8,40,True,False,True,Slow left-arm orthodox,Right-hand bat

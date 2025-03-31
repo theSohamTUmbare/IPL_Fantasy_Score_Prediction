@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Titans,Q de Kock,372455c4,1,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,1,0,-2,0,22,20
-Titans,GL Cloete,3bf40832,2,23,20,3,0,115.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,35,0,0,35
-Titans,TB de Bruyn,90d6cdea,3,17,9,3,0,188.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29
-Titans,H Klaasen,235c2bb6,4,20,20,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,28,0,8,36
-Titans,BS Makhanya,1b42a100,5,18,15,1,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,22,0,8,30
-Titans,D Ferreira,f0af99a7,6,60,40,8,0,150.0,"[1, 11]",2.0,12,4,0,11,1,0,1,0,0,0,0,5.5,0,0,0,0,0,100,33,0,133
-Titans,A Gqamane,a83c44b8,7,2,6,0,0,33.33,"[15, 18]",2.0,12,0,0,32,0,3,0,0,0,0,3,16.0,0,0,0,1,0,2,-6,6,2
-Titans,C Bosch,172dff15,8,2,5,0,0,40.0,"[2, 4, 14, 20]",4.0,24,6,0,36,3,1,2,1,0,0,2,9.0,0,0,0,0,0,2,64,0,66
-Titans,AM Phangiso,7f8ecc51,9,0,2,0,0,0.0,"[5, 7, 9, 13]",4.0,24,11,0,24,2,1,1,0,1,0,0,6.0,1,0,0,0,0,-2,46,8,52
-Titans,T Shamsi,a03bba42,10,0,0,0,0,0.0,"[8, 10, 12, 16]",4.0,24,5,0,31,1,1,1,0,0,0,0,7.75,0,0,0,0,0,0,30,0,30
-Titans,LB Williams,a1d95bd8,10,0,1,0,0,0.0,"[3, 6, 17, 19]",4.0,24,8,0,29,2,1,2,0,0,0,1,7.25,0,0,0,0,0,0,58,0,58
-Warriors,MP Breetzke,35f173a0,1,36,21,5,1,171.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,72,0,0,72
-Warriors,WJ Lubbe,10f42013,2,56,46,3,2,121.74,"[1, 8]",2.0,12,6,0,15,1,0,2,0,0,0,5,7.5,1,0,0,0,0,88,56,8,152
-Warriors,JT Smuts,42172c3c,3,2,4,0,0,50.0,"[9, 11, 15, 17]",4.0,24,13,0,12,0,0,1,1,0,0,0,3.0,0,0,0,0,0,2,52,0,54
-Warriors,DS Rosier,f8e6dbdd,4,3,10,0,0,30.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,-6,-3,0,20,17
-Warriors,T Stubbs,85b3fab2,5,51,27,1,4,188.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,93,0,0,93
-Warriors,LC Ngoepe,51355a30,6,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
-Warriors,S Qeshile,94268960,7,5,6,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,5,0,16,21
-Warriors,T van Vuuren,20afc7e7,8,0,1,0,0,0.0,"[6, 12, 18, 20]",4.0,24,6,0,31,3,0,0,0,0,0,0,7.75,0,0,0,0,0,-2,6,0,4
-Warriors,D Paterson,462d7c62,9,1,1,0,0,100.0,"[2, 4, 13, 19]",4.0,24,5,0,42,7,0,2,0,1,0,1,10.5,1,0,0,0,0,1,61,8,70
-Warriors,M Nabe,6ed11905,10,0,0,0,0,0.0,"[3, 16]",2.0,12,2,0,29,4,0,2,0,0,0,5,14.5,0,0,0,0,0,0,46,0,46
-Warriors,Tsepo Ndwandwa,be3ffb65,11,0,0,0,0,0.0,"[5, 7, 10, 14]",4.0,24,6,0,24,2,0,0,0,0,0,0,6.0,0,0,0,0,0,0,8,0,8
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Titans,Q de Kock,372455c4,1,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,1,0,-2,0,22,20,32,True,False,False,,Left-hand bat
+Titans,GL Cloete,3bf40832,2,23,20,3,0,115.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,35,0,0,35,32,True,True,False,Right-arm offbreak,Left-hand bat
+Titans,TB de Bruyn,90d6cdea,3,17,9,3,0,188.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29,32,True,False,False,Right-arm medium-fast,Right-hand bat
+Titans,H Klaasen,235c2bb6,4,20,20,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,28,0,8,36,33,True,True,False,Right-arm offbreak,Right-hand bat
+Titans,BS Makhanya,1b42a100,5,18,15,1,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,22,0,8,30,29,True,False,False,Right-arm medium,Right-hand bat
+Titans,D Ferreira,f0af99a7,6,60,40,8,0,150.0,"[1, 11]",2.0,12,4,0,11,1,0,1,0,0,0,0,5.5,0,0,0,0,0,100,33,0,133,26,True,False,True,Right-arm offbreak,Right-hand bat
+Titans,A Gqamane,a83c44b8,7,2,6,0,0,33.33,"[15, 18]",2.0,12,0,0,32,0,3,0,0,0,0,3,16.0,0,0,0,1,0,2,-6,6,2,35,True,False,True,Right-arm fast-medium,Right-hand bat
+Titans,C Bosch,172dff15,8,2,5,0,0,40.0,"[2, 4, 14, 20]",4.0,24,6,0,36,3,1,2,1,0,0,2,9.0,0,0,0,0,0,2,64,0,66,30,True,False,True,Right-arm fast-medium,Right-hand bat
+Titans,AM Phangiso,7f8ecc51,9,0,2,0,0,0.0,"[5, 7, 9, 13]",4.0,24,11,0,24,2,1,1,0,1,0,0,6.0,1,0,0,0,0,-2,46,8,52,41,True,False,False,Slow left-arm orthodox,Right-hand bat
+Titans,T Shamsi,a03bba42,10,0,0,0,0,0.0,"[8, 10, 12, 16]",4.0,24,5,0,31,1,1,1,0,0,0,0,7.75,0,0,0,0,0,0,30,0,30,35,True,False,False,Left-arm wrist-spin,Right-hand bat
+Titans,LB Williams,a1d95bd8,10,0,1,0,0,0.0,"[3, 6, 17, 19]",4.0,24,8,0,29,2,1,2,0,0,0,1,7.25,0,0,0,0,0,0,58,0,58,31,True,False,False,Right-arm medium-fast,Left-hand bat
+Warriors,MP Breetzke,35f173a0,1,36,21,5,1,171.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,72,0,0,72,26,True,False,False,,Right-hand bat
+Warriors,WJ Lubbe,10f42013,2,56,46,3,2,121.74,"[1, 8]",2.0,12,6,0,15,1,0,2,0,0,0,5,7.5,1,0,0,0,0,88,56,8,152,32,True,False,False,Right-arm offbreak,Left-hand bat
+Warriors,JT Smuts,42172c3c,3,2,4,0,0,50.0,"[9, 11, 15, 17]",4.0,24,13,0,12,0,0,1,1,0,0,0,3.0,0,0,0,0,0,2,52,0,54,36,True,False,True,Slow left-arm orthodox,Right-hand bat
+Warriors,DS Rosier,f8e6dbdd,4,3,10,0,0,30.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,-6,-3,0,20,17,30,True,False,False,Legbreak,Right-hand bat
+Warriors,T Stubbs,85b3fab2,5,51,27,1,4,188.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,93,0,0,93,24,True,False,False,Right-arm offbreak,Right-hand bat
+Warriors,LC Ngoepe,51355a30,6,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Warriors,S Qeshile,94268960,7,5,6,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,5,0,16,21,26,True,False,False,,Right-hand bat
+Warriors,T van Vuuren,20afc7e7,8,0,1,0,0,0.0,"[6, 12, 18, 20]",4.0,24,6,0,31,3,0,0,0,0,0,0,7.75,0,0,0,0,0,-2,6,0,4,23,True,False,True,Left-arm medium-fast,Right-hand bat
+Warriors,D Paterson,462d7c62,9,1,1,0,0,100.0,"[2, 4, 13, 19]",4.0,24,5,0,42,7,0,2,0,1,0,1,10.5,1,0,0,0,0,1,61,8,70,35,True,False,False,Right-arm fast-medium,Right-hand bat
+Warriors,M Nabe,6ed11905,10,0,0,0,0,0.0,"[3, 16]",2.0,12,2,0,29,4,0,2,0,0,0,5,14.5,0,0,0,0,0,0,46,0,46,29,True,False,False,Right-arm medium,Right-hand bat
+Warriors,Tsepo Ndwandwa,be3ffb65,11,0,0,0,0,0.0,"[5, 7, 10, 14]",4.0,24,6,0,24,2,0,0,0,0,0,0,6.0,0,0,0,0,0,0,8,0,8,29,True,False,False,Slow left-arm orthodox,Right-hand bat

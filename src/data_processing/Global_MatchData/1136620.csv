@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Chennai Super Kings,SR Watson,4329fbb5,1,117,57,11,8,205.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,231,0,0,231
-Chennai Super Kings,F du Plessis,3355b542,2,10,11,1,0,90.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
-Chennai Super Kings,SK Raina,1dc12ab9,3,32,24,3,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,56,0,8,64
-Chennai Super Kings,AT Rayudu,70d205c9,4,16,19,1,1,84.21,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,26,0,8,34
-Chennai Super Kings,MS Dhoni,4a8a2e3b,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0,0,12,12
-Chennai Super Kings,DJ Bravo,87e562a9,5,0,0,0,0,0.0,"[8, 12, 16, 18]",4.0,24,5,0,46,5,2,1,0,0,0,2,11.5,0,0,0,0,0,0,26,0,26
-Chennai Super Kings,RA Jadeja,fe93fd9d,6,0,0,0,0,0.0,"[9, 11]",2.0,12,1,0,24,3,1,1,0,1,0,0,12.0,0,0,0,0,0,0,30,0,30
-Chennai Super Kings,DL Chahar,23eeb873,7,0,0,0,0,0.0,"[1, 3, 5, 10]",4.0,24,10,0,25,1,1,0,0,0,1,1,6.25,0,0,0,0,0,0,12,0,12
-Chennai Super Kings,KV Sharma,119678fd,8,0,0,0,0,0.0,"[7, 13, 15]",3.0,18,7,0,25,2,1,1,0,0,0,1,8.33,0,0,0,0,0,0,32,0,32
-Chennai Super Kings,SN Thakur,1abb78f8,9,0,0,0,0,0.0,"[6, 14, 20]",3.0,18,4,0,31,1,2,1,0,0,0,2,10.33,0,0,0,0,0,0,27,0,27
-Chennai Super Kings,L Ngidi,f834dcfc,10,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,11,1,26,1,2,1,0,0,0,0,6.5,0,0,0,0,0,0,50,0,50
-Sunrisers Hyderabad,SP Goswami,541f85c9,1,5,4,0,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,5,0,8,13
-Sunrisers Hyderabad,S Dhawan,0a476045,2,26,25,2,1,104.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,44,0,0,44
-Sunrisers Hyderabad,KS Williamson,d027ba9f,3,47,36,5,2,130.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,85,0,0,85
-Sunrisers Hyderabad,Shakib Al Hasan,7dc35884,4,23,15,2,1,153.33,[11],1.0,6,1,0,15,0,2,0,0,0,0,0,15.0,0,0,0,0,4,41,1,0,42
-Sunrisers Hyderabad,Rashid Khan,5f547c8b,4,0,0,0,0,0.0,"[8, 10, 15, 17]",4.0,24,7,0,24,3,0,0,0,0,0,0,6.0,0,0,0,0,0,0,9,0,9
-Sunrisers Hyderabad,B Kumar,2e81a32d,5,0,0,0,0,0.0,"[1, 3, 5, 16]",4.0,24,16,1,17,0,1,0,0,0,0,0,4.25,0,0,0,0,0,0,34,0,34
-Sunrisers Hyderabad,YK Pathan,3c6ffae8,5,45,25,4,2,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,83,0,0,83
-Sunrisers Hyderabad,S Kaul,dcf81436,6,0,0,0,0,0.0,"[7, 9, 18]",3.0,18,2,0,43,5,2,0,0,0,0,0,14.33,0,0,0,0,0,0,-4,0,-4
-Sunrisers Hyderabad,DJ Hooda,73ad96ed,6,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
-Sunrisers Hyderabad,Sandeep Sharma,ce820073,7,0,0,0,0,0.0,"[2, 4, 6, 13]",4.0,24,8,0,52,5,4,1,0,0,0,2,13.0,1,0,0,0,0,0,27,8,35
-Sunrisers Hyderabad,CR Brathwaite,e342e5fb,7,21,11,0,3,190.91,"[12, 14, 19]",2.5,15,3,0,27,3,1,1,0,0,0,1,10.8,0,0,0,0,6,45,26,0,71
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Chennai Super Kings,SR Watson,4329fbb5,1,117,57,11,8,205.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,231,0,0,231,43,True,False,True,Right-arm fast-medium,Right-hand bat
+Chennai Super Kings,F du Plessis,3355b542,2,10,11,1,0,90.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,40,True,False,False,Legbreak,Right-hand bat
+Chennai Super Kings,SK Raina,1dc12ab9,3,32,24,3,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,56,0,8,64,38,True,False,False,Right-arm offbreak,Left-hand bat
+Chennai Super Kings,AT Rayudu,70d205c9,4,16,19,1,1,84.21,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,26,0,8,34,39,True,False,False,Right-arm offbreak,Right-hand bat
+Chennai Super Kings,MS Dhoni,4a8a2e3b,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0,0,12,12,43,True,True,False,Right-arm medium,Right-hand bat
+Chennai Super Kings,DJ Bravo,87e562a9,5,0,0,0,0,0.0,"[8, 12, 16, 18]",4.0,24,5,0,46,5,2,1,0,0,0,2,11.5,0,0,0,0,0,0,26,0,26,41,True,False,True,Right-arm medium,Right-hand bat
+Chennai Super Kings,RA Jadeja,fe93fd9d,6,0,0,0,0,0.0,"[9, 11]",2.0,12,1,0,24,3,1,1,0,1,0,0,12.0,0,0,0,0,0,0,30,0,30,36,True,False,True,Slow left-arm orthodox,Left-hand bat
+Chennai Super Kings,DL Chahar,23eeb873,7,0,0,0,0,0.0,"[1, 3, 5, 10]",4.0,24,10,0,25,1,1,0,0,0,1,1,6.25,0,0,0,0,0,0,12,0,12,32,True,False,False,Right-arm medium,Right-hand bat
+Chennai Super Kings,KV Sharma,119678fd,8,0,0,0,0,0.0,"[7, 13, 15]",3.0,18,7,0,25,2,1,1,0,0,0,1,8.33,0,0,0,0,0,0,32,0,32,37,True,False,False,Legbreak googly,Left-hand bat
+Chennai Super Kings,SN Thakur,1abb78f8,9,0,0,0,0,0.0,"[6, 14, 20]",3.0,18,4,0,31,1,2,1,0,0,0,2,10.33,0,0,0,0,0,0,27,0,27,33,True,False,False,Right-arm medium,Right-hand bat
+Chennai Super Kings,L Ngidi,f834dcfc,10,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,11,1,26,1,2,1,0,0,0,0,6.5,0,0,0,0,0,0,50,0,50,29,True,False,False,Right-arm fast-medium,Right-hand bat
+Sunrisers Hyderabad,SP Goswami,541f85c9,1,5,4,0,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,5,0,8,13,35,True,False,False,,Left-hand bat
+Sunrisers Hyderabad,S Dhawan,0a476045,2,26,25,2,1,104.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,44,0,0,44,39,True,False,False,Right-arm offbreak,Left-hand bat
+Sunrisers Hyderabad,KS Williamson,d027ba9f,3,47,36,5,2,130.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,85,0,0,85,34,True,False,False,Right-arm offbreak,Right-hand bat
+Sunrisers Hyderabad,Shakib Al Hasan,7dc35884,4,23,15,2,1,153.33,[11],1.0,6,1,0,15,0,2,0,0,0,0,0,15.0,0,0,0,0,4,41,1,0,42,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Sunrisers Hyderabad,Rashid Khan,5f547c8b,4,0,0,0,0,0.0,"[8, 10, 15, 17]",4.0,24,7,0,24,3,0,0,0,0,0,0,6.0,0,0,0,0,0,0,9,0,9,26,True,False,True,Legbreak googly,Right-hand bat
+Sunrisers Hyderabad,B Kumar,2e81a32d,5,0,0,0,0,0.0,"[1, 3, 5, 16]",4.0,24,16,1,17,0,1,0,0,0,0,0,4.25,0,0,0,0,0,0,34,0,34,35,True,False,False,Right-arm medium,Right-hand bat
+Sunrisers Hyderabad,YK Pathan,3c6ffae8,5,45,25,4,2,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,83,0,0,83,42,True,False,True,Right-arm offbreak,Right-hand bat
+Sunrisers Hyderabad,S Kaul,dcf81436,6,0,0,0,0,0.0,"[7, 9, 18]",3.0,18,2,0,43,5,2,0,0,0,0,0,14.33,0,0,0,0,0,0,-4,0,-4,34,True,False,False,Right-arm medium,Right-hand bat
+Sunrisers Hyderabad,DJ Hooda,73ad96ed,6,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,29,True,False,True,Right-arm offbreak,Right-hand bat
+Sunrisers Hyderabad,Sandeep Sharma,ce820073,7,0,0,0,0,0.0,"[2, 4, 6, 13]",4.0,24,8,0,52,5,4,1,0,0,0,2,13.0,1,0,0,0,0,0,27,8,35,31,True,False,False,Right-arm medium,Right-hand bat
+Sunrisers Hyderabad,CR Brathwaite,e342e5fb,7,21,11,0,3,190.91,"[12, 14, 19]",2.5,15,3,0,27,3,1,1,0,0,0,1,10.8,0,0,0,0,6,45,26,0,71,36,True,False,True,Right-arm fast-medium,Right-hand bat

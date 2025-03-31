@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Chennai Super Kings,DR Smith,35205dfc,1,5,6,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
-Chennai Super Kings,BB McCullum,b8a55852,2,28,24,1,2,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,48,0,0,48
-Chennai Super Kings,SK Raina,1dc12ab9,3,65,52,3,5,125.0,[16],1.0,6,0,0,9,1,0,0,0,0,0,0,9.0,0,0,0,0,0,115,0,0,115
-Chennai Super Kings,M Manhas,c42aaf71,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Chennai Super Kings,F du Plessis,3355b542,4,23,20,2,0,115.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,31,0,8,39
-Chennai Super Kings,MS Dhoni,4a8a2e3b,5,21,14,1,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31
-Chennai Super Kings,R Ashwin,495d42a5,5,0,0,0,0,0.0,"[6, 10, 13, 15]",4.0,24,9,0,24,2,1,0,0,0,0,0,6.0,0,0,0,0,0,0,11,0,11
-Chennai Super Kings,RA Jadeja,fe93fd9d,6,9,4,0,1,225.0,"[9, 12, 14]",3.0,18,5,0,23,1,1,1,0,0,0,0,7.67,0,0,0,0,0,15,30,0,45
-Chennai Super Kings,IC Pandey,e0407c01,6,0,0,0,0,0.0,"[2, 4, 7, 11]",4.0,24,9,0,31,5,0,1,0,1,0,0,7.75,0,0,0,0,0,0,42,0,42
-Chennai Super Kings,MM Sharma,759ac88f,7,0,0,0,0,0.0,"[3, 8, 18]",3.0,18,5,0,28,5,0,0,0,0,0,0,9.33,0,0,0,0,0,0,5,0,5
-Chennai Super Kings,BW Hilfenhaus,f3171936,8,0,0,0,0,0.0,"[1, 5, 17]",3.0,18,4,0,38,5,1,0,0,0,0,1,12.67,0,0,0,0,0,0,-2,0,-2
-Kolkata Knight Riders,RV Uthappa,1c17e270,1,67,39,10,1,171.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,127,0,0,127
-Kolkata Knight Riders,G Gambhir,bb345e0b,2,21,20,3,0,105.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33
-Kolkata Knight Riders,MK Pandey,93b4fc78,3,18,28,0,0,64.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,16,0,0,16
-Kolkata Knight Riders,Shakib Al Hasan,7dc35884,4,46,21,6,2,219.05,"[1, 6, 8, 16]",4.0,24,9,0,30,3,1,0,0,0,0,1,7.5,0,0,0,0,6,92,9,0,101
-Kolkata Knight Riders,YK Pathan,3c6ffae8,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Kolkata Knight Riders,RN ten Doeschate,4ec07775,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Kolkata Knight Riders,SA Yadav,271f83cd,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Kolkata Knight Riders,PP Chawla,98ae73b1,7,0,0,0,0,0.0,"[10, 12, 14, 18]",4.0,24,5,0,42,2,3,1,0,0,0,0,10.5,0,0,1,0,0,0,28,12,40
-Kolkata Knight Riders,PJ Cummins,ded9240e,8,0,0,0,0,0.0,"[2, 4, 13, 17]",4.0,24,12,1,29,2,2,1,0,1,0,0,7.25,0,0,0,0,0,0,57,0,57
-Kolkata Knight Riders,UT Yadav,cc1e8c68,9,0,0,0,0,0.0,"[3, 7, 9, 20]",4.0,24,7,0,29,1,1,0,0,0,1,1,7.25,0,0,0,0,0,0,7,0,7
-Kolkata Knight Riders,SP Narine,9d430b40,10,0,0,0,0,0.0,"[5, 11, 15, 19]",4.0,24,11,0,24,0,2,1,0,0,0,0,6.0,0,0,0,0,0,0,38,0,38
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Chennai Super Kings,DR Smith,35205dfc,1,5,6,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,41,True,False,True,Right-arm medium,Right-hand bat
+Chennai Super Kings,BB McCullum,b8a55852,2,28,24,1,2,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,48,0,0,48,43,True,True,False,Right-arm offbreak,Right-hand bat
+Chennai Super Kings,SK Raina,1dc12ab9,3,65,52,3,5,125.0,[16],1.0,6,0,0,9,1,0,0,0,0,0,0,9.0,0,0,0,0,0,115,0,0,115,38,True,False,False,Right-arm offbreak,Left-hand bat
+Chennai Super Kings,M Manhas,c42aaf71,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,45,True,False,True,Right-arm offbreak,Right-hand bat
+Chennai Super Kings,F du Plessis,3355b542,4,23,20,2,0,115.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,31,0,8,39,40,True,False,False,Legbreak,Right-hand bat
+Chennai Super Kings,MS Dhoni,4a8a2e3b,5,21,14,1,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31,43,True,True,False,Right-arm medium,Right-hand bat
+Chennai Super Kings,R Ashwin,495d42a5,5,0,0,0,0,0.0,"[6, 10, 13, 15]",4.0,24,9,0,24,2,1,0,0,0,0,0,6.0,0,0,0,0,0,0,11,0,11,38,True,False,True,Right-arm offbreak,Right-hand bat
+Chennai Super Kings,RA Jadeja,fe93fd9d,6,9,4,0,1,225.0,"[9, 12, 14]",3.0,18,5,0,23,1,1,1,0,0,0,0,7.67,0,0,0,0,0,15,30,0,45,36,True,False,True,Slow left-arm orthodox,Left-hand bat
+Chennai Super Kings,IC Pandey,e0407c01,6,0,0,0,0,0.0,"[2, 4, 7, 11]",4.0,24,9,0,31,5,0,1,0,1,0,0,7.75,0,0,0,0,0,0,42,0,42,35,True,False,False,Right-arm medium,Right-hand bat
+Chennai Super Kings,MM Sharma,759ac88f,7,0,0,0,0,0.0,"[3, 8, 18]",3.0,18,5,0,28,5,0,0,0,0,0,0,9.33,0,0,0,0,0,0,5,0,5,36,True,False,False,Right-arm medium,Right-hand bat
+Chennai Super Kings,BW Hilfenhaus,f3171936,8,0,0,0,0,0.0,"[1, 5, 17]",3.0,18,4,0,38,5,1,0,0,0,0,1,12.67,0,0,0,0,0,0,-2,0,-2,42,True,False,False,Right-arm fast-medium,Right-hand bat
+Kolkata Knight Riders,RV Uthappa,1c17e270,1,67,39,10,1,171.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,127,0,0,127,39,True,False,False,Right-arm medium,Right-hand bat
+Kolkata Knight Riders,G Gambhir,bb345e0b,2,21,20,3,0,105.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33,43,True,False,False,Legbreak,Left-hand bat
+Kolkata Knight Riders,MK Pandey,93b4fc78,3,18,28,0,0,64.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,16,0,0,16,35,True,False,False,Right-arm medium,Right-hand bat
+Kolkata Knight Riders,Shakib Al Hasan,7dc35884,4,46,21,6,2,219.05,"[1, 6, 8, 16]",4.0,24,9,0,30,3,1,0,0,0,0,1,7.5,0,0,0,0,6,92,9,0,101,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Kolkata Knight Riders,YK Pathan,3c6ffae8,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,42,True,False,True,Right-arm offbreak,Right-hand bat
+Kolkata Knight Riders,RN ten Doeschate,4ec07775,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,44,True,False,True,Right-arm medium-fast,Right-hand bat
+Kolkata Knight Riders,SA Yadav,271f83cd,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,34,True,False,False,Right-arm offbreak,Right-hand bat
+Kolkata Knight Riders,PP Chawla,98ae73b1,7,0,0,0,0,0.0,"[10, 12, 14, 18]",4.0,24,5,0,42,2,3,1,0,0,0,0,10.5,0,0,1,0,0,0,28,12,40,36,True,False,True,Legbreak,Left-hand bat
+Kolkata Knight Riders,PJ Cummins,ded9240e,8,0,0,0,0,0.0,"[2, 4, 13, 17]",4.0,24,12,1,29,2,2,1,0,1,0,0,7.25,0,0,0,0,0,0,57,0,57,31,True,False,False,Right-arm fast,Right-hand bat
+Kolkata Knight Riders,UT Yadav,cc1e8c68,9,0,0,0,0,0.0,"[3, 7, 9, 20]",4.0,24,7,0,29,1,1,0,0,0,1,1,7.25,0,0,0,0,0,0,7,0,7,37,True,False,False,Right-arm fast,Right-hand bat
+Kolkata Knight Riders,SP Narine,9d430b40,10,0,0,0,0,0.0,"[5, 11, 15, 19]",4.0,24,11,0,24,0,2,1,0,0,0,0,6.0,0,0,0,0,0,0,38,0,38,36,True,False,True,Right-arm offbreak,Left-hand bat

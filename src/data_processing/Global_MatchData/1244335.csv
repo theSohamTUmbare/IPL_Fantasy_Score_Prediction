@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Goa,Amogh Desai,017e2f0d,1,5,11,0,0,45.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-1,0,0,-1
-Goa,Aditya Kaushik,9a2d95ac,2,78,56,5,3,139.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,130,0,0,130
-Goa,Snehal Kauthankar,3a0dc16e,3,19,14,3,0,135.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,33,0,0,33
-Goa,Amit Verma,3b30b8c4,4,42,27,1,3,155.56,[14],1.0,6,0,0,13,2,0,0,0,0,0,0,13.0,0,0,1,0,4,72,0,12,84
-Goa,Darshan Misal,ce2b42ae,5,14,7,1,1,200.0,"[3, 7, 13, 16]",4.0,24,5,0,28,0,2,1,0,0,0,0,7.0,1,0,0,0,0,24,32,8,64
-Goa,SS Prabhudessai,9385de2e,6,1,2,0,0,50.0,[11],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,0,1,2,0,3
-Goa,AB Dinda,66b30f71,7,0,0,0,0,0.0,"[1, 5, 17, 19]",4.0,24,7,0,44,8,0,1,0,0,3,0,11.0,1,0,0,0,0,0,30,8,38
-Goa,Eknath Kerkar,84085032,7,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Goa,Lakshay Garg,4af886ed,8,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,11,0,25,3,0,2,0,0,0,2,6.25,2,0,1,0,0,0,63,28,91
-Goa,Deepraj Gaonkar,d3c1f849,9,0,0,0,0,0.0,"[6, 9, 15]",3.0,18,5,0,23,3,0,0,0,0,0,1,7.67,1,0,0,0,0,0,5,8,13
-Goa,MG Sirur,a71b0bd3,10,0,0,0,0,0.0,"[8, 10, 12]",3.0,18,7,0,17,0,1,1,0,0,0,1,5.67,0,0,0,0,0,0,36,0,36
-Services,Lakhan Singh,ad72e8cc,1,8,8,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
-Services,Ravi Chauhan,f7ce1f24,2,62,53,9,0,116.98,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,106,0,0,106
-Services,Rahul Singh,adf454e9,3,37,24,5,1,154.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,71,0,8,79
-Services,Rajat Paliwal,2fcb040c,4,27,18,2,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,45,0,8,53
-Services,Vikas Hathwala,904585d1,5,13,10,0,1,130.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,21,0,8,29
-Services,Nakul Sharma,f5cf7ae0,6,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Services,Varun Choudhary,134bead2,7,0,0,0,0,0.0,"[2, 5, 16, 18]",4.0,24,5,0,28,2,0,1,0,0,0,1,7.0,0,0,0,0,0,0,32,0,32
-Services,Diwesh Pathania,a63563c0,7,0,2,0,0,0.0,"[1, 3, 14, 17]",4.0,24,8,0,36,3,2,0,0,0,0,0,9.0,0,0,0,0,0,-2,8,0,6
-Services,Mohit Kumar,caabc8e4,8,1,1,0,0,100.0,"[4, 6, 15, 19]",4.0,24,8,0,32,4,1,3,0,0,0,0,8.0,0,0,0,0,0,1,87,0,88
-Services,Vikas Yadav,fa73f373,8,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,4,0,34,1,2,1,0,0,0,0,8.5,2,0,0,0,0,0,29,16,45
-Services,Pulkit Narang,9dc27cf0,9,0,0,0,0,0.0,"[8, 10, 12, 20]",3.667,22,4,0,31,0,2,0,0,0,0,0,8.45,0,0,0,0,0,0,4,0,4
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Goa,Amogh Desai,017e2f0d,1,5,11,0,0,45.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-1,0,0,-1,32,True,True,False,Right-arm offbreak,Right-hand bat
+Goa,Aditya Kaushik,9a2d95ac,2,78,56,5,3,139.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,130,0,0,130,33,True,False,False,,Right-hand bat
+Goa,Snehal Kauthankar,3a0dc16e,3,19,14,3,0,135.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,33,0,0,33,29,True,False,False,Right-arm offbreak,Right-hand bat
+Goa,Amit Verma,3b30b8c4,4,42,27,1,3,155.56,[14],1.0,6,0,0,13,2,0,0,0,0,0,0,13.0,0,0,1,0,4,72,0,12,84,37,True,False,True,Legbreak,Left-hand bat
+Goa,Darshan Misal,ce2b42ae,5,14,7,1,1,200.0,"[3, 7, 13, 16]",4.0,24,5,0,28,0,2,1,0,0,0,0,7.0,1,0,0,0,0,24,32,8,64,32,True,False,True,Slow left-arm orthodox,Left-hand bat
+Goa,SS Prabhudessai,9385de2e,6,1,2,0,0,50.0,[11],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,0,1,2,0,3,27,True,False,True,Right-arm medium,Right-hand bat
+Goa,AB Dinda,66b30f71,7,0,0,0,0,0.0,"[1, 5, 17, 19]",4.0,24,7,0,44,8,0,1,0,0,3,0,11.0,1,0,0,0,0,0,30,8,38,41,True,False,False,Right-arm medium-fast,Right-hand bat
+Goa,Eknath Kerkar,84085032,7,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,31,True,False,False,,Right-hand bat
+Goa,Lakshay Garg,4af886ed,8,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,11,0,25,3,0,2,0,0,0,2,6.25,2,0,1,0,0,0,63,28,91,29,True,False,True,Right-arm medium,Right-hand bat
+Goa,Deepraj Gaonkar,d3c1f849,9,0,0,0,0,0.0,"[6, 9, 15]",3.0,18,5,0,23,3,0,0,0,0,0,1,7.67,1,0,0,0,0,0,5,8,13,26,True,False,False,Right-arm medium,Right-hand bat
+Goa,MG Sirur,a71b0bd3,10,0,0,0,0,0.0,"[8, 10, 12]",3.0,18,7,0,17,0,1,1,0,0,0,1,5.67,0,0,0,0,0,0,36,0,36,32,True,False,True,Right-arm offbreak,Right-hand bat
+Services,Lakhan Singh,ad72e8cc,1,8,8,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,26,True,True,False,Right-arm medium,Right-hand bat
+Services,Ravi Chauhan,f7ce1f24,2,62,53,9,0,116.98,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,106,0,0,106,31,True,True,False,Legbreak googly,Right-hand bat
+Services,Rahul Singh,adf454e9,3,37,24,5,1,154.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,71,0,8,79,29,True,True,False,Right-arm medium,Left-hand bat
+Services,Rajat Paliwal,2fcb040c,4,27,18,2,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,45,0,8,53,33,True,False,False,Right-arm offbreak,Right-hand bat
+Services,Vikas Hathwala,904585d1,5,13,10,0,1,130.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,21,0,8,29,31,True,True,False,Left-arm medium,Left-hand bat
+Services,Nakul Sharma,f5cf7ae0,6,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,31,True,True,False,Legbreak googly,Right-hand bat
+Services,Varun Choudhary,134bead2,7,0,0,0,0,0.0,"[2, 5, 16, 18]",4.0,24,5,0,28,2,0,1,0,0,0,1,7.0,0,0,0,0,0,0,32,0,32,31,True,True,False,Right-arm medium-fast,Right-hand bat
+Services,Diwesh Pathania,a63563c0,7,0,2,0,0,0.0,"[1, 3, 14, 17]",4.0,24,8,0,36,3,2,0,0,0,0,0,9.0,0,0,0,0,0,-2,8,0,6,35,True,True,False,Right-arm medium,Right-hand bat
+Services,Mohit Kumar,caabc8e4,8,1,1,0,0,100.0,"[4, 6, 15, 19]",4.0,24,8,0,32,4,1,3,0,0,0,0,8.0,0,0,0,0,0,1,87,0,88,28,True,True,False,Right-arm medium-fast,Right-hand bat
+Services,Vikas Yadav,fa73f373,8,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,4,0,34,1,2,1,0,0,0,0,8.5,2,0,0,0,0,0,29,16,45,28,True,True,False,Slow left-arm orthodox,Right-hand bat
+Services,Pulkit Narang,9dc27cf0,9,0,0,0,0,0.0,"[8, 10, 12, 20]",3.667,22,4,0,31,0,2,0,0,0,0,0,8.45,0,0,0,0,0,0,4,0,4,30,True,True,False,Right-arm offbreak,Right-hand bat

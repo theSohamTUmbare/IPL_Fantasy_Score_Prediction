@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Ireland,PR Stirling,cf494ffe,1,17,15,2,1,113.33,[1],1.0,6,3,0,11,1,1,1,0,0,0,0,11.0,0,0,0,0,0,31,28,0,59
-Ireland,KJ O'Brien,243431b5,2,4,7,1,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
-Ireland,A Balbirnie,6ef13460,3,36,32,4,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,56,0,0,56
-Ireland,CA Young,bd0a4a7d,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Ireland,GJ Delany,33b3d2df,4,44,22,1,5,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,88,0,0,88
-Ireland,HT Tector,59ea70a4,5,31,23,0,2,134.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,49,0,8,57
-Ireland,GC Wilson,05de1a5a,6,5,7,0,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
-Ireland,GH Dockrell,99cddc5e,7,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Ireland,Simi Singh,c9945bdf,8,4,3,0,0,133.33,[2],1.0,6,3,0,5,0,0,0,0,0,0,0,5.0,0,0,0,0,0,4,3,0,7
-Ireland,BJ McCarthy,3766056b,9,0,1,0,0,0.0,[3],0.167,1,1,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,1,0,1
-Ireland,J Little,9061a703,10,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-West Indies,LMP Simmons,89f64c19,1,10,5,1,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
-West Indies,E Lewis,0ebfb1ad,2,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-West Indies,KA Pollard,a757b0d8,3,0,0,0,0,0.0,"[12, 14, 16, 18]",4.0,24,8,0,25,0,1,4,0,1,0,0,6.25,1,0,0,0,0,0,126,8,134
-West Indies,SO Hetmyer,48a1d7b7,3,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,4,0,16,20
-West Indies,N Pooran,3241e3fd,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-West Indies,SE Rutherford,d014d5ac,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-West Indies,DJ Bravo,87e562a9,6,0,0,0,0,0.0,"[9, 11, 15]",3.0,18,2,0,18,1,0,0,0,0,0,1,6.0,0,0,0,0,0,0,4,0,4
-West Indies,HR Walsh,1ac2a995,7,0,0,0,0,0.0,"[7, 10]",2.0,12,3,0,32,1,4,0,0,0,0,0,16.0,0,0,0,0,0,0,-3,0,-3
-West Indies,K Pierre,a61bcb94,8,0,0,0,0,0.0,"[6, 8]",2.0,12,3,0,21,2,1,0,0,0,0,0,10.5,1,0,0,0,0,0,1,8,9
-West Indies,SS Cottrell,a1d053dd,9,0,0,0,0,0.0,"[1, 3, 5, 19]",4.0,24,16,0,10,1,0,2,0,0,0,0,2.5,0,0,0,0,0,0,72,0,72
-West Indies,R Shepherd,c5aef772,10,0,0,0,0,0.0,"[2, 4, 13, 17]",4.0,24,6,0,38,3,2,1,0,0,0,0,9.5,1,0,0,0,0,0,31,8,39
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Ireland,PR Stirling,cf494ffe,1,17,15,2,1,113.33,[1],1.0,6,3,0,11,1,1,1,0,0,0,0,11.0,0,0,0,0,0,31,28,0,59,34,True,False,True,Right-arm offbreak,Right-hand bat
+Ireland,KJ O'Brien,243431b5,2,4,7,1,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,41,True,False,True,Right-arm medium-fast,Right-hand bat
+Ireland,A Balbirnie,6ef13460,3,36,32,4,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,56,0,0,56,34,True,False,False,Right-arm offbreak,Right-hand bat
+Ireland,CA Young,bd0a4a7d,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Ireland,GJ Delany,33b3d2df,4,44,22,1,5,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,88,0,0,88,27,True,False,True,Legbreak googly,Right-hand bat
+Ireland,HT Tector,59ea70a4,5,31,23,0,2,134.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,49,0,8,57,25,True,False,False,Right-arm offbreak,Right-hand bat
+Ireland,GC Wilson,05de1a5a,6,5,7,0,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,39,True,False,False,,Right-hand bat
+Ireland,GH Dockrell,99cddc5e,7,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,32,True,False,True,Slow left-arm orthodox,Right-hand bat
+Ireland,Simi Singh,c9945bdf,8,4,3,0,0,133.33,[2],1.0,6,3,0,5,0,0,0,0,0,0,0,5.0,0,0,0,0,0,4,3,0,7,38,True,False,True,Legbreak googly,Right-hand bat
+Ireland,BJ McCarthy,3766056b,9,0,1,0,0,0.0,[3],0.167,1,1,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,1,0,1,32,True,False,False,Right-arm fast-medium,Right-hand bat
+Ireland,J Little,9061a703,10,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,25,True,False,False,Left-arm fast-medium,Right-hand bat
+West Indies,LMP Simmons,89f64c19,1,10,5,1,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,40,True,False,False,Right-arm medium-fast,Right-hand bat
+West Indies,E Lewis,0ebfb1ad,2,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,33,True,False,False,,Left-hand bat
+West Indies,KA Pollard,a757b0d8,3,0,0,0,0,0.0,"[12, 14, 16, 18]",4.0,24,8,0,25,0,1,4,0,1,0,0,6.25,1,0,0,0,0,0,126,8,134,37,True,False,True,Right-arm medium,Right-hand bat
+West Indies,SO Hetmyer,48a1d7b7,3,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,4,0,16,20,28,True,False,False,,Left-hand bat
+West Indies,N Pooran,3241e3fd,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,29,True,True,False,Right-arm offbreak,Left-hand bat
+West Indies,SE Rutherford,d014d5ac,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,False,False,Right-arm fast-medium,Left-hand bat
+West Indies,DJ Bravo,87e562a9,6,0,0,0,0,0.0,"[9, 11, 15]",3.0,18,2,0,18,1,0,0,0,0,0,1,6.0,0,0,0,0,0,0,4,0,4,41,True,False,True,Right-arm medium,Right-hand bat
+West Indies,HR Walsh,1ac2a995,7,0,0,0,0,0.0,"[7, 10]",2.0,12,3,0,32,1,4,0,0,0,0,0,16.0,0,0,0,0,0,0,-3,0,-3,32,True,False,False,Legbreak googly,Left-hand bat
+West Indies,K Pierre,a61bcb94,8,0,0,0,0,0.0,"[6, 8]",2.0,12,3,0,21,2,1,0,0,0,0,0,10.5,1,0,0,0,0,0,1,8,9,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+West Indies,SS Cottrell,a1d053dd,9,0,0,0,0,0.0,"[1, 3, 5, 19]",4.0,24,16,0,10,1,0,2,0,0,0,0,2.5,0,0,0,0,0,0,72,0,72,35,True,False,False,Left-arm fast-medium,Right-hand bat
+West Indies,R Shepherd,c5aef772,10,0,0,0,0,0.0,"[2, 4, 13, 17]",4.0,24,6,0,38,3,2,1,0,0,0,0,9.5,1,0,0,0,0,0,31,8,39,30,True,False,True,Right-arm fast-medium,Right-hand bat

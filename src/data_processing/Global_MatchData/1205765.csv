@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Assam,Pallav Kumar Das,c2294408,1,43,27,4,2,159.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,79,0,8,87
-Assam,Swarupam Purkayastha,dfc887dc,2,10,14,1,0,71.43,[14],1.0,6,2,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,14,2,0,16
-Assam,Sibsankar Roy,3d8348d0,3,11,16,0,0,68.75,[15],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,-2,9,2,0,11
-Assam,R Parag,04a418e8,4,58,31,1,6,187.1,"[9, 11, 13, 17]",4.0,24,10,0,15,0,0,1,0,0,0,1,3.75,0,0,0,0,6,112,41,0,153
-Assam,Parvez Aziz,39ddc33b,5,14,13,1,1,107.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
-Assam,Rajjakuddin Ahmed,69cbffb8,6,2,5,0,0,40.0,[8],1.0,6,1,0,13,1,1,0,0,0,0,0,13.0,2,0,0,0,0,2,1,16,19
-Assam,Wasiqur Rahman,645eaa96,7,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
-Assam,AN Ahmed,2af1b6d2,8,3,4,0,0,75.0,"[5, 7, 18]",3.0,18,4,0,28,4,0,1,0,0,0,0,9.33,1,0,0,0,0,3,29,8,40
-Assam,Arup Das,4f36495c,9,0,0,0,0,0.0,"[1, 3, 19]",3.0,18,4,0,33,6,0,1,0,0,0,1,11.0,1,0,0,0,0,0,27,8,35
-Assam,Abhilash Gogoi,ab922bd0,9,6,3,1,0,200.0,"[6, 10, 12]",3.0,18,5,0,27,1,2,1,0,0,0,0,9.0,0,0,0,0,0,10,30,0,40
-Assam,Pritam Das,e342d310,10,0,0,0,0,0.0,"[2, 4, 16, 20]",3.667,22,8,0,25,2,1,2,0,0,0,2,6.82,0,0,1,0,0,0,60,12,72
-Haryana,Treyaksh Bali,3ad2a6d1,1,3,7,0,0,42.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11
-Haryana,HV Patel,f986ca1a,2,62,34,9,3,182.35,"[1, 11, 16, 18]",4.0,24,11,0,30,2,2,2,0,0,0,1,7.5,1,0,0,0,6,130,61,8,199
-Haryana,Chaitanya Bishnoi,e793a8ed,3,32,30,1,0,106.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,40,0,8,48
-Haryana,Shivam Chauhan,c6272773,4,4,10,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,-6,-2,0,20,18
-Haryana,YR Sharma,717b424d,5,19,17,3,0,111.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31
-Haryana,Sumit Kumar,8998a68f,6,17,9,1,1,188.89,"[4, 8, 10, 20]",4.0,24,6,0,37,1,3,1,0,1,0,0,9.25,0,0,0,0,0,27,39,0,66
-Haryana,R Tewatia,39a2dfa8,7,13,9,2,0,144.44,"[13, 15]",2.0,12,1,0,23,0,2,0,0,0,0,0,11.5,1,0,0,0,0,21,-3,8,26
-Haryana,Arun Chaprana,3bc94fb9,8,1,1,0,0,100.0,"[2, 9, 17, 19]",4.0,24,11,0,25,3,0,2,0,1,0,1,6.25,0,0,0,0,0,1,71,0,72
-Haryana,J Yadav,81049310,9,0,0,0,0,0.0,"[3, 5, 7]",3.0,18,8,0,15,1,0,0,0,0,0,0,5.0,0,0,0,0,0,0,12,0,12
-Haryana,RP Sharma,805b89d7,9,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Haryana,A Mishra,6b19d823,10,0,0,0,0,0.0,"[6, 12, 14]",3.0,18,7,0,23,1,2,2,0,0,0,0,7.67,0,0,0,0,0,0,57,0,57
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Assam,Pallav Kumar Das,c2294408,1,43,27,4,2,159.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,79,0,8,87,35,True,False,False,Right-arm medium,Left-hand bat
+Assam,Swarupam Purkayastha,dfc887dc,2,10,14,1,0,71.43,[14],1.0,6,2,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,14,2,0,16,35,True,True,False,Right-arm offbreak,Right-hand bat
+Assam,Sibsankar Roy,3d8348d0,3,11,16,0,0,68.75,[15],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,-2,9,2,0,11,34,True,False,False,Right-arm offbreak,Left-hand bat
+Assam,R Parag,04a418e8,4,58,31,1,6,187.1,"[9, 11, 13, 17]",4.0,24,10,0,15,0,0,1,0,0,0,1,3.75,0,0,0,0,6,112,41,0,153,23,True,False,False,Legbreak,Right-hand bat
+Assam,Parvez Aziz,39ddc33b,5,14,13,1,1,107.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24,37,True,False,False,Slow left-arm orthodox,Left-hand bat
+Assam,Rajjakuddin Ahmed,69cbffb8,6,2,5,0,0,40.0,[8],1.0,6,1,0,13,1,1,0,0,0,0,0,13.0,2,0,0,0,0,2,1,16,19,29,True,True,False,Right-arm medium,Right-hand bat
+Assam,Wasiqur Rahman,645eaa96,7,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,30,True,False,False,,Right-hand bat
+Assam,AN Ahmed,2af1b6d2,8,3,4,0,0,75.0,"[5, 7, 18]",3.0,18,4,0,28,4,0,1,0,0,0,0,9.33,1,0,0,0,0,3,29,8,40,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Assam,Arup Das,4f36495c,9,0,0,0,0,0.0,"[1, 3, 19]",3.0,18,4,0,33,6,0,1,0,0,0,1,11.0,1,0,0,0,0,0,27,8,35,33,True,True,False,Right-arm medium,Right-hand bat
+Assam,Abhilash Gogoi,ab922bd0,9,6,3,1,0,200.0,"[6, 10, 12]",3.0,18,5,0,27,1,2,1,0,0,0,0,9.0,0,0,0,0,0,10,30,0,40,29,True,False,False,Slow left-arm orthodox,Right-hand bat
+Assam,Pritam Das,e342d310,10,0,0,0,0,0.0,"[2, 4, 16, 20]",3.667,22,8,0,25,2,1,2,0,0,0,2,6.82,0,0,1,0,0,0,60,12,72,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Haryana,Treyaksh Bali,3ad2a6d1,1,3,7,0,0,42.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11,24,True,False,False,Legbreak googly,Right-hand bat
+Haryana,HV Patel,f986ca1a,2,62,34,9,3,182.35,"[1, 11, 16, 18]",4.0,24,11,0,30,2,2,2,0,0,0,1,7.5,1,0,0,0,6,130,61,8,199,34,True,False,False,Right-arm medium,Right-hand bat
+Haryana,Chaitanya Bishnoi,e793a8ed,3,32,30,1,0,106.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,40,0,8,48,30,True,False,True,Slow left-arm orthodox,Left-hand bat
+Haryana,Shivam Chauhan,c6272773,4,4,10,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,-6,-2,0,20,18,27,True,True,False,Right-arm medium,Right-hand bat
+Haryana,YR Sharma,717b424d,5,19,17,3,0,111.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31,26,True,True,False,Right-arm offbreak,Left-hand bat
+Haryana,Sumit Kumar,8998a68f,6,17,9,1,1,188.89,"[4, 8, 10, 20]",4.0,24,6,0,37,1,3,1,0,1,0,0,9.25,0,0,0,0,0,27,39,0,66,29,True,False,True,Right-arm medium-fast,Right-hand bat
+Haryana,R Tewatia,39a2dfa8,7,13,9,2,0,144.44,"[13, 15]",2.0,12,1,0,23,0,2,0,0,0,0,0,11.5,1,0,0,0,0,21,-3,8,26,31,True,False,True,Legbreak,Left-hand bat
+Haryana,Arun Chaprana,3bc94fb9,8,1,1,0,0,100.0,"[2, 9, 17, 19]",4.0,24,11,0,25,3,0,2,0,1,0,1,6.25,0,0,0,0,0,1,71,0,72,31,True,True,False,Right-arm medium,Right-hand bat
+Haryana,J Yadav,81049310,9,0,0,0,0,0.0,"[3, 5, 7]",3.0,18,8,0,15,1,0,0,0,0,0,0,5.0,0,0,0,0,0,0,12,0,12,35,True,False,False,Right-arm offbreak,Right-hand bat
+Haryana,RP Sharma,805b89d7,9,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,31,True,True,False,Right-arm fast-medium,Right-hand bat
+Haryana,A Mishra,6b19d823,10,0,0,0,0,0.0,"[6, 12, 14]",3.0,18,7,0,23,1,2,2,0,0,0,0,7.67,0,0,0,0,0,0,57,0,57,42,True,False,False,Legbreak,Right-hand bat

@@ -1,25 +1,25 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Gujarat,Aarya Desai,8053c798,1,2,12,0,0,16.67,[12],1.0,6,3,0,11,1,1,0,0,0,0,0,11.0,1,0,0,0,-6,-4,3,8,7
-Gujarat,Urvil Patel,cf59b3f0,2,4,5,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,8,0,12,20
-Gujarat,Saurav Chauhan,9e7225b0,3,32,21,4,1,152.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,62,0,0,62
-Gujarat,Chintan Gaja,63bfb5fc,4,3,14,0,0,21.43,"[1, 3]",2.0,12,6,0,18,2,1,1,0,0,0,1,9.0,0,0,0,0,-6,-3,31,0,28
-Gujarat,UR Kumar,2fda74a2,5,3,7,0,0,42.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
-Gujarat,Chirag Gandhi,35eb75af,6,19,21,1,0,90.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
-Gujarat,A Nagwaswalla,01ada0ed,6,0,0,0,0,0.0,"[2, 5, 7, 19]",3.667,22,7,0,32,2,1,0,0,0,0,3,8.73,0,0,0,0,0,0,7,0,7
-Gujarat,RV Patel,60500956,7,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Gujarat,Ravi Bishnoi,df064e1a,7,0,0,0,0,0.0,"[10, 14, 16, 18]",4.0,24,8,0,29,3,0,2,0,0,0,1,7.25,0,0,0,0,0,0,58,0,58
-Gujarat,Hemang Patel,59c8c5b5,8,20,21,1,1,95.24,"[4, 6, 8]",3.0,18,12,1,12,1,0,1,0,0,0,3,4.0,0,0,0,0,0,30,55,0,85
-Gujarat,Vishal Jayswal,4765ad1e,9,12,9,1,0,133.33,[15],1.0,6,1,0,9,1,0,0,0,0,0,0,9.0,1,0,0,0,0,16,1,8,25
-Gujarat,PP Chawla,98ae73b1,10,13,8,2,0,162.5,"[9, 11, 13, 17]",4.0,24,9,0,19,1,0,0,0,0,0,0,4.75,0,0,0,0,0,21,15,0,36
-Uttar Pradesh,Abhishek Goswami,53c5c146,1,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12
-Uttar Pradesh,KS Sharma,39ed0d2f,2,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Uttar Pradesh,N Rana,fb2d1dda,3,71,49,7,2,144.9,[7],1.0,6,2,0,9,0,1,1,0,1,0,0,9.0,0,0,0,0,2,121,35,0,156
-Uttar Pradesh,Sameer Rizvi,f89d3b11,4,30,39,3,0,76.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,46,0,0,46
-Uttar Pradesh,RK Singh,0a509d6b,5,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
-Uttar Pradesh,Mohsin Khan,c33d8116,6,0,0,0,0,0.0,"[4, 6, 9, 11]",4.0,24,14,0,13,0,0,2,0,0,0,4,3.25,0,0,0,0,0,0,70,0,70
-Uttar Pradesh,Dhruv Jurel,bcf325d2,6,13,9,1,1,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,23,0,16,39
-Uttar Pradesh,Kartik Tyagi,5d2eea49,7,0,0,0,0,0.0,"[13, 15, 18, 20]",4.0,24,10,0,27,2,0,1,1,0,0,3,6.75,0,0,0,0,0,0,45,0,45
-Uttar Pradesh,B Kumar,2e81a32d,8,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,11,0,21,3,0,3,0,0,0,1,5.25,0,0,0,0,0,0,94,0,94
-Uttar Pradesh,Jasmer Dhankhar,a7e1f127,9,0,0,0,0,0.0,"[8, 10, 12]",3.0,18,7,0,21,3,0,1,0,1,0,0,7.0,1,0,0,0,0,0,42,8,50
-Uttar Pradesh,Shiva Singh,3b63b5cc,10,0,0,0,0,0.0,"[14, 16]",2.0,12,4,0,15,0,1,0,0,0,0,0,7.5,1,0,0,0,0,0,4,8,12
-Uttar Pradesh,Yash Dayal,7210d461,11,0,0,0,0,0.0,"[2, 5]",2.0,12,8,0,10,2,0,0,0,0,0,0,5.0,0,0,0,0,0,0,12,0,12
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Gujarat,Aarya Desai,8053c798,1,2,12,0,0,16.67,[12],1.0,6,3,0,11,1,1,0,0,0,0,0,11.0,1,0,0,0,-6,-4,3,8,7,21,True,False,False,Right-arm offbreak,Left-hand bat
+Gujarat,Urvil Patel,cf59b3f0,2,4,5,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,8,0,12,20,26,True,False,False,,Right-hand bat
+Gujarat,Saurav Chauhan,9e7225b0,3,32,21,4,1,152.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,62,0,0,62,24,True,False,False,Right-arm offbreak,Left-hand bat
+Gujarat,Chintan Gaja,63bfb5fc,4,3,14,0,0,21.43,"[1, 3]",2.0,12,6,0,18,2,1,1,0,0,0,1,9.0,0,0,0,0,-6,-3,31,0,28,30,True,False,False,Right-arm medium,Right-hand bat
+Gujarat,UR Kumar,2fda74a2,5,3,7,0,0,42.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,24,True,True,False,Right-arm offbreak,Right-hand bat
+Gujarat,Chirag Gandhi,35eb75af,6,19,21,1,0,90.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23,34,True,False,False,Right-arm offbreak,Right-hand bat
+Gujarat,A Nagwaswalla,01ada0ed,6,0,0,0,0,0.0,"[2, 5, 7, 19]",3.667,22,7,0,32,2,1,0,0,0,0,3,8.73,0,0,0,0,0,0,7,0,7,27,True,False,False,Left-arm medium,Right-hand bat
+Gujarat,RV Patel,60500956,7,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,29,True,False,False,Right-arm medium-fast,Right-hand bat
+Gujarat,Ravi Bishnoi,df064e1a,7,0,0,0,0,0.0,"[10, 14, 16, 18]",4.0,24,8,0,29,3,0,2,0,0,0,1,7.25,0,0,0,0,0,0,58,0,58,24,True,False,False,Legbreak googly,Right-hand bat
+Gujarat,Hemang Patel,59c8c5b5,8,20,21,1,1,95.24,"[4, 6, 8]",3.0,18,12,1,12,1,0,1,0,0,0,3,4.0,0,0,0,0,0,30,55,0,85,26,True,True,False,Right-arm medium-fast,Right-hand bat
+Gujarat,Vishal Jayswal,4765ad1e,9,12,9,1,0,133.33,[15],1.0,6,1,0,9,1,0,0,0,0,0,0,9.0,1,0,0,0,0,16,1,8,25,26,True,True,False,Slow left-arm orthodox,Left-hand bat
+Gujarat,PP Chawla,98ae73b1,10,13,8,2,0,162.5,"[9, 11, 13, 17]",4.0,24,9,0,19,1,0,0,0,0,0,0,4.75,0,0,0,0,0,21,15,0,36,36,True,False,True,Legbreak,Left-hand bat
+Uttar Pradesh,Abhishek Goswami,53c5c146,1,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12,27,True,False,False,Right-arm offbreak,Right-hand bat
+Uttar Pradesh,KS Sharma,39ed0d2f,2,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,26,True,False,True,Right-arm offbreak,Right-hand bat
+Uttar Pradesh,N Rana,fb2d1dda,3,71,49,7,2,144.9,[7],1.0,6,2,0,9,0,1,1,0,1,0,0,9.0,0,0,0,0,2,121,35,0,156,31,True,False,False,Legbreak,Left-hand bat
+Uttar Pradesh,Sameer Rizvi,f89d3b11,4,30,39,3,0,76.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,46,0,0,46,21,True,False,False,Right-arm offbreak,Right-hand bat
+Uttar Pradesh,RK Singh,0a509d6b,5,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,27,True,False,False,Right-arm offbreak,Left-hand bat
+Uttar Pradesh,Mohsin Khan,c33d8116,6,0,0,0,0,0.0,"[4, 6, 9, 11]",4.0,24,14,0,13,0,0,2,0,0,0,4,3.25,0,0,0,0,0,0,70,0,70,26,True,False,False,Left-arm medium-fast,Left-hand bat
+Uttar Pradesh,Dhruv Jurel,bcf325d2,6,13,9,1,1,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,23,0,16,39,24,True,False,False,,Right-hand bat
+Uttar Pradesh,Kartik Tyagi,5d2eea49,7,0,0,0,0,0.0,"[13, 15, 18, 20]",4.0,24,10,0,27,2,0,1,1,0,0,3,6.75,0,0,0,0,0,0,45,0,45,24,True,False,False,Right-arm fast,Right-hand bat
+Uttar Pradesh,B Kumar,2e81a32d,8,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,11,0,21,3,0,3,0,0,0,1,5.25,0,0,0,0,0,0,94,0,94,35,True,False,False,Right-arm medium,Right-hand bat
+Uttar Pradesh,Jasmer Dhankhar,a7e1f127,9,0,0,0,0,0.0,"[8, 10, 12]",3.0,18,7,0,21,3,0,1,0,1,0,0,7.0,1,0,0,0,0,0,42,8,50,26,True,False,False,,Right-hand bat
+Uttar Pradesh,Shiva Singh,3b63b5cc,10,0,0,0,0,0.0,"[14, 16]",2.0,12,4,0,15,0,1,0,0,0,0,0,7.5,1,0,0,0,0,0,4,8,12,25,True,False,False,Slow left-arm orthodox,Right-hand bat
+Uttar Pradesh,Yash Dayal,7210d461,11,0,0,0,0,0.0,"[2, 5]",2.0,12,8,0,10,2,0,0,0,0,0,0,5.0,0,0,0,0,0,0,12,0,12,27,True,False,False,Left-arm medium-fast,Right-hand bat

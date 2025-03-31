@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-United Arab Emirates,Shaiman Anwar,e9630504,1,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,10,0,8,18
-United Arab Emirates,Faizan Asif,8b89eb80,2,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-United Arab Emirates,Khurram Khan,ae6746e0,3,26,27,3,1,96.3,[10],1.0,6,4,0,8,2,0,1,0,0,0,0,8.0,1,0,0,0,0,48,29,8,85
-United Arab Emirates,SP Patil,f5c198fb,4,30,26,5,0,115.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,54,0,0,54
-United Arab Emirates,Rohan Mustafa,d1988788,5,4,8,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
-United Arab Emirates,Amjad Ali,e4271302,6,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-United Arab Emirates,Amjad Javed,18eaf2fa,7,8,10,0,0,80.0,[13],1.0,6,1,0,12,0,1,0,0,0,0,0,12.0,0,0,0,0,0,8,1,0,9
-United Arab Emirates,Ahmed Raza,79b4839e,8,0,4,0,0,0.0,"[7, 9, 11]",3.0,18,4,0,29,3,1,1,0,0,0,0,9.67,0,0,0,0,0,-2,29,0,27
-United Arab Emirates,EHSN Silva,7572bf45,9,13,16,1,0,81.25,"[1, 3, 5]",3.0,18,10,0,20,2,1,1,0,0,0,0,6.67,0,0,0,0,0,17,37,0,54
-United Arab Emirates,Kamran Shazad,75186c24,10,21,15,1,2,140.0,"[8, 14]",1.667,10,2,0,30,3,2,0,0,0,0,0,18.0,1,0,0,0,2,39,2,8,49
-United Arab Emirates,AM Guruge,26534b48,11,1,1,0,0,100.0,"[2, 4, 6, 12]",4.0,24,14,0,18,2,0,2,0,1,0,0,4.5,1,0,0,0,0,1,78,8,87
-Zimbabwe,H Masakadza,31fbf891,1,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Zimbabwe,Sikandar Raza,26d041c4,2,9,14,1,0,64.29,"[11, 13, 16]",3.0,18,8,0,15,1,0,2,1,0,0,1,5.0,0,0,1,0,-2,11,70,12,93
-Zimbabwe,BRM Taylor,53597be1,3,15,7,2,1,214.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,29,0,14,43
-Zimbabwe,SC Williams,afe57f7a,4,0,3,0,0,0.0,"[8, 10, 12, 14]",4.0,24,14,0,15,0,1,3,1,0,0,0,3.75,0,0,0,0,0,-2,107,0,105
-Zimbabwe,V Sibanda,0fdabe05,5,16,19,0,1,84.21,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
-Zimbabwe,E Chigumbura,d2babdd5,6,53,21,6,3,252.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,109,0,8,117
-Zimbabwe,P Utseya,9de271ef,7,0,0,0,0,0.0,"[1, 3, 15, 17]",4.0,24,10,0,18,1,0,0,0,0,0,1,4.5,0,0,0,0,0,0,16,0,16
-Zimbabwe,T Maruma,f55c526f,7,22,14,3,0,157.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,38,0,0,38
-Zimbabwe,T Panyangara,3b417422,8,0,0,0,0,0.0,"[4, 6, 19]",3.0,18,7,0,23,4,0,0,0,0,0,0,7.67,1,0,0,0,0,0,7,8,15
-Zimbabwe,TL Chatara,5bbabe59,9,0,0,0,0,0.0,"[2, 5, 18, 20]",4.0,24,16,0,21,1,2,2,0,1,0,0,5.25,0,0,0,1,0,0,78,6,84
-Zimbabwe,N M'shangwe,dd468277,10,0,0,0,0,0.0,"[7, 9]",2.0,12,3,0,23,4,0,0,0,0,0,2,11.5,1,0,0,0,0,0,-1,8,7
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+United Arab Emirates,Shaiman Anwar,e9630504,1,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,10,0,8,18,46,True,False,False,Legbreak googly,Right-hand bat
+United Arab Emirates,Faizan Asif,8b89eb80,2,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,32,True,False,False,,Left-hand bat
+United Arab Emirates,Khurram Khan,ae6746e0,3,26,27,3,1,96.3,[10],1.0,6,4,0,8,2,0,1,0,0,0,0,8.0,1,0,0,0,0,48,29,8,85,53,True,False,False,Slow left-arm orthodox,Left-hand bat
+United Arab Emirates,SP Patil,f5c198fb,4,30,26,5,0,115.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,54,0,0,54,39,True,False,False,,Right-hand bat
+United Arab Emirates,Rohan Mustafa,d1988788,5,4,8,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,36,True,False,False,Right-arm offbreak,Left-hand bat
+United Arab Emirates,Amjad Ali,e4271302,6,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,45,True,False,False,Legbreak,Left-hand bat
+United Arab Emirates,Amjad Javed,18eaf2fa,7,8,10,0,0,80.0,[13],1.0,6,1,0,12,0,1,0,0,0,0,0,12.0,0,0,0,0,0,8,1,0,9,44,True,False,True,Right-arm medium,Right-hand bat
+United Arab Emirates,Ahmed Raza,79b4839e,8,0,4,0,0,0.0,"[7, 9, 11]",3.0,18,4,0,29,3,1,1,0,0,0,0,9.67,0,0,0,0,0,-2,29,0,27,36,True,False,False,Slow left-arm orthodox,Right-hand bat
+United Arab Emirates,EHSN Silva,7572bf45,9,13,16,1,0,81.25,"[1, 3, 5]",3.0,18,10,0,20,2,1,1,0,0,0,0,6.67,0,0,0,0,0,17,37,0,54,46,True,False,False,Slow left-arm orthodox,Left-hand bat
+United Arab Emirates,Kamran Shazad,75186c24,10,21,15,1,2,140.0,"[8, 14]",1.667,10,2,0,30,3,2,0,0,0,0,0,18.0,1,0,0,0,2,39,2,8,49,44,True,False,False,Right-arm medium-fast,Right-hand bat
+United Arab Emirates,AM Guruge,26534b48,11,1,1,0,0,100.0,"[2, 4, 6, 12]",4.0,24,14,0,18,2,0,2,0,1,0,0,4.5,1,0,0,0,0,1,78,8,87,44,True,False,False,Left-arm fast-medium,Right-hand bat
+Zimbabwe,H Masakadza,31fbf891,1,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,41,True,False,False,Right-arm medium,Right-hand bat
+Zimbabwe,Sikandar Raza,26d041c4,2,9,14,1,0,64.29,"[11, 13, 16]",3.0,18,8,0,15,1,0,2,1,0,0,1,5.0,0,0,1,0,-2,11,70,12,93,38,True,False,True,Legbreak,Right-hand bat
+Zimbabwe,BRM Taylor,53597be1,3,15,7,2,1,214.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,29,0,14,43,39,True,True,False,Right-arm offbreak,Right-hand bat
+Zimbabwe,SC Williams,afe57f7a,4,0,3,0,0,0.0,"[8, 10, 12, 14]",4.0,24,14,0,15,0,1,3,1,0,0,0,3.75,0,0,0,0,0,-2,107,0,105,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Zimbabwe,V Sibanda,0fdabe05,5,16,19,0,1,84.21,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,41,True,False,False,Right-arm offbreak,Right-hand bat
+Zimbabwe,E Chigumbura,d2babdd5,6,53,21,6,3,252.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,109,0,8,117,39,True,False,True,Right-arm fast-medium,Right-hand bat
+Zimbabwe,P Utseya,9de271ef,7,0,0,0,0,0.0,"[1, 3, 15, 17]",4.0,24,10,0,18,1,0,0,0,0,0,1,4.5,0,0,0,0,0,0,16,0,16,40,True,False,False,Right-arm offbreak,Right-hand bat
+Zimbabwe,T Maruma,f55c526f,7,22,14,3,0,157.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,38,0,0,38,36,True,False,False,Legbreak googly,Right-hand bat
+Zimbabwe,T Panyangara,3b417422,8,0,0,0,0,0.0,"[4, 6, 19]",3.0,18,7,0,23,4,0,0,0,0,0,0,7.67,1,0,0,0,0,0,7,8,15,39,True,False,False,Right-arm fast-medium,Right-hand bat
+Zimbabwe,TL Chatara,5bbabe59,9,0,0,0,0,0.0,"[2, 5, 18, 20]",4.0,24,16,0,21,1,2,2,0,1,0,0,5.25,0,0,0,1,0,0,78,6,84,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Zimbabwe,N M'shangwe,dd468277,10,0,0,0,0,0.0,"[7, 9]",2.0,12,3,0,23,4,0,0,0,0,0,2,11.5,1,0,0,0,0,0,-1,8,7,34,True,False,False,Legbreak,Right-hand bat

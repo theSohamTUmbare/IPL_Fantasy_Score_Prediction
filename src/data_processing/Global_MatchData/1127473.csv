@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Hampshire,JM Vince,a15618fe,1,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
-Hampshire,C Munro,af2c687b,2,5,4,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
-Hampshire,SA Northeast,7e4c8ba3,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Hampshire,RR Rossouw,cad00a4d,4,25,11,3,1,227.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,53,0,0,53
-Hampshire,TP Alsop,961b8ff1,5,41,24,2,3,170.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,77,0,0,77
-Hampshire,LA Dawson,4a461c24,6,75,43,8,1,174.42,"[1, 7, 10, 14]",4.0,24,8,0,28,3,0,0,0,0,0,0,7.0,2,0,0,0,6,131,10,16,157
-Hampshire,LD McManus,6feb46a4,7,38,20,1,3,190.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,70,0,0,70
-Hampshire,CP Wood,1cfac535,8,0,0,0,0,0.0,"[2, 5, 15, 19]",4.0,24,7,0,46,5,2,1,0,0,2,1,11.5,0,0,0,0,0,0,28,0,28
-Hampshire,GK Berg,42151725,8,18,15,2,0,120.0,"[3, 11, 16, 20]",4.0,24,4,0,60,4,4,0,0,0,4,0,15.0,0,0,0,0,0,26,-2,0,24
-Hampshire,RA Stevenson,978bd738,9,0,0,0,0,0.0,"[6, 8, 13, 17]",4.0,24,7,0,39,4,2,2,0,0,0,0,9.75,0,0,0,0,0,0,57,0,57
-Hampshire,Mujeeb Ur Rahman,7d92277a,10,0,0,0,0,0.0,"[4, 9, 12, 18]",4.0,24,5,0,34,2,0,0,0,0,0,6,8.5,0,0,0,0,0,0,5,0,5
-Kent,JL Denly,bdadf7da,1,18,17,3,0,105.88,"[1, 7, 9, 15]",4.0,24,4,0,37,2,2,3,0,0,0,0,9.25,0,0,0,0,0,30,83,0,113
-Kent,DJ Bell-Drummond,8f938a32,2,46,32,5,1,143.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,78,0,0,78
-Kent,HG Kuhn,ede05b97,3,10,5,2,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
-Kent,SW Billings,c16d4035,4,95,52,7,5,182.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,171,0,8,179
-Kent,AJ Blake,ea27a674,5,14,11,0,1,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
-Kent,CR Brathwaite,e342e5fb,6,11,3,1,1,366.67,"[2, 4, 16, 19]",4.0,24,4,0,43,3,2,1,0,0,0,1,10.75,1,0,0,0,0,21,27,8,56
-Kent,SR Dickson,2344bdd1,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Kent,CJ Haggett,9395f98e,9,0,0,0,0,0.0,"[10, 12, 18]",3.0,18,4,0,18,0,0,1,0,1,0,0,6.0,0,0,0,0,0,0,39,0,39
-Kent,HW Podmore,43205dad,10,0,0,0,0,0.0,"[3, 6]",2.0,12,0,0,37,6,1,0,0,0,0,1,18.5,1,0,0,0,0,0,-6,8,2
-Kent,ME Claydon,15101f12,11,0,0,0,0,0.0,"[5, 14, 17, 20]",4.0,24,3,0,33,4,0,1,0,0,0,0,8.25,0,0,0,0,0,0,28,0,28
-Kent,Imran Qayyum,e5652e3d,12,0,0,0,0,0.0,"[8, 11, 13]",3.0,18,3,0,37,2,3,0,0,0,0,0,12.33,1,0,0,0,0,0,-3,8,5
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Hampshire,JM Vince,a15618fe,1,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,34,True,False,False,Right-arm medium,Right-hand bat
+Hampshire,C Munro,af2c687b,2,5,4,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,38,True,False,False,Right-arm medium-fast,Left-hand bat
+Hampshire,SA Northeast,7e4c8ba3,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,35,True,False,False,Right-arm offbreak,Right-hand bat
+Hampshire,RR Rossouw,cad00a4d,4,25,11,3,1,227.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,53,0,0,53,35,True,False,False,Right-arm offbreak,Left-hand bat
+Hampshire,TP Alsop,961b8ff1,5,41,24,2,3,170.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,77,0,0,77,29,True,False,False,,Left-hand bat
+Hampshire,LA Dawson,4a461c24,6,75,43,8,1,174.42,"[1, 7, 10, 14]",4.0,24,8,0,28,3,0,0,0,0,0,0,7.0,2,0,0,0,6,131,10,16,157,35,True,False,True,Slow left-arm orthodox,Right-hand bat
+Hampshire,LD McManus,6feb46a4,7,38,20,1,3,190.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,70,0,0,70,30,True,False,False,,Right-hand bat
+Hampshire,CP Wood,1cfac535,8,0,0,0,0,0.0,"[2, 5, 15, 19]",4.0,24,7,0,46,5,2,1,0,0,2,1,11.5,0,0,0,0,0,0,28,0,28,34,True,False,False,Left-arm medium-fast,Right-hand bat
+Hampshire,GK Berg,42151725,8,18,15,2,0,120.0,"[3, 11, 16, 20]",4.0,24,4,0,60,4,4,0,0,0,4,0,15.0,0,0,0,0,0,26,-2,0,24,44,True,False,True,Right-arm medium,Right-hand bat
+Hampshire,RA Stevenson,978bd738,9,0,0,0,0,0.0,"[6, 8, 13, 17]",4.0,24,7,0,39,4,2,2,0,0,0,0,9.75,0,0,0,0,0,0,57,0,57,32,True,True,False,Right-arm fast-medium,Right-hand bat
+Hampshire,Mujeeb Ur Rahman,7d92277a,10,0,0,0,0,0.0,"[4, 9, 12, 18]",4.0,24,5,0,34,2,0,0,0,0,0,6,8.5,0,0,0,0,0,0,5,0,5,24,True,False,False,Right-arm offbreak,Right-hand bat
+Kent,JL Denly,bdadf7da,1,18,17,3,0,105.88,"[1, 7, 9, 15]",4.0,24,4,0,37,2,2,3,0,0,0,0,9.25,0,0,0,0,0,30,83,0,113,39,True,False,False,Legbreak,Right-hand bat
+Kent,DJ Bell-Drummond,8f938a32,2,46,32,5,1,143.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,78,0,0,78,31,True,False,False,Right-arm medium-fast,Right-hand bat
+Kent,HG Kuhn,ede05b97,3,10,5,2,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,40,True,False,False,,Right-hand bat
+Kent,SW Billings,c16d4035,4,95,52,7,5,182.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,171,0,8,179,33,True,False,False,,Right-hand bat
+Kent,AJ Blake,ea27a674,5,14,11,0,1,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,36,True,False,False,Right-arm medium-fast,Left-hand bat
+Kent,CR Brathwaite,e342e5fb,6,11,3,1,1,366.67,"[2, 4, 16, 19]",4.0,24,4,0,43,3,2,1,0,0,0,1,10.75,1,0,0,0,0,21,27,8,56,36,True,False,True,Right-arm fast-medium,Right-hand bat
+Kent,SR Dickson,2344bdd1,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,33,True,False,False,Right-arm medium,Right-hand bat
+Kent,CJ Haggett,9395f98e,9,0,0,0,0,0.0,"[10, 12, 18]",3.0,18,4,0,18,0,0,1,0,1,0,0,6.0,0,0,0,0,0,0,39,0,39,34,True,True,False,Right-arm medium,Left-hand bat
+Kent,HW Podmore,43205dad,10,0,0,0,0,0.0,"[3, 6]",2.0,12,0,0,37,6,1,0,0,0,0,1,18.5,1,0,0,0,0,0,-6,8,2,30,True,False,False,Right-arm medium-fast,Right-hand bat
+Kent,ME Claydon,15101f12,11,0,0,0,0,0.0,"[5, 14, 17, 20]",4.0,24,3,0,33,4,0,1,0,0,0,0,8.25,0,0,0,0,0,0,28,0,28,42,True,False,False,Right-arm medium-fast,Left-hand bat
+Kent,Imran Qayyum,e5652e3d,12,0,0,0,0,0.0,"[8, 11, 13]",3.0,18,3,0,37,2,3,0,0,0,0,0,12.33,1,0,0,0,0,0,-3,8,5,31,True,False,False,Slow left-arm orthodox,Right-hand bat

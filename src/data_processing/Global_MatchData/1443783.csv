@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Bulgaria,Isa Zaroo,9822fb85,1,5,4,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17
-Bulgaria,Zeerak Chughtai,ff0b1636,2,15,20,1,0,75.0,"[8, 10]",2.0,12,3,0,19,2,0,1,0,1,0,1,9.5,0,0,0,0,0,19,36,0,55
-Bulgaria,Firas Hussain,261d591a,3,0,4,0,0,0.0,"[15, 17]",2.0,12,1,0,23,2,1,1,0,1,0,0,11.5,1,0,0,0,0,-2,30,8,36
-Bulgaria,M Gogev,995fd3b2,4,4,11,0,0,36.36,"[14, 16, 18, 20]",4.0,24,8,0,37,3,1,1,0,0,0,2,9.25,0,0,0,1,-6,-2,33,6,37
-Bulgaria,Danyal Raja,324e00a9,5,14,17,1,0,82.35,"[1, 3, 5]",3.0,18,11,0,26,4,0,2,1,0,0,5,8.67,0,0,0,0,0,18,69,0,87
-Bulgaria,Omar Rassol,6caae2dc,6,1,23,0,0,4.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,-6,-5,0,6,1
-Bulgaria,D Nikolov,9c3a8776,7,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,3,0,6,9
-Bulgaria,Ali Rasool,1a710f40,8,3,6,0,0,50.0,[2],1.0,6,0,0,21,3,1,0,0,0,0,0,21.0,0,0,0,0,0,3,0,0,3
-Bulgaria,Gagandeep Singh,4a370769,9,8,5,2,0,160.0,"[4, 6, 19]",3.0,18,5,0,33,3,1,0,0,0,0,3,11.0,1,0,0,0,0,16,3,8,27
-Bulgaria,Huzaif Yousuf,95e47073,10,7,10,1,0,70.0,[12],1.0,6,0,0,17,0,1,0,0,0,1,1,17.0,0,0,0,1,-2,9,0,6,15
-Bulgaria,P Mishra,3fa5672e,11,4,14,0,0,28.57,"[7, 9, 11, 13]",4.0,24,6,0,19,0,0,1,0,0,0,0,4.75,0,0,0,0,-6,-2,37,0,35
-Finland,Ghulam Abbas Butt,cc796077,1,10,6,2,0,166.67,"[7, 9, 11, 13]",4.0,24,20,2,3,0,0,1,0,0,0,0,0.75,1,0,0,0,0,18,75,8,101
-Finland,VS Padhaal,c4fb0b39,2,58,38,5,2,152.63,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,102,0,8,110
-Finland,Atif Rasheed,c7726eec,3,0,3,0,0,0.0,"[12, 15, 17, 19]",4.0,24,19,1,13,2,0,4,0,0,1,0,3.25,0,0,0,0,0,-2,145,0,143
-Finland,Jordan O'Brien,c31d7da1,4,22,12,3,0,183.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,0,0,6,40,0,28,68
-Finland,NM Salonen,f5bd70f2,5,22,18,2,0,122.22,"[1, 3, 5]",3.0,18,11,0,12,1,0,1,0,0,0,1,4.0,1,0,0,0,0,30,42,8,80
-Finland,Amjad Sher,3b4a8cfb,6,25,19,2,0,131.58,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,39,0,0,39
-Finland,Faheem Nellancheri,6513502f,7,44,22,3,3,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,84,0,0,84
-Finland,MB Tambe,1c1bb0d5,8,1,2,0,0,50.0,"[8, 10]",2.0,12,6,0,14,1,0,0,0,0,0,2,7.0,0,0,0,0,0,1,8,0,9
-Finland,Ziaur Rehman,085c1a4c,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Finland,Parveen Kumar,babc65d3,11,0,0,0,0,0.0,"[14, 16, 18, 20]",4.0,24,14,0,17,1,0,1,0,0,0,3,4.25,0,0,0,0,0,0,45,0,45
-Finland,Raaz Mohammad,f83b77f9,12,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,11,0,13,1,0,2,1,1,0,1,4.33,0,0,0,0,0,0,83,0,83
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bulgaria,Isa Zaroo,9822fb85,1,5,4,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17,24,True,True,False,Right-arm medium,Right-hand bat
+Bulgaria,Zeerak Chughtai,ff0b1636,2,15,20,1,0,75.0,"[8, 10]",2.0,12,3,0,19,2,0,1,0,1,0,1,9.5,0,0,0,0,0,19,36,0,55,31,True,True,False,Right-arm medium,Left-hand bat
+Bulgaria,Firas Hussain,261d591a,3,0,4,0,0,0.0,"[15, 17]",2.0,12,1,0,23,2,1,1,0,1,0,0,11.5,1,0,0,0,0,-2,30,8,36,26,True,True,False,Right-arm offbreak,Right-hand bat
+Bulgaria,M Gogev,995fd3b2,4,4,11,0,0,36.36,"[14, 16, 18, 20]",4.0,24,8,0,37,3,1,1,0,0,0,2,9.25,0,0,0,1,-6,-2,33,6,37,30,True,True,False,Right-arm medium,Right-hand bat
+Bulgaria,Danyal Raja,324e00a9,5,14,17,1,0,82.35,"[1, 3, 5]",3.0,18,11,0,26,4,0,2,1,0,0,5,8.67,0,0,0,0,0,18,69,0,87,24,True,True,False,Right-arm medium,Right-hand bat
+Bulgaria,Omar Rassol,6caae2dc,6,1,23,0,0,4.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,-6,-5,0,6,1,27,True,True,False,Right-arm offbreak,Right-hand bat
+Bulgaria,D Nikolov,9c3a8776,7,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,3,0,6,9,32,True,True,False,Right-arm medium,Right-hand bat
+Bulgaria,Ali Rasool,1a710f40,8,3,6,0,0,50.0,[2],1.0,6,0,0,21,3,1,0,0,0,0,0,21.0,0,0,0,0,0,3,0,0,3,22,True,True,False,Left-arm medium,Left-hand bat
+Bulgaria,Gagandeep Singh,4a370769,9,8,5,2,0,160.0,"[4, 6, 19]",3.0,18,5,0,33,3,1,0,0,0,0,3,11.0,1,0,0,0,0,16,3,8,27,31,True,True,False,Right-arm medium,Right-hand bat
+Bulgaria,Huzaif Yousuf,95e47073,10,7,10,1,0,70.0,[12],1.0,6,0,0,17,0,1,0,0,0,1,1,17.0,0,0,0,1,-2,9,0,6,15,24,True,True,False,Right-arm medium,Right-hand bat
+Bulgaria,P Mishra,3fa5672e,11,4,14,0,0,28.57,"[7, 9, 11, 13]",4.0,24,6,0,19,0,0,1,0,0,0,0,4.75,0,0,0,0,-6,-2,37,0,35,46,True,True,False,Right-arm medium,Right-hand bat
+Finland,Ghulam Abbas Butt,cc796077,1,10,6,2,0,166.67,"[7, 9, 11, 13]",4.0,24,20,2,3,0,0,1,0,0,0,0,0.75,1,0,0,0,0,18,75,8,101,42,True,True,False,Right-arm offbreak,Right-hand bat
+Finland,VS Padhaal,c4fb0b39,2,58,38,5,2,152.63,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,102,0,8,110,46,True,True,False,Right-arm offbreak,Right-hand bat
+Finland,Atif Rasheed,c7726eec,3,0,3,0,0,0.0,"[12, 15, 17, 19]",4.0,24,19,1,13,2,0,4,0,0,1,0,3.25,0,0,0,0,0,-2,145,0,143,35,True,True,False,Right-arm medium,Right-hand bat
+Finland,Jordan O'Brien,c31d7da1,4,22,12,3,0,183.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,0,0,6,40,0,28,68,29,True,True,False,Right-arm offbreak,Right-hand bat
+Finland,NM Salonen,f5bd70f2,5,22,18,2,0,122.22,"[1, 3, 5]",3.0,18,11,0,12,1,0,1,0,0,0,1,4.0,1,0,0,0,0,30,42,8,80,30,True,True,False,Right-arm medium,Right-hand bat
+Finland,Amjad Sher,3b4a8cfb,6,25,19,2,0,131.58,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,39,0,0,39,38,True,True,False,Right-arm medium,Right-hand bat
+Finland,Faheem Nellancheri,6513502f,7,44,22,3,3,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,84,0,0,84,34,True,True,False,Right-arm medium,Right-hand bat
+Finland,MB Tambe,1c1bb0d5,8,1,2,0,0,50.0,"[8, 10]",2.0,12,6,0,14,1,0,0,0,0,0,2,7.0,0,0,0,0,0,1,8,0,9,39,True,True,False,Right-arm medium,Right-hand bat
+Finland,Ziaur Rehman,085c1a4c,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,32,True,False,False,,
+Finland,Parveen Kumar,babc65d3,11,0,0,0,0,0.0,"[14, 16, 18, 20]",4.0,24,14,0,17,1,0,1,0,0,0,3,4.25,0,0,0,0,0,0,45,0,45,31,True,True,False,Right-arm medium,Right-hand bat
+Finland,Raaz Mohammad,f83b77f9,12,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,11,0,13,1,0,2,1,1,0,1,4.33,0,0,0,0,0,0,83,0,83,33,True,True,False,Right-arm medium,Right-hand bat

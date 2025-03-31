@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Jammu & Kashmir,Shubham Khajuria,d8a90827,1,9,9,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
-Jammu & Kashmir,Jatin Wadhwan,2cd4271e,2,35,31,6,0,112.9,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,63,0,0,63
-Jammu & Kashmir,Manzoor Dar,91a260d3,3,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Jammu & Kashmir,Shubham Pundir,86a98b15,4,9,9,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
-Jammu & Kashmir,Parvez Rasool,9170ff49,5,59,40,4,3,147.5,"[7, 9, 14, 16]",4.0,24,8,0,22,2,0,0,0,0,0,0,5.5,0,0,0,0,2,103,12,0,115
-Jammu & Kashmir,Ram Dayal,93fefdfa,6,0,0,0,0,0.0,"[1, 17, 19]",3.0,18,4,0,25,4,0,0,0,0,0,0,8.33,0,0,0,0,0,0,4,0,4
-Jammu & Kashmir,Abdul Samad,8e514b4c,6,32,24,1,2,133.33,[12],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,2,54,1,0,55
-Jammu & Kashmir,Umar Nazir,734062e6,7,0,0,0,0,0.0,"[2, 10, 15, 18]",4.0,24,8,0,37,4,2,0,0,0,0,0,9.25,1,0,0,0,0,0,8,8,16
-Jammu & Kashmir,Abid Mushtaq,b10e8c85,8,0,0,0,0,0.0,"[3, 5, 11, 13]",4.0,24,16,0,11,1,0,2,1,1,0,0,2.75,0,0,0,0,0,0,88,0,88
-Jammu & Kashmir,Auqib Nabi,7c3c0337,9,0,0,0,0,0.0,"[4, 6, 8, 20]",4.0,24,11,0,43,4,3,4,0,2,0,0,10.75,0,0,0,0,0,0,133,0,133
-Jammu & Kashmir,Fazil Rashid,514a0408,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,0,0,12,12
-Saurashtra,H Desai,9c86350f,1,6,9,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
-Saurashtra,Kishan Parmar M,6fa5314b,2,28,19,6,0,147.37,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,58,0,0,58
-Saurashtra,Dharmendrasinh Jadeja,d330f9b9,3,0,0,0,0,0.0,"[2, 4, 10, 13]",4.0,24,11,0,19,2,0,0,0,0,0,0,4.75,0,0,0,0,0,0,17,0,17
-Saurashtra,Samarth Vyas,34819e70,4,4,2,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
-Saurashtra,SP Jackson,acc1aeda,5,55,46,5,2,119.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,95,0,0,95
-Saurashtra,Arpit Vasavada,2bbab579,6,9,14,0,0,64.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,7,0,0,7
-Saurashtra,K D Patel,76cc7070,6,0,0,0,0,0.0,"[9, 17, 20]",2.667,16,2,0,31,2,2,0,0,0,0,1,11.62,0,0,0,0,0,0,-2,0,-2
-Saurashtra,C Sakariya,2cdce1be,7,0,0,0,0,0.0,"[5, 7, 15, 18]",4.0,24,10,1,34,3,2,2,0,1,0,1,8.5,0,0,0,0,0,0,80,0,80
-Saurashtra,PN Mankad,663b5e34,7,31,26,3,1,119.23,[11],1.0,6,1,0,13,1,1,0,0,0,0,0,13.0,2,0,0,0,0,53,1,16,70
-Saurashtra,JD Unadkat,1e66c162,8,13,4,0,2,325.0,"[1, 3, 16, 19]",4.0,24,8,0,26,3,0,1,0,0,0,0,6.5,0,0,0,0,0,25,35,0,60
-Saurashtra,V M Jivrajani,d9079bf7,8,0,0,0,0,0.0,"[6, 8, 12, 14]",4.0,24,9,0,26,3,0,1,0,0,0,1,6.5,1,0,0,0,0,0,36,8,44
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Jammu & Kashmir,Shubham Khajuria,d8a90827,1,9,9,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,29,True,False,False,Right-arm offbreak,Right-hand bat
+Jammu & Kashmir,Jatin Wadhwan,2cd4271e,2,35,31,6,0,112.9,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,63,0,0,63,30,True,True,False,Right-arm medium,Right-hand bat
+Jammu & Kashmir,Manzoor Dar,91a260d3,3,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,31,True,False,False,Right-arm offbreak,Right-hand bat
+Jammu & Kashmir,Shubham Pundir,86a98b15,4,9,9,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,26,True,False,False,Legbreak googly,Left-hand bat
+Jammu & Kashmir,Parvez Rasool,9170ff49,5,59,40,4,3,147.5,"[7, 9, 14, 16]",4.0,24,8,0,22,2,0,0,0,0,0,0,5.5,0,0,0,0,2,103,12,0,115,36,True,False,True,Right-arm offbreak,Right-hand bat
+Jammu & Kashmir,Ram Dayal,93fefdfa,6,0,0,0,0,0.0,"[1, 17, 19]",3.0,18,4,0,25,4,0,0,0,0,0,0,8.33,0,0,0,0,0,0,4,0,4,36,True,False,True,Right-arm medium,Right-hand bat
+Jammu & Kashmir,Abdul Samad,8e514b4c,6,32,24,1,2,133.33,[12],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,2,54,1,0,55,23,True,False,False,Legbreak,Right-hand bat
+Jammu & Kashmir,Umar Nazir,734062e6,7,0,0,0,0,0.0,"[2, 10, 15, 18]",4.0,24,8,0,37,4,2,0,0,0,0,0,9.25,1,0,0,0,0,0,8,8,16,31,True,True,False,Right-arm medium,Right-hand bat
+Jammu & Kashmir,Abid Mushtaq,b10e8c85,8,0,0,0,0,0.0,"[3, 5, 11, 13]",4.0,24,16,0,11,1,0,2,1,1,0,0,2.75,0,0,0,0,0,0,88,0,88,28,True,False,True,Slow left-arm orthodox,Left-hand bat
+Jammu & Kashmir,Auqib Nabi,7c3c0337,9,0,0,0,0,0.0,"[4, 6, 8, 20]",4.0,24,11,0,43,4,3,4,0,2,0,0,10.75,0,0,0,0,0,0,133,0,133,28,True,True,False,Right-arm medium,Right-hand bat
+Jammu & Kashmir,Fazil Rashid,514a0408,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,0,0,12,12,28,True,False,False,,Right-hand bat
+Saurashtra,H Desai,9c86350f,1,6,9,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,25,True,False,False,,Right-hand bat
+Saurashtra,Kishan Parmar M,6fa5314b,2,28,19,6,0,147.37,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,58,0,0,58,32,True,True,False,Right-arm medium,Right-hand bat
+Saurashtra,Dharmendrasinh Jadeja,d330f9b9,3,0,0,0,0,0.0,"[2, 4, 10, 13]",4.0,24,11,0,19,2,0,0,0,0,0,0,4.75,0,0,0,0,0,0,17,0,17,34,True,False,False,Slow left-arm orthodox,Left-hand bat
+Saurashtra,Samarth Vyas,34819e70,4,4,2,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,29,True,False,True,Legbreak googly,Right-hand bat
+Saurashtra,SP Jackson,acc1aeda,5,55,46,5,2,119.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,95,0,0,95,38,True,True,False,Right-arm offbreak,Right-hand bat
+Saurashtra,Arpit Vasavada,2bbab579,6,9,14,0,0,64.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,7,0,0,7,36,True,False,False,Slow left-arm orthodox,Left-hand bat
+Saurashtra,K D Patel,76cc7070,6,0,0,0,0,0.0,"[9, 17, 20]",2.667,16,2,0,31,2,2,0,0,0,0,1,11.62,0,0,0,0,0,0,-2,0,-2,33,True,True,False,Right-arm medium,Right-hand bat
+Saurashtra,C Sakariya,2cdce1be,7,0,0,0,0,0.0,"[5, 7, 15, 18]",4.0,24,10,1,34,3,2,2,0,1,0,1,8.5,0,0,0,0,0,0,80,0,80,27,True,False,False,Left-arm medium-fast,Left-hand bat
+Saurashtra,PN Mankad,663b5e34,7,31,26,3,1,119.23,[11],1.0,6,1,0,13,1,1,0,0,0,0,0,13.0,2,0,0,0,0,53,1,16,70,30,True,False,True,Right-arm medium,Right-hand bat
+Saurashtra,JD Unadkat,1e66c162,8,13,4,0,2,325.0,"[1, 3, 16, 19]",4.0,24,8,0,26,3,0,1,0,0,0,0,6.5,0,0,0,0,0,25,35,0,60,33,True,False,False,Left-arm medium,Right-hand bat
+Saurashtra,V M Jivrajani,d9079bf7,8,0,0,0,0,0.0,"[6, 8, 12, 14]",4.0,24,9,0,26,3,0,1,0,0,0,1,6.5,1,0,0,0,0,0,36,8,44,33,True,False,False,Right-arm offbreak,Right-hand bat

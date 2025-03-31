@@ -1,24 +1,24 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Hyderabad (India),Tanmay Agarwal,e6e9b619,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Hyderabad (India),Pragnay Reddy,9e29431f,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Hyderabad (India),MSR Charan,926cd9e5,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Hyderabad (India),Tilak Varma,b0482a1d,4,50,38,6,1,131.58,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,90,0,0,90
-Hyderabad (India),Ravi Teja,5f39537c,5,5,9,0,0,55.56,"[6, 8, 14, 18]",4.0,24,7,0,32,2,1,1,1,0,0,2,8.0,0,0,0,0,0,5,40,0,45
-Hyderabad (India),Mickil Jaiswal,763abbaf,6,2,4,0,0,50.0,[10],1.0,6,2,0,8,1,0,0,0,0,0,1,8.0,0,0,0,0,0,2,2,0,4
-Hyderabad (India),Rahul Buddhi,70a9b353,7,20,21,1,0,95.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
-Hyderabad (India),A Prateek Reddy,22850fa3,8,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Hyderabad (India),Tanay Thyagarajan,f1809c03,9,24,21,1,2,114.29,"[7, 9, 11, 16]",4.0,24,5,0,25,1,0,0,0,0,0,0,6.25,0,0,0,0,0,40,7,0,47
-Hyderabad (India),CV Milind,7b5b6311,10,9,8,1,0,112.5,"[2, 4, 13, 19]",4.0,24,8,0,30,2,1,0,0,0,0,1,7.5,0,0,0,0,0,13,8,0,21
-Hyderabad (India),Rakshan Readdi,adee5bbd,11,2,4,0,0,50.0,"[1, 5, 17, 20]",4.0,24,10,1,53,5,4,2,0,1,1,0,13.25,1,0,0,0,0,2,74,8,84
-Hyderabad (India),B Punnaiah,c58fb16b,11,0,0,0,0,0.0,"[3, 12, 15]",3.0,18,6,0,22,3,0,1,0,0,0,0,7.33,0,0,0,0,0,0,31,0,31
-Punjab,Abhishek Sharma,f29185a1,1,17,20,3,0,85.0,"[1, 3, 5, 7]",4.0,24,10,0,22,2,0,3,1,1,0,2,5.5,0,0,0,0,0,29,109,0,138
-Punjab,P Simran Singh,9418198b,2,10,16,1,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,-2,12,0,12,24
-Punjab,Anmolpreet Singh,1399b39c,3,50,40,5,1,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,84,0,0,84
-Punjab,Mandeep Singh,c3a96caf,4,30,24,2,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,42,0,16,58
-Punjab,Sanvir Singh,b0f2baf4,5,55,18,3,5,305.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,111,0,0,111
-Punjab,Ramandeep Singh,be24ead0,6,3,2,0,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
-Punjab,M Markande,a9fd84fb,11,0,0,0,0,0.0,"[9, 16]",2.0,12,3,0,17,0,1,0,0,0,0,0,8.5,0,0,0,0,0,0,3,0,3
-Punjab,S Kaul,dcf81436,12,0,0,0,0,0.0,"[8, 10, 18]",3.0,18,7,0,21,3,0,0,0,0,0,0,7.0,0,0,0,0,0,0,9,0,9
-Punjab,Harpreet Brar,c05edf8e,13,0,0,0,0,0.0,"[2, 19]",1.667,10,7,0,11,2,0,1,0,0,0,1,6.6,1,0,0,0,0,0,32,8,40
-Punjab,Gaurav Chaudhary,b05fe3d9,14,0,0,0,0,0.0,"[4, 6, 12, 14]",4.0,24,10,0,22,1,1,2,0,2,0,0,5.5,0,0,1,0,0,0,80,12,92
-Punjab,Baltej Singh,0c0ef3fb,15,0,0,0,0,0.0,"[11, 13, 15, 17]",4.0,24,11,0,22,1,1,3,0,0,0,0,5.5,1,0,0,0,0,0,94,8,102
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Hyderabad (India),Tanmay Agarwal,e6e9b619,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,29,True,False,False,Legbreak googly,Left-hand bat
+Hyderabad (India),Pragnay Reddy,9e29431f,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,25,True,False,False,,Right-hand bat
+Hyderabad (India),MSR Charan,926cd9e5,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,25,True,False,False,,Right-hand bat
+Hyderabad (India),Tilak Varma,b0482a1d,4,50,38,6,1,131.58,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,90,0,0,90,22,True,False,True,Right-arm offbreak,Left-hand bat
+Hyderabad (India),Ravi Teja,5f39537c,5,5,9,0,0,55.56,"[6, 8, 14, 18]",4.0,24,7,0,32,2,1,1,1,0,0,2,8.0,0,0,0,0,0,5,40,0,45,30,True,True,False,Right-arm medium,Left-hand bat
+Hyderabad (India),Mickil Jaiswal,763abbaf,6,2,4,0,0,50.0,[10],1.0,6,2,0,8,1,0,0,0,0,0,1,8.0,0,0,0,0,0,2,2,0,4,26,True,True,False,Legbreak,Right-hand bat
+Hyderabad (India),Rahul Buddhi,70a9b353,7,20,21,1,0,95.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24,27,True,False,False,Right-arm offbreak,Left-hand bat
+Hyderabad (India),A Prateek Reddy,22850fa3,8,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,24,True,False,False,,Left-hand bat
+Hyderabad (India),Tanay Thyagarajan,f1809c03,9,24,21,1,2,114.29,"[7, 9, 11, 16]",4.0,24,5,0,25,1,0,0,0,0,0,0,6.25,0,0,0,0,0,40,7,0,47,29,True,False,False,Slow left-arm orthodox,Left-hand bat
+Hyderabad (India),CV Milind,7b5b6311,10,9,8,1,0,112.5,"[2, 4, 13, 19]",4.0,24,8,0,30,2,1,0,0,0,0,1,7.5,0,0,0,0,0,13,8,0,21,30,True,False,False,Left-arm medium,Left-hand bat
+Hyderabad (India),Rakshan Readdi,adee5bbd,11,2,4,0,0,50.0,"[1, 5, 17, 20]",4.0,24,10,1,53,5,4,2,0,1,1,0,13.25,1,0,0,0,0,2,74,8,84,24,True,False,False,,Right-hand bat
+Hyderabad (India),B Punnaiah,c58fb16b,11,0,0,0,0,0.0,"[3, 12, 15]",3.0,18,6,0,22,3,0,1,0,0,0,0,7.33,0,0,0,0,0,0,31,0,31,21,True,True,False,Right-arm medium,Right-hand bat
+Punjab,Abhishek Sharma,f29185a1,1,17,20,3,0,85.0,"[1, 3, 5, 7]",4.0,24,10,0,22,2,0,3,1,1,0,2,5.5,0,0,0,0,0,29,109,0,138,24,True,False,True,Slow left-arm orthodox,Left-hand bat
+Punjab,P Simran Singh,9418198b,2,10,16,1,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,-2,12,0,12,24,24,True,False,False,,Right-hand bat
+Punjab,Anmolpreet Singh,1399b39c,3,50,40,5,1,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,84,0,0,84,27,True,False,False,Right-arm offbreak,Right-hand bat
+Punjab,Mandeep Singh,c3a96caf,4,30,24,2,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,42,0,16,58,33,True,False,True,Right-arm medium,Right-hand bat
+Punjab,Sanvir Singh,b0f2baf4,5,55,18,3,5,305.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,111,0,0,111,28,True,False,True,Right-arm medium,Right-hand bat
+Punjab,Ramandeep Singh,be24ead0,6,3,2,0,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,27,True,False,False,Right-arm medium,Right-hand bat
+Punjab,M Markande,a9fd84fb,11,0,0,0,0,0.0,"[9, 16]",2.0,12,3,0,17,0,1,0,0,0,0,0,8.5,0,0,0,0,0,0,3,0,3,27,True,False,False,Legbreak,Right-hand bat
+Punjab,S Kaul,dcf81436,12,0,0,0,0,0.0,"[8, 10, 18]",3.0,18,7,0,21,3,0,0,0,0,0,0,7.0,0,0,0,0,0,0,9,0,9,34,True,False,False,Right-arm medium,Right-hand bat
+Punjab,Harpreet Brar,c05edf8e,13,0,0,0,0,0.0,"[2, 19]",1.667,10,7,0,11,2,0,1,0,0,0,1,6.6,1,0,0,0,0,0,32,8,40,29,True,False,False,Slow left-arm orthodox,Left-hand bat
+Punjab,Gaurav Chaudhary,b05fe3d9,14,0,0,0,0,0.0,"[4, 6, 12, 14]",4.0,24,10,0,22,1,1,2,0,2,0,0,5.5,0,0,1,0,0,0,80,12,92,26,True,True,False,Right-arm offbreak,Right-hand bat
+Punjab,Baltej Singh,0c0ef3fb,15,0,0,0,0,0.0,"[11, 13, 15, 17]",4.0,24,11,0,22,1,1,3,0,0,0,0,5.5,1,0,0,0,0,0,94,8,102,34,True,False,False,Right-arm medium,Right-hand bat

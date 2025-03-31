@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Kerala,Vishnu Vinod,0494fa6e,1,34,20,4,2,170.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,70,0,0,70
-Kerala,KB Arun Karthik,7daedf2f,2,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,1,0,12,13
-Kerala,Rohan Prem,92d07362,3,0,1,0,0,0.0,"[7, 9, 11]",3.0,18,11,0,7,0,0,1,0,0,0,0,2.33,0,0,0,0,0,0,42,0,42
-Kerala,Daryl Ferrario,16b5917d,4,22,19,2,0,115.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30
-Kerala,Sachin Baby,dc9dd038,5,75,46,11,0,163.04,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,135,0,8,143
-Kerala,Mohammed Azharuddeen,4ae89f36,6,47,26,2,3,180.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,6,83,0,28,111
-Kerala,Vinoop Manoharan,a0d832c0,7,2,4,0,0,50.0,"[13, 15, 17]",3.0,18,8,0,15,0,1,1,0,0,0,0,5.0,0,0,0,0,0,2,37,0,39
-Kerala,S Midhun,ade90de7,9,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,14,0,18,1,1,1,0,0,0,0,4.5,0,0,0,0,0,0,45,0,45
-Kerala,Basil Thampi,871e9faf,10,0,0,0,0,0.0,"[2, 5, 19]",3.0,18,11,0,12,2,0,1,1,0,0,0,4.0,0,0,0,0,0,0,50,0,50
-Kerala,MD Nidheesh,96513a65,11,0,0,0,0,0.0,"[4, 6, 8]",3.0,18,10,0,20,2,1,1,0,1,0,1,6.67,0,0,0,0,0,0,45,0,45
-Kerala,S Sandeep Warrier,cdc6bdba,12,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,11,0,30,4,1,1,0,0,0,0,7.5,0,0,0,0,0,0,36,0,36
-Manipur,Mayank Raghav,228bd0b0,1,32,30,6,0,106.67,"[12, 14, 16]",3.0,18,0,0,29,3,0,0,0,0,0,0,9.67,0,0,0,0,0,60,0,0,60
-Manipur,Hrithik Kanojia,af985576,2,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,1,0,12,13
-Manipur,Ahmed Shah,075d569e,3,11,21,0,1,52.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,13,0,0,13
-Manipur,Yashpal Singh,297b26da,4,40,28,3,2,142.86,[10],1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,1,0,1,0,2,70,1,20,91
-Manipur,Kangabam Singh,59da1e8a,5,5,18,0,0,27.78,"[7, 9, 19]",3.0,18,3,0,28,4,0,0,0,0,0,0,9.33,0,0,0,0,-6,-1,3,0,2
-Manipur,P Prafullomani,f9900488,6,10,14,0,1,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
-Manipur,Narsingh Yadav,4c450aee,7,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Manipur,Homendro Kabrambam,1b480a44,8,1,1,0,0,100.0,"[1, 3, 5]",3.0,18,11,0,25,2,2,2,0,1,0,1,8.33,1,0,0,0,0,1,69,8,78
-Manipur,Kishan Thokchom,dbc76c59,9,1,1,0,0,100.0,"[2, 4]",2.0,12,5,0,15,2,0,0,0,0,0,0,7.5,0,0,0,0,0,1,5,0,6
-Manipur,Bishworjit Konthoujam,15deff66,9,0,0,0,0,0.0,"[6, 8, 18, 20]",4.0,24,5,0,33,5,0,1,0,0,0,0,8.25,0,0,0,0,0,0,30,0,30
-Manipur,Lamabam Singh,76860ea3,10,0,0,0,0,0.0,"[11, 13, 15, 17]",4.0,24,3,0,41,1,3,0,0,0,0,0,10.25,0,0,0,0,0,0,1,0,1
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Kerala,Vishnu Vinod,0494fa6e,1,34,20,4,2,170.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,70,0,0,70,31,True,False,False,,Right-hand bat
+Kerala,KB Arun Karthik,7daedf2f,2,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,1,0,12,13,39,True,True,False,Legbreak googly,Right-hand bat
+Kerala,Rohan Prem,92d07362,3,0,1,0,0,0.0,"[7, 9, 11]",3.0,18,11,0,7,0,0,1,0,0,0,0,2.33,0,0,0,0,0,0,42,0,42,38,True,False,False,Right-arm offbreak,Left-hand bat
+Kerala,Daryl Ferrario,16b5917d,4,22,19,2,0,115.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30,26,True,False,True,Right-arm offbreak,Right-hand bat
+Kerala,Sachin Baby,dc9dd038,5,75,46,11,0,163.04,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,135,0,8,143,36,True,False,False,Right-arm offbreak,Left-hand bat
+Kerala,Mohammed Azharuddeen,4ae89f36,6,47,26,2,3,180.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,6,83,0,28,111,31,True,False,False,,Right-hand bat
+Kerala,Vinoop Manoharan,a0d832c0,7,2,4,0,0,50.0,"[13, 15, 17]",3.0,18,8,0,15,0,1,1,0,0,0,0,5.0,0,0,0,0,0,2,37,0,39,32,True,True,False,Right-arm offbreak,Right-hand bat
+Kerala,S Midhun,ade90de7,9,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,14,0,18,1,1,1,0,0,0,0,4.5,0,0,0,0,0,0,45,0,45,30,True,False,False,Legbreak googly,Right-hand bat
+Kerala,Basil Thampi,871e9faf,10,0,0,0,0,0.0,"[2, 5, 19]",3.0,18,11,0,12,2,0,1,1,0,0,0,4.0,0,0,0,0,0,0,50,0,50,31,True,False,False,Right-arm fast-medium,Right-hand bat
+Kerala,MD Nidheesh,96513a65,11,0,0,0,0,0.0,"[4, 6, 8]",3.0,18,10,0,20,2,1,1,0,1,0,1,6.67,0,0,0,0,0,0,45,0,45,33,True,False,False,Right-arm medium,Right-hand bat
+Kerala,S Sandeep Warrier,cdc6bdba,12,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,11,0,30,4,1,1,0,0,0,0,7.5,0,0,0,0,0,0,36,0,36,33,True,False,False,Right-arm medium,Right-hand bat
+Manipur,Mayank Raghav,228bd0b0,1,32,30,6,0,106.67,"[12, 14, 16]",3.0,18,0,0,29,3,0,0,0,0,0,0,9.67,0,0,0,0,0,60,0,0,60,36,True,False,False,,Right-hand bat
+Manipur,Hrithik Kanojia,af985576,2,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,1,0,12,13,25,True,True,False,Right-arm medium-fast,Right-hand bat
+Manipur,Ahmed Shah,075d569e,3,11,21,0,1,52.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,13,0,0,13,30,True,False,False,,Right-hand bat
+Manipur,Yashpal Singh,297b26da,4,40,28,3,2,142.86,[10],1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,1,0,1,0,2,70,1,20,91,43,True,False,False,Right-arm medium,Right-hand bat
+Manipur,Kangabam Singh,59da1e8a,5,5,18,0,0,27.78,"[7, 9, 19]",3.0,18,3,0,28,4,0,0,0,0,0,0,9.33,0,0,0,0,-6,-1,3,0,2,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Manipur,P Prafullomani,f9900488,6,10,14,0,1,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,31,True,False,False,,Right-hand bat
+Manipur,Narsingh Yadav,4c450aee,7,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,33,True,False,False,,Right-hand bat
+Manipur,Homendro Kabrambam,1b480a44,8,1,1,0,0,100.0,"[1, 3, 5]",3.0,18,11,0,25,2,2,2,0,1,0,1,8.33,1,0,0,0,0,1,69,8,78,32,True,True,False,Right-arm medium-fast,Right-hand bat
+Manipur,Kishan Thokchom,dbc76c59,9,1,1,0,0,100.0,"[2, 4]",2.0,12,5,0,15,2,0,0,0,0,0,0,7.5,0,0,0,0,0,1,5,0,6,35,True,True,False,Right-arm medium,Right-hand bat
+Manipur,Bishworjit Konthoujam,15deff66,9,0,0,0,0,0.0,"[6, 8, 18, 20]",4.0,24,5,0,33,5,0,1,0,0,0,0,8.25,0,0,0,0,0,0,30,0,30,29,True,True,False,Right-arm medium-fast,Right-hand bat
+Manipur,Lamabam Singh,76860ea3,10,0,0,0,0,0.0,"[11, 13, 15, 17]",4.0,24,3,0,41,1,3,0,0,0,0,0,10.25,0,0,0,0,0,0,1,0,1,26,True,True,False,Slow left-arm orthodox,Left-hand bat

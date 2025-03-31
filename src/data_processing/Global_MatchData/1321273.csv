@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Greece,P Magafas,c25be68d,1,4,2,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
-Greece,A Manousis,b672e825,2,0,1,0,0,0.0,"[11, 13, 15]",3.0,18,5,0,14,0,0,1,0,0,0,0,4.67,0,0,0,0,0,-2,36,0,34
-Greece,G Fatouros,b388d623,3,1,5,0,0,20.0,[5],1.0,6,3,0,14,2,1,0,0,0,0,0,14.0,1,0,0,0,0,1,3,8,12
-Greece,Alexandros Karvelas,13f21a98,4,24,24,1,2,100.0,"[1, 3, 17, 19]",4.0,24,7,0,37,4,1,0,0,0,1,0,9.25,0,0,0,0,0,40,7,0,47
-Greece,S Bogdos,268ec1d6,5,1,11,0,0,9.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,-6,-5,0,14,9
-Greece,C Bogdanos,ecdfdd3c,6,4,13,0,0,30.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,-2,0,8,6
-Greece,AS Mehmi,4612619b,7,4,3,1,0,133.33,"[2, 4, 6, 8]",4.0,24,11,0,23,2,0,1,0,0,0,2,5.75,0,0,0,1,0,8,40,6,54
-Greece,GC Galanis,db218528,8,2,4,0,0,50.0,"[7, 10, 12, 18]",4.0,24,7,0,25,1,1,0,0,0,0,2,6.25,1,0,0,0,0,2,9,8,19
-Greece,T Zotos,4c4d245a,9,0,2,0,0,0.0,[9],1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,0,-2,1,0,-1
-Greece,I Bardis,716bd716,10,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Greece,Ali Abdulla Popalzae,818aef9a,11,0,3,0,0,0.0,"[14, 16, 20]",3.0,18,3,0,21,0,1,3,0,1,0,0,7.0,0,0,0,0,0,-2,92,0,90
-Sweden,Hamid Mahmood,5332fc2f,1,69,57,6,1,121.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,107,0,8,115
-Sweden,Umar Nawaz,1ed476fe,2,29,28,3,1,103.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,51,0,0,51
-Sweden,Imal Zuwak,1283e17b,3,15,15,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
-Sweden,A Venkatesh,06b45b20,4,0,1,0,0,0.0,"[2, 5]",2.0,12,8,0,4,0,0,0,0,0,0,0,2.0,0,0,0,0,0,-2,14,0,12
-Sweden,W Boshoff,cad11a02,5,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Sweden,Azam Khalil,ff1e08eb,6,18,10,2,1,180.0,"[4, 6, 8, 10]",4.0,24,19,1,15,0,2,3,1,1,0,0,3.75,0,0,0,0,6,38,132,0,170
-Sweden,Zaker Taqawi,d7074ddc,7,3,3,0,0,100.0,[12],0.833,5,4,0,1,0,0,2,1,1,0,0,1.2,0,0,0,0,0,3,70,0,73
-Sweden,Ankit Dubey,65dadc70,8,5,3,0,0,166.67,"[7, 9, 11]",3.0,18,14,0,10,1,0,3,1,2,0,3,3.33,1,0,0,0,0,5,123,8,136
-Sweden,L Karlsson,90a41671,11,0,0,0,0,0.0,"[1, 3]",2.0,12,6,0,13,2,0,2,1,0,0,0,6.5,0,0,0,0,0,0,66,0,66
-Sweden,Ismaeel Zia,70abbb67,12,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Sweden,Baz Aybui,58a7f842,13,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Greece,P Magafas,c25be68d,1,4,2,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,55,True,True,False,Right-arm medium-fast,Right-hand bat
+Greece,A Manousis,b672e825,2,0,1,0,0,0.0,"[11, 13, 15]",3.0,18,5,0,14,0,0,1,0,0,0,0,4.67,0,0,0,0,0,-2,36,0,34,46,True,False,False,,
+Greece,G Fatouros,b388d623,3,1,5,0,0,20.0,[5],1.0,6,3,0,14,2,1,0,0,0,0,0,14.0,1,0,0,0,0,1,3,8,12,27,True,True,False,Right-arm medium,Right-hand bat
+Greece,Alexandros Karvelas,13f21a98,4,24,24,1,2,100.0,"[1, 3, 17, 19]",4.0,24,7,0,37,4,1,0,0,0,1,0,9.25,0,0,0,0,0,40,7,0,47,25,True,True,False,Right-arm offbreak,Right-hand bat
+Greece,S Bogdos,268ec1d6,5,1,11,0,0,9.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,-6,-5,0,14,9,29,True,False,False,,
+Greece,C Bogdanos,ecdfdd3c,6,4,13,0,0,30.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,-2,0,8,6,25,True,True,False,Right-arm medium-fast,Right-hand bat
+Greece,AS Mehmi,4612619b,7,4,3,1,0,133.33,"[2, 4, 6, 8]",4.0,24,11,0,23,2,0,1,0,0,0,2,5.75,0,0,0,1,0,8,40,6,54,34,True,True,False,Right-arm medium,Right-hand bat
+Greece,GC Galanis,db218528,8,2,4,0,0,50.0,"[7, 10, 12, 18]",4.0,24,7,0,25,1,1,0,0,0,0,2,6.25,1,0,0,0,0,2,9,8,19,20,True,True,False,Left-arm wrist-spin,Left-hand bat
+Greece,T Zotos,4c4d245a,9,0,2,0,0,0.0,[9],1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,0,-2,1,0,-1,19,True,True,False,Right-arm medium-fast,Right-hand bat
+Greece,I Bardis,716bd716,10,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,42,True,True,False,Slow left-arm orthodox,Left-hand bat
+Greece,Ali Abdulla Popalzae,818aef9a,11,0,3,0,0,0.0,"[14, 16, 20]",3.0,18,3,0,21,0,1,3,0,1,0,0,7.0,0,0,0,0,0,-2,92,0,90,33,True,True,False,Right-arm medium-fast,Right-hand bat
+Sweden,Hamid Mahmood,5332fc2f,1,69,57,6,1,121.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,107,0,8,115,42,True,True,False,Slow left-arm orthodox,Right-hand bat
+Sweden,Umar Nawaz,1ed476fe,2,29,28,3,1,103.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,51,0,0,51,39,True,True,False,Right-arm medium,Right-hand bat
+Sweden,Imal Zuwak,1283e17b,3,15,15,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21,35,True,True,False,Right-arm medium-fast,Right-hand bat
+Sweden,A Venkatesh,06b45b20,4,0,1,0,0,0.0,"[2, 5]",2.0,12,8,0,4,0,0,0,0,0,0,0,2.0,0,0,0,0,0,-2,14,0,12,35,True,True,False,Right-arm medium,Right-hand bat
+Sweden,W Boshoff,cad11a02,5,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,35,True,False,False,,Right-hand bat
+Sweden,Azam Khalil,ff1e08eb,6,18,10,2,1,180.0,"[4, 6, 8, 10]",4.0,24,19,1,15,0,2,3,1,1,0,0,3.75,0,0,0,0,6,38,132,0,170,38,True,False,False,,
+Sweden,Zaker Taqawi,d7074ddc,7,3,3,0,0,100.0,[12],0.833,5,4,0,1,0,0,2,1,1,0,0,1.2,0,0,0,0,0,3,70,0,73,23,True,False,False,,Left-hand bat
+Sweden,Ankit Dubey,65dadc70,8,5,3,0,0,166.67,"[7, 9, 11]",3.0,18,14,0,10,1,0,3,1,2,0,3,3.33,1,0,0,0,0,5,123,8,136,37,True,True,False,Right-arm offbreak,Right-hand bat
+Sweden,L Karlsson,90a41671,11,0,0,0,0,0.0,"[1, 3]",2.0,12,6,0,13,2,0,2,1,0,0,0,6.5,0,0,0,0,0,0,66,0,66,28,True,True,False,Right-arm medium-fast,Right-hand bat
+Sweden,Ismaeel Zia,70abbb67,12,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,23,True,True,False,Left-arm medium,Right-hand bat
+Sweden,Baz Aybui,58a7f842,13,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,27,True,False,False,Right-arm medium-fast,Right-hand bat

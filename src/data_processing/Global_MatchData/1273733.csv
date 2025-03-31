@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Australia,DA Warner,dcce6f09,1,65,42,10,0,154.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,117,0,8,125
-Australia,AJ Finch,b8d490fd,2,37,22,5,2,168.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,77,0,0,77
-Australia,GJ Maxwell,b681e71e,3,5,6,1,0,83.33,[4],1.0,6,3,0,16,1,1,0,0,0,0,5,16.0,0,0,0,0,0,9,3,0,12
-Australia,SPD Smith,30a45b23,4,28,25,1,0,112.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,36,0,16,52
-Australia,MP Stoinis,d9273ee7,5,16,7,2,1,228.57,"[7, 9, 17]",3.0,18,3,0,35,4,1,0,0,0,0,1,11.67,0,0,0,0,0,30,-1,0,29
-Australia,MR Marsh,3d8feaf8,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Australia,MS Wade,afa7e784,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
-Australia,PJ Cummins,ded9240e,7,0,0,0,0,0.0,"[3, 6, 16, 18]",4.0,24,10,0,34,5,0,2,0,0,1,2,8.5,0,0,0,0,0,0,60,0,60
-Australia,MA Starc,3fb19989,8,0,0,0,0,0.0,"[1, 11, 13, 19]",4.0,24,9,0,27,2,1,2,0,1,0,1,6.75,0,0,0,0,0,0,69,0,69
-Australia,A Zampa,14f96089,9,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,12,0,12,0,0,2,0,0,0,0,3.0,0,0,0,0,0,0,68,0,68
-Australia,JR Hazlewood,03806cf8,10,0,0,0,0,0.0,"[2, 5, 15, 20]",4.0,24,10,0,26,4,0,0,0,0,0,1,6.5,0,0,0,0,0,0,12,0,12
-Sri Lanka,P Nissanka,8ee36b18,1,7,9,1,0,77.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
-Sri Lanka,MDKJ Perera,f21043a5,2,35,25,4,1,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,63,0,0,63
-Sri Lanka,KIC Asalanka,732c038e,3,35,26,4,1,134.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,63,0,0,63
-Sri Lanka,WIA Fernando,9550470d,4,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12
-Sri Lanka,PBB Rajapaksa,6c882e9a,5,33,26,4,1,126.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,59,0,8,67
-Sri Lanka,PVD Chameera,327b58d3,5,0,0,0,0,0.0,"[3, 5, 14]",3.0,18,4,0,33,4,1,0,0,0,1,0,11.0,0,0,0,0,0,0,2,0,2
-Sri Lanka,CBRLS Kumara,4751caa3,6,0,0,0,0,0.0,"[4, 10, 17]",3.0,18,1,0,48,6,2,0,0,0,0,0,16.0,0,0,0,0,0,0,-5,0,-5
-Sri Lanka,PWH de Silva,a97c8ec2,6,4,2,1,0,200.0,"[7, 9, 11, 13]",4.0,24,10,0,22,2,0,2,0,1,1,0,5.5,0,0,0,0,0,8,72,0,80
-Sri Lanka,MD Shanaka,3ff033bb,7,12,19,1,0,63.16,[15],1.0,6,2,0,6,0,0,1,0,0,0,1,6.0,0,0,0,0,-2,14,27,0,41
-Sri Lanka,M Theekshana,f24c6701,7,0,0,0,0,0.0,"[2, 6, 8, 12]",4.0,24,10,0,27,4,0,0,0,0,0,0,6.75,0,0,0,0,0,0,12,0,12
-Sri Lanka,C Karunaratne,fb3e0d39,8,9,6,1,0,150.0,"[1, 16]",2.0,12,4,0,19,3,0,0,0,0,0,1,9.5,0,0,0,0,0,13,4,0,17
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Australia,DA Warner,dcce6f09,1,65,42,10,0,154.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,117,0,8,125,38,True,False,False,Legbreak,Left-hand bat
+Australia,AJ Finch,b8d490fd,2,37,22,5,2,168.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,77,0,0,77,38,True,False,False,Slow left-arm orthodox,Right-hand bat
+Australia,GJ Maxwell,b681e71e,3,5,6,1,0,83.33,[4],1.0,6,3,0,16,1,1,0,0,0,0,5,16.0,0,0,0,0,0,9,3,0,12,36,True,False,True,Right-arm offbreak,Right-hand bat
+Australia,SPD Smith,30a45b23,4,28,25,1,0,112.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,36,0,16,52,35,True,False,False,Legbreak googly,Right-hand bat
+Australia,MP Stoinis,d9273ee7,5,16,7,2,1,228.57,"[7, 9, 17]",3.0,18,3,0,35,4,1,0,0,0,0,1,11.67,0,0,0,0,0,30,-1,0,29,35,True,False,True,Right-arm medium,Right-hand bat
+Australia,MR Marsh,3d8feaf8,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,33,True,False,True,Right-arm medium,Right-hand bat
+Australia,MS Wade,afa7e784,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,37,True,True,False,Right-arm medium,Left-hand bat
+Australia,PJ Cummins,ded9240e,7,0,0,0,0,0.0,"[3, 6, 16, 18]",4.0,24,10,0,34,5,0,2,0,0,1,2,8.5,0,0,0,0,0,0,60,0,60,31,True,False,False,Right-arm fast,Right-hand bat
+Australia,MA Starc,3fb19989,8,0,0,0,0,0.0,"[1, 11, 13, 19]",4.0,24,9,0,27,2,1,2,0,1,0,1,6.75,0,0,0,0,0,0,69,0,69,35,True,False,False,Left-arm fast,Left-hand bat
+Australia,A Zampa,14f96089,9,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,12,0,12,0,0,2,0,0,0,0,3.0,0,0,0,0,0,0,68,0,68,32,True,False,False,Legbreak googly,Right-hand bat
+Australia,JR Hazlewood,03806cf8,10,0,0,0,0,0.0,"[2, 5, 15, 20]",4.0,24,10,0,26,4,0,0,0,0,0,1,6.5,0,0,0,0,0,0,12,0,12,34,True,False,False,Right-arm fast-medium,Left-hand bat
+Sri Lanka,P Nissanka,8ee36b18,1,7,9,1,0,77.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,26,True,False,False,,Right-hand bat
+Sri Lanka,MDKJ Perera,f21043a5,2,35,25,4,1,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,63,0,0,63,34,True,False,False,,Left-hand bat
+Sri Lanka,KIC Asalanka,732c038e,3,35,26,4,1,134.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,63,0,0,63,27,True,False,True,Right-arm offbreak,Left-hand bat
+Sri Lanka,WIA Fernando,9550470d,4,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12,26,True,False,False,Right-arm medium-fast,Right-hand bat
+Sri Lanka,PBB Rajapaksa,6c882e9a,5,33,26,4,1,126.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,59,0,8,67,33,True,False,False,Right-arm medium,Left-hand bat
+Sri Lanka,PVD Chameera,327b58d3,5,0,0,0,0,0.0,"[3, 5, 14]",3.0,18,4,0,33,4,1,0,0,0,1,0,11.0,0,0,0,0,0,0,2,0,2,33,True,False,False,Right-arm fast,Right-hand bat
+Sri Lanka,CBRLS Kumara,4751caa3,6,0,0,0,0,0.0,"[4, 10, 17]",3.0,18,1,0,48,6,2,0,0,0,0,0,16.0,0,0,0,0,0,0,-5,0,-5,28,True,False,False,Right-arm fast,Left-hand bat
+Sri Lanka,PWH de Silva,a97c8ec2,6,4,2,1,0,200.0,"[7, 9, 11, 13]",4.0,24,10,0,22,2,0,2,0,1,1,0,5.5,0,0,0,0,0,8,72,0,80,27,True,False,True,Legbreak,Right-hand bat
+Sri Lanka,MD Shanaka,3ff033bb,7,12,19,1,0,63.16,[15],1.0,6,2,0,6,0,0,1,0,0,0,1,6.0,0,0,0,0,-2,14,27,0,41,33,True,False,True,Right-arm medium,Right-hand bat
+Sri Lanka,M Theekshana,f24c6701,7,0,0,0,0,0.0,"[2, 6, 8, 12]",4.0,24,10,0,27,4,0,0,0,0,0,0,6.75,0,0,0,0,0,0,12,0,12,24,True,False,False,Right-arm offbreak,Right-hand bat
+Sri Lanka,C Karunaratne,fb3e0d39,8,9,6,1,0,150.0,"[1, 16]",2.0,12,4,0,19,3,0,0,0,0,0,1,9.5,0,0,0,0,0,13,4,0,17,28,True,False,True,Right-arm medium-fast,Right-hand bat

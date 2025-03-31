@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Tanzania,II Selemani,b2dadc51,1,47,29,4,3,162.07,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,4,89,0,16,105
-Tanzania,AJ Jabiri,90624d37,2,3,10,0,0,30.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-3,0,0,-3
-Tanzania,S Thakor,0848ac5f,3,2,2,0,0,100.0,"[8, 10, 12, 16]",4.0,24,11,0,23,0,1,1,1,0,1,1,5.75,0,0,0,0,0,2,48,0,50
-Tanzania,AP Rajeevan,63d6f031,4,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
-Tanzania,K Nassoro,29ee9bf9,5,12,21,0,0,57.14,"[11, 13]",2.0,12,4,0,22,3,1,0,0,0,0,0,11.0,0,0,0,0,-4,8,2,0,10
-Tanzania,MO Kitunda,badef0dc,6,39,26,3,2,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,67,0,0,67
-Tanzania,Akhil Anil,c06c25fd,7,2,4,0,0,50.0,"[7, 9, 15, 17]",4.0,24,10,0,31,3,1,3,0,1,0,1,7.75,0,0,0,0,0,2,97,0,99
-Tanzania,SA Jumbe,91056862,8,9,9,0,1,100.0,"[2, 4, 18, 20]",4.0,24,8,0,33,4,1,2,0,1,0,0,8.25,0,0,0,0,0,15,66,0,81
-Tanzania,M Yunusu Issa,bbab35a3,9,6,4,0,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20
-Tanzania,AM Kimote,34e36b65,10,23,12,1,1,191.67,"[6, 14, 19]",3.0,18,6,0,32,2,2,1,0,1,0,1,10.67,0,0,0,0,6,39,37,0,76
-Tanzania,AA Hussein,60ef3ddb,11,1,1,0,0,100.0,"[1, 3, 5]",3.0,18,7,0,27,4,0,1,0,0,0,2,9.0,0,0,0,0,0,1,32,0,33
-Uganda,RG Mukasa,011f6b42,1,89,62,13,2,143.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,167,0,0,167
-Uganda,S Sesazi,c2c975f9,2,9,6,2,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
-Uganda,E Hasahya,d3fcb126,3,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
-Uganda,K Waiswa,a3a275ec,4,12,7,1,0,171.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24
-Uganda,P Murungi,fbdc5ab1,5,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
-Uganda,J Miyaji,414d8a10,6,29,21,0,3,138.1,"[2, 4, 18, 20]",4.0,24,7,0,46,4,1,2,0,1,2,2,11.5,0,0,0,0,2,53,61,0,114
-Uganda,C Kyewuta,395695ce,7,1,2,0,0,50.0,"[1, 14, 17, 19]",4.0,24,10,0,37,1,3,1,0,1,1,1,9.25,0,0,0,0,0,1,43,0,44
-Uganda,B Masaba,f33cfd25,8,14,9,0,1,155.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,20,0,8,28
-Uganda,F Nsubuga,87e33d07,9,3,3,0,0,100.0,"[3, 5, 7, 16]",4.0,24,13,0,23,0,2,2,0,0,0,0,5.75,1,0,0,2,0,3,67,20,90
-Uganda,J Baguma,8b46fc4f,10,1,1,0,0,100.0,"[9, 11, 13, 15]",4.0,24,11,0,23,2,1,2,0,0,0,1,5.75,0,0,0,0,0,1,65,0,66
-Uganda,H Ssenyondo,2b7609f1,11,0,0,0,0,0.0,"[6, 8, 10, 12]",4.0,24,11,0,24,1,1,0,0,0,0,0,6.0,1,0,0,0,0,0,13,8,21
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Tanzania,II Selemani,b2dadc51,1,47,29,4,3,162.07,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,4,89,0,16,105,24,True,True,False,Right-arm offbreak,Right-hand bat
+Tanzania,AJ Jabiri,90624d37,2,3,10,0,0,30.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-3,0,0,-3,22,True,False,False,,Right-hand bat
+Tanzania,S Thakor,0848ac5f,3,2,2,0,0,100.0,"[8, 10, 12, 16]",4.0,24,11,0,23,0,1,1,1,0,1,1,5.75,0,0,0,0,0,2,48,0,50,34,True,True,False,Legbreak,Right-hand bat
+Tanzania,AP Rajeevan,63d6f031,4,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,27,True,False,False,,Right-hand bat
+Tanzania,K Nassoro,29ee9bf9,5,12,21,0,0,57.14,"[11, 13]",2.0,12,4,0,22,3,1,0,0,0,0,0,11.0,0,0,0,0,-4,8,2,0,10,36,True,True,False,Right-arm offbreak,Right-hand bat
+Tanzania,MO Kitunda,badef0dc,6,39,26,3,2,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,67,0,0,67,25,True,True,False,Right-arm bowler,Right-hand bat
+Tanzania,Akhil Anil,c06c25fd,7,2,4,0,0,50.0,"[7, 9, 15, 17]",4.0,24,10,0,31,3,1,3,0,1,0,1,7.75,0,0,0,0,0,2,97,0,99,27,True,True,False,Right-arm offbreak,Left-hand bat
+Tanzania,SA Jumbe,91056862,8,9,9,0,1,100.0,"[2, 4, 18, 20]",4.0,24,8,0,33,4,1,2,0,1,0,0,8.25,0,0,0,0,0,15,66,0,81,27,True,True,False,Right-arm medium-fast,Left-hand bat
+Tanzania,M Yunusu Issa,bbab35a3,9,6,4,0,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20,23,True,True,False,Right-arm medium,Right-hand bat
+Tanzania,AM Kimote,34e36b65,10,23,12,1,1,191.67,"[6, 14, 19]",3.0,18,6,0,32,2,2,1,0,1,0,1,10.67,0,0,0,0,6,39,37,0,76,32,True,True,False,Right-arm medium,Right-hand bat
+Tanzania,AA Hussein,60ef3ddb,11,1,1,0,0,100.0,"[1, 3, 5]",3.0,18,7,0,27,4,0,1,0,0,0,2,9.0,0,0,0,0,0,1,32,0,33,22,True,True,False,Left-arm medium-fast,Right-hand bat
+Uganda,RG Mukasa,011f6b42,1,89,62,13,2,143.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,167,0,0,167,35,True,False,False,Right-arm offbreak,Right-hand bat
+Uganda,S Sesazi,c2c975f9,2,9,6,2,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,28,True,True,False,Right-arm slow,Left-hand bat
+Uganda,E Hasahya,d3fcb126,3,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,28,True,True,False,Right-arm offbreak,Right-hand bat
+Uganda,K Waiswa,a3a275ec,4,12,7,1,0,171.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24,26,True,False,True,Right-arm medium,Right-hand bat
+Uganda,P Murungi,fbdc5ab1,5,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,20,True,True,False,Right-arm medium,Right-hand bat
+Uganda,J Miyaji,414d8a10,6,29,21,0,3,138.1,"[2, 4, 18, 20]",4.0,24,7,0,46,4,1,2,0,1,2,2,11.5,0,0,0,0,2,53,61,0,114,21,True,False,False,Right-arm medium-fast,Right-hand bat
+Uganda,C Kyewuta,395695ce,7,1,2,0,0,50.0,"[1, 14, 17, 19]",4.0,24,10,0,37,1,3,1,0,1,1,1,9.25,0,0,0,0,0,1,43,0,44,23,True,False,False,Right-arm medium,Right-hand bat
+Uganda,B Masaba,f33cfd25,8,14,9,0,1,155.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,20,0,8,28,33,True,False,False,Legbreak googly,Right-hand bat
+Uganda,F Nsubuga,87e33d07,9,3,3,0,0,100.0,"[3, 5, 7, 16]",4.0,24,13,0,23,0,2,2,0,0,0,0,5.75,1,0,0,2,0,3,67,20,90,44,True,False,True,Right-arm offbreak,Right-hand bat
+Uganda,J Baguma,8b46fc4f,10,1,1,0,0,100.0,"[9, 11, 13, 15]",4.0,24,11,0,23,2,1,2,0,0,0,1,5.75,0,0,0,0,0,1,65,0,66,19,True,True,False,Right-arm offbreak,Right-hand bat
+Uganda,H Ssenyondo,2b7609f1,11,0,0,0,0,0.0,"[6, 8, 10, 12]",4.0,24,11,0,24,1,1,0,0,0,0,0,6.0,1,0,0,0,0,0,13,8,21,31,True,False,False,Slow left-arm orthodox,Right-hand bat

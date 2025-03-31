@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Madhya Pradesh,NV Ojha,890946a0,1,4,3,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
-Madhya Pradesh,RM Patidar,c740ea83,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Madhya Pradesh,Anshul Tripathi,65ff7036,3,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Madhya Pradesh,Parth Sahani,239f7526,4,49,44,4,2,111.36,"[6, 9]",2.0,12,0,0,29,5,0,0,0,0,0,0,14.5,2,0,0,0,0,81,-6,16,91
-Madhya Pradesh,Abhishek Bhandari,18953b31,5,30,34,3,0,88.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,46,0,0,46
-Madhya Pradesh,VR Iyer,a24be938,6,23,18,4,0,127.78,[7],1.0,6,1,0,13,1,1,0,0,0,0,0,13.0,0,0,0,0,0,39,1,0,40
-Madhya Pradesh,Sohraab Dhaliwal,564714f5,7,10,6,0,1,166.67,[5],1.0,6,4,0,8,2,0,0,0,0,0,0,8.0,0,0,0,0,0,16,4,0,20
-Madhya Pradesh,Salman Baig,75253312,8,5,3,1,0,166.67,[11],1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,0,9,1,0,10
-Madhya Pradesh,Mihir Hirwani,49bacd0f,9,8,6,0,1,133.33,"[8, 10, 15, 17]",3.833,23,10,0,23,3,0,1,0,0,0,0,6.0,0,0,0,0,0,14,37,0,51
-Madhya Pradesh,IC Pandey,e0407c01,10,1,3,0,0,33.33,"[1, 3, 12, 14]",4.0,24,10,0,26,3,0,2,0,0,0,0,6.5,0,0,0,0,0,1,62,0,63
-Madhya Pradesh,Avesh Khan,eef2536f,11,0,0,0,0,0.0,"[2, 4, 13, 16]",4.0,24,12,0,29,5,0,1,0,1,0,0,7.25,0,0,0,0,0,0,45,0,45
-Saurashtra,H Desai,9c86350f,1,56,36,9,1,155.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,4,110,0,12,122
-Saurashtra,CA Pujara,d4f9dbd4,2,68,46,11,0,147.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,122,0,0,122
-Saurashtra,RV Uthappa,1c17e270,3,4,6,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
-Saurashtra,SP Jackson,acc1aeda,4,4,5,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16
-Saurashtra,Arpit Vasavada,2bbab579,5,4,6,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12
-Saurashtra,C Sakariya,2cdce1be,6,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,10,0,38,6,1,4,1,2,0,1,9.5,1,0,0,0,0,0,142,8,150
-Saurashtra,PN Mankad,663b5e34,6,3,2,0,0,150.0,"[4, 6, 13, 15]",4.0,24,8,0,18,1,0,2,0,0,0,1,4.5,2,0,0,0,0,3,64,16,83
-Saurashtra,JD Unadkat,1e66c162,7,0,0,0,0,0.0,"[2, 5, 18, 20]",4.0,24,16,0,19,2,1,3,1,0,0,0,4.75,0,0,0,0,0,0,109,0,109
-Saurashtra,Dharmendrasinh Jadeja,d330f9b9,8,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,3,0,29,1,2,0,0,0,0,0,9.67,0,0,0,0,0,0,3,0,3
-Saurashtra,Yuvraj Chudasama,20666746,9,0,0,0,0,0.0,"[8, 10]",2.0,12,3,0,18,3,0,0,0,0,0,1,9.0,0,0,0,0,0,0,3,0,3
-Saurashtra,Chirag Jani,783e6111,10,0,0,0,0,0.0,"[12, 14, 16]",3.0,18,6,0,12,0,0,0,0,0,0,0,4.0,0,0,0,0,0,0,12,0,12
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Madhya Pradesh,NV Ojha,890946a0,1,4,3,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,41,True,False,False,,Right-hand bat
+Madhya Pradesh,RM Patidar,c740ea83,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,31,True,False,False,Right-arm offbreak,Right-hand bat
+Madhya Pradesh,Anshul Tripathi,65ff7036,3,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,34,True,True,False,Legbreak googly,Right-hand bat
+Madhya Pradesh,Parth Sahani,239f7526,4,49,44,4,2,111.36,"[6, 9]",2.0,12,0,0,29,5,0,0,0,0,0,0,14.5,2,0,0,0,0,81,-6,16,91,32,True,False,True,Slow left-arm orthodox,Left-hand bat
+Madhya Pradesh,Abhishek Bhandari,18953b31,5,30,34,3,0,88.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,46,0,0,46,30,True,False,False,,Right-hand bat
+Madhya Pradesh,VR Iyer,a24be938,6,23,18,4,0,127.78,[7],1.0,6,1,0,13,1,1,0,0,0,0,0,13.0,0,0,0,0,0,39,1,0,40,30,True,False,True,Right-arm medium,Left-hand bat
+Madhya Pradesh,Sohraab Dhaliwal,564714f5,7,10,6,0,1,166.67,[5],1.0,6,4,0,8,2,0,0,0,0,0,0,8.0,0,0,0,0,0,16,4,0,20,33,True,True,False,Slow left-arm orthodox,Right-hand bat
+Madhya Pradesh,Salman Baig,75253312,8,5,3,1,0,166.67,[11],1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,0,9,1,0,10,35,True,True,False,Right-arm medium,Right-hand bat
+Madhya Pradesh,Mihir Hirwani,49bacd0f,9,8,6,0,1,133.33,"[8, 10, 15, 17]",3.833,23,10,0,23,3,0,1,0,0,0,0,6.0,0,0,0,0,0,14,37,0,51,30,True,True,False,Legbreak googly,Right-hand bat
+Madhya Pradesh,IC Pandey,e0407c01,10,1,3,0,0,33.33,"[1, 3, 12, 14]",4.0,24,10,0,26,3,0,2,0,0,0,0,6.5,0,0,0,0,0,1,62,0,63,35,True,False,False,Right-arm medium,Right-hand bat
+Madhya Pradesh,Avesh Khan,eef2536f,11,0,0,0,0,0.0,"[2, 4, 13, 16]",4.0,24,12,0,29,5,0,1,0,1,0,0,7.25,0,0,0,0,0,0,45,0,45,28,True,False,False,Right-arm fast-medium,Right-hand bat
+Saurashtra,H Desai,9c86350f,1,56,36,9,1,155.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,4,110,0,12,122,25,True,False,False,,Right-hand bat
+Saurashtra,CA Pujara,d4f9dbd4,2,68,46,11,0,147.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,122,0,0,122,37,True,False,False,Legbreak,Right-hand bat
+Saurashtra,RV Uthappa,1c17e270,3,4,6,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,39,True,False,False,Right-arm medium,Right-hand bat
+Saurashtra,SP Jackson,acc1aeda,4,4,5,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16,38,True,True,False,Right-arm offbreak,Right-hand bat
+Saurashtra,Arpit Vasavada,2bbab579,5,4,6,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12,36,True,False,False,Slow left-arm orthodox,Left-hand bat
+Saurashtra,C Sakariya,2cdce1be,6,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,10,0,38,6,1,4,1,2,0,1,9.5,1,0,0,0,0,0,142,8,150,27,True,False,False,Left-arm medium-fast,Left-hand bat
+Saurashtra,PN Mankad,663b5e34,6,3,2,0,0,150.0,"[4, 6, 13, 15]",4.0,24,8,0,18,1,0,2,0,0,0,1,4.5,2,0,0,0,0,3,64,16,83,30,True,False,True,Right-arm medium,Right-hand bat
+Saurashtra,JD Unadkat,1e66c162,7,0,0,0,0,0.0,"[2, 5, 18, 20]",4.0,24,16,0,19,2,1,3,1,0,0,0,4.75,0,0,0,0,0,0,109,0,109,33,True,False,False,Left-arm medium,Right-hand bat
+Saurashtra,Dharmendrasinh Jadeja,d330f9b9,8,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,3,0,29,1,2,0,0,0,0,0,9.67,0,0,0,0,0,0,3,0,3,34,True,False,False,Slow left-arm orthodox,Left-hand bat
+Saurashtra,Yuvraj Chudasama,20666746,9,0,0,0,0,0.0,"[8, 10]",2.0,12,3,0,18,3,0,0,0,0,0,1,9.0,0,0,0,0,0,0,3,0,3,29,True,False,False,Legbreak,Left-hand bat
+Saurashtra,Chirag Jani,783e6111,10,0,0,0,0,0.0,"[12, 14, 16]",3.0,18,6,0,12,0,0,0,0,0,0,0,4.0,0,0,0,0,0,0,12,0,12,35,True,False,True,Right-arm medium,Right-hand bat

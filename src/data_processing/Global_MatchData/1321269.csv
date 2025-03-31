@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Romania,Taranjeet Singh,ec483176,1,26,16,2,2,162.5,"[12, 14, 16, 18]",4.0,24,12,0,17,0,0,4,0,2,0,1,4.25,0,0,0,0,4,54,142,0,196
-Romania,R Satheesan,1125ebe4,2,31,36,1,1,86.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,45,0,8,53
-Romania,S Nadigotla,b78b3ffd,3,1,3,0,0,33.33,"[7, 9]",2.333,14,4,0,13,0,0,0,0,0,0,1,5.57,0,0,0,0,0,1,8,0,9
-Romania,V Saini,0fa81719,4,0,3,0,0,0.0,"[11, 13, 15, 17]",4.0,24,10,0,20,1,0,0,0,0,0,3,5.0,1,0,0,0,0,-2,14,8,20
-Romania,Rohit Kumar,43462314,5,7,10,0,0,70.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,-2,5,0,6,11
-Romania,S Periyalwar,d207e4fb,6,35,33,5,0,106.06,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,59,0,6,65
-Romania,Gaurav Mishra,507dd87f,7,3,5,0,0,60.0,"[1, 3, 5]",3.0,18,8,0,17,1,0,0,0,0,0,1,5.67,1,0,0,0,0,3,12,8,23
-Romania,Ijaz Hussain,dc1dd6c4,8,24,14,3,0,171.43,"[6, 8, 10]",3.0,18,8,0,14,1,0,1,0,1,0,0,4.67,0,0,0,0,6,42,47,0,89
-Romania,L Gharasim,18f4d808,9,0,0,0,0,0.0,[20],0.667,4,1,0,6,0,0,0,0,0,2,0,9.0,0,0,0,0,0,0,1,0,1
-Romania,S Vashisht,20ac8219,10,0,0,0,0,0.0,"[2, 4]",2.0,12,9,0,5,1,0,1,0,0,0,1,2.5,0,0,0,0,0,0,40,0,40
-Romania,M Gherasim,692d4cbe,11,0,0,0,0,0.0,[19],1.0,6,1,0,5,0,0,0,0,0,0,0,5.0,0,0,0,0,0,0,1,0,1
-Serbia,WAE Burton,b0358c6d,1,9,8,2,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
-Serbia,A Dizija,6483c062,2,18,24,1,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
-Serbia,S Ivetic,04ab1575,3,27,38,0,0,71.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,31,0,16,47
-Serbia,LA Dunbar,f50433e9,4,5,10,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,1,0,8,9
-Serbia,MV Pavlovic,2809b390,5,10,19,0,0,52.63,"[6, 8, 10]",3.0,18,7,0,14,0,0,0,0,0,0,1,4.67,0,0,0,0,-4,6,13,0,19
-Serbia,A Mene-Ejegi,e4f13acd,6,8,8,1,0,100.0,"[2, 4, 20]",3.0,18,6,0,31,4,1,0,0,0,0,1,10.33,0,0,0,0,0,12,4,0,16
-Serbia,RL Vitas,869f61bc,7,7,8,0,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,7,0,0,7
-Serbia,V Zimonjic,7f784eb8,8,2,2,0,0,100.0,"[1, 3, 5, 7]",4.0,24,14,1,26,1,2,3,2,0,0,1,6.5,0,0,0,0,0,2,123,0,125
-Serbia,NR Johns-Wickberg,3924b2ee,9,2,3,0,0,66.67,"[12, 14, 16, 18]",4.0,24,8,0,26,3,0,1,0,0,0,0,6.5,1,0,0,0,0,2,35,8,45
-Serbia,M Sarenac,f5ba4611,9,0,0,0,0,0.0,"[9, 11]",2.0,12,5,0,10,0,0,1,0,0,0,2,5.0,0,0,0,0,0,0,34,0,34
-Serbia,AA Gajic,a768a762,10,0,0,0,0,0.0,"[13, 15, 17, 19]",4.0,24,10,0,25,3,0,1,0,0,0,0,6.25,0,0,0,0,0,0,37,0,37
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Romania,Taranjeet Singh,ec483176,1,26,16,2,2,162.5,"[12, 14, 16, 18]",4.0,24,12,0,17,0,0,4,0,2,0,1,4.25,0,0,0,0,4,54,142,0,196,39,True,True,False,Right-arm offbreak,Right-hand bat
+Romania,R Satheesan,1125ebe4,2,31,36,1,1,86.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,45,0,8,53,43,True,True,False,Right-arm offbreak,Right-hand bat
+Romania,S Nadigotla,b78b3ffd,3,1,3,0,0,33.33,"[7, 9]",2.333,14,4,0,13,0,0,0,0,0,0,1,5.57,0,0,0,0,0,1,8,0,9,36,True,True,False,Right-arm offbreak,Right-hand bat
+Romania,V Saini,0fa81719,4,0,3,0,0,0.0,"[11, 13, 15, 17]",4.0,24,10,0,20,1,0,0,0,0,0,3,5.0,1,0,0,0,0,-2,14,8,20,35,True,True,False,Right-arm medium,Right-hand bat
+Romania,Rohit Kumar,43462314,5,7,10,0,0,70.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,-2,5,0,6,11,35,True,False,False,,Left-hand bat
+Romania,S Periyalwar,d207e4fb,6,35,33,5,0,106.06,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,59,0,6,65,27,True,True,False,Right-arm medium-fast,Right-hand bat
+Romania,Gaurav Mishra,507dd87f,7,3,5,0,0,60.0,"[1, 3, 5]",3.0,18,8,0,17,1,0,0,0,0,0,1,5.67,1,0,0,0,0,3,12,8,23,33,True,True,False,Right-arm medium-fast,Right-hand bat
+Romania,Ijaz Hussain,dc1dd6c4,8,24,14,3,0,171.43,"[6, 8, 10]",3.0,18,8,0,14,1,0,1,0,1,0,0,4.67,0,0,0,0,6,42,47,0,89,31,True,True,False,Right-arm medium-fast,Right-hand bat
+Romania,L Gharasim,18f4d808,9,0,0,0,0,0.0,[20],0.667,4,1,0,6,0,0,0,0,0,2,0,9.0,0,0,0,0,0,0,1,0,1,21,True,True,False,Right-arm medium-fast,Right-hand bat
+Romania,S Vashisht,20ac8219,10,0,0,0,0,0.0,"[2, 4]",2.0,12,9,0,5,1,0,1,0,0,0,1,2.5,0,0,0,0,0,0,40,0,40,36,True,True,False,Right-arm medium-fast,Right-hand bat
+Romania,M Gherasim,692d4cbe,11,0,0,0,0,0.0,[19],1.0,6,1,0,5,0,0,0,0,0,0,0,5.0,0,0,0,0,0,0,1,0,1,18,True,True,False,Right-arm medium,Right-hand bat
+Serbia,WAE Burton,b0358c6d,1,9,8,2,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,33,True,True,False,Right-arm medium-fast,Right-hand bat
+Serbia,A Dizija,6483c062,2,18,24,1,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,33,True,True,False,Right-arm offbreak,Right-hand bat
+Serbia,S Ivetic,04ab1575,3,27,38,0,0,71.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,31,0,16,47,33,True,True,False,Right-arm medium-fast,Right-hand bat
+Serbia,LA Dunbar,f50433e9,4,5,10,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,1,0,8,9,35,True,False,False,,Right-hand bat
+Serbia,MV Pavlovic,2809b390,5,10,19,0,0,52.63,"[6, 8, 10]",3.0,18,7,0,14,0,0,0,0,0,0,1,4.67,0,0,0,0,-4,6,13,0,19,41,True,True,False,Right-arm medium-fast,Right-hand bat
+Serbia,A Mene-Ejegi,e4f13acd,6,8,8,1,0,100.0,"[2, 4, 20]",3.0,18,6,0,31,4,1,0,0,0,0,1,10.33,0,0,0,0,0,12,4,0,16,34,True,True,False,Right-arm medium,Right-hand bat
+Serbia,RL Vitas,869f61bc,7,7,8,0,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,7,0,0,7,44,True,True,False,Right-arm offbreak,Right-hand bat
+Serbia,V Zimonjic,7f784eb8,8,2,2,0,0,100.0,"[1, 3, 5, 7]",4.0,24,14,1,26,1,2,3,2,0,0,1,6.5,0,0,0,0,0,2,123,0,125,20,True,False,False,Right-arm medium-fast,Right-hand bat
+Serbia,NR Johns-Wickberg,3924b2ee,9,2,3,0,0,66.67,"[12, 14, 16, 18]",4.0,24,8,0,26,3,0,1,0,0,0,0,6.5,1,0,0,0,0,2,35,8,45,35,True,True,False,Right-arm medium-fast,Right-hand bat
+Serbia,M Sarenac,f5ba4611,9,0,0,0,0,0.0,"[9, 11]",2.0,12,5,0,10,0,0,1,0,0,0,2,5.0,0,0,0,0,0,0,34,0,34,21,True,True,False,Right-arm medium,Right-hand bat
+Serbia,AA Gajic,a768a762,10,0,0,0,0,0.0,"[13, 15, 17, 19]",4.0,24,10,0,25,3,0,1,0,0,0,0,6.25,0,0,0,0,0,0,37,0,37,36,True,True,False,Right-arm medium-fast,Right-hand bat

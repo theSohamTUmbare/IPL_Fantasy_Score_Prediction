@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Knights,SC van Schalkwyk,97b0e4ff,1,49,35,6,1,140.0,"[7, 11, 13, 20]",3.333,20,8,0,25,2,1,0,0,0,0,0,7.5,1,0,0,0,2,85,8,8,101
-Knights,AGS Gous,d1305df0,2,9,9,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
-Knights,PE Kruger,39181592,3,2,5,0,0,40.0,"[15, 17]",2.0,12,4,0,14,1,0,1,0,0,0,3,7.0,2,0,0,0,0,2,31,16,49
-Knights,R van Tonder,0ba03cec,4,35,30,2,1,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,53,0,0,53
-Knights,PJ van Biljon,4025c262,5,11,9,0,1,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
-Knights,TG Mokoena,0827b38d,6,5,6,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
-Knights,OEG Baartman,6b9eb501,6,0,0,0,0,0.0,"[1, 3, 5, 18]",4.0,24,13,0,18,1,1,1,0,0,0,1,4.5,0,0,0,0,0,0,44,0,44
-Knights,R McLaren,c654af19,7,17,15,1,0,113.33,"[10, 14, 16]",3.0,18,4,0,25,2,0,0,0,0,0,2,8.33,0,0,0,0,0,21,4,0,25
-Knights,G Coetzee,3204c99f,8,1,4,0,0,25.0,"[2, 4, 12, 19]",4.0,24,11,0,26,3,0,2,0,0,0,1,6.5,0,0,0,0,0,1,63,0,64
-Knights,T Ntuli,8e6827f7,9,6,7,1,0,85.71,[9],1.0,6,0,0,14,2,0,0,0,0,0,2,14.0,0,0,0,0,0,10,0,0,10
-Knights,L Adam,195c459b,10,0,0,0,0,0.0,"[6, 8]",2.0,12,3,0,25,3,1,0,0,0,0,0,12.5,0,0,0,0,0,0,-3,0,-3
-Titans,T de Zorzi,d3a1c63d,1,8,13,0,0,61.54,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,-2,6,0,14,20
-Titans,RA Herman,9c821d2e,2,7,8,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,11,0,16,27
-Titans,GM Thomson,b06d95da,3,0,4,0,0,0.0,[17],1.0,6,3,0,3,0,0,1,0,0,0,0,3.0,0,0,0,0,0,-2,28,0,26
-Titans,TB de Bruyn,90d6cdea,4,45,37,5,1,121.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,75,0,0,75
-Titans,H Davids,9c9f8dbc,5,47,36,6,0,130.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,77,0,0,77
-Titans,F Behardien,dce2019b,6,31,18,2,2,172.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,61,0,8,69
-Titans,S von Berg,ffd3fc37,6,0,0,0,0,0.0,"[8, 10, 15]",3.0,18,3,0,28,0,2,1,0,0,0,1,9.33,0,0,0,0,0,0,28,0,28
-Titans,CJ Dala,1cb14aa4,7,0,0,0,0,0.0,"[7, 13, 16, 18]",4.0,24,7,0,27,3,0,1,0,0,0,2,6.75,1,0,0,0,0,0,34,8,42
-Titans,G Mahlokwana,d92d8446,8,0,0,0,0,0.0,"[2, 4, 6, 12]",4.0,24,8,0,25,3,0,2,0,1,0,0,6.25,0,0,0,0,0,0,68,0,68
-Titans,M Arnold,c64b1e43,9,0,0,0,0,0.0,"[1, 3, 5, 19]",4.0,24,10,0,23,3,0,1,0,0,0,0,5.75,0,0,0,0,0,0,39,0,39
-Titans,TL Moreki,36ea17c1,10,0,0,0,0,0.0,"[9, 11, 14, 20]",4.0,24,8,0,39,2,1,0,0,0,2,5,9.75,0,0,1,1,0,0,8,18,26
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Knights,SC van Schalkwyk,97b0e4ff,1,49,35,6,1,140.0,"[7, 11, 13, 20]",3.333,20,8,0,25,2,1,0,0,0,0,0,7.5,1,0,0,0,2,85,8,8,101,36,True,False,True,Right-arm medium,Left-hand bat
+Knights,AGS Gous,d1305df0,2,9,9,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21,31,True,False,False,,Right-hand bat
+Knights,PE Kruger,39181592,3,2,5,0,0,40.0,"[15, 17]",2.0,12,4,0,14,1,0,1,0,0,0,3,7.0,2,0,0,0,0,2,31,16,49,30,True,False,True,Right-arm medium,Right-hand bat
+Knights,R van Tonder,0ba03cec,4,35,30,2,1,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,53,0,0,53,26,True,False,False,,Right-hand bat
+Knights,PJ van Biljon,4025c262,5,11,9,0,1,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,38,True,True,False,Right-arm medium,Right-hand bat
+Knights,TG Mokoena,0827b38d,6,5,6,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,37,True,False,False,Left-arm fast-medium,Right-hand bat
+Knights,OEG Baartman,6b9eb501,6,0,0,0,0,0.0,"[1, 3, 5, 18]",4.0,24,13,0,18,1,1,1,0,0,0,1,4.5,0,0,0,0,0,0,44,0,44,32,True,False,False,Right-arm medium-fast,Right-hand bat
+Knights,R McLaren,c654af19,7,17,15,1,0,113.33,"[10, 14, 16]",3.0,18,4,0,25,2,0,0,0,0,0,2,8.33,0,0,0,0,0,21,4,0,25,42,True,False,True,Right-arm medium-fast,Left-hand bat
+Knights,G Coetzee,3204c99f,8,1,4,0,0,25.0,"[2, 4, 12, 19]",4.0,24,11,0,26,3,0,2,0,0,0,1,6.5,0,0,0,0,0,1,63,0,64,24,True,False,False,Right-arm fast,Right-hand bat
+Knights,T Ntuli,8e6827f7,9,6,7,1,0,85.71,[9],1.0,6,0,0,14,2,0,0,0,0,0,2,14.0,0,0,0,0,0,10,0,0,10,29,True,True,False,Right-arm offbreak,Right-hand bat
+Knights,L Adam,195c459b,10,0,0,0,0,0.0,"[6, 8]",2.0,12,3,0,25,3,1,0,0,0,0,0,12.5,0,0,0,0,0,0,-3,0,-3,32,True,True,False,Slow left-arm orthodox,Left-hand bat
+Titans,T de Zorzi,d3a1c63d,1,8,13,0,0,61.54,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,-2,6,0,14,20,27,True,False,False,Right-arm offbreak,Left-hand bat
+Titans,RA Herman,9c821d2e,2,7,8,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,11,0,16,27,28,True,False,False,,Left-hand bat
+Titans,GM Thomson,b06d95da,3,0,4,0,0,0.0,[17],1.0,6,3,0,3,0,0,1,0,0,0,0,3.0,0,0,0,0,0,-2,28,0,26,37,True,True,False,Right-arm medium-fast,Right-hand bat
+Titans,TB de Bruyn,90d6cdea,4,45,37,5,1,121.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,75,0,0,75,32,True,False,False,Right-arm medium-fast,Right-hand bat
+Titans,H Davids,9c9f8dbc,5,47,36,6,0,130.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,77,0,0,77,45,True,False,False,Right-arm medium-fast,Right-hand bat
+Titans,F Behardien,dce2019b,6,31,18,2,2,172.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,61,0,8,69,41,True,False,True,Right-arm fast-medium,Right-hand bat
+Titans,S von Berg,ffd3fc37,6,0,0,0,0,0.0,"[8, 10, 15]",3.0,18,3,0,28,0,2,1,0,0,0,1,9.33,0,0,0,0,0,0,28,0,28,38,True,False,True,Legbreak,Right-hand bat
+Titans,CJ Dala,1cb14aa4,7,0,0,0,0,0.0,"[7, 13, 16, 18]",4.0,24,7,0,27,3,0,1,0,0,0,2,6.75,1,0,0,0,0,0,34,8,42,35,True,False,False,Right-arm medium,Right-hand bat
+Titans,G Mahlokwana,d92d8446,8,0,0,0,0,0.0,"[2, 4, 6, 12]",4.0,24,8,0,25,3,0,2,0,1,0,0,6.25,0,0,0,0,0,0,68,0,68,30,True,True,False,Slow left-arm orthodox,Left-hand bat
+Titans,M Arnold,c64b1e43,9,0,0,0,0,0.0,"[1, 3, 5, 19]",4.0,24,10,0,23,3,0,1,0,0,0,0,5.75,0,0,0,0,0,0,39,0,39,36,True,True,False,Right-arm fast-medium,Left-hand bat
+Titans,TL Moreki,36ea17c1,10,0,0,0,0,0.0,"[9, 11, 14, 20]",4.0,24,8,0,39,2,1,0,0,0,2,5,9.75,0,0,1,1,0,0,8,18,26,31,True,False,False,Right-arm fast-medium,Right-hand bat

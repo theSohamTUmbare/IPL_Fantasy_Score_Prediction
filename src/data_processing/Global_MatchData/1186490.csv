@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Maldives,Umar Adam,5d77a96a,1,15,14,2,0,107.14,"[15, 17, 19]",3.0,18,9,0,17,1,1,3,0,1,0,0,5.67,0,0,0,0,0,23,100,0,123
-Maldives,Ahmed Hassan,7c885103,2,21,31,1,0,67.74,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,23,0,0,23
-Maldives,Shafraz Jaleel,0f88e2dc,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Maldives,Mohamed Rishwan,7d15170b,4,6,7,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
-Maldives,MNR Cooray,a9ddd37d,5,40,34,3,2,117.65,"[7, 9, 11, 13]",4.0,24,9,0,25,1,1,0,0,0,0,1,6.25,0,0,0,0,0,68,11,0,79
-Maldives,Mohamed Mahfooz,44f5a3e4,6,6,10,0,0,60.0,"[10, 12, 14, 16]",4.0,24,10,0,20,0,1,2,0,1,0,0,5.0,0,0,0,0,-2,4,72,0,76
-Maldives,Hassan Rasheed,1ca51098,7,13,10,0,1,130.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,21,0,0,21
-Maldives,Ibrahim Hassan,4add4c98,8,5,8,0,0,62.5,"[1, 3, 18, 20]",4.0,24,11,0,26,2,1,0,0,0,0,1,6.5,1,0,0,0,0,5,13,8,26
-Maldives,WJ Malinda,8f5313ce,9,10,5,0,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,16,0,16,32
-Maldives,S Saeed,25ef10a2,10,0,0,0,0,0.0,"[2, 4, 6, 8]",4.0,24,13,0,24,4,0,1,0,0,0,0,6.0,0,0,0,0,0,0,40,0,40
-Maldives,CA Liyanage,eea27fb2,10,0,0,0,0,0.0,[5],1.0,6,0,0,14,1,1,0,0,0,0,0,14.0,0,0,0,0,0,0,0,0,0
-Thailand,DF Jacobs,de896b79,1,20,30,2,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,26,0,0,26
-Thailand,Md Shafiqul Haque,27128c74,2,30,16,3,2,187.5,"[15, 17, 20]",3.0,18,4,0,25,0,2,1,0,0,0,0,8.33,0,1,0,0,6,64,29,12,105
-Thailand,HJ Jordaan,b8f10b60,3,4,9,0,0,44.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
-Thailand,N Pathan,25bc2d36,4,34,31,1,2,109.68,"[4, 6, 16]",3.0,18,6,0,28,5,0,1,0,0,0,1,9.33,0,0,0,0,0,54,31,0,85
-Thailand,NA Janes,7044cd2e,5,9,10,1,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
-Thailand,Anowarul Islam,39431db7,6,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,1,0,16,17
-Thailand,Z Hoque,68f500c8,7,14,8,1,1,175.0,"[7, 9, 11, 13]",4.0,24,14,0,14,0,0,1,0,0,0,0,3.5,1,0,0,0,0,24,45,8,77
-Thailand,C Pengkumta,b3540b2a,8,5,8,0,0,62.5,[2],1.0,6,3,0,12,1,0,0,0,0,0,4,12.0,0,0,0,0,0,5,3,0,8
-Thailand,S Hongsi,1d50ed62,9,7,5,1,0,140.0,[14],1.0,6,2,0,15,0,1,1,0,0,0,6,15.0,0,0,0,0,0,11,27,0,38
-Thailand,Vichanath Singh,dfa6db1a,10,0,0,0,0,0.0,"[8, 10, 12, 18]",4.0,24,14,0,15,0,1,1,0,0,0,0,3.75,1,0,0,0,0,0,45,8,53
-Thailand,M Faheem,7fc8bb18,11,0,0,0,0,0.0,"[1, 3, 5, 19]",4.0,24,13,0,20,1,0,2,1,0,1,1,5.0,1,0,0,0,0,0,75,8,83
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Maldives,Umar Adam,5d77a96a,1,15,14,2,0,107.14,"[15, 17, 19]",3.0,18,9,0,17,1,1,3,0,1,0,0,5.67,0,0,0,0,0,23,100,0,123,27,True,True,False,Right-arm offbreak,Right-hand bat
+Maldives,Ahmed Hassan,7c885103,2,21,31,1,0,67.74,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,23,0,0,23,35,True,True,False,Right-arm offbreak,Right-hand bat
+Maldives,Shafraz Jaleel,0f88e2dc,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,37,True,False,False,,Right-hand bat
+Maldives,Mohamed Rishwan,7d15170b,4,6,7,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,31,True,False,False,,Right-hand bat
+Maldives,MNR Cooray,a9ddd37d,5,40,34,3,2,117.65,"[7, 9, 11, 13]",4.0,24,9,0,25,1,1,0,0,0,0,1,6.25,0,0,0,0,0,68,11,0,79,47,True,True,False,Legbreak,Right-hand bat
+Maldives,Mohamed Mahfooz,44f5a3e4,6,6,10,0,0,60.0,"[10, 12, 14, 16]",4.0,24,10,0,20,0,1,2,0,1,0,0,5.0,0,0,0,0,-2,4,72,0,76,37,True,True,False,Slow left-arm orthodox,Right-hand bat
+Maldives,Hassan Rasheed,1ca51098,7,13,10,0,1,130.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,21,0,0,21,32,True,False,False,,Right-hand bat
+Maldives,Ibrahim Hassan,4add4c98,8,5,8,0,0,62.5,"[1, 3, 18, 20]",4.0,24,11,0,26,2,1,0,0,0,0,1,6.5,1,0,0,0,0,5,13,8,26,33,True,True,False,Right-arm medium,Right-hand bat
+Maldives,WJ Malinda,8f5313ce,9,10,5,0,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,16,0,16,32,33,True,True,False,Right-arm medium,Left-hand bat
+Maldives,S Saeed,25ef10a2,10,0,0,0,0,0.0,"[2, 4, 6, 8]",4.0,24,13,0,24,4,0,1,0,0,0,0,6.0,0,0,0,0,0,0,40,0,40,29,True,False,False,Right-arm offbreak,Right-hand bat
+Maldives,CA Liyanage,eea27fb2,10,0,0,0,0,0.0,[5],1.0,6,0,0,14,1,1,0,0,0,0,0,14.0,0,0,0,0,0,0,0,0,0,43,True,True,False,Right-arm medium,Left-hand bat
+Thailand,DF Jacobs,de896b79,1,20,30,2,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,26,0,0,26,42,True,True,False,Legbreak googly,Left-hand bat
+Thailand,Md Shafiqul Haque,27128c74,2,30,16,3,2,187.5,"[15, 17, 20]",3.0,18,4,0,25,0,2,1,0,0,0,0,8.33,0,1,0,0,6,64,29,12,105,38,True,True,False,Right-arm offbreak,Right-hand bat
+Thailand,HJ Jordaan,b8f10b60,3,4,9,0,0,44.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,36,True,True,False,Right-arm medium,Right-hand bat
+Thailand,N Pathan,25bc2d36,4,34,31,1,2,109.68,"[4, 6, 16]",3.0,18,6,0,28,5,0,1,0,0,0,1,9.33,0,0,0,0,0,54,31,0,85,42,True,True,False,Right-arm medium,Right-hand bat
+Thailand,NA Janes,7044cd2e,5,9,10,1,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,36,True,True,False,Right-arm medium-fast,Right-hand bat
+Thailand,Anowarul Islam,39431db7,6,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,1,0,16,17,39,True,False,False,,
+Thailand,Z Hoque,68f500c8,7,14,8,1,1,175.0,"[7, 9, 11, 13]",4.0,24,14,0,14,0,0,1,0,0,0,0,3.5,1,0,0,0,0,24,45,8,77,38,True,True,False,Right-arm medium-fast,Right-hand bat
+Thailand,C Pengkumta,b3540b2a,8,5,8,0,0,62.5,[2],1.0,6,3,0,12,1,0,0,0,0,0,4,12.0,0,0,0,0,0,5,3,0,8,27,True,False,True,Right-arm medium,Right-hand bat
+Thailand,S Hongsi,1d50ed62,9,7,5,1,0,140.0,[14],1.0,6,2,0,15,0,1,1,0,0,0,6,15.0,0,0,0,0,0,11,27,0,38,30,True,True,False,Right-arm medium,Right-hand bat
+Thailand,Vichanath Singh,dfa6db1a,10,0,0,0,0,0.0,"[8, 10, 12, 18]",4.0,24,14,0,15,0,1,1,0,0,0,0,3.75,1,0,0,0,0,0,45,8,53,33,True,True,False,Slow left-arm orthodox,Left-hand bat
+Thailand,M Faheem,7fc8bb18,11,0,0,0,0,0.0,"[1, 3, 5, 19]",4.0,24,13,0,20,1,0,2,1,0,1,1,5.0,1,0,0,0,0,0,75,8,83,32,True,False,False,,

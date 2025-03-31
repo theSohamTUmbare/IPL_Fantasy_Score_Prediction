@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Austria,I Asif,663ad386,1,17,22,2,0,77.27,"[8, 10, 12, 14]",4.0,24,7,0,26,2,0,1,0,0,0,2,6.5,1,0,0,0,0,25,34,8,67
-Austria,Karanbir Singh,6a97c7a4,2,51,31,3,4,164.52,"[16, 18]",2.0,12,1,0,14,0,0,1,0,0,0,0,7.0,1,0,0,0,4,99,28,8,135
-Austria,Bilal Zalmai,33b67317,3,27,18,4,1,150.0,"[7, 9, 11, 13]",4.0,24,11,0,24,2,1,1,0,0,0,0,6.0,0,0,0,0,0,53,38,0,91
-Austria,Aqib Iqbal,14157abf,4,16,8,1,1,200.0,"[1, 3, 5, 20]",4.0,24,11,0,21,2,0,1,1,0,0,0,5.25,0,0,0,0,0,26,48,0,74
-Austria,A Randhawa,1798078c,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Austria,Abrar Bilal,6ddaee2d,5,13,11,1,0,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,0,0,0,17,0,28,45
-Austria,Amar Naeem,f9dc404a,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Austria,Abdullah Akbarjan,5de198db,7,0,0,0,0,0.0,"[15, 17, 19]",3.0,18,9,0,11,0,0,4,1,0,0,0,3.67,0,0,1,0,0,0,131,12,143
-Austria,Baseer Khan,75ebfe19,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Austria,Waqar Zalmai,74571ec4,9,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,7,0,26,3,1,0,0,0,0,0,8.67,0,0,0,0,0,0,7,0,7
-Austria,Zeshan Arif,6829b373,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Portugal,J Vijay,709525fc,1,42,35,4,2,120.0,"[12, 14]",2.0,12,1,0,31,0,3,0,0,0,0,2,15.5,0,0,0,0,0,74,-5,0,69
-Portugal,Azhar Andani,b5bd99da,2,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
-Portugal,Suman Ghimire,7d990412,3,53,43,5,0,123.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,81,0,8,89
-Portugal,ARA Chambers,8db27a28,4,2,8,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Portugal,Najjam Shahzad,58aa33cd,5,4,9,0,0,44.44,"[5, 7]",2.0,12,3,0,16,2,0,0,0,0,0,0,8.0,1,0,0,0,0,4,3,8,15
-Portugal,Amandeep Singh,d0d32c30,6,4,3,0,0,133.33,"[2, 4, 6, 8]",4.0,24,15,0,16,2,0,1,0,0,0,0,4.0,0,0,0,0,0,4,46,0,50
-Portugal,Amir Zaib,973006cc,7,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Portugal,F Stoman,69e53eb3,8,8,8,0,0,100.0,[9],1.0,6,2,0,16,2,1,0,0,0,0,1,16.0,0,0,0,0,0,8,2,0,10
-Portugal,JAM Henri,04df9697,9,0,1,0,0,0.0,"[1, 3]",2.0,12,7,0,16,2,1,0,0,0,0,0,8.0,0,0,0,0,0,0,7,0,7
-Portugal,Sirajullah Khadim,ff36e706,10,0,2,0,0,0.0,[10],1.0,6,4,0,7,0,1,0,0,0,0,0,7.0,0,0,0,0,0,-2,4,0,2
-Portugal,Syed Maisam Ali,e204b898,11,5,4,0,0,125.0,"[11, 13, 15]",3.0,18,4,0,25,3,0,2,0,0,0,0,8.33,0,0,0,0,0,5,54,0,59
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Austria,I Asif,663ad386,1,17,22,2,0,77.27,"[8, 10, 12, 14]",4.0,24,7,0,26,2,0,1,0,0,0,2,6.5,1,0,0,0,0,25,34,8,67,34,True,True,False,Right-arm medium,Right-hand bat
+Austria,Karanbir Singh,6a97c7a4,2,51,31,3,4,164.52,"[16, 18]",2.0,12,1,0,14,0,0,1,0,0,0,0,7.0,1,0,0,0,4,99,28,8,135,29,True,True,False,Right-arm medium,Right-hand bat
+Austria,Bilal Zalmai,33b67317,3,27,18,4,1,150.0,"[7, 9, 11, 13]",4.0,24,11,0,24,2,1,1,0,0,0,0,6.0,0,0,0,0,0,53,38,0,91,36,True,True,False,Right-arm offbreak,Right-hand bat
+Austria,Aqib Iqbal,14157abf,4,16,8,1,1,200.0,"[1, 3, 5, 20]",4.0,24,11,0,21,2,0,1,1,0,0,0,5.25,0,0,0,0,0,26,48,0,74,27,True,True,False,Right-arm medium,Right-hand bat
+Austria,A Randhawa,1798078c,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,30,True,False,False,,
+Austria,Abrar Bilal,6ddaee2d,5,13,11,1,0,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,0,0,0,17,0,28,45,39,True,False,False,,Right-hand bat
+Austria,Amar Naeem,f9dc404a,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,45,True,False,False,,Right-hand bat
+Austria,Abdullah Akbarjan,5de198db,7,0,0,0,0,0.0,"[15, 17, 19]",3.0,18,9,0,11,0,0,4,1,0,0,0,3.67,0,0,1,0,0,0,131,12,143,35,True,True,False,Slow left-arm orthodox,Left-hand bat
+Austria,Baseer Khan,75ebfe19,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,28,True,True,False,Right-arm medium,Right-hand bat
+Austria,Waqar Zalmai,74571ec4,9,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,7,0,26,3,1,0,0,0,0,0,8.67,0,0,0,0,0,0,7,0,7,37,True,True,False,Right-arm medium,Right-hand bat
+Austria,Zeshan Arif,6829b373,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,27,True,True,False,Legbreak,Right-hand bat
+Portugal,J Vijay,709525fc,1,42,35,4,2,120.0,"[12, 14]",2.0,12,1,0,31,0,3,0,0,0,0,2,15.5,0,0,0,0,0,74,-5,0,69,33,True,True,False,Right-arm medium,Right-hand bat
+Portugal,Azhar Andani,b5bd99da,2,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,31,True,True,False,Right-arm medium-fast,Right-hand bat
+Portugal,Suman Ghimire,7d990412,3,53,43,5,0,123.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,81,0,8,89,26,True,True,False,Right-arm offbreak,Right-hand bat
+Portugal,ARA Chambers,8db27a28,4,2,8,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Portugal,Najjam Shahzad,58aa33cd,5,4,9,0,0,44.44,"[5, 7]",2.0,12,3,0,16,2,0,0,0,0,0,0,8.0,1,0,0,0,0,4,3,8,15,37,True,False,False,,
+Portugal,Amandeep Singh,d0d32c30,6,4,3,0,0,133.33,"[2, 4, 6, 8]",4.0,24,15,0,16,2,0,1,0,0,0,0,4.0,0,0,0,0,0,4,46,0,50,29,True,False,True,Right-arm offbreak,Right-hand bat
+Portugal,Amir Zaib,973006cc,7,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,44,True,True,False,Right-arm medium-fast,Right-hand bat
+Portugal,F Stoman,69e53eb3,8,8,8,0,0,100.0,[9],1.0,6,2,0,16,2,1,0,0,0,0,1,16.0,0,0,0,0,0,8,2,0,10,25,True,False,False,,
+Portugal,JAM Henri,04df9697,9,0,1,0,0,0.0,"[1, 3]",2.0,12,7,0,16,2,1,0,0,0,0,0,8.0,0,0,0,0,0,0,7,0,7,28,True,True,False,Right-arm medium,Right-hand bat
+Portugal,Sirajullah Khadim,ff36e706,10,0,2,0,0,0.0,[10],1.0,6,4,0,7,0,1,0,0,0,0,0,7.0,0,0,0,0,0,-2,4,0,2,36,True,True,False,Slow left-arm orthodox,Left-hand bat
+Portugal,Syed Maisam Ali,e204b898,11,5,4,0,0,125.0,"[11, 13, 15]",3.0,18,4,0,25,3,0,2,0,0,0,0,8.33,0,0,0,0,0,5,54,0,59,30,True,True,False,Right-arm medium,Right-hand bat

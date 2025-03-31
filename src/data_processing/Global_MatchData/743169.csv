@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Barbados Tridents,DR Smith,35205dfc,1,4,3,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
-Barbados Tridents,SO Dowrich,dc2f959a,2,9,9,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
-Barbados Tridents,JO Holder,0f721006,3,48,30,5,2,160.0,"[6, 8, 11]",3.0,18,6,0,25,2,1,0,0,0,0,0,8.33,1,0,0,0,4,88,6,8,102
-Barbados Tridents,Shoaib Malik,64c34cd0,4,22,21,2,0,104.76,"[10, 12, 14]",3.0,18,9,0,16,1,0,1,0,0,0,2,5.33,0,0,0,0,0,30,38,0,68
-Barbados Tridents,ND McKenzie,a830c083,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Barbados Tridents,BMAJ Mendis,9868bc75,6,13,17,1,0,76.47,[13],1.0,6,2,0,9,0,1,0,0,0,0,0,9.0,0,0,0,0,0,17,2,0,19
-Barbados Tridents,KA Pollard,a757b0d8,7,37,22,2,3,168.18,"[16, 18, 20]",3.0,18,7,0,30,0,3,2,1,0,0,2,10.0,0,0,0,0,4,71,63,0,134
-Barbados Tridents,KR Mayers,73c18486,8,13,13,0,1,100.0,"[1, 3, 5, 17]",4.0,24,11,0,39,2,3,2,1,1,0,1,9.75,0,0,0,0,0,19,77,0,96
-Barbados Tridents,AJ Hosein,4d7f517e,9,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Barbados Tridents,RR Emrit,e7de4f6b,9,0,0,0,0,0.0,"[7, 9]",2.0,12,6,0,14,1,1,0,0,0,0,0,7.0,0,0,0,0,0,0,8,0,8
-Barbados Tridents,R Rampaul,d68e7f48,10,0,0,0,0,0.0,"[2, 4, 15, 19]",4.0,24,12,0,33,5,1,1,0,0,0,1,8.25,1,0,0,0,0,0,37,8,45
-St Lucia Zouks,J Charles,09a9d073,1,50,40,4,3,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,92,0,8,100
-St Lucia Zouks,H Davids,9c9f8dbc,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-St Lucia Zouks,ADS Fletcher,1bae756b,3,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,2,0,16,18
-St Lucia Zouks,K Lesporis,fb496f7a,4,4,3,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
-St Lucia Zouks,LAS Sebastien,a8333aa9,5,33,39,4,0,84.62,"[8, 10, 12, 14]",4.0,24,8,0,22,1,0,0,0,0,0,2,5.5,0,0,0,0,0,53,12,0,65
-St Lucia Zouks,DJG Sammy,c03c6200,6,6,5,1,0,120.0,"[3, 7]",2.0,12,1,0,19,3,0,0,0,0,0,0,9.5,0,0,0,0,0,10,1,0,11
-St Lucia Zouks,Sohail Tanvir,64d43928,7,50,19,0,6,263.16,"[2, 6, 16, 20]",3.667,22,9,0,30,3,1,1,0,0,0,2,8.18,0,0,0,0,6,100,34,0,134
-St Lucia Zouks,RE van der Merwe,05c2ca46,8,0,1,0,0,0.0,"[11, 13]",2.0,12,7,0,9,1,0,1,0,0,0,0,4.5,0,0,0,0,0,-2,38,0,36
-St Lucia Zouks,ROO Jordan,416881d1,9,0,0,0,0,0.0,"[5, 9, 17, 19]",4.0,24,6,0,39,0,4,3,1,1,0,1,9.75,0,0,0,0,0,0,101,0,101
-St Lucia Zouks,TA Willett,6b07c151,9,15,9,1,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
-St Lucia Zouks,TL Best,db767b89,10,0,0,0,0,0.0,"[1, 4, 15, 18]",4.0,24,8,0,42,4,1,2,1,0,0,10,10.5,0,0,0,0,0,0,64,0,64
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Barbados Tridents,DR Smith,35205dfc,1,4,3,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,41,True,False,True,Right-arm medium,Right-hand bat
+Barbados Tridents,SO Dowrich,dc2f959a,2,9,9,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21,33,True,False,False,,Right-hand bat
+Barbados Tridents,JO Holder,0f721006,3,48,30,5,2,160.0,"[6, 8, 11]",3.0,18,6,0,25,2,1,0,0,0,0,0,8.33,1,0,0,0,4,88,6,8,102,33,True,False,True,Right-arm medium-fast,Right-hand bat
+Barbados Tridents,Shoaib Malik,64c34cd0,4,22,21,2,0,104.76,"[10, 12, 14]",3.0,18,9,0,16,1,0,1,0,0,0,2,5.33,0,0,0,0,0,30,38,0,68,43,True,False,True,Right-arm offbreak,Right-hand bat
+Barbados Tridents,ND McKenzie,a830c083,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,49,True,False,False,Right-arm medium,Right-hand bat
+Barbados Tridents,BMAJ Mendis,9868bc75,6,13,17,1,0,76.47,[13],1.0,6,2,0,9,0,1,0,0,0,0,0,9.0,0,0,0,0,0,17,2,0,19,42,True,False,True,Legbreak,Left-hand bat
+Barbados Tridents,KA Pollard,a757b0d8,7,37,22,2,3,168.18,"[16, 18, 20]",3.0,18,7,0,30,0,3,2,1,0,0,2,10.0,0,0,0,0,4,71,63,0,134,37,True,False,True,Right-arm medium,Right-hand bat
+Barbados Tridents,KR Mayers,73c18486,8,13,13,0,1,100.0,"[1, 3, 5, 17]",4.0,24,11,0,39,2,3,2,1,1,0,1,9.75,0,0,0,0,0,19,77,0,96,32,True,False,True,Right-arm medium,Left-hand bat
+Barbados Tridents,AJ Hosein,4d7f517e,9,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+Barbados Tridents,RR Emrit,e7de4f6b,9,0,0,0,0,0.0,"[7, 9]",2.0,12,6,0,14,1,1,0,0,0,0,0,7.0,0,0,0,0,0,0,8,0,8,44,True,False,True,Right-arm medium-fast,Right-hand bat
+Barbados Tridents,R Rampaul,d68e7f48,10,0,0,0,0,0.0,"[2, 4, 15, 19]",4.0,24,12,0,33,5,1,1,0,0,0,1,8.25,1,0,0,0,0,0,37,8,45,40,True,False,False,Right-arm fast-medium,Left-hand bat
+St Lucia Zouks,J Charles,09a9d073,1,50,40,4,3,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,92,0,8,100,36,True,False,False,,Right-hand bat
+St Lucia Zouks,H Davids,9c9f8dbc,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,45,True,False,False,Right-arm medium-fast,Right-hand bat
+St Lucia Zouks,ADS Fletcher,1bae756b,3,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,2,0,16,18,37,True,False,False,Legbreak,Right-hand bat
+St Lucia Zouks,K Lesporis,fb496f7a,4,4,3,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,36,True,False,False,Right-arm offbreak,Right-hand bat
+St Lucia Zouks,LAS Sebastien,a8333aa9,5,33,39,4,0,84.62,"[8, 10, 12, 14]",4.0,24,8,0,22,1,0,0,0,0,0,2,5.5,0,0,0,0,0,53,12,0,65,40,True,False,True,Right-arm offbreak,Left-hand bat
+St Lucia Zouks,DJG Sammy,c03c6200,6,6,5,1,0,120.0,"[3, 7]",2.0,12,1,0,19,3,0,0,0,0,0,0,9.5,0,0,0,0,0,10,1,0,11,41,True,False,True,Right-arm medium,Right-hand bat
+St Lucia Zouks,Sohail Tanvir,64d43928,7,50,19,0,6,263.16,"[2, 6, 16, 20]",3.667,22,9,0,30,3,1,1,0,0,0,2,8.18,0,0,0,0,6,100,34,0,134,40,True,False,False,Left-arm medium-fast,Left-hand bat
+St Lucia Zouks,RE van der Merwe,05c2ca46,8,0,1,0,0,0.0,"[11, 13]",2.0,12,7,0,9,1,0,1,0,0,0,0,4.5,0,0,0,0,0,-2,38,0,36,40,True,False,True,Slow left-arm orthodox,Right-hand bat
+St Lucia Zouks,ROO Jordan,416881d1,9,0,0,0,0,0.0,"[5, 9, 17, 19]",4.0,24,6,0,39,0,4,3,1,1,0,1,9.75,0,0,0,0,0,0,101,0,101,30,True,True,False,Right-arm fast-medium,Right-hand bat
+St Lucia Zouks,TA Willett,6b07c151,9,15,9,1,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,42,True,False,True,Right-arm medium-fast,Right-hand bat
+St Lucia Zouks,TL Best,db767b89,10,0,0,0,0,0.0,"[1, 4, 15, 18]",4.0,24,8,0,42,4,1,2,1,0,0,10,10.5,0,0,0,0,0,0,64,0,64,43,True,False,False,Right-arm fast,Right-hand bat

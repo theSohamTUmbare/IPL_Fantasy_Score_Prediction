@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Hong Kong,Anshuman Rath,552b228c,1,10,15,1,0,66.67,"[9, 13]",2.0,12,1,0,28,4,1,0,0,0,0,0,14.0,1,0,0,0,-2,12,-5,8,15
-Hong Kong,KD Shah,d5ae21a2,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Hong Kong,Babar Hayat,fbb657bb,3,54,45,8,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,94,0,8,102
-Hong Kong,MS Chapman,7fa12533,4,29,17,3,1,170.59,"[4, 10, 12, 14]",4.0,24,11,0,24,1,1,1,0,0,0,1,6.0,0,0,0,0,6,57,38,0,95
-Hong Kong,Nizakat Khan,e3eb9e46,5,28,18,1,2,155.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,52,0,8,60
-Hong Kong,Nadeem Ahmed,023f6b02,6,0,0,0,0,0.0,"[1, 3, 11, 16]",4.0,24,11,0,17,1,0,1,0,0,0,0,4.25,0,0,0,0,0,0,42,0,42
-Hong Kong,Tanwir Afzal,5f5ca1a7,6,7,7,1,0,100.0,"[2, 7]",2.0,12,4,0,20,2,1,1,0,0,0,0,10.0,0,0,0,0,0,11,27,0,38
-Hong Kong,Aizaz Khan,f6c2659d,7,2,4,0,0,50.0,"[5, 15, 17, 19]",3.5,21,5,0,35,4,1,1,0,1,0,1,10.0,0,0,0,0,0,2,36,0,38
-Hong Kong,Haseeb Amjad,fb0abc20,7,0,0,0,0,0.0,"[6, 8, 18]",3.0,18,6,0,16,2,0,0,0,0,0,0,5.33,0,0,0,0,0,0,10,0,10
-Hong Kong,Waqas Khan,35971419,8,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Hong Kong,C Carter,1e25b5bf,9,6,7,0,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6
-United Arab Emirates,Rohan Mustafa,d1988788,1,10,6,1,1,166.67,"[4, 9, 11, 20]",4.0,24,6,0,35,5,0,0,0,0,0,1,8.75,0,0,0,0,0,20,6,0,26
-United Arab Emirates,Muhammad Kaleem,ff86a0e1,2,4,8,1,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
-United Arab Emirates,Mohammad Shahzad,4c7df2c8,3,52,39,4,1,133.33,[8],1.0,6,0,0,14,1,1,0,0,0,0,0,14.0,0,0,0,0,2,84,0,0,84
-United Arab Emirates,Muhammad Usman,45642393,4,41,39,6,0,105.13,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,69,0,0,69
-United Arab Emirates,Shaiman Anwar,e9630504,5,25,18,2,1,138.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,45,0,8,53
-United Arab Emirates,Saqlain Haider,c020cef5,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-United Arab Emirates,Amjad Javed,18eaf2fa,6,6,1,0,1,600.0,"[5, 7, 15, 18]",4.0,24,8,0,21,1,0,2,1,1,0,0,5.25,0,0,0,0,0,12,78,0,90
-United Arab Emirates,SP Patil,f5c198fb,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-United Arab Emirates,Farhan Ahmed,927694f7,8,0,0,0,0,0.0,"[2, 6, 13, 16]",4.0,24,7,0,29,3,0,1,0,0,0,0,7.25,0,0,0,0,0,0,32,0,32
-United Arab Emirates,Ahmed Raza,79b4839e,9,0,0,0,0,0.0,"[10, 12, 14]",3.0,18,8,0,28,3,2,1,0,0,0,0,9.33,0,0,0,0,0,0,33,0,33
-United Arab Emirates,Mohammad Naveed,4861d29b,10,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,13,0,14,1,0,3,0,3,0,2,3.5,0,0,0,0,0,0,122,0,122
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Hong Kong,Anshuman Rath,552b228c,1,10,15,1,0,66.67,"[9, 13]",2.0,12,1,0,28,4,1,0,0,0,0,0,14.0,1,0,0,0,-2,12,-5,8,15,27,True,False,False,Slow left-arm orthodox,Left-hand bat
+Hong Kong,KD Shah,d5ae21a2,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,29,True,False,False,Right-arm offbreak,Left-hand bat
+Hong Kong,Babar Hayat,fbb657bb,3,54,45,8,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,94,0,8,102,33,True,False,False,Right-arm medium,Right-hand bat
+Hong Kong,MS Chapman,7fa12533,4,29,17,3,1,170.59,"[4, 10, 12, 14]",4.0,24,11,0,24,1,1,1,0,0,0,1,6.0,0,0,0,0,6,57,38,0,95,30,True,False,True,Slow left-arm orthodox,Left-hand bat
+Hong Kong,Nizakat Khan,e3eb9e46,5,28,18,1,2,155.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,52,0,8,60,32,True,False,True,Legbreak,Right-hand bat
+Hong Kong,Nadeem Ahmed,023f6b02,6,0,0,0,0,0.0,"[1, 3, 11, 16]",4.0,24,11,0,17,1,0,1,0,0,0,0,4.25,0,0,0,0,0,0,42,0,42,37,True,False,False,Slow left-arm orthodox,Right-hand bat
+Hong Kong,Tanwir Afzal,5f5ca1a7,6,7,7,1,0,100.0,"[2, 7]",2.0,12,4,0,20,2,1,1,0,0,0,0,10.0,0,0,0,0,0,11,27,0,38,36,True,False,True,Right-arm fast-medium,Right-hand bat
+Hong Kong,Aizaz Khan,f6c2659d,7,2,4,0,0,50.0,"[5, 15, 17, 19]",3.5,21,5,0,35,4,1,1,0,1,0,1,10.0,0,0,0,0,0,2,36,0,38,32,True,False,True,Right-arm medium-fast,Right-hand bat
+Hong Kong,Haseeb Amjad,fb0abc20,7,0,0,0,0,0.0,"[6, 8, 18]",3.0,18,6,0,16,2,0,0,0,0,0,0,5.33,0,0,0,0,0,0,10,0,10,37,True,False,False,Right-arm medium-fast,Right-hand bat
+Hong Kong,Waqas Khan,35971419,8,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,26,True,False,False,Right-arm medium-fast,Right-hand bat
+Hong Kong,C Carter,1e25b5bf,9,6,7,0,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6,27,True,False,False,,Right-hand bat
+United Arab Emirates,Rohan Mustafa,d1988788,1,10,6,1,1,166.67,"[4, 9, 11, 20]",4.0,24,6,0,35,5,0,0,0,0,0,1,8.75,0,0,0,0,0,20,6,0,26,36,True,False,False,Right-arm offbreak,Left-hand bat
+United Arab Emirates,Muhammad Kaleem,ff86a0e1,2,4,8,1,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,39,True,False,False,Right-arm medium-fast,Right-hand bat
+United Arab Emirates,Mohammad Shahzad,4c7df2c8,3,52,39,4,1,133.33,[8],1.0,6,0,0,14,1,1,0,0,0,0,0,14.0,0,0,0,0,2,84,0,0,84,45,True,False,True,Right-arm medium-fast,Right-hand bat
+United Arab Emirates,Muhammad Usman,45642393,4,41,39,6,0,105.13,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,69,0,0,69,39,True,False,False,,Left-hand bat
+United Arab Emirates,Shaiman Anwar,e9630504,5,25,18,2,1,138.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,45,0,8,53,46,True,False,False,Legbreak googly,Right-hand bat
+United Arab Emirates,Saqlain Haider,c020cef5,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,37,True,False,False,,Left-hand bat
+United Arab Emirates,Amjad Javed,18eaf2fa,6,6,1,0,1,600.0,"[5, 7, 15, 18]",4.0,24,8,0,21,1,0,2,1,1,0,0,5.25,0,0,0,0,0,12,78,0,90,44,True,False,True,Right-arm medium,Right-hand bat
+United Arab Emirates,SP Patil,f5c198fb,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,39,True,False,False,,Right-hand bat
+United Arab Emirates,Farhan Ahmed,927694f7,8,0,0,0,0,0.0,"[2, 6, 13, 16]",4.0,24,7,0,29,3,0,1,0,0,0,0,7.25,0,0,0,0,0,0,32,0,32,36,True,False,False,Slow left-arm orthodox,Right-hand bat
+United Arab Emirates,Ahmed Raza,79b4839e,9,0,0,0,0,0.0,"[10, 12, 14]",3.0,18,8,0,28,3,2,1,0,0,0,0,9.33,0,0,0,0,0,0,33,0,33,36,True,False,False,Slow left-arm orthodox,Right-hand bat
+United Arab Emirates,Mohammad Naveed,4861d29b,10,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,13,0,14,1,0,3,0,3,0,2,3.5,0,0,0,0,0,0,122,0,122,37,True,False,False,Right-arm medium,Right-hand bat

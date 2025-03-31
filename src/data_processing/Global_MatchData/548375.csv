@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Kolkata Knight Riders,BB McCullum,b8a55852,1,41,43,5,0,95.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,2,0,0,0,65,0,24,89
-Kolkata Knight Riders,G Gambhir,bb345e0b,2,10,12,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
-Kolkata Knight Riders,JH Kallis,86dc8f2e,3,13,17,1,0,76.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,17,0,8,25
-Kolkata Knight Riders,Shakib Al Hasan,7dc35884,4,42,30,3,2,140.0,"[2, 4, 11, 16]",4.0,24,11,0,18,0,1,2,1,0,0,0,4.5,0,0,0,0,2,72,75,0,147
-Kolkata Knight Riders,MK Tiwary,26e5cabf,5,8,9,0,0,88.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16
-Kolkata Knight Riders,YK Pathan,3c6ffae8,6,15,9,2,0,166.67,"[8, 10]",2.0,12,3,0,12,0,0,2,0,1,0,1,6.0,0,0,0,0,0,23,63,0,86
-Kolkata Knight Riders,DB Das,7050a1e7,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Kolkata Knight Riders,R Bhatia,33a364a6,11,0,0,0,0,0.0,"[13, 15, 17]",3.0,18,5,0,14,0,0,1,0,0,0,0,4.67,0,0,0,0,0,0,36,0,36
-Kolkata Knight Riders,Iqbal Abdulla,85aae393,12,0,0,0,0,0.0,"[3, 5, 12]",3.0,18,7,0,20,0,1,1,0,0,0,3,6.67,0,0,0,0,0,0,34,0,34
-Kolkata Knight Riders,SP Narine,9d430b40,13,0,0,0,0,0.0,"[6, 14, 18, 20]",4.0,24,12,0,15,0,0,1,0,0,0,0,3.75,1,0,0,0,0,0,43,8,51
-Kolkata Knight Riders,L Balaji,b2b50355,14,0,0,0,0,0.0,"[1, 7, 9, 19]",4.0,24,9,0,20,1,0,1,0,0,0,3,5.0,0,0,0,0,0,0,38,0,38
-Pune Warriors,RV Uthappa,1c17e270,1,8,8,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
-Pune Warriors,JD Ryder,91ffa6c6,2,22,24,0,2,91.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,34,0,8,42
-Pune Warriors,MJ Clarke,f842c2cf,3,13,18,0,0,72.22,"[7, 9, 11, 13]",4.0,24,7,0,27,0,2,1,0,1,0,0,6.75,0,0,0,0,0,13,42,0,55
-Pune Warriors,SC Ganguly,725529bc,4,5,8,0,0,62.5,"[8, 14]",2.0,12,3,0,17,2,0,0,0,0,1,0,8.5,0,0,0,0,0,5,3,0,8
-Pune Warriors,AP Majumdar,f4cb4f53,5,17,22,0,0,77.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
-Pune Warriors,CJ Ferguson,9b4935c8,6,12,18,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,10,0,0,10
-Pune Warriors,Harpreet Singh,28c78fb3,7,6,6,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6
-Pune Warriors,WD Parnell,3a60e0b5,8,3,5,0,0,60.0,"[3, 5, 17, 20]",4.0,24,12,0,18,0,0,2,0,0,1,0,4.5,0,0,0,0,0,3,68,0,71
-Pune Warriors,B Kumar,2e81a32d,9,3,6,0,0,50.0,"[6, 10, 15, 18]",4.0,24,10,0,23,3,0,1,0,1,0,0,5.75,0,0,0,0,0,3,47,0,50
-Pune Warriors,AG Murtaza,ef5da05c,10,3,5,0,0,60.0,"[2, 4]",2.0,12,5,0,11,1,0,0,0,0,0,0,5.5,0,0,0,0,0,3,9,0,12
-Pune Warriors,A Nehra,96fd40ae,10,0,0,0,0,0.0,"[1, 12, 16, 19]",4.0,24,8,0,35,6,0,0,0,0,0,0,8.75,1,0,0,0,0,0,8,8,16
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Kolkata Knight Riders,BB McCullum,b8a55852,1,41,43,5,0,95.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,2,0,0,0,65,0,24,89,43,True,True,False,Right-arm offbreak,Right-hand bat
+Kolkata Knight Riders,G Gambhir,bb345e0b,2,10,12,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,43,True,False,False,Legbreak,Left-hand bat
+Kolkata Knight Riders,JH Kallis,86dc8f2e,3,13,17,1,0,76.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,17,0,8,25,49,True,False,True,Right-arm fast-medium,Right-hand bat
+Kolkata Knight Riders,Shakib Al Hasan,7dc35884,4,42,30,3,2,140.0,"[2, 4, 11, 16]",4.0,24,11,0,18,0,1,2,1,0,0,0,4.5,0,0,0,0,2,72,75,0,147,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Kolkata Knight Riders,MK Tiwary,26e5cabf,5,8,9,0,0,88.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16,39,True,False,False,Legbreak googly,Right-hand bat
+Kolkata Knight Riders,YK Pathan,3c6ffae8,6,15,9,2,0,166.67,"[8, 10]",2.0,12,3,0,12,0,0,2,0,1,0,1,6.0,0,0,0,0,0,23,63,0,86,42,True,False,True,Right-arm offbreak,Right-hand bat
+Kolkata Knight Riders,DB Das,7050a1e7,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,38,True,False,False,Legbreak googly,Right-hand bat
+Kolkata Knight Riders,R Bhatia,33a364a6,11,0,0,0,0,0.0,"[13, 15, 17]",3.0,18,5,0,14,0,0,1,0,0,0,0,4.67,0,0,0,0,0,0,36,0,36,45,True,False,True,Right-arm medium-fast,Right-hand bat
+Kolkata Knight Riders,Iqbal Abdulla,85aae393,12,0,0,0,0,0.0,"[3, 5, 12]",3.0,18,7,0,20,0,1,1,0,0,0,3,6.67,0,0,0,0,0,0,34,0,34,35,True,False,True,Slow left-arm orthodox,Left-hand bat
+Kolkata Knight Riders,SP Narine,9d430b40,13,0,0,0,0,0.0,"[6, 14, 18, 20]",4.0,24,12,0,15,0,0,1,0,0,0,0,3.75,1,0,0,0,0,0,43,8,51,36,True,False,True,Right-arm offbreak,Left-hand bat
+Kolkata Knight Riders,L Balaji,b2b50355,14,0,0,0,0,0.0,"[1, 7, 9, 19]",4.0,24,9,0,20,1,0,1,0,0,0,3,5.0,0,0,0,0,0,0,38,0,38,43,True,False,False,Right-arm medium-fast,Right-hand bat
+Pune Warriors,RV Uthappa,1c17e270,1,8,8,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,39,True,False,False,Right-arm medium,Right-hand bat
+Pune Warriors,JD Ryder,91ffa6c6,2,22,24,0,2,91.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,34,0,8,42,40,True,False,True,Right-arm medium,Left-hand bat
+Pune Warriors,MJ Clarke,f842c2cf,3,13,18,0,0,72.22,"[7, 9, 11, 13]",4.0,24,7,0,27,0,2,1,0,1,0,0,6.75,0,0,0,0,0,13,42,0,55,43,True,False,False,Slow left-arm orthodox,Right-hand bat
+Pune Warriors,SC Ganguly,725529bc,4,5,8,0,0,62.5,"[8, 14]",2.0,12,3,0,17,2,0,0,0,0,1,0,8.5,0,0,0,0,0,5,3,0,8,52,True,False,False,Right-arm medium,Left-hand bat
+Pune Warriors,AP Majumdar,f4cb4f53,5,17,22,0,0,77.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,40,True,True,False,Legbreak googly,Right-hand bat
+Pune Warriors,CJ Ferguson,9b4935c8,6,12,18,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,10,0,0,10,40,True,False,False,Right-arm medium,Right-hand bat
+Pune Warriors,Harpreet Singh,28c78fb3,7,6,6,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6,33,True,False,False,Right-arm medium,Left-hand bat
+Pune Warriors,WD Parnell,3a60e0b5,8,3,5,0,0,60.0,"[3, 5, 17, 20]",4.0,24,12,0,18,0,0,2,0,0,1,0,4.5,0,0,0,0,0,3,68,0,71,35,True,False,False,Left-arm medium-fast,Left-hand bat
+Pune Warriors,B Kumar,2e81a32d,9,3,6,0,0,50.0,"[6, 10, 15, 18]",4.0,24,10,0,23,3,0,1,0,1,0,0,5.75,0,0,0,0,0,3,47,0,50,35,True,False,False,Right-arm medium,Right-hand bat
+Pune Warriors,AG Murtaza,ef5da05c,10,3,5,0,0,60.0,"[2, 4]",2.0,12,5,0,11,1,0,0,0,0,0,0,5.5,0,0,0,0,0,3,9,0,12,35,True,False,False,Slow left-arm orthodox,Left-hand bat
+Pune Warriors,A Nehra,96fd40ae,10,0,0,0,0,0.0,"[1, 12, 16, 19]",4.0,24,8,0,35,6,0,0,0,0,0,0,8.75,1,0,0,0,0,0,8,8,16,45,True,False,False,Left-arm medium-fast,Right-hand bat

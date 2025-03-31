@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Worcestershire,MG Bracewell,e38bce7a,1,11,7,2,0,157.14,"[2, 8, 10, 15]",4.0,24,8,0,39,5,1,2,0,0,0,4,9.75,0,0,0,0,0,19,58,0,77
-Worcestershire,BL D'Oliveira,9679838c,2,47,31,6,1,151.61,"[12, 14]",2.0,12,2,0,21,2,1,0,0,0,0,0,10.5,2,0,0,0,4,85,0,16,101
-Worcestershire,JA Haynes,fe4ebca0,3,6,4,1,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
-Worcestershire,AJ Hose,104e88a4,4,11,5,1,1,220.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,21,0,8,29
-Worcestershire,MJ Santner,e4a0deae,5,27,21,3,0,128.57,"[7, 9, 13, 16]",4.0,24,7,0,40,4,2,1,0,0,0,1,10.0,0,0,0,0,0,43,30,0,73
-Worcestershire,Kashif Ali,f3b26fe4,6,48,27,4,3,177.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,92,0,0,92
-Worcestershire,OB Cox,324a6ee1,7,35,21,4,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,4,65,0,12,77
-Worcestershire,EJ Pollock,d6663a9a,8,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Worcestershire,AW Finch,fc63d916,9,1,3,0,0,33.33,"[3, 6, 17, 19]",4.0,24,7,0,45,5,2,0,0,0,0,3,11.25,0,0,0,0,0,1,3,0,4
-Worcestershire,DY Pennington,219cc59e,9,0,0,0,0,0.0,"[1, 4]",2.0,12,5,0,21,4,0,0,0,0,0,1,10.5,0,0,0,0,0,0,3,0,3
-Worcestershire,PR Brown,1efd12d1,10,0,0,0,0,0.0,"[5, 11, 18, 20]",4.0,24,4,0,56,7,2,0,0,0,0,0,14.0,0,0,0,0,0,0,-2,0,-2
-Yorkshire,A Lyth,70b8fd28,1,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
-Yorkshire,DJ Malan,ad9c32a2,2,79,48,9,4,164.58,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,155,0,0,155
-Yorkshire,JH Wharton,42a5c1c7,3,111,56,16,3,198.21,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,215,0,0,215
-Yorkshire,Shan Masood,6843a783,4,4,3,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16
-Yorkshire,D Wiese,aa8d28ae,5,15,7,1,1,214.29,"[1, 3, 16, 20]",4.0,24,7,0,40,4,2,1,0,0,0,0,10.0,0,0,0,0,0,25,30,0,55
-Yorkshire,JA Thompson,1d2f290a,6,2,1,0,0,200.0,"[5, 12, 17, 19]",4.0,24,10,0,34,5,1,4,0,0,0,0,8.5,0,0,0,0,0,2,118,0,120
-Yorkshire,ML Revis,28217d89,9,0,0,0,0,0.0,"[7, 11, 14]",3.0,18,6,0,35,2,2,1,0,0,2,0,11.67,1,0,0,0,0,0,27,8,35
-Yorkshire,JA Tattersall,793977d8,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Yorkshire,BWM Mike,ed12fcd7,11,0,0,0,0,0.0,"[4, 9, 18]",3.0,18,5,0,26,4,0,0,0,0,2,0,8.67,2,0,0,0,0,0,5,16,21
-Yorkshire,DM Bess,ad46c747,12,0,0,0,0,0.0,"[2, 6, 8, 10]",4.0,24,7,0,36,5,0,0,0,0,0,2,9.0,0,0,0,0,0,0,7,0,7
-Yorkshire,JA Chohan,58be5e46,13,0,0,0,0,0.0,"[13, 15]",2.0,12,2,0,21,1,1,0,0,0,0,0,10.5,0,0,0,0,0,0,0,0,0
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Worcestershire,MG Bracewell,e38bce7a,1,11,7,2,0,157.14,"[2, 8, 10, 15]",4.0,24,8,0,39,5,1,2,0,0,0,4,9.75,0,0,0,0,0,19,58,0,77,34,True,False,True,Right-arm offbreak,Left-hand bat
+Worcestershire,BL D'Oliveira,9679838c,2,47,31,6,1,151.61,"[12, 14]",2.0,12,2,0,21,2,1,0,0,0,0,0,10.5,2,0,0,0,4,85,0,16,101,33,True,False,True,Legbreak,Right-hand bat
+Worcestershire,JA Haynes,fe4ebca0,3,6,4,1,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,24,True,False,False,Right-arm offbreak,Right-hand bat
+Worcestershire,AJ Hose,104e88a4,4,11,5,1,1,220.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,21,0,8,29,32,True,False,False,Right-arm medium-fast,Right-hand bat
+Worcestershire,MJ Santner,e4a0deae,5,27,21,3,0,128.57,"[7, 9, 13, 16]",4.0,24,7,0,40,4,2,1,0,0,0,1,10.0,0,0,0,0,0,43,30,0,73,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+Worcestershire,Kashif Ali,f3b26fe4,6,48,27,4,3,177.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,92,0,0,92,27,True,False,False,Legbreak,Right-hand bat
+Worcestershire,OB Cox,324a6ee1,7,35,21,4,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,4,65,0,12,77,33,True,False,False,,Right-hand bat
+Worcestershire,EJ Pollock,d6663a9a,8,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,29,True,False,False,Right-arm offbreak,Left-hand bat
+Worcestershire,AW Finch,fc63d916,9,1,3,0,0,33.33,"[3, 6, 17, 19]",4.0,24,7,0,45,5,2,0,0,0,0,3,11.25,0,0,0,0,0,1,3,0,4,24,True,False,False,Right-arm fast-medium,Right-hand bat
+Worcestershire,DY Pennington,219cc59e,9,0,0,0,0,0.0,"[1, 4]",2.0,12,5,0,21,4,0,0,0,0,0,1,10.5,0,0,0,0,0,0,3,0,3,26,True,False,False,Right-arm medium-fast,Right-hand bat
+Worcestershire,PR Brown,1efd12d1,10,0,0,0,0,0.0,"[5, 11, 18, 20]",4.0,24,4,0,56,7,2,0,0,0,0,0,14.0,0,0,0,0,0,0,-2,0,-2,26,True,False,False,Right-arm fast-medium,Right-hand bat
+Yorkshire,A Lyth,70b8fd28,1,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,37,True,False,False,Right-arm offbreak,Left-hand bat
+Yorkshire,DJ Malan,ad9c32a2,2,79,48,9,4,164.58,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,155,0,0,155,37,True,False,False,Legbreak,Left-hand bat
+Yorkshire,JH Wharton,42a5c1c7,3,111,56,16,3,198.21,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,215,0,0,215,24,True,False,False,Right-arm offbreak,Right-hand bat
+Yorkshire,Shan Masood,6843a783,4,4,3,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16,35,True,False,False,Right-arm medium-fast,Left-hand bat
+Yorkshire,D Wiese,aa8d28ae,5,15,7,1,1,214.29,"[1, 3, 16, 20]",4.0,24,7,0,40,4,2,1,0,0,0,0,10.0,0,0,0,0,0,25,30,0,55,39,True,False,True,Right-arm medium-fast,Right-hand bat
+Yorkshire,JA Thompson,1d2f290a,6,2,1,0,0,200.0,"[5, 12, 17, 19]",4.0,24,10,0,34,5,1,4,0,0,0,0,8.5,0,0,0,0,0,2,118,0,120,28,True,False,True,Right-arm medium-fast,Left-hand bat
+Yorkshire,ML Revis,28217d89,9,0,0,0,0,0.0,"[7, 11, 14]",3.0,18,6,0,35,2,2,1,0,0,2,0,11.67,1,0,0,0,0,0,27,8,35,23,True,False,False,Right-arm medium-fast,Right-hand bat
+Yorkshire,JA Tattersall,793977d8,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,30,True,True,False,Legbreak,Right-hand bat
+Yorkshire,BWM Mike,ed12fcd7,11,0,0,0,0,0.0,"[4, 9, 18]",3.0,18,5,0,26,4,0,0,0,0,2,0,8.67,2,0,0,0,0,0,5,16,21,26,True,False,True,Right-arm medium-fast,Right-hand bat
+Yorkshire,DM Bess,ad46c747,12,0,0,0,0,0.0,"[2, 6, 8, 10]",4.0,24,7,0,36,5,0,0,0,0,0,2,9.0,0,0,0,0,0,0,7,0,7,27,True,False,True,Right-arm offbreak,Right-hand bat
+Yorkshire,JA Chohan,58be5e46,13,0,0,0,0,0.0,"[13, 15]",2.0,12,2,0,21,1,1,0,0,0,0,0,10.5,0,0,0,0,0,0,0,0,0,22,True,False,False,Legbreak googly,Right-hand bat

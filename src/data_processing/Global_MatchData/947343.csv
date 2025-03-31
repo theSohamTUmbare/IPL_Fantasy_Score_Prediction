@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Essex,NLJ Browne,81efec30,1,22,29,1,0,75.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,26,0,8,34
-Essex,JD Ryder,91ffa6c6,2,47,29,10,0,162.07,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,95,0,8,103
-Essex,T Westley,25a42048,3,8,10,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
-Essex,Ashar Zaidi,9bab2b81,4,6,2,0,1,300.0,[8],1.0,6,2,0,4,0,0,0,0,0,0,0,4.0,0,0,0,0,0,12,2,0,14
-Essex,RS Bopara,7ca5e05d,5,10,15,0,0,66.67,"[7, 11, 14, 16]",4.0,24,4,0,35,5,0,1,0,1,0,0,8.75,0,0,0,0,-2,8,37,0,45
-Essex,RN ten Doeschate,4ec07775,6,7,11,0,0,63.64,"[9, 13, 17, 19]",4.0,24,10,0,19,1,0,3,0,0,0,0,4.75,1,0,0,0,-2,5,95,8,108
-Essex,JS Foster,e68dd455,7,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
-Essex,DW Lawrence,4b685e2d,8,7,4,1,0,175.0,[1],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,0,11,2,0,13
-Essex,GR Napier,611926bc,9,0,2,0,0,0.0,"[5, 10, 18, 20]",4.0,24,12,0,20,2,0,2,0,1,0,1,5.0,1,0,0,0,0,-2,74,8,80
-Essex,PI Walter,57590dbb,10,8,4,0,1,200.0,"[3, 6, 12]",3.0,18,4,0,43,9,0,1,0,0,0,0,14.33,0,0,0,0,0,14,23,0,37
-Essex,DD Masters,61a9ce31,11,0,1,0,0,0.0,"[2, 4, 15]",3.0,18,4,0,31,4,1,0,0,0,0,0,10.33,1,0,0,0,0,0,2,8,10
-Nottinghamshire,MH Wessels,90f47cf2,1,36,29,5,0,124.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,60,0,28,88
-Nottinghamshire,MJ Lumb,11df3dc8,2,11,8,2,0,137.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
-Nottinghamshire,GP Smith,d86f6c69,3,50,33,7,1,151.52,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,96,0,0,96
-Nottinghamshire,DT Christian,2a2e6343,4,21,20,3,0,105.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33
-Nottinghamshire,SR Patel,18fac429,5,23,17,2,0,135.29,"[9, 11, 13, 16]",4.0,24,9,0,20,0,1,4,1,1,0,0,5.0,0,0,0,0,2,33,137,0,170
-Nottinghamshire,SJ Mullaney,0e0d43b4,6,5,5,1,0,100.0,"[8, 10, 14, 18]",4.0,24,14,0,16,0,1,2,0,0,0,0,4.0,0,0,1,0,0,9,70,12,91
-Nottinghamshire,CMW Read,be4cefab,7,12,6,2,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,20,0,16,36
-Nottinghamshire,L Wood,65b6943c,8,0,2,0,0,0.0,"[1, 3]",2.0,12,5,0,22,5,0,0,0,0,0,0,11.0,0,0,0,0,0,-2,3,0,1
-Nottinghamshire,JT Ball,3d0ed2f9,9,0,0,0,0,0.0,"[4, 12]",2.0,12,3,0,15,2,0,0,0,0,0,0,7.5,1,0,0,0,0,0,3,8,11
-Nottinghamshire,Imran Tahir,acee4cc4,11,0,0,0,0,0.0,"[5, 7, 15, 17]",4.0,24,9,0,24,2,0,1,0,0,0,1,6.0,1,0,0,0,0,0,36,8,44
-Nottinghamshire,HF Gurney,e412cb64,12,0,0,0,0,0.0,"[2, 6, 19]",2.667,16,5,0,25,3,0,2,0,0,2,0,9.37,0,0,0,0,0,0,55,0,55
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Essex,NLJ Browne,81efec30,1,22,29,1,0,75.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,26,0,8,34,34,True,False,False,Legbreak,Left-hand bat
+Essex,JD Ryder,91ffa6c6,2,47,29,10,0,162.07,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,95,0,8,103,40,True,False,True,Right-arm medium,Left-hand bat
+Essex,T Westley,25a42048,3,8,10,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,36,True,False,False,Right-arm offbreak,Right-hand bat
+Essex,Ashar Zaidi,9bab2b81,4,6,2,0,1,300.0,[8],1.0,6,2,0,4,0,0,0,0,0,0,0,4.0,0,0,0,0,0,12,2,0,14,43,True,False,True,Slow left-arm orthodox,Left-hand bat
+Essex,RS Bopara,7ca5e05d,5,10,15,0,0,66.67,"[7, 11, 14, 16]",4.0,24,4,0,35,5,0,1,0,1,0,0,8.75,0,0,0,0,-2,8,37,0,45,39,True,False,True,Right-arm medium,Right-hand bat
+Essex,RN ten Doeschate,4ec07775,6,7,11,0,0,63.64,"[9, 13, 17, 19]",4.0,24,10,0,19,1,0,3,0,0,0,0,4.75,1,0,0,0,-2,5,95,8,108,44,True,False,True,Right-arm medium-fast,Right-hand bat
+Essex,JS Foster,e68dd455,7,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,44,True,False,False,,Right-hand bat
+Essex,DW Lawrence,4b685e2d,8,7,4,1,0,175.0,[1],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,0,11,2,0,13,27,True,False,False,Right-arm offbreak,Right-hand bat
+Essex,GR Napier,611926bc,9,0,2,0,0,0.0,"[5, 10, 18, 20]",4.0,24,12,0,20,2,0,2,0,1,0,1,5.0,1,0,0,0,0,-2,74,8,80,45,True,False,True,Right-arm medium,Right-hand bat
+Essex,PI Walter,57590dbb,10,8,4,0,1,200.0,"[3, 6, 12]",3.0,18,4,0,43,9,0,1,0,0,0,0,14.33,0,0,0,0,0,14,23,0,37,30,True,False,True,Left-arm medium,Left-hand bat
+Essex,DD Masters,61a9ce31,11,0,1,0,0,0.0,"[2, 4, 15]",3.0,18,4,0,31,4,1,0,0,0,0,0,10.33,1,0,0,0,0,0,2,8,10,46,True,False,False,Right-arm medium-fast,Right-hand bat
+Nottinghamshire,MH Wessels,90f47cf2,1,36,29,5,0,124.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,60,0,28,88,39,True,False,False,,Right-hand bat
+Nottinghamshire,MJ Lumb,11df3dc8,2,11,8,2,0,137.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,45,True,False,False,Right-arm medium,Left-hand bat
+Nottinghamshire,GP Smith,d86f6c69,3,50,33,7,1,151.52,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,96,0,0,96,36,True,False,False,Legbreak,Right-hand bat
+Nottinghamshire,DT Christian,2a2e6343,4,21,20,3,0,105.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33,41,True,False,True,Right-arm fast-medium,Right-hand bat
+Nottinghamshire,SR Patel,18fac429,5,23,17,2,0,135.29,"[9, 11, 13, 16]",4.0,24,9,0,20,0,1,4,1,1,0,0,5.0,0,0,0,0,2,33,137,0,170,40,True,False,True,Slow left-arm orthodox,Right-hand bat
+Nottinghamshire,SJ Mullaney,0e0d43b4,6,5,5,1,0,100.0,"[8, 10, 14, 18]",4.0,24,14,0,16,0,1,2,0,0,0,0,4.0,0,0,1,0,0,9,70,12,91,38,True,False,True,Right-arm medium,Right-hand bat
+Nottinghamshire,CMW Read,be4cefab,7,12,6,2,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,20,0,16,36,46,True,False,False,,Right-hand bat
+Nottinghamshire,L Wood,65b6943c,8,0,2,0,0,0.0,"[1, 3]",2.0,12,5,0,22,5,0,0,0,0,0,0,11.0,0,0,0,0,0,-2,3,0,1,29,True,False,False,Left-arm fast-medium,Left-hand bat
+Nottinghamshire,JT Ball,3d0ed2f9,9,0,0,0,0,0.0,"[4, 12]",2.0,12,3,0,15,2,0,0,0,0,0,0,7.5,1,0,0,0,0,0,3,8,11,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Nottinghamshire,Imran Tahir,acee4cc4,11,0,0,0,0,0.0,"[5, 7, 15, 17]",4.0,24,9,0,24,2,0,1,0,0,0,1,6.0,1,0,0,0,0,0,36,8,44,46,True,False,False,Legbreak googly,Right-hand bat
+Nottinghamshire,HF Gurney,e412cb64,12,0,0,0,0,0.0,"[2, 6, 19]",2.667,16,5,0,25,3,0,2,0,0,2,0,9.37,0,0,0,0,0,0,55,0,55,38,True,False,False,Left-arm fast-medium,Right-hand bat

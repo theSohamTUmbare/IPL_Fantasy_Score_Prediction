@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Antigua Hawksbills,J Charles,09a9d073,1,36,30,5,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,60,0,0,60
-Antigua Hawksbills,KOA Powell,e012ad13,2,27,16,6,0,168.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,59,0,0,59
-Antigua Hawksbills,RT Ponting,7d415ea5,3,20,24,2,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
-Antigua Hawksbills,MN Samuels,f846de6a,4,12,13,0,0,92.31,"[9, 11, 13, 15]",4.0,24,15,1,10,0,0,3,0,1,0,0,2.5,1,0,0,0,0,12,120,8,140
-Antigua Hawksbills,DC Thomas,08a4f9ad,5,32,18,3,2,177.78,"[14, 16, 18, 20]",4.0,24,5,0,36,4,0,1,0,0,2,2,9.0,1,0,0,0,6,66,30,8,104
-Antigua Hawksbills,JM Kemp,6581d753,6,13,11,1,0,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
-Antigua Hawksbills,KAJ Roach,78eb4223,7,5,3,1,0,166.67,"[1, 3, 6, 8]",4.0,24,10,0,40,4,2,1,0,0,0,3,10.0,1,0,0,0,0,9,33,8,50
-Antigua Hawksbills,RRS Cornwall,c4d9634c,8,8,5,0,0,160.0,[12],1.0,6,2,0,13,3,0,1,0,1,0,0,13.0,0,0,0,0,0,8,35,0,43
-Antigua Hawksbills,D Mohammed,77079be1,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Antigua Hawksbills,SS Cottrell,a1d053dd,11,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,15,0,17,1,0,1,0,1,0,2,4.25,1,0,0,0,0,0,54,8,62
-Antigua Hawksbills,GC Tonge,7d21eb9b,12,0,0,0,0,0.0,"[5, 7, 10]",3.0,18,6,0,16,0,0,1,0,1,0,0,5.33,0,0,0,0,0,0,43,0,43
-St Lucia Zouks,Tamim Iqbal,3b041a12,1,33,39,2,0,84.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,45,0,0,45
-St Lucia Zouks,ADS Fletcher,1bae756b,2,20,7,2,2,285.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,40,0,0,40
-St Lucia Zouks,HH Gibbs,e1d1b294,3,5,7,1,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
-St Lucia Zouks,Misbah-ul-Haq,7eae4418,4,8,10,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
-St Lucia Zouks,DS Smith,85ad2217,5,12,10,3,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,4,0,0,0,0,24,0,36,60
-St Lucia Zouks,JA Morkel,c3d35165,6,0,3,0,0,0.0,"[2, 4, 11, 13]",4.0,24,10,0,27,4,0,2,0,1,0,1,6.75,0,0,0,0,0,-2,70,0,68
-St Lucia Zouks,DJG Sammy,c03c6200,7,4,7,0,0,57.14,"[1, 3, 15, 19]",4.0,24,9,0,29,3,0,1,0,0,0,2,7.25,0,0,0,0,0,4,34,0,38
-St Lucia Zouks,LAS Sebastien,a8333aa9,8,25,18,3,0,138.89,[8],1.0,6,1,0,12,2,0,0,0,0,0,0,12.0,0,0,0,0,2,43,1,0,44
-St Lucia Zouks,S Shillingford,d76b0d2d,9,4,8,0,0,50.0,"[6, 10, 18]",3.0,18,9,0,21,2,1,1,0,0,0,0,7.0,0,0,0,0,0,4,36,0,40
-St Lucia Zouks,TL Best,db767b89,10,0,0,0,0,0.0,"[9, 14, 17, 20]",4.0,24,3,0,43,4,0,0,0,0,0,5,10.75,0,0,0,0,0,0,1,0,1
-St Lucia Zouks,GE Mathurin,b67bfaae,10,12,11,1,0,109.09,"[5, 7, 12, 16]",4.0,24,9,0,31,3,1,1,0,0,0,2,7.75,0,0,0,0,0,16,34,0,50
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Antigua Hawksbills,J Charles,09a9d073,1,36,30,5,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,60,0,0,60,36,True,False,False,,Right-hand bat
+Antigua Hawksbills,KOA Powell,e012ad13,2,27,16,6,0,168.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,59,0,0,59,35,True,False,False,Right-arm offbreak,Left-hand bat
+Antigua Hawksbills,RT Ponting,7d415ea5,3,20,24,2,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28,50,True,False,False,Right-arm medium,Right-hand bat
+Antigua Hawksbills,MN Samuels,f846de6a,4,12,13,0,0,92.31,"[9, 11, 13, 15]",4.0,24,15,1,10,0,0,3,0,1,0,0,2.5,1,0,0,0,0,12,120,8,140,44,True,False,False,Right-arm offbreak,Right-hand bat
+Antigua Hawksbills,DC Thomas,08a4f9ad,5,32,18,3,2,177.78,"[14, 16, 18, 20]",4.0,24,5,0,36,4,0,1,0,0,2,2,9.0,1,0,0,0,6,66,30,8,104,35,True,False,False,Right-arm medium,Right-hand bat
+Antigua Hawksbills,JM Kemp,6581d753,6,13,11,1,0,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,47,True,False,True,Right-arm fast-medium,Right-hand bat
+Antigua Hawksbills,KAJ Roach,78eb4223,7,5,3,1,0,166.67,"[1, 3, 6, 8]",4.0,24,10,0,40,4,2,1,0,0,0,3,10.0,1,0,0,0,0,9,33,8,50,36,True,False,False,Right-arm fast-medium,Right-hand bat
+Antigua Hawksbills,RRS Cornwall,c4d9634c,8,8,5,0,0,160.0,[12],1.0,6,2,0,13,3,0,1,0,1,0,0,13.0,0,0,0,0,0,8,35,0,43,32,True,False,True,Right-arm offbreak,Right-hand bat
+Antigua Hawksbills,D Mohammed,77079be1,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,45,True,True,False,Left-arm wrist-spin,Left-hand bat
+Antigua Hawksbills,SS Cottrell,a1d053dd,11,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,15,0,17,1,0,1,0,1,0,2,4.25,1,0,0,0,0,0,54,8,62,35,True,False,False,Left-arm fast-medium,Right-hand bat
+Antigua Hawksbills,GC Tonge,7d21eb9b,12,0,0,0,0,0.0,"[5, 7, 10]",3.0,18,6,0,16,0,0,1,0,1,0,0,5.33,0,0,0,0,0,0,43,0,43,42,True,False,False,Right-arm fast-medium,Right-hand bat
+St Lucia Zouks,Tamim Iqbal,3b041a12,1,33,39,2,0,84.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,45,0,0,45,36,True,False,False,,Left-hand bat
+St Lucia Zouks,ADS Fletcher,1bae756b,2,20,7,2,2,285.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,40,0,0,40,37,True,False,False,Legbreak,Right-hand bat
+St Lucia Zouks,HH Gibbs,e1d1b294,3,5,7,1,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,51,True,False,False,Right-arm bowler,Right-hand bat
+St Lucia Zouks,Misbah-ul-Haq,7eae4418,4,8,10,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,50,True,False,False,Legbreak,Right-hand bat
+St Lucia Zouks,DS Smith,85ad2217,5,12,10,3,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,4,0,0,0,0,24,0,36,60,43,True,False,False,Right-arm offbreak,Left-hand bat
+St Lucia Zouks,JA Morkel,c3d35165,6,0,3,0,0,0.0,"[2, 4, 11, 13]",4.0,24,10,0,27,4,0,2,0,1,0,1,6.75,0,0,0,0,0,-2,70,0,68,43,True,False,True,Right-arm medium-fast,Left-hand bat
+St Lucia Zouks,DJG Sammy,c03c6200,7,4,7,0,0,57.14,"[1, 3, 15, 19]",4.0,24,9,0,29,3,0,1,0,0,0,2,7.25,0,0,0,0,0,4,34,0,38,41,True,False,True,Right-arm medium,Right-hand bat
+St Lucia Zouks,LAS Sebastien,a8333aa9,8,25,18,3,0,138.89,[8],1.0,6,1,0,12,2,0,0,0,0,0,0,12.0,0,0,0,0,2,43,1,0,44,40,True,False,True,Right-arm offbreak,Left-hand bat
+St Lucia Zouks,S Shillingford,d76b0d2d,9,4,8,0,0,50.0,"[6, 10, 18]",3.0,18,9,0,21,2,1,1,0,0,0,0,7.0,0,0,0,0,0,4,36,0,40,42,True,False,False,Right-arm offbreak,Right-hand bat
+St Lucia Zouks,TL Best,db767b89,10,0,0,0,0,0.0,"[9, 14, 17, 20]",4.0,24,3,0,43,4,0,0,0,0,0,5,10.75,0,0,0,0,0,0,1,0,1,43,True,False,False,Right-arm fast,Right-hand bat
+St Lucia Zouks,GE Mathurin,b67bfaae,10,12,11,1,0,109.09,"[5, 7, 12, 16]",4.0,24,9,0,31,3,1,1,0,0,0,2,7.75,0,0,0,0,0,16,34,0,50,41,True,False,True,Slow left-arm orthodox,Left-hand bat

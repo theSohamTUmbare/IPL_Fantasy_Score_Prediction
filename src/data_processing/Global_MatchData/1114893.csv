@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Adelaide Strikers,JR Dean,97188292,1,7,15,1,0,46.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,5,0,0,5
-Adelaide Strikers,J Weatherald,edc7ddb6,2,56,43,4,4,130.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,106,0,0,106
-Adelaide Strikers,CA Ingram,c995d726,3,5,8,0,0,62.5,[15],1.0,6,0,0,9,1,0,0,0,0,0,0,9.0,1,0,0,0,0,5,0,8,13
-Adelaide Strikers,JW Wells,8bdac857,4,15,23,1,0,65.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,17,0,0,17
-Adelaide Strikers,JS Lehmann,c96a215f,5,21,17,2,0,123.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29
-Adelaide Strikers,AT Carey,69d03465,6,25,10,4,1,250.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,57,0,8,65
-Adelaide Strikers,MG Neser,0164b064,7,0,1,0,0,0.0,"[1, 3, 14, 20]",3.5,21,8,0,35,3,2,1,0,0,0,2,10.0,1,0,0,0,0,-2,31,8,37
-Adelaide Strikers,WA Agar,15de1f5d,8,0,0,0,0,0.0,"[8, 10, 18]",3.0,18,2,0,26,3,0,0,0,0,0,1,8.67,0,0,0,0,0,0,2,0,2
-Adelaide Strikers,Rashid Khan,5f547c8b,8,5,3,1,0,166.67,"[5, 7, 11, 16]",4.0,24,11,0,20,2,0,3,1,1,0,0,5.0,0,0,0,0,0,9,110,0,119
-Adelaide Strikers,B Laughlin,b2a79f17,9,0,0,0,0,0.0,"[9, 13, 17, 19]",4.0,24,6,0,27,3,0,1,0,0,0,0,6.75,0,0,0,0,0,0,33,0,33
-Adelaide Strikers,B Stanlake,6834d1f2,10,0,0,0,0,0.0,"[2, 4, 6, 12]",4.0,24,14,0,23,3,0,1,0,0,0,3,5.75,1,0,0,0,0,0,43,8,51
-Perth Scorchers,SM Whiteman,f4427cc6,1,8,5,2,0,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
-Perth Scorchers,M Klinger,b970a03f,2,5,10,1,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,5,0,0,5
-Perth Scorchers,CT Bancroft,399b0b94,3,49,39,6,0,125.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,77,0,8,85
-Perth Scorchers,HWR Cartwright,ab965cad,4,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Perth Scorchers,AJ Turner,ff1e12a0,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Perth Scorchers,AC Voges,864c199e,6,56,45,6,1,124.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,94,0,0,94
-Perth Scorchers,AC Agar,a2421394,7,7,9,0,0,77.78,"[7, 9, 11, 15]",4.0,24,7,0,30,1,2,0,0,0,0,0,7.5,0,0,0,0,0,7,7,0,14
-Perth Scorchers,TT Bresnan,58043739,8,7,3,0,1,233.33,"[8, 10, 14, 18]",4.0,24,9,0,34,4,1,2,0,0,0,0,8.5,0,0,0,0,0,13,59,0,72
-Perth Scorchers,JA Richardson,1ee08e9a,8,0,0,0,0,0.0,"[4, 6, 12, 19]",4.0,24,13,0,23,4,0,2,0,2,0,0,5.75,0,0,0,0,0,0,83,0,83
-Perth Scorchers,M Kelly,68e26ec9,9,0,0,0,0,0.0,"[2, 5, 16, 20]",4.0,24,10,0,31,2,2,2,0,1,0,0,7.75,0,0,0,0,0,0,68,0,68
-Perth Scorchers,MG Johnson,f5180fe6,10,0,0,0,0,0.0,"[1, 3, 13, 17]",4.0,24,13,0,17,2,0,0,0,0,0,1,4.25,2,0,0,0,0,0,19,16,35
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Adelaide Strikers,JR Dean,97188292,1,7,15,1,0,46.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,5,0,0,5,40,True,False,False,Right-arm offbreak,Right-hand bat
+Adelaide Strikers,J Weatherald,edc7ddb6,2,56,43,4,4,130.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,106,0,0,106,30,True,False,False,Legbreak,Left-hand bat
+Adelaide Strikers,CA Ingram,c995d726,3,5,8,0,0,62.5,[15],1.0,6,0,0,9,1,0,0,0,0,0,0,9.0,1,0,0,0,0,5,0,8,13,39,True,False,False,Legbreak,Left-hand bat
+Adelaide Strikers,JW Wells,8bdac857,4,15,23,1,0,65.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,17,0,0,17,36,True,False,False,Right-arm medium,Right-hand bat
+Adelaide Strikers,JS Lehmann,c96a215f,5,21,17,2,0,123.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29,32,True,False,False,Slow left-arm orthodox,Left-hand bat
+Adelaide Strikers,AT Carey,69d03465,6,25,10,4,1,250.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,57,0,8,65,33,True,False,False,,Left-hand bat
+Adelaide Strikers,MG Neser,0164b064,7,0,1,0,0,0.0,"[1, 3, 14, 20]",3.5,21,8,0,35,3,2,1,0,0,0,2,10.0,1,0,0,0,0,-2,31,8,37,35,True,False,True,Right-arm medium-fast,Right-hand bat
+Adelaide Strikers,WA Agar,15de1f5d,8,0,0,0,0,0.0,"[8, 10, 18]",3.0,18,2,0,26,3,0,0,0,0,0,1,8.67,0,0,0,0,0,0,2,0,2,28,True,False,False,Right-arm fast,Right-hand bat
+Adelaide Strikers,Rashid Khan,5f547c8b,8,5,3,1,0,166.67,"[5, 7, 11, 16]",4.0,24,11,0,20,2,0,3,1,1,0,0,5.0,0,0,0,0,0,9,110,0,119,26,True,False,True,Legbreak googly,Right-hand bat
+Adelaide Strikers,B Laughlin,b2a79f17,9,0,0,0,0,0.0,"[9, 13, 17, 19]",4.0,24,6,0,27,3,0,1,0,0,0,0,6.75,0,0,0,0,0,0,33,0,33,42,True,False,False,Right-arm fast-medium,Right-hand bat
+Adelaide Strikers,B Stanlake,6834d1f2,10,0,0,0,0,0.0,"[2, 4, 6, 12]",4.0,24,14,0,23,3,0,1,0,0,0,3,5.75,1,0,0,0,0,0,43,8,51,30,True,False,False,Right-arm fast,Left-hand bat
+Perth Scorchers,SM Whiteman,f4427cc6,1,8,5,2,0,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,33,True,False,False,,Left-hand bat
+Perth Scorchers,M Klinger,b970a03f,2,5,10,1,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,5,0,0,5,44,True,False,False,,Right-hand bat
+Perth Scorchers,CT Bancroft,399b0b94,3,49,39,6,0,125.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,77,0,8,85,32,True,False,False,,Right-hand bat
+Perth Scorchers,HWR Cartwright,ab965cad,4,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,33,True,False,False,Right-arm medium,Right-hand bat
+Perth Scorchers,AJ Turner,ff1e12a0,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,32,True,False,False,Right-arm offbreak,Right-hand bat
+Perth Scorchers,AC Voges,864c199e,6,56,45,6,1,124.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,94,0,0,94,45,True,False,False,Slow left-arm orthodox,Right-hand bat
+Perth Scorchers,AC Agar,a2421394,7,7,9,0,0,77.78,"[7, 9, 11, 15]",4.0,24,7,0,30,1,2,0,0,0,0,0,7.5,0,0,0,0,0,7,7,0,14,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+Perth Scorchers,TT Bresnan,58043739,8,7,3,0,1,233.33,"[8, 10, 14, 18]",4.0,24,9,0,34,4,1,2,0,0,0,0,8.5,0,0,0,0,0,13,59,0,72,40,True,False,True,Right-arm medium-fast,Right-hand bat
+Perth Scorchers,JA Richardson,1ee08e9a,8,0,0,0,0,0.0,"[4, 6, 12, 19]",4.0,24,13,0,23,4,0,2,0,2,0,0,5.75,0,0,0,0,0,0,83,0,83,28,True,False,False,Right-arm fast,Right-hand bat
+Perth Scorchers,M Kelly,68e26ec9,9,0,0,0,0,0.0,"[2, 5, 16, 20]",4.0,24,10,0,31,2,2,2,0,1,0,0,7.75,0,0,0,0,0,0,68,0,68,30,True,False,False,Right-arm fast-medium,Right-hand bat
+Perth Scorchers,MG Johnson,f5180fe6,10,0,0,0,0,0.0,"[1, 3, 13, 17]",4.0,24,13,0,17,2,0,0,0,0,0,1,4.25,2,0,0,0,0,0,19,16,35,43,True,False,False,Left-arm fast,Left-hand bat

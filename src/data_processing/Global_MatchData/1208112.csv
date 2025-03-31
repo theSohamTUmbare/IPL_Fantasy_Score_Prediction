@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Khulna Tigers,Nazmul Hossain Shanto,1274d7ab,1,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,-2,0,16,14
-Khulna Tigers,Mehedi Hasan Miraz,c58b0108,2,2,4,0,0,50.0,"[7, 9, 11]",3.0,18,5,0,27,1,2,0,0,0,0,0,9.0,1,0,0,0,0,2,5,8,15
-Khulna Tigers,Shamsur Rahman,02789d88,3,52,43,4,2,120.93,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,88,0,0,88
-Khulna Tigers,RR Rossouw,cad00a4d,4,37,26,1,1,142.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,53,0,0,53
-Khulna Tigers,Mushfiqur Rahim,a94e08ea,5,21,15,2,1,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,37,0,0,37
-Khulna Tigers,Najibullah Zadran,1212cbec,6,4,4,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
-Khulna Tigers,R Frylinck,8b248d88,7,12,15,1,0,80.0,"[2, 4, 13, 18]",4.0,24,11,0,33,3,2,1,0,0,0,1,8.25,0,0,0,0,0,16,36,0,52
-Khulna Tigers,Shohidul Islam,607ed7c2,8,0,6,0,0,0.0,"[8, 10, 14, 17]",4.0,24,11,0,23,2,0,1,0,0,0,0,5.75,0,0,0,0,0,-2,40,0,38
-Khulna Tigers,Shafiul Islam,1a8eebbe,9,7,4,1,0,175.0,"[6, 12, 16, 20]",4.0,24,11,0,38,2,3,0,0,0,0,2,9.5,1,0,0,0,0,11,11,8,30
-Khulna Tigers,Tanvir Islam,aa467af0,10,0,0,0,0,0.0,[5],1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,0,0,1,0,1
-Khulna Tigers,Mohammad Amir,e174dadd,10,1,1,0,0,100.0,"[1, 3, 15, 19]",4.0,24,9,0,35,5,1,2,0,0,0,0,8.75,0,0,0,0,0,1,59,0,60
-Rajshahi Royals,Liton Das,0404d43c,1,25,28,1,1,89.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,39,0,8,47
-Rajshahi Royals,Afif Hossain,37138918,2,10,8,2,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26
-Rajshahi Royals,Irfan Sukkur,3cc7dd5f,3,52,35,6,2,148.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,98,0,0,98
-Rajshahi Royals,Shoaib Malik,64c34cd0,4,9,13,0,0,69.23,"[6, 8]",2.0,12,3,0,15,0,1,0,0,0,0,0,7.5,2,0,0,0,-2,7,3,16,26
-Rajshahi Royals,AD Russell,bbd41817,5,27,16,0,3,168.75,"[5, 15, 18, 20]",4.0,24,10,0,32,3,0,2,0,2,0,5,8.0,1,0,0,0,4,53,76,8,137
-Rajshahi Royals,Mohammad Nawaz,3086f7a4,6,41,20,6,2,205.0,"[7, 9, 11, 13]",4.0,24,7,0,29,1,1,1,0,0,0,0,7.25,1,0,0,0,6,87,32,8,127
-Rajshahi Royals,Alok Kapali,54279e23,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Rajshahi Royals,Farhad Reza,4948a447,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Rajshahi Royals,Kamrul Islam Rabbi,f7e9a562,12,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,9,0,29,3,1,2,0,0,0,0,7.25,0,0,0,0,0,0,59,0,59
-Rajshahi Royals,Abu Jayed,1bb0993e,13,0,0,0,0,0.0,"[2, 4]",2.0,12,4,0,24,1,1,1,0,0,0,6,12.0,0,0,0,0,0,0,25,0,25
-Rajshahi Royals,Mohammad Irfan,a8e3170f,14,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,12,0,18,2,0,2,0,0,0,0,4.5,0,0,0,0,0,0,68,0,68
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Khulna Tigers,Nazmul Hossain Shanto,1274d7ab,1,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,-2,0,16,14,26,True,False,False,Right-arm offbreak,Left-hand bat
+Khulna Tigers,Mehedi Hasan Miraz,c58b0108,2,2,4,0,0,50.0,"[7, 9, 11]",3.0,18,5,0,27,1,2,0,0,0,0,0,9.0,1,0,0,0,0,2,5,8,15,27,True,False,True,Right-arm offbreak,Right-hand bat
+Khulna Tigers,Shamsur Rahman,02789d88,3,52,43,4,2,120.93,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,88,0,0,88,36,True,False,False,,Right-hand bat
+Khulna Tigers,RR Rossouw,cad00a4d,4,37,26,1,1,142.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,53,0,0,53,35,True,False,False,Right-arm offbreak,Left-hand bat
+Khulna Tigers,Mushfiqur Rahim,a94e08ea,5,21,15,2,1,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,37,0,0,37,37,True,False,False,,Right-hand bat
+Khulna Tigers,Najibullah Zadran,1212cbec,6,4,4,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,32,True,False,False,Right-arm offbreak,Left-hand bat
+Khulna Tigers,R Frylinck,8b248d88,7,12,15,1,0,80.0,"[2, 4, 13, 18]",4.0,24,11,0,33,3,2,1,0,0,0,1,8.25,0,0,0,0,0,16,36,0,52,40,True,False,True,Right-arm medium,Right-hand bat
+Khulna Tigers,Shohidul Islam,607ed7c2,8,0,6,0,0,0.0,"[8, 10, 14, 17]",4.0,24,11,0,23,2,0,1,0,0,0,0,5.75,0,0,0,0,0,-2,40,0,38,30,True,False,True,Right-arm medium,Right-hand bat
+Khulna Tigers,Shafiul Islam,1a8eebbe,9,7,4,1,0,175.0,"[6, 12, 16, 20]",4.0,24,11,0,38,2,3,0,0,0,0,2,9.5,1,0,0,0,0,11,11,8,30,35,True,False,False,Right-arm fast-medium,Right-hand bat
+Khulna Tigers,Tanvir Islam,aa467af0,10,0,0,0,0,0.0,[5],1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,0,0,1,0,1,28,True,False,False,Slow left-arm orthodox,Left-hand bat
+Khulna Tigers,Mohammad Amir,e174dadd,10,1,1,0,0,100.0,"[1, 3, 15, 19]",4.0,24,9,0,35,5,1,2,0,0,0,0,8.75,0,0,0,0,0,1,59,0,60,32,True,False,False,Left-arm fast-medium,Left-hand bat
+Rajshahi Royals,Liton Das,0404d43c,1,25,28,1,1,89.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,39,0,8,47,30,True,True,False,Right-arm offbreak,Right-hand bat
+Rajshahi Royals,Afif Hossain,37138918,2,10,8,2,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26,25,True,False,True,Right-arm offbreak,Left-hand bat
+Rajshahi Royals,Irfan Sukkur,3cc7dd5f,3,52,35,6,2,148.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,98,0,0,98,31,True,False,False,,Left-hand bat
+Rajshahi Royals,Shoaib Malik,64c34cd0,4,9,13,0,0,69.23,"[6, 8]",2.0,12,3,0,15,0,1,0,0,0,0,0,7.5,2,0,0,0,-2,7,3,16,26,43,True,False,True,Right-arm offbreak,Right-hand bat
+Rajshahi Royals,AD Russell,bbd41817,5,27,16,0,3,168.75,"[5, 15, 18, 20]",4.0,24,10,0,32,3,0,2,0,2,0,5,8.0,1,0,0,0,4,53,76,8,137,36,True,False,True,Right-arm fast,Right-hand bat
+Rajshahi Royals,Mohammad Nawaz,3086f7a4,6,41,20,6,2,205.0,"[7, 9, 11, 13]",4.0,24,7,0,29,1,1,1,0,0,0,0,7.25,1,0,0,0,6,87,32,8,127,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Rajshahi Royals,Alok Kapali,54279e23,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,41,True,False,True,Legbreak,Right-hand bat
+Rajshahi Royals,Farhad Reza,4948a447,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Rajshahi Royals,Kamrul Islam Rabbi,f7e9a562,12,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,9,0,29,3,1,2,0,0,0,0,7.25,0,0,0,0,0,0,59,0,59,33,True,False,False,Right-arm medium-fast,Right-hand bat
+Rajshahi Royals,Abu Jayed,1bb0993e,13,0,0,0,0,0.0,"[2, 4]",2.0,12,4,0,24,1,1,1,0,0,0,6,12.0,0,0,0,0,0,0,25,0,25,31,True,False,False,Right-arm fast-medium,Right-hand bat
+Rajshahi Royals,Mohammad Irfan,a8e3170f,14,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,12,0,18,2,0,2,0,0,0,0,4.5,0,0,0,0,0,0,68,0,68,42,True,False,False,Left-arm fast,Right-hand bat

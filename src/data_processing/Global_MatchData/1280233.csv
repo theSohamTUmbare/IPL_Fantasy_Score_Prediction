@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Nagaland,Rongsen Jonathan,d4753890,1,35,37,2,2,94.59,"[12, 14, 16, 18]",3.833,23,9,0,28,2,0,0,0,0,0,6,7.3,0,0,1,0,0,59,9,12,80
-Nagaland,Sedezhalie Rupero,e49574d6,2,10,8,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,14,0,8,22
-Nagaland,SS Mundhe,0af3426f,3,4,9,0,0,44.44,[6],1.0,6,2,0,4,0,0,0,0,0,0,0,4.0,0,0,0,0,0,4,2,0,6
-Nagaland,Chetan Bist,cf9d3356,4,44,46,1,1,95.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,58,0,12,70
-Nagaland,Hokaito Zhimomi,96477053,5,6,10,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,4,0,0,4
-Nagaland,Hem Chetri,d2ac5c4c,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Nagaland,AN Ahmed,2af1b6d2,7,2,6,0,0,33.33,"[1, 3, 5]",3.0,18,9,0,18,1,1,1,0,1,0,1,6.0,0,0,0,0,0,2,44,0,46
-Nagaland,Khrievitso Kense,2597e56b,7,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,8,0,27,3,0,2,0,1,0,0,6.75,0,0,0,0,0,0,68,0,68
-Nagaland,Imliwati Lemtur,76a33e00,8,0,0,0,0,0.0,"[8, 10, 15, 17]",4.0,24,11,0,24,1,1,1,0,0,0,0,6.0,0,0,0,0,0,0,38,0,38
-Nagaland,Nagaho Chishi,5b4d1d4e,8,2,2,0,0,100.0,"[2, 4]",2.0,12,6,0,16,1,1,0,0,0,0,0,8.0,0,0,0,0,0,2,6,0,8
-Nagaland,Joshua Ozukum,b13c506b,9,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Vidarbha,Siddhesh Wath,5786f224,1,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Vidarbha,Atharva Taide,1ac746c8,2,21,20,0,2,105.0,"[8, 10]",2.0,12,6,0,7,0,0,0,0,0,0,0,3.5,0,0,0,0,0,33,12,0,45
-Vidarbha,Ganesh Satish,0ed1a112,3,39,40,3,0,97.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,55,0,0,55
-Vidarbha,Akshay Wadkar,c88c8a7d,4,6,11,0,0,54.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,-4,2,0,20,22
-Vidarbha,Akshay Karnewar,e1e7f950,5,35,28,4,1,125.0,"[4, 9, 13, 16]",4.0,24,8,0,25,1,1,0,0,0,0,0,6.25,1,0,1,0,0,61,10,20,91
-Vidarbha,JM Sharma,800d2d97,6,5,5,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,5,0,8,13
-Vidarbha,AV Wankhade,5708d0b6,7,4,1,1,0,400.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,8,0,20,28
-Vidarbha,UT Yadav,cc1e8c68,7,0,0,0,0,0.0,"[1, 3, 11, 17]",4.0,24,13,0,19,0,1,1,0,0,0,3,4.75,0,0,0,0,0,0,44,0,44
-Vidarbha,Yash Thakur,4b31f3a3,8,0,0,0,0,0.0,"[2, 6, 18, 20]",4.0,24,11,0,23,1,0,2,0,1,0,3,5.75,0,0,0,0,0,0,73,0,73
-Vidarbha,DG Nalkande,cd8d2859,9,0,0,0,0,0.0,"[5, 7, 15, 19]",4.0,24,9,0,24,1,0,1,0,0,0,5,6.0,0,0,0,0,0,0,36,0,36
-Vidarbha,Akshay Wakhare,ec9fc54b,10,0,0,0,0,0.0,"[12, 14]",2.0,12,4,0,16,1,1,1,0,0,0,0,8.0,0,0,0,0,0,0,29,0,29
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Nagaland,Rongsen Jonathan,d4753890,1,35,37,2,2,94.59,"[12, 14, 16, 18]",3.833,23,9,0,28,2,0,0,0,0,0,6,7.3,0,0,1,0,0,59,9,12,80,38,True,False,True,,Right-hand bat
+Nagaland,Sedezhalie Rupero,e49574d6,2,10,8,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,14,0,8,22,27,True,True,False,Right-arm offbreak,Right-hand bat
+Nagaland,SS Mundhe,0af3426f,3,4,9,0,0,44.44,[6],1.0,6,2,0,4,0,0,0,0,0,0,0,4.0,0,0,0,0,0,4,2,0,6,36,True,False,True,Right-arm medium,Right-hand bat
+Nagaland,Chetan Bist,cf9d3356,4,44,46,1,1,95.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,58,0,12,70,35,True,False,False,,Right-hand bat
+Nagaland,Hokaito Zhimomi,96477053,5,6,10,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,4,0,0,4,38,True,False,False,Left-arm medium,Right-hand bat
+Nagaland,Hem Chetri,d2ac5c4c,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,24,True,True,False,Right-arm offbreak,Left-hand bat
+Nagaland,AN Ahmed,2af1b6d2,7,2,6,0,0,33.33,"[1, 3, 5]",3.0,18,9,0,18,1,1,1,0,1,0,1,6.0,0,0,0,0,0,2,44,0,46,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Nagaland,Khrievitso Kense,2597e56b,7,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,8,0,27,3,0,2,0,1,0,0,6.75,0,0,0,0,0,0,68,0,68,21,True,True,False,Legbreak,Right-hand bat
+Nagaland,Imliwati Lemtur,76a33e00,8,0,0,0,0,0.0,"[8, 10, 15, 17]",4.0,24,11,0,24,1,1,1,0,0,0,0,6.0,0,0,0,0,0,0,38,0,38,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+Nagaland,Nagaho Chishi,5b4d1d4e,8,2,2,0,0,100.0,"[2, 4]",2.0,12,6,0,16,1,1,0,0,0,0,0,8.0,0,0,0,0,0,2,6,0,8,27,True,True,False,Right-arm medium,Right-hand bat
+Nagaland,Joshua Ozukum,b13c506b,9,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,24,True,False,False,Right-arm medium,Right-hand bat
+Vidarbha,Siddhesh Wath,5786f224,1,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,27,True,False,False,,Right-hand bat
+Vidarbha,Atharva Taide,1ac746c8,2,21,20,0,2,105.0,"[8, 10]",2.0,12,6,0,7,0,0,0,0,0,0,0,3.5,0,0,0,0,0,33,12,0,45,24,True,False,True,Slow left-arm orthodox,Left-hand bat
+Vidarbha,Ganesh Satish,0ed1a112,3,39,40,3,0,97.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,55,0,0,55,37,True,False,False,,Right-hand bat
+Vidarbha,Akshay Wadkar,c88c8a7d,4,6,11,0,0,54.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,-4,2,0,20,22,30,True,False,False,,Right-hand bat
+Vidarbha,Akshay Karnewar,e1e7f950,5,35,28,4,1,125.0,"[4, 9, 13, 16]",4.0,24,8,0,25,1,1,0,0,0,0,0,6.25,1,0,1,0,0,61,10,20,91,32,True,False,False,Slow left-arm orthodox,Left-hand bat
+Vidarbha,JM Sharma,800d2d97,6,5,5,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,5,0,8,13,31,True,False,False,,Right-hand bat
+Vidarbha,AV Wankhade,5708d0b6,7,4,1,1,0,400.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,8,0,20,28,33,True,False,False,Right-arm medium,Right-hand bat
+Vidarbha,UT Yadav,cc1e8c68,7,0,0,0,0,0.0,"[1, 3, 11, 17]",4.0,24,13,0,19,0,1,1,0,0,0,3,4.75,0,0,0,0,0,0,44,0,44,37,True,False,False,Right-arm fast,Right-hand bat
+Vidarbha,Yash Thakur,4b31f3a3,8,0,0,0,0,0.0,"[2, 6, 18, 20]",4.0,24,11,0,23,1,0,2,0,1,0,3,5.75,0,0,0,0,0,0,73,0,73,26,True,False,False,Right-arm fast-medium,Right-hand bat
+Vidarbha,DG Nalkande,cd8d2859,9,0,0,0,0,0.0,"[5, 7, 15, 19]",4.0,24,9,0,24,1,0,1,0,0,0,5,6.0,0,0,0,0,0,0,36,0,36,26,True,False,False,Right-arm fast-medium,Right-hand bat
+Vidarbha,Akshay Wakhare,ec9fc54b,10,0,0,0,0,0.0,"[12, 14]",2.0,12,4,0,16,1,1,1,0,0,0,0,8.0,0,0,0,0,0,0,29,0,29,39,True,False,False,Right-arm offbreak,Right-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Glamorgan,DL Lloyd,0c7f11be,1,27,32,2,0,84.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,39,0,0,39
-Glamorgan,Fakhar Zaman,1777c020,2,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Glamorgan,CA Ingram,c995d726,3,15,11,3,0,136.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,29,0,0,29
-Glamorgan,WT Root,72898514,4,24,21,3,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,36,0,0,36
-Glamorgan,AO Morgan,24dd1b81,5,11,15,0,1,73.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
-Glamorgan,CB Cooke,6755cd5c,6,29,15,2,2,193.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,59,0,8,67
-Glamorgan,DA Douthwaite,03df7a25,7,16,14,1,1,114.29,"[3, 7, 9]",3.0,18,4,0,35,5,1,1,0,0,0,1,11.67,0,0,0,0,0,26,25,0,51
-Glamorgan,GG Wagg,450f6fa6,8,4,4,1,0,100.0,"[11, 13, 15, 17]",4.0,24,10,0,22,2,0,0,0,0,0,0,5.5,0,0,0,0,0,8,14,0,22
-Glamorgan,M de Lange,d4eef961,9,0,1,0,0,0.0,"[1, 5, 12, 18]",3.333,20,11,0,16,1,0,1,0,0,0,0,4.8,0,0,0,0,0,-2,42,0,40
-Glamorgan,AG Salter,1a45b864,10,0,1,0,0,0.0,"[8, 10, 14]",3.0,18,3,0,29,2,1,0,0,0,0,0,9.67,0,0,0,0,0,-2,3,0,1
-Glamorgan,LJ Carey,5e6d1a54,11,0,0,0,0,0.0,"[2, 4, 6, 16]",4.0,24,11,0,35,5,1,0,0,0,2,0,8.75,1,0,0,0,0,0,11,8,19
-Middlesex,SS Eskinazi,75cbed9b,1,51,29,7,2,175.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,105,0,0,105
-Middlesex,DJ Malan,ad9c32a2,2,45,43,4,0,104.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,65,0,0,65
-Middlesex,DJ Lincoln,24cacd0a,3,8,9,0,0,88.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,8,0,28,36
-Middlesex,MDE Holden,d34a2268,4,30,23,4,1,130.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,58,0,8,66
-Middlesex,GFB Scott,c2b6764d,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Middlesex,JA Simpson,f05fe9b1,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Middlesex,TS Roland-Jones,6c6aca89,6,0,0,0,0,0.0,"[3, 5, 15, 20]",3.5,21,10,0,21,3,0,5,0,0,0,1,6.0,2,0,0,0,0,0,149,16,165
-Middlesex,TG Helm,74a274cc,7,0,0,0,0,0.0,"[1, 6, 17, 19]",4.0,24,13,0,41,4,3,2,0,0,2,0,10.25,0,0,0,0,0,0,61,0,61
-Middlesex,NA Sowter,ee0c05c0,8,0,0,0,0,0.0,"[8, 10, 12, 16]",4.0,24,4,0,28,2,0,1,0,0,0,1,7.0,0,0,0,0,0,0,31,0,31
-Middlesex,ST Finn,ccdd8308,9,0,0,0,0,0.0,"[9, 11, 13, 18]",4.0,24,10,0,24,1,1,2,0,0,0,1,6.0,2,0,0,0,0,0,62,16,78
-Middlesex,Mujeeb Ur Rahman,7d92277a,10,0,0,0,0,0.0,"[2, 4, 7, 14]",4.0,24,13,0,17,2,0,0,0,0,0,0,4.25,1,0,0,0,0,0,19,8,27
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Glamorgan,DL Lloyd,0c7f11be,1,27,32,2,0,84.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,39,0,0,39,32,True,False,True,Right-arm medium,Right-hand bat
+Glamorgan,Fakhar Zaman,1777c020,2,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,34,True,False,False,Slow left-arm orthodox,Left-hand bat
+Glamorgan,CA Ingram,c995d726,3,15,11,3,0,136.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,29,0,0,29,39,True,False,False,Legbreak,Left-hand bat
+Glamorgan,WT Root,72898514,4,24,21,3,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,36,0,0,36,32,True,False,False,Right-arm offbreak,Left-hand bat
+Glamorgan,AO Morgan,24dd1b81,5,11,15,0,1,73.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,30,True,False,True,Slow left-arm orthodox,Right-hand bat
+Glamorgan,CB Cooke,6755cd5c,6,29,15,2,2,193.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,59,0,8,67,38,True,True,False,Right-arm slow-medium,Right-hand bat
+Glamorgan,DA Douthwaite,03df7a25,7,16,14,1,1,114.29,"[3, 7, 9]",3.0,18,4,0,35,5,1,1,0,0,0,1,11.67,0,0,0,0,0,26,25,0,51,28,True,False,True,Right-arm medium-fast,Right-hand bat
+Glamorgan,GG Wagg,450f6fa6,8,4,4,1,0,100.0,"[11, 13, 15, 17]",4.0,24,10,0,22,2,0,0,0,0,0,0,5.5,0,0,0,0,0,8,14,0,22,41,True,False,True,Left-arm medium-fast,Right-hand bat
+Glamorgan,M de Lange,d4eef961,9,0,1,0,0,0.0,"[1, 5, 12, 18]",3.333,20,11,0,16,1,0,1,0,0,0,0,4.8,0,0,0,0,0,-2,42,0,40,34,True,False,False,Right-arm fast,Right-hand bat
+Glamorgan,AG Salter,1a45b864,10,0,1,0,0,0.0,"[8, 10, 14]",3.0,18,3,0,29,2,1,0,0,0,0,0,9.67,0,0,0,0,0,-2,3,0,1,31,True,False,False,Right-arm offbreak,Right-hand bat
+Glamorgan,LJ Carey,5e6d1a54,11,0,0,0,0,0.0,"[2, 4, 6, 16]",4.0,24,11,0,35,5,1,0,0,0,2,0,8.75,1,0,0,0,0,0,11,8,19,27,True,False,False,Right-arm fast-medium,Right-hand bat
+Middlesex,SS Eskinazi,75cbed9b,1,51,29,7,2,175.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,105,0,0,105,31,True,False,False,,Right-hand bat
+Middlesex,DJ Malan,ad9c32a2,2,45,43,4,0,104.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,65,0,0,65,37,True,False,False,Legbreak,Left-hand bat
+Middlesex,DJ Lincoln,24cacd0a,3,8,9,0,0,88.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,8,0,28,36,29,True,False,False,Right-arm medium,Right-hand bat
+Middlesex,MDE Holden,d34a2268,4,30,23,4,1,130.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,58,0,8,66,27,True,False,False,Right-arm offbreak,Left-hand bat
+Middlesex,GFB Scott,c2b6764d,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,29,True,False,True,Right-arm medium-fast,Right-hand bat
+Middlesex,JA Simpson,f05fe9b1,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,36,True,False,False,,Left-hand bat
+Middlesex,TS Roland-Jones,6c6aca89,6,0,0,0,0,0.0,"[3, 5, 15, 20]",3.5,21,10,0,21,3,0,5,0,0,0,1,6.0,2,0,0,0,0,0,149,16,165,37,True,False,False,Right-arm medium-fast,Right-hand bat
+Middlesex,TG Helm,74a274cc,7,0,0,0,0,0.0,"[1, 6, 17, 19]",4.0,24,13,0,41,4,3,2,0,0,2,0,10.25,0,0,0,0,0,0,61,0,61,30,True,False,False,Right-arm fast-medium,Right-hand bat
+Middlesex,NA Sowter,ee0c05c0,8,0,0,0,0,0.0,"[8, 10, 12, 16]",4.0,24,4,0,28,2,0,1,0,0,0,1,7.0,0,0,0,0,0,0,31,0,31,32,True,False,False,Legbreak,Right-hand bat
+Middlesex,ST Finn,ccdd8308,9,0,0,0,0,0.0,"[9, 11, 13, 18]",4.0,24,10,0,24,1,1,2,0,0,0,1,6.0,2,0,0,0,0,0,62,16,78,35,True,False,False,Right-arm fast-medium,Right-hand bat
+Middlesex,Mujeeb Ur Rahman,7d92277a,10,0,0,0,0,0.0,"[2, 4, 7, 14]",4.0,24,13,0,17,2,0,0,0,0,0,0,4.25,1,0,0,0,0,0,19,8,27,24,True,False,False,Right-arm offbreak,Right-hand bat

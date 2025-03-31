@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Namibia,CG Williams,e16e7347,1,23,29,0,1,79.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29
-Namibia,M van Lingen,7eb36269,2,18,24,2,0,75.0,[11],1.0,6,0,0,12,1,1,0,0,0,0,0,12.0,0,0,0,0,0,26,0,0,26
-Namibia,ZE Green,8716233e,3,9,13,1,0,69.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,11,0,8,19
-Namibia,MG Erasmus,95a5e066,4,4,6,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12
-Namibia,D Wiese,aa8d28ae,5,16,14,0,1,114.29,"[6, 9, 18, 20]",4.0,24,10,0,22,2,0,1,1,0,0,2,5.5,0,0,1,0,0,22,47,12,81
-Namibia,JJ Smit,bb134e5c,6,32,23,2,2,139.13,"[4, 7, 13, 17]",4.0,24,11,0,20,0,1,1,0,1,0,0,5.0,0,0,0,0,2,58,48,0,106
-Namibia,JN Frylinck,3c87f0c3,7,2,4,0,0,50.0,"[2, 10, 12, 19]",4.0,24,14,0,10,0,0,2,0,1,0,0,2.5,0,0,0,0,0,2,78,0,80
-Namibia,HN Ya France,915264c2,8,0,2,0,0,0.0,[16],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,0,0,2,0,2
-Namibia,JN Loftie-Eaton,f468293b,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Namibia,R Trumpelmann,ff6a7ab5,9,0,0,0,0,0.0,"[1, 3, 5, 15]",4.0,24,16,0,17,2,0,3,1,1,0,2,4.25,0,0,0,0,0,0,117,0,117
-Namibia,BM Scholtz,e85d03d6,10,0,0,0,0,0.0,"[8, 14]",2.0,12,2,0,16,1,0,0,0,0,0,0,8.0,0,0,0,0,0,0,2,0,2
-Scotland,HG Munsey,ff014c34,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Scotland,MH Cross,8b261d84,2,19,33,1,0,57.58,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,-4,19,0,12,31
-Scotland,CS MacLeod,9c376401,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Scotland,RD Berrington,e21bc7f3,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Scotland,CD Wallace,7b5c6c0b,5,4,13,0,0,30.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2
-Scotland,MA Leask,28131839,6,44,27,4,2,162.96,"[12, 18]",2.0,12,6,0,12,0,1,2,0,1,0,0,6.0,0,0,0,0,4,80,66,0,146
-Scotland,CN Greaves,f42064d5,7,25,32,2,0,78.12,"[8, 10, 14, 16]",4.0,24,11,0,22,1,1,1,0,0,0,0,5.5,0,0,0,0,0,37,40,0,77
-Scotland,MRJ Watt,1252f71a,8,3,6,0,0,50.0,"[9, 11, 13, 17]",4.0,24,11,0,22,0,1,1,0,0,0,1,5.5,1,0,0,0,0,3,40,8,51
-Scotland,SM Sharif,f43dd8c2,8,0,0,0,0,0.0,"[4, 6, 15, 20]",3.167,19,7,0,21,1,1,1,0,0,0,1,6.63,0,0,0,0,0,0,34,0,34
-Scotland,JH Davey,d3868bd0,9,5,5,0,0,100.0,"[2, 5]",2.0,12,5,0,15,2,0,0,0,0,0,0,7.5,0,0,0,0,0,5,5,0,10
-Scotland,BTJ Wheal,3f61a062,9,0,0,0,0,0.0,"[1, 3, 7, 19]",4.0,24,13,0,14,1,0,1,0,0,0,0,3.5,0,0,0,0,0,0,44,0,44
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Namibia,CG Williams,e16e7347,1,23,29,0,1,79.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29,41,True,False,False,Right-arm medium,Right-hand bat
+Namibia,M van Lingen,7eb36269,2,18,24,2,0,75.0,[11],1.0,6,0,0,12,1,1,0,0,0,0,0,12.0,0,0,0,0,0,26,0,0,26,27,True,False,False,Slow left-arm orthodox,Left-hand bat
+Namibia,ZE Green,8716233e,3,9,13,1,0,69.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,11,0,8,19,28,True,False,False,,Left-hand bat
+Namibia,MG Erasmus,95a5e066,4,4,6,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12,29,True,False,True,Right-arm offbreak,Right-hand bat
+Namibia,D Wiese,aa8d28ae,5,16,14,0,1,114.29,"[6, 9, 18, 20]",4.0,24,10,0,22,2,0,1,1,0,0,2,5.5,0,0,1,0,0,22,47,12,81,39,True,False,True,Right-arm medium-fast,Right-hand bat
+Namibia,JJ Smit,bb134e5c,6,32,23,2,2,139.13,"[4, 7, 13, 17]",4.0,24,11,0,20,0,1,1,0,1,0,0,5.0,0,0,0,0,2,58,48,0,106,29,True,False,True,Left-arm medium-fast,Right-hand bat
+Namibia,JN Frylinck,3c87f0c3,7,2,4,0,0,50.0,"[2, 10, 12, 19]",4.0,24,14,0,10,0,0,2,0,1,0,0,2.5,0,0,0,0,0,2,78,0,80,30,True,False,True,Left-arm fast-medium,Left-hand bat
+Namibia,HN Ya France,915264c2,8,0,2,0,0,0.0,[16],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,0,0,2,0,2,34,True,False,False,Right-arm offbreak,Right-hand bat
+Namibia,JN Loftie-Eaton,f468293b,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,24,True,False,True,Legbreak,Left-hand bat
+Namibia,R Trumpelmann,ff6a7ab5,9,0,0,0,0,0.0,"[1, 3, 5, 15]",4.0,24,16,0,17,2,0,3,1,1,0,2,4.25,0,0,0,0,0,0,117,0,117,27,True,False,False,Left-arm fast,Right-hand bat
+Namibia,BM Scholtz,e85d03d6,10,0,0,0,0,0.0,"[8, 14]",2.0,12,2,0,16,1,0,0,0,0,0,0,8.0,0,0,0,0,0,0,2,0,2,34,True,False,False,Slow left-arm orthodox,Right-hand bat
+Scotland,HG Munsey,ff014c34,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,32,True,False,False,Right-arm medium-fast,Left-hand bat
+Scotland,MH Cross,8b261d84,2,19,33,1,0,57.58,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,-4,19,0,12,31,32,True,False,False,,Right-hand bat
+Scotland,CS MacLeod,9c376401,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,36,True,False,False,Right-arm offbreak,Right-hand bat
+Scotland,RD Berrington,e21bc7f3,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,37,True,False,False,Right-arm medium-fast,Right-hand bat
+Scotland,CD Wallace,7b5c6c0b,5,4,13,0,0,30.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2,34,True,False,False,,Right-hand bat
+Scotland,MA Leask,28131839,6,44,27,4,2,162.96,"[12, 18]",2.0,12,6,0,12,0,1,2,0,1,0,0,6.0,0,0,0,0,4,80,66,0,146,34,True,False,True,Right-arm offbreak,Right-hand bat
+Scotland,CN Greaves,f42064d5,7,25,32,2,0,78.12,"[8, 10, 14, 16]",4.0,24,11,0,22,1,1,1,0,0,0,0,5.5,0,0,0,0,0,37,40,0,77,34,True,False,False,Legbreak,Right-hand bat
+Scotland,MRJ Watt,1252f71a,8,3,6,0,0,50.0,"[9, 11, 13, 17]",4.0,24,11,0,22,0,1,1,0,0,0,1,5.5,1,0,0,0,0,3,40,8,51,28,True,False,False,Slow left-arm orthodox,Left-hand bat
+Scotland,SM Sharif,f43dd8c2,8,0,0,0,0,0.0,"[4, 6, 15, 20]",3.167,19,7,0,21,1,1,1,0,0,0,1,6.63,0,0,0,0,0,0,34,0,34,33,True,False,False,Right-arm medium-fast,Right-hand bat
+Scotland,JH Davey,d3868bd0,9,5,5,0,0,100.0,"[2, 5]",2.0,12,5,0,15,2,0,0,0,0,0,0,7.5,0,0,0,0,0,5,5,0,10,34,True,False,False,Right-arm medium-fast,Right-hand bat
+Scotland,BTJ Wheal,3f61a062,9,0,0,0,0,0.0,"[1, 3, 7, 19]",4.0,24,13,0,14,1,0,1,0,0,0,0,3.5,0,0,0,0,0,0,44,0,44,28,True,False,False,Right-arm fast-medium,Right-hand bat

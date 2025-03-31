@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Comilla Victorians,SP Narine,9d430b40,1,0,1,0,0,0.0,"[9, 11, 14, 16]",4.0,24,14,0,11,0,0,1,0,0,0,0,2.75,0,0,0,0,0,-2,45,0,43
-Comilla Victorians,Liton Das,0404d43c,2,83,57,9,4,145.61,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,157,0,8,165
-Comilla Victorians,Towhid Hridoy,9e52a414,3,64,43,5,4,148.84,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,118,0,0,118
-Comilla Victorians,J Charles,09a9d073,4,10,3,1,1,333.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,20,0,8,28
-Comilla Victorians,MM Ali,bb351c23,5,12,5,1,1,240.0,[12],1.0,6,2,0,12,1,1,0,0,0,0,0,12.0,1,0,0,0,0,22,2,8,32
-Comilla Victorians,Mahidul Islam Ankon,dac6aabc,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Comilla Victorians,AD Russell,bbd41817,6,2,2,0,0,100.0,"[5, 10, 17, 19]",4.0,24,10,0,37,4,2,2,0,0,0,0,9.25,2,0,0,0,0,2,60,16,78
-Comilla Victorians,Jaker Ali,cd56a813,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Comilla Victorians,Tanvir Islam,aa467af0,8,0,0,0,0,0.0,"[2, 4, 6, 8]",4.0,24,10,0,30,1,2,1,0,0,0,0,7.5,0,0,0,0,0,0,35,0,35
-Comilla Victorians,Musfik Hasan,1afcbb60,9,0,0,0,0,0.0,"[7, 13, 18, 20]",4.0,24,3,0,72,8,5,1,0,0,1,0,18.0,0,0,0,0,0,0,22,0,22
-Comilla Victorians,Rohanat Doullah Borson,a2230df5,10,0,0,0,0,0.0,"[1, 3, 15]",3.0,18,8,0,21,3,0,1,0,0,0,1,7.0,1,0,0,0,0,0,35,8,43
-Rangpur Riders,Rony Talukdar,8bd614b2,1,13,11,2,0,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
-Rangpur Riders,Shamim Hossain,711249d1,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Rangpur Riders,Shakib Al Hasan,7dc35884,3,5,9,0,0,55.56,"[2, 4, 7, 11]",4.0,24,9,0,21,2,0,0,0,0,0,0,5.25,1,0,0,0,0,5,13,8,26
-Rangpur Riders,Mahedi Hasan,9dad0f2e,4,22,17,2,1,129.41,"[10, 18]",2.0,12,4,0,19,2,1,1,0,0,0,0,9.5,0,0,0,0,0,36,29,0,65
-Rangpur Riders,JDS Neesham,9219eff0,5,97,48,8,7,202.08,"[6, 13, 16]",3.0,18,8,0,37,5,2,0,0,0,0,2,12.33,1,0,0,0,6,189,2,8,199
-Rangpur Riders,Abu Hider,31803fac,6,0,0,0,0,0.0,"[9, 15]",2.0,12,2,0,20,0,2,1,0,0,0,0,10.0,0,0,0,0,0,0,25,0,25
-Rangpur Riders,N Pooran,3241e3fd,6,14,9,1,1,155.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
-Rangpur Riders,Nurul Hasan,d365d463,7,30,24,4,1,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,56,0,8,64
-Rangpur Riders,Hasan Mahmud,80ad39ac,7,0,0,0,0,0.0,"[5, 14]",2.0,12,3,0,32,4,2,0,0,0,0,1,16.0,1,0,0,0,0,0,-3,8,5
-Rangpur Riders,Fazalhaq Farooqi,e9c7f0d0,8,0,0,0,0,0.0,"[1, 3, 17, 19]",3.5,21,9,0,27,3,1,2,0,0,1,1,7.71,0,0,0,0,0,0,59,0,59
-Rangpur Riders,Mohammad Nabi,62af8546,8,0,0,0,0,0.0,"[8, 12]",2.0,12,3,0,21,0,2,0,0,0,0,1,10.5,0,0,0,0,0,0,1,0,1
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Comilla Victorians,SP Narine,9d430b40,1,0,1,0,0,0.0,"[9, 11, 14, 16]",4.0,24,14,0,11,0,0,1,0,0,0,0,2.75,0,0,0,0,0,-2,45,0,43,36,True,False,True,Right-arm offbreak,Left-hand bat
+Comilla Victorians,Liton Das,0404d43c,2,83,57,9,4,145.61,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,157,0,8,165,30,True,True,False,Right-arm offbreak,Right-hand bat
+Comilla Victorians,Towhid Hridoy,9e52a414,3,64,43,5,4,148.84,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,118,0,0,118,24,True,False,False,Right-arm offbreak,Right-hand bat
+Comilla Victorians,J Charles,09a9d073,4,10,3,1,1,333.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,20,0,8,28,36,True,False,False,,Right-hand bat
+Comilla Victorians,MM Ali,bb351c23,5,12,5,1,1,240.0,[12],1.0,6,2,0,12,1,1,0,0,0,0,0,12.0,1,0,0,0,0,22,2,8,32,37,True,False,True,Right-arm offbreak,Left-hand bat
+Comilla Victorians,Mahidul Islam Ankon,dac6aabc,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,25,True,False,False,,Right-hand bat
+Comilla Victorians,AD Russell,bbd41817,6,2,2,0,0,100.0,"[5, 10, 17, 19]",4.0,24,10,0,37,4,2,2,0,0,0,0,9.25,2,0,0,0,0,2,60,16,78,36,True,False,True,Right-arm fast,Right-hand bat
+Comilla Victorians,Jaker Ali,cd56a813,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,27,True,False,False,,Right-hand bat
+Comilla Victorians,Tanvir Islam,aa467af0,8,0,0,0,0,0.0,"[2, 4, 6, 8]",4.0,24,10,0,30,1,2,1,0,0,0,0,7.5,0,0,0,0,0,0,35,0,35,28,True,False,False,Slow left-arm orthodox,Left-hand bat
+Comilla Victorians,Musfik Hasan,1afcbb60,9,0,0,0,0,0.0,"[7, 13, 18, 20]",4.0,24,3,0,72,8,5,1,0,0,1,0,18.0,0,0,0,0,0,0,22,0,22,22,True,False,False,Right-arm medium,Right-hand bat
+Comilla Victorians,Rohanat Doullah Borson,a2230df5,10,0,0,0,0,0.0,"[1, 3, 15]",3.0,18,8,0,21,3,0,1,0,0,0,1,7.0,1,0,0,0,0,0,35,8,43,19,True,False,False,Right-arm medium,Right-hand bat
+Rangpur Riders,Rony Talukdar,8bd614b2,1,13,11,2,0,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21,34,True,False,False,Right-arm slow-medium,Right-hand bat
+Rangpur Riders,Shamim Hossain,711249d1,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,24,True,False,True,Right-arm offbreak,Left-hand bat
+Rangpur Riders,Shakib Al Hasan,7dc35884,3,5,9,0,0,55.56,"[2, 4, 7, 11]",4.0,24,9,0,21,2,0,0,0,0,0,0,5.25,1,0,0,0,0,5,13,8,26,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Rangpur Riders,Mahedi Hasan,9dad0f2e,4,22,17,2,1,129.41,"[10, 18]",2.0,12,4,0,19,2,1,1,0,0,0,0,9.5,0,0,0,0,0,36,29,0,65,30,True,False,True,Right-arm offbreak,Right-hand bat
+Rangpur Riders,JDS Neesham,9219eff0,5,97,48,8,7,202.08,"[6, 13, 16]",3.0,18,8,0,37,5,2,0,0,0,0,2,12.33,1,0,0,0,6,189,2,8,199,34,True,False,True,Right-arm medium-fast,Left-hand bat
+Rangpur Riders,Abu Hider,31803fac,6,0,0,0,0,0.0,"[9, 15]",2.0,12,2,0,20,0,2,1,0,0,0,0,10.0,0,0,0,0,0,0,25,0,25,29,True,False,True,Left-arm fast-medium,Right-hand bat
+Rangpur Riders,N Pooran,3241e3fd,6,14,9,1,1,155.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24,29,True,True,False,Right-arm offbreak,Left-hand bat
+Rangpur Riders,Nurul Hasan,d365d463,7,30,24,4,1,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,56,0,8,64,31,True,False,False,,Right-hand bat
+Rangpur Riders,Hasan Mahmud,80ad39ac,7,0,0,0,0,0.0,"[5, 14]",2.0,12,3,0,32,4,2,0,0,0,0,1,16.0,1,0,0,0,0,0,-3,8,5,25,True,False,False,Right-arm fast-medium,Right-hand bat
+Rangpur Riders,Fazalhaq Farooqi,e9c7f0d0,8,0,0,0,0,0.0,"[1, 3, 17, 19]",3.5,21,9,0,27,3,1,2,0,0,1,1,7.71,0,0,0,0,0,0,59,0,59,24,True,False,False,Left-arm fast-medium,Right-hand bat
+Rangpur Riders,Mohammad Nabi,62af8546,8,0,0,0,0,0.0,"[8, 12]",2.0,12,3,0,21,0,2,0,0,0,0,1,10.5,0,0,0,0,0,0,1,0,1,40,True,False,True,Right-arm offbreak,Right-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Kolkata Knight Riders,SP Narine,9d430b40,1,6,9,1,0,66.67,"[5, 9, 14, 16]",4.0,24,10,0,18,1,0,1,0,0,0,0,4.5,0,0,0,0,0,10,41,0,51
-Kolkata Knight Riders,G Gambhir,bb345e0b,2,15,16,2,0,93.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
-Kolkata Knight Riders,RV Uthappa,1c17e270,3,68,39,5,4,174.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,6,126,0,12,138
-Kolkata Knight Riders,MK Pandey,93b4fc78,4,46,35,3,2,131.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,76,0,0,76
-Kolkata Knight Riders,YK Pathan,3c6ffae8,5,21,15,1,1,140.0,[7],1.0,6,4,0,2,0,0,1,0,0,0,0,2.0,0,0,0,0,2,33,29,0,62
-Kolkata Knight Riders,SA Yadav,271f83cd,6,4,3,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
-Kolkata Knight Riders,C de Grandhomme,94d7f855,7,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,-2,0,16,14
-Kolkata Knight Riders,CR Woakes,4c5d73db,8,1,1,0,0,100.0,"[11, 15, 17, 19]",4.0,24,4,0,49,3,3,2,0,0,0,3,12.25,2,0,0,0,0,1,48,16,65
-Kolkata Knight Riders,Kuldeep Yadav,8d2c70ad,8,0,0,0,0,0.0,"[6, 8, 10, 12]",4.0,24,12,0,23,2,1,1,0,0,0,0,5.75,0,0,0,0,0,0,41,0,41
-Kolkata Knight Riders,UT Yadav,cc1e8c68,9,0,0,0,0,0.0,"[1, 3, 13]",3.0,18,8,0,27,4,1,0,0,0,0,1,9.0,0,0,0,0,0,0,8,0,8
-Kolkata Knight Riders,TA Boult,a818c1be,10,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,10,0,33,6,0,1,0,0,0,0,8.25,0,0,0,0,0,0,35,0,35
-Sunrisers Hyderabad,DA Warner,dcce6f09,1,26,30,4,0,86.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,46,0,8,54
-Sunrisers Hyderabad,S Dhawan,0a476045,2,23,22,4,0,104.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,39,0,0,39
-Sunrisers Hyderabad,MC Henriques,32198ae0,3,13,10,2,0,130.0,"[9, 11]",2.0,12,2,0,26,0,2,0,0,0,0,5,13.0,0,0,0,0,2,23,-4,0,19
-Sunrisers Hyderabad,Yuvraj Singh,1c914163,4,26,16,2,2,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,54,0,0,54
-Sunrisers Hyderabad,DJ Hooda,73ad96ed,5,13,7,1,1,185.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
-Sunrisers Hyderabad,BCJ Cutting,2e11c706,6,15,10,1,1,150.0,"[5, 7, 15, 17]",4.0,24,3,0,41,4,1,1,0,0,0,1,10.25,0,0,0,0,0,25,26,0,51
-Sunrisers Hyderabad,NV Ojha,890946a0,7,11,11,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19
-Sunrisers Hyderabad,B Kumar,2e81a32d,8,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,11,0,20,0,1,3,0,2,0,0,5.0,0,0,0,0,0,0,110,0,110
-Sunrisers Hyderabad,Bipul Sharma,c18496e1,8,21,14,2,1,150.0,"[10, 16]",2.0,12,6,0,20,1,2,0,0,0,0,1,10.0,0,0,0,0,0,35,4,0,39
-Sunrisers Hyderabad,Rashid Khan,5f547c8b,9,0,0,0,0,0.0,"[6, 8, 12, 14]",4.0,24,7,0,29,2,1,1,0,1,0,0,7.25,1,0,0,0,0,0,40,8,48
-Sunrisers Hyderabad,A Nehra,96fd40ae,10,0,0,0,0,0.0,"[2, 4, 13, 19]",4.0,24,11,0,35,6,0,1,0,0,0,3,8.75,0,0,0,0,0,0,36,0,36
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Kolkata Knight Riders,SP Narine,9d430b40,1,6,9,1,0,66.67,"[5, 9, 14, 16]",4.0,24,10,0,18,1,0,1,0,0,0,0,4.5,0,0,0,0,0,10,41,0,51,36,True,False,True,Right-arm offbreak,Left-hand bat
+Kolkata Knight Riders,G Gambhir,bb345e0b,2,15,16,2,0,93.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23,43,True,False,False,Legbreak,Left-hand bat
+Kolkata Knight Riders,RV Uthappa,1c17e270,3,68,39,5,4,174.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,6,126,0,12,138,39,True,False,False,Right-arm medium,Right-hand bat
+Kolkata Knight Riders,MK Pandey,93b4fc78,4,46,35,3,2,131.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,76,0,0,76,35,True,False,False,Right-arm medium,Right-hand bat
+Kolkata Knight Riders,YK Pathan,3c6ffae8,5,21,15,1,1,140.0,[7],1.0,6,4,0,2,0,0,1,0,0,0,0,2.0,0,0,0,0,2,33,29,0,62,42,True,False,True,Right-arm offbreak,Right-hand bat
+Kolkata Knight Riders,SA Yadav,271f83cd,6,4,3,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,34,True,False,False,Right-arm offbreak,Right-hand bat
+Kolkata Knight Riders,C de Grandhomme,94d7f855,7,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,-2,0,16,14,38,True,False,True,Right-arm medium-fast,Right-hand bat
+Kolkata Knight Riders,CR Woakes,4c5d73db,8,1,1,0,0,100.0,"[11, 15, 17, 19]",4.0,24,4,0,49,3,3,2,0,0,0,3,12.25,2,0,0,0,0,1,48,16,65,36,True,False,True,Right-arm fast-medium,Right-hand bat
+Kolkata Knight Riders,Kuldeep Yadav,8d2c70ad,8,0,0,0,0,0.0,"[6, 8, 10, 12]",4.0,24,12,0,23,2,1,1,0,0,0,0,5.75,0,0,0,0,0,0,41,0,41,30,True,False,False,Left-arm wrist-spin,Left-hand bat
+Kolkata Knight Riders,UT Yadav,cc1e8c68,9,0,0,0,0,0.0,"[1, 3, 13]",3.0,18,8,0,27,4,1,0,0,0,0,1,9.0,0,0,0,0,0,0,8,0,8,37,True,False,False,Right-arm fast,Right-hand bat
+Kolkata Knight Riders,TA Boult,a818c1be,10,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,10,0,33,6,0,1,0,0,0,0,8.25,0,0,0,0,0,0,35,0,35,35,True,False,False,Left-arm fast-medium,Right-hand bat
+Sunrisers Hyderabad,DA Warner,dcce6f09,1,26,30,4,0,86.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,46,0,8,54,38,True,False,False,Legbreak,Left-hand bat
+Sunrisers Hyderabad,S Dhawan,0a476045,2,23,22,4,0,104.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,39,0,0,39,39,True,False,False,Right-arm offbreak,Left-hand bat
+Sunrisers Hyderabad,MC Henriques,32198ae0,3,13,10,2,0,130.0,"[9, 11]",2.0,12,2,0,26,0,2,0,0,0,0,5,13.0,0,0,0,0,2,23,-4,0,19,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Sunrisers Hyderabad,Yuvraj Singh,1c914163,4,26,16,2,2,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,54,0,0,54,43,True,False,False,Slow left-arm orthodox,Left-hand bat
+Sunrisers Hyderabad,DJ Hooda,73ad96ed,5,13,7,1,1,185.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23,29,True,False,True,Right-arm offbreak,Right-hand bat
+Sunrisers Hyderabad,BCJ Cutting,2e11c706,6,15,10,1,1,150.0,"[5, 7, 15, 17]",4.0,24,3,0,41,4,1,1,0,0,0,1,10.25,0,0,0,0,0,25,26,0,51,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Sunrisers Hyderabad,NV Ojha,890946a0,7,11,11,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19,41,True,False,False,,Right-hand bat
+Sunrisers Hyderabad,B Kumar,2e81a32d,8,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,11,0,20,0,1,3,0,2,0,0,5.0,0,0,0,0,0,0,110,0,110,35,True,False,False,Right-arm medium,Right-hand bat
+Sunrisers Hyderabad,Bipul Sharma,c18496e1,8,21,14,2,1,150.0,"[10, 16]",2.0,12,6,0,20,1,2,0,0,0,0,1,10.0,0,0,0,0,0,35,4,0,39,41,True,False,True,Slow left-arm orthodox,Left-hand bat
+Sunrisers Hyderabad,Rashid Khan,5f547c8b,9,0,0,0,0,0.0,"[6, 8, 12, 14]",4.0,24,7,0,29,2,1,1,0,1,0,0,7.25,1,0,0,0,0,0,40,8,48,26,True,False,True,Legbreak googly,Right-hand bat
+Sunrisers Hyderabad,A Nehra,96fd40ae,10,0,0,0,0,0.0,"[2, 4, 13, 19]",4.0,24,11,0,35,6,0,1,0,0,0,3,8.75,0,0,0,0,0,0,36,0,36,45,True,False,False,Left-arm medium-fast,Right-hand bat

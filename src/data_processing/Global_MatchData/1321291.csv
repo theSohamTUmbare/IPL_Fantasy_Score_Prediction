@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Bulgaria,H Lakov,87a6f411,1,14,17,1,0,82.35,"[2, 4, 6, 19]",4.0,24,11,0,23,1,1,2,1,1,0,0,5.75,2,0,0,0,0,18,81,16,115
-Bulgaria,IA De Silva,58973aaf,2,55,49,4,3,112.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,97,0,0,97
-Bulgaria,Saim Hussain,d300d274,3,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,3,0,6,9
-Bulgaria,Omar Rassol,6caae2dc,4,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Bulgaria,P Mishra,3fa5672e,5,4,10,0,0,40.0,"[7, 9, 11, 13]",4.0,24,14,0,17,2,0,2,0,1,0,1,4.25,1,0,0,0,-6,-2,78,8,84
-Bulgaria,KC D'Souza,2687fff2,6,17,16,0,1,106.25,"[15, 17]",2.0,12,5,0,11,0,0,0,0,0,1,3,5.5,0,0,0,0,0,23,9,0,32
-Bulgaria,Sulaiman Ali,13bf1d91,7,27,11,3,1,245.45,[8],1.0,6,2,0,13,1,1,0,0,0,0,2,13.0,0,0,0,0,6,55,2,0,57
-Bulgaria,R Dhiman,0d4d3cb1,8,9,6,1,0,150.0,"[10, 12, 14, 16]",4.0,24,14,0,25,1,1,1,0,0,1,3,6.25,0,0,0,0,0,13,41,0,54
-Bulgaria,D Nikolov,9c3a8776,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Bulgaria,Asad Ali Rehemtulla,c122fe73,9,1,1,0,0,100.0,"[1, 3, 18, 20]",4.0,24,9,0,32,1,1,3,0,1,0,2,8.0,0,0,0,0,0,1,96,0,97
-Bulgaria,DV Varghese,26f98ea3,10,0,0,0,0,0.0,[5],1.0,6,2,0,12,1,1,0,0,0,0,0,12.0,0,0,0,1,0,0,2,6,8
-Slovenia,Ayyaz Qureshi,50dbc953,1,12,19,0,0,63.16,"[2, 4, 6, 20]",3.833,23,7,0,34,4,1,1,0,0,0,0,8.87,0,0,0,0,-2,10,32,0,42
-Slovenia,Muhammad Siddiqui,b46b3d9b,2,48,33,3,3,145.45,"[1, 3, 5, 19]",4.0,24,10,0,19,1,0,0,0,0,0,1,4.75,0,0,0,0,2,84,16,0,100
-Slovenia,Ramanjot Singh,a40710b9,3,5,11,0,0,45.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-1,0,0,-1
-Slovenia,Taher Muhammad,68832922,4,9,10,1,0,90.0,"[15, 17]",2.0,12,4,0,17,1,1,1,0,1,0,0,8.5,0,0,0,0,0,13,37,0,50
-Slovenia,S Koppolu,3346b14f,5,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Slovenia,P Pustoslemsek,de6ad58b,6,21,23,1,1,91.3,"[8, 10, 12]",3.0,18,8,0,23,0,2,2,0,2,0,3,7.67,0,0,0,0,0,31,74,0,105
-Slovenia,Shahid Arshad,587e65cc,7,9,10,1,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
-Slovenia,Awais Ikram,91e035c6,8,2,3,0,0,66.67,"[14, 16, 18]",3.0,18,6,0,35,3,1,1,0,1,1,4,11.67,1,0,0,0,0,2,35,8,45
-Slovenia,NL Ujawe,7c7c4988,9,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,12,0,12,0,0,2,0,0,0,0,3.0,1,0,0,0,0,0,68,8,76
-Slovenia,Waqar Khan,da21531c,9,12,5,1,1,240.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
-Slovenia,MH Oman,6005fe89,10,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bulgaria,H Lakov,87a6f411,1,14,17,1,0,82.35,"[2, 4, 6, 19]",4.0,24,11,0,23,1,1,2,1,1,0,0,5.75,2,0,0,0,0,18,81,16,115,33,True,True,False,Right-arm fast,Right-hand bat
+Bulgaria,IA De Silva,58973aaf,2,55,49,4,3,112.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,97,0,0,97,27,True,True,False,Right-arm medium,Right-hand bat
+Bulgaria,Saim Hussain,d300d274,3,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,3,0,6,9,28,True,True,False,Right-arm medium,Left-hand bat
+Bulgaria,Omar Rassol,6caae2dc,4,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,27,True,True,False,Right-arm offbreak,Right-hand bat
+Bulgaria,P Mishra,3fa5672e,5,4,10,0,0,40.0,"[7, 9, 11, 13]",4.0,24,14,0,17,2,0,2,0,1,0,1,4.25,1,0,0,0,-6,-2,78,8,84,46,True,True,False,Right-arm medium,Right-hand bat
+Bulgaria,KC D'Souza,2687fff2,6,17,16,0,1,106.25,"[15, 17]",2.0,12,5,0,11,0,0,0,0,0,1,3,5.5,0,0,0,0,0,23,9,0,32,26,True,True,False,Right-arm offbreak,Right-hand bat
+Bulgaria,Sulaiman Ali,13bf1d91,7,27,11,3,1,245.45,[8],1.0,6,2,0,13,1,1,0,0,0,0,2,13.0,0,0,0,0,6,55,2,0,57,27,True,True,False,Right-arm medium-fast,Right-hand bat
+Bulgaria,R Dhiman,0d4d3cb1,8,9,6,1,0,150.0,"[10, 12, 14, 16]",4.0,24,14,0,25,1,1,1,0,0,1,3,6.25,0,0,0,0,0,13,41,0,54,35,True,True,False,Right-arm medium-fast,Right-hand bat
+Bulgaria,D Nikolov,9c3a8776,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,32,True,True,False,Right-arm medium,Right-hand bat
+Bulgaria,Asad Ali Rehemtulla,c122fe73,9,1,1,0,0,100.0,"[1, 3, 18, 20]",4.0,24,9,0,32,1,1,3,0,1,0,2,8.0,0,0,0,0,0,1,96,0,97,30,True,True,False,Right-arm medium,Right-hand bat
+Bulgaria,DV Varghese,26f98ea3,10,0,0,0,0,0.0,[5],1.0,6,2,0,12,1,1,0,0,0,0,0,12.0,0,0,0,1,0,0,2,6,8,27,True,True,False,Right-arm medium-fast,Right-hand bat
+Slovenia,Ayyaz Qureshi,50dbc953,1,12,19,0,0,63.16,"[2, 4, 6, 20]",3.833,23,7,0,34,4,1,1,0,0,0,0,8.87,0,0,0,0,-2,10,32,0,42,42,True,True,False,Right-arm medium-fast,Right-hand bat
+Slovenia,Muhammad Siddiqui,b46b3d9b,2,48,33,3,3,145.45,"[1, 3, 5, 19]",4.0,24,10,0,19,1,0,0,0,0,0,1,4.75,0,0,0,0,2,84,16,0,100,33,True,True,False,Right-arm medium-fast,Left-hand bat
+Slovenia,Ramanjot Singh,a40710b9,3,5,11,0,0,45.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-1,0,0,-1,29,True,True,False,Right-arm offbreak,Right-hand bat
+Slovenia,Taher Muhammad,68832922,4,9,10,1,0,90.0,"[15, 17]",2.0,12,4,0,17,1,1,1,0,1,0,0,8.5,0,0,0,0,0,13,37,0,50,34,True,False,False,,Right-hand bat
+Slovenia,S Koppolu,3346b14f,5,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,31,True,True,False,Left-arm medium-fast,Left-hand bat
+Slovenia,P Pustoslemsek,de6ad58b,6,21,23,1,1,91.3,"[8, 10, 12]",3.0,18,8,0,23,0,2,2,0,2,0,3,7.67,0,0,0,0,0,31,74,0,105,50,True,True,False,Right-arm medium,Left-hand bat
+Slovenia,Shahid Arshad,587e65cc,7,9,10,1,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21,40,True,True,False,Right-arm medium-fast,Right-hand bat
+Slovenia,Awais Ikram,91e035c6,8,2,3,0,0,66.67,"[14, 16, 18]",3.0,18,6,0,35,3,1,1,0,1,1,4,11.67,1,0,0,0,0,2,35,8,45,35,True,True,False,Right-arm medium-fast,Right-hand bat
+Slovenia,NL Ujawe,7c7c4988,9,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,12,0,12,0,0,2,0,0,0,0,3.0,1,0,0,0,0,0,68,8,76,43,True,True,False,Left-arm medium,Left-hand bat
+Slovenia,Waqar Khan,da21531c,9,12,5,1,1,240.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,29,True,False,False,,Right-hand bat
+Slovenia,MH Oman,6005fe89,10,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,58,True,False,False,,Left-hand bat

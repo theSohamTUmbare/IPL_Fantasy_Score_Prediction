@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Nepal,Sagar Pun,3c4007d3,1,15,12,3,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27
-Nepal,PS Airee,cc18ba92,2,29,28,4,0,103.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,49,0,0,49
-Nepal,G Malla,b2e1d224,3,2,7,0,0,28.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Nepal,P Khadka,12c3ba4d,4,5,9,0,0,55.56,"[5, 7, 9, 14]",4.0,24,10,0,29,1,2,0,0,0,0,1,7.25,0,0,0,0,0,5,10,0,15
-Nepal,S Vesawkar,3de06845,5,11,15,0,0,73.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
-Nepal,RP Magar,95bcba19,6,7,19,0,0,36.84,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,1,0,0,1
-Nepal,B Bhandari,82342b13,7,4,2,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,8,0,20,28
-Nepal,Sompal Kami,1adb8ee8,8,4,9,0,0,44.44,"[2, 4, 6]",3.0,18,9,0,14,1,0,1,0,0,0,1,4.67,0,0,0,0,0,4,40,0,44
-Nepal,B Regmi,98d05440,9,1,3,0,0,33.33,"[8, 11, 13, 15]",3.167,19,10,0,22,1,1,1,0,0,0,3,6.95,0,0,0,0,0,1,37,0,38
-Nepal,SP Gauchan,2d8aae2f,10,6,12,0,0,50.0,"[1, 10, 12]",3.0,18,12,0,16,1,1,0,0,0,0,1,5.33,0,0,0,0,-4,2,16,0,18
-Nepal,Karan KC,f53b3e1d,11,0,2,0,0,0.0,[3],1.0,6,2,0,16,3,0,0,0,0,0,2,16.0,0,0,0,0,0,-2,2,0,0
-Papua New Guinea,TP Ura,a82eb3fb,1,32,21,4,1,152.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,62,0,0,62
-Papua New Guinea,L Siaka,6b4593ee,2,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Papua New Guinea,A Vala,72e60730,3,34,44,2,1,77.27,"[16, 18, 20]",2.667,16,10,0,7,0,0,2,0,0,0,0,2.62,2,0,0,0,0,52,66,16,134
-Papua New Guinea,K Pala,f5b68485,4,22,16,1,2,137.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,40,0,8,48
-Papua New Guinea,MD Dai,5be810ba,4,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,11,0,13,0,0,2,0,1,0,0,3.25,0,0,1,0,0,0,75,12,87
-Papua New Guinea,CJA Amini,4d84ad05,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,0,0,14,14
-Papua New Guinea,JNT Vare,3e326efc,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,0,0,0,12,12
-Papua New Guinea,JB Reva,6a685375,7,0,0,0,0,0.0,"[6, 9, 11, 19]",4.0,24,12,0,11,0,0,2,0,1,0,0,2.75,0,0,0,0,0,0,76,0,76
-Papua New Guinea,N Vanua,a36915ce,8,0,0,0,0,0.0,"[2, 4, 15]",3.0,18,12,0,17,3,0,1,0,0,0,2,5.67,0,0,0,1,0,0,41,6,47
-Papua New Guinea,L Nou,9f500ddb,9,0,0,0,0,0.0,"[1, 3, 13]",3.0,18,7,0,15,1,0,0,0,0,0,0,5.0,0,0,0,0,0,0,11,0,11
-Papua New Guinea,WT Gavera,7516045a,10,0,0,0,0,0.0,"[5, 7, 17]",3.0,18,7,0,23,4,0,0,0,0,0,0,7.67,1,0,0,0,0,0,7,8,15
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Nepal,Sagar Pun,3c4007d3,1,15,12,3,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27,32,True,False,False,Right-arm offbreak,Right-hand bat
+Nepal,PS Airee,cc18ba92,2,29,28,4,0,103.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,49,0,0,49,32,True,True,False,Right-arm medium,Right-hand bat
+Nepal,G Malla,b2e1d224,3,2,7,0,0,28.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,34,True,False,False,,Right-hand bat
+Nepal,P Khadka,12c3ba4d,4,5,9,0,0,55.56,"[5, 7, 9, 14]",4.0,24,10,0,29,1,2,0,0,0,0,1,7.25,0,0,0,0,0,5,10,0,15,37,True,False,True,Right-arm offbreak,Right-hand bat
+Nepal,S Vesawkar,3de06845,5,11,15,0,0,73.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,36,True,False,False,Right-arm offbreak,Right-hand bat
+Nepal,RP Magar,95bcba19,6,7,19,0,0,36.84,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,1,0,0,1,32,True,False,False,Legbreak googly,Right-hand bat
+Nepal,B Bhandari,82342b13,7,4,2,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,8,0,20,28,35,True,True,False,Right-arm bowler,Right-hand bat
+Nepal,Sompal Kami,1adb8ee8,8,4,9,0,0,44.44,"[2, 4, 6]",3.0,18,9,0,14,1,0,1,0,0,0,1,4.67,0,0,0,0,0,4,40,0,44,29,True,False,True,Right-arm fast-medium,Right-hand bat
+Nepal,B Regmi,98d05440,9,1,3,0,0,33.33,"[8, 11, 13, 15]",3.167,19,10,0,22,1,1,1,0,0,0,3,6.95,0,0,0,0,0,1,37,0,38,38,True,False,False,Slow left-arm orthodox,Left-hand bat
+Nepal,SP Gauchan,2d8aae2f,10,6,12,0,0,50.0,"[1, 10, 12]",3.0,18,12,0,16,1,1,0,0,0,0,1,5.33,0,0,0,0,-4,2,16,0,18,40,True,False,False,Slow left-arm orthodox,Right-hand bat
+Nepal,Karan KC,f53b3e1d,11,0,2,0,0,0.0,[3],1.0,6,2,0,16,3,0,0,0,0,0,2,16.0,0,0,0,0,0,-2,2,0,0,33,True,False,True,Right-arm fast,Right-hand bat
+Papua New Guinea,TP Ura,a82eb3fb,1,32,21,4,1,152.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,62,0,0,62,35,True,False,False,,Right-hand bat
+Papua New Guinea,L Siaka,6b4593ee,2,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,32,True,False,False,Legbreak,Right-hand bat
+Papua New Guinea,A Vala,72e60730,3,34,44,2,1,77.27,"[16, 18, 20]",2.667,16,10,0,7,0,0,2,0,0,0,0,2.62,2,0,0,0,0,52,66,16,134,37,True,False,False,Right-arm offbreak,Left-hand bat
+Papua New Guinea,K Pala,f5b68485,4,22,16,1,2,137.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,40,0,8,48,39,True,False,False,Right-arm medium,Left-hand bat
+Papua New Guinea,MD Dai,5be810ba,4,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,11,0,13,0,0,2,0,1,0,0,3.25,0,0,1,0,0,0,75,12,87,40,True,False,True,Legbreak googly,Right-hand bat
+Papua New Guinea,CJA Amini,4d84ad05,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,0,0,14,14,32,True,False,True,Legbreak,Left-hand bat
+Papua New Guinea,JNT Vare,3e326efc,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,0,0,0,12,12,39,True,False,False,,Right-hand bat
+Papua New Guinea,JB Reva,6a685375,7,0,0,0,0,0.0,"[6, 9, 11, 19]",4.0,24,12,0,11,0,0,2,0,1,0,0,2.75,0,0,0,0,0,0,76,0,76,34,True,False,False,Right-arm medium,Right-hand bat
+Papua New Guinea,N Vanua,a36915ce,8,0,0,0,0,0.0,"[2, 4, 15]",3.0,18,12,0,17,3,0,1,0,0,0,2,5.67,0,0,0,1,0,0,41,6,47,31,True,False,False,Right-arm medium,Right-hand bat
+Papua New Guinea,L Nou,9f500ddb,9,0,0,0,0,0.0,"[1, 3, 13]",3.0,18,7,0,15,1,0,0,0,0,0,0,5.0,0,0,0,0,0,0,11,0,11,37,True,False,False,Right-arm fast-medium,Right-hand bat
+Papua New Guinea,WT Gavera,7516045a,10,0,0,0,0,0.0,"[5, 7, 17]",3.0,18,7,0,23,4,0,0,0,0,0,0,7.67,1,0,0,0,0,0,7,8,15,36,True,False,False,Right-arm fast,Right-hand bat

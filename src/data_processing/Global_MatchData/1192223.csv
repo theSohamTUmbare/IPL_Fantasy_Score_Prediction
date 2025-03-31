@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Malaysia,Virandeep Singh,415d30b6,1,57,48,7,1,118.75,"[13, 15, 17, 19]",3.5,21,9,0,21,1,1,0,0,0,0,1,6.0,0,0,0,0,0,99,11,0,110
-Malaysia,Syed Aziz,6667067e,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Malaysia,Fitri Sham,d2ec068c,3,12,13,1,0,92.31,"[5, 7, 9, 16]",4.0,24,12,0,26,1,2,1,0,0,0,0,6.5,0,0,0,0,0,16,39,0,55
-Malaysia,Ahmed Faiz,f6b4f746,4,45,39,0,2,115.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,61,0,0,61
-Malaysia,Shafiq Sharif,033ac24e,5,2,7,0,0,28.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Malaysia,Aminuddin Ramly,8cae5b48,6,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Malaysia,S Muniandy,57fcfd3b,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Malaysia,M Syahadat Ramli,5efa8af3,8,8,6,0,1,133.33,[11],1.0,6,1,0,14,1,1,0,0,0,0,0,14.0,0,0,0,0,0,14,1,0,15
-Malaysia,NCK Liyanage,d1b5efdf,9,0,1,0,0,0.0,"[1, 3]",2.0,12,6,0,19,4,0,0,0,0,0,0,9.5,0,0,0,0,0,0,6,0,6
-Malaysia,Anwar Rahman,28adcce9,10,0,1,0,0,0.0,"[8, 10, 12, 18]",4.0,24,11,0,20,2,0,2,1,1,0,1,5.0,1,0,0,0,0,-2,81,8,87
-Malaysia,Pavandeep Singh,78fcc740,11,1,1,0,0,100.0,"[2, 4, 6, 14]",4.0,24,15,0,28,0,3,0,0,0,0,4,7.0,0,0,0,0,0,1,17,0,18
-Nepal,PS Airee,cc18ba92,1,8,17,0,1,47.06,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,8,0,8,16
-Nepal,P Khadka,12c3ba4d,2,86,50,8,5,172.0,[11],1.0,6,2,0,4,0,0,0,0,0,0,0,4.0,0,0,0,0,6,166,2,0,168
-Nepal,G Malla,b2e1d224,3,7,20,0,0,35.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,1,0,0,1
-Nepal,RK Paudel,1a3cc554,4,5,4,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
-Nepal,S Vesawkar,3de06845,5,16,20,0,1,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
-Nepal,Karan KC,f53b3e1d,5,0,0,0,0,0.0,"[2, 14, 18, 20]",4.0,24,10,0,27,3,1,3,0,2,0,0,6.75,1,0,0,0,0,0,107,8,115
-Nepal,B Bhandari,82342b13,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Nepal,Sompal Kami,1adb8ee8,7,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,12,0,15,2,0,1,0,1,1,1,5.0,0,0,0,0,0,0,49,0,49
-Nepal,S Lamichhane,b410bd3d,8,0,0,0,0,0.0,"[7, 9, 13, 19]",4.0,24,10,0,25,0,2,2,0,0,0,0,6.25,0,0,0,0,0,0,62,0,62
-Nepal,B Regmi,98d05440,9,0,0,0,0,0.0,"[8, 10, 15, 17]",4.0,24,5,0,28,0,1,2,0,0,0,0,7.0,1,0,0,0,0,0,57,8,65
-Nepal,LN Rajbanshi,6ad2d5f7,10,0,0,0,0,0.0,"[4, 6, 12, 16]",4.0,24,9,0,28,3,0,0,0,0,0,0,7.0,1,0,0,0,0,0,11,8,19
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Malaysia,Virandeep Singh,415d30b6,1,57,48,7,1,118.75,"[13, 15, 17, 19]",3.5,21,9,0,21,1,1,0,0,0,0,1,6.0,0,0,0,0,0,99,11,0,110,26,True,False,True,Slow left-arm orthodox,Right-hand bat
+Malaysia,Syed Aziz,6667067e,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,26,True,False,True,Right-arm medium,Left-hand bat
+Malaysia,Fitri Sham,d2ec068c,3,12,13,1,0,92.31,"[5, 7, 9, 16]",4.0,24,12,0,26,1,2,1,0,0,0,0,6.5,0,0,0,0,0,16,39,0,55,31,True,True,False,Slow left-arm orthodox,Left-hand bat
+Malaysia,Ahmed Faiz,f6b4f746,4,45,39,0,2,115.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,61,0,0,61,37,True,False,False,Legbreak,Right-hand bat
+Malaysia,Shafiq Sharif,033ac24e,5,2,7,0,0,28.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,35,True,False,False,,Right-hand bat
+Malaysia,Aminuddin Ramly,8cae5b48,6,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,34,True,False,True,Right-arm medium,Right-hand bat
+Malaysia,S Muniandy,57fcfd3b,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,29,True,False,False,Right-arm medium,Right-hand bat
+Malaysia,M Syahadat Ramli,5efa8af3,8,8,6,0,1,133.33,[11],1.0,6,1,0,14,1,1,0,0,0,0,0,14.0,0,0,0,0,0,14,1,0,15,31,True,True,False,Right-arm offbreak,Right-hand bat
+Malaysia,NCK Liyanage,d1b5efdf,9,0,1,0,0,0.0,"[1, 3]",2.0,12,6,0,19,4,0,0,0,0,0,0,9.5,0,0,0,0,0,0,6,0,6,49,True,False,True,Left-arm medium-fast,Right-hand bat
+Malaysia,Anwar Rahman,28adcce9,10,0,1,0,0,0.0,"[8, 10, 12, 18]",4.0,24,11,0,20,2,0,2,1,1,0,1,5.0,1,0,0,0,0,-2,81,8,87,28,True,True,False,Slow left-arm orthodox,Right-hand bat
+Malaysia,Pavandeep Singh,78fcc740,11,1,1,0,0,100.0,"[2, 4, 6, 14]",4.0,24,15,0,28,0,3,0,0,0,0,4,7.0,0,0,0,0,0,1,17,0,18,27,True,False,False,Slow left-arm orthodox,Right-hand bat
+Nepal,PS Airee,cc18ba92,1,8,17,0,1,47.06,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,8,0,8,16,32,True,True,False,Right-arm medium,Right-hand bat
+Nepal,P Khadka,12c3ba4d,2,86,50,8,5,172.0,[11],1.0,6,2,0,4,0,0,0,0,0,0,0,4.0,0,0,0,0,6,166,2,0,168,37,True,False,True,Right-arm offbreak,Right-hand bat
+Nepal,G Malla,b2e1d224,3,7,20,0,0,35.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,1,0,0,1,34,True,False,False,,Right-hand bat
+Nepal,RK Paudel,1a3cc554,4,5,4,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,22,True,False,True,Right-arm offbreak,Right-hand bat
+Nepal,S Vesawkar,3de06845,5,16,20,0,1,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,36,True,False,False,Right-arm offbreak,Right-hand bat
+Nepal,Karan KC,f53b3e1d,5,0,0,0,0,0.0,"[2, 14, 18, 20]",4.0,24,10,0,27,3,1,3,0,2,0,0,6.75,1,0,0,0,0,0,107,8,115,33,True,False,True,Right-arm fast,Right-hand bat
+Nepal,B Bhandari,82342b13,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,35,True,True,False,Right-arm bowler,Right-hand bat
+Nepal,Sompal Kami,1adb8ee8,7,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,12,0,15,2,0,1,0,1,1,1,5.0,0,0,0,0,0,0,49,0,49,29,True,False,True,Right-arm fast-medium,Right-hand bat
+Nepal,S Lamichhane,b410bd3d,8,0,0,0,0,0.0,"[7, 9, 13, 19]",4.0,24,10,0,25,0,2,2,0,0,0,0,6.25,0,0,0,0,0,0,62,0,62,24,True,False,False,Legbreak googly,Right-hand bat
+Nepal,B Regmi,98d05440,9,0,0,0,0,0.0,"[8, 10, 15, 17]",4.0,24,5,0,28,0,1,2,0,0,0,0,7.0,1,0,0,0,0,0,57,8,65,38,True,False,False,Slow left-arm orthodox,Left-hand bat
+Nepal,LN Rajbanshi,6ad2d5f7,10,0,0,0,0,0.0,"[4, 6, 12, 16]",4.0,24,9,0,28,3,0,0,0,0,0,0,7.0,1,0,0,0,0,0,11,8,19,26,True,False,False,Slow left-arm orthodox,Right-hand bat

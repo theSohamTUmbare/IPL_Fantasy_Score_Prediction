@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Dolphins,VB van Jaarsveld,890b877d,1,14,16,2,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
-Dolphins,MN van Wyk,710dd98c,2,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
-Dolphins,SJ Erwee,a3ce3d1d,3,3,9,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11
-Dolphins,DJ Vilas,087210b1,4,21,20,0,1,105.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27
-Dolphins,K Zondo,4aad78d3,5,7,14,0,0,50.0,[8],1.0,6,3,0,10,0,1,1,0,0,0,2,10.0,0,0,0,0,-4,3,28,0,31
-Dolphins,BS Makhanya,1b42a100,6,7,4,1,0,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
-Dolphins,AL Phehlukwayo,ab6b1c45,7,21,18,1,1,116.67,"[4, 6, 12]",2.167,13,5,0,20,2,1,0,0,0,0,1,9.23,0,0,0,0,0,31,5,0,36
-Dolphins,R Frylinck,8b248d88,8,0,5,0,0,0.0,"[1, 3, 5]",3.0,18,7,0,26,3,1,1,0,0,0,0,8.67,0,0,0,0,0,-2,32,0,30
-Dolphins,KA Maharaj,0b60eb09,9,14,16,1,0,87.5,"[7, 9, 11]",3.0,18,8,0,10,0,0,0,0,0,0,0,3.33,0,0,0,0,0,18,14,0,32
-Dolphins,Imran Tahir,acee4cc4,10,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Dolphins,M Shezi,016e5101,11,0,1,0,0,0.0,"[2, 10]",2.0,12,3,0,34,3,2,1,0,0,1,1,17.0,0,0,0,0,0,-2,22,0,20
-Titans,Q de Kock,372455c4,1,39,27,4,2,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,2,73,0,14,87
-Titans,R Moonsamy,29e676b0,2,7,8,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
-Titans,AK Markram,6a26221c,3,18,14,3,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30
-Titans,AB de Villiers,c4487b84,4,27,12,0,3,225.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,55,0,16,71
-Titans,F Behardien,dce2019b,5,4,6,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12
-Titans,JA Morkel,c3d35165,5,0,0,0,0,0.0,[1],1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,0,0,1,0,1
-Titans,CH Morris,fb66ce1f,6,0,0,0,0,0.0,"[3, 5, 17, 19]",3.5,21,13,0,13,0,1,4,0,1,0,0,3.71,0,0,0,0,0,0,135,0,135
-Titans,CJ Dala,1cb14aa4,7,0,0,0,0,0.0,"[7, 9, 18]",3.0,18,5,0,21,0,1,1,0,0,0,2,7.0,0,0,0,1,0,0,32,6,38
-Titans,L Ngidi,f834dcfc,8,0,0,0,0,0.0,"[2, 4, 6, 11]",4.0,24,12,0,15,1,0,2,0,1,0,0,3.75,0,0,0,0,0,0,76,0,76
-Titans,T Shamsi,a03bba42,9,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,11,0,26,3,0,0,0,0,0,0,6.5,0,0,0,0,0,0,13,0,13
-Titans,MP Siboto,9d50c7e1,10,0,0,0,0,0.0,"[8, 13, 15]",3.0,18,10,1,10,0,0,2,0,1,0,0,3.33,2,0,0,0,0,0,86,16,102
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Dolphins,VB van Jaarsveld,890b877d,1,14,16,2,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,40,True,False,False,Right-arm medium,Left-hand bat
+Dolphins,MN van Wyk,710dd98c,2,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,46,True,True,False,Slow left-arm orthodox,Right-hand bat
+Dolphins,SJ Erwee,a3ce3d1d,3,3,9,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11,35,True,False,False,Right-arm offbreak,Left-hand bat
+Dolphins,DJ Vilas,087210b1,4,21,20,0,1,105.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27,39,True,False,False,,Right-hand bat
+Dolphins,K Zondo,4aad78d3,5,7,14,0,0,50.0,[8],1.0,6,3,0,10,0,1,1,0,0,0,2,10.0,0,0,0,0,-4,3,28,0,31,35,True,False,False,Right-arm offbreak,Right-hand bat
+Dolphins,BS Makhanya,1b42a100,6,7,4,1,0,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,29,True,False,False,Right-arm medium,Right-hand bat
+Dolphins,AL Phehlukwayo,ab6b1c45,7,21,18,1,1,116.67,"[4, 6, 12]",2.167,13,5,0,20,2,1,0,0,0,0,1,9.23,0,0,0,0,0,31,5,0,36,29,True,False,True,Right-arm medium-fast,Left-hand bat
+Dolphins,R Frylinck,8b248d88,8,0,5,0,0,0.0,"[1, 3, 5]",3.0,18,7,0,26,3,1,1,0,0,0,0,8.67,0,0,0,0,0,-2,32,0,30,40,True,False,True,Right-arm medium,Right-hand bat
+Dolphins,KA Maharaj,0b60eb09,9,14,16,1,0,87.5,"[7, 9, 11]",3.0,18,8,0,10,0,0,0,0,0,0,0,3.33,0,0,0,0,0,18,14,0,32,35,True,False,False,Slow left-arm orthodox,Right-hand bat
+Dolphins,Imran Tahir,acee4cc4,10,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,46,True,False,False,Legbreak googly,Right-hand bat
+Dolphins,M Shezi,016e5101,11,0,1,0,0,0.0,"[2, 10]",2.0,12,3,0,34,3,2,1,0,0,1,1,17.0,0,0,0,0,0,-2,22,0,20,37,True,False,False,Left-arm medium,Left-hand bat
+Titans,Q de Kock,372455c4,1,39,27,4,2,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,2,73,0,14,87,32,True,False,False,,Left-hand bat
+Titans,R Moonsamy,29e676b0,2,7,8,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,28,True,True,False,Right-arm offbreak,Right-hand bat
+Titans,AK Markram,6a26221c,3,18,14,3,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30,30,True,False,True,Right-arm offbreak,Right-hand bat
+Titans,AB de Villiers,c4487b84,4,27,12,0,3,225.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,55,0,16,71,41,True,True,False,Right-arm medium,Right-hand bat
+Titans,F Behardien,dce2019b,5,4,6,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12,41,True,False,True,Right-arm fast-medium,Right-hand bat
+Titans,JA Morkel,c3d35165,5,0,0,0,0,0.0,[1],1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,0,0,1,0,1,43,True,False,True,Right-arm medium-fast,Left-hand bat
+Titans,CH Morris,fb66ce1f,6,0,0,0,0,0.0,"[3, 5, 17, 19]",3.5,21,13,0,13,0,1,4,0,1,0,0,3.71,0,0,0,0,0,0,135,0,135,37,True,False,True,Right-arm fast-medium,Right-hand bat
+Titans,CJ Dala,1cb14aa4,7,0,0,0,0,0.0,"[7, 9, 18]",3.0,18,5,0,21,0,1,1,0,0,0,2,7.0,0,0,0,1,0,0,32,6,38,35,True,False,False,Right-arm medium,Right-hand bat
+Titans,L Ngidi,f834dcfc,8,0,0,0,0,0.0,"[2, 4, 6, 11]",4.0,24,12,0,15,1,0,2,0,1,0,0,3.75,0,0,0,0,0,0,76,0,76,29,True,False,False,Right-arm fast-medium,Right-hand bat
+Titans,T Shamsi,a03bba42,9,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,11,0,26,3,0,0,0,0,0,0,6.5,0,0,0,0,0,0,13,0,13,35,True,False,False,Left-arm wrist-spin,Right-hand bat
+Titans,MP Siboto,9d50c7e1,10,0,0,0,0,0.0,"[8, 13, 15]",3.0,18,10,1,10,0,0,2,0,1,0,0,3.33,2,0,0,0,0,0,86,16,102,37,True,False,False,Right-arm medium,Left-hand bat

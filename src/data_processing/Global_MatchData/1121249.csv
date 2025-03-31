@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Chittagong Vikings,L Ronchi,0fa5042b,1,40,21,4,3,190.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,84,0,8,92
-Chittagong Vikings,Soumya Sarkar,4d9f9686,2,38,33,3,1,115.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,60,0,0,60
-Chittagong Vikings,EMDY Munaweera,5a22d91c,3,21,22,0,1,95.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27
-Chittagong Vikings,Subashis Roy,a3a078ba,4,0,0,0,0,0.0,"[5, 7, 14, 18]",3.333,20,9,0,24,3,0,2,1,0,0,0,7.2,0,0,0,0,0,0,67,0,67
-Chittagong Vikings,Anamul Haque,72b245dd,4,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
-Chittagong Vikings,Misbah-ul-Haq,7eae4418,5,6,11,0,0,54.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,2,0,0,2
-Chittagong Vikings,Taskin Ahmed,ef18b66e,5,0,0,0,0,0.0,"[3, 9, 17]",3.0,18,3,0,36,3,2,0,0,0,1,0,12.0,0,0,0,0,0,0,-1,0,-1
-Chittagong Vikings,LM Reece,9789e56e,6,9,9,1,0,100.0,"[11, 13]",2.0,12,3,0,10,0,0,0,0,0,0,0,5.0,0,0,0,0,0,13,7,0,20
-Chittagong Vikings,Sikandar Raza,26d041c4,7,18,13,2,0,138.46,"[6, 8, 16]",3.0,18,8,0,17,1,0,0,0,0,0,0,5.67,0,0,0,0,2,28,12,0,40
-Chittagong Vikings,Suhrawadi Shuvo,8fb49ef8,8,3,4,0,0,75.0,"[2, 10, 12]",3.0,18,5,0,29,1,2,0,0,0,0,2,9.67,0,0,0,0,0,3,5,0,8
-Chittagong Vikings,Sunzamul Islam,0f348f58,9,1,1,0,0,100.0,"[1, 4, 15]",3.0,18,7,0,27,3,1,0,0,0,0,1,9.0,0,0,0,0,0,1,7,0,8
-Comilla Victorians,Liton Das,0404d43c,1,23,14,3,1,164.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,45,0,0,45
-Comilla Victorians,JC Buttler,99b75528,2,48,42,3,2,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,76,0,0,76
-Comilla Victorians,Imrul Kayes,5fbe14fc,3,33,31,1,1,106.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,47,0,0,47
-Comilla Victorians,MN Samuels,f846de6a,4,35,17,4,1,205.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,67,0,8,75
-Comilla Victorians,Alok Kapali,54279e23,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Comilla Victorians,Mohammad Nabi,62af8546,5,0,0,0,0,0.0,"[6, 8]",2.0,12,6,0,18,2,1,1,0,0,0,0,9.0,0,0,0,0,0,0,31,0,31
-Comilla Victorians,DJ Bravo,87e562a9,6,0,0,0,0,0.0,"[5, 10, 12, 16]",4.0,24,4,0,29,0,2,2,0,1,0,0,7.25,1,0,0,0,0,0,62,8,70
-Comilla Victorians,Mohammad Saifuddin,b3a28446,7,0,0,0,0,0.0,"[9, 11, 14, 20]",4.0,24,7,0,24,2,0,3,0,1,0,0,6.0,0,0,0,0,0,0,96,0,96
-Comilla Victorians,Rashid Khan,5f547c8b,8,0,0,0,0,0.0,"[7, 13, 15, 18]",4.0,24,10,0,21,2,0,0,0,0,0,0,5.25,1,0,0,0,0,0,14,8,22
-Comilla Victorians,Arafat Sunny,1f7adc8a,9,0,0,0,0,0.0,"[1, 3]",2.0,12,5,0,19,1,2,0,0,0,0,0,9.5,0,0,0,0,0,0,5,0,5
-Comilla Victorians,Al-Amin Hossain,3f5f39cd,10,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,5,0,28,3,0,1,0,1,0,0,7.0,0,0,0,0,0,0,40,0,40
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Chittagong Vikings,L Ronchi,0fa5042b,1,40,21,4,3,190.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,84,0,8,92,43,True,False,False,,Right-hand bat
+Chittagong Vikings,Soumya Sarkar,4d9f9686,2,38,33,3,1,115.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,60,0,0,60,32,True,False,True,Right-arm medium-fast,Left-hand bat
+Chittagong Vikings,EMDY Munaweera,5a22d91c,3,21,22,0,1,95.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27,35,True,False,False,Right-arm offbreak,Right-hand bat
+Chittagong Vikings,Subashis Roy,a3a078ba,4,0,0,0,0,0.0,"[5, 7, 14, 18]",3.333,20,9,0,24,3,0,2,1,0,0,0,7.2,0,0,0,0,0,0,67,0,67,36,True,True,False,Right-arm fast-medium,Right-hand bat
+Chittagong Vikings,Anamul Haque,72b245dd,4,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,32,True,False,False,,Right-hand bat
+Chittagong Vikings,Misbah-ul-Haq,7eae4418,5,6,11,0,0,54.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,2,0,0,2,50,True,False,False,Legbreak,Right-hand bat
+Chittagong Vikings,Taskin Ahmed,ef18b66e,5,0,0,0,0,0.0,"[3, 9, 17]",3.0,18,3,0,36,3,2,0,0,0,1,0,12.0,0,0,0,0,0,0,-1,0,-1,29,True,False,False,Right-arm fast,Left-hand bat
+Chittagong Vikings,LM Reece,9789e56e,6,9,9,1,0,100.0,"[11, 13]",2.0,12,3,0,10,0,0,0,0,0,0,0,5.0,0,0,0,0,0,13,7,0,20,34,True,False,True,Left-arm medium,Left-hand bat
+Chittagong Vikings,Sikandar Raza,26d041c4,7,18,13,2,0,138.46,"[6, 8, 16]",3.0,18,8,0,17,1,0,0,0,0,0,0,5.67,0,0,0,0,2,28,12,0,40,38,True,False,True,Legbreak,Right-hand bat
+Chittagong Vikings,Suhrawadi Shuvo,8fb49ef8,8,3,4,0,0,75.0,"[2, 10, 12]",3.0,18,5,0,29,1,2,0,0,0,0,2,9.67,0,0,0,0,0,3,5,0,8,36,True,False,False,Slow left-arm orthodox,Left-hand bat
+Chittagong Vikings,Sunzamul Islam,0f348f58,9,1,1,0,0,100.0,"[1, 4, 15]",3.0,18,7,0,27,3,1,0,0,0,0,1,9.0,0,0,0,0,0,1,7,0,8,35,True,False,True,Slow left-arm orthodox,Left-hand bat
+Comilla Victorians,Liton Das,0404d43c,1,23,14,3,1,164.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,45,0,0,45,30,True,True,False,Right-arm offbreak,Right-hand bat
+Comilla Victorians,JC Buttler,99b75528,2,48,42,3,2,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,76,0,0,76,34,True,False,False,,Right-hand bat
+Comilla Victorians,Imrul Kayes,5fbe14fc,3,33,31,1,1,106.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,47,0,0,47,38,True,False,False,Slow left-arm orthodox,Left-hand bat
+Comilla Victorians,MN Samuels,f846de6a,4,35,17,4,1,205.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,67,0,8,75,44,True,False,False,Right-arm offbreak,Right-hand bat
+Comilla Victorians,Alok Kapali,54279e23,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,41,True,False,True,Legbreak,Right-hand bat
+Comilla Victorians,Mohammad Nabi,62af8546,5,0,0,0,0,0.0,"[6, 8]",2.0,12,6,0,18,2,1,1,0,0,0,0,9.0,0,0,0,0,0,0,31,0,31,40,True,False,True,Right-arm offbreak,Right-hand bat
+Comilla Victorians,DJ Bravo,87e562a9,6,0,0,0,0,0.0,"[5, 10, 12, 16]",4.0,24,4,0,29,0,2,2,0,1,0,0,7.25,1,0,0,0,0,0,62,8,70,41,True,False,True,Right-arm medium,Right-hand bat
+Comilla Victorians,Mohammad Saifuddin,b3a28446,7,0,0,0,0,0.0,"[9, 11, 14, 20]",4.0,24,7,0,24,2,0,3,0,1,0,0,6.0,0,0,0,0,0,0,96,0,96,28,True,False,True,Right-arm medium-fast,Left-hand bat
+Comilla Victorians,Rashid Khan,5f547c8b,8,0,0,0,0,0.0,"[7, 13, 15, 18]",4.0,24,10,0,21,2,0,0,0,0,0,0,5.25,1,0,0,0,0,0,14,8,22,26,True,False,True,Legbreak googly,Right-hand bat
+Comilla Victorians,Arafat Sunny,1f7adc8a,9,0,0,0,0,0.0,"[1, 3]",2.0,12,5,0,19,1,2,0,0,0,0,0,9.5,0,0,0,0,0,0,5,0,5,38,True,False,False,Slow left-arm orthodox,Left-hand bat
+Comilla Victorians,Al-Amin Hossain,3f5f39cd,10,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,5,0,28,3,0,1,0,1,0,0,7.0,0,0,0,0,0,0,40,0,40,32,True,False,False,Right-arm medium-fast,Right-hand bat

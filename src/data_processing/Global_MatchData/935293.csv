@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Barisal Bulls,Shahriar Nafees,b9c225c2,1,12,11,2,0,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
-Barisal Bulls,Rony Talukdar,8bd614b2,2,20,13,2,0,153.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,32,0,0,32
-Barisal Bulls,BRM Taylor,53597be1,3,9,9,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,17,0,16,33
-Barisal Bulls,Mahmudullah,bf1d7d3e,4,7,13,1,0,53.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,7,0,0,7
-Barisal Bulls,Sabbir Rahman,7147f314,5,15,14,0,1,107.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
-Barisal Bulls,Nadif Chowdhury,d6ac6545,6,24,28,1,1,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,34,0,8,42
-Barisal Bulls,S Prasanna,f78e7113,7,0,3,0,0,0.0,"[7, 9, 11, 13]",4.0,24,9,0,20,1,0,0,0,0,0,0,5.0,1,0,0,0,0,-2,13,8,19
-Barisal Bulls,KK Cooper,557153ca,8,2,3,0,0,66.67,"[8, 10, 14, 16]",4.0,24,13,0,14,0,0,0,0,0,0,1,3.5,0,0,0,0,0,2,19,0,21
-Barisal Bulls,Taijul Islam,9d1d34bd,9,10,17,1,0,58.82,"[12, 15, 18, 20]",4.0,24,10,0,23,0,1,3,1,0,0,1,5.75,1,0,0,0,-4,10,101,8,119
-Barisal Bulls,Mohammad Sami,68ddabdb,10,0,0,0,0,0.0,"[1, 3, 5, 17]",4.0,24,19,0,9,1,0,1,0,1,0,2,2.25,0,0,0,0,0,0,58,0,58
-Barisal Bulls,Al-Amin Hossain,3f5f39cd,11,3,6,0,0,50.0,"[2, 4, 6, 19]",4.0,24,9,0,36,7,0,5,0,2,0,0,9.0,0,0,0,0,0,3,162,0,165
-Sylhet Super Stars,EMDY Munaweera,5a22d91c,1,36,31,6,0,116.13,[16],1.0,6,3,0,6,1,0,0,0,0,0,0,6.0,0,0,0,0,0,64,3,0,67
-Sylhet Super Stars,Mominul Haque,de0a3209,2,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,2,0,6,8
-Sylhet Super Stars,RS Bopara,7ca5e05d,3,4,3,1,0,133.33,"[10, 12, 14, 17]",4.0,24,10,0,14,0,0,1,0,0,0,0,3.5,1,0,0,0,0,8,41,8,57
-Sylhet Super Stars,Nurul Hasan,d365d463,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Sylhet Super Stars,Mushfiqur Rahim,a94e08ea,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,1,1,0,-2,0,34,32
-Sylhet Super Stars,OA Shah,7bf96684,6,11,29,0,0,37.93,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,5,0,8,13
-Sylhet Super Stars,Nazmul Hossain Milon,0637aa94,7,15,21,1,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,19,0,8,27
-Sylhet Super Stars,Nazmul Islam,6575e3bc,8,16,14,0,1,114.29,"[7, 9, 11, 13]",4.0,24,12,0,18,0,1,3,0,0,0,1,4.5,1,0,0,0,0,22,97,8,127
-Sylhet Super Stars,Mohammad Shahid,c285c86e,9,2,6,0,0,33.33,"[1, 3, 18, 20]",3.5,21,11,0,15,1,0,1,0,1,0,1,4.29,0,0,0,0,0,2,50,0,52
-Sylhet Super Stars,FH Edwards,a7c226e1,10,11,6,1,0,183.33,"[2, 5, 15, 19]",4.0,24,13,0,35,4,1,1,0,0,2,1,8.75,0,0,0,0,0,15,38,0,53
-Sylhet Super Stars,Subashis Roy,a3a078ba,11,1,2,0,0,50.0,"[4, 6, 8]",3.0,18,9,0,19,3,0,1,0,0,0,0,6.33,0,0,1,0,0,1,36,12,49
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Barisal Bulls,Shahriar Nafees,b9c225c2,1,12,11,2,0,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,39,True,False,False,,Left-hand bat
+Barisal Bulls,Rony Talukdar,8bd614b2,2,20,13,2,0,153.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,32,0,0,32,34,True,False,False,Right-arm slow-medium,Right-hand bat
+Barisal Bulls,BRM Taylor,53597be1,3,9,9,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,17,0,16,33,39,True,True,False,Right-arm offbreak,Right-hand bat
+Barisal Bulls,Mahmudullah,bf1d7d3e,4,7,13,1,0,53.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,7,0,0,7,39,True,False,True,Right-arm offbreak,Right-hand bat
+Barisal Bulls,Sabbir Rahman,7147f314,5,15,14,0,1,107.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21,33,True,False,True,Legbreak,Right-hand bat
+Barisal Bulls,Nadif Chowdhury,d6ac6545,6,24,28,1,1,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,34,0,8,42,37,True,False,False,Slow left-arm orthodox,Right-hand bat
+Barisal Bulls,S Prasanna,f78e7113,7,0,3,0,0,0.0,"[7, 9, 11, 13]",4.0,24,9,0,20,1,0,0,0,0,0,0,5.0,1,0,0,0,0,-2,13,8,19,39,True,False,True,Legbreak,Right-hand bat
+Barisal Bulls,KK Cooper,557153ca,8,2,3,0,0,66.67,"[8, 10, 14, 16]",4.0,24,13,0,14,0,0,0,0,0,0,1,3.5,0,0,0,0,0,2,19,0,21,36,True,False,True,Right-arm medium,Right-hand bat
+Barisal Bulls,Taijul Islam,9d1d34bd,9,10,17,1,0,58.82,"[12, 15, 18, 20]",4.0,24,10,0,23,0,1,3,1,0,0,1,5.75,1,0,0,0,-4,10,101,8,119,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+Barisal Bulls,Mohammad Sami,68ddabdb,10,0,0,0,0,0.0,"[1, 3, 5, 17]",4.0,24,19,0,9,1,0,1,0,1,0,2,2.25,0,0,0,0,0,0,58,0,58,44,True,False,False,Right-arm fast,Right-hand bat
+Barisal Bulls,Al-Amin Hossain,3f5f39cd,11,3,6,0,0,50.0,"[2, 4, 6, 19]",4.0,24,9,0,36,7,0,5,0,2,0,0,9.0,0,0,0,0,0,3,162,0,165,32,True,False,False,Right-arm medium-fast,Right-hand bat
+Sylhet Super Stars,EMDY Munaweera,5a22d91c,1,36,31,6,0,116.13,[16],1.0,6,3,0,6,1,0,0,0,0,0,0,6.0,0,0,0,0,0,64,3,0,67,35,True,False,False,Right-arm offbreak,Right-hand bat
+Sylhet Super Stars,Mominul Haque,de0a3209,2,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,2,0,6,8,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+Sylhet Super Stars,RS Bopara,7ca5e05d,3,4,3,1,0,133.33,"[10, 12, 14, 17]",4.0,24,10,0,14,0,0,1,0,0,0,0,3.5,1,0,0,0,0,8,41,8,57,39,True,False,True,Right-arm medium,Right-hand bat
+Sylhet Super Stars,Nurul Hasan,d365d463,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,31,True,False,False,,Right-hand bat
+Sylhet Super Stars,Mushfiqur Rahim,a94e08ea,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,1,1,0,-2,0,34,32,37,True,False,False,,Right-hand bat
+Sylhet Super Stars,OA Shah,7bf96684,6,11,29,0,0,37.93,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,5,0,8,13,46,True,False,False,Right-arm offbreak,Right-hand bat
+Sylhet Super Stars,Nazmul Hossain Milon,0637aa94,7,15,21,1,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,19,0,8,27,37,True,False,False,Right-arm medium,Right-hand bat
+Sylhet Super Stars,Nazmul Islam,6575e3bc,8,16,14,0,1,114.29,"[7, 9, 11, 13]",4.0,24,12,0,18,0,1,3,0,0,0,1,4.5,1,0,0,0,0,22,97,8,127,33,True,False,False,Slow left-arm orthodox,Left-hand bat
+Sylhet Super Stars,Mohammad Shahid,c285c86e,9,2,6,0,0,33.33,"[1, 3, 18, 20]",3.5,21,11,0,15,1,0,1,0,1,0,1,4.29,0,0,0,0,0,2,50,0,52,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Sylhet Super Stars,FH Edwards,a7c226e1,10,11,6,1,0,183.33,"[2, 5, 15, 19]",4.0,24,13,0,35,4,1,1,0,0,2,1,8.75,0,0,0,0,0,15,38,0,53,43,True,False,False,Right-arm fast,Right-hand bat
+Sylhet Super Stars,Subashis Roy,a3a078ba,11,1,2,0,0,50.0,"[4, 6, 8]",3.0,18,9,0,19,3,0,1,0,0,0,0,6.33,0,0,1,0,0,1,36,12,49,36,True,True,False,Right-arm fast-medium,Right-hand bat

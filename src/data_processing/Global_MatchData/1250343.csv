@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Nottinghamshire,PD Trego,93e06301,1,29,13,6,0,223.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,63,0,0,63
-Nottinghamshire,AD Hales,92aeac25,2,31,9,1,4,344.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,63,0,0,63
-Nottinghamshire,BT Slater,c5f1d2a1,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Nottinghamshire,TJ Moores,85dcb721,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0,0,12,12
-Nottinghamshire,SR Patel,18fac429,4,0,0,0,0,0.0,"[1, 5]",2.0,12,5,0,7,0,0,1,0,0,0,0,3.5,1,0,0,0,0,0,36,8,44
-Nottinghamshire,SJ Mullaney,0e0d43b4,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Nottinghamshire,LW James,2baad3bd,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Nottinghamshire,LJ Fletcher,e423d162,7,0,0,0,0,0.0,"[3, 6]",2.0,12,3,0,29,2,2,0,0,0,0,3,14.5,0,0,0,0,0,0,-3,0,-3
-Nottinghamshire,M Carter,1ca7c00f,8,0,0,0,0,0.0,"[2, 4]",2.0,12,2,0,19,3,0,0,0,0,0,0,9.5,0,0,0,0,0,0,2,0,2
-Nottinghamshire,CG Harrison,f655d740,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Nottinghamshire,D Paterson,462d7c62,10,0,0,0,0,0.0,[7],1.0,6,3,0,5,0,0,2,0,0,0,0,5.0,0,0,0,0,0,0,53,0,53
-Yorkshire,A Lyth,70b8fd28,1,26,18,3,1,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,50,0,0,50
-Yorkshire,GS Ballance,755a77c6,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Yorkshire,HC Brook,4ae1755b,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Yorkshire,JA Thompson,1d2f290a,3,28,19,2,1,147.37,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,48,0,0,48
-Yorkshire,GCH Hill,214f6461,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Yorkshire,DM Bess,ad46c747,4,0,0,0,0,0.0,[1],1.0,6,0,0,18,4,0,0,0,0,0,0,18.0,0,0,0,0,0,0,0,0,0
-Yorkshire,MJ Waite,a4b810d0,4,3,3,0,0,100.0,[3],1.0,6,2,0,16,3,0,0,0,0,0,2,16.0,0,0,0,0,0,3,2,0,5
-Yorkshire,SA Northeast,7e4c8ba3,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Yorkshire,HG Duke,443b47a6,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Yorkshire,MD Fisher,8f2dfebf,6,0,0,0,0,0.0,[2],1.0,6,1,0,11,0,1,0,0,0,0,1,11.0,0,0,0,0,0,0,1,0,1
-Yorkshire,JE Poysden,bbbb7f1e,7,0,0,0,0,0.0,[4],0.667,4,0,0,18,0,3,0,0,0,0,0,26.99,0,0,0,0,0,0,0,0,0
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Nottinghamshire,PD Trego,93e06301,1,29,13,6,0,223.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,63,0,0,63,43,True,False,True,Right-arm medium,Right-hand bat
+Nottinghamshire,AD Hales,92aeac25,2,31,9,1,4,344.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,63,0,0,63,36,True,False,False,Right-arm medium,Right-hand bat
+Nottinghamshire,BT Slater,c5f1d2a1,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,33,True,False,False,Right-arm slow,Left-hand bat
+Nottinghamshire,TJ Moores,85dcb721,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0,0,12,12,28,True,False,False,,Left-hand bat
+Nottinghamshire,SR Patel,18fac429,4,0,0,0,0,0.0,"[1, 5]",2.0,12,5,0,7,0,0,1,0,0,0,0,3.5,1,0,0,0,0,0,36,8,44,40,True,False,True,Slow left-arm orthodox,Right-hand bat
+Nottinghamshire,SJ Mullaney,0e0d43b4,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,38,True,False,True,Right-arm medium,Right-hand bat
+Nottinghamshire,LW James,2baad3bd,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,False,True,Right-arm medium-fast,Right-hand bat
+Nottinghamshire,LJ Fletcher,e423d162,7,0,0,0,0,0.0,"[3, 6]",2.0,12,3,0,29,2,2,0,0,0,0,3,14.5,0,0,0,0,0,0,-3,0,-3,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Nottinghamshire,M Carter,1ca7c00f,8,0,0,0,0,0.0,"[2, 4]",2.0,12,2,0,19,3,0,0,0,0,0,0,9.5,0,0,0,0,0,0,2,0,2,28,True,False,False,Right-arm offbreak,Right-hand bat
+Nottinghamshire,CG Harrison,f655d740,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,False,True,Legbreak googly,Right-hand bat
+Nottinghamshire,D Paterson,462d7c62,10,0,0,0,0,0.0,[7],1.0,6,3,0,5,0,0,2,0,0,0,0,5.0,0,0,0,0,0,0,53,0,53,35,True,False,False,Right-arm fast-medium,Right-hand bat
+Yorkshire,A Lyth,70b8fd28,1,26,18,3,1,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,50,0,0,50,37,True,False,False,Right-arm offbreak,Left-hand bat
+Yorkshire,GS Ballance,755a77c6,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,35,True,False,False,Legbreak,Left-hand bat
+Yorkshire,HC Brook,4ae1755b,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,26,True,False,False,Right-arm medium,Right-hand bat
+Yorkshire,JA Thompson,1d2f290a,3,28,19,2,1,147.37,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,48,0,0,48,28,True,False,True,Right-arm medium-fast,Left-hand bat
+Yorkshire,GCH Hill,214f6461,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,24,True,False,True,Right-arm medium,Right-hand bat
+Yorkshire,DM Bess,ad46c747,4,0,0,0,0,0.0,[1],1.0,6,0,0,18,4,0,0,0,0,0,0,18.0,0,0,0,0,0,0,0,0,0,27,True,False,True,Right-arm offbreak,Right-hand bat
+Yorkshire,MJ Waite,a4b810d0,4,3,3,0,0,100.0,[3],1.0,6,2,0,16,3,0,0,0,0,0,2,16.0,0,0,0,0,0,3,2,0,5,29,True,False,True,Right-arm fast-medium,Right-hand bat
+Yorkshire,SA Northeast,7e4c8ba3,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,35,True,False,False,Right-arm offbreak,Right-hand bat
+Yorkshire,HG Duke,443b47a6,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,23,True,False,False,,Right-hand bat
+Yorkshire,MD Fisher,8f2dfebf,6,0,0,0,0,0.0,[2],1.0,6,1,0,11,0,1,0,0,0,0,1,11.0,0,0,0,0,0,0,1,0,1,27,True,False,False,Right-arm fast-medium,Right-hand bat
+Yorkshire,JE Poysden,bbbb7f1e,7,0,0,0,0,0.0,[4],0.667,4,0,0,18,0,3,0,0,0,0,0,26.99,0,0,0,0,0,0,0,0,0,33,True,True,False,Legbreak,Left-hand bat

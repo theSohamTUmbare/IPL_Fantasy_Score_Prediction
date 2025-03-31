@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Kings XI Punjab,KL Rahul,b17e2f24,1,95,69,11,2,137.68,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,2,165,0,12,177
-Kings XI Punjab,CH Gayle,db584dad,2,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Kings XI Punjab,R Ashwin,495d42a5,3,0,2,0,0,0.0,"[8, 12, 14, 16]",4.0,24,4,0,34,2,1,0,0,0,0,0,8.5,1,0,0,0,0,-2,4,8,10
-Kings XI Punjab,KK Nair,944533a5,4,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11
-Kings XI Punjab,AD Nath,f10e94c4,5,9,13,1,0,69.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,11,0,8,19
-Kings XI Punjab,MK Tiwary,26e5cabf,6,7,8,0,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,7,0,28,35
-Kings XI Punjab,AR Patel,2e171977,7,9,5,1,0,180.0,"[2, 9, 11]",3.0,18,7,0,24,2,1,0,0,0,0,0,8.0,0,0,0,0,0,13,7,0,20
-Kings XI Punjab,MP Stoinis,d9273ee7,8,11,16,0,0,68.75,"[1, 7]",2.0,12,4,0,15,2,0,1,0,0,0,0,7.5,0,0,0,0,-2,9,29,0,38
-Kings XI Punjab,AJ Tye,7c7d63a2,9,1,1,0,0,100.0,"[4, 6, 18, 20]",4.0,24,7,0,34,3,1,4,0,0,0,0,8.5,0,0,0,0,0,1,115,0,116
-Kings XI Punjab,MM Sharma,759ac88f,9,0,0,0,0,0.0,"[3, 5, 19]",3.0,18,7,0,29,3,1,0,0,0,1,1,9.67,0,0,0,0,0,0,7,0,7
-Kings XI Punjab,Mujeeb Ur Rahman,7d92277a,10,0,0,0,0,0.0,"[10, 13, 15, 17]",4.0,24,7,0,21,1,0,2,0,0,0,0,5.25,0,0,0,0,0,0,61,0,61
-Rajasthan Royals,AM Rahane,29e95537,1,9,10,1,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
-Rajasthan Royals,JC Buttler,99b75528,2,82,58,9,1,141.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,2,138,0,12,150
-Rajasthan Royals,K Gowtham,90de905a,3,8,6,0,1,133.33,"[1, 3, 13]",3.0,18,9,0,12,1,0,2,0,1,0,1,4.0,2,0,0,0,0,14,73,16,103
-Rajasthan Royals,SV Samson,a4cc73aa,4,22,18,1,1,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32
-Rajasthan Royals,BA Stokes,e087956b,5,14,10,1,0,140.0,"[6, 12]",2.0,12,6,0,13,2,0,1,0,0,0,0,6.5,0,0,0,0,2,20,33,0,53
-Rajasthan Royals,STR Binny,bd17b45f,6,11,7,0,1,157.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
-Rajasthan Royals,MK Lomror,da934ee8,7,9,9,1,0,100.0,"[8, 10]",2.0,12,1,0,19,2,0,0,0,0,0,0,9.5,0,0,0,0,0,13,1,0,14
-Rajasthan Royals,JC Archer,5574750c,8,0,1,0,0,0.0,"[2, 4, 17, 19]",4.0,24,8,0,32,3,1,1,0,0,0,0,8.0,0,0,0,0,0,-2,33,0,31
-Rajasthan Royals,JD Unadkat,1e66c162,9,0,1,0,0,0.0,"[5, 16, 18, 20]",4.0,24,6,0,36,3,1,1,0,0,1,0,9.0,1,0,0,0,0,-2,31,8,37
-Rajasthan Royals,IS Sodhi,641ac5ff,9,0,0,0,0,0.0,"[7, 9, 11, 15]",4.0,24,11,0,14,0,0,1,0,0,0,0,3.5,0,0,0,0,0,0,42,0,42
-Rajasthan Royals,Anureet Singh,69be866a,10,0,0,0,0,0.0,[14],1.0,6,1,0,12,2,0,0,0,0,0,0,12.0,0,0,0,0,0,0,1,0,1
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Kings XI Punjab,KL Rahul,b17e2f24,1,95,69,11,2,137.68,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,2,165,0,12,177,32,True,False,False,,Right-hand bat
+Kings XI Punjab,CH Gayle,db584dad,2,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,45,True,False,True,Right-arm offbreak,Left-hand bat
+Kings XI Punjab,R Ashwin,495d42a5,3,0,2,0,0,0.0,"[8, 12, 14, 16]",4.0,24,4,0,34,2,1,0,0,0,0,0,8.5,1,0,0,0,0,-2,4,8,10,38,True,False,True,Right-arm offbreak,Right-hand bat
+Kings XI Punjab,KK Nair,944533a5,4,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11,33,True,False,False,Right-arm offbreak,Right-hand bat
+Kings XI Punjab,AD Nath,f10e94c4,5,9,13,1,0,69.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,11,0,8,19,31,True,False,False,Right-arm medium-fast,Right-hand bat
+Kings XI Punjab,MK Tiwary,26e5cabf,6,7,8,0,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,7,0,28,35,39,True,False,False,Legbreak googly,Right-hand bat
+Kings XI Punjab,AR Patel,2e171977,7,9,5,1,0,180.0,"[2, 9, 11]",3.0,18,7,0,24,2,1,0,0,0,0,0,8.0,0,0,0,0,0,13,7,0,20,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Kings XI Punjab,MP Stoinis,d9273ee7,8,11,16,0,0,68.75,"[1, 7]",2.0,12,4,0,15,2,0,1,0,0,0,0,7.5,0,0,0,0,-2,9,29,0,38,35,True,False,True,Right-arm medium,Right-hand bat
+Kings XI Punjab,AJ Tye,7c7d63a2,9,1,1,0,0,100.0,"[4, 6, 18, 20]",4.0,24,7,0,34,3,1,4,0,0,0,0,8.5,0,0,0,0,0,1,115,0,116,38,True,False,False,Right-arm medium-fast,Right-hand bat
+Kings XI Punjab,MM Sharma,759ac88f,9,0,0,0,0,0.0,"[3, 5, 19]",3.0,18,7,0,29,3,1,0,0,0,1,1,9.67,0,0,0,0,0,0,7,0,7,36,True,False,False,Right-arm medium,Right-hand bat
+Kings XI Punjab,Mujeeb Ur Rahman,7d92277a,10,0,0,0,0,0.0,"[10, 13, 15, 17]",4.0,24,7,0,21,1,0,2,0,0,0,0,5.25,0,0,0,0,0,0,61,0,61,24,True,False,False,Right-arm offbreak,Right-hand bat
+Rajasthan Royals,AM Rahane,29e95537,1,9,10,1,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21,36,True,False,False,Right-arm medium,Right-hand bat
+Rajasthan Royals,JC Buttler,99b75528,2,82,58,9,1,141.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,2,138,0,12,150,34,True,False,False,,Right-hand bat
+Rajasthan Royals,K Gowtham,90de905a,3,8,6,0,1,133.33,"[1, 3, 13]",3.0,18,9,0,12,1,0,2,0,1,0,1,4.0,2,0,0,0,0,14,73,16,103,36,True,False,True,Right-arm offbreak,Right-hand bat
+Rajasthan Royals,SV Samson,a4cc73aa,4,22,18,1,1,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32,30,True,False,False,,Right-hand bat
+Rajasthan Royals,BA Stokes,e087956b,5,14,10,1,0,140.0,"[6, 12]",2.0,12,6,0,13,2,0,1,0,0,0,0,6.5,0,0,0,0,2,20,33,0,53,33,True,False,True,Right-arm fast-medium,Left-hand bat
+Rajasthan Royals,STR Binny,bd17b45f,6,11,7,0,1,157.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,40,True,False,True,Right-arm medium,Right-hand bat
+Rajasthan Royals,MK Lomror,da934ee8,7,9,9,1,0,100.0,"[8, 10]",2.0,12,1,0,19,2,0,0,0,0,0,0,9.5,0,0,0,0,0,13,1,0,14,25,True,False,True,Slow left-arm orthodox,Left-hand bat
+Rajasthan Royals,JC Archer,5574750c,8,0,1,0,0,0.0,"[2, 4, 17, 19]",4.0,24,8,0,32,3,1,1,0,0,0,0,8.0,0,0,0,0,0,-2,33,0,31,29,True,False,False,Right-arm fast,Right-hand bat
+Rajasthan Royals,JD Unadkat,1e66c162,9,0,1,0,0,0.0,"[5, 16, 18, 20]",4.0,24,6,0,36,3,1,1,0,0,1,0,9.0,1,0,0,0,0,-2,31,8,37,33,True,False,False,Left-arm medium,Right-hand bat
+Rajasthan Royals,IS Sodhi,641ac5ff,9,0,0,0,0,0.0,"[7, 9, 11, 15]",4.0,24,11,0,14,0,0,1,0,0,0,0,3.5,0,0,0,0,0,0,42,0,42,32,True,False,False,Legbreak,Right-hand bat
+Rajasthan Royals,Anureet Singh,69be866a,10,0,0,0,0,0.0,[14],1.0,6,1,0,12,2,0,0,0,0,0,0,12.0,0,0,0,0,0,0,1,0,1,37,True,False,False,Right-arm medium,Right-hand bat

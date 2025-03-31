@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Canada,A Johnson,a28a7fba,1,84,52,6,6,161.54,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,4,160,0,16,176
-Canada,SA Wijeratne,5fbd0632,2,34,21,6,1,161.9,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,72,0,0,72
-Canada,Pargat Singh,d2e67105,3,27,26,2,1,103.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,45,0,0,45
-Canada,Ravinderpal Singh,f80682f8,4,16,9,1,1,177.78,[20],1.0,6,2,0,10,0,1,2,0,0,0,1,10.0,0,0,0,0,0,26,52,0,78
-Canada,Saad Bin Zafar,f28a60e0,5,1,2,0,0,50.0,"[9, 11, 13, 15]",4.0,24,11,0,26,3,0,1,1,0,0,0,6.5,0,0,0,0,0,1,46,0,47
-Canada,A Kapoor,2835af2a,6,9,4,1,0,225.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
-Canada,H Thaker,c01d7726,7,15,6,1,1,250.0,"[4, 6]",2.0,12,7,0,13,1,1,1,0,1,0,0,6.5,2,0,0,0,0,25,42,16,83
-Canada,D Heyliger,f8c72766,9,0,0,0,0,0.0,"[5, 7, 17, 19]",4.0,24,9,0,22,2,0,2,0,1,0,1,5.5,0,0,0,0,0,0,71,0,71
-Canada,Ammar Khalid,af98bf5b,10,0,0,0,0,0.0,"[2, 16, 18]",3.0,18,5,0,29,5,0,0,0,0,0,2,9.67,0,0,0,0,0,0,5,0,5
-Canada,N Dutta,e258a603,11,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,11,0,15,0,0,0,0,0,0,0,3.75,0,0,0,0,0,0,17,0,17
-Canada,Kaleem Sana,14810ee7,12,0,0,0,0,0.0,"[1, 3]",2.0,12,7,0,11,2,0,2,0,0,0,0,5.5,0,0,0,0,0,0,61,0,61
-Saudi Arabia,Abdul Waheed,23fa9ea9,1,11,10,2,0,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
-Saudi Arabia,Faisal Khan,a7553f15,2,0,1,0,0,0.0,[7],1.0,6,2,0,12,1,1,0,0,0,0,0,12.0,0,0,0,0,0,-2,2,0,0
-Saudi Arabia,Kashif Siddique,2513b4fe,3,17,10,4,0,170.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,37,0,0,37
-Saudi Arabia,Saad Khan,28e0f645,4,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Saudi Arabia,Haseeb Ghafoor,454a7269,5,36,33,4,1,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,62,0,0,62
-Saudi Arabia,Hisham Sheikh,c4441675,6,29,31,2,0,93.55,"[9, 11, 13, 19]",4.0,24,7,0,38,1,3,1,0,1,0,0,9.5,2,0,0,0,0,41,40,16,97
-Saudi Arabia,Irshad Mubbashar,58edb974,7,18,24,1,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
-Saudi Arabia,Zain Ul Abidin,b93b87ae,8,4,4,0,0,100.0,"[1, 3, 10, 12]",4.0,24,11,0,42,4,3,0,0,0,0,2,10.5,0,0,0,0,0,4,9,0,13
-Saudi Arabia,Atif-Ur-Rehman,d20e22f7,9,0,0,0,0,0.0,"[2, 16, 18, 20]",4.0,24,5,0,38,4,1,1,0,0,0,0,9.5,0,0,0,0,0,0,30,0,30
-Saudi Arabia,Usman Najeeb,615688b6,9,7,3,0,1,233.33,"[4, 6, 8, 14]",4.0,24,11,0,25,3,0,1,1,0,0,2,6.25,0,0,0,0,0,13,46,0,59
-Saudi Arabia,Muhammad Saqib,9d6644a0,10,0,0,0,0,0.0,"[5, 15, 17]",3.0,18,7,0,37,4,2,2,0,1,0,2,12.33,0,0,0,0,0,0,59,0,59
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Canada,A Johnson,a28a7fba,1,84,52,6,6,161.54,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,4,160,0,16,176,34,True,False,False,Right-arm offbreak,Right-hand bat
+Canada,SA Wijeratne,5fbd0632,2,34,21,6,1,161.9,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,72,0,0,72,35,True,False,False,,Right-hand bat
+Canada,Pargat Singh,d2e67105,3,27,26,2,1,103.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,45,0,0,45,32,True,False,True,Right-arm offbreak,Right-hand bat
+Canada,Ravinderpal Singh,f80682f8,4,16,9,1,1,177.78,[20],1.0,6,2,0,10,0,1,2,0,0,0,1,10.0,0,0,0,0,0,26,52,0,78,36,True,False,False,Right-arm offbreak,Right-hand bat
+Canada,Saad Bin Zafar,f28a60e0,5,1,2,0,0,50.0,"[9, 11, 13, 15]",4.0,24,11,0,26,3,0,1,1,0,0,0,6.5,0,0,0,0,0,1,46,0,47,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Canada,A Kapoor,2835af2a,6,9,4,1,0,225.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21,30,True,False,False,Right-arm medium,Right-hand bat
+Canada,H Thaker,c01d7726,7,15,6,1,1,250.0,"[4, 6]",2.0,12,7,0,13,1,1,1,0,1,0,0,6.5,2,0,0,0,0,25,42,16,83,27,True,False,True,Right-arm offbreak,Right-hand bat
+Canada,D Heyliger,f8c72766,9,0,0,0,0,0.0,"[5, 7, 17, 19]",4.0,24,9,0,22,2,0,2,0,1,0,1,5.5,0,0,0,0,0,0,71,0,71,35,True,False,False,Right-arm medium,Right-hand bat
+Canada,Ammar Khalid,af98bf5b,10,0,0,0,0,0.0,"[2, 16, 18]",3.0,18,5,0,29,5,0,0,0,0,0,2,9.67,0,0,0,0,0,0,5,0,5,37,True,False,True,Right-arm medium-fast,Right-hand bat
+Canada,N Dutta,e258a603,11,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,11,0,15,0,0,0,0,0,0,0,3.75,0,0,0,0,0,0,17,0,17,30,True,False,False,Right-arm offbreak,Right-hand bat
+Canada,Kaleem Sana,14810ee7,12,0,0,0,0,0.0,"[1, 3]",2.0,12,7,0,11,2,0,2,0,0,0,0,5.5,0,0,0,0,0,0,61,0,61,31,True,False,False,Left-arm medium-fast,Right-hand bat
+Saudi Arabia,Abdul Waheed,23fa9ea9,1,11,10,2,0,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,31,True,True,False,Legbreak,Right-hand bat
+Saudi Arabia,Faisal Khan,a7553f15,2,0,1,0,0,0.0,[7],1.0,6,2,0,12,1,1,0,0,0,0,0,12.0,0,0,0,0,0,-2,2,0,0,28,True,True,False,Right-arm medium,Right-hand bat
+Saudi Arabia,Kashif Siddique,2513b4fe,3,17,10,4,0,170.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,37,0,0,37,35,True,False,False,,Left-hand bat
+Saudi Arabia,Saad Khan,28e0f645,4,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,37,True,True,False,Right-arm medium,Left-hand bat
+Saudi Arabia,Haseeb Ghafoor,454a7269,5,36,33,4,1,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,62,0,0,62,41,True,False,False,,Right-hand bat
+Saudi Arabia,Hisham Sheikh,c4441675,6,29,31,2,0,93.55,"[9, 11, 13, 19]",4.0,24,7,0,38,1,3,1,0,1,0,0,9.5,2,0,0,0,0,41,40,16,97,28,True,True,False,Right-arm offbreak,Right-hand bat
+Saudi Arabia,Irshad Mubbashar,58edb974,7,18,24,1,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,41,True,True,False,Right-arm offbreak,Right-hand bat
+Saudi Arabia,Zain Ul Abidin,b93b87ae,8,4,4,0,0,100.0,"[1, 3, 10, 12]",4.0,24,11,0,42,4,3,0,0,0,0,2,10.5,0,0,0,0,0,4,9,0,13,32,True,True,False,Slow left-arm orthodox,Left-hand bat
+Saudi Arabia,Atif-Ur-Rehman,d20e22f7,9,0,0,0,0,0.0,"[2, 16, 18, 20]",4.0,24,5,0,38,4,1,1,0,0,0,0,9.5,0,0,0,0,0,0,30,0,30,43,True,True,False,Right-arm medium,Right-hand bat
+Saudi Arabia,Usman Najeeb,615688b6,9,7,3,0,1,233.33,"[4, 6, 8, 14]",4.0,24,11,0,25,3,0,1,1,0,0,2,6.25,0,0,0,0,0,13,46,0,59,29,True,True,False,Right-arm medium,Right-hand bat
+Saudi Arabia,Muhammad Saqib,9d6644a0,10,0,0,0,0,0.0,"[5, 15, 17]",3.0,18,7,0,37,4,2,2,0,1,0,2,12.33,0,0,0,0,0,0,59,0,59,35,True,True,False,Right-arm medium,Right-hand bat

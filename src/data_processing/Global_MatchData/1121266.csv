@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Rangpur Riders,BB McCullum,b8a55852,1,33,21,3,3,157.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,71,0,8,79
-Rangpur Riders,CH Gayle,db584dad,2,50,39,2,5,128.21,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,96,0,0,96
-Rangpur Riders,Mohammad Mithun,77191792,3,25,21,2,0,119.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,37,0,8,45
-Rangpur Riders,Shahriar Nafees,b9c225c2,4,8,8,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
-Rangpur Riders,NLTC Perera,0f12f9df,5,15,12,2,0,125.0,"[11, 13, 18, 20]",4.0,24,4,0,43,3,2,1,0,0,1,0,10.75,0,0,0,0,0,23,27,0,50
-Rangpur Riders,RS Bopara,7ca5e05d,6,28,11,3,1,254.55,"[8, 10]",2.0,12,1,0,21,2,0,0,0,0,0,1,10.5,1,0,0,0,6,56,-1,8,63
-Rangpur Riders,Rubel Hossain,f56cd097,6,0,0,0,0,0.0,"[4, 6, 14, 19]",4.0,24,7,0,30,2,1,1,0,0,0,1,7.5,0,0,0,0,0,0,32,0,32
-Rangpur Riders,Zahir Khan,786b7fe8,7,0,0,0,0,0.0,"[7, 9, 12, 15]",4.0,24,5,0,29,1,1,0,0,0,0,0,7.25,0,0,0,0,0,0,5,0,5
-Rangpur Riders,Ziaur Rahman,c27518d2,7,1,5,0,0,20.0,[16],1.0,6,0,0,10,1,0,0,0,0,0,0,10.0,0,0,0,0,0,1,0,0,1
-Rangpur Riders,Mashrafe Mortaza,e186f49c,8,3,2,0,0,150.0,"[1, 3, 5, 17]",4.0,24,11,0,18,0,1,1,0,0,0,0,4.5,0,0,0,0,0,3,42,0,45
-Rangpur Riders,Sohag Gazi,5a4c12ab,9,0,1,0,0,0.0,[2],1.0,6,3,0,6,1,0,1,0,1,0,0,6.0,0,0,0,0,0,0,36,0,36
-Sylhet Sixers,MD Gunathilaka,509a7ca1,1,8,4,0,1,200.0,"[4, 6]",2.0,12,5,0,24,2,2,0,0,0,0,0,12.0,0,0,0,0,0,14,1,0,15
-Sylhet Sixers,ADS Fletcher,1bae756b,2,12,11,2,0,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,20,0,8,28
-Sylhet Sixers,Babar Azam,8a75e999,3,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Sylhet Sixers,Nasir Hossain,6eea0b32,4,50,43,1,1,116.28,"[1, 3, 5, 9]",4.0,24,14,1,27,2,2,1,0,0,0,0,6.75,0,0,0,1,0,68,53,6,127
-Sylhet Sixers,Sabbir Rahman,7147f314,5,70,49,7,2,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,120,0,8,128
-Sylhet Sixers,Nurul Hasan,d365d463,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,1,0,0,0,18,18
-Sylhet Sixers,TT Bresnan,58043739,6,12,8,0,1,150.0,"[7, 10, 16, 18]",4.0,24,9,0,23,1,1,1,0,0,0,0,5.75,0,0,0,0,0,18,38,0,56
-Sylhet Sixers,Shuvagata Hom,bb01f9e0,7,0,0,0,0,0.0,[2],1.0,6,4,0,12,0,2,0,0,0,0,0,12.0,0,0,0,0,0,0,4,0,4
-Sylhet Sixers,LE Plunkett,9a963804,8,0,0,0,0,0.0,"[8, 14, 17, 19]",4.0,24,5,0,49,5,2,1,1,0,1,0,12.25,1,0,0,0,0,0,32,8,40
-Sylhet Sixers,Abul Hasan,5c756df3,9,0,0,0,0,0.0,"[11, 13, 15, 20]",4.0,24,10,0,24,2,0,2,0,1,0,3,6.0,0,0,0,0,0,0,70,0,70
-Sylhet Sixers,Taijul Islam,9d1d34bd,10,0,0,0,0,0.0,[12],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,0,1,0,1
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Rangpur Riders,BB McCullum,b8a55852,1,33,21,3,3,157.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,71,0,8,79,43,True,True,False,Right-arm offbreak,Right-hand bat
+Rangpur Riders,CH Gayle,db584dad,2,50,39,2,5,128.21,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,96,0,0,96,45,True,False,True,Right-arm offbreak,Left-hand bat
+Rangpur Riders,Mohammad Mithun,77191792,3,25,21,2,0,119.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,37,0,8,45,34,True,False,False,,Right-hand bat
+Rangpur Riders,Shahriar Nafees,b9c225c2,4,8,8,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,39,True,False,False,,Left-hand bat
+Rangpur Riders,NLTC Perera,0f12f9df,5,15,12,2,0,125.0,"[11, 13, 18, 20]",4.0,24,4,0,43,3,2,1,0,0,1,0,10.75,0,0,0,0,0,23,27,0,50,35,True,False,True,Right-arm medium-fast,Left-hand bat
+Rangpur Riders,RS Bopara,7ca5e05d,6,28,11,3,1,254.55,"[8, 10]",2.0,12,1,0,21,2,0,0,0,0,0,1,10.5,1,0,0,0,6,56,-1,8,63,39,True,False,True,Right-arm medium,Right-hand bat
+Rangpur Riders,Rubel Hossain,f56cd097,6,0,0,0,0,0.0,"[4, 6, 14, 19]",4.0,24,7,0,30,2,1,1,0,0,0,1,7.5,0,0,0,0,0,0,32,0,32,35,True,False,False,Right-arm fast,Right-hand bat
+Rangpur Riders,Zahir Khan,786b7fe8,7,0,0,0,0,0.0,"[7, 9, 12, 15]",4.0,24,5,0,29,1,1,0,0,0,0,0,7.25,0,0,0,0,0,0,5,0,5,26,True,False,False,Left-arm wrist-spin,Left-hand bat
+Rangpur Riders,Ziaur Rahman,c27518d2,7,1,5,0,0,20.0,[16],1.0,6,0,0,10,1,0,0,0,0,0,0,10.0,0,0,0,0,0,1,0,0,1,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Rangpur Riders,Mashrafe Mortaza,e186f49c,8,3,2,0,0,150.0,"[1, 3, 5, 17]",4.0,24,11,0,18,0,1,1,0,0,0,0,4.5,0,0,0,0,0,3,42,0,45,41,True,False,False,Right-arm fast-medium,Right-hand bat
+Rangpur Riders,Sohag Gazi,5a4c12ab,9,0,1,0,0,0.0,[2],1.0,6,3,0,6,1,0,1,0,1,0,0,6.0,0,0,0,0,0,0,36,0,36,33,True,False,True,Right-arm offbreak,Right-hand bat
+Sylhet Sixers,MD Gunathilaka,509a7ca1,1,8,4,0,1,200.0,"[4, 6]",2.0,12,5,0,24,2,2,0,0,0,0,0,12.0,0,0,0,0,0,14,1,0,15,34,True,False,True,Right-arm offbreak,Left-hand bat
+Sylhet Sixers,ADS Fletcher,1bae756b,2,12,11,2,0,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,20,0,8,28,37,True,False,False,Legbreak,Right-hand bat
+Sylhet Sixers,Babar Azam,8a75e999,3,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,30,True,False,False,Right-arm offbreak,Right-hand bat
+Sylhet Sixers,Nasir Hossain,6eea0b32,4,50,43,1,1,116.28,"[1, 3, 5, 9]",4.0,24,14,1,27,2,2,1,0,0,0,0,6.75,0,0,0,1,0,68,53,6,127,33,True,False,True,Right-arm offbreak,Right-hand bat
+Sylhet Sixers,Sabbir Rahman,7147f314,5,70,49,7,2,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,120,0,8,128,33,True,False,True,Legbreak,Right-hand bat
+Sylhet Sixers,Nurul Hasan,d365d463,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,1,0,0,0,18,18,31,True,False,False,,Right-hand bat
+Sylhet Sixers,TT Bresnan,58043739,6,12,8,0,1,150.0,"[7, 10, 16, 18]",4.0,24,9,0,23,1,1,1,0,0,0,0,5.75,0,0,0,0,0,18,38,0,56,40,True,False,True,Right-arm medium-fast,Right-hand bat
+Sylhet Sixers,Shuvagata Hom,bb01f9e0,7,0,0,0,0,0.0,[2],1.0,6,4,0,12,0,2,0,0,0,0,0,12.0,0,0,0,0,0,0,4,0,4,38,True,False,True,Right-arm offbreak,Right-hand bat
+Sylhet Sixers,LE Plunkett,9a963804,8,0,0,0,0,0.0,"[8, 14, 17, 19]",4.0,24,5,0,49,5,2,1,1,0,1,0,12.25,1,0,0,0,0,0,32,8,40,39,True,False,False,Right-arm fast,Right-hand bat
+Sylhet Sixers,Abul Hasan,5c756df3,9,0,0,0,0,0.0,"[11, 13, 15, 20]",4.0,24,10,0,24,2,0,2,0,1,0,3,6.0,0,0,0,0,0,0,70,0,70,32,True,False,False,Right-arm medium-fast,Left-hand bat
+Sylhet Sixers,Taijul Islam,9d1d34bd,10,0,0,0,0,0.0,[12],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,0,1,0,1,33,True,False,True,Slow left-arm orthodox,Left-hand bat

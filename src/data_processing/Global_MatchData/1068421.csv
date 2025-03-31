@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Lancashire,J Clark,c672e80e,1,12,13,0,1,92.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
-Lancashire,LS Livingstone,50c6bc2b,2,39,28,3,2,139.29,"[18, 20]",1.5,9,4,0,11,0,1,2,0,0,0,0,7.33,2,0,0,0,2,69,54,16,139
-Lancashire,JC Buttler,99b75528,3,58,42,3,2,138.1,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,2,92,0,20,112
-Lancashire,DJ Vilas,087210b1,4,30,26,2,0,115.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,42,0,8,50
-Lancashire,R McLaren,c654af19,5,12,8,0,1,150.0,"[2, 6, 15]",3.0,18,5,0,39,2,4,1,0,0,0,0,13.0,0,0,0,0,0,18,24,0,42
-Lancashire,SJ Croft,ab474682,6,2,3,0,0,66.67,[4],1.0,6,1,0,12,1,1,0,0,0,0,0,12.0,1,0,0,0,0,2,1,8,11
-Lancashire,AM Lilley,88a004e9,10,0,0,0,0,0.0,"[10, 19]",2.0,12,6,0,14,1,1,2,0,1,0,0,7.0,1,0,0,0,0,0,66,8,74
-Lancashire,RP Jones,ad8cb396,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Lancashire,SD Parry,fdb8ed0d,12,0,0,0,0,0.0,"[1, 7, 9, 12]",4.0,24,9,0,32,3,1,0,0,0,0,0,8.0,0,0,0,0,0,0,9,0,9
-Lancashire,MW Parkinson,19708692,13,0,0,0,0,0.0,"[8, 11, 14, 16]",4.0,24,6,0,32,0,2,1,0,0,0,0,8.0,0,0,0,0,0,0,31,0,31
-Lancashire,Junaid Khan,086f5984,14,0,0,0,0,0.0,"[3, 5, 13, 17]",4.0,24,9,0,28,4,0,2,0,0,0,0,7.0,0,0,0,0,0,0,61,0,61
-Warwickshire,EJ Pollock,d6663a9a,1,49,24,5,4,204.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,103,0,0,103
-Warwickshire,DP Sibley,97e434a6,2,53,38,3,2,139.47,"[6, 8, 13, 15]",4.0,24,7,0,29,1,1,0,0,0,0,0,7.25,0,0,0,0,2,87,7,0,94
-Warwickshire,AJ Hose,104e88a4,3,49,35,3,3,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,85,0,0,85
-Warwickshire,C de Grandhomme,94d7f855,4,1,3,0,0,33.33,"[14, 18, 20]",3.0,18,2,0,26,1,1,0,0,0,0,1,8.67,1,0,0,0,0,1,2,8,11
-Warwickshire,SR Hain,67b9536c,5,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
-Warwickshire,GD Elliott,c03449e0,6,1,2,0,0,50.0,[10],1.0,6,1,0,9,1,0,0,0,0,0,1,9.0,0,0,0,0,0,1,1,0,2
-Warwickshire,AD Thomason,0c5bb005,7,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Warwickshire,AJ Mellor,170f716c,8,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Warwickshire,JS Patel,f5821615,9,2,2,0,0,100.0,"[2, 4, 12, 16]",4.0,24,7,0,36,3,1,0,0,0,0,5,9.0,1,0,0,0,0,2,7,8,17
-Warwickshire,OP Stone,3f659464,10,8,2,0,1,400.0,"[1, 3, 17, 19]",4.0,24,9,0,35,2,2,2,0,1,2,1,8.75,0,0,0,0,0,14,67,0,81
-Warwickshire,JE Poysden,bbbb7f1e,10,0,0,0,0,0.0,"[5, 7, 9, 11]",4.0,24,5,0,28,0,1,2,1,0,0,0,7.0,0,0,0,0,0,0,65,0,65
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Lancashire,J Clark,c672e80e,1,12,13,0,1,92.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,34,True,False,True,Right-arm medium-fast,Right-hand bat
+Lancashire,LS Livingstone,50c6bc2b,2,39,28,3,2,139.29,"[18, 20]",1.5,9,4,0,11,0,1,2,0,0,0,0,7.33,2,0,0,0,2,69,54,16,139,31,True,False,True,Legbreak,Right-hand bat
+Lancashire,JC Buttler,99b75528,3,58,42,3,2,138.1,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,2,92,0,20,112,34,True,False,False,,Right-hand bat
+Lancashire,DJ Vilas,087210b1,4,30,26,2,0,115.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,42,0,8,50,39,True,False,False,,Right-hand bat
+Lancashire,R McLaren,c654af19,5,12,8,0,1,150.0,"[2, 6, 15]",3.0,18,5,0,39,2,4,1,0,0,0,0,13.0,0,0,0,0,0,18,24,0,42,42,True,False,True,Right-arm medium-fast,Left-hand bat
+Lancashire,SJ Croft,ab474682,6,2,3,0,0,66.67,[4],1.0,6,1,0,12,1,1,0,0,0,0,0,12.0,1,0,0,0,0,2,1,8,11,40,True,False,True,Right-arm offbreak,Right-hand bat
+Lancashire,AM Lilley,88a004e9,10,0,0,0,0,0.0,"[10, 19]",2.0,12,6,0,14,1,1,2,0,1,0,0,7.0,1,0,0,0,0,0,66,8,74,33,True,False,True,Right-arm offbreak,Right-hand bat
+Lancashire,RP Jones,ad8cb396,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,29,True,False,False,Legbreak,Right-hand bat
+Lancashire,SD Parry,fdb8ed0d,12,0,0,0,0,0.0,"[1, 7, 9, 12]",4.0,24,9,0,32,3,1,0,0,0,0,0,8.0,0,0,0,0,0,0,9,0,9,39,True,False,False,Slow left-arm orthodox,Right-hand bat
+Lancashire,MW Parkinson,19708692,13,0,0,0,0,0.0,"[8, 11, 14, 16]",4.0,24,6,0,32,0,2,1,0,0,0,0,8.0,0,0,0,0,0,0,31,0,31,28,True,False,False,Legbreak,Right-hand bat
+Lancashire,Junaid Khan,086f5984,14,0,0,0,0,0.0,"[3, 5, 13, 17]",4.0,24,9,0,28,4,0,2,0,0,0,0,7.0,0,0,0,0,0,0,61,0,61,35,True,False,False,Left-arm fast,Right-hand bat
+Warwickshire,EJ Pollock,d6663a9a,1,49,24,5,4,204.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,103,0,0,103,29,True,False,False,Right-arm offbreak,Left-hand bat
+Warwickshire,DP Sibley,97e434a6,2,53,38,3,2,139.47,"[6, 8, 13, 15]",4.0,24,7,0,29,1,1,0,0,0,0,0,7.25,0,0,0,0,2,87,7,0,94,29,True,False,False,Legbreak,Right-hand bat
+Warwickshire,AJ Hose,104e88a4,3,49,35,3,3,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,85,0,0,85,32,True,False,False,Right-arm medium-fast,Right-hand bat
+Warwickshire,C de Grandhomme,94d7f855,4,1,3,0,0,33.33,"[14, 18, 20]",3.0,18,2,0,26,1,1,0,0,0,0,1,8.67,1,0,0,0,0,1,2,8,11,38,True,False,True,Right-arm medium-fast,Right-hand bat
+Warwickshire,SR Hain,67b9536c,5,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,29,True,False,False,Right-arm offbreak,Right-hand bat
+Warwickshire,GD Elliott,c03449e0,6,1,2,0,0,50.0,[10],1.0,6,1,0,9,1,0,0,0,0,0,1,9.0,0,0,0,0,0,1,1,0,2,46,True,False,True,Right-arm medium,Right-hand bat
+Warwickshire,AD Thomason,0c5bb005,7,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,27,True,False,True,Right-arm fast-medium,Right-hand bat
+Warwickshire,AJ Mellor,170f716c,8,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,33,True,False,False,,Left-hand bat
+Warwickshire,JS Patel,f5821615,9,2,2,0,0,100.0,"[2, 4, 12, 16]",4.0,24,7,0,36,3,1,0,0,0,0,5,9.0,1,0,0,0,0,2,7,8,17,44,True,False,False,Right-arm offbreak,Right-hand bat
+Warwickshire,OP Stone,3f659464,10,8,2,0,1,400.0,"[1, 3, 17, 19]",4.0,24,9,0,35,2,2,2,0,1,2,1,8.75,0,0,0,0,0,14,67,0,81,31,True,False,False,Right-arm fast,Right-hand bat
+Warwickshire,JE Poysden,bbbb7f1e,10,0,0,0,0,0.0,"[5, 7, 9, 11]",4.0,24,5,0,28,0,1,2,1,0,0,0,7.0,0,0,0,0,0,0,65,0,65,33,True,True,False,Legbreak,Left-hand bat

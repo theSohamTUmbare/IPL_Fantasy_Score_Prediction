@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Gloucestershire,Miles Hammond,c88bc84a,1,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11
-Gloucestershire,CDJ Dent,10435ca2,2,4,9,1,0,44.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
-Gloucestershire,IA Cockbain,542fd5a6,3,89,57,9,3,156.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,159,0,8,167
-Gloucestershire,James Bracey,5bfdc77a,4,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Gloucestershire,RF Higgins,ad212f96,5,4,9,0,0,44.44,"[4, 19]",2.0,12,2,0,26,4,0,0,0,0,0,0,13.0,1,0,0,0,0,4,-4,8,8
-Gloucestershire,GL van Buuren,ba377b40,6,15,13,0,1,115.38,"[5, 12, 15, 17]",4.0,24,4,0,35,3,1,1,0,0,0,0,8.75,0,0,0,0,0,21,29,0,50
-Gloucestershire,JMR Taylor,aed5be04,7,12,8,0,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26
-Gloucestershire,BAC Howell,0bec3a6c,8,21,13,2,1,161.54,"[8, 10, 14, 16]",4.0,24,5,0,23,1,0,1,0,0,0,0,5.75,0,0,0,0,4,39,34,0,73
-Gloucestershire,TMJ Smith,0a12e736,9,4,1,1,0,400.0,"[7, 9, 11, 13]",4.0,24,7,0,25,2,0,2,0,0,0,0,6.25,1,0,0,0,0,8,59,8,75
-Gloucestershire,DA Payne,6c79c098,10,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,10,0,38,2,2,1,0,0,2,2,9.5,0,0,0,0,0,0,35,0,35
-Gloucestershire,J Shaw,b82e3032,10,0,0,0,0,0.0,"[2, 6]",2.0,12,6,0,13,2,0,1,0,0,0,2,6.5,1,0,0,0,0,0,33,8,41
-Somerset,SM Davies,8fc65c2b,1,31,18,5,0,172.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,61,0,8,69
-Somerset,Babar Azam,8a75e999,2,42,35,5,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,66,0,16,82
-Somerset,WCF Smeed,4e18e961,3,5,12,0,0,41.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-1,0,0,-1
-Somerset,TB Abell,ba9258a7,4,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11
-Somerset,L Gregory,06c2de82,5,50,28,4,2,178.57,"[16, 18]",2.0,12,2,0,17,1,1,1,0,0,0,0,8.5,1,0,0,0,6,92,27,8,127
-Somerset,TA Lammonby,73f1f6b0,6,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
-Somerset,RE van der Merwe,05c2ca46,7,17,12,0,1,141.67,"[3, 6, 11]",3.0,18,7,0,20,3,0,0,0,0,0,0,6.67,0,0,0,0,2,25,9,0,34
-Somerset,ORT Sale,eab61ead,8,2,4,0,0,50.0,"[2, 5, 17, 20]",4.0,24,11,0,32,4,1,3,0,0,0,1,8.0,0,0,0,0,0,2,90,0,92
-Somerset,LP Goldsworthy,ed47cb25,10,0,0,0,0,0.0,"[7, 9, 12, 15]",4.0,24,5,0,41,2,3,1,0,0,0,0,10.25,1,0,0,0,0,0,28,8,36
-Somerset,JH Davey,d3868bd0,11,0,0,0,0,0.0,"[4, 13, 19]",3.0,18,6,0,24,1,1,3,0,0,0,3,8.0,0,0,0,0,0,0,85,0,85
-Somerset,MTC Waller,d74d1090,12,0,0,0,0,0.0,"[1, 8, 10, 14]",4.0,24,7,0,27,2,0,0,0,0,0,3,6.75,2,0,0,0,0,0,9,16,25
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Gloucestershire,Miles Hammond,c88bc84a,1,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11,29,True,False,False,Right-arm offbreak,Left-hand bat
+Gloucestershire,CDJ Dent,10435ca2,2,4,9,1,0,44.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,34,True,False,False,Slow left-arm orthodox,Left-hand bat
+Gloucestershire,IA Cockbain,542fd5a6,3,89,57,9,3,156.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,159,0,8,167,38,True,False,False,Right-arm medium,Right-hand bat
+Gloucestershire,James Bracey,5bfdc77a,4,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,27,True,True,False,Right-arm medium,Left-hand bat
+Gloucestershire,RF Higgins,ad212f96,5,4,9,0,0,44.44,"[4, 19]",2.0,12,2,0,26,4,0,0,0,0,0,0,13.0,1,0,0,0,0,4,-4,8,8,30,True,False,True,Right-arm medium-fast,Right-hand bat
+Gloucestershire,GL van Buuren,ba377b40,6,15,13,0,1,115.38,"[5, 12, 15, 17]",4.0,24,4,0,35,3,1,1,0,0,0,0,8.75,0,0,0,0,0,21,29,0,50,34,True,False,True,Slow left-arm orthodox,Right-hand bat
+Gloucestershire,JMR Taylor,aed5be04,7,12,8,0,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26,33,True,False,False,Legbreak,Right-hand bat
+Gloucestershire,BAC Howell,0bec3a6c,8,21,13,2,1,161.54,"[8, 10, 14, 16]",4.0,24,5,0,23,1,0,1,0,0,0,0,5.75,0,0,0,0,4,39,34,0,73,36,True,False,True,Right-arm medium,Right-hand bat
+Gloucestershire,TMJ Smith,0a12e736,9,4,1,1,0,400.0,"[7, 9, 11, 13]",4.0,24,7,0,25,2,0,2,0,0,0,0,6.25,1,0,0,0,0,8,59,8,75,37,True,False,False,Slow left-arm orthodox,Right-hand bat
+Gloucestershire,DA Payne,6c79c098,10,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,10,0,38,2,2,1,0,0,2,2,9.5,0,0,0,0,0,0,35,0,35,34,True,False,False,Left-arm fast-medium,Right-hand bat
+Gloucestershire,J Shaw,b82e3032,10,0,0,0,0,0.0,"[2, 6]",2.0,12,6,0,13,2,0,1,0,0,0,2,6.5,1,0,0,0,0,0,33,8,41,29,True,False,False,Right-arm medium-fast,Right-hand bat
+Somerset,SM Davies,8fc65c2b,1,31,18,5,0,172.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,61,0,8,69,38,True,False,False,,Left-hand bat
+Somerset,Babar Azam,8a75e999,2,42,35,5,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,66,0,16,82,30,True,False,False,Right-arm offbreak,Right-hand bat
+Somerset,WCF Smeed,4e18e961,3,5,12,0,0,41.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-1,0,0,-1,23,True,False,False,Right-arm offbreak,Right-hand bat
+Somerset,TB Abell,ba9258a7,4,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11,31,True,False,True,Right-arm medium,Right-hand bat
+Somerset,L Gregory,06c2de82,5,50,28,4,2,178.57,"[16, 18]",2.0,12,2,0,17,1,1,1,0,0,0,0,8.5,1,0,0,0,6,92,27,8,127,32,True,False,True,Right-arm medium-fast,Right-hand bat
+Somerset,TA Lammonby,73f1f6b0,6,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,24,True,False,True,Left-arm medium-fast,Left-hand bat
+Somerset,RE van der Merwe,05c2ca46,7,17,12,0,1,141.67,"[3, 6, 11]",3.0,18,7,0,20,3,0,0,0,0,0,0,6.67,0,0,0,0,2,25,9,0,34,40,True,False,True,Slow left-arm orthodox,Right-hand bat
+Somerset,ORT Sale,eab61ead,8,2,4,0,0,50.0,"[2, 5, 17, 20]",4.0,24,11,0,32,4,1,3,0,0,0,1,8.0,0,0,0,0,0,2,90,0,92,29,True,False,False,Right-arm medium-fast,Right-hand bat
+Somerset,LP Goldsworthy,ed47cb25,10,0,0,0,0,0.0,"[7, 9, 12, 15]",4.0,24,5,0,41,2,3,1,0,0,0,0,10.25,1,0,0,0,0,0,28,8,36,24,True,False,True,Slow left-arm orthodox,Right-hand bat
+Somerset,JH Davey,d3868bd0,11,0,0,0,0,0.0,"[4, 13, 19]",3.0,18,6,0,24,1,1,3,0,0,0,3,8.0,0,0,0,0,0,0,85,0,85,34,True,False,False,Right-arm medium-fast,Right-hand bat
+Somerset,MTC Waller,d74d1090,12,0,0,0,0,0.0,"[1, 8, 10, 14]",4.0,24,7,0,27,2,0,0,0,0,0,3,6.75,2,0,0,0,0,0,9,16,25,37,True,False,False,Legbreak,Right-hand bat

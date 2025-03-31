@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Brisbane Heat,JA Burns,7a5f232a,1,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Brisbane Heat,PJ Forrest,56c205b7,2,46,48,2,0,95.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,58,0,0,58
-Brisbane Heat,CA Lynn,45eda7c8,3,81,35,12,3,231.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,165,0,0,165
-Brisbane Heat,DT Christian,2a2e6343,4,20,12,3,0,166.67,"[5, 7, 13, 17]",4.0,24,5,0,48,4,3,2,0,0,0,0,12.0,1,0,0,0,4,36,51,8,95
-Brisbane Heat,NJ Reardon,c7bdb5b5,5,20,11,2,1,181.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,40,0,0,40
-Brisbane Heat,BCJ Cutting,2e11c706,6,24,8,2,2,300.0,"[9, 11, 15, 19]",4.0,24,8,0,33,1,2,1,0,0,0,3,8.25,0,0,0,0,0,44,33,0,77
-Brisbane Heat,A Flintoff,ddc0828d,7,3,2,0,0,150.0,"[12, 14]",2.0,12,3,0,14,1,0,0,0,0,0,0,7.0,1,0,0,0,0,3,5,8,16
-Brisbane Heat,JJ Peirson,2b55c3b4,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,1,0,0,0,0,32,32
-Brisbane Heat,JR Hopes,2498e163,10,0,0,0,0,0.0,"[1, 3, 16, 18]",4.0,24,8,0,32,2,1,1,0,0,0,3,8.0,1,0,0,0,0,0,33,8,41
-Brisbane Heat,SD Parry,fdb8ed0d,11,0,0,0,0,0.0,"[8, 10]",2.0,12,4,0,16,2,0,1,0,0,0,0,8.0,2,0,0,0,0,0,29,16,45
-Brisbane Heat,MT Steketee,903560ed,12,0,0,0,0,0.0,"[2, 4, 6, 20]",4.0,24,8,0,28,3,0,2,0,0,0,1,7.0,0,0,0,0,0,0,60,0,60
-Hobart Hurricanes,BR Dunk,272d796e,1,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
-Hobart Hurricanes,TD Paine,5748e866,2,5,6,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
-Hobart Hurricanes,MW Hill,1952e660,3,26,19,4,0,136.84,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,48,0,0,48
-Hobart Hurricanes,EP Gulbis,bbce4647,4,3,4,0,0,75.0,"[5, 9, 13, 15]",4.0,24,6,0,38,4,1,1,0,0,0,1,9.5,0,0,0,0,0,3,31,0,34
-Hobart Hurricanes,TR Birt,d2d4bb0a,5,16,8,2,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30
-Hobart Hurricanes,Shoaib Malik,64c34cd0,6,42,23,2,2,182.61,"[6, 12, 18, 20]",4.0,24,7,0,37,4,1,3,0,0,0,1,9.25,0,0,0,0,6,72,86,0,158
-Hobart Hurricanes,JW Wells,8bdac857,7,6,9,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,10,0,8,18
-Hobart Hurricanes,TT Bresnan,58043739,8,2,5,0,0,40.0,"[3, 7, 17]",3.0,18,1,0,48,10,0,0,0,0,0,0,16.0,0,0,0,0,0,2,-5,0,-3
-Hobart Hurricanes,BW Hilfenhaus,f3171936,9,38,31,1,2,122.58,"[2, 4, 11, 19]",4.0,24,6,0,44,2,3,1,0,0,0,1,11.0,1,0,0,0,0,58,29,8,95
-Hobart Hurricanes,JK Reed,a8ad6e80,10,0,0,0,0,0.0,[1],1.0,6,4,0,3,0,0,0,0,0,0,0,3.0,0,0,0,0,0,0,4,0,4
-Hobart Hurricanes,CJ Boyce,51a60c16,10,24,9,3,1,266.67,"[8, 10, 14, 16]",4.0,24,6,0,28,1,1,1,0,0,0,0,7.0,1,0,0,0,0,42,33,8,83
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Brisbane Heat,JA Burns,7a5f232a,1,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,35,True,False,False,Right-arm offbreak,Right-hand bat
+Brisbane Heat,PJ Forrest,56c205b7,2,46,48,2,0,95.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,58,0,0,58,39,True,False,False,Right-arm medium,Right-hand bat
+Brisbane Heat,CA Lynn,45eda7c8,3,81,35,12,3,231.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,165,0,0,165,34,True,False,False,Slow left-arm orthodox,Right-hand bat
+Brisbane Heat,DT Christian,2a2e6343,4,20,12,3,0,166.67,"[5, 7, 13, 17]",4.0,24,5,0,48,4,3,2,0,0,0,0,12.0,1,0,0,0,4,36,51,8,95,41,True,False,True,Right-arm fast-medium,Right-hand bat
+Brisbane Heat,NJ Reardon,c7bdb5b5,5,20,11,2,1,181.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,40,0,0,40,40,True,False,False,Right-arm medium,Left-hand bat
+Brisbane Heat,BCJ Cutting,2e11c706,6,24,8,2,2,300.0,"[9, 11, 15, 19]",4.0,24,8,0,33,1,2,1,0,0,0,3,8.25,0,0,0,0,0,44,33,0,77,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Brisbane Heat,A Flintoff,ddc0828d,7,3,2,0,0,150.0,"[12, 14]",2.0,12,3,0,14,1,0,0,0,0,0,0,7.0,1,0,0,0,0,3,5,8,16,47,True,False,True,Right-arm fast-medium,Right-hand bat
+Brisbane Heat,JJ Peirson,2b55c3b4,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,1,0,0,0,0,32,32,32,True,False,False,,Right-hand bat
+Brisbane Heat,JR Hopes,2498e163,10,0,0,0,0,0.0,"[1, 3, 16, 18]",4.0,24,8,0,32,2,1,1,0,0,0,3,8.0,1,0,0,0,0,0,33,8,41,46,True,False,True,Right-arm medium,Right-hand bat
+Brisbane Heat,SD Parry,fdb8ed0d,11,0,0,0,0,0.0,"[8, 10]",2.0,12,4,0,16,2,0,1,0,0,0,0,8.0,2,0,0,0,0,0,29,16,45,39,True,False,False,Slow left-arm orthodox,Right-hand bat
+Brisbane Heat,MT Steketee,903560ed,12,0,0,0,0,0.0,"[2, 4, 6, 20]",4.0,24,8,0,28,3,0,2,0,0,0,1,7.0,0,0,0,0,0,0,60,0,60,31,True,False,False,Right-arm fast-medium,Right-hand bat
+Hobart Hurricanes,BR Dunk,272d796e,1,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,38,True,True,False,Right-arm offbreak,Left-hand bat
+Hobart Hurricanes,TD Paine,5748e866,2,5,6,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,40,True,True,False,Right-arm medium,Right-hand bat
+Hobart Hurricanes,MW Hill,1952e660,3,26,19,4,0,136.84,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,48,0,0,48,36,True,True,False,Right-arm medium,Left-hand bat
+Hobart Hurricanes,EP Gulbis,bbce4647,4,3,4,0,0,75.0,"[5, 9, 13, 15]",4.0,24,6,0,38,4,1,1,0,0,0,1,9.5,0,0,0,0,0,3,31,0,34,39,True,False,True,Right-arm medium,Right-hand bat
+Hobart Hurricanes,TR Birt,d2d4bb0a,5,16,8,2,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30,43,True,False,False,Right-arm medium,Left-hand bat
+Hobart Hurricanes,Shoaib Malik,64c34cd0,6,42,23,2,2,182.61,"[6, 12, 18, 20]",4.0,24,7,0,37,4,1,3,0,0,0,1,9.25,0,0,0,0,6,72,86,0,158,43,True,False,True,Right-arm offbreak,Right-hand bat
+Hobart Hurricanes,JW Wells,8bdac857,7,6,9,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,10,0,8,18,36,True,False,False,Right-arm medium,Right-hand bat
+Hobart Hurricanes,TT Bresnan,58043739,8,2,5,0,0,40.0,"[3, 7, 17]",3.0,18,1,0,48,10,0,0,0,0,0,0,16.0,0,0,0,0,0,2,-5,0,-3,40,True,False,True,Right-arm medium-fast,Right-hand bat
+Hobart Hurricanes,BW Hilfenhaus,f3171936,9,38,31,1,2,122.58,"[2, 4, 11, 19]",4.0,24,6,0,44,2,3,1,0,0,0,1,11.0,1,0,0,0,0,58,29,8,95,42,True,False,False,Right-arm fast-medium,Right-hand bat
+Hobart Hurricanes,JK Reed,a8ad6e80,10,0,0,0,0,0.0,[1],1.0,6,4,0,3,0,0,0,0,0,0,0,3.0,0,0,0,0,0,0,4,0,4,34,True,True,False,Right-arm fast-medium,Left-hand bat
+Hobart Hurricanes,CJ Boyce,51a60c16,10,24,9,3,1,266.67,"[8, 10, 14, 16]",4.0,24,6,0,28,1,1,1,0,0,0,0,7.0,1,0,0,0,0,42,33,8,83,35,True,False,False,Legbreak,Right-hand bat

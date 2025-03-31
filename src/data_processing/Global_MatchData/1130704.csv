@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Himachal,P Chopra,8ac93ca2,1,9,8,1,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
-Himachal,AKS Bains,cb932841,2,12,15,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,16,0,12,28
-Himachal,SL Verma,26b6a4e9,3,0,2,0,0,0.0,[13],1.0,6,1,0,8,1,0,1,0,1,0,0,8.0,1,0,0,0,0,-2,34,8,40
-Himachal,P Dogra,2728e7e9,4,19,27,2,0,70.37,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27
-Himachal,Ankit Kaushik,084708eb,5,9,16,0,0,56.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,5,0,0,5
-Himachal,Bipul Sharma,c18496e1,6,15,21,1,0,71.43,"[1, 3, 12, 14]",4.0,24,10,0,20,1,0,1,0,0,0,1,5.0,1,0,0,0,0,19,39,8,66
-Himachal,R Dhawan,26a85969,7,27,21,2,1,128.57,"[8, 10]",2.0,12,4,0,17,1,1,0,0,0,0,1,8.5,0,0,0,0,0,45,4,0,49
-Himachal,Kanwar Abhinay,7c2e7c17,7,0,0,0,0,0.0,"[2, 15, 17]",3.0,18,7,0,19,0,1,2,0,1,0,1,6.33,0,0,0,0,0,0,67,0,67
-Himachal,Pankaj Jaswal,3bc10d5b,8,0,2,0,0,0.0,"[4, 6, 18]",3.0,18,5,0,28,4,0,0,0,0,0,1,9.33,0,0,0,0,0,-2,5,0,3
-Himachal,Mayank Dagar,a457cfb5,9,3,5,0,0,60.0,"[5, 7, 16, 19]",3.167,19,9,0,21,2,1,1,0,0,0,0,6.63,0,0,0,0,0,3,36,0,39
-Himachal,DG Kumar,62788a13,10,6,3,1,0,200.0,"[9, 11]",2.0,12,4,0,7,0,0,0,0,0,0,0,3.5,0,0,0,0,0,10,10,0,20
-Services,Nakul Verma,38c0d699,1,25,25,3,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,41,0,8,49
-Services,Ravi Chauhan,f7ce1f24,2,21,32,0,1,65.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,25,0,0,25
-Services,Rahul Singh,adf454e9,3,12,15,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,16,0,16,32
-Services,Amit Pachhara,be271641,4,23,17,3,0,135.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,37,0,0,37
-Services,Vikas Hathwala,904585d1,5,14,10,2,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,2,24,0,12,36
-Services,AA Bamal,6a58e069,6,18,8,0,2,225.0,"[11, 13, 16, 20]",4.0,24,10,0,23,1,1,0,0,0,1,0,5.75,0,0,0,0,0,30,14,0,44
-Services,Nakul Sharma,f5cf7ae0,7,3,2,0,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
-Services,Diwesh Pathania,a63563c0,7,0,0,0,0,0.0,"[1, 3, 5, 19]",4.0,24,10,0,16,0,0,3,2,0,0,1,4.0,1,0,0,0,0,0,111,8,119
-Services,Nitin Yadav,ed3fdd1a,8,0,0,0,0,0.0,"[2, 4, 12, 15]",4.0,24,13,1,22,3,0,1,0,0,0,1,5.5,0,0,0,0,0,0,54,0,54
-Services,Sachidanand Pandey,f8c7484e,9,0,0,0,0,0.0,"[6, 8, 10, 17]",4.0,24,4,0,37,4,0,1,0,0,0,7,9.25,0,0,0,0,0,0,29,0,29
-Services,Avishek Sinha,9fc68dcb,10,0,0,0,0,0.0,"[7, 9, 14, 18]",4.0,24,12,0,12,0,0,2,0,0,0,0,3.0,1,0,0,0,0,0,68,8,76
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Himachal,P Chopra,8ac93ca2,1,9,8,1,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,32,True,False,False,Legbreak googly,Right-hand bat
+Himachal,AKS Bains,cb932841,2,12,15,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,16,0,12,28,29,True,False,False,,Right-hand bat
+Himachal,SL Verma,26b6a4e9,3,0,2,0,0,0.0,[13],1.0,6,1,0,8,1,0,1,0,1,0,0,8.0,1,0,0,0,0,-2,34,8,40,34,True,False,True,Right-arm offbreak,Right-hand bat
+Himachal,P Dogra,2728e7e9,4,19,27,2,0,70.37,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27,40,True,False,False,Legbreak,Right-hand bat
+Himachal,Ankit Kaushik,084708eb,5,9,16,0,0,56.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,5,0,0,5,33,True,True,False,Legbreak googly,Right-hand bat
+Himachal,Bipul Sharma,c18496e1,6,15,21,1,0,71.43,"[1, 3, 12, 14]",4.0,24,10,0,20,1,0,1,0,0,0,1,5.0,1,0,0,0,0,19,39,8,66,41,True,False,True,Slow left-arm orthodox,Left-hand bat
+Himachal,R Dhawan,26a85969,7,27,21,2,1,128.57,"[8, 10]",2.0,12,4,0,17,1,1,0,0,0,0,1,8.5,0,0,0,0,0,45,4,0,49,35,True,False,True,Right-arm medium-fast,Right-hand bat
+Himachal,Kanwar Abhinay,7c2e7c17,7,0,0,0,0,0.0,"[2, 15, 17]",3.0,18,7,0,19,0,1,2,0,1,0,1,6.33,0,0,0,0,0,0,67,0,67,33,True,False,False,Right-arm fast-medium,Right-hand bat
+Himachal,Pankaj Jaswal,3bc10d5b,8,0,2,0,0,0.0,"[4, 6, 18]",3.0,18,5,0,28,4,0,0,0,0,0,1,9.33,0,0,0,0,0,-2,5,0,3,29,True,False,False,Right-arm medium,Right-hand bat
+Himachal,Mayank Dagar,a457cfb5,9,3,5,0,0,60.0,"[5, 7, 16, 19]",3.167,19,9,0,21,2,1,1,0,0,0,0,6.63,0,0,0,0,0,3,36,0,39,28,True,False,False,Slow left-arm orthodox,Right-hand bat
+Himachal,DG Kumar,62788a13,10,6,3,1,0,200.0,"[9, 11]",2.0,12,4,0,7,0,0,0,0,0,0,0,3.5,0,0,0,0,0,10,10,0,20,30,True,True,False,Right-arm offbreak,Right-hand bat
+Services,Nakul Verma,38c0d699,1,25,25,3,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,41,0,8,49,33,True,True,False,Legbreak googly,Right-hand bat
+Services,Ravi Chauhan,f7ce1f24,2,21,32,0,1,65.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,25,0,0,25,31,True,True,False,Legbreak googly,Right-hand bat
+Services,Rahul Singh,adf454e9,3,12,15,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,16,0,16,32,29,True,True,False,Right-arm medium,Left-hand bat
+Services,Amit Pachhara,be271641,4,23,17,3,0,135.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,37,0,0,37,29,True,True,False,Right-arm offbreak,Right-hand bat
+Services,Vikas Hathwala,904585d1,5,14,10,2,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,2,24,0,12,36,31,True,True,False,Left-arm medium,Left-hand bat
+Services,AA Bamal,6a58e069,6,18,8,0,2,225.0,"[11, 13, 16, 20]",4.0,24,10,0,23,1,1,0,0,0,1,0,5.75,0,0,0,0,0,30,14,0,44,27,True,False,True,Slow left-arm orthodox,Left-hand bat
+Services,Nakul Sharma,f5cf7ae0,7,3,2,0,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,31,True,True,False,Legbreak googly,Right-hand bat
+Services,Diwesh Pathania,a63563c0,7,0,0,0,0,0.0,"[1, 3, 5, 19]",4.0,24,10,0,16,0,0,3,2,0,0,1,4.0,1,0,0,0,0,0,111,8,119,35,True,True,False,Right-arm medium,Right-hand bat
+Services,Nitin Yadav,ed3fdd1a,8,0,0,0,0,0.0,"[2, 4, 12, 15]",4.0,24,13,1,22,3,0,1,0,0,0,1,5.5,0,0,0,0,0,0,54,0,54,32,True,True,False,Right-arm medium,Right-hand bat
+Services,Sachidanand Pandey,f8c7484e,9,0,0,0,0,0.0,"[6, 8, 10, 17]",4.0,24,4,0,37,4,0,1,0,0,0,7,9.25,0,0,0,0,0,0,29,0,29,28,True,True,False,Right-arm medium,Right-hand bat
+Services,Avishek Sinha,9fc68dcb,10,0,0,0,0,0.0,"[7, 9, 14, 18]",4.0,24,12,0,12,0,0,2,0,0,0,0,3.0,1,0,0,0,0,0,68,8,76,40,True,True,False,Slow left-arm orthodox,Right-hand bat

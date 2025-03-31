@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Impi,LJ Wright,cca50cd6,1,75,39,12,2,192.31,"[5, 9, 11, 14]",4.0,24,6,0,32,1,1,1,0,0,0,3,8.0,0,0,0,0,6,153,31,0,184
-Impi,RCC Canning,e6c67124,2,36,24,3,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,58,0,0,58
-Impi,RN ten Doeschate,4ec07775,3,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
-Impi,PD Collingwood,a386e91b,4,18,13,0,1,138.46,"[6, 8, 10]",3.0,18,8,0,23,1,1,1,0,0,0,0,7.67,0,0,0,0,2,26,33,0,59
-Impi,JP Kreusch,4f421623,5,12,9,0,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
-Impi,PJ van Biljon,4025c262,6,13,15,0,0,86.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
-Impi,M Mosehle,8836fcac,7,9,6,1,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
-Impi,K Zondo,4aad78d3,8,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Impi,S Simetu,d3cc2954,9,4,6,0,0,66.67,"[1, 7, 12]",3.0,18,7,0,21,1,1,1,0,1,0,1,7.0,0,0,0,0,0,4,42,0,46
-Impi,BM Edmondson,b0b320a0,10,3,2,0,0,150.0,"[2, 4, 15, 17]",4.0,24,3,0,47,4,2,0,0,0,1,1,11.75,0,0,0,0,0,3,-1,0,2
-Impi,P Matshikwe,1b05424f,11,0,0,0,0,0.0,"[3, 13, 16]",3.0,18,3,0,33,4,1,2,0,0,0,0,11.0,0,0,0,0,0,0,51,0,51
-Knights,RR Rossouw,cad00a4d,1,42,25,6,1,168.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,80,0,0,80
-Knights,MN van Wyk,710dd98c,2,34,33,2,1,103.03,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,52,0,8,60
-Knights,RR Hendricks,b8cc58c9,3,12,5,0,1,240.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26
-Knights,RT Bailey,93a751e8,4,31,24,1,1,129.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,4,0,0,0,0,45,0,36,81
-Knights,JJ van der Wath,6821ac10,5,9,6,0,1,150.0,"[2, 4, 16, 18]",4.0,24,9,0,22,2,0,2,0,0,0,1,5.5,0,0,0,0,0,15,63,0,78
-Knights,D Elgar,33085ffb,6,13,6,2,0,216.67,"[11, 13]",2.0,12,4,0,14,0,1,1,0,0,0,0,7.0,0,0,0,0,0,21,31,0,52
-Knights,R McLaren,c654af19,7,0,0,0,0,0.0,"[3, 6, 19]",3.0,18,4,0,36,5,1,0,0,0,0,1,12.0,0,0,0,0,0,0,0,0,0
-Knights,WL Coetsee,5f419ace,7,9,3,0,1,300.0,"[8, 14]",2.0,12,2,0,21,0,2,1,0,0,0,0,10.5,0,0,0,0,0,15,25,0,40
-Knights,AR Swanepoel,cba5185d,8,0,0,0,0,0.0,"[7, 9, 12]",3.0,18,2,0,26,2,0,1,0,0,0,0,8.67,2,0,0,0,0,0,27,16,43
-Knights,J Coetzee,3ad06915,9,0,0,0,0,0.0,"[10, 15, 17, 20]",4.0,24,6,0,34,4,0,4,0,0,0,1,8.5,0,0,0,0,0,0,114,0,114
-Knights,MP Siboto,9d50c7e1,10,0,0,0,0,0.0,"[1, 5]",2.0,12,3,0,22,3,1,0,0,0,0,0,11.0,1,0,0,0,0,0,1,8,9
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Impi,LJ Wright,cca50cd6,1,75,39,12,2,192.31,"[5, 9, 11, 14]",4.0,24,6,0,32,1,1,1,0,0,0,3,8.0,0,0,0,0,6,153,31,0,184,40,True,False,False,Right-arm medium,Right-hand bat
+Impi,RCC Canning,e6c67124,2,36,24,3,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,58,0,0,58,41,True,False,False,,Right-hand bat
+Impi,RN ten Doeschate,4ec07775,3,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,44,True,False,True,Right-arm medium-fast,Right-hand bat
+Impi,PD Collingwood,a386e91b,4,18,13,0,1,138.46,"[6, 8, 10]",3.0,18,8,0,23,1,1,1,0,0,0,0,7.67,0,0,0,0,2,26,33,0,59,48,True,False,True,Right-arm medium,Right-hand bat
+Impi,JP Kreusch,4f421623,5,12,9,0,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,45,True,True,False,Right-arm medium,Right-hand bat
+Impi,PJ van Biljon,4025c262,6,13,15,0,0,86.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21,38,True,True,False,Right-arm medium,Right-hand bat
+Impi,M Mosehle,8836fcac,7,9,6,1,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21,34,True,False,False,,Right-hand bat
+Impi,K Zondo,4aad78d3,8,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,35,True,False,False,Right-arm offbreak,Right-hand bat
+Impi,S Simetu,d3cc2954,9,4,6,0,0,66.67,"[1, 7, 12]",3.0,18,7,0,21,1,1,1,0,1,0,1,7.0,0,0,0,0,0,4,42,0,46,33,True,True,False,Slow left-arm orthodox,Right-hand bat
+Impi,BM Edmondson,b0b320a0,10,3,2,0,0,150.0,"[2, 4, 15, 17]",4.0,24,3,0,47,4,2,0,0,0,1,1,11.75,0,0,0,0,0,3,-1,0,2,46,True,False,False,Right-arm fast-medium,Left-hand bat
+Impi,P Matshikwe,1b05424f,11,0,0,0,0,0.0,"[3, 13, 16]",3.0,18,3,0,33,4,1,2,0,0,0,0,11.0,0,0,0,0,0,0,51,0,51,40,True,True,False,Right-arm medium,Right-hand bat
+Knights,RR Rossouw,cad00a4d,1,42,25,6,1,168.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,80,0,0,80,35,True,False,False,Right-arm offbreak,Left-hand bat
+Knights,MN van Wyk,710dd98c,2,34,33,2,1,103.03,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,52,0,8,60,46,True,True,False,Slow left-arm orthodox,Right-hand bat
+Knights,RR Hendricks,b8cc58c9,3,12,5,0,1,240.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26,35,True,False,False,Right-arm offbreak,Right-hand bat
+Knights,RT Bailey,93a751e8,4,31,24,1,1,129.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,4,0,0,0,0,45,0,36,81,42,True,True,False,Right-arm medium,Right-hand bat
+Knights,JJ van der Wath,6821ac10,5,9,6,0,1,150.0,"[2, 4, 16, 18]",4.0,24,9,0,22,2,0,2,0,0,0,1,5.5,0,0,0,0,0,15,63,0,78,47,True,False,True,Right-arm medium-fast,Right-hand bat
+Knights,D Elgar,33085ffb,6,13,6,2,0,216.67,"[11, 13]",2.0,12,4,0,14,0,1,1,0,0,0,0,7.0,0,0,0,0,0,21,31,0,52,37,True,False,False,Slow left-arm orthodox,Left-hand bat
+Knights,R McLaren,c654af19,7,0,0,0,0,0.0,"[3, 6, 19]",3.0,18,4,0,36,5,1,0,0,0,0,1,12.0,0,0,0,0,0,0,0,0,0,42,True,False,True,Right-arm medium-fast,Left-hand bat
+Knights,WL Coetsee,5f419ace,7,9,3,0,1,300.0,"[8, 14]",2.0,12,2,0,21,0,2,1,0,0,0,0,10.5,0,0,0,0,0,15,25,0,40,42,True,True,False,Right-arm offbreak,Right-hand bat
+Knights,AR Swanepoel,cba5185d,8,0,0,0,0,0.0,"[7, 9, 12]",3.0,18,2,0,26,2,0,1,0,0,0,0,8.67,2,0,0,0,0,0,27,16,43,35,True,False,True,Right-arm offbreak,Right-hand bat
+Knights,J Coetzee,3ad06915,9,0,0,0,0,0.0,"[10, 15, 17, 20]",4.0,24,6,0,34,4,0,4,0,0,0,1,8.5,0,0,0,0,0,0,114,0,114,41,True,True,False,Left-arm medium,Left-hand bat
+Knights,MP Siboto,9d50c7e1,10,0,0,0,0,0.0,"[1, 5]",2.0,12,3,0,22,3,1,0,0,0,0,0,11.0,1,0,0,0,0,0,1,8,9,37,True,False,False,Right-arm medium,Left-hand bat

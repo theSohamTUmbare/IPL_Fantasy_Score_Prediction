@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Bhutan,Tenjin Rabgey,1fed517a,1,8,21,0,0,38.1,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,2,0,8,10
-Bhutan,JN Dorji,a73251ff,2,17,21,2,0,80.95,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
-Bhutan,RM Dorji,3d7f02d4,3,8,11,0,0,72.73,"[5, 7, 15, 17]",4.0,24,9,0,28,2,0,1,0,0,0,2,7.0,0,0,0,0,0,8,36,0,44
-Bhutan,S Pradhan,04f0d409,4,28,20,2,1,140.0,"[4, 6, 8, 14]",4.0,24,13,0,16,2,0,1,1,0,0,0,4.0,0,0,0,0,2,48,52,0,100
-Bhutan,Tashi Phuntsho,43d365ca,5,15,20,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
-Bhutan,T Jamtsho,c01d1c0a,6,23,11,3,1,209.09,[2],1.0,6,3,0,11,2,0,0,0,0,0,2,11.0,0,0,0,0,6,47,3,0,50
-Bhutan,N Chejay,a9e63549,7,7,6,1,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,11,0,12,23
-Bhutan,T Wangchuk,39799e49,8,3,4,0,0,75.0,"[1, 3, 18, 20]",4.0,24,12,0,22,3,0,3,0,3,0,1,5.5,0,0,0,0,0,3,119,0,122
-Bhutan,S Loday,448dab1a,9,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Bhutan,Namgay Thinley,9c333e40,10,0,1,0,0,0.0,"[9, 11, 13, 16]",4.0,24,10,0,24,0,2,0,0,0,0,0,6.0,0,0,1,0,0,-2,12,12,22
-Bhutan,Ngawang Thinley,cc62ec8a,11,2,2,0,0,100.0,"[10, 12, 19]",3.0,18,5,0,28,1,2,1,0,0,0,1,9.33,0,0,0,0,0,2,30,0,32
-Indonesia,GA Priandana,2af0e3b1,1,14,23,2,0,60.87,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,-2,20,0,16,36
-Indonesia,Anjar Tadarus,72275237,2,36,29,5,1,124.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,66,0,0,66
-Indonesia,KC Ramamoorthy,a89c270b,3,31,26,1,2,119.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,51,0,0,51
-Indonesia,PR Surve,206efeb1,4,15,19,0,0,78.95,"[7, 9, 18, 20]",3.667,22,5,0,28,3,0,2,0,0,0,0,7.64,1,0,0,0,0,15,55,8,78
-Indonesia,IK Gamantika,4d7c5b56,5,5,8,0,0,62.5,"[11, 13, 15, 17]",4.0,24,6,0,23,1,0,2,0,1,0,1,5.75,3,0,0,0,0,5,68,28,101
-Indonesia,DJ Hawoe,a62f55ba,6,1,2,0,0,50.0,"[2, 4]",2.0,12,7,0,13,2,0,0,0,0,0,1,6.5,1,0,0,0,0,1,9,8,18
-Indonesia,IKEG Artawan,190957d2,7,10,6,2,0,166.67,"[10, 12]",2.0,12,4,0,14,0,1,0,0,0,0,0,7.0,0,0,0,0,0,18,6,0,24
-Indonesia,Ahmad Ramdoni,b5f30525,8,10,6,0,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
-Indonesia,F Banunaek,3c8faed4,9,1,1,0,0,100.0,"[6, 8, 16]",3.0,18,9,0,17,1,1,2,0,1,0,0,5.67,0,0,0,0,0,1,71,0,72
-Indonesia,GD Arta,e969e580,11,0,0,0,0,0.0,[14],1.0,6,3,0,9,1,0,1,0,0,0,1,9.0,0,0,0,0,0,0,28,0,28
-Indonesia,RM Koda,f0a45427,12,0,0,0,0,0.0,"[1, 3, 5, 19]",4.0,24,15,0,12,0,0,2,0,0,0,1,3.0,0,0,1,0,0,0,71,12,83
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bhutan,Tenjin Rabgey,1fed517a,1,8,21,0,0,38.1,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,2,0,8,10,17,True,True,False,Legbreak,Right-hand bat
+Bhutan,JN Dorji,a73251ff,2,17,21,2,0,80.95,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,27,True,False,False,,Right-hand bat
+Bhutan,RM Dorji,3d7f02d4,3,8,11,0,0,72.73,"[5, 7, 15, 17]",4.0,24,9,0,28,2,0,1,0,0,0,2,7.0,0,0,0,0,0,8,36,0,44,25,True,True,False,Right-arm medium,Right-hand bat
+Bhutan,S Pradhan,04f0d409,4,28,20,2,1,140.0,"[4, 6, 8, 14]",4.0,24,13,0,16,2,0,1,1,0,0,0,4.0,0,0,0,0,2,48,52,0,100,40,True,True,False,Right-arm medium-fast,Right-hand bat
+Bhutan,Tashi Phuntsho,43d365ca,5,15,20,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15,24,True,True,False,Right-arm medium-fast,Right-hand bat
+Bhutan,T Jamtsho,c01d1c0a,6,23,11,3,1,209.09,[2],1.0,6,3,0,11,2,0,0,0,0,0,2,11.0,0,0,0,0,6,47,3,0,50,33,True,True,False,Right-arm medium-fast,Right-hand bat
+Bhutan,N Chejay,a9e63549,7,7,6,1,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,11,0,12,23,23,True,False,False,,Right-hand bat
+Bhutan,T Wangchuk,39799e49,8,3,4,0,0,75.0,"[1, 3, 18, 20]",4.0,24,12,0,22,3,0,3,0,3,0,1,5.5,0,0,0,0,0,3,119,0,122,29,True,True,False,Right-arm medium,Right-hand bat
+Bhutan,S Loday,448dab1a,9,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,22,True,False,False,,Right-hand bat
+Bhutan,Namgay Thinley,9c333e40,10,0,1,0,0,0.0,"[9, 11, 13, 16]",4.0,24,10,0,24,0,2,0,0,0,0,0,6.0,0,0,1,0,0,-2,12,12,22,21,True,True,False,Slow left-arm orthodox,Left-hand bat
+Bhutan,Ngawang Thinley,cc62ec8a,11,2,2,0,0,100.0,"[10, 12, 19]",3.0,18,5,0,28,1,2,1,0,0,0,1,9.33,0,0,0,0,0,2,30,0,32,24,True,True,False,Right-arm medium,Right-hand bat
+Indonesia,GA Priandana,2af0e3b1,1,14,23,2,0,60.87,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,-2,20,0,16,36,27,True,False,False,,Right-hand bat
+Indonesia,Anjar Tadarus,72275237,2,36,29,5,1,124.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,66,0,0,66,40,True,True,False,Right-arm medium-fast,Right-hand bat
+Indonesia,KC Ramamoorthy,a89c270b,3,31,26,1,2,119.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,51,0,0,51,35,True,True,False,Right-arm offbreak,Right-hand bat
+Indonesia,PR Surve,206efeb1,4,15,19,0,0,78.95,"[7, 9, 18, 20]",3.667,22,5,0,28,3,0,2,0,0,0,0,7.64,1,0,0,0,0,15,55,8,78,43,True,False,False,,Right-hand bat
+Indonesia,IK Gamantika,4d7c5b56,5,5,8,0,0,62.5,"[11, 13, 15, 17]",4.0,24,6,0,23,1,0,2,0,1,0,1,5.75,3,0,0,0,0,5,68,28,101,30,True,False,False,,Right-hand bat
+Indonesia,DJ Hawoe,a62f55ba,6,1,2,0,0,50.0,"[2, 4]",2.0,12,7,0,13,2,0,0,0,0,0,1,6.5,1,0,0,0,0,1,9,8,18,24,True,True,False,Right-arm medium,Right-hand bat
+Indonesia,IKEG Artawan,190957d2,7,10,6,2,0,166.67,"[10, 12]",2.0,12,4,0,14,0,1,0,0,0,0,0,7.0,0,0,0,0,0,18,6,0,24,24,True,False,False,,Right-hand bat
+Indonesia,Ahmad Ramdoni,b5f30525,8,10,6,0,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,40,True,False,False,,Right-hand bat
+Indonesia,F Banunaek,3c8faed4,9,1,1,0,0,100.0,"[6, 8, 16]",3.0,18,9,0,17,1,1,2,0,1,0,0,5.67,0,0,0,0,0,1,71,0,72,23,True,True,False,Right-arm medium,Right-hand bat
+Indonesia,GD Arta,e969e580,11,0,0,0,0,0.0,[14],1.0,6,3,0,9,1,0,1,0,0,0,1,9.0,0,0,0,0,0,0,28,0,28,37,True,True,False,Left-arm medium-fast,Left-hand bat
+Indonesia,RM Koda,f0a45427,12,0,0,0,0,0.0,"[1, 3, 5, 19]",4.0,24,15,0,12,0,0,2,0,0,0,1,3.0,0,0,1,0,0,0,71,12,83,30,True,True,False,Right-arm medium-fast,Right-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Guyana Amazon Warriors,DR Smith,35205dfc,1,26,18,3,2,144.44,"[4, 6]",2.0,12,6,0,10,1,0,0,0,0,0,0,5.0,0,0,0,0,2,56,10,0,66
-Guyana Amazon Warriors,MJ Guptill,2be41edb,2,25,22,1,1,113.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,39,0,0,39
-Guyana Amazon Warriors,CA Lynn,45eda7c8,3,77,43,1,8,179.07,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,147,0,8,155
-Guyana Amazon Warriors,JN Mohammed,773cec26,4,33,30,2,1,110.0,[12],1.0,6,2,0,17,1,2,0,0,0,0,0,17.0,0,0,0,0,0,51,2,0,53
-Guyana Amazon Warriors,CD Barnwell,0d51e658,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Guyana Amazon Warriors,A Bramble,eca0c288,6,3,2,0,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,3,0,16,19
-Guyana Amazon Warriors,Sohail Tanvir,64d43928,6,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,7,0,21,1,0,2,0,0,0,1,5.25,0,0,0,0,0,0,61,0,61
-Guyana Amazon Warriors,RR Emrit,e7de4f6b,7,0,0,0,0,0.0,"[8, 16, 18, 20]",4.0,24,5,0,41,0,3,1,0,0,1,0,10.25,0,0,0,0,0,0,28,0,28
-Guyana Amazon Warriors,V Permaul,78dfe704,8,0,0,0,0,0.0,"[5, 7, 9, 11]",4.0,24,9,0,26,2,1,1,0,1,0,0,6.5,0,0,0,0,0,0,44,0,44
-Guyana Amazon Warriors,A Zampa,14f96089,9,0,0,0,0,0.0,"[10, 13, 15]",3.0,18,7,0,20,1,1,1,0,0,0,0,6.67,0,0,0,0,0,0,34,0,34
-Guyana Amazon Warriors,PG Wintz,1013ace8,10,0,0,0,0,0.0,"[2, 14]",2.0,12,4,0,21,2,1,0,0,0,0,1,10.5,1,0,0,0,0,0,2,8,10
-Trinbago Knight Riders,BB McCullum,b8a55852,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Trinbago Knight Riders,HM Amla,e798611a,2,6,10,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,4,0,0,4
-Trinbago Knight Riders,C Munro,af2c687b,3,100,64,7,6,156.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,184,0,0,184
-Trinbago Knight Riders,DM Bravo,14b14cd8,4,12,17,1,0,70.59,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
-Trinbago Knight Riders,DJ Bravo,87e562a9,5,18,17,0,1,105.88,"[8, 15, 17, 19]",4.0,24,6,0,34,1,2,2,2,0,0,1,8.5,0,0,0,0,0,24,72,0,96
-Trinbago Knight Riders,SP Narine,9d430b40,6,0,0,0,0,0.0,"[4, 6, 14, 18]",4.0,24,12,1,18,0,1,1,1,0,0,0,4.5,0,0,0,0,0,0,63,0,63
-Trinbago Knight Riders,Umar Akmal,fd2bf2a0,6,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Trinbago Knight Riders,NO Miller,ea3ffd1b,7,0,0,0,0,0.0,"[2, 10, 12]",3.0,18,7,0,28,0,3,1,0,1,0,1,9.33,0,0,0,0,0,0,40,0,40
-Trinbago Knight Riders,KK Cooper,557153ca,7,16,9,0,1,177.78,"[3, 13, 16]",3.0,18,3,0,38,2,3,0,0,0,0,0,12.67,0,0,0,0,0,22,-3,0,19
-Trinbago Knight Riders,RR Beaton,684a56df,8,0,0,0,0,0.0,"[1, 20]",1.333,8,5,0,14,2,1,0,0,0,0,0,10.5,0,0,0,0,0,0,5,0,5
-Trinbago Knight Riders,SJ Benn,364ee2cf,9,0,0,0,0,0.0,"[5, 7, 9, 11]",4.0,24,8,0,34,2,2,0,0,0,0,0,8.5,0,0,0,0,0,0,8,0,8
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Guyana Amazon Warriors,DR Smith,35205dfc,1,26,18,3,2,144.44,"[4, 6]",2.0,12,6,0,10,1,0,0,0,0,0,0,5.0,0,0,0,0,2,56,10,0,66,41,True,False,True,Right-arm medium,Right-hand bat
+Guyana Amazon Warriors,MJ Guptill,2be41edb,2,25,22,1,1,113.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,39,0,0,39,38,True,False,False,Right-arm offbreak,Right-hand bat
+Guyana Amazon Warriors,CA Lynn,45eda7c8,3,77,43,1,8,179.07,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,147,0,8,155,34,True,False,False,Slow left-arm orthodox,Right-hand bat
+Guyana Amazon Warriors,JN Mohammed,773cec26,4,33,30,2,1,110.0,[12],1.0,6,2,0,17,1,2,0,0,0,0,0,17.0,0,0,0,0,0,51,2,0,53,38,True,False,False,Right-arm offbreak,Right-hand bat
+Guyana Amazon Warriors,CD Barnwell,0d51e658,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,38,True,False,True,Right-arm medium-fast,Right-hand bat
+Guyana Amazon Warriors,A Bramble,eca0c288,6,3,2,0,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,3,0,16,19,34,True,False,False,,Right-hand bat
+Guyana Amazon Warriors,Sohail Tanvir,64d43928,6,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,7,0,21,1,0,2,0,0,0,1,5.25,0,0,0,0,0,0,61,0,61,40,True,False,False,Left-arm medium-fast,Left-hand bat
+Guyana Amazon Warriors,RR Emrit,e7de4f6b,7,0,0,0,0,0.0,"[8, 16, 18, 20]",4.0,24,5,0,41,0,3,1,0,0,1,0,10.25,0,0,0,0,0,0,28,0,28,44,True,False,True,Right-arm medium-fast,Right-hand bat
+Guyana Amazon Warriors,V Permaul,78dfe704,8,0,0,0,0,0.0,"[5, 7, 9, 11]",4.0,24,9,0,26,2,1,1,0,1,0,0,6.5,0,0,0,0,0,0,44,0,44,35,True,False,False,Slow left-arm orthodox,Right-hand bat
+Guyana Amazon Warriors,A Zampa,14f96089,9,0,0,0,0,0.0,"[10, 13, 15]",3.0,18,7,0,20,1,1,1,0,0,0,0,6.67,0,0,0,0,0,0,34,0,34,32,True,False,False,Legbreak googly,Right-hand bat
+Guyana Amazon Warriors,PG Wintz,1013ace8,10,0,0,0,0,0.0,"[2, 14]",2.0,12,4,0,21,2,1,0,0,0,0,1,10.5,1,0,0,0,0,0,2,8,10,39,True,False,False,Right-arm fast-medium,Right-hand bat
+Trinbago Knight Riders,BB McCullum,b8a55852,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,43,True,True,False,Right-arm offbreak,Right-hand bat
+Trinbago Knight Riders,HM Amla,e798611a,2,6,10,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,4,0,0,4,41,True,False,False,Right-arm offbreak,Right-hand bat
+Trinbago Knight Riders,C Munro,af2c687b,3,100,64,7,6,156.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,184,0,0,184,38,True,False,False,Right-arm medium-fast,Left-hand bat
+Trinbago Knight Riders,DM Bravo,14b14cd8,4,12,17,1,0,70.59,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,36,True,False,False,Right-arm medium,Left-hand bat
+Trinbago Knight Riders,DJ Bravo,87e562a9,5,18,17,0,1,105.88,"[8, 15, 17, 19]",4.0,24,6,0,34,1,2,2,2,0,0,1,8.5,0,0,0,0,0,24,72,0,96,41,True,False,True,Right-arm medium,Right-hand bat
+Trinbago Knight Riders,SP Narine,9d430b40,6,0,0,0,0,0.0,"[4, 6, 14, 18]",4.0,24,12,1,18,0,1,1,1,0,0,0,4.5,0,0,0,0,0,0,63,0,63,36,True,False,True,Right-arm offbreak,Left-hand bat
+Trinbago Knight Riders,Umar Akmal,fd2bf2a0,6,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,34,True,False,False,Right-arm offbreak,Right-hand bat
+Trinbago Knight Riders,NO Miller,ea3ffd1b,7,0,0,0,0,0.0,"[2, 10, 12]",3.0,18,7,0,28,0,3,1,0,1,0,1,9.33,0,0,0,0,0,0,40,0,40,42,True,False,False,Slow left-arm orthodox,Right-hand bat
+Trinbago Knight Riders,KK Cooper,557153ca,7,16,9,0,1,177.78,"[3, 13, 16]",3.0,18,3,0,38,2,3,0,0,0,0,0,12.67,0,0,0,0,0,22,-3,0,19,36,True,False,True,Right-arm medium,Right-hand bat
+Trinbago Knight Riders,RR Beaton,684a56df,8,0,0,0,0,0.0,"[1, 20]",1.333,8,5,0,14,2,1,0,0,0,0,0,10.5,0,0,0,0,0,0,5,0,5,32,True,False,False,Right-arm fast-medium,Right-hand bat
+Trinbago Knight Riders,SJ Benn,364ee2cf,9,0,0,0,0,0.0,"[5, 7, 9, 11]",4.0,24,8,0,34,2,2,0,0,0,0,0,8.5,0,0,0,0,0,0,8,0,8,43,True,False,False,Slow left-arm orthodox,Left-hand bat

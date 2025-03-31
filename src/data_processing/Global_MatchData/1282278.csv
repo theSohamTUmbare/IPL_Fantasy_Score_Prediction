@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Bulgaria,Sulaiman Ali,13bf1d91,1,1,3,0,0,33.33,"[5, 7, 11]",3.0,18,1,0,34,2,1,0,0,0,0,1,11.33,0,0,0,0,0,1,-3,0,-2
-Bulgaria,IA De Silva,58973aaf,2,62,40,4,5,155.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,120,0,0,120
-Bulgaria,H Lakov,87a6f411,3,60,51,3,0,117.65,"[8, 10, 18, 20]",4.0,24,8,0,37,2,2,0,0,0,1,1,9.25,0,0,1,2,0,80,8,24,112
-Bulgaria,P Mishra,3fa5672e,4,13,7,1,1,185.71,"[12, 14, 16, 19]",4.0,24,10,0,22,1,0,3,0,2,0,2,5.5,0,0,0,1,0,23,109,6,138
-Bulgaria,Omar Rassol,6caae2dc,5,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,0,2,0,12,14
-Bulgaria,KC D'Souza,2687fff2,6,27,16,2,1,168.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,49,0,8,57
-Bulgaria,Ahsan Khan,4c72b407,6,0,0,0,0,0.0,"[1, 3]",2.0,12,2,0,31,2,2,0,0,0,0,1,15.5,0,0,0,0,0,0,-4,0,-4
-Bulgaria,I Katzarski,514628bd,7,0,0,0,0,0.0,[9],1.0,6,0,0,7,0,0,0,0,0,0,1,7.0,0,0,0,1,0,0,0,6,6
-Bulgaria,J Albin,a4a53adf,8,0,0,0,0,0.0,"[13, 15, 17]",3.0,18,6,0,19,0,1,2,0,1,0,0,6.33,0,0,0,0,0,0,66,0,66
-Bulgaria,DV Varghese,26f98ea3,9,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,5,0,27,2,0,0,0,0,0,3,9.0,1,0,0,0,0,0,5,8,13
-Bulgaria,Andrey Lilov,c2233c17,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Gibraltar,BA Pai,716bf559,1,71,36,5,3,197.22,"[1, 8, 11, 17]",4.0,24,8,0,26,2,0,1,0,0,0,0,6.5,0,0,0,0,6,123,35,0,158
-Gibraltar,L Bruce,2a03bd2f,2,61,43,3,2,141.86,"[10, 12, 16, 18]",4.0,24,6,0,36,2,1,0,0,0,0,4,9.0,0,0,0,0,2,95,6,0,101
-Gibraltar,CJ Delany,3bc56bd6,3,3,7,0,0,42.86,[20],1.0,6,1,0,15,1,1,0,0,0,0,2,15.0,0,0,0,0,0,3,1,0,4
-Gibraltar,PA Raikes,dfe5db8a,4,22,16,1,1,137.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,34,0,0,34
-Gibraltar,JA Fitzgerald,4e6ff836,5,0,1,0,0,0.0,"[2, 4, 6, 14]",4.0,24,7,0,43,2,3,1,0,1,0,1,10.75,0,0,0,0,0,-2,38,0,36
-Gibraltar,R Cunningham,6779e840,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Gibraltar,K Nestor,b89cde87,6,0,1,0,0,0.0,"[3, 5, 19]",3.0,18,5,0,24,2,0,0,0,0,0,1,8.0,0,0,0,0,0,-2,5,0,3
-Gibraltar,P Hatchman,b504e8b8,7,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
-Gibraltar,J Marples,9d75aec7,8,5,6,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
-Gibraltar,LA Collado,177009a5,9,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,2,0,0,0,-2,0,24,22
-Gibraltar,CV Harrison,b0b80a99,10,2,4,0,0,50.0,"[7, 9, 13, 15]",4.0,24,9,0,31,1,2,2,1,0,1,1,7.75,0,0,0,0,0,2,67,0,69
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bulgaria,Sulaiman Ali,13bf1d91,1,1,3,0,0,33.33,"[5, 7, 11]",3.0,18,1,0,34,2,1,0,0,0,0,1,11.33,0,0,0,0,0,1,-3,0,-2,27,True,True,False,Right-arm medium-fast,Right-hand bat
+Bulgaria,IA De Silva,58973aaf,2,62,40,4,5,155.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,120,0,0,120,27,True,True,False,Right-arm medium,Right-hand bat
+Bulgaria,H Lakov,87a6f411,3,60,51,3,0,117.65,"[8, 10, 18, 20]",4.0,24,8,0,37,2,2,0,0,0,1,1,9.25,0,0,1,2,0,80,8,24,112,33,True,True,False,Right-arm fast,Right-hand bat
+Bulgaria,P Mishra,3fa5672e,4,13,7,1,1,185.71,"[12, 14, 16, 19]",4.0,24,10,0,22,1,0,3,0,2,0,2,5.5,0,0,0,1,0,23,109,6,138,46,True,True,False,Right-arm medium,Right-hand bat
+Bulgaria,Omar Rassol,6caae2dc,5,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,0,2,0,12,14,27,True,True,False,Right-arm offbreak,Right-hand bat
+Bulgaria,KC D'Souza,2687fff2,6,27,16,2,1,168.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,49,0,8,57,26,True,True,False,Right-arm offbreak,Right-hand bat
+Bulgaria,Ahsan Khan,4c72b407,6,0,0,0,0,0.0,"[1, 3]",2.0,12,2,0,31,2,2,0,0,0,0,1,15.5,0,0,0,0,0,0,-4,0,-4,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Bulgaria,I Katzarski,514628bd,7,0,0,0,0,0.0,[9],1.0,6,0,0,7,0,0,0,0,0,0,1,7.0,0,0,0,1,0,0,0,6,6,43,True,True,False,Right-arm medium,Right-hand bat
+Bulgaria,J Albin,a4a53adf,8,0,0,0,0,0.0,"[13, 15, 17]",3.0,18,6,0,19,0,1,2,0,1,0,0,6.33,0,0,0,0,0,0,66,0,66,26,True,True,False,Right-arm medium-fast,Right-hand bat
+Bulgaria,DV Varghese,26f98ea3,9,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,5,0,27,2,0,0,0,0,0,3,9.0,1,0,0,0,0,0,5,8,13,27,True,True,False,Right-arm medium-fast,Right-hand bat
+Bulgaria,Andrey Lilov,c2233c17,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,45,True,True,False,Right-arm medium,Right-hand bat
+Gibraltar,BA Pai,716bf559,1,71,36,5,3,197.22,"[1, 8, 11, 17]",4.0,24,8,0,26,2,0,1,0,0,0,0,6.5,0,0,0,0,6,123,35,0,158,43,True,True,False,Right-arm offbreak,Right-hand bat
+Gibraltar,L Bruce,2a03bd2f,2,61,43,3,2,141.86,"[10, 12, 16, 18]",4.0,24,6,0,36,2,1,0,0,0,0,4,9.0,0,0,0,0,2,95,6,0,101,19,True,True,False,Right-arm medium,Right-hand bat
+Gibraltar,CJ Delany,3bc56bd6,3,3,7,0,0,42.86,[20],1.0,6,1,0,15,1,1,0,0,0,0,2,15.0,0,0,0,0,0,3,1,0,4,34,True,True,False,Right-arm medium,Right-hand bat
+Gibraltar,PA Raikes,dfe5db8a,4,22,16,1,1,137.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,34,0,0,34,34,True,False,False,,Right-hand bat
+Gibraltar,JA Fitzgerald,4e6ff836,5,0,1,0,0,0.0,"[2, 4, 6, 14]",4.0,24,7,0,43,2,3,1,0,1,0,1,10.75,0,0,0,0,0,-2,38,0,36,25,True,True,False,Right-arm medium-fast,Right-hand bat
+Gibraltar,R Cunningham,6779e840,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,55,True,True,False,Right-arm offbreak,Right-hand bat
+Gibraltar,K Nestor,b89cde87,6,0,1,0,0,0.0,"[3, 5, 19]",3.0,18,5,0,24,2,0,0,0,0,0,1,8.0,0,0,0,0,0,-2,5,0,3,36,True,True,False,Right-arm fast,Right-hand bat
+Gibraltar,P Hatchman,b504e8b8,7,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,31,True,True,False,Right-arm medium,Right-hand bat
+Gibraltar,J Marples,9d75aec7,8,5,6,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,33,True,False,False,,Right-hand bat
+Gibraltar,LA Collado,177009a5,9,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,2,0,0,0,-2,0,24,22,32,True,False,False,,
+Gibraltar,CV Harrison,b0b80a99,10,2,4,0,0,50.0,"[7, 9, 13, 15]",4.0,24,9,0,31,1,2,2,1,0,1,1,7.75,0,0,0,0,0,2,67,0,69,41,True,True,False,Slow left-arm orthodox,Left-hand bat

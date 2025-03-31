@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Dolphins,KD Petersen,bf64dc29,1,43,36,3,1,119.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,65,0,0,65
-Dolphins,G Roelofsen,ac688e55,2,19,26,0,0,73.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,19,0,16,35
-Dolphins,MJ Ackerman,6287d981,3,11,9,1,0,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
-Dolphins,DA Miller,d67d5f00,4,35,25,2,1,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,55,0,0,55
-Dolphins,K Zondo,4aad78d3,5,19,16,1,0,118.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
-Dolphins,B Parsons,fc60e81a,5,0,0,0,0,0.0,"[8, 12]",2.0,12,2,0,18,1,1,0,0,0,0,0,9.0,0,0,0,0,0,0,2,0,2
-Dolphins,AL Phehlukwayo,ab6b1c45,6,0,0,0,0,0.0,"[5, 7, 9, 11]",4.0,24,13,0,19,2,0,1,1,0,0,2,4.75,0,0,0,0,0,0,52,0,52
-Dolphins,P Subrayen,7ec9711d,7,0,0,0,0,0.0,"[2, 10, 14]",3.0,18,6,0,23,1,1,0,0,0,0,0,7.67,0,0,0,0,0,0,6,0,6
-Dolphins,E Bosch,28d6c44d,8,0,0,0,0,0.0,"[3, 13, 16, 19]",4.0,24,9,0,20,1,0,3,1,0,0,0,5.0,1,0,0,0,0,0,100,8,108
-Dolphins,OEG Baartman,6b9eb501,9,0,0,0,0,0.0,"[1, 6, 17, 20]",4.0,24,12,1,12,0,0,2,0,2,0,0,3.0,0,0,0,0,0,0,96,0,96
-Dolphins,T Ntini,d44569de,10,0,0,0,0,0.0,"[4, 15, 18]",3.0,18,4,0,41,5,2,1,0,0,0,1,13.67,0,0,0,0,0,0,23,0,23
-North West,WB Marshall,2d7f2ba0,1,14,14,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
-North West,T Isaacs,249a17c8,2,7,14,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,3,0,0,3
-North West,NJ van den Bergh,055e8d7b,3,52,37,5,2,140.54,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,94,0,0,94
-North West,D Pretorius,11614d87,4,39,34,2,2,114.71,"[3, 6, 16, 18]",4.0,24,2,0,27,1,0,0,0,0,0,1,6.75,0,0,0,0,0,63,4,0,67
-North West,D Potgieter,60fbf53a,5,7,8,0,0,87.5,"[13, 17]",2.0,12,3,0,23,2,1,1,0,1,0,1,11.5,0,0,0,0,0,7,32,0,39
-North West,JN Diseko,bc31511b,5,0,0,0,0,0.0,"[1, 4]",2.0,12,4,0,13,1,0,0,0,0,0,0,6.5,0,0,0,0,0,0,6,0,6
-North West,S Muthusamy,7dfb8890,6,7,5,1,0,140.0,"[7, 10, 14]",3.0,18,4,0,15,0,0,1,0,1,0,0,5.0,0,0,0,0,0,11,41,0,52
-North West,Z Pongolo,01698fee,7,1,2,0,0,50.0,[9],1.0,6,0,0,9,1,0,0,0,0,0,0,9.0,0,0,0,0,0,1,0,0,1
-North West,NP Mvelase,a3a3c0e7,8,0,2,0,0,0.0,[12],1.0,6,1,0,9,1,0,0,0,0,0,0,9.0,0,0,0,0,0,-2,1,0,-1
-North West,EL Hawken,a0936692,9,2,2,0,0,100.0,"[2, 5, 15, 19]",3.667,22,10,0,19,1,0,0,0,0,2,0,5.18,0,0,0,0,0,2,14,0,16
-North West,C Seleka,be8b147b,10,1,2,0,0,50.0,"[8, 11]",2.0,12,2,0,16,0,1,1,0,1,0,0,8.0,0,0,0,0,0,1,35,0,36
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Dolphins,KD Petersen,bf64dc29,1,43,36,3,1,119.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,65,0,0,65,31,True,False,False,Legbreak,Right-hand bat
+Dolphins,G Roelofsen,ac688e55,2,19,26,0,0,73.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,19,0,16,35,28,True,False,False,,Right-hand bat
+Dolphins,MJ Ackerman,6287d981,3,11,9,1,0,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15,29,True,False,False,Right-arm offbreak,Left-hand bat
+Dolphins,DA Miller,d67d5f00,4,35,25,2,1,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,55,0,0,55,35,True,False,False,Right-arm offbreak,Left-hand bat
+Dolphins,K Zondo,4aad78d3,5,19,16,1,0,118.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23,35,True,False,False,Right-arm offbreak,Right-hand bat
+Dolphins,B Parsons,fc60e81a,5,0,0,0,0,0.0,"[8, 12]",2.0,12,2,0,18,1,1,0,0,0,0,0,9.0,0,0,0,0,0,0,2,0,2,24,True,False,True,Slow left-arm orthodox,Left-hand bat
+Dolphins,AL Phehlukwayo,ab6b1c45,6,0,0,0,0,0.0,"[5, 7, 9, 11]",4.0,24,13,0,19,2,0,1,1,0,0,2,4.75,0,0,0,0,0,0,52,0,52,29,True,False,True,Right-arm medium-fast,Left-hand bat
+Dolphins,P Subrayen,7ec9711d,7,0,0,0,0,0.0,"[2, 10, 14]",3.0,18,6,0,23,1,1,0,0,0,0,0,7.67,0,0,0,0,0,0,6,0,6,31,True,False,True,Right-arm offbreak,Right-hand bat
+Dolphins,E Bosch,28d6c44d,8,0,0,0,0,0.0,"[3, 13, 16, 19]",4.0,24,9,0,20,1,0,3,1,0,0,0,5.0,1,0,0,0,0,0,100,8,108,26,True,False,False,Right-arm fast,Right-hand bat
+Dolphins,OEG Baartman,6b9eb501,9,0,0,0,0,0.0,"[1, 6, 17, 20]",4.0,24,12,1,12,0,0,2,0,2,0,0,3.0,0,0,0,0,0,0,96,0,96,32,True,False,False,Right-arm medium-fast,Right-hand bat
+Dolphins,T Ntini,d44569de,10,0,0,0,0,0.0,"[4, 15, 18]",3.0,18,4,0,41,5,2,1,0,0,0,1,13.67,0,0,0,0,0,0,23,0,23,24,True,False,False,Right-arm fast,Left-hand bat
+North West,WB Marshall,2d7f2ba0,1,14,14,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,31,True,False,False,Right-arm medium,Right-hand bat
+North West,T Isaacs,249a17c8,2,7,14,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,3,0,0,3,23,True,True,False,Right-arm medium,Left-hand bat
+North West,NJ van den Bergh,055e8d7b,3,52,37,5,2,140.54,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,94,0,0,94,35,True,False,False,,Right-hand bat
+North West,D Pretorius,11614d87,4,39,34,2,2,114.71,"[3, 6, 16, 18]",4.0,24,2,0,27,1,0,0,0,0,0,1,6.75,0,0,0,0,0,63,4,0,67,36,True,False,True,Right-arm medium-fast,Right-hand bat
+North West,D Potgieter,60fbf53a,5,7,8,0,0,87.5,"[13, 17]",2.0,12,3,0,23,2,1,1,0,1,0,1,11.5,0,0,0,0,0,7,32,0,39,28,True,False,False,Right-arm medium,Left-hand bat
+North West,JN Diseko,bc31511b,5,0,0,0,0,0.0,"[1, 4]",2.0,12,4,0,13,1,0,0,0,0,0,0,6.5,0,0,0,0,0,0,6,0,6,34,True,True,False,Slow left-arm orthodox,Right-hand bat
+North West,S Muthusamy,7dfb8890,6,7,5,1,0,140.0,"[7, 10, 14]",3.0,18,4,0,15,0,0,1,0,1,0,0,5.0,0,0,0,0,0,11,41,0,52,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+North West,Z Pongolo,01698fee,7,1,2,0,0,50.0,[9],1.0,6,0,0,9,1,0,0,0,0,0,0,9.0,0,0,0,0,0,1,0,0,1,35,True,True,False,Right-arm medium,Right-hand bat
+North West,NP Mvelase,a3a3c0e7,8,0,2,0,0,0.0,[12],1.0,6,1,0,9,1,0,0,0,0,0,0,9.0,0,0,0,0,0,-2,1,0,-1,28,True,True,False,Right-arm offbreak,Right-hand bat
+North West,EL Hawken,a0936692,9,2,2,0,0,100.0,"[2, 5, 15, 19]",3.667,22,10,0,19,1,0,0,0,0,2,0,5.18,0,0,0,0,0,2,14,0,16,35,True,False,False,Right-arm fast,Right-hand bat
+North West,C Seleka,be8b147b,10,1,2,0,0,50.0,"[8, 11]",2.0,12,2,0,16,0,1,1,0,1,0,0,8.0,0,0,0,0,0,1,35,0,36,22,True,False,False,Legbreak,Right-hand bat

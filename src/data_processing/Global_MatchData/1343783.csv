@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Ghana,Amoluk Singh,266473e2,1,4,4,1,0,100.0,[7],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,0,8,2,0,10
-Ghana,SK Awiah,bc3fc527,2,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
-Ghana,JK Vifah,a1448a10,3,63,52,2,4,121.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,103,0,0,103
-Ghana,G Bakiweyem,5fe3709e,3,0,0,0,0,0.0,[2],1.0,6,1,0,16,2,0,0,0,0,0,3,16.0,0,0,0,0,0,0,1,0,1
-Ghana,P Ayoleyine,20e3030d,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Ghana,R Baaleri,26c9b5be,4,24,39,1,0,61.54,[5],1.0,6,3,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,-2,26,3,0,29
-Ghana,OH Agbomadzie,b38a9f73,5,6,8,0,0,75.0,"[4, 6, 8]",2.333,14,5,0,20,3,0,0,0,0,0,1,8.57,0,0,0,0,0,6,5,0,11
-Ghana,R Bakum,c74c583b,6,6,4,0,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
-Ghana,DK Anefie,f98c24ec,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Ghana,TK Joseph,4fafd79a,8,5,5,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
-Ghana,KS Bagabena,1ce4f664,9,8,3,0,1,266.67,"[1, 3]",2.0,12,8,0,10,2,0,1,0,1,0,0,5.0,0,0,0,0,0,14,45,0,59
-Sierra Leone,R Coker,3239c8a9,1,4,6,1,0,66.67,"[8, 10]",2.0,12,6,0,11,0,1,0,0,0,0,0,5.5,0,0,0,0,0,8,10,0,18
-Sierra Leone,A Turay,11a22126,2,26,18,4,0,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,48,0,0,48
-Sierra Leone,G Sesay,c556b9d2,3,0,0,0,0,0.0,"[1, 3, 15, 20]",4.0,24,8,0,33,1,1,1,0,1,0,4,8.25,0,0,0,0,0,0,41,0,41
-Sierra Leone,G Ngegba,69caf2be,3,26,20,4,0,130.0,"[7, 9, 11]",3.0,18,7,0,23,0,2,0,0,0,1,0,7.67,0,0,0,0,2,48,7,0,55
-Sierra Leone,C Bah,7213d757,4,0,0,0,0,0.0,"[2, 4]",2.0,12,8,0,12,2,0,1,0,0,0,1,6.0,0,0,0,0,0,0,35,0,35
-Sierra Leone,A Gbla,34ab1e6e,5,0,0,0,0,0.0,"[17, 19]",2.0,12,9,0,9,0,1,4,0,3,0,0,4.5,1,0,0,0,0,0,147,8,155
-Sierra Leone,Zahid Khan,bf896894,6,0,0,0,0,0.0,[6],1.0,6,3,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,0,0,3,0,3
-Sierra Leone,Mohamed Khan,13501ff4,7,0,0,0,0,0.0,"[12, 14, 16, 18]",4.0,24,6,0,27,0,1,1,0,1,0,0,6.75,0,0,0,0,0,0,41,0,41
-Sierra Leone,L Lamin,5a970aab,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Sierra Leone,S Conteh,8f70fff7,9,0,0,0,0,0.0,"[5, 13]",2.0,12,7,0,4,0,0,0,0,0,0,1,2.0,0,0,0,0,0,0,13,0,13
-Sierra Leone,J Bangura,d7acab5d,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Ghana,Amoluk Singh,266473e2,1,4,4,1,0,100.0,[7],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,0,8,2,0,10,49,True,True,False,Right-arm offbreak,Right-hand bat
+Ghana,SK Awiah,bc3fc527,2,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,35,True,False,False,Right-arm offbreak,Right-hand bat
+Ghana,JK Vifah,a1448a10,3,63,52,2,4,121.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,103,0,0,103,35,True,True,False,Right-arm medium,Right-hand bat
+Ghana,G Bakiweyem,5fe3709e,3,0,0,0,0,0.0,[2],1.0,6,1,0,16,2,0,0,0,0,0,3,16.0,0,0,0,0,0,0,1,0,1,26,True,True,False,Right-arm medium,Right-hand bat
+Ghana,P Ayoleyine,20e3030d,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,19,True,True,False,Right-arm medium,Right-hand bat
+Ghana,R Baaleri,26c9b5be,4,24,39,1,0,61.54,[5],1.0,6,3,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,-2,26,3,0,29,22,True,True,False,Right-arm offbreak,Right-hand bat
+Ghana,OH Agbomadzie,b38a9f73,5,6,8,0,0,75.0,"[4, 6, 8]",2.333,14,5,0,20,3,0,0,0,0,0,1,8.57,0,0,0,0,0,6,5,0,11,34,True,True,False,Left-arm medium,Left-hand bat
+Ghana,R Bakum,c74c583b,6,6,4,0,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,25,True,False,True,Right-arm medium,Right-hand bat
+Ghana,DK Anefie,f98c24ec,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,24,True,False,True,Right-arm medium,Right-hand bat
+Ghana,TK Joseph,4fafd79a,8,5,5,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,25,True,False,False,,Right-hand bat
+Ghana,KS Bagabena,1ce4f664,9,8,3,0,1,266.67,"[1, 3]",2.0,12,8,0,10,2,0,1,0,1,0,0,5.0,0,0,0,0,0,14,45,0,59,36,True,True,False,Right-arm medium,Right-hand bat
+Sierra Leone,R Coker,3239c8a9,1,4,6,1,0,66.67,"[8, 10]",2.0,12,6,0,11,0,1,0,0,0,0,0,5.5,0,0,0,0,0,8,10,0,18,17,True,True,False,Legbreak,Left-hand bat
+Sierra Leone,A Turay,11a22126,2,26,18,4,0,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,48,0,0,48,17,True,True,False,Legbreak,Right-hand bat
+Sierra Leone,G Sesay,c556b9d2,3,0,0,0,0,0.0,"[1, 3, 15, 20]",4.0,24,8,0,33,1,1,1,0,1,0,4,8.25,0,0,0,0,0,0,41,0,41,18,True,True,False,Right-arm medium,Right-hand bat
+Sierra Leone,G Ngegba,69caf2be,3,26,20,4,0,130.0,"[7, 9, 11]",3.0,18,7,0,23,0,2,0,0,0,1,0,7.67,0,0,0,0,2,48,7,0,55,22,True,True,False,Right-arm offbreak,Right-hand bat
+Sierra Leone,C Bah,7213d757,4,0,0,0,0,0.0,"[2, 4]",2.0,12,8,0,12,2,0,1,0,0,0,1,6.0,0,0,0,0,0,0,35,0,35,22,True,True,False,Right-arm medium,Right-hand bat
+Sierra Leone,A Gbla,34ab1e6e,5,0,0,0,0,0.0,"[17, 19]",2.0,12,9,0,9,0,1,4,0,3,0,0,4.5,1,0,0,0,0,0,147,8,155,27,True,True,False,Right-arm medium,Right-hand bat
+Sierra Leone,Zahid Khan,bf896894,6,0,0,0,0,0.0,[6],1.0,6,3,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,0,0,3,0,3,26,True,True,False,Right-arm medium-fast,Right-hand bat
+Sierra Leone,Mohamed Khan,13501ff4,7,0,0,0,0,0.0,"[12, 14, 16, 18]",4.0,24,6,0,27,0,1,1,0,1,0,0,6.75,0,0,0,0,0,0,41,0,41,35,True,False,False,,
+Sierra Leone,L Lamin,5a970aab,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,39,True,True,False,Right-arm fast-medium,Right-hand bat
+Sierra Leone,S Conteh,8f70fff7,9,0,0,0,0,0.0,"[5, 13]",2.0,12,7,0,4,0,0,0,0,0,0,1,2.0,0,0,0,0,0,0,13,0,13,21,True,True,False,Right-arm medium,Right-hand bat
+Sierra Leone,J Bangura,d7acab5d,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,19,True,True,False,Right-arm offbreak,Right-hand bat

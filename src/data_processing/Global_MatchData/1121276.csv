@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Comilla Victorians,Tamim Iqbal,3b041a12,1,64,42,12,0,152.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,124,0,8,132
-Comilla Victorians,Liton Das,0404d43c,2,21,20,4,0,105.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,37,0,20,57
-Comilla Victorians,Shoaib Malik,64c34cd0,3,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,11,0,14,2,0,3,0,1,0,1,4.67,0,0,0,0,0,0,104,0,104
-Comilla Victorians,Imrul Kayes,5fbe14fc,3,22,21,3,0,104.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34
-Comilla Victorians,JC Buttler,99b75528,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0,0,28,28
-Comilla Victorians,MN Samuels,f846de6a,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Comilla Victorians,DJ Bravo,87e562a9,6,0,0,0,0,0.0,"[10, 12, 17, 19]",4.0,24,7,0,29,3,0,1,0,0,0,0,7.25,1,0,0,0,0,0,32,8,40
-Comilla Victorians,Mohammad Saifuddin,b3a28446,7,0,0,0,0,0.0,"[7, 14, 18]",3.0,18,6,0,19,2,0,1,0,0,0,0,6.33,0,0,0,0,0,0,33,0,33
-Comilla Victorians,Mahedi Hasan,9dad0f2e,8,0,0,0,0,0.0,"[1, 5]",2.0,12,9,1,8,1,0,1,0,0,0,0,4.0,0,0,0,0,0,0,52,0,52
-Comilla Victorians,Hasan Ali,2911de16,9,0,0,0,0,0.0,"[3, 8, 16, 20]",3.333,20,9,0,21,2,0,1,0,1,0,2,6.3,1,0,0,0,0,0,44,8,52
-Comilla Victorians,Al-Amin Hossain,3f5f39cd,10,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,13,0,20,3,0,3,0,0,0,0,5.0,0,0,0,0,0,0,96,0,96
-Khulna Titans,Nazmul Hossain Shanto,1274d7ab,1,8,6,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
-Khulna Titans,RR Rossouw,cad00a4d,2,0,1,0,0,0.0,[14],0.833,5,0,0,5,0,0,0,0,0,0,0,6.0,0,0,0,0,0,-2,0,0,-2
-Khulna Titans,Afif Hossain,37138918,3,8,9,2,0,88.89,"[1, 13]",2.0,12,5,0,22,4,0,0,0,0,0,3,11.0,0,0,0,0,0,16,3,0,19
-Khulna Titans,Mahmudullah,bf1d7d3e,4,14,12,2,0,116.67,"[7, 11]",2.0,12,6,0,9,1,0,0,0,0,0,0,4.5,0,0,0,0,0,22,12,0,34
-Khulna Titans,N Pooran,3241e3fd,5,0,7,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Khulna Titans,Ariful Haque,ad1730bc,6,24,24,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,28,0,8,36
-Khulna Titans,CR Brathwaite,e342e5fb,7,13,14,2,0,92.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
-Khulna Titans,JC Archer,5574750c,8,5,3,1,0,166.67,"[3, 5, 9]",3.0,18,12,0,16,3,0,0,0,0,0,1,5.33,0,0,0,0,0,9,16,0,25
-Khulna Titans,KJ Abbott,a9da7784,9,16,21,1,0,76.19,"[2, 8, 10]",3.0,18,8,0,27,5,0,1,0,0,0,1,9.0,0,0,0,0,0,20,33,0,53
-Khulna Titans,Shafiul Islam,1a8eebbe,10,16,18,2,0,88.89,"[4, 12]",2.0,12,5,0,17,3,0,0,0,0,0,0,8.5,0,0,0,0,0,24,5,0,29
-Khulna Titans,Abu Jayed,1bb0993e,11,4,1,1,0,400.0,[6],1.0,6,1,0,16,3,0,0,0,0,0,0,16.0,0,0,0,0,0,8,1,0,9
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Comilla Victorians,Tamim Iqbal,3b041a12,1,64,42,12,0,152.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,124,0,8,132,36,True,False,False,,Left-hand bat
+Comilla Victorians,Liton Das,0404d43c,2,21,20,4,0,105.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,37,0,20,57,30,True,True,False,Right-arm offbreak,Right-hand bat
+Comilla Victorians,Shoaib Malik,64c34cd0,3,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,11,0,14,2,0,3,0,1,0,1,4.67,0,0,0,0,0,0,104,0,104,43,True,False,True,Right-arm offbreak,Right-hand bat
+Comilla Victorians,Imrul Kayes,5fbe14fc,3,22,21,3,0,104.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34,38,True,False,False,Slow left-arm orthodox,Left-hand bat
+Comilla Victorians,JC Buttler,99b75528,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0,0,28,28,34,True,False,False,,Right-hand bat
+Comilla Victorians,MN Samuels,f846de6a,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,44,True,False,False,Right-arm offbreak,Right-hand bat
+Comilla Victorians,DJ Bravo,87e562a9,6,0,0,0,0,0.0,"[10, 12, 17, 19]",4.0,24,7,0,29,3,0,1,0,0,0,0,7.25,1,0,0,0,0,0,32,8,40,41,True,False,True,Right-arm medium,Right-hand bat
+Comilla Victorians,Mohammad Saifuddin,b3a28446,7,0,0,0,0,0.0,"[7, 14, 18]",3.0,18,6,0,19,2,0,1,0,0,0,0,6.33,0,0,0,0,0,0,33,0,33,28,True,False,True,Right-arm medium-fast,Left-hand bat
+Comilla Victorians,Mahedi Hasan,9dad0f2e,8,0,0,0,0,0.0,"[1, 5]",2.0,12,9,1,8,1,0,1,0,0,0,0,4.0,0,0,0,0,0,0,52,0,52,30,True,False,True,Right-arm offbreak,Right-hand bat
+Comilla Victorians,Hasan Ali,2911de16,9,0,0,0,0,0.0,"[3, 8, 16, 20]",3.333,20,9,0,21,2,0,1,0,1,0,2,6.3,1,0,0,0,0,0,44,8,52,30,True,False,False,Right-arm medium-fast,Right-hand bat
+Comilla Victorians,Al-Amin Hossain,3f5f39cd,10,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,13,0,20,3,0,3,0,0,0,0,5.0,0,0,0,0,0,0,96,0,96,32,True,False,False,Right-arm medium-fast,Right-hand bat
+Khulna Titans,Nazmul Hossain Shanto,1274d7ab,1,8,6,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,26,True,False,False,Right-arm offbreak,Left-hand bat
+Khulna Titans,RR Rossouw,cad00a4d,2,0,1,0,0,0.0,[14],0.833,5,0,0,5,0,0,0,0,0,0,0,6.0,0,0,0,0,0,-2,0,0,-2,35,True,False,False,Right-arm offbreak,Left-hand bat
+Khulna Titans,Afif Hossain,37138918,3,8,9,2,0,88.89,"[1, 13]",2.0,12,5,0,22,4,0,0,0,0,0,3,11.0,0,0,0,0,0,16,3,0,19,25,True,False,True,Right-arm offbreak,Left-hand bat
+Khulna Titans,Mahmudullah,bf1d7d3e,4,14,12,2,0,116.67,"[7, 11]",2.0,12,6,0,9,1,0,0,0,0,0,0,4.5,0,0,0,0,0,22,12,0,34,39,True,False,True,Right-arm offbreak,Right-hand bat
+Khulna Titans,N Pooran,3241e3fd,5,0,7,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,29,True,True,False,Right-arm offbreak,Left-hand bat
+Khulna Titans,Ariful Haque,ad1730bc,6,24,24,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,28,0,8,36,32,True,False,True,Right-arm medium-fast,Right-hand bat
+Khulna Titans,CR Brathwaite,e342e5fb,7,13,14,2,0,92.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21,36,True,False,True,Right-arm fast-medium,Right-hand bat
+Khulna Titans,JC Archer,5574750c,8,5,3,1,0,166.67,"[3, 5, 9]",3.0,18,12,0,16,3,0,0,0,0,0,1,5.33,0,0,0,0,0,9,16,0,25,29,True,False,False,Right-arm fast,Right-hand bat
+Khulna Titans,KJ Abbott,a9da7784,9,16,21,1,0,76.19,"[2, 8, 10]",3.0,18,8,0,27,5,0,1,0,0,0,1,9.0,0,0,0,0,0,20,33,0,53,37,True,False,False,Right-arm fast-medium,Right-hand bat
+Khulna Titans,Shafiul Islam,1a8eebbe,10,16,18,2,0,88.89,"[4, 12]",2.0,12,5,0,17,3,0,0,0,0,0,0,8.5,0,0,0,0,0,24,5,0,29,35,True,False,False,Right-arm fast-medium,Right-hand bat
+Khulna Titans,Abu Jayed,1bb0993e,11,4,1,1,0,400.0,[6],1.0,6,1,0,16,3,0,0,0,0,0,0,16.0,0,0,0,0,0,8,1,0,9,31,True,False,False,Right-arm fast-medium,Right-hand bat

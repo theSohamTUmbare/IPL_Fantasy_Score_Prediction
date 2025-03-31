@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Melbourne Renegades,AJ Finch,b8d490fd,1,15,12,3,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27
-Melbourne Renegades,AJ Doolan,36eafb02,2,21,15,4,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,39,0,8,47
-Melbourne Renegades,TLW Cooper,2318ba22,3,19,27,2,0,70.37,[7],1.0,6,1,0,7,0,0,1,0,0,0,0,7.0,0,0,0,0,0,27,26,0,53
-Melbourne Renegades,BJ Rohrer,27af6414,4,11,14,2,0,78.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,19,0,8,27
-Melbourne Renegades,JC Buttler,99b75528,5,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Melbourne Renegades,PM Nevill,a22fb7b5,6,5,15,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,-1,0,8,7
-Melbourne Renegades,WD Sheridan,25d12bb4,7,12,14,0,0,85.71,"[1, 3, 12, 16]",4.0,24,11,0,24,3,0,1,0,0,0,1,6.0,0,0,0,0,0,12,38,0,50
-Melbourne Renegades,NJ Rimmington,6042bf26,8,4,7,0,0,57.14,"[6, 15, 17, 20]",4.0,24,12,1,14,0,0,2,0,1,0,0,3.5,1,0,0,0,0,4,88,8,100
-Melbourne Renegades,AW O'Brien,d29be810,9,10,10,1,0,100.0,"[5, 9, 11, 13]",4.0,24,3,0,28,1,0,0,0,0,0,0,7.0,0,0,0,0,0,14,5,0,19
-Melbourne Renegades,M Muralitharan,4ba44e19,10,0,0,0,0,0.0,"[8, 10, 14, 18]",4.0,24,11,0,13,0,0,1,0,0,0,1,3.25,0,0,0,0,0,0,42,0,42
-Melbourne Renegades,AL Fekete,029c4618,10,1,3,0,0,33.33,"[2, 4, 19]",3.0,18,8,0,27,5,0,2,1,0,0,1,9.0,0,0,0,0,0,1,66,0,67
-Perth Scorchers,SE Marsh,508a1ea7,1,31,34,2,0,91.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,43,0,14,57
-Perth Scorchers,SM Katich,fdedb37c,2,29,19,5,0,152.63,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,57,0,0,57
-Perth Scorchers,MR Marsh,3d8feaf8,3,16,27,0,0,59.26,"[10, 12, 16, 18]",4.0,24,10,0,15,1,0,2,0,0,0,1,3.75,1,0,0,0,-4,12,66,8,86
-Perth Scorchers,SM Whiteman,f4427cc6,4,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12
-Perth Scorchers,AJ Turner,ff1e12a0,5,14,16,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26
-Perth Scorchers,TJ Armstrong,30811a4b,6,11,15,1,0,73.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,15,0,8,23
-Perth Scorchers,Yasir Arafat,3cf5ae43,7,2,2,0,0,100.0,"[5, 7, 15, 19]",4.0,24,15,1,15,1,0,3,0,0,0,1,3.75,0,0,0,0,0,2,112,0,114
-Perth Scorchers,JP Behrendorff,4933f499,8,3,3,0,0,100.0,"[2, 4, 6, 8]",4.0,24,13,0,24,4,0,1,0,1,0,2,6.0,0,0,0,0,0,3,48,0,51
-Perth Scorchers,GB Hogg,f708a0bc,10,0,0,0,0,0.0,"[9, 11, 13, 17]",4.0,24,9,0,21,2,0,0,0,0,0,0,5.25,1,0,0,1,0,0,13,14,27
-Perth Scorchers,AC Thomas,b552a935,11,0,0,0,0,0.0,"[1, 3, 14, 20]",4.0,24,10,0,28,4,0,1,0,0,0,1,7.0,0,0,0,0,0,0,37,0,37
-Perth Scorchers,MA Beer,f60dc2a5,12,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Melbourne Renegades,AJ Finch,b8d490fd,1,15,12,3,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27,38,True,False,False,Slow left-arm orthodox,Right-hand bat
+Melbourne Renegades,AJ Doolan,36eafb02,2,21,15,4,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,39,0,8,47,39,True,False,False,,Right-hand bat
+Melbourne Renegades,TLW Cooper,2318ba22,3,19,27,2,0,70.37,[7],1.0,6,1,0,7,0,0,1,0,0,0,0,7.0,0,0,0,0,0,27,26,0,53,38,True,False,False,Right-arm offbreak,Right-hand bat
+Melbourne Renegades,BJ Rohrer,27af6414,4,11,14,2,0,78.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,19,0,8,27,44,True,False,False,,Left-hand bat
+Melbourne Renegades,JC Buttler,99b75528,5,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,34,True,False,False,,Right-hand bat
+Melbourne Renegades,PM Nevill,a22fb7b5,6,5,15,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,-1,0,8,7,39,True,False,False,,Right-hand bat
+Melbourne Renegades,WD Sheridan,25d12bb4,7,12,14,0,0,85.71,"[1, 3, 12, 16]",4.0,24,11,0,24,3,0,1,0,0,0,1,6.0,0,0,0,0,0,12,38,0,50,37,True,True,False,Left-arm fast-medium,Right-hand bat
+Melbourne Renegades,NJ Rimmington,6042bf26,8,4,7,0,0,57.14,"[6, 15, 17, 20]",4.0,24,12,1,14,0,0,2,0,1,0,0,3.5,1,0,0,0,0,4,88,8,100,42,True,False,False,Right-arm fast-medium,Right-hand bat
+Melbourne Renegades,AW O'Brien,d29be810,9,10,10,1,0,100.0,"[5, 9, 11, 13]",4.0,24,3,0,28,1,0,0,0,0,0,0,7.0,0,0,0,0,0,14,5,0,19,43,True,True,False,Slow left-arm orthodox,Left-hand bat
+Melbourne Renegades,M Muralitharan,4ba44e19,10,0,0,0,0,0.0,"[8, 10, 14, 18]",4.0,24,11,0,13,0,0,1,0,0,0,1,3.25,0,0,0,0,0,0,42,0,42,52,True,False,False,Right-arm offbreak,Right-hand bat
+Melbourne Renegades,AL Fekete,029c4618,10,1,3,0,0,33.33,"[2, 4, 19]",3.0,18,8,0,27,5,0,2,1,0,0,1,9.0,0,0,0,0,0,1,66,0,67,39,True,False,False,Right-arm fast-medium,Right-hand bat
+Perth Scorchers,SE Marsh,508a1ea7,1,31,34,2,0,91.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,43,0,14,57,41,True,False,False,Slow left-arm orthodox,Left-hand bat
+Perth Scorchers,SM Katich,fdedb37c,2,29,19,5,0,152.63,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,57,0,0,57,49,True,False,False,Left-arm wrist-spin,Left-hand bat
+Perth Scorchers,MR Marsh,3d8feaf8,3,16,27,0,0,59.26,"[10, 12, 16, 18]",4.0,24,10,0,15,1,0,2,0,0,0,1,3.75,1,0,0,0,-4,12,66,8,86,33,True,False,True,Right-arm medium,Right-hand bat
+Perth Scorchers,SM Whiteman,f4427cc6,4,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12,33,True,False,False,,Left-hand bat
+Perth Scorchers,AJ Turner,ff1e12a0,5,14,16,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26,32,True,False,False,Right-arm offbreak,Right-hand bat
+Perth Scorchers,TJ Armstrong,30811a4b,6,11,15,1,0,73.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,15,0,8,23,34,True,False,True,Right-arm fast-medium,Right-hand bat
+Perth Scorchers,Yasir Arafat,3cf5ae43,7,2,2,0,0,100.0,"[5, 7, 15, 19]",4.0,24,15,1,15,1,0,3,0,0,0,1,3.75,0,0,0,0,0,2,112,0,114,43,True,False,True,Right-arm fast-medium,Right-hand bat
+Perth Scorchers,JP Behrendorff,4933f499,8,3,3,0,0,100.0,"[2, 4, 6, 8]",4.0,24,13,0,24,4,0,1,0,1,0,2,6.0,0,0,0,0,0,3,48,0,51,34,True,False,False,Left-arm fast-medium,Right-hand bat
+Perth Scorchers,GB Hogg,f708a0bc,10,0,0,0,0,0.0,"[9, 11, 13, 17]",4.0,24,9,0,21,2,0,0,0,0,0,0,5.25,1,0,0,1,0,0,13,14,27,54,True,False,True,Left-arm wrist-spin,Left-hand bat
+Perth Scorchers,AC Thomas,b552a935,11,0,0,0,0,0.0,"[1, 3, 14, 20]",4.0,24,10,0,28,4,0,1,0,0,0,1,7.0,0,0,0,0,0,0,37,0,37,48,True,False,False,Right-arm fast-medium,Right-hand bat
+Perth Scorchers,MA Beer,f60dc2a5,12,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,40,True,False,False,Slow left-arm orthodox,Right-hand bat

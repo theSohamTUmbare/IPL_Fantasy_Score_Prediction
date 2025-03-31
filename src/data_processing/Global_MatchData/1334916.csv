@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Lions,RD Rickelton,e66732f8,1,4,4,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
-Lions,CS Delport,afa78c3a,2,14,10,3,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,28,0,0,28
-Lions,DA Hendricks,f66f5343,3,31,30,4,0,103.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,51,0,20,71
-Lions,M Van Buuren,46e4a4e0,4,40,24,4,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,70,0,8,78
-Lions,PWA Mulder,c96f6ac5,5,52,34,4,3,152.94,"[1, 7, 15, 20]",4.0,24,6,0,29,2,0,0,0,0,0,1,7.25,1,0,0,1,4,98,6,14,118
-Lions,E Jones,fbfea9c2,6,0,1,0,0,0.0,[4],1.0,6,1,0,13,2,0,0,0,0,0,0,13.0,0,0,0,0,0,-2,1,0,-1
-Lions,MP Siboto,9d50c7e1,7,6,11,0,0,54.55,"[3, 11, 17, 19]",4.0,24,11,0,19,1,0,2,0,1,0,0,4.75,0,0,0,0,-4,2,75,0,77
-Lions,G Adams,70fb2cc8,8,3,4,0,0,75.0,[9],1.0,6,1,0,11,2,0,1,0,0,0,0,11.0,2,0,0,1,0,3,26,22,51
-Lions,T Bokako,032e4384,9,3,2,0,0,150.0,"[2, 6, 13, 18]",4.0,24,13,0,18,2,0,2,0,1,0,0,4.5,0,0,0,0,0,3,77,0,80
-Lions,A Myoli,c50bfbc2,10,0,0,0,0,0.0,"[5, 12]",2.0,12,3,0,18,1,1,0,0,0,1,0,9.0,0,0,0,0,0,0,3,0,3
-Lions,Codi Yusuf,f2397e48,11,0,0,0,0,0.0,"[8, 10, 14, 16]",4.0,24,13,0,15,0,0,2,0,0,0,1,3.75,0,0,0,0,0,0,69,0,69
-Western Province,G Kaplan,a5c3d564,1,8,8,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
-Western Province,D Smith,5d69930d,2,28,31,3,0,90.32,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,44,0,0,44
-Western Province,M Mpongwana,547c5509,3,43,29,5,1,148.28,[15],1.0,6,1,0,12,2,0,0,0,0,0,1,12.0,0,0,0,0,2,75,1,0,76
-Western Province,K Verreynne,bf814547,4,19,16,1,0,118.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
-Western Province,A Mgijima,955e8e86,5,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
-Western Province,GF Linde,e5437608,6,5,10,0,0,50.0,"[7, 9, 11, 13]",4.0,24,6,0,29,0,2,0,0,0,0,0,7.25,1,0,0,0,-4,1,6,8,15
-Western Province,Abdullah Bayoumy,8ab49ad2,7,4,6,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
-Western Province,BE Hendricks,b56dc5f7,8,2,3,0,0,66.67,"[2, 5, 16, 18]",4.0,24,8,0,39,5,1,0,0,0,0,1,9.75,0,0,0,0,0,2,8,0,10
-Western Province,TL Moreki,36ea17c1,9,5,5,0,0,100.0,"[4, 6, 17, 20]",4.0,24,12,0,22,2,0,4,0,1,0,1,5.5,0,0,0,0,0,5,132,0,137
-Western Province,J Dawood,a2316f90,10,0,0,0,0,0.0,"[8, 10, 12]",3.0,18,4,0,33,3,1,1,0,1,0,0,11.0,2,0,0,0,0,0,35,16,51
-Western Province,N Burger,465aa633,10,4,7,0,0,57.14,"[1, 3, 14, 19]",4.0,24,15,0,22,4,0,3,0,1,0,1,5.5,1,0,0,0,0,4,106,8,118
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Lions,RD Rickelton,e66732f8,1,4,4,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,28,True,False,False,,Left-hand bat
+Lions,CS Delport,afa78c3a,2,14,10,3,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,28,0,0,28,35,True,False,False,Right-arm medium,Left-hand bat
+Lions,DA Hendricks,f66f5343,3,31,30,4,0,103.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,51,0,20,71,34,True,False,False,Right-arm offbreak,Left-hand bat
+Lions,M Van Buuren,46e4a4e0,4,40,24,4,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,70,0,8,78,27,True,False,False,Legbreak googly,Right-hand bat
+Lions,PWA Mulder,c96f6ac5,5,52,34,4,3,152.94,"[1, 7, 15, 20]",4.0,24,6,0,29,2,0,0,0,0,0,1,7.25,1,0,0,1,4,98,6,14,118,27,True,False,True,Right-arm medium,Right-hand bat
+Lions,E Jones,fbfea9c2,6,0,1,0,0,0.0,[4],1.0,6,1,0,13,2,0,0,0,0,0,0,13.0,0,0,0,0,0,-2,1,0,-1,28,True,False,True,Right-arm medium-fast,Right-hand bat
+Lions,MP Siboto,9d50c7e1,7,6,11,0,0,54.55,"[3, 11, 17, 19]",4.0,24,11,0,19,1,0,2,0,1,0,0,4.75,0,0,0,0,-4,2,75,0,77,37,True,False,False,Right-arm medium,Left-hand bat
+Lions,G Adams,70fb2cc8,8,3,4,0,0,75.0,[9],1.0,6,1,0,11,2,0,1,0,0,0,0,11.0,2,0,0,1,0,3,26,22,51,30,True,True,False,Right-arm offbreak,Right-hand bat
+Lions,T Bokako,032e4384,9,3,2,0,0,150.0,"[2, 6, 13, 18]",4.0,24,13,0,18,2,0,2,0,1,0,0,4.5,0,0,0,0,0,3,77,0,80,31,True,False,False,Right-arm fast,Right-hand bat
+Lions,A Myoli,c50bfbc2,10,0,0,0,0,0.0,"[5, 12]",2.0,12,3,0,18,1,1,0,0,0,1,0,9.0,0,0,0,0,0,0,3,0,3,34,True,False,False,Right-arm fast,Right-hand bat
+Lions,Codi Yusuf,f2397e48,11,0,0,0,0,0.0,"[8, 10, 14, 16]",4.0,24,13,0,15,0,0,2,0,0,0,1,3.75,0,0,0,0,0,0,69,0,69,26,True,False,True,Right-arm medium,Right-hand bat
+Western Province,G Kaplan,a5c3d564,1,8,8,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,27,True,True,False,Right-arm offbreak,Right-hand bat
+Western Province,D Smith,5d69930d,2,28,31,3,0,90.32,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,44,0,0,44,23,True,True,False,Left-arm medium,Left-hand bat
+Western Province,M Mpongwana,547c5509,3,43,29,5,1,148.28,[15],1.0,6,1,0,12,2,0,0,0,0,0,1,12.0,0,0,0,0,2,75,1,0,76,24,True,False,True,Right-arm medium,Right-hand bat
+Western Province,K Verreynne,bf814547,4,19,16,1,0,118.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23,27,True,True,False,Right-arm offbreak,Right-hand bat
+Western Province,A Mgijima,955e8e86,5,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,36,True,False,True,Right-arm offbreak,Right-hand bat
+Western Province,GF Linde,e5437608,6,5,10,0,0,50.0,"[7, 9, 11, 13]",4.0,24,6,0,29,0,2,0,0,0,0,0,7.25,1,0,0,0,-4,1,6,8,15,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+Western Province,Abdullah Bayoumy,8ab49ad2,7,4,6,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,0,True,False,True,Right-arm fast-medium,Right-hand bat
+Western Province,BE Hendricks,b56dc5f7,8,2,3,0,0,66.67,"[2, 5, 16, 18]",4.0,24,8,0,39,5,1,0,0,0,0,1,9.75,0,0,0,0,0,2,8,0,10,34,True,False,False,Left-arm fast-medium,Left-hand bat
+Western Province,TL Moreki,36ea17c1,9,5,5,0,0,100.0,"[4, 6, 17, 20]",4.0,24,12,0,22,2,0,4,0,1,0,1,5.5,0,0,0,0,0,5,132,0,137,31,True,False,False,Right-arm fast-medium,Right-hand bat
+Western Province,J Dawood,a2316f90,10,0,0,0,0,0.0,"[8, 10, 12]",3.0,18,4,0,33,3,1,1,0,1,0,0,11.0,2,0,0,0,0,0,35,16,51,28,True,False,False,Legbreak,Right-hand bat
+Western Province,N Burger,465aa633,10,4,7,0,0,57.14,"[1, 3, 14, 19]",4.0,24,15,0,22,4,0,3,0,1,0,1,5.5,1,0,0,0,0,4,106,8,118,29,True,False,False,Left-arm fast-medium,Left-hand bat

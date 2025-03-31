@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Guyana Amazon Warriors,BA King,7fca84b7,1,5,6,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
-Guyana Amazon Warriors,C Hemraj,9d450c28,2,26,25,1,2,104.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,46,0,8,54
-Guyana Amazon Warriors,SO Hetmyer,48a1d7b7,3,56,36,6,3,155.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,110,0,0,110
-Guyana Amazon Warriors,N Pooran,3241e3fd,4,10,10,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,18,0,16,34
-Guyana Amazon Warriors,LRPL Taylor,b61a3e1a,5,7,6,0,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,7,0,0,7
-Guyana Amazon Warriors,R Shepherd,c5aef772,5,0,0,0,0,0.0,"[6, 16]",2.0,12,5,0,11,1,0,1,0,0,0,0,5.5,0,0,0,0,0,0,34,0,34
-Guyana Amazon Warriors,KMA Paul,75224f22,6,0,0,0,0,0.0,"[13, 15, 18, 20]",4.0,24,12,0,25,3,0,2,1,0,1,1,6.25,0,0,0,0,0,0,72,0,72
-Guyana Amazon Warriors,CJ Green,19b9f399,7,0,0,0,0,0.0,"[1, 7, 9, 11]",4.0,24,10,0,22,0,1,0,0,0,0,0,5.5,1,0,0,0,0,0,14,8,22
-Guyana Amazon Warriors,Naveen-ul-Haq,c0c411cb,8,0,0,0,0,0.0,"[3, 5, 17, 19]",4.0,24,14,1,24,4,0,2,0,0,0,0,6.0,1,0,0,0,0,0,78,8,86
-Guyana Amazon Warriors,K Sinclair,314642ed,9,0,0,0,0,0.0,"[2, 10]",2.0,12,7,0,16,0,2,1,0,0,0,1,8.0,1,0,0,0,0,0,32,8,40
-Guyana Amazon Warriors,Imran Tahir,acee4cc4,10,0,0,0,0,0.0,"[4, 8, 12, 14]",4.0,24,17,1,10,0,0,1,0,0,0,0,2.5,0,0,0,0,0,0,60,0,60
-St Lucia Zouks,RRS Cornwall,c4d9634c,1,21,13,2,2,161.54,"[6, 8, 14]",2.833,17,5,0,19,0,1,0,0,0,0,1,6.71,0,0,0,0,4,45,7,0,52
-St Lucia Zouks,ADS Fletcher,1bae756b,2,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-St Lucia Zouks,LS Boucher,3b647e2b,3,1,7,0,0,14.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
-St Lucia Zouks,KAR Hodge,49dc9cb4,4,13,24,0,0,54.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,9,0,0,9
-St Lucia Zouks,KOK Williams,78cb83f3,5,0,0,0,0,0.0,[7],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,0,1,0,1
-St Lucia Zouks,Najibullah Zadran,1212cbec,5,19,22,0,1,86.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
-St Lucia Zouks,Mohammad Nabi,62af8546,6,13,14,2,0,92.86,"[2, 4, 9, 11]",4.0,24,15,0,23,1,2,1,0,1,0,0,5.75,0,0,0,0,0,21,52,0,73
-St Lucia Zouks,CK Holder,f7c3d426,6,0,0,0,0,0.0,"[10, 12]",2.0,12,4,0,33,5,2,0,0,0,0,0,16.5,0,0,0,0,0,0,-2,0,-2
-St Lucia Zouks,DJG Sammy,c03c6200,7,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-St Lucia Zouks,J Glen,151c258b,8,23,21,3,0,109.52,[13],1.0,6,2,0,9,1,0,1,0,0,0,0,9.0,0,0,0,0,0,35,27,0,62
-St Lucia Zouks,SC Kuggeleijn,fef92afc,9,13,10,1,0,130.0,"[1, 3, 5]",3.0,18,12,0,17,2,0,1,0,1,0,4,5.67,0,0,0,0,2,19,49,0,68
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Guyana Amazon Warriors,BA King,7fca84b7,1,5,6,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,30,True,False,False,,Right-hand bat
+Guyana Amazon Warriors,C Hemraj,9d450c28,2,26,25,1,2,104.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,46,0,8,54,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+Guyana Amazon Warriors,SO Hetmyer,48a1d7b7,3,56,36,6,3,155.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,110,0,0,110,28,True,False,False,,Left-hand bat
+Guyana Amazon Warriors,N Pooran,3241e3fd,4,10,10,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,18,0,16,34,29,True,True,False,Right-arm offbreak,Left-hand bat
+Guyana Amazon Warriors,LRPL Taylor,b61a3e1a,5,7,6,0,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,7,0,0,7,41,True,False,False,Right-arm offbreak,Right-hand bat
+Guyana Amazon Warriors,R Shepherd,c5aef772,5,0,0,0,0,0.0,"[6, 16]",2.0,12,5,0,11,1,0,1,0,0,0,0,5.5,0,0,0,0,0,0,34,0,34,30,True,False,True,Right-arm fast-medium,Right-hand bat
+Guyana Amazon Warriors,KMA Paul,75224f22,6,0,0,0,0,0.0,"[13, 15, 18, 20]",4.0,24,12,0,25,3,0,2,1,0,1,1,6.25,0,0,0,0,0,0,72,0,72,27,True,False,True,Right-arm fast-medium,Right-hand bat
+Guyana Amazon Warriors,CJ Green,19b9f399,7,0,0,0,0,0.0,"[1, 7, 9, 11]",4.0,24,10,0,22,0,1,0,0,0,0,0,5.5,1,0,0,0,0,0,14,8,22,31,True,False,True,Right-arm offbreak,Right-hand bat
+Guyana Amazon Warriors,Naveen-ul-Haq,c0c411cb,8,0,0,0,0,0.0,"[3, 5, 17, 19]",4.0,24,14,1,24,4,0,2,0,0,0,0,6.0,1,0,0,0,0,0,78,8,86,25,True,False,False,Right-arm medium-fast,Right-hand bat
+Guyana Amazon Warriors,K Sinclair,314642ed,9,0,0,0,0,0.0,"[2, 10]",2.0,12,7,0,16,0,2,1,0,0,0,1,8.0,1,0,0,0,0,0,32,8,40,25,True,False,False,Right-arm offbreak,Right-hand bat
+Guyana Amazon Warriors,Imran Tahir,acee4cc4,10,0,0,0,0,0.0,"[4, 8, 12, 14]",4.0,24,17,1,10,0,0,1,0,0,0,0,2.5,0,0,0,0,0,0,60,0,60,46,True,False,False,Legbreak googly,Right-hand bat
+St Lucia Zouks,RRS Cornwall,c4d9634c,1,21,13,2,2,161.54,"[6, 8, 14]",2.833,17,5,0,19,0,1,0,0,0,0,1,6.71,0,0,0,0,4,45,7,0,52,32,True,False,True,Right-arm offbreak,Right-hand bat
+St Lucia Zouks,ADS Fletcher,1bae756b,2,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,37,True,False,False,Legbreak,Right-hand bat
+St Lucia Zouks,LS Boucher,3b647e2b,3,1,7,0,0,14.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,27,True,False,False,,Right-hand bat
+St Lucia Zouks,KAR Hodge,49dc9cb4,4,13,24,0,0,54.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,9,0,0,9,32,True,False,True,Slow left-arm orthodox,Right-hand bat
+St Lucia Zouks,KOK Williams,78cb83f3,5,0,0,0,0,0.0,[7],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,0,1,0,1,35,True,False,False,Right-arm fast-medium,Right-hand bat
+St Lucia Zouks,Najibullah Zadran,1212cbec,5,19,22,0,1,86.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,32,True,False,False,Right-arm offbreak,Left-hand bat
+St Lucia Zouks,Mohammad Nabi,62af8546,6,13,14,2,0,92.86,"[2, 4, 9, 11]",4.0,24,15,0,23,1,2,1,0,1,0,0,5.75,0,0,0,0,0,21,52,0,73,40,True,False,True,Right-arm offbreak,Right-hand bat
+St Lucia Zouks,CK Holder,f7c3d426,6,0,0,0,0,0.0,"[10, 12]",2.0,12,4,0,33,5,2,0,0,0,0,0,16.5,0,0,0,0,0,0,-2,0,-2,27,True,False,False,Right-arm fast,Right-hand bat
+St Lucia Zouks,DJG Sammy,c03c6200,7,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,41,True,False,True,Right-arm medium,Right-hand bat
+St Lucia Zouks,J Glen,151c258b,8,23,21,3,0,109.52,[13],1.0,6,2,0,9,1,0,1,0,0,0,0,9.0,0,0,0,0,0,35,27,0,62,27,True,False,True,Legbreak,Left-hand bat
+St Lucia Zouks,SC Kuggeleijn,fef92afc,9,13,10,1,0,130.0,"[1, 3, 5]",3.0,18,12,0,17,2,0,1,0,1,0,4,5.67,0,0,0,0,2,19,49,0,68,33,True,False,True,Right-arm fast-medium,Right-hand bat

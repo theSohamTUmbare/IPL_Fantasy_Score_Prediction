@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Australia,TM Head,12b610c2,1,35,18,8,0,194.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,77,0,0,77
-Australia,AM Hardie,d405c0d5,2,16,12,3,0,133.33,"[8, 11, 14, 18]",4.0,24,3,0,64,7,3,1,0,0,0,4,16.0,0,0,0,0,2,30,22,0,52
-Australia,JP Inglis,989889ff,3,10,6,2,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
-Australia,GJ Maxwell,b681e71e,4,104,47,8,8,221.28,[20],1.0,6,0,0,30,2,3,0,0,0,1,1,30.0,0,0,0,0,6,206,0,0,206
-Australia,MP Stoinis,d9273ee7,5,17,21,2,0,80.95,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,25,0,8,33
-Australia,TH David,f1f99156,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Australia,NT Ellis,9eb1455b,7,0,0,0,0,0.0,"[5, 10, 16, 19]",4.0,24,8,0,36,2,2,0,0,0,0,2,9.0,0,0,0,0,0,0,8,0,8
-Australia,MS Wade,afa7e784,7,28,15,3,1,186.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,56,0,16,72
-Australia,JP Behrendorff,4933f499,8,0,0,0,0,0.0,"[2, 4, 6, 17]",4.0,24,16,0,12,1,0,1,0,0,0,1,3.0,0,0,0,0,0,0,47,0,47
-Australia,T Sangha,52c952d9,9,0,0,0,0,0.0,"[7, 9, 13, 15]",4.0,24,7,0,42,6,1,0,0,0,0,1,10.5,0,0,0,0,0,0,5,0,5
-Australia,KW Richardson,dfc4d8b5,10,0,0,0,0,0.0,"[1, 3, 12]",3.0,18,8,0,34,5,0,1,0,0,0,9,11.33,0,0,0,0,0,0,29,0,29
-India,YBK Jaiswal,6c19c6e5,1,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
-India,RD Gaikwad,45a43fe2,2,123,56,13,7,219.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,239,0,0,239
-India,Ishan Kishan,752f7486,3,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-India,SA Yadav,271f83cd,4,39,29,5,2,134.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,77,0,16,93
-India,Tilak Varma,b0482a1d,5,31,24,4,0,129.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,51,0,0,51
-India,RK Singh,0a509d6b,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-India,AR Patel,2e171977,8,0,0,0,0,0.0,"[9, 11, 13, 19]",4.0,24,8,0,37,3,2,1,0,0,1,0,9.25,0,0,0,0,0,0,33,0,33
-India,Ravi Bishnoi,df064e1a,9,0,0,0,0,0.0,"[3, 7, 10, 14]",4.0,24,7,0,32,4,0,2,0,1,0,3,8.0,1,0,0,0,0,0,65,8,73
-India,Arshdeep Singh,244048f6,10,0,0,0,0,0.0,"[1, 5, 15, 17]",4.0,24,7,0,44,4,3,1,0,0,0,0,11.0,0,0,0,0,0,0,30,0,30
-India,Avesh Khan,eef2536f,11,0,0,0,0,0.0,"[4, 6, 12, 16]",4.0,24,10,0,37,5,1,1,0,0,0,2,9.25,0,0,0,0,0,0,35,0,35
-India,M Prasidh Krishna,85e0cf10,12,0,0,0,0,0.0,"[2, 8, 18, 20]",4.0,24,4,0,68,10,3,0,0,0,1,1,17.0,0,0,0,0,0,0,-2,0,-2
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Australia,TM Head,12b610c2,1,35,18,8,0,194.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,77,0,0,77,31,True,False,False,Right-arm offbreak,Left-hand bat
+Australia,AM Hardie,d405c0d5,2,16,12,3,0,133.33,"[8, 11, 14, 18]",4.0,24,3,0,64,7,3,1,0,0,0,4,16.0,0,0,0,0,2,30,22,0,52,26,True,False,True,Right-arm medium-fast,Right-hand bat
+Australia,JP Inglis,989889ff,3,10,6,2,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,30,True,False,False,,Right-hand bat
+Australia,GJ Maxwell,b681e71e,4,104,47,8,8,221.28,[20],1.0,6,0,0,30,2,3,0,0,0,1,1,30.0,0,0,0,0,6,206,0,0,206,36,True,False,True,Right-arm offbreak,Right-hand bat
+Australia,MP Stoinis,d9273ee7,5,17,21,2,0,80.95,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,25,0,8,33,35,True,False,True,Right-arm medium,Right-hand bat
+Australia,TH David,f1f99156,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,29,True,False,False,Right-arm offbreak,Right-hand bat
+Australia,NT Ellis,9eb1455b,7,0,0,0,0,0.0,"[5, 10, 16, 19]",4.0,24,8,0,36,2,2,0,0,0,0,2,9.0,0,0,0,0,0,0,8,0,8,30,True,False,False,Right-arm fast-medium,Right-hand bat
+Australia,MS Wade,afa7e784,7,28,15,3,1,186.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,56,0,16,72,37,True,True,False,Right-arm medium,Left-hand bat
+Australia,JP Behrendorff,4933f499,8,0,0,0,0,0.0,"[2, 4, 6, 17]",4.0,24,16,0,12,1,0,1,0,0,0,1,3.0,0,0,0,0,0,0,47,0,47,34,True,False,False,Left-arm fast-medium,Right-hand bat
+Australia,T Sangha,52c952d9,9,0,0,0,0,0.0,"[7, 9, 13, 15]",4.0,24,7,0,42,6,1,0,0,0,0,1,10.5,0,0,0,0,0,0,5,0,5,23,True,False,False,Legbreak,Right-hand bat
+Australia,KW Richardson,dfc4d8b5,10,0,0,0,0,0.0,"[1, 3, 12]",3.0,18,8,0,34,5,0,1,0,0,0,9,11.33,0,0,0,0,0,0,29,0,29,34,True,False,False,Right-arm fast-medium,Right-hand bat
+India,YBK Jaiswal,6c19c6e5,1,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,23,True,False,False,Legbreak,Left-hand bat
+India,RD Gaikwad,45a43fe2,2,123,56,13,7,219.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,239,0,0,239,28,True,False,False,Right-arm offbreak,Right-hand bat
+India,Ishan Kishan,752f7486,3,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,26,True,True,False,Legbreak,Left-hand bat
+India,SA Yadav,271f83cd,4,39,29,5,2,134.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,77,0,16,93,34,True,False,False,Right-arm offbreak,Right-hand bat
+India,Tilak Varma,b0482a1d,5,31,24,4,0,129.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,51,0,0,51,22,True,False,True,Right-arm offbreak,Left-hand bat
+India,RK Singh,0a509d6b,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,27,True,False,False,Right-arm offbreak,Left-hand bat
+India,AR Patel,2e171977,8,0,0,0,0,0.0,"[9, 11, 13, 19]",4.0,24,8,0,37,3,2,1,0,0,1,0,9.25,0,0,0,0,0,0,33,0,33,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+India,Ravi Bishnoi,df064e1a,9,0,0,0,0,0.0,"[3, 7, 10, 14]",4.0,24,7,0,32,4,0,2,0,1,0,3,8.0,1,0,0,0,0,0,65,8,73,24,True,False,False,Legbreak googly,Right-hand bat
+India,Arshdeep Singh,244048f6,10,0,0,0,0,0.0,"[1, 5, 15, 17]",4.0,24,7,0,44,4,3,1,0,0,0,0,11.0,0,0,0,0,0,0,30,0,30,26,True,False,False,Left-arm medium-fast,Left-hand bat
+India,Avesh Khan,eef2536f,11,0,0,0,0,0.0,"[4, 6, 12, 16]",4.0,24,10,0,37,5,1,1,0,0,0,2,9.25,0,0,0,0,0,0,35,0,35,28,True,False,False,Right-arm fast-medium,Right-hand bat
+India,M Prasidh Krishna,85e0cf10,12,0,0,0,0,0.0,"[2, 8, 18, 20]",4.0,24,4,0,68,10,3,0,0,0,1,1,17.0,0,0,0,0,0,0,-2,0,-2,29,True,False,False,Right-arm fast-medium,Right-hand bat

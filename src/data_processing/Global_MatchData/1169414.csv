@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Rajshahi Kings,J Charles,09a9d073,1,12,11,2,0,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
-Rajshahi Kings,Soumya Sarkar,4d9f9686,2,14,16,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26
-Rajshahi Kings,Mominul Haque,de0a3209,3,4,2,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
-Rajshahi Kings,LJ Evans,1c513d54,4,35,31,5,0,112.9,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,59,0,0,59
-Rajshahi Kings,Mehedi Hasan Miraz,c58b0108,5,6,4,1,0,150.0,"[1, 3, 6, 10]",4.0,24,14,0,24,1,2,1,0,0,0,0,6.0,1,0,0,0,0,10,41,8,59
-Rajshahi Kings,Kamrul Islam Rabbi,f7e9a562,6,0,0,0,0,0.0,"[8, 14, 16, 18]",4.0,24,6,0,25,2,0,1,0,1,0,0,6.25,0,0,0,0,0,0,41,0,41
-Rajshahi Kings,C Jonker,a81d6706,6,16,11,1,1,145.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,28,0,0,28
-Rajshahi Kings,Fazle Mahmud,b4bef2ed,7,18,24,2,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26
-Rajshahi Kings,Qais Ahmad,8d5d991e,8,22,19,1,2,115.79,"[5, 7, 9, 11]",4.0,24,10,0,29,3,1,1,0,1,0,1,7.25,0,0,0,0,0,38,43,0,81
-Rajshahi Kings,Arafat Sunny,1f7adc8a,9,1,1,0,0,100.0,"[2, 13, 17]",3.0,18,6,0,29,2,2,1,0,0,0,1,9.67,0,0,0,0,0,1,31,0,32
-Rajshahi Kings,Mustafizur Rahman,0a8fce53,10,4,1,1,0,400.0,"[4, 12, 15, 19]",3.667,22,6,0,33,3,0,0,0,0,0,5,9.0,0,0,0,0,0,8,6,0,14
-Rangpur Riders,CH Gayle,db584dad,1,10,14,2,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
-Rangpur Riders,AD Hales,92aeac25,2,16,15,1,0,106.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,20,0,8,28
-Rangpur Riders,RR Rossouw,cad00a4d,3,55,43,5,2,127.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,95,0,8,103
-Rangpur Riders,AB de Villiers,c4487b84,4,37,27,1,3,137.04,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,65,0,0,65
-Rangpur Riders,Mohammad Mithun,77191792,5,4,6,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
-Rangpur Riders,Nahidul Islam,8c7b16c8,6,11,7,2,0,157.14,"[4, 11, 13]",3.5,21,10,0,14,1,0,1,0,1,0,0,4.0,2,0,0,0,0,19,49,16,84
-Rangpur Riders,Shafiul Islam,1a8eebbe,6,0,0,0,0,0.0,[8],0.5,3,0,0,3,0,0,0,0,0,0,0,6.0,0,0,0,0,0,0,0,0,0
-Rangpur Riders,Mashrafe Mortaza,e186f49c,7,0,0,0,0,0.0,"[2, 5, 7, 18]",4.0,24,8,0,25,3,0,0,0,0,0,0,6.25,1,0,0,0,0,0,10,8,18
-Rangpur Riders,Farhad Reza,4948a447,8,0,0,0,0,0.0,"[3, 15, 17, 20]",4.0,24,13,0,30,4,1,3,0,0,1,0,7.5,0,0,0,0,0,0,92,0,92
-Rangpur Riders,Shohidul Islam,607ed7c2,9,0,0,0,0,0.0,"[9, 12, 16, 19]",4.0,24,9,0,28,3,1,2,0,0,0,1,7.0,0,0,0,0,0,0,61,0,61
-Rangpur Riders,Nazmul Islam,6575e3bc,10,0,0,0,0,0.0,"[1, 6, 10, 14]",4.0,24,8,0,39,4,1,2,0,1,0,5,9.75,0,0,0,0,0,0,66,0,66
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Rajshahi Kings,J Charles,09a9d073,1,12,11,2,0,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,36,True,False,False,,Right-hand bat
+Rajshahi Kings,Soumya Sarkar,4d9f9686,2,14,16,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26,32,True,False,True,Right-arm medium-fast,Left-hand bat
+Rajshahi Kings,Mominul Haque,de0a3209,3,4,2,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+Rajshahi Kings,LJ Evans,1c513d54,4,35,31,5,0,112.9,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,59,0,0,59,37,True,False,False,Right-arm offbreak,Right-hand bat
+Rajshahi Kings,Mehedi Hasan Miraz,c58b0108,5,6,4,1,0,150.0,"[1, 3, 6, 10]",4.0,24,14,0,24,1,2,1,0,0,0,0,6.0,1,0,0,0,0,10,41,8,59,27,True,False,True,Right-arm offbreak,Right-hand bat
+Rajshahi Kings,Kamrul Islam Rabbi,f7e9a562,6,0,0,0,0,0.0,"[8, 14, 16, 18]",4.0,24,6,0,25,2,0,1,0,1,0,0,6.25,0,0,0,0,0,0,41,0,41,33,True,False,False,Right-arm medium-fast,Right-hand bat
+Rajshahi Kings,C Jonker,a81d6706,6,16,11,1,1,145.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,28,0,0,28,38,True,False,False,Right-arm medium-fast,Right-hand bat
+Rajshahi Kings,Fazle Mahmud,b4bef2ed,7,18,24,2,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26,37,True,False,True,Slow left-arm orthodox,Left-hand bat
+Rajshahi Kings,Qais Ahmad,8d5d991e,8,22,19,1,2,115.79,"[5, 7, 9, 11]",4.0,24,10,0,29,3,1,1,0,1,0,1,7.25,0,0,0,0,0,38,43,0,81,24,True,False,False,Legbreak,Right-hand bat
+Rajshahi Kings,Arafat Sunny,1f7adc8a,9,1,1,0,0,100.0,"[2, 13, 17]",3.0,18,6,0,29,2,2,1,0,0,0,1,9.67,0,0,0,0,0,1,31,0,32,38,True,False,False,Slow left-arm orthodox,Left-hand bat
+Rajshahi Kings,Mustafizur Rahman,0a8fce53,10,4,1,1,0,400.0,"[4, 12, 15, 19]",3.667,22,6,0,33,3,0,0,0,0,0,5,9.0,0,0,0,0,0,8,6,0,14,29,True,False,False,Left-arm fast-medium,Left-hand bat
+Rangpur Riders,CH Gayle,db584dad,1,10,14,2,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,45,True,False,True,Right-arm offbreak,Left-hand bat
+Rangpur Riders,AD Hales,92aeac25,2,16,15,1,0,106.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,20,0,8,28,36,True,False,False,Right-arm medium,Right-hand bat
+Rangpur Riders,RR Rossouw,cad00a4d,3,55,43,5,2,127.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,95,0,8,103,35,True,False,False,Right-arm offbreak,Left-hand bat
+Rangpur Riders,AB de Villiers,c4487b84,4,37,27,1,3,137.04,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,65,0,0,65,41,True,True,False,Right-arm medium,Right-hand bat
+Rangpur Riders,Mohammad Mithun,77191792,5,4,6,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,34,True,False,False,,Right-hand bat
+Rangpur Riders,Nahidul Islam,8c7b16c8,6,11,7,2,0,157.14,"[4, 11, 13]",3.5,21,10,0,14,1,0,1,0,1,0,0,4.0,2,0,0,0,0,19,49,16,84,31,True,False,True,Right-arm offbreak,Right-hand bat
+Rangpur Riders,Shafiul Islam,1a8eebbe,6,0,0,0,0,0.0,[8],0.5,3,0,0,3,0,0,0,0,0,0,0,6.0,0,0,0,0,0,0,0,0,0,35,True,False,False,Right-arm fast-medium,Right-hand bat
+Rangpur Riders,Mashrafe Mortaza,e186f49c,7,0,0,0,0,0.0,"[2, 5, 7, 18]",4.0,24,8,0,25,3,0,0,0,0,0,0,6.25,1,0,0,0,0,0,10,8,18,41,True,False,False,Right-arm fast-medium,Right-hand bat
+Rangpur Riders,Farhad Reza,4948a447,8,0,0,0,0,0.0,"[3, 15, 17, 20]",4.0,24,13,0,30,4,1,3,0,0,1,0,7.5,0,0,0,0,0,0,92,0,92,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Rangpur Riders,Shohidul Islam,607ed7c2,9,0,0,0,0,0.0,"[9, 12, 16, 19]",4.0,24,9,0,28,3,1,2,0,0,0,1,7.0,0,0,0,0,0,0,61,0,61,30,True,False,True,Right-arm medium,Right-hand bat
+Rangpur Riders,Nazmul Islam,6575e3bc,10,0,0,0,0,0.0,"[1, 6, 10, 14]",4.0,24,8,0,39,4,1,2,0,1,0,5,9.75,0,0,0,0,0,0,66,0,66,33,True,False,False,Slow left-arm orthodox,Left-hand bat

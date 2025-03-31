@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Saurashtra,H Desai,9c86350f,1,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,-2,0,16,14
-Saurashtra,CA Pujara,d4f9dbd4,2,39,22,4,1,177.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,6,71,0,20,91
-Saurashtra,RV Uthappa,1c17e270,3,6,9,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
-Saurashtra,SP Jackson,acc1aeda,4,24,13,5,0,184.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,50,0,0,50
-Saurashtra,C Sakariya,2cdce1be,5,0,0,0,0,0.0,"[1, 12, 15, 17]",4.0,24,16,0,16,1,0,2,0,0,0,2,4.0,0,0,0,0,0,0,72,0,72
-Saurashtra,PN Mankad,663b5e34,5,6,4,1,0,150.0,"[4, 11]",2.0,12,7,0,8,1,0,1,0,0,0,0,4.0,2,0,0,0,0,10,38,16,64
-Saurashtra,JD Unadkat,1e66c162,6,0,0,0,0,0.0,"[2, 16, 18]",3.0,18,15,0,9,2,0,2,0,1,0,0,3.0,0,0,1,0,0,0,79,12,91
-Saurashtra,Jay Chauhan,c2468df1,7,0,0,0,0,0.0,"[3, 13]",2.0,12,4,0,14,2,0,1,0,0,0,0,7.0,1,0,0,0,0,0,31,8,39
-Saurashtra,Chirag Jani,783e6111,8,0,0,0,0,0.0,"[5, 7, 9]",3.0,18,12,1,7,0,0,1,0,0,0,0,2.33,0,0,0,0,0,0,55,0,55
-Saurashtra,Dharmendrasinh Jadeja,d330f9b9,9,0,0,0,0,0.0,"[6, 8, 10]",3.0,18,5,0,20,2,0,0,0,0,0,0,6.67,0,0,0,0,0,0,7,0,7
-Saurashtra,Arpit Vasavada,2bbab579,10,0,0,0,0,0.0,[14],1.0,6,5,0,1,0,0,1,0,0,0,0,1.0,1,0,0,0,0,0,30,8,38
-Sikkim,Bibek Diyali,54d9489d,1,5,8,1,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
-Sikkim,Nilesh Lamichaney,dc501d26,2,13,23,0,0,56.52,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,9,0,0,9
-Sikkim,Ashish Thapa,60c6038a,3,3,15,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-3,0,0,-3
-Sikkim,Milind Kumar,b4296080,4,28,27,3,0,103.7,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,44,0,0,44
-Sikkim,Bipul Sharma,c18496e1,5,7,6,1,0,116.67,"[1, 3, 5, 7]",4.0,24,12,0,23,1,0,3,0,0,0,2,5.75,0,0,0,0,0,11,95,0,106
-Sikkim,Palzor Tamang,61a3c20c,6,11,10,2,0,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,19,0,8,27
-Sikkim,Lee Yong Lepcha,dd967d0d,7,0,4,0,0,0.0,[9],0.5,3,0,0,9,2,0,0,0,0,0,0,18.0,0,0,0,0,0,-2,0,0,-2
-Sikkim,Tashi Bhalla,3c703eee,8,4,8,1,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
-Sikkim,Amos Rai,821403b6,9,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Sikkim,Ishwar Chaudhary,fe473dc2,10,0,1,0,0,0.0,"[2, 4, 6]",3.0,18,8,0,32,7,0,0,0,0,0,1,10.67,1,0,0,0,0,-2,6,8,12
-Sikkim,KN Luitel,d6e2a10e,11,0,1,0,0,0.0,[8],1.0,6,0,0,14,1,1,0,0,0,0,0,14.0,0,0,0,0,0,0,0,0,0
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Saurashtra,H Desai,9c86350f,1,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,-2,0,16,14,25,True,False,False,,Right-hand bat
+Saurashtra,CA Pujara,d4f9dbd4,2,39,22,4,1,177.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,6,71,0,20,91,37,True,False,False,Legbreak,Right-hand bat
+Saurashtra,RV Uthappa,1c17e270,3,6,9,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,39,True,False,False,Right-arm medium,Right-hand bat
+Saurashtra,SP Jackson,acc1aeda,4,24,13,5,0,184.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,50,0,0,50,38,True,True,False,Right-arm offbreak,Right-hand bat
+Saurashtra,C Sakariya,2cdce1be,5,0,0,0,0,0.0,"[1, 12, 15, 17]",4.0,24,16,0,16,1,0,2,0,0,0,2,4.0,0,0,0,0,0,0,72,0,72,27,True,False,False,Left-arm medium-fast,Left-hand bat
+Saurashtra,PN Mankad,663b5e34,5,6,4,1,0,150.0,"[4, 11]",2.0,12,7,0,8,1,0,1,0,0,0,0,4.0,2,0,0,0,0,10,38,16,64,30,True,False,True,Right-arm medium,Right-hand bat
+Saurashtra,JD Unadkat,1e66c162,6,0,0,0,0,0.0,"[2, 16, 18]",3.0,18,15,0,9,2,0,2,0,1,0,0,3.0,0,0,1,0,0,0,79,12,91,33,True,False,False,Left-arm medium,Right-hand bat
+Saurashtra,Jay Chauhan,c2468df1,7,0,0,0,0,0.0,"[3, 13]",2.0,12,4,0,14,2,0,1,0,0,0,0,7.0,1,0,0,0,0,0,31,8,39,32,True,False,False,Slow left-arm orthodox,Right-hand bat
+Saurashtra,Chirag Jani,783e6111,8,0,0,0,0,0.0,"[5, 7, 9]",3.0,18,12,1,7,0,0,1,0,0,0,0,2.33,0,0,0,0,0,0,55,0,55,35,True,False,True,Right-arm medium,Right-hand bat
+Saurashtra,Dharmendrasinh Jadeja,d330f9b9,9,0,0,0,0,0.0,"[6, 8, 10]",3.0,18,5,0,20,2,0,0,0,0,0,0,6.67,0,0,0,0,0,0,7,0,7,34,True,False,False,Slow left-arm orthodox,Left-hand bat
+Saurashtra,Arpit Vasavada,2bbab579,10,0,0,0,0,0.0,[14],1.0,6,5,0,1,0,0,1,0,0,0,0,1.0,1,0,0,0,0,0,30,8,38,36,True,False,False,Slow left-arm orthodox,Left-hand bat
+Sikkim,Bibek Diyali,54d9489d,1,5,8,1,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,35,True,False,False,,Right-hand bat
+Sikkim,Nilesh Lamichaney,dc501d26,2,13,23,0,0,56.52,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,9,0,0,9,33,True,True,False,Legbreak googly,Right-hand bat
+Sikkim,Ashish Thapa,60c6038a,3,3,15,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-3,0,0,-3,31,True,True,False,Right-arm medium,Right-hand bat
+Sikkim,Milind Kumar,b4296080,4,28,27,3,0,103.7,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,44,0,0,44,34,True,False,True,Right-arm offbreak,Right-hand bat
+Sikkim,Bipul Sharma,c18496e1,5,7,6,1,0,116.67,"[1, 3, 5, 7]",4.0,24,12,0,23,1,0,3,0,0,0,2,5.75,0,0,0,0,0,11,95,0,106,41,True,False,True,Slow left-arm orthodox,Left-hand bat
+Sikkim,Palzor Tamang,61a3c20c,6,11,10,2,0,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,19,0,8,27,32,True,True,False,Right-arm medium,Right-hand bat
+Sikkim,Lee Yong Lepcha,dd967d0d,7,0,4,0,0,0.0,[9],0.5,3,0,0,9,2,0,0,0,0,0,0,18.0,0,0,0,0,0,-2,0,0,-2,33,True,True,False,Right-arm offbreak,Right-hand bat
+Sikkim,Tashi Bhalla,3c703eee,8,4,8,1,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,40,True,True,False,Right-arm medium,Right-hand bat
+Sikkim,Amos Rai,821403b6,9,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,40,True,False,False,Legbreak googly,Right-hand bat
+Sikkim,Ishwar Chaudhary,fe473dc2,10,0,1,0,0,0.0,"[2, 4, 6]",3.0,18,8,0,32,7,0,0,0,0,0,1,10.67,1,0,0,0,0,-2,6,8,12,36,True,True,False,Right-arm fast-medium,Right-hand bat
+Sikkim,KN Luitel,d6e2a10e,11,0,1,0,0,0.0,[8],1.0,6,0,0,14,1,1,0,0,0,0,0,14.0,0,0,0,0,0,0,0,0,0,31,True,True,False,Left-arm medium,Left-hand bat

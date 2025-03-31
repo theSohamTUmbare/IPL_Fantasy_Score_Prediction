@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Namibia,L Louwrens,b018e1eb,1,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Namibia,HN Ya France,915264c2,2,27,18,5,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,51,0,0,51
-Namibia,MD du Preez,e5ad357a,3,20,12,3,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,42,0,0,42
-Namibia,JN Frylinck,3c87f0c3,4,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Namibia,ZE Green,8716233e,5,12,12,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,16,0,16,32
-Namibia,JN Loftie-Eaton,f468293b,6,21,13,2,1,161.54,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,4,39,0,16,55
-Namibia,Z Groenewald,017faef2,7,50,30,4,3,166.67,"[7, 9, 11, 13]",4.0,24,9,0,23,0,1,2,0,0,0,0,5.75,0,0,0,0,4,96,63,0,159
-Namibia,CW Coombe,6e849a7b,8,37,27,6,0,137.04,"[2, 4, 6, 18]",3.833,23,15,0,24,5,0,4,0,1,0,0,6.26,1,0,0,0,2,67,133,8,208
-Namibia,BM Scholtz,e85d03d6,9,4,2,1,0,200.0,"[10, 12, 14, 16]",4.0,24,11,0,19,0,1,1,0,0,0,0,4.75,0,0,0,0,0,8,42,0,50
-Namibia,M Mutumbe,55adb7a4,10,2,1,0,0,200.0,"[8, 15, 17]",3.0,18,12,0,16,3,0,2,0,2,1,0,5.33,0,0,0,0,0,2,82,0,84
-Namibia,T Lungameni,1688f2dc,11,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,15,1,7,1,0,1,0,1,0,1,2.33,1,0,0,0,0,0,66,8,74
-St Helena,D O'Bey,97175150,1,8,10,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
-St Helena,R Belgrove,86b0bbe8,2,4,7,1,0,57.14,"[17, 19]",2.0,12,4,0,12,1,0,0,0,0,0,1,6.0,0,0,0,0,0,8,6,0,14
-St Helena,S Crowie,4040951f,3,1,5,0,0,20.0,"[2, 4, 6, 20]",4.0,24,9,0,43,7,1,2,0,0,0,0,10.75,1,0,0,0,0,1,57,8,66
-St Helena,A Yon,99bf1fb7,4,28,18,3,1,155.56,"[1, 3, 5, 7]",4.0,24,12,0,27,4,0,4,1,0,0,2,6.75,0,0,0,0,4,54,130,0,184
-St Helena,J Henry,68e7e8d5,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-St Helena,G Johnson,ceec82cd,6,3,13,0,0,23.08,"[8, 10, 16, 18]",4.0,24,9,0,48,3,4,0,0,0,0,0,12.0,0,0,0,0,-6,-3,5,0,2
-St Helena,D Young,5d9d83e6,7,7,6,1,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
-St Helena,P Stroud,13a1dc01,8,5,7,0,0,71.43,"[9, 11, 13, 15]",4.0,24,10,0,29,4,0,2,0,1,0,1,7.25,0,0,0,0,0,5,68,0,73
-St Helena,A Langham,fe0b3bdf,9,18,22,1,1,81.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,28,0,16,44
-St Helena,C George,d178e57e,10,9,11,1,0,81.82,"[12, 14]",2.0,12,4,0,20,3,0,0,0,0,0,1,10.0,0,0,0,0,0,13,2,0,15
-St Helena,N Ellick,5666eb9b,11,4,7,1,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,8,0,20,28
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Namibia,L Louwrens,b018e1eb,1,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,25,True,False,False,,Right-hand bat
+Namibia,HN Ya France,915264c2,2,27,18,5,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,51,0,0,51,34,True,False,False,Right-arm offbreak,Right-hand bat
+Namibia,MD du Preez,e5ad357a,3,20,12,3,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,42,0,0,42,29,True,True,False,Legbreak,Right-hand bat
+Namibia,JN Frylinck,3c87f0c3,4,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,30,True,False,True,Left-arm fast-medium,Left-hand bat
+Namibia,ZE Green,8716233e,5,12,12,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,16,0,16,32,28,True,False,False,,Left-hand bat
+Namibia,JN Loftie-Eaton,f468293b,6,21,13,2,1,161.54,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,4,39,0,16,55,24,True,False,True,Legbreak,Left-hand bat
+Namibia,Z Groenewald,017faef2,7,50,30,4,3,166.67,"[7, 9, 11, 13]",4.0,24,9,0,23,0,1,2,0,0,0,0,5.75,0,0,0,0,4,96,63,0,159,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Namibia,CW Coombe,6e849a7b,8,37,27,6,0,137.04,"[2, 4, 6, 18]",3.833,23,15,0,24,5,0,4,0,1,0,0,6.26,1,0,0,0,2,67,133,8,208,31,True,True,False,Right-arm fast-medium,Right-hand bat
+Namibia,BM Scholtz,e85d03d6,9,4,2,1,0,200.0,"[10, 12, 14, 16]",4.0,24,11,0,19,0,1,1,0,0,0,0,4.75,0,0,0,0,0,8,42,0,50,34,True,False,False,Slow left-arm orthodox,Right-hand bat
+Namibia,M Mutumbe,55adb7a4,10,2,1,0,0,200.0,"[8, 15, 17]",3.0,18,12,0,16,3,0,2,0,2,1,0,5.33,0,0,0,0,0,2,82,0,84,35,True,False,False,Right-arm medium,Left-hand bat
+Namibia,T Lungameni,1688f2dc,11,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,15,1,7,1,0,1,0,1,0,1,2.33,1,0,0,0,0,0,66,8,74,32,True,False,False,Left-arm medium,Right-hand bat
+St Helena,D O'Bey,97175150,1,8,10,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,39,True,False,False,,
+St Helena,R Belgrove,86b0bbe8,2,4,7,1,0,57.14,"[17, 19]",2.0,12,4,0,12,1,0,0,0,0,0,1,6.0,0,0,0,0,0,8,6,0,14,44,True,False,False,,
+St Helena,S Crowie,4040951f,3,1,5,0,0,20.0,"[2, 4, 6, 20]",4.0,24,9,0,43,7,1,2,0,0,0,0,10.75,1,0,0,0,0,1,57,8,66,32,True,False,False,,
+St Helena,A Yon,99bf1fb7,4,28,18,3,1,155.56,"[1, 3, 5, 7]",4.0,24,12,0,27,4,0,4,1,0,0,2,6.75,0,0,0,0,4,54,130,0,184,28,True,False,False,,
+St Helena,J Henry,68e7e8d5,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,26,True,False,False,,
+St Helena,G Johnson,ceec82cd,6,3,13,0,0,23.08,"[8, 10, 16, 18]",4.0,24,9,0,48,3,4,0,0,0,0,0,12.0,0,0,0,0,-6,-3,5,0,2,39,True,False,False,,
+St Helena,D Young,5d9d83e6,7,7,6,1,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,25,True,False,False,,
+St Helena,P Stroud,13a1dc01,8,5,7,0,0,71.43,"[9, 11, 13, 15]",4.0,24,10,0,29,4,0,2,0,1,0,1,7.25,0,0,0,0,0,5,68,0,73,32,True,True,False,Left-arm medium,Left-hand bat
+St Helena,A Langham,fe0b3bdf,9,18,22,1,1,81.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,28,0,16,44,29,True,False,False,,
+St Helena,C George,d178e57e,10,9,11,1,0,81.82,"[12, 14]",2.0,12,4,0,20,3,0,0,0,0,0,1,10.0,0,0,0,0,0,13,2,0,15,24,True,False,False,,
+St Helena,N Ellick,5666eb9b,11,4,7,1,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,8,0,20,28,33,True,False,False,,

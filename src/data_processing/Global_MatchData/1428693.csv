@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Barbados Royals,Q de Kock,372455c4,1,115,68,8,9,169.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,221,0,0,221
-Barbados Royals,K Alleyne,6b07035d,2,22,9,2,2,244.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,42,0,0,42
-Barbados Royals,A Athanaze,58c2fac4,3,16,19,0,1,84.21,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
-Barbados Royals,R Powell,650d5e49,4,7,7,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19
-Barbados Royals,DA Miller,d67d5f00,5,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,1,0,16,17
-Barbados Royals,JO Holder,0f721006,6,28,10,1,3,280.0,"[2, 4, 14, 19]",4.0,24,9,0,32,3,1,2,0,0,0,0,8.0,1,0,0,0,6,60,59,8,127
-Barbados Royals,KA Maharaj,0b60eb09,7,0,0,0,0,0.0,"[6, 9, 11, 15]",4.0,24,7,0,42,1,4,3,0,0,0,0,10.5,0,0,0,0,0,0,84,0,84
-Barbados Royals,RA Clarke,de098678,7,6,2,0,1,300.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,12,0,12,24
-Barbados Royals,Naveen-ul-Haq,c0c411cb,8,0,0,0,0,0.0,"[5, 8, 18, 20]",4.0,24,3,0,37,3,1,0,0,0,0,1,9.25,0,0,0,0,0,0,3,0,3
-Barbados Royals,M Theekshana,f24c6701,9,0,0,0,0,0.0,"[1, 3, 13, 17]",4.0,24,10,0,21,1,0,0,0,0,0,1,5.25,0,0,0,0,0,0,14,0,14
-Barbados Royals,OC McCoy,529eb9e0,10,0,0,0,0,0.0,"[7, 10, 12, 16]",4.0,24,5,0,40,3,2,0,0,0,0,1,10.0,0,0,0,0,0,0,3,0,3
-Guyana Amazon Warriors,Azam Khan,ee8f1a6d,1,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
-Guyana Amazon Warriors,TB Robinson,5d664346,2,19,19,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,27,0,16,43
-Guyana Amazon Warriors,SD Hope,1fc6ef83,3,40,34,2,2,117.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,64,0,0,64
-Guyana Amazon Warriors,SO Hetmyer,48a1d7b7,4,28,10,1,3,280.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,60,0,16,76
-Guyana Amazon Warriors,MM Ali,bb351c23,5,33,19,3,2,173.68,"[2, 4, 9]",3.0,18,8,0,24,1,2,0,0,0,0,0,8.0,0,0,0,0,6,67,8,0,75
-Guyana Amazon Warriors,KMA Paul,75224f22,6,30,18,2,1,166.67,"[5, 16, 19]",3.0,18,3,0,47,3,4,1,0,0,0,2,15.67,0,0,0,0,4,52,22,0,74
-Guyana Amazon Warriors,RA Reifer,d7725664,7,16,16,1,0,100.0,"[12, 14, 17, 20]",4.0,24,9,0,50,1,6,3,0,0,0,2,12.5,0,0,0,0,0,20,82,0,102
-Guyana Amazon Warriors,D Pretorius,11614d87,7,0,0,0,0,0.0,"[1, 3, 15, 18]",4.0,24,11,0,27,2,1,2,0,0,0,2,6.75,0,0,0,0,0,0,63,0,63
-Guyana Amazon Warriors,G Motie,97bdec3d,8,0,0,0,0,0.0,"[11, 13]",2.0,12,4,0,20,2,1,0,0,0,0,1,10.0,0,0,0,0,0,0,2,0,2
-Guyana Amazon Warriors,K Sinclair,314642ed,9,0,0,0,0,0.0,"[6, 8, 10]",3.0,18,8,0,18,1,1,0,0,0,0,0,6.0,1,0,0,0,0,0,10,8,18
-Guyana Amazon Warriors,S Joseph,97290faf,10,0,0,0,0,0.0,[7],1.0,6,1,0,17,2,1,0,0,0,0,1,17.0,1,0,0,0,0,0,1,8,9
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Barbados Royals,Q de Kock,372455c4,1,115,68,8,9,169.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,221,0,0,221,32,True,False,False,,Left-hand bat
+Barbados Royals,K Alleyne,6b07035d,2,22,9,2,2,244.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,42,0,0,42,24,True,False,True,Right-arm medium,Right-hand bat
+Barbados Royals,A Athanaze,58c2fac4,3,16,19,0,1,84.21,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,26,True,False,False,Right-arm offbreak,Left-hand bat
+Barbados Royals,R Powell,650d5e49,4,7,7,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19,31,True,False,False,Right-arm medium-fast,Right-hand bat
+Barbados Royals,DA Miller,d67d5f00,5,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,1,0,16,17,35,True,False,False,Right-arm offbreak,Left-hand bat
+Barbados Royals,JO Holder,0f721006,6,28,10,1,3,280.0,"[2, 4, 14, 19]",4.0,24,9,0,32,3,1,2,0,0,0,0,8.0,1,0,0,0,6,60,59,8,127,33,True,False,True,Right-arm medium-fast,Right-hand bat
+Barbados Royals,KA Maharaj,0b60eb09,7,0,0,0,0,0.0,"[6, 9, 11, 15]",4.0,24,7,0,42,1,4,3,0,0,0,0,10.5,0,0,0,0,0,0,84,0,84,35,True,False,False,Slow left-arm orthodox,Right-hand bat
+Barbados Royals,RA Clarke,de098678,7,6,2,0,1,300.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,12,0,12,24,22,True,False,False,,Right-hand bat
+Barbados Royals,Naveen-ul-Haq,c0c411cb,8,0,0,0,0,0.0,"[5, 8, 18, 20]",4.0,24,3,0,37,3,1,0,0,0,0,1,9.25,0,0,0,0,0,0,3,0,3,25,True,False,False,Right-arm medium-fast,Right-hand bat
+Barbados Royals,M Theekshana,f24c6701,9,0,0,0,0,0.0,"[1, 3, 13, 17]",4.0,24,10,0,21,1,0,0,0,0,0,1,5.25,0,0,0,0,0,0,14,0,14,24,True,False,False,Right-arm offbreak,Right-hand bat
+Barbados Royals,OC McCoy,529eb9e0,10,0,0,0,0,0.0,"[7, 10, 12, 16]",4.0,24,5,0,40,3,2,0,0,0,0,1,10.0,0,0,0,0,0,0,3,0,3,28,True,False,False,Left-arm fast-medium,Left-hand bat
+Guyana Amazon Warriors,Azam Khan,ee8f1a6d,1,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,26,True,False,False,,Right-hand bat
+Guyana Amazon Warriors,TB Robinson,5d664346,2,19,19,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,27,0,16,43,22,True,False,False,Right-arm medium,Right-hand bat
+Guyana Amazon Warriors,SD Hope,1fc6ef83,3,40,34,2,2,117.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,64,0,0,64,31,True,False,False,,Right-hand bat
+Guyana Amazon Warriors,SO Hetmyer,48a1d7b7,4,28,10,1,3,280.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,60,0,16,76,28,True,False,False,,Left-hand bat
+Guyana Amazon Warriors,MM Ali,bb351c23,5,33,19,3,2,173.68,"[2, 4, 9]",3.0,18,8,0,24,1,2,0,0,0,0,0,8.0,0,0,0,0,6,67,8,0,75,37,True,False,True,Right-arm offbreak,Left-hand bat
+Guyana Amazon Warriors,KMA Paul,75224f22,6,30,18,2,1,166.67,"[5, 16, 19]",3.0,18,3,0,47,3,4,1,0,0,0,2,15.67,0,0,0,0,4,52,22,0,74,27,True,False,True,Right-arm fast-medium,Right-hand bat
+Guyana Amazon Warriors,RA Reifer,d7725664,7,16,16,1,0,100.0,"[12, 14, 17, 20]",4.0,24,9,0,50,1,6,3,0,0,0,2,12.5,0,0,0,0,0,20,82,0,102,33,True,False,True,Left-arm medium-fast,Left-hand bat
+Guyana Amazon Warriors,D Pretorius,11614d87,7,0,0,0,0,0.0,"[1, 3, 15, 18]",4.0,24,11,0,27,2,1,2,0,0,0,2,6.75,0,0,0,0,0,0,63,0,63,36,True,False,True,Right-arm medium-fast,Right-hand bat
+Guyana Amazon Warriors,G Motie,97bdec3d,8,0,0,0,0,0.0,"[11, 13]",2.0,12,4,0,20,2,1,0,0,0,0,1,10.0,0,0,0,0,0,0,2,0,2,30,True,False,False,Slow left-arm orthodox,Left-hand bat
+Guyana Amazon Warriors,K Sinclair,314642ed,9,0,0,0,0,0.0,"[6, 8, 10]",3.0,18,8,0,18,1,1,0,0,0,0,0,6.0,1,0,0,0,0,0,10,8,18,25,True,False,False,Right-arm offbreak,Right-hand bat
+Guyana Amazon Warriors,S Joseph,97290faf,10,0,0,0,0,0.0,[7],1.0,6,1,0,17,2,1,0,0,0,0,1,17.0,1,0,0,0,0,0,1,8,9,25,True,False,False,Right-arm fast,Left-hand bat

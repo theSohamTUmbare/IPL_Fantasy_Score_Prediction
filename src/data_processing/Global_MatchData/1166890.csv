@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Japan,M Taniyama,cbd91942,1,4,7,0,0,57.14,"[8, 10]",2.0,12,6,0,14,2,0,0,0,0,0,2,7.0,0,0,0,0,0,4,8,0,12
-Japan,N Miyaji,e1055803,2,6,14,0,0,42.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,0,0,0,0
-Japan,A Ueda,5950b933,3,14,9,2,0,155.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
-Japan,M Kobayashi,96084621,4,14,21,2,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,-2,20,0,16,36
-Japan,T Ota,011b7b59,5,12,11,0,1,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
-Japan,W Miyauchi,fef40097,6,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Japan,T Takada,bd3c364d,7,11,14,1,0,78.57,"[9, 13]",2.0,12,5,0,22,2,1,1,0,1,1,1,11.0,0,0,0,0,0,15,36,0,51
-Japan,J Yamashita,6cb6215d,8,2,4,0,0,50.0,"[1, 11, 14, 17]",4.0,24,10,0,19,0,0,1,0,1,0,1,4.75,0,0,0,0,0,2,49,0,51
-Japan,R Matsumura,cc9b822c,9,9,13,0,0,69.23,"[2, 6, 16, 19]",4.0,24,11,0,26,3,0,0,0,0,0,0,6.5,0,0,0,0,-2,7,13,0,20
-Japan,K Wakita,97da4ec9,10,19,15,0,1,126.67,"[4, 12, 18, 20]",4.0,24,14,0,18,2,0,3,0,1,0,1,4.5,0,0,0,0,0,25,107,0,132
-Japan,K Takahashi,039f8170,11,4,7,0,0,57.14,"[3, 5, 7, 15]",4.0,24,19,1,14,1,1,3,1,2,0,0,3.5,0,0,0,0,0,4,140,0,144
-Philippines,JH Kiani,7370ca3d,1,15,21,2,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
-Philippines,MK Gohal,024aece0,2,3,8,0,0,37.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
-Philippines,J Hill,5481bd91,3,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Philippines,HER Tyler,0ba9de33,4,30,27,3,1,111.11,"[12, 15, 18]",3.0,18,8,0,18,0,1,1,0,0,1,0,6.0,1,0,0,0,0,52,35,8,95
-Philippines,MP Biddappa,c45701b6,5,5,8,1,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
-Philippines,Karweng NG,6af3f1e6,6,19,20,1,0,95.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,23,0,16,39
-Philippines,DC Smith,a968d39b,7,14,13,0,1,107.69,"[1, 3, 17, 19]",4.0,24,11,0,21,0,0,1,0,0,1,1,5.25,0,0,0,0,0,20,40,0,60
-Philippines,Vimal Kumar,b6a85ead,8,13,9,2,0,144.44,"[7, 9, 11, 13]",4.0,24,15,0,14,0,1,3,0,1,0,0,3.5,2,0,0,0,0,21,108,16,145
-Philippines,GR Russ,1f28fdfd,9,7,6,1,0,116.67,[5],1.0,6,2,0,15,2,0,0,0,0,2,1,15.0,0,0,0,0,0,11,2,0,13
-Philippines,R Mahajan,ea0e8ea2,10,0,2,0,0,0.0,"[6, 8, 10, 16]",4.0,24,13,0,20,2,0,1,1,0,0,2,5.0,0,0,0,0,0,-2,50,0,48
-Philippines,Surinder Singh,2dcad6fa,11,0,0,0,0,0.0,"[2, 4, 14, 20]",4.0,24,11,0,19,1,0,2,0,1,0,2,4.75,0,0,0,0,0,0,75,0,75
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Japan,M Taniyama,cbd91942,1,4,7,0,0,57.14,"[8, 10]",2.0,12,6,0,14,2,0,0,0,0,0,2,7.0,0,0,0,0,0,4,8,0,12,29,True,True,False,Legbreak googly,Right-hand bat
+Japan,N Miyaji,e1055803,2,6,14,0,0,42.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,0,0,0,0,36,True,True,False,Right-arm medium,Right-hand bat
+Japan,A Ueda,5950b933,3,14,9,2,0,155.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,0,True,False,False,,
+Japan,M Kobayashi,96084621,4,14,21,2,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,-2,20,0,16,36,42,True,True,False,Right-arm medium,Right-hand bat
+Japan,T Ota,011b7b59,5,12,11,0,1,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,34,True,True,False,Right-arm medium,Right-hand bat
+Japan,W Miyauchi,fef40097,6,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,26,True,False,False,,Right-hand bat
+Japan,T Takada,bd3c364d,7,11,14,1,0,78.57,"[9, 13]",2.0,12,5,0,22,2,1,1,0,1,1,1,11.0,0,0,0,0,0,15,36,0,51,30,True,True,False,Right-arm medium,Right-hand bat
+Japan,J Yamashita,6cb6215d,8,2,4,0,0,50.0,"[1, 11, 14, 17]",4.0,24,10,0,19,0,0,1,0,1,0,1,4.75,0,0,0,0,0,2,49,0,51,27,True,True,False,Right-arm offbreak,Right-hand bat
+Japan,R Matsumura,cc9b822c,9,9,13,0,0,69.23,"[2, 6, 16, 19]",4.0,24,11,0,26,3,0,0,0,0,0,0,6.5,0,0,0,0,-2,7,13,0,20,27,True,True,False,Right-arm medium-fast,Right-hand bat
+Japan,K Wakita,97da4ec9,10,19,15,0,1,126.67,"[4, 12, 18, 20]",4.0,24,14,0,18,2,0,3,0,1,0,1,4.5,0,0,0,0,0,25,107,0,132,27,True,True,False,Right-arm medium-fast,Right-hand bat
+Japan,K Takahashi,039f8170,11,4,7,0,0,57.14,"[3, 5, 7, 15]",4.0,24,19,1,14,1,1,3,1,2,0,0,3.5,0,0,0,0,0,4,140,0,144,21,True,True,False,Right-arm medium-fast,Right-hand bat
+Philippines,JH Kiani,7370ca3d,1,15,21,2,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23,38,True,False,False,,Left-hand bat
+Philippines,MK Gohal,024aece0,2,3,8,0,0,37.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,43,True,True,False,Right-arm medium-fast,Right-hand bat
+Philippines,J Hill,5481bd91,3,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,34,True,True,False,Right-arm medium-fast,Right-hand bat
+Philippines,HER Tyler,0ba9de33,4,30,27,3,1,111.11,"[12, 15, 18]",3.0,18,8,0,18,0,1,1,0,0,1,0,6.0,1,0,0,0,0,52,35,8,95,33,True,False,False,,Right-hand bat
+Philippines,MP Biddappa,c45701b6,5,5,8,1,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,42,True,False,False,,Right-hand bat
+Philippines,Karweng NG,6af3f1e6,6,19,20,1,0,95.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,23,0,16,39,43,True,False,False,,Right-hand bat
+Philippines,DC Smith,a968d39b,7,14,13,0,1,107.69,"[1, 3, 17, 19]",4.0,24,11,0,21,0,0,1,0,0,1,1,5.25,0,0,0,0,0,20,40,0,60,33,True,True,False,Right-arm medium-fast,Right-hand bat
+Philippines,Vimal Kumar,b6a85ead,8,13,9,2,0,144.44,"[7, 9, 11, 13]",4.0,24,15,0,14,0,1,3,0,1,0,0,3.5,2,0,0,0,0,21,108,16,145,45,True,True,False,Right-arm offbreak,Right-hand bat
+Philippines,GR Russ,1f28fdfd,9,7,6,1,0,116.67,[5],1.0,6,2,0,15,2,0,0,0,0,2,1,15.0,0,0,0,0,0,11,2,0,13,34,True,True,False,Right-arm medium,Right-hand bat
+Philippines,R Mahajan,ea0e8ea2,10,0,2,0,0,0.0,"[6, 8, 10, 16]",4.0,24,13,0,20,2,0,1,1,0,0,2,5.0,0,0,0,0,0,-2,50,0,48,43,True,True,False,Legbreak,Right-hand bat
+Philippines,Surinder Singh,2dcad6fa,11,0,0,0,0,0.0,"[2, 4, 14, 20]",4.0,24,11,0,19,1,0,2,0,1,0,2,4.75,0,0,0,0,0,0,75,0,75,33,True,True,False,Right-arm medium,Right-hand bat

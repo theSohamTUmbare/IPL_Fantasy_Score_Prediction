@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Kings XI Punjab,PC Valthaty,25eeb281,1,14,14,3,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26
-Kings XI Punjab,AC Gilchrist,2b6e6dec,2,28,28,2,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,1,0,46,0,26,72
-Kings XI Punjab,SE Marsh,508a1ea7,3,43,34,5,0,126.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,67,0,16,83
-Kings XI Punjab,KD Karthik,c03f1114,4,31,24,4,1,129.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,57,0,0,57
-Kings XI Punjab,DJ Hussey,fd835ab3,5,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Kings XI Punjab,Mandeep Singh,c3a96caf,6,8,5,0,1,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,14,0,6,20
-Kings XI Punjab,Bipul Sharma,c18496e1,7,6,4,0,0,150.0,"[4, 8]",2.0,12,3,0,15,1,0,1,0,0,0,2,7.5,1,0,0,0,0,6,28,8,42
-Kings XI Punjab,RJ Harris,12eddf28,8,6,4,1,0,150.0,"[6, 10]",2.0,12,5,0,13,2,0,1,0,0,0,0,6.5,0,0,0,0,0,10,32,0,42
-Kings XI Punjab,P Kumar,e938e1bc,9,2,2,0,0,100.0,"[1, 3, 5, 7]",4.0,24,17,1,19,4,0,2,0,0,0,0,4.75,1,0,0,0,0,2,85,8,95
-Kings XI Punjab,SJ Srivastava,2049f3a0,10,3,2,0,0,150.0,"[9, 12]",2.0,12,4,0,17,2,0,1,0,0,0,1,8.5,0,0,0,0,0,3,29,0,32
-Kings XI Punjab,BA Bhatt,dc4686e6,11,0,0,0,0,0.0,"[2, 11, 13]",2.833,17,9,0,22,1,2,4,1,1,0,1,7.77,1,0,0,0,0,0,133,8,141
-Mumbai Indians,AC Blizzard,1efb8a28,1,15,10,3,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,27,0,28,55
-Mumbai Indians,SR Tendulkar,d2c2b2d5,2,6,9,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
-Mumbai Indians,RG Sharma,740742ef,3,5,5,1,0,100.0,"[8, 10]",2.0,12,3,0,24,1,1,0,0,0,0,5,12.0,0,0,0,0,0,9,-1,0,8
-Mumbai Indians,A Symonds,bd77eb62,4,8,6,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
-Mumbai Indians,AT Rayudu,70d205c9,5,13,19,2,0,68.42,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,19,0,8,27
-Mumbai Indians,TL Suman,aaa1b522,6,4,5,0,0,80.0,"[9, 12, 14]",3.0,18,5,0,23,3,0,0,0,0,0,0,7.67,0,0,0,0,0,4,5,0,9
-Mumbai Indians,KA Pollard,a757b0d8,7,17,11,1,1,154.55,"[13, 15]",2.0,12,2,0,11,1,0,0,0,0,0,0,5.5,2,0,0,0,4,31,6,16,53
-Mumbai Indians,Harbhajan Singh,8b5b6769,8,12,7,1,1,171.43,"[1, 3, 5]",3.0,18,9,0,20,3,0,0,0,0,0,0,6.67,0,0,0,0,0,22,11,0,33
-Mumbai Indians,DS Kulkarni,d2a989fc,9,2,4,0,0,50.0,"[7, 17]",2.0,12,3,0,25,2,2,0,0,0,0,1,12.5,0,0,0,0,0,2,-3,0,-1
-Mumbai Indians,SL Malinga,a12e1d51,10,0,0,0,0,0.0,"[2, 11, 18, 20]",4.0,24,9,0,24,2,0,2,0,1,0,1,6.0,0,0,1,0,0,0,69,12,81
-Mumbai Indians,MM Patel,f0f628c7,11,0,1,0,0,0.0,"[4, 6, 16, 19]",4.0,24,13,0,21,3,0,5,0,0,0,0,5.25,0,0,0,0,0,-2,154,0,152
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Kings XI Punjab,PC Valthaty,25eeb281,1,14,14,3,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26,41,True,False,False,Right-arm medium,Right-hand bat
+Kings XI Punjab,AC Gilchrist,2b6e6dec,2,28,28,2,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,1,0,46,0,26,72,53,True,True,False,Right-arm offbreak,Left-hand bat
+Kings XI Punjab,SE Marsh,508a1ea7,3,43,34,5,0,126.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,67,0,16,83,41,True,False,False,Slow left-arm orthodox,Left-hand bat
+Kings XI Punjab,KD Karthik,c03f1114,4,31,24,4,1,129.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,57,0,0,57,39,True,True,False,Right-arm offbreak,Right-hand bat
+Kings XI Punjab,DJ Hussey,fd835ab3,5,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,47,True,False,True,Right-arm offbreak,Right-hand bat
+Kings XI Punjab,Mandeep Singh,c3a96caf,6,8,5,0,1,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,14,0,6,20,33,True,False,True,Right-arm medium,Right-hand bat
+Kings XI Punjab,Bipul Sharma,c18496e1,7,6,4,0,0,150.0,"[4, 8]",2.0,12,3,0,15,1,0,1,0,0,0,2,7.5,1,0,0,0,0,6,28,8,42,41,True,False,True,Slow left-arm orthodox,Left-hand bat
+Kings XI Punjab,RJ Harris,12eddf28,8,6,4,1,0,150.0,"[6, 10]",2.0,12,5,0,13,2,0,1,0,0,0,0,6.5,0,0,0,0,0,10,32,0,42,45,True,False,False,Right-arm fast,Right-hand bat
+Kings XI Punjab,P Kumar,e938e1bc,9,2,2,0,0,100.0,"[1, 3, 5, 7]",4.0,24,17,1,19,4,0,2,0,0,0,0,4.75,1,0,0,0,0,2,85,8,95,38,True,False,False,Right-arm medium,Right-hand bat
+Kings XI Punjab,SJ Srivastava,2049f3a0,10,3,2,0,0,150.0,"[9, 12]",2.0,12,4,0,17,2,0,1,0,0,0,1,8.5,0,0,0,0,0,3,29,0,32,43,True,False,False,Left-arm fast-medium,Right-hand bat
+Kings XI Punjab,BA Bhatt,dc4686e6,11,0,0,0,0,0.0,"[2, 11, 13]",2.833,17,9,0,22,1,2,4,1,1,0,1,7.77,1,0,0,0,0,0,133,8,141,34,True,False,False,Slow left-arm orthodox,Left-hand bat
+Mumbai Indians,AC Blizzard,1efb8a28,1,15,10,3,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,27,0,28,55,40,True,False,False,Left-arm medium,Left-hand bat
+Mumbai Indians,SR Tendulkar,d2c2b2d5,2,6,9,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,51,True,False,False,Legbreak googly,Right-hand bat
+Mumbai Indians,RG Sharma,740742ef,3,5,5,1,0,100.0,"[8, 10]",2.0,12,3,0,24,1,1,0,0,0,0,5,12.0,0,0,0,0,0,9,-1,0,8,37,True,False,False,Right-arm offbreak,Right-hand bat
+Mumbai Indians,A Symonds,bd77eb62,4,8,6,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,46,True,False,True,Right-arm offbreak,Right-hand bat
+Mumbai Indians,AT Rayudu,70d205c9,5,13,19,2,0,68.42,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,19,0,8,27,39,True,False,False,Right-arm offbreak,Right-hand bat
+Mumbai Indians,TL Suman,aaa1b522,6,4,5,0,0,80.0,"[9, 12, 14]",3.0,18,5,0,23,3,0,0,0,0,0,0,7.67,0,0,0,0,0,4,5,0,9,41,True,False,False,Right-arm offbreak,Right-hand bat
+Mumbai Indians,KA Pollard,a757b0d8,7,17,11,1,1,154.55,"[13, 15]",2.0,12,2,0,11,1,0,0,0,0,0,0,5.5,2,0,0,0,4,31,6,16,53,37,True,False,True,Right-arm medium,Right-hand bat
+Mumbai Indians,Harbhajan Singh,8b5b6769,8,12,7,1,1,171.43,"[1, 3, 5]",3.0,18,9,0,20,3,0,0,0,0,0,0,6.67,0,0,0,0,0,22,11,0,33,44,True,False,False,Right-arm offbreak,Right-hand bat
+Mumbai Indians,DS Kulkarni,d2a989fc,9,2,4,0,0,50.0,"[7, 17]",2.0,12,3,0,25,2,2,0,0,0,0,1,12.5,0,0,0,0,0,2,-3,0,-1,36,True,False,False,Right-arm medium,Right-hand bat
+Mumbai Indians,SL Malinga,a12e1d51,10,0,0,0,0,0.0,"[2, 11, 18, 20]",4.0,24,9,0,24,2,0,2,0,1,0,1,6.0,0,0,1,0,0,0,69,12,81,41,True,False,False,Right-arm fast,Right-hand bat
+Mumbai Indians,MM Patel,f0f628c7,11,0,1,0,0,0.0,"[4, 6, 16, 19]",4.0,24,13,0,21,3,0,5,0,0,0,0,5.25,0,0,0,0,0,-2,154,0,152,41,True,False,False,Right-arm medium-fast,Right-hand bat

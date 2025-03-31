@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Bangladesh,Soumya Sarkar,4d9f9686,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Bangladesh,Rony Talukdar,8bd614b2,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Bangladesh,Nazmul Hossain Shanto,1274d7ab,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Bangladesh,Shamim Hossain,711249d1,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Bangladesh,Towhid Hridoy,9e52a414,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Bangladesh,Afif Hossain,37138918,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Bangladesh,Mahedi Hasan,9dad0f2e,10,0,0,0,0,0.0,"[1, 3]",2.0,12,4,0,15,2,0,0,0,0,0,0,7.5,0,0,0,0,0,0,4,0,4
-Bangladesh,Mustafizur Rahman,0a8fce53,11,0,0,0,0,0.0,"[6, 10]",2.0,12,4,0,16,2,0,0,0,0,0,0,8.0,0,0,0,0,0,0,4,0,4
-Bangladesh,Shoriful Islam,bb34fd31,12,0,0,0,0,0.0,"[2, 5]",2.0,12,4,0,16,1,1,1,0,0,0,0,8.0,0,0,0,0,0,0,29,0,29
-Bangladesh,Rishad Hossain,5935d694,13,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,9,0,10,0,0,0,0,0,0,0,3.33,1,0,0,0,0,0,15,8,23
-Bangladesh,Tanzim Hasan Sakib,0b0cc297,14,0,0,0,0,0.0,"[4, 8]",2.0,12,3,0,15,2,0,1,0,0,0,0,7.5,0,0,0,0,0,0,28,0,28
-New Zealand,FH Allen,bf74b130,1,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-New Zealand,TL Seifert,4663bd23,2,43,23,6,1,186.96,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,83,0,0,83
-New Zealand,DJ Mitchell,eade4650,3,18,24,1,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
-New Zealand,GD Phillips,9a46c4e5,4,9,14,0,0,64.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,7,0,0,7
-New Zealand,MS Chapman,7fa12533,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-New Zealand,JDS Neesham,9219eff0,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-New Zealand,MJ Santner,e4a0deae,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-New Zealand,AF Milne,350bb1b1,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-New Zealand,TG Southee,13c35c9e,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-New Zealand,IS Sodhi,641ac5ff,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-New Zealand,BV Sears,e1891e00,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bangladesh,Soumya Sarkar,4d9f9686,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,32,True,False,True,Right-arm medium-fast,Left-hand bat
+Bangladesh,Rony Talukdar,8bd614b2,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,34,True,False,False,Right-arm slow-medium,Right-hand bat
+Bangladesh,Nazmul Hossain Shanto,1274d7ab,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,26,True,False,False,Right-arm offbreak,Left-hand bat
+Bangladesh,Shamim Hossain,711249d1,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,24,True,False,True,Right-arm offbreak,Left-hand bat
+Bangladesh,Towhid Hridoy,9e52a414,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,24,True,False,False,Right-arm offbreak,Right-hand bat
+Bangladesh,Afif Hossain,37138918,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,25,True,False,True,Right-arm offbreak,Left-hand bat
+Bangladesh,Mahedi Hasan,9dad0f2e,10,0,0,0,0,0.0,"[1, 3]",2.0,12,4,0,15,2,0,0,0,0,0,0,7.5,0,0,0,0,0,0,4,0,4,30,True,False,True,Right-arm offbreak,Right-hand bat
+Bangladesh,Mustafizur Rahman,0a8fce53,11,0,0,0,0,0.0,"[6, 10]",2.0,12,4,0,16,2,0,0,0,0,0,0,8.0,0,0,0,0,0,0,4,0,4,29,True,False,False,Left-arm fast-medium,Left-hand bat
+Bangladesh,Shoriful Islam,bb34fd31,12,0,0,0,0,0.0,"[2, 5]",2.0,12,4,0,16,1,1,1,0,0,0,0,8.0,0,0,0,0,0,0,29,0,29,23,True,False,False,Left-arm fast-medium,Left-hand bat
+Bangladesh,Rishad Hossain,5935d694,13,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,9,0,10,0,0,0,0,0,0,0,3.33,1,0,0,0,0,0,15,8,23,22,True,False,True,Legbreak googly,Right-hand bat
+Bangladesh,Tanzim Hasan Sakib,0b0cc297,14,0,0,0,0,0.0,"[4, 8]",2.0,12,3,0,15,2,0,1,0,0,0,0,7.5,0,0,0,0,0,0,28,0,28,22,True,False,True,Right-arm fast-medium,Right-hand bat
+New Zealand,FH Allen,bf74b130,1,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,25,True,False,False,,Right-hand bat
+New Zealand,TL Seifert,4663bd23,2,43,23,6,1,186.96,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,83,0,0,83,30,True,False,False,,Right-hand bat
+New Zealand,DJ Mitchell,eade4650,3,18,24,1,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,33,True,False,True,Right-arm medium,Right-hand bat
+New Zealand,GD Phillips,9a46c4e5,4,9,14,0,0,64.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,7,0,0,7,28,True,False,True,Right-arm offbreak,Right-hand bat
+New Zealand,MS Chapman,7fa12533,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,30,True,False,True,Slow left-arm orthodox,Left-hand bat
+New Zealand,JDS Neesham,9219eff0,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,34,True,False,True,Right-arm medium-fast,Left-hand bat
+New Zealand,MJ Santner,e4a0deae,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+New Zealand,AF Milne,350bb1b1,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,32,True,False,False,Right-arm fast,Right-hand bat
+New Zealand,TG Southee,13c35c9e,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,36,True,False,False,Right-arm medium-fast,Right-hand bat
+New Zealand,IS Sodhi,641ac5ff,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,32,True,False,False,Legbreak,Right-hand bat
+New Zealand,BV Sears,e1891e00,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,27,True,False,False,Right-arm medium-fast,Right-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Oman,KH Prajapati,c4e73ff1,1,57,49,3,2,116.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,89,0,0,89
-Oman,PS Athavale,c2f12310,2,14,13,2,0,107.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,22,0,8,30
-Oman,Aqib Ilyas,b3b39bed,3,0,4,0,0,0.0,"[8, 10]",2.0,12,2,0,23,2,1,0,0,0,0,0,11.5,1,0,0,0,0,-2,-2,8,4
-Oman,Zeeshan Maqsood,34464143,4,42,36,4,1,116.67,"[12, 14, 16, 19]",4.0,24,10,0,29,2,0,2,0,1,0,6,7.25,0,0,0,0,0,68,68,0,136
-Oman,Khalid Kail,3ee90b67,5,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Oman,Ayan Khan,44d6a8b8,6,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,3,0,12,15
-Oman,Mehran Khan,d7bfcc0b,7,2,3,0,0,66.67,"[9, 11, 13, 15]",4.0,24,8,0,26,2,0,1,0,0,0,2,6.5,1,0,0,0,0,2,35,8,45
-Oman,Rafiullah,369cc49c,8,8,4,0,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
-Oman,Shakeel Ahmed,e29e9c12,9,1,2,0,0,50.0,"[2, 4, 6, 17]",4.0,24,13,0,15,1,0,0,0,0,0,0,3.75,0,0,0,0,0,1,19,0,20
-Oman,Bilal Khan,dcdb87f2,9,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,9,0,31,2,1,2,1,0,0,0,7.75,0,0,0,0,0,0,67,0,67
-Oman,Kaleemullah,72253b87,10,0,0,0,0,0.0,"[5, 7]",2.0,12,2,0,12,0,0,0,0,0,0,1,6.0,0,0,0,0,0,0,4,0,4
-Papua New Guinea,TP Ura,a82eb3fb,1,10,8,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,14,0,8,22
-Papua New Guinea,S Bau,9a95bebb,2,1,8,0,0,12.5,"[7, 13]",2.0,12,4,0,15,2,0,0,0,0,0,0,7.5,0,0,0,0,0,1,4,0,5
-Papua New Guinea,A Vala,72e60730,3,40,39,2,1,102.56,"[12, 14, 16]",3.0,18,5,0,21,1,1,0,0,0,0,0,7.0,0,0,0,0,0,58,7,0,65
-Papua New Guinea,L Siaka,6b4593ee,4,5,2,1,0,250.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17
-Papua New Guinea,CJA Amini,4d84ad05,5,24,22,2,0,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32
-Papua New Guinea,H Hiri,9dc3ea7e,6,34,28,2,1,121.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,52,0,16,68
-Papua New Guinea,CA Soper,9920dd86,7,10,8,1,0,125.0,"[4, 9, 17, 20]",3.5,21,9,0,26,1,1,3,0,0,0,5,7.43,1,0,0,0,0,14,88,8,110
-Papua New Guinea,HGV Vare,98299b67,8,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11
-Papua New Guinea,JWW Gardner,6e61adb8,9,0,0,0,0,0.0,"[2, 6, 11]",3.0,18,7,0,26,4,0,1,0,0,0,2,8.67,1,0,0,0,0,0,32,8,40
-Papua New Guinea,J Kariko,cde067e1,10,0,0,0,0,0.0,"[5, 8, 10, 18]",4.0,24,7,0,18,0,0,2,0,0,0,0,4.5,0,0,0,0,0,0,63,0,63
-Papua New Guinea,KV Morea,270bf7e2,11,0,0,0,0,0.0,"[1, 3, 15, 19]",4.0,24,10,0,30,1,2,1,0,0,0,1,7.5,0,0,0,0,0,0,35,0,35
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Oman,KH Prajapati,c4e73ff1,1,57,49,3,2,116.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,89,0,0,89,29,True,False,False,Right-arm offbreak,Right-hand bat
+Oman,PS Athavale,c2f12310,2,14,13,2,0,107.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,22,0,8,30,27,True,True,False,Right-arm offbreak,Right-hand bat
+Oman,Aqib Ilyas,b3b39bed,3,0,4,0,0,0.0,"[8, 10]",2.0,12,2,0,23,2,1,0,0,0,0,0,11.5,1,0,0,0,0,-2,-2,8,4,32,True,False,False,Legbreak googly,Right-hand bat
+Oman,Zeeshan Maqsood,34464143,4,42,36,4,1,116.67,"[12, 14, 16, 19]",4.0,24,10,0,29,2,0,2,0,1,0,6,7.25,0,0,0,0,0,68,68,0,136,37,True,False,False,Slow left-arm orthodox,Left-hand bat
+Oman,Khalid Kail,3ee90b67,5,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,28,True,False,False,,Right-hand bat
+Oman,Ayan Khan,44d6a8b8,6,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,3,0,12,15,32,True,False,True,Slow left-arm orthodox,Left-hand bat
+Oman,Mehran Khan,d7bfcc0b,7,2,3,0,0,66.67,"[9, 11, 13, 15]",4.0,24,8,0,26,2,0,1,0,0,0,2,6.5,1,0,0,0,0,2,35,8,45,37,True,False,False,Right-arm medium-fast,Right-hand bat
+Oman,Rafiullah,369cc49c,8,8,4,0,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,28,True,False,False,Right-arm medium,Right-hand bat
+Oman,Shakeel Ahmed,e29e9c12,9,1,2,0,0,50.0,"[2, 4, 6, 17]",4.0,24,13,0,15,1,0,0,0,0,0,0,3.75,0,0,0,0,0,1,19,0,20,37,True,False,False,Slow left-arm orthodox,Left-hand bat
+Oman,Bilal Khan,dcdb87f2,9,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,9,0,31,2,1,2,1,0,0,0,7.75,0,0,0,0,0,0,67,0,67,37,True,False,False,Left-arm medium-fast,Left-hand bat
+Oman,Kaleemullah,72253b87,10,0,0,0,0,0.0,"[5, 7]",2.0,12,2,0,12,0,0,0,0,0,0,1,6.0,0,0,0,0,0,0,4,0,4,34,True,False,False,Right-arm medium,Right-hand bat
+Papua New Guinea,TP Ura,a82eb3fb,1,10,8,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,14,0,8,22,35,True,False,False,,Right-hand bat
+Papua New Guinea,S Bau,9a95bebb,2,1,8,0,0,12.5,"[7, 13]",2.0,12,4,0,15,2,0,0,0,0,0,0,7.5,0,0,0,0,0,1,4,0,5,32,True,False,False,Right-arm offbreak,Left-hand bat
+Papua New Guinea,A Vala,72e60730,3,40,39,2,1,102.56,"[12, 14, 16]",3.0,18,5,0,21,1,1,0,0,0,0,0,7.0,0,0,0,0,0,58,7,0,65,37,True,False,False,Right-arm offbreak,Left-hand bat
+Papua New Guinea,L Siaka,6b4593ee,4,5,2,1,0,250.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17,32,True,False,False,Legbreak,Right-hand bat
+Papua New Guinea,CJA Amini,4d84ad05,5,24,22,2,0,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32,32,True,False,True,Legbreak,Left-hand bat
+Papua New Guinea,H Hiri,9dc3ea7e,6,34,28,2,1,121.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,52,0,16,68,29,True,False,False,Right-arm offbreak,Right-hand bat
+Papua New Guinea,CA Soper,9920dd86,7,10,8,1,0,125.0,"[4, 9, 17, 20]",3.5,21,9,0,26,1,1,3,0,0,0,5,7.43,1,0,0,0,0,14,88,8,110,33,True,False,False,Right-arm medium-fast,Right-hand bat
+Papua New Guinea,HGV Vare,98299b67,8,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11,23,True,False,False,,Left-hand bat
+Papua New Guinea,JWW Gardner,6e61adb8,9,0,0,0,0,0.0,"[2, 6, 11]",3.0,18,7,0,26,4,0,1,0,0,0,2,8.67,1,0,0,0,0,0,32,8,40,24,True,False,False,,
+Papua New Guinea,J Kariko,cde067e1,10,0,0,0,0,0.0,"[5, 8, 10, 18]",4.0,24,7,0,18,0,0,2,0,0,0,0,4.5,0,0,0,0,0,0,63,0,63,21,True,False,False,Slow left-arm orthodox,Left-hand bat
+Papua New Guinea,KV Morea,270bf7e2,11,0,0,0,0,0.0,"[1, 3, 15, 19]",4.0,24,10,0,30,1,2,1,0,0,0,1,7.5,0,0,0,0,0,0,35,0,35,31,True,False,False,Left-arm medium,Right-hand bat

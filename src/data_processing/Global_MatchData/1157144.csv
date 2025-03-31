@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Manipur,Mayank Raghav,228bd0b0,1,80,45,4,6,177.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,150,0,8,158
-Manipur,P Prafullomani,f9900488,2,51,54,4,1,94.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,81,0,0,81
-Manipur,Homendro Kabrambam,1b480a44,2,0,0,0,0,0.0,"[1, 3, 19]",3.0,18,7,0,30,4,1,1,0,0,0,1,10.0,3,0,0,0,0,0,30,28,58
-Manipur,Bishworjit Konthoujam,15deff66,3,0,0,0,0,0.0,"[2, 5, 18, 20]",4.0,24,8,0,26,1,1,1,0,0,0,0,6.5,1,0,0,0,0,0,35,8,43
-Manipur,Lamabam Singh,76860ea3,4,0,0,0,0,0.0,"[4, 6, 16]",3.0,18,7,0,17,2,0,1,0,0,0,0,5.67,0,0,0,0,0,0,36,0,36
-Manipur,Kangabam Singh,59da1e8a,5,0,0,0,0,0.0,"[7, 9, 11, 17]",4.0,24,10,0,23,2,0,3,0,0,0,0,5.75,0,0,0,0,0,0,93,0,93
-Manipur,Yashpal Singh,297b26da,6,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,8,0,26,1,1,0,0,0,0,0,6.5,0,0,0,0,0,0,10,0,10
-Manipur,Sultan Karim,7ef0c030,7,0,0,0,0,0.0,"[13, 15]",2.0,12,4,0,8,0,0,1,0,0,0,0,4.0,0,0,0,0,0,0,35,0,35
-Manipur,Ahmed Shah,075d569e,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Manipur,Bonny Chingangbam,ca38de66,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Manipur,Narsingh Yadav,4c450aee,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Nagaland,AJ Kaushik,16d029ec,1,16,22,1,0,72.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
-Nagaland,Rachit Bhatia,e415a5ab,2,0,0,0,0,0.0,"[1, 3]",2.0,12,8,0,8,1,0,0,0,0,0,1,4.0,0,0,0,0,0,0,14,0,14
-Nagaland,Sedezhalie Rupero,e49574d6,2,26,25,4,0,104.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,46,0,0,46
-Nagaland,Toni Chishi,dabf96a5,3,0,0,0,0,0.0,[16],1.0,6,0,0,9,1,0,0,0,0,0,0,9.0,0,0,0,0,0,0,0,0,0
-Nagaland,Rongsen Jonathan,d4753890,3,5,7,0,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
-Nagaland,KB Pawan,62dad180,4,13,11,0,1,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
-Nagaland,Manjinder Singh,783e8d4d,5,14,21,1,0,66.67,"[2, 4]",2.0,12,8,0,13,1,1,0,0,0,0,0,6.5,0,0,0,0,-2,16,10,0,26
-Nagaland,AA Kazi,16605a1b,6,36,22,2,2,163.64,"[10, 12, 14]",3.0,18,4,0,17,1,0,0,0,0,0,0,5.67,0,0,0,0,4,64,8,0,72
-Nagaland,Kiran Reddy,2275cb50,7,13,8,2,0,162.5,"[5, 7]",2.0,12,2,0,20,2,0,0,0,0,0,2,10.0,0,0,0,0,0,21,0,0,21
-Nagaland,Imliwati Lemtur,76a33e00,8,3,2,0,0,150.0,"[6, 8, 13, 17]",3.5,21,7,0,28,1,2,0,0,0,0,0,8.0,0,0,0,0,0,3,7,0,10
-Nagaland,Tahmeed Rahman,13903f13,9,3,2,0,0,150.0,"[9, 11, 15]",3.0,18,2,0,39,1,4,0,0,0,0,0,13.0,0,0,0,0,0,3,-4,0,-1
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Manipur,Mayank Raghav,228bd0b0,1,80,45,4,6,177.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,150,0,8,158,36,True,False,False,,Right-hand bat
+Manipur,P Prafullomani,f9900488,2,51,54,4,1,94.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,81,0,0,81,31,True,False,False,,Right-hand bat
+Manipur,Homendro Kabrambam,1b480a44,2,0,0,0,0,0.0,"[1, 3, 19]",3.0,18,7,0,30,4,1,1,0,0,0,1,10.0,3,0,0,0,0,0,30,28,58,32,True,True,False,Right-arm medium-fast,Right-hand bat
+Manipur,Bishworjit Konthoujam,15deff66,3,0,0,0,0,0.0,"[2, 5, 18, 20]",4.0,24,8,0,26,1,1,1,0,0,0,0,6.5,1,0,0,0,0,0,35,8,43,29,True,True,False,Right-arm medium-fast,Right-hand bat
+Manipur,Lamabam Singh,76860ea3,4,0,0,0,0,0.0,"[4, 6, 16]",3.0,18,7,0,17,2,0,1,0,0,0,0,5.67,0,0,0,0,0,0,36,0,36,26,True,True,False,Slow left-arm orthodox,Left-hand bat
+Manipur,Kangabam Singh,59da1e8a,5,0,0,0,0,0.0,"[7, 9, 11, 17]",4.0,24,10,0,23,2,0,3,0,0,0,0,5.75,0,0,0,0,0,0,93,0,93,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Manipur,Yashpal Singh,297b26da,6,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,8,0,26,1,1,0,0,0,0,0,6.5,0,0,0,0,0,0,10,0,10,43,True,False,False,Right-arm medium,Right-hand bat
+Manipur,Sultan Karim,7ef0c030,7,0,0,0,0,0.0,"[13, 15]",2.0,12,4,0,8,0,0,1,0,0,0,0,4.0,0,0,0,0,0,0,35,0,35,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Manipur,Ahmed Shah,075d569e,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,30,True,False,False,,Right-hand bat
+Manipur,Bonny Chingangbam,ca38de66,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,29,True,False,False,,Left-hand bat
+Manipur,Narsingh Yadav,4c450aee,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,33,True,False,False,,Right-hand bat
+Nagaland,AJ Kaushik,16d029ec,1,16,22,1,0,72.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,30,True,False,False,,Right-hand bat
+Nagaland,Rachit Bhatia,e415a5ab,2,0,0,0,0,0.0,"[1, 3]",2.0,12,8,0,8,1,0,0,0,0,0,1,4.0,0,0,0,0,0,0,14,0,14,27,True,True,False,Right-arm medium,Right-hand bat
+Nagaland,Sedezhalie Rupero,e49574d6,2,26,25,4,0,104.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,46,0,0,46,27,True,True,False,Right-arm offbreak,Right-hand bat
+Nagaland,Toni Chishi,dabf96a5,3,0,0,0,0,0.0,[16],1.0,6,0,0,9,1,0,0,0,0,0,0,9.0,0,0,0,0,0,0,0,0,0,29,True,False,False,Right-arm medium-fast,Right-hand bat
+Nagaland,Rongsen Jonathan,d4753890,3,5,7,0,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,38,True,False,True,,Right-hand bat
+Nagaland,KB Pawan,62dad180,4,13,11,0,1,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,37,True,False,False,,Right-hand bat
+Nagaland,Manjinder Singh,783e8d4d,5,14,21,1,0,66.67,"[2, 4]",2.0,12,8,0,13,1,1,0,0,0,0,0,6.5,0,0,0,0,-2,16,10,0,26,29,True,True,False,Right-arm medium,Right-hand bat
+Nagaland,AA Kazi,16605a1b,6,36,22,2,2,163.64,"[10, 12, 14]",3.0,18,4,0,17,1,0,0,0,0,0,0,5.67,0,0,0,0,4,64,8,0,72,35,True,False,False,Slow left-arm orthodox,Left-hand bat
+Nagaland,Kiran Reddy,2275cb50,7,13,8,2,0,162.5,"[5, 7]",2.0,12,2,0,20,2,0,0,0,0,0,2,10.0,0,0,0,0,0,21,0,0,21,28,True,True,False,Right-arm medium,Right-hand bat
+Nagaland,Imliwati Lemtur,76a33e00,8,3,2,0,0,150.0,"[6, 8, 13, 17]",3.5,21,7,0,28,1,2,0,0,0,0,0,8.0,0,0,0,0,0,3,7,0,10,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+Nagaland,Tahmeed Rahman,13903f13,9,3,2,0,0,150.0,"[9, 11, 15]",3.0,18,2,0,39,1,4,0,0,0,0,0,13.0,0,0,0,0,0,3,-4,0,-1,26,True,False,False,Right-arm offbreak,Right-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Bangladesh,Tamim Iqbal,3b041a12,1,50,42,4,2,119.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,86,0,8,94
-Bangladesh,Liton Das,0404d43c,2,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Bangladesh,Sabbir Rahman,7147f314,3,13,8,3,0,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,25,0,8,33
-Bangladesh,Mushfiqur Rahim,a94e08ea,4,28,25,2,0,112.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,40,0,8,48
-Bangladesh,Soumya Sarkar,4d9f9686,5,10,11,0,0,90.91,"[15, 19]",2.0,12,2,0,21,1,1,1,0,0,0,1,10.5,1,0,0,0,0,10,25,8,43
-Bangladesh,Mahmudullah,bf1d7d3e,6,43,18,3,2,238.89,"[8, 10, 14, 16]",4.0,24,6,0,29,2,0,0,0,0,0,1,7.25,0,0,0,0,6,77,6,0,83
-Bangladesh,Shakib Al Hasan,7dc35884,7,7,9,0,0,77.78,"[1, 3]",2.0,12,7,0,9,1,0,1,0,0,0,1,4.5,0,0,0,0,0,7,38,0,45
-Bangladesh,Mehedi Hasan Miraz,c58b0108,8,0,1,0,0,0.0,"[5, 7, 9, 12]",4.0,24,12,0,16,1,0,1,0,0,0,0,4.0,1,0,0,0,0,0,43,8,51
-Bangladesh,Mustafizur Rahman,0a8fce53,9,0,2,0,0,0.0,"[4, 6, 13, 17]",4.0,24,9,0,39,2,3,2,0,0,0,2,9.75,1,0,0,0,0,0,59,8,67
-Bangladesh,Nazmul Islam,6575e3bc,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Bangladesh,Rubel Hossain,f56cd097,10,0,0,0,0,0.0,"[2, 11, 18, 20]",4.0,24,5,0,41,6,0,1,0,0,0,0,10.25,0,0,0,0,0,0,28,0,28
-Sri Lanka,MD Gunathilaka,509a7ca1,1,4,7,0,0,57.14,"[7, 14, 16]",3.0,18,6,0,24,1,0,1,0,0,0,7,8.0,0,0,0,0,0,4,31,0,35
-Sri Lanka,BKG Mendis,5d1e7582,2,11,14,2,0,78.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
-Sri Lanka,MDKJ Perera,f21043a5,3,61,40,7,1,152.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,0,0,4,107,0,28,135
-Sri Lanka,WU Tharanga,7ed9fd56,4,5,5,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
-Sri Lanka,MD Shanaka,3ff033bb,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Sri Lanka,BMAJ Mendis,9868bc75,6,3,11,0,0,27.27,"[9, 11, 15, 17]",4.0,24,8,0,24,0,1,1,0,0,0,0,6.0,0,0,0,0,-6,-3,35,0,32
-Sri Lanka,NLTC Perera,0f12f9df,7,58,37,3,3,156.76,"[6, 19]",2.0,12,3,0,20,2,0,0,0,0,0,0,10.0,2,0,0,0,4,100,1,16,117
-Sri Lanka,I Udana,ac5ae4af,8,7,4,0,0,175.0,"[10, 18, 20]",2.833,17,4,0,26,2,1,1,0,0,0,0,9.18,0,0,0,0,0,7,29,0,36
-Sri Lanka,A Dananjaya,5b16a806,9,1,1,0,0,100.0,"[2, 4, 8, 12]",4.0,24,9,0,37,3,2,2,0,0,0,1,9.25,1,0,0,0,0,1,59,8,68
-Sri Lanka,MA Aponso,e2ee90d9,10,0,0,0,0,0.0,"[3, 5, 13]",3.0,18,6,0,19,2,0,1,0,0,0,0,6.33,0,0,0,0,0,0,33,0,33
-Sri Lanka,N Pradeep,2af838ee,11,0,0,0,0,0.0,[1],1.0,6,3,0,10,2,0,0,0,0,0,1,10.0,0,0,0,0,0,0,3,0,3
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bangladesh,Tamim Iqbal,3b041a12,1,50,42,4,2,119.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,86,0,8,94,36,True,False,False,,Left-hand bat
+Bangladesh,Liton Das,0404d43c,2,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,30,True,True,False,Right-arm offbreak,Right-hand bat
+Bangladesh,Sabbir Rahman,7147f314,3,13,8,3,0,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,25,0,8,33,33,True,False,True,Legbreak,Right-hand bat
+Bangladesh,Mushfiqur Rahim,a94e08ea,4,28,25,2,0,112.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,40,0,8,48,37,True,False,False,,Right-hand bat
+Bangladesh,Soumya Sarkar,4d9f9686,5,10,11,0,0,90.91,"[15, 19]",2.0,12,2,0,21,1,1,1,0,0,0,1,10.5,1,0,0,0,0,10,25,8,43,32,True,False,True,Right-arm medium-fast,Left-hand bat
+Bangladesh,Mahmudullah,bf1d7d3e,6,43,18,3,2,238.89,"[8, 10, 14, 16]",4.0,24,6,0,29,2,0,0,0,0,0,1,7.25,0,0,0,0,6,77,6,0,83,39,True,False,True,Right-arm offbreak,Right-hand bat
+Bangladesh,Shakib Al Hasan,7dc35884,7,7,9,0,0,77.78,"[1, 3]",2.0,12,7,0,9,1,0,1,0,0,0,1,4.5,0,0,0,0,0,7,38,0,45,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Bangladesh,Mehedi Hasan Miraz,c58b0108,8,0,1,0,0,0.0,"[5, 7, 9, 12]",4.0,24,12,0,16,1,0,1,0,0,0,0,4.0,1,0,0,0,0,0,43,8,51,27,True,False,True,Right-arm offbreak,Right-hand bat
+Bangladesh,Mustafizur Rahman,0a8fce53,9,0,2,0,0,0.0,"[4, 6, 13, 17]",4.0,24,9,0,39,2,3,2,0,0,0,2,9.75,1,0,0,0,0,0,59,8,67,29,True,False,False,Left-arm fast-medium,Left-hand bat
+Bangladesh,Nazmul Islam,6575e3bc,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,33,True,False,False,Slow left-arm orthodox,Left-hand bat
+Bangladesh,Rubel Hossain,f56cd097,10,0,0,0,0,0.0,"[2, 11, 18, 20]",4.0,24,5,0,41,6,0,1,0,0,0,0,10.25,0,0,0,0,0,0,28,0,28,35,True,False,False,Right-arm fast,Right-hand bat
+Sri Lanka,MD Gunathilaka,509a7ca1,1,4,7,0,0,57.14,"[7, 14, 16]",3.0,18,6,0,24,1,0,1,0,0,0,7,8.0,0,0,0,0,0,4,31,0,35,34,True,False,True,Right-arm offbreak,Left-hand bat
+Sri Lanka,BKG Mendis,5d1e7582,2,11,14,2,0,78.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,30,True,True,False,Legbreak,Right-hand bat
+Sri Lanka,MDKJ Perera,f21043a5,3,61,40,7,1,152.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,0,0,4,107,0,28,135,34,True,False,False,,Left-hand bat
+Sri Lanka,WU Tharanga,7ed9fd56,4,5,5,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,40,True,False,False,,Left-hand bat
+Sri Lanka,MD Shanaka,3ff033bb,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,33,True,False,True,Right-arm medium,Right-hand bat
+Sri Lanka,BMAJ Mendis,9868bc75,6,3,11,0,0,27.27,"[9, 11, 15, 17]",4.0,24,8,0,24,0,1,1,0,0,0,0,6.0,0,0,0,0,-6,-3,35,0,32,42,True,False,True,Legbreak,Left-hand bat
+Sri Lanka,NLTC Perera,0f12f9df,7,58,37,3,3,156.76,"[6, 19]",2.0,12,3,0,20,2,0,0,0,0,0,0,10.0,2,0,0,0,4,100,1,16,117,35,True,False,True,Right-arm medium-fast,Left-hand bat
+Sri Lanka,I Udana,ac5ae4af,8,7,4,0,0,175.0,"[10, 18, 20]",2.833,17,4,0,26,2,1,1,0,0,0,0,9.18,0,0,0,0,0,7,29,0,36,37,True,False,True,Left-arm medium-fast,Right-hand bat
+Sri Lanka,A Dananjaya,5b16a806,9,1,1,0,0,100.0,"[2, 4, 8, 12]",4.0,24,9,0,37,3,2,2,0,0,0,1,9.25,1,0,0,0,0,1,59,8,68,31,True,False,True,Legbreak,Left-hand bat
+Sri Lanka,MA Aponso,e2ee90d9,10,0,0,0,0,0.0,"[3, 5, 13]",3.0,18,6,0,19,2,0,1,0,0,0,0,6.33,0,0,0,0,0,0,33,0,33,31,True,False,False,Slow left-arm orthodox,Right-hand bat
+Sri Lanka,N Pradeep,2af838ee,11,0,0,0,0,0.0,[1],1.0,6,3,0,10,2,0,0,0,0,0,1,10.0,0,0,0,0,0,0,3,0,3,38,True,False,False,Right-arm fast-medium,Right-hand bat

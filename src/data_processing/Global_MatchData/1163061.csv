@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Botswana,Z Abbasi,5d9ebb3c,1,6,7,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
-Botswana,T Phaswana,56c0966b,2,37,27,6,0,137.04,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,67,0,0,67
-Botswana,W Tajbhay,f40296e1,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Botswana,K Motlanka,21549344,3,41,34,4,0,120.59,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,61,0,8,69
-Botswana,A Rangaswamy,08df0bd3,4,0,0,0,0,0.0,"[1, 3, 5, 20]",4.0,24,19,2,8,1,0,1,0,1,0,1,2.0,0,0,0,0,0,0,82,0,82
-Botswana,N Master,4833efb4,5,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,13,0,19,2,0,2,0,0,0,0,4.75,0,0,0,0,0,0,69,0,69
-Botswana,R Nehonde,4393e047,6,0,0,0,0,0.0,"[15, 17]",2.0,12,4,0,9,0,0,0,0,0,0,0,4.5,0,0,0,0,0,0,10,0,10
-Botswana,T Tshose,18ae55e4,7,0,0,0,0,0.0,"[8, 10, 12]",3.0,18,13,0,8,1,0,1,0,1,0,1,2.67,0,0,0,0,0,0,52,0,52
-Botswana,B Kgosiemang,059ec7a5,8,0,0,0,0,0.0,"[2, 4, 6, 19]",4.0,24,14,0,25,3,0,0,0,0,0,3,6.25,1,0,0,0,0,0,16,8,24
-Botswana,V Balakrishnan,0c1da0c4,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Botswana,D Maisuria,a96b36af,10,0,0,0,0,0.0,"[14, 16, 18]",3.0,18,10,0,17,0,1,2,1,1,0,1,5.67,0,0,0,0,0,0,80,0,80
-Swaziland,A Nicholas,4ba77c99,1,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Swaziland,Shehzad Patel,101373a3,2,19,23,4,0,82.61,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,35,0,0,35
-Swaziland,J Hansrod,a8473c4a,3,9,21,1,0,42.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,7,0,0,7
-Swaziland,Tehseen Hassan,c436c424,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Swaziland,Imran Patel,971439f3,4,0,0,0,0,0.0,"[2, 4]",2.0,12,6,0,12,1,0,1,0,1,0,3,6.0,0,0,0,0,0,0,41,0,41
-Swaziland,H Rashid,725c73f2,4,6,15,0,0,40.0,"[1, 3, 5, 12]",3.333,20,3,0,34,5,0,0,0,0,0,1,10.2,0,0,0,0,-6,0,1,0,1
-Swaziland,Sohail Akhtar,d469639b,5,13,13,0,1,100.0,"[6, 8, 10]",3.0,18,7,0,26,4,0,0,0,0,0,1,8.67,0,0,0,0,0,19,7,0,26
-Swaziland,M Magagula,7a787b98,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Swaziland,SC Mucyo,4a90dda5,6,17,27,2,0,62.96,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,23,0,0,23
-Swaziland,Jawad Muhammad,5117fa92,7,2,4,0,0,50.0,[11],1.0,6,4,0,3,0,0,0,0,0,0,0,3.0,0,0,0,0,0,2,4,0,6
-Swaziland,Shahzad Mahmood,a9af6fea,8,9,12,0,0,75.0,"[7, 9]",2.0,12,3,0,14,1,0,0,0,0,0,0,7.0,0,0,0,0,0,9,5,0,14
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Botswana,Z Abbasi,5d9ebb3c,1,6,7,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,37,True,True,False,Right-arm medium,Right-hand bat
+Botswana,T Phaswana,56c0966b,2,37,27,6,0,137.04,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,67,0,0,67,26,True,False,False,,
+Botswana,W Tajbhay,f40296e1,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,32,True,True,False,Right-arm medium,Right-hand bat
+Botswana,K Motlanka,21549344,3,41,34,4,0,120.59,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,61,0,8,69,32,True,False,False,,Left-hand bat
+Botswana,A Rangaswamy,08df0bd3,4,0,0,0,0,0.0,"[1, 3, 5, 20]",4.0,24,19,2,8,1,0,1,0,1,0,1,2.0,0,0,0,0,0,0,82,0,82,30,True,True,False,Left-arm medium,Right-hand bat
+Botswana,N Master,4833efb4,5,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,13,0,19,2,0,2,0,0,0,0,4.75,0,0,0,0,0,0,69,0,69,33,True,True,False,Right-arm medium,Right-hand bat
+Botswana,R Nehonde,4393e047,6,0,0,0,0,0.0,"[15, 17]",2.0,12,4,0,9,0,0,0,0,0,0,0,4.5,0,0,0,0,0,0,10,0,10,34,True,True,False,Right-arm offbreak,Right-hand bat
+Botswana,T Tshose,18ae55e4,7,0,0,0,0,0.0,"[8, 10, 12]",3.0,18,13,0,8,1,0,1,0,1,0,1,2.67,0,0,0,0,0,0,52,0,52,29,True,False,True,Right-arm medium,Right-hand bat
+Botswana,B Kgosiemang,059ec7a5,8,0,0,0,0,0.0,"[2, 4, 6, 19]",4.0,24,14,0,25,3,0,0,0,0,0,3,6.25,1,0,0,0,0,0,16,8,24,25,True,True,False,Right-arm fast,Right-hand bat
+Botswana,V Balakrishnan,0c1da0c4,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,36,True,True,False,Right-arm offbreak,Right-hand bat
+Botswana,D Maisuria,a96b36af,10,0,0,0,0,0.0,"[14, 16, 18]",3.0,18,10,0,17,0,1,2,1,1,0,1,5.67,0,0,0,0,0,0,80,0,80,26,True,True,False,Legbreak googly,Right-hand bat
+Swaziland,A Nicholas,4ba77c99,1,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,0,True,False,False,,
+Swaziland,Shehzad Patel,101373a3,2,19,23,4,0,82.61,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,35,0,0,35,29,True,False,False,,
+Swaziland,J Hansrod,a8473c4a,3,9,21,1,0,42.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,7,0,0,7,51,True,True,False,Right-arm medium,Right-hand bat
+Swaziland,Tehseen Hassan,c436c424,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,True,False,False,,
+Swaziland,Imran Patel,971439f3,4,0,0,0,0,0.0,"[2, 4]",2.0,12,6,0,12,1,0,1,0,1,0,3,6.0,0,0,0,0,0,0,41,0,41,46,True,False,False,,
+Swaziland,H Rashid,725c73f2,4,6,15,0,0,40.0,"[1, 3, 5, 12]",3.333,20,3,0,34,5,0,0,0,0,0,1,10.2,0,0,0,0,-6,0,1,0,1,33,True,True,False,Right-arm medium,Right-hand bat
+Swaziland,Sohail Akhtar,d469639b,5,13,13,0,1,100.0,"[6, 8, 10]",3.0,18,7,0,26,4,0,0,0,0,0,1,8.67,0,0,0,0,0,19,7,0,26,0,True,False,False,,
+Swaziland,M Magagula,7a787b98,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,30,True,True,False,Right-arm medium,Right-hand bat
+Swaziland,SC Mucyo,4a90dda5,6,17,27,2,0,62.96,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,23,0,0,23,0,True,False,False,,
+Swaziland,Jawad Muhammad,5117fa92,7,2,4,0,0,50.0,[11],1.0,6,4,0,3,0,0,0,0,0,0,0,3.0,0,0,0,0,0,2,4,0,6,23,True,True,False,Right-arm medium,Right-hand bat
+Swaziland,Shahzad Mahmood,a9af6fea,8,9,12,0,0,75.0,"[7, 9]",2.0,12,3,0,14,1,0,0,0,0,0,0,7.0,0,0,0,0,0,9,5,0,14,45,True,False,False,,

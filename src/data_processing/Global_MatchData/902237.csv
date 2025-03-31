@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Assam,Pallav Kumar Das,c2294408,1,15,10,2,1,150.0,"[8, 10, 12, 14]",4.0,24,12,0,19,0,1,1,0,0,0,1,4.75,0,0,0,0,0,29,43,0,72
-Assam,Sibsankar Roy,3d8348d0,2,9,8,0,1,112.5,"[9, 13, 15]",3.0,18,3,0,18,1,0,1,0,1,0,0,6.0,0,0,0,0,0,15,38,0,53
-Assam,Amit Verma,3b30b8c4,3,26,30,3,0,86.67,[11],1.0,6,2,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,42,2,0,44
-Assam,KB Arun Karthik,7daedf2f,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Assam,J Syed Mohammad,c64c2443,5,39,36,2,1,108.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,57,0,12,69
-Assam,Amit Sinha,2f48362d,6,35,19,3,2,184.21,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,69,0,16,85
-Assam,Wasiqur Rahman,645eaa96,7,10,15,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,8,0,0,8
-Assam,Mrinmoy Dutta,64959652,7,0,0,0,0,0.0,"[3, 5, 7, 20]",3.667,22,12,0,22,0,2,2,0,1,0,2,6.0,0,0,0,0,0,0,70,0,70
-Assam,Krishna Das,2009e01b,8,0,0,0,0,0.0,"[2, 6, 17, 19]",4.0,24,12,0,33,1,3,0,0,0,0,0,8.25,0,0,0,0,0,0,12,0,12
-Assam,Saahil Jain,a454fa21,8,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Assam,Jogeswar Bhumij,d76737ce,9,0,0,0,0,0.0,"[1, 4, 16, 18]",4.0,24,8,0,39,4,1,0,0,0,0,1,9.75,0,0,0,0,0,0,8,0,8
-Madhya Pradesh,Zafar Ali,87b455da,1,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Madhya Pradesh,Ashutosh Singh,5c766d24,2,8,10,1,0,80.0,"[9, 11, 13]",3.0,18,7,0,12,0,0,1,0,0,0,0,4.0,1,0,0,0,0,12,38,8,58
-Madhya Pradesh,NV Ojha,890946a0,3,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
-Madhya Pradesh,Harpreet Singh,28c78fb3,4,63,49,4,1,128.57,"[8, 12]",2.0,12,2,0,12,0,0,0,0,0,0,1,6.0,0,0,0,0,0,93,4,0,97
-Madhya Pradesh,Parth Sahani,239f7526,5,5,17,0,0,29.41,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,1,0,-6,-1,0,40,39
-Madhya Pradesh,Sohraab Dhaliwal,564714f5,6,8,6,0,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
-Madhya Pradesh,VR Iyer,a24be938,7,44,24,1,5,183.33,"[5, 7, 17]",3.0,18,11,1,9,0,0,0,0,0,0,2,3.0,1,0,0,0,6,88,29,8,125
-Madhya Pradesh,IC Pandey,e0407c01,7,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,11,0,27,3,1,2,0,0,0,0,6.75,0,0,0,0,0,0,63,0,63
-Madhya Pradesh,Ashwin Das,872113ff,8,0,0,0,0,0.0,"[2, 4, 6, 19]",4.0,24,7,0,48,5,3,2,0,1,0,0,12.0,0,0,0,0,0,0,61,0,61
-Madhya Pradesh,Mihir Hirwani,49bacd0f,9,0,0,0,0,0.0,"[10, 15]",2.0,12,3,0,22,2,1,0,0,0,0,0,11.0,0,0,0,0,0,0,1,0,1
-Madhya Pradesh,Ayan Khan,44d6a8b8,10,0,0,0,0,0.0,"[14, 16]",2.0,12,5,0,7,0,0,1,0,0,0,0,3.5,0,0,0,0,0,0,36,0,36
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Assam,Pallav Kumar Das,c2294408,1,15,10,2,1,150.0,"[8, 10, 12, 14]",4.0,24,12,0,19,0,1,1,0,0,0,1,4.75,0,0,0,0,0,29,43,0,72,35,True,False,False,Right-arm medium,Left-hand bat
+Assam,Sibsankar Roy,3d8348d0,2,9,8,0,1,112.5,"[9, 13, 15]",3.0,18,3,0,18,1,0,1,0,1,0,0,6.0,0,0,0,0,0,15,38,0,53,34,True,False,False,Right-arm offbreak,Left-hand bat
+Assam,Amit Verma,3b30b8c4,3,26,30,3,0,86.67,[11],1.0,6,2,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,42,2,0,44,37,True,False,True,Legbreak,Left-hand bat
+Assam,KB Arun Karthik,7daedf2f,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,39,True,True,False,Legbreak googly,Right-hand bat
+Assam,J Syed Mohammad,c64c2443,5,39,36,2,1,108.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,57,0,12,69,41,True,False,False,Slow left-arm orthodox,Left-hand bat
+Assam,Amit Sinha,2f48362d,6,35,19,3,2,184.21,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,69,0,16,85,36,True,True,False,Legbreak,Right-hand bat
+Assam,Wasiqur Rahman,645eaa96,7,10,15,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,8,0,0,8,30,True,False,False,,Right-hand bat
+Assam,Mrinmoy Dutta,64959652,7,0,0,0,0,0.0,"[3, 5, 7, 20]",3.667,22,12,0,22,0,2,2,0,1,0,2,6.0,0,0,0,0,0,0,70,0,70,26,True,True,False,Left-arm medium-fast,Left-hand bat
+Assam,Krishna Das,2009e01b,8,0,0,0,0,0.0,"[2, 6, 17, 19]",4.0,24,12,0,33,1,3,0,0,0,0,0,8.25,0,0,0,0,0,0,12,0,12,34,True,True,False,Right-arm medium,Right-hand bat
+Assam,Saahil Jain,a454fa21,8,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,26,True,True,False,Right-arm offbreak,Right-hand bat
+Assam,Jogeswar Bhumij,d76737ce,9,0,0,0,0,0.0,"[1, 4, 16, 18]",4.0,24,8,0,39,4,1,0,0,0,0,1,9.75,0,0,0,0,0,0,8,0,8,32,True,True,False,Right-arm fast-medium,Right-hand bat
+Madhya Pradesh,Zafar Ali,87b455da,1,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,37,True,False,False,,Right-hand bat
+Madhya Pradesh,Ashutosh Singh,5c766d24,2,8,10,1,0,80.0,"[9, 11, 13]",3.0,18,7,0,12,0,0,1,0,0,0,0,4.0,1,0,0,0,0,12,38,8,58,31,True,True,False,Right-arm offbreak,Right-hand bat
+Madhya Pradesh,NV Ojha,890946a0,3,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,41,True,False,False,,Right-hand bat
+Madhya Pradesh,Harpreet Singh,28c78fb3,4,63,49,4,1,128.57,"[8, 12]",2.0,12,2,0,12,0,0,0,0,0,0,1,6.0,0,0,0,0,0,93,4,0,97,33,True,False,False,Right-arm medium,Left-hand bat
+Madhya Pradesh,Parth Sahani,239f7526,5,5,17,0,0,29.41,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,1,0,-6,-1,0,40,39,32,True,False,True,Slow left-arm orthodox,Left-hand bat
+Madhya Pradesh,Sohraab Dhaliwal,564714f5,6,8,6,0,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,33,True,True,False,Slow left-arm orthodox,Right-hand bat
+Madhya Pradesh,VR Iyer,a24be938,7,44,24,1,5,183.33,"[5, 7, 17]",3.0,18,11,1,9,0,0,0,0,0,0,2,3.0,1,0,0,0,6,88,29,8,125,30,True,False,True,Right-arm medium,Left-hand bat
+Madhya Pradesh,IC Pandey,e0407c01,7,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,11,0,27,3,1,2,0,0,0,0,6.75,0,0,0,0,0,0,63,0,63,35,True,False,False,Right-arm medium,Right-hand bat
+Madhya Pradesh,Ashwin Das,872113ff,8,0,0,0,0,0.0,"[2, 4, 6, 19]",4.0,24,7,0,48,5,3,2,0,1,0,0,12.0,0,0,0,0,0,0,61,0,61,29,True,False,False,Right-arm medium,Right-hand bat
+Madhya Pradesh,Mihir Hirwani,49bacd0f,9,0,0,0,0,0.0,"[10, 15]",2.0,12,3,0,22,2,1,0,0,0,0,0,11.0,0,0,0,0,0,0,1,0,1,30,True,True,False,Legbreak googly,Right-hand bat
+Madhya Pradesh,Ayan Khan,44d6a8b8,10,0,0,0,0,0.0,"[14, 16]",2.0,12,5,0,7,0,0,1,0,0,0,0,3.5,0,0,0,0,0,0,36,0,36,32,True,False,True,Slow left-arm orthodox,Left-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-England,JJ Roy,d1c36f5c,1,20,15,4,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,38,0,8,46
-England,JC Buttler,99b75528,2,26,15,3,1,173.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,54,0,0,54
-England,MM Ali,bb351c23,3,37,26,3,2,142.31,"[1, 3, 5, 7]",4.0,24,8,0,27,3,0,1,0,1,0,2,6.75,0,0,0,0,2,67,43,0,110
-England,JM Bairstow,abb83e27,4,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-England,DJ Malan,ad9c32a2,5,33,26,3,1,126.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,55,0,0,55
-England,LS Livingstone,50c6bc2b,6,28,17,1,3,164.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,58,0,0,58
-England,EJG Morgan,d2a6c0e6,7,17,11,3,0,154.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,33,0,0,33
-England,CR Woakes,4c5d73db,8,7,3,0,1,233.33,"[2, 4, 6, 16]",4.0,24,8,0,43,2,4,0,0,0,0,0,10.75,0,0,0,0,0,13,6,0,19
-England,CJ Jordan,ffe699c0,9,0,1,0,0,0.0,"[9, 15, 18, 20]",4.0,24,4,0,36,2,2,0,0,0,0,0,9.0,0,0,0,0,0,-2,4,0,2
-England,AU Rashid,249d60c9,10,2,2,0,0,100.0,"[8, 10, 12, 14]",4.0,24,4,0,32,2,1,1,0,0,0,0,8.0,0,0,0,0,0,2,29,0,31
-England,MA Wood,8d92a2c3,11,1,1,0,0,100.0,"[11, 13, 17, 19]",4.0,24,3,0,47,2,3,0,0,0,0,1,11.75,0,0,0,0,0,1,-1,0,0
-South Africa,RR Hendricks,b8cc58c9,1,2,8,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-South Africa,Q de Kock,372455c4,2,34,27,4,0,125.93,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,54,0,0,54
-South Africa,HE van der Dussen,9948e262,3,94,60,5,6,156.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,166,0,0,166
-South Africa,AK Markram,6a26221c,4,52,25,2,4,208.0,"[8, 12]",2.0,12,4,0,18,1,1,0,0,0,0,2,9.0,0,0,0,0,6,98,4,0,102
-South Africa,T Bavuma,9ffd1ac1,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-South Africa,DA Miller,d67d5f00,12,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0,0,28,28
-South Africa,D Pretorius,11614d87,13,0,0,0,0,0.0,"[15, 17, 19]",3.0,18,7,0,30,2,2,2,0,0,1,0,10.0,0,0,0,0,0,0,55,0,55
-South Africa,K Rabada,e62dd25d,14,0,0,0,0,0.0,"[4, 10, 16, 20]",4.0,24,6,0,48,5,3,3,0,0,0,0,12.0,1,0,0,0,0,0,81,8,89
-South Africa,KA Maharaj,0b60eb09,15,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,6,0,23,3,0,0,0,0,1,1,7.67,1,0,0,0,0,0,6,8,14
-South Africa,A Nortje,acdc62f5,16,0,0,0,0,0.0,"[2, 6, 14, 18]",4.0,24,11,0,34,5,1,1,0,0,0,0,8.5,1,0,0,0,0,0,36,8,44
-South Africa,T Shamsi,a03bba42,17,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,13,0,24,1,1,2,1,0,0,0,6.0,0,0,0,0,0,0,73,0,73
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+England,JJ Roy,d1c36f5c,1,20,15,4,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,38,0,8,46,34,True,False,False,,Right-hand bat
+England,JC Buttler,99b75528,2,26,15,3,1,173.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,54,0,0,54,34,True,False,False,,Right-hand bat
+England,MM Ali,bb351c23,3,37,26,3,2,142.31,"[1, 3, 5, 7]",4.0,24,8,0,27,3,0,1,0,1,0,2,6.75,0,0,0,0,2,67,43,0,110,37,True,False,True,Right-arm offbreak,Left-hand bat
+England,JM Bairstow,abb83e27,4,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,35,True,True,False,Right-arm medium,Right-hand bat
+England,DJ Malan,ad9c32a2,5,33,26,3,1,126.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,55,0,0,55,37,True,False,False,Legbreak,Left-hand bat
+England,LS Livingstone,50c6bc2b,6,28,17,1,3,164.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,58,0,0,58,31,True,False,True,Legbreak,Right-hand bat
+England,EJG Morgan,d2a6c0e6,7,17,11,3,0,154.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,33,0,0,33,38,True,False,False,Right-arm medium,Left-hand bat
+England,CR Woakes,4c5d73db,8,7,3,0,1,233.33,"[2, 4, 6, 16]",4.0,24,8,0,43,2,4,0,0,0,0,0,10.75,0,0,0,0,0,13,6,0,19,36,True,False,True,Right-arm fast-medium,Right-hand bat
+England,CJ Jordan,ffe699c0,9,0,1,0,0,0.0,"[9, 15, 18, 20]",4.0,24,4,0,36,2,2,0,0,0,0,0,9.0,0,0,0,0,0,-2,4,0,2,36,True,False,False,Right-arm fast-medium,Right-hand bat
+England,AU Rashid,249d60c9,10,2,2,0,0,100.0,"[8, 10, 12, 14]",4.0,24,4,0,32,2,1,1,0,0,0,0,8.0,0,0,0,0,0,2,29,0,31,37,True,False,False,Legbreak,Right-hand bat
+England,MA Wood,8d92a2c3,11,1,1,0,0,100.0,"[11, 13, 17, 19]",4.0,24,3,0,47,2,3,0,0,0,0,1,11.75,0,0,0,0,0,1,-1,0,0,35,True,False,False,Right-arm fast,Right-hand bat
+South Africa,RR Hendricks,b8cc58c9,1,2,8,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,35,True,False,False,Right-arm offbreak,Right-hand bat
+South Africa,Q de Kock,372455c4,2,34,27,4,0,125.93,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,54,0,0,54,32,True,False,False,,Left-hand bat
+South Africa,HE van der Dussen,9948e262,3,94,60,5,6,156.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,166,0,0,166,36,True,False,False,Legbreak,Right-hand bat
+South Africa,AK Markram,6a26221c,4,52,25,2,4,208.0,"[8, 12]",2.0,12,4,0,18,1,1,0,0,0,0,2,9.0,0,0,0,0,6,98,4,0,102,30,True,False,True,Right-arm offbreak,Right-hand bat
+South Africa,T Bavuma,9ffd1ac1,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,34,True,False,False,Right-arm medium,Right-hand bat
+South Africa,DA Miller,d67d5f00,12,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0,0,28,28,35,True,False,False,Right-arm offbreak,Left-hand bat
+South Africa,D Pretorius,11614d87,13,0,0,0,0,0.0,"[15, 17, 19]",3.0,18,7,0,30,2,2,2,0,0,1,0,10.0,0,0,0,0,0,0,55,0,55,36,True,False,True,Right-arm medium-fast,Right-hand bat
+South Africa,K Rabada,e62dd25d,14,0,0,0,0,0.0,"[4, 10, 16, 20]",4.0,24,6,0,48,5,3,3,0,0,0,0,12.0,1,0,0,0,0,0,81,8,89,29,True,False,False,Right-arm fast,Left-hand bat
+South Africa,KA Maharaj,0b60eb09,15,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,6,0,23,3,0,0,0,0,1,1,7.67,1,0,0,0,0,0,6,8,14,35,True,False,False,Slow left-arm orthodox,Right-hand bat
+South Africa,A Nortje,acdc62f5,16,0,0,0,0,0.0,"[2, 6, 14, 18]",4.0,24,11,0,34,5,1,1,0,0,0,0,8.5,1,0,0,0,0,0,36,8,44,31,True,False,False,Right-arm fast,Right-hand bat
+South Africa,T Shamsi,a03bba42,17,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,13,0,24,1,1,2,1,0,0,0,6.0,0,0,0,0,0,0,73,0,73,35,True,False,False,Left-arm wrist-spin,Right-hand bat

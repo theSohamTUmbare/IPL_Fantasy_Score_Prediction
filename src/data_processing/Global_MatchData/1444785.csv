@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Boland,C Fortuin,f25cebec,1,50,35,3,3,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,90,0,8,98
-Boland,G Roelofsen,ac688e55,2,26,22,1,1,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,40,0,0,40
-Boland,G Kaplan,a5c3d564,3,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
-Boland,A Mgijima,955e8e86,4,40,30,1,2,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,62,0,8,70
-Boland,L Botha,60285d55,5,18,18,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
-Boland,S von Berg,ffd3fc37,6,6,5,0,0,120.0,"[7, 9, 11]",3.0,18,3,0,23,0,1,0,0,0,0,0,7.67,0,0,0,0,0,6,3,0,9
-Boland,KJ Dudgeon,b8828a1b,7,18,5,2,1,360.0,"[1, 3, 6, 17]",4.0,24,10,0,27,3,0,1,0,0,0,2,6.75,0,0,0,0,0,32,37,0,69
-Boland,A Gqamane,a83c44b8,8,1,1,0,0,100.0,"[13, 16, 18, 20]",3.833,23,7,0,36,3,2,3,0,1,0,0,9.39,1,0,0,0,0,1,94,8,103
-Boland,I Manack,5ec126fa,11,0,0,0,0,0.0,"[5, 10, 12]",3.0,18,7,0,17,1,0,0,0,0,0,0,5.67,0,0,0,0,0,0,11,0,11
-Boland,GA Stuurman,d4d37c31,12,0,0,0,0,0.0,"[2, 4, 15, 19]",4.0,24,11,0,33,3,2,5,1,4,0,1,8.25,0,0,0,0,0,0,188,0,188
-Boland,Siyabonga Mahima,1062bebb,13,0,0,0,0,0.0,"[8, 14]",2.0,12,2,0,17,2,0,0,0,0,0,0,8.5,0,0,1,0,0,0,2,12,14
-Warriors,J Hermann,e87aeca2,1,19,15,2,1,126.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33
-Warriors,JP King,9b384e28,2,1,4,0,0,25.0,[12],1.0,6,0,0,12,0,1,0,0,0,0,0,12.0,0,0,0,0,0,1,0,0,1
-Warriors,B Swanepoel,6e0a2209,3,15,9,3,0,166.67,"[1, 3, 6, 20]",4.0,24,7,0,51,5,3,0,0,0,0,1,12.75,1,0,0,0,0,27,1,8,36
-Warriors,J du Plessis,3f98fad7,4,34,31,1,0,109.68,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,42,0,12,54
-Warriors,S Qeshile,94268960,5,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
-Warriors,J Pillay,230f5cea,6,17,15,0,1,113.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
-Warriors,PE Kruger,39181592,7,51,28,5,3,182.14,"[5, 16, 18]",3.0,18,3,0,31,1,1,1,0,0,1,3,10.33,1,0,0,0,6,103,26,8,137
-Warriors,A Mokgakane,3b9f3af4,8,9,8,1,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
-Warriors,L Alder,919c1174,9,0,1,0,0,0.0,"[7, 9, 11, 13]",4.0,24,6,0,24,0,0,2,0,2,0,0,6.0,0,0,0,0,0,-2,74,0,72
-Warriors,S Simetu,d3cc2954,10,0,1,0,0,0.0,"[2, 8, 10, 14]",4.0,24,7,0,19,0,0,1,0,0,0,1,4.75,0,0,0,0,0,-2,38,0,36
-Warriors,SA Mothoa,ea1eba98,11,0,0,0,0,0.0,"[4, 15, 17, 19]",4.0,24,9,0,34,1,2,1,0,0,0,3,8.5,0,0,0,0,0,0,34,0,34
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Boland,C Fortuin,f25cebec,1,50,35,3,3,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,90,0,8,98,29,True,False,False,,Right-hand bat
+Boland,G Roelofsen,ac688e55,2,26,22,1,1,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,40,0,0,40,28,True,False,False,,Right-hand bat
+Boland,G Kaplan,a5c3d564,3,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,27,True,True,False,Right-arm offbreak,Right-hand bat
+Boland,A Mgijima,955e8e86,4,40,30,1,2,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,62,0,8,70,36,True,False,True,Right-arm offbreak,Right-hand bat
+Boland,L Botha,60285d55,5,18,18,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,23,True,True,False,Right-arm medium,Right-hand bat
+Boland,S von Berg,ffd3fc37,6,6,5,0,0,120.0,"[7, 9, 11]",3.0,18,3,0,23,0,1,0,0,0,0,0,7.67,0,0,0,0,0,6,3,0,9,38,True,False,True,Legbreak,Right-hand bat
+Boland,KJ Dudgeon,b8828a1b,7,18,5,2,1,360.0,"[1, 3, 6, 17]",4.0,24,10,0,27,3,0,1,0,0,0,2,6.75,0,0,0,0,0,32,37,0,69,29,True,True,False,Right-arm fast-medium,Right-hand bat
+Boland,A Gqamane,a83c44b8,8,1,1,0,0,100.0,"[13, 16, 18, 20]",3.833,23,7,0,36,3,2,3,0,1,0,0,9.39,1,0,0,0,0,1,94,8,103,35,True,False,True,Right-arm fast-medium,Right-hand bat
+Boland,I Manack,5ec126fa,11,0,0,0,0,0.0,"[5, 10, 12]",3.0,18,7,0,17,1,0,0,0,0,0,0,5.67,0,0,0,0,0,0,11,0,11,33,True,False,False,Right-arm offbreak,Right-hand bat
+Boland,GA Stuurman,d4d37c31,12,0,0,0,0,0.0,"[2, 4, 15, 19]",4.0,24,11,0,33,3,2,5,1,4,0,1,8.25,0,0,0,0,0,0,188,0,188,32,True,False,False,Right-arm fast-medium,Right-hand bat
+Boland,Siyabonga Mahima,1062bebb,13,0,0,0,0,0.0,"[8, 14]",2.0,12,2,0,17,2,0,0,0,0,0,0,8.5,0,0,1,0,0,0,2,12,14,28,True,True,False,Slow left-arm orthodox,Left-hand bat
+Warriors,J Hermann,e87aeca2,1,19,15,2,1,126.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33,23,True,False,False,,Left-hand bat
+Warriors,JP King,9b384e28,2,1,4,0,0,25.0,[12],1.0,6,0,0,12,0,1,0,0,0,0,0,12.0,0,0,0,0,0,1,0,0,1,0,True,False,True,Right-arm offbreak,Right-hand bat
+Warriors,B Swanepoel,6e0a2209,3,15,9,3,0,166.67,"[1, 3, 6, 20]",4.0,24,7,0,51,5,3,0,0,0,0,1,12.75,1,0,0,0,0,27,1,8,36,26,True,False,True,Right-arm fast,Left-hand bat
+Warriors,J du Plessis,3f98fad7,4,34,31,1,0,109.68,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,42,0,12,54,26,True,False,False,Right-arm medium,Right-hand bat
+Warriors,S Qeshile,94268960,5,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,26,True,False,False,,Right-hand bat
+Warriors,J Pillay,230f5cea,6,17,15,0,1,113.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23,26,True,False,False,,Left-hand bat
+Warriors,PE Kruger,39181592,7,51,28,5,3,182.14,"[5, 16, 18]",3.0,18,3,0,31,1,1,1,0,0,1,3,10.33,1,0,0,0,6,103,26,8,137,30,True,False,True,Right-arm medium,Right-hand bat
+Warriors,A Mokgakane,3b9f3af4,8,9,8,1,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21,25,True,False,False,Right-arm medium,Right-hand bat
+Warriors,L Alder,919c1174,9,0,1,0,0,0.0,"[7, 9, 11, 13]",4.0,24,6,0,24,0,0,2,0,2,0,0,6.0,0,0,0,0,0,-2,74,0,72,21,True,False,False,Slow left-arm orthodox,Right-hand bat
+Warriors,S Simetu,d3cc2954,10,0,1,0,0,0.0,"[2, 8, 10, 14]",4.0,24,7,0,19,0,0,1,0,0,0,1,4.75,0,0,0,0,0,-2,38,0,36,33,True,True,False,Slow left-arm orthodox,Right-hand bat
+Warriors,SA Mothoa,ea1eba98,11,0,0,0,0,0.0,"[4, 15, 17, 19]",4.0,24,9,0,34,1,2,1,0,0,0,3,8.5,0,0,0,0,0,0,34,0,34,35,True,False,False,Right-arm fast-medium,Right-hand bat

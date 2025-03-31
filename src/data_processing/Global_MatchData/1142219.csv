@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Bahrain,Fiaz Ahmed,df1f2f29,1,14,7,2,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,22,0,8,30
-Bahrain,Shahbaz Badar,23eedcd3,2,11,17,1,0,64.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,13,0,0,13
-Bahrain,P Kurup,50ceaef6,3,43,41,5,0,104.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,67,0,0,67
-Bahrain,Mohammed Sameer,e6409ae1,4,18,24,1,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
-Bahrain,Imran Anwar,a9a18e3e,5,14,6,0,2,233.33,"[7, 9, 15, 17]",4.0,24,7,0,31,2,1,2,1,0,0,2,7.75,1,0,0,0,0,26,65,8,99
-Bahrain,Sikder Billah,aa76333b,6,0,1,0,0,0.0,"[11, 13, 18, 20]",4.0,24,7,0,47,3,3,2,0,0,0,3,11.75,0,0,0,0,0,-2,53,0,51
-Bahrain,Yasser Nazir,ccceaca9,7,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Bahrain,Numan Yousuf,33b48084,8,3,3,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,3,0,16,19
-Bahrain,Waseeq Ahmed,a7d6c101,9,4,6,0,0,66.67,"[6, 8, 10, 12]",4.0,24,7,0,20,0,0,0,0,0,0,0,5.0,0,0,0,0,0,4,11,0,15
-Bahrain,Zeeshan Abbas,328cca93,10,5,6,0,0,83.33,"[2, 4, 14, 16]",4.0,24,10,0,17,0,0,1,0,0,0,0,4.25,0,0,0,0,0,5,41,0,46
-Bahrain,Mohamed Iqbal Noor,87ead66e,11,4,4,0,0,100.0,"[1, 3, 5, 19]",4.0,24,11,0,38,5,2,1,0,1,0,0,9.5,0,0,0,0,0,4,44,0,48
-Kuwait,Muhammad Kashif,e7458e4b,1,0,2,0,0,0.0,[3],1.0,6,2,0,9,1,0,0,0,0,0,0,9.0,1,0,0,0,0,-2,2,8,8
-Kuwait,Usman Waheed,910584a7,2,25,27,3,0,92.59,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,41,0,8,49
-Kuwait,Mohammed Asghar,eeb035e2,3,11,17,1,0,64.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,13,0,0,13
-Kuwait,A Makesh,9001b45c,4,26,31,1,0,83.87,"[11, 13, 15, 17]",4.0,24,12,0,21,0,1,4,0,1,0,0,5.25,0,0,0,0,0,34,132,0,166
-Kuwait,Ali Zaheer,04ed04d2,5,26,22,0,1,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,36,0,0,36
-Kuwait,Yasar Idrees,c98d4a41,6,15,9,3,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,27,0,8,35
-Kuwait,R Sandaruwan,cf6acc0d,7,34,9,1,4,377.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,66,0,0,66
-Kuwait,Sajid Manzil,b053725f,8,11,3,1,1,366.67,"[1, 10, 16, 19]",4.0,24,10,0,30,3,0,1,0,0,3,1,7.5,0,0,0,0,0,21,35,0,56
-Kuwait,Abdul Sadiq,365df3f9,11,0,0,0,0,0.0,"[6, 8, 12, 14]",4.0,24,8,0,31,2,1,1,0,0,0,2,7.75,2,0,0,0,0,0,33,16,49
-Kuwait,Fiaz Ahmad,aaf124ab,12,0,0,0,0,0.0,"[2, 4, 18, 20]",3.667,22,10,0,25,2,0,2,1,1,0,2,6.82,0,0,0,0,0,0,78,0,78
-Kuwait,Azmatullah Nazeer,3307fd38,13,0,0,0,0,0.0,"[5, 7, 9]",3.0,18,13,0,10,1,0,1,0,0,0,1,3.33,1,0,0,0,0,0,44,8,52
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bahrain,Fiaz Ahmed,df1f2f29,1,14,7,2,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,22,0,8,30,37,True,False,False,,Right-hand bat
+Bahrain,Shahbaz Badar,23eedcd3,2,11,17,1,0,64.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,13,0,0,13,33,True,False,False,,Right-hand bat
+Bahrain,P Kurup,50ceaef6,3,43,41,5,0,104.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,67,0,0,67,37,True,False,False,,Right-hand bat
+Bahrain,Mohammed Sameer,e6409ae1,4,18,24,1,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,30,True,True,False,Right-arm medium,Right-hand bat
+Bahrain,Imran Anwar,a9a18e3e,5,14,6,0,2,233.33,"[7, 9, 15, 17]",4.0,24,7,0,31,2,1,2,1,0,0,2,7.75,1,0,0,0,0,26,65,8,99,35,True,False,True,Left-arm medium,Right-hand bat
+Bahrain,Sikder Billah,aa76333b,6,0,1,0,0,0.0,"[11, 13, 18, 20]",4.0,24,7,0,47,3,3,2,0,0,0,3,11.75,0,0,0,0,0,-2,53,0,51,37,True,True,False,Right-arm medium,Right-hand bat
+Bahrain,Yasser Nazir,ccceaca9,7,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,34,True,False,False,,Right-hand bat
+Bahrain,Numan Yousuf,33b48084,8,3,3,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,3,0,16,19,33,True,True,False,Right-arm medium,Right-hand bat
+Bahrain,Waseeq Ahmed,a7d6c101,9,4,6,0,0,66.67,"[6, 8, 10, 12]",4.0,24,7,0,20,0,0,0,0,0,0,0,5.0,0,0,0,0,0,4,11,0,15,38,True,True,False,Slow left-arm orthodox,Left-hand bat
+Bahrain,Zeeshan Abbas,328cca93,10,5,6,0,0,83.33,"[2, 4, 14, 16]",4.0,24,10,0,17,0,0,1,0,0,0,0,4.25,0,0,0,0,0,5,41,0,46,29,True,True,False,Slow left-arm orthodox,Right-hand bat
+Bahrain,Mohamed Iqbal Noor,87ead66e,11,4,4,0,0,100.0,"[1, 3, 5, 19]",4.0,24,11,0,38,5,2,1,0,1,0,0,9.5,0,0,0,0,0,4,44,0,48,38,True,True,False,Right-arm medium,Right-hand bat
+Kuwait,Muhammad Kashif,e7458e4b,1,0,2,0,0,0.0,[3],1.0,6,2,0,9,1,0,0,0,0,0,0,9.0,1,0,0,0,0,-2,2,8,8,37,True,True,False,Right-arm offbreak,Right-hand bat
+Kuwait,Usman Waheed,910584a7,2,25,27,3,0,92.59,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,41,0,8,49,37,True,False,False,,Left-hand bat
+Kuwait,Mohammed Asghar,eeb035e2,3,11,17,1,0,64.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,13,0,0,13,44,True,True,False,Right-arm offbreak,Right-hand bat
+Kuwait,A Makesh,9001b45c,4,26,31,1,0,83.87,"[11, 13, 15, 17]",4.0,24,12,0,21,0,1,4,0,1,0,0,5.25,0,0,0,0,0,34,132,0,166,33,True,True,False,Legbreak googly,Right-hand bat
+Kuwait,Ali Zaheer,04ed04d2,5,26,22,0,1,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,36,0,0,36,31,True,True,False,Legbreak googly,Left-hand bat
+Kuwait,Yasar Idrees,c98d4a41,6,15,9,3,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,27,0,8,35,37,True,True,False,Right-arm medium-fast,Right-hand bat
+Kuwait,R Sandaruwan,cf6acc0d,7,34,9,1,4,377.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,66,0,0,66,32,True,False,False,Right-arm offbreak,Right-hand bat
+Kuwait,Sajid Manzil,b053725f,8,11,3,1,1,366.67,"[1, 10, 16, 19]",4.0,24,10,0,30,3,0,1,0,0,3,1,7.5,0,0,0,0,0,21,35,0,56,40,True,True,False,Left-arm medium-fast,Left-hand bat
+Kuwait,Abdul Sadiq,365df3f9,11,0,0,0,0,0.0,"[6, 8, 12, 14]",4.0,24,8,0,31,2,1,1,0,0,0,2,7.75,2,0,0,0,0,0,33,16,49,22,True,True,False,Legbreak,Right-hand bat
+Kuwait,Fiaz Ahmad,aaf124ab,12,0,0,0,0,0.0,"[2, 4, 18, 20]",3.667,22,10,0,25,2,0,2,1,1,0,2,6.82,0,0,0,0,0,0,78,0,78,39,True,True,False,Right-arm medium,Right-hand bat
+Kuwait,Azmatullah Nazeer,3307fd38,13,0,0,0,0,0.0,"[5, 7, 9]",3.0,18,13,0,10,1,0,1,0,0,0,1,3.33,1,0,0,0,0,0,44,8,52,51,True,True,False,Slow left-arm orthodox,Left-hand bat

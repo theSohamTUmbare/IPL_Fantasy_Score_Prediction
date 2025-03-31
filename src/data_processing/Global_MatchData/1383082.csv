@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Germany,MJ Richardson,22176fe7,1,5,9,0,0,55.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
-Germany,J van Heerden,01549705,2,19,19,3,0,100.0,"[10, 12, 14, 16]",4.0,24,6,0,41,2,1,2,0,0,1,6,10.25,0,0,0,0,0,31,54,0,85
-Germany,Muslim Yar,37d8d19a,3,14,11,1,0,127.27,"[4, 6, 11, 15]",4.0,24,7,0,31,4,0,0,0,0,0,1,7.75,0,0,0,0,0,18,7,0,25
-Germany,Sahir Naqash,352e589f,4,0,1,0,0,0.0,"[5, 7, 17, 20]",4.0,24,7,0,37,5,0,3,0,0,0,2,9.25,1,0,0,0,0,-2,86,8,92
-Germany,Faisal Mubashir,ad5342dc,5,57,50,8,0,114.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,97,0,8,105
-Germany,H Singh,8209da53,6,15,13,0,1,115.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
-Germany,DA Blignaut,cfcf189f,7,1,2,0,0,50.0,[9],1.0,6,0,0,17,0,2,0,0,0,0,0,17.0,0,0,0,0,0,1,0,0,1
-Germany,D Klein,aeab0d4f,8,2,4,0,0,50.0,"[1, 3, 13, 19]",4.0,24,10,0,27,3,0,0,0,0,0,1,6.75,1,0,0,0,0,2,12,8,22
-Germany,V Ganesan,baa7dd37,9,11,10,1,0,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,15,0,8,23
-Germany,SVE Bharathi,6a63c29c,10,0,0,0,0,0.0,[8],1.0,6,3,0,13,0,2,0,0,0,0,0,13.0,1,0,0,0,0,0,3,8,11
-Germany,Ghulam Ahmadi,2dfe0612,10,0,1,0,0,0.0,"[2, 18]",2.0,12,5,0,22,5,0,1,0,0,0,0,11.0,0,0,0,0,0,0,28,0,28
-Jersey,H Carlyon,42bf1b7d,1,9,15,1,0,60.0,"[2, 12]",2.0,12,2,0,17,2,0,0,0,0,0,3,8.5,1,0,0,0,-2,11,2,8,21
-Jersey,NA Greenwood,7ca68967,2,86,56,10,1,153.57,"[10, 14, 18]",3.0,18,7,0,12,0,0,0,0,0,0,1,4.0,0,0,0,0,4,148,13,0,161
-Jersey,JW Jenner,32a8161e,3,46,23,5,3,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,94,0,0,94
-Jersey,C Brennan,80f9fd4f,4,16,12,0,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,24,0,0,24
-Jersey,AM Tribe,86f84b37,5,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Jersey,B Ward,9e0bd203,6,6,4,1,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
-Jersey,J Sumerauer,0b581ed6,7,13,7,2,0,185.71,"[3, 5, 7, 15]",4.0,24,10,0,22,3,0,4,0,1,0,0,5.5,2,0,0,0,0,21,130,16,167
-Jersey,JAD Lawrenson,c810b349,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
-Jersey,DG Blampied,d8976cb7,11,0,0,0,0,0.0,"[8, 16, 20]",3.0,18,6,0,31,5,0,1,0,0,1,0,10.33,1,0,0,0,0,0,29,8,37
-Jersey,CW Perchard,9f998ed8,12,0,0,0,0,0.0,"[4, 9, 13, 19]",4.0,24,10,0,29,2,1,2,0,0,0,1,7.25,1,0,0,0,0,0,60,8,68
-Jersey,EJB Miles,6b46ce43,13,0,0,0,0,0.0,"[1, 6, 11, 17]",4.0,24,11,0,19,1,0,1,0,0,0,0,4.75,0,0,0,0,0,0,42,0,42
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Germany,MJ Richardson,22176fe7,1,5,9,0,0,55.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,38,True,False,False,,Right-hand bat
+Germany,J van Heerden,01549705,2,19,19,3,0,100.0,"[10, 12, 14, 16]",4.0,24,6,0,41,2,1,2,0,0,1,6,10.25,0,0,0,0,0,31,54,0,85,26,True,False,False,,Right-hand bat
+Germany,Muslim Yar,37d8d19a,3,14,11,1,0,127.27,"[4, 6, 11, 15]",4.0,24,7,0,31,4,0,0,0,0,0,1,7.75,0,0,0,0,0,18,7,0,25,25,True,True,False,Slow left-arm orthodox,Right-hand bat
+Germany,Sahir Naqash,352e589f,4,0,1,0,0,0.0,"[5, 7, 17, 20]",4.0,24,7,0,37,5,0,3,0,0,0,2,9.25,1,0,0,0,0,-2,86,8,92,34,True,True,False,Right-arm medium,Right-hand bat
+Germany,Faisal Mubashir,ad5342dc,5,57,50,8,0,114.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,97,0,8,105,38,True,True,False,Right-arm offbreak,Right-hand bat
+Germany,H Singh,8209da53,6,15,13,0,1,115.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21,31,True,True,False,Right-arm medium,Right-hand bat
+Germany,DA Blignaut,cfcf189f,7,1,2,0,0,50.0,[9],1.0,6,0,0,17,0,2,0,0,0,0,0,17.0,0,0,0,0,0,1,0,0,1,29,True,True,False,Right-arm medium,Right-hand bat
+Germany,D Klein,aeab0d4f,8,2,4,0,0,50.0,"[1, 3, 13, 19]",4.0,24,10,0,27,3,0,0,0,0,0,1,6.75,1,0,0,0,0,2,12,8,22,36,True,True,False,Left-arm medium-fast,Right-hand bat
+Germany,V Ganesan,baa7dd37,9,11,10,1,0,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,15,0,8,23,39,True,True,False,Right-arm offbreak,Left-hand bat
+Germany,SVE Bharathi,6a63c29c,10,0,0,0,0,0.0,[8],1.0,6,3,0,13,0,2,0,0,0,0,0,13.0,1,0,0,0,0,0,3,8,11,31,True,True,False,Slow left-arm orthodox,Right-hand bat
+Germany,Ghulam Ahmadi,2dfe0612,10,0,1,0,0,0.0,"[2, 18]",2.0,12,5,0,22,5,0,1,0,0,0,0,11.0,0,0,0,0,0,0,28,0,28,27,True,True,False,Right-arm offbreak,Right-hand bat
+Jersey,H Carlyon,42bf1b7d,1,9,15,1,0,60.0,"[2, 12]",2.0,12,2,0,17,2,0,0,0,0,0,3,8.5,1,0,0,0,-2,11,2,8,21,24,True,True,False,Right-arm offbreak,Right-hand bat
+Jersey,NA Greenwood,7ca68967,2,86,56,10,1,153.57,"[10, 14, 18]",3.0,18,7,0,12,0,0,0,0,0,0,1,4.0,0,0,0,0,4,148,13,0,161,25,True,False,False,,Right-hand bat
+Jersey,JW Jenner,32a8161e,3,46,23,5,3,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,94,0,0,94,27,True,True,False,Right-arm offbreak,Right-hand bat
+Jersey,C Brennan,80f9fd4f,4,16,12,0,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,24,0,0,24,19,True,True,False,Right-arm medium-fast,Right-hand bat
+Jersey,AM Tribe,86f84b37,5,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,21,True,False,False,Right-arm offbreak,Right-hand bat
+Jersey,B Ward,9e0bd203,6,6,4,1,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,26,True,True,False,Legbreak,Right-hand bat
+Jersey,J Sumerauer,0b581ed6,7,13,7,2,0,185.71,"[3, 5, 7, 15]",4.0,24,10,0,22,3,0,4,0,1,0,0,5.5,2,0,0,0,0,21,130,16,167,24,True,True,False,Right-arm fast-medium,Right-hand bat
+Jersey,JAD Lawrenson,c810b349,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,22,True,True,False,Right-arm offbreak,Right-hand bat
+Jersey,DG Blampied,d8976cb7,11,0,0,0,0,0.0,"[8, 16, 20]",3.0,18,6,0,31,5,0,1,0,0,1,0,10.33,1,0,0,0,0,0,29,8,37,28,True,True,False,Legbreak,Right-hand bat
+Jersey,CW Perchard,9f998ed8,12,0,0,0,0,0.0,"[4, 9, 13, 19]",4.0,24,10,0,29,2,1,2,0,0,0,1,7.25,1,0,0,0,0,0,60,8,68,32,True,True,False,Right-arm medium,Right-hand bat
+Jersey,EJB Miles,6b46ce43,13,0,0,0,0,0.0,"[1, 6, 11, 17]",4.0,24,11,0,19,1,0,1,0,0,0,0,4.75,0,0,0,0,0,0,42,0,42,27,True,True,False,Slow left-arm orthodox,Right-hand bat

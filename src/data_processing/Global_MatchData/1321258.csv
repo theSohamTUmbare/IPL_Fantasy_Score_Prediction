@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Cyprus,Muhammad Shoaib Ahmed,2a13e6b1,1,25,23,4,0,108.7,"[2, 4, 6]",3.0,18,6,0,21,1,0,0,0,0,0,3,7.0,0,0,0,0,0,45,8,0,53
-Cyprus,AUKDS Kalugala,e2d1822f,2,6,5,0,1,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
-Cyprus,CPPM Sadun,2cf2fc9e,3,22,17,3,1,129.41,"[9, 11]",2.0,12,6,0,12,0,1,1,0,0,0,0,6.0,0,0,0,0,0,40,33,0,73
-Cyprus,Gurpratap Singh,49235be5,4,10,13,0,1,76.92,"[5, 7]",2.0,12,4,0,23,1,1,0,0,0,2,1,11.5,0,0,0,0,0,16,0,0,16
-Cyprus,S Austin,40ee633c,5,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12
-Cyprus,R Mazumder,b23d3ec5,6,9,9,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
-Cyprus,NK Tiwari,97f44626,7,18,24,1,1,75.0,"[8, 10]",2.0,12,2,0,16,0,0,0,0,0,0,0,8.0,0,0,0,0,0,28,2,0,30
-Cyprus,Tejwinder Singh,ad37baac,8,0,1,0,0,0.0,"[1, 3, 13]",3.0,18,7,0,23,0,1,1,0,0,1,2,7.67,1,0,0,0,0,-2,32,8,38
-Cyprus,SN Pathirana,f4000a7d,9,7,6,0,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,7,0,0,7
-Cyprus,SRMJJ Arachchilage,c9473a95,10,6,10,0,0,60.0,"[12, 14]",2.0,12,7,0,13,1,0,0,0,0,1,2,6.5,0,0,0,0,-2,4,9,0,13
-Cyprus,Riyaz Kajalwala,9bfb8edc,11,0,3,0,0,0.0,[15],0.5,3,0,0,14,2,1,0,0,0,0,0,28.0,0,0,0,0,0,0,0,0,0
-Isle of Man,A McAuley,39e599c8,1,28,29,0,1,96.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,38,0,6,44
-Isle of Man,N Knights,b0aadf4f,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Isle of Man,G Burrows,8bee668b,3,69,44,4,3,156.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,115,0,8,123
-Isle of Man,MJ Ansell,6e60a792,4,0,0,0,0,0.0,"[2, 4, 20]",2.333,14,6,0,20,3,0,0,0,0,0,1,8.57,0,0,0,0,0,0,6,0,6
-Isle of Man,C Hartmann,467c28f9,4,13,13,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,17,0,6,23
-Isle of Man,EF Beard,68019a70,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Isle of Man,JA Burrows,dba54d8e,6,0,0,0,0,0.0,"[7, 9, 17, 19]",4.0,24,14,0,16,0,1,4,0,1,0,0,4.0,2,0,0,0,0,0,136,16,152
-Isle of Man,CJ Langford,3967b66f,7,0,0,0,0,0.0,"[1, 3, 5, 15]",4.0,24,15,0,27,2,2,2,0,1,0,2,6.75,0,0,0,0,0,0,75,0,75
-Isle of Man,K Cawte,a2dd9236,8,0,0,0,0,0.0,"[16, 18]",2.0,12,6,0,7,0,0,1,0,1,0,1,3.5,0,0,0,0,0,0,45,0,45
-Isle of Man,J Butler,efcb778e,9,0,0,0,0,0.0,"[6, 11, 13]",3.0,18,9,0,27,3,1,1,0,0,0,3,9.0,1,0,0,0,0,0,34,8,42
-Isle of Man,D Jansen,c90346a0,10,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,10,0,21,1,0,1,0,0,0,4,5.25,0,0,0,0,0,0,39,0,39
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Cyprus,Muhammad Shoaib Ahmed,2a13e6b1,1,25,23,4,0,108.7,"[2, 4, 6]",3.0,18,6,0,21,1,0,0,0,0,0,3,7.0,0,0,0,0,0,45,8,0,53,44,True,False,True,Right-arm medium,Right-hand bat
+Cyprus,AUKDS Kalugala,e2d1822f,2,6,5,0,1,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,30,True,True,False,Right-arm offbreak,Left-hand bat
+Cyprus,CPPM Sadun,2cf2fc9e,3,22,17,3,1,129.41,"[9, 11]",2.0,12,6,0,12,0,1,1,0,0,0,0,6.0,0,0,0,0,0,40,33,0,73,34,True,True,False,Right-arm medium-fast,Left-hand bat
+Cyprus,Gurpratap Singh,49235be5,4,10,13,0,1,76.92,"[5, 7]",2.0,12,4,0,23,1,1,0,0,0,2,1,11.5,0,0,0,0,0,16,0,0,16,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Cyprus,S Austin,40ee633c,5,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12,27,True,True,False,Right-arm medium-fast,Right-hand bat
+Cyprus,R Mazumder,b23d3ec5,6,9,9,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,31,True,True,False,Right-arm offbreak,Right-hand bat
+Cyprus,NK Tiwari,97f44626,7,18,24,1,1,75.0,"[8, 10]",2.0,12,2,0,16,0,0,0,0,0,0,0,8.0,0,0,0,0,0,28,2,0,30,31,True,True,False,Right-arm offbreak,Right-hand bat
+Cyprus,Tejwinder Singh,ad37baac,8,0,1,0,0,0.0,"[1, 3, 13]",3.0,18,7,0,23,0,1,1,0,0,1,2,7.67,1,0,0,0,0,-2,32,8,38,33,True,False,True,Right-arm medium-fast,Right-hand bat
+Cyprus,SN Pathirana,f4000a7d,9,7,6,0,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,7,0,0,7,41,True,True,False,Right-arm medium,Right-hand bat
+Cyprus,SRMJJ Arachchilage,c9473a95,10,6,10,0,0,60.0,"[12, 14]",2.0,12,7,0,13,1,0,0,0,0,1,2,6.5,0,0,0,0,-2,4,9,0,13,44,True,False,False,Right-arm offbreak,Right-hand bat
+Cyprus,Riyaz Kajalwala,9bfb8edc,11,0,3,0,0,0.0,[15],0.5,3,0,0,14,2,1,0,0,0,0,0,28.0,0,0,0,0,0,0,0,0,0,43,True,True,False,Slow left-arm orthodox,Right-hand bat
+Isle of Man,A McAuley,39e599c8,1,28,29,0,1,96.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,38,0,6,44,29,True,False,False,,Right-hand bat
+Isle of Man,N Knights,b0aadf4f,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,27,True,False,False,,Right-hand bat
+Isle of Man,G Burrows,8bee668b,3,69,44,4,3,156.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,115,0,8,123,25,True,False,False,,Right-hand bat
+Isle of Man,MJ Ansell,6e60a792,4,0,0,0,0,0.0,"[2, 4, 20]",2.333,14,6,0,20,3,0,0,0,0,0,1,8.57,0,0,0,0,0,0,6,0,6,30,True,False,False,Slow left-arm orthodox,Right-hand bat
+Isle of Man,C Hartmann,467c28f9,4,13,13,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,17,0,6,23,20,True,False,False,,Right-hand bat
+Isle of Man,EF Beard,68019a70,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,24,True,False,False,,Right-hand bat
+Isle of Man,JA Burrows,dba54d8e,6,0,0,0,0,0.0,"[7, 9, 17, 19]",4.0,24,14,0,16,0,1,4,0,1,0,0,4.0,2,0,0,0,0,0,136,16,152,28,True,False,False,Slow left-arm orthodox,Left-hand bat
+Isle of Man,CJ Langford,3967b66f,7,0,0,0,0,0.0,"[1, 3, 5, 15]",4.0,24,15,0,27,2,2,2,0,1,0,2,6.75,0,0,0,0,0,0,75,0,75,37,True,True,False,Left-arm fast-medium,Left-hand bat
+Isle of Man,K Cawte,a2dd9236,8,0,0,0,0,0.0,"[16, 18]",2.0,12,6,0,7,0,0,1,0,1,0,1,3.5,0,0,0,0,0,0,45,0,45,25,True,False,False,,
+Isle of Man,J Butler,efcb778e,9,0,0,0,0,0.0,"[6, 11, 13]",3.0,18,9,0,27,3,1,1,0,0,0,3,9.0,1,0,0,0,0,0,34,8,42,28,True,True,False,Right-arm medium,Right-hand bat
+Isle of Man,D Jansen,c90346a0,10,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,10,0,21,1,0,1,0,0,0,4,5.25,0,0,0,0,0,0,39,0,39,19,True,True,False,Left-arm medium,Left-hand bat

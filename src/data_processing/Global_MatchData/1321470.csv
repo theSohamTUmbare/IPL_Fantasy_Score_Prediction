@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Singapore,R Rohan,baf0fc26,1,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
-Singapore,S Chandramohan,2a6ccc1c,2,5,8,1,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17
-Singapore,Aman Desai,c10fd8f9,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Singapore,Manpreet Singh,e9d6a2ce,4,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Singapore,A Mutreja,a2ec22d2,5,7,8,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19
-Singapore,Janak Prakash,f092b4c7,6,13,13,2,0,100.0,"[4, 16, 18, 20]",4.0,24,2,0,31,3,0,0,0,0,0,0,7.75,3,0,0,0,0,21,2,28,51
-Singapore,U Aryaman Sunil,13bc54a8,7,12,12,3,0,100.0,"[2, 8, 10]",3.0,18,4,0,39,4,2,0,0,0,0,1,13.0,0,0,0,0,0,24,-2,0,22
-Singapore,V Baskaran,dd5a9067,8,4,11,0,0,36.36,"[6, 13, 15]",3.0,18,6,0,23,1,1,1,0,0,0,1,7.67,0,0,0,0,-6,-2,31,0,29
-Singapore,A Krishna,13598ebc,9,21,22,2,0,95.45,"[12, 14]",2.0,12,2,0,18,2,0,0,0,0,0,0,9.0,0,0,0,0,0,29,2,0,31
-Singapore,Amjad Mahboob,48f25627,10,2,3,0,0,66.67,"[1, 3, 17, 19]",4.0,24,5,0,54,3,4,3,0,1,0,3,13.5,0,0,0,0,0,2,86,0,88
-Singapore,AR Puri,1f490b28,11,1,5,0,0,20.0,"[5, 7, 9, 11]",4.0,24,8,0,31,2,1,2,0,0,0,0,7.75,0,0,0,0,0,1,58,0,59
-United States of America,SR Taylor,a9231c3f,1,58,31,7,2,187.1,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,112,0,0,112
-United States of America,MD Patel,25d7f1ac,2,39,22,3,2,177.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,73,0,8,81
-United States of America,Aaron Jones,17aa4f1d,3,10,10,1,0,100.0,"[14, 16]",1.333,8,4,0,8,1,0,1,1,0,0,0,6.0,0,0,0,0,0,14,37,0,51
-United States of America,JS Malhotra,9633359f,4,58,33,2,4,175.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,104,0,8,112
-United States of America,G Singh,e93b6c95,5,10,11,1,0,90.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,14,0,8,22
-United States of America,MO Kain,60b46ad1,6,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
-United States of America,SJ Modani,290cba17,7,11,6,1,0,183.33,[12],1.0,6,4,0,2,0,0,1,0,0,0,0,2.0,1,0,0,0,0,15,29,8,52
-United States of America,NK Patel,c6e10e5c,8,2,3,0,0,66.67,"[8, 10, 15]",3.0,18,9,0,12,1,0,2,0,0,0,0,4.0,1,0,0,0,0,2,65,8,75
-United States of America,SN Netravalkar,c8a3f688,11,0,0,0,0,0.0,"[2, 4, 6, 13]",4.0,24,19,1,12,2,0,5,0,1,0,0,3.0,1,0,0,0,0,0,182,8,190
-United States of America,CAH Stevenson,7239b60d,12,0,0,0,0,0.0,"[5, 7, 9]",3.0,18,13,0,15,3,0,1,0,0,0,1,5.0,1,0,0,0,0,0,42,8,50
-United States of America,J Theron,dec8e038,13,0,0,0,0,0.0,"[1, 3, 11]",3.0,18,7,0,20,2,0,0,0,0,0,0,6.67,1,0,0,0,0,0,9,8,17
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Singapore,R Rohan,baf0fc26,1,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,25,True,False,False,Right-arm offbreak,Right-hand bat
+Singapore,S Chandramohan,2a6ccc1c,2,5,8,1,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17,36,True,False,False,,Right-hand bat
+Singapore,Aman Desai,c10fd8f9,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,23,True,False,False,,Left-hand bat
+Singapore,Manpreet Singh,e9d6a2ce,4,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,40,True,False,False,,Right-hand bat
+Singapore,A Mutreja,a2ec22d2,5,7,8,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19,34,True,True,False,Right-arm offbreak,Right-hand bat
+Singapore,Janak Prakash,f092b4c7,6,13,13,2,0,100.0,"[4, 16, 18, 20]",4.0,24,2,0,31,3,0,0,0,0,0,0,7.75,3,0,0,0,0,21,2,28,51,24,True,False,True,Right-arm medium,Right-hand bat
+Singapore,U Aryaman Sunil,13bc54a8,7,12,12,3,0,100.0,"[2, 8, 10]",3.0,18,4,0,39,4,2,0,0,0,0,1,13.0,0,0,0,0,0,24,-2,0,22,24,True,False,True,Right-arm medium-fast,Right-hand bat
+Singapore,V Baskaran,dd5a9067,8,4,11,0,0,36.36,"[6, 13, 15]",3.0,18,6,0,23,1,1,1,0,0,0,1,7.67,0,0,0,0,-6,-2,31,0,29,34,True,False,False,Slow left-arm orthodox,Left-hand bat
+Singapore,A Krishna,13598ebc,9,21,22,2,0,95.45,"[12, 14]",2.0,12,2,0,18,2,0,0,0,0,0,0,9.0,0,0,0,0,0,29,2,0,31,34,True,True,False,Legbreak googly,Right-hand bat
+Singapore,Amjad Mahboob,48f25627,10,2,3,0,0,66.67,"[1, 3, 17, 19]",4.0,24,5,0,54,3,4,3,0,1,0,3,13.5,0,0,0,0,0,2,86,0,88,44,True,False,False,Right-arm medium,Right-hand bat
+Singapore,AR Puri,1f490b28,11,1,5,0,0,20.0,"[5, 7, 9, 11]",4.0,24,8,0,31,2,1,2,0,0,0,0,7.75,0,0,0,0,0,1,58,0,59,21,True,False,False,Right-arm offbreak,Right-hand bat
+United States of America,SR Taylor,a9231c3f,1,58,31,7,2,187.1,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,112,0,0,112,31,True,False,False,Right-arm offbreak,Left-hand bat
+United States of America,MD Patel,25d7f1ac,2,39,22,3,2,177.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,73,0,8,81,31,True,False,False,,Right-hand bat
+United States of America,Aaron Jones,17aa4f1d,3,10,10,1,0,100.0,"[14, 16]",1.333,8,4,0,8,1,0,1,1,0,0,0,6.0,0,0,0,0,0,14,37,0,51,30,True,False,False,Legbreak googly,Right-hand bat
+United States of America,JS Malhotra,9633359f,4,58,33,2,4,175.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,104,0,8,112,35,True,True,False,Legbreak googly,Right-hand bat
+United States of America,G Singh,e93b6c95,5,10,11,1,0,90.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,14,0,8,22,37,True,True,False,Right-arm offbreak,Left-hand bat
+United States of America,MO Kain,60b46ad1,6,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,36,True,True,False,Slow left-arm orthodox,Left-hand bat
+United States of America,SJ Modani,290cba17,7,11,6,1,0,183.33,[12],1.0,6,4,0,2,0,0,1,0,0,0,0,2.0,1,0,0,0,0,15,29,8,52,36,True,False,False,Right-arm offbreak,Right-hand bat
+United States of America,NK Patel,c6e10e5c,8,2,3,0,0,66.67,"[8, 10, 15]",3.0,18,9,0,12,1,0,2,0,0,0,0,4.0,1,0,0,0,0,2,65,8,75,38,True,False,True,Right-arm medium,Right-hand bat
+United States of America,SN Netravalkar,c8a3f688,11,0,0,0,0,0.0,"[2, 4, 6, 13]",4.0,24,19,1,12,2,0,5,0,1,0,0,3.0,1,0,0,0,0,0,182,8,190,33,True,False,False,Left-arm fast-medium,Right-hand bat
+United States of America,CAH Stevenson,7239b60d,12,0,0,0,0,0.0,"[5, 7, 9]",3.0,18,13,0,15,3,0,1,0,0,0,1,5.0,1,0,0,0,0,0,42,8,50,32,True,False,True,Right-arm fast-medium,Right-hand bat
+United States of America,J Theron,dec8e038,13,0,0,0,0,0.0,"[1, 3, 11]",3.0,18,7,0,20,2,0,0,0,0,0,0,6.67,1,0,0,0,0,0,9,8,17,39,True,False,False,Right-arm medium-fast,Right-hand bat

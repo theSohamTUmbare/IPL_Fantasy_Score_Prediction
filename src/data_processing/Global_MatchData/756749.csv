@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Sydney Sixers,NJ Maddinson,44afbf2d,1,12,10,0,1,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26
-Sydney Sixers,MJ Lumb,11df3dc8,2,27,20,4,1,135.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,55,0,0,55
-Sydney Sixers,MH Wessels,90f47cf2,3,50,33,5,2,151.52,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,94,0,0,94
-Sydney Sixers,MC Henriques,32198ae0,4,18,16,0,1,112.5,"[11, 13]",2.0,12,5,0,9,0,0,0,0,0,0,0,4.5,0,0,0,0,0,24,11,0,35
-Sydney Sixers,JC Silk,7a6dc294,5,23,19,2,0,121.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31
-Sydney Sixers,DE Bollinger,45c2196c,6,0,0,0,0,0.0,"[3, 8, 14, 16]",4.0,24,4,0,45,5,2,0,0,0,0,0,11.25,0,0,0,0,0,0,0,0,0
-Sydney Sixers,RGL Carters,f54c8804,6,21,15,1,1,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,2,33,0,6,39
-Sydney Sixers,SA Abbott,1a2676c5,7,2,3,0,0,66.67,"[5, 10, 12, 17]",4.0,24,7,0,28,3,0,2,0,0,0,0,7.0,0,0,0,0,0,2,59,0,61
-Sydney Sixers,B Lee,dd09ff8e,7,0,0,0,0,0.0,"[1, 6, 18, 20]",4.0,24,10,0,28,1,1,1,0,0,0,5,7.0,1,0,0,1,0,0,37,14,51
-Sydney Sixers,MA Starc,3fb19989,8,3,3,0,0,100.0,"[2, 4, 15, 19]",4.0,24,9,0,36,3,1,1,0,1,0,2,9.0,0,0,0,0,0,3,42,0,45
-Sydney Sixers,LA Doran,f201593c,9,1,1,0,0,100.0,"[7, 9]",2.0,12,3,0,14,0,1,0,0,0,0,0,7.0,1,0,0,0,0,1,5,8,14
-Sydney Thunder,MEK Hussey,48fd7349,1,17,18,2,0,94.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
-Sydney Thunder,JH Kallis,86dc8f2e,2,3,6,0,0,50.0,"[3, 7, 13, 17]",4.0,24,7,0,38,4,1,0,0,0,0,0,9.5,0,0,0,0,0,3,7,0,10
-Sydney Thunder,AB McDonald,16043342,3,18,20,2,0,90.0,[9],1.0,6,2,0,7,1,0,0,0,0,0,1,7.0,1,0,0,0,0,26,2,8,36
-Sydney Thunder,AC Blizzard,1efb8a28,4,80,42,6,4,190.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,146,0,0,146
-Sydney Thunder,EJG Morgan,d2a6c0e6,5,6,11,0,0,54.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,2,0,0,2
-Sydney Thunder,CD Hartley,9a06679d,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Sydney Thunder,DP Hughes,f3982af9,6,29,23,2,1,126.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,47,0,8,55
-Sydney Thunder,PJ Cummins,ded9240e,7,0,0,0,0,0.0,"[2, 5, 15, 19]",4.0,24,7,0,23,2,0,1,0,0,0,1,5.75,1,0,0,0,0,0,36,8,44
-Sydney Thunder,GS Sandhu,1558d83b,8,0,0,0,0,0.0,"[1, 8, 18, 20]",4.0,24,6,0,28,1,1,2,0,2,0,2,7.0,2,0,0,0,0,0,74,16,90
-Sydney Thunder,NM Hauritz,8ea6e670,9,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,5,0,35,1,2,2,0,0,0,0,8.75,0,0,0,0,0,0,55,0,55
-Sydney Thunder,DP Nannes,c404f58a,10,0,0,0,0,0.0,"[4, 6, 11]",3.0,18,6,0,32,3,2,2,0,0,0,2,10.67,0,0,0,0,0,0,54,0,54
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Sydney Sixers,NJ Maddinson,44afbf2d,1,12,10,0,1,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26,33,True,False,False,Slow left-arm orthodox,Left-hand bat
+Sydney Sixers,MJ Lumb,11df3dc8,2,27,20,4,1,135.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,55,0,0,55,45,True,False,False,Right-arm medium,Left-hand bat
+Sydney Sixers,MH Wessels,90f47cf2,3,50,33,5,2,151.52,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,94,0,0,94,39,True,False,False,,Right-hand bat
+Sydney Sixers,MC Henriques,32198ae0,4,18,16,0,1,112.5,"[11, 13]",2.0,12,5,0,9,0,0,0,0,0,0,0,4.5,0,0,0,0,0,24,11,0,35,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Sydney Sixers,JC Silk,7a6dc294,5,23,19,2,0,121.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31,32,True,False,False,,Right-hand bat
+Sydney Sixers,DE Bollinger,45c2196c,6,0,0,0,0,0.0,"[3, 8, 14, 16]",4.0,24,4,0,45,5,2,0,0,0,0,0,11.25,0,0,0,0,0,0,0,0,0,43,True,False,False,Left-arm fast-medium,Left-hand bat
+Sydney Sixers,RGL Carters,f54c8804,6,21,15,1,1,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,2,33,0,6,39,34,True,False,False,,Right-hand bat
+Sydney Sixers,SA Abbott,1a2676c5,7,2,3,0,0,66.67,"[5, 10, 12, 17]",4.0,24,7,0,28,3,0,2,0,0,0,0,7.0,0,0,0,0,0,2,59,0,61,33,True,False,True,Right-arm fast-medium,Right-hand bat
+Sydney Sixers,B Lee,dd09ff8e,7,0,0,0,0,0.0,"[1, 6, 18, 20]",4.0,24,10,0,28,1,1,1,0,0,0,5,7.0,1,0,0,1,0,0,37,14,51,48,True,False,False,Right-arm fast,Right-hand bat
+Sydney Sixers,MA Starc,3fb19989,8,3,3,0,0,100.0,"[2, 4, 15, 19]",4.0,24,9,0,36,3,1,1,0,1,0,2,9.0,0,0,0,0,0,3,42,0,45,35,True,False,False,Left-arm fast,Left-hand bat
+Sydney Sixers,LA Doran,f201593c,9,1,1,0,0,100.0,"[7, 9]",2.0,12,3,0,14,0,1,0,0,0,0,0,7.0,1,0,0,0,0,1,5,8,14,33,True,True,False,Slow left-arm orthodox,Right-hand bat
+Sydney Thunder,MEK Hussey,48fd7349,1,17,18,2,0,94.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,49,True,False,False,Right-arm medium,Left-hand bat
+Sydney Thunder,JH Kallis,86dc8f2e,2,3,6,0,0,50.0,"[3, 7, 13, 17]",4.0,24,7,0,38,4,1,0,0,0,0,0,9.5,0,0,0,0,0,3,7,0,10,49,True,False,True,Right-arm fast-medium,Right-hand bat
+Sydney Thunder,AB McDonald,16043342,3,18,20,2,0,90.0,[9],1.0,6,2,0,7,1,0,0,0,0,0,1,7.0,1,0,0,0,0,26,2,8,36,43,True,False,True,Right-arm fast-medium,Right-hand bat
+Sydney Thunder,AC Blizzard,1efb8a28,4,80,42,6,4,190.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,146,0,0,146,40,True,False,False,Left-arm medium,Left-hand bat
+Sydney Thunder,EJG Morgan,d2a6c0e6,5,6,11,0,0,54.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,2,0,0,2,38,True,False,False,Right-arm medium,Left-hand bat
+Sydney Thunder,CD Hartley,9a06679d,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,42,True,False,False,,Left-hand bat
+Sydney Thunder,DP Hughes,f3982af9,6,29,23,2,1,126.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,47,0,8,55,36,True,False,False,Right-arm medium,Left-hand bat
+Sydney Thunder,PJ Cummins,ded9240e,7,0,0,0,0,0.0,"[2, 5, 15, 19]",4.0,24,7,0,23,2,0,1,0,0,0,1,5.75,1,0,0,0,0,0,36,8,44,31,True,False,False,Right-arm fast,Right-hand bat
+Sydney Thunder,GS Sandhu,1558d83b,8,0,0,0,0,0.0,"[1, 8, 18, 20]",4.0,24,6,0,28,1,1,2,0,2,0,2,7.0,2,0,0,0,0,0,74,16,90,31,True,False,False,Right-arm fast-medium,Left-hand bat
+Sydney Thunder,NM Hauritz,8ea6e670,9,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,5,0,35,1,2,2,0,0,0,0,8.75,0,0,0,0,0,0,55,0,55,43,True,False,False,Right-arm offbreak,Right-hand bat
+Sydney Thunder,DP Nannes,c404f58a,10,0,0,0,0,0.0,"[4, 6, 11]",3.0,18,6,0,32,3,2,2,0,0,0,2,10.67,0,0,0,0,0,0,54,0,54,48,True,False,False,Left-arm fast,Right-hand bat

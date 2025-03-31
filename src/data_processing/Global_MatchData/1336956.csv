@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Indonesia,GA Priandana,2af0e3b1,1,32,20,5,1,160.0,"[4, 6]",2.0,12,2,0,22,2,1,0,0,0,0,0,11.0,0,0,0,0,4,66,0,0,66
-Indonesia,KC Ramamoorthy,a89c270b,2,13,7,2,0,185.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,21,0,8,29
-Indonesia,DJ Hawoe,a62f55ba,3,0,1,0,0,0.0,"[14, 16, 18, 20]",4.0,24,12,1,13,0,0,2,0,0,0,0,3.25,0,0,0,0,0,-2,80,0,78
-Indonesia,PR Surve,206efeb1,4,16,13,1,0,123.08,[2],1.0,6,3,0,8,0,1,0,0,0,0,0,8.0,0,0,1,0,0,20,3,12,35
-Indonesia,IK Gamantika,4d7c5b56,5,10,7,0,1,142.86,"[15, 17, 19]",3.0,18,11,0,7,0,0,1,0,0,0,0,2.33,2,0,0,0,0,16,42,16,74
-Indonesia,IKEG Artawan,190957d2,6,0,1,0,0,0.0,"[8, 10, 12]",3.0,18,8,0,21,1,1,0,0,0,0,1,7.0,1,0,0,0,0,-2,10,8,16
-Indonesia,Anjar Tadarus,72275237,7,6,5,1,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
-Indonesia,Ahmad Ramdoni,b5f30525,8,9,7,1,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
-Indonesia,F Banunaek,3c8faed4,9,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,13,0,19,0,1,2,0,0,0,0,4.75,1,0,0,0,0,0,69,8,77
-Indonesia,IW Budiarta,27320242,9,4,3,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
-Indonesia,RM Koda,f0a45427,10,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,12,0,7,0,0,0,0,0,0,0,2.33,0,0,0,0,0,0,18,0,18
-South Korea,Kim Daeyeon,4a51c045,1,24,25,2,0,96.0,"[4, 6]",2.0,12,5,0,20,1,1,0,0,0,0,0,10.0,0,0,0,0,0,32,3,0,35
-South Korea,Jun Hyunwoo,431f2dd4,2,19,21,0,2,90.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31
-South Korea,Alam Nakash,90830f8d,3,24,21,1,1,114.29,"[8, 10]",2.0,12,8,0,8,1,0,3,0,0,0,0,4.0,1,0,0,0,0,34,93,8,135
-South Korea,Aamir Lal,2472ad2c,4,0,2,0,0,0.0,"[3, 5, 7, 9]",4.0,24,7,0,35,4,0,4,0,0,0,3,8.75,0,0,0,0,0,-2,115,0,113
-South Korea,Asif Iqbal,ddcb8503,5,21,31,0,1,67.74,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,25,0,0,25
-South Korea,Mudassir Iqbal,63f306ac,6,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-South Korea,AN Hyobeom,8a00eec1,7,4,10,0,0,40.0,[2],1.0,6,1,0,21,2,1,0,0,0,0,5,21.0,1,0,0,0,-6,-2,1,8,7
-South Korea,Raja Shoaib,7b0ea09e,8,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,0,0,0,3,0,28,31
-South Korea,Sana Ullah,bc02b37a,9,0,0,0,0,0.0,"[1, 11]",1.667,10,6,0,15,3,0,0,0,0,0,1,9.0,1,0,0,0,0,0,6,8,14
-South Korea,Lee Kangmin,cd752e8a,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-South Korea,Soochan Park,3000c67e,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Indonesia,GA Priandana,2af0e3b1,1,32,20,5,1,160.0,"[4, 6]",2.0,12,2,0,22,2,1,0,0,0,0,0,11.0,0,0,0,0,4,66,0,0,66,27,True,False,False,,Right-hand bat
+Indonesia,KC Ramamoorthy,a89c270b,2,13,7,2,0,185.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,21,0,8,29,35,True,True,False,Right-arm offbreak,Right-hand bat
+Indonesia,DJ Hawoe,a62f55ba,3,0,1,0,0,0.0,"[14, 16, 18, 20]",4.0,24,12,1,13,0,0,2,0,0,0,0,3.25,0,0,0,0,0,-2,80,0,78,24,True,True,False,Right-arm medium,Right-hand bat
+Indonesia,PR Surve,206efeb1,4,16,13,1,0,123.08,[2],1.0,6,3,0,8,0,1,0,0,0,0,0,8.0,0,0,1,0,0,20,3,12,35,43,True,False,False,,Right-hand bat
+Indonesia,IK Gamantika,4d7c5b56,5,10,7,0,1,142.86,"[15, 17, 19]",3.0,18,11,0,7,0,0,1,0,0,0,0,2.33,2,0,0,0,0,16,42,16,74,30,True,False,False,,Right-hand bat
+Indonesia,IKEG Artawan,190957d2,6,0,1,0,0,0.0,"[8, 10, 12]",3.0,18,8,0,21,1,1,0,0,0,0,1,7.0,1,0,0,0,0,-2,10,8,16,24,True,False,False,,Right-hand bat
+Indonesia,Anjar Tadarus,72275237,7,6,5,1,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,40,True,True,False,Right-arm medium-fast,Right-hand bat
+Indonesia,Ahmad Ramdoni,b5f30525,8,9,7,1,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,40,True,False,False,,Right-hand bat
+Indonesia,F Banunaek,3c8faed4,9,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,13,0,19,0,1,2,0,0,0,0,4.75,1,0,0,0,0,0,69,8,77,23,True,True,False,Right-arm medium,Right-hand bat
+Indonesia,IW Budiarta,27320242,9,4,3,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,32,True,True,False,Right-arm medium,Right-hand bat
+Indonesia,RM Koda,f0a45427,10,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,12,0,7,0,0,0,0,0,0,0,2.33,0,0,0,0,0,0,18,0,18,30,True,True,False,Right-arm medium-fast,Right-hand bat
+South Korea,Kim Daeyeon,4a51c045,1,24,25,2,0,96.0,"[4, 6]",2.0,12,5,0,20,1,1,0,0,0,0,0,10.0,0,0,0,0,0,32,3,0,35,29,True,True,False,Legbreak,Right-hand bat
+South Korea,Jun Hyunwoo,431f2dd4,2,19,21,0,2,90.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31,36,True,True,False,Right-arm medium,Right-hand bat
+South Korea,Alam Nakash,90830f8d,3,24,21,1,1,114.29,"[8, 10]",2.0,12,8,0,8,1,0,3,0,0,0,0,4.0,1,0,0,0,0,34,93,8,135,35,True,True,False,Left-arm medium,Right-hand bat
+South Korea,Aamir Lal,2472ad2c,4,0,2,0,0,0.0,"[3, 5, 7, 9]",4.0,24,7,0,35,4,0,4,0,0,0,3,8.75,0,0,0,0,0,-2,115,0,113,34,True,True,False,Right-arm offbreak,Right-hand bat
+South Korea,Asif Iqbal,ddcb8503,5,21,31,0,1,67.74,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,25,0,0,25,43,True,True,False,Right-arm medium,Right-hand bat
+South Korea,Mudassir Iqbal,63f306ac,6,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,36,True,True,False,Right-arm medium,Right-hand bat
+South Korea,AN Hyobeom,8a00eec1,7,4,10,0,0,40.0,[2],1.0,6,1,0,21,2,1,0,0,0,0,5,21.0,1,0,0,0,-6,-2,1,8,7,31,True,True,False,Right-arm offbreak,Right-hand bat
+South Korea,Raja Shoaib,7b0ea09e,8,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,0,0,0,3,0,28,31,49,True,False,False,,Right-hand bat
+South Korea,Sana Ullah,bc02b37a,9,0,0,0,0,0.0,"[1, 11]",1.667,10,6,0,15,3,0,0,0,0,0,1,9.0,1,0,0,0,0,0,6,8,14,33,True,True,False,Left-arm medium,Right-hand bat
+South Korea,Lee Kangmin,cd752e8a,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,30,True,False,False,,Right-hand bat
+South Korea,Soochan Park,3000c67e,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,34,True,True,False,Left-arm slow,Left-hand bat

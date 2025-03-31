@@ -1,24 +1,24 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Gujarat,Aarya Desai,8053c798,1,44,30,2,4,146.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,82,0,0,82
-Gujarat,Urvil Patel,cf59b3f0,2,20,12,4,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,1,4,40,0,22,62
-Gujarat,UR Kumar,2fda74a2,3,31,27,1,2,114.81,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,51,0,0,51
-Gujarat,Chirag Gandhi,35eb75af,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Gujarat,Saurav Chauhan,9e7225b0,4,48,22,4,4,218.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,1,6,98,0,22,120
-Gujarat,AR Patel,2e171977,5,0,0,0,0,0.0,"[11, 13]",2.0,12,4,0,14,2,0,0,0,0,0,0,7.0,2,0,0,0,0,0,6,16,22
-Gujarat,PP Chawla,98ae73b1,6,0,0,0,0,0.0,"[10, 16, 18]",3.0,18,5,0,40,2,4,0,0,0,0,0,13.33,1,0,0,0,0,0,-1,8,7
-Gujarat,Chintan Gaja,63bfb5fc,7,0,0,0,0,0.0,"[1, 3, 5, 15]",4.0,24,15,0,27,4,1,1,0,0,0,0,6.75,0,0,0,0,0,0,42,0,42
-Gujarat,A Nagwaswalla,01ada0ed,8,0,0,0,0,0.0,"[2, 4, 6, 20]",4.0,24,18,2,13,2,0,6,0,0,0,1,3.25,1,0,0,0,0,0,210,8,218
-Gujarat,Ravi Bishnoi,df064e1a,9,0,0,0,0,0.0,"[8, 12, 14, 17]",4.0,24,14,0,13,1,0,2,0,0,0,0,3.25,0,0,0,0,0,0,70,0,70
-Gujarat,SN Patel,f0f0f668,10,0,0,0,0,0.0,"[7, 9, 19]",3.0,18,6,0,41,6,2,0,0,0,0,0,13.67,1,0,0,0,0,0,0,8,8
-Railways,Shivam Chaudhary,e53af640,1,4,5,1,0,80.0,"[7, 11]",2.0,12,3,0,18,0,2,0,0,0,0,0,9.0,0,0,0,0,0,8,3,0,11
-Railways,Pratham Singh,f9f21866,2,5,8,1,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
-Railways,N Kushwah,87b9786b,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Railways,Mohammad Saif,2843d331,4,0,4,0,0,0.0,[16],0.167,1,0,0,4,1,0,0,0,0,0,0,23.95,0,0,0,0,0,-2,0,0,-2
-Railways,RA Sharma,691d15fb,4,0,0,0,0,0.0,"[4, 6, 13]",3.0,18,8,0,17,2,0,1,0,0,0,0,5.67,0,0,0,0,0,0,37,0,37
-Railways,Upendra Yadav,80ffea17,5,64,47,7,3,136.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,120,0,8,128
-Railways,Vivek Singh,a446c7be,6,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Railways,Ashutosh Sharma,84d9c311,7,10,6,2,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
-Railways,AR Pandey,dd73b2ff,8,33,26,3,2,126.92,"[2, 5, 15]",3.0,18,6,0,28,3,0,0,0,0,0,6,9.33,0,0,0,0,0,61,6,0,67
-Railways,KV Sharma,119678fd,9,29,14,3,2,207.14,"[8, 10, 12]",3.0,18,6,0,27,0,3,1,0,0,0,0,9.0,0,0,0,0,6,63,31,0,94
-Railways,Yuvraj Singh,30829ea2,10,0,1,0,0,0.0,"[1, 3]",2.0,12,8,0,13,3,0,0,0,0,0,0,6.5,0,0,0,0,0,-2,10,0,8
-Railways,Akash Pandey,f691e227,11,1,1,0,0,100.0,"[9, 14]",2.0,12,1,0,42,2,5,0,0,0,0,0,21.0,0,0,0,0,0,1,-5,0,-4
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Gujarat,Aarya Desai,8053c798,1,44,30,2,4,146.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,82,0,0,82,21,True,False,False,Right-arm offbreak,Left-hand bat
+Gujarat,Urvil Patel,cf59b3f0,2,20,12,4,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,1,4,40,0,22,62,26,True,False,False,,Right-hand bat
+Gujarat,UR Kumar,2fda74a2,3,31,27,1,2,114.81,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,51,0,0,51,24,True,True,False,Right-arm offbreak,Right-hand bat
+Gujarat,Chirag Gandhi,35eb75af,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,34,True,False,False,Right-arm offbreak,Right-hand bat
+Gujarat,Saurav Chauhan,9e7225b0,4,48,22,4,4,218.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,1,6,98,0,22,120,24,True,False,False,Right-arm offbreak,Left-hand bat
+Gujarat,AR Patel,2e171977,5,0,0,0,0,0.0,"[11, 13]",2.0,12,4,0,14,2,0,0,0,0,0,0,7.0,2,0,0,0,0,0,6,16,22,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Gujarat,PP Chawla,98ae73b1,6,0,0,0,0,0.0,"[10, 16, 18]",3.0,18,5,0,40,2,4,0,0,0,0,0,13.33,1,0,0,0,0,0,-1,8,7,36,True,False,True,Legbreak,Left-hand bat
+Gujarat,Chintan Gaja,63bfb5fc,7,0,0,0,0,0.0,"[1, 3, 5, 15]",4.0,24,15,0,27,4,1,1,0,0,0,0,6.75,0,0,0,0,0,0,42,0,42,30,True,False,False,Right-arm medium,Right-hand bat
+Gujarat,A Nagwaswalla,01ada0ed,8,0,0,0,0,0.0,"[2, 4, 6, 20]",4.0,24,18,2,13,2,0,6,0,0,0,1,3.25,1,0,0,0,0,0,210,8,218,27,True,False,False,Left-arm medium,Right-hand bat
+Gujarat,Ravi Bishnoi,df064e1a,9,0,0,0,0,0.0,"[8, 12, 14, 17]",4.0,24,14,0,13,1,0,2,0,0,0,0,3.25,0,0,0,0,0,0,70,0,70,24,True,False,False,Legbreak googly,Right-hand bat
+Gujarat,SN Patel,f0f0f668,10,0,0,0,0,0.0,"[7, 9, 19]",3.0,18,6,0,41,6,2,0,0,0,0,0,13.67,1,0,0,0,0,0,0,8,8,21,True,True,False,Right-arm medium,Right-hand bat
+Railways,Shivam Chaudhary,e53af640,1,4,5,1,0,80.0,"[7, 11]",2.0,12,3,0,18,0,2,0,0,0,0,0,9.0,0,0,0,0,0,8,3,0,11,27,True,True,False,Right-arm offbreak,Right-hand bat
+Railways,Pratham Singh,f9f21866,2,5,8,1,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,32,True,False,False,Right-arm offbreak,Left-hand bat
+Railways,N Kushwah,87b9786b,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,30,True,True,False,Right-arm offbreak,Left-hand bat
+Railways,Mohammad Saif,2843d331,4,0,4,0,0,0.0,[16],0.167,1,0,0,4,1,0,0,0,0,0,0,23.95,0,0,0,0,0,-2,0,0,-2,28,True,True,False,Slow left-arm orthodox,Left-hand bat
+Railways,RA Sharma,691d15fb,4,0,0,0,0,0.0,"[4, 6, 13]",3.0,18,8,0,17,2,0,1,0,0,0,0,5.67,0,0,0,0,0,0,37,0,37,34,True,True,False,Left-arm medium,Left-hand bat
+Railways,Upendra Yadav,80ffea17,5,64,47,7,3,136.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,120,0,8,128,28,True,True,False,Right-arm offbreak,Right-hand bat
+Railways,Vivek Singh,a446c7be,6,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,31,True,False,False,Right-arm medium,Left-hand bat
+Railways,Ashutosh Sharma,84d9c311,7,10,6,2,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,26,True,False,True,,Right-hand bat
+Railways,AR Pandey,dd73b2ff,8,33,26,3,2,126.92,"[2, 5, 15]",3.0,18,6,0,28,3,0,0,0,0,0,6,9.33,0,0,0,0,0,61,6,0,67,32,True,True,False,Right-arm medium,Left-hand bat
+Railways,KV Sharma,119678fd,9,29,14,3,2,207.14,"[8, 10, 12]",3.0,18,6,0,27,0,3,1,0,0,0,0,9.0,0,0,0,0,6,63,31,0,94,37,True,False,False,Legbreak googly,Left-hand bat
+Railways,Yuvraj Singh,30829ea2,10,0,1,0,0,0.0,"[1, 3]",2.0,12,8,0,13,3,0,0,0,0,0,0,6.5,0,0,0,0,0,-2,10,0,8,26,True,False,True,Right-arm medium-fast,Right-hand bat
+Railways,Akash Pandey,f691e227,11,1,1,0,0,100.0,"[9, 14]",2.0,12,1,0,42,2,5,0,0,0,0,0,21.0,0,0,0,0,0,1,-5,0,-4,26,True,True,False,Slow left-arm orthodox,Left-hand bat

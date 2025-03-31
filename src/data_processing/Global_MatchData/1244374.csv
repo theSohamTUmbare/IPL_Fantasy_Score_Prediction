@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Services,Lakhan Singh,ad72e8cc,1,66,48,8,1,137.5,[16],1.0,6,1,0,14,1,1,0,0,0,0,0,14.0,0,0,0,0,2,114,1,0,115
-Services,NK Singh,78359d28,2,20,26,1,0,76.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,24,0,8,32
-Services,Rahul Singh,adf454e9,3,55,24,5,3,229.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,107,0,8,115
-Services,Rajat Paliwal,2fcb040c,4,6,6,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6
-Services,Diwesh Pathania,a63563c0,4,0,0,0,0,0.0,"[1, 4, 6, 19]",4.0,24,10,1,25,4,0,0,0,0,0,0,6.25,1,0,0,0,0,0,24,8,32
-Services,Nitin Yadav,ed3fdd1a,5,0,0,0,0,0.0,"[2, 5, 15, 17]",4.0,24,12,0,29,0,3,2,0,0,0,1,7.25,0,0,0,0,0,0,62,0,62
-Services,Varun Choudhary,134bead2,6,0,0,0,0,0.0,"[3, 12, 18, 20]",4.0,24,8,0,31,5,0,3,1,2,0,0,7.75,0,0,0,0,0,0,111,0,111
-Services,Vikas Yadav,fa73f373,7,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,7,0,26,3,0,1,0,0,0,0,6.5,0,0,0,0,0,0,34,0,34
-Services,Nitin Tanwar,7cc7fe19,8,0,0,0,0,0.0,"[8, 10, 14]",3.0,18,8,0,21,2,1,1,0,0,0,0,7.0,1,0,0,0,0,0,35,8,43
-Services,Aanshul Gupta,71ee052e,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Services,Nakul Verma,38c0d699,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Vidarbha,Siddhesh Wath,5786f224,1,29,31,5,0,93.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,53,0,8,61
-Vidarbha,JM Sharma,800d2d97,2,12,8,1,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
-Vidarbha,YV Rathod,5e941faa,3,36,31,4,1,116.13,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,62,0,0,62
-Vidarbha,AS Thakare,aa7176ba,4,0,0,0,0,0.0,"[2, 5, 15, 17]",4.0,24,6,0,32,1,2,1,0,0,0,0,8.0,0,0,0,0,0,0,31,0,31
-Vidarbha,Akshay Wadkar,c88c8a7d,4,10,9,1,0,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
-Vidarbha,MR Raut,af7f15f3,5,20,16,2,1,125.0,"[12, 14]",2.0,12,1,0,25,4,0,0,0,0,0,1,12.5,0,0,0,0,0,34,-5,0,29
-Vidarbha,Akshay Wakhare,ec9fc54b,5,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,8,0,28,3,0,1,0,0,0,0,7.0,1,0,0,0,0,0,35,8,43
-Vidarbha,AV Wankhade,5708d0b6,6,26,14,1,2,185.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,52,0,0,52
-Vidarbha,Akshay Karnewar,e1e7f950,7,4,3,1,0,133.33,"[8, 10]",2.0,12,2,0,20,2,1,0,0,0,0,0,10.0,0,0,0,0,0,8,0,0,8
-Vidarbha,DG Nalkande,cd8d2859,8,7,6,0,0,116.67,"[1, 3, 16]",3.0,18,5,0,30,2,1,0,0,0,2,1,10.0,0,0,0,0,0,7,3,0,10
-Vidarbha,Yash Thakur,4b31f3a3,9,1,2,0,0,50.0,"[4, 6, 18]",2.333,14,4,0,16,2,0,0,0,0,0,0,6.86,0,0,0,0,0,1,6,0,7
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Services,Lakhan Singh,ad72e8cc,1,66,48,8,1,137.5,[16],1.0,6,1,0,14,1,1,0,0,0,0,0,14.0,0,0,0,0,2,114,1,0,115,26,True,True,False,Right-arm medium,Right-hand bat
+Services,NK Singh,78359d28,2,20,26,1,0,76.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,24,0,8,32,30,True,True,False,Right-arm offbreak,Left-hand bat
+Services,Rahul Singh,adf454e9,3,55,24,5,3,229.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,107,0,8,115,29,True,True,False,Right-arm medium,Left-hand bat
+Services,Rajat Paliwal,2fcb040c,4,6,6,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6,33,True,False,False,Right-arm offbreak,Right-hand bat
+Services,Diwesh Pathania,a63563c0,4,0,0,0,0,0.0,"[1, 4, 6, 19]",4.0,24,10,1,25,4,0,0,0,0,0,0,6.25,1,0,0,0,0,0,24,8,32,35,True,True,False,Right-arm medium,Right-hand bat
+Services,Nitin Yadav,ed3fdd1a,5,0,0,0,0,0.0,"[2, 5, 15, 17]",4.0,24,12,0,29,0,3,2,0,0,0,1,7.25,0,0,0,0,0,0,62,0,62,32,True,True,False,Right-arm medium,Right-hand bat
+Services,Varun Choudhary,134bead2,6,0,0,0,0,0.0,"[3, 12, 18, 20]",4.0,24,8,0,31,5,0,3,1,2,0,0,7.75,0,0,0,0,0,0,111,0,111,31,True,True,False,Right-arm medium-fast,Right-hand bat
+Services,Vikas Yadav,fa73f373,7,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,7,0,26,3,0,1,0,0,0,0,6.5,0,0,0,0,0,0,34,0,34,28,True,True,False,Slow left-arm orthodox,Right-hand bat
+Services,Nitin Tanwar,7cc7fe19,8,0,0,0,0,0.0,"[8, 10, 14]",3.0,18,8,0,21,2,1,1,0,0,0,0,7.0,1,0,0,0,0,0,35,8,43,28,True,True,False,Right-arm offbreak,Right-hand bat
+Services,Aanshul Gupta,71ee052e,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,35,True,True,False,Right-arm offbreak,Right-hand bat
+Services,Nakul Verma,38c0d699,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,33,True,True,False,Legbreak googly,Right-hand bat
+Vidarbha,Siddhesh Wath,5786f224,1,29,31,5,0,93.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,53,0,8,61,27,True,False,False,,Right-hand bat
+Vidarbha,JM Sharma,800d2d97,2,12,8,1,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,31,True,False,False,,Right-hand bat
+Vidarbha,YV Rathod,5e941faa,3,36,31,4,1,116.13,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,62,0,0,62,24,True,False,False,Slow left-arm orthodox,Left-hand bat
+Vidarbha,AS Thakare,aa7176ba,4,0,0,0,0,0.0,"[2, 5, 15, 17]",4.0,24,6,0,32,1,2,1,0,0,0,0,8.0,0,0,0,0,0,0,31,0,31,26,True,False,False,Right-arm medium,Right-hand bat
+Vidarbha,Akshay Wadkar,c88c8a7d,4,10,9,1,0,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,30,True,False,False,,Right-hand bat
+Vidarbha,MR Raut,af7f15f3,5,20,16,2,1,125.0,"[12, 14]",2.0,12,1,0,25,4,0,0,0,0,0,1,12.5,0,0,0,0,0,34,-5,0,29,27,True,True,False,Slow left-arm orthodox,Right-hand bat
+Vidarbha,Akshay Wakhare,ec9fc54b,5,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,8,0,28,3,0,1,0,0,0,0,7.0,1,0,0,0,0,0,35,8,43,39,True,False,False,Right-arm offbreak,Right-hand bat
+Vidarbha,AV Wankhade,5708d0b6,6,26,14,1,2,185.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,52,0,0,52,33,True,False,False,Right-arm medium,Right-hand bat
+Vidarbha,Akshay Karnewar,e1e7f950,7,4,3,1,0,133.33,"[8, 10]",2.0,12,2,0,20,2,1,0,0,0,0,0,10.0,0,0,0,0,0,8,0,0,8,32,True,False,False,Slow left-arm orthodox,Left-hand bat
+Vidarbha,DG Nalkande,cd8d2859,8,7,6,0,0,116.67,"[1, 3, 16]",3.0,18,5,0,30,2,1,0,0,0,2,1,10.0,0,0,0,0,0,7,3,0,10,26,True,False,False,Right-arm fast-medium,Right-hand bat
+Vidarbha,Yash Thakur,4b31f3a3,9,1,2,0,0,50.0,"[4, 6, 18]",2.333,14,4,0,16,2,0,0,0,0,0,0,6.86,0,0,0,0,0,1,6,0,7,26,True,False,False,Right-arm fast-medium,Right-hand bat

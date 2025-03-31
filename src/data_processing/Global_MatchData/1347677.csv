@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Glamorgan,KS Carlson,9e707e02,1,9,13,0,0,69.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,7,0,0,7
-Glamorgan,CA Ingram,c995d726,2,34,14,4,2,242.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,72,0,0,72
-Glamorgan,CB Cooke,6755cd5c,3,11,6,2,0,183.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
-Glamorgan,SA Northeast,7e4c8ba3,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Glamorgan,TR Bevan,6c7349c4,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Glamorgan,AW Gorvin,7d7233a9,5,0,0,0,0,0.0,[7],1.0,6,0,0,18,2,1,0,0,0,0,0,18.0,0,0,0,0,0,0,0,0,0
-Glamorgan,WT Smale,97da28bd,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Glamorgan,JP McIlroy,80e44dc5,7,0,0,0,0,0.0,"[2, 4]",2.0,12,5,0,8,0,0,1,0,0,0,1,4.0,0,0,0,0,0,0,36,0,36
-Glamorgan,P Sisodiya,dd9de7ad,8,0,0,0,0,0.0,"[1, 5, 9]",3.0,18,3,0,40,2,2,0,0,0,0,6,13.33,1,0,0,0,0,0,-3,8,5
-Glamorgan,RAJ Smith,6daf5e8c,9,0,0,0,0,0.0,"[3, 6]",2.0,12,4,0,24,2,2,0,0,0,0,0,12.0,0,0,0,0,0,0,0,0,0
-Glamorgan,P Hatzoglou,6f95e5fa,10,0,0,0,0,0.0,"[8, 10]",1.333,8,3,0,6,0,0,1,1,0,0,0,4.5,0,0,0,0,0,0,36,0,36
-Hampshire,JM Vince,a15618fe,1,16,14,2,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,24,0,8,32
-Hampshire,BR McDermott,c41043e6,2,54,27,4,3,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,102,0,0,102
-Hampshire,TJ Prest,0207ff32,3,9,10,0,1,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
-Hampshire,LA Dawson,4a461c24,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Hampshire,JJ Weatherley,a05d0552,4,10,5,0,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
-Hampshire,RA Whiteley,d346d939,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Hampshire,JK Fuller,dda5aae5,5,0,0,0,0,0.0,[6],0.5,3,2,0,4,1,0,0,0,0,0,0,8.0,0,0,0,0,0,0,2,0,2
-Hampshire,BAC Howell,0bec3a6c,6,0,0,0,0,0.0,[4],1.0,6,2,0,12,1,1,0,0,0,0,0,12.0,0,0,0,0,0,0,2,0,2
-Hampshire,CP Wood,1cfac535,7,0,0,0,0,0.0,[1],1.0,6,0,0,19,2,1,0,0,0,0,0,19.0,0,0,0,0,0,0,0,0,0
-Hampshire,NT Ellis,9eb1455b,8,0,0,0,0,0.0,"[3, 5]",2.0,12,4,0,17,2,0,1,0,0,0,0,8.5,0,0,0,0,0,0,29,0,29
-Hampshire,JA Turner,cdd875d9,9,0,0,0,0,0.0,[2],1.0,6,5,0,2,0,0,0,0,0,0,0,2.0,0,0,0,0,0,0,5,0,5
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Glamorgan,KS Carlson,9e707e02,1,9,13,0,0,69.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,7,0,0,7,26,True,False,False,Right-arm offbreak,Right-hand bat
+Glamorgan,CA Ingram,c995d726,2,34,14,4,2,242.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,72,0,0,72,39,True,False,False,Legbreak,Left-hand bat
+Glamorgan,CB Cooke,6755cd5c,3,11,6,2,0,183.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,38,True,True,False,Right-arm slow-medium,Right-hand bat
+Glamorgan,SA Northeast,7e4c8ba3,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,35,True,False,False,Right-arm offbreak,Right-hand bat
+Glamorgan,TR Bevan,6c7349c4,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,25,True,True,False,Right-arm offbreak,Right-hand bat
+Glamorgan,AW Gorvin,7d7233a9,5,0,0,0,0,0.0,[7],1.0,6,0,0,18,2,1,0,0,0,0,0,18.0,0,0,0,0,0,0,0,0,0,27,True,True,False,Right-arm medium,Right-hand bat
+Glamorgan,WT Smale,97da28bd,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,24,True,False,False,,Right-hand bat
+Glamorgan,JP McIlroy,80e44dc5,7,0,0,0,0,0.0,"[2, 4]",2.0,12,5,0,8,0,0,1,0,0,0,1,4.0,0,0,0,0,0,0,36,0,36,30,True,False,False,Left-arm fast-medium,Right-hand bat
+Glamorgan,P Sisodiya,dd9de7ad,8,0,0,0,0,0.0,"[1, 5, 9]",3.0,18,3,0,40,2,2,0,0,0,0,6,13.33,1,0,0,0,0,0,-3,8,5,26,True,False,False,Slow left-arm orthodox,Right-hand bat
+Glamorgan,RAJ Smith,6daf5e8c,9,0,0,0,0,0.0,"[3, 6]",2.0,12,4,0,24,2,2,0,0,0,0,0,12.0,0,0,0,0,0,0,0,0,0,30,True,False,False,Right-arm medium,Right-hand bat
+Glamorgan,P Hatzoglou,6f95e5fa,10,0,0,0,0,0.0,"[8, 10]",1.333,8,3,0,6,0,0,1,1,0,0,0,4.5,0,0,0,0,0,0,36,0,36,26,True,False,False,Legbreak googly,Right-hand bat
+Hampshire,JM Vince,a15618fe,1,16,14,2,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,24,0,8,32,34,True,False,False,Right-arm medium,Right-hand bat
+Hampshire,BR McDermott,c41043e6,2,54,27,4,3,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,102,0,0,102,30,True,True,False,Right-arm medium,Right-hand bat
+Hampshire,TJ Prest,0207ff32,3,9,10,0,1,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15,22,True,False,False,Right-arm offbreak,Right-hand bat
+Hampshire,LA Dawson,4a461c24,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,35,True,False,True,Slow left-arm orthodox,Right-hand bat
+Hampshire,JJ Weatherley,a05d0552,4,10,5,0,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,28,True,False,False,Right-arm offbreak,Right-hand bat
+Hampshire,RA Whiteley,d346d939,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,36,True,False,False,Left-arm medium,Left-hand bat
+Hampshire,JK Fuller,dda5aae5,5,0,0,0,0,0.0,[6],0.5,3,2,0,4,1,0,0,0,0,0,0,8.0,0,0,0,0,0,0,2,0,2,35,True,False,True,Right-arm fast-medium,Right-hand bat
+Hampshire,BAC Howell,0bec3a6c,6,0,0,0,0,0.0,[4],1.0,6,2,0,12,1,1,0,0,0,0,0,12.0,0,0,0,0,0,0,2,0,2,36,True,False,True,Right-arm medium,Right-hand bat
+Hampshire,CP Wood,1cfac535,7,0,0,0,0,0.0,[1],1.0,6,0,0,19,2,1,0,0,0,0,0,19.0,0,0,0,0,0,0,0,0,0,34,True,False,False,Left-arm medium-fast,Right-hand bat
+Hampshire,NT Ellis,9eb1455b,8,0,0,0,0,0.0,"[3, 5]",2.0,12,4,0,17,2,0,1,0,0,0,0,8.5,0,0,0,0,0,0,29,0,29,30,True,False,False,Right-arm fast-medium,Right-hand bat
+Hampshire,JA Turner,cdd875d9,9,0,0,0,0,0.0,[2],1.0,6,5,0,2,0,0,0,0,0,0,0,2.0,0,0,0,0,0,0,5,0,5,23,True,False,False,Right-arm fast-medium,Right-hand bat

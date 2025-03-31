@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-St Lucia Zouks,KS Melius,efcd6d23,1,12,16,1,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
-St Lucia Zouks,M Deyal,7183799b,2,40,33,5,0,121.21,"[10, 12]",2.0,12,5,0,7,0,0,0,0,0,0,0,3.5,0,0,0,0,0,64,11,0,75
-St Lucia Zouks,ADS Fletcher,1bae756b,3,42,27,1,3,155.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,4,72,0,16,88
-St Lucia Zouks,Mohammad Nabi,62af8546,4,17,13,0,2,130.77,"[2, 4, 14]",3.0,18,8,0,16,0,1,0,0,0,0,1,5.33,0,0,0,0,2,31,12,0,43
-St Lucia Zouks,Najibullah Zadran,1212cbec,5,12,9,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24
-St Lucia Zouks,DJG Sammy,c03c6200,6,14,9,0,1,155.56,"[13, 16]",2.0,12,4,0,19,2,1,1,0,0,0,0,9.5,0,0,0,0,0,20,29,0,49
-St Lucia Zouks,SC Kuggeleijn,fef92afc,7,9,11,0,0,81.82,"[1, 3, 17, 19]",4.0,24,11,0,35,3,2,2,0,0,0,0,8.75,1,0,0,0,0,9,61,8,78
-St Lucia Zouks,RL Chase,3feda4fa,8,1,2,0,0,50.0,"[6, 8]",2.0,12,4,0,21,2,0,0,0,0,0,5,10.5,0,0,0,0,0,1,2,0,3
-St Lucia Zouks,KOK Williams,78cb83f3,9,0,0,0,0,0.0,"[5, 15, 18, 20]",4.0,24,7,0,50,1,4,1,0,0,1,7,12.5,0,0,0,0,0,0,26,0,26
-St Lucia Zouks,LS Boucher,3b647e2b,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-St Lucia Zouks,Zahir Khan,786b7fe8,10,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,4,0,24,0,2,1,0,1,0,0,8.0,0,0,0,0,0,0,37,0,37
-Trinbago Knight Riders,LMP Simmons,89f64c19,1,8,12,0,1,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,12,0,0,12
-Trinbago Knight Riders,T Webster,ef39fc7f,2,20,14,0,2,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,34,0,8,42
-Trinbago Knight Riders,TL Seifert,4663bd23,3,33,29,3,1,113.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,55,0,8,63
-Trinbago Knight Riders,DM Bravo,14b14cd8,4,50,42,1,3,119.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,80,0,8,88
-Trinbago Knight Riders,KA Pollard,a757b0d8,5,42,21,3,3,200.0,"[12, 14, 16, 18]",4.0,24,7,0,35,0,3,3,0,0,0,1,8.75,1,0,0,0,6,82,86,8,176
-Trinbago Knight Riders,DJ Bravo,87e562a9,6,5,2,1,0,250.0,"[6, 13, 17, 19]",4.0,24,8,0,26,1,1,2,0,1,0,1,6.5,1,0,0,0,0,9,68,8,85
-Trinbago Knight Riders,Sikandar Raza,26d041c4,9,0,0,0,0,0.0,"[2, 4, 8]",3.0,18,9,0,13,1,0,0,0,0,0,0,4.33,0,0,0,0,0,0,15,0,15
-Trinbago Knight Riders,AJ Hosein,4d7f517e,10,0,0,0,0,0.0,"[1, 3, 11, 15]",4.0,24,10,0,22,1,0,0,0,0,0,0,5.5,0,0,0,0,0,0,14,0,14
-Trinbago Knight Riders,K Pierre,a61bcb94,11,0,0,0,0,0.0,"[5, 9]",2.0,12,3,0,20,2,0,0,0,0,0,0,10.0,0,0,0,0,0,0,1,0,1
-Trinbago Knight Riders,Fawad Ahmed,22ae3041,12,0,0,0,0,0.0,[7],1.0,6,1,0,13,1,1,0,0,0,0,0,13.0,0,0,0,0,0,0,1,0,1
-Trinbago Knight Riders,JNT Seales,ded9ff1e,13,0,0,0,0,0.0,"[10, 20]",2.0,12,3,0,21,2,1,2,0,0,0,1,10.5,1,0,0,0,0,0,51,8,59
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+St Lucia Zouks,KS Melius,efcd6d23,1,12,16,1,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,24,True,False,False,,Right-hand bat
+St Lucia Zouks,M Deyal,7183799b,2,40,33,5,0,121.21,"[10, 12]",2.0,12,5,0,7,0,0,0,0,0,0,0,3.5,0,0,0,0,0,64,11,0,75,31,True,False,False,Right-arm offbreak,Left-hand bat
+St Lucia Zouks,ADS Fletcher,1bae756b,3,42,27,1,3,155.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,4,72,0,16,88,37,True,False,False,Legbreak,Right-hand bat
+St Lucia Zouks,Mohammad Nabi,62af8546,4,17,13,0,2,130.77,"[2, 4, 14]",3.0,18,8,0,16,0,1,0,0,0,0,1,5.33,0,0,0,0,2,31,12,0,43,40,True,False,True,Right-arm offbreak,Right-hand bat
+St Lucia Zouks,Najibullah Zadran,1212cbec,5,12,9,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24,32,True,False,False,Right-arm offbreak,Left-hand bat
+St Lucia Zouks,DJG Sammy,c03c6200,6,14,9,0,1,155.56,"[13, 16]",2.0,12,4,0,19,2,1,1,0,0,0,0,9.5,0,0,0,0,0,20,29,0,49,41,True,False,True,Right-arm medium,Right-hand bat
+St Lucia Zouks,SC Kuggeleijn,fef92afc,7,9,11,0,0,81.82,"[1, 3, 17, 19]",4.0,24,11,0,35,3,2,2,0,0,0,0,8.75,1,0,0,0,0,9,61,8,78,33,True,False,True,Right-arm fast-medium,Right-hand bat
+St Lucia Zouks,RL Chase,3feda4fa,8,1,2,0,0,50.0,"[6, 8]",2.0,12,4,0,21,2,0,0,0,0,0,5,10.5,0,0,0,0,0,1,2,0,3,33,True,False,True,Right-arm offbreak,Right-hand bat
+St Lucia Zouks,KOK Williams,78cb83f3,9,0,0,0,0,0.0,"[5, 15, 18, 20]",4.0,24,7,0,50,1,4,1,0,0,1,7,12.5,0,0,0,0,0,0,26,0,26,35,True,False,False,Right-arm fast-medium,Right-hand bat
+St Lucia Zouks,LS Boucher,3b647e2b,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,27,True,False,False,,Right-hand bat
+St Lucia Zouks,Zahir Khan,786b7fe8,10,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,4,0,24,0,2,1,0,1,0,0,8.0,0,0,0,0,0,0,37,0,37,26,True,False,False,Left-arm wrist-spin,Left-hand bat
+Trinbago Knight Riders,LMP Simmons,89f64c19,1,8,12,0,1,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,12,0,0,12,40,True,False,False,Right-arm medium-fast,Right-hand bat
+Trinbago Knight Riders,T Webster,ef39fc7f,2,20,14,0,2,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,34,0,8,42,29,True,False,False,Right-arm medium,Right-hand bat
+Trinbago Knight Riders,TL Seifert,4663bd23,3,33,29,3,1,113.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,55,0,8,63,30,True,False,False,,Right-hand bat
+Trinbago Knight Riders,DM Bravo,14b14cd8,4,50,42,1,3,119.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,80,0,8,88,36,True,False,False,Right-arm medium,Left-hand bat
+Trinbago Knight Riders,KA Pollard,a757b0d8,5,42,21,3,3,200.0,"[12, 14, 16, 18]",4.0,24,7,0,35,0,3,3,0,0,0,1,8.75,1,0,0,0,6,82,86,8,176,37,True,False,True,Right-arm medium,Right-hand bat
+Trinbago Knight Riders,DJ Bravo,87e562a9,6,5,2,1,0,250.0,"[6, 13, 17, 19]",4.0,24,8,0,26,1,1,2,0,1,0,1,6.5,1,0,0,0,0,9,68,8,85,41,True,False,True,Right-arm medium,Right-hand bat
+Trinbago Knight Riders,Sikandar Raza,26d041c4,9,0,0,0,0,0.0,"[2, 4, 8]",3.0,18,9,0,13,1,0,0,0,0,0,0,4.33,0,0,0,0,0,0,15,0,15,38,True,False,True,Legbreak,Right-hand bat
+Trinbago Knight Riders,AJ Hosein,4d7f517e,10,0,0,0,0,0.0,"[1, 3, 11, 15]",4.0,24,10,0,22,1,0,0,0,0,0,0,5.5,0,0,0,0,0,0,14,0,14,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+Trinbago Knight Riders,K Pierre,a61bcb94,11,0,0,0,0,0.0,"[5, 9]",2.0,12,3,0,20,2,0,0,0,0,0,0,10.0,0,0,0,0,0,0,1,0,1,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+Trinbago Knight Riders,Fawad Ahmed,22ae3041,12,0,0,0,0,0.0,[7],1.0,6,1,0,13,1,1,0,0,0,0,0,13.0,0,0,0,0,0,0,1,0,1,43,True,False,False,Legbreak googly,Right-hand bat
+Trinbago Knight Riders,JNT Seales,ded9ff1e,13,0,0,0,0,0.0,"[10, 20]",2.0,12,3,0,21,2,1,2,0,0,0,1,10.5,1,0,0,0,0,0,51,8,59,23,True,False,False,Right-arm fast-medium,Left-hand bat

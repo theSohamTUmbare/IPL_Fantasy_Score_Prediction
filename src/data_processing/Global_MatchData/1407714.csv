@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Cambodia,RR Sharan,7cff331d,1,20,15,3,1,133.33,"[6, 8, 10, 12]",4.0,24,10,0,19,1,0,1,0,0,0,0,4.75,0,0,0,0,2,40,41,0,81
-Cambodia,Manish Sharma,5473ec6f,2,15,17,3,0,88.24,"[5, 15]",2.0,12,3,0,25,3,1,0,0,0,0,1,12.5,0,0,0,0,0,27,-3,0,24
-Cambodia,US Hathinjar,5f77f23a,3,29,34,2,1,85.29,[14],1.0,6,3,0,13,1,1,0,0,0,0,2,13.0,1,1,0,0,0,47,3,20,70
-Cambodia,Luqman Butt,7a6decc8,4,16,16,2,0,100.0,"[2, 4, 16]",3.0,18,6,0,31,5,0,0,0,0,0,3,10.33,0,0,0,0,0,24,4,0,28
-Cambodia,Lakshit Gupta,52b090a6,5,34,23,2,3,147.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,66,0,0,66
-Cambodia,GC Murtaza,6cc4d322,5,0,0,0,0,0.0,"[1, 3, 17]",3.0,18,11,0,18,3,0,0,0,0,0,2,6.0,0,0,0,0,0,0,13,0,13
-Cambodia,E Beukes,fbb8cf87,6,16,12,1,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,28,0,0,28
-Cambodia,Sivakumar,344292b2,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Cambodia,Shah Abrar Hussain,6ec13131,7,1,2,0,0,50.0,"[7, 9, 11, 13]",4.0,24,11,0,21,2,0,2,1,0,0,1,5.25,0,0,0,0,0,1,73,0,74
-Cambodia,Prasad Anish,a21d62c9,8,1,1,0,0,100.0,[18],0.667,4,1,0,9,2,0,0,0,0,0,0,13.49,0,0,0,0,0,1,1,0,2
-Cambodia,PK Shoufeer,5c4ebae4,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Indonesia,GA Priandana,2af0e3b1,1,30,24,6,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,58,0,0,58
-Indonesia,Anjar Tadarus,72275237,2,21,27,1,0,77.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
-Indonesia,KC Ramamoorthy,a89c270b,3,21,16,3,0,131.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,35,0,0,35
-Indonesia,PR Surve,206efeb1,4,37,20,4,2,185.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,75,0,0,75
-Indonesia,IK Gamantika,4d7c5b56,5,18,19,3,0,94.74,"[7, 9, 11, 13]",4.0,24,8,0,27,1,1,0,0,0,0,1,6.75,1,0,0,0,0,30,10,8,48
-Indonesia,Ahmad Ramdoni,b5f30525,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Indonesia,F Banunaek,3c8faed4,6,0,0,0,0,0.0,"[12, 14, 16]",3.0,18,8,1,18,1,1,1,0,0,0,0,6.0,0,0,0,0,0,0,47,0,47
-Indonesia,RM Koda,f0a45427,7,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,11,0,21,3,1,0,0,0,0,0,7.0,0,0,0,0,0,0,13,0,13
-Indonesia,DK Shetty,65cfc56b,8,0,0,0,0,0.0,"[6, 8, 10, 20]",4.0,24,15,0,20,2,1,2,0,2,0,0,5.0,0,0,0,1,0,0,85,6,91
-Indonesia,DJ Hawoe,a62f55ba,9,0,0,0,0,0.0,"[2, 4, 18]",3.0,18,9,0,32,4,2,2,0,1,0,0,10.67,0,0,0,1,0,0,65,6,71
-Indonesia,IKEG Artawan,190957d2,10,0,0,0,0,0.0,"[15, 17, 19]",3.0,18,10,0,15,2,0,1,1,0,0,0,5.0,0,0,0,0,0,0,47,0,47
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Cambodia,RR Sharan,7cff331d,1,20,15,3,1,133.33,"[6, 8, 10, 12]",4.0,24,10,0,19,1,0,1,0,0,0,0,4.75,0,0,0,0,2,40,41,0,81,22,True,True,False,Right-arm offbreak,Right-hand bat
+Cambodia,Manish Sharma,5473ec6f,2,15,17,3,0,88.24,"[5, 15]",2.0,12,3,0,25,3,1,0,0,0,0,1,12.5,0,0,0,0,0,27,-3,0,24,47,True,True,False,Right-arm offbreak,Right-hand bat
+Cambodia,US Hathinjar,5f77f23a,3,29,34,2,1,85.29,[14],1.0,6,3,0,13,1,1,0,0,0,0,2,13.0,1,1,0,0,0,47,3,20,70,27,True,True,False,Right-arm medium,Right-hand bat
+Cambodia,Luqman Butt,7a6decc8,4,16,16,2,0,100.0,"[2, 4, 16]",3.0,18,6,0,31,5,0,0,0,0,0,3,10.33,0,0,0,0,0,24,4,0,28,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Cambodia,Lakshit Gupta,52b090a6,5,34,23,2,3,147.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,66,0,0,66,26,True,True,False,Right-arm offbreak,Right-hand bat
+Cambodia,GC Murtaza,6cc4d322,5,0,0,0,0,0.0,"[1, 3, 17]",3.0,18,11,0,18,3,0,0,0,0,0,2,6.0,0,0,0,0,0,0,13,0,13,27,True,True,False,Right-arm medium,Right-hand bat
+Cambodia,E Beukes,fbb8cf87,6,16,12,1,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,28,0,0,28,27,True,True,False,Right-arm medium,Right-hand bat
+Cambodia,Sivakumar,344292b2,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,44,True,True,False,Right-arm offbreak,Right-hand bat
+Cambodia,Shah Abrar Hussain,6ec13131,7,1,2,0,0,50.0,"[7, 9, 11, 13]",4.0,24,11,0,21,2,0,2,1,0,0,1,5.25,0,0,0,0,0,1,73,0,74,38,True,True,False,Right-arm offbreak,Right-hand bat
+Cambodia,Prasad Anish,a21d62c9,8,1,1,0,0,100.0,[18],0.667,4,1,0,9,2,0,0,0,0,0,0,13.49,0,0,0,0,0,1,1,0,2,22,True,True,False,Right-arm medium,Right-hand bat
+Cambodia,PK Shoufeer,5c4ebae4,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,35,True,True,False,Right-arm medium,Right-hand bat
+Indonesia,GA Priandana,2af0e3b1,1,30,24,6,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,58,0,0,58,27,True,False,False,,Right-hand bat
+Indonesia,Anjar Tadarus,72275237,2,21,27,1,0,77.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,40,True,True,False,Right-arm medium-fast,Right-hand bat
+Indonesia,KC Ramamoorthy,a89c270b,3,21,16,3,0,131.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,35,0,0,35,35,True,True,False,Right-arm offbreak,Right-hand bat
+Indonesia,PR Surve,206efeb1,4,37,20,4,2,185.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,75,0,0,75,43,True,False,False,,Right-hand bat
+Indonesia,IK Gamantika,4d7c5b56,5,18,19,3,0,94.74,"[7, 9, 11, 13]",4.0,24,8,0,27,1,1,0,0,0,0,1,6.75,1,0,0,0,0,30,10,8,48,30,True,False,False,,Right-hand bat
+Indonesia,Ahmad Ramdoni,b5f30525,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,40,True,False,False,,Right-hand bat
+Indonesia,F Banunaek,3c8faed4,6,0,0,0,0,0.0,"[12, 14, 16]",3.0,18,8,1,18,1,1,1,0,0,0,0,6.0,0,0,0,0,0,0,47,0,47,23,True,True,False,Right-arm medium,Right-hand bat
+Indonesia,RM Koda,f0a45427,7,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,11,0,21,3,1,0,0,0,0,0,7.0,0,0,0,0,0,0,13,0,13,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Indonesia,DK Shetty,65cfc56b,8,0,0,0,0,0.0,"[6, 8, 10, 20]",4.0,24,15,0,20,2,1,2,0,2,0,0,5.0,0,0,0,1,0,0,85,6,91,32,True,True,False,Right-arm medium,Right-hand bat
+Indonesia,DJ Hawoe,a62f55ba,9,0,0,0,0,0.0,"[2, 4, 18]",3.0,18,9,0,32,4,2,2,0,1,0,0,10.67,0,0,0,1,0,0,65,6,71,24,True,True,False,Right-arm medium,Right-hand bat
+Indonesia,IKEG Artawan,190957d2,10,0,0,0,0,0.0,"[15, 17, 19]",3.0,18,10,0,15,2,0,1,1,0,0,0,5.0,0,0,0,0,0,0,47,0,47,24,True,False,False,,Right-hand bat

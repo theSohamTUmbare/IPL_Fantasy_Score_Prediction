@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Lesotho,C Tlali,70841eab,1,23,17,1,2,135.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,2,41,0,14,55
-Lesotho,Maaz Khan,6f14ddcb,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,-2,0,6,4
-Lesotho,Omar Hussain,2002c586,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Lesotho,YYM Jakda,2e3dc859,4,6,2,0,1,300.0,"[2, 7]",2.0,12,3,0,27,4,1,0,0,0,0,0,13.5,1,0,0,0,0,12,-3,8,17
-Lesotho,Sameer Patel,2bae86b6,5,21,17,2,1,123.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,35,0,6,41
-Lesotho,Sarfaraj Patel,f15d17c7,6,10,13,0,0,76.92,"[4, 6, 8]",3.0,18,6,0,19,1,0,2,0,0,0,0,6.33,0,0,0,0,0,10,58,0,68
-Lesotho,ME Leoela,3b107df5,7,7,8,0,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,7,0,8,15
-Lesotho,AAA Patel,fd3c5c00,8,4,5,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16
-Lesotho,MV Matsau,dad64776,9,1,1,0,0,100.0,"[5, 10]",2.0,12,4,0,18,0,1,2,0,0,0,0,9.0,0,0,0,0,0,1,54,0,55
-Lesotho,TG Thamae,d08fe309,9,0,0,0,0,0.0,"[9, 11]",2.0,12,5,0,19,2,1,2,1,0,0,0,9.5,0,0,0,1,0,0,63,6,69
-Lesotho,TD Chaoana,16ddd36b,10,0,0,0,0,0.0,"[1, 3]",2.0,12,3,0,18,1,1,0,0,0,0,0,9.0,0,0,0,0,0,0,3,0,3
-Rwanda,O Tuyisenge,e6a6888f,1,22,12,2,1,183.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,42,0,16,58
-Rwanda,S Samal,c7e3c349,2,31,17,2,2,182.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,61,0,0,61
-Rwanda,E Niyomugabo,2dcac6ff,3,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
-Rwanda,C Rububagumya,8088632c,4,6,8,0,0,75.0,"[8, 10]",2.0,12,7,0,10,0,0,0,0,0,0,1,5.0,0,0,0,0,0,6,11,0,17
-Rwanda,E Sebareme,f99a219a,5,15,10,2,0,150.0,"[1, 3, 5]",3.0,18,11,0,17,0,2,3,0,1,0,0,5.67,1,0,0,0,0,23,102,8,133
-Rwanda,M Akayezu,1f3b9f8d,6,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Rwanda,Bosco Tuyizere,3c370b92,7,15,8,1,1,187.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
-Rwanda,P Vekaria,b68b1633,8,3,1,0,0,300.0,"[6, 11]",2.0,12,6,0,15,1,1,1,0,1,0,0,7.5,0,0,0,0,0,3,39,0,42
-Rwanda,K Irakoze,9ccb6e52,9,0,0,0,0,0.0,"[2, 4]",2.0,12,4,0,22,3,1,0,0,0,0,0,11.0,0,0,0,0,0,0,2,0,2
-Rwanda,V Mitari,3a82673c,9,0,0,0,0,0.0,"[7, 9]",2.0,12,5,0,15,0,0,2,0,0,0,6,7.5,0,0,0,0,0,0,55,0,55
-Rwanda,D Ndikubwimana,3cbedf51,10,6,3,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,10,0,12,22
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Lesotho,C Tlali,70841eab,1,23,17,1,2,135.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,2,41,0,14,55,27,True,False,False,,Right-hand bat
+Lesotho,Maaz Khan,6f14ddcb,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,-2,0,6,4,27,True,False,False,,Left-hand bat
+Lesotho,Omar Hussain,2002c586,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,29,True,False,False,,Right-hand bat
+Lesotho,YYM Jakda,2e3dc859,4,6,2,0,1,300.0,"[2, 7]",2.0,12,3,0,27,4,1,0,0,0,0,0,13.5,1,0,0,0,0,12,-3,8,17,26,True,False,True,Right-arm medium-fast,Right-hand bat
+Lesotho,Sameer Patel,2bae86b6,5,21,17,2,1,123.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,35,0,6,41,37,True,False,False,,Right-hand bat
+Lesotho,Sarfaraj Patel,f15d17c7,6,10,13,0,0,76.92,"[4, 6, 8]",3.0,18,6,0,19,1,0,2,0,0,0,0,6.33,0,0,0,0,0,10,58,0,68,41,True,True,False,Right-arm medium,Right-hand bat
+Lesotho,ME Leoela,3b107df5,7,7,8,0,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,7,0,8,15,23,True,False,False,,Left-hand bat
+Lesotho,AAA Patel,fd3c5c00,8,4,5,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16,28,True,False,False,,Right-hand bat
+Lesotho,MV Matsau,dad64776,9,1,1,0,0,100.0,"[5, 10]",2.0,12,4,0,18,0,1,2,0,0,0,0,9.0,0,0,0,0,0,1,54,0,55,25,True,False,False,Right-arm medium-fast,Right-hand bat
+Lesotho,TG Thamae,d08fe309,9,0,0,0,0,0.0,"[9, 11]",2.0,12,5,0,19,2,1,2,1,0,0,0,9.5,0,0,0,1,0,0,63,6,69,26,True,False,False,,Right-hand bat
+Lesotho,TD Chaoana,16ddd36b,10,0,0,0,0,0.0,"[1, 3]",2.0,12,3,0,18,1,1,0,0,0,0,0,9.0,0,0,0,0,0,0,3,0,3,23,True,False,False,Right-arm medium,Right-hand bat
+Rwanda,O Tuyisenge,e6a6888f,1,22,12,2,1,183.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,42,0,16,58,24,True,False,False,,Right-hand bat
+Rwanda,S Samal,c7e3c349,2,31,17,2,2,182.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,61,0,0,61,42,True,False,False,,Right-hand bat
+Rwanda,E Niyomugabo,2dcac6ff,3,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,30,True,True,False,Right-arm offbreak,Right-hand bat
+Rwanda,C Rububagumya,8088632c,4,6,8,0,0,75.0,"[8, 10]",2.0,12,7,0,10,0,0,0,0,0,0,1,5.0,0,0,0,0,0,6,11,0,17,29,True,True,False,Right-arm medium,Right-hand bat
+Rwanda,E Sebareme,f99a219a,5,15,10,2,0,150.0,"[1, 3, 5]",3.0,18,11,0,17,0,2,3,0,1,0,0,5.67,1,0,0,0,0,23,102,8,133,29,True,False,True,Right-arm offbreak,Right-hand bat
+Rwanda,M Akayezu,1f3b9f8d,6,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,22,True,True,False,Right-arm medium,Right-hand bat
+Rwanda,Bosco Tuyizere,3c370b92,7,15,8,1,1,187.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,30,True,False,False,,Right-hand bat
+Rwanda,P Vekaria,b68b1633,8,3,1,0,0,300.0,"[6, 11]",2.0,12,6,0,15,1,1,1,0,1,0,0,7.5,0,0,0,0,0,3,39,0,42,33,True,True,False,Right-arm medium,Right-hand bat
+Rwanda,K Irakoze,9ccb6e52,9,0,0,0,0,0.0,"[2, 4]",2.0,12,4,0,22,3,1,0,0,0,0,0,11.0,0,0,0,0,0,0,2,0,2,24,True,True,False,Right-arm offbreak,Right-hand bat
+Rwanda,V Mitari,3a82673c,9,0,0,0,0,0.0,"[7, 9]",2.0,12,5,0,15,0,0,2,0,0,0,6,7.5,0,0,0,0,0,0,55,0,55,29,True,False,False,Right-arm medium,Right-hand bat
+Rwanda,D Ndikubwimana,3cbedf51,10,6,3,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,10,0,12,22,21,True,False,False,,Right-hand bat

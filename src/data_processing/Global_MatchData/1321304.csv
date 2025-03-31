@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Austria,Habib Ahmadzai,fa794790,1,8,13,0,0,61.54,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,6,0,0,6
-Austria,Iqbal Hossain,e1824e7d,2,66,36,3,8,183.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,140,0,0,140
-Austria,Abdullah Akbarjan,5de198db,3,0,0,0,0,0.0,"[6, 8, 11]",3.0,18,5,0,24,1,1,2,0,0,0,0,8.0,2,0,0,0,0,0,55,16,71
-Austria,Razmal Shigiwal,60cc80ac,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Austria,Aqib Iqbal,14157abf,4,0,0,0,0,0.0,"[2, 4, 12]",3.0,18,6,0,24,1,1,1,0,0,0,0,8.0,3,0,0,0,0,0,31,28,59
-Austria,A Nathwani,f1c4f2ea,5,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,10,0,14,0,1,3,0,0,0,0,4.67,1,0,0,0,0,0,95,8,103
-Austria,M Simpson-Parker,fecd828e,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Austria,Mirza Ahsan,6b74c13b,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Austria,Sahel Zadran,dae28050,8,0,0,0,0,0.0,"[7, 9, 13]",2.667,16,7,0,10,0,0,3,0,1,0,0,3.75,1,0,0,0,0,0,100,8,108
-Austria,Umair Tariq,67ec2b09,9,0,0,0,0,0.0,[10],1.0,6,4,0,4,0,0,1,0,0,0,2,4.0,1,0,0,0,0,0,29,8,37
-Austria,A Randhawa,1798078c,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Norway,D Abeyrathna,ee17d329,1,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Norway,Raza Iqbal,eee46f77,2,19,17,0,1,111.76,[1],1.0,6,2,0,10,0,1,0,0,0,0,0,10.0,0,0,0,0,0,25,2,0,27
-Norway,Sher Sahak,8299b9a2,3,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Norway,Ansar Iqbal,9a08a863,4,16,8,1,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26
-Norway,Ali Saleem,661e8a03,5,9,10,0,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
-Norway,Usman Arif,fccc2d5a,6,4,5,0,0,80.0,[3],1.0,6,2,0,15,2,1,0,0,0,0,0,15.0,0,0,0,0,0,4,2,0,6
-Norway,RHO Saunders,60bb8160,7,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Norway,M Shahbaz Butt,5ef3c310,8,4,8,0,0,50.0,"[5, 7]",2.0,12,7,0,18,1,2,0,0,0,0,0,9.0,0,0,0,0,0,4,7,0,11
-Norway,Qamar Mushtaque,fc362c5d,9,14,7,1,1,200.0,"[6, 8]",2.0,12,6,0,10,0,1,1,0,1,0,0,5.0,0,0,0,0,0,24,43,0,67
-Norway,Vinay Ravi,9c181b99,10,3,5,0,0,60.0,"[4, 9]",1.167,7,5,0,8,0,1,0,0,0,0,1,6.86,0,0,0,0,0,3,5,0,8
-Norway,Ahmadullah Shinwari,e068d48e,11,2,2,0,0,100.0,[2],1.0,6,2,0,14,0,2,0,0,0,0,0,14.0,0,0,0,0,0,2,2,0,4
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Austria,Habib Ahmadzai,fa794790,1,8,13,0,0,61.54,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,6,0,0,6,32,True,True,False,Right-arm medium,Right-hand bat
+Austria,Iqbal Hossain,e1824e7d,2,66,36,3,8,183.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,140,0,0,140,30,True,True,False,Right-arm offbreak,Right-hand bat
+Austria,Abdullah Akbarjan,5de198db,3,0,0,0,0,0.0,"[6, 8, 11]",3.0,18,5,0,24,1,1,2,0,0,0,0,8.0,2,0,0,0,0,0,55,16,71,35,True,True,False,Slow left-arm orthodox,Left-hand bat
+Austria,Razmal Shigiwal,60cc80ac,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,True,False,Right-arm medium,Right-hand bat
+Austria,Aqib Iqbal,14157abf,4,0,0,0,0,0.0,"[2, 4, 12]",3.0,18,6,0,24,1,1,1,0,0,0,0,8.0,3,0,0,0,0,0,31,28,59,27,True,True,False,Right-arm medium,Right-hand bat
+Austria,A Nathwani,f1c4f2ea,5,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,10,0,14,0,1,3,0,0,0,0,4.67,1,0,0,0,0,0,95,8,103,23,True,True,False,Right-arm offbreak,Right-hand bat
+Austria,M Simpson-Parker,fecd828e,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,27,True,True,False,Right-arm medium,Right-hand bat
+Austria,Mirza Ahsan,6b74c13b,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,36,True,True,False,Right-arm offbreak,Right-hand bat
+Austria,Sahel Zadran,dae28050,8,0,0,0,0,0.0,"[7, 9, 13]",2.667,16,7,0,10,0,0,3,0,1,0,0,3.75,1,0,0,0,0,0,100,8,108,35,True,True,False,Right-arm medium,Right-hand bat
+Austria,Umair Tariq,67ec2b09,9,0,0,0,0,0.0,[10],1.0,6,4,0,4,0,0,1,0,0,0,2,4.0,1,0,0,0,0,0,29,8,37,27,True,True,False,Right-arm medium,Right-hand bat
+Austria,A Randhawa,1798078c,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,30,True,False,False,,
+Norway,D Abeyrathna,ee17d329,1,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,33,True,False,False,,Right-hand bat
+Norway,Raza Iqbal,eee46f77,2,19,17,0,1,111.76,[1],1.0,6,2,0,10,0,1,0,0,0,0,0,10.0,0,0,0,0,0,25,2,0,27,38,True,True,False,Slow left-arm orthodox,Left-hand bat
+Norway,Sher Sahak,8299b9a2,3,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,24,True,False,True,Right-arm medium-fast,Right-hand bat
+Norway,Ansar Iqbal,9a08a863,4,16,8,1,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26,43,True,False,True,Right-arm medium,Right-hand bat
+Norway,Ali Saleem,661e8a03,5,9,10,0,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,45,True,False,False,,Right-hand bat
+Norway,Usman Arif,fccc2d5a,6,4,5,0,0,80.0,[3],1.0,6,2,0,15,2,1,0,0,0,0,0,15.0,0,0,0,0,0,4,2,0,6,34,True,True,False,Right-arm medium-fast,Right-hand bat
+Norway,RHO Saunders,60bb8160,7,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,21,True,True,False,Right-arm offbreak,Right-hand bat
+Norway,M Shahbaz Butt,5ef3c310,8,4,8,0,0,50.0,"[5, 7]",2.0,12,7,0,18,1,2,0,0,0,0,0,9.0,0,0,0,0,0,4,7,0,11,40,True,True,False,Legbreak,Right-hand bat
+Norway,Qamar Mushtaque,fc362c5d,9,14,7,1,1,200.0,"[6, 8]",2.0,12,6,0,10,0,1,1,0,1,0,0,5.0,0,0,0,0,0,24,43,0,67,36,True,True,False,Right-arm medium-fast,Right-hand bat
+Norway,Vinay Ravi,9c181b99,10,3,5,0,0,60.0,"[4, 9]",1.167,7,5,0,8,0,1,0,0,0,0,1,6.86,0,0,0,0,0,3,5,0,8,35,True,False,False,Right-arm medium-fast,Right-hand bat
+Norway,Ahmadullah Shinwari,e068d48e,11,2,2,0,0,100.0,[2],1.0,6,2,0,14,0,2,0,0,0,0,0,14.0,0,0,0,0,0,2,2,0,4,24,True,True,False,Left-arm medium-fast,Left-hand bat

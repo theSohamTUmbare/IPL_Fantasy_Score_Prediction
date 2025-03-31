@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-United Arab Emirates,Mohammad Azam,2056c495,1,28,30,3,0,93.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,44,0,0,44
-United Arab Emirates,Shaiman Anwar,e9630504,2,15,19,3,0,78.95,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27
-United Arab Emirates,Khurram Khan,ae6746e0,3,61,42,5,1,145.24,"[8, 10, 16, 18]",4.0,24,5,0,30,1,1,3,1,1,0,1,7.5,0,0,0,0,2,97,100,0,197
-United Arab Emirates,SP Patil,f5c198fb,4,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
-United Arab Emirates,Rohan Mustafa,d1988788,5,10,8,1,0,125.0,"[15, 17, 19]",3.0,18,7,0,13,0,0,1,0,0,0,2,4.33,2,0,0,0,0,14,38,16,68
-United Arab Emirates,Mohammad Shafiq,86d327a3,6,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-United Arab Emirates,Amjad Javed,18eaf2fa,7,18,12,1,1,150.0,"[11, 13]",2.0,12,2,0,15,1,0,1,0,0,0,0,7.5,2,0,0,0,0,28,27,16,71
-United Arab Emirates,Nasir Aziz,e70a0811,8,0,0,0,0,0.0,"[12, 14]",2.0,12,3,0,22,2,1,0,0,0,0,1,11.0,0,0,0,0,0,0,1,0,1
-United Arab Emirates,Ahmed Raza,79b4839e,9,0,0,0,0,0.0,"[7, 9]",2.0,12,4,0,16,1,1,0,0,0,0,0,8.0,1,0,0,0,0,0,4,8,12
-United Arab Emirates,EHSN Silva,7572bf45,10,0,0,0,0,0.0,"[1, 3, 5, 20]",4.0,24,11,0,16,1,0,2,0,0,0,0,4.0,0,0,0,0,0,0,67,0,67
-United Arab Emirates,Kamran Shazad,75186c24,11,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,8,0,18,2,0,0,0,0,0,1,6.0,0,0,0,0,0,0,10,0,10
-United States of America,SR Taylor,a9231c3f,1,42,46,4,0,91.3,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,62,0,0,62
-United States of America,Fahad Babar,5595b867,2,17,23,1,0,73.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
-United States of America,TP Allen,30baaf1f,3,19,9,1,2,211.11,"[14, 16]",2.0,12,3,0,15,1,1,1,0,0,0,0,7.5,1,0,0,0,0,35,28,8,71
-United States of America,K Ganesh,363fe2d5,4,22,12,1,1,183.33,"[6, 8, 10, 12]",4.0,24,11,0,21,2,0,2,0,0,0,0,5.25,1,0,0,0,6,38,65,8,111
-United States of America,SR Santhanam,063870fc,5,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-United States of America,AL Dodson,f5efe5e0,6,11,12,1,0,91.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,15,0,12,27
-United States of America,BS Bartley,fb1d3872,7,11,12,0,0,91.67,"[18, 20]",2.0,12,2,0,21,1,1,0,0,0,0,0,10.5,0,0,0,0,0,11,0,0,11
-United States of America,EH Hutchinson,e6ddab51,8,1,2,0,0,50.0,"[1, 3]",2.0,12,5,0,14,2,0,0,0,0,0,1,7.0,0,0,0,0,0,1,7,0,8
-United States of America,Danial Ahmed,cf9ae594,8,0,0,0,0,0.0,"[13, 15, 17, 19]",4.0,24,3,0,32,3,0,2,1,1,0,0,8.0,0,0,0,0,0,0,69,0,69
-United States of America,Muhammad Ghous,1676b2d6,9,0,0,0,0,0.0,"[5, 7, 9, 11]",4.0,24,8,0,23,1,0,0,0,0,0,0,5.75,0,0,0,0,0,0,12,0,12
-United States of America,Imran Awan,82d8aa2e,10,0,0,0,0,0.0,"[2, 4]",2.0,12,8,0,13,3,0,0,0,0,0,0,6.5,0,0,0,0,0,0,10,0,10
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+United Arab Emirates,Mohammad Azam,2056c495,1,28,30,3,0,93.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,44,0,0,44,44,True,True,False,Slow left-arm orthodox,Left-hand bat
+United Arab Emirates,Shaiman Anwar,e9630504,2,15,19,3,0,78.95,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27,46,True,False,False,Legbreak googly,Right-hand bat
+United Arab Emirates,Khurram Khan,ae6746e0,3,61,42,5,1,145.24,"[8, 10, 16, 18]",4.0,24,5,0,30,1,1,3,1,1,0,1,7.5,0,0,0,0,2,97,100,0,197,53,True,False,False,Slow left-arm orthodox,Left-hand bat
+United Arab Emirates,SP Patil,f5c198fb,4,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,39,True,False,False,,Right-hand bat
+United Arab Emirates,Rohan Mustafa,d1988788,5,10,8,1,0,125.0,"[15, 17, 19]",3.0,18,7,0,13,0,0,1,0,0,0,2,4.33,2,0,0,0,0,14,38,16,68,36,True,False,False,Right-arm offbreak,Left-hand bat
+United Arab Emirates,Mohammad Shafiq,86d327a3,6,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,51,True,False,False,,Right-hand bat
+United Arab Emirates,Amjad Javed,18eaf2fa,7,18,12,1,1,150.0,"[11, 13]",2.0,12,2,0,15,1,0,1,0,0,0,0,7.5,2,0,0,0,0,28,27,16,71,44,True,False,True,Right-arm medium,Right-hand bat
+United Arab Emirates,Nasir Aziz,e70a0811,8,0,0,0,0,0.0,"[12, 14]",2.0,12,3,0,22,2,1,0,0,0,0,1,11.0,0,0,0,0,0,0,1,0,1,38,True,False,False,Right-arm offbreak,Right-hand bat
+United Arab Emirates,Ahmed Raza,79b4839e,9,0,0,0,0,0.0,"[7, 9]",2.0,12,4,0,16,1,1,0,0,0,0,0,8.0,1,0,0,0,0,0,4,8,12,36,True,False,False,Slow left-arm orthodox,Right-hand bat
+United Arab Emirates,EHSN Silva,7572bf45,10,0,0,0,0,0.0,"[1, 3, 5, 20]",4.0,24,11,0,16,1,0,2,0,0,0,0,4.0,0,0,0,0,0,0,67,0,67,46,True,False,False,Slow left-arm orthodox,Left-hand bat
+United Arab Emirates,Kamran Shazad,75186c24,11,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,8,0,18,2,0,0,0,0,0,1,6.0,0,0,0,0,0,0,10,0,10,44,True,False,False,Right-arm medium-fast,Right-hand bat
+United States of America,SR Taylor,a9231c3f,1,42,46,4,0,91.3,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,62,0,0,62,31,True,False,False,Right-arm offbreak,Left-hand bat
+United States of America,Fahad Babar,5595b867,2,17,23,1,0,73.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21,33,True,True,False,Right-arm offbreak,Right-hand bat
+United States of America,TP Allen,30baaf1f,3,19,9,1,2,211.11,"[14, 16]",2.0,12,3,0,15,1,1,1,0,0,0,0,7.5,1,0,0,0,0,35,28,8,71,38,True,False,False,Right-arm offbreak,Right-hand bat
+United States of America,K Ganesh,363fe2d5,4,22,12,1,1,183.33,"[6, 8, 10, 12]",4.0,24,11,0,21,2,0,2,0,0,0,0,5.25,1,0,0,0,6,38,65,8,111,38,True,True,False,Right-arm offbreak,Right-hand bat
+United States of America,SR Santhanam,063870fc,5,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,40,True,True,False,Right-arm medium,Right-hand bat
+United States of America,AL Dodson,f5efe5e0,6,11,12,1,0,91.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,15,0,12,27,37,True,True,False,Right-arm slow,Left-hand bat
+United States of America,BS Bartley,fb1d3872,7,11,12,0,0,91.67,"[18, 20]",2.0,12,2,0,21,1,1,0,0,0,0,0,10.5,0,0,0,0,0,11,0,0,11,44,True,False,True,Left-arm slow,Right-hand bat
+United States of America,EH Hutchinson,e6ddab51,8,1,2,0,0,50.0,"[1, 3]",2.0,12,5,0,14,2,0,0,0,0,0,1,7.0,0,0,0,0,0,1,7,0,8,42,True,True,False,Left-arm fast-medium,Right-hand bat
+United States of America,Danial Ahmed,cf9ae594,8,0,0,0,0,0.0,"[13, 15, 17, 19]",4.0,24,3,0,32,3,0,2,1,1,0,0,8.0,0,0,0,0,0,0,69,0,69,40,True,True,False,Slow left-arm orthodox,Left-hand bat
+United States of America,Muhammad Ghous,1676b2d6,9,0,0,0,0,0.0,"[5, 7, 9, 11]",4.0,24,8,0,23,1,0,0,0,0,0,0,5.75,0,0,0,0,0,0,12,0,12,34,True,True,False,Right-arm offbreak,Right-hand bat
+United States of America,Imran Awan,82d8aa2e,10,0,0,0,0,0.0,"[2, 4]",2.0,12,8,0,13,3,0,0,0,0,0,0,6.5,0,0,0,0,0,0,10,0,10,45,True,False,False,Right-arm fast-medium,Right-hand bat

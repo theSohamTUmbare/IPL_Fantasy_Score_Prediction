@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Dolphins,MN van Wyk,710dd98c,1,77,52,12,0,148.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,139,0,0,139
-Dolphins,CS Delport,afa78c3a,2,5,3,1,0,166.67,"[11, 15]",2.0,12,1,0,26,2,1,0,0,0,0,2,13.0,0,0,0,0,0,9,-5,0,4
-Dolphins,KP Pietersen,39f01cdb,3,81,45,4,6,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,151,0,0,151
-Dolphins,R Frylinck,8b248d88,4,22,9,4,1,244.44,"[3, 6, 17, 19]",4.0,24,7,0,48,4,4,0,0,0,0,0,12.0,0,0,0,0,0,44,3,0,47
-Dolphins,BS Makhanya,1b42a100,5,0,0,0,0,0.0,"[4, 7, 9]",3.0,18,7,0,27,2,2,0,0,0,0,0,9.0,0,0,0,0,0,0,7,0,7
-Dolphins,K Zondo,4aad78d3,5,14,6,1,1,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
-Dolphins,C Chetty,27ca3a11,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Dolphins,KA Maharaj,0b60eb09,6,7,3,1,0,233.33,"[2, 14]",2.0,12,1,0,39,2,4,0,0,0,0,2,19.5,0,0,0,0,0,11,-5,0,6
-Dolphins,P Subrayen,7ec9711d,7,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
-Dolphins,Imran Tahir,acee4cc4,7,0,0,0,0,0.0,"[8, 10, 12, 16]",4.0,24,5,0,34,1,2,1,1,0,0,0,8.5,0,0,0,0,0,0,38,0,38
-Dolphins,M Shezi,016e5101,8,0,0,0,0,0.0,"[1, 5, 13, 18]",4.0,24,6,0,37,4,1,2,0,1,0,0,9.25,0,0,0,0,0,0,64,0,64
-Warriors,JT Smuts,42172c3c,1,107,58,5,9,184.48,"[3, 7, 13, 15]",4.0,24,6,0,23,1,0,0,0,0,0,0,5.75,0,0,0,0,6,203,10,0,213
-Warriors,C Fortuin,f25cebec,2,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Warriors,CA Ingram,c995d726,3,55,26,6,3,211.54,"[9, 11]",2.0,12,2,0,17,2,0,0,0,0,0,0,8.5,0,0,0,0,6,111,2,0,113
-Warriors,CN Ackermann,e734d090,4,9,7,1,0,128.57,[8],1.0,6,0,0,12,2,0,0,0,0,0,0,12.0,0,0,0,0,0,13,0,0,13
-Warriors,C Jonker,a81d6706,5,36,20,3,2,180.0,[14],1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,1,0,0,0,6,70,1,8,79
-Warriors,MQ Adams,59a7fc89,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Warriors,LC Ngoepe,51355a30,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Warriors,ACR Birch,9df3a2f4,7,0,0,0,0,0.0,"[2, 4, 18]",3.0,18,4,0,44,3,4,0,0,0,0,0,14.67,0,0,0,0,0,0,-2,0,-2
-Warriors,SSB Magala,8361e524,8,0,0,0,0,0.0,"[5, 10, 17, 19]",4.0,24,6,0,39,7,0,2,0,2,1,0,9.75,0,0,0,0,0,0,72,0,72
-Warriors,A Gqamane,a83c44b8,9,0,0,0,0,0.0,[12],1.0,6,0,0,21,1,2,0,0,0,0,2,21.0,0,0,0,0,0,0,0,0,0
-Warriors,BD Walters,1e182ae2,10,0,0,0,0,0.0,"[1, 6, 16, 20]",4.0,24,7,0,46,5,2,3,0,1,0,2,11.5,0,0,0,0,0,0,90,0,90
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Dolphins,MN van Wyk,710dd98c,1,77,52,12,0,148.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,139,0,0,139,46,True,True,False,Slow left-arm orthodox,Right-hand bat
+Dolphins,CS Delport,afa78c3a,2,5,3,1,0,166.67,"[11, 15]",2.0,12,1,0,26,2,1,0,0,0,0,2,13.0,0,0,0,0,0,9,-5,0,4,35,True,False,False,Right-arm medium,Left-hand bat
+Dolphins,KP Pietersen,39f01cdb,3,81,45,4,6,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,151,0,0,151,44,True,False,False,Right-arm offbreak,Right-hand bat
+Dolphins,R Frylinck,8b248d88,4,22,9,4,1,244.44,"[3, 6, 17, 19]",4.0,24,7,0,48,4,4,0,0,0,0,0,12.0,0,0,0,0,0,44,3,0,47,40,True,False,True,Right-arm medium,Right-hand bat
+Dolphins,BS Makhanya,1b42a100,5,0,0,0,0,0.0,"[4, 7, 9]",3.0,18,7,0,27,2,2,0,0,0,0,0,9.0,0,0,0,0,0,0,7,0,7,29,True,False,False,Right-arm medium,Right-hand bat
+Dolphins,K Zondo,4aad78d3,5,14,6,1,1,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24,35,True,False,False,Right-arm offbreak,Right-hand bat
+Dolphins,C Chetty,27ca3a11,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,33,True,False,False,Right-arm offbreak,Right-hand bat
+Dolphins,KA Maharaj,0b60eb09,6,7,3,1,0,233.33,"[2, 14]",2.0,12,1,0,39,2,4,0,0,0,0,2,19.5,0,0,0,0,0,11,-5,0,6,35,True,False,False,Slow left-arm orthodox,Right-hand bat
+Dolphins,P Subrayen,7ec9711d,7,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,31,True,False,True,Right-arm offbreak,Right-hand bat
+Dolphins,Imran Tahir,acee4cc4,7,0,0,0,0,0.0,"[8, 10, 12, 16]",4.0,24,5,0,34,1,2,1,1,0,0,0,8.5,0,0,0,0,0,0,38,0,38,46,True,False,False,Legbreak googly,Right-hand bat
+Dolphins,M Shezi,016e5101,8,0,0,0,0,0.0,"[1, 5, 13, 18]",4.0,24,6,0,37,4,1,2,0,1,0,0,9.25,0,0,0,0,0,0,64,0,64,37,True,False,False,Left-arm medium,Left-hand bat
+Warriors,JT Smuts,42172c3c,1,107,58,5,9,184.48,"[3, 7, 13, 15]",4.0,24,6,0,23,1,0,0,0,0,0,0,5.75,0,0,0,0,6,203,10,0,213,36,True,False,True,Slow left-arm orthodox,Right-hand bat
+Warriors,C Fortuin,f25cebec,2,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,29,True,False,False,,Right-hand bat
+Warriors,CA Ingram,c995d726,3,55,26,6,3,211.54,"[9, 11]",2.0,12,2,0,17,2,0,0,0,0,0,0,8.5,0,0,0,0,6,111,2,0,113,39,True,False,False,Legbreak,Left-hand bat
+Warriors,CN Ackermann,e734d090,4,9,7,1,0,128.57,[8],1.0,6,0,0,12,2,0,0,0,0,0,0,12.0,0,0,0,0,0,13,0,0,13,33,True,False,True,Right-arm offbreak,Right-hand bat
+Warriors,C Jonker,a81d6706,5,36,20,3,2,180.0,[14],1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,1,0,0,0,6,70,1,8,79,38,True,False,False,Right-arm medium-fast,Right-hand bat
+Warriors,MQ Adams,59a7fc89,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,40,True,True,False,Right-arm medium,Left-hand bat
+Warriors,LC Ngoepe,51355a30,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Warriors,ACR Birch,9df3a2f4,7,0,0,0,0,0.0,"[2, 4, 18]",3.0,18,4,0,44,3,4,0,0,0,0,0,14.67,0,0,0,0,0,0,-2,0,-2,39,True,True,False,Right-arm medium-fast,Right-hand bat
+Warriors,SSB Magala,8361e524,8,0,0,0,0,0.0,"[5, 10, 17, 19]",4.0,24,6,0,39,7,0,2,0,2,1,0,9.75,0,0,0,0,0,0,72,0,72,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Warriors,A Gqamane,a83c44b8,9,0,0,0,0,0.0,[12],1.0,6,0,0,21,1,2,0,0,0,0,2,21.0,0,0,0,0,0,0,0,0,0,35,True,False,True,Right-arm fast-medium,Right-hand bat
+Warriors,BD Walters,1e182ae2,10,0,0,0,0,0.0,"[1, 6, 16, 20]",4.0,24,7,0,46,5,2,3,0,1,0,2,11.5,0,0,0,0,0,0,90,0,90,38,True,False,False,Right-arm medium-fast,Right-hand bat

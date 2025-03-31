@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Lancashire,TC Smith,c163432a,1,50,35,5,2,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,92,0,8,100
-Lancashire,AG Prince,035cb925,2,12,9,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
-Lancashire,KR Brown,818c9e0d,3,7,7,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
-Lancashire,PJ Horton,6f4775f7,4,40,40,3,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,56,0,8,64
-Lancashire,JC Buttler,99b75528,5,20,17,0,1,117.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26
-Lancashire,SJ Croft,ab474682,6,7,5,1,0,140.0,"[1, 3, 11]",3.0,18,3,0,22,2,0,0,0,0,0,0,7.33,0,0,0,0,0,11,3,0,14
-Lancashire,J Clark,c672e80e,7,9,4,0,1,225.0,"[4, 16, 18]",3.0,18,4,0,24,0,1,1,0,0,0,2,8.0,1,0,0,0,0,15,29,8,52
-Lancashire,AM Lilley,88a004e9,8,12,3,1,1,400.0,"[7, 9, 13]",3.0,18,5,0,24,3,0,0,0,0,0,0,8.0,0,0,0,0,0,22,5,0,27
-Lancashire,SD Parry,fdb8ed0d,8,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,6,0,27,3,0,1,0,0,0,0,6.75,1,0,0,0,0,0,33,8,41
-Lancashire,Kabir Ali,60dd8960,9,0,0,0,0,0.0,"[2, 6, 20]",3.0,18,5,0,26,2,1,2,0,1,0,0,8.67,0,0,0,0,0,0,63,0,63
-Lancashire,Junaid Khan,086f5984,9,0,0,0,0,0.0,"[5, 15, 17, 19]",4.0,24,8,0,30,0,2,3,0,1,0,0,7.5,0,0,0,0,0,0,95,0,95
-Leicestershire,JJ Cobb,58c481c6,1,27,18,1,2,150.0,"[11, 13]",2.0,12,1,0,18,2,0,0,0,0,0,0,9.0,0,0,0,0,0,47,1,0,48
-Leicestershire,NJ O'Brien,84826f48,2,9,8,1,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
-Leicestershire,GP Smith,d86f6c69,3,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,10,0,8,18
-Leicestershire,EJH Eckersley,d510d457,4,12,16,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
-Leicestershire,MAG Boyce,a4e2bf36,5,47,35,6,0,134.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,77,0,8,85
-Leicestershire,TJ Wells,eb1a5b03,6,28,22,1,1,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,42,0,0,42
-Leicestershire,RML Taylor,7fa2ab1f,7,20,12,0,1,166.67,"[10, 12, 14, 16]",4.0,24,9,0,26,2,1,1,1,0,0,0,6.5,1,0,0,0,4,30,44,8,82
-Leicestershire,AJ Ireland,a7c7802a,8,0,0,0,0,0.0,"[2, 6, 18, 20]",4.0,24,6,0,51,4,3,1,0,0,0,0,12.75,1,0,0,0,0,0,25,8,33
-Leicestershire,BA Raine,4c0f3806,8,2,3,0,0,66.67,"[4, 8]",2.0,12,4,0,14,0,1,0,0,0,0,0,7.0,0,0,0,0,0,2,6,0,8
-Leicestershire,JKH Naik,9c7d7cda,9,0,0,0,0,0.0,"[1, 7, 9, 15]",4.0,24,6,0,19,0,0,0,0,0,0,0,4.75,1,0,0,0,0,0,12,8,20
-Leicestershire,RA Jones,561f3a34,10,0,0,0,0,0.0,"[3, 5, 17, 19]",4.0,24,11,0,34,4,0,5,0,0,4,1,8.5,0,0,0,0,0,0,148,0,148
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Lancashire,TC Smith,c163432a,1,50,35,5,2,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,92,0,8,100,39,True,False,True,Right-arm medium,Left-hand bat
+Lancashire,AG Prince,035cb925,2,12,9,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,47,True,False,False,Right-arm offbreak,Left-hand bat
+Lancashire,KR Brown,818c9e0d,3,7,7,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,36,True,False,False,Right-arm medium,Right-hand bat
+Lancashire,PJ Horton,6f4775f7,4,40,40,3,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,56,0,8,64,42,True,False,False,Right-arm medium,Right-hand bat
+Lancashire,JC Buttler,99b75528,5,20,17,0,1,117.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26,34,True,False,False,,Right-hand bat
+Lancashire,SJ Croft,ab474682,6,7,5,1,0,140.0,"[1, 3, 11]",3.0,18,3,0,22,2,0,0,0,0,0,0,7.33,0,0,0,0,0,11,3,0,14,40,True,False,True,Right-arm offbreak,Right-hand bat
+Lancashire,J Clark,c672e80e,7,9,4,0,1,225.0,"[4, 16, 18]",3.0,18,4,0,24,0,1,1,0,0,0,2,8.0,1,0,0,0,0,15,29,8,52,34,True,False,True,Right-arm medium-fast,Right-hand bat
+Lancashire,AM Lilley,88a004e9,8,12,3,1,1,400.0,"[7, 9, 13]",3.0,18,5,0,24,3,0,0,0,0,0,0,8.0,0,0,0,0,0,22,5,0,27,33,True,False,True,Right-arm offbreak,Right-hand bat
+Lancashire,SD Parry,fdb8ed0d,8,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,6,0,27,3,0,1,0,0,0,0,6.75,1,0,0,0,0,0,33,8,41,39,True,False,False,Slow left-arm orthodox,Right-hand bat
+Lancashire,Kabir Ali,60dd8960,9,0,0,0,0,0.0,"[2, 6, 20]",3.0,18,5,0,26,2,1,2,0,1,0,0,8.67,0,0,0,0,0,0,63,0,63,44,True,False,False,Right-arm medium-fast,Right-hand bat
+Lancashire,Junaid Khan,086f5984,9,0,0,0,0,0.0,"[5, 15, 17, 19]",4.0,24,8,0,30,0,2,3,0,1,0,0,7.5,0,0,0,0,0,0,95,0,95,35,True,False,False,Left-arm fast,Right-hand bat
+Leicestershire,JJ Cobb,58c481c6,1,27,18,1,2,150.0,"[11, 13]",2.0,12,1,0,18,2,0,0,0,0,0,0,9.0,0,0,0,0,0,47,1,0,48,34,True,False,True,Right-arm offbreak,Right-hand bat
+Leicestershire,NJ O'Brien,84826f48,2,9,8,1,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21,43,True,False,False,,Left-hand bat
+Leicestershire,GP Smith,d86f6c69,3,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,10,0,8,18,36,True,False,False,Legbreak,Right-hand bat
+Leicestershire,EJH Eckersley,d510d457,4,12,16,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,35,True,True,False,Right-arm offbreak,Right-hand bat
+Leicestershire,MAG Boyce,a4e2bf36,5,47,35,6,0,134.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,77,0,8,85,39,True,False,False,Right-arm medium,Left-hand bat
+Leicestershire,TJ Wells,eb1a5b03,6,28,22,1,1,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,42,0,0,42,32,True,False,True,Right-arm medium-fast,Right-hand bat
+Leicestershire,RML Taylor,7fa2ab1f,7,20,12,0,1,166.67,"[10, 12, 14, 16]",4.0,24,9,0,26,2,1,1,1,0,0,0,6.5,1,0,0,0,4,30,44,8,82,35,True,False,True,Left-arm medium,Left-hand bat
+Leicestershire,AJ Ireland,a7c7802a,8,0,0,0,0,0.0,"[2, 6, 18, 20]",4.0,24,6,0,51,4,3,1,0,0,0,0,12.75,1,0,0,0,0,0,25,8,33,40,True,False,False,Right-arm medium,Right-hand bat
+Leicestershire,BA Raine,4c0f3806,8,2,3,0,0,66.67,"[4, 8]",2.0,12,4,0,14,0,1,0,0,0,0,0,7.0,0,0,0,0,0,2,6,0,8,33,True,False,True,Right-arm medium-fast,Left-hand bat
+Leicestershire,JKH Naik,9c7d7cda,9,0,0,0,0,0.0,"[1, 7, 9, 15]",4.0,24,6,0,19,0,0,0,0,0,0,0,4.75,1,0,0,0,0,0,12,8,20,40,True,False,False,Right-arm offbreak,Right-hand bat
+Leicestershire,RA Jones,561f3a34,10,0,0,0,0,0.0,"[3, 5, 17, 19]",4.0,24,11,0,34,4,0,5,0,0,4,1,8.5,0,0,0,0,0,0,148,0,148,38,True,True,False,Right-arm medium-fast,Right-hand bat

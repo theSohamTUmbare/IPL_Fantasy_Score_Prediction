@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Dolphins,SJ Erwee,a3ce3d1d,1,17,14,2,0,121.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
-Dolphins,G Roelofsen,ac688e55,2,21,23,3,0,91.3,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33
-Dolphins,S Muthusamy,7dfb8890,3,8,6,1,0,133.33,[11],1.0,6,0,0,12,0,1,0,0,0,0,0,12.0,0,0,0,0,0,12,0,0,12
-Dolphins,DA Miller,d67d5f00,4,29,18,1,2,161.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,53,0,0,53
-Dolphins,K Zondo,4aad78d3,5,35,31,1,1,112.9,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,49,0,8,57
-Dolphins,M Mosehle,8836fcac,6,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
-Dolphins,R Frylinck,8b248d88,7,24,15,0,2,160.0,"[5, 7, 13]",3.0,18,11,1,11,1,0,2,1,0,0,0,3.67,0,0,0,0,4,40,87,0,127
-Dolphins,KA Maharaj,0b60eb09,8,0,0,0,0,0.0,"[1, 3, 8, 18]",4.0,24,15,0,18,0,1,2,2,0,0,1,4.5,0,0,0,0,0,0,87,0,87
-Dolphins,P Subrayen,7ec9711d,8,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,6,0,25,0,1,0,0,0,0,0,6.25,0,0,0,0,0,0,8,0,8
-Dolphins,E Bosch,28d6c44d,9,0,0,0,0,0.0,"[6, 9, 15, 20]",4.0,24,4,0,42,3,1,1,0,0,0,0,10.5,0,0,0,0,0,0,27,0,27
-Dolphins,K Mungroo,56feceb0,10,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,9,0,35,2,2,0,0,0,1,2,8.75,0,0,0,0,0,0,9,0,9
-Knights,PE Kruger,39181592,1,0,1,0,0,0.0,"[14, 19]",1.167,7,1,0,15,1,1,0,0,0,0,1,12.85,0,0,0,0,0,-2,1,0,-1
-Knights,GJ Snyman,a3ae63f4,2,6,10,1,0,60.0,"[4, 10]",2.0,12,3,0,19,0,2,0,0,0,0,0,9.5,0,0,0,0,-2,8,3,0,11
-Knights,AGS Gous,d1305df0,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Knights,PJ van Biljon,4025c262,4,72,53,3,4,135.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,118,0,0,118
-Knights,F Behardien,dce2019b,5,5,9,1,0,55.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
-Knights,FD Adams,f277f531,6,18,22,0,0,81.82,"[2, 6, 18]",3.0,18,6,0,26,2,1,2,0,0,0,1,8.67,1,0,0,0,0,18,56,8,82
-Knights,M Pretorius,54c2b697,7,38,23,1,2,165.22,"[1, 3, 8, 16]",4.0,24,8,0,26,1,1,1,0,0,0,0,6.5,0,0,0,0,4,62,35,0,97
-Knights,W Makwetu,ae53180e,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0,0,28,28
-Knights,SA Mothoa,ea1eba98,9,0,0,0,0,0.0,"[5, 12, 15, 17]",4.0,24,8,0,37,4,0,2,0,0,0,5,9.25,0,0,0,0,0,0,58,0,58
-Knights,TG Mokoena,0827b38d,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Knights,S von Berg,ffd3fc37,11,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,4,0,19,0,0,1,0,0,0,0,4.75,0,0,0,0,0,0,35,0,35
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Dolphins,SJ Erwee,a3ce3d1d,1,17,14,2,0,121.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,35,True,False,False,Right-arm offbreak,Left-hand bat
+Dolphins,G Roelofsen,ac688e55,2,21,23,3,0,91.3,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33,28,True,False,False,,Right-hand bat
+Dolphins,S Muthusamy,7dfb8890,3,8,6,1,0,133.33,[11],1.0,6,0,0,12,0,1,0,0,0,0,0,12.0,0,0,0,0,0,12,0,0,12,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Dolphins,DA Miller,d67d5f00,4,29,18,1,2,161.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,53,0,0,53,35,True,False,False,Right-arm offbreak,Left-hand bat
+Dolphins,K Zondo,4aad78d3,5,35,31,1,1,112.9,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,49,0,8,57,35,True,False,False,Right-arm offbreak,Right-hand bat
+Dolphins,M Mosehle,8836fcac,6,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,34,True,False,False,,Right-hand bat
+Dolphins,R Frylinck,8b248d88,7,24,15,0,2,160.0,"[5, 7, 13]",3.0,18,11,1,11,1,0,2,1,0,0,0,3.67,0,0,0,0,4,40,87,0,127,40,True,False,True,Right-arm medium,Right-hand bat
+Dolphins,KA Maharaj,0b60eb09,8,0,0,0,0,0.0,"[1, 3, 8, 18]",4.0,24,15,0,18,0,1,2,2,0,0,1,4.5,0,0,0,0,0,0,87,0,87,35,True,False,False,Slow left-arm orthodox,Right-hand bat
+Dolphins,P Subrayen,7ec9711d,8,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,6,0,25,0,1,0,0,0,0,0,6.25,0,0,0,0,0,0,8,0,8,31,True,False,True,Right-arm offbreak,Right-hand bat
+Dolphins,E Bosch,28d6c44d,9,0,0,0,0,0.0,"[6, 9, 15, 20]",4.0,24,4,0,42,3,1,1,0,0,0,0,10.5,0,0,0,0,0,0,27,0,27,26,True,False,False,Right-arm fast,Right-hand bat
+Dolphins,K Mungroo,56feceb0,10,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,9,0,35,2,2,0,0,0,1,2,8.75,0,0,0,0,0,0,9,0,9,30,True,False,False,Right-arm fast,Right-hand bat
+Knights,PE Kruger,39181592,1,0,1,0,0,0.0,"[14, 19]",1.167,7,1,0,15,1,1,0,0,0,0,1,12.85,0,0,0,0,0,-2,1,0,-1,30,True,False,True,Right-arm medium,Right-hand bat
+Knights,GJ Snyman,a3ae63f4,2,6,10,1,0,60.0,"[4, 10]",2.0,12,3,0,19,0,2,0,0,0,0,0,9.5,0,0,0,0,-2,8,3,0,11,30,True,False,True,Right-arm offbreak,Right-hand bat
+Knights,AGS Gous,d1305df0,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,31,True,False,False,,Right-hand bat
+Knights,PJ van Biljon,4025c262,4,72,53,3,4,135.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,118,0,0,118,38,True,True,False,Right-arm medium,Right-hand bat
+Knights,F Behardien,dce2019b,5,5,9,1,0,55.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,41,True,False,True,Right-arm fast-medium,Right-hand bat
+Knights,FD Adams,f277f531,6,18,22,0,0,81.82,"[2, 6, 18]",3.0,18,6,0,26,2,1,2,0,0,0,1,8.67,1,0,0,0,0,18,56,8,82,35,True,False,True,Right-arm fast-medium,Right-hand bat
+Knights,M Pretorius,54c2b697,7,38,23,1,2,165.22,"[1, 3, 8, 16]",4.0,24,8,0,26,1,1,1,0,0,0,0,6.5,0,0,0,0,4,62,35,0,97,30,True,False,False,Right-arm fast-medium,Right-hand bat
+Knights,W Makwetu,ae53180e,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0,0,28,28,26,True,False,False,,Right-hand bat
+Knights,SA Mothoa,ea1eba98,9,0,0,0,0,0.0,"[5, 12, 15, 17]",4.0,24,8,0,37,4,0,2,0,0,0,5,9.25,0,0,0,0,0,0,58,0,58,35,True,False,False,Right-arm fast-medium,Right-hand bat
+Knights,TG Mokoena,0827b38d,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,37,True,False,False,Left-arm fast-medium,Right-hand bat
+Knights,S von Berg,ffd3fc37,11,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,4,0,19,0,0,1,0,0,0,0,4.75,0,0,0,0,0,0,35,0,35,38,True,False,True,Legbreak,Right-hand bat

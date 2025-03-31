@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Bermuda,DC Stovell,7f6c2dae,1,10,15,1,0,66.67,"[8, 10, 12, 14]",4.0,24,10,0,20,1,0,1,0,1,0,0,5.0,0,0,0,0,-2,12,47,0,59
-Bermuda,TS Fray,c7537f8a,2,4,3,0,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
-Bermuda,DL Hemp,cb263798,3,64,49,7,1,130.61,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,108,0,0,108
-Bermuda,JJ Tucker,bceb1b07,4,42,25,4,2,168.0,"[11, 13, 15, 17]",4.0,24,5,0,38,4,1,0,0,0,0,0,9.5,0,0,0,0,4,78,5,0,83
-Bermuda,AC Douglas,f86ce673,5,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Bermuda,MO Jones,0e0afd8b,6,2,4,0,0,50.0,"[1, 3, 5, 19]",4.0,24,13,0,28,5,0,2,1,1,0,0,7.0,0,0,1,0,0,2,81,12,95
-Bermuda,LOB Cann,4487cc09,7,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Bermuda,RJ Robinson,f5853cef,8,1,4,0,0,25.0,"[7, 9, 16, 18]",4.0,24,6,0,36,2,2,0,0,0,0,0,9.0,0,0,0,0,0,1,6,0,7
-Bermuda,KL Tucker,f9a87783,9,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12
-Bermuda,T Manders,6d2b9724,10,12,8,2,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
-Bermuda,KE Bashir,4cfc2dc0,11,1,1,0,0,100.0,"[2, 4, 6, 20]",4.0,24,8,0,44,4,3,1,0,0,0,0,11.0,0,0,0,0,0,1,31,0,32
-Papua New Guinea,A Vala,72e60730,1,2,2,0,0,100.0,[12],1.0,6,0,0,14,2,0,0,0,0,0,0,14.0,0,0,0,0,0,2,0,0,2
-Papua New Guinea,TP Ura,a82eb3fb,2,47,32,4,3,146.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,87,0,0,87
-Papua New Guinea,K Pala,f5b68485,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Papua New Guinea,GO Jones,2e929b99,4,7,6,1,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
-Papua New Guinea,JNT Vare,3e326efc,5,14,14,3,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,26,0,28,54
-Papua New Guinea,MD Dai,5be810ba,6,64,42,6,1,152.38,[8],1.0,6,0,0,15,1,1,0,0,0,0,0,15.0,0,0,0,0,4,106,0,0,106
-Papua New Guinea,CJA Amini,4d84ad05,7,32,23,2,2,139.13,"[10, 14]",2.0,12,7,0,15,0,2,1,0,0,0,0,7.5,0,0,0,0,2,58,32,0,90
-Papua New Guinea,CR Amini,664189ff,11,0,0,0,0,0.0,"[5, 7, 13, 17]",4.0,24,10,0,25,3,0,2,0,0,0,1,6.25,0,0,1,0,0,0,62,12,74
-Papua New Guinea,JB Reva,6a685375,12,0,0,0,0,0.0,"[4, 6, 15, 19]",4.0,24,8,0,26,3,0,2,1,0,0,0,6.5,1,0,0,0,0,0,68,8,76
-Papua New Guinea,WT Gavera,7516045a,13,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,16,1,17,2,0,3,0,1,0,0,4.25,1,0,0,0,0,0,121,8,129
-Papua New Guinea,P Raho,0bd536fb,14,0,0,0,0,0.0,"[2, 9, 11, 16]",4.0,24,6,0,30,3,0,0,0,0,0,0,7.5,1,0,0,0,0,0,6,8,14
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bermuda,DC Stovell,7f6c2dae,1,10,15,1,0,66.67,"[8, 10, 12, 14]",4.0,24,10,0,20,1,0,1,0,1,0,0,5.0,0,0,0,0,-2,12,47,0,59,40,True,True,False,Right-arm offbreak,Right-hand bat
+Bermuda,TS Fray,c7537f8a,2,4,3,0,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,33,True,False,False,,Right-hand bat
+Bermuda,DL Hemp,cb263798,3,64,49,7,1,130.61,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,108,0,0,108,54,True,False,False,Right-arm medium,Left-hand bat
+Bermuda,JJ Tucker,bceb1b07,4,42,25,4,2,168.0,"[11, 13, 15, 17]",4.0,24,5,0,38,4,1,0,0,0,0,0,9.5,0,0,0,0,4,78,5,0,83,50,True,False,True,Right-arm medium,Right-hand bat
+Bermuda,AC Douglas,f86ce673,5,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,37,True,False,False,,Right-hand bat
+Bermuda,MO Jones,0e0afd8b,6,2,4,0,0,50.0,"[1, 3, 5, 19]",4.0,24,13,0,28,5,0,2,1,1,0,0,7.0,0,0,1,0,0,2,81,12,95,35,True,False,True,Right-arm medium-fast,Right-hand bat
+Bermuda,LOB Cann,4487cc09,7,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,52,True,False,True,Right-arm medium,Right-hand bat
+Bermuda,RJ Robinson,f5853cef,8,1,4,0,0,25.0,"[7, 9, 16, 18]",4.0,24,6,0,36,2,2,0,0,0,0,0,9.0,0,0,0,0,0,1,6,0,7,40,True,False,False,Right-arm offbreak,Right-hand bat
+Bermuda,KL Tucker,f9a87783,9,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12,48,True,False,False,,Right-hand bat
+Bermuda,T Manders,6d2b9724,10,12,8,2,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,30,True,False,False,,Right-hand bat
+Bermuda,KE Bashir,4cfc2dc0,11,1,1,0,0,100.0,"[2, 4, 6, 20]",4.0,24,8,0,44,4,3,1,0,0,0,0,11.0,0,0,0,0,0,1,31,0,32,36,True,True,False,Right-arm medium,Right-hand bat
+Papua New Guinea,A Vala,72e60730,1,2,2,0,0,100.0,[12],1.0,6,0,0,14,2,0,0,0,0,0,0,14.0,0,0,0,0,0,2,0,0,2,37,True,False,False,Right-arm offbreak,Left-hand bat
+Papua New Guinea,TP Ura,a82eb3fb,2,47,32,4,3,146.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,87,0,0,87,35,True,False,False,,Right-hand bat
+Papua New Guinea,K Pala,f5b68485,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,39,True,False,False,Right-arm medium,Left-hand bat
+Papua New Guinea,GO Jones,2e929b99,4,7,6,1,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,48,True,False,False,,Right-hand bat
+Papua New Guinea,JNT Vare,3e326efc,5,14,14,3,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,26,0,28,54,39,True,False,False,,Right-hand bat
+Papua New Guinea,MD Dai,5be810ba,6,64,42,6,1,152.38,[8],1.0,6,0,0,15,1,1,0,0,0,0,0,15.0,0,0,0,0,4,106,0,0,106,40,True,False,True,Legbreak googly,Right-hand bat
+Papua New Guinea,CJA Amini,4d84ad05,7,32,23,2,2,139.13,"[10, 14]",2.0,12,7,0,15,0,2,1,0,0,0,0,7.5,0,0,0,0,2,58,32,0,90,32,True,False,True,Legbreak,Left-hand bat
+Papua New Guinea,CR Amini,664189ff,11,0,0,0,0,0.0,"[5, 7, 13, 17]",4.0,24,10,0,25,3,0,2,0,0,0,1,6.25,0,0,1,0,0,0,62,12,74,40,True,False,False,Right-arm medium,Right-hand bat
+Papua New Guinea,JB Reva,6a685375,12,0,0,0,0,0.0,"[4, 6, 15, 19]",4.0,24,8,0,26,3,0,2,1,0,0,0,6.5,1,0,0,0,0,0,68,8,76,34,True,False,False,Right-arm medium,Right-hand bat
+Papua New Guinea,WT Gavera,7516045a,13,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,16,1,17,2,0,3,0,1,0,0,4.25,1,0,0,0,0,0,121,8,129,36,True,False,False,Right-arm fast,Right-hand bat
+Papua New Guinea,P Raho,0bd536fb,14,0,0,0,0,0.0,"[2, 9, 11, 16]",4.0,24,6,0,30,3,0,0,0,0,0,0,7.5,1,0,0,0,0,0,6,8,14,37,True,False,False,Right-arm fast-medium,Right-hand bat

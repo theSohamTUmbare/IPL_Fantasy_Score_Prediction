@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Melbourne Renegades,TP Ludeman,c3f7898b,1,13,14,0,1,92.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,19,0,8,27
-Melbourne Renegades,MS Harris,9e85455c,2,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Melbourne Renegades,MW Short,a90e53ec,3,16,15,1,1,106.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,26,0,8,34
-Melbourne Renegades,DJ Bravo,87e562a9,4,26,18,2,1,144.44,"[6, 10, 18, 20]",4.0,24,6,0,38,2,2,0,0,0,0,1,9.5,0,0,0,0,2,46,6,0,52
-Melbourne Renegades,TLW Cooper,2318ba22,5,19,19,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
-Melbourne Renegades,Mohammad Nabi,62af8546,6,23,17,3,0,135.29,"[1, 4, 14, 16]",4.0,24,10,0,15,0,0,2,1,0,0,1,3.75,0,0,0,0,2,37,74,0,111
-Melbourne Renegades,BJ Webster,56b93d46,7,9,10,0,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17
-Melbourne Renegades,JD Wildermuth,f1c61793,8,23,11,1,2,209.09,"[7, 11, 13, 15]",4.0,24,5,0,27,2,0,1,0,0,0,0,6.75,0,0,0,0,6,45,32,0,77
-Melbourne Renegades,KW Richardson,dfc4d8b5,9,9,8,0,0,112.5,"[3, 9, 17, 19]",4.0,24,7,0,36,4,1,1,0,0,0,0,9.0,0,0,0,0,0,9,32,0,41
-Melbourne Renegades,JM Holland,70c4f525,10,1,3,0,0,33.33,"[2, 5]",2.0,12,4,0,21,2,1,0,0,0,0,0,10.5,0,0,0,0,0,1,2,0,3
-Melbourne Renegades,GB Hogg,f708a0bc,11,1,2,0,0,50.0,"[8, 12]",2.0,12,0,0,30,1,3,0,0,0,0,0,15.0,0,0,0,0,0,1,-6,0,-5
-Melbourne Stars,PSP Handscomb,ada15e88,1,41,37,4,0,110.81,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,61,0,0,61
-Melbourne Stars,BR Dunk,272d796e,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Melbourne Stars,KP Pietersen,39f01cdb,3,74,46,4,5,160.87,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,132,0,8,140
-Melbourne Stars,GJ Maxwell,b681e71e,4,31,16,2,2,193.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,4,0,0,0,6,61,0,36,97
-Melbourne Stars,SE Gotch,9a0e4ca5,5,9,8,1,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
-Melbourne Stars,JP Faulkner,808f425a,6,10,12,0,0,83.33,"[11, 13, 15]",3.0,18,5,0,25,2,1,1,0,0,0,0,8.33,0,0,0,0,0,10,30,0,40
-Melbourne Stars,EP Gulbis,bbce4647,11,0,0,0,0,0.0,"[14, 16]",2.0,12,2,0,18,2,0,1,0,0,0,0,9.0,1,0,0,0,0,0,27,8,35
-Melbourne Stars,JW Hastings,012829ff,12,0,0,0,0,0.0,"[6, 8, 17, 19]",4.0,24,10,0,28,1,1,2,0,0,0,1,7.0,0,0,0,0,0,0,62,0,62
-Melbourne Stars,JR Coleman,de6efa4a,13,0,0,0,0,0.0,"[2, 4, 10, 12]",4.0,24,9,0,27,2,1,3,0,0,0,0,6.75,0,0,0,0,0,0,90,0,90
-Melbourne Stars,DJ Worrall,208f22ea,14,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,11,0,25,0,2,2,0,2,0,1,6.25,0,0,0,0,0,0,79,0,79
-Melbourne Stars,D Fallins,46fca863,15,0,0,0,0,0.0,"[5, 7, 9]",3.0,18,5,0,19,0,1,0,0,0,0,0,6.33,0,0,0,0,0,0,7,0,7
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Melbourne Renegades,TP Ludeman,c3f7898b,1,13,14,0,1,92.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,19,0,8,27,37,True,False,False,,Right-hand bat
+Melbourne Renegades,MS Harris,9e85455c,2,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,32,True,False,False,,Left-hand bat
+Melbourne Renegades,MW Short,a90e53ec,3,16,15,1,1,106.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,26,0,8,34,29,True,False,False,Right-arm offbreak,Right-hand bat
+Melbourne Renegades,DJ Bravo,87e562a9,4,26,18,2,1,144.44,"[6, 10, 18, 20]",4.0,24,6,0,38,2,2,0,0,0,0,1,9.5,0,0,0,0,2,46,6,0,52,41,True,False,True,Right-arm medium,Right-hand bat
+Melbourne Renegades,TLW Cooper,2318ba22,5,19,19,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,38,True,False,False,Right-arm offbreak,Right-hand bat
+Melbourne Renegades,Mohammad Nabi,62af8546,6,23,17,3,0,135.29,"[1, 4, 14, 16]",4.0,24,10,0,15,0,0,2,1,0,0,1,3.75,0,0,0,0,2,37,74,0,111,40,True,False,True,Right-arm offbreak,Right-hand bat
+Melbourne Renegades,BJ Webster,56b93d46,7,9,10,0,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17,31,True,False,True,Right-arm offbreak,Right-hand bat
+Melbourne Renegades,JD Wildermuth,f1c61793,8,23,11,1,2,209.09,"[7, 11, 13, 15]",4.0,24,5,0,27,2,0,1,0,0,0,0,6.75,0,0,0,0,6,45,32,0,77,31,True,False,True,Right-arm medium-fast,Right-hand bat
+Melbourne Renegades,KW Richardson,dfc4d8b5,9,9,8,0,0,112.5,"[3, 9, 17, 19]",4.0,24,7,0,36,4,1,1,0,0,0,0,9.0,0,0,0,0,0,9,32,0,41,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Melbourne Renegades,JM Holland,70c4f525,10,1,3,0,0,33.33,"[2, 5]",2.0,12,4,0,21,2,1,0,0,0,0,0,10.5,0,0,0,0,0,1,2,0,3,37,True,False,False,Slow left-arm orthodox,Right-hand bat
+Melbourne Renegades,GB Hogg,f708a0bc,11,1,2,0,0,50.0,"[8, 12]",2.0,12,0,0,30,1,3,0,0,0,0,0,15.0,0,0,0,0,0,1,-6,0,-5,54,True,False,True,Left-arm wrist-spin,Left-hand bat
+Melbourne Stars,PSP Handscomb,ada15e88,1,41,37,4,0,110.81,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,61,0,0,61,33,True,False,False,,Right-hand bat
+Melbourne Stars,BR Dunk,272d796e,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,38,True,True,False,Right-arm offbreak,Left-hand bat
+Melbourne Stars,KP Pietersen,39f01cdb,3,74,46,4,5,160.87,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,132,0,8,140,44,True,False,False,Right-arm offbreak,Right-hand bat
+Melbourne Stars,GJ Maxwell,b681e71e,4,31,16,2,2,193.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,4,0,0,0,6,61,0,36,97,36,True,False,True,Right-arm offbreak,Right-hand bat
+Melbourne Stars,SE Gotch,9a0e4ca5,5,9,8,1,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21,31,True,True,False,Right-arm medium,Right-hand bat
+Melbourne Stars,JP Faulkner,808f425a,6,10,12,0,0,83.33,"[11, 13, 15]",3.0,18,5,0,25,2,1,1,0,0,0,0,8.33,0,0,0,0,0,10,30,0,40,34,True,False,True,Left-arm fast-medium,Right-hand bat
+Melbourne Stars,EP Gulbis,bbce4647,11,0,0,0,0,0.0,"[14, 16]",2.0,12,2,0,18,2,0,1,0,0,0,0,9.0,1,0,0,0,0,0,27,8,35,39,True,False,True,Right-arm medium,Right-hand bat
+Melbourne Stars,JW Hastings,012829ff,12,0,0,0,0,0.0,"[6, 8, 17, 19]",4.0,24,10,0,28,1,1,2,0,0,0,1,7.0,0,0,0,0,0,0,62,0,62,39,True,False,True,Right-arm fast-medium,Right-hand bat
+Melbourne Stars,JR Coleman,de6efa4a,13,0,0,0,0,0.0,"[2, 4, 10, 12]",4.0,24,9,0,27,2,1,3,0,0,0,0,6.75,0,0,0,0,0,0,90,0,90,33,True,False,False,Left-arm fast-medium,Right-hand bat
+Melbourne Stars,DJ Worrall,208f22ea,14,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,11,0,25,0,2,2,0,2,0,1,6.25,0,0,0,0,0,0,79,0,79,33,True,False,False,Right-arm fast-medium,Right-hand bat
+Melbourne Stars,D Fallins,46fca863,15,0,0,0,0,0.0,"[5, 7, 9]",3.0,18,5,0,19,0,1,0,0,0,0,0,6.33,0,0,0,0,0,0,7,0,7,28,True,True,False,Legbreak,Right-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Derbyshire,DL Lloyd,0c7f11be,1,41,30,5,0,136.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,67,0,0,67
-Derbyshire,AHT Donald,72918338,2,84,41,8,4,204.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,158,0,0,158
-Derbyshire,WL Madsen,86e0f3f0,3,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Derbyshire,AT Thomson,ad286dcc,3,0,0,0,0,0.0,"[1, 7, 9, 11]",4.0,24,3,0,42,3,2,0,0,0,0,1,10.5,0,0,0,0,0,0,1,0,1
-Derbyshire,SR Patel,18fac429,4,8,6,1,0,133.33,"[8, 12, 16]",3.0,18,2,0,37,3,2,0,0,0,0,1,12.33,0,0,0,0,0,12,-4,0,8
-Derbyshire,PR Brown,1efd12d1,4,0,0,0,0,0.0,"[4, 10, 17, 19]",3.167,19,3,0,33,3,1,0,0,0,0,1,10.42,0,0,0,0,0,0,1,0,1
-Derbyshire,RA Whiteley,d346d939,5,3,10,0,0,30.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-3,0,0,-3
-Derbyshire,DM Dupavillon,7cb2d9d2,5,0,0,0,0,0.0,"[2, 5, 13, 15]",4.0,24,12,0,31,4,1,1,0,0,0,2,7.75,0,0,0,0,0,0,37,0,37
-Derbyshire,CD Fletcher,4af9f5d4,6,19,15,1,0,126.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,23,0,8,31
-Derbyshire,BD Guest,8159d5fc,7,15,13,1,0,115.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
-Derbyshire,ZJ Chappell,fe5b4367,8,1,1,0,0,100.0,"[3, 6, 14, 18]",4.0,24,6,0,39,3,2,0,0,0,0,0,9.75,0,0,0,0,0,1,6,0,7
-Yorkshire,A Lyth,70b8fd28,1,84,51,8,4,164.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,156,0,8,164
-Yorkshire,DJ Malan,ad9c32a2,2,79,48,8,3,164.58,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,145,0,0,145
-Yorkshire,JE Root,a343262c,3,14,10,0,1,140.0,"[16, 18, 20]",3.0,18,5,0,20,2,0,2,0,0,0,0,6.67,0,0,0,0,2,22,57,0,79
-Yorkshire,Shan Masood,6843a783,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Yorkshire,JH Wharton,42a5c1c7,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Yorkshire,JA Thompson,1d2f290a,5,0,0,0,0,0.0,"[8, 11, 17, 19]",4.0,24,3,0,27,1,0,1,0,0,0,1,6.75,2,0,0,0,0,0,30,16,46
-Yorkshire,ML Revis,28217d89,6,0,0,0,0,0.0,"[5, 13]",2.0,12,3,0,29,3,2,1,0,0,0,2,14.5,1,0,0,0,0,0,22,8,30
-Yorkshire,DM Bess,ad46c747,7,0,0,0,0,0.0,"[6, 10, 12, 14]",4.0,24,4,0,34,4,0,1,0,1,0,0,8.5,0,0,0,0,0,0,37,0,37
-Yorkshire,HG Duke,443b47a6,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Yorkshire,BM Cliff,3ebb940f,9,0,0,0,0,0.0,"[2, 4, 15]",3.0,18,4,0,31,5,0,1,0,0,0,0,10.33,0,0,0,0,0,0,27,0,27
-Yorkshire,D Moriarty,6ea2710f,10,0,0,0,0,0.0,"[1, 3, 7, 9]",4.0,24,6,0,36,1,2,0,0,0,0,1,9.0,1,0,0,0,0,0,6,8,14
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Derbyshire,DL Lloyd,0c7f11be,1,41,30,5,0,136.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,67,0,0,67,32,True,False,True,Right-arm medium,Right-hand bat
+Derbyshire,AHT Donald,72918338,2,84,41,8,4,204.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,158,0,0,158,28,True,False,False,Right-arm offbreak,Right-hand bat
+Derbyshire,WL Madsen,86e0f3f0,3,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,41,True,False,False,Right-arm offbreak,Right-hand bat
+Derbyshire,AT Thomson,ad286dcc,3,0,0,0,0,0.0,"[1, 7, 9, 11]",4.0,24,3,0,42,3,2,0,0,0,0,1,10.5,0,0,0,0,0,0,1,0,1,31,True,False,True,Right-arm offbreak,Right-hand bat
+Derbyshire,SR Patel,18fac429,4,8,6,1,0,133.33,"[8, 12, 16]",3.0,18,2,0,37,3,2,0,0,0,0,1,12.33,0,0,0,0,0,12,-4,0,8,40,True,False,True,Slow left-arm orthodox,Right-hand bat
+Derbyshire,PR Brown,1efd12d1,4,0,0,0,0,0.0,"[4, 10, 17, 19]",3.167,19,3,0,33,3,1,0,0,0,0,1,10.42,0,0,0,0,0,0,1,0,1,26,True,False,False,Right-arm fast-medium,Right-hand bat
+Derbyshire,RA Whiteley,d346d939,5,3,10,0,0,30.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-3,0,0,-3,36,True,False,False,Left-arm medium,Left-hand bat
+Derbyshire,DM Dupavillon,7cb2d9d2,5,0,0,0,0,0.0,"[2, 5, 13, 15]",4.0,24,12,0,31,4,1,1,0,0,0,2,7.75,0,0,0,0,0,0,37,0,37,30,True,False,False,Right-arm fast,Right-hand bat
+Derbyshire,CD Fletcher,4af9f5d4,6,19,15,1,0,126.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,23,0,8,31,32,True,False,False,,Right-hand bat
+Derbyshire,BD Guest,8159d5fc,7,15,13,1,0,115.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,27,True,False,False,,Right-hand bat
+Derbyshire,ZJ Chappell,fe5b4367,8,1,1,0,0,100.0,"[3, 6, 14, 18]",4.0,24,6,0,39,3,2,0,0,0,0,0,9.75,0,0,0,0,0,1,6,0,7,28,True,False,False,Right-arm fast-medium,Right-hand bat
+Yorkshire,A Lyth,70b8fd28,1,84,51,8,4,164.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,156,0,8,164,37,True,False,False,Right-arm offbreak,Left-hand bat
+Yorkshire,DJ Malan,ad9c32a2,2,79,48,8,3,164.58,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,145,0,0,145,37,True,False,False,Legbreak,Left-hand bat
+Yorkshire,JE Root,a343262c,3,14,10,0,1,140.0,"[16, 18, 20]",3.0,18,5,0,20,2,0,2,0,0,0,0,6.67,0,0,0,0,2,22,57,0,79,34,True,False,False,Right-arm offbreak,Right-hand bat
+Yorkshire,Shan Masood,6843a783,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,35,True,False,False,Right-arm medium-fast,Left-hand bat
+Yorkshire,JH Wharton,42a5c1c7,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,24,True,False,False,Right-arm offbreak,Right-hand bat
+Yorkshire,JA Thompson,1d2f290a,5,0,0,0,0,0.0,"[8, 11, 17, 19]",4.0,24,3,0,27,1,0,1,0,0,0,1,6.75,2,0,0,0,0,0,30,16,46,28,True,False,True,Right-arm medium-fast,Left-hand bat
+Yorkshire,ML Revis,28217d89,6,0,0,0,0,0.0,"[5, 13]",2.0,12,3,0,29,3,2,1,0,0,0,2,14.5,1,0,0,0,0,0,22,8,30,23,True,False,False,Right-arm medium-fast,Right-hand bat
+Yorkshire,DM Bess,ad46c747,7,0,0,0,0,0.0,"[6, 10, 12, 14]",4.0,24,4,0,34,4,0,1,0,1,0,0,8.5,0,0,0,0,0,0,37,0,37,27,True,False,True,Right-arm offbreak,Right-hand bat
+Yorkshire,HG Duke,443b47a6,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,23,True,False,False,,Right-hand bat
+Yorkshire,BM Cliff,3ebb940f,9,0,0,0,0,0.0,"[2, 4, 15]",3.0,18,4,0,31,5,0,1,0,0,0,0,10.33,0,0,0,0,0,0,27,0,27,22,True,True,False,Right-arm medium,Right-hand bat
+Yorkshire,D Moriarty,6ea2710f,10,0,0,0,0,0.0,"[1, 3, 7, 9]",4.0,24,6,0,36,1,2,0,0,0,0,1,9.0,1,0,0,0,0,0,6,8,14,26,True,False,False,Slow left-arm orthodox,Left-hand bat

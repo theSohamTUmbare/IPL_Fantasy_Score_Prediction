@@ -1,24 +1,24 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Brisbane Heat,JJ Peirson,2b55c3b4,1,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Brisbane Heat,BB McCullum,b8a55852,2,15,10,0,2,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27
-Brisbane Heat,SD Heazlett,e00a9155,3,8,5,1,0,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20
-Brisbane Heat,AI Ross,fb0d68b4,4,39,40,2,1,97.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,57,0,0,57
-Brisbane Heat,JA Burns,7a5f232a,5,23,23,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31
-Brisbane Heat,NJ Reardon,c7bdb5b5,6,12,9,2,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,20,0,8,28
-Brisbane Heat,BCJ Cutting,2e11c706,7,16,11,2,0,145.45,"[9, 13, 18, 20]",4.0,24,4,0,40,2,2,0,0,0,0,2,10.0,0,0,0,0,2,26,2,0,28
-Brisbane Heat,JD Wildermuth,f1c61793,8,6,9,1,0,66.67,"[5, 7, 11, 15]",4.0,24,7,0,29,1,0,1,0,0,0,1,7.25,2,0,0,0,0,10,32,16,58
-Brisbane Heat,MT Steketee,903560ed,9,3,3,0,0,100.0,"[2, 4, 16, 19]",4.0,24,11,0,32,2,0,2,0,0,0,5,8.0,1,0,0,0,0,3,61,8,72
-Brisbane Heat,MJ Swepson,86b4bf88,10,2,3,0,0,66.67,"[8, 10, 12, 14]",4.0,24,7,0,22,0,0,2,0,0,0,0,5.5,0,0,0,0,0,2,61,0,63
-Brisbane Heat,TS Mills,245c97cb,11,0,0,0,0,0.0,"[1, 3, 6, 17]",4.0,24,10,0,30,4,0,0,0,0,1,1,7.5,0,0,0,0,0,0,10,0,10
-Perth Scorchers,SE Marsh,508a1ea7,1,8,6,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
-Perth Scorchers,M Klinger,b970a03f,2,81,54,6,2,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,129,0,8,137
-Perth Scorchers,SM Whiteman,f4427cc6,3,12,13,0,0,92.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
-Perth Scorchers,IR Bell,33155d1b,4,14,15,1,0,93.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
-Perth Scorchers,AJ Turner,ff1e12a0,5,10,11,0,0,90.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,10,0,28,38
-Perth Scorchers,HWR Cartwright,ab965cad,6,13,17,1,0,76.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
-Perth Scorchers,AC Agar,a2421394,7,5,4,0,0,125.0,"[8, 10, 12, 14]",4.0,24,7,0,18,0,0,0,0,0,0,0,4.5,3,0,0,0,0,5,13,28,46
-Perth Scorchers,TT Bresnan,58043739,11,0,0,0,0,0.0,"[2, 9, 13, 16]",4.0,24,11,0,29,2,1,2,0,0,0,0,7.25,1,0,0,0,0,0,61,8,69
-Perth Scorchers,JA Richardson,1ee08e9a,12,0,0,0,0,0.0,"[4, 6, 15, 19]",4.0,24,9,0,34,2,2,2,0,0,0,0,8.5,0,0,0,0,0,0,59,0,59
-Perth Scorchers,MG Johnson,f5180fe6,13,0,0,0,0,0.0,"[1, 3, 5, 17]",4.0,24,14,1,25,4,0,2,0,0,0,0,6.25,0,0,0,0,0,0,78,0,78
-Perth Scorchers,AJ Tye,7c7d63a2,14,0,0,0,0,0.0,"[7, 11, 18, 20]",3.333,20,8,0,22,2,0,4,0,1,1,1,6.6,0,0,0,0,0,0,126,0,126
-Perth Scorchers,CT Bancroft,399b0b94,15,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Brisbane Heat,JJ Peirson,2b55c3b4,1,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,32,True,False,False,,Right-hand bat
+Brisbane Heat,BB McCullum,b8a55852,2,15,10,0,2,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27,43,True,True,False,Right-arm offbreak,Right-hand bat
+Brisbane Heat,SD Heazlett,e00a9155,3,8,5,1,0,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20,29,True,False,False,Slow left-arm orthodox,Left-hand bat
+Brisbane Heat,AI Ross,fb0d68b4,4,39,40,2,1,97.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,57,0,0,57,32,True,False,False,Right-arm offbreak,Right-hand bat
+Brisbane Heat,JA Burns,7a5f232a,5,23,23,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31,35,True,False,False,Right-arm offbreak,Right-hand bat
+Brisbane Heat,NJ Reardon,c7bdb5b5,6,12,9,2,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,20,0,8,28,40,True,False,False,Right-arm medium,Left-hand bat
+Brisbane Heat,BCJ Cutting,2e11c706,7,16,11,2,0,145.45,"[9, 13, 18, 20]",4.0,24,4,0,40,2,2,0,0,0,0,2,10.0,0,0,0,0,2,26,2,0,28,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Brisbane Heat,JD Wildermuth,f1c61793,8,6,9,1,0,66.67,"[5, 7, 11, 15]",4.0,24,7,0,29,1,0,1,0,0,0,1,7.25,2,0,0,0,0,10,32,16,58,31,True,False,True,Right-arm medium-fast,Right-hand bat
+Brisbane Heat,MT Steketee,903560ed,9,3,3,0,0,100.0,"[2, 4, 16, 19]",4.0,24,11,0,32,2,0,2,0,0,0,5,8.0,1,0,0,0,0,3,61,8,72,31,True,False,False,Right-arm fast-medium,Right-hand bat
+Brisbane Heat,MJ Swepson,86b4bf88,10,2,3,0,0,66.67,"[8, 10, 12, 14]",4.0,24,7,0,22,0,0,2,0,0,0,0,5.5,0,0,0,0,0,2,61,0,63,31,True,False,False,Legbreak,Right-hand bat
+Brisbane Heat,TS Mills,245c97cb,11,0,0,0,0,0.0,"[1, 3, 6, 17]",4.0,24,10,0,30,4,0,0,0,0,1,1,7.5,0,0,0,0,0,0,10,0,10,32,True,False,False,Left-arm fast,Right-hand bat
+Perth Scorchers,SE Marsh,508a1ea7,1,8,6,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,41,True,False,False,Slow left-arm orthodox,Left-hand bat
+Perth Scorchers,M Klinger,b970a03f,2,81,54,6,2,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,129,0,8,137,44,True,False,False,,Right-hand bat
+Perth Scorchers,SM Whiteman,f4427cc6,3,12,13,0,0,92.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,33,True,False,False,,Left-hand bat
+Perth Scorchers,IR Bell,33155d1b,4,14,15,1,0,93.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,42,True,False,False,Right-arm medium,Right-hand bat
+Perth Scorchers,AJ Turner,ff1e12a0,5,10,11,0,0,90.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,10,0,28,38,32,True,False,False,Right-arm offbreak,Right-hand bat
+Perth Scorchers,HWR Cartwright,ab965cad,6,13,17,1,0,76.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,33,True,False,False,Right-arm medium,Right-hand bat
+Perth Scorchers,AC Agar,a2421394,7,5,4,0,0,125.0,"[8, 10, 12, 14]",4.0,24,7,0,18,0,0,0,0,0,0,0,4.5,3,0,0,0,0,5,13,28,46,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+Perth Scorchers,TT Bresnan,58043739,11,0,0,0,0,0.0,"[2, 9, 13, 16]",4.0,24,11,0,29,2,1,2,0,0,0,0,7.25,1,0,0,0,0,0,61,8,69,40,True,False,True,Right-arm medium-fast,Right-hand bat
+Perth Scorchers,JA Richardson,1ee08e9a,12,0,0,0,0,0.0,"[4, 6, 15, 19]",4.0,24,9,0,34,2,2,2,0,0,0,0,8.5,0,0,0,0,0,0,59,0,59,28,True,False,False,Right-arm fast,Right-hand bat
+Perth Scorchers,MG Johnson,f5180fe6,13,0,0,0,0,0.0,"[1, 3, 5, 17]",4.0,24,14,1,25,4,0,2,0,0,0,0,6.25,0,0,0,0,0,0,78,0,78,43,True,False,False,Left-arm fast,Left-hand bat
+Perth Scorchers,AJ Tye,7c7d63a2,14,0,0,0,0,0.0,"[7, 11, 18, 20]",3.333,20,8,0,22,2,0,4,0,1,1,1,6.6,0,0,0,0,0,0,126,0,126,38,True,False,False,Right-arm medium-fast,Right-hand bat
+Perth Scorchers,CT Bancroft,399b0b94,15,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,32,True,False,False,,Right-hand bat

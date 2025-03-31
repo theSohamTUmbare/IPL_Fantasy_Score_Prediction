@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Bihar,Mangal Mahrour,97c06e86,1,0,6,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Bihar,Piyush Singh,afab6988,2,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Bihar,Babul Kumar,85e6ccde,3,13,13,2,0,100.0,"[11, 13]",2.0,12,5,0,14,2,0,0,0,0,0,0,7.0,0,0,0,0,0,21,7,0,28
-Bihar,Keshav Kumar,722ca1f2,4,43,40,4,1,107.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,69,0,20,89
-Bihar,Asfan Khan,fc3d382b,5,2,12,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,0,0,-6,-4,0,28,24
-Bihar,Puneet Malik,394e31d8,6,33,30,3,2,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,61,0,0,61
-Bihar,Samar Quadri,258fa633,7,1,2,0,0,50.0,"[10, 12, 18, 20]",4.0,24,7,0,40,2,3,0,0,0,0,0,10.0,0,0,0,0,0,1,5,0,6
-Bihar,Vivek Kumar,a97c96bf,8,18,5,1,2,360.0,"[1, 8, 14, 16]",4.0,24,11,0,28,4,0,0,0,0,1,0,7.0,2,0,0,0,0,34,13,16,63
-Bihar,Prashant Singh,5b2a1532,9,6,4,1,0,150.0,"[3, 5, 17]",3.0,18,11,1,16,3,0,2,0,0,0,0,5.33,0,0,0,0,0,10,77,0,87
-Bihar,Ashutosh Aman,4948a916,10,0,1,0,0,0.0,"[7, 9, 15, 19]",4.0,24,12,0,15,0,0,4,0,0,0,0,3.75,0,0,0,0,0,-2,126,0,124
-Bihar,Vishal Das,e5eb5edf,11,1,1,0,0,100.0,"[2, 4, 6]",3.0,18,14,1,10,2,0,1,0,0,0,0,3.33,0,0,0,0,0,1,57,0,58
-Meghalaya,RR Biswa,2df87089,1,20,13,5,0,153.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,44,0,0,44
-Meghalaya,Y Nagar,662c47a6,2,9,6,2,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,17,0,12,29
-Meghalaya,Punit Bisht,310bddc0,3,2,10,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,-6,-4,0,20,16
-Meghalaya,Larry Sangma,77f6fd61,4,0,10,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,-6,-8,0,20,12
-Meghalaya,Gurinder Singh,911d04ad,5,39,36,1,2,108.33,"[8, 10, 12, 18]",4.0,24,14,0,15,1,0,1,0,0,0,1,3.75,1,0,0,0,0,59,45,8,112
-Meghalaya,Abhay Negi,481dd6dc,6,26,22,3,1,118.18,"[1, 3, 5, 19]",4.0,24,14,0,32,4,1,1,0,0,1,2,8.0,1,0,1,0,0,48,39,20,107
-Meghalaya,Swarajeet Das,324a6e1e,7,6,6,0,0,100.0,[15],1.0,6,1,0,13,1,1,0,0,0,0,0,13.0,0,0,0,0,0,6,1,0,7
-Meghalaya,A Singhania,791a65ce,8,18,14,2,0,128.57,"[14, 16, 20]",2.833,17,3,0,32,2,2,1,0,0,0,0,11.3,0,0,0,0,0,26,24,0,50
-Meghalaya,Amiangshu Sen,42046ec9,9,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Meghalaya,Akash Choudhary,0f60513c,10,1,1,0,0,100.0,"[2, 4, 6, 17]",4.0,24,17,0,21,2,1,1,0,0,0,2,5.25,0,0,1,0,0,1,46,12,59
-Meghalaya,Lakhan Singh,ad72e8cc,11,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,17,0,13,1,0,1,0,0,0,3,3.25,0,0,0,0,0,0,48,0,48
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bihar,Mangal Mahrour,97c06e86,1,0,6,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,32,True,True,False,Right-arm medium,Right-hand bat
+Bihar,Piyush Singh,afab6988,2,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,23,True,False,False,Right-arm offbreak,Right-hand bat
+Bihar,Babul Kumar,85e6ccde,3,13,13,2,0,100.0,"[11, 13]",2.0,12,5,0,14,2,0,0,0,0,0,0,7.0,0,0,0,0,0,21,7,0,28,32,True,False,False,,Right-hand bat
+Bihar,Keshav Kumar,722ca1f2,4,43,40,4,1,107.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,69,0,20,89,36,True,False,False,,Right-hand bat
+Bihar,Asfan Khan,fc3d382b,5,2,12,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,0,0,-6,-4,0,28,24,30,True,False,False,,Right-hand bat
+Bihar,Puneet Malik,394e31d8,6,33,30,3,2,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,61,0,0,61,33,True,True,False,Right-arm medium,Right-hand bat
+Bihar,Samar Quadri,258fa633,7,1,2,0,0,50.0,"[10, 12, 18, 20]",4.0,24,7,0,40,2,3,0,0,0,0,0,10.0,0,0,0,0,0,1,5,0,6,35,True,True,False,Legbreak googly,Right-hand bat
+Bihar,Vivek Kumar,a97c96bf,8,18,5,1,2,360.0,"[1, 8, 14, 16]",4.0,24,11,0,28,4,0,0,0,0,1,0,7.0,2,0,0,0,0,34,13,16,63,30,True,True,False,Right-arm medium,Right-hand bat
+Bihar,Prashant Singh,5b2a1532,9,6,4,1,0,150.0,"[3, 5, 17]",3.0,18,11,1,16,3,0,2,0,0,0,0,5.33,0,0,0,0,0,10,77,0,87,24,True,True,False,Right-arm medium,Right-hand bat
+Bihar,Ashutosh Aman,4948a916,10,0,1,0,0,0.0,"[7, 9, 15, 19]",4.0,24,12,0,15,0,0,4,0,0,0,0,3.75,0,0,0,0,0,-2,126,0,124,38,True,False,True,Slow left-arm orthodox,Right-hand bat
+Bihar,Vishal Das,e5eb5edf,11,1,1,0,0,100.0,"[2, 4, 6]",3.0,18,14,1,10,2,0,1,0,0,0,0,3.33,0,0,0,0,0,1,57,0,58,36,True,True,False,Right-arm medium,Right-hand bat
+Meghalaya,RR Biswa,2df87089,1,20,13,5,0,153.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,44,0,0,44,31,True,True,False,Right-arm offbreak,Right-hand bat
+Meghalaya,Y Nagar,662c47a6,2,9,6,2,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,17,0,12,29,35,True,False,True,Right-arm offbreak,Right-hand bat
+Meghalaya,Punit Bisht,310bddc0,3,2,10,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,-6,-4,0,20,16,38,True,False,False,,Right-hand bat
+Meghalaya,Larry Sangma,77f6fd61,4,0,10,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,-6,-8,0,20,12,32,True,True,False,Right-arm medium-fast,Right-hand bat
+Meghalaya,Gurinder Singh,911d04ad,5,39,36,1,2,108.33,"[8, 10, 12, 18]",4.0,24,14,0,15,1,0,1,0,0,0,1,3.75,1,0,0,0,0,59,45,8,112,32,True,False,True,Slow left-arm orthodox,Right-hand bat
+Meghalaya,Abhay Negi,481dd6dc,6,26,22,3,1,118.18,"[1, 3, 5, 19]",4.0,24,14,0,32,4,1,1,0,0,1,2,8.0,1,0,1,0,0,48,39,20,107,32,True,False,True,Right-arm medium,Right-hand bat
+Meghalaya,Swarajeet Das,324a6e1e,7,6,6,0,0,100.0,[15],1.0,6,1,0,13,1,1,0,0,0,0,0,13.0,0,0,0,0,0,6,1,0,7,33,True,True,False,Right-arm medium,Right-hand bat
+Meghalaya,A Singhania,791a65ce,8,18,14,2,0,128.57,"[14, 16, 20]",2.833,17,3,0,32,2,2,1,0,0,0,0,11.3,0,0,0,0,0,26,24,0,50,34,True,True,False,Slow left-arm orthodox,Right-hand bat
+Meghalaya,Amiangshu Sen,42046ec9,9,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,30,True,True,False,Right-arm medium,Right-hand bat
+Meghalaya,Akash Choudhary,0f60513c,10,1,1,0,0,100.0,"[2, 4, 6, 17]",4.0,24,17,0,21,2,1,1,0,0,0,2,5.25,0,0,1,0,0,1,46,12,59,25,True,True,False,Right-arm medium-fast,Right-hand bat
+Meghalaya,Lakhan Singh,ad72e8cc,11,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,17,0,13,1,0,1,0,0,0,3,3.25,0,0,0,0,0,0,48,0,48,26,True,True,False,Right-arm medium,Right-hand bat

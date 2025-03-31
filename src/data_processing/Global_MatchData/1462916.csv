@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Nigeria,Sulaimon Runsewe,c25d26dc,1,20,14,3,0,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,2,34,0,14,48
-Nigeria,Selim Salau,d18d3a0f,2,39,32,2,2,121.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,63,0,6,69
-Nigeria,O Olaleye,811785d2,3,9,12,1,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
-Nigeria,I Danladi,c156cc1f,4,2,3,0,0,66.67,"[14, 16]",2.0,12,3,0,18,1,0,1,0,0,0,4,9.0,2,0,0,0,0,2,28,16,46
-Nigeria,SA Okpe,681f522f,5,14,7,1,1,200.0,"[4, 9, 11, 13]",4.0,24,9,0,26,2,0,2,0,0,0,1,6.5,1,0,0,0,0,24,61,8,93
-Nigeria,IO Okpe,1c5c3dce,6,2,2,0,0,100.0,"[5, 7, 17, 19]",4.0,24,13,0,28,3,1,3,0,1,0,2,7.0,1,0,0,0,0,2,102,8,112
-Nigeria,R Abdulkareem,b9e07e44,6,0,0,0,0,0.0,"[8, 10, 15]",3.0,18,7,0,20,1,0,1,0,0,0,2,6.67,0,0,0,0,0,0,34,0,34
-Nigeria,Mohameed Taiwo,a9d788e3,7,0,0,0,0,0.0,"[1, 3]",2.0,12,6,0,15,0,1,1,0,0,0,3,7.5,1,0,0,0,0,0,31,8,39
-Nigeria,I Uboh,baf3cf01,8,0,0,0,0,0.0,[12],1.0,6,2,0,9,0,1,0,0,0,0,0,9.0,0,0,0,0,0,0,2,0,2
-Nigeria,M Akhigbe,32613355,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Nigeria,P Aho,2e392afa,10,0,0,0,0,0.0,"[2, 6, 18, 20]",3.5,21,12,0,18,0,1,1,0,1,0,2,5.14,1,0,0,0,0,0,49,8,57
-Rwanda,O Manishimwe,fb31ca49,1,20,19,2,0,105.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
-Rwanda,D Ndikubwimana,3cbedf51,2,8,8,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,14,0,6,20
-Rwanda,I Niyomugabo,72bf5103,3,36,32,2,1,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,54,0,6,60
-Rwanda,O Tuyisenge,e6a6888f,4,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
-Rwanda,D Gumyusenge,eeb78e0a,5,32,26,3,1,123.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,54,0,8,62
-Rwanda,RJ Pierre,4fc115af,6,0,1,0,0,0.0,"[6, 8]",2.0,12,2,0,14,1,0,0,0,0,0,1,7.0,0,0,0,0,0,0,4,0,4
-Rwanda,E Rukiriza,3ac13a94,7,2,4,0,0,50.0,[10],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,2,1,0,3
-Rwanda,M Akayezu,1f3b9f8d,8,5,6,0,0,83.33,"[5, 11]",2.0,12,8,0,9,1,0,2,0,0,0,1,4.5,1,0,0,0,0,5,64,8,77
-Rwanda,Muhammad Nadir,090f96e4,9,13,11,0,1,118.18,"[3, 7, 9]",3.0,18,6,0,17,1,0,1,0,1,1,0,5.67,0,0,0,0,0,19,43,0,62
-Rwanda,Z Bimenyimana,ba57fb08,10,0,3,0,0,0.0,"[1, 12]",1.667,10,4,0,19,2,1,0,0,0,0,0,11.4,0,0,0,0,0,-2,4,0,2
-Rwanda,I Ntirenganya,e73f6c4b,11,0,3,0,0,0.0,"[2, 4]",2.0,12,4,0,22,1,2,0,0,0,0,0,11.0,0,0,0,0,0,-2,2,0,0
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Nigeria,Sulaimon Runsewe,c25d26dc,1,20,14,3,0,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,2,34,0,14,48,23,True,True,False,Right-arm offbreak,Right-hand bat
+Nigeria,Selim Salau,d18d3a0f,2,39,32,2,2,121.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,63,0,6,69,19,True,False,False,,Right-hand bat
+Nigeria,O Olaleye,811785d2,3,9,12,1,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,23,True,False,False,Right-arm offbreak,Right-hand bat
+Nigeria,I Danladi,c156cc1f,4,2,3,0,0,66.67,"[14, 16]",2.0,12,3,0,18,1,0,1,0,0,0,4,9.0,2,0,0,0,0,2,28,16,46,22,True,True,False,Slow left-arm orthodox,Left-hand bat
+Nigeria,SA Okpe,681f522f,5,14,7,1,1,200.0,"[4, 9, 11, 13]",4.0,24,9,0,26,2,0,2,0,0,0,1,6.5,1,0,0,0,0,24,61,8,93,24,True,True,False,Right-arm offbreak,Right-hand bat
+Nigeria,IO Okpe,1c5c3dce,6,2,2,0,0,100.0,"[5, 7, 17, 19]",4.0,24,13,0,28,3,1,3,0,1,0,2,7.0,1,0,0,0,0,2,102,8,112,29,True,True,False,Right-arm medium,Right-hand bat
+Nigeria,R Abdulkareem,b9e07e44,6,0,0,0,0,0.0,"[8, 10, 15]",3.0,18,7,0,20,1,0,1,0,0,0,2,6.67,0,0,0,0,0,0,34,0,34,20,True,True,False,Right-arm offbreak,Right-hand bat
+Nigeria,Mohameed Taiwo,a9d788e3,7,0,0,0,0,0.0,"[1, 3]",2.0,12,6,0,15,0,1,1,0,0,0,3,7.5,1,0,0,0,0,0,31,8,39,22,True,False,False,Left-arm fast-medium,Left-hand bat
+Nigeria,I Uboh,baf3cf01,8,0,0,0,0,0.0,[12],1.0,6,2,0,9,0,1,0,0,0,0,0,9.0,0,0,0,0,0,0,2,0,2,24,True,True,False,Right-arm medium,Right-hand bat
+Nigeria,M Akhigbe,32613355,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,22,True,False,False,,Right-hand bat
+Nigeria,P Aho,2e392afa,10,0,0,0,0,0.0,"[2, 6, 18, 20]",3.5,21,12,0,18,0,1,1,0,1,0,2,5.14,1,0,0,0,0,0,49,8,57,22,True,True,False,Right-arm medium-fast,Right-hand bat
+Rwanda,O Manishimwe,fb31ca49,1,20,19,2,0,105.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28,22,True,False,False,,Right-hand bat
+Rwanda,D Ndikubwimana,3cbedf51,2,8,8,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,14,0,6,20,21,True,False,False,,Right-hand bat
+Rwanda,I Niyomugabo,72bf5103,3,36,32,2,1,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,54,0,6,60,21,True,False,False,,Right-hand bat
+Rwanda,O Tuyisenge,e6a6888f,4,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,24,True,False,False,,Right-hand bat
+Rwanda,D Gumyusenge,eeb78e0a,5,32,26,3,1,123.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,54,0,8,62,21,True,True,False,Right-arm medium-fast,Right-hand bat
+Rwanda,RJ Pierre,4fc115af,6,0,1,0,0,0.0,"[6, 8]",2.0,12,2,0,14,1,0,0,0,0,0,1,7.0,0,0,0,0,0,0,4,0,4,22,True,False,False,,
+Rwanda,E Rukiriza,3ac13a94,7,2,4,0,0,50.0,[10],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,2,1,0,3,21,True,True,False,Right-arm offbreak,Right-hand bat
+Rwanda,M Akayezu,1f3b9f8d,8,5,6,0,0,83.33,"[5, 11]",2.0,12,8,0,9,1,0,2,0,0,0,1,4.5,1,0,0,0,0,5,64,8,77,22,True,True,False,Right-arm medium,Right-hand bat
+Rwanda,Muhammad Nadir,090f96e4,9,13,11,0,1,118.18,"[3, 7, 9]",3.0,18,6,0,17,1,0,1,0,1,1,0,5.67,0,0,0,0,0,19,43,0,62,26,True,True,False,Slow left-arm orthodox,Left-hand bat
+Rwanda,Z Bimenyimana,ba57fb08,10,0,3,0,0,0.0,"[1, 12]",1.667,10,4,0,19,2,1,0,0,0,0,0,11.4,0,0,0,0,0,-2,4,0,2,26,True,True,False,Right-arm medium,Right-hand bat
+Rwanda,I Ntirenganya,e73f6c4b,11,0,3,0,0,0.0,"[2, 4]",2.0,12,4,0,22,1,2,0,0,0,0,0,11.0,0,0,0,0,0,-2,2,0,0,22,True,True,False,Left-arm medium,Right-hand bat

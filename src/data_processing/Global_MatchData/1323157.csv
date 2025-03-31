@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Barbados Royals,KR Mayers,73c18486,1,12,9,1,1,133.33,"[1, 3, 5]",3.0,18,13,0,11,2,0,1,0,0,0,1,3.67,1,0,0,0,0,22,44,8,74
-Barbados Royals,Q de Kock,372455c4,2,64,53,7,0,120.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,100,0,0,100
-Barbados Royals,C Bosch,172dff15,3,56,49,3,2,114.29,[18],1.0,6,2,0,4,0,0,1,0,0,0,0,4.0,0,0,0,0,0,88,27,0,115
-Barbados Royals,DA Miller,d67d5f00,4,17,8,1,1,212.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,27,0,8,35
-Barbados Royals,Azam Khan,ee8f1a6d,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Barbados Royals,JO Holder,0f721006,5,0,0,0,0,0.0,"[6, 11, 13, 20]",4.0,24,10,0,24,1,1,2,0,0,0,0,6.0,2,0,0,0,0,0,62,16,78
-Barbados Royals,DC Thomas,08a4f9ad,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Barbados Royals,HR Walsh,1ac2a995,7,0,0,0,0,0.0,"[8, 10, 15]",3.0,18,7,0,35,2,3,0,0,0,0,1,11.67,1,0,0,0,0,0,3,8,11
-Barbados Royals,OC McCoy,529eb9e0,8,0,0,0,0,0.0,"[9, 14, 17, 19]",4.0,24,8,0,24,1,0,3,0,0,0,2,6.0,1,0,0,0,0,0,89,8,97
-Barbados Royals,O Thomas,c6097d68,9,0,0,0,0,0.0,"[7, 12]",2.0,12,4,0,31,3,2,0,0,0,1,0,15.5,1,0,0,0,0,0,-2,8,6
-Barbados Royals,TJ Bishop,c68554a6,10,0,0,0,0,0.0,"[2, 4, 16]",3.0,18,7,0,25,1,2,1,0,0,0,0,8.33,0,0,0,0,0,0,32,0,32
-Jamaica Tallawahs,BA King,7fca84b7,1,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Jamaica Tallawahs,K Lewis,b0081e62,2,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Jamaica Tallawahs,AA Jangoo,88626ed2,3,30,36,2,1,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,48,0,0,48
-Jamaica Tallawahs,R Powell,650d5e49,4,52,30,5,3,173.33,[20],0.833,5,1,0,4,0,0,0,0,0,0,0,4.8,0,0,0,0,6,104,1,0,105
-Jamaica Tallawahs,Mohammad Amir,e174dadd,4,0,0,0,0,0.0,"[1, 3, 12, 18]",4.0,24,6,0,26,1,0,1,0,1,0,1,6.5,0,0,0,0,0,0,41,0,41
-Jamaica Tallawahs,RA Reifer,d7725664,5,41,26,1,3,157.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,71,0,0,71
-Jamaica Tallawahs,FA Allen,b52ffbbd,6,20,10,2,1,200.0,[15],1.0,6,1,0,10,0,1,0,0,0,0,0,10.0,0,0,0,0,6,40,1,0,41
-Jamaica Tallawahs,Imad Wasim,9cb8d7a6,7,3,4,0,0,75.0,"[7, 9, 11, 13]",4.0,24,6,0,31,2,1,0,0,0,0,0,7.75,0,0,0,0,0,3,6,0,9
-Jamaica Tallawahs,CJ Green,19b9f399,8,0,4,0,0,0.0,"[2, 4, 6, 8]",4.0,24,13,0,24,2,1,1,0,1,0,0,6.0,0,0,0,0,0,-2,48,0,46
-Jamaica Tallawahs,M Pretorius,54c2b697,9,2,3,0,0,66.67,"[5, 10, 16, 19]",4.0,24,3,0,37,4,1,0,0,0,0,0,9.25,0,0,0,0,0,2,3,0,5
-Jamaica Tallawahs,JM James,24f6e254,10,0,0,0,0,0.0,"[14, 17]",2.0,12,3,0,18,3,0,0,0,0,0,0,9.0,0,0,0,0,0,0,3,0,3
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Barbados Royals,KR Mayers,73c18486,1,12,9,1,1,133.33,"[1, 3, 5]",3.0,18,13,0,11,2,0,1,0,0,0,1,3.67,1,0,0,0,0,22,44,8,74,32,True,False,True,Right-arm medium,Left-hand bat
+Barbados Royals,Q de Kock,372455c4,2,64,53,7,0,120.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,100,0,0,100,32,True,False,False,,Left-hand bat
+Barbados Royals,C Bosch,172dff15,3,56,49,3,2,114.29,[18],1.0,6,2,0,4,0,0,1,0,0,0,0,4.0,0,0,0,0,0,88,27,0,115,30,True,False,True,Right-arm fast-medium,Right-hand bat
+Barbados Royals,DA Miller,d67d5f00,4,17,8,1,1,212.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,27,0,8,35,35,True,False,False,Right-arm offbreak,Left-hand bat
+Barbados Royals,Azam Khan,ee8f1a6d,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,False,False,,Right-hand bat
+Barbados Royals,JO Holder,0f721006,5,0,0,0,0,0.0,"[6, 11, 13, 20]",4.0,24,10,0,24,1,1,2,0,0,0,0,6.0,2,0,0,0,0,0,62,16,78,33,True,False,True,Right-arm medium-fast,Right-hand bat
+Barbados Royals,DC Thomas,08a4f9ad,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,35,True,False,False,Right-arm medium,Right-hand bat
+Barbados Royals,HR Walsh,1ac2a995,7,0,0,0,0,0.0,"[8, 10, 15]",3.0,18,7,0,35,2,3,0,0,0,0,1,11.67,1,0,0,0,0,0,3,8,11,32,True,False,False,Legbreak googly,Left-hand bat
+Barbados Royals,OC McCoy,529eb9e0,8,0,0,0,0,0.0,"[9, 14, 17, 19]",4.0,24,8,0,24,1,0,3,0,0,0,2,6.0,1,0,0,0,0,0,89,8,97,28,True,False,False,Left-arm fast-medium,Left-hand bat
+Barbados Royals,O Thomas,c6097d68,9,0,0,0,0,0.0,"[7, 12]",2.0,12,4,0,31,3,2,0,0,0,1,0,15.5,1,0,0,0,0,0,-2,8,6,28,True,False,False,Right-arm fast,Left-hand bat
+Barbados Royals,TJ Bishop,c68554a6,10,0,0,0,0,0.0,"[2, 4, 16]",3.0,18,7,0,25,1,2,1,0,0,0,0,8.33,0,0,0,0,0,0,32,0,32,22,True,False,False,,Right-hand bat
+Jamaica Tallawahs,BA King,7fca84b7,1,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,30,True,False,False,,Right-hand bat
+Jamaica Tallawahs,K Lewis,b0081e62,2,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,33,True,False,False,,Right-hand bat
+Jamaica Tallawahs,AA Jangoo,88626ed2,3,30,36,2,1,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,48,0,0,48,27,True,False,False,,Left-hand bat
+Jamaica Tallawahs,R Powell,650d5e49,4,52,30,5,3,173.33,[20],0.833,5,1,0,4,0,0,0,0,0,0,0,4.8,0,0,0,0,6,104,1,0,105,31,True,False,False,Right-arm medium-fast,Right-hand bat
+Jamaica Tallawahs,Mohammad Amir,e174dadd,4,0,0,0,0,0.0,"[1, 3, 12, 18]",4.0,24,6,0,26,1,0,1,0,1,0,1,6.5,0,0,0,0,0,0,41,0,41,32,True,False,False,Left-arm fast-medium,Left-hand bat
+Jamaica Tallawahs,RA Reifer,d7725664,5,41,26,1,3,157.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,71,0,0,71,33,True,False,True,Left-arm medium-fast,Left-hand bat
+Jamaica Tallawahs,FA Allen,b52ffbbd,6,20,10,2,1,200.0,[15],1.0,6,1,0,10,0,1,0,0,0,0,0,10.0,0,0,0,0,6,40,1,0,41,29,True,False,True,Slow left-arm orthodox,Right-hand bat
+Jamaica Tallawahs,Imad Wasim,9cb8d7a6,7,3,4,0,0,75.0,"[7, 9, 11, 13]",4.0,24,6,0,31,2,1,0,0,0,0,0,7.75,0,0,0,0,0,3,6,0,9,36,True,False,True,Slow left-arm orthodox,Left-hand bat
+Jamaica Tallawahs,CJ Green,19b9f399,8,0,4,0,0,0.0,"[2, 4, 6, 8]",4.0,24,13,0,24,2,1,1,0,1,0,0,6.0,0,0,0,0,0,-2,48,0,46,31,True,False,True,Right-arm offbreak,Right-hand bat
+Jamaica Tallawahs,M Pretorius,54c2b697,9,2,3,0,0,66.67,"[5, 10, 16, 19]",4.0,24,3,0,37,4,1,0,0,0,0,0,9.25,0,0,0,0,0,2,3,0,5,30,True,False,False,Right-arm fast-medium,Right-hand bat
+Jamaica Tallawahs,JM James,24f6e254,10,0,0,0,0,0.0,"[14, 17]",2.0,12,3,0,18,3,0,0,0,0,0,0,9.0,0,0,0,0,0,0,3,0,3,24,True,False,False,Right-arm medium,Right-hand bat

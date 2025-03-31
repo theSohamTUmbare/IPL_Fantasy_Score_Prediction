@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Nepal,K Bhurtel,e3386c8a,1,62,43,8,1,144.19,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,110,0,0,110
-Nepal,Aasif Sheikh,dcbea954,2,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Nepal,G Malla,b2e1d224,3,20,14,2,1,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,36,0,8,44
-Nepal,DS Airee,1747ea18,4,60,30,3,5,200.0,"[4, 8]",2.0,12,3,0,12,1,0,0,0,0,0,0,6.0,2,0,0,0,6,116,5,16,137
-Nepal,Kushal Malla,7e9f1cde,5,18,7,0,3,257.14,"[14, 16]",2.0,12,5,0,12,2,0,1,0,0,0,0,6.0,0,0,0,0,0,36,32,0,68
-Nepal,B Bhandari,82342b13,6,7,7,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,7,0,20,27
-Nepal,Karan KC,f53b3e1d,7,1,2,0,0,50.0,"[5, 7, 15, 20]",3.5,21,6,0,38,7,0,1,0,0,0,1,10.86,0,0,0,0,0,1,29,0,30
-Nepal,Sompal Kami,1adb8ee8,8,21,13,2,1,161.54,"[1, 3]",2.0,12,4,0,23,4,0,0,0,0,1,3,11.5,0,0,0,0,4,39,0,0,39
-Nepal,A Bohara,64fb6b15,9,0,0,0,0,0.0,"[10, 12, 17, 19]",4.0,24,5,0,43,2,3,1,0,0,0,0,10.75,0,0,0,0,0,0,28,0,28
-Nepal,Shahab Alam,cdd9fa95,10,0,0,0,0,0.0,"[9, 11]",2.0,12,4,0,23,1,2,0,0,0,0,0,11.5,0,0,0,0,0,0,0,0,0
-Nepal,S Lamichhane,b410bd3d,11,0,0,0,0,0.0,"[2, 6, 13, 18]",4.0,24,12,0,48,6,3,4,1,0,0,1,12.0,1,0,0,0,0,0,124,8,132
-Netherlands,MP O'Dowd,b699df47,1,9,7,2,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
-Netherlands,TP Visee,881b3f8e,2,15,11,3,0,136.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,29,0,8,37
-Netherlands,BN Cooper,634a7b21,3,55,35,10,0,157.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,107,0,8,115
-Netherlands,BFW de Leede,fc4375ef,4,81,42,7,5,192.86,"[4, 10, 18]",3.0,18,4,0,33,5,0,1,0,0,0,3,11.0,3,0,0,0,6,157,27,28,212
-Netherlands,A Dutt,803dbf1d,5,0,3,0,0,0.0,"[13, 17]",2.0,12,3,0,22,0,2,1,0,0,1,1,11.0,0,0,0,0,0,-2,26,0,24
-Netherlands,PM Seelaar,abbdca1a,6,31,15,1,3,206.67,"[7, 9, 11, 16]",4.0,24,10,0,37,0,4,2,0,0,0,0,9.25,0,0,0,0,6,63,60,0,123
-Netherlands,SA Edwards,b59db04f,7,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Netherlands,AJ Staal,62c713bf,8,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Netherlands,JL de Mey,c9f851b0,9,0,0,0,0,0.0,"[3, 8, 14]",3.0,18,4,0,32,2,2,0,0,0,0,0,10.67,0,0,0,0,0,0,2,0,2
-Netherlands,PA van Meekeren,4557dc54,9,0,0,0,0,0.0,"[1, 5, 12, 19]",4.0,24,8,0,34,3,1,0,0,0,1,4,8.5,1,0,0,0,0,0,8,8,16
-Netherlands,VJ Kingma,3a7ea906,10,0,0,0,0,0.0,"[2, 6, 15, 20]",4.0,24,9,0,44,5,2,2,0,0,1,2,11.0,0,0,0,0,0,0,57,0,57
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Nepal,K Bhurtel,e3386c8a,1,62,43,8,1,144.19,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,110,0,0,110,28,True,False,False,Legbreak googly,Right-hand bat
+Nepal,Aasif Sheikh,dcbea954,2,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,23,True,False,False,,Right-hand bat
+Nepal,G Malla,b2e1d224,3,20,14,2,1,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,36,0,8,44,34,True,False,False,,Right-hand bat
+Nepal,DS Airee,1747ea18,4,60,30,3,5,200.0,"[4, 8]",2.0,12,3,0,12,1,0,0,0,0,0,0,6.0,2,0,0,0,6,116,5,16,137,25,True,False,False,Right-arm offbreak,Right-hand bat
+Nepal,Kushal Malla,7e9f1cde,5,18,7,0,3,257.14,"[14, 16]",2.0,12,5,0,12,2,0,1,0,0,0,0,6.0,0,0,0,0,0,36,32,0,68,21,True,False,True,Slow left-arm orthodox,Left-hand bat
+Nepal,B Bhandari,82342b13,6,7,7,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,7,0,20,27,35,True,True,False,Right-arm bowler,Right-hand bat
+Nepal,Karan KC,f53b3e1d,7,1,2,0,0,50.0,"[5, 7, 15, 20]",3.5,21,6,0,38,7,0,1,0,0,0,1,10.86,0,0,0,0,0,1,29,0,30,33,True,False,True,Right-arm fast,Right-hand bat
+Nepal,Sompal Kami,1adb8ee8,8,21,13,2,1,161.54,"[1, 3]",2.0,12,4,0,23,4,0,0,0,0,1,3,11.5,0,0,0,0,4,39,0,0,39,29,True,False,True,Right-arm fast-medium,Right-hand bat
+Nepal,A Bohara,64fb6b15,9,0,0,0,0,0.0,"[10, 12, 17, 19]",4.0,24,5,0,43,2,3,1,0,0,0,0,10.75,0,0,0,0,0,0,28,0,28,27,True,False,False,Right-arm medium,Right-hand bat
+Nepal,Shahab Alam,cdd9fa95,10,0,0,0,0,0.0,"[9, 11]",2.0,12,4,0,23,1,2,0,0,0,0,0,11.5,0,0,0,0,0,0,0,0,0,25,True,False,False,Slow left-arm orthodox,Right-hand bat
+Nepal,S Lamichhane,b410bd3d,11,0,0,0,0,0.0,"[2, 6, 13, 18]",4.0,24,12,0,48,6,3,4,1,0,0,1,12.0,1,0,0,0,0,0,124,8,132,24,True,False,False,Legbreak googly,Right-hand bat
+Netherlands,MP O'Dowd,b699df47,1,9,7,2,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,31,True,False,False,Right-arm offbreak,Right-hand bat
+Netherlands,TP Visee,881b3f8e,2,15,11,3,0,136.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,29,0,8,37,34,True,False,False,,Right-hand bat
+Netherlands,BN Cooper,634a7b21,3,55,35,10,0,157.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,107,0,8,115,33,True,False,False,Right-arm medium,Left-hand bat
+Netherlands,BFW de Leede,fc4375ef,4,81,42,7,5,192.86,"[4, 10, 18]",3.0,18,4,0,33,5,0,1,0,0,0,3,11.0,3,0,0,0,6,157,27,28,212,25,True,False,True,Right-arm fast-medium,Right-hand bat
+Netherlands,A Dutt,803dbf1d,5,0,3,0,0,0.0,"[13, 17]",2.0,12,3,0,22,0,2,1,0,0,1,1,11.0,0,0,0,0,0,-2,26,0,24,21,True,False,False,Right-arm offbreak,Right-hand bat
+Netherlands,PM Seelaar,abbdca1a,6,31,15,1,3,206.67,"[7, 9, 11, 16]",4.0,24,10,0,37,0,4,2,0,0,0,0,9.25,0,0,0,0,6,63,60,0,123,37,True,False,True,Slow left-arm orthodox,Right-hand bat
+Netherlands,SA Edwards,b59db04f,7,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,28,True,False,False,,Right-hand bat
+Netherlands,AJ Staal,62c713bf,8,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,28,True,False,False,Legbreak googly,Right-hand bat
+Netherlands,JL de Mey,c9f851b0,9,0,0,0,0,0.0,"[3, 8, 14]",3.0,18,4,0,32,2,2,0,0,0,0,0,10.67,0,0,0,0,0,0,2,0,2,30,True,False,False,Slow left-arm orthodox,Right-hand bat
+Netherlands,PA van Meekeren,4557dc54,9,0,0,0,0,0.0,"[1, 5, 12, 19]",4.0,24,8,0,34,3,1,0,0,0,1,4,8.5,1,0,0,0,0,0,8,8,16,32,True,False,False,Right-arm fast-medium,Right-hand bat
+Netherlands,VJ Kingma,3a7ea906,10,0,0,0,0,0.0,"[2, 6, 15, 20]",4.0,24,9,0,44,5,2,2,0,0,1,2,11.0,0,0,0,0,0,0,57,0,57,30,True,False,False,Right-arm medium-fast,Right-hand bat

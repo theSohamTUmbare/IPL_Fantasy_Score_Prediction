@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Delhi Daredevils,Q de Kock,372455c4,1,50,31,9,1,161.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,104,0,0,104
-Delhi Daredevils,SS Iyer,85ec8e33,2,0,7,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Delhi Daredevils,JP Duminy,2e8994e7,3,12,16,0,0,75.0,"[8, 18]",2.0,12,3,0,16,1,0,0,0,0,0,1,8.0,0,0,0,0,0,12,3,0,15
-Delhi Daredevils,Yuvraj Singh,1c914163,4,2,7,0,0,28.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Delhi Daredevils,KM Jadhav,99d63244,5,63,34,8,2,185.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,121,0,0,121
-Delhi Daredevils,JA Morkel,c3d35165,6,0,0,0,0,0.0,"[14, 17, 19]",3.0,18,2,0,35,1,2,0,0,0,0,0,11.67,1,0,0,0,0,0,-2,8,6
-Delhi Daredevils,SS Tiwary,709b0bac,6,26,25,2,1,104.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,44,0,8,52
-Delhi Daredevils,J Yadav,81049310,7,0,0,0,0,0.0,"[1, 7, 9, 11]",4.0,24,10,0,19,1,0,1,0,0,0,0,4.75,1,0,0,0,0,0,41,8,49
-Delhi Daredevils,NM Coulter-Nile,56ab442f,8,0,0,0,0,0.0,"[3, 5, 13, 15]",4.0,24,12,0,25,2,1,2,0,0,0,0,6.25,1,0,0,0,0,0,64,8,72
-Delhi Daredevils,A Mishra,6b19d823,9,0,0,0,0,0.0,"[10, 12, 16]",3.0,18,2,0,34,1,2,0,0,0,0,0,11.33,0,0,0,0,0,0,-2,0,-2
-Delhi Daredevils,Z Khan,91a4a398,10,0,0,0,0,0.0,"[2, 4, 6, 20]",4.0,24,10,0,33,3,1,1,0,0,0,2,8.25,0,0,0,0,0,0,35,0,35
-Sunrisers Hyderabad,S Dhawan,0a476045,1,13,10,2,0,130.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,23,0,0,23
-Sunrisers Hyderabad,DA Warner,dcce6f09,2,17,15,1,1,113.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27
-Sunrisers Hyderabad,MC Henriques,32198ae0,3,74,46,1,5,160.87,"[7, 15]",2.0,12,5,0,14,2,0,0,0,0,0,0,7.0,0,0,0,0,4,120,7,0,127
-Sunrisers Hyderabad,EJG Morgan,d2a6c0e6,4,22,25,2,0,88.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30
-Sunrisers Hyderabad,KV Sharma,119678fd,5,16,13,2,0,123.08,"[9, 11, 13]",3.0,18,11,0,12,0,1,2,0,1,0,0,4.0,1,0,0,0,0,24,75,8,107
-Sunrisers Hyderabad,RS Bopara,7ca5e05d,6,17,11,1,0,154.55,[14],1.0,6,1,0,15,3,0,0,0,0,0,0,15.0,0,0,0,0,4,25,1,0,26
-Sunrisers Hyderabad,NV Ojha,890946a0,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0,0,12,12
-Sunrisers Hyderabad,Parvez Rasool,9170ff49,7,0,0,0,0,0.0,"[4, 8, 10, 12]",4.0,24,9,0,20,1,0,1,0,0,0,0,5.0,0,0,0,0,0,0,38,0,38
-Sunrisers Hyderabad,P Kumar,e938e1bc,8,0,0,0,0,0.0,"[5, 16]",2.0,12,2,0,34,4,2,0,0,0,0,1,17.0,0,0,0,0,0,0,-4,0,-4
-Sunrisers Hyderabad,B Kumar,2e81a32d,9,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,11,0,20,3,0,1,0,0,0,0,5.0,1,0,0,0,0,0,40,8,48
-Sunrisers Hyderabad,I Sharma,5bb1a1c4,10,0,0,0,0,0.0,"[2, 6, 18, 20]",4.0,24,9,0,39,6,1,0,0,0,0,0,9.75,0,0,0,0,0,0,9,0,9
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Delhi Daredevils,Q de Kock,372455c4,1,50,31,9,1,161.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,104,0,0,104,32,True,False,False,,Left-hand bat
+Delhi Daredevils,SS Iyer,85ec8e33,2,0,7,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,30,True,False,False,Legbreak googly,Right-hand bat
+Delhi Daredevils,JP Duminy,2e8994e7,3,12,16,0,0,75.0,"[8, 18]",2.0,12,3,0,16,1,0,0,0,0,0,1,8.0,0,0,0,0,0,12,3,0,15,40,True,False,True,Right-arm offbreak,Left-hand bat
+Delhi Daredevils,Yuvraj Singh,1c914163,4,2,7,0,0,28.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,43,True,False,False,Slow left-arm orthodox,Left-hand bat
+Delhi Daredevils,KM Jadhav,99d63244,5,63,34,8,2,185.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,121,0,0,121,40,True,False,True,Right-arm offbreak,Right-hand bat
+Delhi Daredevils,JA Morkel,c3d35165,6,0,0,0,0,0.0,"[14, 17, 19]",3.0,18,2,0,35,1,2,0,0,0,0,0,11.67,1,0,0,0,0,0,-2,8,6,43,True,False,True,Right-arm medium-fast,Left-hand bat
+Delhi Daredevils,SS Tiwary,709b0bac,6,26,25,2,1,104.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,44,0,8,52,35,True,False,False,,Left-hand bat
+Delhi Daredevils,J Yadav,81049310,7,0,0,0,0,0.0,"[1, 7, 9, 11]",4.0,24,10,0,19,1,0,1,0,0,0,0,4.75,1,0,0,0,0,0,41,8,49,35,True,False,False,Right-arm offbreak,Right-hand bat
+Delhi Daredevils,NM Coulter-Nile,56ab442f,8,0,0,0,0,0.0,"[3, 5, 13, 15]",4.0,24,12,0,25,2,1,2,0,0,0,0,6.25,1,0,0,0,0,0,64,8,72,37,True,False,True,Right-arm fast,Right-hand bat
+Delhi Daredevils,A Mishra,6b19d823,9,0,0,0,0,0.0,"[10, 12, 16]",3.0,18,2,0,34,1,2,0,0,0,0,0,11.33,0,0,0,0,0,0,-2,0,-2,42,True,False,False,Legbreak,Right-hand bat
+Delhi Daredevils,Z Khan,91a4a398,10,0,0,0,0,0.0,"[2, 4, 6, 20]",4.0,24,10,0,33,3,1,1,0,0,0,2,8.25,0,0,0,0,0,0,35,0,35,46,True,False,False,Left-arm fast-medium,Right-hand bat
+Sunrisers Hyderabad,S Dhawan,0a476045,1,13,10,2,0,130.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,23,0,0,23,39,True,False,False,Right-arm offbreak,Left-hand bat
+Sunrisers Hyderabad,DA Warner,dcce6f09,2,17,15,1,1,113.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27,38,True,False,False,Legbreak,Left-hand bat
+Sunrisers Hyderabad,MC Henriques,32198ae0,3,74,46,1,5,160.87,"[7, 15]",2.0,12,5,0,14,2,0,0,0,0,0,0,7.0,0,0,0,0,4,120,7,0,127,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Sunrisers Hyderabad,EJG Morgan,d2a6c0e6,4,22,25,2,0,88.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30,38,True,False,False,Right-arm medium,Left-hand bat
+Sunrisers Hyderabad,KV Sharma,119678fd,5,16,13,2,0,123.08,"[9, 11, 13]",3.0,18,11,0,12,0,1,2,0,1,0,0,4.0,1,0,0,0,0,24,75,8,107,37,True,False,False,Legbreak googly,Left-hand bat
+Sunrisers Hyderabad,RS Bopara,7ca5e05d,6,17,11,1,0,154.55,[14],1.0,6,1,0,15,3,0,0,0,0,0,0,15.0,0,0,0,0,4,25,1,0,26,39,True,False,True,Right-arm medium,Right-hand bat
+Sunrisers Hyderabad,NV Ojha,890946a0,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0,0,12,12,41,True,False,False,,Right-hand bat
+Sunrisers Hyderabad,Parvez Rasool,9170ff49,7,0,0,0,0,0.0,"[4, 8, 10, 12]",4.0,24,9,0,20,1,0,1,0,0,0,0,5.0,0,0,0,0,0,0,38,0,38,36,True,False,True,Right-arm offbreak,Right-hand bat
+Sunrisers Hyderabad,P Kumar,e938e1bc,8,0,0,0,0,0.0,"[5, 16]",2.0,12,2,0,34,4,2,0,0,0,0,1,17.0,0,0,0,0,0,0,-4,0,-4,38,True,False,False,Right-arm medium,Right-hand bat
+Sunrisers Hyderabad,B Kumar,2e81a32d,9,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,11,0,20,3,0,1,0,0,0,0,5.0,1,0,0,0,0,0,40,8,48,35,True,False,False,Right-arm medium,Right-hand bat
+Sunrisers Hyderabad,I Sharma,5bb1a1c4,10,0,0,0,0,0.0,"[2, 6, 18, 20]",4.0,24,9,0,39,6,1,0,0,0,0,0,9.75,0,0,0,0,0,0,9,0,9,36,True,False,False,Right-arm fast-medium,Right-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Madhya Pradesh,RM Patidar,c740ea83,1,31,23,5,0,134.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,57,0,0,57
-Madhya Pradesh,Ashutosh Sharma,84d9c311,2,84,51,11,2,164.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,156,0,0,156
-Madhya Pradesh,VR Iyer,a24be938,3,35,21,5,1,166.67,[14],1.0,6,2,0,9,0,1,1,0,0,0,0,9.0,0,0,0,0,4,69,27,0,96
-Madhya Pradesh,Rishabh Chouhan,a64608ec,4,17,14,2,0,121.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,25,0,8,33
-Madhya Pradesh,Parth Sahani,239f7526,5,9,8,0,0,112.5,[6],1.0,6,3,0,11,1,1,0,0,0,0,0,11.0,2,0,0,0,0,9,3,16,28
-Madhya Pradesh,Abhishek Bhandari,18953b31,6,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Madhya Pradesh,Mihir Hirwani,49bacd0f,7,0,0,0,0,0.0,"[9, 11, 13]",3.0,18,3,0,28,0,2,0,0,0,0,2,9.33,0,0,0,0,0,0,3,0,3
-Madhya Pradesh,Ankit Sharma,24d94623,7,0,1,0,0,0.0,"[5, 7, 15]",3.0,18,8,0,16,0,1,0,0,0,0,0,5.33,1,0,0,0,0,0,12,8,20
-Madhya Pradesh,Rahul Batham,891b9757,8,0,0,0,0,0.0,"[8, 10, 12, 18]",4.0,24,5,0,24,1,0,2,0,0,0,1,6.0,0,0,0,0,0,0,57,0,57
-Madhya Pradesh,Gaurav Yadav,3e5dc16b,8,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,10,0,38,5,1,2,0,0,0,0,9.5,0,0,0,0,0,0,60,0,60
-Madhya Pradesh,KR Sen,2e78f685,9,0,0,0,0,0.0,"[2, 4, 16, 20]",4.0,24,6,0,44,3,2,0,0,0,0,2,11.0,0,0,0,0,0,0,4,0,4
-Puducherry,KB Arun Karthik,7daedf2f,1,60,41,5,2,146.34,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,102,0,0,102
-Puducherry,Damodaran Rohit,37fec668,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Puducherry,Subramanian Anand,8b470bea,3,25,22,2,1,113.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,43,0,8,51
-Puducherry,P Dogra,2728e7e9,4,41,28,1,3,146.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,2,69,0,28,97
-Puducherry,Marimuthu Vikneshwaran,ee2ac9d7,5,10,10,0,1,100.0,[13],1.0,6,0,0,9,1,0,0,0,0,0,0,9.0,0,0,0,0,0,16,0,0,16
-Puducherry,R Vinay Kumar,41eb4a4f,6,11,12,0,0,91.67,"[1, 3, 18, 20]",4.0,24,12,0,30,5,0,4,0,0,0,0,7.5,0,0,0,0,0,11,120,0,131
-Puducherry,Sagar Udeshi,8db0c0e1,7,0,0,0,0,0.0,"[4, 7, 16]",3.0,18,4,0,34,6,0,0,0,0,0,0,11.33,0,0,0,0,0,0,0,0,0
-Puducherry,Fabid Ahmed,f705d984,7,18,6,2,1,300.0,"[2, 9, 11, 14]",4.0,24,7,0,37,3,2,0,0,0,0,0,9.25,0,0,1,0,0,32,7,12,51
-Puducherry,Ashith Rajiv,502056e3,8,0,0,0,0,0.0,"[5, 10, 17, 19]",4.0,24,7,0,32,3,0,0,0,0,0,1,8.0,0,0,0,0,0,0,7,0,7
-Puducherry,Santha Moorthy,fa778d1b,9,0,0,0,0,0.0,"[6, 8, 15]",3.0,18,7,0,23,4,0,1,0,0,0,0,7.67,0,0,0,0,0,0,32,0,32
-Puducherry,Suresh Kumar,177eb92d,10,0,0,0,0,0.0,[12],1.0,6,2,0,12,1,1,0,0,0,0,0,12.0,1,0,0,0,0,0,2,8,10
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Madhya Pradesh,RM Patidar,c740ea83,1,31,23,5,0,134.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,57,0,0,57,31,True,False,False,Right-arm offbreak,Right-hand bat
+Madhya Pradesh,Ashutosh Sharma,84d9c311,2,84,51,11,2,164.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,156,0,0,156,26,True,False,True,,Right-hand bat
+Madhya Pradesh,VR Iyer,a24be938,3,35,21,5,1,166.67,[14],1.0,6,2,0,9,0,1,1,0,0,0,0,9.0,0,0,0,0,4,69,27,0,96,30,True,False,True,Right-arm medium,Left-hand bat
+Madhya Pradesh,Rishabh Chouhan,a64608ec,4,17,14,2,0,121.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,25,0,8,33,25,True,True,False,Slow left-arm orthodox,Right-hand bat
+Madhya Pradesh,Parth Sahani,239f7526,5,9,8,0,0,112.5,[6],1.0,6,3,0,11,1,1,0,0,0,0,0,11.0,2,0,0,0,0,9,3,16,28,32,True,False,True,Slow left-arm orthodox,Left-hand bat
+Madhya Pradesh,Abhishek Bhandari,18953b31,6,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,30,True,False,False,,Right-hand bat
+Madhya Pradesh,Mihir Hirwani,49bacd0f,7,0,0,0,0,0.0,"[9, 11, 13]",3.0,18,3,0,28,0,2,0,0,0,0,2,9.33,0,0,0,0,0,0,3,0,3,30,True,True,False,Legbreak googly,Right-hand bat
+Madhya Pradesh,Ankit Sharma,24d94623,7,0,1,0,0,0.0,"[5, 7, 15]",3.0,18,8,0,16,0,1,0,0,0,0,0,5.33,1,0,0,0,0,0,12,8,20,33,True,False,False,Slow left-arm orthodox,Left-hand bat
+Madhya Pradesh,Rahul Batham,891b9757,8,0,0,0,0,0.0,"[8, 10, 12, 18]",4.0,24,5,0,24,1,0,2,0,0,0,1,6.0,0,0,0,0,0,0,57,0,57,26,True,True,False,Right-arm medium,Right-hand bat
+Madhya Pradesh,Gaurav Yadav,3e5dc16b,8,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,10,0,38,5,1,2,0,0,0,0,9.5,0,0,0,0,0,0,60,0,60,33,True,True,False,Right-arm medium,Right-hand bat
+Madhya Pradesh,KR Sen,2e78f685,9,0,0,0,0,0.0,"[2, 4, 16, 20]",4.0,24,6,0,44,3,2,0,0,0,0,2,11.0,0,0,0,0,0,0,4,0,4,28,True,False,False,Right-arm fast,Right-hand bat
+Puducherry,KB Arun Karthik,7daedf2f,1,60,41,5,2,146.34,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,102,0,0,102,39,True,True,False,Legbreak googly,Right-hand bat
+Puducherry,Damodaran Rohit,37fec668,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,32,True,True,False,Right-arm offbreak,Right-hand bat
+Puducherry,Subramanian Anand,8b470bea,3,25,22,2,1,113.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,43,0,8,51,39,True,True,False,Legbreak googly,Right-hand bat
+Puducherry,P Dogra,2728e7e9,4,41,28,1,3,146.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,2,69,0,28,97,40,True,False,False,Legbreak,Right-hand bat
+Puducherry,Marimuthu Vikneshwaran,ee2ac9d7,5,10,10,0,1,100.0,[13],1.0,6,0,0,9,1,0,0,0,0,0,0,9.0,0,0,0,0,0,16,0,0,16,32,True,True,False,Right-arm medium,Right-hand bat
+Puducherry,R Vinay Kumar,41eb4a4f,6,11,12,0,0,91.67,"[1, 3, 18, 20]",4.0,24,12,0,30,5,0,4,0,0,0,0,7.5,0,0,0,0,0,11,120,0,131,41,True,False,False,Right-arm medium,Right-hand bat
+Puducherry,Sagar Udeshi,8db0c0e1,7,0,0,0,0,0.0,"[4, 7, 16]",3.0,18,4,0,34,6,0,0,0,0,0,0,11.33,0,0,0,0,0,0,0,0,0,38,True,True,False,Slow left-arm orthodox,Left-hand bat
+Puducherry,Fabid Ahmed,f705d984,7,18,6,2,1,300.0,"[2, 9, 11, 14]",4.0,24,7,0,37,3,2,0,0,0,0,0,9.25,0,0,1,0,0,32,7,12,51,29,True,True,False,Right-arm offbreak,Right-hand bat
+Puducherry,Ashith Rajiv,502056e3,8,0,0,0,0,0.0,"[5, 10, 17, 19]",4.0,24,7,0,32,3,0,0,0,0,0,1,8.0,0,0,0,0,0,0,7,0,7,32,True,True,False,Right-arm medium,Right-hand bat
+Puducherry,Santha Moorthy,fa778d1b,9,0,0,0,0,0.0,"[6, 8, 15]",3.0,18,7,0,23,4,0,1,0,0,0,0,7.67,0,0,0,0,0,0,32,0,32,45,True,True,False,Right-arm medium,Right-hand bat
+Puducherry,Suresh Kumar,177eb92d,10,0,0,0,0,0.0,[12],1.0,6,2,0,12,1,1,0,0,0,0,0,12.0,1,0,0,0,0,0,2,8,10,40,True,True,False,Right-arm offbreak,Right-hand bat

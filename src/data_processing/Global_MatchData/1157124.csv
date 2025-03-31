@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Services,Nakul Verma,38c0d699,1,73,44,8,1,165.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,123,0,0,123
-Services,Ravi Chauhan,f7ce1f24,2,62,50,5,1,124.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,96,0,0,96
-Services,Rahul Singh,adf454e9,3,14,6,0,2,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,26,0,8,34
-Services,Diwesh Pathania,a63563c0,4,0,0,0,0,0.0,"[1, 3, 5, 17]",4.0,24,11,0,29,2,1,2,0,0,0,2,7.25,0,0,0,0,0,0,61,0,61
-Services,Vikas Hathwala,904585d1,4,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Services,Sachidanand Pandey,f8c7484e,5,0,0,0,0,0.0,"[2, 9, 18]",3.0,18,6,0,42,3,4,0,0,0,0,1,14.0,1,0,0,0,0,0,0,8,8
-Services,Mohit Kumar,caabc8e4,6,0,0,0,0,0.0,"[4, 6, 11, 20]",4.0,24,9,0,18,1,0,0,0,0,0,0,4.5,0,0,1,0,0,0,15,12,27
-Services,AP Sharma,12f75dbd,7,0,0,0,0,0.0,"[7, 12, 14]",3.0,18,10,0,16,1,0,1,0,1,0,5,5.33,0,0,0,0,0,0,47,0,47
-Services,Vikas Yadav,fa73f373,8,0,0,0,0,0.0,"[8, 10, 16]",3.0,18,5,0,21,1,1,0,0,0,0,0,7.0,0,0,0,0,0,0,7,0,7
-Services,Rajat Paliwal,2fcb040c,9,0,0,0,0,0.0,"[13, 15, 19]",3.0,18,6,0,28,0,2,1,0,0,0,3,9.33,1,0,0,0,0,0,31,8,39
-Services,Mohit Ahlawat,791b8fac,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,0,0,12,12
-Tripura,JR Banik,e87cc53a,1,12,15,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,16,0,12,28
-Tripura,U U Bose,d28a7a2a,2,22,14,2,2,157.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,46,0,0,46
-Tripura,Saurabh Das,38f548aa,3,0,1,0,0,0.0,"[1, 3]",2.0,12,3,0,15,2,0,0,0,0,0,0,7.5,0,0,0,0,0,-2,3,0,1
-Tripura,Pratyush Singh,456af189,4,7,8,1,0,87.5,"[12, 14, 16]",3.0,18,3,0,27,0,2,0,0,0,0,0,9.0,0,0,0,0,0,11,3,0,14
-Tripura,AA Chakraborty,44e58b5b,4,0,0,0,0,0.0,"[6, 9, 11]",3.0,18,5,0,31,3,1,0,0,0,0,1,10.33,0,0,0,0,0,0,3,0,3
-Tripura,KK Acharjee,d57936b4,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Tripura,NN Sen Chowdhary,08a11820,5,9,16,0,0,56.25,[17],0.833,5,1,0,10,2,0,1,0,0,0,0,12.0,0,0,0,0,-4,5,26,0,31
-Tripura,TS Saha,eb46e18d,6,0,0,0,0,0.0,"[5, 7, 13, 15]",4.0,24,4,0,37,2,1,1,0,0,1,2,9.25,0,0,0,0,0,0,29,0,29
-Tripura,Manisankar Murasingh,52cb36a0,6,52,40,3,3,130.0,"[2, 4]",2.0,12,1,0,20,3,0,0,0,0,0,0,10.0,1,0,0,0,2,92,-1,8,99
-Tripura,Ninad Kadam,b8b024c7,7,32,21,1,2,152.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,56,0,0,56
-Tripura,SS Majumder,76307fc7,8,9,5,0,1,180.0,"[8, 10]",2.0,12,2,0,15,1,0,0,0,0,0,1,7.5,0,0,0,0,0,15,2,0,17
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Services,Nakul Verma,38c0d699,1,73,44,8,1,165.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,123,0,0,123,33,True,True,False,Legbreak googly,Right-hand bat
+Services,Ravi Chauhan,f7ce1f24,2,62,50,5,1,124.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,96,0,0,96,31,True,True,False,Legbreak googly,Right-hand bat
+Services,Rahul Singh,adf454e9,3,14,6,0,2,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,26,0,8,34,29,True,True,False,Right-arm medium,Left-hand bat
+Services,Diwesh Pathania,a63563c0,4,0,0,0,0,0.0,"[1, 3, 5, 17]",4.0,24,11,0,29,2,1,2,0,0,0,2,7.25,0,0,0,0,0,0,61,0,61,35,True,True,False,Right-arm medium,Right-hand bat
+Services,Vikas Hathwala,904585d1,4,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,31,True,True,False,Left-arm medium,Left-hand bat
+Services,Sachidanand Pandey,f8c7484e,5,0,0,0,0,0.0,"[2, 9, 18]",3.0,18,6,0,42,3,4,0,0,0,0,1,14.0,1,0,0,0,0,0,0,8,8,28,True,True,False,Right-arm medium,Right-hand bat
+Services,Mohit Kumar,caabc8e4,6,0,0,0,0,0.0,"[4, 6, 11, 20]",4.0,24,9,0,18,1,0,0,0,0,0,0,4.5,0,0,1,0,0,0,15,12,27,28,True,True,False,Right-arm medium-fast,Right-hand bat
+Services,AP Sharma,12f75dbd,7,0,0,0,0,0.0,"[7, 12, 14]",3.0,18,10,0,16,1,0,1,0,1,0,5,5.33,0,0,0,0,0,0,47,0,47,28,True,True,False,Slow left-arm orthodox,Left-hand bat
+Services,Vikas Yadav,fa73f373,8,0,0,0,0,0.0,"[8, 10, 16]",3.0,18,5,0,21,1,1,0,0,0,0,0,7.0,0,0,0,0,0,0,7,0,7,28,True,True,False,Slow left-arm orthodox,Right-hand bat
+Services,Rajat Paliwal,2fcb040c,9,0,0,0,0,0.0,"[13, 15, 19]",3.0,18,6,0,28,0,2,1,0,0,0,3,9.33,1,0,0,0,0,0,31,8,39,33,True,False,False,Right-arm offbreak,Right-hand bat
+Services,Mohit Ahlawat,791b8fac,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,0,0,12,12,29,True,False,False,,Right-hand bat
+Tripura,JR Banik,e87cc53a,1,12,15,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,16,0,12,28,32,True,True,False,Right-arm offbreak,Right-hand bat
+Tripura,U U Bose,d28a7a2a,2,22,14,2,2,157.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,46,0,0,46,31,True,False,False,Right-arm offbreak,Right-hand bat
+Tripura,Saurabh Das,38f548aa,3,0,1,0,0,0.0,"[1, 3]",2.0,12,3,0,15,2,0,0,0,0,0,0,7.5,0,0,0,0,0,-2,3,0,1,31,True,True,False,Right-arm offbreak,Right-hand bat
+Tripura,Pratyush Singh,456af189,4,7,8,1,0,87.5,"[12, 14, 16]",3.0,18,3,0,27,0,2,0,0,0,0,0,9.0,0,0,0,0,0,11,3,0,14,30,True,False,False,Legbreak googly,Right-hand bat
+Tripura,AA Chakraborty,44e58b5b,4,0,0,0,0,0.0,"[6, 9, 11]",3.0,18,5,0,31,3,1,0,0,0,0,1,10.33,0,0,0,0,0,0,3,0,3,34,True,True,False,Slow left-arm orthodox,Right-hand bat
+Tripura,KK Acharjee,d57936b4,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,34,True,True,False,Right-arm medium,Right-hand bat
+Tripura,NN Sen Chowdhary,08a11820,5,9,16,0,0,56.25,[17],0.833,5,1,0,10,2,0,1,0,0,0,0,12.0,0,0,0,0,-4,5,26,0,31,34,True,True,False,Right-arm offbreak,Right-hand bat
+Tripura,TS Saha,eb46e18d,6,0,0,0,0,0.0,"[5, 7, 13, 15]",4.0,24,4,0,37,2,1,1,0,0,1,2,9.25,0,0,0,0,0,0,29,0,29,39,True,True,False,Slow left-arm orthodox,Left-hand bat
+Tripura,Manisankar Murasingh,52cb36a0,6,52,40,3,3,130.0,"[2, 4]",2.0,12,1,0,20,3,0,0,0,0,0,0,10.0,1,0,0,0,2,92,-1,8,99,32,True,False,True,Right-arm medium,Left-hand bat
+Tripura,Ninad Kadam,b8b024c7,7,32,21,1,2,152.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,56,0,0,56,32,True,True,False,Right-arm offbreak,Right-hand bat
+Tripura,SS Majumder,76307fc7,8,9,5,0,1,180.0,"[8, 10]",2.0,12,2,0,15,1,0,0,0,0,0,1,7.5,0,0,0,0,0,15,2,0,17,37,True,True,False,Right-arm medium,Right-hand bat

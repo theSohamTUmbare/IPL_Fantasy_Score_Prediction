@@ -1,25 +1,25 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Delhi Capitals,DA Warner,dcce6f09,1,46,31,5,2,148.39,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,84,0,0,84
-Delhi Capitals,PP Shaw,8b3e9c7c,2,54,38,7,1,142.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,98,0,0,98
-Delhi Capitals,RR Rossouw,cad00a4d,3,82,37,6,6,221.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,160,0,0,160
-Delhi Capitals,PD Salt,3d284ca3,4,26,14,2,2,185.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,6,56,0,6,62
-Delhi Capitals,Mukesh Kumar,2cffab74,9,0,0,0,0,0.0,"[6, 11, 15, 18]",4.0,24,7,0,52,3,5,0,0,0,0,1,13.0,0,0,0,0,0,0,1,0,1
-Delhi Capitals,AR Patel,2e171977,10,0,0,0,0,0.0,"[7, 9, 12]",3.0,18,3,0,27,4,0,1,0,0,0,0,9.0,2,0,0,0,0,0,28,16,44
-Delhi Capitals,Aman Hakim Khan,378daa89,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Delhi Capitals,YV Dhull,dd7e9b3b,12,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Delhi Capitals,Kuldeep Yadav,8d2c70ad,13,0,0,0,0,0.0,"[8, 10, 14]",3.0,18,4,0,21,0,1,0,0,0,0,1,7.0,0,0,0,0,0,0,6,0,6
-Delhi Capitals,A Nortje,acdc62f5,14,0,0,0,0,0.0,"[5, 13, 16, 19]",4.0,24,10,0,36,2,3,2,0,1,0,0,9.0,0,0,0,1,0,0,68,6,74
-Delhi Capitals,I Sharma,5bb1a1c4,15,0,0,0,0,0.0,"[2, 4, 20]",3.0,18,9,0,36,5,2,2,0,0,1,0,12.0,0,0,0,0,0,0,55,0,55
-Delhi Capitals,KK Ahmed,a2f46292,16,0,0,0,0,0.0,"[1, 3, 17]",3.0,18,11,1,20,1,2,1,0,0,1,0,6.67,1,0,0,0,0,0,50,8,58
-Punjab Kings,P Simran Singh,9418198b,1,22,19,4,0,115.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,38,0,0,38
-Punjab Kings,S Dhawan,0a476045,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Punjab Kings,Atharva Taide,1ac746c8,3,55,42,5,2,130.95,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,97,0,8,105
-Punjab Kings,LS Livingstone,50c6bc2b,4,94,46,5,9,204.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,186,0,0,186
-Punjab Kings,JM Sharma,800d2d97,5,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Punjab Kings,M Shahrukh Khan,7dcb9bc9,6,6,3,0,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
-Punjab Kings,SM Curran,e94915e6,7,11,5,1,1,220.0,"[1, 3, 11, 15]",4.0,24,9,0,36,4,1,2,0,0,0,1,9.0,0,0,0,0,0,21,59,0,80
-Punjab Kings,Harpreet Brar,c05edf8e,8,0,1,0,0,0.0,"[16, 18, 20]",3.0,18,2,0,39,3,2,0,0,0,0,2,13.0,0,0,0,0,0,0,-4,0,-4
-Punjab Kings,NT Ellis,9eb1455b,9,0,0,0,0,0.0,"[6, 10, 17, 19]",4.0,24,6,0,46,5,2,0,0,0,0,0,11.5,0,0,0,0,0,0,2,0,2
-Punjab Kings,RD Chahar,2ed569a0,9,0,0,0,0,0.0,"[7, 9, 12, 14]",4.0,24,7,0,35,4,1,0,0,0,0,0,8.75,0,0,0,0,0,0,7,0,7
-Punjab Kings,K Rabada,e62dd25d,10,0,0,0,0,0.0,"[2, 4, 13]",3.0,18,8,0,36,2,4,0,0,0,0,0,12.0,0,0,0,0,0,0,4,0,4
-Punjab Kings,Arshdeep Singh,244048f6,11,0,0,0,0,0.0,"[5, 8]",2.0,12,4,0,21,2,1,0,0,0,0,2,10.5,0,0,0,0,0,0,2,0,2
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Delhi Capitals,DA Warner,dcce6f09,1,46,31,5,2,148.39,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,84,0,0,84,38,True,False,False,Legbreak,Left-hand bat
+Delhi Capitals,PP Shaw,8b3e9c7c,2,54,38,7,1,142.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,98,0,0,98,25,True,False,False,Right-arm offbreak,Right-hand bat
+Delhi Capitals,RR Rossouw,cad00a4d,3,82,37,6,6,221.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,160,0,0,160,35,True,False,False,Right-arm offbreak,Left-hand bat
+Delhi Capitals,PD Salt,3d284ca3,4,26,14,2,2,185.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,6,56,0,6,62,28,True,True,False,Right-arm offbreak,Right-hand bat
+Delhi Capitals,Mukesh Kumar,2cffab74,9,0,0,0,0,0.0,"[6, 11, 15, 18]",4.0,24,7,0,52,3,5,0,0,0,0,1,13.0,0,0,0,0,0,0,1,0,1,31,True,False,False,Right-arm medium,Right-hand bat
+Delhi Capitals,AR Patel,2e171977,10,0,0,0,0,0.0,"[7, 9, 12]",3.0,18,3,0,27,4,0,1,0,0,0,0,9.0,2,0,0,0,0,0,28,16,44,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Delhi Capitals,Aman Hakim Khan,378daa89,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,28,True,False,True,Right-arm medium,Right-hand bat
+Delhi Capitals,YV Dhull,dd7e9b3b,12,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,22,True,False,False,Right-arm offbreak,Right-hand bat
+Delhi Capitals,Kuldeep Yadav,8d2c70ad,13,0,0,0,0,0.0,"[8, 10, 14]",3.0,18,4,0,21,0,1,0,0,0,0,1,7.0,0,0,0,0,0,0,6,0,6,30,True,False,False,Left-arm wrist-spin,Left-hand bat
+Delhi Capitals,A Nortje,acdc62f5,14,0,0,0,0,0.0,"[5, 13, 16, 19]",4.0,24,10,0,36,2,3,2,0,1,0,0,9.0,0,0,0,1,0,0,68,6,74,31,True,False,False,Right-arm fast,Right-hand bat
+Delhi Capitals,I Sharma,5bb1a1c4,15,0,0,0,0,0.0,"[2, 4, 20]",3.0,18,9,0,36,5,2,2,0,0,1,0,12.0,0,0,0,0,0,0,55,0,55,36,True,False,False,Right-arm fast-medium,Right-hand bat
+Delhi Capitals,KK Ahmed,a2f46292,16,0,0,0,0,0.0,"[1, 3, 17]",3.0,18,11,1,20,1,2,1,0,0,1,0,6.67,1,0,0,0,0,0,50,8,58,27,True,False,False,Left-arm fast-medium,Right-hand bat
+Punjab Kings,P Simran Singh,9418198b,1,22,19,4,0,115.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,38,0,0,38,24,True,False,False,,Right-hand bat
+Punjab Kings,S Dhawan,0a476045,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,39,True,False,False,Right-arm offbreak,Left-hand bat
+Punjab Kings,Atharva Taide,1ac746c8,3,55,42,5,2,130.95,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,97,0,8,105,24,True,False,True,Slow left-arm orthodox,Left-hand bat
+Punjab Kings,LS Livingstone,50c6bc2b,4,94,46,5,9,204.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,186,0,0,186,31,True,False,True,Legbreak,Right-hand bat
+Punjab Kings,JM Sharma,800d2d97,5,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,31,True,False,False,,Right-hand bat
+Punjab Kings,M Shahrukh Khan,7dcb9bc9,6,6,3,0,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,29,True,False,False,Right-arm offbreak,Right-hand bat
+Punjab Kings,SM Curran,e94915e6,7,11,5,1,1,220.0,"[1, 3, 11, 15]",4.0,24,9,0,36,4,1,2,0,0,0,1,9.0,0,0,0,0,0,21,59,0,80,26,True,False,True,Left-arm medium-fast,Left-hand bat
+Punjab Kings,Harpreet Brar,c05edf8e,8,0,1,0,0,0.0,"[16, 18, 20]",3.0,18,2,0,39,3,2,0,0,0,0,2,13.0,0,0,0,0,0,0,-4,0,-4,29,True,False,False,Slow left-arm orthodox,Left-hand bat
+Punjab Kings,NT Ellis,9eb1455b,9,0,0,0,0,0.0,"[6, 10, 17, 19]",4.0,24,6,0,46,5,2,0,0,0,0,0,11.5,0,0,0,0,0,0,2,0,2,30,True,False,False,Right-arm fast-medium,Right-hand bat
+Punjab Kings,RD Chahar,2ed569a0,9,0,0,0,0,0.0,"[7, 9, 12, 14]",4.0,24,7,0,35,4,1,0,0,0,0,0,8.75,0,0,0,0,0,0,7,0,7,25,True,False,False,Legbreak googly,Right-hand bat
+Punjab Kings,K Rabada,e62dd25d,10,0,0,0,0,0.0,"[2, 4, 13]",3.0,18,8,0,36,2,4,0,0,0,0,0,12.0,0,0,0,0,0,0,4,0,4,29,True,False,False,Right-arm fast,Left-hand bat
+Punjab Kings,Arshdeep Singh,244048f6,11,0,0,0,0,0.0,"[5, 8]",2.0,12,4,0,21,2,1,0,0,0,0,2,10.5,0,0,0,0,0,0,2,0,2,26,True,False,False,Left-arm medium-fast,Left-hand bat

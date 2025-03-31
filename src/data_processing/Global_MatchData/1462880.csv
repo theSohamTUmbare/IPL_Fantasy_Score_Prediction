@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Brazil,W Maximo,e41dee27,1,12,25,2,0,48.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,14,0,0,14
-Brazil,Muhammad Saleem,a025c156,2,4,10,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,-2,0,8,6
-Brazil,LF Muller,f6411545,3,4,13,0,0,30.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2
-Brazil,Yasar Haroon,5a8dc41e,4,0,1,0,0,0.0,"[13, 15, 17, 19]",4.0,24,7,0,26,0,1,1,0,1,0,1,6.5,0,0,0,0,0,-2,42,0,40
-Brazil,LH Rodrigues,57c95c3c,5,18,20,2,0,90.0,"[2, 4, 6, 16]",4.0,24,16,1,10,0,0,2,1,1,0,0,2.5,0,0,0,0,0,26,100,0,126
-Brazil,CC Machado,5992ef03,6,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,1,0,12,13
-Brazil,MFI Assuncao,d8e48e1b,7,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,1,0,16,17
-Brazil,VRCF Poubel,1e3da0b7,8,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Brazil,Kawsar Khan,a14b3bc0,9,8,6,1,0,133.33,"[1, 3, 5, 20]",4.0,24,15,1,18,2,0,2,1,0,0,1,4.5,0,0,0,0,0,12,91,0,103
-Brazil,R Avery,094ebfb6,10,0,3,0,0,0.0,"[7, 9, 11, 18]",4.0,24,9,0,20,0,0,4,2,0,0,1,5.0,0,0,0,0,0,-2,137,0,135
-Brazil,IC Simao,dcc76384,11,0,3,0,0,0.0,"[8, 10, 12, 14]",4.0,24,5,0,28,1,0,0,0,0,0,1,7.0,0,0,0,0,0,0,7,0,7
-Mexico,Shashikant Laxman,8cf61570,1,6,3,1,0,200.0,"[10, 12, 14]",3.0,18,11,0,8,0,0,2,0,0,0,0,2.67,1,0,0,1,0,10,67,14,91
-Mexico,RK Singh,6e974d8f,2,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Mexico,KB Patil,0474fd64,3,10,13,1,0,76.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
-Mexico,Praveen Santhanakrishnan,22fb205e,4,0,8,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Mexico,Shantanu Kaveri,091880f7,5,23,24,0,0,95.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
-Mexico,Luis Hermida,03beb59f,6,32,35,1,0,91.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,0,40,0,12,52
-Mexico,R Poojary,d05e9052,7,20,16,0,1,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,26,0,6,32
-Mexico,PK Mohanarangam,d73891ad,8,0,1,0,0,0.0,"[9, 15]",1.667,10,4,0,5,0,0,0,0,0,0,0,3.0,1,0,0,1,0,-2,4,14,16
-Mexico,Shoaib Rafiq,27df03d2,9,4,8,0,0,50.0,"[5, 7, 11, 13]",4.0,24,17,1,12,1,0,5,0,4,0,2,3.0,0,0,0,0,0,4,204,0,208
-Mexico,Pratik Singh Bais,5b351aff,10,0,1,0,0,0.0,"[1, 3, 6, 8]",4.0,24,18,1,18,3,0,0,0,0,0,2,4.5,1,0,0,1,0,-2,36,14,48
-Mexico,Y Jasti,3377f988,11,2,6,0,0,33.33,"[2, 4]",2.0,12,7,0,10,1,0,0,0,0,0,1,5.0,0,0,0,0,0,2,11,0,13
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Brazil,W Maximo,e41dee27,1,12,25,2,0,48.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,14,0,0,14,24,True,False,False,,
+Brazil,Muhammad Saleem,a025c156,2,4,10,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,-2,0,8,6,37,True,True,False,Right-arm medium,Left-hand bat
+Brazil,LF Muller,f6411545,3,4,13,0,0,30.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2,19,True,False,False,,
+Brazil,Yasar Haroon,5a8dc41e,4,0,1,0,0,0.0,"[13, 15, 17, 19]",4.0,24,7,0,26,0,1,1,0,1,0,1,6.5,0,0,0,0,0,-2,42,0,40,40,True,True,False,Right-arm offbreak,Right-hand bat
+Brazil,LH Rodrigues,57c95c3c,5,18,20,2,0,90.0,"[2, 4, 6, 16]",4.0,24,16,1,10,0,0,2,1,1,0,0,2.5,0,0,0,0,0,26,100,0,126,23,True,False,False,Right-arm medium-fast,Right-hand bat
+Brazil,CC Machado,5992ef03,6,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,1,0,12,13,21,True,False,False,,Right-hand bat
+Brazil,MFI Assuncao,d8e48e1b,7,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,1,0,16,17,24,True,False,False,,
+Brazil,VRCF Poubel,1e3da0b7,8,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,31,True,True,False,Right-arm medium-fast,Right-hand bat
+Brazil,Kawsar Khan,a14b3bc0,9,8,6,1,0,133.33,"[1, 3, 5, 20]",4.0,24,15,1,18,2,0,2,1,0,0,1,4.5,0,0,0,0,0,12,91,0,103,27,True,False,False,,
+Brazil,R Avery,094ebfb6,10,0,3,0,0,0.0,"[7, 9, 11, 18]",4.0,24,9,0,20,0,0,4,2,0,0,1,5.0,0,0,0,0,0,-2,137,0,135,49,True,True,False,Right-arm medium,Right-hand bat
+Brazil,IC Simao,dcc76384,11,0,3,0,0,0.0,"[8, 10, 12, 14]",4.0,24,5,0,28,1,0,0,0,0,0,1,7.0,0,0,0,0,0,0,7,0,7,21,True,True,False,Left-arm medium,Left-hand bat
+Mexico,Shashikant Laxman,8cf61570,1,6,3,1,0,200.0,"[10, 12, 14]",3.0,18,11,0,8,0,0,2,0,0,0,0,2.67,1,0,0,1,0,10,67,14,91,43,True,False,True,Right-arm medium,Right-hand bat
+Mexico,RK Singh,6e974d8f,2,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,36,True,True,False,Right-arm offbreak,Left-hand bat
+Mexico,KB Patil,0474fd64,3,10,13,1,0,76.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,34,True,False,False,,Right-hand bat
+Mexico,Praveen Santhanakrishnan,22fb205e,4,0,8,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,38,True,False,False,,
+Mexico,Shantanu Kaveri,091880f7,5,23,24,0,0,95.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23,46,True,True,False,Right-arm medium,Right-hand bat
+Mexico,Luis Hermida,03beb59f,6,32,35,1,0,91.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,0,40,0,12,52,42,True,False,False,Right-arm medium,Right-hand bat
+Mexico,R Poojary,d05e9052,7,20,16,0,1,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,26,0,6,32,36,True,False,False,,Right-hand bat
+Mexico,PK Mohanarangam,d73891ad,8,0,1,0,0,0.0,"[9, 15]",1.667,10,4,0,5,0,0,0,0,0,0,0,3.0,1,0,0,1,0,-2,4,14,16,31,True,True,False,Right-arm medium,Right-hand bat
+Mexico,Shoaib Rafiq,27df03d2,9,4,8,0,0,50.0,"[5, 7, 11, 13]",4.0,24,17,1,12,1,0,5,0,4,0,2,3.0,0,0,0,0,0,4,204,0,208,35,True,True,False,Right-arm medium-fast,Right-hand bat
+Mexico,Pratik Singh Bais,5b351aff,10,0,1,0,0,0.0,"[1, 3, 6, 8]",4.0,24,18,1,18,3,0,0,0,0,0,2,4.5,1,0,0,1,0,-2,36,14,48,27,True,True,False,Right-arm medium-fast,Right-hand bat
+Mexico,Y Jasti,3377f988,11,2,6,0,0,33.33,"[2, 4]",2.0,12,7,0,10,1,0,0,0,0,0,1,5.0,0,0,0,0,0,2,11,0,13,28,True,True,False,Left-arm medium,Left-hand bat

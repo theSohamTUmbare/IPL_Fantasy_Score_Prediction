@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Chittagong Kings,Naeem Islam,02e83ac5,1,12,5,1,1,240.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
-Chittagong Kings,Parvez Hossain Emon,489aaf0a,2,13,8,0,2,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
-Chittagong Kings,Usman Khan,bafb9238,3,18,15,2,1,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,32,0,8,40
-Chittagong Kings,Mohammad Mithun,77191792,4,6,7,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,10,0,8,18
-Chittagong Kings,Haider Ali,c13e34f4,5,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Chittagong Kings,Shamim Hossain,711249d1,6,78,38,7,5,205.26,"[14, 16]",2.0,12,1,0,23,0,2,0,0,0,0,0,11.5,0,0,0,0,6,154,-3,0,151
-Chittagong Kings,TL O'Connell,859d95bb,7,0,1,0,0,0.0,"[8, 12]",2.0,12,1,0,25,1,2,0,0,0,0,0,12.5,1,0,0,0,0,-2,-5,8,1
-Chittagong Kings,Mohammad Wasim,9e9af5f2,8,8,12,1,0,66.67,"[6, 9, 18, 20]",4.0,24,7,0,39,2,2,0,0,0,1,1,9.75,0,0,0,0,-2,10,7,0,17
-Chittagong Kings,Shoriful Islam,bb34fd31,9,1,3,0,0,33.33,"[1, 3, 17, 19]",4.0,24,8,0,47,2,5,0,0,0,0,1,11.75,1,0,0,0,0,1,4,8,13
-Chittagong Kings,Al Islam,45d38a84,10,6,18,0,0,33.33,"[2, 5, 10, 15]",4.0,24,15,0,17,3,0,2,0,0,0,0,4.25,0,0,0,0,-6,0,71,0,71
-Chittagong Kings,Khaled Ahmed,5dbdecf1,11,14,4,0,2,350.0,"[4, 7, 11, 13]",4.0,24,7,0,45,4,3,2,0,0,0,1,11.25,0,0,0,0,0,26,53,0,79
-Khulna Tigers,Mohammad Naim,7923a51d,1,26,17,1,3,152.94,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,56,0,0,56
-Khulna Tigers,WG Bosisto,04ef663a,2,75,49,8,3,153.06,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,141,0,8,149
-Khulna Tigers,Mehedi Hasan Miraz,c58b0108,3,18,18,1,1,100.0,"[8, 10, 12, 17]",4.0,24,10,0,26,2,1,1,0,0,0,0,6.5,1,0,0,0,0,28,37,8,73
-Khulna Tigers,Ibrahim Zadran,d4550956,4,6,7,0,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6
-Khulna Tigers,Afif Hossain,37138918,5,8,7,1,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20
-Khulna Tigers,Mahidul Islam Ankon,dac6aabc,6,59,22,1,7,268.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,119,0,8,127
-Khulna Tigers,Nasum Ahmed,37654b75,11,0,0,0,0,0.0,"[4, 11, 13]",3.0,18,7,0,35,4,2,1,1,0,0,2,11.67,0,0,0,0,0,0,36,0,36
-Khulna Tigers,Hasan Mahmud,80ad39ac,12,0,0,0,0,0.0,"[2, 6, 14, 18]",4.0,24,12,0,30,2,2,1,0,1,0,1,7.5,0,0,0,0,0,0,45,0,45
-Khulna Tigers,Abu Hider,31803fac,13,0,0,0,0,0.0,"[3, 5, 15, 19]",3.833,23,11,0,44,3,4,4,0,1,0,1,11.48,1,0,0,0,0,0,123,8,131
-Khulna Tigers,Mohammad Nawaz,3086f7a4,14,0,0,0,0,0.0,"[7, 9, 16]",3.0,18,11,0,13,0,1,2,1,0,0,0,4.33,1,0,0,0,0,0,75,8,83
-Khulna Tigers,O Thomas,c6097d68,15,0,0,0,0,0.0,[1],1.0,6,5,0,18,1,1,1,0,0,4,2,18.0,0,0,0,0,0,0,30,0,30
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Chittagong Kings,Naeem Islam,02e83ac5,1,12,5,1,1,240.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,38,True,False,True,Right-arm offbreak,Right-hand bat
+Chittagong Kings,Parvez Hossain Emon,489aaf0a,2,13,8,0,2,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,22,True,False,False,,Left-hand bat
+Chittagong Kings,Usman Khan,bafb9238,3,18,15,2,1,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,32,0,8,40,29,True,True,False,Right-arm offbreak,Right-hand bat
+Chittagong Kings,Mohammad Mithun,77191792,4,6,7,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,10,0,8,18,34,True,False,False,,Right-hand bat
+Chittagong Kings,Haider Ali,c13e34f4,5,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,24,True,False,False,,Right-hand bat
+Chittagong Kings,Shamim Hossain,711249d1,6,78,38,7,5,205.26,"[14, 16]",2.0,12,1,0,23,0,2,0,0,0,0,0,11.5,0,0,0,0,6,154,-3,0,151,24,True,False,True,Right-arm offbreak,Left-hand bat
+Chittagong Kings,TL O'Connell,859d95bb,7,0,1,0,0,0.0,"[8, 12]",2.0,12,1,0,25,1,2,0,0,0,0,0,12.5,1,0,0,0,0,-2,-5,8,1,24,True,False,False,Legbreak,Left-hand bat
+Chittagong Kings,Mohammad Wasim,9e9af5f2,8,8,12,1,0,66.67,"[6, 9, 18, 20]",4.0,24,7,0,39,2,2,0,0,0,1,1,9.75,0,0,0,0,-2,10,7,0,17,23,True,False,False,Right-arm fast-medium,Right-hand bat
+Chittagong Kings,Shoriful Islam,bb34fd31,9,1,3,0,0,33.33,"[1, 3, 17, 19]",4.0,24,8,0,47,2,5,0,0,0,0,1,11.75,1,0,0,0,0,1,4,8,13,23,True,False,False,Left-arm fast-medium,Left-hand bat
+Chittagong Kings,Al Islam,45d38a84,10,6,18,0,0,33.33,"[2, 5, 10, 15]",4.0,24,15,0,17,3,0,2,0,0,0,0,4.25,0,0,0,0,-6,0,71,0,71,28,True,False,False,Right-arm offbreak,Right-hand bat
+Chittagong Kings,Khaled Ahmed,5dbdecf1,11,14,4,0,2,350.0,"[4, 7, 11, 13]",4.0,24,7,0,45,4,3,2,0,0,0,1,11.25,0,0,0,0,0,26,53,0,79,32,True,False,False,Right-arm medium-fast,Right-hand bat
+Khulna Tigers,Mohammad Naim,7923a51d,1,26,17,1,3,152.94,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,56,0,0,56,25,True,False,False,,Left-hand bat
+Khulna Tigers,WG Bosisto,04ef663a,2,75,49,8,3,153.06,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,141,0,8,149,31,True,True,False,Right-arm offbreak,Right-hand bat
+Khulna Tigers,Mehedi Hasan Miraz,c58b0108,3,18,18,1,1,100.0,"[8, 10, 12, 17]",4.0,24,10,0,26,2,1,1,0,0,0,0,6.5,1,0,0,0,0,28,37,8,73,27,True,False,True,Right-arm offbreak,Right-hand bat
+Khulna Tigers,Ibrahim Zadran,d4550956,4,6,7,0,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6,23,True,False,False,Right-arm medium-fast,Right-hand bat
+Khulna Tigers,Afif Hossain,37138918,5,8,7,1,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20,25,True,False,True,Right-arm offbreak,Left-hand bat
+Khulna Tigers,Mahidul Islam Ankon,dac6aabc,6,59,22,1,7,268.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,119,0,8,127,25,True,False,False,,Right-hand bat
+Khulna Tigers,Nasum Ahmed,37654b75,11,0,0,0,0,0.0,"[4, 11, 13]",3.0,18,7,0,35,4,2,1,1,0,0,2,11.67,0,0,0,0,0,0,36,0,36,30,True,False,True,Slow left-arm orthodox,Left-hand bat
+Khulna Tigers,Hasan Mahmud,80ad39ac,12,0,0,0,0,0.0,"[2, 6, 14, 18]",4.0,24,12,0,30,2,2,1,0,1,0,1,7.5,0,0,0,0,0,0,45,0,45,25,True,False,False,Right-arm fast-medium,Right-hand bat
+Khulna Tigers,Abu Hider,31803fac,13,0,0,0,0,0.0,"[3, 5, 15, 19]",3.833,23,11,0,44,3,4,4,0,1,0,1,11.48,1,0,0,0,0,0,123,8,131,29,True,False,True,Left-arm fast-medium,Right-hand bat
+Khulna Tigers,Mohammad Nawaz,3086f7a4,14,0,0,0,0,0.0,"[7, 9, 16]",3.0,18,11,0,13,0,1,2,1,0,0,0,4.33,1,0,0,0,0,0,75,8,83,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Khulna Tigers,O Thomas,c6097d68,15,0,0,0,0,0.0,[1],1.0,6,5,0,18,1,1,1,0,0,4,2,18.0,0,0,0,0,0,0,30,0,30,28,True,False,False,Right-arm fast,Left-hand bat

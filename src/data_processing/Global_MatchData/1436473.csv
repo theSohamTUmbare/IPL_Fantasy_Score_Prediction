@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-France,H Niaz,d0e2e8ea,1,11,11,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
-France,Zain Ahmad,ea2c0aff,2,12,11,1,1,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
-France,G Mckeon,31366b7e,3,34,26,1,3,130.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,62,0,16,78
-France,C Roberts,07ac9c54,4,24,25,2,0,96.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32
-France,L Canessane,72a4c3b2,5,12,9,2,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
-France,Usman Khan,e8a552ef,6,25,20,2,0,125.0,"[6, 13, 17, 19]",4.0,24,9,0,39,3,2,3,0,1,0,6,9.75,1,0,0,0,0,37,96,8,141
-France,Kamran Ahmadzai,afa2ebba,7,14,6,0,2,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,26,0,8,34
-France,Noman Amjad,c079c66a,8,2,5,0,0,40.0,"[2, 4, 18, 20]",4.0,24,8,0,14,0,0,0,0,0,0,2,3.5,0,0,0,0,0,2,14,0,16
-France,S Stanikzay,c5445834,8,0,0,0,0,0.0,"[7, 9, 11, 16]",4.0,24,9,0,21,1,0,0,0,0,0,2,5.25,0,0,0,0,0,0,13,0,13
-France,Zaheer Zahiri,62f6d8ce,9,8,6,1,0,133.33,"[1, 3, 5, 15]",4.0,24,11,0,23,3,0,2,0,0,0,2,5.75,0,0,0,0,0,12,65,0,77
-France,Dawood Ahmadzai,951686f5,10,1,1,0,0,100.0,"[8, 10, 12, 14]",4.0,24,12,0,18,1,0,1,0,1,0,2,4.5,0,0,0,0,0,1,51,0,52
-Isle of Man,OJ Webster,a69e2964,1,9,9,1,0,100.0,"[5, 11, 13, 17]",4.0,24,12,0,33,1,3,3,1,1,0,0,8.25,1,0,0,0,0,13,107,8,128
-Isle of Man,S Barnett,e09a869b,2,3,10,0,0,30.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-3,0,0,-3
-Isle of Man,EF Beard,68019a70,3,14,13,3,0,107.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,26,0,8,34
-Isle of Man,A McAuley,39e599c8,4,3,10,0,0,30.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-3,0,0,-3
-Isle of Man,G Burrows,8bee668b,5,40,34,2,1,117.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,58,0,0,58
-Isle of Man,H McAleer,8b39d02a,6,6,15,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,0,0,0,0
-Isle of Man,CJ Langford,3967b66f,7,24,25,2,1,96.0,"[2, 4, 6, 19]",4.0,24,12,0,18,1,0,1,0,0,0,2,4.5,0,0,0,0,0,38,43,0,81
-Isle of Man,L Ward,98f33eed,8,2,4,0,0,50.0,[12],1.0,6,2,0,4,0,0,1,0,1,0,0,4.0,0,0,0,0,0,2,35,0,37
-Isle of Man,JA Burrows,dba54d8e,8,0,0,0,0,0.0,"[7, 9, 14]",3.0,18,4,0,34,3,2,0,0,0,0,0,11.33,1,0,0,0,0,0,0,8,8
-Isle of Man,MJ Ansell,6e60a792,9,0,0,0,0,0.0,"[1, 3, 15, 18]",4.0,24,10,0,23,2,0,1,0,0,0,0,5.75,1,0,0,0,0,0,39,8,47
-Isle of Man,K Cawte,a2dd9236,10,0,0,0,0,0.0,"[8, 10, 16, 20]",4.0,24,7,0,34,3,1,2,0,1,0,1,8.5,0,0,0,0,0,0,65,0,65
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+France,H Niaz,d0e2e8ea,1,11,11,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15,29,True,False,False,,
+France,Zain Ahmad,ea2c0aff,2,12,11,1,1,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,21,True,True,False,Legbreak googly,Right-hand bat
+France,G Mckeon,31366b7e,3,34,26,1,3,130.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,62,0,16,78,21,True,True,False,Right-arm medium-fast,Right-hand bat
+France,C Roberts,07ac9c54,4,24,25,2,0,96.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32,21,True,False,False,,Right-hand bat
+France,L Canessane,72a4c3b2,5,12,9,2,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,22,True,False,False,,Right-hand bat
+France,Usman Khan,e8a552ef,6,25,20,2,0,125.0,"[6, 13, 17, 19]",4.0,24,9,0,39,3,2,3,0,1,0,6,9.75,1,0,0,0,0,37,96,8,141,34,True,True,False,Right-arm medium,Right-hand bat
+France,Kamran Ahmadzai,afa2ebba,7,14,6,0,2,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,26,0,8,34,31,True,True,False,Right-arm medium,Right-hand bat
+France,Noman Amjad,c079c66a,8,2,5,0,0,40.0,"[2, 4, 18, 20]",4.0,24,8,0,14,0,0,0,0,0,0,2,3.5,0,0,0,0,0,2,14,0,16,20,True,True,False,Right-arm medium-fast,Right-hand bat
+France,S Stanikzay,c5445834,8,0,0,0,0,0.0,"[7, 9, 11, 16]",4.0,24,9,0,21,1,0,0,0,0,0,2,5.25,0,0,0,0,0,0,13,0,13,17,True,True,False,Legbreak,Right-hand bat
+France,Zaheer Zahiri,62f6d8ce,9,8,6,1,0,133.33,"[1, 3, 5, 15]",4.0,24,11,0,23,3,0,2,0,0,0,2,5.75,0,0,0,0,0,12,65,0,77,22,True,True,False,Left-arm medium,Right-hand bat
+France,Dawood Ahmadzai,951686f5,10,1,1,0,0,100.0,"[8, 10, 12, 14]",4.0,24,12,0,18,1,0,1,0,1,0,2,4.5,0,0,0,0,0,1,51,0,52,31,True,True,False,Legbreak,Right-hand bat
+Isle of Man,OJ Webster,a69e2964,1,9,9,1,0,100.0,"[5, 11, 13, 17]",4.0,24,12,0,33,1,3,3,1,1,0,0,8.25,1,0,0,0,0,13,107,8,128,39,True,False,False,,
+Isle of Man,S Barnett,e09a869b,2,3,10,0,0,30.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-3,0,0,-3,20,True,True,False,Right-arm medium-fast,Right-hand bat
+Isle of Man,EF Beard,68019a70,3,14,13,3,0,107.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,26,0,8,34,24,True,False,False,,Right-hand bat
+Isle of Man,A McAuley,39e599c8,4,3,10,0,0,30.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-3,0,0,-3,29,True,False,False,,Right-hand bat
+Isle of Man,G Burrows,8bee668b,5,40,34,2,1,117.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,58,0,0,58,25,True,False,False,,Right-hand bat
+Isle of Man,H McAleer,8b39d02a,6,6,15,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,0,0,0,0,20,True,False,False,,Right-hand bat
+Isle of Man,CJ Langford,3967b66f,7,24,25,2,1,96.0,"[2, 4, 6, 19]",4.0,24,12,0,18,1,0,1,0,0,0,2,4.5,0,0,0,0,0,38,43,0,81,37,True,True,False,Left-arm fast-medium,Left-hand bat
+Isle of Man,L Ward,98f33eed,8,2,4,0,0,50.0,[12],1.0,6,2,0,4,0,0,1,0,1,0,0,4.0,0,0,0,0,0,2,35,0,37,19,True,False,False,,Right-hand bat
+Isle of Man,JA Burrows,dba54d8e,8,0,0,0,0,0.0,"[7, 9, 14]",3.0,18,4,0,34,3,2,0,0,0,0,0,11.33,1,0,0,0,0,0,0,8,8,28,True,False,False,Slow left-arm orthodox,Left-hand bat
+Isle of Man,MJ Ansell,6e60a792,9,0,0,0,0,0.0,"[1, 3, 15, 18]",4.0,24,10,0,23,2,0,1,0,0,0,0,5.75,1,0,0,0,0,0,39,8,47,30,True,False,False,Slow left-arm orthodox,Right-hand bat
+Isle of Man,K Cawte,a2dd9236,10,0,0,0,0,0.0,"[8, 10, 16, 20]",4.0,24,7,0,34,3,1,2,0,1,0,1,8.5,0,0,0,0,0,0,65,0,65,25,True,False,False,,

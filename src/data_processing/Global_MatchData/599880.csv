@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Barisal Burners,P Mustard,1b6fef02,1,7,10,1,0,70.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,-2,9,0,20,29
-Barisal Burners,BJ Hodge,b57f8a9a,2,23,16,5,0,143.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,45,0,0,45
-Barisal Burners,Sabbir Rahman,7147f314,3,28,13,4,1,215.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,60,0,0,60
-Barisal Burners,JL Denly,bdadf7da,4,31,21,1,3,147.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,59,0,16,75
-Barisal Burners,Azhar Mahmood,9a158001,5,54,26,3,4,207.69,"[1, 5, 18, 20]",4.0,24,9,0,50,4,4,1,0,0,1,0,12.5,0,0,0,0,6,104,28,0,132
-Barisal Burners,Alok Kapali,54279e23,6,10,11,1,0,90.91,"[7, 9, 15, 17]",4.0,24,12,0,23,0,2,3,0,1,0,0,5.75,0,0,0,0,0,14,103,0,117
-Barisal Burners,Kabir Ali,60dd8960,7,12,5,1,1,240.0,"[2, 10, 19]",3.0,18,3,0,33,3,1,0,0,0,0,1,11.0,0,0,0,0,0,22,1,0,23
-Barisal Burners,Shafiul Islam,1a8eebbe,8,25,13,2,1,192.31,"[4, 12, 14, 16]",4.0,24,8,0,23,2,0,2,0,0,0,1,5.75,0,0,0,0,6,49,62,0,111
-Barisal Burners,Mahmudul Hasan,8c783a97,9,0,0,0,0,0.0,"[3, 8, 11]",3.0,18,5,0,44,5,3,0,0,0,0,0,14.67,0,0,0,0,0,0,-1,0,-1
-Barisal Burners,Elias Sunny,817c1746,9,9,5,1,0,180.0,[6],1.0,6,1,0,12,1,1,0,0,0,0,0,12.0,0,0,0,0,0,13,1,0,14
-Barisal Burners,Nazmul Islam,6575e3bc,10,0,0,0,0,0.0,[13],1.0,6,1,0,19,1,2,0,0,0,0,0,19.0,0,0,0,0,0,0,1,0,1
-Duronto Rajshahi,Tamim Iqbal,3b041a12,1,66,46,3,5,143.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,118,0,0,118
-Duronto Rajshahi,CK Coventry,a21ea40c,2,62,25,7,4,248.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,128,0,0,128
-Duronto Rajshahi,SM Katich,fdedb37c,3,23,14,4,0,164.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,43,0,0,43
-Duronto Rajshahi,Jahurul Islam,6752c57b,4,7,13,0,0,53.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,3,0,0,3
-Duronto Rajshahi,SM Ervine,556302a7,5,30,11,2,3,272.73,"[10, 13, 15, 18]",4.0,24,5,0,39,3,2,1,1,0,0,0,9.75,1,0,0,0,6,66,38,8,112
-Duronto Rajshahi,MM Ali,bb351c23,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
-Duronto Rajshahi,Abul Hasan,5c756df3,7,13,10,0,1,130.0,"[6, 11, 17, 19]",4.0,24,8,0,43,6,0,2,0,0,2,0,10.75,0,0,0,0,2,21,56,0,77
-Duronto Rajshahi,Farhad Hossain,7f9bd93c,8,0,0,0,0,0.0,[20],1.0,6,1,0,18,2,1,0,0,0,0,2,18.0,0,0,0,0,0,0,1,0,1
-Duronto Rajshahi,Monir Hossain,760f445b,9,0,0,0,0,0.0,"[1, 3, 5, 12]",4.0,24,14,0,23,4,0,1,0,1,0,1,5.75,0,0,1,0,0,0,51,12,63
-Duronto Rajshahi,Taijul Islam,9d1d34bd,10,0,0,0,0,0.0,"[7, 9, 16]",3.0,18,5,0,36,0,4,1,0,1,0,0,12.0,1,0,0,0,0,0,34,8,42
-Duronto Rajshahi,Naeem Islam,185cbde3,11,0,0,0,0,0.0,"[2, 4, 8, 14]",4.0,24,6,0,45,4,3,1,0,0,0,0,11.25,0,0,0,0,0,0,27,0,27
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Barisal Burners,P Mustard,1b6fef02,1,7,10,1,0,70.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,-2,9,0,20,29,42,True,True,False,Legbreak,Left-hand bat
+Barisal Burners,BJ Hodge,b57f8a9a,2,23,16,5,0,143.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,45,0,0,45,50,True,False,False,Right-arm offbreak,Right-hand bat
+Barisal Burners,Sabbir Rahman,7147f314,3,28,13,4,1,215.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,60,0,0,60,33,True,False,True,Legbreak,Right-hand bat
+Barisal Burners,JL Denly,bdadf7da,4,31,21,1,3,147.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,59,0,16,75,39,True,False,False,Legbreak,Right-hand bat
+Barisal Burners,Azhar Mahmood,9a158001,5,54,26,3,4,207.69,"[1, 5, 18, 20]",4.0,24,9,0,50,4,4,1,0,0,1,0,12.5,0,0,0,0,6,104,28,0,132,50,True,False,True,Right-arm fast-medium,Right-hand bat
+Barisal Burners,Alok Kapali,54279e23,6,10,11,1,0,90.91,"[7, 9, 15, 17]",4.0,24,12,0,23,0,2,3,0,1,0,0,5.75,0,0,0,0,0,14,103,0,117,41,True,False,True,Legbreak,Right-hand bat
+Barisal Burners,Kabir Ali,60dd8960,7,12,5,1,1,240.0,"[2, 10, 19]",3.0,18,3,0,33,3,1,0,0,0,0,1,11.0,0,0,0,0,0,22,1,0,23,44,True,False,False,Right-arm medium-fast,Right-hand bat
+Barisal Burners,Shafiul Islam,1a8eebbe,8,25,13,2,1,192.31,"[4, 12, 14, 16]",4.0,24,8,0,23,2,0,2,0,0,0,1,5.75,0,0,0,0,6,49,62,0,111,35,True,False,False,Right-arm fast-medium,Right-hand bat
+Barisal Burners,Mahmudul Hasan,8c783a97,9,0,0,0,0,0.0,"[3, 8, 11]",3.0,18,5,0,44,5,3,0,0,0,0,0,14.67,0,0,0,0,0,0,-1,0,-1,34,True,True,False,Right-arm offbreak,Right-hand bat
+Barisal Burners,Elias Sunny,817c1746,9,9,5,1,0,180.0,[6],1.0,6,1,0,12,1,1,0,0,0,0,0,12.0,0,0,0,0,0,13,1,0,14,39,True,False,False,Slow left-arm orthodox,Left-hand bat
+Barisal Burners,Nazmul Islam,6575e3bc,10,0,0,0,0,0.0,[13],1.0,6,1,0,19,1,2,0,0,0,0,0,19.0,0,0,0,0,0,0,1,0,1,33,True,False,False,Slow left-arm orthodox,Left-hand bat
+Duronto Rajshahi,Tamim Iqbal,3b041a12,1,66,46,3,5,143.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,118,0,0,118,36,True,False,False,,Left-hand bat
+Duronto Rajshahi,CK Coventry,a21ea40c,2,62,25,7,4,248.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,128,0,0,128,42,True,False,False,Legbreak,Right-hand bat
+Duronto Rajshahi,SM Katich,fdedb37c,3,23,14,4,0,164.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,43,0,0,43,49,True,False,False,Left-arm wrist-spin,Left-hand bat
+Duronto Rajshahi,Jahurul Islam,6752c57b,4,7,13,0,0,53.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,3,0,0,3,38,True,False,False,Right-arm offbreak,Right-hand bat
+Duronto Rajshahi,SM Ervine,556302a7,5,30,11,2,3,272.73,"[10, 13, 15, 18]",4.0,24,5,0,39,3,2,1,1,0,0,0,9.75,1,0,0,0,6,66,38,8,112,42,True,False,True,Right-arm offbreak,Left-hand bat
+Duronto Rajshahi,MM Ali,bb351c23,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,37,True,False,True,Right-arm offbreak,Left-hand bat
+Duronto Rajshahi,Abul Hasan,5c756df3,7,13,10,0,1,130.0,"[6, 11, 17, 19]",4.0,24,8,0,43,6,0,2,0,0,2,0,10.75,0,0,0,0,2,21,56,0,77,32,True,False,False,Right-arm medium-fast,Left-hand bat
+Duronto Rajshahi,Farhad Hossain,7f9bd93c,8,0,0,0,0,0.0,[20],1.0,6,1,0,18,2,1,0,0,0,0,2,18.0,0,0,0,0,0,0,1,0,1,38,True,True,False,Right-arm offbreak,Right-hand bat
+Duronto Rajshahi,Monir Hossain,760f445b,9,0,0,0,0,0.0,"[1, 3, 5, 12]",4.0,24,14,0,23,4,0,1,0,1,0,1,5.75,0,0,1,0,0,0,51,12,63,39,True,True,False,Slow left-arm orthodox,Right-hand bat
+Duronto Rajshahi,Taijul Islam,9d1d34bd,10,0,0,0,0,0.0,"[7, 9, 16]",3.0,18,5,0,36,0,4,1,0,1,0,0,12.0,1,0,0,0,0,0,34,8,42,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+Duronto Rajshahi,Naeem Islam,185cbde3,11,0,0,0,0,0.0,"[2, 4, 8, 14]",4.0,24,6,0,45,4,3,1,0,0,0,0,11.25,0,0,0,0,0,0,27,0,27,30,True,True,False,Slow left-arm orthodox,Right-hand bat

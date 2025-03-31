@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Hobart Hurricanes,BR Dunk,272d796e,1,9,8,1,0,112.5,[7],1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,0,13,1,0,14
-Hobart Hurricanes,TD Paine,5748e866,2,57,47,4,2,121.28,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,93,0,20,113
-Hobart Hurricanes,KC Sangakkara,6b71e6cf,3,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
-Hobart Hurricanes,DT Christian,2a2e6343,4,26,22,1,1,118.18,"[6, 8, 14]",3.0,18,5,0,28,5,0,0,0,0,0,0,9.33,0,0,0,0,0,40,5,0,45
-Hobart Hurricanes,MW Hill,1952e660,5,23,15,0,2,153.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,39,0,8,47
-Hobart Hurricanes,JW Wells,8bdac857,6,20,10,4,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,42,0,0,42
-Hobart Hurricanes,DJG Sammy,c03c6200,7,28,12,2,2,233.33,"[10, 12, 18, 20]",4.0,24,4,0,40,3,1,0,0,0,0,0,10.0,0,0,0,1,6,58,2,6,66
-Hobart Hurricanes,CJ Boyce,51a60c16,8,0,0,0,0,0.0,"[9, 11, 15]",3.0,18,2,0,31,3,1,1,0,0,0,0,10.33,0,0,0,0,0,0,25,0,25
-Hobart Hurricanes,CA Rose,7517d134,8,0,0,0,0,0.0,"[1, 5]",2.0,12,6,0,11,2,0,1,0,0,0,0,5.5,0,0,0,0,0,0,35,0,35
-Hobart Hurricanes,SL Rainbird,e7dd5eca,9,0,0,0,0,0.0,"[2, 4, 16]",3.0,18,6,0,21,3,0,0,0,0,0,0,7.0,1,0,0,1,0,0,8,14,22
-Hobart Hurricanes,SW Tait,addfb70e,10,0,0,0,0,0.0,"[3, 13, 17, 19]",4.0,24,9,0,29,3,0,2,0,0,0,0,7.25,0,0,0,0,0,0,59,0,59
-Perth Scorchers,MS Harris,9e85455c,1,12,15,2,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
-Perth Scorchers,M Klinger,b970a03f,2,36,29,5,0,124.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,60,0,0,60
-Perth Scorchers,MA Carberry,8305580c,3,62,35,9,1,177.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,118,0,0,118
-Perth Scorchers,AC Voges,864c199e,4,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
-Perth Scorchers,CT Bancroft,399b0b94,5,26,22,2,0,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,1,0,38,0,18,56
-Perth Scorchers,AC Agar,a2421394,6,8,7,1,0,114.29,"[1, 7, 9, 15]",4.0,24,4,0,38,5,0,2,0,1,0,1,9.5,0,0,0,0,0,12,62,0,74
-Perth Scorchers,DJ Willey,7f048519,7,25,9,2,1,277.78,"[3, 5, 11, 17]",4.0,24,11,0,23,1,1,1,0,0,0,0,5.75,1,0,0,0,0,43,40,8,91
-Perth Scorchers,AJ Turner,ff1e12a0,8,0,0,0,0,0.0,[12],1.0,6,2,0,5,0,0,0,0,0,0,0,5.0,0,0,0,0,0,0,2,0,2
-Perth Scorchers,AJ Tye,7c7d63a2,9,0,0,0,0,0.0,"[6, 8, 18, 20]",4.0,24,10,0,32,3,1,1,0,0,0,1,8.0,0,0,0,1,0,0,35,6,41
-Perth Scorchers,JP Behrendorff,4933f499,10,0,0,0,0,0.0,"[2, 4, 13, 19]",4.0,24,4,0,45,3,3,0,0,0,0,0,11.25,0,0,0,0,0,0,0,0,0
-Perth Scorchers,GB Hogg,f708a0bc,11,0,0,0,0,0.0,"[10, 14, 16]",3.0,18,4,0,28,1,2,1,0,1,0,0,9.33,0,0,0,0,0,0,37,0,37
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Hobart Hurricanes,BR Dunk,272d796e,1,9,8,1,0,112.5,[7],1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,0,13,1,0,14,38,True,True,False,Right-arm offbreak,Left-hand bat
+Hobart Hurricanes,TD Paine,5748e866,2,57,47,4,2,121.28,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,93,0,20,113,40,True,True,False,Right-arm medium,Right-hand bat
+Hobart Hurricanes,KC Sangakkara,6b71e6cf,3,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,47,True,True,False,Right-arm offbreak,Left-hand bat
+Hobart Hurricanes,DT Christian,2a2e6343,4,26,22,1,1,118.18,"[6, 8, 14]",3.0,18,5,0,28,5,0,0,0,0,0,0,9.33,0,0,0,0,0,40,5,0,45,41,True,False,True,Right-arm fast-medium,Right-hand bat
+Hobart Hurricanes,MW Hill,1952e660,5,23,15,0,2,153.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,39,0,8,47,36,True,True,False,Right-arm medium,Left-hand bat
+Hobart Hurricanes,JW Wells,8bdac857,6,20,10,4,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,42,0,0,42,36,True,False,False,Right-arm medium,Right-hand bat
+Hobart Hurricanes,DJG Sammy,c03c6200,7,28,12,2,2,233.33,"[10, 12, 18, 20]",4.0,24,4,0,40,3,1,0,0,0,0,0,10.0,0,0,0,1,6,58,2,6,66,41,True,False,True,Right-arm medium,Right-hand bat
+Hobart Hurricanes,CJ Boyce,51a60c16,8,0,0,0,0,0.0,"[9, 11, 15]",3.0,18,2,0,31,3,1,1,0,0,0,0,10.33,0,0,0,0,0,0,25,0,25,35,True,False,False,Legbreak,Right-hand bat
+Hobart Hurricanes,CA Rose,7517d134,8,0,0,0,0,0.0,"[1, 5]",2.0,12,6,0,11,2,0,1,0,0,0,0,5.5,0,0,0,0,0,0,35,0,35,35,True,False,False,Slow left-arm orthodox,Right-hand bat
+Hobart Hurricanes,SL Rainbird,e7dd5eca,9,0,0,0,0,0.0,"[2, 4, 16]",3.0,18,6,0,21,3,0,0,0,0,0,0,7.0,1,0,0,1,0,0,8,14,22,32,True,False,False,Left-arm medium-fast,Right-hand bat
+Hobart Hurricanes,SW Tait,addfb70e,10,0,0,0,0,0.0,"[3, 13, 17, 19]",4.0,24,9,0,29,3,0,2,0,0,0,0,7.25,0,0,0,0,0,0,59,0,59,42,True,False,False,Right-arm fast,Right-hand bat
+Perth Scorchers,MS Harris,9e85455c,1,12,15,2,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,32,True,False,False,,Left-hand bat
+Perth Scorchers,M Klinger,b970a03f,2,36,29,5,0,124.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,60,0,0,60,44,True,False,False,,Right-hand bat
+Perth Scorchers,MA Carberry,8305580c,3,62,35,9,1,177.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,118,0,0,118,44,True,False,False,Right-arm offbreak,Left-hand bat
+Perth Scorchers,AC Voges,864c199e,4,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,45,True,False,False,Slow left-arm orthodox,Right-hand bat
+Perth Scorchers,CT Bancroft,399b0b94,5,26,22,2,0,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,1,0,38,0,18,56,32,True,False,False,,Right-hand bat
+Perth Scorchers,AC Agar,a2421394,6,8,7,1,0,114.29,"[1, 7, 9, 15]",4.0,24,4,0,38,5,0,2,0,1,0,1,9.5,0,0,0,0,0,12,62,0,74,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+Perth Scorchers,DJ Willey,7f048519,7,25,9,2,1,277.78,"[3, 5, 11, 17]",4.0,24,11,0,23,1,1,1,0,0,0,0,5.75,1,0,0,0,0,43,40,8,91,35,True,False,True,Left-arm fast-medium,Left-hand bat
+Perth Scorchers,AJ Turner,ff1e12a0,8,0,0,0,0,0.0,[12],1.0,6,2,0,5,0,0,0,0,0,0,0,5.0,0,0,0,0,0,0,2,0,2,32,True,False,False,Right-arm offbreak,Right-hand bat
+Perth Scorchers,AJ Tye,7c7d63a2,9,0,0,0,0,0.0,"[6, 8, 18, 20]",4.0,24,10,0,32,3,1,1,0,0,0,1,8.0,0,0,0,1,0,0,35,6,41,38,True,False,False,Right-arm medium-fast,Right-hand bat
+Perth Scorchers,JP Behrendorff,4933f499,10,0,0,0,0,0.0,"[2, 4, 13, 19]",4.0,24,4,0,45,3,3,0,0,0,0,0,11.25,0,0,0,0,0,0,0,0,0,34,True,False,False,Left-arm fast-medium,Right-hand bat
+Perth Scorchers,GB Hogg,f708a0bc,11,0,0,0,0,0.0,"[10, 14, 16]",3.0,18,4,0,28,1,2,1,0,1,0,0,9.33,0,0,0,0,0,0,37,0,37,54,True,False,True,Left-arm wrist-spin,Left-hand bat

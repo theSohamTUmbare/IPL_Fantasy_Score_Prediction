@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Pakistan,Kamran Akmal,ff077124,1,22,17,3,1,129.41,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,40,0,0,40
-Pakistan,Ahmed Shehzad,f8fd6e3f,2,13,13,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,21,0,12,33
-Pakistan,Babar Azam,8a75e999,3,29,29,3,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,45,0,0,45
-Pakistan,Mohammad Hafeez,9ab63e7b,4,5,12,0,0,41.67,[2],1.0,6,2,0,8,0,1,0,0,0,0,0,8.0,1,0,0,0,-6,-1,2,8,9
-Pakistan,Shoaib Malik,64c34cd0,5,38,29,3,1,131.03,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,62,0,0,62
-Pakistan,Sarfraz Ahmed,2254ab79,6,4,3,0,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
-Pakistan,Imad Wasim,9cb8d7a6,6,0,0,0,0,0.0,"[1, 3, 7]",3.0,18,9,0,12,1,0,1,1,0,0,0,4.0,2,0,0,0,0,0,48,16,64
-Pakistan,Shadab Khan,9de62878,7,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,17,0,7,0,0,3,1,1,0,0,1.75,0,0,0,0,0,0,118,0,118
-Pakistan,Sohail Tanvir,64d43928,8,0,0,0,0,0.0,"[4, 6, 15, 20]",4.0,24,12,0,21,2,0,1,0,0,1,1,5.25,0,0,0,0,0,0,41,0,41
-Pakistan,Wahab Riaz,b3118300,9,0,0,0,0,0.0,"[9, 13, 17, 19]",4.0,24,10,0,35,3,2,1,0,0,0,2,8.75,0,0,0,0,0,0,35,0,35
-Pakistan,Hasan Ali,2911de16,10,0,0,0,0,0.0,"[5, 11, 16, 18]",4.0,24,12,0,25,2,1,1,1,0,0,0,6.25,0,0,0,0,0,0,47,0,47
-West Indies,E Lewis,0ebfb1ad,1,10,10,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24
-West Indies,CAK Walton,bbff906c,2,18,18,1,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,28,0,8,36
-West Indies,MN Samuels,f846de6a,3,7,14,1,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,7,0,0,7
-West Indies,LMP Simmons,89f64c19,4,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-West Indies,KA Pollard,a757b0d8,5,14,26,1,0,53.85,[14],1.0,6,1,0,10,1,0,0,0,0,0,1,10.0,0,0,0,0,-4,14,1,0,15
-West Indies,S Badree,76388dc8,6,0,0,0,0,0.0,"[1, 4, 6, 8]",4.0,24,14,0,24,2,1,1,0,0,0,1,6.0,0,0,0,0,0,0,41,0,41
-West Indies,SP Narine,9d430b40,6,1,5,0,0,20.0,"[3, 10, 12, 16]",4.0,24,10,0,22,2,0,0,0,0,0,0,5.5,0,0,0,0,0,1,14,0,15
-West Indies,KOK Williams,78cb83f3,7,0,0,0,0,0.0,"[11, 13]",2.0,12,6,0,14,1,0,0,0,0,1,1,7.0,0,0,0,0,0,0,8,0,8
-West Indies,R Powell,650d5e49,7,5,5,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17
-West Indies,CR Brathwaite,e342e5fb,8,34,27,2,2,125.93,"[7, 9, 17]",3.0,18,6,0,18,0,1,1,0,0,0,0,6.0,1,0,0,0,0,58,33,8,99
-West Indies,JO Holder,0f721006,9,14,12,2,0,116.67,"[2, 5, 15, 18]",3.167,19,8,0,27,5,0,2,0,0,0,0,8.53,0,0,0,0,0,22,58,0,80
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Pakistan,Kamran Akmal,ff077124,1,22,17,3,1,129.41,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,40,0,0,40,43,True,False,False,,Right-hand bat
+Pakistan,Ahmed Shehzad,f8fd6e3f,2,13,13,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,21,0,12,33,33,True,False,False,Legbreak,Right-hand bat
+Pakistan,Babar Azam,8a75e999,3,29,29,3,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,45,0,0,45,30,True,False,False,Right-arm offbreak,Right-hand bat
+Pakistan,Mohammad Hafeez,9ab63e7b,4,5,12,0,0,41.67,[2],1.0,6,2,0,8,0,1,0,0,0,0,0,8.0,1,0,0,0,-6,-1,2,8,9,44,True,False,True,Right-arm offbreak,Right-hand bat
+Pakistan,Shoaib Malik,64c34cd0,5,38,29,3,1,131.03,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,62,0,0,62,43,True,False,True,Right-arm offbreak,Right-hand bat
+Pakistan,Sarfraz Ahmed,2254ab79,6,4,3,0,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,37,True,True,False,Right-arm offbreak,Right-hand bat
+Pakistan,Imad Wasim,9cb8d7a6,6,0,0,0,0,0.0,"[1, 3, 7]",3.0,18,9,0,12,1,0,1,1,0,0,0,4.0,2,0,0,0,0,0,48,16,64,36,True,False,True,Slow left-arm orthodox,Left-hand bat
+Pakistan,Shadab Khan,9de62878,7,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,17,0,7,0,0,3,1,1,0,0,1.75,0,0,0,0,0,0,118,0,118,26,True,False,True,Legbreak,Right-hand bat
+Pakistan,Sohail Tanvir,64d43928,8,0,0,0,0,0.0,"[4, 6, 15, 20]",4.0,24,12,0,21,2,0,1,0,0,1,1,5.25,0,0,0,0,0,0,41,0,41,40,True,False,False,Left-arm medium-fast,Left-hand bat
+Pakistan,Wahab Riaz,b3118300,9,0,0,0,0,0.0,"[9, 13, 17, 19]",4.0,24,10,0,35,3,2,1,0,0,0,2,8.75,0,0,0,0,0,0,35,0,35,39,True,False,False,Left-arm fast,Right-hand bat
+Pakistan,Hasan Ali,2911de16,10,0,0,0,0,0.0,"[5, 11, 16, 18]",4.0,24,12,0,25,2,1,1,1,0,0,0,6.25,0,0,0,0,0,0,47,0,47,30,True,False,False,Right-arm medium-fast,Right-hand bat
+West Indies,E Lewis,0ebfb1ad,1,10,10,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24,33,True,False,False,,Left-hand bat
+West Indies,CAK Walton,bbff906c,2,18,18,1,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,28,0,8,36,39,True,False,False,,Right-hand bat
+West Indies,MN Samuels,f846de6a,3,7,14,1,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,7,0,0,7,44,True,False,False,Right-arm offbreak,Right-hand bat
+West Indies,LMP Simmons,89f64c19,4,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,40,True,False,False,Right-arm medium-fast,Right-hand bat
+West Indies,KA Pollard,a757b0d8,5,14,26,1,0,53.85,[14],1.0,6,1,0,10,1,0,0,0,0,0,1,10.0,0,0,0,0,-4,14,1,0,15,37,True,False,True,Right-arm medium,Right-hand bat
+West Indies,S Badree,76388dc8,6,0,0,0,0,0.0,"[1, 4, 6, 8]",4.0,24,14,0,24,2,1,1,0,0,0,1,6.0,0,0,0,0,0,0,41,0,41,44,True,False,False,Legbreak,Right-hand bat
+West Indies,SP Narine,9d430b40,6,1,5,0,0,20.0,"[3, 10, 12, 16]",4.0,24,10,0,22,2,0,0,0,0,0,0,5.5,0,0,0,0,0,1,14,0,15,36,True,False,True,Right-arm offbreak,Left-hand bat
+West Indies,KOK Williams,78cb83f3,7,0,0,0,0,0.0,"[11, 13]",2.0,12,6,0,14,1,0,0,0,0,1,1,7.0,0,0,0,0,0,0,8,0,8,35,True,False,False,Right-arm fast-medium,Right-hand bat
+West Indies,R Powell,650d5e49,7,5,5,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17,31,True,False,False,Right-arm medium-fast,Right-hand bat
+West Indies,CR Brathwaite,e342e5fb,8,34,27,2,2,125.93,"[7, 9, 17]",3.0,18,6,0,18,0,1,1,0,0,0,0,6.0,1,0,0,0,0,58,33,8,99,36,True,False,True,Right-arm fast-medium,Right-hand bat
+West Indies,JO Holder,0f721006,9,14,12,2,0,116.67,"[2, 5, 15, 18]",3.167,19,8,0,27,5,0,2,0,0,0,0,8.53,0,0,0,0,0,22,58,0,80,33,True,False,True,Right-arm medium-fast,Right-hand bat

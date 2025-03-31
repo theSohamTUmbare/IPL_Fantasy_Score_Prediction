@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Mizoram,Lalhruaizela,4cfda770,1,5,5,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
-Mizoram,Joseph Lalthankhuma,d644b8b2,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Mizoram,U Kaul,622cc511,2,69,59,9,1,116.95,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,119,0,0,119
-Mizoram,T Kohli,40caa465,3,14,21,0,0,66.67,"[5, 7, 18]",2.667,16,6,0,20,1,1,0,0,0,0,1,7.5,0,0,0,0,-2,12,6,0,18
-Mizoram,Lalhruai Ralte,c2ed5822,3,0,0,0,0,0.0,"[2, 9]",2.0,12,4,0,15,2,0,0,0,0,0,1,7.5,0,0,0,0,0,0,4,0,4
-Mizoram,Remruatdika Ralte,895a0ead,4,0,0,0,0,0.0,"[4, 6]",2.0,12,5,0,8,0,0,0,0,0,0,0,4.0,0,0,0,0,0,0,11,0,11
-Mizoram,Iqbal Abdulla,85aae393,4,10,18,1,0,55.56,"[1, 3, 13]",3.0,18,9,0,23,3,1,0,0,0,0,0,7.67,0,0,0,0,-4,10,9,0,19
-Mizoram,Khawlhring Lalremruata,bd265857,5,10,17,0,0,58.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,6,0,0,6
-Mizoram,Bobby Zothansanga,6b4ce914,5,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,10,0,16,0,0,0,0,0,0,0,4.0,0,0,0,0,0,0,16,0,16
-Mizoram,Vikash Kumar,fd25e20c,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Mizoram,Rinsangzela Hmamte,63798865,6,0,0,0,0,0.0,"[8, 11, 15, 17]",4.0,24,4,0,29,3,0,0,0,0,0,0,7.25,0,0,0,0,0,0,4,0,4
-Sikkim,Codanda Ajit Karthik,8c6958d9,1,61,57,4,2,107.02,"[2, 4, 17, 20]",4.0,24,13,0,14,1,0,2,0,0,0,0,3.5,0,0,0,0,0,97,69,0,166
-Sikkim,Liyan Khan,13d4fba2,2,48,49,5,0,97.96,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,72,0,0,72
-Sikkim,Kranthi Kumar,f21b01e1,2,0,0,0,0,0.0,"[1, 3, 16, 19]",4.0,24,12,0,32,5,1,0,0,0,0,0,8.0,0,0,0,0,0,0,12,0,12
-Sikkim,Md Saptula,febe4bfa,3,0,0,0,0,0.0,"[5, 7, 9, 15]",4.0,24,10,0,20,1,0,0,0,0,0,0,5.0,0,0,0,0,0,0,14,0,14
-Sikkim,Sumit Singh,9ad3a550,4,0,0,0,0,0.0,"[6, 8, 10, 18]",4.0,24,8,0,19,1,0,1,0,1,0,0,4.75,0,0,0,0,0,0,47,0,47
-Sikkim,Lee Yong Lepcha,dd967d0d,5,0,0,0,0,0.0,"[11, 13]",2.0,12,5,0,14,2,0,0,0,0,0,0,7.0,0,0,1,0,0,0,7,12,19
-Sikkim,Mandup Bhutia,2c06dca9,6,0,0,0,0,0.0,"[12, 14]",2.0,12,5,0,9,1,0,1,0,0,0,0,4.5,1,0,0,0,0,0,36,8,44
-Sikkim,Akash Luitel,8799dc6d,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Sikkim,Nilesh Lamichaney,dc501d26,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Sikkim,Ashish Thapa,60c6038a,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Sikkim,Palzor Tamang,61a3c20c,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Mizoram,Lalhruaizela,4cfda770,1,5,5,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,28,True,False,False,,Right-hand bat
+Mizoram,Joseph Lalthankhuma,d644b8b2,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,24,True,True,False,Right-arm offbreak,Right-hand bat
+Mizoram,U Kaul,622cc511,2,69,59,9,1,116.95,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,119,0,0,119,37,True,False,False,,Left-hand bat
+Mizoram,T Kohli,40caa465,3,14,21,0,0,66.67,"[5, 7, 18]",2.667,16,6,0,20,1,1,0,0,0,0,1,7.5,0,0,0,0,-2,12,6,0,18,36,True,False,False,Right-arm medium,Right-hand bat
+Mizoram,Lalhruai Ralte,c2ed5822,3,0,0,0,0,0.0,"[2, 9]",2.0,12,4,0,15,2,0,0,0,0,0,1,7.5,0,0,0,0,0,0,4,0,4,33,True,True,False,Right-arm medium,Right-hand bat
+Mizoram,Remruatdika Ralte,895a0ead,4,0,0,0,0,0.0,"[4, 6]",2.0,12,5,0,8,0,0,0,0,0,0,0,4.0,0,0,0,0,0,0,11,0,11,26,True,False,False,Right-arm medium-fast,Right-hand bat
+Mizoram,Iqbal Abdulla,85aae393,4,10,18,1,0,55.56,"[1, 3, 13]",3.0,18,9,0,23,3,1,0,0,0,0,0,7.67,0,0,0,0,-4,10,9,0,19,35,True,False,True,Slow left-arm orthodox,Left-hand bat
+Mizoram,Khawlhring Lalremruata,bd265857,5,10,17,0,0,58.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,6,0,0,6,38,True,False,False,,Right-hand bat
+Mizoram,Bobby Zothansanga,6b4ce914,5,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,10,0,16,0,0,0,0,0,0,0,4.0,0,0,0,0,0,0,16,0,16,38,True,True,False,Right-arm offbreak,Right-hand bat
+Mizoram,Vikash Kumar,fd25e20c,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,28,True,False,False,,Right-hand bat
+Mizoram,Rinsangzela Hmamte,63798865,6,0,0,0,0,0.0,"[8, 11, 15, 17]",4.0,24,4,0,29,3,0,0,0,0,0,0,7.25,0,0,0,0,0,0,4,0,4,22,True,True,False,Slow left-arm orthodox,Left-hand bat
+Sikkim,Codanda Ajit Karthik,8c6958d9,1,61,57,4,2,107.02,"[2, 4, 17, 20]",4.0,24,13,0,14,1,0,2,0,0,0,0,3.5,0,0,0,0,0,97,69,0,166,31,True,False,True,Right-arm medium,Right-hand bat
+Sikkim,Liyan Khan,13d4fba2,2,48,49,5,0,97.96,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,72,0,0,72,33,True,False,False,Right-arm offbreak,Right-hand bat
+Sikkim,Kranthi Kumar,f21b01e1,2,0,0,0,0,0.0,"[1, 3, 16, 19]",4.0,24,12,0,32,5,1,0,0,0,0,0,8.0,0,0,0,0,0,0,12,0,12,31,True,False,True,Right-arm medium,Right-hand bat
+Sikkim,Md Saptula,febe4bfa,3,0,0,0,0,0.0,"[5, 7, 9, 15]",4.0,24,10,0,20,1,0,0,0,0,0,0,5.0,0,0,0,0,0,0,14,0,14,26,True,True,False,Right-arm offbreak,Right-hand bat
+Sikkim,Sumit Singh,9ad3a550,4,0,0,0,0,0.0,"[6, 8, 10, 18]",4.0,24,8,0,19,1,0,1,0,1,0,0,4.75,0,0,0,0,0,0,47,0,47,37,True,True,False,Right-arm medium,Right-hand bat
+Sikkim,Lee Yong Lepcha,dd967d0d,5,0,0,0,0,0.0,"[11, 13]",2.0,12,5,0,14,2,0,0,0,0,0,0,7.0,0,0,1,0,0,0,7,12,19,33,True,True,False,Right-arm offbreak,Right-hand bat
+Sikkim,Mandup Bhutia,2c06dca9,6,0,0,0,0,0.0,"[12, 14]",2.0,12,5,0,9,1,0,1,0,0,0,0,4.5,1,0,0,0,0,0,36,8,44,30,True,True,False,Right-arm medium,Right-hand bat
+Sikkim,Akash Luitel,8799dc6d,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,26,True,True,False,Left-arm medium-fast,Left-hand bat
+Sikkim,Nilesh Lamichaney,dc501d26,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,33,True,True,False,Legbreak googly,Right-hand bat
+Sikkim,Ashish Thapa,60c6038a,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,31,True,True,False,Right-arm medium,Right-hand bat
+Sikkim,Palzor Tamang,61a3c20c,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,32,True,True,False,Right-arm medium,Right-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-New Zealand,RJ Nicol,8d8c24fd,1,1,12,0,0,8.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-5,0,0,-5
-New Zealand,TWM Latham,e824e6ee,2,4,5,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
-New Zealand,RM Hira,2e966563,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-New Zealand,BB McCullum,b8a55852,3,1,10,0,0,10.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-5,0,0,-5
-New Zealand,KD Mills,7fb32e5b,3,0,0,0,0,0.0,[1],1.0,6,3,0,3,0,0,0,0,0,0,0,3.0,0,0,0,0,0,0,3,0,3
-New Zealand,LRPL Taylor,b61a3e1a,4,4,10,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2
-New Zealand,JEC Franklin,cf73ad76,5,2,7,0,0,28.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-New Zealand,BJ Watling,928670cc,6,8,11,1,0,72.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
-New Zealand,AM Ellis,f987245c,7,16,10,1,1,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,30,0,0,30
-New Zealand,JDP Oram,3eac9d95,8,10,9,1,0,111.11,[2],1.0,6,3,0,3,0,0,0,0,0,0,0,3.0,0,0,0,0,0,14,3,0,17
-New Zealand,TG Southee,13c35c9e,9,21,10,4,0,210.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,43,0,0,43
-Sri Lanka,EMDY Munaweera,5a22d91c,1,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
-Sri Lanka,TM Dilshan,5bdcdb72,2,2,8,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Sri Lanka,KC Sangakkara,6b71e6cf,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
-Sri Lanka,AD Mathews,896d78ad,3,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,14,1,4,0,0,0,0,0,0,0,1.33,0,0,0,0,0,0,32,0,32
-Sri Lanka,BMAJ Mendis,9868bc75,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Sri Lanka,HDRL Thirimanne,c5928dec,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Sri Lanka,NLTC Perera,0f12f9df,6,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,8,0,22,1,1,2,0,0,0,1,7.33,1,0,0,0,0,0,58,8,66
-Sri Lanka,KMDN Kulasekara,469ea22b,7,0,0,0,0,0.0,"[2, 4, 14]",3.0,18,9,0,13,1,0,2,0,1,0,2,4.33,0,0,0,0,0,0,73,0,73
-Sri Lanka,A Dananjaya,5b16a806,8,0,0,0,0,0.0,"[10, 12]",2.0,12,6,0,9,1,0,2,0,0,0,0,4.5,0,0,0,0,0,0,62,0,62
-Sri Lanka,LD Chandimal,8dd02a98,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Sri Lanka,RMS Eranga,8f7a598f,10,0,0,0,0,0.0,"[6, 8, 13]",3.0,18,11,0,23,5,0,1,1,0,0,1,7.67,0,0,0,0,0,0,44,0,44
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+New Zealand,RJ Nicol,8d8c24fd,1,1,12,0,0,8.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-5,0,0,-5,41,True,False,False,Right-arm offbreak,Right-hand bat
+New Zealand,TWM Latham,e824e6ee,2,4,5,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,32,True,True,False,Right-arm medium,Left-hand bat
+New Zealand,RM Hira,2e966563,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,38,True,False,False,Slow left-arm orthodox,Left-hand bat
+New Zealand,BB McCullum,b8a55852,3,1,10,0,0,10.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-5,0,0,-5,43,True,True,False,Right-arm offbreak,Right-hand bat
+New Zealand,KD Mills,7fb32e5b,3,0,0,0,0,0.0,[1],1.0,6,3,0,3,0,0,0,0,0,0,0,3.0,0,0,0,0,0,0,3,0,3,46,True,False,False,Right-arm fast-medium,Right-hand bat
+New Zealand,LRPL Taylor,b61a3e1a,4,4,10,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2,41,True,False,False,Right-arm offbreak,Right-hand bat
+New Zealand,JEC Franklin,cf73ad76,5,2,7,0,0,28.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,44,True,False,True,Left-arm medium,Left-hand bat
+New Zealand,BJ Watling,928670cc,6,8,11,1,0,72.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,39,True,False,False,,Right-hand bat
+New Zealand,AM Ellis,f987245c,7,16,10,1,1,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,30,0,0,30,43,True,False,True,Right-arm fast-medium,Right-hand bat
+New Zealand,JDP Oram,3eac9d95,8,10,9,1,0,111.11,[2],1.0,6,3,0,3,0,0,0,0,0,0,0,3.0,0,0,0,0,0,14,3,0,17,46,True,False,True,Right-arm fast-medium,Left-hand bat
+New Zealand,TG Southee,13c35c9e,9,21,10,4,0,210.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,43,0,0,43,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Sri Lanka,EMDY Munaweera,5a22d91c,1,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,35,True,False,False,Right-arm offbreak,Right-hand bat
+Sri Lanka,TM Dilshan,5bdcdb72,2,2,8,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,48,True,False,True,Right-arm offbreak,Right-hand bat
+Sri Lanka,KC Sangakkara,6b71e6cf,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,47,True,True,False,Right-arm offbreak,Left-hand bat
+Sri Lanka,AD Mathews,896d78ad,3,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,14,1,4,0,0,0,0,0,0,0,1.33,0,0,0,0,0,0,32,0,32,37,True,False,True,Right-arm medium,Right-hand bat
+Sri Lanka,BMAJ Mendis,9868bc75,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,42,True,False,True,Legbreak,Left-hand bat
+Sri Lanka,HDRL Thirimanne,c5928dec,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,35,True,False,False,Right-arm medium-fast,Left-hand bat
+Sri Lanka,NLTC Perera,0f12f9df,6,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,8,0,22,1,1,2,0,0,0,1,7.33,1,0,0,0,0,0,58,8,66,35,True,False,True,Right-arm medium-fast,Left-hand bat
+Sri Lanka,KMDN Kulasekara,469ea22b,7,0,0,0,0,0.0,"[2, 4, 14]",3.0,18,9,0,13,1,0,2,0,1,0,2,4.33,0,0,0,0,0,0,73,0,73,42,True,False,False,Right-arm fast-medium,Right-hand bat
+Sri Lanka,A Dananjaya,5b16a806,8,0,0,0,0,0.0,"[10, 12]",2.0,12,6,0,9,1,0,2,0,0,0,0,4.5,0,0,0,0,0,0,62,0,62,31,True,False,True,Legbreak,Left-hand bat
+Sri Lanka,LD Chandimal,8dd02a98,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,35,True,True,False,Right-arm offbreak,Right-hand bat
+Sri Lanka,RMS Eranga,8f7a598f,10,0,0,0,0,0.0,"[6, 8, 13]",3.0,18,11,0,23,5,0,1,1,0,0,1,7.67,0,0,0,0,0,0,44,0,44,38,True,False,False,Right-arm fast-medium,Right-hand bat

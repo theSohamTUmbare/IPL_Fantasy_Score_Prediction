@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Adelaide Strikers,J Weatherald,edc7ddb6,1,52,30,3,4,173.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,102,0,0,102
-Adelaide Strikers,BR Dunk,272d796e,2,85,43,8,5,197.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,165,0,0,165
-Adelaide Strikers,TM Head,12b610c2,3,23,25,3,0,92.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,35,0,0,35
-Adelaide Strikers,BJ Hodge,b57f8a9a,4,27,17,3,0,158.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,47,0,0,47
-Adelaide Strikers,KA Pollard,a757b0d8,5,1,2,0,0,50.0,"[7, 9, 11, 13]",4.0,24,9,0,27,0,2,2,0,0,0,1,6.75,1,0,0,0,0,1,61,8,70
-Adelaide Strikers,JS Lehmann,c96a215f,6,0,1,0,0,0.0,[4],1.0,6,1,0,11,1,0,0,0,0,0,0,11.0,1,0,0,0,0,-2,1,8,7
-Adelaide Strikers,B Laughlin,b2a79f17,7,0,0,0,0,0.0,"[6, 17, 19]",3.0,18,2,0,37,4,2,0,0,0,0,0,12.33,0,0,0,0,0,0,-4,0,-4
-Adelaide Strikers,CJ Jordan,ffe699c0,7,1,2,0,0,50.0,"[5, 15, 20]",3.0,18,6,0,29,2,2,2,0,1,0,2,9.67,2,0,0,0,0,1,64,16,81
-Adelaide Strikers,KW Richardson,dfc4d8b5,8,0,0,0,0,0.0,"[2, 14, 18]",3.0,18,5,0,37,1,4,1,0,0,0,0,12.33,0,0,0,0,0,0,24,0,24
-Adelaide Strikers,LN O'Connor,5456bd0c,9,0,0,0,0,0.0,"[8, 10, 12, 16]",4.0,24,7,0,28,3,0,0,0,0,0,0,7.0,0,0,0,0,0,0,9,0,9
-Adelaide Strikers,MG Neser,0164b064,10,0,0,0,0,0.0,"[1, 3]",2.0,12,4,0,32,4,2,0,0,0,0,1,16.0,0,0,0,0,0,0,-2,0,-2
-Brisbane Heat,JJ Peirson,2b55c3b4,1,46,29,5,1,158.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,80,0,0,80
-Brisbane Heat,BB McCullum,b8a55852,2,42,21,4,3,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,86,0,8,94
-Brisbane Heat,CA Lynn,45eda7c8,3,29,20,0,3,145.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,53,0,0,53
-Brisbane Heat,AI Ross,fb0d68b4,4,64,36,6,4,177.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,126,0,0,126
-Brisbane Heat,BCJ Cutting,2e11c706,5,6,8,0,0,75.0,"[6, 8, 13, 19]",4.0,24,6,0,46,3,3,2,0,1,0,0,11.5,0,0,0,0,0,6,60,0,66
-Brisbane Heat,JA Burns,7a5f232a,6,10,6,0,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
-Brisbane Heat,S Badree,76388dc8,7,0,0,0,0,0.0,"[2, 4, 10, 14]",4.0,24,15,1,22,2,1,0,0,0,0,1,5.5,1,0,0,0,0,0,31,8,39
-Brisbane Heat,JS Floros,79765f6f,8,0,0,0,0,0.0,"[1, 3, 9]",3.0,18,4,0,40,5,2,0,0,0,0,0,13.33,1,0,0,0,0,0,-2,8,6
-Brisbane Heat,MT Steketee,903560ed,9,0,0,0,0,0.0,"[5, 12, 17, 20]",4.0,24,11,0,32,3,1,3,0,1,0,2,8.0,1,0,0,0,0,0,98,8,106
-Brisbane Heat,MJ Swepson,86b4bf88,10,0,0,0,0,0.0,"[11, 16, 18]",3.0,18,4,0,26,2,1,1,0,0,0,0,8.67,0,0,0,0,0,0,29,0,29
-Brisbane Heat,JD Wildermuth,f1c61793,11,0,0,0,0,0.0,"[7, 15]",2.0,12,1,0,27,2,1,0,0,0,0,1,13.5,0,0,0,0,0,0,-5,0,-5
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Adelaide Strikers,J Weatherald,edc7ddb6,1,52,30,3,4,173.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,102,0,0,102,30,True,False,False,Legbreak,Left-hand bat
+Adelaide Strikers,BR Dunk,272d796e,2,85,43,8,5,197.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,165,0,0,165,38,True,True,False,Right-arm offbreak,Left-hand bat
+Adelaide Strikers,TM Head,12b610c2,3,23,25,3,0,92.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,35,0,0,35,31,True,False,False,Right-arm offbreak,Left-hand bat
+Adelaide Strikers,BJ Hodge,b57f8a9a,4,27,17,3,0,158.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,47,0,0,47,50,True,False,False,Right-arm offbreak,Right-hand bat
+Adelaide Strikers,KA Pollard,a757b0d8,5,1,2,0,0,50.0,"[7, 9, 11, 13]",4.0,24,9,0,27,0,2,2,0,0,0,1,6.75,1,0,0,0,0,1,61,8,70,37,True,False,True,Right-arm medium,Right-hand bat
+Adelaide Strikers,JS Lehmann,c96a215f,6,0,1,0,0,0.0,[4],1.0,6,1,0,11,1,0,0,0,0,0,0,11.0,1,0,0,0,0,-2,1,8,7,32,True,False,False,Slow left-arm orthodox,Left-hand bat
+Adelaide Strikers,B Laughlin,b2a79f17,7,0,0,0,0,0.0,"[6, 17, 19]",3.0,18,2,0,37,4,2,0,0,0,0,0,12.33,0,0,0,0,0,0,-4,0,-4,42,True,False,False,Right-arm fast-medium,Right-hand bat
+Adelaide Strikers,CJ Jordan,ffe699c0,7,1,2,0,0,50.0,"[5, 15, 20]",3.0,18,6,0,29,2,2,2,0,1,0,2,9.67,2,0,0,0,0,1,64,16,81,36,True,False,False,Right-arm fast-medium,Right-hand bat
+Adelaide Strikers,KW Richardson,dfc4d8b5,8,0,0,0,0,0.0,"[2, 14, 18]",3.0,18,5,0,37,1,4,1,0,0,0,0,12.33,0,0,0,0,0,0,24,0,24,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Adelaide Strikers,LN O'Connor,5456bd0c,9,0,0,0,0,0.0,"[8, 10, 12, 16]",4.0,24,7,0,28,3,0,0,0,0,0,0,7.0,0,0,0,0,0,0,9,0,9,31,True,False,False,Legbreak,Right-hand bat
+Adelaide Strikers,MG Neser,0164b064,10,0,0,0,0,0.0,"[1, 3]",2.0,12,4,0,32,4,2,0,0,0,0,1,16.0,0,0,0,0,0,0,-2,0,-2,35,True,False,True,Right-arm medium-fast,Right-hand bat
+Brisbane Heat,JJ Peirson,2b55c3b4,1,46,29,5,1,158.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,80,0,0,80,32,True,False,False,,Right-hand bat
+Brisbane Heat,BB McCullum,b8a55852,2,42,21,4,3,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,86,0,8,94,43,True,True,False,Right-arm offbreak,Right-hand bat
+Brisbane Heat,CA Lynn,45eda7c8,3,29,20,0,3,145.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,53,0,0,53,34,True,False,False,Slow left-arm orthodox,Right-hand bat
+Brisbane Heat,AI Ross,fb0d68b4,4,64,36,6,4,177.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,126,0,0,126,32,True,False,False,Right-arm offbreak,Right-hand bat
+Brisbane Heat,BCJ Cutting,2e11c706,5,6,8,0,0,75.0,"[6, 8, 13, 19]",4.0,24,6,0,46,3,3,2,0,1,0,0,11.5,0,0,0,0,0,6,60,0,66,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Brisbane Heat,JA Burns,7a5f232a,6,10,6,0,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,35,True,False,False,Right-arm offbreak,Right-hand bat
+Brisbane Heat,S Badree,76388dc8,7,0,0,0,0,0.0,"[2, 4, 10, 14]",4.0,24,15,1,22,2,1,0,0,0,0,1,5.5,1,0,0,0,0,0,31,8,39,44,True,False,False,Legbreak,Right-hand bat
+Brisbane Heat,JS Floros,79765f6f,8,0,0,0,0,0.0,"[1, 3, 9]",3.0,18,4,0,40,5,2,0,0,0,0,0,13.33,1,0,0,0,0,0,-2,8,6,34,True,True,False,Right-arm offbreak,Left-hand bat
+Brisbane Heat,MT Steketee,903560ed,9,0,0,0,0,0.0,"[5, 12, 17, 20]",4.0,24,11,0,32,3,1,3,0,1,0,2,8.0,1,0,0,0,0,0,98,8,106,31,True,False,False,Right-arm fast-medium,Right-hand bat
+Brisbane Heat,MJ Swepson,86b4bf88,10,0,0,0,0,0.0,"[11, 16, 18]",3.0,18,4,0,26,2,1,1,0,0,0,0,8.67,0,0,0,0,0,0,29,0,29,31,True,False,False,Legbreak,Right-hand bat
+Brisbane Heat,JD Wildermuth,f1c61793,11,0,0,0,0,0.0,"[7, 15]",2.0,12,1,0,27,2,1,0,0,0,0,1,13.5,0,0,0,0,0,0,-5,0,-5,31,True,False,True,Right-arm medium-fast,Right-hand bat

@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Australia,TM Head,12b610c2,1,34,18,2,3,188.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,70,0,0,70
-Australia,DA Warner,dcce6f09,2,39,16,2,4,243.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,81,0,8,89
-Australia,MR Marsh,3d8feaf8,3,35,25,2,2,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,61,0,0,61
-Australia,GJ Maxwell,b681e71e,4,28,25,3,1,112.0,"[12, 14]",2.0,12,5,0,22,0,3,0,0,0,0,0,11.0,1,0,0,0,0,50,3,8,61
-Australia,MP Stoinis,d9273ee7,5,30,17,2,2,176.47,"[6, 11, 20]",3.0,18,5,0,24,3,0,1,0,0,0,2,8.0,0,0,0,0,6,60,30,0,90
-Australia,TH David,f1f99156,6,11,8,0,1,137.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
-Australia,MS Wade,afa7e784,7,17,10,3,0,170.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,33,0,0,33
-Australia,A Zampa,14f96089,8,0,0,0,0,0.0,"[8, 10, 13, 18]",4.0,24,9,0,28,0,2,2,0,1,0,0,7.0,0,0,0,0,0,0,69,0,69
-Australia,PJ Cummins,ded9240e,8,0,1,0,0,0.0,"[5, 9, 16, 19]",4.0,24,10,0,23,2,0,2,0,0,0,1,5.75,1,0,0,0,0,0,64,8,72
-Australia,JR Hazlewood,03806cf8,9,0,0,0,0,0.0,"[2, 4, 15, 17]",4.0,24,9,0,28,4,0,1,0,0,0,0,7.0,0,0,0,0,0,0,36,0,36
-Australia,MA Starc,3fb19989,9,0,0,0,0,0.0,"[1, 3, 7]",3.0,18,6,0,37,3,3,0,0,0,0,2,12.33,2,0,0,0,0,0,0,16,16
-England,PD Salt,3d284ca3,1,37,23,4,2,160.87,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,73,0,8,81
-England,JC Buttler,99b75528,2,42,28,5,2,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,1,0,78,0,18,96
-England,WG Jacks,9caf69a1,3,10,10,1,0,100.0,[2],1.0,6,1,0,22,0,3,0,0,0,0,0,22.0,0,0,0,0,0,14,1,0,15
-England,JM Bairstow,abb83e27,4,7,13,0,0,53.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,3,0,0,3
-England,MM Ali,bb351c23,5,25,15,0,3,166.67,"[1, 5]",2.0,12,6,0,18,2,1,1,0,1,0,0,9.0,0,0,0,0,4,51,39,0,90
-England,HC Brook,4ae1755b,6,20,16,2,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,28,0,8,36
-England,LS Livingstone,50c6bc2b,7,15,12,0,1,125.0,"[14, 16]",2.0,12,2,0,15,0,1,1,0,0,0,0,7.5,1,0,0,0,0,21,27,8,56
-England,CJ Jordan,ffe699c0,8,1,3,0,0,33.33,"[10, 13, 17, 20]",4.0,24,6,0,44,4,2,2,0,0,0,4,11.0,0,0,0,1,0,1,54,6,61
-England,JC Archer,5574750c,8,0,0,0,0,0.0,"[3, 6, 11, 19]",4.0,24,10,0,28,2,1,1,0,1,0,1,7.0,0,0,0,0,0,0,45,0,45
-England,AU Rashid,249d60c9,9,0,0,0,0,0.0,"[7, 9, 15, 18]",4.0,24,7,0,41,4,2,1,0,0,0,1,10.25,0,0,0,0,0,0,30,0,30
-England,MA Wood,8d92a2c3,10,0,0,0,0,0.0,"[4, 8, 12]",3.0,18,9,0,32,2,3,0,0,0,0,0,10.67,0,0,0,0,0,0,7,0,7
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Australia,TM Head,12b610c2,1,34,18,2,3,188.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,70,0,0,70,31,True,False,False,Right-arm offbreak,Left-hand bat
+Australia,DA Warner,dcce6f09,2,39,16,2,4,243.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,81,0,8,89,38,True,False,False,Legbreak,Left-hand bat
+Australia,MR Marsh,3d8feaf8,3,35,25,2,2,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,61,0,0,61,33,True,False,True,Right-arm medium,Right-hand bat
+Australia,GJ Maxwell,b681e71e,4,28,25,3,1,112.0,"[12, 14]",2.0,12,5,0,22,0,3,0,0,0,0,0,11.0,1,0,0,0,0,50,3,8,61,36,True,False,True,Right-arm offbreak,Right-hand bat
+Australia,MP Stoinis,d9273ee7,5,30,17,2,2,176.47,"[6, 11, 20]",3.0,18,5,0,24,3,0,1,0,0,0,2,8.0,0,0,0,0,6,60,30,0,90,35,True,False,True,Right-arm medium,Right-hand bat
+Australia,TH David,f1f99156,6,11,8,0,1,137.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,29,True,False,False,Right-arm offbreak,Right-hand bat
+Australia,MS Wade,afa7e784,7,17,10,3,0,170.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,33,0,0,33,37,True,True,False,Right-arm medium,Left-hand bat
+Australia,A Zampa,14f96089,8,0,0,0,0,0.0,"[8, 10, 13, 18]",4.0,24,9,0,28,0,2,2,0,1,0,0,7.0,0,0,0,0,0,0,69,0,69,32,True,False,False,Legbreak googly,Right-hand bat
+Australia,PJ Cummins,ded9240e,8,0,1,0,0,0.0,"[5, 9, 16, 19]",4.0,24,10,0,23,2,0,2,0,0,0,1,5.75,1,0,0,0,0,0,64,8,72,31,True,False,False,Right-arm fast,Right-hand bat
+Australia,JR Hazlewood,03806cf8,9,0,0,0,0,0.0,"[2, 4, 15, 17]",4.0,24,9,0,28,4,0,1,0,0,0,0,7.0,0,0,0,0,0,0,36,0,36,34,True,False,False,Right-arm fast-medium,Left-hand bat
+Australia,MA Starc,3fb19989,9,0,0,0,0,0.0,"[1, 3, 7]",3.0,18,6,0,37,3,3,0,0,0,0,2,12.33,2,0,0,0,0,0,0,16,16,35,True,False,False,Left-arm fast,Left-hand bat
+England,PD Salt,3d284ca3,1,37,23,4,2,160.87,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,73,0,8,81,28,True,True,False,Right-arm offbreak,Right-hand bat
+England,JC Buttler,99b75528,2,42,28,5,2,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,1,0,78,0,18,96,34,True,False,False,,Right-hand bat
+England,WG Jacks,9caf69a1,3,10,10,1,0,100.0,[2],1.0,6,1,0,22,0,3,0,0,0,0,0,22.0,0,0,0,0,0,14,1,0,15,26,True,False,True,Right-arm offbreak,Right-hand bat
+England,JM Bairstow,abb83e27,4,7,13,0,0,53.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,3,0,0,3,35,True,True,False,Right-arm medium,Right-hand bat
+England,MM Ali,bb351c23,5,25,15,0,3,166.67,"[1, 5]",2.0,12,6,0,18,2,1,1,0,1,0,0,9.0,0,0,0,0,4,51,39,0,90,37,True,False,True,Right-arm offbreak,Left-hand bat
+England,HC Brook,4ae1755b,6,20,16,2,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,28,0,8,36,26,True,False,False,Right-arm medium,Right-hand bat
+England,LS Livingstone,50c6bc2b,7,15,12,0,1,125.0,"[14, 16]",2.0,12,2,0,15,0,1,1,0,0,0,0,7.5,1,0,0,0,0,21,27,8,56,31,True,False,True,Legbreak,Right-hand bat
+England,CJ Jordan,ffe699c0,8,1,3,0,0,33.33,"[10, 13, 17, 20]",4.0,24,6,0,44,4,2,2,0,0,0,4,11.0,0,0,0,1,0,1,54,6,61,36,True,False,False,Right-arm fast-medium,Right-hand bat
+England,JC Archer,5574750c,8,0,0,0,0,0.0,"[3, 6, 11, 19]",4.0,24,10,0,28,2,1,1,0,1,0,1,7.0,0,0,0,0,0,0,45,0,45,29,True,False,False,Right-arm fast,Right-hand bat
+England,AU Rashid,249d60c9,9,0,0,0,0,0.0,"[7, 9, 15, 18]",4.0,24,7,0,41,4,2,1,0,0,0,1,10.25,0,0,0,0,0,0,30,0,30,37,True,False,False,Legbreak,Right-hand bat
+England,MA Wood,8d92a2c3,10,0,0,0,0,0.0,"[4, 8, 12]",3.0,18,9,0,32,2,3,0,0,0,0,0,10.67,0,0,0,0,0,0,7,0,7,35,True,False,False,Right-arm fast,Right-hand bat

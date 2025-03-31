@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Ireland,WTS Porterfield,ec02b798,1,4,4,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
-Ireland,PR Stirling,cf494ffe,2,0,2,0,0,0.0,"[1, 3]",2.0,12,7,0,14,0,2,0,0,0,0,0,7.0,0,0,0,0,0,-2,9,0,7
-Ireland,EC Joyce,a48fc79d,3,40,49,2,0,81.63,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,52,0,0,52
-Ireland,GC Wilson,05de1a5a,4,18,18,3,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,30,0,20,50
-Ireland,AD Poynter,b98cdbf0,5,32,30,6,0,106.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,60,0,0,60
-Ireland,KJ O'Brien,243431b5,6,15,12,2,0,125.0,"[9, 19]",2.0,12,3,0,17,1,1,2,0,1,0,0,8.5,1,0,0,0,0,23,61,8,92
-Ireland,MC Sorensen,3f18724b,6,0,0,0,0,0.0,"[2, 4, 10, 14]",4.0,24,13,0,23,4,0,1,0,0,0,0,5.75,1,0,0,0,0,0,42,8,50
-Ireland,SR Thompson,7f3ad1ed,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Ireland,AR Cusack,568e5a4a,8,0,0,0,0,0.0,"[6, 8, 16, 20]",4.0,24,11,0,17,1,0,2,0,0,0,1,4.25,0,0,0,0,0,0,67,0,67
-Ireland,TJ Murtagh,c89474d1,9,0,0,0,0,0.0,"[5, 7, 12, 18]",4.0,24,13,0,28,2,1,2,0,1,0,6,7.0,0,0,0,0,0,0,73,0,73
-Ireland,GH Dockrell,99cddc5e,10,0,0,0,0,0.0,"[11, 13, 15, 17]",4.0,24,15,0,15,2,0,1,0,0,0,0,3.75,1,0,0,0,0,0,46,8,54
-West Indies,DR Smith,35205dfc,1,14,13,0,2,107.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26
-West Indies,CH Gayle,db584dad,2,18,19,3,0,94.74,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30
-West Indies,MN Samuels,f846de6a,3,16,17,1,1,94.12,[10],1.0,6,2,0,7,0,0,0,0,0,0,0,7.0,0,0,0,0,0,26,2,0,28
-West Indies,LMP Simmons,89f64c19,4,16,23,2,0,69.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,22,0,0,22
-West Indies,DJ Bravo,87e562a9,5,8,14,1,0,57.14,"[12, 17, 19]",3.0,18,6,0,21,2,0,0,0,0,0,1,7.0,0,0,0,0,-4,8,8,0,16
-West Indies,R Rampaul,d68e7f48,6,0,0,0,0,0.0,"[2, 4, 15, 20]",3.167,19,7,0,27,4,0,1,0,0,0,2,8.53,0,0,0,0,0,0,32,0,32
-West Indies,AD Russell,bbd41817,6,15,15,1,1,100.0,[18],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,1,0,0,0,0,25,2,8,35
-West Indies,DJG Sammy,c03c6200,7,7,8,1,0,87.5,"[9, 11, 13]",3.0,18,8,0,16,2,0,0,0,0,0,0,5.33,0,0,0,0,0,11,12,0,23
-West Indies,D Ramdin,d1523761,8,4,2,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
-West Indies,SP Narine,9d430b40,9,6,6,0,0,100.0,"[6, 8, 14, 16]",4.0,24,15,0,16,2,0,1,0,1,0,0,4.0,0,0,0,0,0,6,54,0,60
-West Indies,S Badree,76388dc8,10,3,3,0,0,100.0,"[1, 3, 5, 7]",4.0,24,15,0,18,3,0,2,1,1,0,0,4.5,0,0,0,0,0,3,87,0,90
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Ireland,WTS Porterfield,ec02b798,1,4,4,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,40,True,False,False,Right-arm offbreak,Left-hand bat
+Ireland,PR Stirling,cf494ffe,2,0,2,0,0,0.0,"[1, 3]",2.0,12,7,0,14,0,2,0,0,0,0,0,7.0,0,0,0,0,0,-2,9,0,7,34,True,False,True,Right-arm offbreak,Right-hand bat
+Ireland,EC Joyce,a48fc79d,3,40,49,2,0,81.63,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,52,0,0,52,46,True,False,False,Right-arm medium,Left-hand bat
+Ireland,GC Wilson,05de1a5a,4,18,18,3,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,30,0,20,50,39,True,False,False,,Right-hand bat
+Ireland,AD Poynter,b98cdbf0,5,32,30,6,0,106.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,60,0,0,60,37,True,False,False,Right-arm offbreak,Right-hand bat
+Ireland,KJ O'Brien,243431b5,6,15,12,2,0,125.0,"[9, 19]",2.0,12,3,0,17,1,1,2,0,1,0,0,8.5,1,0,0,0,0,23,61,8,92,41,True,False,True,Right-arm medium-fast,Right-hand bat
+Ireland,MC Sorensen,3f18724b,6,0,0,0,0,0.0,"[2, 4, 10, 14]",4.0,24,13,0,23,4,0,1,0,0,0,0,5.75,1,0,0,0,0,0,42,8,50,39,True,False,False,Right-arm fast-medium,Right-hand bat
+Ireland,SR Thompson,7f3ad1ed,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,33,True,False,False,Right-arm medium-fast,Left-hand bat
+Ireland,AR Cusack,568e5a4a,8,0,0,0,0,0.0,"[6, 8, 16, 20]",4.0,24,11,0,17,1,0,2,0,0,0,1,4.25,0,0,0,0,0,0,67,0,67,44,True,False,False,Right-arm medium-fast,Right-hand bat
+Ireland,TJ Murtagh,c89474d1,9,0,0,0,0,0.0,"[5, 7, 12, 18]",4.0,24,13,0,28,2,1,2,0,1,0,6,7.0,0,0,0,0,0,0,73,0,73,43,True,False,False,Right-arm fast-medium,Left-hand bat
+Ireland,GH Dockrell,99cddc5e,10,0,0,0,0,0.0,"[11, 13, 15, 17]",4.0,24,15,0,15,2,0,1,0,0,0,0,3.75,1,0,0,0,0,0,46,8,54,32,True,False,True,Slow left-arm orthodox,Right-hand bat
+West Indies,DR Smith,35205dfc,1,14,13,0,2,107.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26,41,True,False,True,Right-arm medium,Right-hand bat
+West Indies,CH Gayle,db584dad,2,18,19,3,0,94.74,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30,45,True,False,True,Right-arm offbreak,Left-hand bat
+West Indies,MN Samuels,f846de6a,3,16,17,1,1,94.12,[10],1.0,6,2,0,7,0,0,0,0,0,0,0,7.0,0,0,0,0,0,26,2,0,28,44,True,False,False,Right-arm offbreak,Right-hand bat
+West Indies,LMP Simmons,89f64c19,4,16,23,2,0,69.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,22,0,0,22,40,True,False,False,Right-arm medium-fast,Right-hand bat
+West Indies,DJ Bravo,87e562a9,5,8,14,1,0,57.14,"[12, 17, 19]",3.0,18,6,0,21,2,0,0,0,0,0,1,7.0,0,0,0,0,-4,8,8,0,16,41,True,False,True,Right-arm medium,Right-hand bat
+West Indies,R Rampaul,d68e7f48,6,0,0,0,0,0.0,"[2, 4, 15, 20]",3.167,19,7,0,27,4,0,1,0,0,0,2,8.53,0,0,0,0,0,0,32,0,32,40,True,False,False,Right-arm fast-medium,Left-hand bat
+West Indies,AD Russell,bbd41817,6,15,15,1,1,100.0,[18],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,1,0,0,0,0,25,2,8,35,36,True,False,True,Right-arm fast,Right-hand bat
+West Indies,DJG Sammy,c03c6200,7,7,8,1,0,87.5,"[9, 11, 13]",3.0,18,8,0,16,2,0,0,0,0,0,0,5.33,0,0,0,0,0,11,12,0,23,41,True,False,True,Right-arm medium,Right-hand bat
+West Indies,D Ramdin,d1523761,8,4,2,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,40,True,False,False,,Right-hand bat
+West Indies,SP Narine,9d430b40,9,6,6,0,0,100.0,"[6, 8, 14, 16]",4.0,24,15,0,16,2,0,1,0,1,0,0,4.0,0,0,0,0,0,6,54,0,60,36,True,False,True,Right-arm offbreak,Left-hand bat
+West Indies,S Badree,76388dc8,10,3,3,0,0,100.0,"[1, 3, 5, 7]",4.0,24,15,0,18,3,0,2,1,1,0,0,4.5,0,0,0,0,0,3,87,0,90,44,True,False,False,Legbreak,Right-hand bat

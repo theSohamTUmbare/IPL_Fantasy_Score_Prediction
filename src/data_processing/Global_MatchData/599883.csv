@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Rangpur Riders,Shamsur Rahman,02789d88,1,52,46,5,1,113.04,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,86,0,8,94
-Rangpur Riders,DP Hyatt,2e2fe3e8,2,17,19,3,0,89.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29
-Rangpur Riders,CJ Borgas,d901964b,3,28,29,1,0,96.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,36,0,0,36
-Rangpur Riders,Nasir Hossain,6eea0b32,4,5,4,0,0,125.0,"[2, 5, 7, 17]",4.0,24,13,0,19,1,1,2,0,1,0,0,4.75,0,0,0,0,0,5,77,0,82
-Rangpur Riders,KJ O'Brien,243431b5,5,0,2,0,0,0.0,"[11, 13, 15]",3.0,18,7,0,11,0,0,0,0,0,0,1,3.67,0,0,0,0,0,-2,13,0,11
-Rangpur Riders,Shykat Ali,288dd46e,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Rangpur Riders,NJ O'Brien,84826f48,7,3,7,0,0,42.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,3,0,20,23
-Rangpur Riders,Abdur Razzak,888e32bf,8,0,1,0,0,0.0,"[3, 6, 16, 19]",4.0,24,11,1,24,2,1,1,0,0,0,0,6.0,0,0,0,0,0,0,50,0,50
-Rangpur Riders,Mohammad Sharif,1ec36a1e,9,6,6,1,0,100.0,[4],1.0,6,0,0,21,5,0,0,0,0,0,0,21.0,0,0,0,0,0,10,0,0,10
-Rangpur Riders,FH Edwards,a7c226e1,10,0,1,0,0,0.0,"[1, 9, 18, 20]",3.5,21,11,0,22,4,0,1,0,0,0,0,6.29,0,0,0,0,0,-2,38,0,36
-Rangpur Riders,Taposh Ghosh,f211a4c1,11,1,1,0,0,100.0,"[8, 10, 12, 14]",4.0,24,7,0,25,2,0,1,0,1,0,0,6.25,0,0,0,0,0,1,42,0,43
-Sylhet Royals,DR Smith,35205dfc,1,31,21,7,0,147.62,"[2, 4, 6, 20]",3.5,21,13,0,23,3,0,3,0,2,0,4,6.57,0,0,0,0,2,65,110,0,175
-Sylhet Royals,S Chanderpaul,881a9bdd,2,11,17,1,0,64.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,13,0,0,13
-Sylhet Royals,Mominul Haque,de0a3209,3,1,7,0,0,14.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
-Sylhet Royals,Mushfiqur Rahim,a94e08ea,4,17,24,1,0,70.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,1,0,0,0,21,0,40,61
-Sylhet Royals,Mohammad Nabi,62af8546,5,6,12,0,0,50.0,"[5, 18]",2.0,12,5,0,14,2,0,1,0,0,0,0,7.0,0,0,0,0,-4,2,32,0,34
-Sylhet Royals,Nazmul Hossain Milon,0637aa94,6,45,29,5,1,155.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,79,0,0,79
-Sylhet Royals,E Chigumbura,d2babdd5,7,10,7,0,1,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
-Sylhet Royals,Suhrawadi Shuvo,8fb49ef8,7,0,0,0,0,0.0,"[7, 9]",2.0,12,4,0,18,1,1,0,0,0,0,0,9.0,1,0,1,0,0,0,4,20,24
-Sylhet Royals,Sohag Gazi,5a4c12ab,8,0,0,0,0,0.0,"[11, 13, 15, 17]",4.0,24,6,0,20,0,0,3,0,0,0,1,5.0,0,0,0,0,0,0,89,0,89
-Sylhet Royals,DP Nannes,c404f58a,9,0,0,0,0,0.0,"[1, 3, 16, 19]",4.0,24,14,0,18,3,0,2,0,1,0,1,4.5,0,0,0,0,0,0,78,0,78
-Sylhet Royals,Bishawnath Halder,8d70ab3e,10,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,6,0,25,1,0,0,0,0,0,0,6.25,0,0,0,0,0,0,8,0,8
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Rangpur Riders,Shamsur Rahman,02789d88,1,52,46,5,1,113.04,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,86,0,8,94,36,True,False,False,,Right-hand bat
+Rangpur Riders,DP Hyatt,2e2fe3e8,2,17,19,3,0,89.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29,42,True,False,True,Right-arm medium,Right-hand bat
+Rangpur Riders,CJ Borgas,d901964b,3,28,29,1,0,96.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,36,0,0,36,41,True,True,False,Right-arm offbreak,Right-hand bat
+Rangpur Riders,Nasir Hossain,6eea0b32,4,5,4,0,0,125.0,"[2, 5, 7, 17]",4.0,24,13,0,19,1,1,2,0,1,0,0,4.75,0,0,0,0,0,5,77,0,82,33,True,False,True,Right-arm offbreak,Right-hand bat
+Rangpur Riders,KJ O'Brien,243431b5,5,0,2,0,0,0.0,"[11, 13, 15]",3.0,18,7,0,11,0,0,0,0,0,0,1,3.67,0,0,0,0,0,-2,13,0,11,41,True,False,True,Right-arm medium-fast,Right-hand bat
+Rangpur Riders,Shykat Ali,288dd46e,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,31,True,False,True,Right-arm medium,Right-hand bat
+Rangpur Riders,NJ O'Brien,84826f48,7,3,7,0,0,42.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,3,0,20,23,43,True,False,False,,Left-hand bat
+Rangpur Riders,Abdur Razzak,888e32bf,8,0,1,0,0,0.0,"[3, 6, 16, 19]",4.0,24,11,1,24,2,1,1,0,0,0,0,6.0,0,0,0,0,0,0,50,0,50,42,True,False,False,Slow left-arm orthodox,Left-hand bat
+Rangpur Riders,Mohammad Sharif,1ec36a1e,9,6,6,1,0,100.0,[4],1.0,6,0,0,21,5,0,0,0,0,0,0,21.0,0,0,0,0,0,10,0,0,10,39,True,True,False,Right-arm medium-fast,Right-hand bat
+Rangpur Riders,FH Edwards,a7c226e1,10,0,1,0,0,0.0,"[1, 9, 18, 20]",3.5,21,11,0,22,4,0,1,0,0,0,0,6.29,0,0,0,0,0,-2,38,0,36,43,True,False,False,Right-arm fast,Right-hand bat
+Rangpur Riders,Taposh Ghosh,f211a4c1,11,1,1,0,0,100.0,"[8, 10, 12, 14]",4.0,24,7,0,25,2,0,1,0,1,0,0,6.25,0,0,0,0,0,1,42,0,43,33,True,True,False,Slow left-arm orthodox,Left-hand bat
+Sylhet Royals,DR Smith,35205dfc,1,31,21,7,0,147.62,"[2, 4, 6, 20]",3.5,21,13,0,23,3,0,3,0,2,0,4,6.57,0,0,0,0,2,65,110,0,175,41,True,False,True,Right-arm medium,Right-hand bat
+Sylhet Royals,S Chanderpaul,881a9bdd,2,11,17,1,0,64.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,13,0,0,13,50,True,False,False,Legbreak,Left-hand bat
+Sylhet Royals,Mominul Haque,de0a3209,3,1,7,0,0,14.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+Sylhet Royals,Mushfiqur Rahim,a94e08ea,4,17,24,1,0,70.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,1,0,0,0,21,0,40,61,37,True,False,False,,Right-hand bat
+Sylhet Royals,Mohammad Nabi,62af8546,5,6,12,0,0,50.0,"[5, 18]",2.0,12,5,0,14,2,0,1,0,0,0,0,7.0,0,0,0,0,-4,2,32,0,34,40,True,False,True,Right-arm offbreak,Right-hand bat
+Sylhet Royals,Nazmul Hossain Milon,0637aa94,6,45,29,5,1,155.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,79,0,0,79,37,True,False,False,Right-arm medium,Right-hand bat
+Sylhet Royals,E Chigumbura,d2babdd5,7,10,7,0,1,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,39,True,False,True,Right-arm fast-medium,Right-hand bat
+Sylhet Royals,Suhrawadi Shuvo,8fb49ef8,7,0,0,0,0,0.0,"[7, 9]",2.0,12,4,0,18,1,1,0,0,0,0,0,9.0,1,0,1,0,0,0,4,20,24,36,True,False,False,Slow left-arm orthodox,Left-hand bat
+Sylhet Royals,Sohag Gazi,5a4c12ab,8,0,0,0,0,0.0,"[11, 13, 15, 17]",4.0,24,6,0,20,0,0,3,0,0,0,1,5.0,0,0,0,0,0,0,89,0,89,33,True,False,True,Right-arm offbreak,Right-hand bat
+Sylhet Royals,DP Nannes,c404f58a,9,0,0,0,0,0.0,"[1, 3, 16, 19]",4.0,24,14,0,18,3,0,2,0,1,0,1,4.5,0,0,0,0,0,0,78,0,78,48,True,False,False,Left-arm fast,Right-hand bat
+Sylhet Royals,Bishawnath Halder,8d70ab3e,10,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,6,0,25,1,0,0,0,0,0,0,6.25,0,0,0,0,0,0,8,0,8,38,True,True,False,Slow left-arm orthodox,Left-hand bat

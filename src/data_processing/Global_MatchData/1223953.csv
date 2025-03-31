@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Australia,MS Wade,afa7e784,1,58,32,10,1,181.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,118,0,8,126
-Australia,DJM Short,1a156c88,2,9,9,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
-Australia,SPD Smith,30a45b23,3,46,38,3,2,121.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,74,0,8,82
-Australia,GJ Maxwell,b681e71e,4,22,13,0,2,169.23,[4],1.0,6,0,0,19,2,1,0,0,0,0,0,19.0,0,0,0,0,4,38,0,0,38
-Australia,MC Henriques,32198ae0,5,26,18,0,1,144.44,[8],1.0,6,1,0,9,1,0,0,0,0,0,0,9.0,0,0,0,0,2,38,1,0,39
-Australia,MP Stoinis,d9273ee7,6,16,7,0,1,228.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
-Australia,SA Abbott,1a2676c5,6,0,0,0,0,0.0,"[2, 5]",2.0,12,3,0,17,1,1,0,0,0,0,0,8.5,0,0,0,0,0,0,3,0,3
-Australia,DR Sams,caf69bf7,7,8,3,1,0,266.67,"[1, 13, 17, 20]",3.667,22,8,0,41,2,3,1,0,0,0,0,11.18,0,0,0,0,0,12,29,0,41
-Australia,AJ Tye,7c7d63a2,7,0,0,0,0,0.0,"[3, 6, 15, 19]",4.0,24,9,0,47,6,2,1,0,0,1,1,11.75,0,0,0,0,0,0,30,0,30
-Australia,MJ Swepson,86b4bf88,8,0,0,0,0,0.0,"[7, 9, 11, 14]",4.0,24,7,0,25,0,0,1,0,0,0,1,6.25,2,0,0,0,0,0,34,16,50
-Australia,A Zampa,14f96089,9,0,0,0,0,0.0,"[10, 12, 16, 18]",4.0,24,4,0,36,1,2,1,0,0,0,0,9.0,0,0,0,0,0,0,29,0,29
-India,KL Rahul,b17e2f24,1,30,21,2,1,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,50,0,8,58
-India,S Dhawan,0a476045,2,52,36,4,2,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,90,0,0,90
-India,V Kohli,ba607b88,3,40,24,2,2,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,68,0,0,68
-India,SV Samson,a4cc73aa,4,15,10,1,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
-India,HH Pandya,dbe50b21,5,42,22,3,2,190.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,76,0,8,84
-India,SS Iyer,85ec8e33,6,12,5,1,1,240.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,22,0,8,30
-India,Washington Sundar,f19ccfad,6,0,0,0,0,0.0,"[2, 4, 8, 14]",4.0,24,6,0,35,3,1,0,0,0,0,1,8.75,1,0,0,0,0,0,6,8,14
-India,DL Chahar,23eeb873,7,0,0,0,0,0.0,"[1, 7, 11, 20]",4.0,24,6,0,48,5,1,0,0,0,0,2,12.0,0,0,0,0,0,0,2,0,2
-India,SN Thakur,1abb78f8,8,0,0,0,0,0.0,"[3, 6, 13, 17]",4.0,24,7,0,39,6,0,1,0,0,0,1,9.75,0,0,0,0,0,0,32,0,32
-India,YS Chahal,57ee1fde,9,0,0,0,0,0.0,"[10, 12, 16, 18]",4.0,24,5,0,51,0,5,1,0,0,0,4,12.75,0,0,0,0,0,0,24,0,24
-India,T Natarajan,ce794613,10,0,0,0,0,0.0,"[5, 9, 15, 19]",4.0,24,8,0,20,1,0,2,0,0,0,0,5.0,0,0,0,0,0,0,62,0,62
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Australia,MS Wade,afa7e784,1,58,32,10,1,181.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,118,0,8,126,37,True,True,False,Right-arm medium,Left-hand bat
+Australia,DJM Short,1a156c88,2,9,9,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,34,True,False,False,Left-arm wrist-spin,Left-hand bat
+Australia,SPD Smith,30a45b23,3,46,38,3,2,121.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,74,0,8,82,35,True,False,False,Legbreak googly,Right-hand bat
+Australia,GJ Maxwell,b681e71e,4,22,13,0,2,169.23,[4],1.0,6,0,0,19,2,1,0,0,0,0,0,19.0,0,0,0,0,4,38,0,0,38,36,True,False,True,Right-arm offbreak,Right-hand bat
+Australia,MC Henriques,32198ae0,5,26,18,0,1,144.44,[8],1.0,6,1,0,9,1,0,0,0,0,0,0,9.0,0,0,0,0,2,38,1,0,39,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Australia,MP Stoinis,d9273ee7,6,16,7,0,1,228.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,35,True,False,True,Right-arm medium,Right-hand bat
+Australia,SA Abbott,1a2676c5,6,0,0,0,0,0.0,"[2, 5]",2.0,12,3,0,17,1,1,0,0,0,0,0,8.5,0,0,0,0,0,0,3,0,3,33,True,False,True,Right-arm fast-medium,Right-hand bat
+Australia,DR Sams,caf69bf7,7,8,3,1,0,266.67,"[1, 13, 17, 20]",3.667,22,8,0,41,2,3,1,0,0,0,0,11.18,0,0,0,0,0,12,29,0,41,32,True,False,True,Left-arm fast-medium,Right-hand bat
+Australia,AJ Tye,7c7d63a2,7,0,0,0,0,0.0,"[3, 6, 15, 19]",4.0,24,9,0,47,6,2,1,0,0,1,1,11.75,0,0,0,0,0,0,30,0,30,38,True,False,False,Right-arm medium-fast,Right-hand bat
+Australia,MJ Swepson,86b4bf88,8,0,0,0,0,0.0,"[7, 9, 11, 14]",4.0,24,7,0,25,0,0,1,0,0,0,1,6.25,2,0,0,0,0,0,34,16,50,31,True,False,False,Legbreak,Right-hand bat
+Australia,A Zampa,14f96089,9,0,0,0,0,0.0,"[10, 12, 16, 18]",4.0,24,4,0,36,1,2,1,0,0,0,0,9.0,0,0,0,0,0,0,29,0,29,32,True,False,False,Legbreak googly,Right-hand bat
+India,KL Rahul,b17e2f24,1,30,21,2,1,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,50,0,8,58,32,True,False,False,,Right-hand bat
+India,S Dhawan,0a476045,2,52,36,4,2,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,90,0,0,90,39,True,False,False,Right-arm offbreak,Left-hand bat
+India,V Kohli,ba607b88,3,40,24,2,2,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,68,0,0,68,36,True,False,False,Right-arm medium,Right-hand bat
+India,SV Samson,a4cc73aa,4,15,10,1,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,30,True,False,False,,Right-hand bat
+India,HH Pandya,dbe50b21,5,42,22,3,2,190.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,76,0,8,84,31,True,False,True,Right-arm medium-fast,Right-hand bat
+India,SS Iyer,85ec8e33,6,12,5,1,1,240.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,22,0,8,30,30,True,False,False,Legbreak googly,Right-hand bat
+India,Washington Sundar,f19ccfad,6,0,0,0,0,0.0,"[2, 4, 8, 14]",4.0,24,6,0,35,3,1,0,0,0,0,1,8.75,1,0,0,0,0,0,6,8,14,25,True,False,True,Right-arm offbreak,Left-hand bat
+India,DL Chahar,23eeb873,7,0,0,0,0,0.0,"[1, 7, 11, 20]",4.0,24,6,0,48,5,1,0,0,0,0,2,12.0,0,0,0,0,0,0,2,0,2,32,True,False,False,Right-arm medium,Right-hand bat
+India,SN Thakur,1abb78f8,8,0,0,0,0,0.0,"[3, 6, 13, 17]",4.0,24,7,0,39,6,0,1,0,0,0,1,9.75,0,0,0,0,0,0,32,0,32,33,True,False,False,Right-arm medium,Right-hand bat
+India,YS Chahal,57ee1fde,9,0,0,0,0,0.0,"[10, 12, 16, 18]",4.0,24,5,0,51,0,5,1,0,0,0,4,12.75,0,0,0,0,0,0,24,0,24,34,True,False,False,Legbreak googly,Right-hand bat
+India,T Natarajan,ce794613,10,0,0,0,0,0.0,"[5, 9, 15, 19]",4.0,24,8,0,20,1,0,2,0,0,0,0,5.0,0,0,0,0,0,0,62,0,62,33,True,False,False,Left-arm medium,Left-hand bat

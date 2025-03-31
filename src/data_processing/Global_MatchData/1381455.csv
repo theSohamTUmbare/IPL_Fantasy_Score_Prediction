@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Bulgaria,Zeerak Chughtai,ff0b1636,1,44,40,4,2,110.0,"[4, 6, 16, 18]",4.0,24,8,0,28,4,0,2,1,0,0,0,7.0,0,0,0,0,0,76,68,0,144
-Bulgaria,Zain Asif,ef8eba13,2,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Bulgaria,Zaid Soulat,14cbe9b7,3,12,8,1,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
-Bulgaria,P Mishra,3fa5672e,4,5,11,1,0,45.45,"[7, 9, 11, 15]",4.0,24,8,0,23,2,0,0,0,0,0,2,5.75,1,0,0,0,-6,3,12,8,23
-Bulgaria,Isa Zaroo,9822fb85,5,7,7,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
-Bulgaria,Saim Hussain,d300d274,6,40,21,5,2,190.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,82,0,8,90
-Bulgaria,DV Varghese,26f98ea3,7,0,0,0,0,0.0,"[5, 13, 20]",2.167,13,3,0,23,3,1,1,0,0,1,0,10.61,0,0,0,0,0,0,26,0,26
-Bulgaria,D Nikolov,9c3a8776,7,11,10,2,0,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
-Bulgaria,Danyal Raja,324e00a9,8,19,12,2,1,158.33,"[1, 3, 12, 14]",4.0,24,13,0,22,3,0,2,0,0,0,4,5.5,0,0,0,0,4,37,67,0,104
-Bulgaria,Huzaif Yousuf,95e47073,8,0,0,0,0,0.0,"[8, 10, 19]",3.0,18,6,0,38,4,2,0,0,0,0,4,12.67,0,0,0,0,0,0,0,0,0
-Bulgaria,Gagandeep Singh,4a370769,9,8,5,1,0,160.0,"[2, 17]",2.0,12,4,0,26,3,1,0,0,0,0,3,13.0,2,0,0,0,0,12,-2,16,26
-Serbia,WAE Burton,b0358c6d,1,5,6,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,9,0,16,25
-Serbia,A Dizija,6483c062,2,15,10,1,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
-Serbia,LA Dunbar,f50433e9,3,47,26,7,1,180.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,6,91,0,6,97
-Serbia,MV Pavlovic,2809b390,4,26,28,4,0,92.86,"[9, 11, 13, 15]",4.0,24,12,0,29,2,1,4,1,0,0,7,7.25,0,0,0,0,0,46,128,0,174
-Serbia,S Tosic,1c40f69f,5,18,19,3,0,94.74,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30
-Serbia,V Zimonjic,7f784eb8,6,23,16,2,1,143.75,"[1, 3, 18, 20]",4.0,24,11,0,24,3,0,2,0,1,0,3,6.0,1,0,0,0,2,39,71,8,118
-Serbia,N Zimonjic,638f451b,7,12,10,1,1,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
-Serbia,NR Johns-Wickberg,3924b2ee,7,0,0,0,0,0.0,"[4, 6, 17, 19]",4.0,24,13,0,37,4,2,1,0,0,0,2,9.25,0,0,0,0,0,0,38,0,38
-Serbia,Rahman Ademi,a9fd6ca3,8,0,0,0,0,0.0,[16],1.0,6,0,0,15,3,0,0,0,0,0,0,15.0,0,0,0,0,0,0,0,0,0
-Serbia,AA Gajic,a768a762,9,0,0,0,0,0.0,"[2, 5, 7, 14]",4.0,24,13,0,23,2,1,0,0,0,0,0,5.75,2,0,0,0,0,0,17,16,33
-Serbia,B Dugic,5edaa34d,10,0,0,0,0,0.0,"[8, 10, 12]",3.0,18,7,0,34,3,2,0,0,0,0,3,11.33,0,0,0,1,0,0,3,6,9
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bulgaria,Zeerak Chughtai,ff0b1636,1,44,40,4,2,110.0,"[4, 6, 16, 18]",4.0,24,8,0,28,4,0,2,1,0,0,0,7.0,0,0,0,0,0,76,68,0,144,31,True,True,False,Right-arm medium,Left-hand bat
+Bulgaria,Zain Asif,ef8eba13,2,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,25,True,True,False,Right-arm medium-fast,Right-hand bat
+Bulgaria,Zaid Soulat,14cbe9b7,3,12,8,1,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,23,True,True,False,Right-arm offbreak,Right-hand bat
+Bulgaria,P Mishra,3fa5672e,4,5,11,1,0,45.45,"[7, 9, 11, 15]",4.0,24,8,0,23,2,0,0,0,0,0,2,5.75,1,0,0,0,-6,3,12,8,23,46,True,True,False,Right-arm medium,Right-hand bat
+Bulgaria,Isa Zaroo,9822fb85,5,7,7,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,24,True,True,False,Right-arm medium,Right-hand bat
+Bulgaria,Saim Hussain,d300d274,6,40,21,5,2,190.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,82,0,8,90,28,True,True,False,Right-arm medium,Left-hand bat
+Bulgaria,DV Varghese,26f98ea3,7,0,0,0,0,0.0,"[5, 13, 20]",2.167,13,3,0,23,3,1,1,0,0,1,0,10.61,0,0,0,0,0,0,26,0,26,27,True,True,False,Right-arm medium-fast,Right-hand bat
+Bulgaria,D Nikolov,9c3a8776,7,11,10,2,0,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,32,True,True,False,Right-arm medium,Right-hand bat
+Bulgaria,Danyal Raja,324e00a9,8,19,12,2,1,158.33,"[1, 3, 12, 14]",4.0,24,13,0,22,3,0,2,0,0,0,4,5.5,0,0,0,0,4,37,67,0,104,24,True,True,False,Right-arm medium,Right-hand bat
+Bulgaria,Huzaif Yousuf,95e47073,8,0,0,0,0,0.0,"[8, 10, 19]",3.0,18,6,0,38,4,2,0,0,0,0,4,12.67,0,0,0,0,0,0,0,0,0,24,True,True,False,Right-arm medium,Right-hand bat
+Bulgaria,Gagandeep Singh,4a370769,9,8,5,1,0,160.0,"[2, 17]",2.0,12,4,0,26,3,1,0,0,0,0,3,13.0,2,0,0,0,0,12,-2,16,26,31,True,True,False,Right-arm medium,Right-hand bat
+Serbia,WAE Burton,b0358c6d,1,5,6,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,9,0,16,25,33,True,True,False,Right-arm medium-fast,Right-hand bat
+Serbia,A Dizija,6483c062,2,15,10,1,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,33,True,True,False,Right-arm offbreak,Right-hand bat
+Serbia,LA Dunbar,f50433e9,3,47,26,7,1,180.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,6,91,0,6,97,35,True,False,False,,Right-hand bat
+Serbia,MV Pavlovic,2809b390,4,26,28,4,0,92.86,"[9, 11, 13, 15]",4.0,24,12,0,29,2,1,4,1,0,0,7,7.25,0,0,0,0,0,46,128,0,174,41,True,True,False,Right-arm medium-fast,Right-hand bat
+Serbia,S Tosic,1c40f69f,5,18,19,3,0,94.74,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30,39,True,True,False,Right-arm offbreak,Right-hand bat
+Serbia,V Zimonjic,7f784eb8,6,23,16,2,1,143.75,"[1, 3, 18, 20]",4.0,24,11,0,24,3,0,2,0,1,0,3,6.0,1,0,0,0,2,39,71,8,118,20,True,False,False,Right-arm medium-fast,Right-hand bat
+Serbia,N Zimonjic,638f451b,7,12,10,1,1,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,21,True,True,False,Right-arm medium,Right-hand bat
+Serbia,NR Johns-Wickberg,3924b2ee,7,0,0,0,0,0.0,"[4, 6, 17, 19]",4.0,24,13,0,37,4,2,1,0,0,0,2,9.25,0,0,0,0,0,0,38,0,38,35,True,True,False,Right-arm medium-fast,Right-hand bat
+Serbia,Rahman Ademi,a9fd6ca3,8,0,0,0,0,0.0,[16],1.0,6,0,0,15,3,0,0,0,0,0,0,15.0,0,0,0,0,0,0,0,0,0,21,True,False,False,Right-arm medium,Right-hand bat
+Serbia,AA Gajic,a768a762,9,0,0,0,0,0.0,"[2, 5, 7, 14]",4.0,24,13,0,23,2,1,0,0,0,0,0,5.75,2,0,0,0,0,0,17,16,33,36,True,True,False,Right-arm medium-fast,Right-hand bat
+Serbia,B Dugic,5edaa34d,10,0,0,0,0,0.0,"[8, 10, 12]",3.0,18,7,0,34,3,2,0,0,0,0,3,11.33,0,0,0,1,0,0,3,6,9,32,True,True,False,Right-arm fast,Right-hand bat

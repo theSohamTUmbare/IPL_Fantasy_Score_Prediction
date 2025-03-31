@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Australia,AC Gilchrist,2b6e6dec,1,4,6,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,4,0,0,0,0,4,0,36,40
-Australia,ML Hayden,d8699ab7,2,4,2,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
-Australia,RT Ponting,7d415ea5,3,8,15,1,0,53.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,8,0,0,8
-Australia,A Symonds,bd77eb62,4,33,25,4,0,132.0,"[12, 14]",2.0,12,4,0,11,1,0,0,0,0,0,0,5.5,0,0,0,0,2,55,8,0,63
-Australia,MEK Hussey,48fd7349,5,15,23,1,0,65.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,17,0,0,17
-Australia,BJ Hodge,b57f8a9a,6,35,22,2,2,159.09,"[13, 15]",2.0,12,5,0,20,1,2,0,0,0,0,0,10.0,0,0,0,0,4,63,3,0,66
-Australia,BJ Haddin,b0c772ee,7,6,12,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,2,0,0,2
-Australia,SR Clark,a3bfec5d,7,0,0,0,0,0.0,"[5, 7, 9, 11]",4.0,24,10,0,22,2,0,2,0,0,0,0,5.5,0,0,0,0,0,0,64,0,64
-Australia,B Lee,dd09ff8e,8,13,7,1,1,185.71,"[1, 3, 17, 19]",4.0,24,7,0,31,3,0,1,1,0,0,2,7.75,0,0,0,0,0,23,40,0,63
-Australia,MG Johnson,f5180fe6,9,9,5,1,0,180.0,"[6, 8, 10, 16]",4.0,24,13,0,26,4,0,1,0,0,0,1,6.5,0,0,0,0,0,13,40,0,53
-Australia,NW Bracken,4c61a0f9,10,4,3,0,0,133.33,"[2, 4, 18, 20]",3.833,23,9,0,25,3,0,1,0,0,0,0,6.52,0,0,0,0,0,4,36,0,40
-Zimbabwe,V Sibanda,0fdabe05,1,23,15,5,0,153.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,4,47,0,20,67
-Zimbabwe,BRM Taylor,53597be1,2,60,45,4,2,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,1,2,98,0,26,124
-Zimbabwe,CJ Chibhabha,f32dbc84,3,15,14,3,0,107.14,"[8, 10, 12]",3.0,18,9,0,17,2,0,0,0,0,0,1,5.67,0,0,0,0,0,27,13,0,40
-Zimbabwe,T Taibu,75de770f,4,0,6,0,0,0.0,"[13, 18]",2.0,12,2,0,21,2,1,0,0,0,0,0,10.5,0,0,0,0,0,-2,0,0,-2
-Zimbabwe,S Matsikenyeri,e7ba1233,5,3,8,0,0,37.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11
-Zimbabwe,H Masakadza,31fbf891,6,27,28,2,0,96.43,[14],1.0,6,2,0,9,0,1,1,0,0,0,0,9.0,0,0,0,0,0,39,27,0,66
-Zimbabwe,E Chigumbura,d2babdd5,7,4,3,0,0,133.33,"[1, 3, 20]",3.0,18,8,0,20,2,0,3,0,0,0,0,6.67,2,0,0,0,0,4,89,16,109
-Zimbabwe,KM Dabengwa,df08c69e,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Zimbabwe,P Utseya,9de271ef,8,0,0,0,0,0.0,"[9, 11, 15, 17]",4.0,24,8,0,28,2,0,1,0,0,0,0,7.0,0,0,0,0,0,0,35,0,35
-Zimbabwe,GB Brent,da785bf8,9,0,0,0,0,0.0,"[2, 4, 6, 19]",4.0,24,15,0,19,2,0,2,0,1,0,2,4.75,0,0,0,1,0,0,79,6,85
-Zimbabwe,T Mupariwa,21bf71ab,10,0,0,0,0,0.0,"[5, 7, 16]",3.0,18,8,0,23,1,1,0,0,0,0,3,7.67,0,0,0,0,0,0,8,0,8
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Australia,AC Gilchrist,2b6e6dec,1,4,6,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,4,0,0,0,0,4,0,36,40,53,True,True,False,Right-arm offbreak,Left-hand bat
+Australia,ML Hayden,d8699ab7,2,4,2,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,53,True,False,False,Right-arm medium,Left-hand bat
+Australia,RT Ponting,7d415ea5,3,8,15,1,0,53.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,8,0,0,8,50,True,False,False,Right-arm medium,Right-hand bat
+Australia,A Symonds,bd77eb62,4,33,25,4,0,132.0,"[12, 14]",2.0,12,4,0,11,1,0,0,0,0,0,0,5.5,0,0,0,0,2,55,8,0,63,46,True,False,True,Right-arm offbreak,Right-hand bat
+Australia,MEK Hussey,48fd7349,5,15,23,1,0,65.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,17,0,0,17,49,True,False,False,Right-arm medium,Left-hand bat
+Australia,BJ Hodge,b57f8a9a,6,35,22,2,2,159.09,"[13, 15]",2.0,12,5,0,20,1,2,0,0,0,0,0,10.0,0,0,0,0,4,63,3,0,66,50,True,False,False,Right-arm offbreak,Right-hand bat
+Australia,BJ Haddin,b0c772ee,7,6,12,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,2,0,0,2,47,True,False,False,,Right-hand bat
+Australia,SR Clark,a3bfec5d,7,0,0,0,0,0.0,"[5, 7, 9, 11]",4.0,24,10,0,22,2,0,2,0,0,0,0,5.5,0,0,0,0,0,0,64,0,64,,,,,,
+Australia,B Lee,dd09ff8e,8,13,7,1,1,185.71,"[1, 3, 17, 19]",4.0,24,7,0,31,3,0,1,1,0,0,2,7.75,0,0,0,0,0,23,40,0,63,48,True,False,False,Right-arm fast,Right-hand bat
+Australia,MG Johnson,f5180fe6,9,9,5,1,0,180.0,"[6, 8, 10, 16]",4.0,24,13,0,26,4,0,1,0,0,0,1,6.5,0,0,0,0,0,13,40,0,53,43,True,False,False,Left-arm fast,Left-hand bat
+Australia,NW Bracken,4c61a0f9,10,4,3,0,0,133.33,"[2, 4, 18, 20]",3.833,23,9,0,25,3,0,1,0,0,0,0,6.52,0,0,0,0,0,4,36,0,40,47,True,False,False,Left-arm fast-medium,Right-hand bat
+Zimbabwe,V Sibanda,0fdabe05,1,23,15,5,0,153.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,4,47,0,20,67,41,True,False,False,Right-arm offbreak,Right-hand bat
+Zimbabwe,BRM Taylor,53597be1,2,60,45,4,2,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,1,2,98,0,26,124,39,True,True,False,Right-arm offbreak,Right-hand bat
+Zimbabwe,CJ Chibhabha,f32dbc84,3,15,14,3,0,107.14,"[8, 10, 12]",3.0,18,9,0,17,2,0,0,0,0,0,1,5.67,0,0,0,0,0,27,13,0,40,38,True,False,False,Right-arm medium,Right-hand bat
+Zimbabwe,T Taibu,75de770f,4,0,6,0,0,0.0,"[13, 18]",2.0,12,2,0,21,2,1,0,0,0,0,0,10.5,0,0,0,0,0,-2,0,0,-2,41,True,True,False,Right-arm medium,Right-hand bat
+Zimbabwe,S Matsikenyeri,e7ba1233,5,3,8,0,0,37.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11,41,True,False,False,Right-arm offbreak,Right-hand bat
+Zimbabwe,H Masakadza,31fbf891,6,27,28,2,0,96.43,[14],1.0,6,2,0,9,0,1,1,0,0,0,0,9.0,0,0,0,0,0,39,27,0,66,41,True,False,False,Right-arm medium,Right-hand bat
+Zimbabwe,E Chigumbura,d2babdd5,7,4,3,0,0,133.33,"[1, 3, 20]",3.0,18,8,0,20,2,0,3,0,0,0,0,6.67,2,0,0,0,0,4,89,16,109,39,True,False,True,Right-arm fast-medium,Right-hand bat
+Zimbabwe,KM Dabengwa,df08c69e,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,44,True,False,True,Slow left-arm orthodox,Left-hand bat
+Zimbabwe,P Utseya,9de271ef,8,0,0,0,0,0.0,"[9, 11, 15, 17]",4.0,24,8,0,28,2,0,1,0,0,0,0,7.0,0,0,0,0,0,0,35,0,35,40,True,False,False,Right-arm offbreak,Right-hand bat
+Zimbabwe,GB Brent,da785bf8,9,0,0,0,0,0.0,"[2, 4, 6, 19]",4.0,24,15,0,19,2,0,2,0,1,0,2,4.75,0,0,0,1,0,0,79,6,85,,,,,,
+Zimbabwe,T Mupariwa,21bf71ab,10,0,0,0,0,0.0,"[5, 7, 16]",3.0,18,8,0,23,1,1,0,0,0,0,3,7.67,0,0,0,0,0,0,8,0,8,,,,,,

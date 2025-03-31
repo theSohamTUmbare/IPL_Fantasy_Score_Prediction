@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Chattogram Challengers,CAK Walton,bbff906c,1,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Chattogram Challengers,WG Jacks,9caf69a1,2,57,37,5,3,154.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,107,0,0,107
-Chattogram Challengers,Afif Hossain,37138918,3,27,21,4,0,128.57,[10],1.0,6,1,0,10,0,1,0,0,0,0,0,10.0,0,0,0,0,0,47,1,0,48
-Chattogram Challengers,Shoriful Islam,bb34fd31,3,0,0,0,0,0.0,"[2, 4, 16]",3.0,18,8,0,26,3,1,0,0,0,0,2,8.67,0,0,0,0,0,0,8,0,8
-Chattogram Challengers,Nasum Ahmed,37654b75,4,0,0,0,0,0.0,"[1, 3, 5, 15]",4.0,24,9,0,26,2,1,0,0,0,0,0,6.5,0,0,0,0,0,0,11,0,11
-Chattogram Challengers,Shamim Hossain,711249d1,4,26,22,4,0,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,46,0,0,46
-Chattogram Challengers,BAC Howell,0bec3a6c,5,3,5,0,0,60.0,"[7, 9, 11, 14]",4.0,24,8,0,29,2,1,0,0,0,0,2,7.25,0,0,0,0,0,3,8,0,11
-Chattogram Challengers,Naeem Islam,02e83ac5,6,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
-Chattogram Challengers,Mehedi Hasan Miraz,c58b0108,7,4,6,0,0,66.67,"[6, 8, 12]",3.0,18,5,0,31,1,3,0,0,0,0,0,10.33,0,0,0,0,0,4,3,0,7
-Chattogram Challengers,Akbar Ali,abae26ad,8,12,8,0,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26
-Chattogram Challengers,Mrittunjoy Chowdhury,21b97584,9,1,1,0,0,100.0,"[13, 17]",1.5,9,5,0,21,2,1,1,0,0,0,5,14.0,0,0,0,0,0,1,30,0,31
-Comilla Victorians,Imrul Kayes,5fbe14fc,1,81,62,6,5,130.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,1,2,149,0,34,183
-Comilla Victorians,Liton Das,0404d43c,2,53,37,4,3,143.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,97,0,0,97
-Comilla Victorians,Mahidul Islam Ankon,dac6aabc,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,0,0,6,6
-Comilla Victorians,F du Plessis,3355b542,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Comilla Victorians,Mahmudul Hasan Joy,4b51bd51,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Comilla Victorians,MM Ali,bb351c23,5,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,5,0,27,3,1,0,0,0,0,0,9.0,0,0,0,0,0,0,5,0,5
-Comilla Victorians,Sumon Khan,a84ccd7d,6,0,0,0,0,0.0,[13],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,0,0,2,0,2
-Comilla Victorians,SP Narine,9d430b40,7,0,0,0,0,0.0,"[4, 12, 15, 17]",4.0,24,4,0,32,2,1,0,0,0,0,1,8.0,0,0,0,0,0,0,4,0,4
-Comilla Victorians,Nahidul Islam,8c7b16c8,8,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,10,0,21,2,1,1,0,0,0,0,7.0,1,0,0,0,0,0,37,8,45
-Comilla Victorians,Tanvir Islam,aa467af0,9,0,0,0,0,0.0,"[2, 8, 10]",3.0,18,8,0,21,3,0,1,0,1,0,0,7.0,0,0,0,0,0,0,43,0,43
-Comilla Victorians,Mustafizur Rahman,0a8fce53,10,0,0,0,0,0.0,"[6, 14, 16, 18]",4.0,24,9,0,27,2,1,5,0,0,0,1,6.75,1,0,0,0,0,0,148,8,156
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Chattogram Challengers,CAK Walton,bbff906c,1,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,39,True,False,False,,Right-hand bat
+Chattogram Challengers,WG Jacks,9caf69a1,2,57,37,5,3,154.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,107,0,0,107,26,True,False,True,Right-arm offbreak,Right-hand bat
+Chattogram Challengers,Afif Hossain,37138918,3,27,21,4,0,128.57,[10],1.0,6,1,0,10,0,1,0,0,0,0,0,10.0,0,0,0,0,0,47,1,0,48,25,True,False,True,Right-arm offbreak,Left-hand bat
+Chattogram Challengers,Shoriful Islam,bb34fd31,3,0,0,0,0,0.0,"[2, 4, 16]",3.0,18,8,0,26,3,1,0,0,0,0,2,8.67,0,0,0,0,0,0,8,0,8,23,True,False,False,Left-arm fast-medium,Left-hand bat
+Chattogram Challengers,Nasum Ahmed,37654b75,4,0,0,0,0,0.0,"[1, 3, 5, 15]",4.0,24,9,0,26,2,1,0,0,0,0,0,6.5,0,0,0,0,0,0,11,0,11,30,True,False,True,Slow left-arm orthodox,Left-hand bat
+Chattogram Challengers,Shamim Hossain,711249d1,4,26,22,4,0,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,46,0,0,46,24,True,False,True,Right-arm offbreak,Left-hand bat
+Chattogram Challengers,BAC Howell,0bec3a6c,5,3,5,0,0,60.0,"[7, 9, 11, 14]",4.0,24,8,0,29,2,1,0,0,0,0,2,7.25,0,0,0,0,0,3,8,0,11,36,True,False,True,Right-arm medium,Right-hand bat
+Chattogram Challengers,Naeem Islam,02e83ac5,6,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,38,True,False,True,Right-arm offbreak,Right-hand bat
+Chattogram Challengers,Mehedi Hasan Miraz,c58b0108,7,4,6,0,0,66.67,"[6, 8, 12]",3.0,18,5,0,31,1,3,0,0,0,0,0,10.33,0,0,0,0,0,4,3,0,7,27,True,False,True,Right-arm offbreak,Right-hand bat
+Chattogram Challengers,Akbar Ali,abae26ad,8,12,8,0,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26,23,True,False,False,,Right-hand bat
+Chattogram Challengers,Mrittunjoy Chowdhury,21b97584,9,1,1,0,0,100.0,"[13, 17]",1.5,9,5,0,21,2,1,1,0,0,0,5,14.0,0,0,0,0,0,1,30,0,31,23,True,False,True,Left-arm medium-fast,Left-hand bat
+Comilla Victorians,Imrul Kayes,5fbe14fc,1,81,62,6,5,130.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,1,2,149,0,34,183,38,True,False,False,Slow left-arm orthodox,Left-hand bat
+Comilla Victorians,Liton Das,0404d43c,2,53,37,4,3,143.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,97,0,0,97,30,True,True,False,Right-arm offbreak,Right-hand bat
+Comilla Victorians,Mahidul Islam Ankon,dac6aabc,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,0,0,6,6,25,True,False,False,,Right-hand bat
+Comilla Victorians,F du Plessis,3355b542,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,40,True,False,False,Legbreak,Right-hand bat
+Comilla Victorians,Mahmudul Hasan Joy,4b51bd51,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,24,True,False,False,,Right-hand bat
+Comilla Victorians,MM Ali,bb351c23,5,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,5,0,27,3,1,0,0,0,0,0,9.0,0,0,0,0,0,0,5,0,5,37,True,False,True,Right-arm offbreak,Left-hand bat
+Comilla Victorians,Sumon Khan,a84ccd7d,6,0,0,0,0,0.0,[13],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,0,0,2,0,2,25,True,False,False,Right-arm medium,Left-hand bat
+Comilla Victorians,SP Narine,9d430b40,7,0,0,0,0,0.0,"[4, 12, 15, 17]",4.0,24,4,0,32,2,1,0,0,0,0,1,8.0,0,0,0,0,0,0,4,0,4,36,True,False,True,Right-arm offbreak,Left-hand bat
+Comilla Victorians,Nahidul Islam,8c7b16c8,8,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,10,0,21,2,1,1,0,0,0,0,7.0,1,0,0,0,0,0,37,8,45,31,True,False,True,Right-arm offbreak,Right-hand bat
+Comilla Victorians,Tanvir Islam,aa467af0,9,0,0,0,0,0.0,"[2, 8, 10]",3.0,18,8,0,21,3,0,1,0,1,0,0,7.0,0,0,0,0,0,0,43,0,43,28,True,False,False,Slow left-arm orthodox,Left-hand bat
+Comilla Victorians,Mustafizur Rahman,0a8fce53,10,0,0,0,0,0.0,"[6, 14, 16, 18]",4.0,24,9,0,27,2,1,5,0,0,0,1,6.75,1,0,0,0,0,0,148,8,156,29,True,False,False,Left-arm fast-medium,Left-hand bat

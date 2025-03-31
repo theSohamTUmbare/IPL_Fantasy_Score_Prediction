@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Australia,DA Warner,dcce6f09,1,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
-Australia,SPD Smith,30a45b23,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0,0,28,28
-Australia,AJ Finch,b8d490fd,2,37,15,5,2,246.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,79,0,0,79
-Australia,BR McDermott,c41043e6,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Australia,AJ Turner,ff1e12a0,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Australia,AT Carey,69d03465,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Australia,AC Agar,a2421394,6,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,4,0,23,1,1,1,0,0,0,0,7.67,1,0,0,0,0,0,29,8,37
-Australia,PJ Cummins,ded9240e,7,0,0,0,0,0.0,"[5, 8, 12]",3.0,18,5,0,15,0,0,0,0,0,0,0,5.0,1,0,0,0,0,0,9,8,17
-Australia,MA Starc,3fb19989,8,0,0,0,0,0.0,"[1, 3, 15]",3.0,18,7,0,22,2,1,2,0,0,0,0,7.33,0,0,0,0,0,0,57,0,57
-Australia,KW Richardson,dfc4d8b5,9,0,0,0,0,0.0,"[2, 6, 14]",3.0,18,8,0,16,2,0,2,0,0,0,0,5.33,0,0,0,0,0,0,62,0,62
-Australia,A Zampa,14f96089,10,0,0,0,0,0.0,"[4, 10, 13]",3.0,18,6,0,30,2,2,0,0,0,0,0,10.0,0,0,0,0,0,0,4,0,4
-Pakistan,Babar Azam,8a75e999,1,59,38,5,2,155.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,103,0,0,103
-Pakistan,Fakhar Zaman,1777c020,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Pakistan,Wahab Riaz,b3118300,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Pakistan,Haris Sohail,7cd0a092,3,4,6,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
-Pakistan,Shadab Khan,9de62878,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Pakistan,Mohammad Rizwan,2f26ac1a,4,31,33,1,1,93.94,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,45,0,0,45
-Pakistan,Mohammad Amir,e174dadd,4,0,0,0,0,0.0,"[2, 4]",1.167,7,1,0,9,1,0,0,0,0,0,0,7.71,0,0,0,0,0,0,1,0,1
-Pakistan,Mohammad Irfan,a8e3170f,5,0,0,0,0,0.0,"[1, 3]",2.0,12,5,0,31,4,2,0,0,0,1,0,15.5,0,0,0,0,0,0,-1,0,-1
-Pakistan,Asif Ali,0a4736eb,5,11,10,0,1,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
-Pakistan,Imad Wasim,9cb8d7a6,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-Pakistan,Iftikhar Ahmed,29e253dd,7,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Australia,DA Warner,dcce6f09,1,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,38,True,False,False,Legbreak,Left-hand bat
+Australia,SPD Smith,30a45b23,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0,0,28,28,35,True,False,False,Legbreak googly,Right-hand bat
+Australia,AJ Finch,b8d490fd,2,37,15,5,2,246.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,79,0,0,79,38,True,False,False,Slow left-arm orthodox,Right-hand bat
+Australia,BR McDermott,c41043e6,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,30,True,True,False,Right-arm medium,Right-hand bat
+Australia,AJ Turner,ff1e12a0,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,32,True,False,False,Right-arm offbreak,Right-hand bat
+Australia,AT Carey,69d03465,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,33,True,False,False,,Left-hand bat
+Australia,AC Agar,a2421394,6,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,4,0,23,1,1,1,0,0,0,0,7.67,1,0,0,0,0,0,29,8,37,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+Australia,PJ Cummins,ded9240e,7,0,0,0,0,0.0,"[5, 8, 12]",3.0,18,5,0,15,0,0,0,0,0,0,0,5.0,1,0,0,0,0,0,9,8,17,31,True,False,False,Right-arm fast,Right-hand bat
+Australia,MA Starc,3fb19989,8,0,0,0,0,0.0,"[1, 3, 15]",3.0,18,7,0,22,2,1,2,0,0,0,0,7.33,0,0,0,0,0,0,57,0,57,35,True,False,False,Left-arm fast,Left-hand bat
+Australia,KW Richardson,dfc4d8b5,9,0,0,0,0,0.0,"[2, 6, 14]",3.0,18,8,0,16,2,0,2,0,0,0,0,5.33,0,0,0,0,0,0,62,0,62,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Australia,A Zampa,14f96089,10,0,0,0,0,0.0,"[4, 10, 13]",3.0,18,6,0,30,2,2,0,0,0,0,0,10.0,0,0,0,0,0,0,4,0,4,32,True,False,False,Legbreak googly,Right-hand bat
+Pakistan,Babar Azam,8a75e999,1,59,38,5,2,155.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,103,0,0,103,30,True,False,False,Right-arm offbreak,Right-hand bat
+Pakistan,Fakhar Zaman,1777c020,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,34,True,False,False,Slow left-arm orthodox,Left-hand bat
+Pakistan,Wahab Riaz,b3118300,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,39,True,False,False,Left-arm fast,Right-hand bat
+Pakistan,Haris Sohail,7cd0a092,3,4,6,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,36,True,False,False,Slow left-arm orthodox,Left-hand bat
+Pakistan,Shadab Khan,9de62878,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,False,True,Legbreak,Right-hand bat
+Pakistan,Mohammad Rizwan,2f26ac1a,4,31,33,1,1,93.94,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,45,0,0,45,32,True,True,False,Right-arm medium,Right-hand bat
+Pakistan,Mohammad Amir,e174dadd,4,0,0,0,0,0.0,"[2, 4]",1.167,7,1,0,9,1,0,0,0,0,0,0,7.71,0,0,0,0,0,0,1,0,1,32,True,False,False,Left-arm fast-medium,Left-hand bat
+Pakistan,Mohammad Irfan,a8e3170f,5,0,0,0,0,0.0,"[1, 3]",2.0,12,5,0,31,4,2,0,0,0,1,0,15.5,0,0,0,0,0,0,-1,0,-1,42,True,False,False,Left-arm fast,Right-hand bat
+Pakistan,Asif Ali,0a4736eb,5,11,10,0,1,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,33,True,False,False,Right-arm offbreak,Right-hand bat
+Pakistan,Imad Wasim,9cb8d7a6,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,36,True,False,True,Slow left-arm orthodox,Left-hand bat
+Pakistan,Iftikhar Ahmed,29e253dd,7,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,34,True,False,False,Right-arm offbreak,Right-hand bat

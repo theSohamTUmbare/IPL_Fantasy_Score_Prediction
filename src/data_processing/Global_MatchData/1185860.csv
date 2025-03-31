@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Jamaica Tallawahs,CH Gayle,db584dad,1,29,30,4,1,96.67,[20],0.167,1,0,0,4,1,0,0,0,0,0,0,23.95,1,0,0,0,0,55,0,8,63
-Jamaica Tallawahs,GD Phillips,9a46c4e5,2,23,11,3,1,209.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,47,0,0,47
-Jamaica Tallawahs,DR Smith,35205dfc,3,58,38,6,3,152.63,"[2, 15]",2.0,12,7,0,8,1,0,1,0,0,0,0,4.0,1,0,0,0,4,112,38,8,158
-Jamaica Tallawahs,Liton Das,0404d43c,4,21,21,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,25,0,8,33
-Jamaica Tallawahs,CAK Walton,bbff906c,5,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12
-Jamaica Tallawahs,TA Griffith,9d6e1d80,6,8,6,0,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
-Jamaica Tallawahs,RA Lewis,65be8bb2,7,5,6,0,0,83.33,"[7, 9, 11, 13]",4.0,24,9,0,28,2,1,1,0,0,0,2,7.0,0,0,0,0,0,5,36,0,41
-Jamaica Tallawahs,SK Springer,4175d211,8,7,4,0,1,175.0,"[5, 14, 16, 19]",4.0,24,9,0,33,0,3,0,0,0,1,3,8.25,1,0,0,0,0,13,9,8,30
-Jamaica Tallawahs,I Khan,2ae01eb0,8,0,0,0,0,0.0,"[8, 10, 12, 18]",4.0,24,11,0,34,2,2,2,0,0,0,5,8.5,0,0,0,0,0,0,61,0,61
-Jamaica Tallawahs,Zahir Khan,786b7fe8,9,0,0,0,0,0.0,"[1, 4, 6, 17]",4.0,24,9,0,35,3,2,1,0,0,0,0,8.75,0,0,0,0,0,0,34,0,34
-Jamaica Tallawahs,JE Taylor,4180d897,10,0,0,0,0,0.0,[3],1.0,6,1,0,25,1,3,0,0,0,0,2,25.0,0,0,0,0,0,0,1,0,1
-St Lucia Zouks,ADS Fletcher,1bae756b,1,17,8,2,1,212.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,31,0,16,47
-St Lucia Zouks,RRS Cornwall,c4d9634c,2,51,25,4,5,204.0,"[4, 8]",2.0,12,5,0,18,0,2,0,0,0,0,0,9.0,0,0,0,0,6,111,5,0,116
-St Lucia Zouks,CA Ingram,c995d726,3,17,24,1,1,70.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27
-St Lucia Zouks,C de Grandhomme,94d7f855,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-St Lucia Zouks,GC Viljoen,a316d663,5,32,24,2,2,133.33,"[2, 5, 15]",3.0,18,6,0,40,6,1,1,0,0,0,5,13.33,1,0,0,0,2,58,25,8,91
-St Lucia Zouks,CD Barnwell,0d51e658,6,13,18,0,0,72.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
-St Lucia Zouks,DJG Sammy,c03c6200,7,16,9,0,2,177.78,[10],1.0,6,3,0,10,2,0,1,0,0,0,1,10.0,0,0,0,0,0,28,28,0,56
-St Lucia Zouks,K Santokie,531f0278,8,8,6,1,0,133.33,"[1, 12, 18, 20]",4.0,24,5,0,31,2,1,2,1,0,0,0,7.75,0,0,0,0,0,12,63,0,75
-St Lucia Zouks,J Royal,44a18ad8,8,0,0,0,0,0.0,"[11, 13]",2.0,12,4,0,19,1,1,0,0,0,0,1,9.5,1,0,0,0,0,0,4,8,12
-St Lucia Zouks,KOK Williams,78cb83f3,9,0,0,0,0,0.0,"[3, 6, 17, 19]",4.0,24,13,0,24,2,1,3,0,0,0,1,6.0,1,0,0,0,0,0,94,8,102
-St Lucia Zouks,Fawad Ahmed,22ae3041,10,0,0,0,0,0.0,"[7, 9, 14, 16]",4.0,24,12,0,22,1,1,0,0,0,0,1,5.5,0,0,0,0,0,0,16,0,16
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Jamaica Tallawahs,CH Gayle,db584dad,1,29,30,4,1,96.67,[20],0.167,1,0,0,4,1,0,0,0,0,0,0,23.95,1,0,0,0,0,55,0,8,63,45,True,False,True,Right-arm offbreak,Left-hand bat
+Jamaica Tallawahs,GD Phillips,9a46c4e5,2,23,11,3,1,209.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,47,0,0,47,28,True,False,True,Right-arm offbreak,Right-hand bat
+Jamaica Tallawahs,DR Smith,35205dfc,3,58,38,6,3,152.63,"[2, 15]",2.0,12,7,0,8,1,0,1,0,0,0,0,4.0,1,0,0,0,4,112,38,8,158,41,True,False,True,Right-arm medium,Right-hand bat
+Jamaica Tallawahs,Liton Das,0404d43c,4,21,21,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,25,0,8,33,30,True,True,False,Right-arm offbreak,Right-hand bat
+Jamaica Tallawahs,CAK Walton,bbff906c,5,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12,39,True,False,False,,Right-hand bat
+Jamaica Tallawahs,TA Griffith,9d6e1d80,6,8,6,0,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,33,True,False,False,Right-arm offbreak,Left-hand bat
+Jamaica Tallawahs,RA Lewis,65be8bb2,7,5,6,0,0,83.33,"[7, 9, 11, 13]",4.0,24,9,0,28,2,1,1,0,0,0,2,7.0,0,0,0,0,0,5,36,0,41,28,True,False,False,Right-arm offbreak,Right-hand bat
+Jamaica Tallawahs,SK Springer,4175d211,8,7,4,0,1,175.0,"[5, 14, 16, 19]",4.0,24,9,0,33,0,3,0,0,0,1,3,8.25,1,0,0,0,0,13,9,8,30,27,True,False,True,Right-arm fast-medium,Right-hand bat
+Jamaica Tallawahs,I Khan,2ae01eb0,8,0,0,0,0,0.0,"[8, 10, 12, 18]",4.0,24,11,0,34,2,2,2,0,0,0,5,8.5,0,0,0,0,0,0,61,0,61,40,True,False,False,Legbreak,Right-hand bat
+Jamaica Tallawahs,Zahir Khan,786b7fe8,9,0,0,0,0,0.0,"[1, 4, 6, 17]",4.0,24,9,0,35,3,2,1,0,0,0,0,8.75,0,0,0,0,0,0,34,0,34,26,True,False,False,Left-arm wrist-spin,Left-hand bat
+Jamaica Tallawahs,JE Taylor,4180d897,10,0,0,0,0,0.0,[3],1.0,6,1,0,25,1,3,0,0,0,0,2,25.0,0,0,0,0,0,0,1,0,1,40,True,False,False,Right-arm fast,Right-hand bat
+St Lucia Zouks,ADS Fletcher,1bae756b,1,17,8,2,1,212.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,31,0,16,47,37,True,False,False,Legbreak,Right-hand bat
+St Lucia Zouks,RRS Cornwall,c4d9634c,2,51,25,4,5,204.0,"[4, 8]",2.0,12,5,0,18,0,2,0,0,0,0,0,9.0,0,0,0,0,6,111,5,0,116,32,True,False,True,Right-arm offbreak,Right-hand bat
+St Lucia Zouks,CA Ingram,c995d726,3,17,24,1,1,70.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27,39,True,False,False,Legbreak,Left-hand bat
+St Lucia Zouks,C de Grandhomme,94d7f855,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,38,True,False,True,Right-arm medium-fast,Right-hand bat
+St Lucia Zouks,GC Viljoen,a316d663,5,32,24,2,2,133.33,"[2, 5, 15]",3.0,18,6,0,40,6,1,1,0,0,0,5,13.33,1,0,0,0,2,58,25,8,91,36,True,False,False,Right-arm fast,Right-hand bat
+St Lucia Zouks,CD Barnwell,0d51e658,6,13,18,0,0,72.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21,38,True,False,True,Right-arm medium-fast,Right-hand bat
+St Lucia Zouks,DJG Sammy,c03c6200,7,16,9,0,2,177.78,[10],1.0,6,3,0,10,2,0,1,0,0,0,1,10.0,0,0,0,0,0,28,28,0,56,41,True,False,True,Right-arm medium,Right-hand bat
+St Lucia Zouks,K Santokie,531f0278,8,8,6,1,0,133.33,"[1, 12, 18, 20]",4.0,24,5,0,31,2,1,2,1,0,0,0,7.75,0,0,0,0,0,12,63,0,75,40,True,False,False,Left-arm medium,Left-hand bat
+St Lucia Zouks,J Royal,44a18ad8,8,0,0,0,0,0.0,"[11, 13]",2.0,12,4,0,19,1,1,0,0,0,0,1,9.5,1,0,0,0,0,0,4,8,12,26,True,False,False,Slow left-arm orthodox,Right-hand bat
+St Lucia Zouks,KOK Williams,78cb83f3,9,0,0,0,0,0.0,"[3, 6, 17, 19]",4.0,24,13,0,24,2,1,3,0,0,0,1,6.0,1,0,0,0,0,0,94,8,102,35,True,False,False,Right-arm fast-medium,Right-hand bat
+St Lucia Zouks,Fawad Ahmed,22ae3041,10,0,0,0,0,0.0,"[7, 9, 14, 16]",4.0,24,12,0,22,1,1,0,0,0,0,1,5.5,0,0,0,0,0,0,16,0,16,43,True,False,False,Legbreak googly,Right-hand bat

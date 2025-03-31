@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-France,Noman Naeem,74877950,1,12,22,1,0,54.55,"[10, 12]",2.0,12,0,0,27,3,0,0,0,0,0,2,13.5,1,0,0,0,-4,12,-6,8,14
-France,Noman Amjad,c079c66a,2,32,39,3,0,82.05,"[1, 3, 9, 16]",4.0,24,5,0,38,4,0,0,0,0,2,0,9.5,0,0,0,0,0,48,5,0,53
-France,JL Lambourdiere,045cd23a,3,9,16,0,0,56.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,5,0,0,5
-France,S Parvady,9fa16636,4,9,16,0,0,56.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,5,0,8,13
-France,P Alam,4d15045d,5,11,13,1,0,84.62,"[15, 17, 19]",3.0,18,4,0,28,1,0,1,0,0,1,3,9.33,0,0,0,0,0,15,29,0,44
-France,D Benoit,e8ffdab1,6,2,13,0,0,15.38,"[2, 4, 13, 20]",4.0,24,6,0,38,1,1,1,0,0,0,6,9.5,0,0,0,0,-6,-4,31,0,27
-France,Ammar Zahir,9da1b1bc,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-France,Riyas Bazirhak,b674038f,7,1,1,0,0,100.0,"[6, 14]",2.0,12,2,0,21,2,0,0,0,0,0,1,10.5,0,0,0,0,0,1,0,0,1
-France,Mobashar Ashraf,bbfdb0c8,8,0,0,0,0,0.0,"[8, 11, 18]",3.0,18,5,0,36,1,3,2,0,1,1,0,12.0,0,0,0,0,0,0,59,0,59
-France,Shahzeb Mohammed,eaa3b1b2,9,0,0,0,0,0.0,"[5, 7]",2.0,12,7,0,11,2,0,0,0,0,0,0,5.5,0,0,0,0,0,0,11,0,11
-France,D Amirdalingame,a5f4e7d6,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Germany,D Weston,92256e66,1,70,52,7,1,134.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,114,0,0,114
-Germany,Mudassar Muhammad,7dde58c9,2,78,49,7,1,159.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,128,0,0,128
-Germany,A Sarma,a5efce80,3,18,12,0,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
-Germany,Abdul-Shakoor Rahimzei,e45810ed,4,8,3,0,1,266.67,"[2, 4, 12, 14]",4.0,24,13,0,18,1,0,1,0,1,0,0,4.5,1,0,0,0,0,14,52,8,74
-Germany,R Pillai,7a7c7e57,5,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Germany,Asad Mohammad,89b7e368,6,8,2,0,1,400.0,"[9, 11]",2.0,12,3,0,11,0,0,0,0,0,0,0,5.5,0,0,0,0,0,14,7,0,21
-Germany,Izatullah Dawlatzai,f96933f0,7,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,17,0,9,1,0,1,0,1,0,1,2.25,0,0,0,0,0,0,56,0,56
-Germany,Ahmed Wardak,3daaabaa,8,0,0,0,0,0.0,"[5, 7, 16, 19]",4.0,24,12,0,19,2,0,0,0,0,0,1,4.75,0,0,0,0,0,0,18,0,18
-Germany,Talha Khan,8e5a1a7a,9,0,0,0,0,0.0,"[8, 10]",2.0,12,6,0,5,0,0,1,1,0,0,0,2.5,0,0,0,0,0,0,45,0,45
-Germany,Sajid Liaqat,b1b99a1a,10,0,0,0,0,0.0,"[6, 13, 15, 17]",4.0,24,13,0,16,1,0,1,0,0,0,0,4.0,0,0,0,0,0,0,44,0,44
-Germany,H Singh,8209da53,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+France,Noman Naeem,74877950,1,12,22,1,0,54.55,"[10, 12]",2.0,12,0,0,27,3,0,0,0,0,0,2,13.5,1,0,0,0,-4,12,-6,8,14,0,True,False,False,,Right-hand bat
+France,Noman Amjad,c079c66a,2,32,39,3,0,82.05,"[1, 3, 9, 16]",4.0,24,5,0,38,4,0,0,0,0,2,0,9.5,0,0,0,0,0,48,5,0,53,20,True,True,False,Right-arm medium-fast,Right-hand bat
+France,JL Lambourdiere,045cd23a,3,9,16,0,0,56.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,5,0,0,5,36,True,False,False,,
+France,S Parvady,9fa16636,4,9,16,0,0,56.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,5,0,8,13,0,True,False,False,,Right-hand bat
+France,P Alam,4d15045d,5,11,13,1,0,84.62,"[15, 17, 19]",3.0,18,4,0,28,1,0,1,0,0,1,3,9.33,0,0,0,0,0,15,29,0,44,0,True,True,False,Right-arm medium,Right-hand bat
+France,D Benoit,e8ffdab1,6,2,13,0,0,15.38,"[2, 4, 13, 20]",4.0,24,6,0,38,1,1,1,0,0,0,6,9.5,0,0,0,0,-6,-4,31,0,27,0,True,True,False,Right-arm medium,Right-hand bat
+France,Ammar Zahir,9da1b1bc,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,31,True,False,False,,Right-hand bat
+France,Riyas Bazirhak,b674038f,7,1,1,0,0,100.0,"[6, 14]",2.0,12,2,0,21,2,0,0,0,0,0,1,10.5,0,0,0,0,0,1,0,0,1,0,True,True,False,Right-arm medium,Right-hand bat
+France,Mobashar Ashraf,bbfdb0c8,8,0,0,0,0,0.0,"[8, 11, 18]",3.0,18,5,0,36,1,3,2,0,1,1,0,12.0,0,0,0,0,0,0,59,0,59,37,True,True,False,Slow left-arm orthodox,Right-hand bat
+France,Shahzeb Mohammed,eaa3b1b2,9,0,0,0,0,0.0,"[5, 7]",2.0,12,7,0,11,2,0,0,0,0,0,0,5.5,0,0,0,0,0,0,11,0,11,33,True,False,False,,
+France,D Amirdalingame,a5f4e7d6,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,True,True,False,Legbreak,Right-hand bat
+Germany,D Weston,92256e66,1,70,52,7,1,134.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,114,0,0,114,42,True,False,False,,Left-hand bat
+Germany,Mudassar Muhammad,7dde58c9,2,78,49,7,1,159.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,128,0,0,128,43,True,True,False,Right-arm offbreak,Right-hand bat
+Germany,A Sarma,a5efce80,3,18,12,0,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,42,True,False,False,,
+Germany,Abdul-Shakoor Rahimzei,e45810ed,4,8,3,0,1,266.67,"[2, 4, 12, 14]",4.0,24,13,0,18,1,0,1,0,1,0,0,4.5,1,0,0,0,0,14,52,8,74,26,True,True,False,Right-arm offbreak,Right-hand bat
+Germany,R Pillai,7a7c7e57,5,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,43,True,True,False,Right-arm medium,Right-hand bat
+Germany,Asad Mohammad,89b7e368,6,8,2,0,1,400.0,"[9, 11]",2.0,12,3,0,11,0,0,0,0,0,0,0,5.5,0,0,0,0,0,14,7,0,21,32,True,False,False,Right-arm medium,Right-hand bat
+Germany,Izatullah Dawlatzai,f96933f0,7,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,17,0,9,1,0,1,0,1,0,1,2.25,0,0,0,0,0,0,56,0,56,33,True,False,False,Right-arm fast-medium,Right-hand bat
+Germany,Ahmed Wardak,3daaabaa,8,0,0,0,0,0.0,"[5, 7, 16, 19]",4.0,24,12,0,19,2,0,0,0,0,0,1,4.75,0,0,0,0,0,0,18,0,18,37,True,True,False,Left-arm medium,Right-hand bat
+Germany,Talha Khan,8e5a1a7a,9,0,0,0,0,0.0,"[8, 10]",2.0,12,6,0,5,0,0,1,1,0,0,0,2.5,0,0,0,0,0,0,45,0,45,38,True,True,False,Right-arm offbreak,Left-hand bat
+Germany,Sajid Liaqat,b1b99a1a,10,0,0,0,0,0.0,"[6, 13, 15, 17]",4.0,24,13,0,16,1,0,1,0,0,0,0,4.0,0,0,0,0,0,0,44,0,44,39,True,False,False,Right-arm medium,Right-hand bat
+Germany,H Singh,8209da53,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,31,True,True,False,Right-arm medium,Right-hand bat

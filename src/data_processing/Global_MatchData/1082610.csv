@@ -1,23 +1,23 @@
-Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-Gujarat Lions,DR Smith,35205dfc,1,1,4,0,0,25.0,[11],1.0,6,0,0,17,0,2,0,0,0,0,1,17.0,1,0,0,0,0,1,0,8,9
-Gujarat Lions,BB McCullum,b8a55852,2,72,44,2,7,163.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,134,0,0,134
-Gujarat Lions,SK Raina,1dc12ab9,3,23,8,2,2,287.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,43,0,0,43
-Gujarat Lions,AJ Finch,b8d490fd,4,19,15,2,1,126.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33
-Gujarat Lions,KD Karthik,c03f1114,5,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
-Gujarat Lions,RA Jadeja,fe93fd9d,6,23,22,2,0,104.55,"[6, 8, 14, 20]",4.0,24,4,0,57,6,3,0,0,0,0,0,14.25,0,0,0,0,0,31,-2,0,29
-Gujarat Lions,Ishan Kishan,752f7486,7,39,16,2,4,243.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,81,0,0,81
-Gujarat Lions,AJ Tye,7c7d63a2,8,6,6,0,0,100.0,"[5, 9, 17, 19]",4.0,24,8,0,34,4,1,0,0,0,0,0,8.5,0,0,0,0,0,6,8,0,14
-Gujarat Lions,Basil Thampi,871e9faf,9,0,1,0,0,0.0,"[2, 4, 13, 18]",4.0,24,11,0,31,3,1,1,1,0,0,0,7.75,0,0,0,0,0,0,44,0,44
-Gujarat Lions,DS Kulkarni,d2a989fc,9,0,0,0,0,0.0,"[1, 3, 12, 16]",4.0,24,8,0,37,6,0,1,0,0,0,1,9.25,0,0,0,0,0,0,33,0,33
-Gujarat Lions,S Kaushik,1da489ff,10,0,0,0,0,0.0,"[7, 10, 15]",3.0,18,4,0,36,0,4,0,0,0,0,1,12.0,0,0,0,0,0,0,0,0,0
-Royal Challengers Bangalore,CH Gayle,db584dad,1,77,38,5,7,202.63,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,157,0,0,157
-Royal Challengers Bangalore,V Kohli,ba607b88,2,64,50,7,1,128.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,106,0,8,114
-Royal Challengers Bangalore,TM Head,12b610c2,3,30,16,2,1,187.5,"[16, 18]",2.0,12,1,0,18,0,1,0,0,0,0,0,9.0,0,0,0,0,6,54,1,0,55
-Royal Challengers Bangalore,KM Jadhav,99d63244,4,38,16,5,2,237.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,1,6,80,0,18,98
-Royal Challengers Bangalore,SR Watson,4329fbb5,9,0,0,0,0,0.0,"[8, 14]",2.0,12,1,0,24,1,2,0,0,0,0,0,12.0,1,0,0,0,0,0,-3,8,5
-Royal Challengers Bangalore,Mandeep Singh,c3a96caf,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-Royal Challengers Bangalore,STR Binny,bd17b45f,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-Royal Challengers Bangalore,P Negi,f62772e5,12,0,0,0,0,0.0,"[1, 5, 10, 12]",4.0,24,17,0,21,1,2,1,0,0,0,1,5.25,0,0,0,1,0,0,46,6,52
-Royal Challengers Bangalore,AF Milne,350bb1b1,13,0,0,0,0,0.0,"[7, 9, 13, 20]",4.0,24,5,0,43,4,2,1,0,0,0,3,10.75,1,0,0,0,0,0,28,8,36
-Royal Challengers Bangalore,S Aravind,957532de,14,0,0,0,0,0.0,"[3, 11, 17, 19]",4.0,24,7,0,53,3,5,1,0,0,0,1,13.25,0,0,0,0,0,0,26,0,26
-Royal Challengers Bangalore,YS Chahal,57ee1fde,15,0,0,0,0,0.0,"[2, 4, 6, 15]",4.0,24,8,0,31,1,2,3,0,0,0,1,7.75,1,0,0,0,0,0,87,8,95
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Gujarat Lions,DR Smith,35205dfc,1,1,4,0,0,25.0,[11],1.0,6,0,0,17,0,2,0,0,0,0,1,17.0,1,0,0,0,0,1,0,8,9,41,True,False,True,Right-arm medium,Right-hand bat
+Gujarat Lions,BB McCullum,b8a55852,2,72,44,2,7,163.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,134,0,0,134,43,True,True,False,Right-arm offbreak,Right-hand bat
+Gujarat Lions,SK Raina,1dc12ab9,3,23,8,2,2,287.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,43,0,0,43,38,True,False,False,Right-arm offbreak,Left-hand bat
+Gujarat Lions,AJ Finch,b8d490fd,4,19,15,2,1,126.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33,38,True,False,False,Slow left-arm orthodox,Right-hand bat
+Gujarat Lions,KD Karthik,c03f1114,5,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,39,True,True,False,Right-arm offbreak,Right-hand bat
+Gujarat Lions,RA Jadeja,fe93fd9d,6,23,22,2,0,104.55,"[6, 8, 14, 20]",4.0,24,4,0,57,6,3,0,0,0,0,0,14.25,0,0,0,0,0,31,-2,0,29,36,True,False,True,Slow left-arm orthodox,Left-hand bat
+Gujarat Lions,Ishan Kishan,752f7486,7,39,16,2,4,243.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,81,0,0,81,26,True,True,False,Legbreak,Left-hand bat
+Gujarat Lions,AJ Tye,7c7d63a2,8,6,6,0,0,100.0,"[5, 9, 17, 19]",4.0,24,8,0,34,4,1,0,0,0,0,0,8.5,0,0,0,0,0,6,8,0,14,38,True,False,False,Right-arm medium-fast,Right-hand bat
+Gujarat Lions,Basil Thampi,871e9faf,9,0,1,0,0,0.0,"[2, 4, 13, 18]",4.0,24,11,0,31,3,1,1,1,0,0,0,7.75,0,0,0,0,0,0,44,0,44,31,True,False,False,Right-arm fast-medium,Right-hand bat
+Gujarat Lions,DS Kulkarni,d2a989fc,9,0,0,0,0,0.0,"[1, 3, 12, 16]",4.0,24,8,0,37,6,0,1,0,0,0,1,9.25,0,0,0,0,0,0,33,0,33,36,True,False,False,Right-arm medium,Right-hand bat
+Gujarat Lions,S Kaushik,1da489ff,10,0,0,0,0,0.0,"[7, 10, 15]",3.0,18,4,0,36,0,4,0,0,0,0,1,12.0,0,0,0,0,0,0,0,0,0,29,True,False,False,Left-arm wrist-spin,Right-hand bat
+Royal Challengers Bangalore,CH Gayle,db584dad,1,77,38,5,7,202.63,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,157,0,0,157,45,True,False,True,Right-arm offbreak,Left-hand bat
+Royal Challengers Bangalore,V Kohli,ba607b88,2,64,50,7,1,128.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,106,0,8,114,36,True,False,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,TM Head,12b610c2,3,30,16,2,1,187.5,"[16, 18]",2.0,12,1,0,18,0,1,0,0,0,0,0,9.0,0,0,0,0,6,54,1,0,55,31,True,False,False,Right-arm offbreak,Left-hand bat
+Royal Challengers Bangalore,KM Jadhav,99d63244,4,38,16,5,2,237.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,1,6,80,0,18,98,40,True,False,True,Right-arm offbreak,Right-hand bat
+Royal Challengers Bangalore,SR Watson,4329fbb5,9,0,0,0,0,0.0,"[8, 14]",2.0,12,1,0,24,1,2,0,0,0,0,0,12.0,1,0,0,0,0,0,-3,8,5,43,True,False,True,Right-arm fast-medium,Right-hand bat
+Royal Challengers Bangalore,Mandeep Singh,c3a96caf,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,33,True,False,True,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,STR Binny,bd17b45f,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,40,True,False,True,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,P Negi,f62772e5,12,0,0,0,0,0.0,"[1, 5, 10, 12]",4.0,24,17,0,21,1,2,1,0,0,0,1,5.25,0,0,0,1,0,0,46,6,52,32,True,False,False,Slow left-arm orthodox,Left-hand bat
+Royal Challengers Bangalore,AF Milne,350bb1b1,13,0,0,0,0,0.0,"[7, 9, 13, 20]",4.0,24,5,0,43,4,2,1,0,0,0,3,10.75,1,0,0,0,0,0,28,8,36,32,True,False,False,Right-arm fast,Right-hand bat
+Royal Challengers Bangalore,S Aravind,957532de,14,0,0,0,0,0.0,"[3, 11, 17, 19]",4.0,24,7,0,53,3,5,1,0,0,0,1,13.25,0,0,0,0,0,0,26,0,26,40,True,False,False,Left-arm medium-fast,Left-hand bat
+Royal Challengers Bangalore,YS Chahal,57ee1fde,15,0,0,0,0,0.0,"[2, 4, 6, 15]",4.0,24,8,0,31,1,2,3,0,0,0,1,7.75,1,0,0,0,0,0,87,8,95,34,True,False,False,Legbreak googly,Right-hand bat
