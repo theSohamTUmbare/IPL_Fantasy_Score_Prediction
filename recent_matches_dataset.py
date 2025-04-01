@@ -60,43 +60,43 @@ with open('no_data.json', 'w') as f:
     }
     json.dump(no_data, f)
 
-# with open('C:\\Users\\bitso\\OneDrive\\Desktop\\ipl hackathon\\IPL_Fantasy_Score_Prediction\\save_matches\\matches.json') as file:
-#     matches_data = json.load(file)
-#     matches_data = {match_id.split(" ")[0]: data for match_id, data in matches_data.items()}
+with open('C:\\Users\\bitso\\OneDrive\\Desktop\\ipl hackathon\\IPL_Fantasy_Score_Prediction\\save_matches\\matches.json') as file:
+    matches_data = json.load(file)
+    matches_data = {match_id.split(" ")[0]: data for match_id, data in matches_data.items()}
 
 # # for match_id, data in matches_data.items():
 # #     print(match_id, data['venue_data'])
 # #     # exit()
 # #     break
-# recent_matches_df = pd.read_csv('IPL_Fantasy_Score_Prediction\matches_info.csv')
+recent_matches_df = pd.read_csv('updated_match_info\updated_matches_info.csv')
 
-# match_ids = recent_matches_df['match_id'].tolist()
-# for match_id in match_ids:
-#     match_data = matches_data.get(str(match_id))
-#     print(match_id)
-#     if match_data is None:
-#         no_venue_data.append(match_id)
-#         print(f"Match ID {match_id} not found in matches_data.")
-#         continue  # Skip to the next iteration if match_data is None
+match_ids = recent_matches_df['match_id'].tolist()
+for match_id in match_ids:
+    match_data = matches_data.get(str(match_id))
+    print(match_id)
+    if match_data is None:
+        no_venue_data.append(match_id)
+        print(f"Match ID {match_id} not found in matches_data.")
+        continue  # Skip to the next iteration if match_data is None
     
-#     venue_data = match_data.get('venue_data')
-#     if venue_data is None:
-#         no_venue_data.append(match_id)
-#         print(f"Venue data not found for Match ID {match_id}.")
-#         continue
-#     # print(venue_data)
-#     recent_matches_df.loc[recent_matches_df['match_id'] == match_id, 'venue_id'] = venue_data['venue_id']
-#     recent_matches_df.loc[recent_matches_df['match_id'] == match_id, 'venue_name'] = venue_data['venue_name']
-#     # matches,total_runs,total_wickets,bowled_wickets,caught_wickets,lbw_wickets
-#     recent_matches_df.loc[recent_matches_df['match_id'] == match_id, 'total_runs'] = int(venue_data['total_runs']) if not pd.isna(venue_data['total_runs']) else 0
-#     recent_matches_df.loc[recent_matches_df['match_id'] == match_id, 'total_wickets'] = int(venue_data['wickets']) if not pd.isna(venue_data['total_runs']) else 0
-#     recent_matches_df.loc[recent_matches_df['match_id'] == match_id, 'bowled_wickets'] = int(venue_data['bowled']) if not pd.isna(venue_data['total_runs']) else 0
-#     recent_matches_df.loc[recent_matches_df['match_id'] == match_id, 'caught_wickets'] = int(venue_data['caught']) if not pd.isna(venue_data['total_runs']) else 0
-#     recent_matches_df.loc[recent_matches_df['match_id'] == match_id, 'lbw_wickets'] = int(venue_data['lbw']) if not pd.isna(venue_data['total_runs']) else 0
-#     # recent_matches_df.to_csv('match_test.csv', index=False)
+    venue_data = match_data.get('venue_data')
+    if venue_data is None:
+        no_venue_data.append(match_id)
+        print(f"Venue data not found for Match ID {match_id}.")
+        continue
+    # print(venue_data)
+    recent_matches_df.loc[recent_matches_df['match_id'] == match_id, 'venue_id'] = venue_data['venue_id']
+    recent_matches_df.loc[recent_matches_df['match_id'] == match_id, 'venue_name'] = venue_data['venue_name']
+    # matches,total_runs,total_wickets,bowled_wickets,caught_wickets,lbw_wickets
+    recent_matches_df.loc[recent_matches_df['match_id'] == match_id, 'total_runs'] = int(venue_data['total_runs']) if not pd.isna(venue_data['total_runs']) else 0
+    recent_matches_df.loc[recent_matches_df['match_id'] == match_id, 'total_wickets'] = int(venue_data['wickets']) if not pd.isna(venue_data['total_runs']) else 0
+    recent_matches_df.loc[recent_matches_df['match_id'] == match_id, 'bowled_wickets'] = int(venue_data['bowled']) if not pd.isna(venue_data['total_runs']) else 0
+    recent_matches_df.loc[recent_matches_df['match_id'] == match_id, 'caught_wickets'] = int(venue_data['caught']) if not pd.isna(venue_data['total_runs']) else 0
+    recent_matches_df.loc[recent_matches_df['match_id'] == match_id, 'lbw_wickets'] = int(venue_data['lbw']) if not pd.isna(venue_data['total_runs']) else 0
+    # recent_matches_df.to_csv('match_test.csv', index=False)
 # #     break
 # # exit()
-# recent_matches_df.to_csv('IPL_Fantasy_Score_Prediction\matches_info.csv', index=False)
+recent_matches_df.to_csv('IPL_Fantasy_Score_Prediction\matches_info.csv', index=False)
 # # save no_player_data to json file
 # with open('no_data.json', 'w') as f:
 #     no_data = {
