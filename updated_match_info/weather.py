@@ -5,7 +5,10 @@ from retry_requests import retry
 import time
 
 # Load match data
-matches_df = pd.read_csv("updated_matches_info2.csv")
+matches_df = pd.read_csv("updated_original_matches_final.csv")
+
+def log_progress(current, total):
+    print(f"Processing match {current}/{total} ({(current/total)*100:.2f}%)")
 
 # Setup the Open-Meteo API client with cache and retry on error
 cache_session = requests_cache.CachedSession('.cache', expire_after=-1)
@@ -18,7 +21,10 @@ url = "https://archive-api.open-meteo.com/v1/archive"
 # List to store weather data
 weather_data = []
 
+total_matches = len(matches_df)
+
 for index, row in matches_df.iterrows():
+    log_progress(index + 1, total_matches)
     match_id = row["match_id"]
     latitude = row["venue_lat"]
     longitude = row["venue_long"]
