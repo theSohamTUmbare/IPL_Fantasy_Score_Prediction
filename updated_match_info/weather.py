@@ -5,7 +5,7 @@ from retry_requests import retry
 import time
 
 # Load match data
-matches_df = pd.read_csv("updated_matches_info2.csv")
+matches_df = pd.read_csv("updated_match_info/updated_matches_info2.csv")
 
 # Setup the Open-Meteo API client with cache and retry on error
 cache_session = requests_cache.CachedSession('.cache', expire_after=-1)
