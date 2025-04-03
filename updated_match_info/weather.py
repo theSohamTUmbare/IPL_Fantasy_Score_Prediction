@@ -40,7 +40,8 @@ for index, row in matches_df.iterrows():
         "start_date": match_date,
         "end_date": match_date,
         "daily": "apparent_temperature_mean",
-        "hourly": ["relative_humidity_2m", "apparent_temperature", "precipitation", "is_day", "temperature_2m_spread", "temperature_2m"]
+        # "hourly": ["relative_humidity_2m", "apparent_temperature", "precipitation" ]
+        "hourly": ["apparent_temperature", "relative_humidity_2m", "dew_point_2m", "precipitation"],
     }
 
     try:
@@ -82,3 +83,5 @@ weather_df = pd.DataFrame(weather_data, columns=[
 
 weather_df.to_csv("weather.csv", index=False)
 print("Weather data saved to weather.csv")
+
+

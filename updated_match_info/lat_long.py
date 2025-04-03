@@ -101,7 +101,7 @@ processed = 0
 
 for index, row in df[missing_venues].iterrows():
     venue_name = row["venue_name"]
-    city_name = row["city"] if "city" in df.columns else ""
+    city_name = row["town_name"] if "town_name" in df.columns else ""
 
     print(f"Fetching coordinates for: {venue_name}, {city_name} ...", end=" ")
 
