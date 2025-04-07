@@ -1,0 +1,17 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-03-14'],Scotland tour of United Arab Emirates,1421080,Scotland,11,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2024-03-13'],Scotland tour of United Arab Emirates,1421079,Scotland,11,0,0,0,0,0.0,"[8, 10, 14, 16]",4.0,24,10,0,19,1,0,0,0,0,0,0,4.75,0,0,0,0,0,0,16,0,16
+['2022-07-29'],New Zealand tour of Scotland,1307478,Scotland,11,3,6,0,0,50.0,"[1, 7, 11, 14]",4.0,24,6,0,54,2,6,1,0,0,0,0,13.5,0,0,0,0,0,3,25,0,28
+['2022-07-27'],New Zealand tour of Scotland,1307477,Scotland,11,0,0,0,0,0.0,"[1, 7, 14]",3.0,18,7,0,28,0,3,1,0,0,0,0,9.33,0,0,0,1,0,0,32,6,38
+['2021-11-07'],ICC Men's T20 World Cup,1273752,Scotland,11,0,0,0,0,0.0,"[1, 7, 11, 16]",4.0,24,10,0,24,1,1,1,0,0,0,0,6.0,0,0,0,0,0,0,37,0,37
+['2021-10-08'],Papua New Guinea v Scotland T20I Match,1280063,Scotland,11,0,0,0,0,0.0,"[8, 12, 15, 18]",4.0,24,8,0,35,2,2,2,0,0,0,0,8.75,1,0,0,0,0,0,58,8,66
+['2019-10-24'],ICC Men's T20 World Cup Qualifier,1199528,Scotland,11,0,0,0,0,0.0,"[7, 9, 13, 15]",4.0,24,12,1,25,3,1,2,2,0,0,0,6.25,0,0,0,0,0,0,92,0,92
+['2019-10-22'],ICC Men's T20 World Cup Qualifier,1199517,Scotland,11,0,0,0,0,0.0,"[7, 9, 11, 15]",4.0,24,9,0,18,1,0,1,0,0,0,0,4.5,0,0,0,0,0,0,40,0,40
+['2019-10-21'],ICC Men's T20 World Cup Qualifier,1199512,Scotland,11,0,0,0,0,0.0,"[7, 9, 11, 15]",4.0,24,7,0,24,0,1,3,0,1,0,0,6.0,0,0,0,0,0,0,96,0,96
+['2019-10-19'],ICC Men's T20 World Cup Qualifier,1199506,Scotland,11,0,0,0,0,0.0,"[7, 11, 14]",3.0,18,2,0,28,0,2,0,0,0,0,1,9.33,0,0,0,0,0,0,2,0,2
+['2019-10-18'],ICC Men's T20 World Cup Qualifier,1199499,Scotland,11,0,0,0,0,0.0,"[7, 9, 12, 15]",4.0,24,12,0,26,3,0,1,0,1,0,5,6.5,0,0,0,0,0,0,47,0,47
+['2019-09-19'],Ireland Tri-Nation T20I Series,1200428,Scotland,11,0,0,0,0,0.0,"[1, 8, 13, 19]",4.0,24,9,0,30,3,1,4,0,2,0,0,7.5,1,0,0,0,0,0,133,8,141
+['2019-09-17'],Ireland Tri-Nation T20I Series,1200426,Scotland,11,0,0,0,0,0.0,"[2, 7, 12, 15]",4.0,24,5,0,43,5,0,1,0,0,0,5,10.75,1,0,0,0,0,0,28,8,36
+['2018-06-20'],Netherlands Tri-Nation T20I Series,1142506,Scotland,11,0,0,0,0,0.0,"[4, 8, 10, 14]",4.0,24,10,0,26,0,2,3,0,2,0,0,6.5,0,0,0,0,0,0,107,0,107
+['2018-06-17'],Netherlands Tri-Nation T20I Series,1142504,Scotland,11,0,0,0,0,0.0,"[4, 8, 10, 14]",4.0,24,4,0,43,2,3,1,0,0,0,0,10.75,1,0,0,0,0,0,27,8,35
+['2018-06-12'],"Pakistan tour of Ireland, England and Scotland",1127300,Scotland,11,0,0,0,0,0.0,"[3, 10, 12, 16]",4.0,24,2,0,57,6,3,0,0,0,0,0,14.25,1,0,0,0,0,0,-4,8,4

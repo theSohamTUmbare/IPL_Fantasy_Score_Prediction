@@ -1,0 +1,7 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2021-08-22'],Sweden tour of Finland,1273148,Sweden,2,30,20,2,2,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,54,0,0,54
+['2021-08-22'],Sweden tour of Finland,1273149,Sweden,2,37,15,3,3,246.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,77,0,0,77
+['2021-08-21'],Sweden tour of Finland,1273146,Sweden,2,11,12,2,0,91.67,"[7, 9]",2.0,12,6,0,16,1,1,1,0,0,0,0,8.0,1,0,0,0,0,19,31,8,58
+['2021-08-21'],Sweden tour of Finland,1273147,Sweden,1,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2021-08-15'],Sweden tour of Denmark,1273134,Sweden,2,35,27,4,2,129.63,"[14, 16]",2.0,12,2,0,14,0,0,0,0,0,0,0,7.0,0,0,0,0,0,67,4,0,71
+['2021-08-14'],Sweden tour of Denmark,1273133,Sweden,2,18,22,1,1,81.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28

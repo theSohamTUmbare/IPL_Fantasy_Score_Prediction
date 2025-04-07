@@ -1,0 +1,3 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-05-13'],Valletta Cup,1310179,Gibraltar,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2022-05-10'],Valletta Cup,1310170,Gibraltar,11,0,0,0,0,0.0,"[7, 15, 17]",2.833,17,7,0,32,2,2,2,0,0,1,4,11.3,0,0,0,0,0,0,53,0,53

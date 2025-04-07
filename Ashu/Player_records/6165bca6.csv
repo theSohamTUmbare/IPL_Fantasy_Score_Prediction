@@ -1,0 +1,12 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2018-01-12'],Syed Mushtaq Ali Trophy,1130702,Tamil Nadu,2,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+['2018-01-11'],Syed Mushtaq Ali Trophy,1130692,Tamil Nadu,1,12,15,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
+['2018-01-09'],Syed Mushtaq Ali Trophy,1130676,Tamil Nadu,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2018-01-08'],Syed Mushtaq Ali Trophy,1130671,Tamil Nadu,2,9,12,0,1,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,15,0,12,27
+['2016-01-10'],Syed Mushtaq Ali Trophy,902229,Tamil Nadu,1,31,26,3,0,119.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,47,0,0,47
+['2016-01-07'],Syed Mushtaq Ali Trophy,902185,Tamil Nadu,1,67,35,7,3,191.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,127,0,0,127
+['2016-01-03'],Syed Mushtaq Ali Trophy,902115,Tamil Nadu,1,41,37,3,1,110.81,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,63,0,16,79
+['2016-01-02'],Syed Mushtaq Ali Trophy,902091,Tamil Nadu,1,9,7,2,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
+['2013-04-29'],Indian Premier League,598036,Royal Challengers Bangalore,1,19,21,1,0,90.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
+['2008-05-27'],Indian Premier League,336037,Chennai Super Kings,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
+['2008-05-24'],Indian Premier League,336033,Chennai Super Kings,8,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6

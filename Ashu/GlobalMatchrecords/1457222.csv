@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Saudi Arabia,Abdul Waheed,23fa9ea9,1,6,13,0,0,46.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,0,0,0,0
+Saudi Arabia,Faisal Khan,a7553f15,2,27,17,4,1,158.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,57,0,8,65
+Saudi Arabia,Usman Khalid,314f0889,3,4,5,1,0,80.0,"[6, 8, 14, 16]",4.0,24,11,0,25,4,0,2,0,1,0,0,6.25,0,0,0,0,0,8,71,0,79
+Saudi Arabia,Waji Ul Hassan,6892f9c3,4,17,27,0,0,62.96,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,15,0,0,15
+Saudi Arabia,Manan Ali,d0b643e1,5,33,28,1,3,117.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,59,0,8,67
+Saudi Arabia,Abdul Wahid,40aea524,6,16,10,1,1,160.0,"[13, 15]",2.0,12,3,0,28,1,3,0,0,0,0,0,14.0,1,0,0,0,4,30,-3,8,35
+Saudi Arabia,Zain Ul Abidin,b93b87ae,7,19,9,1,1,211.11,"[10, 12]",2.0,12,7,0,16,0,2,0,0,0,0,0,8.0,0,0,0,0,0,29,7,0,36
+Saudi Arabia,Usman Najeeb,615688b6,8,18,11,1,1,163.64,"[2, 4, 17, 19]",4.0,24,6,0,41,3,2,0,0,0,0,5,10.25,0,0,0,0,4,32,4,0,36
+Saudi Arabia,S Sankar,69997d9d,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Saudi Arabia,Ishtiaq Ahmad,056b433b,10,0,0,0,0,0.0,"[1, 3, 5, 7]",4.0,24,12,1,18,2,0,1,0,0,0,0,4.5,0,0,0,0,0,0,55,0,55
+Saudi Arabia,Shahzaib,befef38f,11,0,0,0,0,0.0,"[9, 11, 18, 20]",4.0,24,8,0,28,3,0,1,0,0,0,1,7.0,0,0,0,0,0,0,35,0,35
+United Arab Emirates,A Sharafu,06cad4f0,1,19,20,2,1,95.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33
+United Arab Emirates,Waseem Muhammad,6f02fe2a,2,17,11,2,1,154.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,35,0,8,43
+United Arab Emirates,Asif Khan,074acfb4,3,45,37,3,3,121.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,79,0,0,79
+United Arab Emirates,R Chopra,a71d0f89,4,58,36,6,2,161.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,106,0,0,106
+United Arab Emirates,Ali Naseer,f5715b48,5,6,9,0,0,66.67,"[11, 13]",2.0,12,5,0,14,1,1,0,0,0,0,0,7.0,0,0,0,0,0,6,7,0,13
+United Arab Emirates,Zuhaib Zubair,9124aa4c,6,5,7,0,0,71.43,"[10, 12, 17]",3.0,18,3,0,31,0,3,0,0,0,0,0,10.33,2,0,0,0,0,5,1,16,22
+United Arab Emirates,Syed Haider,ab23a6a1,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+United Arab Emirates,D Parashar,395179e8,8,0,0,0,0,0.0,"[4, 6, 8]",3.0,18,11,0,11,1,0,2,0,0,0,0,3.67,0,0,1,0,0,0,67,12,79
+United Arab Emirates,Junaid Siddique,84dc72db,9,0,0,0,0,0.0,"[1, 3, 15, 19]",4.0,24,6,0,36,4,1,0,0,0,0,1,9.0,0,0,0,0,0,0,6,0,6
+United Arab Emirates,Muhammad Jawadullah,098a757c,10,0,0,0,0,0.0,"[2, 14, 18, 20]",4.0,24,8,0,30,2,1,1,0,1,0,1,7.5,0,0,0,0,0,0,41,0,41
+United Arab Emirates,SS Kang,797ee165,11,0,0,0,0,0.0,"[5, 7, 9, 16]",4.0,24,13,0,20,1,1,2,0,0,0,0,5.0,1,0,0,0,0,0,67,8,75

@@ -1,0 +1,7 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2014-06-20'],NatWest T20 Blast,693119,Derbyshire,1,13,11,2,0,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
+['2014-06-13'],NatWest T20 Blast,693107,Derbyshire,1,32,25,3,1,128.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,54,0,0,54
+['2014-06-06'],NatWest T20 Blast,693085,Derbyshire,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2014-05-30'],NatWest T20 Blast,693063,Derbyshire,2,18,14,4,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34
+['2014-05-23'],NatWest T20 Blast,693041,Derbyshire,1,40,35,4,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,60,0,0,60
+['2014-05-16'],NatWest T20 Blast,693015,Derbyshire,1,24,15,5,0,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,48,0,0,48

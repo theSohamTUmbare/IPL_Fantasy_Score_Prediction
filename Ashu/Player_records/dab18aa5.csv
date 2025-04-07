@@ -1,0 +1,29 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-12-16'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462908,Bermuda,9,0,0,0,0,0.0,"[5, 7, 13, 17]",4.0,24,11,0,23,1,1,2,0,0,0,0,5.75,0,0,0,0,0,0,65,0,65
+['2024-12-15'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462906,Bermuda,7,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,12,0,25,1,2,3,0,1,0,0,6.25,0,0,0,1,0,0,101,6,107
+['2024-12-12'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462899,Bermuda,6,1,4,0,0,25.0,"[2, 4, 14]",3.0,18,15,1,7,1,0,2,0,1,0,0,2.33,0,0,0,0,0,1,91,0,92
+['2024-12-11'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462894,Bermuda,8,0,0,0,0,0.0,"[2, 4, 12, 14]",4.0,24,19,0,7,0,0,2,0,0,0,0,1.75,1,0,0,0,0,0,75,8,83
+['2024-12-10'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462890,Bermuda,9,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,16,1,11,0,0,1,0,1,0,0,2.75,0,0,0,0,0,0,67,0,67
+['2024-12-08'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462884,Bermuda,5,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,15,0,9,0,0,1,0,0,0,0,2.25,0,0,0,0,0,0,46,0,46
+['2024-12-07'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462882,Bermuda,7,12,8,2,0,150.0,"[4, 6, 8, 15]",4.0,24,17,0,8,0,0,2,0,1,0,1,2.0,0,0,0,0,0,20,81,0,101
+['2024-12-02'],Bermuda tour of Argentina,1462926,Bermuda,7,13,12,1,0,108.33,"[7, 9, 11]",3.0,18,8,0,13,0,0,1,0,0,0,0,4.33,0,0,0,0,0,17,39,0,56
+['2023-10-07'],ICC Men's T20 World Cup Americas Region Final,1399161,Bermuda,9,0,1,0,0,0.0,"[11, 15]",2.0,12,6,0,7,0,0,1,0,0,0,1,3.5,0,0,0,0,0,-2,37,0,35
+['2023-10-04'],ICC Men's T20 World Cup Americas Region Final,1399157,Bermuda,10,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,17,1,9,0,0,2,0,0,0,0,2.25,1,0,0,0,0,0,85,8,93
+['2023-10-03'],ICC Men's T20 World Cup Americas Region Final,1399155,Bermuda,8,9,8,0,0,112.5,"[7, 15, 17, 19]",4.0,24,16,0,19,0,2,5,0,0,0,1,4.75,1,0,0,0,0,9,159,8,176
+['2023-10-01'],ICC Men's T20 World Cup Americas Region Final,1399152,Bermuda,10,0,0,0,0,0.0,"[6, 8, 10, 18]",4.0,24,17,0,11,0,0,3,0,0,0,3,2.75,0,0,0,0,0,0,102,0,102
+['2023-09-30'],ICC Men's T20 World Cup Americas Region Final,1399150,Bermuda,10,1,3,0,0,33.33,[11],1.0,6,2,0,15,0,2,1,0,0,0,0,15.0,0,0,0,0,0,1,27,0,28
+['2023-03-04'],ICC Men's T20 World Cup Americas Region Qualifier,1359800,Bermuda,10,0,0,0,0,0.0,"[4, 14, 16, 18]",4.0,24,13,0,15,1,0,4,1,0,0,0,3.75,1,0,0,0,0,0,135,8,143
+['2023-02-28'],ICC Men's T20 World Cup Americas Region Qualifier,1359789,Bermuda,11,0,0,0,0,0.0,"[4, 11, 13, 15]",4.0,24,11,0,34,3,2,0,0,0,0,2,8.5,0,0,0,0,0,0,11,0,11
+['2023-02-26'],ICC Men's T20 World Cup Americas Region Qualifier,1359793,Bermuda,11,0,0,0,0,0.0,"[6, 8, 10, 12]",4.0,24,12,0,18,2,0,1,0,0,0,0,4.5,0,0,0,0,0,0,43,0,43
+['2023-02-25'],ICC Men's T20 World Cup Americas Region Qualifier,1359795,Bermuda,10,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,14,1,13,1,0,2,0,0,0,0,3.25,0,0,0,0,0,0,82,0,82
+['2023-02-22'],Bermuda tour of Argentina,1359787,Bermuda,10,0,0,0,0,0.0,"[4, 10, 12, 14]",4.0,24,13,0,19,2,0,1,0,0,0,0,4.75,0,0,0,0,0,0,44,0,44
+['2023-02-21'],Bermuda tour of Argentina,1359786,Bermuda,10,0,0,0,0,0.0,"[1, 8, 10, 12]",4.0,24,12,1,20,1,1,1,0,0,0,0,5.0,0,0,0,0,0,0,53,0,53
+['2019-10-26'],ICC Men's T20 World Cup Qualifier,1199534,Bermuda,9,0,3,0,0,0.0,[5],1.0,6,2,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,0,-2,2,0,0
+['2019-10-23'],ICC Men's T20 World Cup Qualifier,1199520,Bermuda,10,23,21,2,1,109.52,[2],1.0,6,0,0,24,1,3,0,0,0,0,0,24.0,0,0,0,0,0,37,0,0,37
+['2019-10-19'],ICC Men's T20 World Cup Qualifier,1199503,Bermuda,11,0,0,0,0,0.0,"[2, 4]",2.0,12,6,0,21,4,0,0,0,0,0,1,10.5,0,0,0,0,0,0,4,0,4
+['2019-08-25'],ICC Men's T20 World Cup Americas Region Final,1197407,Bermuda,8,0,0,0,0,0.0,"[5, 10]",2.0,12,5,0,19,2,1,1,0,0,0,0,9.5,0,0,0,0,0,0,30,0,30
+['2019-08-19'],ICC Men's T20 World Cup Americas Region Final,1197398,Bermuda,8,0,1,0,0,0.0,[2],1.0,6,3,0,9,0,1,0,0,0,0,1,9.0,0,0,0,0,0,-2,3,0,1
+['2013-11-26'],ICC World Twenty20 Qualifier,660205,Bermuda,8,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,8,0,22,0,1,0,0,0,0,0,5.5,0,0,0,0,0,0,12,0,12
+['2013-11-21'],ICC World Twenty20 Qualifier,660169,Bermuda,11,0,0,0,0,0.0,"[5, 7]",2.0,12,3,0,22,2,1,1,0,1,0,0,11.0,0,0,0,0,0,0,34,0,34
+['2013-11-16'],ICC World Twenty20 Qualifier,660111,Bermuda,10,0,0,0,0,0.0,"[3, 5, 7, 9]",4.0,24,11,0,29,2,1,3,2,1,0,1,7.25,0,0,0,0,0,0,114,0,114
+['2013-11-15'],ICC World Twenty20 Qualifier,660099,Bermuda,10,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,8,0,29,2,1,2,0,1,0,0,7.25,1,0,0,0,0,0,66,8,74

@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-09-06'],Australia tour of Scotland,1440464,Scotland,5,5,6,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
+['2024-05-22'],Netherlands Tri-Nation T20I Series,1428154,Scotland,3,9,11,1,0,81.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+['2024-05-18'],Netherlands Tri-Nation T20I Series,1428151,Scotland,3,6,8,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6
+['2024-03-14'],Scotland tour of United Arab Emirates,1421080,Scotland,3,16,27,1,1,59.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,0,0,-4,22,0,28,50
+['2024-03-13'],Scotland tour of United Arab Emirates,1421079,Scotland,4,16,11,3,0,145.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,30,0,0,30

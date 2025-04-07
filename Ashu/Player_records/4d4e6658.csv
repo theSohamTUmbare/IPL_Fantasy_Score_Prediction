@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2018-01-15'],Syed Mushtaq Ali Trophy,1130717,Railways,2,11,18,0,0,61.11,"[8, 10, 12, 14]",4.0,24,8,0,28,1,1,1,0,1,1,1,7.0,0,0,0,0,-2,9,43,0,52
+['2018-01-10'],Syed Mushtaq Ali Trophy,1130685,Railways,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2018-01-09'],Syed Mushtaq Ali Trophy,1130677,Railways,2,9,11,2,0,81.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,17,0,12,29

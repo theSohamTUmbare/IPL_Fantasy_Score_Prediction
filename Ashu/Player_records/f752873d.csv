@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2015-01-30'],ACC Twenty20 Cup,811135,Kuwait,1,5,12,0,0,41.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-1,0,0,-1
+['2015-01-27'],ACC Twenty20 Cup,811121,Kuwait,1,63,26,6,5,242.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,131,0,8,139
+['2015-01-26'],ACC Twenty20 Cup,811117,Kuwait,2,13,19,0,0,68.42,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,11,0,0,11

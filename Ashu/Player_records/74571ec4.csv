@@ -1,0 +1,7 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-06-16'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436492,Austria,7,0,0,0,0,0.0,"[2, 4, 6, 8]",4.0,24,17,0,10,1,0,1,0,0,0,0,2.5,0,0,0,0,0,0,48,0,48
+['2024-06-15'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436488,Austria,11,0,0,0,0,0.0,"[2, 4, 6, 19]",4.0,24,10,0,37,4,1,1,0,0,1,2,9.25,0,0,0,0,0,0,35,0,35
+['2024-06-12'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436480,Austria,10,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,7,0,26,3,1,0,0,0,0,0,8.67,0,0,0,0,0,0,7,0,7
+['2024-06-10'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436475,Austria,10,0,0,0,0,0.0,"[2, 4, 6, 8]",4.0,24,17,0,11,1,0,3,0,1,0,2,2.75,0,0,0,0,0,0,110,0,110
+['2024-06-09'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436474,Austria,6,1,2,0,0,50.0,"[2, 4, 17, 19]",4.0,24,9,0,40,4,2,3,0,1,0,0,10.0,1,0,0,0,0,1,94,8,103
+['2018-09-02'],ICC World Twenty20 Europe Region Qualifier A,1155315,Austria,8,5,2,1,0,250.0,"[4, 6, 18, 20]",4.0,24,10,0,23,0,0,3,0,0,0,5,5.75,1,0,0,0,0,9,93,8,110

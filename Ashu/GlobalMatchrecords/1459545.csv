@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Rangpur Riders,AD Hales,92aeac25,1,113,56,10,7,201.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,217,0,0,217
+Rangpur Riders,Azizul Hakim,cb57dcf4,2,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+Rangpur Riders,Saif Hassan,bb95564b,3,80,49,3,8,163.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,156,0,0,156
+Rangpur Riders,Iftikhar Ahmed,29e253dd,4,8,4,0,1,200.0,[10],1.0,6,3,0,4,0,0,0,0,0,0,0,4.0,0,0,0,0,0,14,3,0,17
+Rangpur Riders,Khushdil Shah,fce581b5,5,0,0,0,0,0.0,"[7, 16]",2.0,12,2,0,21,0,2,0,0,0,0,0,10.5,0,0,0,0,0,0,0,0,0
+Rangpur Riders,Mohammad Saifuddin,b3a28446,6,0,0,0,0,0.0,"[1, 6, 14, 19]",4.0,24,9,0,31,3,1,2,0,0,1,0,7.75,0,0,0,0,0,0,59,0,59
+Rangpur Riders,Nurul Hasan,d365d463,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Rangpur Riders,Mahedi Hasan,9dad0f2e,8,0,0,0,0,0.0,"[2, 9, 13, 15]",4.0,24,10,0,38,4,2,1,1,0,0,1,9.5,1,0,0,0,0,0,43,8,51
+Rangpur Riders,Nahid Rana,5318ee68,9,0,0,0,0,0.0,"[4, 8, 12, 18]",4.0,24,7,0,45,1,5,0,0,0,0,1,11.25,1,0,0,0,0,0,3,8,11
+Rangpur Riders,Akif Javed,99d7d5b7,10,0,0,0,0,0.0,"[3, 5, 17, 20]",4.0,24,8,0,51,2,5,1,0,0,1,3,12.75,0,0,0,0,0,0,27,0,27
+Rangpur Riders,Rakibul Hasan,77768f72,11,0,0,0,0,0.0,[11],1.0,6,1,0,13,1,1,0,0,0,0,0,13.0,0,0,0,0,0,0,1,0,1
+Sylhet Strikers,Rony Talukdar,8bd614b2,1,54,32,7,3,168.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,112,0,0,112
+Sylhet Strikers,HG Munsey,ff014c34,2,18,12,1,2,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34
+Sylhet Strikers,Zakir Hasan,e3e09091,3,50,38,0,4,131.58,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,84,0,0,84
+Sylhet Strikers,PR Stirling,cf494ffe,4,16,16,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
+Sylhet Strikers,Aaron Jones,17aa4f1d,5,38,17,1,4,223.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,76,0,0,76
+Sylhet Strikers,Jaker Ali,cd56a813,6,20,5,0,3,400.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,38,0,0,38
+Sylhet Strikers,Ariful Haque,ad1730bc,7,0,0,0,0,0.0,"[10, 12, 16]",3.0,18,4,0,51,2,6,0,0,0,0,0,17.0,1,0,0,0,0,0,-2,8,6
+Sylhet Strikers,Tanzim Hasan Sakib,0b0cc297,8,0,0,0,0,0.0,"[1, 3, 15, 18]",4.0,24,10,0,23,2,0,2,0,0,0,2,5.75,1,0,0,0,0,0,64,8,72
+Sylhet Strikers,Nihaduzzaman,eca6dcb2,9,0,0,0,0,0.0,"[5, 7, 9, 11]",4.0,24,8,0,44,3,3,0,0,0,0,5,11.0,0,0,0,0,0,0,6,0,6
+Sylhet Strikers,RJW Topley,8db7f47f,10,0,0,0,0,0.0,"[2, 8, 14, 17]",4.0,24,7,0,37,3,2,0,0,0,0,0,9.25,0,0,0,0,0,0,7,0,7
+Sylhet Strikers,Al-Amin Hossain,3f5f39cd,11,0,0,0,0,0.0,"[4, 6, 13, 19]",4.0,24,8,0,53,3,5,0,0,0,0,0,13.25,0,0,0,0,0,0,2,0,2

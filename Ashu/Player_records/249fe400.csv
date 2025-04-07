@@ -1,0 +1,7 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-07-12'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321259,Sweden,10,0,0,0,0,0.0,"[2, 4]",2.0,12,4,0,15,2,0,0,0,0,0,1,7.5,1,0,0,0,0,0,4,8,12
+['2022-06-10'],Germany T20 Tri-Series,1318360,Sweden,11,0,1,0,0,0.0,"[2, 4]",2.0,12,6,0,16,1,0,1,0,1,0,2,8.0,0,0,0,0,0,-2,39,0,37
+['2022-06-09'],Germany T20 Tri-Series,1318358,Sweden,11,2,4,0,0,50.0,"[1, 3]",2.0,12,7,0,12,2,0,0,0,0,0,0,6.0,0,0,0,0,0,2,9,0,11
+['2021-08-21'],Sweden tour of Finland,1273146,Sweden,11,0,0,0,0,0.0,[1],1.0,6,2,0,8,1,0,0,0,0,0,2,8.0,2,0,0,0,0,0,2,16,18
+['2021-08-21'],Sweden tour of Finland,1273147,Sweden,10,0,0,0,0,0.0,"[5, 7]",2.0,12,7,0,8,1,0,0,0,0,0,0,4.0,0,0,0,0,0,0,13,0,13
+['2021-08-15'],Sweden tour of Denmark,1273134,Sweden,11,2,5,0,0,40.0,"[1, 3, 5, 7]",4.0,24,16,0,18,2,0,0,0,0,0,1,4.5,0,0,0,0,0,2,22,0,24

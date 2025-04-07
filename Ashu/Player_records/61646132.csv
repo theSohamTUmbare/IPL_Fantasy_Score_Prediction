@@ -1,0 +1,10 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2025-01-30'],Bangladesh Premier League,1459576,Sylhet Strikers,9,4,5,0,0,80.0,"[8, 11, 13, 16]",4.0,24,5,0,36,2,2,2,0,0,0,0,9.0,1,0,0,0,0,4,55,8,67
+['2025-01-27'],Bangladesh Premier League,1459572,Sylhet Strikers,1,9,12,0,1,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
+['2025-01-23'],Bangladesh Premier League,1459568,Sylhet Strikers,7,9,13,0,0,69.23,"[8, 10, 12]",3.0,18,7,0,15,1,0,1,0,0,0,0,5.0,0,0,0,0,-2,7,36,0,43
+['2025-01-20'],Bangladesh Premier League,1459563,Sylhet Strikers,7,12,4,1,1,300.0,"[7, 9, 11, 13]",4.0,24,11,0,27,1,2,2,0,0,0,0,6.75,0,0,0,0,0,22,63,0,85
+['2024-12-31'],Bangladesh Premier League,1459540,Sylhet Strikers,7,8,14,0,0,57.14,"[10, 12]",2.0,12,4,0,16,1,1,1,0,0,0,0,8.0,0,0,0,0,-4,4,29,0,33
+['2017-11-28'],Bangladesh Premier League,1121275,Rangpur Riders,6,0,2,0,0,0.0,"[7, 9, 11, 13]",4.0,24,3,0,28,0,1,0,0,0,0,0,7.0,1,0,0,0,0,0,5,8,13
+['2017-11-08'],Bangladesh Premier League,1121251,Rangpur Riders,6,0,1,0,0,0.0,"[8, 10]",2.0,12,0,0,23,0,2,0,0,0,0,0,11.5,0,0,0,0,0,-2,-4,0,-6
+['2013-02-11'],Bangladesh Premier League,599899,Khulna Royal Bengals,7,2,2,0,0,100.0,"[4, 8, 14, 18]",4.0,24,9,0,33,2,2,1,1,0,0,0,8.25,0,0,0,0,0,2,42,0,44
+['2013-01-20'],Bangladesh Premier League,599869,Khulna Royal Bengals,6,3,4,0,0,75.0,[8],1.0,6,0,0,15,2,0,0,0,0,0,0,15.0,0,0,0,0,0,3,0,0,3

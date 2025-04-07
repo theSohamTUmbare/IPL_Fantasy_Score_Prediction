@@ -1,0 +1,10 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2015-07-10'],NatWest T20 Blast,804637,Leicestershire,7,6,9,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6
+['2015-07-04'],NatWest T20 Blast,804627,Leicestershire,6,5,3,0,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
+['2015-07-03'],NatWest T20 Blast,804613,Leicestershire,2,11,13,2,0,84.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
+['2015-06-26'],NatWest T20 Blast,804597,Leicestershire,6,40,26,4,1,153.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,70,0,0,70
+['2015-06-19'],NatWest T20 Blast,804565,Leicestershire,3,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2015-06-05'],NatWest T20 Blast,804517,Leicestershire,4,14,14,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,22,0,8,30
+['2014-05-30'],NatWest T20 Blast,693065,Lancashire,7,21,18,0,1,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,27,0,8,35
+['2014-05-29'],NatWest T20 Blast,693049,Lancashire,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2014-05-23'],NatWest T20 Blast,693041,Lancashire,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0

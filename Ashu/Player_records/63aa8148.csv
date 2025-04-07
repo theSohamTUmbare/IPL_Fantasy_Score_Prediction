@@ -1,0 +1,7 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-08-28'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1443787,Malta,5,1,2,0,0,50.0,"[6, 8, 14, 20]",3.5,21,7,0,17,0,0,3,0,1,0,2,4.86,0,0,0,0,0,1,100,0,101
+['2024-08-27'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1443785,Malta,9,23,14,3,0,164.29,"[6, 8, 10, 12]",4.0,24,6,0,31,3,0,0,0,0,0,3,7.75,0,0,0,0,4,39,6,0,45
+['2024-08-22'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1443772,Malta,9,3,2,0,0,150.0,"[6, 8]",2.0,12,5,0,21,1,2,1,0,0,0,0,10.5,0,0,0,0,0,3,28,0,31
+['2024-05-11'],Mdina Cup,1432198,Malta,10,0,1,0,0,0.0,"[14, 16, 18]",2.167,13,6,0,19,3,0,1,0,0,0,1,8.77,0,0,0,0,0,0,31,0,31
+['2024-05-10'],Mdina Cup,1432197,Malta,10,3,7,0,0,42.86,"[14, 16, 18]",3.0,18,11,0,20,1,0,2,0,1,0,3,6.67,1,0,0,0,0,3,71,8,82
+['2023-07-15'],Valletta Cup,1384596,Malta,10,0,1,0,0,0.0,"[7, 9]",2.0,12,5,0,21,1,2,0,0,0,0,0,10.5,0,0,0,0,0,-2,3,0,1

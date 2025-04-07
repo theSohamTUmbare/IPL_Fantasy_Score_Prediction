@@ -1,0 +1,11 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-06-23'],Vitality Blast,1347670,Worcestershire,9,1,2,0,0,50.0,"[2, 5, 11, 19]",4.0,24,10,0,49,4,3,1,0,0,0,5,12.25,0,0,0,0,0,1,29,0,30
+['2023-06-20'],Vitality Blast,1347657,Worcestershire,9,0,0,0,0,0.0,"[4, 7, 19]",3.0,18,3,0,35,3,2,2,0,0,0,2,11.67,0,0,0,0,0,0,49,0,49
+['2023-06-18'],Vitality Blast,1347653,Worcestershire,9,0,0,0,0,0.0,"[2, 5, 16]",3.0,18,8,0,25,0,2,1,0,0,2,1,8.33,0,0,0,0,0,0,33,0,33
+['2021-06-11'],Vitality Blast,1250249,Worcestershire,10,0,0,0,0,0.0,"[1, 5]",2.0,12,6,0,12,2,0,1,0,0,0,0,6.0,0,0,0,0,0,0,33,0,33
+['2021-06-09'],Vitality Blast,1250238,Worcestershire,10,0,0,0,0,0.0,"[3, 18, 20]",3.0,18,5,0,29,1,3,0,0,0,0,0,9.67,1,0,1,0,0,0,5,20,25
+['2017-08-16'],NatWest T20 Blast,1068411,Worcestershire,10,2,1,0,0,200.0,"[1, 3, 5, 15]",4.0,24,7,0,38,7,0,1,0,0,0,0,9.5,0,0,0,0,0,2,32,0,34
+['2017-08-13'],NatWest T20 Blast,1068404,Worcestershire,10,1,1,0,0,100.0,"[2, 4, 6, 16]",4.0,24,12,0,32,4,1,2,0,0,0,1,8.0,1,0,0,0,0,1,62,8,71
+['2017-08-11'],NatWest T20 Blast,1068397,Worcestershire,9,0,0,0,0,0.0,"[1, 3]",2.0,12,8,0,10,2,0,0,0,0,0,0,5.0,0,0,0,0,0,0,12,0,12
+['2017-08-04'],NatWest T20 Blast,1068388,Worcestershire,10,0,0,0,0,0.0,[1],1.0,6,3,0,12,2,0,0,0,0,0,3,12.0,0,0,0,0,0,0,3,0,3
+['2017-07-30'],NatWest T20 Blast,1068369,Worcestershire,11,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,5,0,30,2,2,0,0,0,0,1,10.0,1,0,0,0,0,0,3,8,11

@@ -1,0 +1,12 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-12-21'],Gulf T20I Championship,1463667,United Arab Emirates,11,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,12,0,17,0,1,2,0,0,0,0,4.25,1,0,0,0,0,0,68,8,76
+['2024-12-19'],Gulf T20I Championship,1463664,United Arab Emirates,9,0,0,0,0,0.0,"[6, 9, 11]",3.0,18,6,0,20,1,1,2,0,1,0,0,6.67,0,0,0,0,0,0,66,0,66
+['2024-12-18'],Gulf T20I Championship,1463663,United Arab Emirates,11,0,0,0,0,0.0,"[5, 7, 9, 12]",4.0,24,10,0,15,0,0,4,0,0,0,0,3.75,0,0,0,0,0,0,124,0,124
+['2024-12-16'],Gulf T20I Championship,1463659,United Arab Emirates,11,0,0,0,0,0.0,"[7, 9, 14]",3.0,18,1,0,31,1,1,0,0,0,0,1,10.33,0,0,0,0,0,0,-1,0,-1
+['2024-12-15'],Gulf T20I Championship,1463656,United Arab Emirates,10,0,0,0,0,0.0,"[7, 9, 13]",3.0,18,5,0,23,3,0,0,0,0,0,0,7.67,0,0,0,0,0,0,5,0,5
+['2024-12-13'],Gulf T20I Championship,1463652,United Arab Emirates,10,0,0,0,0,0.0,"[8, 10]",2.0,12,4,0,8,0,0,1,0,0,0,0,4.0,0,0,0,0,0,0,35,0,35
+['2024-11-28'],ICC Men's T20 World Cup Asia Qualifier B,1459278,United Arab Emirates,11,0,0,0,0,0.0,"[8, 10, 12]",3.0,18,6,0,15,1,0,0,0,0,0,0,5.0,2,0,0,0,0,0,10,16,26
+['2024-11-26'],ICC Men's T20 World Cup Asia Qualifier B,1457234,United Arab Emirates,11,0,0,0,0,0.0,"[4, 6, 12]",3.0,18,10,0,24,0,3,2,1,0,0,0,8.0,0,0,0,0,0,0,68,0,68
+['2024-11-23'],ICC Men's T20 World Cup Asia Qualifier B,1457227,United Arab Emirates,9,0,0,0,0,0.0,"[8, 12]",2.0,12,8,0,7,1,0,1,0,0,0,0,3.5,0,0,0,0,0,0,39,0,39
+['2024-11-22'],ICC Men's T20 World Cup Asia Qualifier B,1457223,United Arab Emirates,11,0,0,0,0,0.0,"[4, 6, 12, 14]",4.0,24,11,0,16,0,0,0,0,0,0,1,4.0,0,0,0,0,0,0,17,0,17
+['2024-11-20'],ICC Men's T20 World Cup Asia Qualifier B,1457222,United Arab Emirates,11,0,0,0,0,0.0,"[5, 7, 9, 16]",4.0,24,13,0,20,1,1,2,0,0,0,0,5.0,1,0,0,0,0,0,67,8,75

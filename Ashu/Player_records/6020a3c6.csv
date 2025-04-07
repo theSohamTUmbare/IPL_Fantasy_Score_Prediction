@@ -1,0 +1,14 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-09-24'],Caribbean Premier League,1428703,Trinbago Knight Riders,2,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2024-09-22'],Caribbean Premier League,1428702,Trinbago Knight Riders,2,13,14,1,0,92.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,17,0,8,25
+['2024-09-19'],Caribbean Premier League,1428697,Trinbago Knight Riders,4,8,13,0,0,61.54,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,6,0,0,6
+['2024-09-18'],Caribbean Premier League,1428696,Trinbago Knight Riders,3,10,16,0,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,8,0,0,8
+['2024-09-13'],Caribbean Premier League,1428692,Trinbago Knight Riders,5,32,21,1,1,152.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,50,0,0,50
+['2024-09-10'],Caribbean Premier League,1428689,Trinbago Knight Riders,5,15,22,0,0,68.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,13,0,0,13
+['2024-09-05'],Caribbean Premier League,1428685,Trinbago Knight Riders,5,34,22,0,4,154.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,66,0,0,66
+['2024-08-31'],Caribbean Premier League,1428680,Trinbago Knight Riders,5,73,35,9,3,208.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,141,0,8,149
+['2023-09-24'],Caribbean Premier League,1369591,Trinbago Knight Riders,4,38,45,2,1,84.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,56,0,0,56
+['2023-09-20'],Caribbean Premier League,1369589,Trinbago Knight Riders,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2023-09-16'],Caribbean Premier League,1369585,Trinbago Knight Riders,4,83,49,7,4,169.39,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,151,0,0,151
+['2022-09-22'],Caribbean Premier League,1323169,St Kitts and Nevis Patriots,3,5,11,0,0,45.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-1,0,0,-1
+['2022-09-21'],Caribbean Premier League,1323167,St Kitts and Nevis Patriots,6,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1

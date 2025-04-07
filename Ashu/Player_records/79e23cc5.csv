@@ -1,0 +1,10 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-07-19'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321277,Serbia,5,15,9,3,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,27,0,8,35
+['2022-07-18'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321274,Serbia,6,9,17,0,0,52.94,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,-4,5,0,6,11
+['2022-07-09'],Bulgaria tour of Serbia,1323551,Serbia,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2022-07-09'],Bulgaria tour of Serbia,1323552,Serbia,3,5,9,1,0,55.56,"[12, 14]",2.0,12,4,0,23,3,1,1,0,0,0,0,11.5,0,0,0,0,0,9,25,0,34
+['2022-07-08'],Bulgaria tour of Serbia,1323550,Serbia,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2022-06-26'],Sofia Twenty20,1317139,Serbia,5,1,1,0,0,100.0,"[11, 13]",2.0,12,2,0,37,0,5,1,0,1,0,3,18.5,0,0,0,0,0,1,29,0,30
+['2022-06-25'],Sofia Twenty20,1317137,Serbia,6,2,4,0,0,50.0,"[10, 12]",2.0,12,3,0,32,1,4,0,0,0,0,0,16.0,0,0,0,0,0,2,-3,0,-1
+['2022-06-25'],Sofia Twenty20,1317138,Serbia,4,4,3,1,0,133.33,"[10, 12]",1.833,11,3,0,27,2,2,0,0,0,1,1,14.73,0,0,0,0,0,8,3,0,11
+['2022-06-24'],Sofia Twenty20,1317136,Serbia,5,1,2,0,0,50.0,"[7, 9, 11, 13]",4.0,24,9,0,32,6,0,1,0,1,0,1,8.0,0,0,0,0,0,1,42,0,43

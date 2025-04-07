@@ -1,0 +1,38 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2025-01-20'],Bangladesh Premier League,1459564,Chittagong Kings,2,7,4,1,0,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19
+['2025-01-19'],Bangladesh Premier League,1459561,Chittagong Kings,1,19,13,3,1,146.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,2,39,0,6,45
+['2025-01-17'],Bangladesh Premier League,1459560,Chittagong Kings,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2025-01-16'],Bangladesh Premier League,1459558,Chittagong Kings,2,10,7,2,0,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
+['2025-01-13'],Bangladesh Premier League,1459555,Chittagong Kings,1,53,35,8,1,151.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,4,103,0,16,119
+['2025-01-09'],Bangladesh Premier League,1459550,Chittagong Kings,2,55,33,7,3,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,113,0,0,113
+['2025-01-03'],Bangladesh Premier League,1459543,Chittagong Kings,2,123,62,13,6,198.39,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,233,0,8,241
+['2024-12-31'],Bangladesh Premier League,1459539,Chittagong Kings,3,18,15,2,1,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,32,0,8,40
+['2024-12-13'],Pakistan tour of South Africa,1432212,Pakistan,4,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2024-12-10'],Pakistan tour of South Africa,1432211,Pakistan,4,9,8,1,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+['2024-12-05'],Pakistan tour of Zimbabwe,1444654,Pakistan,3,5,8,1,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,9,0,6,15
+['2024-12-03'],Pakistan tour of Zimbabwe,1444653,Pakistan,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2024-12-01'],Pakistan tour of Zimbabwe,1444652,Pakistan,3,39,30,2,2,130.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,2,0,1,2,65,0,30,95
+['2024-11-18'],Pakistan tour of Australia,1426554,Pakistan,4,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11
+['2024-11-16'],Pakistan tour of Australia,1426553,Pakistan,4,52,38,4,1,136.84,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,84,0,0,84
+['2024-11-14'],Pakistan tour of Australia,1426552,Pakistan,4,4,5,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16
+['2024-06-16'],ICC Men's T20 World Cup,1415736,Pakistan,5,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2024-06-11'],ICC Men's T20 World Cup,1415722,Pakistan,5,2,1,0,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2024-06-09'],ICC Men's T20 World Cup,1415719,Pakistan,3,13,15,1,0,86.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,17,0,8,25
+['2024-06-06'],ICC Men's T20 World Cup,1415711,Pakistan,3,3,3,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2024-05-30'],Pakistan tour of England,1385690,Pakistan,3,38,21,3,2,180.95,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,72,0,0,72
+['2024-04-27'],New Zealand tour of Pakistan,1424833,Pakistan,3,31,24,3,1,129.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,53,0,6,59
+['2024-04-25'],New Zealand tour of Pakistan,1424832,Pakistan,3,16,11,3,0,145.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,30,0,0,30
+['2024-04-21'],New Zealand tour of Pakistan,1424831,Pakistan,4,5,7,0,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
+['2024-04-20'],New Zealand tour of Pakistan,1424830,Pakistan,4,7,6,1,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
+['2024-04-18'],New Zealand tour of Pakistan,1424829,Pakistan,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2023-02-08'],Bangladesh Premier League,1351091,Chattogram Challengers,1,2,8,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,2,0,12,14
+['2023-02-07'],Bangladesh Premier League,1351088,Chattogram Challengers,5,30,28,4,0,107.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,50,0,0,50
+['2023-02-04'],Bangladesh Premier League,1351086,Chattogram Challengers,2,52,41,4,3,126.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,94,0,8,102
+['2023-01-28'],Bangladesh Premier League,1351079,Chattogram Challengers,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2023-01-23'],Bangladesh Premier League,1351072,Chattogram Challengers,1,4,3,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16
+['2023-01-20'],Bangladesh Premier League,1351070,Chattogram Challengers,1,45,30,7,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,83,0,0,83
+['2023-01-16'],Bangladesh Premier League,1351065,Chattogram Challengers,1,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2023-01-14'],Bangladesh Premier League,1351063,Chattogram Challengers,1,22,21,3,0,104.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,34,0,12,46
+['2023-01-13'],Bangladesh Premier League,1351060,Chattogram Challengers,1,36,19,3,3,189.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,76,0,0,76
+['2023-01-09'],Bangladesh Premier League,1351057,Chattogram Challengers,1,103,57,10,5,180.7,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,195,0,0,195
+['2023-01-06'],Bangladesh Premier League,1351052,Chattogram Challengers,6,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10

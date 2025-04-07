@@ -1,0 +1,12 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-11-15'],Syed Mushtaq Ali Trophy,1205815,Tripura,10,0,0,0,0,0.0,"[3, 5, 9, 11]",4.0,24,8,0,29,1,2,1,0,0,0,0,7.25,0,0,0,0,0,0,33,0,33
+['2019-11-12'],Syed Mushtaq Ali Trophy,1205771,Tripura,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2019-11-11'],Syed Mushtaq Ali Trophy,1205761,Tripura,11,0,0,0,0,0.0,"[5, 7, 14]",3.0,18,4,0,26,2,1,0,0,0,0,0,8.67,0,0,0,0,0,0,4,0,4
+['2019-11-09'],Syed Mushtaq Ali Trophy,1205734,Tripura,10,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,10,0,18,1,0,1,1,0,0,0,4.5,0,0,0,0,0,0,49,0,49
+['2019-11-08'],Syed Mushtaq Ali Trophy,1205717,Tripura,10,0,0,0,0,0.0,"[9, 11]",2.0,12,3,0,17,0,1,0,0,0,0,0,8.5,0,0,0,0,0,0,3,0,3
+['2019-02-22'],Syed Mushtaq Ali Trophy,1157124,Tripura,9,0,0,0,0,0.0,"[6, 9, 11]",3.0,18,5,0,31,3,1,0,0,0,0,1,10.33,0,0,0,0,0,0,3,0,3
+['2019-02-21'],Syed Mushtaq Ali Trophy,1157104,Tripura,11,1,3,0,0,33.33,"[8, 10, 12, 15]",4.0,24,11,0,22,2,0,0,0,0,0,0,5.5,0,0,0,0,0,1,15,0,16
+['2018-01-14'],Syed Mushtaq Ali Trophy,1130688,Tripura,11,0,0,0,0,0.0,"[7, 9]",2.0,12,3,0,19,0,2,0,0,0,0,0,9.5,0,0,0,0,0,0,3,0,3
+['2018-01-12'],Syed Mushtaq Ali Trophy,1130723,Tripura,10,2,4,0,0,50.0,"[7, 9, 11, 13]",4.0,24,8,0,18,0,0,1,1,0,0,0,4.5,0,0,0,0,0,2,47,0,49
+['2018-01-10'],Syed Mushtaq Ali Trophy,1130700,Tripura,10,1,2,0,0,50.0,"[9, 11, 13, 15]",4.0,24,7,0,28,3,0,1,0,0,0,2,7.0,0,0,0,0,0,1,34,0,35
+['2018-01-08'],Syed Mushtaq Ali Trophy,1130666,Tripura,9,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,2,0,32,1,1,0,0,0,0,1,8.0,0,0,1,0,0,0,2,12,14

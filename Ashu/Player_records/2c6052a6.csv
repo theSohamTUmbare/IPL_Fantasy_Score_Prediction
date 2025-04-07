@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-06-16'],Jersey tour of Denmark,1438073,Denmark,8,22,19,0,0,115.79,[6],1.0,6,1,0,18,4,0,0,0,0,0,0,18.0,0,0,0,0,0,22,1,0,23
+['2024-06-16'],Jersey tour of Denmark,1438074,Denmark,6,12,13,1,0,92.31,[5],1.0,6,0,0,18,2,1,0,0,0,0,0,18.0,0,0,0,0,0,16,0,0,16
+['2023-07-24'],ICC Men's T20 World Cup Europe Region Qualifier,1383078,Denmark,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2023-07-23'],ICC Men's T20 World Cup Europe Region Qualifier,1383076,Denmark,8,2,5,0,0,40.0,[6],1.0,6,1,0,17,4,0,0,0,0,0,0,17.0,0,0,0,0,0,2,1,0,3
+['2023-07-21'],ICC Men's T20 World Cup Europe Region Qualifier,1383071,Denmark,10,8,7,1,0,114.29,"[4, 6, 11]",3.0,18,8,0,28,3,1,1,0,1,0,2,9.33,0,0,0,0,0,12,41,0,53

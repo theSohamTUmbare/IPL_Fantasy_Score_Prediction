@@ -1,0 +1,28 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-02-25'],Syed Mushtaq Ali Trophy,1157145,Tamil Nadu,8,3,2,0,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2018-01-25'],Syed Mushtaq Ali Trophy,1133420,Tamil Nadu,7,32,20,2,2,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,60,0,0,60
+['2018-01-24'],Syed Mushtaq Ali Trophy,1133416,Tamil Nadu,7,37,26,3,1,142.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,61,0,0,61
+['2018-01-23'],Syed Mushtaq Ali Trophy,1133411,Tamil Nadu,7,6,4,1,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+['2018-01-08'],Syed Mushtaq Ali Trophy,1130671,Tamil Nadu,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2016-01-03'],Syed Mushtaq Ali Trophy,902115,Tamil Nadu,2,15,14,2,0,107.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,23,0,8,31
+['2016-01-02'],Syed Mushtaq Ali Trophy,902091,Tamil Nadu,2,54,47,8,0,114.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,94,0,0,94
+['2014-05-24'],Indian Premier League,734037,Sunrisers Hyderabad,6,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2013-04-15'],Indian Premier League,598015,Chennai Super Kings,1,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2012-05-17'],Indian Premier League,548371,Chennai Super Kings,8,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2012-05-14'],Indian Premier League,548368,Chennai Super Kings,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,0,0,6,6
+['2012-05-12'],Indian Premier League,548364,Chennai Super Kings,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2012-05-10'],Indian Premier League,548361,Chennai Super Kings,8,18,5,1,2,360.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34
+['2011-05-04'],Indian Premier League,501240,Chennai Super Kings,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2011-05-01'],Indian Premier League,501236,Chennai Super Kings,7,3,2,0,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2011-04-27'],Indian Premier League,501228,Chennai Super Kings,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
+['2011-04-25'],Indian Premier League,501226,Chennai Super Kings,7,7,7,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,7,0,0,7
+['2011-04-22'],Indian Premier League,501221,Chennai Super Kings,6,9,9,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,15,0,8,23
+['2011-04-18'],Indian Premier League,501215,Chennai Super Kings,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
+['2011-04-16'],Indian Premier League,501211,Chennai Super Kings,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0,0,28,28
+['2011-04-13'],Indian Premier League,501206,Chennai Super Kings,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,-2,0,6,4
+['2011-04-08'],Indian Premier League,501198,Chennai Super Kings,1,64,55,6,2,116.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,108,0,0,108
+['2010-04-25'],Indian Premier League,419165,Chennai Super Kings,7,6,3,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+['2010-04-22'],Indian Premier League,419163,Chennai Super Kings,7,24,15,1,2,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,44,0,8,52
+['2010-04-13'],Indian Premier League,419153,Chennai Super Kings,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2010-04-03'],Indian Premier League,419137,Chennai Super Kings,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
+['2008-05-06'],Indian Premier League,336007,Chennai Super Kings,3,1,7,0,0,14.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1

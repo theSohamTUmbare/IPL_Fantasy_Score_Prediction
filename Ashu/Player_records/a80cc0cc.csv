@@ -1,0 +1,12 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-04-15'],ACC Men's Premier Cup,1426468,Kuwait,11,0,0,0,0,0.0,"[2, 13, 15]",3.0,18,6,0,30,4,1,1,0,0,0,1,10.0,0,0,0,0,0,0,29,0,29
+['2024-04-13'],ACC Men's Premier Cup,1426459,Kuwait,11,0,0,0,0,0.0,"[1, 3, 20]",3.0,18,9,0,22,2,1,1,0,0,0,1,7.33,0,0,0,1,0,0,34,6,40
+['2024-04-12'],ACC Men's Premier Cup,1426456,Kuwait,11,0,0,0,0,0.0,"[1, 3, 5, 17]",4.0,24,9,0,49,2,5,2,1,1,0,0,12.25,0,0,0,0,0,0,69,0,69
+['2023-09-22'],Gulf Cricket T20I Championship,1397438,Kuwait,11,2,3,0,0,66.67,"[1, 3, 17, 19]",4.0,24,5,0,38,2,1,0,0,0,1,3,9.5,0,0,0,0,0,2,5,0,7
+['2023-09-18'],Gulf Cricket T20I Championship,1392808,Kuwait,11,0,1,0,0,0.0,"[2, 5, 18]",3.0,18,5,0,35,5,1,0,0,0,0,1,11.67,0,0,0,0,0,0,1,0,1
+['2023-09-16'],Gulf Cricket T20I Championship,1392805,Kuwait,10,0,0,0,0,0.0,"[1, 3, 5, 20]",4.0,24,7,0,34,1,2,0,0,0,0,2,8.5,0,0,0,0,0,0,7,0,7
+['2023-09-15'],Gulf Cricket T20I Championship,1392802,Kuwait,10,0,0,0,0,0.0,"[1, 3, 6]",3.0,18,8,0,21,2,0,1,0,1,0,3,7.0,0,0,0,0,0,0,43,0,43
+['2023-03-12'],Quadrangular Twenty20 Series (Hong Kong),1361776,Kuwait,8,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,13,0,33,5,1,2,0,1,0,3,8.25,0,0,0,0,0,0,71,0,71
+['2023-03-11'],Quadrangular Twenty20 Series (Hong Kong),1361774,Kuwait,10,0,0,0,0,0.0,"[1, 3, 13]",3.0,18,9,0,20,0,1,0,0,0,1,1,6.67,0,0,0,0,0,0,11,0,11
+['2023-03-09'],Quadrangular Twenty20 Series (Hong Kong),1361773,Kuwait,11,0,1,0,0,0.0,"[1, 3, 17, 19]",4.0,24,8,0,38,3,2,2,0,0,0,3,9.5,0,0,0,0,0,0,58,0,58
+['2022-08-17'],Bahrain tour of Oman,1328473,Kuwait,11,0,0,0,0,0.0,"[2, 4, 6, 16]",4.0,24,16,0,14,2,0,3,3,0,0,0,3.5,0,0,0,0,0,0,125,0,125

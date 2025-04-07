@@ -1,0 +1,13 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-09-29'],Singapore Twenty20 Tri-Series,1201682,Zimbabwe,7,4,4,0,0,100.0,"[3, 15, 17]",3.0,18,4,0,32,4,0,1,0,0,0,1,10.67,0,0,0,0,0,4,27,0,31
+['2019-09-27'],Singapore Twenty20 Tri-Series,1201680,Zimbabwe,10,0,0,0,0,0.0,"[4, 6, 16, 19]",4.0,24,9,0,31,4,0,1,0,0,0,4,7.75,0,0,0,0,0,0,34,0,34
+['2019-09-18'],Bangladesh Twenty20 Tri-Series,1197143,Zimbabwe,8,9,15,0,0,60.0,[11],1.0,6,0,0,10,1,0,0,0,0,0,0,10.0,1,0,0,0,-2,7,0,8,15
+['2019-09-13'],Bangladesh Twenty20 Tri-Series,1197140,Zimbabwe,8,0,0,0,0,0.0,"[8, 10, 14, 18]",3.667,22,10,0,25,3,0,2,0,0,0,2,6.82,1,0,0,0,0,0,62,8,70
+['2016-06-22'],India in Zimbabwe T20I Series,1007659,Zimbabwe,9,0,0,0,0,0.0,"[5, 14, 16, 20]",4.0,24,10,0,32,2,1,1,0,1,0,2,8.0,0,0,0,0,0,0,43,0,43
+['2016-06-20'],India in Zimbabwe T20I Series,1007657,Zimbabwe,9,1,2,0,0,50.0,"[2, 5, 14]",2.167,13,6,0,19,3,0,0,0,0,0,0,8.77,0,0,0,0,0,1,6,0,7
+['2016-06-18'],India in Zimbabwe T20I Series,1007655,Zimbabwe,9,5,5,0,0,100.0,"[2, 4, 16, 20]",4.0,24,8,0,34,4,0,1,0,0,0,4,8.5,0,0,0,0,0,5,33,0,38
+['2016-01-22'],Walton T20 Cricket Series,958421,Zimbabwe,10,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,11,0,34,5,1,4,0,2,0,1,8.5,0,0,0,0,0,0,135,0,135
+['2016-01-17'],Walton T20 Cricket Series,958417,Zimbabwe,7,0,4,0,0,0.0,"[2, 5, 14]",3.0,18,6,0,30,2,2,0,0,0,0,0,10.0,0,0,0,0,0,-2,4,0,2
+['2015-11-15'],Zimbabwe in Bangladesh T20I Series,931398,Zimbabwe,8,28,18,3,2,155.56,"[2, 4, 18, 20]",4.0,24,12,0,25,0,2,2,0,1,1,0,6.25,0,0,0,0,4,60,72,0,132
+['2015-11-13'],Zimbabwe in Bangladesh T20I Series,931396,Zimbabwe,8,1,3,0,0,33.33,"[2, 4, 17]",3.0,18,6,0,24,2,0,0,0,0,0,6,8.0,0,0,0,0,0,1,6,0,7
+['2015-07-17'],India in Zimbabwe T20I Series,885969,Zimbabwe,9,14,10,1,1,140.0,"[4, 6, 17, 19]",4.0,24,4,0,46,4,1,0,0,0,1,3,11.5,0,0,0,0,2,26,0,0,26

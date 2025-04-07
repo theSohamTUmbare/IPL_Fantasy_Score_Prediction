@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-06-15'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436488,Hungary,7,7,4,1,0,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
+['2024-06-13'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436483,Hungary,8,17,22,1,0,77.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,21,0,8,29
+['2024-06-09'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436472,Hungary,7,6,5,0,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6

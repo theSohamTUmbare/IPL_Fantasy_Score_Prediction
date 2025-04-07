@@ -1,0 +1,10 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-10-13'],South American Men's Championships,1453909,Argentina,11,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,7,0,26,1,0,1,0,0,1,5,6.5,1,0,0,0,0,0,34,8,42
+['2023-03-04'],ICC Men's T20 World Cup Americas Region Qualifier,1359802,Argentina,10,0,0,0,0,0.0,"[9, 13]",2.0,12,3,0,17,2,0,0,0,0,0,1,8.5,0,0,0,0,0,0,3,0,3
+['2023-03-02'],ICC Men's T20 World Cup Americas Region Qualifier,1359798,Argentina,11,0,0,0,0,0.0,"[12, 14, 18]",3.0,18,8,0,15,0,1,1,0,0,0,0,5.0,0,0,0,0,0,0,37,0,37
+['2023-02-26'],ICC Men's T20 World Cup Americas Region Qualifier,1359793,Argentina,11,5,7,1,0,71.43,"[7, 11, 15]",3.0,18,4,0,26,3,0,0,0,0,0,2,8.67,0,0,0,0,0,9,4,0,13
+['2023-02-25'],ICC Men's T20 World Cup Americas Region Qualifier,1359794,Argentina,11,0,0,0,0,0.0,"[10, 16]",2.0,12,7,0,7,0,0,2,0,1,1,1,3.5,0,0,0,0,0,0,71,0,71
+['2023-02-21'],Bermuda tour of Argentina,1359786,Argentina,11,0,0,0,0,0.0,"[10, 12]",2.0,12,6,0,9,0,0,1,0,0,0,2,4.5,0,0,0,0,0,0,37,0,37
+['2021-11-13'],ICC Men's T20 World Cup Americas Region Qualifier,1286685,Argentina,10,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+['2021-11-10'],ICC Men's T20 World Cup Americas Region Qualifier,1286675,Argentina,11,0,0,0,0,0.0,"[16, 18]",2.0,12,5,0,13,1,0,1,0,0,0,2,6.5,0,0,0,0,0,0,32,0,32
+['2021-11-08'],ICC Men's T20 World Cup Americas Region Qualifier,1286671,Argentina,11,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,10,0,28,0,2,2,0,0,1,2,7.0,1,0,0,0,0,0,62,8,70

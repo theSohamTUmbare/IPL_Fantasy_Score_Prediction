@@ -1,0 +1,18 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-10-03'],Singapore Twenty20 Tri-Series,1201685,Zimbabwe,1,92,60,9,6,153.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,180,0,8,188
+['2019-10-01'],Singapore Twenty20 Tri-Series,1201683,Zimbabwe,3,21,12,1,2,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,43,0,8,51
+['2019-07-12'],Zimbabwe tour of Netherlands and Ireland,1168521,Zimbabwe,7,4,2,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+['2019-06-25'],Zimbabwe tour of Netherlands and Ireland,1188380,Zimbabwe,6,7,10,0,0,70.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,5,0,0,5
+['2019-06-23'],Zimbabwe tour of Netherlands and Ireland,1188379,Zimbabwe,7,2,7,0,0,28.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2018-10-12'],Zimbabwe tour of South Africa,1144150,Zimbabwe,6,9,9,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+['2018-10-09'],Zimbabwe tour of South Africa,1144149,Zimbabwe,6,44,21,1,5,209.52,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,88,0,0,88
+['2018-07-06'],Zimbabwe Twenty20 Tri-Series,1142918,Zimbabwe,5,30,29,2,1,103.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,48,0,0,48
+['2018-07-04'],Zimbabwe Twenty20 Tri-Series,1142916,Zimbabwe,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2018-07-03'],Zimbabwe Twenty20 Tri-Series,1142915,Zimbabwe,5,19,11,2,1,172.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,39,0,8,47
+['2018-07-01'],Zimbabwe Twenty20 Tri-Series,1142913,Zimbabwe,5,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
+['2016-06-22'],India in Zimbabwe T20I Series,1007659,Zimbabwe,4,26,21,0,3,123.81,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,48,0,0,48
+['2016-06-20'],India in Zimbabwe T20I Series,1007657,Zimbabwe,3,31,32,2,1,96.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,49,0,0,49
+['2016-01-22'],Walton T20 Cricket Series,958421,Zimbabwe,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2016-01-20'],Walton T20 Cricket Series,958419,Zimbabwe,7,10,4,0,1,250.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
+['2016-01-17'],Walton T20 Cricket Series,958417,Zimbabwe,6,9,13,0,0,69.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,7,0,0,7
+['2016-01-15'],Walton T20 Cricket Series,958415,Zimbabwe,8,7,2,0,1,350.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13

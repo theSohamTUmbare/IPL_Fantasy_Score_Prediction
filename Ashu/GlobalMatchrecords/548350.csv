@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Kings XI Punjab,Mandeep Singh,c3a96caf,1,43,30,6,1,143.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,79,0,0,79
+Kings XI Punjab,SE Marsh,508a1ea7,2,8,10,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+Kings XI Punjab,N Saini,addbde6c,3,50,36,5,0,138.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,80,0,8,88
+Kings XI Punjab,DJ Hussey,fd835ab3,4,45,29,2,4,155.17,"[15, 18]",2.0,12,2,0,9,0,0,0,0,0,0,0,4.5,0,0,0,0,4,85,8,0,93
+Kings XI Punjab,Azhar Mahmood,9a158001,5,2,4,0,0,50.0,"[9, 11, 16, 20]",4.0,24,10,0,20,1,0,3,0,0,0,1,5.0,0,0,0,0,0,2,93,0,95
+Kings XI Punjab,AM Nayar,a45a5e8d,6,2,3,0,0,66.67,[14],1.0,6,0,0,16,0,2,0,0,0,0,0,16.0,0,0,0,0,0,2,0,0,2
+Kings XI Punjab,P Dogra,2728e7e9,7,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+Kings XI Punjab,PP Chawla,98ae73b1,8,6,2,0,1,300.0,"[10, 12, 17]",3.0,18,7,0,35,2,3,1,0,1,0,2,11.67,1,0,0,0,0,12,36,8,56
+Kings XI Punjab,RJ Harris,12eddf28,9,0,0,0,0,0.0,"[2, 4]",2.0,12,5,0,21,3,1,1,0,1,0,0,10.5,0,0,0,0,0,0,36,0,36
+Kings XI Punjab,P Kumar,e938e1bc,10,0,0,0,0,0.0,"[1, 3, 5, 7]",4.0,24,16,0,8,0,0,0,0,0,0,0,2.0,0,0,0,0,0,0,22,0,22
+Kings XI Punjab,P Awana,1a0c3177,11,0,0,0,0,0.0,"[6, 8, 13, 19]",4.0,24,4,0,48,5,2,0,0,0,0,2,12.0,0,0,0,0,0,0,0,0,0
+Royal Challengers Bangalore,MA Agarwal,00ea847a,1,7,9,0,1,77.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+Royal Challengers Bangalore,CH Gayle,db584dad,2,71,42,6,4,169.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,131,0,0,131
+Royal Challengers Bangalore,V Kohli,ba607b88,3,45,42,3,2,107.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,73,0,12,85
+Royal Challengers Bangalore,AB de Villiers,c4487b84,4,17,13,1,1,130.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,2,29,0,12,41
+Royal Challengers Bangalore,AB McDonald,16043342,5,9,10,1,0,90.0,"[5, 7, 14, 17]",4.0,24,9,0,25,3,0,2,0,1,0,0,6.25,0,0,0,0,0,13,69,0,82
+Royal Challengers Bangalore,AUK Pathan,3ae3f034,6,2,3,0,0,66.67,[16],1.0,6,2,0,14,0,2,0,0,0,0,0,14.0,0,0,0,0,0,2,2,0,4
+Royal Challengers Bangalore,SS Tiwary,709b0bac,7,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Royal Challengers Bangalore,DL Vettori,d7c6af50,8,0,0,0,0,0.0,"[8, 10, 12, 18]",4.0,24,5,0,29,2,0,0,0,0,0,0,7.25,1,0,0,0,0,0,5,8,13
+Royal Challengers Bangalore,R Vinay Kumar,41eb4a4f,9,0,0,0,0,0.0,"[2, 4, 6, 20]",3.833,23,8,0,32,3,1,0,0,0,0,0,8.35,0,0,0,1,0,0,8,6,14
+Royal Challengers Bangalore,Z Khan,91a4a398,10,0,0,0,0,0.0,"[1, 3, 15, 19]",4.0,24,11,0,31,4,1,0,0,0,0,2,7.75,0,0,0,0,0,0,11,0,11
+Royal Challengers Bangalore,KP Appanna,d92e42f5,11,0,0,0,0,0.0,"[9, 11, 13]",3.0,18,6,0,30,2,2,1,1,0,0,0,10.0,0,0,0,1,0,0,37,6,43

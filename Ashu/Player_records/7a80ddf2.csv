@@ -1,0 +1,20 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-03-10'],England tour of West Indies,1158073,West Indies,9,3,3,0,0,100.0,"[9, 11]",1.5,9,6,1,11,1,1,1,0,1,0,0,7.33,0,0,0,0,0,3,51,0,54
+['2019-03-08'],England tour of West Indies,1158072,West Indies,9,8,20,1,0,40.0,"[9, 11]",2.0,12,1,0,17,2,0,0,0,0,0,0,8.5,1,0,0,0,-6,6,1,8,15
+['2018-09-09'],Caribbean Premier League,1148676,Guyana Amazon Warriors,10,0,0,0,0,0.0,"[9, 13, 15]",3.0,18,1,0,31,0,3,0,0,0,0,0,10.33,1,0,0,0,0,0,-1,8,7
+['2018-08-24'],Caribbean Premier League,1148661,Guyana Amazon Warriors,10,0,0,0,0,0.0,"[8, 10, 15, 18]",4.0,24,6,0,54,6,3,1,0,1,0,1,13.5,0,0,0,0,0,0,33,0,33
+['2018-08-18'],Caribbean Premier League,1148657,Guyana Amazon Warriors,11,0,0,0,0,0.0,"[4, 7, 12]",3.0,18,3,0,34,1,2,1,0,0,0,0,11.33,0,0,0,0,0,0,24,0,24
+['2016-06-30'],Caribbean Premier League,994669,Guyana Amazon Warriors,11,0,0,0,0,0.0,"[9, 11, 13]",3.0,18,5,0,28,1,2,0,0,0,0,0,9.33,0,0,0,0,0,0,5,0,5
+['2015-11-09'],West Indies in Sri Lanka T20I Series,915783,West Indies,11,6,5,1,0,120.0,[8],1.0,6,0,0,11,0,1,0,0,0,0,0,11.0,0,0,0,0,0,10,0,0,10
+['2015-07-25'],Caribbean Premier League,857765,Guyana Amazon Warriors,11,2,3,0,0,66.67,"[7, 9, 15, 17]",4.0,24,16,1,15,0,1,1,0,0,0,0,3.75,0,0,0,0,0,2,59,0,61
+['2015-07-21'],Caribbean Premier League,857761,Guyana Amazon Warriors,11,0,0,0,0,0.0,"[12, 15, 17, 19]",4.0,24,9,0,19,1,0,2,0,1,0,1,4.75,0,0,0,0,0,0,73,0,73
+['2015-07-18'],Caribbean Premier League,857757,Guyana Amazon Warriors,11,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,13,0,23,2,1,2,0,1,0,0,5.75,0,0,0,0,0,0,75,0,75
+['2015-07-17'],Caribbean Premier League,857753,Guyana Amazon Warriors,11,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,8,0,19,1,0,0,0,0,0,0,4.75,2,0,0,0,0,0,14,16,30
+['2015-07-08'],Caribbean Premier League,857735,Guyana Amazon Warriors,10,0,0,0,0,0.0,"[8, 10, 15, 17]",4.0,24,9,0,19,0,1,1,0,0,0,0,4.75,0,0,0,0,0,0,40,0,40
+['2015-07-04'],Caribbean Premier League,857729,Guyana Amazon Warriors,10,5,6,0,0,83.33,"[13, 16, 18, 20]",3.833,23,10,0,24,2,1,4,0,1,1,0,6.26,0,0,0,0,0,5,128,0,133
+['2015-07-03'],Caribbean Premier League,857723,Guyana Amazon Warriors,9,0,0,0,0,0.0,"[12, 14]",2.0,12,4,0,13,1,0,2,0,0,0,1,6.5,0,0,0,0,0,0,56,0,56
+['2013-08-13'],Caribbean Premier League,635229,Barbados Tridents,10,8,5,1,0,160.0,"[8, 10]",2.0,12,7,0,14,1,1,0,0,0,0,0,7.0,0,0,0,0,0,12,9,0,21
+['2011-09-25'],West Indies in England T20I Series,525817,West Indies,10,0,0,0,0,0.0,"[7, 9, 11, 17]",3.667,22,13,0,22,2,1,1,1,0,0,0,6.0,0,0,1,0,0,0,46,12,58
+['2011-09-23'],West Indies in England T20I Series,525816,West Indies,10,0,1,0,0,0.0,"[8, 10, 12, 14]",4.0,24,7,0,28,2,0,0,0,0,1,1,7.0,0,0,0,0,0,0,9,0,9
+['2011-06-04'],NA,489220,West Indies,10,0,0,0,0,0.0,"[11, 13, 17, 19]",4.0,24,9,0,31,2,1,1,0,0,0,0,7.75,0,0,0,0,0,0,34,0,34
+['2011-04-21'],NA,489212,West Indies,10,0,0,0,0,0.0,"[7, 9, 11, 17]",4.0,24,15,0,17,1,0,4,0,1,1,0,4.25,0,0,0,0,0,0,137,0,137

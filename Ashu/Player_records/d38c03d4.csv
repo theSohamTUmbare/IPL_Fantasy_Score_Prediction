@@ -1,0 +1,14 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-10-20'],Syed Mushtaq Ali Trophy,1333017,Uttarakhand,4,36,25,3,1,144.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,60,0,0,60
+['2022-10-18'],Syed Mushtaq Ali Trophy,1332999,Uttarakhand,5,10,8,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,14,0,6,20
+['2022-10-16'],Syed Mushtaq Ali Trophy,1332978,Uttarakhand,4,12,13,1,0,92.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24
+['2022-10-11'],Syed Mushtaq Ali Trophy,1332927,Uttarakhand,4,4,8,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,4,0,16,20
+['2021-11-09'],Syed Mushtaq Ali Trophy,1280286,Uttarakhand,4,30,30,2,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,48,0,0,48
+['2021-11-06'],Syed Mushtaq Ali Trophy,1280250,Uttarakhand,3,26,33,3,0,78.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,42,0,0,42
+['2021-11-05'],Syed Mushtaq Ali Trophy,1280230,Uttarakhand,3,4,5,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+['2021-11-04'],Syed Mushtaq Ali Trophy,1280212,Uttarakhand,2,9,19,1,0,47.37,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,7,0,0,7
+['2021-01-18'],Syed Mushtaq Ali Trophy,1244389,Uttarakhand,7,26,21,4,0,123.81,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,46,0,16,62
+['2021-01-16'],Syed Mushtaq Ali Trophy,1244369,Uttarakhand,6,7,16,0,0,43.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,1,0,0,1
+['2021-01-14'],Syed Mushtaq Ali Trophy,1244352,Uttarakhand,6,18,10,2,0,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,32,0,8,40
+['2021-01-12'],Syed Mushtaq Ali Trophy,1244332,Uttarakhand,7,9,6,0,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,15,0,8,23
+['2021-01-10'],Syed Mushtaq Ali Trophy,1244314,Uttarakhand,7,48,26,3,4,184.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,94,0,0,94

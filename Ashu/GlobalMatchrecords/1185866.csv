@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Guyana Amazon Warriors,BA King,7fca84b7,1,33,23,7,0,143.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,67,0,0,67
+Guyana Amazon Warriors,C Hemraj,9d450c28,2,12,16,0,1,75.0,"[1, 3, 7]",3.0,18,9,0,15,2,0,3,0,3,0,1,5.0,0,0,0,0,0,18,116,0,134
+Guyana Amazon Warriors,SO Hetmyer,48a1d7b7,3,9,10,2,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,17,0,16,33
+Guyana Amazon Warriors,Shoaib Malik,64c34cd0,4,28,28,2,0,100.0,"[9, 11]",2.0,12,7,0,10,0,1,1,0,0,0,0,5.0,0,0,0,0,0,40,36,0,76
+Guyana Amazon Warriors,N Pooran,3241e3fd,5,54,35,5,3,154.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,104,0,0,104
+Guyana Amazon Warriors,SE Rutherford,d014d5ac,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Guyana Amazon Warriors,CJ Green,19b9f399,7,0,0,0,0,0.0,"[4, 6, 8, 10]",4.0,24,15,0,18,1,1,0,0,0,0,0,4.5,0,0,0,0,0,0,21,0,21
+Guyana Amazon Warriors,KMA Paul,75224f22,8,0,0,0,0,0.0,[18],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,0,1,0,1
+Guyana Amazon Warriors,B Laughlin,b2a79f17,9,0,0,0,0,0.0,"[17, 19]",2.0,12,1,0,23,3,0,1,0,0,0,0,11.5,0,0,0,0,0,0,22,0,22
+Guyana Amazon Warriors,OF Smith,23cca426,10,0,0,0,0,0.0,"[12, 14, 16, 20]",4.0,24,10,0,32,3,1,0,0,0,1,2,8.0,0,0,0,0,0,0,10,0,10
+Guyana Amazon Warriors,Imran Tahir,acee4cc4,11,0,0,0,0,0.0,"[2, 5, 13, 15]",4.0,24,10,0,33,2,2,0,0,0,1,3,8.25,0,0,0,0,0,0,10,0,10
+Trinbago Knight Riders,LMP Simmons,89f64c19,1,30,23,3,2,130.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,60,0,8,68
+Trinbago Knight Riders,JPR Scantlebury-Searles,99ed60f8,2,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Trinbago Knight Riders,D Ramdin,d1523761,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Trinbago Knight Riders,C Munro,af2c687b,4,43,40,2,2,107.5,[13],1.0,6,0,0,6,0,0,0,0,0,0,0,6.0,0,0,0,0,0,67,0,0,67
+Trinbago Knight Riders,DM Bravo,14b14cd8,5,9,17,1,0,52.94,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,9,0,0,9
+Trinbago Knight Riders,KA Pollard,a757b0d8,6,36,26,4,1,138.46,[12],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,2,64,2,0,66
+Trinbago Knight Riders,JDS Neesham,9219eff0,7,12,8,2,0,150.0,"[8, 10, 15, 17]",4.0,24,9,0,35,4,1,1,1,0,1,1,8.75,0,0,0,0,0,20,42,0,62
+Trinbago Knight Riders,CJ Jordan,ffe699c0,8,0,0,0,0,0.0,"[2, 14, 18]",3.0,18,8,0,24,1,2,0,0,0,0,0,8.0,1,0,0,0,0,0,8,8,16
+Trinbago Knight Riders,K Pierre,a61bcb94,9,0,0,0,0,0.0,"[3, 5, 7, 9]",4.0,24,12,0,25,4,0,1,0,0,0,1,6.25,0,0,0,0,0,0,39,0,39
+Trinbago Knight Riders,Ali Khan,b0eaaac6,10,0,0,0,0,0.0,"[4, 6, 16, 19]",3.667,22,8,0,27,4,0,1,0,0,0,3,7.36,0,0,0,0,0,0,33,0,33
+Trinbago Knight Riders,AJ Hosein,4d7f517e,11,0,0,0,0,0.0,"[1, 11]",2.0,12,6,0,18,2,1,0,0,0,0,0,9.0,0,0,0,0,0,0,6,0,6

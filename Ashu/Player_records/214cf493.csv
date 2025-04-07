@@ -1,0 +1,14 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-10-04'],ICC Men's T20 World Cup Americas Region Final,1399157,Panama,10,1,2,0,0,50.0,"[1, 3]",2.0,12,7,0,22,2,2,1,0,1,0,0,11.0,0,0,0,0,0,1,38,0,39
+['2023-10-01'],ICC Men's T20 World Cup Americas Region Final,1399152,Panama,10,7,6,0,1,116.67,"[1, 3]",2.0,12,6,0,17,3,0,0,0,0,0,1,8.5,0,0,0,0,0,13,6,0,19
+['2023-09-30'],ICC Men's T20 World Cup Americas Region Final,1399151,Panama,11,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,8,0,16,2,0,0,0,0,0,0,5.33,0,0,0,0,0,0,12,0,12
+['2023-03-02'],ICC Men's T20 World Cup Americas Region Qualifier,1359799,Panama,11,0,1,0,0,0.0,"[1, 3, 5]",3.0,18,10,0,16,2,0,2,0,0,0,2,5.33,0,0,0,0,0,0,64,0,64
+['2023-02-28'],ICC Men's T20 World Cup Americas Region Qualifier,1359789,Panama,9,0,0,0,0,0.0,"[2, 4]",2.0,12,5,0,18,3,0,0,0,0,0,2,9.0,0,0,0,0,0,0,5,0,5
+['2023-02-26'],ICC Men's T20 World Cup Americas Region Qualifier,1359792,Panama,11,1,1,0,0,100.0,[1],1.0,6,4,0,9,0,1,0,0,0,0,2,9.0,0,0,0,0,0,1,4,0,5
+['2023-02-25'],ICC Men's T20 World Cup Americas Region Qualifier,1359794,Panama,11,0,0,0,0,0.0,"[1, 3, 5, 17]",4.0,24,16,0,16,1,0,3,0,0,0,1,4.0,1,0,0,0,0,0,101,8,109
+['2021-11-14'],ICC Men's T20 World Cup Americas Region Qualifier,1286686,Panama,11,0,5,0,0,0.0,"[6, 8, 14, 20]",4.0,24,5,0,53,3,4,0,0,0,0,0,13.25,0,0,0,0,0,0,-1,0,-1
+['2021-11-08'],ICC Men's T20 World Cup Americas Region Qualifier,1286672,Panama,10,5,2,1,0,250.0,"[1, 3, 13, 19]",4.0,24,13,0,22,1,1,3,0,0,0,2,5.5,0,0,0,0,0,9,96,0,105
+['2018-09-26'],ICC World Twenty20 Americas Sub Regional Qualifier A,1157701,Panama,11,0,4,0,0,0.0,[1],1.0,6,1,0,21,3,1,0,0,0,1,0,21.0,0,0,0,0,0,0,1,0,1
+['2018-09-25'],ICC World Twenty20 Americas Sub Regional Qualifier A,1157698,Panama,9,0,0,0,0,0.0,"[1, 3, 5, 19]",4.0,24,18,0,10,0,0,4,0,3,0,2,2.5,0,0,0,0,0,0,156,0,156
+['2018-09-21'],ICC World Twenty20 Americas Sub Regional Qualifier A,1157692,Panama,7,0,0,0,0,0.0,[2],1.0,6,2,0,14,1,1,0,0,0,0,2,14.0,0,0,0,0,0,0,2,0,2
+['2018-09-20'],ICC World Twenty20 Americas Sub Regional Qualifier A,1157690,Panama,8,9,13,0,0,69.23,"[2, 4]",2.0,12,3,0,18,3,0,0,0,0,0,0,9.0,0,0,0,0,-2,7,3,0,10

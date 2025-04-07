@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2012-01-08'],Big Bash League,524933,Sydney Thunder,6,0,0,0,0,0.0,"[4, 12, 16]",3.0,18,4,0,31,2,2,1,0,0,0,0,10.33,2,0,0,0,0,0,27,16,43
+['2012-01-01'],Big Bash League,524927,Sydney Thunder,9,1,1,0,0,100.0,"[5, 11, 16, 19]",3.667,22,9,0,25,1,1,1,0,0,1,2,6.82,0,0,0,0,0,1,36,0,37
+['2011-12-30'],Big Bash League,524926,Sydney Thunder,7,1,2,0,0,50.0,"[8, 14, 16, 18]",4.0,24,5,0,27,0,1,2,0,1,0,2,6.75,0,0,0,0,0,1,65,0,66

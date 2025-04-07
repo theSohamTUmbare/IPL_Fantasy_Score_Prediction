@@ -1,0 +1,10 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-05-21'],Indian Premier League,1426309,Sunrisers Hyderabad,11,7,5,0,0,140.0,"[8, 10]",2.0,12,1,0,22,0,2,0,0,0,0,0,11.0,2,0,0,0,0,7,-1,16,22
+['2024-05-19'],Indian Premier League,1426307,Sunrisers Hyderabad,12,0,0,0,0,0.0,"[7, 9, 11, 15]",4.0,24,7,0,37,2,3,1,0,0,0,0,9.25,0,0,0,0,0,0,32,0,32
+['2024-05-08'],Indian Premier League,1426295,Sunrisers Hyderabad,12,0,0,0,0,0.0,"[7, 9, 11, 15]",4.0,24,8,0,27,2,1,0,0,0,0,0,6.75,0,0,0,0,0,0,10,0,10
+['2023-02-08'],Bangladesh Premier League,1351091,Chattogram Challengers,9,11,10,1,0,110.0,"[4, 6, 11]",3.0,18,11,0,23,5,0,0,0,0,0,0,7.67,0,0,0,0,0,15,11,0,26
+['2023-01-28'],Bangladesh Premier League,1351079,Chattogram Challengers,9,0,0,0,0,0.0,"[7, 9, 11, 17]",4.0,24,7,0,27,3,0,2,0,0,0,0,6.75,1,0,0,0,0,0,59,8,67
+['2023-01-27'],Bangladesh Premier League,1351077,Chattogram Challengers,8,0,0,0,0,0.0,"[7, 9, 14]",3.0,18,7,0,13,0,0,0,0,0,0,0,4.33,0,0,0,0,0,0,13,0,13
+['2023-01-23'],Bangladesh Premier League,1351072,Chattogram Challengers,7,6,10,0,0,60.0,"[7, 9, 15, 17]",4.0,24,8,0,41,2,3,1,0,0,1,1,10.25,0,0,0,0,-2,4,31,0,35
+['2023-01-13'],Bangladesh Premier League,1351060,Chattogram Challengers,8,0,0,0,0,0.0,"[8, 10, 14, 16]",4.0,24,8,0,29,1,2,1,0,0,0,0,7.25,0,0,0,0,0,0,33,0,33
+['2023-01-09'],Bangladesh Premier League,1351057,Chattogram Challengers,7,0,0,0,0,0.0,"[8, 11, 15]",3.0,18,8,0,29,3,2,1,0,1,0,0,9.67,0,0,0,0,0,0,41,0,41

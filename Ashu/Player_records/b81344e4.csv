@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2018-01-24'],Syed Mushtaq Ali Trophy,1133416,Bengal,10,0,0,0,0,0.0,"[13, 15]",2.0,12,1,0,11,0,0,0,0,0,0,0,5.5,0,0,0,0,0,0,5,0,5
+['2018-01-16'],Syed Mushtaq Ali Trophy,1130697,Bengal,10,0,0,0,0,0.0,[11],1.0,6,3,0,9,0,1,1,0,1,0,0,9.0,2,0,0,0,0,0,36,16,52
+['2018-01-14'],Syed Mushtaq Ali Trophy,1130688,Bengal,7,0,0,0,0,0.0,"[7, 9, 13]",3.0,18,4,0,25,3,0,1,0,0,0,0,8.33,0,0,0,0,0,0,29,0,29

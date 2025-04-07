@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-10-03'],Asian Games Men's Cricket Competition,1399114,Hong Kong,5,6,11,1,0,54.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,6,0,0,6
+['2023-09-24'],Malaysia Tri-Nation T20I Series,1398300,Hong Kong,5,7,14,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,3,0,0,3
+['2023-09-22'],Malaysia Tri-Nation T20I Series,1398298,Hong Kong,5,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2023-09-19'],Malaysia Tri-Nation T20I Series,1398295,Hong Kong,5,5,8,0,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,5,0,8,13

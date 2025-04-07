@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Barbados Tridents,DR Smith,35205dfc,1,14,15,1,1,93.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,24,0,16,40
+Barbados Tridents,SR Taylor,a9231c3f,2,13,15,0,1,86.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
+Barbados Tridents,Misbah-ul-Haq,7eae4418,3,6,17,0,0,35.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,0,0,8,8
+Barbados Tridents,JL Carter,0a9d8b61,4,7,6,1,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
+Barbados Tridents,RJ Peterson,26ff4c29,5,13,17,1,1,76.47,"[2, 4, 7, 13]",4.0,24,12,0,16,1,0,0,0,0,0,0,4.0,0,0,0,0,0,23,18,0,41
+Barbados Tridents,KA Pollard,a757b0d8,6,2,5,0,0,40.0,"[9, 11, 15, 20]",4.0,24,10,0,30,2,1,4,0,1,0,2,7.5,0,0,0,0,0,2,126,0,128
+Barbados Tridents,JO Holder,0f721006,7,30,17,2,2,176.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,60,0,0,60
+Barbados Tridents,RR Emrit,e7de4f6b,8,21,21,1,1,100.0,"[1, 6, 17, 19]",4.0,24,14,0,20,3,0,1,0,0,0,0,5.0,0,0,0,0,0,31,43,0,74
+Barbados Tridents,AR Nurse,4a745f65,9,7,3,0,1,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+Barbados Tridents,R Rampaul,d68e7f48,10,5,3,1,0,166.67,"[3, 5, 16, 18]",4.0,24,11,0,23,2,0,0,0,0,0,1,5.75,0,0,0,0,0,9,15,0,24
+Barbados Tridents,I Khan,2ae01eb0,11,1,1,0,0,100.0,"[8, 10, 12, 14]",4.0,24,13,0,22,2,1,1,0,1,0,0,5.5,1,0,0,0,0,1,50,8,59
+Guyana Amazon Warriors,LMP Simmons,89f64c19,1,15,31,0,0,48.39,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,9,0,0,9
+Guyana Amazon Warriors,BJ Hodge,b57f8a9a,2,27,28,4,0,96.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,47,0,8,55
+Guyana Amazon Warriors,D Ramdin,d1523761,3,14,15,1,0,93.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,18,0,16,34
+Guyana Amazon Warriors,Umar Akmal,fd2bf2a0,4,20,22,2,1,90.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,34,0,16,50
+Guyana Amazon Warriors,CD Barnwell,0d51e658,5,24,13,2,1,184.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,44,0,0,44
+Guyana Amazon Warriors,D Wiese,aa8d28ae,6,7,9,1,0,77.78,"[5, 7, 17, 19]",4.0,24,11,0,30,2,2,5,0,0,0,1,7.5,0,0,0,0,0,11,148,0,159
+Guyana Amazon Warriors,SP Narine,9d430b40,7,1,2,0,0,50.0,"[9, 11, 15, 18]",4.0,24,16,1,14,0,1,0,0,0,0,0,3.5,1,0,0,0,0,1,34,8,43
+Guyana Amazon Warriors,V Permaul,78dfe704,8,0,0,0,0,0.0,"[2, 4, 6, 13]",4.0,24,14,0,27,1,2,1,0,1,0,0,6.75,0,0,0,0,0,0,49,0,49
+Guyana Amazon Warriors,AB Fudadin,875909c0,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Guyana Amazon Warriors,M de Lange,d4eef961,10,0,0,0,0,0.0,"[1, 3, 16, 20]",4.0,24,10,0,28,2,1,1,0,0,2,0,7.0,0,0,0,0,0,0,37,0,37
+Guyana Amazon Warriors,D Bishoo,7a80ddf2,11,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,13,0,23,2,1,2,0,1,0,0,5.75,0,0,0,0,0,0,75,0,75

@@ -1,0 +1,26 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2020-01-03'],Bangladesh Premier League,1208098,Sylhet Thunder,11,0,0,0,0,0.0,"[7, 9, 11, 16]",4.0,24,7,0,25,1,1,1,0,0,0,0,6.25,0,0,0,0,0,0,34,0,34
+['2020-01-02'],Bangladesh Premier League,1208096,Sylhet Thunder,10,16,10,1,1,160.0,"[9, 11, 13]",3.0,18,3,0,21,1,0,0,0,0,0,3,7.0,0,0,0,0,4,30,5,0,35
+['2019-12-30'],Bangladesh Premier League,1208091,Sylhet Thunder,9,0,1,0,0,0.0,"[14, 16, 18]",2.333,14,6,0,15,0,1,0,0,0,0,1,6.43,0,0,0,0,0,0,8,0,8
+['2019-12-21'],Bangladesh Premier League,1208081,Sylhet Thunder,8,0,0,0,0,0.0,"[1, 12, 14]",3.0,18,6,0,31,4,1,2,0,0,0,1,10.33,0,0,0,1,0,0,54,6,60
+['2016-12-03'],Bangladesh Premier League,1063083,Barisal Bulls,10,1,2,0,0,50.0,"[3, 6, 10, 14]",4.0,24,6,0,28,1,1,0,0,0,0,3,7.0,0,0,0,0,0,1,8,0,9
+['2016-12-01'],Bangladesh Premier League,1063082,Barisal Bulls,7,0,0,0,0,0.0,"[3, 7, 10]",3.0,18,8,0,17,2,0,1,1,0,0,0,5.67,0,0,0,0,0,0,45,0,45
+['2016-11-27'],Bangladesh Premier League,1063077,Barisal Bulls,10,0,0,0,0,0.0,[17],1.0,6,1,0,12,1,1,1,1,0,0,0,12.0,0,0,0,0,0,0,34,0,34
+['2016-11-25'],Bangladesh Premier League,1063074,Barisal Bulls,10,0,0,0,0,0.0,"[3, 7, 10, 12]",4.0,24,8,0,29,1,2,0,0,0,1,0,7.25,0,0,0,0,0,0,8,0,8
+['2016-11-13'],Bangladesh Premier League,1063061,Barisal Bulls,6,0,0,0,0,0.0,"[1, 3, 14]",3.0,18,8,0,30,1,3,1,0,0,0,0,10.0,0,0,0,0,0,0,31,0,31
+['2016-11-08'],Bangladesh Premier League,1063053,Barisal Bulls,11,0,0,0,0,0.0,"[2, 13, 15]",3.0,18,5,0,23,1,1,1,0,1,1,0,7.67,0,0,0,0,0,0,38,0,38
+['2013-02-13'],Bangladesh Premier League,599903,Duronto Rajshahi,11,0,0,0,0,0.0,"[2, 4, 13]",3.0,18,4,0,30,1,2,1,0,0,0,0,10.0,0,0,0,0,0,0,27,0,27
+['2013-02-11'],Bangladesh Premier League,599900,Duronto Rajshahi,11,14,11,2,0,127.27,"[2, 4, 16, 18]",4.0,24,6,0,38,4,1,2,0,1,0,0,9.5,0,0,0,0,0,22,64,0,86
+['2013-02-08'],Bangladesh Premier League,599895,Duronto Rajshahi,10,1,3,0,0,33.33,"[7, 9]",2.0,12,4,0,16,1,1,0,0,0,0,0,8.0,1,0,0,0,0,1,4,8,13
+['2013-02-04'],Bangladesh Premier League,599889,Duronto Rajshahi,11,0,0,0,0,0.0,"[5, 7, 9, 15]",4.0,24,10,0,23,1,1,1,0,0,0,0,5.75,0,0,0,0,0,0,39,0,39
+['2013-02-02'],Bangladesh Premier League,599887,Duronto Rajshahi,11,0,0,0,0,0.0,"[2, 4, 6, 16]",4.0,24,10,0,23,2,0,0,0,0,0,1,5.75,0,0,0,0,0,0,14,0,14
+['2013-02-01'],Bangladesh Premier League,599885,Duronto Rajshahi,11,1,2,0,0,50.0,"[1, 3, 5, 7]",4.0,24,12,0,21,1,1,0,0,0,0,0,5.25,0,0,0,0,0,1,16,0,17
+['2013-01-28'],Bangladesh Premier League,599880,Duronto Rajshahi,9,0,0,0,0,0.0,"[1, 3, 5, 12]",4.0,24,14,0,23,4,0,1,0,1,0,1,5.75,0,0,1,0,0,0,51,12,63
+['2013-01-24'],Bangladesh Premier League,599876,Duronto Rajshahi,11,0,2,0,0,0.0,"[1, 3, 5, 14]",4.0,24,12,1,33,5,1,0,0,0,0,0,8.25,0,0,0,0,0,0,24,0,24
+['2013-01-22'],Bangladesh Premier League,599872,Duronto Rajshahi,8,0,0,0,0,0.0,"[1, 3, 5, 19]",4.0,24,12,0,22,3,0,2,0,1,0,0,5.5,0,0,0,0,0,0,74,0,74
+['2013-01-20'],Bangladesh Premier League,599870,Duronto Rajshahi,11,0,0,0,0,0.0,"[2, 4, 12, 16]",4.0,24,10,0,31,5,0,1,0,1,0,1,7.75,0,0,0,0,0,0,43,0,43
+['2013-01-19'],Bangladesh Premier League,599867,Duronto Rajshahi,11,5,6,1,0,83.33,"[1, 3, 19]",3.0,18,8,0,21,3,0,1,0,0,0,0,7.0,0,0,0,0,0,9,35,0,44
+['2012-02-26'],Bangladesh Premier League,551071,Duronto Rajshahi,10,0,0,0,0,0.0,[6],1.0,6,3,0,11,1,1,0,0,0,0,0,11.0,0,0,0,0,0,0,3,0,3
+['2012-02-24'],Bangladesh Premier League,551068,Duronto Rajshahi,10,3,3,0,0,100.0,"[2, 4, 6, 14]",4.0,24,12,0,23,3,0,0,0,0,0,1,5.75,0,0,0,0,0,3,16,0,19
+['2012-02-20'],Bangladesh Premier League,551063,Duronto Rajshahi,10,0,0,0,0,0.0,"[6, 9, 11, 15]",4.0,24,10,0,19,1,0,1,0,0,0,0,4.75,0,0,0,0,0,0,41,0,41
+['2012-02-18'],Bangladesh Premier League,551060,Duronto Rajshahi,10,0,0,0,0,0.0,"[10, 12, 17]",3.0,18,9,0,14,2,0,0,0,0,0,0,4.67,0,0,0,0,0,0,15,0,15

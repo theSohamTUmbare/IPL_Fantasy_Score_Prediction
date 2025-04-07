@@ -1,0 +1,12 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-02-09'],Asian Cricket Council Men's Challenger Cup,1418195,Singapore,6,10,11,1,0,90.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
+['2024-02-06'],Asian Cricket Council Men's Challenger Cup,1418190,Singapore,6,7,8,0,0,87.5,"[12, 14, 16, 18]",4.0,24,8,0,27,3,0,3,0,1,0,1,6.75,0,0,1,0,0,7,97,12,116
+['2024-02-04'],Asian Cricket Council Men's Challenger Cup,1418186,Singapore,7,23,22,2,0,104.55,"[10, 12, 14, 16]",4.0,24,17,0,14,1,0,2,0,0,0,3,3.5,0,0,0,0,0,31,73,0,104
+['2024-02-02'],Asian Cricket Council Men's Challenger Cup,1418182,Singapore,7,0,0,0,0,0.0,"[10, 12, 15, 20]",4.0,24,8,0,27,3,0,0,0,0,0,2,6.75,0,0,0,0,0,0,10,0,10
+['2022-12-21'],Quadrangular Twenty20 Series (Malaysia),1349386,Singapore,7,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2022-12-19'],Quadrangular Twenty20 Series (Malaysia),1349384,Singapore,1,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2022-12-15'],Quadrangular Twenty20 Series (Malaysia),1349379,Singapore,1,3,3,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2022-08-24'],Men's T20 Asia Cup Qualifier,1328853,Singapore,4,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+['2022-08-22'],Men's T20 Asia Cup Qualifier,1328851,Singapore,7,6,10,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,4,0,0,4
+['2022-08-20'],Men's T20 Asia Cup Qualifier,1328849,Singapore,6,19,15,3,0,126.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31
+['2019-10-25'],ICC Men's T20 World Cup Qualifier,1199529,Singapore,11,12,8,0,1,150.0,[7],1.0,6,3,0,15,2,0,0,0,0,0,5,15.0,1,0,0,0,0,18,3,8,29

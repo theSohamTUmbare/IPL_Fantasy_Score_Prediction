@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Birmingham Bears,AJ Hose,104e88a4,1,37,28,6,0,132.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,67,0,0,67
+Birmingham Bears,RM Yates,3581a798,2,8,9,1,0,88.89,"[2, 4]",2.0,12,2,0,13,1,0,1,1,0,0,0,6.5,0,0,0,0,0,12,37,0,49
+Birmingham Bears,KR Mayers,73c18486,3,14,12,2,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
+Birmingham Bears,SR Hain,67b9536c,4,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+Birmingham Bears,WMH Rhodes,f54dbda7,5,32,25,2,1,128.0,"[9, 11, 15, 20]",4.0,24,6,0,41,3,2,3,0,0,0,0,10.25,1,0,0,0,0,50,83,8,141
+Birmingham Bears,CG Benjamin,95a15317,6,60,33,7,2,181.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,114,0,8,122
+Birmingham Bears,CR Brathwaite,e342e5fb,7,27,10,1,3,270.0,"[3, 6, 18]",3.0,18,2,0,38,7,0,0,0,0,0,0,12.67,2,0,0,0,6,59,-4,16,71
+Birmingham Bears,MGK Burgess,715941c3,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Birmingham Bears,DR Briggs,f3abd0c9,9,0,0,0,0,0.0,"[1, 5, 13, 17]",4.0,24,7,0,33,3,1,1,0,0,0,0,8.25,0,0,0,0,0,0,32,0,32
+Birmingham Bears,CN Miles,5fed6272,10,0,0,0,0,0.0,"[7, 12, 19]",3.0,18,4,0,31,3,1,1,0,0,0,1,10.33,0,0,0,0,0,0,27,0,27
+Birmingham Bears,JB Lintott,e5218454,11,0,0,0,0,0.0,"[8, 10, 14, 16]",4.0,24,8,0,19,1,0,2,1,0,0,0,4.75,1,0,0,0,0,0,72,8,80
+Northamptonshire,R Vasconcelos,efe3fcc5,1,39,33,5,0,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,63,0,0,63
+Northamptonshire,BJ Curran,1786a21b,2,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Northamptonshire,JJ Cobb,58c481c6,3,35,18,5,1,194.44,"[10, 12]",2.0,12,5,0,11,1,0,0,0,0,0,0,5.5,1,0,0,0,6,71,9,8,88
+Northamptonshire,RI Keogh,e22d3b5c,4,55,33,3,2,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,91,0,0,91
+Northamptonshire,Mohammad Nabi,62af8546,5,8,7,1,0,114.29,"[1, 4, 14, 18]",4.0,24,9,0,23,2,0,2,0,0,0,0,5.75,1,0,0,0,0,12,63,8,83
+Northamptonshire,SA Zaib,ab01e323,6,14,9,1,1,155.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
+Northamptonshire,TAI Taylor,867a45a7,7,6,5,1,0,120.0,"[2, 6, 16, 20]",4.0,24,6,0,47,4,3,0,0,0,0,1,11.75,0,0,1,0,0,10,2,12,24
+Northamptonshire,GG White,0f21680d,8,0,1,0,0,0.0,"[5, 8, 15, 17]",4.0,24,8,0,39,5,1,1,0,0,0,0,9.75,1,0,1,0,0,-2,33,20,51
+Northamptonshire,EN Gay,aa710a58,9,15,10,2,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
+Northamptonshire,BD Glover,0dbe27b8,10,1,1,0,0,100.0,"[3, 19]",2.0,12,2,0,29,5,0,0,0,0,2,1,14.5,0,0,0,0,0,1,-4,0,-3
+Northamptonshire,FJ Heldreich,56ef4f99,11,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,5,0,35,2,2,1,1,0,0,0,8.75,0,0,0,0,0,0,38,0,38

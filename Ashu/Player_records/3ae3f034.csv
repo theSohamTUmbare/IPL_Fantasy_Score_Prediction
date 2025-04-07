@@ -1,0 +1,15 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2016-01-09'],Syed Mushtaq Ali Trophy,902221,Railways,1,12,10,2,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
+['2016-01-07'],Syed Mushtaq Ali Trophy,902195,Railways,1,36,27,6,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,66,0,0,66
+['2016-01-06'],Syed Mushtaq Ali Trophy,902173,Railways,1,6,7,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+['2016-01-04'],Syed Mushtaq Ali Trophy,902151,Railways,1,23,25,2,0,92.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31
+['2016-01-03'],Syed Mushtaq Ali Trophy,902127,Railways,1,16,14,2,1,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30
+['2016-01-02'],Syed Mushtaq Ali Trophy,902101,Railways,1,81,59,10,0,137.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,135,0,16,151
+['2012-05-06'],Indian Premier League,548356,Royal Challengers Bangalore,4,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+['2012-05-02'],Indian Premier League,548350,Royal Challengers Bangalore,6,2,3,0,0,66.67,[16],1.0,6,2,0,14,0,2,0,0,0,0,0,14.0,0,0,0,0,0,2,2,0,4
+['2011-05-17'],Indian Premier League,501260,Royal Challengers Bangalore,5,7,4,0,1,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+['2011-05-06'],Indian Premier League,501244,Royal Challengers Bangalore,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,1,0,0,-2,0,28,26
+['2011-04-22'],Indian Premier League,501222,Royal Challengers Bangalore,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2011-04-16'],Indian Premier League,501211,Royal Challengers Bangalore,3,14,5,2,1,280.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
+['2011-04-12'],Indian Premier League,501205,Royal Challengers Bangalore,5,0,2,0,0,0.0,"[12, 15, 17, 19]",3.5,21,4,0,30,4,0,0,0,0,0,0,8.57,0,0,0,0,0,-2,4,0,2
+['2011-04-09'],Indian Premier League,501200,Royal Challengers Bangalore,6,12,4,3,0,300.0,"[13, 15]",2.0,12,3,0,19,1,0,0,0,0,0,6,9.5,0,0,0,0,0,24,3,0,27

@@ -1,0 +1,47 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-11-01'],Syed Mushtaq Ali Trophy,1333052,Saurashtra,2,12,10,0,1,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
+['2022-10-30'],Syed Mushtaq Ali Trophy,1333048,Saurashtra,2,11,11,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
+['2022-10-18'],Syed Mushtaq Ali Trophy,1333005,Saurashtra,2,57,38,7,2,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,105,0,8,113
+['2022-10-16'],Syed Mushtaq Ali Trophy,1332986,Saurashtra,2,38,27,4,1,140.74,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,2,66,0,14,80
+['2022-10-12'],Syed Mushtaq Ali Trophy,1332950,Saurashtra,2,14,18,1,1,77.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,24,0,14,38
+['2019-03-02'],Syed Mushtaq Ali Trophy,1157201,Saurashtra,2,10,17,2,0,58.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,14,0,8,22
+['2019-02-25'],Syed Mushtaq Ali Trophy,1157150,Saurashtra,2,39,22,4,1,177.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,6,71,0,20,91
+['2019-02-24'],Syed Mushtaq Ali Trophy,1157132,Saurashtra,2,42,48,6,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,70,0,0,70
+['2019-02-22'],Syed Mushtaq Ali Trophy,1157114,Saurashtra,2,68,46,11,0,147.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,122,0,0,122
+['2019-02-21'],Syed Mushtaq Ali Trophy,1157098,Saurashtra,2,100,61,14,1,163.93,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,4,182,0,12,194
+['2016-01-10'],Syed Mushtaq Ali Trophy,902231,Saurashtra,2,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,2,0,16,18
+['2016-01-09'],Syed Mushtaq Ali Trophy,902215,Saurashtra,2,54,52,5,2,103.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,94,0,8,102
+['2016-01-07'],Syed Mushtaq Ali Trophy,902193,Saurashtra,2,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
+['2016-01-06'],Syed Mushtaq Ali Trophy,902165,Saurashtra,2,26,24,2,1,108.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,44,0,16,60
+['2016-01-04'],Syed Mushtaq Ali Trophy,902141,Saurashtra,2,81,55,5,5,147.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,1,0,2,145,0,28,173
+['2016-01-02'],Syed Mushtaq Ali Trophy,902097,Saurashtra,2,67,57,7,1,117.54,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,109,0,16,125
+['2014-05-03'],Indian Premier League,733973,Kings XI Punjab,1,19,18,4,0,105.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,35,0,0,35
+['2014-04-28'],Indian Premier League,729313,Kings XI Punjab,1,10,18,1,0,55.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,10,0,0,10
+['2014-04-26'],Indian Premier League,729307,Kings XI Punjab,1,8,7,1,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+['2014-04-22'],Indian Premier League,729295,Kings XI Punjab,1,35,32,6,0,109.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,63,0,0,63
+['2014-04-20'],Indian Premier League,729291,Kings XI Punjab,1,40,38,3,0,105.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,56,0,0,56
+['2014-04-18'],Indian Premier League,729283,Kings XI Punjab,1,13,10,2,0,130.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,23,0,0,23
+['2013-05-14'],Indian Premier League,598045,Royal Challengers Bangalore,1,19,20,3,0,95.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31
+['2013-05-12'],Indian Premier League,598057,Royal Challengers Bangalore,1,5,14,0,0,35.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-1,0,0,-1
+['2013-05-10'],Indian Premier League,598054,Royal Challengers Bangalore,1,17,17,3,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,29,0,8,37
+['2013-05-06'],Indian Premier League,598064,Royal Challengers Bangalore,1,51,48,8,0,106.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,91,0,0,91
+['2012-04-12'],Indian Premier League,548318,Royal Challengers Bangalore,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2012-04-10'],Indian Premier League,548315,Royal Challengers Bangalore,1,6,9,0,1,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20
+['2012-04-07'],Indian Premier League,548310,Royal Challengers Bangalore,2,11,12,1,0,91.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,15,0,8,23
+['2011-05-08'],Indian Premier League,501247,Royal Challengers Bangalore,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2011-04-26'],Indian Premier League,501227,Royal Challengers Bangalore,6,7,12,0,0,58.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,3,0,0,3
+['2011-04-22'],Indian Premier League,501222,Royal Challengers Bangalore,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2011-04-16'],Indian Premier League,501211,Royal Challengers Bangalore,7,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2011-04-14'],Indian Premier League,501208,Royal Challengers Bangalore,7,25,15,4,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,49,0,0,49
+['2011-04-12'],Indian Premier League,501205,Royal Challengers Bangalore,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2011-04-09'],Indian Premier League,501200,Royal Challengers Bangalore,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2010-04-19'],Indian Premier League,419161,Kolkata Knight Riders,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2010-04-17'],Indian Premier League,419158,Kolkata Knight Riders,4,45,38,5,1,118.42,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,75,0,0,75
+['2010-04-10'],Indian Premier League,419148,Kolkata Knight Riders,7,16,8,0,2,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
+['2010-04-07'],Indian Premier League,419144,Kolkata Knight Riders,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2010-04-04'],Indian Premier League,419139,Kolkata Knight Riders,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2010-04-01'],Indian Premier League,419135,Kolkata Knight Riders,3,17,13,3,0,130.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,31,0,8,39
+['2010-03-22'],Indian Premier League,419122,Kolkata Knight Riders,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2010-03-20'],Indian Premier League,419118,Kolkata Knight Riders,3,29,25,4,0,116.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,49,0,8,57
+['2010-03-14'],Indian Premier League,419109,Kolkata Knight Riders,4,5,15,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-1,0,0,-1
+['2010-03-12'],Indian Premier League,419106,Kolkata Knight Riders,4,10,16,2,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,16,0,0,16

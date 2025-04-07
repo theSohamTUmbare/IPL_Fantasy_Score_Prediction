@@ -1,0 +1,8 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2012-03-14'],ICC World Twenty20 Qualifier,546414,Kenya,8,8,22,0,0,36.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,2,0,0,2
+['2012-02-24'],Ireland in Kenya T20I Series,543885,Kenya,1,3,10,0,0,30.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-3,0,0,-3
+['2012-02-23'],Ireland in Kenya T20I Series,543884,Kenya,1,28,34,2,0,82.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,40,0,0,40
+['2007-09-14'],ICC World Twenty20,287860,Kenya,2,18,33,1,0,54.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,18,0,0,18
+['2007-09-12'],ICC World Twenty20,287854,Kenya,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2007-09-04'],Twenty20 Quadrangular (in Kenya),306991,Kenya,1,4,2,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+['2007-09-01'],Twenty20 Quadrangular (in Kenya),306987,Kenya,1,23,19,4,0,121.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,39,0,8,47

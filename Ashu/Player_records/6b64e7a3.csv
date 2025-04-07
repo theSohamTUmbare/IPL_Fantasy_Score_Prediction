@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2017-01-20'],Desert T20 Challenge,1074970,Ireland,9,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,12,0,16,1,0,4,0,0,0,1,4.0,1,0,0,0,0,0,126,8,134
+['2017-01-18'],Desert T20 Challenge,1074965,Ireland,9,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,10,0,20,0,1,2,0,0,0,0,5.0,0,0,0,0,0,0,64,0,64
+['2017-01-17'],Desert T20 Challenge,1074963,Ireland,11,0,0,0,0,0.0,"[7, 14, 16, 18]",4.0,24,10,0,27,0,2,2,0,0,0,0,6.75,0,0,0,0,0,0,62,0,62
+['2016-09-05'],Hong Kong in Ireland T20I Series,1004729,Ireland,9,1,5,0,0,20.0,"[7, 9, 12, 16]",4.0,24,9,0,25,1,1,1,0,0,0,1,6.25,0,0,0,0,0,1,36,0,37

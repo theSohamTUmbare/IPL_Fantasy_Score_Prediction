@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Khulna Tigers,Mehedi Hasan Miraz,c58b0108,1,0,3,0,0,0.0,"[1, 5, 13, 16]",4.0,24,18,0,10,1,0,3,2,0,0,1,2.5,0,0,0,1,0,-2,119,6,123
+Khulna Tigers,Mohammad Naim,7923a51d,2,48,32,3,4,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,88,0,0,88
+Khulna Tigers,AI Ross,fb0d68b4,3,29,27,4,0,107.41,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,49,0,0,49
+Khulna Tigers,Afif Hossain,37138918,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Khulna Tigers,SO Hetmyer,48a1d7b7,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Khulna Tigers,Mohammad Nawaz,3086f7a4,6,0,0,0,0,0.0,"[3, 10, 12, 14]",4.0,24,12,0,21,1,1,1,0,1,0,1,5.25,1,0,0,1,0,0,49,14,63
+Khulna Tigers,Mahidul Islam Ankon,dac6aabc,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Khulna Tigers,JO Holder,0f721006,8,0,0,0,0,0.0,[11],1.0,6,2,0,11,1,0,0,0,0,1,0,11.0,0,0,0,0,0,0,2,0,2
+Khulna Tigers,Nasum Ahmed,37654b75,9,0,0,0,0,0.0,"[2, 4, 7, 9]",4.0,24,13,0,16,2,0,3,0,1,0,0,4.0,1,0,0,0,0,0,106,8,114
+Khulna Tigers,Hasan Mahmud,80ad39ac,10,0,0,0,0,0.0,"[6, 8, 15]",3.0,18,9,0,18,1,1,1,1,0,0,0,6.0,1,0,0,0,0,0,44,8,52
+Khulna Tigers,Musfik Hasan,1afcbb60,11,0,0,0,0,0.0,[17],0.833,5,3,0,8,2,0,1,0,0,0,0,9.6,0,0,0,0,0,0,28,0,28
+Rangpur Riders,JM Vince,a15618fe,1,1,7,0,0,14.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Rangpur Riders,Soumya Sarkar,4d9f9686,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Rangpur Riders,Saif Hassan,bb95564b,3,4,10,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2
+Rangpur Riders,Mahedi Hasan,9dad0f2e,4,1,5,0,0,20.0,[4],1.0,6,1,0,19,1,2,0,0,0,0,0,19.0,0,0,0,0,0,1,1,0,2
+Rangpur Riders,Mohammad Saifuddin,b3a28446,5,8,8,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+Rangpur Riders,Nurul Hasan,d365d463,6,23,24,2,0,95.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31
+Rangpur Riders,TH David,f1f99156,7,7,9,1,0,77.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
+Rangpur Riders,AD Russell,bbd41817,8,4,9,0,0,44.44,[8],1.0,6,1,0,14,2,0,0,0,0,1,1,14.0,0,0,0,0,0,4,1,0,5
+Rangpur Riders,Rakibul Hasan,77768f72,9,1,2,0,0,50.0,"[9, 11]",1.333,8,0,0,13,0,1,0,0,0,0,0,9.75,0,0,0,0,0,1,0,0,1
+Rangpur Riders,Akif Javed,99d7d5b7,10,32,18,4,2,177.78,"[1, 3, 6]",3.0,18,11,0,20,2,1,1,0,1,0,2,6.67,0,0,0,0,6,70,46,0,116
+Rangpur Riders,Nahid Rana,5318ee68,11,0,9,0,0,0.0,"[2, 5, 7, 10]",4.0,24,13,0,21,2,0,0,0,0,0,6,5.25,0,0,0,0,0,0,17,0,17

@@ -1,0 +1,30 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-06-16'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436491,Luxembourg,2,6,9,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+['2024-06-15'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436487,Luxembourg,2,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2024-06-12'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436481,Luxembourg,2,19,25,1,0,76.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
+['2024-06-09'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436471,Luxembourg,2,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2023-10-15'],Luxembourg tour of Gibraltar,1400055,Luxembourg,5,8,6,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+['2023-10-15'],Luxembourg tour of Gibraltar,1400056,Luxembourg,4,48,43,4,0,111.63,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,68,0,8,76
+['2023-07-16'],Valletta Cup,1384599,Luxembourg,7,33,18,3,1,183.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,61,0,0,61
+['2023-07-15'],Valletta Cup,1384595,Luxembourg,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2023-07-14'],Valletta Cup,1384592,Luxembourg,5,18,32,0,0,56.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,14,0,0,14
+['2023-07-13'],Valletta Cup,1384589,Luxembourg,8,2,1,0,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2023-07-12'],Mdina Cup,1384586,Luxembourg,8,2,1,0,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
+['2023-07-12'],Mdina Cup,1384587,Luxembourg,5,23,26,1,0,88.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27
+['2023-07-11'],Mdina Cup,1384585,Luxembourg,6,41,42,3,1,97.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,63,0,8,71
+['2022-07-31'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321303,Luxembourg,5,19,25,2,0,76.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,2,0,27,0,20,47
+['2022-07-30'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321299,Luxembourg,8,5,5,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,5,0,8,13
+['2022-07-28'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321294,Luxembourg,7,19,12,2,0,158.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,31,0,0,31
+['2022-07-25'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321288,Luxembourg,6,20,18,1,0,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
+['2022-07-24'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321281,Luxembourg,6,9,14,0,0,64.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,-2,7,0,12,19
+['2022-07-10'],Central Europe Cup,1321309,Luxembourg,4,44,36,3,0,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,60,0,0,60
+['2022-07-09'],Central Europe Cup,1321308,Luxembourg,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2022-07-08'],Central Europe Cup,1321305,Luxembourg,7,22,16,1,0,137.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,28,0,16,44
+['2022-07-08'],Central Europe Cup,1321306,Luxembourg,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2021-09-05'],Continental Cup,1275277,Luxembourg,7,2,7,0,0,28.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
+['2021-09-04'],Continental Cup,1275274,Luxembourg,7,5,3,1,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
+['2021-09-02'],Continental Cup,1275269,Luxembourg,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2021-05-23'],Central Europe Cup,1263712,Luxembourg,6,36,23,5,0,156.52,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,64,0,0,64
+['2021-05-21'],Central Europe Cup,1263708,Luxembourg,2,18,31,0,0,58.06,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,14,0,0,14
+['2020-08-30'],Luxembourg Twenty20 Tri-Series,1229823,Luxembourg,1,2,9,0,0,22.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
+['2020-08-29'],Luxembourg Twenty20 Tri-Series,1229820,Luxembourg,1,5,15,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,-6,-1,0,16,15

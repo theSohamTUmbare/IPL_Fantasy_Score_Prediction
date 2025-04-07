@@ -1,0 +1,10 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2008-05-27'],Indian Premier League,336037,Deccan Chargers,11,0,0,0,0,0.0,"[2, 4, 15, 20]",3.333,20,7,0,32,4,1,1,0,0,0,1,9.6,0,0,0,0,0,0,32,0,32
+['2008-05-25'],Indian Premier League,336002,Deccan Chargers,11,0,0,0,0,0.0,"[6, 8, 10, 17]",4.0,24,7,0,29,3,1,0,0,0,0,0,7.25,0,0,0,0,0,0,7,0,7
+['2008-05-23'],Indian Premier League,336031,Deccan Chargers,11,0,0,0,0,0.0,"[2, 4]",2.0,12,5,0,24,3,1,0,0,0,0,0,12.0,0,0,0,0,0,0,1,0,1
+['2008-05-18'],Indian Premier League,336024,Deccan Chargers,11,0,0,0,0,0.0,"[1, 19]",2.0,12,4,0,24,2,1,0,0,0,1,4,12.0,0,0,0,0,0,0,0,0,0
+['2008-05-15'],Indian Premier League,336020,Deccan Chargers,10,1,1,0,0,100.0,"[1, 3, 5, 19]",4.0,24,11,0,24,1,1,1,0,0,0,0,6.0,0,0,0,0,0,1,38,0,39
+['2008-05-11'],Indian Premier League,336014,Deccan Chargers,10,0,0,0,0,0.0,"[2, 4, 19]",3.0,18,8,0,21,2,0,1,0,0,1,0,7.0,0,0,0,0,0,0,35,0,35
+['2008-05-09'],Indian Premier League,336011,Deccan Chargers,11,0,0,0,0,0.0,[1],1.0,6,2,0,10,2,0,0,0,0,0,0,10.0,0,0,0,0,0,0,2,0,2
+['2008-05-06'],Indian Premier League,336007,Deccan Chargers,10,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,11,0,17,3,0,1,0,0,0,0,5.67,0,0,0,0,0,0,40,0,40
+['2008-05-03'],Indian Premier League,336034,Deccan Chargers,10,0,0,0,0,0.0,"[1, 3, 12]",3.0,18,8,0,18,3,0,0,0,0,0,0,6.0,0,0,0,0,0,0,10,0,10

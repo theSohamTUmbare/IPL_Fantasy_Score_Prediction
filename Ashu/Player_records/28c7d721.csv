@@ -1,0 +1,9 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2021-04-22'],Nepal Tri-Nation T20I Series,1257950,Nepal,9,0,0,0,0,0.0,"[8, 10, 12]",3.0,18,2,0,35,1,3,1,0,0,0,0,11.67,0,0,0,0,0,0,23,0,23
+['2020-03-01'],ACC Eastern Region T20,1217740,Nepal,10,0,1,0,0,0.0,"[6, 8, 10, 15]",4.0,24,8,0,37,4,1,2,0,0,0,1,9.25,0,0,0,0,0,0,58,0,58
+['2019-12-09'],South Asian Games Men's Cricket Competition,1208613,Nepal,9,0,0,0,0,0.0,"[5, 7, 14, 16]",4.0,24,11,0,24,3,0,2,0,1,0,0,6.0,0,0,0,0,0,0,71,0,71
+['2019-12-06'],South Asian Games Men's Cricket Competition,1208609,Nepal,9,1,2,0,0,50.0,"[6, 8, 15, 17]",4.0,24,10,0,22,2,0,2,0,0,0,0,5.5,0,0,0,0,0,1,64,0,65
+['2019-12-05'],South Asian Games Men's Cricket Competition,1208606,Nepal,10,0,0,0,0,0.0,"[13, 15, 17]",3.0,18,10,0,18,1,1,0,0,0,0,0,6.0,0,0,0,0,0,0,12,0,12
+['2019-10-10'],Oman Pentangular T20I Series,1197529,Nepal,10,0,1,0,0,0.0,"[6, 10]",2.0,12,7,0,7,0,0,0,0,0,0,0,3.5,0,0,0,0,0,0,13,0,13
+['2019-10-01'],Singapore Twenty20 Tri-Series,1201683,Nepal,10,0,2,0,0,0.0,[2],1.0,6,1,0,15,1,1,0,0,0,1,0,15.0,0,0,0,0,0,-2,1,0,-1
+['2019-09-28'],Singapore Twenty20 Tri-Series,1201681,Nepal,9,0,0,0,0,0.0,"[7, 9, 14, 16]",4.0,24,10,0,27,2,1,1,0,1,0,0,6.75,0,0,0,0,0,0,45,0,45

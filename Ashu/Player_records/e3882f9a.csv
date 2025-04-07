@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2015-01-11'],Big Bash League,756781,Sydney Sixers,9,0,0,0,0,0.0,[16],1.0,6,0,0,10,1,0,0,0,0,0,0,10.0,1,0,0,0,0,0,0,8,8
+['2013-01-08'],Big Bash League,571260,Sydney Thunder,2,4,2,1,0,200.0,"[9, 12, 18]",3.0,18,5,0,28,2,1,1,0,1,1,0,9.33,0,0,0,0,0,8,38,0,46
+['2013-01-04'],Big Bash League,571256,Sydney Thunder,2,14,17,0,1,82.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,20,0,8,28
+['2012-12-30'],Big Bash League,571252,Sydney Thunder,7,15,13,0,1,115.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,21,0,8,29
+['2012-12-28'],Big Bash League,571250,Sydney Thunder,7,9,9,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13

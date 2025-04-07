@@ -1,0 +1,13 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-10-25'],CSA T20 Challenge,1444795,Western Province,8,19,13,1,1,146.15,"[1, 6, 8, 10]",4.0,24,13,1,20,3,0,0,0,0,0,0,5.0,1,0,0,0,2,31,29,8,68
+['2024-10-23'],CSA T20 Challenge,1444794,Western Province,8,0,0,0,0,0.0,"[2, 11, 13, 15]",4.0,24,16,0,14,0,1,3,0,2,0,1,3.5,0,0,0,0,0,0,117,0,117
+['2024-10-18'],CSA T20 Challenge,1444789,Western Province,8,0,0,0,0,0.0,"[2, 7, 9, 11]",4.0,24,9,0,19,1,0,1,0,0,0,0,4.75,1,0,0,0,0,0,40,8,48
+['2024-10-16'],CSA T20 Challenge,1444787,Western Province,8,1,4,0,0,25.0,"[2, 12]",2.0,12,4,0,14,0,1,0,0,0,0,0,7.0,0,0,0,0,0,1,6,0,7
+['2024-10-13'],CSA T20 Challenge,1444783,Western Province,3,4,3,1,0,133.33,"[1, 13, 15, 17]",4.0,24,10,0,21,1,0,2,0,0,0,1,5.25,0,0,0,0,0,8,64,0,72
+['2024-10-09'],CSA T20 Challenge,1444777,Western Province,8,0,1,0,0,0.0,[8],1.0,6,1,0,21,0,3,0,0,0,0,0,21.0,0,0,0,0,0,-2,1,0,-1
+['2024-10-04'],CSA T20 Challenge,1444772,Western Province,8,4,3,1,0,133.33,"[1, 7, 9, 11]",4.0,24,11,0,27,1,0,1,0,0,0,1,6.75,0,0,0,0,0,8,38,0,46
+['2024-03-08'],CSA T20 Challenge,1394572,Western Province,6,25,22,1,0,113.64,"[5, 7, 10, 13]",4.0,24,8,0,18,0,0,2,0,2,0,0,4.5,0,0,0,0,0,33,80,0,113
+['2022-10-29'],CSA T20 Challenge,1334913,Western Province,9,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+['2022-10-20'],CSA T20 Challenge,1334897,Western Province,8,3,6,0,0,50.0,"[8, 10]",2.0,12,5,0,12,2,0,0,0,0,0,0,6.0,0,0,0,0,0,3,7,0,10
+['2022-10-18'],CSA T20 Challenge,1334894,Western Province,8,28,17,3,1,164.71,"[3, 5, 12, 14]",4.0,24,6,0,40,5,1,1,0,0,0,1,10.0,0,0,0,0,4,54,29,0,83
+['2022-02-19'],CSA T20 Challenge,1299622,Western Province,8,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,4,0,26,2,0,1,1,0,0,0,6.5,0,0,0,0,0,0,39,0,39

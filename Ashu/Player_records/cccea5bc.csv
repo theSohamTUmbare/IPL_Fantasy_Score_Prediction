@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-01-19'],Big Bash League,1269693,Hobart Hurricanes,10,0,0,0,0,0.0,"[7, 19]",2.0,12,1,0,40,2,4,1,0,0,0,0,20.0,0,0,0,0,0,0,20,0,20
+['2022-01-18'],Big Bash League,1269691,Hobart Hurricanes,8,0,0,0,0,0.0,"[2, 10]",2.0,12,3,0,28,3,2,0,0,0,0,0,14.0,1,0,0,0,0,0,-3,8,5
+['2021-12-11'],Big Bash League,1269645,Hobart Hurricanes,12,0,0,0,0,0.0,[5],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,0,1,0,1

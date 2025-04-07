@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-02-26'],Isle of Man tour of Spain,1354802,Isle of Man,6,41,20,2,4,205.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,83,0,8,91
+['2023-02-26'],Isle of Man tour of Spain,1354803,Isle of Man,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2023-02-25'],Isle of Man tour of Spain,1354800,Isle of Man,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2023-02-25'],Isle of Man tour of Spain,1354801,Isle of Man,6,10,12,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,14,0,8,22

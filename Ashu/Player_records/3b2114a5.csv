@@ -1,0 +1,14 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2025-01-16'],Bangladesh Premier League,1459558,Khulna Tigers,5,37,31,2,1,119.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,55,0,8,63
+['2025-01-13'],Bangladesh Premier League,1459556,Khulna Tigers,1,17,15,3,0,113.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29
+['2025-01-12'],Bangladesh Premier League,1459553,Khulna Tigers,4,15,8,2,1,187.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29
+['2023-02-07'],Bangladesh Premier League,1351088,Chattogram Challengers,8,5,11,0,0,45.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,-1,0,8,7
+['2023-02-04'],Bangladesh Premier League,1351086,Chattogram Challengers,8,21,9,1,2,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,37,0,8,45
+['2023-01-23'],Bangladesh Premier League,1351072,Chattogram Challengers,4,21,17,2,0,123.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,29,0,8,37
+['2023-01-20'],Bangladesh Premier League,1351070,Chattogram Challengers,4,25,26,2,0,96.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,37,0,0,37
+['2023-01-16'],Bangladesh Premier League,1351065,Chattogram Challengers,5,11,14,1,0,78.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
+['2023-01-14'],Bangladesh Premier League,1351063,Chattogram Challengers,4,56,33,3,4,169.7,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,104,0,0,104
+['2023-01-06'],Bangladesh Premier League,1351052,Chattogram Challengers,2,3,9,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2019-01-22'],Bangladesh Premier League,1169404,Dhaka Dynamites,4,19,15,0,2,126.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31
+['2019-01-21'],Bangladesh Premier League,1169402,Dhaka Dynamites,5,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,-2,0,12,10
+['2019-01-18'],Bangladesh Premier League,1169397,Dhaka Dynamites,5,19,15,1,1,126.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29

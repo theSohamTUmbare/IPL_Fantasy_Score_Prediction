@@ -1,0 +1,9 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-06-23'],Vitality Blast,1297890,Worcestershire,9,0,0,0,0,0.0,[9],1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,0,0,1,0,1
+['2022-06-17'],Vitality Blast,1297872,Worcestershire,9,3,6,0,0,50.0,"[1, 4]",2.0,12,5,0,20,3,1,0,0,0,0,0,10.0,0,0,0,0,0,3,3,0,6
+['2022-06-05'],Vitality Blast,1297840,Worcestershire,9,2,3,0,0,66.67,"[15, 17]",2.0,12,4,0,15,2,0,0,0,0,0,0,7.5,1,0,0,0,0,2,4,8,14
+['2022-06-03'],Vitality Blast,1297833,Worcestershire,9,0,0,0,0,0.0,"[11, 13, 15]",3.0,18,7,0,26,3,1,2,0,0,0,1,8.67,1,0,0,0,0,0,57,8,65
+['2022-06-01'],Vitality Blast,1297823,Worcestershire,9,0,1,0,0,0.0,"[1, 5, 11, 16]",4.0,24,7,0,45,3,3,0,0,0,0,0,11.25,1,0,0,0,0,-2,3,8,9
+['2022-05-29'],Vitality Blast,1297810,Worcestershire,9,1,2,0,0,50.0,"[1, 10, 12, 16]",4.0,24,6,0,30,3,0,1,0,0,0,0,7.5,0,0,0,0,0,1,31,0,32
+['2022-05-27'],Vitality Blast,1297807,Worcestershire,9,5,6,0,0,83.33,"[1, 11, 14, 17]",4.0,24,5,0,36,4,1,0,0,0,0,0,9.0,1,0,0,0,0,5,5,8,18
+['2022-05-25'],Vitality Blast,1297795,Worcestershire,8,3,7,0,0,42.86,"[3, 13]",2.0,12,1,0,23,1,1,0,0,0,0,0,11.5,0,0,0,0,0,3,-3,0,0

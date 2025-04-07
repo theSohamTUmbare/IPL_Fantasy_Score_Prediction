@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Kolkata Knight Riders,VR Iyer,a24be938,1,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Kolkata Knight Riders,A Tomar,aa5d8c9e,2,4,8,1,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+Kolkata Knight Riders,N Rana,fb2d1dda,3,42,22,9,0,190.91,[11],1.0,6,0,0,9,1,0,0,0,0,0,0,9.0,0,0,0,0,6,88,0,0,88
+Kolkata Knight Riders,SS Iyer,85ec8e33,4,50,29,4,3,172.41,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,98,0,0,98
+Kolkata Knight Riders,SW Billings,c16d4035,5,36,23,2,3,156.52,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,70,0,0,70
+Kolkata Knight Riders,AD Russell,bbd41817,6,5,11,0,0,45.45,"[9, 18, 20]",3.0,18,1,0,45,5,2,0,0,0,0,0,15.0,0,0,0,0,-6,-1,-5,0,-6
+Kolkata Knight Riders,RK Singh,0a509d6b,7,40,15,2,4,266.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,82,0,0,82
+Kolkata Knight Riders,SP Narine,9d430b40,8,21,7,0,3,300.0,"[4, 7, 13, 15]",4.0,24,8,0,27,0,2,0,0,0,0,0,6.75,0,0,0,0,0,39,10,0,49
+Kolkata Knight Riders,UT Yadav,cc1e8c68,9,0,1,0,0,0.0,"[1, 3, 5, 14]",4.0,24,7,0,34,2,2,0,0,0,0,0,8.5,0,0,0,0,0,-2,7,0,5
+Kolkata Knight Riders,TG Southee,13c35c9e,10,0,0,0,0,0.0,"[2, 10, 17, 19]",4.0,24,5,0,57,2,6,0,0,0,0,1,14.25,0,0,0,0,0,0,-1,0,-1
+Kolkata Knight Riders,CV Varun,5b7ab5a9,11,0,0,0,0,0.0,"[6, 8, 12, 16]",4.0,24,9,0,38,3,2,0,0,0,1,0,9.5,0,0,0,0,0,0,9,0,9
+Lucknow Super Giants,Q de Kock,372455c4,1,140,70,10,10,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,6,262,0,20,282
+Lucknow Super Giants,KL Rahul,b17e2f24,2,68,50,3,4,136.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,114,0,8,122
+Lucknow Super Giants,E Lewis,0ebfb1ad,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Lucknow Super Giants,DJ Hooda,73ad96ed,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
+Lucknow Super Giants,M Vohra,c03e2850,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Lucknow Super Giants,MP Stoinis,d9273ee7,6,0,0,0,0,0.0,"[14, 20]",2.0,12,4,0,23,1,2,3,0,1,0,0,11.5,1,0,0,0,0,0,87,8,95
+Lucknow Super Giants,JO Holder,0f721006,7,0,0,0,0,0.0,"[2, 5, 12, 19]",4.0,24,8,0,45,3,4,0,0,0,0,2,11.25,0,0,0,0,0,0,4,0,4
+Lucknow Super Giants,K Gowtham,90de905a,8,0,0,0,0,0.0,"[6, 8]",2.0,12,4,0,23,3,1,1,0,0,0,0,11.5,0,0,0,0,0,0,25,0,25
+Lucknow Super Giants,Mohsin Khan,c33d8116,9,0,0,0,0,0.0,"[1, 3, 13, 17]",4.0,24,16,0,20,2,1,3,0,0,0,1,5.0,0,0,0,0,0,0,99,0,99
+Lucknow Super Giants,Avesh Khan,eef2536f,10,0,0,0,0,0.0,"[4, 10, 15, 18]",4.0,24,6,0,60,7,3,0,0,0,1,3,15.0,0,0,0,0,0,0,0,0,0
+Lucknow Super Giants,Ravi Bishnoi,df064e1a,11,0,0,0,0,0.0,"[7, 9, 11, 16]",4.0,24,5,0,34,2,2,1,0,0,0,0,8.5,0,0,0,0,0,0,30,0,30

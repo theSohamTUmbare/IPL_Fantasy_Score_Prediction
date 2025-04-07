@@ -1,0 +1,9 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-08-27'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1443783,Bulgaria,2,15,20,1,0,75.0,"[8, 10]",2.0,12,3,0,19,2,0,1,0,1,0,1,9.5,0,0,0,0,0,19,36,0,55
+['2024-08-25'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1443778,Bulgaria,8,12,12,0,0,100.0,"[6, 19]",2.0,12,2,0,25,4,0,0,0,0,1,0,12.5,0,0,0,0,0,12,-4,0,8
+['2024-08-24'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1443777,Bulgaria,1,18,22,2,0,81.82,[14],1.0,6,0,0,9,1,0,0,0,0,0,0,9.0,0,0,0,0,0,26,0,0,26
+['2024-08-21'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1443767,Bulgaria,1,12,20,1,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,14,0,0,14
+['2024-05-24'],Continental Cup,1434155,Bulgaria,2,22,26,0,1,84.62,"[7, 9, 19]",3.0,18,7,0,29,5,0,1,0,0,0,2,9.67,0,0,0,0,0,28,32,0,60
+['2024-05-24'],Continental Cup,1434157,Bulgaria,8,4,5,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+['2023-06-23'],Quadrangular Twenty20 Series (Bulgaria),1381454,Bulgaria,1,20,15,3,0,133.33,"[4, 6]",2.0,12,9,0,7,1,0,1,0,0,0,1,3.5,0,0,0,1,2,34,40,6,80
+['2023-06-23'],Quadrangular Twenty20 Series (Bulgaria),1381455,Bulgaria,1,44,40,4,2,110.0,"[4, 6, 16, 18]",4.0,24,8,0,28,4,0,2,1,0,0,0,7.0,0,0,0,0,0,76,68,0,144

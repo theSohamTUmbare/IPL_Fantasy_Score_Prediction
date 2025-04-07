@@ -1,0 +1,16 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2021-11-09'],Syed Mushtaq Ali Trophy,1280283,Bihar,6,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,1,0,16,17
+['2021-11-05'],Syed Mushtaq Ali Trophy,1280228,Bihar,6,6,6,1,0,100.0,[15],0.167,1,0,0,1,0,0,0,0,0,0,0,5.99,0,0,0,0,0,10,0,0,10
+['2021-11-04'],Syed Mushtaq Ali Trophy,1280208,Bihar,6,7,3,1,0,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19
+['2021-01-18'],Syed Mushtaq Ali Trophy,1244383,Tripura,3,0,3,0,0,0.0,"[8, 10, 12, 14]",4.0,24,4,0,39,2,2,0,0,0,0,0,9.75,0,0,0,0,0,-2,4,0,2
+['2021-01-16'],Syed Mushtaq Ali Trophy,1244363,Tripura,3,8,6,1,0,133.33,"[12, 14]",1.167,7,1,0,9,1,0,0,0,0,0,0,7.71,0,0,0,0,0,12,1,0,13
+['2019-11-17'],Syed Mushtaq Ali Trophy,1205825,Tripura,4,6,17,1,0,35.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,4,0,0,4
+['2019-11-15'],Syed Mushtaq Ali Trophy,1205815,Tripura,3,0,1,0,0,0.0,"[10, 12]",2.0,12,6,0,7,0,0,1,0,0,0,0,3.5,0,0,0,0,0,-2,37,0,35
+['2019-03-02'],Syed Mushtaq Ali Trophy,1157208,Tripura,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2019-02-28'],Syed Mushtaq Ali Trophy,1157191,Tripura,4,5,13,0,0,38.46,"[13, 15]",2.0,12,3,0,10,0,0,0,0,0,0,0,5.0,0,0,0,0,-6,-1,7,0,6
+['2019-02-25'],Syed Mushtaq Ali Trophy,1157158,Tripura,4,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+['2019-02-24'],Syed Mushtaq Ali Trophy,1157141,Tripura,4,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2019-02-22'],Syed Mushtaq Ali Trophy,1157124,Tripura,4,7,8,1,0,87.5,"[12, 14, 16]",3.0,18,3,0,27,0,2,0,0,0,0,0,9.0,0,0,0,0,0,11,3,0,14
+['2019-02-21'],Syed Mushtaq Ali Trophy,1157104,Tripura,6,10,11,1,0,90.91,[17],0.833,5,1,0,6,0,0,0,0,0,0,0,7.2,0,0,0,0,0,14,1,0,15
+['2018-01-12'],Syed Mushtaq Ali Trophy,1130711,Jharkhand,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2018-01-10'],Syed Mushtaq Ali Trophy,1130700,Jharkhand,6,2,5,0,0,40.0,"[14, 16]",2.0,12,2,0,18,1,1,1,0,0,0,0,9.0,0,0,0,0,0,2,27,0,29

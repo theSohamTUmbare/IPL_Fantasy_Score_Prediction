@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2025-02-23'],United States of America tour of Oman,1473147,United States of America,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2025-02-21'],United States of America tour of Oman,1473146,United States of America,5,23,20,2,2,115.0,"[16, 18]",2.0,12,3,0,13,1,0,2,0,0,0,0,6.5,1,0,0,0,0,43,55,8,106
+['2025-02-20'],United States of America in Oman T20I Series,1473145,United States of America,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0

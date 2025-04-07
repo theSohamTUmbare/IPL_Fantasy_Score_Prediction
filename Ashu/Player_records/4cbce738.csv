@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2013-11-24'],ICC World Twenty20 Qualifier,660191,Canada,6,7,9,0,0,77.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,7,0,0,7
+['2013-11-23'],ICC World Twenty20 Qualifier,660183,Canada,7,5,9,0,0,55.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
+['2013-11-22'],ICC World Twenty20 Qualifier,660171,Canada,6,30,21,0,2,142.86,"[12, 14, 16]",3.0,18,5,0,21,1,0,0,0,0,0,0,7.0,0,0,0,0,2,48,7,0,55
+['2013-11-19'],ICC World Twenty20 Qualifier,660147,Canada,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2013-11-16'],ICC World Twenty20 Qualifier,660113,Canada,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0

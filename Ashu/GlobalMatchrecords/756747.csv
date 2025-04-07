@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Melbourne Renegades,AJ Finch,b8d490fd,1,15,19,1,1,78.95,[7],1.0,6,1,0,6,0,0,0,0,0,0,0,6.0,2,0,0,0,0,25,1,16,42
+Melbourne Renegades,MS Wade,afa7e784,2,14,17,2,0,82.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
+Melbourne Renegades,CJ Ferguson,9b4935c8,3,39,28,5,0,139.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,65,0,0,65
+Melbourne Renegades,TLW Cooper,2318ba22,4,9,9,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
+Melbourne Renegades,DJ Bravo,87e562a9,5,13,12,0,1,108.33,"[6, 11, 17, 19]",4.0,24,4,0,48,5,1,1,0,0,0,0,12.0,1,0,0,0,0,19,25,8,52
+Melbourne Renegades,AD Russell,bbd41817,6,43,21,2,4,204.76,"[8, 10, 16]",3.0,18,4,0,26,0,2,0,0,0,0,0,8.67,0,0,0,0,6,85,4,0,89
+Melbourne Renegades,BJ Rohrer,27af6414,7,9,8,1,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+Melbourne Renegades,MW Short,a90e53ec,8,2,5,0,0,40.0,"[4, 12, 14]",3.0,18,3,0,26,1,1,1,0,0,0,0,8.67,0,0,0,0,0,2,28,0,30
+Melbourne Renegades,AL Fekete,029c4618,9,0,1,0,0,0.0,"[2, 5, 18, 20]",4.0,24,6,0,41,4,1,1,0,0,0,1,10.25,0,0,0,0,0,0,29,0,29
+Melbourne Renegades,Fawad Ahmed,22ae3041,10,0,0,0,0,0.0,"[9, 13, 15]",3.0,18,6,0,25,2,1,0,0,0,0,0,8.33,0,0,0,0,0,0,6,0,6
+Melbourne Renegades,NP Winter,6c87f1df,11,0,0,0,0,0.0,"[1, 3]",2.0,12,5,0,15,2,0,0,0,0,0,2,7.5,0,0,0,0,0,0,5,0,5
+Perth Scorchers,MS Harris,9e85455c,1,53,39,5,1,135.9,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,89,0,8,97
+Perth Scorchers,M Klinger,b970a03f,2,105,60,7,4,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,179,0,8,187
+Perth Scorchers,MA Carberry,8305580c,3,17,15,1,1,113.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27
+Perth Scorchers,AC Agar,a2421394,4,6,4,1,0,150.0,"[7, 9, 13]",3.0,18,9,0,22,2,1,2,0,1,0,0,7.33,0,0,0,0,0,10,67,0,77
+Perth Scorchers,AJ Turner,ff1e12a0,5,3,2,0,0,150.0,[2],1.0,6,4,0,3,0,0,0,0,0,0,0,3.0,0,0,0,1,0,3,4,6,13
+Perth Scorchers,SM Whiteman,f4427cc6,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Perth Scorchers,AC Voges,864c199e,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Perth Scorchers,AJ Tye,7c7d63a2,8,0,0,0,0,0.0,"[8, 10, 16, 19]",4.0,24,11,0,36,3,2,2,0,1,0,1,9.0,0,0,0,0,0,0,69,0,69
+Perth Scorchers,Yasir Arafat,3cf5ae43,9,0,0,0,0,0.0,"[12, 14, 18, 20]",4.0,24,4,0,46,3,2,1,0,1,0,6,11.5,0,0,0,1,0,0,33,6,39
+Perth Scorchers,MW Dixon,314ed7e6,10,0,0,0,0,0.0,"[4, 6, 11, 15]",4.0,24,11,0,30,3,1,1,0,0,0,2,7.5,0,0,0,0,0,0,36,0,36
+Perth Scorchers,JP Behrendorff,4933f499,11,0,0,0,0,0.0,"[1, 3, 5, 17]",4.0,24,14,0,16,2,0,2,0,0,0,0,4.0,1,0,0,0,0,0,70,8,78

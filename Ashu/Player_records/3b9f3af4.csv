@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-10-19'],CSA T20 Challenge,1444790,Warriors,7,4,2,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+['2024-10-16'],CSA T20 Challenge,1444785,Warriors,8,9,8,1,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
+['2024-10-06'],CSA T20 Challenge,1444773,Warriors,8,6,5,0,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6
+['2024-09-29'],CSA T20 Challenge,1444768,Warriors,2,7,8,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
+['2024-03-08'],CSA T20 Challenge,1394571,Warriors,8,11,12,1,0,91.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15

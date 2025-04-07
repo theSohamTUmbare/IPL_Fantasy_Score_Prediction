@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Durbar Rajshahi,Mohammad Haris,ff3f6fc1,1,13,12,0,1,108.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,19,0,8,27
+Durbar Rajshahi,Jishan Alam,86e22dd4,2,0,2,0,0,0.0,[1],1.0,6,3,0,6,1,0,1,1,0,0,0,6.0,0,0,0,0,0,-2,36,0,34
+Durbar Rajshahi,Anamul Haque,72b245dd,3,65,51,4,5,127.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,119,0,0,119
+Durbar Rajshahi,Yasir Ali Chowdhury,5791b840,4,94,47,7,8,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,188,0,0,188
+Durbar Rajshahi,RP Burl,b08252b8,5,9,8,1,0,112.5,"[11, 14]",2.0,12,8,0,13,0,2,0,0,0,0,0,6.5,1,0,0,0,0,13,10,8,31
+Durbar Rajshahi,Akbar Ali,abae26ad,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Durbar Rajshahi,SM Meherob,f146c339,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Durbar Rajshahi,SMLD Samarakoon,d28f4d1c,8,0,0,0,0,0.0,"[8, 10, 12, 17]",4.0,24,4,0,64,4,6,0,0,0,0,1,16.0,2,0,0,0,0,0,-2,16,14
+Durbar Rajshahi,Mrittunjoy Chowdhury,21b97584,9,0,0,0,0,0.0,"[3, 6, 16, 19]",3.167,19,4,0,43,5,2,0,0,0,0,2,13.58,0,0,0,0,0,0,-2,0,-2
+Durbar Rajshahi,Taskin Ahmed,ef18b66e,10,0,0,0,0,0.0,"[2, 4, 13, 18]",4.0,24,11,0,31,2,2,3,1,0,0,0,7.75,0,0,0,0,0,0,98,0,98
+Durbar Rajshahi,Hasan Murad,da9f58aa,11,0,0,0,0,0.0,"[5, 7, 9, 15]",4.0,24,8,0,42,3,3,2,0,0,0,1,10.5,0,0,0,0,0,0,56,0,56
+Fortune Barishal,Nazmul Hossain Shanto,1274d7ab,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Fortune Barishal,Tamim Iqbal,3b041a12,2,7,5,0,1,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+Fortune Barishal,Towhid Hridoy,9e52a414,3,32,23,5,0,139.13,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,58,0,0,58
+Fortune Barishal,KR Mayers,73c18486,4,6,5,1,0,120.0,"[2, 4, 6]",3.0,18,12,0,13,0,1,2,0,1,0,2,4.33,1,0,0,0,0,10,76,8,94
+Fortune Barishal,Mushfiqur Rahim,a94e08ea,5,13,11,2,0,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,21,0,8,29
+Fortune Barishal,Mahmudullah,bf1d7d3e,6,56,26,5,4,215.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,114,0,0,114
+Fortune Barishal,Shaheen Shah Afridi,45a7e761,7,27,17,1,3,158.82,"[1, 3, 13, 19]",4.0,24,10,0,33,2,2,0,0,0,0,2,8.25,0,0,0,0,4,57,10,0,67
+Fortune Barishal,Faheem Ashraf,bd4ea627,8,54,21,1,7,257.14,"[5, 11, 15, 18]",4.0,24,7,0,42,4,2,1,0,0,0,3,10.5,0,0,0,0,6,114,30,0,144
+Fortune Barishal,Mohammad Nabi,62af8546,9,0,0,0,0,0.0,[10],1.0,6,3,0,3,0,0,0,0,0,0,0,3.0,0,0,0,0,0,0,3,0,3
+Fortune Barishal,Tanvir Islam,aa467af0,10,0,0,0,0,0.0,"[8, 12, 14, 16]",4.0,24,7,0,44,0,5,0,0,0,0,1,11.0,0,0,0,0,0,0,5,0,5
+Fortune Barishal,R Mondol,492ff0c2,11,0,0,0,0,0.0,"[7, 9, 17, 20]",4.0,24,7,0,55,6,4,0,0,0,0,1,13.75,0,0,0,0,0,0,1,0,1

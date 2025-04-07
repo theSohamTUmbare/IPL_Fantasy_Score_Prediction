@@ -1,0 +1,22 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-08-15'],Germany tour of Netherlands,1387245,Guernsey,9,0,0,0,0,0.0,"[7, 9, 16, 19]",4.0,24,3,0,39,3,1,1,0,1,0,2,9.75,0,0,0,0,0,0,36,0,36
+['2023-08-14'],Germany tour of Netherlands,1387243,Guernsey,9,9,9,0,0,100.0,[7],1.0,6,1,0,16,2,0,0,0,0,0,5,16.0,0,0,0,0,0,9,1,0,10
+['2023-08-14'],Germany tour of Netherlands,1387244,Guernsey,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2022-07-31'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321302,Guernsey,10,0,0,0,0,0.0,"[4, 7, 18]",3.0,18,9,0,22,0,2,0,0,0,0,0,7.33,0,0,0,0,0,0,9,0,9
+['2022-07-28'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321296,Guernsey,6,0,0,0,0,0.0,"[2, 7, 15]",2.833,17,9,0,13,1,0,1,0,1,1,1,4.59,0,0,0,1,0,0,48,6,54
+['2022-07-27'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321289,Guernsey,9,0,0,0,0,0.0,"[2, 7, 13, 20]",3.667,22,6,0,32,3,1,0,0,0,0,1,8.73,0,0,0,1,0,0,6,6,12
+['2022-07-25'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321288,Guernsey,8,0,0,0,0,0.0,"[3, 8, 11, 20]",4.0,24,9,0,23,2,0,1,0,0,0,0,5.75,0,0,0,0,0,0,38,0,38
+['2022-07-24'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321283,Guernsey,9,3,2,0,0,150.0,"[2, 7, 11, 16]",4.0,24,13,0,21,2,0,3,0,2,0,1,5.25,0,0,0,0,0,3,112,0,115
+['2022-05-20'],Inter-Insular T20 Series,1310188,Guernsey,8,7,7,0,0,100.0,"[9, 11, 19]",3.0,18,4,0,27,3,0,0,0,0,0,0,9.0,0,0,0,0,0,7,4,0,11
+['2022-05-01'],Spain Triangular T20I Series,1310165,Guernsey,9,0,0,0,0,0.0,"[8, 10, 17, 19]",4.0,24,7,0,30,1,1,1,0,0,0,1,7.5,0,0,0,1,0,0,32,6,38
+['2022-04-30'],Spain Triangular T20I Series,1310163,Guernsey,11,0,0,0,0,0.0,"[6, 14, 17, 19]",4.0,24,8,0,40,4,1,2,0,0,0,2,10.0,1,0,0,0,0,0,56,8,64
+['2022-04-30'],Spain Triangular T20I Series,1310164,Guernsey,9,9,11,1,0,81.82,"[10, 12]",2.0,12,8,0,12,1,1,1,0,0,0,0,6.0,1,0,0,0,0,13,35,8,56
+['2022-04-29'],Spain Triangular T20I Series,1310161,Guernsey,7,14,19,0,0,73.68,"[5, 9, 17, 19]",4.0,24,9,0,26,2,0,0,0,0,0,3,6.5,0,0,0,2,0,14,11,12,37
+['2019-06-20'],ICC Men's T20 World Cup Europe Region Final,1189743,Guernsey,6,0,1,0,0,0.0,"[7, 9, 17, 19]",4.0,24,8,0,28,0,2,0,0,0,0,1,7.0,0,0,0,0,0,-2,10,0,8
+['2019-06-19'],ICC Men's T20 World Cup Europe Region Final,1185191,Guernsey,6,12,11,0,1,109.09,"[7, 9, 13, 15]",4.0,24,9,0,28,1,2,0,0,0,0,0,7.0,0,0,0,0,0,18,11,0,29
+['2019-06-18'],ICC Men's T20 World Cup Europe Region Final,1185187,Guernsey,9,0,0,0,0,0.0,"[7, 9]",2.0,12,7,0,5,0,0,3,0,2,0,0,2.5,0,0,0,0,0,0,108,0,108
+['2019-06-16'],ICC Men's T20 World Cup Europe Region Final,1185185,Guernsey,5,18,27,1,0,66.67,"[6, 13, 18, 20]",3.333,20,13,0,13,2,0,2,0,1,0,0,3.9,2,0,0,0,-2,20,77,16,113
+['2019-06-15'],ICC Men's T20 World Cup Europe Region Final,1185181,Guernsey,4,10,16,0,0,62.5,"[8, 10]",2.0,12,3,0,11,0,0,0,0,0,0,2,5.5,1,0,0,0,-2,8,7,8,23
+['2018-09-01'],ICC World Twenty20 Europe Region Qualifier C,1156675,Guernsey,9,3,6,0,0,50.0,"[13, 15, 17]",2.5,15,8,0,16,3,0,0,0,0,0,0,6.4,0,0,0,0,0,3,10,0,13
+['2018-08-30'],ICC World Twenty20 Europe Region Qualifier C,1156670,Guernsey,7,0,0,0,0,0.0,"[10, 12, 18, 20]",4.0,24,11,0,17,0,0,1,0,0,0,2,4.25,0,0,0,0,0,0,42,0,42
+['2018-08-29'],ICC World Twenty20 Europe Region Qualifier C,1156665,Guernsey,7,0,0,0,0,0.0,"[8, 10, 18]",3.0,18,11,0,11,1,0,1,0,1,0,1,3.67,0,0,0,0,0,0,50,0,50

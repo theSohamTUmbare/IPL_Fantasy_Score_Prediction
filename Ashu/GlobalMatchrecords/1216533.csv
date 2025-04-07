@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Chennai Super Kings,SM Curran,e94915e6,1,22,25,1,1,88.0,[11],1.0,6,1,0,6,0,0,0,0,0,0,0,6.0,0,0,0,0,0,32,1,0,33
+Chennai Super Kings,F du Plessis,3355b542,2,10,9,1,0,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
+Chennai Super Kings,SR Watson,4329fbb5,3,8,3,2,0,266.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
+Chennai Super Kings,AT Rayudu,70d205c9,4,13,18,2,0,72.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
+Chennai Super Kings,MS Dhoni,4a8a2e3b,5,28,28,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,40,0,16,56
+Chennai Super Kings,RA Jadeja,fe93fd9d,6,35,30,4,0,116.67,"[7, 18]",1.5,9,2,0,11,1,0,0,0,0,0,0,7.33,0,0,0,0,0,55,2,0,57
+Chennai Super Kings,KM Jadhav,99d63244,7,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+Chennai Super Kings,PP Chawla,98ae73b1,8,0,0,0,0,0.0,"[13, 15, 17]",3.0,18,5,0,32,4,1,0,0,0,0,0,10.67,0,0,0,0,0,0,3,0,3
+Chennai Super Kings,DL Chahar,23eeb873,9,0,0,0,0,0.0,"[1, 3, 5, 8]",4.0,24,16,1,18,2,0,2,0,1,0,0,4.5,0,0,0,0,0,0,92,0,92
+Chennai Super Kings,SN Thakur,1abb78f8,10,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,8,0,34,3,1,0,0,0,0,1,8.5,0,0,0,0,0,0,8,0,8
+Chennai Super Kings,JR Hazlewood,03806cf8,11,0,0,0,0,0.0,"[2, 4, 6, 9]",4.0,24,13,0,19,2,0,1,0,0,0,0,4.75,0,0,0,0,0,0,44,0,44
+Rajasthan Royals,BA Stokes,e087956b,1,19,11,3,0,172.73,"[5, 16, 20]",3.0,18,2,0,27,2,1,0,0,0,0,0,9.0,0,0,0,0,6,37,2,0,39
+Rajasthan Royals,RV Uthappa,1c17e270,2,4,9,0,0,44.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+Rajasthan Royals,SV Samson,a4cc73aa,3,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+Rajasthan Royals,SPD Smith,30a45b23,4,26,34,2,0,76.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,38,0,0,38
+Rajasthan Royals,JC Buttler,99b75528,5,70,48,7,2,145.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,120,0,16,136
+Rajasthan Royals,R Tewatia,39a2dfa8,6,0,0,0,0,0.0,"[8, 10, 12, 15]",4.0,24,11,0,18,0,0,1,0,0,1,0,4.5,1,0,0,0,0,0,42,8,50
+Rajasthan Royals,R Parag,04a418e8,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Rajasthan Royals,JC Archer,5574750c,8,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,11,0,20,2,0,1,0,0,0,0,5.0,0,0,0,0,0,0,40,0,40
+Rajasthan Royals,S Gopal,7a8bd078,9,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,12,0,14,0,0,1,0,0,0,0,3.5,0,0,0,0,0,0,43,0,43
+Rajasthan Royals,AS Rajpoot,db31895a,10,0,0,0,0,0.0,[2],1.0,6,2,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,0,2,0,2
+Rajasthan Royals,Kartik Tyagi,5d2eea49,11,0,0,0,0,0.0,"[4, 6, 14, 18]",4.0,24,10,0,35,7,0,1,0,0,0,1,8.75,0,0,0,0,0,0,35,0,35

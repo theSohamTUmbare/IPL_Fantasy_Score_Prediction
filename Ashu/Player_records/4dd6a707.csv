@@ -1,0 +1,8 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-05-11'],Mdina Cup,1432198,Belgium,2,9,10,1,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
+['2024-05-11'],Mdina Cup,1432199,Belgium,2,5,5,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
+['2021-07-09'],Belgium tour of Malta,1268190,Belgium,2,12,8,2,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
+['2021-07-08'],Belgium tour of Malta,1268188,Belgium,2,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2020-08-30'],Luxembourg Twenty20 Tri-Series,1229822,Belgium,5,7,7,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
+['2020-08-30'],Luxembourg Twenty20 Tri-Series,1229823,Belgium,2,28,27,5,0,103.7,"[17, 19]",2.0,12,2,0,22,3,0,0,0,0,0,0,11.0,0,0,0,0,0,52,0,0,52
+['2020-08-29'],Luxembourg Twenty20 Tri-Series,1229820,Belgium,6,4,9,0,0,44.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4

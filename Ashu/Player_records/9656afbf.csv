@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-01-16'],Big Bash League,1269688,Melbourne Stars,9,0,0,0,0,0.0,"[3, 8, 17]",3.0,18,7,0,30,2,2,1,1,0,0,2,10.0,0,0,0,0,0,0,38,0,38
+['2022-01-15'],Big Bash League,1269676,Melbourne Stars,11,0,0,0,0,0.0,"[2, 8, 17, 20]",4.0,24,5,0,37,3,1,1,0,1,0,0,9.25,0,0,0,0,0,0,38,0,38
+['2022-01-03'],Big Bash League,1269670,Melbourne Stars,11,1,2,0,0,50.0,"[1, 10, 15]",3.0,18,7,0,24,3,0,1,0,0,1,1,8.0,0,0,0,0,0,1,32,0,33

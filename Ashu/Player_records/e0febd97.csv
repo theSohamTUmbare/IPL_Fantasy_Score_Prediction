@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2021-06-26'],Sofia Twenty20,1267311,Greece,1,9,6,2,0,150.0,"[10, 12, 14, 19]",4.0,24,14,1,32,4,2,1,0,0,0,0,8.0,0,0,1,0,0,17,51,12,80
+['2021-06-25'],Sofia Twenty20,1267306,Greece,5,22,16,4,0,137.5,[2],1.0,6,3,0,6,1,0,0,0,0,0,0,6.0,1,0,0,0,2,40,3,8,51
+['2021-06-24'],Sofia Twenty20,1267304,Greece,5,4,5,1,0,80.0,"[1, 3]",2.0,12,4,0,29,2,3,1,0,0,0,0,14.5,2,0,0,0,0,8,23,16,47

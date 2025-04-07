@@ -1,0 +1,14 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-08-28'],Nepal tour of Kenya,1328476,Kenya,8,0,0,0,0,0.0,"[4, 6, 18]",3.0,18,7,0,28,2,2,2,0,0,0,0,9.33,1,0,0,0,0,0,57,8,65
+['2021-11-18'],ICC Men's T20 World Cup Africa Region Qualifier,1289047,Kenya,11,0,0,0,0,0.0,"[9, 11, 19]",3.0,18,7,0,27,2,1,0,0,0,0,2,9.0,0,0,0,0,0,0,7,0,7
+['2021-11-17'],ICC Men's T20 World Cup Africa Region Qualifier,1289045,Kenya,8,0,4,0,0,0.0,"[6, 8, 15, 17]",4.0,24,9,0,33,2,2,0,0,0,0,0,8.25,0,0,0,0,0,-2,9,0,7
+['2021-09-17'],Uganda T20 Tri-Series,1275051,Kenya,6,2,5,0,0,40.0,"[5, 7, 11]",3.0,18,7,0,29,2,2,1,0,0,0,2,9.67,0,0,0,0,0,2,32,0,34
+['2021-09-16'],Uganda T20 Tri-Series,1275045,Kenya,7,16,10,1,1,160.0,"[6, 8, 10, 17]",4.0,24,8,0,36,3,2,1,0,0,0,0,9.0,0,0,0,0,4,30,33,0,63
+['2019-05-21'],ICC Men's T20 World Cup Africa Region Final,1184261,Kenya,11,0,0,0,0,0.0,"[6, 8]",2.0,12,4,0,12,1,0,0,0,0,0,0,6.0,0,0,0,0,0,0,6,0,6
+['2018-07-11'],ICC World Twenty20 Africa Region Qualifier B,1151250,Kenya,10,0,0,0,0,0.0,"[5, 7, 18, 20]",3.5,21,10,0,19,2,0,3,0,1,0,0,5.43,1,0,0,0,0,0,101,8,109
+['2018-07-10'],ICC World Twenty20 Africa Region Qualifier B,1151247,Kenya,11,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,10,0,22,3,1,1,0,0,0,1,7.33,0,0,0,0,0,0,35,0,35
+['2016-09-29'],Kenya T20 Quadrangular Series,1059539,Kenya,10,0,0,0,0,0.0,"[2, 4, 18]",3.0,18,6,0,34,5,1,0,0,0,0,0,11.33,0,0,0,0,0,0,2,0,2
+['2016-09-28'],Kenya T20 Quadrangular Series,1058155,Kenya,11,0,0,0,0,0.0,"[5, 7, 15]",3.0,18,10,1,21,2,0,1,0,0,0,5,7.0,0,0,0,0,0,0,49,0,49
+['2016-09-27'],Kenya T20 Quadrangular Series,1058152,Kenya,11,1,3,0,0,33.33,"[4, 13, 15]",3.0,18,5,0,20,0,1,0,0,0,0,0,6.67,1,0,0,0,0,1,7,8,16
+['2015-07-18'],ICC World Twenty20 Qualifier,875533,Kenya,10,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2015-07-15'],ICC World Twenty20 Qualifier,875509,Kenya,10,0,0,0,0,0.0,[11],1.0,6,2,0,14,3,0,0,0,0,0,1,14.0,0,0,0,0,0,0,2,0,2

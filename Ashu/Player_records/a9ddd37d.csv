@@ -1,0 +1,10 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2020-02-25'],ACC Western Region T20,1215159,Maldives,1,3,7,0,0,42.86,"[8, 10, 15]",2.333,14,2,0,21,1,1,0,0,0,0,0,9.0,0,0,0,0,0,3,2,0,5
+['2019-06-29'],Malaysia Tri-Nation T20I Series,1186493,Maldives,4,56,35,9,1,160.0,"[8, 10, 12, 18]",4.0,24,8,0,23,0,1,2,0,1,0,0,5.75,0,0,0,0,4,110,70,0,180
+['2019-06-28'],Malaysia Tri-Nation T20I Series,1186492,Maldives,5,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,8,0,25,2,0,1,0,0,0,0,6.25,0,0,0,0,0,0,35,0,35
+['2019-06-26'],Malaysia Tri-Nation T20I Series,1186490,Maldives,5,40,34,3,2,117.65,"[7, 9, 11, 13]",4.0,24,9,0,25,1,1,0,0,0,0,1,6.25,0,0,0,0,0,68,11,0,79
+['2018-04-26'],ICC World Twenty20 Asia Region Qualifier A,1142222,Maldives,4,47,42,5,0,111.9,"[13, 15, 17, 19]",4.0,24,9,0,21,0,1,2,0,0,0,0,5.25,0,0,0,0,0,71,63,0,134
+['2018-04-24'],ICC World Twenty20 Asia Region Qualifier A,1142217,Maldives,1,8,6,2,0,133.33,"[13, 15, 17, 19]",4.0,24,10,0,22,1,1,2,0,0,0,0,5.5,0,0,0,0,0,16,64,0,80
+['2018-04-23'],ICC World Twenty20 Asia Region Qualifier A,1142214,Maldives,3,27,28,1,0,96.43,"[7, 9, 11]",3.0,18,6,0,20,2,0,1,0,0,0,2,6.67,0,0,0,0,0,35,33,0,68
+['2018-04-21'],ICC World Twenty20 Asia Region Qualifier A,1142212,Maldives,1,65,51,6,2,127.45,"[7, 9, 15, 19]",4.0,24,6,0,32,1,1,1,0,0,0,1,8.0,0,0,0,0,0,109,31,0,140
+['2018-04-20'],ICC World Twenty20 Asia Region Qualifier A,1142208,Maldives,3,9,14,1,0,64.29,"[7, 9, 11, 13]",4.0,24,7,0,26,1,0,0,0,0,0,3,6.5,0,0,0,0,-2,11,9,0,20

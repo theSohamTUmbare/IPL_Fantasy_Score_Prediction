@@ -1,0 +1,10 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2025-01-18'],Big Bash League,1443095,Adelaide Strikers,4,67,43,4,5,155.81,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,125,0,8,133
+['2024-12-31'],Big Bash League,1443073,Adelaide Strikers,7,0,1,0,0,0.0,[6],1.0,6,0,0,11,1,0,0,0,0,0,0,11.0,0,0,0,0,0,-2,0,0,-2
+['2024-12-27'],Big Bash League,1443069,Adelaide Strikers,8,3,2,0,0,150.0,"[3, 12, 18, 20]",4.0,24,3,0,52,5,3,1,0,1,0,0,13.0,0,0,0,0,0,3,30,0,33
+['2024-12-22'],Big Bash League,1443065,Adelaide Strikers,8,9,5,0,0,180.0,"[8, 14, 20]",3.0,18,6,0,23,1,1,1,0,0,0,0,7.67,0,0,0,0,0,9,31,0,40
+['2024-12-20'],Big Bash League,1443062,Adelaide Strikers,8,8,5,1,0,160.0,[5],1.0,6,0,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,0,12,0,0,12
+['2022-01-12'],Big Bash League,1269683,Adelaide Strikers,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2021-12-11'],Big Bash League,1269646,Adelaide Strikers,7,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2021-12-09'],Big Bash League,1269643,Adelaide Strikers,6,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2020-12-20'],Big Bash League,1226873,Adelaide Strikers,7,10,12,1,0,83.33,"[11, 13]",2.0,12,4,0,28,1,3,0,0,0,0,1,14.0,0,0,0,0,0,14,-2,0,12

@@ -1,0 +1,14 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-09-09'],Caribbean Premier League,1369579,Jamaica Tallawahs,2,13,16,0,1,81.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
+['2023-08-27'],Caribbean Premier League,1369568,Jamaica Tallawahs,4,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+['2023-08-23'],Caribbean Premier League,1369564,Jamaica Tallawahs,4,17,15,0,2,113.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,29,0,8,37
+['2023-08-16'],Caribbean Premier League,1369558,Jamaica Tallawahs,4,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2022-09-17'],Caribbean Premier League,1323164,Jamaica Tallawahs,2,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,10,0,28,38
+['2022-09-15'],Caribbean Premier League,1323162,Jamaica Tallawahs,2,29,18,5,1,161.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,4,63,0,20,83
+['2022-09-14'],Caribbean Premier League,1323160,Jamaica Tallawahs,3,11,23,1,0,47.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,9,0,0,9
+['2022-09-11'],Caribbean Premier League,1323157,Jamaica Tallawahs,3,30,36,2,1,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,48,0,0,48
+['2022-09-10'],Caribbean Premier League,1323155,Jamaica Tallawahs,3,2,12,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,-6,-4,0,12,8
+['2022-09-03'],Caribbean Premier League,1323147,Jamaica Tallawahs,5,15,20,0,1,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,21,0,16,37
+['2022-08-31'],Caribbean Premier League,1323144,Jamaica Tallawahs,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
+['2020-09-06'],Caribbean Premier League,1227893,Trinbago Knight Riders,2,19,24,1,0,79.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,23,0,8,31
+['2020-09-02'],Caribbean Premier League,1227887,Trinbago Knight Riders,2,6,7,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10

@@ -1,0 +1,8 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-08-31'],East Africa Cup,1393320,Uganda,6,0,0,0,0,0.0,"[2, 4, 13]",3.0,18,8,0,30,6,0,1,0,0,0,1,10.0,0,0,0,0,0,0,31,0,31
+['2023-08-30'],East Africa Cup,1393319,Uganda,11,0,1,0,0,0.0,"[2, 4, 6, 20]",3.167,19,8,0,19,2,0,2,0,1,1,0,6.0,0,0,0,1,0,-2,66,6,70
+['2023-08-28'],East Africa Cup,1393318,Uganda,4,13,6,2,0,216.67,"[1, 3, 5, 7]",4.0,24,13,0,14,1,0,0,0,0,0,1,3.5,0,0,0,0,0,21,19,0,40
+['2023-08-27'],East Africa Cup,1393316,Uganda,8,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,8,0,20,3,0,1,0,0,0,1,6.67,0,0,0,0,0,0,35,0,35
+['2023-08-24'],East Africa Cup,1393313,Uganda,9,0,0,0,0,0.0,"[1, 3]",2.0,12,8,0,22,2,1,0,0,0,2,6,11.0,0,0,0,0,0,0,6,0,6
+['2023-08-22'],East Africa Cup,1393312,Uganda,10,0,1,0,0,0.0,"[1, 3, 5, 7]",4.0,24,14,1,24,4,0,3,0,0,0,1,6.0,0,0,0,0,0,0,107,0,107
+['2023-08-21'],East Africa Cup,1393311,Uganda,9,0,0,0,0,0.0,"[2, 4]",2.0,12,6,0,20,1,2,0,0,0,0,0,10.0,1,0,0,0,0,0,4,8,12

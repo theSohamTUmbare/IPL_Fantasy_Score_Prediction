@@ -1,0 +1,33 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-02-03'],Bangladesh Premier League,1296701,Sylhet Sunrisers,7,6,1,0,1,600.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+['2020-01-10'],Bangladesh Premier League,1208105,Rangpur Rangers,7,3,3,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2019-12-20'],Bangladesh Premier League,1208079,Rangpur Rangers,4,0,9,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2019-12-18'],Bangladesh Premier League,1208077,Rangpur Rangers,7,15,10,0,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,21,0,8,29
+['2019-12-14'],Bangladesh Premier League,1208073,Rangpur Rangers,7,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
+['2019-02-06'],Bangladesh Premier League,1169423,Rangpur Riders,2,27,12,2,3,225.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,63,0,0,63
+['2017-12-02'],Bangladesh Premier League,1121280,Dhaka Dynamites,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2017-11-21'],Bangladesh Premier League,1121268,Dhaka Dynamites,9,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2017-11-18'],Bangladesh Premier League,1121263,Dhaka Dynamites,4,6,9,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,6,0,8,14
+['2017-11-14'],Bangladesh Premier League,1121257,Dhaka Dynamites,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2016-11-29'],Bangladesh Premier League,1063079,Barisal Bulls,6,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2016-11-27'],Bangladesh Premier League,1063077,Barisal Bulls,5,21,25,2,0,84.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,29,0,12,41
+['2016-11-25'],Bangladesh Premier League,1063074,Barisal Bulls,5,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2016-11-22'],Bangladesh Premier League,1063072,Barisal Bulls,2,4,2,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+['2016-11-20'],Bangladesh Premier League,1063052,Barisal Bulls,7,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2016-11-17'],Bangladesh Premier League,1063064,Barisal Bulls,5,41,25,0,3,164.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,67,0,0,67
+['2016-11-14'],Bangladesh Premier League,1063049,Barisal Bulls,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2016-11-13'],Bangladesh Premier League,1063061,Barisal Bulls,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2015-12-15'],Bangladesh Premier League,935349,Barisal Bulls,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2015-12-12'],Bangladesh Premier League,935345,Barisal Bulls,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2015-12-03'],Bangladesh Premier League,935319,Barisal Bulls,5,16,19,1,1,84.21,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26
+['2015-12-01'],Bangladesh Premier League,935313,Barisal Bulls,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2015-11-30'],Bangladesh Premier League,935307,Barisal Bulls,6,7,7,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19
+['2015-11-25'],Bangladesh Premier League,935297,Barisal Bulls,6,7,15,0,0,46.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,1,0,0,1
+['2015-11-24'],Bangladesh Premier League,935293,Barisal Bulls,6,24,28,1,1,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,34,0,8,42
+['2015-11-23'],Bangladesh Premier League,935289,Barisal Bulls,6,30,31,1,1,96.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,44,0,0,44
+['2013-01-25'],Bangladesh Premier League,599877,Sylhet Royals,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2013-01-20'],Bangladesh Premier League,599870,Sylhet Royals,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2012-02-24'],Bangladesh Premier League,551068,Sylhet Royals,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2012-02-14'],Bangladesh Premier League,551053,Sylhet Royals,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2007-09-20'],ICC World Twenty20,287875,Bangladesh,6,12,9,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
+['2007-09-18'],ICC World Twenty20,287871,Bangladesh,6,5,6,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5

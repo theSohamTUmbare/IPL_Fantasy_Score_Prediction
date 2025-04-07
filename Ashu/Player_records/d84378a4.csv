@@ -1,0 +1,30 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2012-04-15'],Indian Premier League,548324,Royal Challengers Bangalore,6,14,16,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
+['2011-05-24'],Indian Premier League,501268,Royal Challengers Bangalore,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2011-05-22'],Indian Premier League,501266,Royal Challengers Bangalore,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2011-05-17'],Indian Premier League,501260,Royal Challengers Bangalore,6,15,11,3,0,136.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,29,0,0,29
+['2011-05-14'],Indian Premier League,501255,Royal Challengers Bangalore,5,15,13,1,0,115.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
+['2011-05-11'],Indian Premier League,501252,Royal Challengers Bangalore,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
+['2011-05-08'],Indian Premier League,501247,Royal Challengers Bangalore,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,0,0,14,14
+['2011-05-06'],Indian Premier League,501244,Royal Challengers Bangalore,7,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2011-04-29'],Indian Premier League,501232,Royal Challengers Bangalore,6,8,5,1,0,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,12,0,16,28
+['2010-03-24'],Indian Premier League,419124,Kings XI Punjab,7,8,8,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+['2010-03-21'],Indian Premier League,419121,Kings XI Punjab,6,14,16,0,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,14,0,8,22
+['2010-03-16'],Indian Premier League,419112,Kings XI Punjab,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2010-03-13'],Indian Premier League,419108,Kings XI Punjab,7,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+['2008-06-01'],Indian Premier League,336040,Rajasthan Royals,6,12,9,0,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
+['2008-05-30'],Indian Premier League,336038,Rajasthan Royals,5,12,11,0,1,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26
+['2008-05-28'],Indian Premier League,336019,Rajasthan Royals,1,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2008-05-26'],Indian Premier League,336036,Rajasthan Royals,5,12,15,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+['2008-05-24'],Indian Premier League,336033,Rajasthan Royals,5,10,7,1,0,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,14,0,16,30
+['2008-05-20'],Indian Premier League,336027,Rajasthan Royals,4,34,31,4,0,109.68,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,54,0,16,70
+['2008-05-17'],Indian Premier League,336023,Rajasthan Royals,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2008-05-11'],Indian Premier League,336015,Rajasthan Royals,3,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+['2008-05-09'],Indian Premier League,336011,Rajasthan Royals,3,17,14,2,0,121.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
+['2008-05-07'],Indian Premier League,336008,Rajasthan Royals,5,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+['2008-05-04'],Indian Premier League,336005,Rajasthan Royals,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2008-05-01'],Indian Premier League,336000,Rajasthan Royals,3,21,18,3,1,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,39,0,8,47
+['2008-04-26'],Indian Premier League,335992,Rajasthan Royals,5,4,6,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+['2008-04-24'],Indian Premier League,335990,Rajasthan Royals,5,34,16,2,3,212.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,70,0,0,70
+['2008-04-21'],Indian Premier League,335987,Rajasthan Royals,1,5,7,1,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
+['2008-04-19'],Indian Premier League,335984,Rajasthan Royals,4,9,19,0,0,47.37,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,3,0,0,3

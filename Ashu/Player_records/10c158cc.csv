@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-12-20'],Gulf T20I Championship,1463666,Oman,1,20,26,2,0,76.92,[16],1.0,6,1,0,11,0,1,0,0,0,0,0,11.0,1,0,0,1,0,28,1,14,43
+['2024-12-15'],Gulf T20I Championship,1463656,Oman,3,14,16,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
+['2024-12-14'],Gulf T20I Championship,1463655,Oman,3,10,9,1,0,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14

@@ -1,0 +1,15 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-07-25'],ICC Men's T20 World Cup Europe Region Qualifier,1383081,Austria,2,7,7,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
+['2023-07-24'],ICC Men's T20 World Cup Europe Region Qualifier,1383078,Austria,2,20,6,3,1,333.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,38,0,0,38
+['2023-07-23'],ICC Men's T20 World Cup Europe Region Qualifier,1383074,Austria,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2023-07-21'],ICC Men's T20 World Cup Europe Region Qualifier,1383072,Austria,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2023-07-20'],ICC Men's T20 World Cup Europe Region Qualifier,1383068,Austria,1,14,10,3,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,28,0,0,28
+['2023-06-30'],Austria tour of Netherlands,1381452,Austria,2,36,30,2,2,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,60,0,0,60
+['2023-06-29'],Austria tour of Netherlands,1381451,Austria,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2022-07-31'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321304,Austria,2,66,36,3,8,183.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,140,0,0,140
+['2022-07-27'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321289,Austria,2,38,18,5,2,211.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,80,0,0,80
+['2022-07-25'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321286,Austria,2,42,16,5,3,262.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,90,0,16,106
+['2022-07-24'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321281,Austria,2,34,16,3,3,212.5,[15],1.0,6,2,0,8,1,0,0,0,0,0,1,8.0,0,0,0,0,6,74,2,0,76
+['2022-06-11'],Germany T20 Tri-Series,1318361,Austria,1,57,45,4,5,126.67,"[10, 12, 14, 16]",4.0,24,6,0,22,1,0,3,0,0,0,0,5.5,1,0,0,0,0,111,89,8,208
+['2022-06-10'],Germany T20 Tri-Series,1318359,Austria,1,34,21,3,3,161.9,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,72,0,0,72
+['2022-06-09'],Germany T20 Tri-Series,1318357,Austria,1,33,19,1,3,173.68,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,65,0,0,65

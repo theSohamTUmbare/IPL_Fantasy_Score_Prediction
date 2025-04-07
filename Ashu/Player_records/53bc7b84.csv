@@ -1,0 +1,14 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2013-02-14'],Bangladesh Premier League,599906,Chittagong Kings,6,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2013-01-31'],Bangladesh Premier League,599884,Chittagong Kings,6,9,12,0,0,75.0,[17],1.0,6,0,0,16,1,1,0,0,0,0,2,16.0,0,0,0,0,0,9,0,0,9
+['2012-02-14'],Bangladesh Premier League,551054,Dhaka Gladiators,7,5,3,1,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
+['2010-05-05'],ICC World Twenty20,412688,Bangladesh,3,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,1,0,16,17
+['2010-02-03'],NA,423782,Bangladesh,3,12,14,1,1,85.71,[9],0.333,2,0,0,8,2,0,0,0,0,0,0,24.02,0,0,0,0,0,22,0,0,22
+['2008-04-20'],NA,343764,Bangladesh,4,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2007-09-20'],ICC World Twenty20,287875,Bangladesh,3,15,17,0,0,88.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,15,0,8,23
+['2007-09-18'],ICC World Twenty20,287871,Bangladesh,3,18,11,3,0,163.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,34,0,0,34
+['2007-09-16'],ICC World Twenty20,287866,Bangladesh,3,31,34,2,0,91.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,43,0,0,43
+['2007-09-15'],ICC World Twenty20,287864,Bangladesh,3,36,14,5,2,257.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,78,0,0,78
+['2007-09-13'],ICC World Twenty20,287857,Bangladesh,3,62,48,8,1,129.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,108,0,0,108
+['2007-09-02'],Twenty20 Quadrangular (in Kenya),306989,Bangladesh,3,5,6,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17
+['2007-09-01'],Twenty20 Quadrangular (in Kenya),306987,Bangladesh,3,17,6,2,1,283.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31

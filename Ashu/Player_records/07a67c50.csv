@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2013-02-12'],Bangladesh Premier League,599901,Khulna Royal Bengals,9,4,1,1,0,400.0,"[9, 11, 13, 16]",4.0,24,6,0,37,4,1,1,0,0,0,0,9.25,0,0,0,0,0,8,31,0,39
+['2013-02-11'],Bangladesh Premier League,599899,Khulna Royal Bengals,11,0,0,0,0,0.0,"[7, 9, 11, 16]",4.0,24,8,0,24,2,0,0,0,0,0,0,6.0,0,0,0,0,0,0,10,0,10
+['2013-02-08'],Bangladesh Premier League,599895,Khulna Royal Bengals,9,0,0,0,0,0.0,"[8, 10, 17]",3.0,18,10,0,21,0,2,2,0,0,0,1,7.0,0,0,0,0,0,0,62,0,62
+['2012-02-25'],Bangladesh Premier League,551070,Sylhet Royals,11,0,0,0,0,0.0,[11],1.0,6,3,0,8,0,1,0,0,0,0,0,8.0,1,0,0,0,0,0,3,8,11
+['2012-02-24'],Bangladesh Premier League,551068,Sylhet Royals,9,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,6,0,23,1,0,1,0,0,0,1,5.75,1,0,0,0,0,0,35,8,43

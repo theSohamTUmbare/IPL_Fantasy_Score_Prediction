@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2016-01-10'],Syed Mushtaq Ali Trophy,902239,Andhra,1,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2016-01-04'],Syed Mushtaq Ali Trophy,902151,Andhra,3,12,20,1,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,14,0,0,14
+['2016-01-03'],Syed Mushtaq Ali Trophy,902125,Andhra,2,45,43,4,2,104.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,77,0,0,77
+['2016-01-02'],Syed Mushtaq Ali Trophy,902099,Andhra,2,12,14,2,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20

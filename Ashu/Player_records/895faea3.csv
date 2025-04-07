@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2018-07-13'],ICC World Twenty20 Africa Region Qualifier B,1151251,Tanzania,10,1,5,0,0,20.0,[14],1.0,6,0,0,15,3,0,0,0,0,0,0,15.0,0,0,0,0,0,1,0,0,1
+['2018-07-11'],ICC World Twenty20 Africa Region Qualifier B,1151249,Tanzania,11,0,0,0,0,0.0,"[10, 12, 14]",3.0,18,7,0,24,2,1,0,0,0,0,1,8.0,1,0,0,0,0,0,7,8,15
+['2018-07-10'],ICC World Twenty20 Africa Region Qualifier B,1151247,Tanzania,11,8,9,1,0,88.89,[8],1.0,6,3,0,16,1,2,1,0,0,0,0,16.0,0,0,0,0,0,12,28,0,40
+['2018-07-07'],ICC World Twenty20 Africa Region Qualifier B,1151244,Tanzania,9,0,0,0,0,0.0,"[8, 10, 12]",3.0,18,5,0,24,0,1,0,0,0,0,1,8.0,0,0,0,0,0,0,5,0,5

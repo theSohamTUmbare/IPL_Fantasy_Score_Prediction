@@ -1,0 +1,16 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2011-04-30'],Indian Premier League,501233,Kochi Tuskers Kerala,7,13,9,0,1,144.44,"[14, 16]",2.0,12,4,0,22,2,1,0,0,0,2,0,11.0,0,0,0,0,0,19,2,0,21
+['2010-04-24'],Indian Premier League,419164,Royal Challengers Bangalore,7,0,0,0,0,0.0,[15],1.0,6,3,0,6,1,0,0,0,0,0,0,6.0,0,0,0,0,0,0,3,0,3
+['2009-05-21'],Indian Premier League,392236,Royal Challengers Bangalore,10,0,0,0,0,0.0,"[7, 9, 15, 17]",4.0,24,8,0,18,0,0,2,0,0,0,1,4.5,0,0,0,0,0,0,64,0,64
+['2009-05-19'],Indian Premier League,392232,Royal Challengers Bangalore,9,0,0,0,0,0.0,"[5, 7]",2.0,12,2,0,20,3,0,0,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+['2009-05-14'],Indian Premier League,392224,Royal Challengers Bangalore,8,0,2,0,0,0.0,[16],1.0,6,4,0,2,0,0,0,0,0,0,0,2.0,0,0,0,1,0,-2,4,6,8
+['2009-05-12'],Indian Premier League,392221,Royal Challengers Bangalore,8,0,0,0,0,0.0,"[12, 14, 17]",3.0,18,3,0,32,1,2,1,0,1,0,2,10.67,0,0,0,0,0,0,34,0,34
+['2009-04-26'],Indian Premier League,392194,Royal Challengers Bangalore,7,8,4,0,1,200.0,[16],1.0,6,2,0,8,1,0,1,0,0,0,0,8.0,0,0,0,0,0,14,27,0,41
+['2009-04-18'],Indian Premier League,392182,Royal Challengers Bangalore,7,9,9,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+['2008-05-28'],Indian Premier League,336012,Royal Challengers Bangalore,7,5,4,1,0,125.0,"[7, 10, 15]",3.0,18,6,0,19,2,0,0,0,0,0,2,6.33,1,0,0,0,0,9,8,8,25
+['2008-05-25'],Indian Premier League,336002,Royal Challengers Bangalore,7,27,7,2,3,385.71,"[9, 11, 16]",3.0,18,5,0,39,5,2,0,0,0,0,0,13.0,1,0,0,0,0,57,-1,8,64
+['2008-05-21'],Indian Premier League,336029,Royal Challengers Bangalore,7,6,7,1,0,85.71,[12],1.0,6,2,0,4,0,0,0,0,0,0,0,4.0,1,0,0,0,0,10,2,8,20
+['2008-05-19'],Indian Premier League,336026,Royal Challengers Bangalore,7,3,3,0,0,100.0,"[9, 11, 13, 19]",3.333,20,6,0,21,0,1,0,0,0,0,0,6.3,0,0,0,0,0,3,8,0,11
+['2008-04-28'],Indian Premier League,335996,Royal Challengers Bangalore,10,2,3,0,0,66.67,"[9, 11, 13, 16]",4.0,24,9,0,34,1,3,0,0,0,0,0,8.5,0,0,0,0,0,2,9,0,11
+['2008-04-20'],Indian Premier League,335985,Royal Challengers Bangalore,7,3,5,0,0,60.0,"[8, 14, 17]",3.0,18,6,0,17,2,0,2,0,0,0,0,5.67,0,0,0,0,0,3,60,0,63
+['2008-04-18'],Indian Premier League,335982,Royal Challengers Bangalore,7,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2

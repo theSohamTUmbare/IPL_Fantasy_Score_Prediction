@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-07-18'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321275,Finland,9,0,0,0,0,0.0,"[5, 7, 9]",3.0,18,10,0,6,0,0,1,0,0,0,0,2.0,0,0,0,0,0,0,41,0,41
+['2021-08-22'],Sweden tour of Finland,1273148,Finland,10,0,0,0,0,0.0,"[2, 4]",2.0,12,3,0,17,1,1,0,0,0,0,0,8.5,1,0,0,0,0,0,3,8,11
+['2021-08-22'],Sweden tour of Finland,1273149,Finland,9,12,7,2,0,171.43,"[6, 9]",2.0,12,3,0,19,3,0,0,0,0,0,1,9.5,0,0,0,0,0,20,3,0,23
+['2021-08-21'],Sweden tour of Finland,1273146,Finland,9,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,7,0,27,4,0,1,0,0,0,1,9.0,0,0,0,0,0,0,32,0,32
+['2021-08-21'],Sweden tour of Finland,1273147,Finland,10,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,11,0,32,3,2,1,0,1,0,1,8.0,0,0,0,1,0,0,44,6,50

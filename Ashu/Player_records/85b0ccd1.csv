@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2020-02-26'],ACC Western Region T20,1215164,Qatar,7,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2020-02-25'],ACC Western Region T20,1215161,Qatar,7,1,7,0,0,14.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2018-04-26'],ICC World Twenty20 Asia Region Qualifier A,1142221,Qatar,7,10,20,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,6,0,8,14
+['2018-04-24'],ICC World Twenty20 Asia Region Qualifier A,1142218,Qatar,7,19,20,0,0,95.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
+['2018-04-20'],ICC World Twenty20 Asia Region Qualifier A,1142210,Qatar,2,5,3,1,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9

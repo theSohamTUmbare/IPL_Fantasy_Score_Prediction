@@ -1,0 +1,14 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-07-25'],ICC Men's T20 World Cup Europe Region Qualifier,1383081,Austria,6,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+['2023-07-24'],ICC Men's T20 World Cup Europe Region Qualifier,1383078,Austria,6,8,9,1,0,88.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+['2023-07-23'],ICC Men's T20 World Cup Europe Region Qualifier,1383074,Austria,8,10,17,1,0,58.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,10,0,0,10
+['2023-07-21'],ICC Men's T20 World Cup Europe Region Qualifier,1383072,Austria,9,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2023-07-20'],ICC Men's T20 World Cup Europe Region Qualifier,1383068,Austria,7,16,15,2,0,106.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
+['2023-06-30'],Austria tour of Netherlands,1381452,Austria,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2023-06-29'],Austria tour of Netherlands,1381451,Austria,9,3,13,0,0,23.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-3,0,0,-3
+['2022-07-10'],Central Europe Cup,1321310,Austria,4,7,8,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
+['2022-07-09'],Central Europe Cup,1321307,Austria,6,4,3,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+['2022-07-09'],Central Europe Cup,1321308,Austria,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2022-07-08'],Central Europe Cup,1321305,Austria,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2022-06-11'],Germany T20 Tri-Series,1318361,Austria,7,14,9,1,0,155.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,18,0,6,24
+['2022-06-10'],Germany T20 Tri-Series,1318360,Austria,6,7,7,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19

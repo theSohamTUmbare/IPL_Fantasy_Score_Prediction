@@ -1,0 +1,10 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2021-01-17'],Syed Mushtaq Ali Trophy,1244372,Goa,11,0,0,0,0,0.0,"[3, 5, 18, 20]",3.5,21,12,0,28,4,0,3,1,1,0,7,8.0,0,0,0,0,0,0,107,0,107
+['2019-02-28'],Syed Mushtaq Ali Trophy,1157182,Goa,11,1,1,0,0,100.0,"[2, 5, 18, 20]",4.0,24,6,0,54,6,3,1,0,0,1,0,13.5,1,0,0,0,0,1,25,8,34
+['2019-02-27'],Syed Mushtaq Ali Trophy,1157165,Goa,8,0,0,0,0,0.0,"[1, 6, 16, 18]",4.0,24,4,0,50,4,3,1,0,0,0,3,12.5,0,0,0,0,0,0,23,0,23
+['2019-02-25'],Syed Mushtaq Ali Trophy,1157149,Goa,8,0,0,0,0,0.0,[12],1.0,6,3,0,11,1,1,1,0,0,0,0,11.0,0,0,0,0,0,0,28,0,28
+['2019-02-24'],Syed Mushtaq Ali Trophy,1157133,Goa,11,0,0,0,0,0.0,"[5, 13, 16]",3.0,18,1,0,50,5,3,0,0,0,0,2,16.67,0,0,0,0,0,0,-5,0,-5
+['2019-02-22'],Syed Mushtaq Ali Trophy,1157116,Goa,7,0,0,0,0,0.0,"[5, 7, 12, 19]",4.0,24,13,0,23,1,1,1,0,0,0,2,5.75,1,0,0,0,0,0,42,8,50
+['2018-01-11'],Syed Mushtaq Ali Trophy,1130692,Goa,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2018-01-09'],Syed Mushtaq Ali Trophy,1130679,Goa,11,1,2,0,0,50.0,"[2, 4]",2.0,12,2,0,24,4,0,0,0,0,0,1,12.0,0,0,0,0,0,1,-2,0,-1
+['2018-01-08'],Syed Mushtaq Ali Trophy,1130665,Goa,11,0,0,0,0,0.0,"[4, 6, 16]",3.0,18,5,0,30,6,0,0,0,0,0,0,10.0,0,0,0,0,0,0,3,0,3

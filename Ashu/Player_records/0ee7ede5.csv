@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-10-04'],ICC Men's T20 World Cup Americas Region Final,1399157,Panama,9,0,1,0,0,0.0,[2],1.0,6,2,0,13,3,0,0,0,0,0,0,13.0,0,0,0,0,0,-2,2,0,0
+['2023-10-01'],ICC Men's T20 World Cup Americas Region Final,1399152,Panama,11,0,0,0,0,0.0,[14],0.833,5,0,0,8,1,0,0,0,0,0,0,9.6,0,0,0,0,0,0,0,0,0
+['2018-09-25'],ICC World Twenty20 Americas Sub Regional Qualifier A,1157698,Panama,2,2,12,0,0,16.67,"[10, 14]",2.0,12,5,0,16,2,0,0,0,0,0,2,8.0,0,0,0,0,-6,-4,5,0,1
+['2018-09-23'],ICC World Twenty20 Americas Sub Regional Qualifier A,1157697,Panama,9,10,14,1,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
+['2018-09-21'],ICC World Twenty20 Americas Sub Regional Qualifier A,1157692,Panama,9,2,8,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2

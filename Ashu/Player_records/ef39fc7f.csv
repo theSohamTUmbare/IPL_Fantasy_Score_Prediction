@@ -1,0 +1,25 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-09-17'],Caribbean Premier League,1323164,Trinbago Knight Riders,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2022-09-14'],Caribbean Premier League,1323161,Trinbago Knight Riders,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2022-09-13'],Caribbean Premier League,1323159,Trinbago Knight Riders,2,11,11,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
+['2022-09-10'],Caribbean Premier League,1323155,Trinbago Knight Riders,1,5,12,1,0,41.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,3,0,8,11
+['2022-09-07'],Caribbean Premier League,1323151,Trinbago Knight Riders,1,7,6,1,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
+['2022-09-01'],Caribbean Premier League,1323145,Trinbago Knight Riders,2,58,45,6,3,128.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,108,0,8,116
+['2021-09-09'],Caribbean Premier League,1269722,Trinbago Knight Riders,2,9,8,2,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,17,0,16,33
+['2021-09-01'],Caribbean Premier League,1269710,Trinbago Knight Riders,3,19,14,1,2,135.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,37,0,0,37
+['2021-08-31'],Caribbean Premier League,1269708,Trinbago Knight Riders,3,14,14,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
+['2021-08-29'],Caribbean Premier League,1269706,Trinbago Knight Riders,2,18,17,2,1,105.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,32,0,8,40
+['2020-09-10'],Caribbean Premier League,1227897,Trinbago Knight Riders,2,5,11,1,0,45.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,3,0,8,11
+['2020-09-08'],Caribbean Premier League,1227895,Trinbago Knight Riders,3,44,43,6,1,102.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,78,0,0,78
+['2020-09-06'],Caribbean Premier League,1227893,Trinbago Knight Riders,1,41,33,5,1,124.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,71,0,0,71
+['2020-09-05'],Caribbean Premier League,1227891,Trinbago Knight Riders,2,20,14,0,2,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,34,0,8,42
+['2020-08-29'],Caribbean Premier League,1227881,Trinbago Knight Riders,2,5,9,1,0,55.56,[11],1.0,6,0,0,9,1,0,0,0,0,0,0,9.0,0,0,0,0,0,9,0,0,9
+['2020-08-27'],Caribbean Premier League,1227880,Trinbago Knight Riders,2,27,32,2,2,84.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,51,0,8,59
+['2020-08-26'],Caribbean Premier League,1227877,Trinbago Knight Riders,2,5,7,0,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,5,0,8,13
+['2019-09-08'],Caribbean Premier League,1185841,Trinbago Knight Riders,3,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2019-09-06'],Caribbean Premier League,1185839,Trinbago Knight Riders,2,66,49,7,2,134.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,116,0,0,116
+['2019-09-04'],Caribbean Premier League,1185837,Trinbago Knight Riders,3,6,7,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+['2018-09-07'],Caribbean Premier League,1148674,Barbados Tridents,2,16,16,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,24,0,8,32
+['2018-08-26'],Caribbean Premier League,1148664,Barbados Tridents,7,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2017-09-03'],Caribbean Premier League,1094701,Barbados Tridents,3,32,25,2,1,128.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,50,0,0,50
+['2017-08-20'],Caribbean Premier League,1094690,Barbados Tridents,6,2,1,0,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10

@@ -1,0 +1,12 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-10-11'],New Zealand T20I Tri-Series,1322337,Pakistan,10,0,0,0,0,0.0,"[2, 5]",2.0,12,7,0,21,0,3,0,0,0,0,1,10.5,0,0,0,0,0,0,5,0,5
+['2022-10-08'],New Zealand T20I Tri-Series,1322335,Pakistan,11,0,0,0,0,0.0,"[2, 4, 18]",3.0,18,8,0,22,4,0,1,0,0,0,0,7.33,0,0,0,0,0,0,33,0,33
+['2022-10-07'],New Zealand T20I Tri-Series,1322334,Pakistan,11,0,0,0,0,0.0,"[1, 3, 14, 18]",4.0,24,13,0,24,2,1,1,0,0,0,0,6.0,0,0,0,0,0,0,40,0,40
+['2022-09-30'],England tour of Pakistan,1327233,Pakistan,11,0,0,0,0,0.0,"[2, 9]",2.0,12,2,0,33,4,2,0,0,0,0,1,16.5,1,0,0,0,0,0,-4,8,4
+['2022-09-23'],England tour of Pakistan,1327230,Pakistan,11,0,0,0,0,0.0,"[4, 6, 16, 19]",4.0,24,5,0,62,9,2,0,0,0,0,2,15.5,0,0,0,0,0,0,-1,0,-1
+['2022-09-22'],England tour of Pakistan,1327229,Pakistan,10,0,0,0,0,0.0,"[4, 6, 14, 18]",4.0,24,8,0,37,4,1,2,0,2,0,2,9.25,0,0,0,0,0,0,74,0,74
+['2022-09-20'],England tour of Pakistan,1327228,Pakistan,11,0,0,0,0,0.0,"[3, 5, 15, 20]",3.333,20,6,0,38,8,0,1,0,0,0,0,11.4,0,0,0,0,0,0,27,0,27
+['2022-09-02'],Asia Cup,1327274,Pakistan,11,0,0,0,0,0.0,"[2, 5]",2.0,12,8,1,7,1,0,1,0,0,0,0,3.5,0,0,0,0,0,0,51,0,51
+['2022-08-28'],Asia Cup,1327270,Pakistan,11,16,6,0,2,266.67,"[2, 5, 14, 16]",4.0,24,7,0,29,2,0,0,0,0,0,4,7.25,0,0,0,0,0,28,7,0,35
+['2021-12-16'],West Indies tour of Pakistan,1287775,Pakistan,11,0,0,0,0,0.0,"[5, 10, 17, 19]",4.0,24,9,0,23,1,0,1,0,0,1,0,5.75,0,0,0,0,0,0,38,0,38
+['2021-11-22'],Pakistan tour of Bangladesh,1277976,Pakistan,11,0,0,0,0,0.0,"[2, 4, 14]",3.0,18,10,0,24,5,0,1,0,1,0,1,8.0,0,0,0,0,0,0,43,0,43

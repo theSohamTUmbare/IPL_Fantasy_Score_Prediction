@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-07-07'],Vitality Blast,1410454,Lancashire,4,20,11,1,2,181.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,42,0,0,42
+['2024-06-20'],Vitality Blast,1410433,Lancashire,5,15,8,1,1,187.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,25,0,8,33
+['2020-09-18'],Vitality Blast,1207776,Lancashire,6,12,12,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
+['2020-09-17'],Vitality Blast,1207769,Lancashire,6,6,8,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6

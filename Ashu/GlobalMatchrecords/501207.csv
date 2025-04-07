@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Kochi Tuskers Kerala,BB McCullum,b8a55852,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Kochi Tuskers Kerala,VVS Laxman,de8cce37,2,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Kochi Tuskers Kerala,PA Patel,b5da6c24,3,21,19,4,0,110.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,37,0,8,45
+Kochi Tuskers Kerala,DPMD Jayawardene,d18f9182,4,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+Kochi Tuskers Kerala,BJ Hodge,b57f8a9a,5,39,36,2,2,108.33,"[10, 12]",2.0,12,6,0,14,2,0,2,0,0,0,1,7.0,0,0,0,0,0,63,58,0,121
+Kochi Tuskers Kerala,RA Jadeja,fe93fd9d,6,47,32,3,3,146.88,"[8, 13, 16, 18]",4.0,24,8,0,28,1,1,1,0,0,0,1,7.0,1,0,0,1,2,83,35,14,132
+Kochi Tuskers Kerala,RV Gomez,b2570b38,7,26,18,3,0,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,2,44,0,6,50
+Kochi Tuskers Kerala,R Vinay Kumar,41eb4a4f,8,1,1,0,0,100.0,"[4, 6, 17]",3.0,18,9,0,15,1,0,1,0,0,0,3,5.0,1,0,0,0,0,1,38,8,47
+Kochi Tuskers Kerala,S Sreesanth,6b8eb6e5,9,1,6,0,0,16.67,"[2, 7, 9]",3.0,18,8,0,21,2,0,0,0,0,0,4,7.0,0,0,0,0,0,1,10,0,11
+Kochi Tuskers Kerala,RP Singh,c3d1402f,10,0,1,0,0,0.0,"[1, 5, 14]",3.0,18,7,0,30,3,1,0,0,0,0,0,10.0,1,0,0,0,0,0,5,8,13
+Kochi Tuskers Kerala,M Muralitharan,4ba44e19,11,0,0,0,0,0.0,"[3, 11, 15, 19]",3.833,23,7,0,42,3,3,1,0,1,0,1,10.96,0,0,0,0,0,0,38,0,38
+Pune Warriors,JD Ryder,91ffa6c6,1,17,10,3,0,170.0,"[13, 17]",2.0,12,5,0,8,0,0,1,0,0,0,0,4.0,0,0,0,0,4,33,36,0,69
+Pune Warriors,GC Smith,72861603,2,24,24,3,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,36,0,8,44
+Pune Warriors,M Manhas,c42aaf71,3,12,19,1,0,63.16,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,14,0,0,14
+Pune Warriors,Yuvraj Singh,1c914163,4,8,12,0,0,66.67,[10],1.0,6,1,0,12,0,1,0,0,0,0,0,12.0,0,0,0,0,-2,6,1,0,7
+Pune Warriors,RV Uthappa,1c17e270,5,31,13,3,2,238.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,2,6,65,0,28,93
+Pune Warriors,MD Mishra,6afb26d6,6,37,21,2,2,176.19,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,67,0,0,67
+Pune Warriors,WD Parnell,3a60e0b5,7,1,5,0,0,20.0,"[3, 5, 15, 20]",4.0,24,10,0,35,3,1,3,0,1,0,5,8.75,1,0,0,1,0,1,97,14,112
+Pune Warriors,R Sharma,5d9a1a73,8,10,9,0,1,111.11,"[8, 11, 16, 18]",4.0,24,13,0,18,1,1,1,0,0,0,0,4.5,0,0,0,0,0,16,44,0,60
+Pune Warriors,M Kartik,abfeb126,9,0,0,0,0,0.0,"[7, 9, 12, 14]",4.0,24,10,0,30,0,2,0,0,0,1,1,7.5,1,0,0,0,0,0,10,8,18
+Pune Warriors,SB Wagh,dddca1d6,10,0,0,0,0,0.0,"[2, 4]",2.0,12,8,0,10,2,0,0,0,0,0,0,5.0,0,0,0,0,0,0,12,0,12
+Pune Warriors,AC Thomas,b552a935,11,0,0,0,0,0.0,"[1, 6, 19]",3.0,18,6,0,31,6,0,1,0,0,0,0,10.33,0,0,0,0,0,0,29,0,29

@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-07-13'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439832,Sweden,1,56,29,5,4,193.1,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,0,1,6,114,0,34,148
+['2024-07-11'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439825,Sweden,1,42,19,3,4,221.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,6,88,0,6,94
+['2024-07-09'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439819,Sweden,1,14,11,3,0,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26
+['2024-07-08'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439816,Sweden,4,41,33,4,2,124.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,2,0,73,0,28,101

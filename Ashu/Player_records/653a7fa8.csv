@@ -1,0 +1,18 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-08-24'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A,1444962,Fiji,1,45,27,4,4,166.67,"[13, 15, 17, 19]",4.0,24,8,0,31,1,2,2,0,0,1,0,7.75,0,0,0,0,4,93,58,0,151
+['2024-08-23'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A,1444960,Fiji,3,38,22,3,3,172.73,"[15, 19]",2.0,12,5,0,15,1,1,1,0,0,0,0,7.5,1,0,0,0,6,78,30,8,116
+['2024-08-21'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A,1444958,Fiji,3,39,23,3,3,169.57,[17],1.0,6,0,0,18,0,2,0,0,0,0,0,18.0,1,0,0,0,4,77,0,8,85
+['2024-08-20'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A,1444957,Fiji,3,30,15,1,3,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,62,0,0,62
+['2024-08-19'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A,1444955,Fiji,3,30,21,2,3,142.86,"[7, 9]",2.0,12,2,0,17,1,0,0,0,0,0,3,8.5,0,0,1,0,2,62,2,12,76
+['2024-08-17'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A,1444953,Fiji,3,0,8,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2022-09-15'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A,1333928,Fiji,2,34,12,3,3,283.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,74,0,16,90
+['2022-09-14'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A,1333927,Fiji,6,40,21,2,4,190.48,"[11, 13]",2.0,12,5,0,20,3,0,0,0,0,1,0,10.0,0,0,0,0,6,82,3,0,85
+['2022-09-13'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A,1333925,Fiji,4,31,25,4,1,124.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,57,0,0,57
+['2022-09-11'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A,1333923,Fiji,4,68,45,5,5,151.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,130,0,8,138
+['2022-09-10'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A,1333920,Fiji,4,72,38,7,4,189.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,138,0,0,138
+['2018-08-29'],ICC World Twenty20 East Asia-Pacific Region Qualifier A,1155283,Fiji,5,13,7,1,1,185.71,[12],1.0,6,2,0,8,1,0,1,0,0,0,0,8.0,0,0,0,0,0,23,27,0,50
+['2018-08-28'],ICC World Twenty20 East Asia-Pacific Region Qualifier A,1155279,Fiji,5,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2018-08-28'],ICC World Twenty20 East Asia-Pacific Region Qualifier A,1155281,Fiji,5,11,17,2,0,64.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,17,0,8,25
+['2018-08-26'],ICC World Twenty20 East Asia-Pacific Region Qualifier A,1155276,Fiji,5,27,20,4,0,135.0,[16],1.0,6,0,0,13,2,0,0,0,0,0,1,13.0,0,0,0,0,2,49,0,0,49
+['2018-08-25'],ICC World Twenty20 East Asia-Pacific Region Qualifier A,1155272,Fiji,5,17,11,2,0,154.55,[15],1.0,6,2,0,10,1,0,0,0,0,0,3,10.0,1,0,0,0,4,29,2,8,39
+['2018-08-25'],ICC World Twenty20 East Asia-Pacific Region Qualifier A,1155274,Fiji,5,25,24,1,2,104.17,"[13, 15, 17, 19]",4.0,24,10,0,38,3,3,3,0,0,0,0,9.5,0,0,0,0,0,45,89,0,134

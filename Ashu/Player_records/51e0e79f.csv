@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-10-24'],ICC Men's T20 World Cup Qualifier,1199526,Nigeria,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2019-10-23'],ICC Men's T20 World Cup Qualifier,1199521,Nigeria,11,0,0,0,0,0.0,[4],1.0,6,2,0,14,3,0,0,0,0,0,0,14.0,1,0,0,0,0,0,2,8,10
+['2019-10-21'],ICC Men's T20 World Cup Qualifier,1199516,Nigeria,11,0,0,0,0,0.0,"[8, 10, 20]",3.0,18,5,0,26,3,0,2,0,0,0,0,8.67,0,0,0,0,0,0,55,0,55
+['2019-10-19'],ICC Men's T20 World Cup Qualifier,1199504,Nigeria,11,0,0,0,0,0.0,"[6, 8, 10, 12]",4.0,24,9,0,30,1,1,1,0,0,1,0,7.5,0,0,0,0,0,0,34,0,34

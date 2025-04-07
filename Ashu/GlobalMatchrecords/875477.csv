@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Ireland,NJ O'Brien,84826f48,1,7,9,1,0,77.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19
+Ireland,PR Stirling,cf494ffe,2,8,9,1,0,88.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+Ireland,WTS Porterfield,ec02b798,3,10,15,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,12,0,0,12
+Ireland,KJ O'Brien,243431b5,4,23,19,4,0,121.05,[16],1.0,6,4,0,2,0,0,1,1,0,0,0,2.0,0,0,0,0,0,39,37,0,76
+Ireland,A Balbirnie,6ef13460,5,44,33,4,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,72,0,0,72
+Ireland,GC Wilson,05de1a5a,6,8,14,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,4,0,8,12
+Ireland,SR Thompson,7f3ad1ed,7,15,14,1,0,107.14,"[5, 7, 13, 15]",4.0,24,12,0,20,2,0,2,0,1,0,1,5.0,0,0,1,0,0,19,74,12,105
+Ireland,JF Mooney,aae9ce90,8,20,7,3,1,285.71,"[6, 10, 12]",3.0,18,8,0,17,1,0,2,0,0,0,2,5.67,0,0,0,0,0,38,62,0,100
+Ireland,GH Dockrell,99cddc5e,9,0,0,0,0,0.0,"[9, 11]",2.0,12,3,0,18,0,1,1,1,0,0,3,9.0,0,0,0,0,0,0,36,0,36
+Ireland,AR Cusack,568e5a4a,10,0,0,0,0,0.0,"[1, 3, 17]",2.5,15,7,0,19,2,1,2,0,0,0,0,7.6,0,0,1,0,0,0,57,12,69
+Ireland,CA Young,bd0a4a7d,11,0,0,0,0,0.0,"[2, 4, 8, 14]",4.0,24,14,0,17,3,0,0,0,0,0,0,4.25,3,0,0,0,0,0,20,28,48
+United States of America,Fahad Babar,5595b867,1,10,8,2,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,18,0,16,34
+United States of America,AL Dodson,f5efe5e0,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+United States of America,AAA Amsterdam,b4a23876,3,16,19,3,0,84.21,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
+United States of America,NI Standford,652ee2b0,4,19,18,1,1,105.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29
+United States of America,Adil Bhatti,fb4c5ea5,5,17,19,1,0,89.47,"[5, 14]",2.0,12,3,0,15,2,0,0,0,0,0,0,7.5,0,0,0,0,0,21,3,0,24
+United States of America,K Ganesh,363fe2d5,6,4,9,0,0,44.44,"[9, 11, 15]",3.0,18,6,0,21,1,1,0,0,0,0,0,7.0,0,0,0,0,0,4,8,0,12
+United States of America,JH Patel,7cf185e1,7,2,2,0,0,100.0,[7],1.0,6,2,0,9,1,0,0,0,0,1,0,9.0,0,0,0,0,0,2,2,0,4
+United States of America,Muhammad Ghous,1676b2d6,8,11,9,0,1,122.22,"[2, 13]",2.0,12,5,0,15,2,0,0,0,0,0,0,7.5,0,0,0,0,0,17,5,0,22
+United States of America,TK Patel,95fcbfb7,9,1,1,0,0,100.0,"[8, 10, 12, 16]",4.0,24,13,0,13,0,0,3,1,0,0,1,3.25,0,0,0,0,0,1,106,0,107
+United States of America,Jasdeep Singh,5ec41cd7,10,7,11,1,0,63.64,"[1, 4, 18, 20]",4.0,24,9,0,34,4,0,1,0,0,3,0,8.5,1,0,0,0,-2,9,34,8,51
+United States of America,H Shahid,d0653d5a,11,0,2,0,0,0.0,"[3, 6, 17, 19]",4.0,24,11,0,36,5,1,2,0,1,1,2,9.0,1,0,0,0,0,0,69,8,77

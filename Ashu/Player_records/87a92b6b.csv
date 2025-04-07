@@ -1,0 +1,25 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-03-17'],Papua New Guinea tour of Malaysia,1425111,Papua New Guinea,8,2,6,0,0,33.33,"[1, 3, 15, 19]",4.0,24,13,0,17,0,1,1,0,0,0,0,4.25,0,0,0,0,0,2,44,0,46
+['2024-03-16'],Papua New Guinea tour of Malaysia,1425110,Papua New Guinea,8,0,0,0,0,0.0,"[1, 3, 17, 20]",4.0,24,8,0,27,3,0,0,0,0,0,2,6.75,0,0,0,0,0,0,10,0,10
+['2024-03-12'],Nepal tour of Hong Kong,1423441,Papua New Guinea,9,12,10,0,1,120.0,"[1, 9, 17, 19]",4.0,24,9,0,38,1,4,1,0,0,0,1,9.5,0,0,0,0,0,18,34,0,52
+['2024-03-07'],Papua New Guinea tour of Oman,1423373,Papua New Guinea,7,0,0,0,0,0.0,"[3, 9, 13, 19]",4.0,24,9,0,32,3,1,2,0,0,0,0,8.0,0,0,0,0,0,0,59,0,59
+['2023-09-23'],Malaysia Tri-Nation T20I Series,1398299,Papua New Guinea,10,0,0,0,0,0.0,"[1, 3]",2.0,12,3,0,19,2,1,0,0,0,0,0,9.5,1,0,0,0,0,0,3,8,11
+['2022-03-31'],Nepal Tri-Nation T20I Series,1305501,Papua New Guinea,11,0,1,0,0,0.0,"[3, 5, 17, 19]",4.0,24,12,0,47,3,4,1,0,0,1,1,11.75,0,0,0,0,0,-2,33,0,31
+['2022-03-29'],Nepal Tri-Nation T20I Series,1305499,Papua New Guinea,11,9,6,0,1,150.0,"[4, 6, 13, 19]",4.0,24,7,0,39,3,2,1,0,0,0,3,9.75,0,0,0,0,0,15,32,0,47
+['2021-10-19'],ICC Men's T20 World Cup,1273716,Papua New Guinea,10,1,1,0,0,100.0,"[1, 9, 13, 18]",4.0,24,4,0,37,4,1,0,0,0,0,1,9.25,0,0,0,0,0,1,4,0,5
+['2021-10-17'],ICC Men's T20 World Cup,1273712,Papua New Guinea,11,5,10,0,0,50.0,"[3, 5]",2.0,12,4,0,15,2,0,0,0,0,1,0,7.5,0,0,0,0,-4,1,4,0,5
+['2021-10-10'],Namibia v Papua New Guinea T20I Match,1280059,Papua New Guinea,9,0,0,0,0,0.0,"[1, 5, 15, 19]",4.0,24,10,0,38,5,1,2,0,1,0,2,9.5,0,0,0,0,0,0,68,0,68
+['2021-10-08'],Papua New Guinea v Scotland T20I Match,1280063,Papua New Guinea,8,0,0,0,0,0.0,"[1, 5, 17]",3.0,18,7,0,15,1,0,0,0,0,0,1,5.0,2,0,0,0,0,0,11,16,27
+['2019-11-02'],ICC Men's T20 World Cup Qualifier,1199549,Papua New Guinea,10,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,9,0,37,2,2,1,0,0,0,2,9.25,0,0,0,0,0,0,34,0,34
+['2019-11-01'],ICC Men's T20 World Cup Qualifier,1199547,Papua New Guinea,11,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,13,0,20,0,1,0,0,0,1,0,5.0,0,0,0,0,0,0,17,0,17
+['2019-10-27'],ICC Men's T20 World Cup Qualifier,1199536,Papua New Guinea,11,7,8,0,0,87.5,"[2, 4, 15, 19]",3.667,22,12,0,21,1,0,3,0,1,0,4,5.73,0,0,0,0,0,7,103,0,110
+['2019-10-25'],ICC Men's T20 World Cup Qualifier,1199529,Papua New Guinea,11,0,0,0,0,0.0,"[1, 3, 11, 19]",4.0,24,9,0,28,2,1,1,0,1,0,1,7.0,0,0,0,0,0,0,44,0,44
+['2019-10-24'],ICC Men's T20 World Cup Qualifier,1199525,Papua New Guinea,11,0,0,0,0,0.0,"[1, 3, 17, 20]",4.0,24,8,0,28,2,1,1,0,0,0,0,7.0,0,0,0,0,0,0,35,0,35
+['2019-10-21'],ICC Men's T20 World Cup Qualifier,1199512,Papua New Guinea,11,1,1,0,0,100.0,"[1, 7, 18, 20]",4.0,24,6,0,41,5,0,1,0,0,0,5,10.25,0,0,0,0,0,1,29,0,30
+['2019-10-20'],ICC Men's T20 World Cup Qualifier,1199508,Papua New Guinea,11,0,0,0,0,0.0,"[1, 3, 17]",3.0,18,7,0,24,1,1,1,0,0,0,2,8.0,0,0,0,0,0,0,32,0,32
+['2019-10-19'],ICC Men's T20 World Cup Qualifier,1199503,Papua New Guinea,9,0,0,0,0,0.0,"[1, 7, 17]",3.0,18,8,0,18,0,1,2,0,0,0,0,6.0,0,0,0,0,0,0,60,0,60
+['2019-03-24'],ICC World Twenty20 East Asia-Pacific Region Final,1176797,Papua New Guinea,11,0,0,0,0,0.0,"[2, 13]",2.0,12,7,0,4,0,0,1,0,0,0,0,2.0,1,0,0,0,0,0,38,8,46
+['2019-03-23'],ICC World Twenty20 East Asia-Pacific Region Final,1176795,Papua New Guinea,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2019-03-22'],ICC World Twenty20 East Asia-Pacific Region Final,1176793,Papua New Guinea,11,0,0,0,0,0.0,"[2, 5, 13, 17]",4.0,24,16,0,20,1,1,1,0,0,0,2,5.0,2,0,0,0,0,0,45,16,61
+['2016-02-09'],Papua New Guinea v Ireland T20I Series,954737,Papua New Guinea,11,0,0,0,0,0.0,"[10, 12]",2.0,12,7,0,5,0,0,1,0,0,0,0,2.5,0,0,0,0,0,0,38,0,38
+['2016-02-07'],Papua New Guinea v Ireland T20I Series,954735,Papua New Guinea,10,2,3,0,0,66.67,[9],1.0,6,3,0,8,1,0,0,0,0,0,1,8.0,0,0,0,0,0,2,3,0,5

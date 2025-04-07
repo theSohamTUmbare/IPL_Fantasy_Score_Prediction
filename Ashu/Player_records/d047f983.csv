@@ -1,0 +1,19 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-10-24'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1453925,Kenya,1,9,9,1,0,100.0,"[10, 12, 14, 16]",4.0,24,12,0,28,3,0,1,0,0,0,6,7.0,1,0,0,0,0,13,39,8,60
+['2024-10-22'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1453934,Kenya,1,43,32,6,0,134.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,73,0,0,73
+['2024-10-20'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1453929,Kenya,1,0,1,0,0,0.0,"[11, 13, 15, 17]",4.0,24,13,0,18,2,0,1,0,1,0,0,4.5,0,0,0,1,0,-2,52,6,56
+['2024-10-19'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1453923,Kenya,1,1,3,0,0,33.33,[12],1.0,6,3,0,3,0,0,1,0,1,0,0,3.0,0,0,0,0,0,1,36,0,37
+['2024-07-17'],Nigeria tour of Kenya,1442739,Kenya,2,9,7,1,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
+['2024-07-16'],Nigeria tour of Kenya,1442738,Kenya,1,9,10,1,0,90.0,[10],1.0,6,0,0,11,1,0,0,0,0,0,0,11.0,0,0,0,0,0,13,0,0,13
+['2024-07-15'],Nigeria tour of Kenya,1442737,Kenya,2,39,20,5,2,195.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,81,0,0,81
+['2024-07-13'],Nigeria tour of Kenya,1442736,Kenya,3,10,7,0,1,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
+['2023-11-30'],ICC Men's T20 World Cup Africa Region Qualifier,1407107,Kenya,2,21,33,2,0,63.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,27,0,0,27
+['2023-11-29'],ICC Men's T20 World Cup Africa Region Qualifier,1407106,Kenya,5,0,1,0,0,0.0,[10],1.0,6,2,0,13,1,1,0,0,0,0,0,13.0,0,0,0,0,0,-2,2,0,0
+['2023-11-27'],ICC Men's T20 World Cup Africa Region Qualifier,1407102,Kenya,4,5,9,0,0,55.56,"[14, 16]",1.333,8,1,0,12,1,0,0,0,0,0,0,9.0,0,0,0,0,0,5,1,0,6
+['2023-11-25'],ICC Men's T20 World Cup Africa Region Qualifier,1407096,Kenya,4,32,17,3,1,188.24,[10],1.0,6,2,0,11,0,1,0,0,0,0,0,11.0,0,0,0,0,6,60,2,0,62
+['2023-11-23'],ICC Men's T20 World Cup Africa Region Qualifier,1407092,Kenya,5,6,9,0,0,66.67,"[9, 11, 13]",3.0,18,8,0,15,0,1,1,0,0,0,0,5.0,0,0,0,0,0,6,37,0,43
+['2023-11-22'],ICC Men's T20 World Cup Africa Region Qualifier,1407089,Kenya,6,0,0,0,0,0.0,"[4, 6, 11, 13]",4.0,24,13,0,19,1,1,1,0,0,0,0,4.75,0,0,0,0,0,0,44,0,44
+['2022-11-25'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343764,Kenya,1,33,23,5,1,143.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,65,0,0,65
+['2022-11-20'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343749,Kenya,1,14,9,3,0,155.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26
+['2022-11-18'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343746,Kenya,1,18,21,1,1,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
+['2022-11-17'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343742,Kenya,1,15,11,2,0,136.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,25,0,0,25

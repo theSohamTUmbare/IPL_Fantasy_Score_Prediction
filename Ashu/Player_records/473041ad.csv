@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2018-01-10'],Syed Mushtaq Ali Trophy,1130714,Odisha,9,11,9,1,0,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
+['2018-01-08'],Syed Mushtaq Ali Trophy,1130672,Odisha,7,0,0,0,0,0.0,"[4, 6]",2.0,12,3,0,30,5,1,0,0,0,0,0,15.0,0,0,0,0,0,0,-3,0,-3
+['2016-01-03'],Syed Mushtaq Ali Trophy,902129,Odisha,10,2,3,0,0,66.67,"[8, 10]",2.0,12,2,0,16,1,0,0,0,0,0,1,8.0,0,0,0,0,0,2,2,0,4
+['2016-01-02'],Syed Mushtaq Ali Trophy,902105,Odisha,8,4,10,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2

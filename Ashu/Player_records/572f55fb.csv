@@ -1,0 +1,15 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-10-25'],CSA T20 Challenge,1444795,Western Province,1,6,7,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+['2024-10-23'],CSA T20 Challenge,1444794,Western Province,1,15,14,2,0,107.14,[9],1.0,6,0,0,11,0,1,0,0,0,0,0,11.0,1,0,0,0,0,23,0,8,31
+['2024-10-18'],CSA T20 Challenge,1444789,Western Province,1,16,17,2,0,94.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
+['2024-10-16'],CSA T20 Challenge,1444787,Western Province,1,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2024-10-13'],CSA T20 Challenge,1444783,Western Province,1,53,38,2,3,139.47,"[10, 12]",2.0,12,6,0,10,0,0,1,0,0,0,0,5.0,1,0,0,0,2,89,35,8,132
+['2024-10-09'],CSA T20 Challenge,1444777,Western Province,2,23,24,3,0,95.83,"[11, 13]",2.0,12,0,0,20,2,0,0,0,0,0,0,10.0,0,0,0,0,0,35,-2,0,33
+['2024-03-08'],CSA T20 Challenge,1394572,Western Province,4,40,30,0,2,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,58,0,0,58
+['2022-02-25'],CSA T20 Challenge,1299631,Western Province,2,31,32,4,1,96.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,57,0,0,57
+['2022-02-19'],CSA T20 Challenge,1299622,Western Province,2,8,12,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,10,0,0,10
+['2022-02-18'],CSA T20 Challenge,1299620,Western Province,2,43,35,2,3,122.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,73,0,0,73
+['2022-02-15'],CSA T20 Challenge,1299617,Western Province,1,53,44,5,2,120.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,93,0,0,93
+['2022-02-13'],CSA T20 Challenge,1299612,Western Province,1,8,12,0,1,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,12,0,8,20
+['2022-02-09'],CSA T20 Challenge,1299607,Western Province,2,39,26,4,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,65,0,0,65
+['2022-02-07'],CSA T20 Challenge,1299602,Western Province,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2

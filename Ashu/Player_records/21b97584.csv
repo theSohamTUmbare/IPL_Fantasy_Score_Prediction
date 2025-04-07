@@ -1,0 +1,27 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2025-01-27'],Bangladesh Premier League,1459572,Durbar Rajshahi,11,0,0,0,0,0.0,"[4, 6, 18, 20]",4.0,24,11,0,33,1,3,3,0,0,0,3,8.25,0,0,0,0,0,0,90,0,90
+['2025-01-26'],Bangladesh Premier League,1459570,Durbar Rajshahi,4,10,10,2,0,100.0,"[2, 6, 8, 18]",4.0,24,19,1,18,3,0,4,0,0,0,4,4.5,0,0,0,0,0,18,145,0,163
+['2025-01-19'],Bangladesh Premier League,1459562,Durbar Rajshahi,11,0,0,0,0,0.0,"[7, 12, 15, 19]",4.0,24,3,0,45,1,2,0,0,0,1,5,11.25,1,0,0,0,0,0,-1,8,7
+['2025-01-17'],Bangladesh Premier League,1459559,Durbar Rajshahi,8,12,6,1,1,200.0,"[7, 13, 15]",3.0,18,10,0,16,0,1,2,0,0,0,3,5.33,0,0,0,0,0,22,64,0,86
+['2025-01-10'],Bangladesh Premier League,1459551,Durbar Rajshahi,11,0,0,0,0,0.0,"[12, 15]",2.0,12,4,0,31,1,4,1,0,0,0,0,15.5,0,0,0,0,0,0,23,0,23
+['2024-12-30'],Bangladesh Premier League,1459537,Durbar Rajshahi,9,0,0,0,0,0.0,"[3, 6, 16, 19]",3.167,19,4,0,43,5,2,0,0,0,0,2,13.58,0,0,0,0,0,0,-2,0,-2
+['2023-10-06'],Asian Games Men's Cricket Competition,1399117,Bangladesh,8,4,11,0,0,36.36,[4],1.0,6,3,0,14,0,2,0,0,0,0,1,14.0,1,0,0,0,-6,-2,3,8,9
+['2023-02-08'],Bangladesh Premier League,1351091,Chattogram Challengers,8,17,20,0,1,85.0,"[1, 3, 15]",3.0,18,9,0,25,3,1,0,0,0,0,1,8.33,0,0,0,0,0,23,9,0,32
+['2023-02-07'],Bangladesh Premier League,1351088,Chattogram Challengers,10,4,8,0,0,50.0,"[2, 13, 15, 19]",4.0,24,13,0,29,5,0,2,1,1,0,2,7.25,0,0,0,0,0,4,79,0,83
+['2023-02-04'],Bangladesh Premier League,1351086,Chattogram Challengers,9,1,1,0,0,100.0,"[1, 3, 17, 19]",4.0,24,10,0,35,3,2,2,0,0,0,2,8.75,0,0,0,0,0,1,60,0,61
+['2023-01-28'],Bangladesh Premier League,1351079,Chattogram Challengers,8,15,12,2,0,125.0,"[1, 5, 16, 18]",4.0,24,6,0,39,5,1,0,0,0,0,1,9.75,1,0,0,0,0,23,6,8,37
+['2023-01-27'],Bangladesh Premier League,1351077,Chattogram Challengers,9,0,0,0,0,0.0,"[1, 3, 15, 19]",4.0,24,15,0,20,2,1,1,0,1,1,0,5.0,0,0,0,0,0,0,52,0,52
+['2023-01-23'],Bangladesh Premier League,1351072,Chattogram Challengers,8,7,8,1,0,87.5,"[6, 8, 16, 19]",4.0,24,6,0,31,4,0,0,0,0,0,1,7.75,0,0,0,0,0,11,6,0,17
+['2023-01-16'],Bangladesh Premier League,1351065,Chattogram Challengers,8,7,9,1,0,77.78,"[2, 6, 8, 18]",3.5,21,12,0,23,2,1,1,0,1,0,3,6.57,0,0,0,0,0,11,47,0,58
+['2023-01-14'],Bangladesh Premier League,1351063,Chattogram Challengers,7,0,0,0,0,0.0,"[1, 3, 5, 19]",4.0,24,14,0,30,4,1,0,0,0,0,0,7.5,0,0,0,0,0,0,14,0,14
+['2023-01-13'],Bangladesh Premier League,1351060,Chattogram Challengers,9,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,6,0,53,7,2,1,0,1,0,1,13.25,0,0,0,0,0,0,33,0,33
+['2023-01-09'],Bangladesh Premier League,1351057,Chattogram Challengers,8,0,0,0,0,0.0,"[7, 9, 18, 20]",4.0,24,7,0,44,2,4,0,0,0,0,1,11.0,1,0,0,0,0,0,5,8,13
+['2023-01-06'],Bangladesh Premier League,1351052,Chattogram Challengers,8,3,4,0,0,75.0,"[1, 3, 11, 13]",3.5,21,12,0,11,1,0,1,0,0,0,1,3.14,0,0,0,0,0,3,43,0,46
+['2022-02-16'],Bangladesh Premier League,1296717,Chattogram Challengers,9,15,9,0,2,166.67,"[6, 11]",2.0,12,2,0,32,4,2,1,0,0,0,0,16.0,1,0,0,0,0,27,21,8,56
+['2022-02-14'],Bangladesh Premier League,1296715,Chattogram Challengers,11,0,0,0,0,0.0,"[5, 8, 16, 18]",4.0,24,9,0,34,2,2,1,0,0,1,0,8.5,0,0,0,0,0,0,34,0,34
+['2022-02-12'],Bangladesh Premier League,1296713,Chattogram Challengers,9,0,0,0,0,0.0,"[6, 8, 13, 19]",4.0,24,8,0,37,5,1,3,0,1,0,0,9.25,0,0,0,0,0,0,95,0,95
+['2022-02-08'],Bangladesh Premier League,1296707,Chattogram Challengers,8,0,0,0,0,0.0,"[5, 8, 17, 20]",4.0,24,10,0,21,1,0,2,0,2,1,2,5.25,0,0,0,0,0,0,80,0,80
+['2022-02-03'],Bangladesh Premier League,1296702,Chattogram Challengers,9,1,1,0,0,100.0,"[13, 17]",1.5,9,5,0,21,2,1,1,0,0,0,5,14.0,0,0,0,0,0,1,30,0,31
+['2022-02-01'],Bangladesh Premier League,1296700,Chattogram Challengers,9,9,9,0,0,100.0,"[17, 19]",2.0,12,4,0,12,1,0,4,0,0,1,0,6.0,2,0,0,0,0,9,114,16,139
+['2022-01-31'],Bangladesh Premier League,1296697,Chattogram Challengers,8,13,12,1,1,108.33,"[5, 13, 19]",3.0,18,4,0,34,5,1,0,0,0,0,0,11.33,0,0,0,0,0,23,0,0,23
+['2022-01-29'],Bangladesh Premier League,1296696,Chattogram Challengers,11,0,0,0,0,0.0,"[6, 9, 18, 20]",4.0,24,9,0,33,4,1,3,0,1,0,2,8.25,0,0,0,0,0,0,96,0,96

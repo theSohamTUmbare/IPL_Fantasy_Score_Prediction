@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2010-10-10'],Zimbabwe in South Africa T20I Series,463142,Zimbabwe,6,1,3,0,0,33.33,[16],1.0,6,0,0,14,1,1,0,0,0,0,0,14.0,0,0,0,0,0,1,0,0,1
+['2010-10-08'],Zimbabwe in South Africa T20I Series,463141,Zimbabwe,6,12,5,1,1,240.0,[11],1.0,6,0,0,12,2,0,0,0,0,0,0,12.0,0,0,0,0,0,22,0,0,22
+['2007-09-13'],ICC World Twenty20,287858,Zimbabwe,9,0,0,0,0,0.0,"[11, 13]",2.0,12,3,0,29,3,2,0,0,0,0,1,14.5,0,0,0,0,0,0,-3,0,-3
+['2007-09-12'],ICC World Twenty20,287856,Zimbabwe,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0

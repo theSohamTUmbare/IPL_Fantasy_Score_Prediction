@@ -1,0 +1,14 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-05-07'],Gibraltar Tri-Nation T20I Series,1367732,Portugal,1,14,6,3,0,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,26,0,20,46
+['2023-05-06'],Gibraltar Tri-Nation T20I Series,1367728,Portugal,1,56,31,2,6,180.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,114,0,8,122
+['2023-05-06'],Gibraltar Tri-Nation T20I Series,1367733,Portugal,1,80,31,6,8,258.06,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,170,0,0,170
+['2023-05-05'],Gibraltar Tri-Nation T20I Series,1367729,Portugal,1,2,10,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,-4,0,8,4
+['2023-05-04'],Gibraltar Tri-Nation T20I Series,1367725,Portugal,1,20,11,1,1,181.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,36,0,16,52
+['2023-05-04'],Gibraltar Tri-Nation T20I Series,1367726,Portugal,1,27,20,3,1,135.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,0,0,2,51,0,28,79
+['2023-04-11'],Gibraltar tour of Portugal,1367723,Portugal,1,4,2,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,8,0,6,14
+['2023-04-11'],Gibraltar tour of Portugal,1367724,Portugal,1,6,3,0,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20
+['2023-04-10'],Gibraltar tour of Portugal,1367722,Portugal,1,67,34,9,3,197.06,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,2,6,135,0,20,155
+['2022-07-04'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1320988,Portugal,1,22,15,4,0,146.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,40,0,8,48
+['2022-07-02'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1320982,Portugal,1,44,32,4,1,137.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,72,0,16,88
+['2022-07-01'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1320977,Portugal,1,19,19,1,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29
+['2022-06-29'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1320973,Portugal,1,16,11,1,1,145.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,2,28,0,14,42

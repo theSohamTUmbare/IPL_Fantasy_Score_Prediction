@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-10-04'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier B,1450777,South Korea,10,0,2,0,0,0.0,"[7, 9]",2.0,12,3,0,18,2,0,0,0,0,0,0,9.0,0,0,0,0,0,-2,3,0,1
+['2024-10-02'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier B,1450775,South Korea,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2024-10-01'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier B,1450773,South Korea,9,0,2,0,0,0.0,"[16, 18]",2.0,12,1,0,22,3,0,0,0,0,0,1,11.0,0,0,0,0,0,0,-1,0,-1
+['2022-10-18'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier B,1336956,South Korea,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2022-10-15'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier B,1336952,South Korea,8,9,8,1,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,13,0,14,27

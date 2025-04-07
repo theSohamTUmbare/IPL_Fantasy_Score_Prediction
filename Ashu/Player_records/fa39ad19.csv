@@ -1,0 +1,14 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-08-28'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1443788,Estonia,10,0,0,0,0,0.0,"[1, 3, 5, 20]",4.0,24,11,0,24,2,0,1,0,0,0,0,6.0,1,0,0,0,0,0,38,8,46
+['2024-08-27'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1443785,Estonia,9,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,12,0,26,4,0,2,0,0,0,1,6.5,0,0,0,0,0,0,64,0,64
+['2024-08-25'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1443780,Estonia,7,0,4,0,0,0.0,"[1, 3, 8, 10]",4.0,24,13,0,16,1,0,1,0,0,0,0,4.0,0,0,0,0,0,-2,44,0,42
+['2024-08-24'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1443777,Estonia,9,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,12,0,24,3,0,1,0,1,0,2,6.0,0,0,0,0,0,0,47,0,47
+['2024-08-22'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1443770,Estonia,9,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,11,0,25,2,1,0,0,0,0,1,6.25,0,0,0,0,0,0,13,0,13
+['2024-06-19'],Estonia tour of Cyprus,1438079,Estonia,6,19,19,0,1,100.0,"[1, 3, 15, 17]",4.0,24,12,0,21,1,1,1,0,0,0,1,5.25,0,0,0,0,0,25,41,0,66
+['2024-06-19'],Estonia tour of Cyprus,1438080,Estonia,8,0,0,0,0,0.0,"[1, 3, 15, 17]",4.0,24,12,0,28,2,1,2,1,0,0,4,7.0,0,0,0,0,0,0,72,0,72
+['2024-06-18'],Estonia tour of Cyprus,1438077,Estonia,8,4,6,0,0,66.67,"[1, 3, 17, 19]",4.0,24,11,0,21,1,0,0,0,0,0,0,5.25,0,0,0,0,0,4,15,0,19
+['2024-06-18'],Estonia tour of Cyprus,1438078,Estonia,7,6,12,0,0,50.0,"[1, 3, 13, 15]",4.0,24,15,0,18,1,1,2,0,1,0,0,4.5,0,0,0,0,-4,2,79,0,81
+['2024-06-17'],Estonia tour of Cyprus,1438075,Estonia,9,0,0,0,0,0.0,"[1, 3, 5, 19]",4.0,24,11,0,35,1,3,0,0,0,0,3,8.75,0,0,0,0,0,0,11,0,11
+['2024-06-17'],Estonia tour of Cyprus,1438076,Estonia,7,0,0,0,0,0.0,"[1, 3, 5, 7]",4.0,24,12,0,22,1,1,0,0,0,1,1,5.5,0,0,0,0,0,0,16,0,16
+['2023-09-30'],Estonia tour of Gibraltar,1391338,Estonia,7,0,1,0,0,0.0,"[3, 5, 18, 20]",3.833,23,11,0,32,3,2,2,0,2,0,0,8.35,0,0,0,0,0,0,77,0,77
+['2023-09-30'],Estonia tour of Gibraltar,1391339,Estonia,5,0,0,0,0,0.0,"[1, 3, 5, 7]",4.0,24,13,0,22,2,1,1,0,0,0,0,5.5,1,0,0,0,0,0,42,8,50

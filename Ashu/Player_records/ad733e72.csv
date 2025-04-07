@@ -1,0 +1,7 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2012-03-23'],ICC World Twenty20 Qualifier,546473,Scotland,6,18,16,1,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,22,0,8,30
+['2012-03-18'],ICC World Twenty20 Qualifier,546442,Scotland,5,33,29,1,1,113.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,47,0,0,47
+['2010-02-11'],ICC World Twenty20 Qualifier,439505,Scotland,1,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,-2,0,28,26
+['2009-06-06'],ICC World Twenty20,355992,Scotland,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2008-08-03'],ICC World Twenty20 Qualifier,354456,Scotland,1,7,11,1,0,63.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,9,0,0,9
+['2007-09-12'],ICC World Twenty20,287855,Scotland,1,46,34,9,0,135.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,88,0,16,104

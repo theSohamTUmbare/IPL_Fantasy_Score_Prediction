@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Rangpur Riders,LMP Simmons,89f64c19,1,13,14,2,0,92.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
+Rangpur Riders,Soumya Sarkar,4d9f9686,2,7,8,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
+Rangpur Riders,Shakib Al Hasan,7dc35884,3,33,37,2,1,89.19,"[1, 4, 6, 17]",4.0,24,8,0,31,5,0,3,1,1,0,0,7.75,0,0,0,0,0,51,103,0,154
+Rangpur Riders,Mohammad Mithun,77191792,4,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12
+Rangpur Riders,Jahurul Islam,6752c57b,5,8,11,1,0,72.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+Rangpur Riders,NLTC Perera,0f12f9df,6,21,20,0,2,105.0,"[8, 11, 13, 18]",4.0,24,17,0,11,1,0,1,1,0,0,0,2.75,1,0,0,0,0,33,56,8,97
+Rangpur Riders,DJG Sammy,c03c6200,7,5,10,0,0,50.0,[19],1.0,6,3,0,7,1,0,1,0,1,0,0,7.0,0,0,0,0,-4,1,36,0,37
+Rangpur Riders,SMSM Senanayake,4c4fa80b,8,7,6,1,0,116.67,"[3, 5, 7, 9]",4.0,24,16,0,15,1,1,1,0,0,0,0,3.75,2,0,0,0,0,11,47,16,74
+Rangpur Riders,Arafat Sunny,1f7adc8a,9,3,4,0,0,75.0,"[2, 10, 12, 16]",4.0,24,13,0,27,4,0,1,1,0,0,2,6.75,0,0,1,0,0,3,48,12,63
+Rangpur Riders,Saqlain Sajib,f3c150bb,10,0,3,0,0,0.0,[14],1.0,6,3,0,6,1,0,0,0,0,0,0,6.0,0,0,0,0,0,0,3,0,3
+Rangpur Riders,Abu Jayed,1bb0993e,11,0,0,0,0,0.0,"[15, 20]",1.333,8,3,0,5,0,0,2,0,0,0,0,3.75,0,0,0,0,0,0,53,0,53
+Sylhet Super Stars,EMDY Munaweera,5a22d91c,1,17,11,2,1,154.55,"[4, 6, 10, 12]",4.0,24,12,0,19,1,0,0,0,0,0,0,4.75,0,0,1,0,4,35,18,12,65
+Sylhet Super Stars,JJ Cobb,58c481c6,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+Sylhet Super Stars,Mominul Haque,de0a3209,3,29,23,6,0,126.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,57,0,0,57
+Sylhet Super Stars,Mushfiqur Rahim,a94e08ea,4,25,34,2,0,73.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,37,0,28,65
+Sylhet Super Stars,Nazmul Islam,6575e3bc,5,0,5,0,0,0.0,"[15, 17]",2.0,12,5,0,11,1,0,1,0,0,0,0,5.5,0,0,0,0,0,-2,34,0,32
+Sylhet Super Stars,RS Bopara,7ca5e05d,6,1,4,0,0,25.0,"[8, 11, 14, 16]",4.0,24,15,0,8,0,0,1,0,1,0,1,2.0,1,0,1,0,0,1,54,20,75
+Sylhet Super Stars,Nasum Ahmed,37654b75,7,7,15,1,0,46.67,"[7, 9]",2.0,12,5,0,15,1,1,1,0,0,0,0,7.5,0,0,0,0,-6,5,30,0,35
+Sylhet Super Stars,Nazmul Hossain Milon,0637aa94,8,5,6,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
+Sylhet Super Stars,Nurul Hasan,d365d463,9,9,9,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+Sylhet Super Stars,Mohammad Shahid,c285c86e,10,4,3,1,0,133.33,"[1, 3, 18, 20]",4.0,24,16,0,12,1,0,4,0,0,0,1,3.0,0,0,0,0,0,8,130,0,138
+Sylhet Super Stars,BAW Mendis,ea0cdc12,11,3,5,0,0,60.0,"[2, 5, 13, 19]",4.0,24,6,0,41,3,2,0,0,0,0,3,10.25,0,0,0,0,0,3,4,0,7

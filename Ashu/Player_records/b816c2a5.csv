@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2018-12-23'],Big Bash League,1152516,Melbourne Renegades,4,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2017-01-10'],Big Bash League,1023623,Adelaide Strikers,7,0,3,0,0,0.0,[3],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,0,-2,2,0,0
+['2015-01-19'],Big Bash League,756793,Adelaide Strikers,5,41,34,4,0,120.59,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,61,0,0,61

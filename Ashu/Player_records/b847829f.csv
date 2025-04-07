@@ -1,0 +1,7 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2017-12-10'],Ram Slam T20 Challenge,1124687,Knights,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2017-12-08'],Ram Slam T20 Challenge,1124683,Knights,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2016-12-11'],CSA T20 Challenge,1003901,Knights,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2016-12-09'],CSA T20 Challenge,1003895,Knights,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,0,0,12,12
+['2016-12-07'],CSA T20 Challenge,1003887,Knights,6,5,7,0,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
+['2016-12-02'],CSA T20 Challenge,1003879,Knights,8,25,12,4,0,208.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,51,0,8,59

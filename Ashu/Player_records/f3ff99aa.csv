@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2018-01-11'],Syed Mushtaq Ali Trophy,1130690,Maharashtra,9,10,7,1,0,142.86,"[8, 10]",1.333,8,2,0,14,1,1,1,0,0,0,0,10.5,0,0,0,0,0,14,27,0,41
+['2018-01-08'],Syed Mushtaq Ali Trophy,1130667,Maharashtra,11,0,0,0,0,0.0,"[7, 10, 12, 14]",4.0,24,5,0,27,0,1,2,0,0,0,0,6.75,0,0,0,0,0,0,57,0,57
+['2018-01-07'],Syed Mushtaq Ali Trophy,1130662,Maharashtra,11,0,0,0,0,0.0,"[9, 11, 13, 16]",4.0,24,4,0,29,1,1,0,0,0,0,0,7.25,0,0,0,0,0,0,4,0,4

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Comilla Victorians,SP Narine,9d430b40,1,57,23,5,5,247.83,"[3, 5, 13, 18]",4.0,24,16,0,15,2,0,2,2,0,0,1,3.75,0,0,0,0,6,121,88,0,209
+Comilla Victorians,Liton Das,0404d43c,2,4,6,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,4,0,6,10
+Comilla Victorians,Mahmudul Hasan Joy,4b51bd51,3,8,7,1,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+Comilla Victorians,F du Plessis,3355b542,4,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12
+Comilla Victorians,Imrul Kayes,5fbe14fc,5,12,12,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,20,0,14,34
+Comilla Victorians,MM Ali,bb351c23,6,38,32,2,1,118.75,"[6, 11, 16]",3.0,18,4,0,28,1,2,0,0,0,0,0,9.33,0,0,0,0,0,56,4,0,60
+Comilla Victorians,Ariful Haque,ad1730bc,7,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,-2,0,12,10
+Comilla Victorians,Abu Hider,31803fac,8,19,27,1,1,70.37,[7],1.0,6,1,0,14,3,0,0,0,0,0,0,14.0,0,0,0,0,0,29,1,0,30
+Comilla Victorians,Shohidul Islam,607ed7c2,9,0,2,0,0,0.0,"[2, 9, 17, 20]",4.0,24,7,0,36,3,1,1,0,0,1,1,9.0,0,0,0,0,0,-2,32,0,30
+Comilla Victorians,Tanvir Islam,aa467af0,10,0,2,0,0,0.0,"[8, 10, 12, 15]",4.0,24,11,0,25,1,1,2,0,0,0,3,6.25,0,0,0,0,0,0,63,0,63
+Comilla Victorians,Mustafizur Rahman,0a8fce53,11,0,0,0,0,0.0,"[1, 4, 14, 19]",4.0,24,11,0,30,4,0,1,1,0,0,4,7.5,1,0,0,0,0,0,44,8,52
+Fortune Barishal,Munim Shahriar,dd98b22f,1,0,7,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Fortune Barishal,CH Gayle,db584dad,2,33,30,1,2,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,53,0,0,53
+Fortune Barishal,Shykat Ali,288dd46e,3,58,34,11,1,170.59,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,122,0,8,130
+Fortune Barishal,Nurul Hasan,d365d463,4,14,13,1,0,107.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,2,0,18,0,20,38
+Fortune Barishal,Shakib Al Hasan,7dc35884,5,7,7,1,0,100.0,"[3, 5, 8, 12]",4.0,24,8,0,30,4,0,1,0,1,0,0,7.5,0,0,0,1,0,11,41,6,58
+Fortune Barishal,Nazmul Hossain Shanto,1274d7ab,6,12,15,0,1,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26
+Fortune Barishal,DJ Bravo,87e562a9,7,1,2,0,0,50.0,"[4, 10, 16, 19]",4.0,24,10,0,26,3,0,1,0,0,0,2,6.5,0,0,0,1,0,1,37,6,44
+Fortune Barishal,Towhid Hridoy,9e52a414,8,9,9,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
+Fortune Barishal,Mujeeb Ur Rahman,7d92277a,9,4,3,0,0,133.33,"[1, 7, 9, 11]",4.0,24,14,0,27,2,2,2,0,1,0,1,6.75,1,0,0,0,0,4,74,8,86
+Fortune Barishal,Mehedi Hasan Rana,0b7363da,10,0,0,0,0,0.0,"[6, 13, 15, 18]",4.0,24,7,0,34,0,3,1,0,0,0,2,8.5,0,0,0,0,0,0,32,0,32
+Fortune Barishal,Shafiqul Islam,390c914c,11,0,0,0,0,0.0,"[2, 14, 17, 20]",4.0,24,8,0,31,2,2,2,0,0,0,1,7.75,1,0,0,0,0,0,58,8,66
