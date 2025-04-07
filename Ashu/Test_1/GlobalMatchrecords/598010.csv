@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Delhi Daredevils,DA Warner,dcce6f09,1,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Delhi Daredevils,V Sehwag,8ba8195d,2,12,10,2,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,20,0,8,28
+Delhi Daredevils,DPMD Jayawardene,d18f9182,3,12,14,1,1,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
+Delhi Daredevils,MC Juneja,605b7efa,4,15,22,0,0,68.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,13,0,0,13
+Delhi Daredevils,J Botha,7c503806,5,9,14,1,0,64.29,"[7, 9, 11]",3.0,18,10,0,11,1,0,1,0,0,0,0,3.67,2,0,0,0,-2,11,41,16,68
+Delhi Daredevils,IK Pathan,5fa06777,6,23,30,1,0,76.67,"[1, 3, 18, 20]",3.333,20,11,0,19,2,0,1,0,0,0,1,5.7,0,0,0,0,0,27,40,0,67
+Delhi Daredevils,KM Jadhav,99d63244,7,30,19,1,2,157.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,4,54,0,12,66
+Delhi Daredevils,M Morkel,5bb5a915,8,0,1,0,0,0.0,"[5, 13, 15, 17]",4.0,24,9,0,27,2,0,2,0,1,1,0,6.75,0,0,0,0,0,-2,69,0,67
+Delhi Daredevils,S Nadeem,9d80c5e1,9,0,1,0,0,0.0,"[8, 10, 12, 14]",4.0,24,11,0,17,0,1,2,0,0,0,0,4.25,1,0,1,0,0,-2,67,20,85
+Delhi Daredevils,UT Yadav,cc1e8c68,10,6,5,1,0,120.0,"[6, 16, 19]",3.0,18,5,0,32,6,0,0,0,0,0,0,10.67,0,0,0,0,0,10,3,0,13
+Delhi Daredevils,S Kaul,dcf81436,11,0,0,0,0,0.0,"[2, 4]",2.0,12,10,1,8,2,0,0,0,0,0,0,4.0,0,0,0,0,0,0,28,0,28
+Sunrisers Hyderabad,PA Reddy,2461eef2,1,1,8,0,0,12.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+Sunrisers Hyderabad,PA Patel,b5da6c24,2,19,19,4,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,35,0,0,35
+Sunrisers Hyderabad,KC Sangakkara,6b71e6cf,3,28,28,4,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,48,0,0,48
+Sunrisers Hyderabad,GH Vihari,94253925,4,17,23,0,1,73.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,23,0,8,31
+Sunrisers Hyderabad,CL White,d0513f63,5,4,8,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,4,0,16,20
+Sunrisers Hyderabad,NLTC Perera,0f12f9df,6,2,3,0,0,66.67,"[4, 15, 18, 20]",4.0,24,7,0,31,3,1,2,0,0,0,0,7.75,0,0,0,0,0,2,57,0,59
+Sunrisers Hyderabad,A Ashish Reddy,1c2a64cd,7,16,9,2,0,177.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,24,0,8,32
+Sunrisers Hyderabad,A Mishra,6b19d823,8,16,13,2,0,123.08,"[8, 10, 12, 14]",4.0,24,10,0,15,0,0,1,0,0,0,0,3.75,0,0,0,0,0,24,41,0,65
+Sunrisers Hyderabad,DW Steyn,8fd1a8f5,9,9,5,1,0,180.0,"[1, 3, 11, 19]",4.0,24,15,1,11,1,0,2,0,1,0,1,2.75,1,0,0,0,0,13,91,8,112
+Sunrisers Hyderabad,I Sharma,5bb1a1c4,10,0,0,0,0,0.0,"[2, 5, 7, 17]",4.0,24,11,0,35,2,2,2,0,0,1,2,8.75,0,0,0,0,0,0,61,0,61
+Sunrisers Hyderabad,Anand Rajan,d2340a43,11,0,0,0,0,0.0,"[6, 9, 13, 16]",4.0,24,11,0,20,1,0,1,0,0,0,1,5.0,1,0,0,0,0,0,40,8,48

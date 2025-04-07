@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Arunachal Pradesh,Uvais Ahmad,c9d6f9f2,1,12,11,2,0,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
+Arunachal Pradesh,Samarth Seth,9fe56f2b,2,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Arunachal Pradesh,Rahul Dalal,802fdccf,3,6,5,1,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+Arunachal Pradesh,Akhilesh Sahani,d6ac52e8,4,8,8,0,1,100.0,[1],1.0,6,2,0,11,2,0,0,0,0,0,1,11.0,0,0,0,0,0,14,2,0,16
+Arunachal Pradesh,Shashwat Kohli,f782103d,5,9,9,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+Arunachal Pradesh,Myendung Singpho,d2b99c2d,6,1,2,0,0,50.0,[4],1.0,6,1,0,12,1,1,0,0,0,0,0,12.0,0,0,0,0,0,1,1,0,2
+Arunachal Pradesh,Song Tacho,128d1861,7,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+Arunachal Pradesh,Yab Niya,8d6505d3,8,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+Arunachal Pradesh,Techi Neri,d3885f28,9,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+Arunachal Pradesh,Licha Tehi,4b6cc6c2,10,0,0,0,0,0.0,[2],1.0,6,1,0,13,2,0,0,0,0,1,0,13.0,0,0,0,0,0,0,1,0,1
+Arunachal Pradesh,Kengo Bam,dd55932d,11,0,0,0,0,0.0,[3],1.0,6,1,0,13,1,1,0,0,0,0,0,13.0,0,0,0,0,0,0,1,0,1
+Punjab,Shubman Gill,b4b99816,1,24,13,3,1,184.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,48,0,8,56
+Punjab,P Simran Singh,9418198b,2,23,11,3,1,209.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,47,0,8,55
+Punjab,Sandeep Sharma,ce820073,3,0,0,0,0,0.0,"[1, 6]",2.0,12,7,0,6,0,0,1,0,0,0,0,3.0,1,0,1,0,0,0,38,20,58
+Punjab,S Kaul,dcf81436,4,0,0,0,0,0.0,"[2, 8]",2.0,12,4,0,14,2,0,0,0,0,0,0,7.0,0,0,0,0,0,0,6,0,6
+Punjab,Baltej Singh,0c0ef3fb,5,0,0,0,0,0.0,"[3, 5]",2.0,12,7,0,11,2,0,3,0,0,0,0,5.5,0,0,0,0,0,0,90,0,90
+Punjab,Karan Kaila,b19f1fe9,6,0,0,0,0,0.0,[4],1.0,6,2,0,8,0,1,0,0,0,0,0,8.0,0,0,0,0,0,0,2,0,2
+Punjab,Nikhil Chaudhary,1f84183a,7,0,0,0,0,0.0,[7],1.0,6,2,0,4,0,0,0,0,0,0,0,4.0,0,0,0,0,0,0,2,0,2
+Punjab,Gurkeerat Singh,6eb146d2,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Punjab,Anmolpreet Singh,1399b39c,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Punjab,Sharad Lumba,03c29939,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,2,0,0,0,0,24,24
+Punjab,Mandeep Singh,c3a96caf,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8

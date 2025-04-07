@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Melbourne Renegades,AJ Finch,b8d490fd,1,49,40,5,1,122.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,79,0,0,79
+Melbourne Renegades,AB McDonald,16043342,2,50,33,3,2,151.52,"[10, 12]",2.0,12,2,0,21,3,0,1,0,0,0,0,10.5,0,0,0,0,4,86,25,0,111
+Melbourne Renegades,GJ Maxwell,b681e71e,3,31,15,1,3,206.67,"[1, 11, 15]",3.0,18,5,0,24,1,1,0,0,0,0,0,8.0,0,0,0,0,6,63,5,0,68
+Melbourne Renegades,NJ Reardon,c7bdb5b5,4,22,15,1,1,146.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,34,0,0,34
+Melbourne Renegades,Abdul Razzaq,390ff45b,5,27,17,1,2,158.82,"[3, 5, 20]",2.333,14,4,0,34,3,3,0,0,0,0,0,14.57,0,0,0,0,4,51,-2,0,49
+Melbourne Renegades,Shahid Afridi,0dc00542,6,0,0,0,0,0.0,"[7, 9, 13, 17]",4.0,24,7,0,36,4,1,0,0,0,0,0,9.0,0,0,0,0,0,0,7,0,7
+Melbourne Renegades,GA Manou,f58839ad,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Melbourne Renegades,WD Sheridan,25d12bb4,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Melbourne Renegades,AK Heal,78ba5d1b,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Melbourne Renegades,SM Harwood,63bff7f9,10,0,0,0,0,0.0,"[6, 8, 16, 18]",4.0,24,11,0,31,2,2,1,0,1,0,2,7.75,0,0,0,0,0,0,44,0,44
+Melbourne Renegades,SW Tait,addfb70e,11,0,0,0,0,0.0,"[2, 4, 14, 19]",4.0,24,8,0,40,4,1,0,0,0,1,1,10.0,0,0,0,0,0,0,6,0,6
+Perth Scorchers,HH Gibbs,e1d1b294,1,57,36,8,2,158.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,113,0,0,113
+Perth Scorchers,SE Marsh,508a1ea7,2,99,52,9,5,190.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,183,0,0,183
+Perth Scorchers,MR Marsh,3d8feaf8,3,18,19,0,1,94.74,"[5, 8]",2.0,12,4,0,26,2,2,0,0,0,0,1,13.0,1,0,0,0,0,24,-2,8,30
+Perth Scorchers,L Ronchi,0fa5042b,4,8,9,0,0,88.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+Perth Scorchers,PD Collingwood,a386e91b,5,0,0,0,0,0.0,[10],1.0,6,1,0,13,1,1,0,0,0,0,0,13.0,0,0,0,0,0,0,1,0,1
+Perth Scorchers,MJ North,99464591,6,0,0,0,0,0.0,[15],1.0,6,0,0,22,0,3,0,0,0,0,0,22.0,0,0,0,0,0,0,0,0,0
+Perth Scorchers,SM Katich,fdedb37c,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Perth Scorchers,GB Hogg,f708a0bc,8,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,6,0,22,1,0,1,0,1,0,0,5.5,0,0,0,0,0,0,43,0,43
+Perth Scorchers,NJ Rimmington,6042bf26,9,0,0,0,0,0.0,"[2, 12, 17, 19]",4.0,24,6,0,40,5,1,0,0,0,0,1,10.0,0,0,0,0,0,0,4,0,4
+Perth Scorchers,MA Beer,f60dc2a5,10,0,0,0,0,0.0,"[1, 3, 14, 16]",4.0,24,11,0,28,2,0,2,0,1,0,6,7.0,0,0,0,0,0,0,71,0,71
+Perth Scorchers,BM Edmondson,b0b320a0,11,0,0,0,0,0.0,"[4, 6, 18, 20]",4.0,24,4,0,36,0,2,0,0,0,0,0,9.0,0,0,0,0,0,0,4,0,4

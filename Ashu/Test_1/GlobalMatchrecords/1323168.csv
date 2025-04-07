@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Guyana Amazon Warriors,C Hemraj,9d450c28,1,13,13,2,0,100.0,"[5, 7]",2.0,12,4,0,11,1,0,0,0,0,0,0,5.5,0,0,0,1,0,21,8,6,35
+Guyana Amazon Warriors,Rahmanullah Gurbaz,0bacade8,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,0,-2,0,12,10
+Guyana Amazon Warriors,SD Hope,1fc6ef83,3,60,45,4,3,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,104,0,0,104
+Guyana Amazon Warriors,Shakib Al Hasan,7dc35884,4,0,1,0,0,0.0,"[2, 6, 13, 16]",4.0,24,12,0,30,1,3,1,0,0,0,0,7.5,1,0,0,0,0,-2,37,8,43
+Guyana Amazon Warriors,SO Hetmyer,48a1d7b7,5,11,18,1,0,61.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,13,0,0,13
+Guyana Amazon Warriors,R Shepherd,c5aef772,6,9,11,1,0,81.82,[1],1.0,6,3,0,6,1,0,0,0,0,0,0,6.0,0,0,0,0,0,13,3,0,16
+Guyana Amazon Warriors,G Motie,97bdec3d,7,2,3,0,0,66.67,"[3, 10, 17, 19]",4.0,24,9,0,36,2,2,2,0,0,0,2,9.0,2,0,0,1,0,2,59,22,83
+Guyana Amazon Warriors,OF Smith,23cca426,8,42,15,0,6,280.0,"[14, 20]",1.833,11,5,0,26,1,3,2,0,0,0,2,14.18,0,0,0,1,6,88,55,6,149
+Guyana Amazon Warriors,KMA Paul,75224f22,9,24,12,2,2,200.0,[18],1.0,6,0,0,17,2,0,0,0,0,1,3,17.0,2,0,0,0,6,50,0,16,66
+Guyana Amazon Warriors,JA Sinclair,43057192,10,6,1,0,1,600.0,"[8, 12]",2.0,12,4,0,19,2,1,0,0,0,0,0,9.5,1,0,0,0,0,12,4,8,24
+Guyana Amazon Warriors,Imran Tahir,acee4cc4,11,0,0,0,0,0.0,"[4, 9, 11, 15]",4.0,24,15,0,17,3,0,2,1,0,0,0,4.25,0,0,0,1,0,0,79,6,85
+Jamaica Tallawahs,BA King,7fca84b7,1,104,66,8,7,157.58,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,198,0,0,198
+Jamaica Tallawahs,K Lewis,b0081e62,2,13,11,1,1,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,23,0,8,31
+Jamaica Tallawahs,KSA McKenzie,2b8f219a,3,15,16,1,1,93.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
+Jamaica Tallawahs,R Powell,650d5e49,4,4,5,0,0,80.0,[20],1.0,6,2,0,19,0,2,1,0,1,1,4,19.0,1,0,0,0,0,4,35,8,47
+Jamaica Tallawahs,RA Reifer,d7725664,5,6,7,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+Jamaica Tallawahs,FA Allen,b52ffbbd,6,1,3,0,0,33.33,"[12, 14]",2.0,12,5,0,13,2,0,1,0,0,0,0,6.5,0,0,0,0,0,1,32,0,33
+Jamaica Tallawahs,Mohammad Nabi,62af8546,7,5,5,1,0,100.0,"[10, 16]",2.0,12,6,0,12,0,1,3,2,1,0,0,6.0,0,0,0,0,0,9,111,0,120
+Jamaica Tallawahs,Imad Wasim,9cb8d7a6,8,5,3,1,0,166.67,"[5, 7, 11, 15]",4.0,24,11,0,23,1,1,1,1,0,0,1,5.75,0,0,0,0,0,9,48,0,57
+Jamaica Tallawahs,CJ Green,19b9f399,9,1,1,0,0,100.0,"[2, 4, 6, 8]",4.0,24,13,0,24,2,1,2,1,0,0,1,6.0,0,0,0,0,0,1,73,0,74
+Jamaica Tallawahs,M Pretorius,54c2b697,10,0,1,0,0,0.0,"[9, 13, 18]",3.0,18,4,0,45,1,5,0,0,0,0,1,15.0,0,0,0,0,0,-2,-2,0,-4
+Jamaica Tallawahs,Mohammad Amir,e174dadd,11,0,1,0,0,0.0,"[1, 3, 17, 19]",4.0,24,11,0,42,4,2,0,0,0,0,3,10.5,0,0,0,0,0,0,9,0,9

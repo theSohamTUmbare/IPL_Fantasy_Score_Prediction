@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Cumilla Warriors,PBB Rajapaksa,6c882e9a,1,96,64,4,7,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,166,0,0,166
+Cumilla Warriors,Soumya Sarkar,4d9f9686,2,10,5,2,0,200.0,"[12, 14, 16, 20]",3.833,23,6,0,29,1,1,1,0,0,0,1,7.57,1,0,0,0,0,18,31,8,57
+Cumilla Warriors,Sabbir Rahman,7147f314,3,0,7,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Cumilla Warriors,DJ Malan,ad9c32a2,4,9,17,0,0,52.94,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,5,0,8,13
+Cumilla Warriors,Yasir Ali Chowdhury,5791b840,5,30,27,2,0,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,42,0,0,42
+Cumilla Warriors,MD Shanaka,3ff033bb,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Cumilla Warriors,Mujeeb Ur Rahman,7d92277a,7,0,0,0,0,0.0,"[2, 6, 10, 18]",4.0,24,13,1,22,0,1,2,1,1,0,6,5.5,0,0,0,0,0,0,95,0,95
+Cumilla Warriors,Al-Amin Hossain,3f5f39cd,8,0,0,0,0,0.0,"[7, 9, 13, 19]",4.0,24,8,0,29,2,1,1,0,0,0,1,7.25,0,0,0,0,0,0,33,0,33
+Cumilla Warriors,Mahidul Islam Ankon,dac6aabc,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Cumilla Warriors,Robiul Islam Robi,75c51539,10,0,0,0,0,0.0,"[1, 3, 5, 11]",4.0,24,11,0,44,2,5,1,0,0,0,0,11.0,0,0,0,0,0,0,34,0,34
+Cumilla Warriors,Sumon Khan,a84ccd7d,11,0,0,0,0,0.0,"[4, 8, 15, 17]",4.0,24,7,0,34,3,1,0,0,0,0,3,8.5,0,0,0,0,0,0,7,0,7
+Dhaka Platoon,Tamim Iqbal,3b041a12,1,34,40,4,0,85.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,54,0,0,54
+Dhaka Platoon,Anamul Haque,72b245dd,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Dhaka Platoon,Mahedi Hasan,9dad0f2e,3,59,29,2,7,203.45,"[2, 4, 6, 8]",4.0,24,16,0,9,0,0,2,0,1,0,2,2.25,0,0,0,0,6,123,80,0,203
+Dhaka Platoon,Asif Ali,0a4736eb,4,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Dhaka Platoon,Jaker Ali,cd56a813,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+Dhaka Platoon,Mominul Haque,de0a3209,6,28,26,1,0,107.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,36,0,0,36
+Dhaka Platoon,Shahid Afridi,0dc00542,7,26,16,1,2,162.5,"[11, 13]",2.0,12,0,0,23,2,1,0,0,0,0,0,11.5,0,0,0,0,4,50,-4,0,46
+Dhaka Platoon,Shadab Khan,9de62878,8,0,0,0,0,0.0,"[10, 12, 15, 17]",4.0,24,10,0,32,1,2,1,0,0,0,1,8.0,0,0,0,0,0,0,35,0,35
+Dhaka Platoon,Wahab Riaz,b3118300,9,0,0,0,0,0.0,"[5, 16, 18, 20]",4.0,24,4,0,32,2,1,0,0,0,1,0,8.0,0,0,0,0,0,0,4,0,4
+Dhaka Platoon,Mashrafe Mortaza,e186f49c,10,0,0,0,0,0.0,"[1, 7, 9]",3.0,18,8,0,21,2,0,0,0,0,1,0,7.0,0,0,0,0,0,0,10,0,10
+Dhaka Platoon,Hasan Mahmud,80ad39ac,11,0,0,0,0,0.0,"[3, 14, 19]",3.0,18,5,0,34,1,3,0,0,0,0,1,11.33,0,0,0,0,0,0,1,0,1

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Khulna Tigers,Nazmul Hossain Shanto,1274d7ab,1,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+Khulna Tigers,Rahmanullah Gurbaz,0bacade8,2,7,4,1,0,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
+Khulna Tigers,RR Rossouw,cad00a4d,3,42,35,5,1,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,72,0,8,80
+Khulna Tigers,Mushfiqur Rahim,a94e08ea,4,96,51,9,4,188.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,174,0,8,182
+Khulna Tigers,Shamsur Rahman,02789d88,5,29,20,3,1,145.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,53,0,0,53
+Khulna Tigers,R Frylinck,8b248d88,6,14,6,1,1,233.33,"[3, 5, 12, 18]",4.0,24,8,0,29,1,2,1,0,0,0,1,7.25,0,0,0,0,0,24,33,0,57
+Khulna Tigers,Shohidul Islam,607ed7c2,7,0,0,0,0,0.0,"[7, 9, 13, 15]",4.0,24,6,0,35,3,1,1,0,0,0,1,8.75,0,0,0,0,0,0,31,0,31
+Khulna Tigers,Aminul Islam,f8ce577b,8,0,0,0,0,0.0,"[10, 16]",2.0,12,2,0,30,1,3,0,0,0,0,0,15.0,0,0,0,0,0,0,-4,0,-4
+Khulna Tigers,Mehedi Hasan Miraz,c58b0108,9,0,0,0,0,0.0,"[1, 8]",2.0,12,4,0,17,1,1,0,0,0,0,0,8.5,0,0,0,0,0,0,4,0,4
+Khulna Tigers,Shafiul Islam,1a8eebbe,10,0,0,0,0,0.0,"[6, 11, 14, 20]",4.0,24,7,0,38,3,2,0,0,0,0,1,9.5,1,0,0,0,0,0,7,8,15
+Khulna Tigers,Mohammad Amir,e174dadd,11,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,7,0,36,3,1,2,0,0,0,3,9.0,0,0,0,0,0,0,57,0,57
+Rajshahi Royals,Liton Das,0404d43c,1,19,16,1,1,118.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,29,0,8,37
+Rajshahi Royals,Hazratullah,5ea51c25,2,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Rajshahi Royals,Afif Hossain,37138918,3,19,17,0,2,111.76,"[3, 5, 7]",3.0,18,6,0,24,2,1,1,0,0,0,0,8.0,0,0,0,0,0,31,31,0,62
+Rajshahi Royals,Shoaib Malik,64c34cd0,4,87,50,8,4,174.0,"[8, 10]",2.0,12,2,0,14,1,0,0,0,0,0,0,7.0,1,0,0,0,6,161,4,8,173
+Rajshahi Royals,RS Bopara,7ca5e05d,5,40,26,2,2,153.85,"[9, 16, 20]",2.667,16,2,0,32,4,1,1,0,0,0,1,12.0,0,0,0,0,4,68,23,0,91
+Rajshahi Royals,AD Russell,bbd41817,6,13,6,1,1,216.67,"[1, 6, 17, 19]",4.0,24,8,0,41,4,2,2,0,1,0,2,10.25,0,0,0,0,0,23,64,0,87
+Rajshahi Royals,Alok Kapali,54279e23,7,0,0,0,0,0.0,"[11, 13, 15]",3.0,18,1,0,31,2,1,0,0,0,0,0,10.33,0,0,0,0,0,0,-1,0,-1
+Rajshahi Royals,Farhad Reza,4948a447,8,0,0,0,0,0.0,[18],1.0,6,0,0,14,1,1,0,0,0,0,0,14.0,1,0,0,0,0,0,0,8,8
+Rajshahi Royals,Taijul Islam,9d1d34bd,9,0,0,0,0,0.0,[14],1.0,6,1,0,11,0,1,0,0,0,0,0,11.0,1,0,0,0,0,0,1,8,9
+Rajshahi Royals,Abu Jayed,1bb0993e,10,0,0,0,0,0.0,[4],1.0,6,3,0,7,1,0,0,0,0,0,1,7.0,0,0,0,0,0,0,3,0,3
+Rajshahi Royals,Kamrul Islam Rabbi,f7e9a562,11,0,0,0,0,0.0,"[2, 12]",2.0,12,6,0,18,4,0,1,0,0,0,0,9.0,0,0,0,0,0,0,31,0,31

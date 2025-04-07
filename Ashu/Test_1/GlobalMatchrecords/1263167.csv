@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Pakistan,Sharjeel Khan,193ef196,1,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Pakistan,Mohammad Rizwan,2f26ac1a,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Pakistan,Babar Azam,8a75e999,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Pakistan,Mohammad Hafeez,9ab63e7b,4,0,0,0,0,0.0,[1],1.0,6,2,0,14,0,2,0,0,0,0,0,14.0,0,0,0,0,0,0,2,0,2
+Pakistan,Fakhar Zaman,1777c020,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Pakistan,Sohaib Maqsood,b98b5e1c,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Pakistan,Shadab Khan,9de62878,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Pakistan,Hasan Ali,2911de16,8,0,0,0,0,0.0,[3],1.0,6,5,0,4,1,0,0,0,0,0,0,4.0,0,0,0,0,0,0,5,0,5
+Pakistan,Mohammad Wasim,9e9af5f2,9,0,0,0,0,0.0,[2],1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,0,0,1,0,1
+Pakistan,Haris Rauf,24bb1c2f,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Pakistan,Usman Qadir,33742f04,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+West Indies,ADS Fletcher,1bae756b,1,17,12,1,2,141.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,35,0,0,35
+West Indies,CH Gayle,db584dad,2,12,6,2,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
+West Indies,SO Hetmyer,48a1d7b7,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+West Indies,DJ Bravo,87e562a9,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+West Indies,N Pooran,3241e3fd,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+West Indies,KA Pollard,a757b0d8,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+West Indies,AD Russell,bbd41817,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+West Indies,JO Holder,0f721006,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+West Indies,R Shepherd,c5aef772,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+West Indies,HR Walsh,1ac2a995,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+West Indies,AJ Hosein,4d7f517e,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Brisbane Heat,JJ Peirson,2b55c3b4,1,12,13,1,0,92.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24
+Brisbane Heat,BB McCullum,b8a55852,2,5,6,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
+Brisbane Heat,SD Heazlett,e00a9155,3,11,11,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
+Brisbane Heat,M Labuschagne,fa433be6,4,20,19,2,0,105.26,[15],1.0,6,3,0,5,0,0,0,0,0,0,0,5.0,0,0,0,0,0,28,3,0,31
+Brisbane Heat,AI Ross,fb0d68b4,5,48,44,3,1,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,70,0,0,70
+Brisbane Heat,BCJ Cutting,2e11c706,6,18,13,0,2,138.46,[17],1.0,6,1,0,12,1,0,1,0,0,0,1,12.0,0,0,0,0,2,32,26,0,58
+Brisbane Heat,Shadab Khan,9de62878,7,0,1,0,0,0.0,"[1, 3, 5, 11]",4.0,24,13,0,17,2,0,2,0,1,0,1,4.25,0,0,0,0,0,-2,77,0,75
+Brisbane Heat,JK Lalor,88209c84,8,10,9,1,0,111.11,"[8, 10, 18]",3.0,18,5,0,17,1,0,0,0,0,0,0,5.67,0,0,0,0,0,14,9,0,23
+Brisbane Heat,MT Steketee,903560ed,9,4,1,1,0,400.0,"[2, 4, 12, 19]",3.667,22,6,0,35,2,2,0,0,0,0,1,9.54,1,0,0,0,0,8,6,8,22
+Brisbane Heat,B Doggett,898e628d,10,1,3,0,0,33.33,"[6, 14]",2.0,12,4,0,22,2,1,0,0,0,1,0,11.0,0,0,0,0,0,1,2,0,3
+Brisbane Heat,MJ Swepson,86b4bf88,11,0,0,0,0,0.0,"[7, 9, 13, 16]",4.0,24,11,0,25,0,2,0,0,0,0,0,6.25,0,0,0,0,0,0,13,0,13
+Melbourne Renegades,AJ Finch,b8d490fd,1,8,9,1,0,88.89,[8],1.0,6,2,0,5,0,0,0,0,0,0,0,5.0,2,0,0,0,0,12,2,16,30
+Melbourne Renegades,MS Harris,9e85455c,2,9,13,1,0,69.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,11,0,0,11
+Melbourne Renegades,CL White,d0513f63,3,51,42,4,2,121.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,87,0,8,95
+Melbourne Renegades,TLW Cooper,2318ba22,4,52,44,2,2,118.18,[2],1.0,6,4,0,6,1,0,1,0,1,0,0,6.0,0,0,0,0,0,80,37,0,117
+Melbourne Renegades,BJ Hodge,b57f8a9a,5,9,4,0,1,225.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
+Melbourne Renegades,DJ Bravo,87e562a9,6,0,0,0,0,0.0,"[9, 15, 18, 20]",4.0,24,6,0,27,2,0,2,0,1,0,0,6.75,0,0,0,0,0,0,66,0,66
+Melbourne Renegades,Mohammad Nabi,62af8546,7,0,0,0,0,0.0,"[1, 3]",2.0,12,5,0,14,2,0,0,0,0,0,0,7.0,0,0,0,0,0,0,7,0,7
+Melbourne Renegades,TP Ludeman,c3f7898b,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Melbourne Renegades,KW Richardson,dfc4d8b5,9,0,0,0,0,0.0,"[5, 14, 16, 19]",4.0,24,9,0,37,3,2,0,0,0,0,1,9.25,1,0,0,0,0,0,9,8,17
+Melbourne Renegades,GB Hogg,f708a0bc,10,0,0,0,0,0.0,"[7, 11, 13, 17]",4.0,24,8,0,25,1,1,2,0,0,0,0,6.25,0,0,0,0,0,0,60,0,60
+Melbourne Renegades,JD Wildermuth,f1c61793,11,0,0,0,0,0.0,"[4, 6, 10, 12]",4.0,24,14,0,16,2,0,3,0,2,0,0,4.0,0,0,0,0,0,0,115,0,115

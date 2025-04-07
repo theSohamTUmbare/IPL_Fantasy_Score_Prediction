@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Nottinghamshire,JM Clarke,2eca67f5,1,25,16,3,1,156.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,51,0,0,51
+Nottinghamshire,AD Hales,92aeac25,2,71,35,8,3,202.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,135,0,0,135
+Nottinghamshire,C Munro,af2c687b,3,9,10,1,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
+Nottinghamshire,M Montgomery,7671203a,4,4,6,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12
+Nottinghamshire,TJ Moores,85dcb721,5,6,3,0,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+Nottinghamshire,LW James,2baad3bd,6,3,5,0,0,60.0,[5],1.0,6,0,0,18,2,1,0,0,0,0,1,18.0,0,0,0,0,0,3,0,0,3
+Nottinghamshire,SJ Mullaney,0e0d43b4,7,4,6,0,0,66.67,"[8, 11, 15, 17]",4.0,24,10,0,28,2,1,2,0,0,0,1,7.0,2,0,0,0,0,4,62,16,82
+Nottinghamshire,SR Patel,18fac429,8,4,8,0,0,50.0,"[7, 9, 13, 16]",4.0,24,6,0,45,6,1,1,0,0,0,2,11.25,0,0,0,0,0,4,27,0,31
+Nottinghamshire,Shaheen Shah Afridi,45a7e761,9,29,11,1,4,263.64,"[1, 4, 18, 20]",4.0,24,7,0,45,6,2,1,0,0,2,0,11.25,0,0,0,0,6,67,28,0,95
+Nottinghamshire,M Carter,1ca7c00f,10,3,5,0,0,60.0,"[2, 10, 12, 14]",4.0,24,4,0,37,2,2,1,0,1,0,2,9.25,0,0,0,0,0,3,37,0,40
+Nottinghamshire,C McKerr,5ccdb14f,11,5,5,0,0,100.0,"[3, 6, 19]",3.0,18,1,0,46,2,4,0,0,0,0,2,15.33,0,0,0,0,0,5,-5,0,0
+Worcestershire,BL D'Oliveira,9679838c,1,44,21,6,2,209.52,"[10, 14]",2.0,12,7,0,11,0,1,4,0,0,0,0,5.5,0,0,0,0,6,90,119,0,209
+Worcestershire,MG Bracewell,e38bce7a,2,55,26,6,2,211.54,"[4, 8, 12, 16]",4.0,24,4,0,57,3,5,1,0,1,0,2,14.25,2,0,0,0,6,105,31,16,152
+Worcestershire,JA Haynes,fe4ebca0,3,42,25,4,2,168.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,78,0,0,78
+Worcestershire,MJ Santner,e4a0deae,4,6,5,1,0,120.0,"[2, 7, 11, 15]",4.0,24,9,0,29,2,1,0,0,0,0,2,7.25,0,0,0,0,0,10,9,0,19
+Worcestershire,AJ Hose,104e88a4,5,51,27,3,4,188.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,101,0,16,117
+Worcestershire,Kashif Ali,f3b26fe4,6,10,11,0,1,90.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24
+Worcestershire,EJ Pollock,d6663a9a,7,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+Worcestershire,OB Cox,324a6ee1,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
+Worcestershire,AW Finch,fc63d916,9,0,0,0,0,0.0,"[3, 13, 18]",3.0,18,2,0,34,2,2,0,0,0,2,0,11.33,0,0,0,0,0,0,-2,0,-2
+Worcestershire,DY Pennington,219cc59e,10,0,0,0,0,0.0,"[1, 5]",2.0,12,5,0,14,2,0,1,0,0,0,0,7.0,1,0,0,0,0,0,32,8,40
+Worcestershire,PR Brown,1efd12d1,11,0,0,0,0,0.0,"[6, 9, 17, 19]",3.333,20,8,0,25,4,0,4,0,0,0,1,7.5,0,0,0,0,0,0,116,0,116
