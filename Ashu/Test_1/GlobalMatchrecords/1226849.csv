@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Melbourne Stars,MP Stoinis,d9273ee7,1,14,11,1,1,127.27,"[8, 17]",2.0,12,4,0,16,2,0,1,0,0,0,2,8.0,0,0,0,0,0,24,29,0,53
+Melbourne Stars,SE Gotch,9a0e4ca5,2,18,20,3,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,30,0,8,38
+Melbourne Stars,NCR Larkin,02bce9a8,3,70,44,9,1,159.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,124,0,0,124
+Melbourne Stars,GJ Maxwell,b681e71e,4,0,4,0,0,0.0,[12],1.0,6,0,0,6,0,0,0,0,0,0,0,6.0,2,0,0,0,0,-2,0,16,14
+Melbourne Stars,NJ Maddinson,44afbf2d,5,18,16,2,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,26,0,8,34
+Melbourne Stars,NM Coulter-Nile,56ab442f,6,7,4,0,1,175.0,"[7, 11, 16, 19]",4.0,24,4,0,49,5,2,1,0,0,0,2,12.25,0,0,0,0,0,13,23,0,36
+Melbourne Stars,HWR Cartwright,ab965cad,7,23,13,0,2,176.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,41,0,0,41
+Melbourne Stars,CD Hinchliffe,8891669e,8,13,8,1,0,162.5,[6],1.0,6,2,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,17,2,0,19
+Melbourne Stars,A Zampa,14f96089,9,0,0,0,0,0.0,"[3, 9, 15, 18]",4.0,24,6,0,48,5,2,1,0,0,0,0,12.0,0,0,0,0,0,0,27,0,27
+Melbourne Stars,B Stanlake,6834d1f2,10,0,0,0,0,0.0,"[1, 5, 13, 20]",4.0,24,9,0,19,1,0,0,0,0,0,0,4.75,0,0,0,0,0,0,15,0,15
+Melbourne Stars,Zahir Khan,786b7fe8,11,0,0,0,0,0.0,"[2, 4, 10, 14]",4.0,24,6,0,31,3,0,1,0,0,0,0,7.75,0,0,0,0,0,0,31,0,31
+Perth Scorchers,JJ Roy,d1c36f5c,1,54,32,7,1,168.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,100,0,0,100
+Perth Scorchers,LS Livingstone,50c6bc2b,2,24,29,2,0,82.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32
+Perth Scorchers,C Munro,af2c687b,3,46,30,4,2,153.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,82,0,0,82
+Perth Scorchers,JP Inglis,989889ff,4,26,16,1,1,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,44,0,0,44
+Perth Scorchers,MR Marsh,3d8feaf8,5,5,4,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
+Perth Scorchers,AJ Turner,ff1e12a0,6,18,9,2,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,26,0,16,42
+Perth Scorchers,AM Hardie,d405c0d5,7,0,0,0,0,0.0,"[5, 11, 17, 19]",4.0,24,4,0,41,4,1,0,0,0,0,0,10.25,0,0,0,0,0,0,2,0,2
+Perth Scorchers,JA Richardson,1ee08e9a,8,0,0,0,0,0.0,"[1, 3, 13, 20]",4.0,24,5,0,39,2,2,1,0,0,0,2,9.75,0,0,0,0,0,0,30,0,30
+Perth Scorchers,AJ Tye,7c7d63a2,9,0,0,0,0,0.0,"[7, 9, 14, 18]",4.0,24,9,0,28,2,1,2,0,1,0,1,7.0,2,0,0,0,0,0,69,16,85
+Perth Scorchers,JP Behrendorff,4933f499,10,0,0,0,0,0.0,"[2, 4, 6, 15]",4.0,24,14,1,19,3,0,1,0,0,0,0,4.75,0,0,0,0,0,0,57,0,57
+Perth Scorchers,Fawad Ahmed,22ae3041,11,0,0,0,0,0.0,"[8, 10, 12, 16]",4.0,24,6,0,39,5,1,1,0,0,0,0,9.75,0,0,0,0,0,0,31,0,31

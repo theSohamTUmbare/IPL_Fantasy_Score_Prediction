@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Delhi Daredevils,M Vijay,4b57e452,1,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Delhi Daredevils,Q de Kock,372455c4,2,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,10,0,6,16
+Delhi Daredevils,MA Agarwal,00ea847a,3,31,25,2,2,124.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,55,0,0,55
+Delhi Daredevils,KP Pietersen,39f01cdb,4,33,29,2,1,113.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,51,0,0,51
+Delhi Daredevils,JP Duminy,2e8994e7,5,48,30,3,3,160.0,"[1, 3, 7, 10]",4.0,24,10,0,25,2,1,0,0,0,0,0,6.25,0,0,0,0,4,86,12,0,98
+Delhi Daredevils,KD Karthik,c03f1114,6,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+Delhi Daredevils,KM Jadhav,99d63244,7,37,18,3,2,205.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,71,0,0,71
+Delhi Daredevils,R Shukla,de4b0555,8,2,6,0,0,33.33,"[6, 8, 16, 20]",4.0,24,9,0,41,0,4,1,0,1,2,1,10.25,0,0,0,1,0,2,40,6,48
+Delhi Daredevils,Mohammed Shami,8cf9814c,9,1,1,0,0,100.0,"[2, 4, 13, 18]",4.0,24,10,0,31,2,2,1,0,0,0,1,7.75,0,0,0,0,0,1,35,0,36
+Delhi Daredevils,Imran Tahir,acee4cc4,10,0,0,0,0,0.0,"[9, 11, 14, 17]",4.0,24,5,0,48,3,3,0,0,0,0,0,12.0,0,0,0,0,0,0,1,0,1
+Delhi Daredevils,S Kaul,dcf81436,11,0,0,0,0,0.0,"[5, 12, 15, 19]",4.0,24,11,0,37,4,2,1,0,1,0,1,9.25,0,0,0,0,0,0,44,0,44
+Royal Challengers Bangalore,CH Gayle,db584dad,1,22,23,1,2,95.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,38,0,0,38
+Royal Challengers Bangalore,PA Patel,b5da6c24,2,29,28,4,0,103.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,1,0,0,49,0,24,73
+Royal Challengers Bangalore,V Kohli,ba607b88,3,10,11,0,0,90.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+Royal Challengers Bangalore,AB de Villiers,c4487b84,4,33,17,4,1,194.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,65,0,0,65
+Royal Challengers Bangalore,Yuvraj Singh,1c914163,5,68,27,1,9,251.85,"[7, 9, 14, 16]",4.0,24,7,0,28,2,1,0,0,0,0,0,7.0,0,0,0,0,6,140,9,0,149
+Royal Challengers Bangalore,S Rana,90edaaa9,6,15,14,1,0,107.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,19,0,8,27
+Royal Challengers Bangalore,VH Zol,6dbcf855,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Royal Challengers Bangalore,MA Starc,3fb19989,8,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,10,0,26,2,1,2,0,2,0,1,6.5,0,0,0,0,0,0,78,0,78
+Royal Challengers Bangalore,M Muralitharan,4ba44e19,9,0,0,0,0,0.0,"[1, 3, 11, 13]",4.0,24,8,0,25,1,1,2,1,0,0,0,6.25,0,0,0,0,0,0,68,0,68
+Royal Challengers Bangalore,YS Chahal,57ee1fde,10,0,0,0,0,0.0,"[6, 8, 12, 15]",4.0,24,7,0,45,2,4,1,0,0,0,0,11.25,1,0,0,0,0,0,28,8,36
+Royal Challengers Bangalore,AN Ahmed,2af1b6d2,11,0,0,0,0,0.0,"[5, 10, 17, 19]",4.0,24,5,0,40,4,1,1,0,0,2,1,10.0,0,0,0,0,0,0,28,0,28

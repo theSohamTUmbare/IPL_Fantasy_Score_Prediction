@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Guyana Amazon Warriors,C Hemraj,9d450c28,1,6,5,1,0,120.0,[1],1.0,6,3,0,9,0,1,1,0,1,0,0,9.0,0,0,0,0,0,10,36,0,46
+Guyana Amazon Warriors,Mohammad Hafeez,9ab63e7b,2,16,30,2,0,53.33,"[6, 8, 12]",3.0,18,10,0,18,0,2,3,0,2,0,0,6.0,0,0,0,0,-4,20,107,0,127
+Guyana Amazon Warriors,OF Smith,23cca426,3,0,1,0,0,0.0,"[10, 14, 16, 18]",4.0,24,11,0,28,3,1,0,0,0,1,0,7.0,2,0,0,0,0,-2,13,16,27
+Guyana Amazon Warriors,SO Hetmyer,48a1d7b7,4,31,32,4,0,96.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,51,0,0,51
+Guyana Amazon Warriors,Shoaib Malik,64c34cd0,5,14,17,1,0,82.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26
+Guyana Amazon Warriors,N Pooran,3241e3fd,6,28,17,2,2,164.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,56,0,8,64
+Guyana Amazon Warriors,BA King,7fca84b7,7,10,7,0,1,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,16,0,16,32
+Guyana Amazon Warriors,R Shepherd,c5aef772,8,18,9,1,2,200.0,"[1, 2, 4, 17, 19]",5.0,30,16,0,28,2,1,4,0,1,0,4,5.6,0,0,0,0,0,34,136,0,170
+Guyana Amazon Warriors,Naveen-ul-Haq,c0c411cb,9,13,5,1,1,260.0,"[3, 5, 20]",3.0,18,7,0,31,3,2,1,0,0,0,0,10.33,0,0,0,0,0,23,30,0,53
+Guyana Amazon Warriors,Imran Tahir,acee4cc4,10,2,2,0,0,100.0,"[7, 9, 11, 15]",4.0,24,14,0,14,0,1,1,0,0,0,0,3.5,0,0,0,0,0,2,45,0,47
+Guyana Amazon Warriors,AR Nedd,92b7602a,11,0,0,0,0,0.0,[13],1.0,6,1,0,10,0,1,0,0,0,0,0,10.0,0,0,0,0,0,0,1,0,1
+Trinbago Knight Riders,SP Narine,9d430b40,1,21,20,2,1,105.0,"[1, 6, 8, 10, 14]",4.833,29,16,0,14,1,0,4,0,0,0,0,2.9,0,0,0,0,0,35,130,0,165
+Trinbago Knight Riders,LMP Simmons,89f64c19,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Trinbago Knight Riders,T Webster,ef39fc7f,3,19,14,1,2,135.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,37,0,0,37
+Trinbago Knight Riders,C Munro,af2c687b,4,33,30,2,2,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,57,0,0,57
+Trinbago Knight Riders,TL Seifert,4663bd23,5,7,19,0,0,36.84,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,1,0,0,1
+Trinbago Knight Riders,KA Pollard,a757b0d8,6,13,18,0,1,72.22,[12],1.0,6,1,0,6,0,0,0,0,0,0,0,6.0,2,0,0,0,0,19,1,16,36
+Trinbago Knight Riders,D Ramdin,d1523761,7,5,9,0,0,55.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,1,0,5,0,34,39
+Trinbago Knight Riders,I Udana,ac5ae4af,8,21,8,2,2,262.5,"[5, 17, 19]",3.0,18,4,0,38,2,3,0,0,0,0,2,12.67,0,0,0,1,0,41,-2,6,45
+Trinbago Knight Riders,AJ Hosein,4d7f517e,9,9,4,0,1,225.0,"[1, 3, 7, 20]",4.0,24,14,0,16,2,0,1,0,1,0,0,4.0,2,0,0,0,0,15,53,16,84
+Trinbago Knight Riders,K Pierre,a61bcb94,10,0,1,0,0,0.0,"[9, 11, 13, 15]",4.0,24,6,0,38,3,2,1,0,0,0,1,9.5,0,0,0,0,0,-2,31,0,29
+Trinbago Knight Riders,R Rampaul,d68e7f48,11,5,2,1,0,250.0,"[2, 4, 16, 18]",4.0,24,12,0,29,4,1,4,0,1,0,0,7.25,1,0,0,0,0,9,128,8,145

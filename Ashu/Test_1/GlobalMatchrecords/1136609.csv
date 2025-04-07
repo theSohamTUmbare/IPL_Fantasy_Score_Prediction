@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Kolkata Knight Riders,SP Narine,9d430b40,1,21,7,2,2,300.0,"[4, 6, 11, 16]",4.0,24,12,0,29,5,0,1,1,0,0,1,7.25,0,0,0,0,0,41,45,0,86
+Kolkata Knight Riders,CA Lynn,45eda7c8,2,45,42,5,1,107.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,75,0,0,75
+Kolkata Knight Riders,RV Uthappa,1c17e270,3,4,6,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+Kolkata Knight Riders,N Rana,fb2d1dda,4,21,17,2,1,123.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,35,0,0,35
+Kolkata Knight Riders,KD Karthik,c03f1114,5,41,31,5,1,132.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,1,0,0,2,73,0,40,113
+Kolkata Knight Riders,AD Russell,bbd41817,6,11,5,2,0,220.0,"[5, 7, 18]",3.0,18,8,0,13,0,0,2,0,0,0,0,4.33,0,0,0,0,0,19,64,0,83
+Kolkata Knight Riders,Shubman Gill,b4b99816,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Kolkata Knight Riders,Shivam Mavi,c38d3503,8,0,0,0,0,0.0,"[1, 3, 13, 15]",4.0,24,10,0,44,5,3,1,0,0,0,0,11.0,0,0,0,0,0,0,33,0,33
+Kolkata Knight Riders,JPR Scantlebury-Searles,99ed60f8,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Kolkata Knight Riders,Kuldeep Yadav,8d2c70ad,10,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,8,0,20,1,0,4,0,1,0,0,5.0,1,0,0,0,0,0,128,8,136
+Kolkata Knight Riders,M Prasidh Krishna,85e0cf10,11,0,0,0,0,0.0,"[2, 9, 17, 19]",4.0,24,9,0,35,5,1,2,0,1,0,0,8.75,0,0,0,0,0,0,67,0,67
+Rajasthan Royals,RA Tripathi,77255a9e,1,27,15,4,1,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,59,0,8,67
+Rajasthan Royals,JC Buttler,99b75528,2,39,22,5,2,177.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,81,0,0,81
+Rajasthan Royals,AM Rahane,29e95537,3,11,12,1,0,91.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
+Rajasthan Royals,SV Samson,a4cc73aa,4,12,10,2,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
+Rajasthan Royals,BA Stokes,e087956b,5,11,13,0,0,84.62,"[2, 4, 6, 16]",4.0,24,13,1,15,1,0,3,0,0,0,1,3.75,0,0,0,0,0,11,110,0,121
+Rajasthan Royals,STR Binny,bd17b45f,6,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Rajasthan Royals,K Gowtham,90de905a,7,3,5,0,0,60.0,"[1, 8]",2.0,12,1,0,32,2,3,0,0,0,0,0,16.0,1,0,0,0,0,3,-5,8,6
+Rajasthan Royals,JD Unadkat,1e66c162,8,26,18,3,1,144.44,"[10, 12, 17]",3.0,18,7,0,23,4,0,0,0,0,0,0,7.67,0,0,0,0,2,50,7,0,57
+Rajasthan Royals,IS Sodhi,641ac5ff,9,1,6,0,0,16.67,"[7, 9, 11, 15]",4.0,24,11,0,21,2,0,1,1,0,0,0,5.25,0,0,0,0,0,1,48,0,49
+Rajasthan Royals,JC Archer,5574750c,10,6,5,1,0,120.0,"[3, 5, 14, 18]",4.0,24,10,0,43,6,2,0,0,0,0,0,10.75,0,0,0,0,0,10,8,0,18
+Rajasthan Royals,Anureet Singh,69be866a,11,3,4,0,0,75.0,[13],1.0,6,0,0,10,1,0,0,0,0,0,0,10.0,1,0,0,0,0,3,0,8,11

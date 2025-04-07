@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Barbados Tridents,DR Smith,35205dfc,1,20,31,2,0,64.52,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,26,0,0,26
+Barbados Tridents,KS Williamson,d027ba9f,2,7,5,1,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19
+Barbados Tridents,Shoaib Malik,64c34cd0,3,8,10,1,0,80.0,"[8, 14, 16]",3.0,18,5,0,26,2,1,0,0,0,0,0,8.67,0,0,0,0,0,12,5,0,17
+Barbados Tridents,AJ Hosein,4d7f517e,4,12,14,0,0,85.71,"[7, 9, 13]",3.0,18,6,0,23,1,1,0,0,0,0,3,7.67,0,0,0,0,0,12,6,0,18
+Barbados Tridents,KA Pollard,a757b0d8,5,62,33,2,6,187.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,120,0,8,128
+Barbados Tridents,N Pooran,3241e3fd,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Barbados Tridents,CD Barnwell,0d51e658,7,13,16,0,0,81.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+Barbados Tridents,WD Parnell,3a60e0b5,8,1,2,0,0,50.0,"[1, 3, 15, 20]",4.0,24,12,0,26,4,0,1,0,0,0,0,6.5,0,0,0,0,0,1,39,0,40
+Barbados Tridents,Wahab Riaz,b3118300,9,1,2,0,0,50.0,"[5, 11, 17, 19]",4.0,24,11,1,32,3,1,3,1,1,0,3,8.0,0,0,0,0,0,1,118,0,119
+Barbados Tridents,I Khan,2ae01eb0,10,4,3,0,0,133.33,"[10, 12]",2.0,12,5,0,10,0,0,0,0,0,0,1,5.0,1,0,0,0,0,4,9,8,21
+Barbados Tridents,R Rampaul,d68e7f48,11,3,3,0,0,100.0,"[2, 4, 6, 18]",4.0,24,8,0,37,4,1,1,0,0,0,1,9.25,0,0,0,0,0,3,33,0,36
+Jamaica Tallawahs,LMP Simmons,89f64c19,1,30,32,3,0,93.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,46,0,8,54
+Jamaica Tallawahs,KC Sangakkara,6b71e6cf,2,12,9,3,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
+Jamaica Tallawahs,AM McCarthy,7f148ce7,3,60,44,3,3,136.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,100,0,8,108
+Jamaica Tallawahs,Imad Wasim,9cb8d7a6,4,0,1,0,0,0.0,"[2, 4, 12, 14]",4.0,24,9,0,20,1,0,1,0,1,0,1,5.0,1,0,0,0,0,-2,46,8,52
+Jamaica Tallawahs,R Powell,650d5e49,5,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+Jamaica Tallawahs,Shakib Al Hasan,7dc35884,6,44,32,5,1,137.5,"[8, 10, 16, 18]",4.0,24,9,0,28,1,2,1,0,0,0,0,7.0,0,0,0,0,2,76,36,0,112
+Jamaica Tallawahs,JA Foo,7cfb697c,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
+Jamaica Tallawahs,GE Mathurin,b67bfaae,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Jamaica Tallawahs,KOK Williams,78cb83f3,9,0,0,0,0,0.0,"[6, 9, 13, 17]",4.0,24,8,0,40,3,2,1,0,0,0,0,10.0,0,0,0,0,0,0,31,0,31
+Jamaica Tallawahs,K Santokie,531f0278,10,0,0,0,0,0.0,"[1, 3, 15, 20]",4.0,24,7,0,41,1,2,1,0,0,0,8,10.25,0,0,0,0,0,0,30,0,30
+Jamaica Tallawahs,Mohammad Sami,68ddabdb,11,0,0,0,0,0.0,"[5, 7, 11, 19]",4.0,24,13,0,12,0,0,4,0,1,0,1,3.0,0,0,0,0,0,0,135,0,135

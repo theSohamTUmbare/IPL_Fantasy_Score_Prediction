@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Chittagong Kings,Khawaja Nafay,3cf54e77,1,22,19,2,2,115.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,42,0,8,50
+Chittagong Kings,Parvez Hossain Emon,489aaf0a,2,75,41,1,9,182.93,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,151,0,0,151
+Chittagong Kings,G Clark,4fd09cfc,3,26,21,1,2,123.81,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,46,0,8,54
+Chittagong Kings,Haider Ali,c13e34f4,4,42,23,3,3,182.61,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,82,0,0,82
+Chittagong Kings,Mohammad Mithun,77191792,5,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Chittagong Kings,Shamim Hossain,711249d1,6,30,12,3,2,250.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,6,64,0,14,78
+Chittagong Kings,Shoriful Islam,bb34fd31,7,0,0,0,0,0.0,"[2, 6, 16, 19]",4.0,24,9,0,43,4,2,0,0,0,0,3,10.75,1,0,0,0,0,0,7,8,15
+Chittagong Kings,Khaled Ahmed,5dbdecf1,8,0,0,0,0,0.0,"[5, 9, 12, 18]",4.0,24,4,0,47,5,2,1,0,0,1,1,11.75,0,0,0,1,0,0,25,6,31
+Chittagong Kings,Al Islam,45d38a84,9,0,0,0,0,0.0,"[4, 8, 10, 14]",4.0,24,11,0,32,1,3,2,0,0,0,0,8.0,2,0,0,0,0,0,61,16,77
+Chittagong Kings,Arafat Sunny,1f7adc8a,10,0,0,0,0,0.0,"[7, 11, 13, 15]",4.0,24,9,0,41,3,3,1,0,0,0,1,10.25,0,0,0,0,0,0,32,0,32
+Chittagong Kings,B Fernando,dabbd0ae,11,0,0,0,0,0.0,"[1, 3, 17, 20]",4.0,24,18,1,18,0,1,2,0,0,2,2,4.5,0,0,0,0,0,0,86,0,86
+Fortune Barishal,Tamim Iqbal,3b041a12,1,0,6,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+Fortune Barishal,Towhid Hridoy,9e52a414,2,9,11,2,0,81.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,17,0,8,25
+Fortune Barishal,DJ Malan,ad9c32a2,3,67,34,5,6,197.06,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,137,0,0,137
+Fortune Barishal,Mushfiqur Rahim,a94e08ea,4,24,22,2,1,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,38,0,0,38
+Fortune Barishal,Mahmudullah,bf1d7d3e,5,41,25,2,2,164.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,69,0,0,69
+Fortune Barishal,Mohammad Nabi,62af8546,6,0,2,0,0,0.0,"[5, 7, 9]",3.0,18,7,0,22,1,2,1,0,0,0,0,7.33,0,0,0,0,0,-2,32,0,30
+Fortune Barishal,Rishad Hossain,5935d694,7,11,10,0,1,110.0,"[12, 15]",2.0,12,4,0,26,1,3,0,0,0,0,0,13.0,0,0,0,0,0,17,-2,0,15
+Fortune Barishal,JK Fuller,dda5aae5,8,18,9,2,1,200.0,"[8, 11, 19]",3.0,18,3,0,41,2,4,0,0,0,0,0,13.67,1,0,0,0,0,32,-3,8,37
+Fortune Barishal,Taijul Islam,9d1d34bd,9,1,1,0,0,100.0,"[2, 10, 14, 17]",4.0,24,6,0,46,2,4,2,0,1,0,0,11.5,0,0,0,0,0,1,60,0,61
+Fortune Barishal,Ebadat Hossain,cb5100f1,10,0,0,0,0,0.0,"[3, 6, 13, 18]",4.0,24,12,0,19,0,1,1,0,0,0,2,4.75,0,0,0,0,0,0,43,0,43
+Fortune Barishal,Mohammad Imran,687e20b3,11,0,0,0,0,0.0,"[1, 4, 16, 20]",4.0,24,12,0,44,4,4,0,0,0,0,0,11.0,0,0,0,0,0,0,10,0,10

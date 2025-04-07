@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Hobart Hurricanes,AJ Doolan,36eafb02,1,26,21,5,0,123.81,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,50,0,0,50
+Hobart Hurricanes,DJM Short,1a156c88,2,34,19,4,1,178.95,[10],1.0,6,2,0,10,2,0,0,0,0,0,0,10.0,0,0,0,0,6,66,2,0,68
+Hobart Hurricanes,BR McDermott,c41043e6,3,34,24,2,2,141.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,60,0,0,60
+Hobart Hurricanes,GJ Bailey,5056011d,4,25,24,2,0,104.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,37,0,0,37
+Hobart Hurricanes,DT Christian,2a2e6343,5,23,18,0,1,127.78,"[9, 16]",2.0,12,1,0,23,4,0,0,0,0,0,1,11.5,0,0,0,0,0,29,-3,0,26
+Hobart Hurricanes,MS Wade,afa7e784,6,15,10,0,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,21,0,16,37
+Hobart Hurricanes,JC Archer,5574750c,7,1,2,0,0,50.0,"[3, 6, 14, 18]",4.0,24,14,1,17,2,0,2,0,0,0,1,4.25,0,0,0,0,0,1,82,0,83
+Hobart Hurricanes,CJ Boyce,51a60c16,8,4,2,1,0,200.0,"[8, 19]",1.5,9,2,0,17,0,2,0,0,0,0,0,11.33,1,0,0,0,0,8,2,8,18
+Hobart Hurricanes,CA Rose,7517d134,9,0,0,0,0,0.0,"[1, 5, 13]",3.0,18,5,0,30,3,1,1,0,0,0,0,10.0,0,0,0,0,0,0,28,0,28
+Hobart Hurricanes,TS Mills,245c97cb,10,0,0,0,0,0.0,"[2, 4, 11, 17]",4.0,24,7,0,36,4,0,0,0,0,1,2,9.0,0,0,0,0,0,0,7,0,7
+Hobart Hurricanes,AW Summers,a35c119e,11,0,0,0,0,0.0,"[7, 12, 15]",3.0,18,5,0,31,1,2,0,0,0,1,3,10.33,0,0,0,0,0,0,3,0,3
+Melbourne Renegades,AJ Finch,b8d490fd,1,4,2,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16
+Melbourne Renegades,MS Harris,9e85455c,2,50,34,6,1,147.06,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,90,0,0,90
+Melbourne Renegades,CL White,d0513f63,3,79,57,8,2,138.6,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,137,0,0,137
+Melbourne Renegades,TLW Cooper,2318ba22,4,0,4,0,0,0.0,[1],1.0,6,3,0,9,1,0,0,0,0,0,0,9.0,1,0,0,0,0,-2,3,8,9
+Melbourne Renegades,BJ Hodge,b57f8a9a,5,22,14,1,2,157.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,42,0,0,42
+Melbourne Renegades,DJ Bravo,87e562a9,6,0,0,0,0,0.0,"[6, 14, 18, 20]",4.0,24,10,0,28,2,1,5,0,0,0,1,7.0,0,0,0,0,0,0,149,0,149
+Melbourne Renegades,TP Ludeman,c3f7898b,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,0,20,20
+Melbourne Renegades,JD Wildermuth,f1c61793,8,0,0,0,0,0.0,"[3, 7, 9, 13]",4.0,24,6,0,32,2,1,0,0,0,0,1,8.0,0,0,0,0,0,0,6,0,6
+Melbourne Renegades,Mohammad Nabi,62af8546,9,0,0,0,0,0.0,"[4, 10, 12, 16]",4.0,24,8,0,25,2,0,1,0,0,0,0,6.25,1,0,0,0,0,0,35,8,43
+Melbourne Renegades,KW Richardson,dfc4d8b5,10,0,0,0,0,0.0,"[2, 5, 17, 19]",4.0,24,9,0,36,4,1,1,0,0,0,0,9.0,1,0,0,0,0,0,34,8,42
+Melbourne Renegades,GB Hogg,f708a0bc,11,0,0,0,0,0.0,"[8, 11, 15]",3.0,18,4,0,34,3,2,1,1,0,0,0,11.33,1,0,0,0,0,0,33,8,41

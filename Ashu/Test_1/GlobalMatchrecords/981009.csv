@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Kolkata Knight Riders,RV Uthappa,1c17e270,1,25,17,4,0,147.06,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,47,0,8,55
+Kolkata Knight Riders,G Gambhir,bb345e0b,2,16,15,1,0,106.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
+Kolkata Knight Riders,C Munro,af2c687b,3,10,8,2,0,125.0,[8],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,1,0,0,0,0,18,1,8,27
+Kolkata Knight Riders,MK Pandey,93b4fc78,4,48,30,2,3,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,82,0,0,82
+Kolkata Knight Riders,YK Pathan,3c6ffae8,5,52,34,3,2,152.94,[1],1.0,6,3,0,4,0,0,0,0,0,0,0,4.0,0,0,0,0,4,88,3,0,91
+Kolkata Knight Riders,JO Holder,0f721006,6,3,3,0,0,100.0,"[7, 9, 19]",3.0,18,7,0,21,1,1,0,0,0,1,0,7.0,0,0,0,0,0,3,9,0,12
+Kolkata Knight Riders,Shakib Al Hasan,7dc35884,7,7,10,0,0,70.0,"[3, 11, 15, 17]",4.0,24,8,0,34,3,1,1,0,0,0,2,8.5,0,0,0,1,-2,5,33,6,44
+Kolkata Knight Riders,SA Yadav,271f83cd,8,6,3,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,10,0,8,18
+Kolkata Knight Riders,AS Rajpoot,db31895a,9,0,0,0,0,0.0,"[2, 5, 20]",3.0,18,4,0,21,2,0,1,0,0,0,0,7.0,0,0,0,0,0,0,31,0,31
+Kolkata Knight Riders,SP Narine,9d430b40,10,0,0,0,0,0.0,"[4, 6, 13, 18]",4.0,24,11,0,26,1,2,3,0,2,0,0,6.5,0,0,0,0,0,0,108,0,108
+Kolkata Knight Riders,Kuldeep Yadav,8d2c70ad,11,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,11,0,28,1,2,2,0,0,0,1,7.0,0,0,0,1,0,0,63,6,69
+Sunrisers Hyderabad,S Dhawan,0a476045,1,51,29,4,3,175.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,99,0,0,99
+Sunrisers Hyderabad,DA Warner,dcce6f09,2,18,16,1,1,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
+Sunrisers Hyderabad,NV Ojha,890946a0,3,15,25,1,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,-2,17,0,16,33
+Sunrisers Hyderabad,Yuvraj Singh,1c914163,4,19,12,1,2,158.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,39,0,0,39
+Sunrisers Hyderabad,KS Williamson,d027ba9f,5,7,9,0,0,77.78,[5],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,2,0,0,0,0,7,2,16,25
+Sunrisers Hyderabad,DJ Hooda,73ad96ed,6,2,2,0,0,100.0,"[6, 8]",2.0,12,3,0,16,2,0,2,0,0,0,0,8.0,0,0,0,0,0,2,53,0,55
+Sunrisers Hyderabad,MC Henriques,32198ae0,7,11,10,1,0,110.0,"[10, 12]",2.0,12,1,0,14,0,0,0,0,0,0,0,7.0,2,0,0,0,0,15,3,16,34
+Sunrisers Hyderabad,KV Sharma,119678fd,8,8,11,0,0,72.73,"[7, 9, 14]",3.0,18,4,0,39,1,4,0,0,0,0,1,13.0,0,0,0,0,0,8,-2,0,6
+Sunrisers Hyderabad,B Kumar,2e81a32d,9,5,4,1,0,125.0,"[1, 3, 16, 20]",4.0,24,6,0,31,4,0,2,0,0,0,0,7.75,0,0,0,0,0,9,56,0,65
+Sunrisers Hyderabad,BB Sran,d8b2f218,10,2,2,0,0,100.0,"[2, 4, 15, 18]",4.0,24,6,0,31,2,1,1,0,0,0,1,7.75,0,0,0,0,0,2,31,0,33
+Sunrisers Hyderabad,Mustafizur Rahman,0a8fce53,11,0,0,0,0,0.0,"[11, 13, 17, 19]",4.0,24,6,0,32,3,0,1,0,0,0,1,8.0,0,0,0,0,0,0,31,0,31

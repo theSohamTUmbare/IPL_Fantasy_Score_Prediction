@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Nottinghamshire,JM Clarke,2eca67f5,1,26,14,2,1,185.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,50,0,16,66
+Nottinghamshire,AD Hales,92aeac25,2,60,24,11,2,250.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,130,0,0,130
+Nottinghamshire,SG Budinger,bfc60227,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Nottinghamshire,BM Duckett,5f26f677,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Nottinghamshire,TJ Moores,85dcb721,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0,0,12,12
+Nottinghamshire,SR Patel,18fac429,6,0,0,0,0,0.0,"[1, 3, 5, 17]",4.0,24,19,0,4,0,0,3,0,0,0,0,1.0,0,0,0,0,0,0,104,0,104
+Nottinghamshire,SJ Mullaney,0e0d43b4,7,0,0,0,0,0.0,"[8, 13, 15]",3.0,18,5,0,15,0,0,2,0,0,0,0,5.0,2,0,0,0,0,0,59,16,75
+Nottinghamshire,LJ Fletcher,e423d162,8,0,0,0,0,0.0,"[2, 18, 20]",3.0,18,10,0,8,0,0,0,0,0,0,0,2.67,0,0,0,0,0,0,16,0,16
+Nottinghamshire,CG Harrison,f655d740,9,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,4,0,18,1,0,0,0,0,0,0,6.0,0,0,0,0,0,0,6,0,6
+Nottinghamshire,M Carter,1ca7c00f,10,0,0,0,0,0.0,"[6, 10, 12, 14]",4.0,24,6,0,19,0,0,0,0,0,0,1,4.75,1,0,0,0,0,0,12,8,20
+Nottinghamshire,JT Ball,3d0ed2f9,11,0,0,0,0,0.0,"[4, 16, 19]",3.0,18,7,0,17,1,0,3,0,1,0,0,5.67,0,0,0,0,0,0,98,0,98
+Worcestershire,MH Wessels,90f47cf2,1,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+Worcestershire,BL D'Oliveira,9679838c,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Worcestershire,TC Fell,83e74e91,3,3,7,0,0,42.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+Worcestershire,JD Libby,0d61d8f0,4,29,33,0,0,87.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33
+Worcestershire,OB Cox,324a6ee1,5,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+Worcestershire,RA Whiteley,d346d939,6,15,22,1,0,68.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,17,0,0,17
+Worcestershire,EG Barnard,a510bdd3,7,10,20,0,0,50.0,[7],0.333,2,1,0,4,1,0,0,0,0,0,0,12.01,0,0,0,0,-4,6,1,0,7
+Worcestershire,BJ Dwarshuis,e1b9f3a9,8,12,17,1,0,70.59,"[2, 5]",2.0,12,2,0,28,6,0,0,0,0,0,0,14.0,0,0,0,0,0,16,-4,0,12
+Worcestershire,IS Sodhi,641ac5ff,9,2,4,0,0,50.0,"[1, 3]",2.0,12,2,0,34,4,2,0,0,0,0,0,17.0,0,0,0,0,0,2,-4,0,-2
+Worcestershire,DY Pennington,219cc59e,10,4,4,0,0,100.0,[4],1.0,6,1,0,12,2,0,0,0,0,0,1,12.0,0,0,0,0,0,4,1,0,5
+Worcestershire,CAJ Morris,5db1c288,11,0,0,0,0,0.0,[6],1.0,6,1,0,10,0,1,0,0,0,0,1,10.0,0,0,0,0,0,0,1,0,1

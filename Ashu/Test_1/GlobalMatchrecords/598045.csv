@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Kings XI Punjab,AC Gilchrist,2b6e6dec,1,85,54,10,3,157.41,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,159,0,0,159
+Kings XI Punjab,SE Marsh,508a1ea7,2,8,4,2,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
+Kings XI Punjab,Azhar Mahmood,9a158001,3,61,41,8,1,148.78,"[1, 3, 17, 20]",4.0,24,11,0,24,3,0,2,1,0,1,0,6.0,0,0,0,0,2,109,71,0,180
+Kings XI Punjab,DA Miller,d67d5f00,4,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
+Kings XI Punjab,R Sathish,626c5379,5,12,6,1,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
+Kings XI Punjab,Mandeep Singh,c3a96caf,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Kings XI Punjab,M Vohra,c03e2850,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Kings XI Punjab,PP Chawla,98ae73b1,8,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,9,0,27,2,1,0,0,0,0,0,6.75,0,0,0,0,0,0,11,0,11
+Kings XI Punjab,MS Gony,ae78bc32,9,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,7,0,47,2,4,0,0,0,0,3,11.75,0,0,0,0,0,0,3,0,3
+Kings XI Punjab,P Awana,1a0c3177,10,0,0,0,0,0.0,"[5, 7, 16, 19]",4.0,24,12,0,39,3,3,3,0,2,1,0,9.75,0,0,0,0,0,0,107,0,107
+Kings XI Punjab,Sandeep Sharma,ce820073,11,0,0,0,0,0.0,"[2, 4, 6, 18]",4.0,24,10,0,36,5,1,0,0,0,1,0,9.0,0,0,0,0,0,0,10,0,10
+Royal Challengers Bangalore,CA Pujara,d4f9dbd4,1,19,20,3,0,95.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31
+Royal Challengers Bangalore,CH Gayle,db584dad,2,77,52,4,6,148.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,143,0,0,143
+Royal Challengers Bangalore,V Kohli,ba607b88,3,57,41,6,2,139.02,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,103,0,0,103
+Royal Challengers Bangalore,AB de Villiers,c4487b84,4,6,2,0,1,300.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20
+Royal Challengers Bangalore,MC Henriques,32198ae0,5,0,1,0,0,0.0,"[2, 6, 19]",2.167,13,4,0,29,6,0,0,0,0,0,1,13.38,0,0,0,0,0,0,-2,0,-2
+Royal Challengers Bangalore,KL Rahul,b17e2f24,6,8,4,2,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
+Royal Challengers Bangalore,KB Arun Karthik,7daedf2f,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Royal Challengers Bangalore,R Vinay Kumar,41eb4a4f,8,0,0,0,0,0.0,"[8, 10, 13, 18]",4.0,24,5,0,35,3,1,0,0,0,0,1,8.75,0,0,0,0,0,0,5,0,5
+Royal Challengers Bangalore,Z Khan,91a4a398,9,0,0,0,0,0.0,"[1, 3, 5, 14]",4.0,24,11,0,30,3,1,1,0,1,0,2,7.5,0,0,0,0,0,0,44,0,44
+Royal Challengers Bangalore,M Muralitharan,4ba44e19,10,0,0,0,0,0.0,"[7, 11, 15, 17]",4.0,24,4,0,44,4,3,1,0,1,0,0,11.0,0,0,0,0,0,0,35,0,35
+Royal Challengers Bangalore,JD Unadkat,1e66c162,11,0,0,0,0,0.0,"[4, 9, 12, 16]",4.0,24,8,0,34,5,0,1,0,0,0,0,8.5,0,0,0,0,0,0,33,0,33

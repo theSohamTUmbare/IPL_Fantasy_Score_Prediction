@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Jamaica Tallawahs,CH Gayle,db584dad,1,30,21,2,3,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,62,0,0,62
+Jamaica Tallawahs,DPMD Jayawardene,d18f9182,2,16,15,2,0,106.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,24,0,8,32
+Jamaica Tallawahs,CAK Walton,bbff906c,3,31,30,3,0,103.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,47,0,0,47
+Jamaica Tallawahs,J Blackwood,c3b93a03,4,23,22,0,2,104.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,35,0,0,35
+Jamaica Tallawahs,AD Russell,bbd41817,5,6,5,1,0,120.0,"[5, 7, 12, 19]",4.0,24,12,0,30,1,2,1,0,0,0,2,7.5,2,0,0,0,0,10,37,16,63
+Jamaica Tallawahs,CA Lynn,45eda7c8,6,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11
+Jamaica Tallawahs,N Deonarine,caf1b14c,7,5,3,1,0,166.67,"[6, 8, 10, 15]",4.0,24,9,0,31,1,2,1,0,0,0,1,7.75,0,0,0,0,0,9,34,0,43
+Jamaica Tallawahs,NE Bonner,59ddd811,8,7,5,1,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19
+Jamaica Tallawahs,K Santokie,531f0278,9,0,1,0,0,0.0,"[1, 3, 16, 20]",4.0,24,9,0,31,1,2,1,0,1,0,3,7.75,0,0,0,0,0,-2,42,0,40
+Jamaica Tallawahs,JE Taylor,4180d897,10,2,6,0,0,33.33,"[2, 4, 14, 18]",4.0,24,12,0,28,5,0,2,0,0,0,1,7.0,0,0,0,0,0,2,64,0,66
+Jamaica Tallawahs,NO Miller,ea3ffd1b,11,1,3,0,0,33.33,"[9, 11, 13, 17]",4.0,24,6,0,31,0,2,1,0,0,0,2,7.75,0,0,0,0,0,1,31,0,32
+Trinidad & Tobago Red Steel,JH Kallis,86dc8f2e,1,6,8,1,0,75.0,"[1, 4, 20]",2.5,15,11,0,17,1,2,1,0,1,0,0,6.8,1,0,0,0,0,10,46,8,64
+Trinidad & Tobago Red Steel,CS Delport,afa78c3a,2,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,1,0,16,17
+Trinidad & Tobago Red Steel,Kamran Akmal,ff077124,3,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+Trinidad & Tobago Red Steel,DM Bravo,14b14cd8,4,86,63,4,6,136.51,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,152,0,0,152
+Trinidad & Tobago Red Steel,JN Mohammed,773cec26,5,28,25,2,1,112.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,46,0,0,46
+Trinidad & Tobago Red Steel,DJ Bravo,87e562a9,6,5,7,0,0,71.43,"[2, 14, 16, 18]",4.0,24,13,0,23,4,0,5,0,2,0,0,5.75,0,0,0,0,0,5,170,0,175
+Trinidad & Tobago Red Steel,KK Cooper,557153ca,7,9,7,0,1,128.57,"[13, 15, 17, 19]",4.0,24,7,0,21,1,0,2,0,2,0,0,5.25,0,0,0,0,0,15,77,0,92
+Trinidad & Tobago Red Steel,J Botha,7c503806,8,1,2,0,0,50.0,"[3, 5]",2.0,12,7,0,14,1,1,1,0,0,0,0,7.0,1,0,0,0,0,1,34,8,43
+Trinidad & Tobago Red Steel,DYA Davis,74b02e0c,9,0,0,0,0,0.0,[8],1.0,6,1,0,6,0,0,0,0,0,0,0,6.0,0,0,0,0,0,0,1,0,1
+Trinidad & Tobago Red Steel,S Badree,76388dc8,10,0,0,0,0,0.0,"[7, 10, 12]",3.0,18,5,0,14,0,0,0,0,0,0,0,4.67,0,0,0,0,0,0,11,0,11
+Trinidad & Tobago Red Steel,SJ Benn,364ee2cf,11,0,0,0,0,0.0,"[6, 9, 11]",3.0,18,11,1,29,3,2,1,0,0,0,0,9.67,0,0,0,0,0,0,48,0,48

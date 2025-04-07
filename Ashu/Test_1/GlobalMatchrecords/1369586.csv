@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Jamaica Tallawahs,KSA McKenzie,2b8f219a,1,3,12,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,-6,-3,0,6,3
+Jamaica Tallawahs,AD Hales,92aeac25,2,119,57,12,7,208.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,231,0,0,231
+Jamaica Tallawahs,SR Taylor,a9231c3f,3,14,18,1,0,77.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
+Jamaica Tallawahs,SSJ Brooks,977b841a,4,13,8,1,1,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,23,0,6,29
+Jamaica Tallawahs,Imad Wasim,9cb8d7a6,5,41,24,3,3,170.83,"[2, 4, 13, 15]",4.0,24,14,1,24,2,1,2,1,0,0,1,6.0,0,0,0,0,6,81,86,0,167
+Jamaica Tallawahs,FA Allen,b52ffbbd,6,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Jamaica Tallawahs,RA Reifer,d7725664,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Jamaica Tallawahs,SK Springer,4175d211,8,0,0,0,0,0.0,[5],1.0,6,2,0,14,2,0,0,0,0,0,5,14.0,2,0,0,0,0,0,2,16,18
+Jamaica Tallawahs,CJ Green,19b9f399,9,0,0,0,0,0.0,"[6, 8, 10, 12]",4.0,24,14,0,15,1,0,4,2,1,0,1,3.75,2,0,0,0,0,0,152,16,168
+Jamaica Tallawahs,HR Walsh,1ac2a995,10,0,0,0,0,0.0,"[7, 9, 11, 14]",4.0,24,13,0,17,0,1,1,0,0,0,1,4.25,0,0,0,0,0,0,44,0,44
+Jamaica Tallawahs,Mohammad Amir,e174dadd,11,0,0,0,0,0.0,"[1, 3]",2.0,12,7,0,7,1,0,2,0,1,0,0,3.5,0,0,0,0,0,0,71,0,71
+St Lucia Kings,LJA Julien,2eccc4bf,1,7,10,1,0,70.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,-2,9,0,6,15
+St Lucia Kings,RS Primus,6f4c73ce,2,5,5,1,0,100.0,"[7, 18]",2.0,12,2,0,28,2,2,0,0,0,0,1,14.0,0,0,0,0,0,9,-4,0,5
+St Lucia Kings,PBB Rajapaksa,6c882e9a,3,22,15,3,1,146.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,42,0,0,42
+St Lucia Kings,RL Chase,3feda4fa,4,5,8,0,0,62.5,"[10, 12, 14]",3.0,18,5,0,33,0,4,2,0,1,0,0,11.0,0,0,0,0,0,5,61,0,66
+St Lucia Kings,SC Williams,afe57f7a,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+St Lucia Kings,Sikandar Raza,26d041c4,6,3,8,0,0,37.5,"[9, 13, 15]",3.0,18,5,0,20,0,1,0,0,0,0,1,6.67,0,0,0,0,0,3,7,0,10
+St Lucia Kings,C Munro,af2c687b,7,4,9,0,0,44.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+St Lucia Kings,AS Joseph,b0946605,8,10,15,0,1,66.67,"[6, 8, 17, 19]",4.0,24,8,0,28,2,1,1,0,0,0,0,7.0,0,0,0,0,-2,14,35,0,49
+St Lucia Kings,MW Forde,83d17bbc,9,13,14,1,0,92.86,"[1, 3, 16, 20]",4.0,24,9,0,48,6,2,1,0,1,0,3,12.0,0,0,0,0,0,17,38,0,55
+St Lucia Kings,M Clarke,a4ff3629,10,0,2,0,0,0.0,[5],1.0,6,2,0,11,2,0,0,0,0,0,2,11.0,1,0,0,0,0,-2,2,8,8
+St Lucia Kings,J Royal,44a18ad8,11,0,3,0,0,0.0,"[2, 4, 11]",3.0,18,8,0,30,5,1,0,0,0,0,0,10.0,1,0,0,1,0,0,6,14,20

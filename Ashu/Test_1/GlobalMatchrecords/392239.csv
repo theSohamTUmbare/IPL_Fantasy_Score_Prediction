@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Deccan Chargers,AC Gilchrist,2b6e6dec,1,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,2,0,0,0,-2,0,32,30
+Deccan Chargers,HH Gibbs,e1d1b294,2,53,48,3,2,110.42,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,85,0,8,93
+Deccan Chargers,TL Suman,aaa1b522,3,10,11,1,0,90.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
+Deccan Chargers,A Symonds,bd77eb62,4,33,21,4,1,157.14,"[6, 8, 15]",3.0,18,8,0,18,0,1,2,0,0,0,0,6.0,0,0,0,0,4,63,60,0,123
+Deccan Chargers,RG Sharma,740742ef,5,24,23,1,1,104.35,[11],1.0,6,0,0,9,0,0,0,0,0,0,0,9.0,0,0,0,0,0,34,0,0,34
+Deccan Chargers,Y Venugopal Rao,fe763256,6,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+Deccan Chargers,AA Bilakhia,bff458c6,7,6,7,0,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6
+Deccan Chargers,RJ Harris,12eddf28,8,9,5,0,0,180.0,"[1, 3, 5, 19]",4.0,24,13,0,34,3,3,1,0,0,0,1,8.5,0,0,0,0,0,9,38,0,47
+Deccan Chargers,PP Ojha,6c6591ab,9,0,0,0,0,0.0,"[7, 9, 13, 17]",4.0,24,9,0,28,2,1,3,0,0,0,0,7.0,0,0,0,0,0,0,90,0,90
+Deccan Chargers,Harmeet Singh,2a72fd4f,10,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,12,0,23,4,0,2,0,1,0,0,5.75,1,0,0,0,0,0,74,8,82
+Deccan Chargers,RP Singh,c3d1402f,11,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,11,0,16,1,0,1,0,1,0,0,4.0,1,0,0,0,0,0,50,8,58
+Royal Challengers Bangalore,JH Kallis,86dc8f2e,1,15,17,3,0,88.24,"[3, 5, 7, 11]",4.0,24,12,0,24,4,0,0,0,0,0,0,6.0,0,0,0,0,0,27,14,0,41
+Royal Challengers Bangalore,MK Pandey,93b4fc78,2,4,8,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,4,0,16,20
+Royal Challengers Bangalore,RE van der Merwe,05c2ca46,3,32,21,1,3,152.38,"[8, 12, 14, 16]",4.0,24,8,0,28,2,1,0,0,0,0,0,7.0,0,0,0,0,4,62,10,0,72
+Royal Challengers Bangalore,R Dravid,0184dc35,4,9,13,0,0,69.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,7,0,0,7
+Royal Challengers Bangalore,LRPL Taylor,b61a3e1a,5,27,20,3,1,135.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,51,0,8,59
+Royal Challengers Bangalore,V Kohli,ba607b88,6,7,8,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
+Royal Challengers Bangalore,MV Boucher,f3cb53a1,7,5,6,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
+Royal Challengers Bangalore,RV Uthappa,1c17e270,8,17,15,0,1,113.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
+Royal Challengers Bangalore,P Kumar,e938e1bc,9,2,3,0,0,66.67,"[2, 10, 15, 19]",4.0,24,8,0,43,1,3,0,0,0,0,5,10.75,0,0,0,0,0,2,6,0,8
+Royal Challengers Bangalore,R Vinay Kumar,41eb4a4f,10,8,8,1,0,100.0,"[4, 6, 18, 20]",4.0,24,7,0,30,1,0,2,1,0,0,1,7.5,0,0,0,0,0,12,65,0,77
+Royal Challengers Bangalore,A Kumble,0c2730df,11,1,1,0,0,100.0,"[1, 9, 13, 17]",4.0,24,12,0,16,1,0,4,0,2,0,0,4.0,0,0,0,0,0,1,142,0,143

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Chattogram Challengers,Shykat Ali,288dd46e,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Chattogram Challengers,Tanzid Hasan,80fe764d,2,70,51,1,6,137.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,120,0,0,120
+Chattogram Challengers,J Brown,647e7d44,3,11,14,2,0,78.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,19,0,8,27
+Chattogram Challengers,TC Bruce,f92c9151,4,48,35,3,2,137.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,78,0,0,78
+Chattogram Challengers,R Shepherd,c5aef772,5,3,8,0,0,37.5,"[7, 9, 16, 18]",4.0,24,5,0,32,1,0,0,0,0,1,5,8.0,0,0,0,0,0,3,5,0,8
+Chattogram Challengers,Shuvagata Hom,bb01f9e0,6,9,4,0,1,225.0,"[1, 3, 5]",3.0,18,12,0,12,2,0,2,0,0,0,0,4.0,1,0,0,0,0,15,68,8,91
+Chattogram Challengers,Shahadat Hossain,69e23303,7,6,5,1,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+Chattogram Challengers,Shohidul Islam,607ed7c2,8,0,2,0,0,0.0,"[11, 13, 20]",3.0,18,5,0,30,4,1,1,0,0,0,0,10.0,0,0,0,0,0,0,28,0,28
+Chattogram Challengers,Nihaduzzaman,eca6dcb2,9,0,0,0,0,0.0,"[10, 12]",2.0,12,4,0,18,0,2,0,0,0,0,0,9.0,1,0,0,0,0,0,4,8,12
+Chattogram Challengers,Salauddin Sakil,a90d107b,10,0,0,0,0,0.0,"[6, 8, 15, 17]",4.0,24,11,0,30,4,0,1,0,0,0,3,7.5,1,0,0,0,0,0,36,8,44
+Chattogram Challengers,Bilal Khan,dcdb87f2,11,0,0,0,0,0.0,"[2, 4, 14, 19]",4.0,24,13,0,24,3,1,1,0,0,0,0,6.0,1,0,0,0,0,0,40,8,48
+Durdanto Dhaka,Mohammad Naim,7923a51d,1,29,35,3,0,82.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,45,0,28,73
+Durdanto Dhaka,AM Rossington,7bcde3fe,2,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Durdanto Dhaka,Sabbir Hossain,047e80ca,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+Durdanto Dhaka,AI Ross,fb0d68b4,4,55,44,4,3,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,97,0,0,97
+Durdanto Dhaka,SC Williams,afe57f7a,5,9,9,1,0,100.0,"[10, 12, 14, 16]",4.0,24,6,0,27,0,1,1,0,0,0,1,6.75,1,0,0,0,0,13,33,8,54
+Durdanto Dhaka,Mosaddek Hossain,8919756f,6,29,17,5,0,170.59,"[1, 3, 11, 13]",4.0,24,9,0,29,2,1,1,0,0,0,1,7.25,1,0,0,0,6,59,34,8,101
+Durdanto Dhaka,Irfan Sukkur,3cc7dd5f,7,14,8,1,1,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
+Durdanto Dhaka,Taskin Ahmed,ef18b66e,8,0,0,0,0,0.0,"[4, 6, 18, 20]",4.0,24,11,0,38,3,3,2,0,0,0,3,9.5,0,0,0,0,0,0,61,0,61
+Durdanto Dhaka,Shoriful Islam,bb34fd31,9,0,0,0,0,0.0,"[2, 5, 17, 19]",4.0,24,16,0,17,1,0,2,0,0,0,4,4.25,0,0,0,0,0,0,72,0,72
+Durdanto Dhaka,Anamul Haque,9fd99cbf,10,0,0,0,0,0.0,"[7, 9, 15]",3.0,18,4,0,31,1,2,0,0,0,0,1,10.33,0,0,0,0,0,0,2,0,2
+Durdanto Dhaka,PC de Silva,b40ee8a8,11,0,0,0,0,0.0,[8],1.0,6,1,0,15,0,2,0,0,0,0,0,15.0,0,0,0,0,0,0,1,0,1

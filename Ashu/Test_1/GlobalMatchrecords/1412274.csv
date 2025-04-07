@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Comilla Victorians,Liton Das,0404d43c,1,13,16,1,1,81.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,23,0,8,31
+Comilla Victorians,Imrul Kayes,5fbe14fc,2,66,56,6,2,117.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,110,0,0,110
+Comilla Victorians,Towhid Hridoy,9e52a414,3,47,41,1,2,114.63,[12],1.0,6,2,0,4,0,0,0,0,0,0,0,4.0,0,0,0,0,0,67,2,0,69
+Comilla Victorians,Khushdil Shah,fce581b5,4,13,5,0,2,260.0,"[17, 19]",2.0,12,5,0,12,0,1,1,0,1,0,0,6.0,0,0,0,0,0,25,40,0,65
+Comilla Victorians,Jaker Ali,cd56a813,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Comilla Victorians,RL Chase,3feda4fa,6,0,1,0,0,0.0,"[4, 6, 8, 10]",4.0,24,11,0,18,0,1,0,0,0,0,0,4.5,1,0,0,0,0,-2,17,8,23
+Comilla Victorians,Mahidul Islam Ankon,dac6aabc,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Comilla Victorians,Tanvir Islam,aa467af0,8,0,0,0,0,0.0,"[5, 11, 13, 15]",4.0,24,7,0,27,1,1,2,0,0,0,0,6.75,0,0,0,0,0,0,59,0,59
+Comilla Victorians,Mustafizur Rahman,0a8fce53,9,0,0,0,0,0.0,"[7, 9, 16, 20]",3.5,21,8,0,31,3,2,2,0,0,0,0,8.86,0,0,0,0,0,0,58,0,58
+Comilla Victorians,MW Forde,83d17bbc,10,0,0,0,0,0.0,"[1, 3, 14, 18]",4.0,24,8,0,25,3,0,0,0,0,0,0,6.25,1,0,0,0,0,0,10,8,18
+Comilla Victorians,Musfik Hasan,1afcbb60,11,0,0,0,0,0.0,[2],1.0,6,1,0,19,1,2,0,0,0,0,0,19.0,0,0,0,0,0,0,1,0,1
+Durdanto Dhaka,MD Gunathilaka,509a7ca1,1,41,42,4,1,97.62,[14],1.0,6,3,0,9,0,1,0,0,0,0,0,9.0,0,0,0,0,0,67,3,0,70
+Durdanto Dhaka,Mohammad Naim,7923a51d,2,52,40,3,3,130.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,92,0,16,108
+Durdanto Dhaka,L Croospulle,e30c9b2d,3,5,8,0,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,5,0,8,13
+Durdanto Dhaka,Irfan Sukkur,3cc7dd5f,4,24,16,1,2,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,40,0,8,48
+Durdanto Dhaka,Saif Hassan,bb95564b,5,7,8,0,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,7,0,0,7
+Durdanto Dhaka,Mosaddek Hossain,8919756f,6,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Durdanto Dhaka,PC de Silva,b40ee8a8,7,6,1,0,1,600.0,"[4, 12, 17]",3.0,18,8,0,22,2,1,1,0,0,0,0,7.33,0,0,0,0,0,12,33,0,45
+Durdanto Dhaka,Taskin Ahmed,ef18b66e,8,0,0,0,0,0.0,"[1, 6, 16, 19]",4.0,24,8,0,30,2,1,2,0,0,0,1,7.5,1,0,0,0,0,0,58,8,66
+Durdanto Dhaka,Arafat Sunny,1f7adc8a,9,0,0,0,0,0.0,"[3, 5, 7, 9]",4.0,24,10,0,25,2,1,0,0,0,0,1,6.25,0,0,0,0,0,0,12,0,12
+Durdanto Dhaka,Shoriful Islam,bb34fd31,10,0,0,0,0,0.0,"[2, 10, 18, 20]",4.0,24,10,0,27,1,2,3,0,0,0,0,6.75,1,0,0,0,0,0,91,8,99
+Durdanto Dhaka,Usman Qadir,33742f04,11,0,0,0,0,0.0,"[8, 11, 13, 15]",4.0,24,7,0,28,1,1,0,0,0,0,0,7.0,0,0,0,0,0,0,9,0,9

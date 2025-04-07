@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Chattogram Challengers,J Brown,647e7d44,1,34,22,2,3,154.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,68,0,8,76
+Chattogram Challengers,Tanzid Hasan,80fe764d,2,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+Chattogram Challengers,Imran Uzzaman,1eff4f98,3,7,13,1,0,53.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,-4,7,0,16,23
+Chattogram Challengers,TC Bruce,f92c9151,4,17,11,1,1,154.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,31,0,0,31
+Chattogram Challengers,Shykat Ali,288dd46e,5,11,14,0,1,78.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
+Chattogram Challengers,Shuvagata Hom,bb01f9e0,6,24,16,4,0,150.0,"[1, 3, 5]",3.0,18,7,0,45,4,4,1,0,0,0,2,15.0,0,0,0,0,0,40,26,0,66
+Chattogram Challengers,R Shepherd,c5aef772,7,11,16,1,0,68.75,"[8, 11, 13]",3.0,18,7,0,17,2,0,1,0,0,0,0,5.67,0,0,0,0,-2,13,36,0,49
+Chattogram Challengers,Nihaduzzaman,eca6dcb2,8,10,12,1,0,83.33,[15],0.833,5,1,0,5,0,0,0,0,0,0,0,6.0,0,0,0,0,0,14,1,0,15
+Chattogram Challengers,Salauddin Sakil,a90d107b,9,8,11,1,0,72.73,"[9, 14]",2.0,12,3,0,17,0,1,0,0,0,0,3,8.5,0,0,0,0,0,12,3,0,15
+Chattogram Challengers,Al-Amin Hossain,3f5f39cd,10,1,1,0,0,100.0,"[2, 6]",2.0,12,7,0,20,4,0,0,0,0,0,3,10.0,0,0,0,0,0,1,5,0,6
+Chattogram Challengers,Bilal Khan,dcdb87f2,11,1,1,0,0,100.0,"[4, 7, 10, 12]",4.0,24,9,0,30,4,0,1,0,0,0,1,7.5,0,0,0,0,0,1,34,0,35
+Fortune Barishal,Tamim Iqbal,3b041a12,1,52,43,9,0,120.93,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,96,0,0,96
+Fortune Barishal,Soumya Sarkar,4d9f9686,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Fortune Barishal,KR Mayers,73c18486,3,50,26,3,5,192.31,"[1, 3, 10, 15]",4.0,24,9,0,28,2,1,2,0,1,0,2,7.0,1,0,0,0,6,106,69,8,183
+Fortune Barishal,DA Miller,d67d5f00,4,17,13,2,0,130.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,27,0,8,35
+Fortune Barishal,Mushfiqur Rahim,a94e08ea,5,6,5,0,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,6,0,14,20
+Fortune Barishal,Mahmudullah,bf1d7d3e,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Fortune Barishal,Mehedi Hasan Miraz,c58b0108,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Fortune Barishal,Mohammad Saifuddin,b3a28446,8,0,0,0,0,0.0,"[2, 14, 18, 20]",4.0,24,13,0,28,4,0,2,0,0,0,4,7.0,0,0,0,0,0,0,65,0,65
+Fortune Barishal,JK Fuller,dda5aae5,9,0,0,0,0,0.0,"[9, 11, 13, 17]",4.0,24,10,0,26,2,1,1,0,1,0,0,6.5,0,0,0,0,0,0,45,0,45
+Fortune Barishal,OC McCoy,529eb9e0,10,0,0,0,0,0.0,"[5, 7, 16, 19]",4.0,24,11,0,29,3,1,2,0,0,1,0,7.25,0,0,0,1,0,0,61,6,67
+Fortune Barishal,Taijul Islam,9d1d34bd,11,0,0,0,0,0.0,"[4, 6, 8, 12]",4.0,24,11,0,22,0,2,1,0,0,0,0,5.5,2,0,0,0,0,0,40,16,56
