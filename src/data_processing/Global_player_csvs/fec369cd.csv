@@ -1,6 +1,0 @@
-date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-['2023-06-30'],Vitality Blast,1347682,Leicestershire,11,0,0,0,0,0.0,"4,9,16",3.0,18,1,0,44,7,1,0,0,0,0,0,14.67,0,0,0,0,0,0,-5,0,-5
-['2021-06-16'],Vitality Blast,1250269,Leicestershire,11,7,6,1,0,116.67,"6,11,15",3.0,18,2,0,34,3,1,0,0,0,0,1,11.33,1,0,0,0,0,11,-2,8,17
-['2020-09-11'],Vitality Blast,1207749,Derbyshire,10,0,0,0,0,0.0,"3,15,19",3.0,18,5,0,41,5,2,0,0,0,0,0,13.67,0,0,0,0,0,0,-1,0,-1
-['2020-09-04'],Vitality Blast,1207738,Derbyshire,10,0,0,0,0,0.0,4,1.0,6,2,0,13,3,0,0,0,0,0,0,13.0,0,0,0,0,0,0,2,0,2
-['2020-08-31'],Vitality Blast,1207718,Derbyshire,10,0,0,0,0,0.0,"5,18,20",3.0,18,7,0,27,3,1,2,0,1,0,1,9.0,0,0,0,0,0,0,65,0,65

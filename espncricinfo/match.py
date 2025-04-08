@@ -115,6 +115,7 @@ class Match(object):
             try:
                 # r = requests.get(url)
                 print(i, end=" ")
+                # print("hello")
                 r = session.get(self.json_url, headers=self.headers, timeout=3)
                 print("done")
                 if r.status_code == 404:

@@ -1,6 +1,0 @@
-date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-['2015-12-02'],Bangladesh Premier League,935315,Comilla Victorians,9,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-['2013-02-07'],Bangladesh Premier League,599893,Khulna Royal Bengals,9,2,3,0,0,66.67,"11,14,16",3.0,18,2,0,30,1,2,0,0,0,0,1,10.0,0,0,0,0,0,2,0,0,2
-['2013-01-20'],Bangladesh Premier League,599869,Khulna Royal Bengals,8,7,7,1,0,100.0,"9,17",2.0,12,3,0,22,4,0,1,0,0,0,1,11.0,0,0,0,0,0,11,26,0,37
-['2013-01-18'],Bangladesh Premier League,599865,Khulna Royal Bengals,8,8,6,1,0,133.33,"2,5,15,17",4.0,24,11,0,40,1,4,3,0,2,0,2,10.0,0,0,0,0,0,12,104,0,116
-['2012-02-22'],Bangladesh Premier League,551066,Khulna Royal Bengals,10,7,5,1,0,140.0,"5,11",2.0,12,4,0,23,5,0,0,0,0,0,0,11.5,0,0,0,0,0,11,0,0,11

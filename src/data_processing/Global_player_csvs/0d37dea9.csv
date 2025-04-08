@@ -1,9 +1,0 @@
-date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-['2021-11-07'],ICC Men's T20 World Cup,1273752,Scotland,5,0,2,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
-['2021-10-09'],Namibia v Scotland T20I Match,1280058,Scotland,6,0,1,0,0,0.0,10,1.0,6,2,0,18,2,1,1,0,0,1,1,18.0,0,0,0,0,0,-2,27,0,25
-['2018-06-20'],Netherlands Tri-Nation T20I Series,1142506,Scotland,6,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-['2018-06-19'],Netherlands Tri-Nation T20I Series,1142505,Scotland,5,9,10,1,0,90.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
-['2018-06-17'],Netherlands Tri-Nation T20I Series,1142504,Scotland,7,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
-['2018-06-16'],Netherlands Tri-Nation T20I Series,1142503,Scotland,5,23,20,1,1,115.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,33,0,8,41
-['2018-06-13'],"Pakistan tour of Ireland, England and Scotland",1127301,Scotland,5,4,8,0,0,50.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12
-['2018-06-12'],"Pakistan tour of Ireland, England and Scotland",1127300,Scotland,5,24,21,0,2,114.29,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,36,0,0,36

@@ -1,5 +1,0 @@
-date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-['2015-05-17'],NatWest T20 Blast,804465,Sussex,11,0,0,0,0,0.0,"1,3,5,18",4.0,24,10,0,42,6,2,2,1,0,0,0,10.5,1,0,0,0,0,0,66,8,74
-['2015-05-15'],NatWest T20 Blast,804453,Sussex,11,0,0,0,0,0.0,"1,3,19",3.0,18,7,0,32,5,1,1,0,1,0,0,10.67,0,0,0,0,0,0,38,0,38
-['2014-07-18'],NatWest T20 Blast,693231,Sussex,9,9,11,0,0,81.82,"2,4,14,20",4.0,24,6,0,36,2,2,0,0,0,0,0,9.0,1,0,0,0,0,9,6,8,23
-['2014-07-15'],NatWest T20 Blast,693213,Sussex,11,0,0,0,0,0.0,"2,4,6,18",4.0,24,12,0,26,4,0,1,0,1,0,0,6.5,0,0,0,0,0,0,47,0,47

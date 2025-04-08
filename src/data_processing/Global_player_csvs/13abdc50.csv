@@ -1,9 +1,0 @@
-date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-['2022-10-14'],Syed Mushtaq Ali Trophy,1332960,Railways,9,0,1,0,0,0.0,"14,16,18",3.0,18,5,0,34,5,1,1,0,0,0,1,11.33,0,0,0,1,0,-2,26,6,30
-['2021-11-09'],Syed Mushtaq Ali Trophy,1280285,Railways,10,0,0,0,0,0.0,"8,13,20",3.0,18,6,0,21,2,0,2,0,0,0,1,7.0,0,0,0,0,0,0,58,0,58
-['2021-11-04'],Syed Mushtaq Ali Trophy,1280208,Railways,9,2,3,0,0,66.67,"7,11,15,20",4.0,24,4,0,43,5,1,0,0,0,0,1,10.75,0,0,0,0,0,2,2,0,4
-['2021-01-18'],Syed Mushtaq Ali Trophy,1244382,Railways,7,3,5,0,0,60.0,"9,15",2.0,12,3,0,14,1,0,1,1,0,0,1,7.0,0,0,0,0,0,3,38,0,41
-['2021-01-16'],Syed Mushtaq Ali Trophy,1244364,Railways,5,12,10,1,0,120.0,"9,14,18,20",3.667,22,8,0,28,1,2,3,0,0,0,0,7.64,0,0,0,0,0,16,87,0,103
-['2021-01-14'],Syed Mushtaq Ali Trophy,1244344,Railways,8,7,7,1,0,100.0,"5,13,15,18",4.0,24,13,0,29,2,2,2,0,0,0,1,7.25,0,0,0,0,0,11,63,0,74
-['2021-01-12'],Syed Mushtaq Ali Trophy,1244327,Railways,7,0,0,0,0,0.0,"5,14,16,19",4.0,24,10,0,26,2,1,2,0,0,0,0,6.5,0,0,0,0,0,0,62,0,62
-['2021-01-10'],Syed Mushtaq Ali Trophy,1244308,Railways,9,0,0,0,0,0.0,"4,12,14,19",4.0,24,5,0,41,5,1,0,0,0,0,0,10.25,0,0,1,0,0,0,3,12,15

@@ -1,6 +1,0 @@
-date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-['2013-11-22'],ICC World Twenty20 Qualifier,660177,Uganda,9,0,0,0,0,0.0,2,1.0,6,2,0,13,3,0,0,0,0,0,0,13.0,0,0,0,0,0,0,2,0,2
-['2013-11-19'],ICC World Twenty20 Qualifier,660147,Uganda,10,2,4,0,0,50.0,"11,16,18,20",4.0,24,9,0,35,5,0,1,0,0,1,1,8.75,0,0,0,0,0,2,34,0,36
-['2013-11-18'],ICC World Twenty20 Qualifier,660133,Uganda,6,8,7,1,0,114.29,"9,11,13",3.0,18,7,0,19,2,0,1,0,0,0,0,6.33,1,0,0,0,0,12,34,8,54
-['2013-11-16'],ICC World Twenty20 Qualifier,660115,Uganda,9,1,4,0,0,25.0,"2,6",2.0,12,6,0,14,2,0,1,0,0,0,1,7.0,0,0,0,0,0,1,33,0,34
-['2013-11-15'],ICC World Twenty20 Qualifier,660095,Uganda,3,2,7,0,0,28.57,"11,13,15",2.333,14,7,0,10,1,0,0,0,0,1,1,4.29,0,0,0,0,0,2,13,0,15

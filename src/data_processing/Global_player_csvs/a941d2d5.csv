@@ -1,9 +1,0 @@
-date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-['2021-02-27'],CSA T20 Challenge,1250546,Warriors,8,0,0,0,0,0.0,"11,13,15",3.0,18,4,0,23,1,1,0,0,0,0,0,7.67,0,0,0,0,0,0,4,0,4
-['2019-05-05'],CSA T20 Challenge,1157256,Warriors,10,1,3,0,0,33.33,"8,10,12,14",4.0,24,3,0,37,4,0,0,0,0,0,0,9.25,0,0,0,0,0,1,3,0,4
-['2019-05-01'],CSA T20 Challenge,1157255,Warriors,10,0,0,0,0,0.0,"7,9,11,13",4.0,24,5,0,33,0,2,1,0,1,0,0,8.25,1,0,0,0,0,0,38,8,46
-['2019-04-26'],CSA T20 Challenge,1157249,Warriors,9,0,0,0,0,0.0,"7,9",2.0,12,4,0,16,1,1,0,0,0,0,0,8.0,1,0,0,0,0,0,4,8,12
-['2019-04-24'],CSA T20 Challenge,1157247,Warriors,7,0,0,0,0,0.0,10,1.0,6,2,0,9,0,1,0,0,0,0,0,9.0,0,0,0,1,0,0,2,6,8
-['2019-04-14'],CSA T20 Challenge,1157234,Warriors,8,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-['2019-04-12'],CSA T20 Challenge,1157230,Warriors,9,18,18,2,0,100.0,"8,10,12",3.0,18,4,0,21,1,0,1,0,0,0,0,7.0,0,0,0,0,0,26,31,0,57
-['2019-04-05'],CSA T20 Challenge,1157224,Warriors,8,0,0,0,0,0.0,"10,14",2.0,12,0,0,40,1,5,0,0,0,0,0,20.0,0,0,0,0,0,0,-6,0,-6

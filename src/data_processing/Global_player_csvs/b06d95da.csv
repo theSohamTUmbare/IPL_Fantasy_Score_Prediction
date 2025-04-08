@@ -1,9 +1,0 @@
-date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-['2021-02-26'],CSA T20 Challenge,1235377,Titans,7,10,7,0,1,142.86,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24
-['2019-04-28'],CSA T20 Challenge,1157253,Titans,5,37,29,1,2,127.59,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,57,0,0,57
-['2019-04-26'],CSA T20 Challenge,1157250,Titans,3,0,4,0,0,0.0,17,1.0,6,3,0,3,0,0,1,0,0,0,0,3.0,0,0,0,0,0,-2,28,0,26
-['2019-04-24'],CSA T20 Challenge,1157245,Titans,5,3,2,0,0,150.0,"8,12,16",3.0,18,3,0,26,1,0,0,0,0,0,1,8.67,0,0,0,1,0,3,3,6,12
-['2019-04-20'],CSA T20 Challenge,1157240,Titans,8,0,0,0,0,0.0,"8,12,15,17",4.0,24,5,0,36,4,0,1,0,0,0,1,9.0,1,0,0,0,0,0,30,8,38
-['2019-04-18'],CSA T20 Challenge,1157238,Titans,6,16,13,0,1,123.08,"8,10,14,18",4.0,24,3,0,37,1,1,0,0,0,0,2,9.25,0,0,0,0,0,22,3,0,25
-['2019-04-10'],CSA T20 Challenge,1157229,Titans,5,4,3,0,0,133.33,"10,12",2.0,12,3,0,12,0,0,0,0,0,0,1,6.0,0,0,0,1,0,4,5,6,15
-['2019-04-05'],CSA T20 Challenge,1157224,Titans,5,42,18,0,4,233.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,76,0,0,76

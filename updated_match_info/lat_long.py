@@ -93,6 +93,8 @@ df = pd.read_csv(file_path)
 
 # Identify missing coordinates
 missing_venues = (df["venue_lat"] == 0.0) & (df["venue_long"] == 0.0)
+missing_venues.append(pd.isna(df['venue_lat']) & pd.isna(df['venue_long']))
+
 total_missing = missing_venues.sum()
 
 print(f"Total missing venues: {total_missing}")
