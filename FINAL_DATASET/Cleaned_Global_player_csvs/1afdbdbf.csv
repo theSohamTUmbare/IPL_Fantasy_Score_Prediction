@@ -1,0 +1,4 @@
+teamname,match_id,batting_position,runs,balls,fours,sixes,strike_rate,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+England,249227,1.0,1.0,0.9615384615384617,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.2857142857142858,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0,52,2,8,62
+England,225263,0.3333333333333335,0.8387096774193549,1.0000000000000002,0.5,0.0,0.6776123759486283,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0,39,37,0,76
+England,225271,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.16666666666666669,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,1.0,0,1,28,6,35
