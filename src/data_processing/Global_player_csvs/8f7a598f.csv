@@ -1,4 +1,0 @@
-date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-['2013-03-31'],NA,602477,Sri Lanka,9,0,0,0,0,0.0,"2,4,12,19",4.0,24,5,0,37,1,2,0,0,0,0,2,9.25,1,0,0,0,0,0,5,8,13
-['2012-10-30'],NA,582186,Sri Lanka,11,0,0,0,0,0.0,"6,8,13",3.0,18,11,0,23,5,0,1,1,0,0,1,7.67,0,0,0,0,0,0,44,0,44
-['2012-08-07'],NA,564786,Sri Lanka,9,6,7,1,0,85.71,"2,4,13,17",4.0,24,12,0,30,6,0,2,0,1,0,2,7.5,0,0,0,0,0,10,70,0,80

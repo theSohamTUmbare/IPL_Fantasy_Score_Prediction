@@ -1,7 +1,0 @@
-date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-['2024-05-14'],Indian Premier League,1426302,Delhi Capitals,8,0,0,0,0,0.0,9,1.0,6,1,0,12,2,0,0,0,0,0,0,12.0,1,0,0,0,0,0,1,8,9
-['2024-05-07'],Indian Premier League,1426294,Delhi Capitals,7,19,15,1,1,126.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29
-['2024-02-06'],Bangladesh Premier League,1412294,Durdanto Dhaka,5,13,18,1,0,72.22,7,1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,1,0,0,0,0,17,1,8,26
-['2024-02-02'],Bangladesh Premier League,1412290,Durdanto Dhaka,5,12,18,0,0,66.67,"3,8,16",3.0,18,4,0,25,3,0,0,0,0,0,0,8.33,1,0,0,0,-2,10,4,8,22
-['2024-01-29'],Bangladesh Premier League,1412287,Durdanto Dhaka,3,3,6,0,0,50.0,"6,14",2.0,12,6,0,17,3,0,0,0,0,0,0,8.5,0,0,0,0,0,3,6,0,9
-['2023-02-08'],Bangladesh Premier League,1351090,Sylhet Strikers,6,2,5,0,0,40.0,"1,9,11,17",4.0,24,7,0,22,1,0,0,0,0,0,1,5.5,0,0,0,0,0,2,11,0,13

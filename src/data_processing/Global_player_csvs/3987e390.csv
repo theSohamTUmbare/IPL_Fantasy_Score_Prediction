@@ -1,8 +1,0 @@
-date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-['2024-07-19'],Vitality Blast,1410489,Somerset,10,0,2,0,0,0.0,"8,10,15",3.0,18,3,0,39,1,4,0,0,0,0,0,13.0,0,0,0,0,0,-2,-3,0,-5
-['2024-07-18'],Vitality Blast,1410485,Somerset,9,0,0,0,0,0.0,"8,10,14",3.0,18,5,0,24,2,1,1,0,0,0,0,8.0,1,0,0,0,0,0,30,8,38
-['2024-07-14'],Vitality Blast,1410477,Somerset,9,0,0,0,0,0.0,"8,10,12,14",4.0,24,8,0,23,2,0,2,0,2,0,1,5.75,0,0,0,0,0,0,78,0,78
-['2024-07-12'],Vitality Blast,1410471,Somerset,9,0,0,0,0,0.0,2,1.0,6,3,0,4,0,0,1,0,0,0,0,4.0,1,0,0,0,0,0,28,8,36
-['2024-06-21'],Vitality Blast,1410435,Somerset,10,0,0,0,0,0.0,"9,12,14,16",4.0,24,7,0,36,3,2,2,0,0,0,0,9.0,0,0,0,0,0,0,57,0,57
-['2021-07-16'],Vitality Blast,1250350,Somerset,11,0,0,0,0,0.0,"1,3,10,14",4.0,24,9,0,32,2,2,2,0,0,0,0,8.0,1,0,0,0,0,0,59,8,67
-['2021-06-23'],Vitality Blast,1250296,Somerset,9,0,0,0,0,0.0,"1,3,12,14",4.0,24,13,0,28,4,1,3,0,0,0,0,7.0,0,0,1,0,0,0,94,12,106

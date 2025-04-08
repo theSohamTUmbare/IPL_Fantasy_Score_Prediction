@@ -1,9 +1,0 @@
-date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-['2019-06-20'],ICC Men's T20 World Cup Europe Region Final,1189744,Italy,3,25,20,2,1,125.0,"2,4,6,8",4.0,24,8,0,29,2,0,1,0,0,1,0,7.25,0,0,0,0,0,43,33,0,76
-['2019-06-19'],ICC Men's T20 World Cup Europe Region Final,1185192,Italy,3,1,5,0,0,20.0,"2,4,10,12",4.0,24,8,0,34,4,1,0,0,0,0,0,8.5,1,0,0,0,0,1,8,8,17
-['2019-06-16'],ICC Men's T20 World Cup Europe Region Final,1185185,Italy,3,7,10,0,0,70.0,"2,4,6,8",4.0,24,15,0,16,2,0,1,0,1,0,1,4.0,0,0,0,0,-2,5,54,0,59
-['2019-05-25'],Germany tour of Netherlands,1178996,Italy,3,1,5,0,0,20.0,"2,4,6,8",4.0,24,15,0,13,0,0,2,0,1,0,3,3.25,0,0,0,0,0,1,79,0,80
-['2018-09-01'],ICC World Twenty20 Europe Region Qualifier B,1156659,Italy,3,57,41,6,1,139.02,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,97,0,0,97
-['2018-08-31'],ICC World Twenty20 Europe Region Qualifier B,1157844,Italy,4,4,6,1,0,66.67,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16
-['2018-08-30'],ICC World Twenty20 Europe Region Qualifier B,1156656,Italy,4,32,28,1,0,114.29,"9,11",2.0,12,5,0,14,2,0,0,0,0,0,0,7.0,0,0,0,0,0,40,7,0,47
-['2018-08-29'],ICC World Twenty20 Europe Region Qualifier B,1156650,Italy,4,41,37,4,0,110.81,"11,13,15",3.0,18,4,0,16,0,0,0,0,0,0,0,5.33,0,0,0,0,0,61,8,0,69

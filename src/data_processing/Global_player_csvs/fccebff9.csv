@@ -1,9 +1,0 @@
-date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-['2013-02-11'],Bangladesh Premier League,599899,Khulna Royal Bengals,9,0,0,0,0,0.0,"2,5,17",3.0,18,8,0,32,5,1,1,0,0,0,0,10.67,0,0,0,0,0,0,31,0,31
-['2013-02-07'],Bangladesh Premier League,599893,Khulna Royal Bengals,11,0,7,0,0,0.0,"3,6,13,17",4.0,24,12,1,21,2,0,2,0,1,0,0,5.25,0,0,0,0,0,0,86,0,86
-['2013-02-04'],Bangladesh Premier League,599890,Khulna Royal Bengals,11,0,0,0,0,0.0,"2,4,8,16",4.0,24,11,0,20,1,0,0,0,0,0,2,5.0,1,0,0,0,0,0,15,8,23
-['2013-01-29'],Bangladesh Premier League,599882,Khulna Royal Bengals,9,1,4,0,0,25.0,"3,5,17,19",4.0,24,11,0,22,2,0,1,0,1,0,1,5.5,0,0,0,0,0,1,48,0,49
-['2013-01-25'],Bangladesh Premier League,599878,Khulna Royal Bengals,9,0,0,0,0,0.0,"3,5,17,19",4.0,24,12,0,21,2,0,3,0,0,1,0,5.25,0,0,0,0,0,0,95,0,95
-['2013-01-24'],Bangladesh Premier League,599876,Khulna Royal Bengals,10,0,0,0,0,0.0,"5,12,17,19",3.5,21,10,0,9,0,0,2,0,1,0,0,2.57,0,0,1,0,0,0,74,12,86
-['2013-01-23'],Bangladesh Premier League,599874,Khulna Royal Bengals,11,0,0,0,0,0.0,"2,11,13,15",4.0,24,10,0,42,5,2,1,0,1,1,0,10.5,0,0,0,0,0,0,41,0,41
-['2013-01-20'],Bangladesh Premier League,599869,Khulna Royal Bengals,10,0,0,0,0,0.0,"2,4,6,18",4.0,24,8,0,25,3,0,0,0,0,0,0,6.25,0,0,0,0,0,0,10,0,10

@@ -1,68 +1,75 @@
-import openmeteo_requests
+# import openmeteo_requests
 
-import requests_cache
-import pandas as pd
-from retry_requests import retry
+# import requests_cache
+# import pandas as pd
+# from retry_requests import retry
 
-# Setup the Open-Meteo API client with cache and retry on error
-cache_session = requests_cache.CachedSession('.cache', expire_after = -1)
-retry_session = retry(cache_session, retries = 5, backoff_factor = 0.2)
-openmeteo = openmeteo_requests.Client(session = retry_session)
+# # Setup the Open-Meteo API client with cache and retry on error
+# cache_session = requests_cache.CachedSession('.cache', expire_after = -1)
+# retry_session = retry(cache_session, retries = 5, backoff_factor = 0.2)
+# openmeteo = openmeteo_requests.Client(session = retry_session)
 
-# Make sure all required weather variables are listed here
-# The order of variables in hourly or daily is important to assign them correctly below
-url = "https://archive-api.open-meteo.com/v1/archive"
-params = {
-	"latitude": 52.52,
-	"longitude": 13.41,
-	"start_date": "2009-12-31",
-	"end_date": "2009-12-31",
-	"daily": "apparent_temperature_mean",
-	"hourly": ["temperature_2m", "relative_humidity_2m", "dew_point_2m", "precipitation"]
-}
-responses = openmeteo.weather_api(url, params=params)
+# # Make sure all required weather variables are listed here
+# # The order of variables in hourly or daily is important to assign them correctly below
+# url = "https://archive-api.open-meteo.com/v1/archive"
+# params = {
+# 	"latitude": 52.52,
+# 	"longitude": 13.41,
+# 	"start_date": "2009-12-31",
+# 	"end_date": "2009-12-31",
+# 	"daily": "apparent_temperature_mean",
+# 	"hourly": ["temperature_2m", "relative_humidity_2m", "dew_point_2m", "precipitation"]
+# }
+# responses = openmeteo.weather_api(url, params=params)
 
-# Process first location. Add a for-loop for multiple locations or weather models
-response = responses[0]
-print(f"Coordinates {response.Latitude()}°N {response.Longitude()}°E")
-print(f"Elevation {response.Elevation()} m asl")
-print(f"Timezone {response.Timezone()}{response.TimezoneAbbreviation()}")
-print(f"Timezone difference to GMT+0 {response.UtcOffsetSeconds()} s")
+# # Process first location. Add a for-loop for multiple locations or weather models
+# response = responses[0]
+# print(f"Coordinates {response.Latitude()}°N {response.Longitude()}°E")
+# print(f"Elevation {response.Elevation()} m asl")
+# print(f"Timezone {response.Timezone()}{response.TimezoneAbbreviation()}")
+# print(f"Timezone difference to GMT+0 {response.UtcOffsetSeconds()} s")
 
-# Process hourly data. The order of variables needs to be the same as requested.
-hourly = response.Hourly()
-hourly_temperature_2m = hourly.Variables(0).ValuesAsNumpy()
-hourly_relative_humidity_2m = hourly.Variables(1).ValuesAsNumpy()
-hourly_dew_point_2m = hourly.Variables(2).ValuesAsNumpy()
-hourly_precipitation = hourly.Variables(3).ValuesAsNumpy()
+# # Process hourly data. The order of variables needs to be the same as requested.
+# hourly = response.Hourly()
+# hourly_temperature_2m = hourly.Variables(0).ValuesAsNumpy()
+# hourly_relative_humidity_2m = hourly.Variables(1).ValuesAsNumpy()
+# hourly_dew_point_2m = hourly.Variables(2).ValuesAsNumpy()
+# hourly_precipitation = hourly.Variables(3).ValuesAsNumpy()
 
-hourly_data = {"date": pd.date_range(
-	start = pd.to_datetime(hourly.Time(), unit = "s", utc = True),
-	end = pd.to_datetime(hourly.TimeEnd(), unit = "s", utc = True),
-	freq = pd.Timedelta(seconds = hourly.Interval()),
-	inclusive = "left"
-)}
+# hourly_data = {"date": pd.date_range(
+# 	start = pd.to_datetime(hourly.Time(), unit = "s", utc = True),
+# 	end = pd.to_datetime(hourly.TimeEnd(), unit = "s", utc = True),
+# 	freq = pd.Timedelta(seconds = hourly.Interval()),
+# 	inclusive = "left"
+# )}
 
-hourly_data["temperature_2m"] = hourly_temperature_2m
-hourly_data["relative_humidity_2m"] = hourly_relative_humidity_2m
-hourly_data["dew_point_2m"] = hourly_dew_point_2m
-hourly_data["precipitation"] = hourly_precipitation
+# hourly_data["temperature_2m"] = hourly_temperature_2m
+# hourly_data["relative_humidity_2m"] = hourly_relative_humidity_2m
+# hourly_data["dew_point_2m"] = hourly_dew_point_2m
+# hourly_data["precipitation"] = hourly_precipitation
 
-hourly_dataframe = pd.DataFrame(data = hourly_data)
-print(hourly_dataframe)
+# hourly_dataframe = pd.DataFrame(data = hourly_data)
+# print(hourly_dataframe)
 
-# Process daily data. The order of variables needs to be the same as requested.
-daily = response.Daily()
-daily_apparent_temperature_mean = daily.Variables(0).ValuesAsNumpy()
+# # Process daily data. The order of variables needs to be the same as requested.
+# daily = response.Daily()
+# daily_apparent_temperature_mean = daily.Variables(0).ValuesAsNumpy()
 
-daily_data = {"date": pd.date_range(
-	start = pd.to_datetime(daily.Time(), unit = "s", utc = True),
-	end = pd.to_datetime(daily.TimeEnd(), unit = "s", utc = True),
-	freq = pd.Timedelta(seconds = daily.Interval()),
-	inclusive = "left"
-)}
+# daily_data = {"date": pd.date_range(
+# 	start = pd.to_datetime(daily.Time(), unit = "s", utc = True),
+# 	end = pd.to_datetime(daily.TimeEnd(), unit = "s", utc = True),
+# 	freq = pd.Timedelta(seconds = daily.Interval()),
+# 	inclusive = "left"
+# )}
 
-daily_data["apparent_temperature_mean"] = daily_apparent_temperature_mean
+# daily_data["apparent_temperature_mean"] = daily_apparent_temperature_mean
 
-daily_dataframe = pd.DataFrame(data = daily_data)
-print(daily_dataframe)
+# daily_dataframe = pd.DataFrame(data = daily_data)
+# print(daily_dataframe)
+# data = [1152539, 1058153, 1058157, 1155313, 1155315, 1155316, 1155317, 1156659, 1156663, 1156668, 1156670, 1156672, 1157847, 460056, 460058, 460060, 460064, 811111, 811117, 811123, 875463, 875473, 875495, 875533, 973777, 1068302, 1068308, 1068310, 1068311, 1068316, 1068326, 1068327, 1068409, 1127465, 1127473, 1127490, 1127499, 1127554, 1167133, 1167148, 1167179, 1167230, 1207738, 1250337, 1250346, 1297881, 1297891, 1347624, 1410444, 1410462, 1410476, 693111, 693209, 693227, 693235, 804495, 804513, 804553, 804599, 804651, 804655, 947107, 947133, 947219, 947295, 1244324, 1244343, 1244360, 1244378, 1244398, 902101, 902125, 902239, 1142503, 1142504, 1185181, 1185182, 1185184, 1185185, 1185186, 1185187, 1185188, 1185190, 1185191, 1185192, 1185193, 1186488, 1186490, 1186491, 1186492, 1186493, 1189743, 1189744, 1192223, 1192224, 1197398, 1197399, 1202007, 1202008, 1202009, 1202010, 1202011, 1215136, 1215137, 1215138, 1215139, 1215140, 1229824, 1268188, 1268189, 1268190, 1268191, 1268192, 1273133, 1273134, 1282272, 1282273, 1282275, 1282276, 1282278, 1282279, 1310167, 1310168, 1310169, 1310170, 1310171, 1310172, 1310173, 1310174, 1310175, 1310176, 1310177, 1310178, 1310179, 1310180, 1310181, 1310182, 1310183, 1310184, 1310185, 1310186, 1310187, 1310188, 1359786, 1359787, 1359788, 1359789, 1359792, 1359793, 1359794, 1359795, 1359798, 1359799, 1359800, 1359802, 1370782, 1370783, 1370785, 1370787, 1381451, 1381452, 1384582, 1384583, 1384584, 1384585, 1384586, 1384587, 1384588, 1384589, 1384590, 1384591, 1384592, 1384593, 1384594, 1384595, 1384596, 1384597, 1384598, 1384599, 1384600, 1387243, 1387244, 1387245, 1399154, 1399155, 1399156, 1399157, 1399161, 1403297, 1403301, 1403305, 1438073, 1438074, 1440129, 1440130, 1440131, 1443766, 1443767, 1443768, 1443769, 1443770, 1443771, 1443772, 1443773, 1443775, 1443776, 1443777, 1443778, 1443779, 1443780, 1443781, 1443782, 1443783, 1443784, 1443785, 1443786, 1443787, 1443788, 1443789, 1450751, 1450752, 1450753, 1450754, 1450755, 1450757, 1450758, 1450759, 1450760, 1450761, 1450762, 1450763, 1450764, 1450765, 1450823, 1450824, 1450825, 1450826, 1450827, 1450828, 1453923, 1453924, 1453926, 1453930, 1453932, 1453935, 1457350, 1457351, 1462877, 1462878, 1462880, 1462881, 1462882, 1462883, 1462884, 1462885, 1462886, 1462887, 1462888, 1462889, 1462890, 1462891, 1462892, 1462893, 1462894, 1462895, 1462896, 1462897, 1462898, 1462899, 1462900, 1462901, 1462902, 1462903, 1462904, 1462905, 1462906, 1462907, 1462908, 1462909, 1462910, 1462911, 1462926, 1470186, 1470187, 1470188, 1470189, 1470190, 1470191, 361656, 361660, 543883, 543884, 543885]
+# print(len(data))
+
+from espncricinfo.match import Match
+match_data = Match('875497') 
+print(match_data.json['match'])
+# {'centre': {'batting': [{'balls_faced': '22', 'batting_style': 'rhb', 'control_percentage': 0, 'dismissal_name': 'caught', 'dot_ball_percentage': 45, 'known_as': 'Andrew Symonds', 'live_current_name': '', 'match_award': 0, 'notout': 0, 'player_id': 4382, 'popular_name': 'Symonds', 'preferred_shot': {'balls_faced': '4', 'runs': '6', 'runs_summary': ['1', '2', '0', '0', '1', '0', '0', '0'], 'shot_name': 'on side drive on front foot'}, 'runs': 23, 'runs_summary': ['10', '7', '2', '0', '3', '0', '0', '0'], 'scoring_shots': '12', 'strike_rate': '104.54', 'wagon_zone': [{'runs': 0, 'runs_summary': [0, 0, 0, 0, 0, 0, 0, 0], 'scoring_shots': 0}, {'runs': 5, 'runs_summary': [0, 1, 0, 0, 1, 0, 0, 0], 'scoring_shots': 2}, {'runs': 4, 'runs_summary': [0, 2, 1, 0, 0, 0, 0, 0], 'scoring_shots': 3}, {'runs': 5, 'runs_summary': [0, 1, 0, 0, 1, 0, 0, 0], 'scoring_shots': 2}, {'runs': 1, 'runs_summary': [0, 1, 0, 0, 0, 0, 0, 0], 'scoring_shots': 1}, {'runs': 1, 'runs_summary': [0, 1, 0, 0, 0, 0, 0, 0], 'scoring_shots': 1}, {'runs': 7, 'runs_summary': [0, 1, 1, 0, 1, 0, 0, 0], 'scoring_shots': 3}, {'runs': 0, 'runs_summary': [0, 0, 0, 0, 0, 0, 0, 0], 'scoring_shots': 0}]}, {'balls_faced': '26', 'batting_style': 'rhb', 'control_percentage': 0, 'dismissal_name': 'bowled', 'dot_ball_percentage': 57, 'known_as': 'Herschelle Gibbs', 'live_current_name': '', 'match_award': 0, 'notout': 0, 'player_id': 2347, 'popular_name': 'Gibbs', 'preferred_shot': {'balls_faced': '4', 'runs': '5', 'runs_summary': ['1', '2', '0', '1', '0', '0', '0', '0'], 'shot_name': 'sweep'}, 'runs': 18, 'runs_summary': ['15', '7', '2', '1', '1', '0', '0', '0'], 'scoring_shots': '11', 'strike_rate': '69.23', 'wagon_zone': [{'runs': 3, 'runs_summary': [0, 0, 0, 1, 0, 0, 0, 0], 'scoring_shots': 1}, {'runs': 2, 'runs_summary': [0, 2, 0, 0, 0, 0, 0, 0], 'scoring_shots': 2}, {'runs': 2, 'runs_summary': [0, 2, 0, 0, 0, 0, 0, 0], 'scoring_shots': 2}, {'runs': 2, 'runs_summary': [0, 2, 0, 0, 0, 0, 0, 0], 'scoring_shots': 2}, {'runs': 1, 'runs_summary': [0, 1, 0, 0, 0, 0, 0, 0], 'scoring_shots': 1}, {'runs': 2, 'runs_summary': [0, 0, 1, 0, 0, 0, 0, 0], 'scoring_shots': 1}, {'runs': 0, 'runs_summary': [0, 0, 0, 0, 0, 0, 0, 0], 'scoring_shots': 0}, {'runs': 6, 'runs_summary': [0, 0, 1, 0, 1, 0, 0, 0], 'scoring_shots': 2}]}], 'bowling': [{'bowling_style': 'lfm', 'conceded': 13, 'economy_rate': '3.25', 'known_as': 'Doug Bollinger', 'live_current_name': '', 'maidens': 1, 'match_award': 1, 'overall_lhb': {'balls': 8, 'conceded': '6', 'economy_rate': '4.50', 'wickets': '1'}, 'overall_rhb': {'balls': 16, 'conceded': '7', 'economy_rate': '2.62', 'wickets': '3'}, 'overs': '4.0', 'pitch_map_lhb': [[[0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]], [[0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]], [[0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]], [[0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]], [[0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]], [[0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]]], 'pitch_map_rhb': [[[0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]], [[0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]], [[0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]], [[0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]], [[0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]], [[0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]]], 'player_id': '45487', 'popular_name': 'Doug', 'wickets': 4}, {'bowling_style': 'sla', 'conceded': 44, 'economy_rate': '11.00', 'known_as': 'Shadab Jakati', 'live_current_name': '', 'maidens': 0, 'match_award': 0, 'overall_lhb': {}, 'overall_rhb': {'balls': 26, 'conceded': '44', 'economy_rate': '11.00', 'wickets': '2'}, 'overs': '4.0', 'pitch_map_lhb': [], 'pitch_map_rhb': [[[0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]], [[0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]], [[0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]], [[0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]], [[0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]], [[0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]]], 'player_id': '7458', 'popular_name': 'Jakati', 'wickets': 2}], 'common': {'batting': [{'balls_faced': '20', 'hand': '', 'image_path': '/db/PICTURES/CMS/321500/321545.1.png', 'known_as': 'Adam Gilchrist', 'notout': 0, 'player_id': 4176, 'popular_name': '', 'position': 1, 'position_group': 'top', 'runs': 15}, {'balls_faced': '26', 'hand': '', 'image_path': '/db/PICTURES/CMS/320300/320356.1.png', 'known_as': 'Herschelle Gibbs', 'notout': 0, 'player_id': 2347, 'popular_name': 'Gibbs', 'position': 2, 'position_group': 'top', 'runs': 18}, {'balls_faced': '4', 'hand': '', 'image_path': '/db/PICTURES/CMS/137900/137971.1.jpg', 'known_as': 'Tirumalasetti Suman', 'notout': 0, 'player_id': 12084, 'popular_name': 'Suman', 'position': 3, 'position_group': 'top', 'runs': 4}, {'balls_faced': '5', 'hand': '', 'image_path': '/db/PICTURES/CMS/385800/385819.2.png', 'known_as': 'Rohit Sharma', 'notout': 0, 'player_id': 48405, 'popular_name': 'Rohit', 'position': 4, 'position_group': 'top', 'runs': 2}, {'balls_faced': '22', 'hand': '', 'image_path': '/db/PICTURES/CMS/319600/319686.1.png', 'known_as': 'Andrew Symonds', 'notout': 0, 'player_id': 4382, 'popular_name': 'Symonds', 'position': 5, 'position_group': 'top', 'runs': 23}, {'balls_faced': '5', 'hand': '', 'image_path': '/db/PICTURES/CMS/118000/118087.1.jpg', 'known_as': 'Mohnish  Mishra', 'notout': 0, 'player_id': 8539, 'popular_name': 'Mishra', 'position': 6, 'position_group': 'top', 'runs': 2}, {'balls_faced': '18', 'hand': '', 'image_path': '/db/PICTURES/CMS/109600/109615.jpg', 'known_as': 'Bodapati Sumanth', 'notout': 0, 'player_id': 49750, 'popular_name': 'Sumanth', 'position': 7, 'position_group': 'top', 'runs': 16}, {'balls_faced': '8', 'hand': '', 'image_path': '/db/PICTURES/CMS/316500/316520.1.png', 'known_as': 'Ryan Harris', 'notout': 0, 'player_id': 12601, 'popular_name': 'Harris', 'position': 8, 'position_group': 'lower', 'runs': 15}, {'balls_faced': '1', 'hand': '', 'image_path': '/db/PICTURES/CMS/109800/109859.1.jpg', 'known_as': 'Harmeet Singh', 'notout': 0, 'player_id': 59325, 'popular_name': '', 'position': 9, 'position_group': 'lower', 'runs': 0}, {'balls_faced': '3', 'hand': '', 'image_path': '/db/PICTURES/CMS/389100/389167.5.png', 'known_as': 'RP Singh', 'live_current_name': 'non-striker', 'notout': 1, 'player_id': 47123, 'popular_name': 'Singh', 'position': 10, 'position_group': 'lower', 'runs': 0}, {'balls_faced': '4', 'hand': '', 'image_path': '/db/PICTURES/CMS/322600/322694.1.png', 'known_as': 'Pragyan Ojha', 'notout': 0, 'player_id': 48431, 'popular_name': 'Ojha', 'position': 11, 'position_group': 'lower', 'runs': 1}], 'bowling': [{'conceded': 14, 'hand': 'right', 'image_path': '/db/PICTURES/CMS/393300/393315.2.png', 'known_as': 'Ravichandran Ashwin', 'maidens': 0, 'overs': '4', 'pacespin': 'spin', 'player_id': '12894', 'popular_name': 'Ashwin', 'position': 1, 'wickets': 1}, {'conceded': 13, 'hand': 'left', 'image_path': '/db/PICTURES/CMS/321500/321576.2.png', 'known_as': 'Doug Bollinger', 'maidens': 1, 'overs': '4', 'pacespin': 'pace', 'player_id': '45487', 'popular_name': 'Doug', 'position': 2, 'wickets': 4}, {'conceded': 16, 'hand': 'right', 'image_path': '/db/PICTURES/CMS/319800/319880.1.png', 'known_as': 'Muthiah Muralidaran', 'live_current_name': 'previous bowler', 'maidens': 0, 'overs': '4', 'pacespin': 'spin', 'player_id': '2041', 'popular_name': 'Murali', 'position': 3, 'wickets': 1}, {'conceded': 15, 'hand': 'right', 'image_path': '/db/PICTURES/CMS/320300/320327.1.png', 'known_as': 'Albie Morkel', 'maidens': 0, 'overs': '3', 'pacespin': 'pace', 'player_id': '9505', 'popular_name': 'Albie', 'position': 4, 'wickets': 1}, {'conceded': 44, 'hand': 'left', 'image_path': '/db/PICTURES/CMS/398100/398147.2.png', 'known_as': 'Shadab Jakati', 'maidens': 0, 'overs': '4', 'pacespin': 'spin', 'player_id': '7458', 'popular_name': 'Jakati', 'position': 5, 'wickets': 2}, {'conceded': 0, 'hand': 'right', 'image_path': '/db/PICTURES/CMS/316500/316523.3.png', 'known_as': 'Suresh Raina', 'live_current_name': 'current bowler', 'maidens': 0, 'overs': '0.2', 'pacespin': 'spin', 'player_id': '15716', 'popular_name': 'Raina', 'position': 6, 'wickets': 1}], 'innings': {'control_percentage': 0, 'dot_ball_percentage': 56, 'event': 1, 'event_name': 'all out', 'over_limit': '20.0', 'overs': '19.2', 'run_rate': 5.37, 'runs': 104, 'runs_summary': ['66', '31', '7', '1', '9', '0', '2', '0'], 'target': 143, 'wickets': 10}, 'innings_list': [{'current': 0, 'description': 'Chennai Super Kings innings', 'descriptoin_short': 'CSK Inns', 'innings_number': 1, 'selected': 0, 'team_id': 4343}, {'current': 1, 'description': 'Deccan Chargers innings', 'descriptoin_short': 'DCH Inns', 'innings_number': 2, 'selected': 1, 'team_id': 4347}], 'innings_number': '2', 'match': {'control_percentage': 0, 'dot_ball_percentage': 50, 'result_string': 'Chennai Super Kings won by 38 runs', 'runs_summary': ['119', '78', '11', '2', '20', '0', '6', '0']}}, 'fow': [{'notout': 0, 'overs': '5.1', 'player': [{'known_as': 'Adam Gilchrist', 'player_id': '4176', 'popular_name': '', 'runs': 15}, {'known_as': 'Herschelle Gibbs', 'player_id': '2347', 'popular_name': 'Gibbs', 'runs': 3}], 'runs': 19}, {'notout': 0, 'overs': '0.4', 'player': [{'known_as': 'Tirumalasetti Suman', 'player_id': '12084', 'popular_name': 'Suman', 'runs': 4}, {'known_as': 'Herschelle Gibbs', 'player_id': '2347', 'popu

@@ -1,8 +1,0 @@
-date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-['2013-08-24'],Pakistan in Zimbabwe T20I Series,659547,Zimbabwe,8,0,1,0,0,0.0,"6,12,14,18",4.0,24,5,0,42,3,2,1,0,0,0,0,10.5,0,0,0,0,0,0,28,0,28
-['2013-08-23'],Pakistan in Zimbabwe T20I Series,659545,Zimbabwe,10,0,0,0,0,0.0,"6,8,13,18",4.0,24,5,0,37,2,1,1,0,0,0,2,9.25,0,0,0,0,0,0,30,0,30
-['2013-05-12'],Bangladesh in Zimbabwe T20I Series,623572,Zimbabwe,7,9,12,0,0,75.0,"3,8",2.0,12,2,0,31,5,1,0,0,0,1,0,15.5,1,0,0,0,0,9,-4,8,13
-['2012-02-14'],Zimbabwe in New Zealand T20I Series,520596,Zimbabwe,7,0,0,0,0,0.0,"8,20",1.667,10,0,0,30,2,3,0,0,0,0,0,18.0,0,0,0,0,0,0,0,0,0
-['2012-02-11'],Zimbabwe in New Zealand T20I Series,520595,Zimbabwe,7,8,7,1,0,114.29,"5,9,17",2.833,17,7,0,26,1,1,0,0,0,0,2,9.18,0,0,1,0,0,12,7,12,31
-['2010-10-10'],Zimbabwe in South Africa T20I Series,463142,Zimbabwe,8,1,2,0,0,50.0,"2,6,17,19",4.0,24,8,0,39,4,1,2,0,1,0,1,9.75,0,0,0,0,0,1,66,0,67
-['2010-02-28'],NA,439139,Zimbabwe,9,0,2,0,0,0.0,20,1.0,6,1,0,6,0,0,0,0,0,0,1,6.0,1,0,0,0,0,-2,1,8,7

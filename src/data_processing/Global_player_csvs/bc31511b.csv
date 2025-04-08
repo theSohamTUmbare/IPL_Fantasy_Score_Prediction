@@ -1,7 +1,0 @@
-date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-['2022-02-22'],CSA T20 Challenge,1299626,North West,9,14,14,1,1,100.0,"1,6",2.0,12,4,0,25,4,1,0,0,0,0,0,12.5,1,0,0,0,0,24,-2,8,30
-['2022-02-18'],CSA T20 Challenge,1299621,North West,11,0,0,0,0,0.0,"1,4",2.0,12,4,0,13,1,0,0,0,0,0,0,6.5,0,0,0,0,0,0,6,0,6
-['2022-02-15'],CSA T20 Challenge,1299617,North West,11,12,13,1,0,92.31,"2,4,14",3.0,18,8,0,19,2,0,1,0,0,0,0,6.33,0,0,0,0,0,16,35,0,51
-['2022-02-13'],CSA T20 Challenge,1299613,North West,10,0,0,0,0,0.0,"2,18",2.0,12,3,0,35,2,4,0,0,0,0,0,17.5,0,0,0,0,0,0,-3,0,-3
-['2022-02-10'],CSA T20 Challenge,1299608,North West,10,0,0,0,0,0.0,"3,6,17,19",4.0,24,14,0,19,3,0,2,0,1,0,0,4.75,0,0,0,0,0,0,78,0,78
-['2022-02-08'],CSA T20 Challenge,1299604,North West,9,0,0,0,0,0.0,"1,3,5,20",4.0,24,9,0,17,0,0,2,0,1,0,0,4.25,1,0,0,0,0,0,73,8,81

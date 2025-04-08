@@ -1,8 +1,0 @@
-date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-['2015-07-23'],NatWest T20 Blast,804679,Somerset,11,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
-['2015-06-19'],NatWest T20 Blast,804569,Somerset,8,0,0,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
-['2014-07-11'],NatWest T20 Blast,693207,Hampshire,9,3,5,0,0,60.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,3,0,12,15
-['2014-07-06'],NatWest T20 Blast,693185,Hampshire,10,15,10,2,0,150.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,23,0,8,31
-['2014-07-04'],NatWest T20 Blast,693181,Hampshire,10,6,5,1,0,120.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,10,0,20,30
-['2014-06-27'],NatWest T20 Blast,693145,Hampshire,9,13,12,1,0,108.33,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
-['2014-05-16'],NatWest T20 Blast,693021,Hampshire,9,1,1,0,0,100.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,2,0,0,0,1,0,24,25

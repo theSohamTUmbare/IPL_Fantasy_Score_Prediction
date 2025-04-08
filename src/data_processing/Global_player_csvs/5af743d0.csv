@@ -1,6 +1,0 @@
-date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
-['2017-09-13'],Independence Cup,1117822,Pakistan,7,1,1,0,0,100.0,"2,6,17,19",4.0,24,4,0,44,1,3,1,0,0,0,1,11.0,0,0,0,0,0,1,27,0,28
-['2017-09-12'],Independence Cup,1117821,Pakistan,9,0,0,0,0,0.0,"2,4,14,17",4.0,24,8,0,28,4,0,2,0,0,0,1,7.0,0,0,0,0,0,0,60,0,60
-['2015-12-06'],Bangladesh Premier League,935325,Dhaka Dynamites,9,8,5,1,0,160.0,"2,5,15,19",3.333,20,9,0,30,4,1,0,0,0,0,2,9.0,0,0,0,0,0,12,9,0,21
-['2011-09-18'],Pakistan in Zimbabwe T20I Series,523736,Pakistan,10,0,0,0,0,0.0,"2,4,6,20",4.0,24,9,0,31,3,1,0,0,0,0,1,7.75,0,0,0,0,0,0,9,0,9
-['2011-09-16'],Pakistan in Zimbabwe T20I Series,523735,Pakistan,8,0,0,0,0,0.0,"2,4",2.0,12,4,0,13,0,1,2,0,0,0,1,6.5,0,0,0,0,0,0,56,0,56
