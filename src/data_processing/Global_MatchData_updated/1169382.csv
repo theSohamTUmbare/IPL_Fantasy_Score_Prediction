@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Khulna Titans,PR Stirling,cf494ffe,1,61,46,8,1,132.61,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,109,0,0,109
+Khulna Titans,Junaid Siddique,62e203d4,2,33,30,3,1,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,55,0,0,55
+Khulna Titans,Nazmul Hossain Shanto,1274d7ab,3,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+Khulna Titans,Mahmudullah,bf1d7d3e,4,24,17,4,0,141.18,[14],1.0,6,1,0,6,0,0,0,0,0,0,1,6.0,0,0,0,0,2,42,1,0,43
+Khulna Titans,Ariful Haque,ad1730bc,5,12,13,0,0,92.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+Khulna Titans,CR Brathwaite,e342e5fb,6,6,4,1,0,150.0,"[8, 10, 12, 18]",4.0,24,4,0,39,4,1,1,0,0,0,1,9.75,0,0,0,0,0,10,29,0,39
+Khulna Titans,Jahurul Islam,6752c57b,7,12,8,1,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24
+Khulna Titans,Shoriful Islam,bb34fd31,8,0,0,0,0,0.0,"[3, 6, 15, 19]",4.0,24,8,0,30,2,1,0,0,0,0,0,7.5,0,0,0,0,0,0,8,0,8
+Khulna Titans,Ali Khan,b0eaaac6,9,0,0,0,0,0.0,"[2, 4, 16, 20]",4.0,24,8,0,35,3,2,1,0,0,0,1,8.75,0,0,0,0,0,0,33,0,33
+Khulna Titans,Zahir Khan,786b7fe8,10,0,0,0,0,0.0,"[5, 7, 13, 17]",4.0,24,9,0,30,4,0,1,1,0,0,0,7.5,0,0,0,0,0,0,42,0,42
+Khulna Titans,Taijul Islam,9d1d34bd,11,0,0,0,0,0.0,"[1, 9, 11]",3.0,18,7,0,18,3,0,0,0,0,0,0,6.0,0,0,0,0,0,0,9,0,9
+Rangpur Riders,RR Rossouw,cad00a4d,1,76,52,8,2,146.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,134,0,0,134
+Rangpur Riders,Mehedi Maruf,3361993b,2,5,13,1,0,38.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,3,0,0,3
+Rangpur Riders,AD Hales,92aeac25,3,15,9,1,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
+Rangpur Riders,Mohammad Mithun,77191792,4,19,17,3,0,111.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,31,0,8,39
+Rangpur Riders,RS Bopara,7ca5e05d,5,40,29,3,1,137.93,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,64,0,0,64
+Rangpur Riders,Nazmul Islam,6575e3bc,6,0,0,0,0,0.0,"[7, 9]",2.0,12,4,0,12,1,0,0,0,0,0,1,6.0,0,0,0,0,0,0,6,0,6
+Rangpur Riders,Shafiul Islam,1a8eebbe,7,0,0,0,0,0.0,"[5, 13, 17, 19]",4.0,24,7,0,44,6,1,2,0,1,0,4,11.0,1,0,0,0,0,0,63,8,71
+Rangpur Riders,Farhad Reza,4948a447,8,0,0,0,0,0.0,"[8, 11, 18, 20]",4.0,24,5,0,28,2,0,1,0,0,0,0,7.0,0,0,0,0,0,0,32,0,32
+Rangpur Riders,Sohag Gazi,5a4c12ab,9,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,10,0,21,1,1,0,0,0,0,5,7.0,0,0,0,0,0,0,12,0,12
+Rangpur Riders,Mashrafe Mortaza,e186f49c,10,0,0,0,0,0.0,"[1, 3, 14, 16]",4.0,24,8,0,35,6,0,1,0,1,0,0,8.75,1,0,0,0,0,0,41,8,49
+Rangpur Riders,BAC Howell,0bec3a6c,11,0,0,0,0,0.0,"[10, 12, 15]",3.0,18,3,0,19,1,0,1,0,0,0,0,6.33,0,0,0,0,0,0,30,0,30

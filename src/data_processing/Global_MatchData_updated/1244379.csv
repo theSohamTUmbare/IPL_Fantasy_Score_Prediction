@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Arunachal Pradesh,Neelam Obi,047fc26e,1,2,14,0,0,14.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-4,0,0,-4
+Arunachal Pradesh,Techi Doria,dde809f3,2,2,6,0,0,33.33,"[9, 12, 14]",3.0,18,7,0,19,1,1,0,0,0,0,0,6.33,0,0,0,0,0,2,9,0,11
+Arunachal Pradesh,Nazeeb Saiyed,2122c023,3,5,12,0,0,41.67,"[2, 4, 6]",3.0,18,12,0,9,1,0,0,0,0,0,1,3.0,0,0,0,0,-6,-1,18,0,17
+Arunachal Pradesh,Rahul Dalal,802fdccf,4,5,7,0,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
+Arunachal Pradesh,Kamsha Yangfo,451db894,5,18,37,1,0,48.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,16,0,0,16
+Arunachal Pradesh,Nabam Tatang,fc494054,6,4,6,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+Arunachal Pradesh,Akhilesh Sahani,d6ac52e8,7,41,33,3,2,124.24,"[1, 3, 5]",3.0,18,9,0,11,1,0,0,0,0,0,0,3.67,0,0,0,0,0,69,15,0,84
+Arunachal Pradesh,Rakesh Kumar,2c47dd7c,8,0,2,0,0,0.0,"[11, 13, 15]",2.833,17,5,0,22,1,1,1,0,0,0,0,7.77,0,0,0,0,0,-2,30,0,28
+Arunachal Pradesh,Manvan Patel,b6d95d47,9,0,2,0,0,0.0,[10],1.0,6,3,0,7,1,0,0,0,0,0,0,7.0,1,0,0,0,0,-2,3,8,9
+Arunachal Pradesh,Karkir Taye,dfbd203a,10,1,1,0,0,100.0,[8],1.0,6,0,0,9,0,0,0,0,0,0,2,9.0,0,0,0,0,0,1,0,0,1
+Arunachal Pradesh,Yab Niya,8d6505d3,11,0,0,0,0,0.0,[7],1.0,6,1,0,6,0,0,0,0,0,0,0,6.0,0,0,0,0,0,0,1,0,1
+Meghalaya,Rohit Shah,a6a04501,1,26,38,2,0,68.42,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,36,0,8,44
+Meghalaya,DB Ravi Teja,b720a5d6,2,36,44,2,0,81.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,48,0,0,48
+Meghalaya,R Sanjay Yadav,33ffc3dd,3,18,7,1,2,257.14,"[1, 3, 13, 15]",4.0,24,17,0,12,1,0,1,1,0,0,2,3.0,0,0,0,0,0,34,56,0,90
+Meghalaya,Abhay Negi,481dd6dc,4,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,16,0,10,0,0,2,1,1,0,1,2.5,1,0,0,0,0,0,88,8,96
+Meghalaya,Kilco R Marak,4da2f572,5,0,0,0,0,0.0,"[5, 7, 9, 11]",4.0,24,11,0,18,0,0,2,1,0,0,3,4.5,0,0,0,0,0,0,75,0,75
+Meghalaya,Akash Choudhary,0f60513c,6,0,0,0,0,0.0,"[6, 8, 10, 20]",4.0,24,12,0,26,3,1,2,0,0,0,0,6.5,0,0,0,0,0,0,64,0,64
+Meghalaya,A Singhania,791a65ce,7,0,0,0,0,0.0,"[12, 14, 16, 18]",4.0,24,12,0,18,0,1,1,0,1,0,0,4.5,1,0,0,0,0,0,51,8,59
+Meghalaya,Anish Charak,62a48252,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Meghalaya,Yogesh Tiwari,144fdfd4,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Meghalaya,Punit Bisht,310bddc0,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Meghalaya,Larry Sangma,77f6fd61,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0

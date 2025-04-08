@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Barisal Bulls,BMAJ Mendis,9868bc75,1,14,13,2,0,107.69,[14],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,22,1,0,23
+Barisal Bulls,DJ Malan,ad9c32a2,2,7,10,1,0,70.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,9,0,0,9
+Barisal Bulls,Shahriar Nafees,b9c225c2,3,23,27,3,0,85.19,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,35,0,0,35
+Barisal Bulls,Mushfiqur Rahim,a94e08ea,4,31,26,3,0,119.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,47,0,12,59
+Barisal Bulls,Nadif Chowdhury,d6ac6545,5,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Barisal Bulls,NLTC Perera,0f12f9df,6,17,19,0,1,89.47,"[8, 16, 19]",2.667,16,3,0,31,4,1,0,0,0,0,0,11.62,0,0,0,0,0,23,-1,0,22
+Barisal Bulls,Enamul Haque,7d6c0891,7,20,20,1,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30
+Barisal Bulls,Rumman Raees,1c790f4f,8,0,0,0,0,0.0,"[2, 4, 15, 17]",4.0,24,14,0,13,0,0,2,0,2,1,0,3.25,0,0,0,0,0,0,86,0,86
+Barisal Bulls,Taijul Islam,9d1d34bd,9,0,0,0,0,0.0,"[1, 5, 9, 11]",4.0,24,15,0,14,2,0,1,0,1,0,0,3.5,0,0,0,0,0,0,54,0,54
+Barisal Bulls,Monir Hossain,760f445b,10,0,0,0,0,0.0,"[3, 7, 10, 12]",4.0,24,8,0,29,1,2,0,0,0,1,0,7.25,0,0,0,0,0,0,8,0,8
+Barisal Bulls,Kamrul Islam Rabbi,f7e9a562,11,0,0,0,0,0.0,"[6, 13, 18]",3.0,18,8,0,21,3,0,0,0,0,0,0,7.0,0,0,0,0,0,0,10,0,10
+Khulna Titans,Taibur Rahman,561aff5c,1,21,23,2,0,91.3,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29
+Khulna Titans,Hasanuzzaman,849c9375,2,4,4,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+Khulna Titans,MH Wessels,90f47cf2,3,5,9,1,0,55.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
+Khulna Titans,Shuvagata Hom,bb01f9e0,4,40,34,5,1,117.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,70,0,0,70
+Khulna Titans,Mahmudullah,bf1d7d3e,5,36,35,1,2,102.86,"[1, 3, 8, 10]",4.0,24,8,0,28,3,0,0,0,0,0,0,7.0,0,0,0,0,0,56,10,0,66
+Khulna Titans,N Pooran,3241e3fd,6,8,7,1,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,12,0,20,32
+Khulna Titans,Mosharraf Hossain,8eb611d0,7,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,14,0,16,2,0,1,1,0,0,0,4.0,0,0,1,0,0,0,53,12,65
+Khulna Titans,Junaid Khan,086f5984,8,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,16,0,12,1,0,1,0,0,0,0,3.0,1,0,0,0,0,0,47,8,55
+Khulna Titans,Ariful Haque,ad1730bc,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Khulna Titans,KK Cooper,557153ca,10,0,0,0,0,0.0,"[6, 12, 14, 16]",4.0,24,8,0,30,2,1,0,0,0,0,3,7.5,0,0,0,0,0,0,8,0,8
+Khulna Titans,Shafiul Islam,1a8eebbe,11,0,0,0,0,0.0,"[5, 15, 18, 20]",4.0,24,7,0,31,2,1,1,0,0,0,1,7.75,0,0,0,0,0,0,32,0,32

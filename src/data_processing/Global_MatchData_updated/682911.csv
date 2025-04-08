@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Ireland,WTS Porterfield,ec02b798,1,33,35,2,1,94.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,51,0,8,59
+Ireland,PR Stirling,cf494ffe,2,8,5,2,0,160.0,"[1, 3, 7]",3.0,18,14,1,12,0,0,2,0,0,0,6,4.0,0,0,0,0,0,16,82,0,98
+Ireland,EC Joyce,a48fc79d,3,43,38,4,1,113.16,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,69,0,16,85
+Ireland,KJ O'Brien,243431b5,4,0,2,0,0,0.0,"[12, 14, 16, 19]",4.0,24,11,0,17,1,0,2,0,0,0,0,4.25,1,0,0,0,0,-2,67,8,73
+Ireland,AD Poynter,b98cdbf0,5,4,5,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+Ireland,GC Wilson,05de1a5a,6,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,1,0,6,7
+Ireland,SR Thompson,7f3ad1ed,7,0,0,0,0,0.0,[13],1.0,6,2,0,5,0,0,0,0,0,0,0,5.0,0,0,0,0,0,0,2,0,2
+Ireland,MC Sorensen,3f18724b,8,0,0,0,0,0.0,"[2, 4, 11]",3.0,18,8,0,24,3,1,0,0,0,0,0,8.0,0,0,0,0,0,0,8,0,8
+Ireland,AR Cusack,568e5a4a,9,0,0,0,0,0.0,"[6, 8, 18, 20]",4.0,24,7,0,30,3,0,0,0,0,1,0,7.5,0,0,0,0,0,0,7,0,7
+Ireland,GH Dockrell,99cddc5e,10,0,0,0,0,0.0,[9],1.0,6,2,0,10,0,1,0,0,0,0,0,10.0,1,0,0,0,0,0,2,8,10
+Ireland,TJ Murtagh,c89474d1,11,0,0,0,0,0.0,"[5, 10, 15, 17]",4.0,24,10,0,20,2,0,1,0,0,0,1,5.0,0,0,0,1,0,0,39,6,45
+United Arab Emirates,Amjad Ali,e4271302,1,20,19,4,0,105.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,36,0,0,36
+United Arab Emirates,Faizan Asif,8b89eb80,2,11,15,1,0,73.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
+United Arab Emirates,Khurram Khan,ae6746e0,3,16,21,1,0,76.19,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,20,0,8,28
+United Arab Emirates,SP Patil,f5c198fb,4,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+United Arab Emirates,Shaiman Anwar,e9630504,5,30,28,0,2,107.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,46,0,0,46
+United Arab Emirates,Amjad Javed,18eaf2fa,6,19,20,3,0,95.0,"[4, 6, 14]",3.0,18,11,0,23,3,0,1,0,1,0,1,7.67,0,0,0,0,0,31,44,0,75
+United Arab Emirates,Rohan Mustafa,d1988788,7,13,13,0,0,100.0,"[5, 7, 9, 11]",4.0,24,13,0,13,0,0,0,0,0,0,0,3.25,0,0,0,0,0,13,19,0,32
+United Arab Emirates,V Shetty,fd483a3e,8,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+United Arab Emirates,Ahmed Raza,79b4839e,9,0,0,0,0,0.0,"[8, 15]",1.333,8,0,0,16,1,1,0,0,0,0,0,12.0,0,0,0,0,0,0,0,0,0
+United Arab Emirates,Kamran Shazad,75186c24,10,0,0,0,0,0.0,"[2, 10, 12]",3.0,18,5,0,28,2,1,0,0,0,0,5,9.33,0,0,0,0,0,0,5,0,5
+United Arab Emirates,Sharif Asadullah,ac387889,11,0,0,0,0,0.0,"[1, 3, 13]",3.0,18,8,0,21,3,0,2,0,0,0,1,7.0,0,0,0,0,0,0,60,0,60

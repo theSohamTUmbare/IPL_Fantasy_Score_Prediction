@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Northamptonshire,RE Levi,18c78b11,1,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+Northamptonshire,AM Rossington,7bcde3fe,2,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+Northamptonshire,JJ Cobb,58c481c6,3,7,8,0,1,87.5,[14],1.0,6,1,0,7,0,0,0,0,0,0,0,7.0,1,0,0,0,0,13,1,8,22
+Northamptonshire,BM Duckett,5f26f677,4,84,47,12,2,178.72,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,162,0,8,170
+Northamptonshire,AG Wakely,730d120f,5,53,45,4,0,117.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,77,0,0,77
+Northamptonshire,RK Kleinveldt,7955eb15,6,0,2,0,0,0.0,"[2, 5, 12, 17]",4.0,24,8,0,24,2,0,2,0,1,0,0,6.0,0,0,0,0,0,-2,68,0,66
+Northamptonshire,SP Crook,c4450a69,7,1,2,0,0,50.0,"[9, 13, 15, 18]",4.0,24,13,0,28,3,1,3,0,0,0,1,7.0,3,0,0,0,0,1,94,28,123
+Northamptonshire,RI Keogh,e22d3b5c,8,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12
+Northamptonshire,GG White,0f21680d,9,0,2,0,0,0.0,"[8, 10, 16]",3.0,18,4,0,28,2,2,1,0,0,0,0,9.33,1,0,0,0,0,0,29,8,37
+Northamptonshire,BW Sanderson,e871a7a1,10,1,1,0,0,100.0,"[1, 3, 7, 19]",4.0,24,12,0,21,1,0,2,0,0,2,0,5.25,0,0,0,0,0,1,66,0,67
+Northamptonshire,Azharullah,2a0d5d4a,11,0,0,0,0,0.0,"[4, 6, 11, 20]",4.0,24,9,0,41,7,1,1,0,0,0,0,10.25,0,0,0,0,0,0,32,0,32
+Nottinghamshire,MJ Lumb,11df3dc8,1,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+Nottinghamshire,AD Hales,92aeac25,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,-2,0,16,14
+Nottinghamshire,MH Wessels,90f47cf2,3,24,21,3,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,36,0,0,36
+Nottinghamshire,DT Christian,2a2e6343,4,2,7,0,0,28.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,2,0,12,14
+Nottinghamshire,SR Patel,18fac429,5,21,21,2,0,100.0,"[7, 9, 11, 15]",4.0,24,6,0,42,4,2,0,0,0,0,0,10.5,0,0,0,0,0,29,4,0,33
+Nottinghamshire,AD Russell,bbd41817,6,39,18,4,3,216.67,"[1, 3, 13, 17]",4.0,24,9,0,20,1,0,3,1,0,0,1,5.0,0,0,0,0,6,83,100,0,183
+Nottinghamshire,SJ Mullaney,0e0d43b4,7,10,6,0,1,166.67,"[8, 10]",2.0,12,0,0,21,3,0,0,0,0,0,0,10.5,1,0,0,0,0,16,-2,8,22
+Nottinghamshire,CMW Read,be4cefab,8,30,20,4,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,50,0,20,70
+Nottinghamshire,SCJ Broad,eba6a852,9,11,11,1,0,100.0,"[5, 14]",2.0,12,2,0,18,3,0,0,0,0,0,0,9.0,0,0,0,0,0,15,2,0,17
+Nottinghamshire,JT Ball,3d0ed2f9,10,2,5,0,0,40.0,"[4, 6, 16, 19]",4.0,24,10,0,24,3,0,2,0,1,0,0,6.0,0,0,0,0,0,2,70,0,72
+Nottinghamshire,HF Gurney,e412cb64,11,5,4,1,0,125.0,"[2, 12, 18, 20]",4.0,24,9,0,34,2,1,1,0,0,4,0,8.5,0,0,0,0,0,9,34,0,43

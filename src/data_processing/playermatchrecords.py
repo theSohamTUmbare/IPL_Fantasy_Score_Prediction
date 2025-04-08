@@ -344,7 +344,7 @@ def build_player_feature_map(json_file):
             "batting_fp": batting_fp,
             "bowling_fp": bowling_fp,
             "fielding_fp": fielding_fp,
-            "total_fp": batting_fp + bowling_fp + fielding_fp            
+            "total_fp": batting_fp + bowling_fp + fielding_fp         
         }
     return match,final_stats
 
@@ -381,7 +381,7 @@ def process_all_matches(global_folder):
                             "fours": record.get("fours", 0),
                             "sixes": record.get("sixes", 0),
                             "strike_rate": record.get("strike_rate", 0.0),
-                            "overs_bowled": ",".join(map(str, record.get("overs_bowled", []))),
+                            "overs_bowled": record.get("overs_bowled", []),
                             "overs": record.get("overs", 0.0),
                             "total_balls": record.get("total_balls", 0),
                             "dots": record.get("dots", 0),
@@ -433,7 +433,7 @@ def write_player_csv(player_id, records, output_folder):
 
 if __name__ == "__main__":
     global_folder = r"C:\Users\kumar\IPL_Fantasy_Score_Prediction\src\Global"  # Path to your Global folder containing subfolders.
-    output_folder = r"C:\Users\kumar\IPL_Fantasy_Score_Prediction\src\data_processing\Global_player_csvs"  # Folder to save individual player CSV files.
+    output_folder = r"C:\Users\kumar\IPL_Fantasy_Score_Prediction\Ashu\Player_records"  # Folder to save individual player CSV files.
     os.makedirs(output_folder, exist_ok=True)
     
     player_records = process_all_matches(global_folder)

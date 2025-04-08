@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Chennai Super Kings,F du Plessis,3355b542,1,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11
+Chennai Super Kings,MEK Hussey,48fd7349,2,18,19,2,0,94.74,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26
+Chennai Super Kings,SK Raina,1dc12ab9,3,44,34,4,1,129.41,"[12, 14, 16]",3.0,18,4,0,22,2,0,0,0,0,0,0,7.33,0,0,0,0,0,70,4,0,74
+Chennai Super Kings,DJ Bravo,87e562a9,4,12,12,0,1,100.0,"[10, 13, 15, 19]",4.0,24,6,0,27,3,0,2,1,0,0,0,6.75,0,0,0,0,0,18,66,0,84
+Chennai Super Kings,MS Dhoni,4a8a2e3b,5,34,30,2,0,113.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,46,0,8,54
+Chennai Super Kings,RA Jadeja,fe93fd9d,6,9,13,0,0,69.23,"[9, 11]",2.0,12,2,0,13,0,0,0,0,0,0,1,6.5,0,0,0,0,-2,7,4,0,11
+Chennai Super Kings,JA Morkel,c3d35165,7,13,8,0,0,162.5,"[2, 4, 6, 17]",4.0,24,11,0,24,2,0,1,0,0,1,4,6.0,0,0,0,0,0,13,38,0,51
+Chennai Super Kings,S Badrinath,3576e47e,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Chennai Super Kings,R Ashwin,495d42a5,9,0,0,0,0,0.0,"[3, 5, 18, 20]",3.667,22,9,0,22,1,1,2,0,0,0,1,6.0,0,0,0,0,0,0,59,0,59
+Chennai Super Kings,SB Jakati,c8179c68,10,0,0,0,0,0.0,"[1, 7]",2.0,12,3,0,17,1,1,0,0,0,0,0,8.5,1,0,0,0,0,0,3,8,11
+Chennai Super Kings,VY Mahesh,93a17209,11,0,0,0,0,0.0,[8],1.0,6,0,0,11,1,0,0,0,0,0,2,11.0,1,0,0,0,0,0,0,8,8
+Kolkata Knight Riders,G Gambhir,bb345e0b,1,63,52,6,1,121.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,101,0,0,101
+Kolkata Knight Riders,BB McCullum,b8a55852,2,2,8,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,2,0,14,16
+Kolkata Knight Riders,JH Kallis,86dc8f2e,3,26,30,1,1,86.67,"[7, 9, 11, 13]",4.0,24,10,0,21,2,0,2,0,0,0,1,5.25,0,0,0,0,0,40,64,0,104
+Kolkata Knight Riders,MK Tiwary,26e5cabf,4,13,13,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
+Kolkata Knight Riders,YK Pathan,3c6ffae8,5,12,11,0,0,109.09,[3],1.0,6,2,0,10,1,0,0,0,0,0,1,10.0,1,0,0,0,0,12,2,8,22
+Kolkata Knight Riders,DB Das,7050a1e7,6,11,4,2,0,275.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,19,0,8,27
+Kolkata Knight Riders,LR Shukla,b1451597,7,0,0,0,0,0.0,[12],1.0,6,1,0,7,0,0,0,0,0,0,0,7.0,0,0,0,0,0,0,1,0,1
+Kolkata Knight Riders,R Bhatia,33a364a6,8,0,0,0,0,0.0,"[8, 10, 15]",3.0,18,2,0,22,1,0,0,0,0,0,1,7.33,0,0,0,0,0,0,2,0,2
+Kolkata Knight Riders,SP Narine,9d430b40,9,0,0,0,0,0.0,"[5, 16, 18, 20]",4.0,24,8,0,24,1,0,1,0,0,0,0,6.0,0,0,0,0,0,0,35,0,35
+Kolkata Knight Riders,B Lee,dd09ff8e,10,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,7,0,34,2,1,1,0,0,0,0,8.5,0,0,0,1,0,0,32,6,38
+Kolkata Knight Riders,Iqbal Abdulla,85aae393,11,0,0,0,0,0.0,"[1, 6, 14]",3.0,18,8,0,18,1,1,0,0,0,0,0,6.0,1,0,0,0,0,0,10,8,18

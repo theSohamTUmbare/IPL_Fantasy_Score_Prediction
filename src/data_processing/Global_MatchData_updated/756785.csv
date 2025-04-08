@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Brisbane Heat,JJ Peirson,2b55c3b4,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,-2,0,6,4
+Brisbane Heat,PJ Forrest,56c205b7,2,22,21,2,0,104.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30
+Brisbane Heat,JA Burns,7a5f232a,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Brisbane Heat,DT Christian,2a2e6343,4,7,10,0,1,70.0,"[4, 6, 8, 10]",4.0,24,16,0,13,0,0,2,0,0,0,3,3.25,1,0,0,0,-2,11,72,8,91
+Brisbane Heat,JS Floros,79765f6f,5,0,1,0,0,0.0,"[12, 14]",2.0,12,4,0,18,1,1,0,0,0,0,0,9.0,0,0,0,0,0,-2,4,0,2
+Brisbane Heat,CA Lynn,45eda7c8,6,0,9,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Brisbane Heat,A Flintoff,ddc0828d,7,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11
+Brisbane Heat,BCJ Cutting,2e11c706,8,30,35,3,0,85.71,[13],1.0,6,1,0,12,2,0,0,0,0,0,0,12.0,0,0,0,0,0,46,1,0,47
+Brisbane Heat,JR Hopes,2498e163,9,7,16,0,0,43.75,"[1, 3, 5, 7]",4.0,24,16,1,8,0,0,1,0,0,0,0,2.0,0,0,0,0,-6,1,59,0,60
+Brisbane Heat,AC McDermott,956887b2,10,0,5,0,0,0.0,[2],1.0,6,1,0,12,1,0,0,0,0,0,1,12.0,0,0,0,0,0,-2,1,0,-1
+Brisbane Heat,SD Parry,fdb8ed0d,11,2,2,0,0,100.0,"[9, 11]",2.0,12,2,0,17,0,1,1,0,1,0,0,8.5,1,0,0,1,0,2,35,14,51
+Melbourne Renegades,MS Wade,afa7e784,1,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,-2,0,20,18
+Melbourne Renegades,AJ Doolan,36eafb02,2,10,10,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,14,0,8,22
+Melbourne Renegades,BA Stokes,e087956b,3,4,11,0,0,36.36,[16],1.0,6,3,0,7,1,0,1,0,0,0,0,7.0,0,0,0,0,-6,-2,28,0,26
+Melbourne Renegades,CJ Ferguson,9b4935c8,4,4,11,0,0,36.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,-2,0,8,6
+Melbourne Renegades,BJ Rohrer,27af6414,5,25,31,1,0,80.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33
+Melbourne Renegades,Shakib Al Hasan,7dc35884,6,2,3,0,0,66.67,"[5, 7, 9, 17]",4.0,24,15,0,13,1,0,4,0,2,0,0,3.25,2,0,1,0,0,2,145,28,175
+Melbourne Renegades,TM Beaton,f0ec8597,7,31,16,2,2,193.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,61,0,0,61
+Melbourne Renegades,JL Pattinson,f752db61,8,0,0,0,0,0.0,"[1, 3, 6]",3.0,18,13,1,23,2,1,2,0,1,2,1,7.67,0,0,0,0,0,0,83,0,83
+Melbourne Renegades,NJ Rimmington,6042bf26,9,0,0,0,0,0.0,"[11, 18]",1.5,9,5,0,7,0,0,1,0,0,0,2,4.67,0,0,0,0,0,0,30,0,30
+Melbourne Renegades,PM Siddle,bd93fea4,10,0,0,0,0,0.0,"[2, 4, 13, 15]",4.0,24,10,0,21,1,0,0,0,0,0,2,5.25,0,0,0,0,0,0,14,0,14
+Melbourne Renegades,Fawad Ahmed,22ae3041,11,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,18,1,7,0,0,1,0,0,0,0,1.75,0,0,0,0,0,0,61,0,61

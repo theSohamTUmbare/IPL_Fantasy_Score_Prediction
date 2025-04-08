@@ -245,8 +245,8 @@ def build_player_feature_map(json_file):
                 idx += 1          
         for player in players:
             if player not in batting_order:
-                batting_order[player] = order
-                order += 1 
+                batting_order[player] = idx #should be idx++
+                idx += 1 
     registry = match.get("info", {}).get("registry", {}).get("people", {})
     team_rosters = match.get("info",{}).get('players',{})
     all_players = set()
@@ -358,7 +358,6 @@ def write_features_to_csv(feature_map,output_csv):
         for features in sorted_features:
             writer.writerow(features)
     print(f"Player feature map written to {output_csv}")
-
 def process_all_matches(global_folder, output_folder):
     # if output folder already exists we assume that data has been already processed no need for further processing 
     if os.path.exists(output_folder):
@@ -384,6 +383,6 @@ def process_all_matches(global_folder, output_folder):
 if __name__ == "__main__":
     
     global_folder = r"C:\Users\kumar\IPL_Fantasy_Score_Prediction\src\Global"
-    output_folder = r"C:\Users\kumar\IPL_Fantasy_Score_Prediction\src\data_processing\Global_MatchData"  
+    output_folder = r"C:\Users\kumar\IPL_Fantasy_Score_Prediction\ashu_test"  
     process_all_matches(global_folder, output_folder)
     

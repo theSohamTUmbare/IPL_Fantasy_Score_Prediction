@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Comilla Victorians,Anamul Haque,72b245dd,1,40,32,4,1,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,66,0,6,72
+Comilla Victorians,E Lewis,0ebfb1ad,2,28,21,3,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,2,52,0,6,58
+Comilla Victorians,Tamim Iqbal,3b041a12,3,21,25,3,0,84.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33
+Comilla Victorians,Imrul Kayes,5fbe14fc,4,6,12,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,2,0,0,2
+Comilla Victorians,Shoaib Malik,64c34cd0,5,2,8,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+Comilla Victorians,Shahid Afridi,0dc00542,6,9,5,0,1,180.0,"[8, 10, 12, 14]",4.0,24,17,1,10,1,0,3,2,1,0,0,2.5,1,0,0,0,0,15,138,8,161
+Comilla Victorians,LA Dawson,4a461c24,7,12,9,2,0,133.33,"[5, 7, 16, 18]",4.0,24,15,0,17,2,0,2,1,1,0,0,4.25,0,0,0,0,0,20,87,0,107
+Comilla Victorians,Mohammad Saifuddin,b3a28446,8,0,0,0,0,0.0,"[3, 15, 17]",3.0,18,8,0,25,4,0,2,1,1,1,1,8.33,0,0,0,0,0,0,74,0,74
+Comilla Victorians,Mahedi Hasan,9dad0f2e,9,0,0,0,0,0.0,"[2, 9, 11, 13]",4.0,24,12,0,22,2,0,0,0,0,0,1,5.5,1,0,0,0,0,0,16,8,24
+Comilla Victorians,Abu Hider,31803fac,10,0,0,0,0,0.0,"[1, 6, 19]",2.833,17,4,0,37,5,1,2,0,0,1,3,13.06,0,0,0,0,0,0,48,0,48
+Comilla Victorians,Mohammad Shahid,c285c86e,11,0,0,0,0,0.0,[4],1.0,6,1,0,12,2,0,0,0,0,0,0,12.0,0,0,0,0,0,0,1,0,1
+Rajshahi Kings,Mominul Haque,de0a3209,1,3,7,0,0,42.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11
+Rajshahi Kings,Mehedi Hasan Miraz,c58b0108,2,30,17,6,0,176.47,"[1, 7, 12, 14]",4.0,24,9,0,33,4,1,1,0,0,0,1,8.25,0,0,0,0,6,64,34,0,98
+Rajshahi Kings,Soumya Sarkar,4d9f9686,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Rajshahi Kings,Mohammad Hafeez,9ab63e7b,4,16,17,2,0,94.12,"[2, 4, 13]",3.0,18,6,0,20,1,1,0,0,0,0,0,6.67,0,0,0,0,0,24,8,0,32
+Rajshahi Kings,Zakir Hasan,e3e09091,5,27,26,3,0,103.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,43,0,6,49
+Rajshahi Kings,LJ Evans,1c513d54,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+Rajshahi Kings,Fazle Mahmud,b4bef2ed,7,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+Rajshahi Kings,Qais Ahmad,8d5d991e,8,0,1,0,0,0.0,"[5, 8, 10, 16]",4.0,24,12,0,21,2,0,1,0,0,0,4,5.25,0,0,0,0,0,-2,41,0,39
+Rajshahi Kings,I Udana,ac5ae4af,9,32,29,5,1,110.34,"[9, 11, 18]",3.0,18,7,0,20,3,0,0,0,0,0,1,6.67,0,0,1,1,0,62,9,18,89
+Rajshahi Kings,Arafat Sunny,1f7adc8a,10,4,8,0,0,50.0,[3],1.0,6,3,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,0,4,3,0,7
+Rajshahi Kings,Mustafizur Rahman,0a8fce53,11,1,0,0,0,0.0,"[6, 15, 17, 19]",3.667,22,9,0,24,1,1,1,1,0,0,1,6.54,0,0,0,0,0,1,44,0,45

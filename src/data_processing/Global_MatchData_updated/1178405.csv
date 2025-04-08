@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Delhi Capitals,PP Shaw,8b3e9c7c,1,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+Delhi Capitals,S Dhawan,0a476045,2,7,8,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
+Delhi Capitals,C Munro,af2c687b,3,40,24,4,3,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,82,0,0,82
+Delhi Capitals,SS Iyer,85ec8e33,4,45,40,5,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,69,0,8,77
+Delhi Capitals,RR Pant,919a3be2,5,23,19,3,0,121.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,35,0,8,43
+Delhi Capitals,CH Morris,fb66ce1f,6,4,8,0,0,50.0,"[4, 14, 18]",3.0,18,8,0,22,2,1,3,0,1,0,0,7.33,0,0,0,0,0,4,95,0,99
+Delhi Capitals,AR Patel,2e171977,7,14,10,1,0,140.0,"[7, 9]",2.0,12,2,0,23,2,1,0,0,0,0,0,11.5,1,0,0,0,2,20,-2,8,26
+Delhi Capitals,KMA Paul,75224f22,8,7,4,0,1,175.0,"[8, 10, 12, 16]",4.0,24,10,0,17,0,0,3,0,0,1,1,4.25,2,0,0,0,0,13,95,16,124
+Delhi Capitals,K Rabada,e62dd25d,9,2,2,0,0,100.0,"[2, 6, 17, 19]",3.833,23,11,0,22,2,0,4,0,1,0,2,5.74,3,0,0,0,0,2,131,28,161
+Delhi Capitals,A Mishra,6b19d823,10,0,0,0,0,0.0,"[11, 13, 15]",3.0,18,8,0,13,0,0,0,0,0,0,0,4.33,0,0,0,0,0,0,14,0,14
+Delhi Capitals,I Sharma,5bb1a1c4,11,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,8,0,19,2,0,0,0,0,0,1,6.33,0,0,0,0,0,0,10,0,10
+Sunrisers Hyderabad,DA Warner,dcce6f09,1,51,47,3,1,108.51,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,77,0,0,77
+Sunrisers Hyderabad,JM Bairstow,abb83e27,2,41,30,5,1,136.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,2,73,0,28,101
+Sunrisers Hyderabad,KS Williamson,d027ba9f,3,3,8,0,0,37.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+Sunrisers Hyderabad,RK Bhui,b63e358a,4,7,12,0,0,58.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,3,0,0,3
+Sunrisers Hyderabad,V Shankar,0994d0ae,5,1,2,0,0,50.0,"[9, 11]",2.0,12,2,0,17,2,0,0,0,0,0,0,8.5,0,0,0,0,0,1,2,0,3
+Sunrisers Hyderabad,DJ Hooda,73ad96ed,6,3,4,0,0,75.0,[7],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,1,0,0,0,0,3,1,8,12
+Sunrisers Hyderabad,Abhishek Sharma,f29185a1,7,2,3,0,0,66.67,[8],1.0,6,1,0,10,0,1,1,0,0,0,0,10.0,0,0,0,0,0,2,26,0,28
+Sunrisers Hyderabad,Rashid Khan,5f547c8b,8,0,1,0,0,0.0,"[10, 12, 14, 18]",4.0,24,10,0,22,3,0,1,0,1,0,0,5.5,0,0,0,0,0,-2,47,0,45
+Sunrisers Hyderabad,B Kumar,2e81a32d,9,2,4,0,0,50.0,"[1, 5, 16, 20]",4.0,24,9,0,33,2,1,2,1,0,1,1,8.25,1,0,0,0,0,2,67,8,77
+Sunrisers Hyderabad,Sandeep Sharma,ce820073,10,1,1,0,0,100.0,"[3, 13, 15, 19]",4.0,24,6,0,30,4,0,0,0,0,0,1,7.5,0,0,0,0,0,1,6,0,7
+Sunrisers Hyderabad,KK Ahmed,a2f46292,11,0,1,0,0,0.0,"[2, 4, 6, 17]",4.0,24,12,0,30,2,2,3,0,0,0,1,7.5,0,0,0,0,0,-2,91,0,89

@@ -1,0 +1,25 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Lucknow Super Giants,KL Rahul,b17e2f24,1,74,56,8,1,132.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,122,0,8,130
+Lucknow Super Giants,KR Mayers,73c18486,2,29,23,1,3,126.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,55,0,0,55
+Lucknow Super Giants,DJ Hooda,73ad96ed,3,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+Lucknow Super Giants,KH Pandya,5b8c830e,4,18,16,2,0,112.5,"[9, 11, 13]",3.0,18,6,0,32,3,2,1,0,0,0,0,10.67,1,0,0,0,0,26,29,8,63
+Lucknow Super Giants,N Pooran,3241e3fd,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+Lucknow Super Giants,MP Stoinis,d9273ee7,6,15,11,0,2,136.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,29,0,16,45
+Lucknow Super Giants,A Badoni,872b03f7,7,5,6,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
+Lucknow Super Giants,K Gowtham,90de905a,8,1,2,0,0,50.0,"[6, 10, 12, 14]",4.0,24,10,0,31,1,2,1,0,0,0,1,7.75,0,0,0,0,0,1,35,0,36
+Lucknow Super Giants,Yudhvir Singh,4885bbe6,9,0,1,0,0,0.0,"[1, 3, 5]",3.0,18,10,0,19,4,0,2,0,1,0,0,6.33,0,0,0,0,0,-2,70,0,68
+Lucknow Super Giants,Ravi Bishnoi,df064e1a,10,3,1,0,0,300.0,"[15, 18, 20]",2.5,15,7,0,18,2,0,2,0,0,0,1,7.2,0,0,0,0,0,3,57,0,60
+Lucknow Super Giants,Avesh Khan,eef2536f,11,0,0,0,0,0.0,"[2, 7, 17]",3.0,18,8,0,24,4,0,0,0,0,0,1,8.0,1,0,0,0,0,0,8,8,16
+Lucknow Super Giants,MA Wood,8d92a2c3,12,0,0,0,0,0.0,"[4, 8, 16, 19]",4.0,24,9,0,35,2,2,2,0,0,0,2,8.75,0,0,0,0,0,0,59,0,59
+Punjab Kings,Atharva Taide,1ac746c8,1,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Punjab Kings,P Simran Singh,9418198b,2,4,4,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+Punjab Kings,MW Short,a90e53ec,3,34,22,5,1,154.55,"[1, 7]",2.0,12,7,0,10,0,1,0,0,0,0,0,5.0,0,0,0,0,4,68,11,0,79
+Punjab Kings,Harpreet Singh,28c78fb3,4,22,22,3,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,34,0,8,42
+Punjab Kings,Sikandar Raza,26d041c4,5,57,41,4,3,139.02,"[9, 11]",2.0,12,2,0,19,2,0,1,1,0,1,0,9.5,1,0,0,0,2,101,35,8,144
+Punjab Kings,SM Curran,e94915e6,6,6,6,1,0,100.0,"[4, 10, 18, 20]",4.0,24,9,0,31,2,1,3,0,0,0,2,7.75,0,0,0,0,0,10,88,0,98
+Punjab Kings,JM Sharma,800d2d97,7,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
+Punjab Kings,M Shahrukh Khan,7dcb9bc9,8,23,10,1,2,230.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,6,45,0,28,73
+Punjab Kings,Harpreet Brar,c05edf8e,9,6,4,1,0,150.0,"[6, 8]",2.0,12,6,0,10,1,0,1,0,0,0,0,5.0,0,0,0,0,0,10,35,0,45
+Punjab Kings,K Rabada,e62dd25d,10,0,1,0,0,0.0,"[3, 5, 15, 17]",4.0,24,11,0,34,2,2,2,0,0,0,2,8.5,0,0,0,0,0,0,61,0,61
+Punjab Kings,RD Chahar,2ed569a0,11,0,0,0,0,0.0,"[12, 14, 16]",3.0,18,5,0,28,1,2,0,0,0,0,1,9.33,0,0,0,0,0,0,5,0,5
+Punjab Kings,Arshdeep Singh,244048f6,12,0,0,0,0,0.0,"[2, 13, 19]",3.0,18,6,0,22,3,0,1,0,0,0,1,7.33,0,0,0,0,0,0,31,0,31

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Bahrain,Umer Imtiaz,7b729851,1,6,14,1,0,42.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,4,0,0,4
+Bahrain,Imran Ali Butt,5d60560f,2,6,11,1,0,54.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,-4,6,0,16,22
+Bahrain,Imran Anwar,a9a18e3e,3,0,4,0,0,0.0,"[8, 10, 19]",2.333,14,6,0,15,2,0,0,0,0,0,0,6.43,1,0,0,0,0,-2,8,8,14
+Bahrain,Sohail Ahmed,4db71b2e,4,28,29,3,0,96.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,44,0,0,44
+Bahrain,Haider Butt,14fd10b5,5,59,43,5,2,137.21,[12],1.0,6,1,0,14,1,1,0,0,0,0,1,14.0,1,0,0,0,2,101,1,8,110
+Bahrain,Junaid Aziz,c39ee9e0,6,25,18,2,1,138.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,45,0,0,45
+Bahrain,S Veerapathiran,1e569fb0,7,0,1,0,0,0.0,"[5, 7, 9, 15]",4.0,24,9,0,26,3,0,1,0,0,0,2,6.5,0,0,0,0,0,-2,36,0,34
+Bahrain,Rizwan Butt,e741ed8f,8,0,0,0,0,0.0,"[2, 4, 6, 17]",4.0,24,17,0,18,1,1,2,0,0,1,1,4.5,0,0,0,0,0,0,73,0,73
+Bahrain,Abdul Majid Abbasi,0cfb42b5,9,0,0,0,0,0.0,"[11, 13]",2.0,12,7,0,19,1,2,1,0,1,0,0,9.5,0,0,0,0,0,0,40,0,40
+Bahrain,Sachin Kumar,b76b2d25,10,0,0,0,0,0.0,"[16, 18]",2.0,12,3,0,20,1,1,1,0,0,0,1,10.0,0,0,0,0,0,0,26,0,26
+Bahrain,Ali Dawood,596982e6,11,0,0,0,0,0.0,"[1, 3, 14]",3.0,18,10,0,25,5,0,0,0,0,0,1,8.33,0,0,0,0,0,0,10,0,10
+United Arab Emirates,Waseem Muhammad,6f02fe2a,1,12,7,3,0,171.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
+United Arab Emirates,A Sharma,5661ef90,2,9,12,2,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,17,0,8,25
+United Arab Emirates,V Aravind,cddafe26,3,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+United Arab Emirates,Asif Khan,074acfb4,4,23,25,2,1,92.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,37,0,0,37
+United Arab Emirates,A Sharafu,06cad4f0,5,27,27,2,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,45,0,16,61
+United Arab Emirates,Ali Naseer,f5715b48,6,48,26,4,3,184.62,"[5, 7, 13, 15]",4.0,24,10,0,20,2,0,1,0,0,0,1,5.0,1,0,0,0,6,92,39,8,139
+United Arab Emirates,Basil Hameed,adbf0400,7,11,8,1,0,137.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
+United Arab Emirates,KP Meiyappan,b91f2a31,8,0,0,0,0,0.0,"[8, 10, 14, 16]",4.0,24,8,0,32,3,1,1,0,0,0,0,8.0,0,0,0,0,0,0,33,0,33
+United Arab Emirates,Aayan Afzal Khan,d2d15439,9,0,0,0,0,0.0,"[2, 4, 6, 12]",4.0,24,17,0,13,2,0,2,0,1,0,0,3.25,0,0,0,0,0,0,81,0,81
+United Arab Emirates,Junaid Siddique,84dc72db,10,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,11,0,32,4,1,2,0,1,1,0,8.0,0,0,0,0,0,0,69,0,69
+United Arab Emirates,Zahoor Khan,f0e293b0,11,0,0,0,0,0.0,"[9, 11, 17, 19]",4.0,24,2,0,30,1,1,0,0,0,0,1,7.5,0,0,0,0,0,0,2,0,2

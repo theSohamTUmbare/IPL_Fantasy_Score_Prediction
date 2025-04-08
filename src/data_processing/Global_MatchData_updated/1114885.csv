@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Melbourne Stars,LJ Wright,cca50cd6,1,11,13,1,0,84.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
+Melbourne Stars,BR Dunk,272d796e,2,7,12,1,0,58.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,7,0,8,15
+Melbourne Stars,KP Pietersen,39f01cdb,3,9,8,2,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
+Melbourne Stars,GJ Maxwell,b681e71e,4,28,16,1,3,175.0,[8],1.0,6,1,0,11,0,1,0,0,0,0,0,11.0,1,0,0,0,6,60,1,8,69
+Melbourne Stars,PSP Handscomb,ada15e88,5,14,16,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
+Melbourne Stars,JP Faulkner,808f425a,6,28,30,3,0,93.33,"[4, 7]",2.0,12,5,0,20,2,1,1,0,0,0,0,10.0,0,0,0,0,0,44,28,0,72
+Melbourne Stars,EP Gulbis,bbce4647,7,24,25,1,1,96.0,"[13, 15]",2.0,12,5,0,11,1,0,0,0,0,0,0,5.5,0,0,0,0,0,34,9,0,43
+Melbourne Stars,JW Hastings,012829ff,8,0,0,0,0,0.0,"[6, 9, 11]",3.0,18,10,0,27,2,2,0,0,0,0,1,9.0,0,0,0,0,0,0,10,0,10
+Melbourne Stars,JR Coleman,de6efa4a,9,0,0,0,0,0.0,"[2, 14, 16]",2.167,13,7,0,14,1,0,1,0,0,0,2,6.46,0,0,0,0,0,0,34,0,34
+Melbourne Stars,DJ Worrall,208f22ea,10,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,11,0,21,4,0,0,0,0,0,0,7.0,0,0,0,0,0,0,13,0,13
+Melbourne Stars,D Fallins,46fca863,11,0,0,0,0,0.0,"[10, 12]",2.0,12,3,0,25,3,1,0,0,0,0,2,12.5,0,0,0,0,0,0,-3,0,-3
+Sydney Sixers,JL Denly,bdadf7da,1,12,13,1,0,92.31,[13],1.0,6,2,0,4,0,0,0,0,0,0,0,4.0,0,0,0,0,0,16,2,0,18
+Sydney Sixers,DP Hughes,f3982af9,2,49,46,6,0,106.52,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,77,0,0,77
+Sydney Sixers,NJ Maddinson,44afbf2d,3,62,31,6,5,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,130,0,0,130
+Sydney Sixers,MC Henriques,32198ae0,4,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Sydney Sixers,JC Silk,7a6dc294,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Sydney Sixers,CR Brathwaite,e342e5fb,6,0,0,0,0,0.0,"[5, 7, 18, 20]",4.0,24,11,0,26,2,1,1,0,0,0,1,6.5,0,0,0,0,0,0,38,0,38
+Sydney Sixers,J Botha,7c503806,7,0,0,0,0,0.0,"[2, 10, 14]",3.0,18,8,0,20,2,0,0,0,0,0,0,6.67,0,0,0,0,0,0,10,0,10
+Sydney Sixers,PM Nevill,a22fb7b5,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
+Sydney Sixers,SA Abbott,1a2676c5,9,0,0,0,0,0.0,"[4, 9, 11, 15]",4.0,24,8,0,35,2,2,2,0,0,0,0,8.75,2,0,0,0,0,0,58,16,74
+Sydney Sixers,BJ Dwarshuis,e1b9f3a9,10,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,15,0,20,2,1,0,0,0,0,1,5.0,1,0,0,0,0,0,19,8,27
+Sydney Sixers,NM Lyon,96a6a7ad,11,0,0,0,0,0.0,"[6, 8, 12, 16]",4.0,24,13,0,18,2,0,3,0,0,0,0,4.5,0,0,0,0,0,0,98,0,98
