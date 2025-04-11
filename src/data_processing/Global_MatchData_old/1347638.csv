@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Leicestershire,NR Welch,74c6c6e0,1,40,23,4,1,173.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,72,0,0,72,27,True,False,False,Legbreak googly,Right-hand bat
+Leicestershire,HJ Swindells,95fd757d,2,39,30,4,0,130.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,61,0,8,69,26,True,False,False,,Right-hand bat
+Leicestershire,RK Patel,4531f249,3,9,7,1,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,26,True,False,False,Legbreak,Right-hand bat
+Leicestershire,CF Parkinson,aa1210d8,4,0,0,0,0,0.0,"[1, 9, 13, 15]",4.0,24,4,0,28,2,0,0,0,0,0,1,7.0,0,0,0,0,0,0,6,0,6,28,True,False,False,Slow left-arm orthodox,Right-hand bat
+Leicestershire,CN Ackermann,e734d090,4,0,1,0,0,0.0,"[3, 8, 12]",3.0,18,5,0,36,4,2,0,0,0,0,0,12.0,0,0,0,0,0,-2,1,0,-1,33,True,False,True,Right-arm offbreak,Right-hand bat
+Leicestershire,J Hull,1cc0a83d,5,0,0,0,0,0.0,"[2, 11, 18]",3.0,18,3,0,44,5,2,0,0,0,0,3,14.67,0,0,0,0,0,0,-3,0,-3,20,True,False,False,Left-arm fast-medium,Left-hand bat
+Leicestershire,LPJ Kimber,9f812582,5,59,37,5,2,159.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,103,0,8,111,28,True,False,False,Right-arm offbreak,Right-hand bat
+Leicestershire,MG Finan,8c9d3000,6,0,0,0,0,0.0,"[5, 14, 16, 19]",3.167,19,6,0,35,5,0,2,0,0,0,6,11.05,0,0,0,0,0,0,52,0,52,28,True,True,False,Left-arm medium,Right-hand bat
+Leicestershire,PWA Mulder,c96f6ac5,6,31,17,2,2,182.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,61,0,0,61,27,True,False,True,Right-arm medium,Right-hand bat
+Leicestershire,Rehan Ahmed,0ecb4de6,7,5,5,0,0,100.0,"[7, 10, 17]",3.0,18,3,0,38,4,2,0,0,0,0,1,12.67,0,0,0,0,0,5,-3,0,2,20,True,False,True,Legbreak googly,Right-hand bat
+Leicestershire,Naveen-ul-Haq,c0c411cb,7,0,0,0,0,0.0,"[4, 6]",2.0,12,3,0,15,2,0,0,0,0,0,0,7.5,0,0,0,0,0,0,3,0,3,25,True,False,False,Right-arm medium-fast,Right-hand bat
+Yorkshire,A Lyth,70b8fd28,1,90,50,12,2,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,168,0,8,176,37,True,False,False,Right-arm offbreak,Left-hand bat
+Yorkshire,DJ Malan,ad9c32a2,2,79,45,9,3,175.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,151,0,0,151,37,True,False,False,Legbreak,Left-hand bat
+Yorkshire,JH Wharton,42a5c1c7,3,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,24,True,False,False,Right-arm offbreak,Right-hand bat
+Yorkshire,D Wiese,aa8d28ae,4,13,8,1,1,162.5,"[1, 5, 13, 20]",4.0,24,5,0,44,6,1,1,0,0,0,0,11.0,0,0,0,0,0,23,28,0,51,39,True,False,True,Right-arm medium-fast,Right-hand bat
+Yorkshire,Shan Masood,6843a783,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,35,True,False,False,Right-arm medium-fast,Left-hand bat
+Yorkshire,ML Revis,28217d89,5,0,0,0,0,0.0,"[6, 18]",2.0,12,2,0,25,2,1,1,0,0,2,1,12.5,0,0,0,0,0,0,21,0,21,23,True,False,False,Right-arm medium-fast,Right-hand bat
+Yorkshire,JA Tattersall,793977d8,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,30,True,True,False,Legbreak,Right-hand bat
+Yorkshire,BWM Mike,ed12fcd7,7,0,0,0,0,0.0,"[3, 9, 17]",3.0,18,3,0,43,3,3,2,0,0,2,0,14.33,1,0,0,0,0,0,47,8,55,26,True,False,True,Right-arm medium-fast,Right-hand bat
+Yorkshire,JA Thompson,1d2f290a,8,0,0,0,0,0.0,"[7, 11, 15, 19]",4.0,24,4,0,28,1,0,1,0,0,0,1,7.0,1,0,0,0,0,0,31,8,39,28,True,False,True,Right-arm medium-fast,Left-hand bat
+Yorkshire,DM Bess,ad46c747,9,0,0,0,0,0.0,"[2, 4, 14, 16]",4.0,24,6,0,22,1,0,0,0,0,0,0,5.5,1,0,0,0,0,0,10,8,18,27,True,False,True,Right-arm offbreak,Right-hand bat
+Yorkshire,JA Chohan,58be5e46,10,0,0,0,0,0.0,"[8, 10, 12]",3.0,18,1,0,28,3,0,0,0,0,0,1,9.33,0,0,0,0,0,0,1,0,1,22,True,False,False,Legbreak googly,Right-hand bat

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Guernsey,IDA Damarell,580ae7f2,1,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,2,0,1,0,20,21,31,True,False,False,,Left-hand bat
+Guernsey,MWR Stokes,c573d173,2,15,17,1,0,88.24,"[2, 7, 15, 18]",4.0,24,7,0,46,1,5,1,0,0,0,0,11.5,0,0,0,1,0,19,28,6,53,29,True,True,False,Right-arm medium,Right-hand bat
+Guernsey,J Butler,efcb778e,3,17,28,0,0,60.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,-2,15,0,14,29,28,True,True,False,Right-arm medium,Right-hand bat
+Guernsey,OB Nightingale,1deb4c0c,4,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,29,True,False,True,Right-arm medium,Right-hand bat
+Guernsey,OE Newey,f4b6f6ac,5,14,13,1,0,107.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,38,True,True,False,Right-arm medium,Right-hand bat
+Guernsey,LB Ferbrache,0f72f582,6,15,19,0,0,78.95,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15,37,True,True,False,Right-arm offbreak,Right-hand bat
+Guernsey,DR Hooper,0ac067e8,7,14,19,0,0,73.68,"[5, 9, 17, 19]",4.0,24,9,0,26,2,0,0,0,0,0,3,6.5,0,0,0,2,0,14,11,12,37,33,True,True,False,Right-arm medium,Right-hand bat
+Guernsey,T Nightingale,51a125b3,8,10,10,0,0,100.0,"[12, 14]",2.0,12,5,0,11,1,0,0,0,0,0,0,5.5,1,0,0,0,0,10,9,8,27,26,True,True,False,Right-arm offbreak,Right-hand bat
+Guernsey,LT Bichard,dfcdb11e,9,0,0,0,0,0.0,"[4, 6, 11, 13]",4.0,24,14,0,14,1,0,2,0,1,0,1,3.5,0,0,0,0,0,0,78,0,78,22,True,True,False,Right-arm medium-fast,Right-hand bat
+Guernsey,DE Martel,526fe472,9,3,5,0,0,60.0,"[8, 10]",2.0,12,8,0,8,1,0,1,0,0,0,0,4.0,0,0,0,0,0,3,39,0,42,26,True,False,False,,
+Guernsey,W Peatfield,609d6c7c,10,0,0,0,0,0.0,"[1, 3, 16, 20]",4.0,24,10,0,31,3,1,0,0,0,0,1,7.75,0,0,0,0,0,0,10,0,10,34,True,True,False,Right-arm medium,Right-hand bat
+Norway,Raza Iqbal,eee46f77,1,6,10,0,0,60.0,"[8, 10, 12, 14]",4.0,24,10,0,18,0,0,2,1,1,0,0,4.5,0,0,0,0,-2,4,82,0,86,38,True,True,False,Slow left-arm orthodox,Left-hand bat
+Norway,Khizer Ahmed,723ca856,2,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,2,0,6,8,33,True,False,False,,Right-hand bat
+Norway,Walid Ghauri,331e137f,3,10,18,1,0,55.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,-4,10,0,14,24,31,True,True,False,Right-arm medium,Left-hand bat
+Norway,Bilal Safdar,1c4161b3,4,15,28,2,0,53.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,19,0,0,19,30,True,False,True,Right-arm offbreak,Right-hand bat
+Norway,Tafseer Ali,b9c3ffcd,5,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,35,True,False,True,Right-arm fast,Right-hand bat
+Norway,Ali Saleem,661e8a03,6,25,25,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,35,0,0,35,45,True,False,False,,Right-hand bat
+Norway,Sher Sahak,8299b9a2,7,70,29,6,5,241.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,138,0,0,138,24,True,False,True,Right-arm medium-fast,Right-hand bat
+Norway,Wahidullah Sahak,6913e38e,8,1,1,0,0,100.0,"[5, 7, 18, 20]",4.0,24,7,0,20,0,0,1,0,0,0,4,5.0,1,0,0,1,0,1,36,14,51,23,True,False,True,Right-arm medium-fast,Right-hand bat
+Norway,Abdullah Sheikh,336a85f6,9,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,10,0,20,1,0,1,0,0,0,1,5.0,1,0,0,0,0,0,39,8,47,26,True,False,True,Legbreak,Right-hand bat
+Norway,Vinay Ravi,9c181b99,10,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,7,0,23,1,0,0,0,0,1,1,5.75,0,0,0,1,0,0,11,6,17,35,True,False,False,Right-arm medium-fast,Right-hand bat
+Norway,Ahmadullah Shinwari,e068d48e,11,0,0,0,0,0.0,"[2, 4, 6, 16]",4.0,24,11,0,16,0,0,1,0,0,0,0,4.0,0,0,0,0,0,0,42,0,42,24,True,True,False,Left-arm medium-fast,Left-hand bat

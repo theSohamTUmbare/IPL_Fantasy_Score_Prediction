@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Derbyshire,LM Reece,9789e56e,1,58,47,5,2,123.4,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,98,0,0,98,34,True,False,True,Left-arm medium,Left-hand bat
+Derbyshire,HRC Came,0a7c6649,2,34,18,4,2,188.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,72,0,0,72,26,True,False,False,Right-arm offbreak,Right-hand bat
+Derbyshire,WL Madsen,86e0f3f0,3,20,16,0,1,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,26,0,8,34,41,True,False,False,Right-arm offbreak,Right-hand bat
+Derbyshire,JL du Plooy,6e6fb538,4,13,15,0,1,86.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,19,0,16,35,30,True,False,False,Slow left-arm orthodox,Left-hand bat
+Derbyshire,Haider Ali,c13e34f4,5,26,13,3,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,54,0,8,62,24,True,False,False,,Right-hand bat
+Derbyshire,BD Guest,8159d5fc,6,5,4,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17,27,True,False,False,,Right-hand bat
+Derbyshire,ZJ Chappell,fe5b4367,7,0,0,0,0,0.0,"[2, 5, 18, 20]",4.0,24,8,0,41,4,2,4,0,0,0,0,10.25,0,0,0,0,0,0,114,0,114,28,True,False,False,Right-arm fast-medium,Right-hand bat
+Derbyshire,MH McKiernan,9f701298,7,10,7,1,0,142.86,"[3, 8, 13, 17]",4.0,24,5,0,34,3,1,0,0,0,0,0,8.5,2,0,1,0,0,14,5,28,47,30,True,False,False,Legbreak googly,Right-hand bat
+Derbyshire,MRJ Watt,1252f71a,8,0,0,0,0,0.0,"[1, 7, 10, 14]",4.0,24,2,0,43,2,2,0,0,0,0,0,10.75,0,0,0,0,0,0,0,0,0,28,True,False,False,Slow left-arm orthodox,Left-hand bat
+Derbyshire,GLS Scrimshaw,95a06106,9,0,0,0,0,0.0,"[4, 9, 11, 15]",4.0,24,4,0,37,3,1,1,0,1,0,3,9.25,0,0,0,0,0,0,37,0,37,27,True,False,False,Right-arm medium-fast,Right-hand bat
+Derbyshire,Zaman Khan,28392e11,10,0,0,0,0,0.0,"[6, 12, 16, 19]",4.0,24,9,0,21,0,0,4,0,1,0,1,5.25,0,0,0,0,0,0,129,0,129,23,True,False,False,Right-arm fast,Right-hand bat
+Durham,AZ Lees,c9c0fe50,1,23,20,2,0,115.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,31,0,16,47,31,True,False,False,Legbreak,Left-hand bat
+Durham,MA Jones,05f96194,2,30,19,5,0,157.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,58,0,0,58,27,True,False,False,Right-arm offbreak,Right-hand bat
+Durham,BA Carse,cad40f5e,3,58,30,2,4,193.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,104,0,0,104,29,True,False,True,Right-arm fast,Right-hand bat
+Durham,OG Robinson,60f4c586,4,8,8,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,26,True,False,False,,Right-hand bat
+Durham,AJ Turner,ff1e12a0,5,5,7,0,0,71.43,"[9, 13, 15]",3.0,18,6,0,20,2,0,0,0,0,0,0,6.67,0,0,0,0,0,5,8,0,13,32,True,False,False,Right-arm offbreak,Right-hand bat
+Durham,BFW de Leede,fc4375ef,6,20,16,1,0,125.0,"[4, 19]",2.0,12,2,0,26,4,0,0,0,0,0,3,13.0,0,0,0,0,0,24,-4,0,20,25,True,False,True,Right-arm fast-medium,Right-hand bat
+Durham,L Doneathy,4bf5c12f,7,12,8,0,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,22,True,True,False,Right-arm medium,Right-hand bat
+Durham,P Coughlin,71440756,8,0,2,0,0,0.0,"[2, 5, 12, 17]",4.0,24,10,0,29,1,2,1,0,0,0,3,7.25,0,0,0,0,0,-2,35,0,33,32,True,False,True,Right-arm medium,Right-hand bat
+Durham,WD Parnell,3a60e0b5,9,3,4,0,0,75.0,"[3, 6, 18, 20]",4.0,24,10,0,36,5,1,3,0,0,0,1,9.0,0,0,0,0,0,3,89,0,92,35,True,False,False,Left-arm medium-fast,Left-hand bat
+Durham,L Trevaskis,b5781ac3,10,7,3,0,1,233.33,"[1, 7, 11]",3.0,18,3,0,33,1,2,0,0,0,0,3,11.0,2,0,0,0,0,13,1,16,30,25,True,False,False,Slow left-arm orthodox,Left-hand bat
+Durham,NA Sowter,ee0c05c0,11,6,3,1,0,200.0,"[8, 10, 14, 16]",4.0,24,7,0,32,1,2,1,0,0,0,0,8.0,1,0,0,0,0,10,32,8,50,32,True,False,False,Legbreak,Right-hand bat

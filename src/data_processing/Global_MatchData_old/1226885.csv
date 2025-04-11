@@ -1,0 +1,24 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Brisbane Heat,JL Denly,bdadf7da,1,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,39,True,False,False,Legbreak,Right-hand bat
+Brisbane Heat,CA Lynn,45eda7c8,2,10,8,1,1,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,34,True,False,False,Slow left-arm orthodox,Right-hand bat
+Brisbane Heat,M Labuschagne,fa433be6,3,32,30,3,0,106.67,"[9, 11, 13, 17]",4.0,24,10,0,32,1,2,1,0,0,0,0,8.0,0,0,0,0,0,48,35,0,83,30,True,False,False,Legbreak,Right-hand bat
+Brisbane Heat,SD Heazlett,e00a9155,4,74,48,6,3,154.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,128,0,8,136,29,True,False,False,Slow left-arm orthodox,Left-hand bat
+Brisbane Heat,JJ Peirson,2b55c3b4,5,43,24,2,3,179.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,6,79,0,12,91,32,True,False,False,,Right-hand bat
+Brisbane Heat,XC Bartlett,3b53243a,5,0,0,0,0,0.0,[1],1.0,6,5,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,5,0,5,26,True,False,False,Right-arm fast-medium,Right-hand bat
+Brisbane Heat,JA Burns,7a5f232a,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,35,True,False,False,Right-arm offbreak,Right-hand bat
+Brisbane Heat,L Gregory,06c2de82,7,0,0,0,0,0.0,[7],1.0,6,0,0,13,2,0,0,0,0,1,0,13.0,1,0,0,0,0,0,0,8,8,32,True,False,True,Right-arm medium-fast,Right-hand bat
+Brisbane Heat,MT Steketee,903560ed,8,0,0,0,0,0.0,"[2, 4, 19]",3.0,18,11,0,22,4,0,2,0,0,0,2,7.33,0,0,0,0,0,0,61,0,61,31,True,False,False,Right-arm fast-medium,Right-hand bat
+Brisbane Heat,MJ Swepson,86b4bf88,9,0,0,0,0,0.0,"[6, 8, 10, 16]",4.0,24,6,0,28,1,1,2,2,0,0,0,7.0,0,0,0,0,0,0,74,0,74,31,True,False,False,Legbreak,Right-hand bat
+Brisbane Heat,B Laughlin,b2a79f17,10,0,0,0,0,0.0,"[3, 5, 15]",3.0,18,8,0,24,4,0,1,0,0,0,0,8.0,0,0,0,0,0,0,33,0,33,42,True,False,False,Right-arm fast-medium,Right-hand bat
+Brisbane Heat,M Morkel,5bb5a915,11,0,0,0,0,0.0,"[12, 14, 18, 20]",4.0,24,10,0,37,1,3,1,0,0,0,2,9.25,0,0,0,0,0,0,35,0,35,40,True,False,False,Right-arm fast,Left-hand bat
+Sydney Thunder,UT Khawaja,331ea488,1,28,30,4,0,93.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,48,0,0,48,38,True,False,False,Right-arm medium,Left-hand bat
+Sydney Thunder,AD Hales,92aeac25,2,8,9,1,0,88.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20,36,True,False,False,Right-arm medium,Right-hand bat
+Sydney Thunder,CJ Ferguson,9b4935c8,3,25,19,2,1,131.58,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,45,0,0,45,40,True,False,False,Right-arm medium,Right-hand bat
+Sydney Thunder,SW Billings,c16d4035,4,34,24,3,1,141.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,58,0,0,58,33,True,False,False,,Right-hand bat
+Sydney Thunder,AI Ross,fb0d68b4,5,9,11,0,0,81.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,32,True,False,False,Right-arm offbreak,Right-hand bat
+Sydney Thunder,T Sangha,52c952d9,5,0,0,0,0,0.0,"[6, 8, 11, 13]",4.0,24,3,0,34,0,2,0,0,0,0,0,8.5,0,0,0,0,0,0,3,0,3,23,True,False,False,Legbreak,Right-hand bat
+Sydney Thunder,DR Sams,caf69bf7,6,1,2,0,0,50.0,"[2, 12, 16, 18]",4.0,24,11,0,32,5,0,1,0,1,0,0,8.0,0,0,0,0,0,1,44,0,45,32,True,False,True,Left-arm fast-medium,Right-hand bat
+Sydney Thunder,BCJ Cutting,2e11c706,7,34,18,1,4,188.89,[7],1.0,6,2,0,4,0,0,0,0,0,0,0,4.0,0,0,0,0,6,72,2,0,74,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Sydney Thunder,CJ Green,19b9f399,8,2,3,0,0,66.67,"[5, 9, 14]",3.0,18,8,0,21,1,1,0,0,0,0,0,7.0,0,0,0,0,0,2,10,0,12,31,True,False,True,Right-arm offbreak,Right-hand bat
+Sydney Thunder,AF Milne,350bb1b1,9,0,0,0,0,0.0,"[1, 4, 17, 19]",4.0,24,12,0,37,4,2,0,0,0,0,2,9.25,0,0,0,0,0,0,12,0,12,32,True,False,False,Right-arm fast,Right-hand bat
+Sydney Thunder,B Doggett,898e628d,10,10,4,2,0,250.0,"[3, 10, 15, 20]",3.167,19,6,0,34,2,2,1,0,0,1,0,10.74,0,0,0,0,0,18,29,0,47,30,True,False,False,Right-arm fast-medium,Right-hand bat

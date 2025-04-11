@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Tanzania,AR Patwa,b43f7a6a,1,18,32,3,0,56.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,26,0,0,26,38,True,False,False,Right-arm offbreak,Right-hand bat
+Tanzania,II Selemani,b2dadc51,2,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,24,True,True,False,Right-arm offbreak,Right-hand bat
+Tanzania,AJ Jabiri,90624d37,3,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,22,True,False,False,,Right-hand bat
+Tanzania,MO Kitunda,badef0dc,4,7,15,1,0,46.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,5,0,0,5,25,True,True,False,Right-arm bowler,Right-hand bat
+Tanzania,AP Rajeevan,63d6f031,5,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,27,True,False,False,,Right-hand bat
+Tanzania,K Nassoro,29ee9bf9,6,7,19,0,0,36.84,"[7, 9]",2.0,12,1,0,16,1,0,0,0,0,0,0,8.0,0,0,0,0,-6,1,1,0,2,36,True,True,False,Right-arm offbreak,Right-hand bat
+Tanzania,Akhil Anil,c06c25fd,7,5,9,0,0,55.56,"[6, 8, 11]",2.667,16,5,0,28,3,1,0,0,0,0,1,10.5,0,0,0,0,0,5,3,0,8,27,True,True,False,Right-arm offbreak,Left-hand bat
+Tanzania,S Thakor,0848ac5f,8,0,1,0,0,0.0,[5],1.0,6,3,0,6,1,0,1,0,0,0,0,6.0,0,0,0,0,0,-2,28,0,26,34,True,True,False,Legbreak,Right-hand bat
+Tanzania,AM Kimote,34e36b65,9,16,15,2,0,106.67,[10],1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,0,24,1,0,25,32,True,True,False,Right-arm medium,Right-hand bat
+Tanzania,SA Jumbe,91056862,10,24,14,1,2,171.43,"[2, 4]",2.0,12,2,0,23,2,1,0,0,0,0,0,11.5,0,0,0,0,6,46,-2,0,44,27,True,True,False,Right-arm medium-fast,Left-hand bat
+Tanzania,HA Chohan,847b4bdd,11,2,1,0,0,200.0,"[1, 3]",2.0,12,6,0,13,2,0,0,0,0,0,0,6.5,0,0,0,0,0,2,8,0,10,26,True,True,False,Right-arm medium,Right-hand bat
+Zimbabwe,I Kaia,5ad8c974,1,21,18,3,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,33,0,8,41,32,True,False,False,Legbreak,Right-hand bat
+Zimbabwe,T Marumani,3d5d51a5,2,39,27,2,2,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,65,0,0,65,23,True,False,False,Right-arm offbreak,Left-hand bat
+Zimbabwe,SC Williams,afe57f7a,3,36,19,6,0,189.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,6,70,0,6,76,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Zimbabwe,W Madhevere,a879b92c,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,24,True,False,True,Right-arm offbreak,Right-hand bat
+Zimbabwe,Sikandar Raza,26d041c4,4,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,16,0,10,0,0,3,0,1,0,0,2.5,2,0,0,0,0,0,109,16,125,38,True,False,True,Legbreak,Right-hand bat
+Zimbabwe,RP Burl,b08252b8,5,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,14,0,11,0,0,1,0,0,0,0,2.75,0,0,0,0,0,0,45,0,45,30,True,False,True,Legbreak,Left-hand bat
+Zimbabwe,C Madande,3560a786,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,0,0,14,14,24,True,False,False,,Right-hand bat
+Zimbabwe,WP Masakadza,4bc0a378,7,0,0,0,0,0.0,"[1, 3, 17]",3.0,18,10,0,22,3,1,0,0,0,0,1,7.33,0,0,0,0,0,0,10,0,10,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+Zimbabwe,R Ngarava,6e3f5a5c,8,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,14,1,17,2,0,3,0,1,0,1,4.25,0,0,0,0,0,0,119,0,119,27,True,False,False,Left-arm fast-medium,Left-hand bat
+Zimbabwe,B Muzarabani,449f4e3c,9,0,0,0,0,0.0,"[5, 7]",2.0,12,6,0,13,2,0,0,0,0,1,0,6.5,0,0,0,0,0,0,8,0,8,28,True,False,False,Right-arm fast-medium,Right-hand bat
+Zimbabwe,TL Chatara,5bbabe59,10,0,0,0,0,0.0,"[6, 8, 19]",3.0,18,12,1,14,0,1,1,0,0,0,2,4.67,0,0,0,0,0,0,55,0,55,34,True,False,False,Right-arm fast-medium,Right-hand bat

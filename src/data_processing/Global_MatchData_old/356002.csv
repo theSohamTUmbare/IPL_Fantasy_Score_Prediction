@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Sri Lanka,TM Dilshan,5bdcdb72,1,74,47,11,1,157.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,136,0,0,136,48,True,False,True,Right-arm offbreak,Right-hand bat
+Sri Lanka,ST Jayasuriya,f233bbb4,2,81,46,10,3,176.09,"[1, 3, 11]",3.0,18,5,0,34,3,1,0,0,0,0,5,11.33,0,0,0,0,6,157,1,0,158,55,True,False,True,Slow left-arm orthodox,Left-hand bat
+Sri Lanka,KC Sangakkara,6b71e6cf,3,5,6,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,47,True,True,False,Right-arm offbreak,Left-hand bat
+Sri Lanka,DPMD Jayawardene,d18f9182,4,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12,47,True,False,False,Right-arm medium,Right-hand bat
+Sri Lanka,J Mubarak,a9520ac2,5,8,5,1,0,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20,44,True,False,True,Right-arm offbreak,Left-hand bat
+Sri Lanka,LPC Silva,1be70c88,6,7,7,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19,45,True,False,False,Legbreak,Right-hand bat
+Sri Lanka,AD Mathews,896d78ad,7,3,2,0,0,150.0,[20],1.0,6,1,0,12,2,0,0,0,0,1,0,12.0,0,0,0,0,0,3,1,0,4,37,True,False,True,Right-arm medium,Right-hand bat
+Sri Lanka,I Udana,ac5ae4af,7,0,0,0,0,0.0,"[5, 10, 14, 19]",4.0,24,9,0,36,3,0,0,0,0,0,5,9.0,0,0,0,0,0,0,9,0,9,37,True,False,True,Left-arm medium-fast,Right-hand bat
+Sri Lanka,BAW Mendis,ea0cdc12,8,0,0,0,0,0.0,"[6, 8, 12, 17]",4.0,24,9,0,25,2,0,2,0,1,0,0,6.25,0,0,0,0,0,0,69,0,69,40,True,False,False,Right-arm offbreak,Right-hand bat
+Sri Lanka,SL Malinga,a12e1d51,9,0,0,0,0,0.0,"[2, 4, 16, 18]",4.0,24,6,0,45,3,2,2,0,1,0,6,11.25,0,0,0,0,0,0,60,0,60,41,True,False,False,Right-arm fast,Right-hand bat
+Sri Lanka,M Muralitharan,4ba44e19,10,0,0,0,0,0.0,"[7, 9, 13, 15]",4.0,24,10,0,21,2,0,1,0,0,0,1,5.25,0,0,0,0,0,0,39,0,39,52,True,False,False,Right-arm offbreak,Right-hand bat
+West Indies,LMP Simmons,89f64c19,1,29,19,5,0,152.63,"[13, 15, 18]",3.0,18,6,0,19,2,0,4,1,0,0,0,6.33,0,0,0,0,4,57,124,0,181,40,True,False,False,Right-arm medium-fast,Right-hand bat
+West Indies,ADS Fletcher,1bae756b,2,13,11,1,1,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,23,0,8,31,37,True,False,False,Legbreak,Right-hand bat
+West Indies,XM Marshall,ffb504b1,3,14,11,1,0,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,39,True,False,False,Right-arm offbreak,Right-hand bat
+West Indies,S Chanderpaul,881a9bdd,4,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,50,True,False,False,Legbreak,Left-hand bat
+West Indies,RR Sarwan,36d33dd0,5,28,26,0,0,107.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32,44,True,False,False,Legbreak,Right-hand bat
+West Indies,DJ Bravo,87e562a9,6,51,38,5,2,134.21,"[4, 8, 17, 19]",4.0,24,8,0,29,4,0,0,0,0,0,3,7.25,0,0,0,0,2,93,8,0,101,41,True,False,True,Right-arm medium,Right-hand bat
+West Indies,KA Pollard,a757b0d8,7,19,10,3,0,190.0,"[6, 12, 14]",3.0,18,4,0,45,7,1,0,0,0,0,1,15.0,0,0,0,0,6,37,-2,0,35,37,True,False,True,Right-arm medium,Right-hand bat
+West Indies,D Ramdin,d1523761,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,40,True,False,False,,Right-hand bat
+West Indies,JE Taylor,4180d897,8,0,0,0,0,0.0,"[1, 3, 16, 20]",4.0,24,6,0,32,2,1,1,0,0,1,0,8.0,0,0,0,0,0,0,31,0,31,40,True,False,False,Right-arm fast,Right-hand bat
+West Indies,SJ Benn,364ee2cf,9,0,0,0,0,0.0,"[5, 7, 9, 11]",4.0,24,10,0,25,3,0,0,0,0,0,0,6.25,1,0,0,0,0,0,12,8,20,43,True,False,False,Slow left-arm orthodox,Left-hand bat
+West Indies,FH Edwards,a7c226e1,10,0,0,0,0,0.0,"[2, 10]",2.0,12,2,0,37,5,2,0,0,0,0,0,18.5,0,0,0,0,0,0,-4,0,-4,43,True,False,False,Right-arm fast,Right-hand bat

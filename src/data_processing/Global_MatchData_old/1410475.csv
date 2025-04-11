@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Essex,AM Rossington,7bcde3fe,1,78,49,5,5,159.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,144,0,0,144,31,True,False,False,,Right-hand bat
+Essex,D Elgar,33085ffb,2,9,8,2,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,37,True,False,False,Slow left-arm orthodox,Left-hand bat
+Essex,MS Pepper,270e4c23,3,27,18,3,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,49,0,0,49,26,True,False,False,,Right-hand bat
+Essex,CWJ Allison,42ee1d76,4,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,2,0,16,18,20,True,True,False,Right-arm medium,Right-hand bat
+Essex,PI Walter,57590dbb,5,4,7,0,0,57.14,"[13, 17, 19]",3.0,18,5,0,26,2,1,2,0,0,2,0,8.67,0,0,0,0,0,4,55,0,59,30,True,False,True,Left-arm medium,Left-hand bat
+Essex,MJJ Critchley,c5cc48bc,6,7,5,1,0,140.0,"[7, 9, 11, 14]",4.0,24,7,0,22,1,0,2,0,1,0,0,5.5,0,0,0,0,0,11,69,0,80,28,True,False,True,Legbreak,Right-hand bat
+Essex,LM Benkenstein,c2e5539b,7,27,16,3,1,168.75,"[10, 15]",2.0,12,2,0,29,2,2,0,0,0,0,1,14.5,1,0,0,0,4,53,-4,8,57,20,True,False,True,Legbreak,Right-hand bat
+Essex,SR Harmer,23638956,8,4,5,0,0,80.0,"[2, 8, 12, 16]",4.0,24,4,0,44,1,4,3,1,1,0,0,11.0,0,0,0,0,0,4,97,0,101,36,True,False,False,Right-arm offbreak,Right-hand bat
+Essex,E Bosch,28d6c44d,9,8,5,1,0,160.0,"[3, 5]",2.0,12,5,0,19,3,0,0,0,0,0,1,9.5,1,0,0,0,0,12,5,8,25,26,True,False,False,Right-arm fast,Right-hand bat
+Essex,SJ Cook,679cd31e,10,0,0,0,0,0.0,"[1, 6, 18, 20]",4.0,24,8,0,34,4,1,1,0,0,0,2,8.5,1,0,0,0,0,0,33,8,41,27,True,False,False,Right-arm medium-fast,Right-hand bat
+Essex,S Snater,a790df98,10,5,2,1,0,250.0,[4],1.0,6,1,0,13,1,1,1,1,0,0,0,13.0,0,0,0,0,0,9,34,0,43,29,True,False,False,Right-arm fast-medium,Right-hand bat
+Surrey,WG Jacks,9caf69a1,1,86,46,6,5,186.96,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,158,0,8,166,26,True,False,True,Right-arm offbreak,Right-hand bat
+Surrey,DP Sibley,97e434a6,2,12,12,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,29,True,False,False,Legbreak,Right-hand bat
+Surrey,LJ Evans,1c513d54,3,13,10,2,0,130.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,23,0,0,23,37,True,False,False,Right-arm offbreak,Right-hand bat
+Surrey,RJ Burns,29e8a62e,4,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11,34,True,False,False,Right-arm medium,Left-hand bat
+Surrey,SM Curran,e94915e6,5,0,1,0,0,0.0,"[1, 7, 16, 18]",4.0,24,7,0,41,3,3,1,0,0,0,0,10.25,0,0,0,0,0,-2,30,0,28,26,True,False,True,Left-arm medium-fast,Left-hand bat
+Surrey,J Overton,59559bc2,6,14,10,1,1,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,2,26,0,28,54,30,True,False,True,Right-arm fast,Right-hand bat
+Surrey,J Clark,c672e80e,7,23,14,2,1,164.29,"[3, 5, 11, 13]",4.0,24,8,0,22,2,0,2,0,0,0,0,5.5,0,0,0,0,4,41,62,0,103,34,True,False,True,Right-arm medium-fast,Right-hand bat
+Surrey,CJ Jordan,ffe699c0,8,3,6,0,0,50.0,"[6, 15, 17, 19]",4.0,24,5,0,34,4,0,3,0,1,0,2,8.5,1,0,0,0,0,3,92,8,103,36,True,False,False,Right-arm fast-medium,Right-hand bat
+Surrey,CT Steel,5899dceb,9,14,8,1,1,175.0,"[8, 10, 12, 14]",4.0,24,9,0,29,1,2,2,0,1,0,0,7.25,0,0,0,0,0,24,67,0,91,29,True,False,False,Legbreak,Right-hand bat
+Surrey,TE Lawes,fe2ac1a8,10,12,7,0,1,171.43,"[9, 20]",2.0,12,2,0,26,3,1,0,0,0,0,0,13.0,0,0,0,0,0,18,-4,0,14,22,True,False,True,Right-arm medium-fast,Right-hand bat
+Surrey,DJ Worrall,208f22ea,11,1,2,0,0,50.0,"[2, 4]",2.0,12,5,0,21,3,1,0,0,0,0,0,10.5,0,0,0,0,0,1,3,0,4,33,True,False,False,Right-arm fast-medium,Right-hand bat

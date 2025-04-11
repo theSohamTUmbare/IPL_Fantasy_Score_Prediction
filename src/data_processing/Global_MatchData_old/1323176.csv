@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Guyana Amazon Warriors,PR Stirling,cf494ffe,1,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,34,True,False,True,Right-arm offbreak,Right-hand bat
+Guyana Amazon Warriors,Rahmanullah Gurbaz,0bacade8,2,22,16,3,1,137.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,42,0,8,50,23,True,True,False,Right-arm medium,Right-hand bat
+Guyana Amazon Warriors,SD Hope,1fc6ef83,3,31,13,3,2,238.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,65,0,0,65,31,True,False,False,,Right-hand bat
+Guyana Amazon Warriors,Shakib Al Hasan,7dc35884,4,5,6,0,0,83.33,"[2, 15, 17]",3.0,18,6,0,30,1,3,0,0,0,0,0,10.0,0,0,0,0,0,5,4,0,9,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Guyana Amazon Warriors,KMA Paul,75224f22,5,56,37,7,1,151.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,102,0,0,102,27,True,False,True,Right-arm fast-medium,Right-hand bat
+Guyana Amazon Warriors,SO Hetmyer,48a1d7b7,6,15,15,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21,28,True,False,False,,Left-hand bat
+Guyana Amazon Warriors,R Shepherd,c5aef772,7,2,3,0,0,66.67,"[1, 3, 5, 19]",4.0,24,9,0,43,4,3,2,0,0,0,0,10.75,1,0,0,0,0,2,57,8,67,30,True,False,True,Right-arm fast-medium,Right-hand bat
+Guyana Amazon Warriors,G Motie,97bdec3d,8,22,13,2,1,169.23,"[6, 11, 13]",3.0,18,6,0,28,2,1,0,0,0,0,2,9.33,0,0,0,0,4,40,6,0,46,30,True,False,False,Slow left-arm orthodox,Left-hand bat
+Guyana Amazon Warriors,OF Smith,23cca426,9,24,14,1,3,171.43,"[7, 9, 18, 20]",4.0,24,10,0,64,6,4,1,0,0,3,3,16.0,1,0,0,0,6,52,29,8,89,28,True,False,True,Right-arm fast-medium,Right-hand bat
+Guyana Amazon Warriors,JA Sinclair,43057192,9,0,0,0,0,0.0,"[8, 10]",2.0,12,2,0,27,1,2,0,0,0,0,2,13.5,0,0,0,0,0,0,-4,0,-4,24,True,False,False,Right-arm offbreak,Right-hand bat
+Guyana Amazon Warriors,Imran Tahir,acee4cc4,10,0,0,0,0,0.0,"[4, 12, 14, 16]",4.0,24,5,0,34,1,2,1,1,0,0,1,8.5,0,0,0,0,0,0,38,0,38,46,True,False,False,Legbreak googly,Right-hand bat
+Jamaica Tallawahs,BA King,7fca84b7,1,6,9,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,30,True,False,False,,Right-hand bat
+Jamaica Tallawahs,K Lewis,b0081e62,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,33,True,False,False,,Right-hand bat
+Jamaica Tallawahs,SSJ Brooks,977b841a,3,109,51,7,8,213.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,207,0,0,207,36,True,False,False,Legbreak,Right-hand bat
+Jamaica Tallawahs,R Powell,650d5e49,4,37,21,2,3,176.19,[20],1.0,6,4,0,12,0,2,1,0,0,0,0,12.0,0,0,0,0,6,73,29,0,102,31,True,False,False,Right-arm medium-fast,Right-hand bat
+Jamaica Tallawahs,RA Reifer,d7725664,5,22,22,1,1,100.0,[],0.167,1,1,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,32,1,8,41,33,True,False,True,Left-arm medium-fast,Left-hand bat
+Jamaica Tallawahs,Imad Wasim,9cb8d7a6,6,41,15,4,3,273.33,"[4, 9, 14, 18]",4.0,24,11,0,25,2,0,2,0,1,0,3,6.25,0,0,0,0,6,85,71,0,156,36,True,False,True,Slow left-arm orthodox,Left-hand bat
+Jamaica Tallawahs,FA Allen,b52ffbbd,9,0,0,0,0,0.0,"[5, 7, 15]",3.0,18,4,0,35,3,2,1,0,0,0,0,11.67,1,0,0,0,0,0,25,8,33,29,True,False,True,Slow left-arm orthodox,Right-hand bat
+Jamaica Tallawahs,Mohammad Nabi,62af8546,10,0,0,0,0,0.0,"[10, 12]",2.0,12,2,0,22,2,1,0,0,0,0,0,11.0,1,0,0,0,0,0,0,8,8,40,True,False,True,Right-arm offbreak,Right-hand bat
+Jamaica Tallawahs,CJ Green,19b9f399,11,0,0,0,0,0.0,"[2, 6, 8, 16]",4.0,24,8,0,40,4,2,2,0,2,0,1,10.0,0,0,0,0,0,0,72,0,72,31,True,False,True,Right-arm offbreak,Right-hand bat
+Jamaica Tallawahs,NA Gordon,59377a7f,12,0,0,0,0,0.0,"[11, 13, 17, 19]",4.0,24,9,0,39,2,2,1,0,1,0,5,9.75,0,0,0,0,0,0,42,0,42,33,True,False,False,Right-arm fast-medium,Right-hand bat
+Jamaica Tallawahs,Mohammad Amir,e174dadd,13,0,0,0,0,0.0,"[1, 3]",1.833,11,5,0,16,3,0,1,0,0,0,1,8.73,0,0,0,0,0,0,30,0,30,32,True,False,False,Left-arm fast-medium,Left-hand bat

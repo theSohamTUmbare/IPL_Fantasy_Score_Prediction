@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Nepal,K Bhurtel,e3386c8a,1,26,18,1,3,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,54,0,0,54,28,True,False,False,Legbreak googly,Right-hand bat
+Nepal,Aasif Sheikh,dcbea954,2,5,8,1,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,9,0,16,25,23,True,False,False,,Right-hand bat
+Nepal,Sompal Kami,1adb8ee8,3,12,9,1,1,133.33,"[2, 4, 6, 8]",4.0,24,13,0,16,1,0,2,0,2,0,1,4.0,1,0,0,0,0,22,85,8,115,29,True,False,True,Right-arm fast-medium,Right-hand bat
+Nepal,Kushal Malla,7e9f1cde,4,10,12,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,21,True,False,True,Slow left-arm orthodox,Left-hand bat
+Nepal,RK Paudel,1a3cc554,5,12,12,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20,22,True,False,True,Right-arm offbreak,Right-hand bat
+Nepal,S Jora,156378d8,6,12,16,0,1,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,23,True,False,False,,Right-hand bat
+Nepal,Gulsan Jha,9811e35e,7,3,5,0,0,60.0,"[5, 7, 9, 11]",4.0,24,11,0,35,3,2,1,0,0,0,2,8.75,0,0,0,0,0,3,36,0,39,19,True,False,True,Right-arm medium,Left-hand bat
+Nepal,B Yadav,ef07f354,8,39,24,0,5,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,77,0,0,77,21,True,False,True,Right-arm medium,Right-hand bat
+Nepal,S Lamichhane,b410bd3d,9,2,4,0,0,50.0,"[10, 12, 14, 16]",4.0,24,14,0,30,3,2,2,1,1,1,0,7.5,1,0,0,0,0,2,80,8,90,24,True,False,False,Legbreak googly,Right-hand bat
+Nepal,Karan KC,f53b3e1d,10,15,11,1,1,136.36,"[1, 3, 18, 20]",4.0,24,9,0,43,4,3,3,0,0,0,2,10.75,0,0,0,0,2,27,86,0,113,33,True,False,True,Right-arm fast,Right-hand bat
+Nepal,A Bohara,64fb6b15,11,1,1,0,0,100.0,"[13, 15, 17, 19]",4.0,24,6,0,18,0,0,1,0,0,0,0,4.5,0,0,0,0,0,1,37,0,38,27,True,False,False,Right-arm medium,Right-hand bat
+Oman,KH Prajapati,c4e73ff1,1,8,5,2,0,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24,29,True,False,False,Right-arm offbreak,Right-hand bat
+Oman,PS Athavale,c2f12310,2,24,18,2,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,2,40,0,12,52,27,True,True,False,Right-arm offbreak,Right-hand bat
+Oman,Aqib Ilyas,b3b39bed,3,2,6,0,0,33.33,"[7, 9, 11, 13]",4.0,24,11,0,22,0,1,2,0,1,0,0,5.5,0,0,0,0,0,2,73,0,75,32,True,False,False,Legbreak googly,Right-hand bat
+Oman,Zeeshan Maqsood,34464143,4,32,26,1,3,123.08,"[15, 17]",2.0,12,6,0,16,0,2,1,0,0,0,0,8.0,1,0,0,0,0,58,31,8,97,37,True,False,False,Slow left-arm orthodox,Left-hand bat
+Oman,Shoaib Khan,21afb939,5,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,32,True,False,False,Right-arm medium,Right-hand bat
+Oman,Ayan Khan,44d6a8b8,6,18,25,2,0,72.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,26,0,8,34,32,True,False,True,Slow left-arm orthodox,Left-hand bat
+Oman,Mehran Khan,d7bfcc0b,7,0,1,0,0,0.0,"[6, 8, 10, 12]",4.0,24,12,0,20,0,1,2,0,1,0,0,5.0,0,0,0,0,0,-2,74,0,72,37,True,False,False,Right-arm medium-fast,Right-hand bat
+Oman,Naseem Khushi,c63671e9,8,25,13,2,2,192.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,55,0,8,63,42,True,False,False,,Right-hand bat
+Oman,Shakeel Ahmed,e29e9c12,9,22,17,2,1,129.41,"[5, 14, 16]",3.0,18,11,0,15,1,1,2,0,0,0,0,5.0,0,0,0,0,0,36,65,0,101,37,True,False,False,Slow left-arm orthodox,Left-hand bat
+Oman,Kaleemullah,72253b87,10,5,6,0,0,83.33,"[2, 4, 19]",3.0,18,5,0,37,2,3,0,0,0,0,1,12.33,2,0,0,0,0,5,-1,16,20,34,True,False,False,Right-arm medium,Right-hand bat
+Oman,Bilal Khan,dcdb87f2,11,0,1,0,0,0.0,"[1, 3, 18, 20]",4.0,24,15,0,30,1,3,3,0,0,0,2,7.5,1,0,0,0,0,0,94,8,102,37,True,False,False,Left-arm medium-fast,Left-hand bat

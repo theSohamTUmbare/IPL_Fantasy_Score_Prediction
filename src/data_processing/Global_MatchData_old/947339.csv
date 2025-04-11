@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Hampshire,TP Alsop,961b8ff1,1,85,57,9,4,149.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,159,0,8,167,29,True,False,False,,Left-hand bat
+Hampshire,J Goodwin,fe9bab59,2,32,29,5,0,110.34,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,56,0,0,56,27,True,True,False,Right-arm medium,Right-hand bat
+Hampshire,Shahid Afridi,0dc00542,3,21,12,2,1,175.0,"[7, 9, 11, 13]",4.0,24,12,0,20,2,0,1,0,0,0,2,5.0,0,0,0,0,6,41,41,0,82,45,True,False,True,Legbreak googly,Right-hand bat
+Hampshire,LA Dawson,4a461c24,4,25,16,3,0,156.25,"[8, 10, 12, 15]",4.0,24,12,0,17,1,0,5,0,2,0,0,4.25,0,0,0,0,4,45,171,0,216,35,True,False,True,Slow left-arm orthodox,Right-hand bat
+Hampshire,R McLaren,c654af19,5,13,6,2,0,216.67,"[2, 4]",2.0,12,8,0,14,3,0,2,0,0,0,0,7.0,0,0,0,0,0,21,60,0,81,42,True,False,True,Right-arm medium-fast,Left-hand bat
+Hampshire,JHK Adams,7cc15633,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,44,True,False,False,Left-arm medium,Left-hand bat
+Hampshire,JJ Weatherley,a05d0552,12,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,28,True,False,False,Right-arm offbreak,Right-hand bat
+Hampshire,LD McManus,6feb46a4,13,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,0,20,20,30,True,False,False,,Right-hand bat
+Hampshire,BJ Taylor,3dd30077,14,0,0,0,0,0.0,"[1, 14, 16]",2.333,14,7,0,12,0,1,1,0,1,0,0,5.14,0,0,0,0,0,0,44,0,44,28,True,False,False,Right-arm offbreak,Right-hand bat
+Hampshire,BTJ Wheal,3f61a062,15,0,0,0,0,0.0,"[3, 6]",2.0,12,4,0,22,4,0,0,0,0,0,0,11.0,0,0,0,0,0,0,2,0,2,28,True,False,False,Right-arm fast-medium,Right-hand bat
+Hampshire,GT Griffiths,79c7041c,16,0,0,0,0,0.0,[5],1.0,6,3,0,12,3,0,1,0,1,0,0,12.0,2,0,0,0,0,0,36,16,52,31,True,False,False,Right-arm fast-medium,Right-hand bat
+Somerset,AJ Hose,104e88a4,1,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,32,True,False,False,Right-arm medium-fast,Right-hand bat
+Somerset,J Allenby,7d5e0b78,2,40,29,5,1,137.93,"[1, 17, 19]",3.0,18,4,0,28,4,0,0,0,0,0,0,9.33,0,0,0,0,2,72,4,0,76,42,True,False,True,Right-arm medium,Right-hand bat
+Somerset,PD Trego,93e06301,3,8,7,2,0,114.29,"[13, 15]",2.0,12,4,0,15,2,0,1,0,0,0,0,7.5,1,0,0,0,0,16,29,8,53,43,True,False,True,Right-arm medium,Right-hand bat
+Somerset,JC Hildreth,782c0568,4,8,5,2,0,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,40,True,False,False,Right-arm medium-fast,Right-hand bat
+Somerset,TB Abell,ba9258a7,5,7,10,1,0,70.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,9,0,0,9,31,True,False,True,Right-arm medium,Right-hand bat
+Somerset,RC Davies,f939ffa9,6,5,5,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,9,0,12,21,28,True,False,False,,Right-hand bat
+Somerset,JH Davey,d3868bd0,7,0,1,0,0,0.0,"[2, 18, 20]",3.0,18,6,0,30,4,1,1,0,0,0,0,10.0,0,0,0,0,0,-2,29,0,27,34,True,False,False,Right-arm medium-fast,Right-hand bat
+Somerset,BGF Green,34b37279,8,12,13,1,0,92.31,"[3, 5]",2.0,12,6,0,12,2,0,0,0,0,0,0,6.0,0,0,0,0,0,16,8,0,24,27,True,False,True,Right-arm fast-medium,Right-hand bat
+Somerset,DM Bess,ad46c747,9,1,2,0,0,50.0,"[8, 10, 12, 16]",4.0,24,7,0,31,1,2,1,0,0,0,0,7.75,0,0,0,0,0,1,32,0,33,27,True,False,True,Right-arm offbreak,Right-hand bat
+Somerset,MTC Waller,d74d1090,10,9,13,1,0,69.23,"[7, 9, 14]",3.0,18,6,0,22,2,1,0,0,0,0,0,7.33,1,0,0,0,-2,11,6,8,25,37,True,False,False,Legbreak,Right-hand bat
+Somerset,ORT Sale,eab61ead,11,1,3,0,0,33.33,"[4, 6, 11]",3.0,18,4,0,40,6,1,0,0,0,0,2,13.33,0,0,0,0,0,1,-2,0,-1,29,True,False,False,Right-arm medium-fast,Right-hand bat

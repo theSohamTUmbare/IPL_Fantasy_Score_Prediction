@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Rajasthan Royals,GC Smith,72861603,1,49,42,8,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,85,0,8,93,44,True,False,False,Right-arm offbreak,Left-hand bat
+Rajasthan Royals,M Rawat,de8d3876,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,2,0,-2,0,28,26,39,True,False,False,,Right-hand bat
+Rajasthan Royals,YK Pathan,3c6ffae8,3,21,12,5,0,175.0,[13],1.0,6,1,0,10,0,1,0,0,0,0,0,10.0,0,0,0,0,6,47,1,0,48,42,True,False,True,Right-arm offbreak,Right-hand bat
+Rajasthan Royals,SR Watson,4329fbb5,4,61,41,8,2,148.78,"[1, 3, 5, 20]",4.0,24,15,0,20,3,0,2,0,0,1,0,5.0,0,0,0,1,2,115,69,6,190,43,True,False,True,Right-arm fast-medium,Right-hand bat
+Rajasthan Royals,M Kaif,d84378a4,5,4,6,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,44,True,False,False,Right-arm offbreak,Right-hand bat
+Rajasthan Royals,RA Jadeja,fe93fd9d,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,36,True,False,True,Slow left-arm orthodox,Left-hand bat
+Rajasthan Royals,D Salunkhe,0264c10e,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,42,True,False,False,Legbreak,Right-hand bat
+Rajasthan Royals,SK Warne,bb18be76,7,0,0,0,0,0.0,"[12, 14, 16, 18]",4.0,24,14,1,23,1,2,1,0,0,0,0,5.75,0,0,0,0,0,0,55,0,55,52,True,False,False,Legbreak googly,Right-hand bat
+Rajasthan Royals,Sohail Tanvir,64d43928,8,0,0,0,0,0.0,"[2, 4, 11, 17]",4.0,24,13,0,31,3,2,0,0,0,0,1,7.75,0,0,0,1,0,0,13,6,19,40,True,False,False,Left-arm medium-fast,Left-hand bat
+Rajasthan Royals,SK Trivedi,3d7e087f,9,0,0,0,0,0.0,"[7, 9, 15, 19]",4.0,24,12,0,29,3,1,1,0,0,0,2,7.25,0,0,0,0,0,0,37,0,37,42,True,False,False,Right-arm medium,Right-hand bat
+Rajasthan Royals,MM Patel,f0f628c7,10,0,0,0,0,0.0,"[6, 8, 10]",3.0,18,9,0,20,2,1,2,0,0,0,0,6.67,1,0,0,0,0,0,61,8,69,41,True,False,False,Right-arm medium-fast,Right-hand bat
+Royal Challengers Bangalore,S Chanderpaul,881a9bdd,1,2,9,0,0,22.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,50,True,False,False,Legbreak,Left-hand bat
+Royal Challengers Bangalore,R Dravid,0184dc35,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,52,True,False,False,Right-arm offbreak,Right-hand bat
+Royal Challengers Bangalore,LRPL Taylor,b61a3e1a,3,44,20,6,3,220.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,96,0,0,96,41,True,False,False,Right-arm offbreak,Right-hand bat
+Royal Challengers Bangalore,JH Kallis,86dc8f2e,4,11,10,2,0,110.0,[9],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,0,19,2,0,21,49,True,False,True,Right-arm fast-medium,Right-hand bat
+Royal Challengers Bangalore,A Kumble,0c2730df,5,0,0,0,0,0.0,"[8, 10, 12, 15]",4.0,24,10,0,22,2,0,0,0,0,0,1,5.5,1,0,0,0,0,0,14,8,22,54,True,False,False,Legbreak googly,Right-hand bat
+Royal Challengers Bangalore,V Kohli,ba607b88,5,13,14,0,1,92.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,36,True,False,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,MV Boucher,f3cb53a1,6,4,10,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,-6,-2,0,16,14,48,True,True,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,P Kumar,e938e1bc,7,34,30,2,3,113.33,"[1, 3, 14]",3.0,18,5,0,42,8,1,1,0,0,0,0,14.0,0,0,0,0,0,64,24,0,88,38,True,False,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,SB Joshi,670709ec,8,3,8,0,0,37.5,"[11, 13, 16, 18]",3.167,19,9,0,27,4,1,1,0,0,0,0,8.53,0,0,0,0,0,3,34,0,37,54,True,False,True,Slow left-arm orthodox,Left-hand bat
+Royal Challengers Bangalore,Z Khan,91a4a398,9,17,17,2,0,100.0,"[2, 4, 6, 17]",4.0,24,14,0,24,5,0,1,0,0,0,0,6.0,0,0,0,0,0,25,41,0,66,46,True,False,False,Left-arm fast-medium,Right-hand bat
+Royal Challengers Bangalore,R Vinay Kumar,41eb4a4f,10,1,1,0,0,100.0,"[5, 7]",2.0,12,4,0,15,2,0,0,0,0,0,1,7.5,0,0,0,0,0,1,4,0,5,41,True,False,False,Right-arm medium,Right-hand bat

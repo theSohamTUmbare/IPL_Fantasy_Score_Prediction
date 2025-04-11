@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Fortune Barishal,Tamim Iqbal,3b041a12,1,33,20,3,2,165.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,65,0,8,73,36,True,False,False,,Left-hand bat
+Fortune Barishal,T Banton,25f7b7d6,2,26,24,3,0,108.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,42,0,0,42,26,True,False,False,,Right-hand bat
+Fortune Barishal,KR Mayers,73c18486,3,46,27,4,3,170.37,"[1, 3, 5, 19]",4.0,24,12,0,31,4,1,2,0,0,0,1,7.75,0,0,0,0,6,90,62,0,152,32,True,False,True,Right-arm medium,Left-hand bat
+Fortune Barishal,Mushfiqur Rahim,a94e08ea,4,5,3,1,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,0,0,0,9,0,28,37,37,True,False,False,,Right-hand bat
+Fortune Barishal,Soumya Sarkar,4d9f9686,5,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,32,True,False,True,Right-arm medium-fast,Left-hand bat
+Fortune Barishal,Mahmudullah,bf1d7d3e,6,9,9,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,39,True,False,True,Right-arm offbreak,Right-hand bat
+Fortune Barishal,Mehedi Hasan Miraz,c58b0108,7,3,8,0,0,37.5,"[6, 8, 10, 12]",4.0,24,11,1,24,0,2,3,0,0,0,0,6.0,0,0,0,0,0,3,104,0,107,27,True,False,True,Right-arm offbreak,Right-hand bat
+Fortune Barishal,Mohammad Saifuddin,b3a28446,8,10,9,2,0,111.11,"[13, 17, 20]",2.5,15,5,0,23,1,1,0,0,0,0,2,9.2,0,0,0,0,0,18,5,0,23,28,True,False,True,Right-arm medium-fast,Left-hand bat
+Fortune Barishal,KA Maharaj,0b60eb09,9,1,5,0,0,20.0,"[2, 7, 9, 11]",4.0,24,13,0,31,3,2,1,0,1,0,1,7.75,0,0,0,0,0,1,46,0,47,35,True,False,False,Slow left-arm orthodox,Right-hand bat
+Fortune Barishal,OC McCoy,529eb9e0,10,12,12,1,1,100.0,"[4, 14, 16, 18]",4.0,24,13,0,34,4,2,3,0,0,0,1,8.5,0,0,0,0,0,22,92,0,114,28,True,False,False,Left-arm fast-medium,Left-hand bat
+Fortune Barishal,Kamrul Islam Rabbi,f7e9a562,11,1,1,0,0,100.0,[15],1.0,6,0,0,11,1,0,0,0,0,0,0,11.0,1,0,0,0,0,1,0,8,9,33,True,False,False,Right-arm medium-fast,Right-hand bat
+Rangpur Riders,BA King,7fca84b7,1,45,22,3,4,204.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,91,0,0,91,30,True,False,False,,Right-hand bat
+Rangpur Riders,Mominul Haque,de0a3209,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+Rangpur Riders,Shakib Al Hasan,7dc35884,3,29,15,4,1,193.33,"[5, 7, 14, 16]",4.0,24,11,0,25,2,1,1,0,0,0,0,6.25,0,0,0,0,6,61,38,0,99,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Rangpur Riders,Mahedi Hasan,9dad0f2e,4,7,11,1,0,63.64,"[2, 4, 6, 10]",4.0,24,9,0,30,3,1,0,0,0,0,1,7.5,1,0,0,0,-2,9,9,8,26,30,True,False,True,Right-arm offbreak,Right-hand bat
+Rangpur Riders,Nurul Hasan,d365d463,5,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,2,0,16,18,31,True,False,False,,Right-hand bat
+Rangpur Riders,TJ Moores,85dcb721,6,17,17,1,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27,28,True,False,False,,Left-hand bat
+Rangpur Riders,JDS Neesham,9219eff0,7,28,17,2,2,164.71,"[8, 12]",2.0,12,2,0,27,2,2,1,0,0,0,1,13.5,0,0,0,0,4,56,21,0,77,34,True,False,True,Right-arm medium-fast,Left-hand bat
+Rangpur Riders,D Pretorius,11614d87,8,13,15,1,0,86.67,"[1, 9]",2.0,12,4,0,25,5,0,0,0,0,0,1,12.5,0,0,0,0,0,17,-2,0,15,36,True,False,True,Right-arm medium-fast,Right-hand bat
+Rangpur Riders,Shamim Hossain,711249d1,9,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12,24,True,False,True,Right-arm offbreak,Left-hand bat
+Rangpur Riders,Abu Hider,31803fac,10,0,5,0,0,0.0,"[13, 15, 17, 19]",4.0,24,16,0,12,1,0,5,0,1,0,0,3.0,1,0,0,0,0,-2,167,8,173,29,True,False,True,Left-arm fast-medium,Right-hand bat
+Rangpur Riders,Hasan Mahmud,80ad39ac,11,4,5,1,0,80.0,"[3, 11, 18, 20]",4.0,24,10,0,31,2,2,2,0,2,0,1,7.75,0,0,0,0,0,8,76,0,84,25,True,False,False,Right-arm fast-medium,Right-hand bat

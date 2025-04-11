@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Northamptonshire,R Vasconcelos,efe3fcc5,1,37,25,3,2,148.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,67,0,0,67,27,True,False,False,,Left-hand bat
+Northamptonshire,MP Breetzke,35f173a0,2,11,13,2,0,84.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,19,0,8,27,26,True,False,False,,Right-hand bat
+Northamptonshire,DJ Willey,7f048519,3,7,14,0,0,50.0,"[1, 3, 18, 20]",4.0,24,8,0,43,4,2,1,0,0,0,1,10.75,1,0,0,0,-4,3,31,8,42,35,True,False,True,Left-arm fast-medium,Left-hand bat
+Northamptonshire,RS Bopara,7ca5e05d,4,35,21,2,2,166.67,"[7, 9, 11, 13]",4.0,24,8,0,34,0,3,4,0,2,0,1,8.5,0,0,0,0,4,63,132,0,195,39,True,False,True,Right-arm medium,Right-hand bat
+Northamptonshire,SA Zaib,ab01e323,5,10,9,0,1,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24,26,True,False,True,Slow left-arm orthodox,Left-hand bat
+Northamptonshire,Sikandar Raza,26d041c4,6,0,2,0,0,0.0,"[8, 10, 12, 14]",4.0,24,10,0,26,3,0,0,0,0,0,0,6.5,0,0,0,0,0,-2,12,0,10,38,True,False,True,Legbreak,Right-hand bat
+Northamptonshire,LD McManus,6feb46a4,7,26,14,3,1,185.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,54,0,0,54,30,True,False,False,,Right-hand bat
+Northamptonshire,GA Bartlett,e2caec46,8,5,6,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,5,0,8,13,27,True,False,False,Right-arm offbreak,Right-hand bat
+Northamptonshire,BW Sanderson,e871a7a1,9,10,10,0,1,100.0,"[2, 4, 6]",3.0,18,4,0,32,5,0,0,0,0,2,0,10.67,0,0,0,0,0,16,2,0,18,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Northamptonshire,FJ Heldreich,56ef4f99,10,0,0,0,0,0.0,[16],1.0,6,1,0,12,2,0,0,0,0,0,0,12.0,0,0,0,0,0,0,1,0,1,23,True,False,False,Left-arm wrist-spin,Right-hand bat
+Northamptonshire,GLS Scrimshaw,95a06106,10,6,6,0,0,100.0,"[5, 15, 17, 19]",4.0,24,6,0,36,2,2,1,0,0,0,4,9.0,0,0,0,0,0,6,31,0,37,27,True,False,False,Right-arm medium-fast,Right-hand bat
+Yorkshire,JE Root,a343262c,1,35,24,5,0,145.83,[7],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,2,0,0,0,2,61,2,16,79,34,True,False,False,Right-arm offbreak,Right-hand bat
+Yorkshire,DJ Malan,ad9c32a2,2,41,37,3,1,110.81,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,63,0,0,63,37,True,False,False,Legbreak,Left-hand bat
+Yorkshire,JH Wharton,42a5c1c7,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,24,True,False,False,Right-arm offbreak,Right-hand bat
+Yorkshire,D Ferreira,f0af99a7,4,15,10,0,2,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27,26,True,False,True,Right-arm offbreak,Right-hand bat
+Yorkshire,Shan Masood,6843a783,5,36,17,3,2,211.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,70,0,8,78,35,True,False,False,Right-arm medium-fast,Left-hand bat
+Yorkshire,DM Bess,ad46c747,6,28,24,4,0,116.67,"[6, 8, 10]",3.0,18,7,0,20,1,1,2,0,0,0,1,6.67,0,0,0,0,0,48,59,0,107,27,True,False,True,Right-arm offbreak,Right-hand bat
+Yorkshire,JA Thompson,1d2f290a,7,20,7,1,2,285.71,"[11, 13, 17, 19]",4.0,24,9,0,18,0,1,3,0,0,0,0,4.5,2,0,0,0,0,36,94,16,146,28,True,False,True,Right-arm medium-fast,Left-hand bat
+Yorkshire,ML Revis,28217d89,10,0,0,0,0,0.0,"[5, 15, 18, 20]",4.0,24,8,0,42,4,2,2,0,1,0,0,10.5,1,0,0,0,0,0,64,8,72,23,True,False,False,Right-arm medium-fast,Right-hand bat
+Yorkshire,JA Chohan,58be5e46,11,0,0,0,0,0.0,"[12, 14]",2.0,12,2,0,21,1,1,0,0,0,0,2,10.5,0,0,0,0,0,0,0,0,0,22,True,False,False,Legbreak googly,Right-hand bat
+Yorkshire,DJ Leech,2413a688,12,0,0,0,0,0.0,"[2, 4]",2.0,12,6,0,17,2,0,0,0,0,2,2,8.5,0,0,0,0,0,0,6,0,6,24,True,False,False,Right-arm medium,Right-hand bat
+Yorkshire,D Moriarty,6ea2710f,13,0,0,0,0,0.0,"[1, 3, 9, 16]",4.0,24,9,0,30,1,2,1,0,0,0,1,7.5,0,0,0,0,0,0,34,0,34,26,True,False,False,Slow left-arm orthodox,Left-hand bat

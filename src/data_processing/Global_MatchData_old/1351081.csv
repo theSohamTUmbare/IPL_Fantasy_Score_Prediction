@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Khulna Tigers,Tamim Iqbal,3b041a12,1,12,10,2,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,36,True,False,False,,Left-hand bat
+Khulna Tigers,A Balbirnie,6ef13460,2,7,7,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,34,True,False,False,Right-arm offbreak,Right-hand bat
+Khulna Tigers,SD Hope,1fc6ef83,3,33,22,2,2,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,57,0,8,65,31,True,False,False,,Right-hand bat
+Khulna Tigers,Mahmudul Hasan Joy,4b51bd51,4,20,21,2,0,95.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28,24,True,False,False,,Right-hand bat
+Khulna Tigers,Azam Khan,ee8f1a6d,5,33,17,4,2,194.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,71,0,0,71,26,True,False,False,,Right-hand bat
+Khulna Tigers,Yasir Ali Chowdhury,5791b840,6,4,8,0,0,50.0,[15],1.0,6,1,0,15,1,1,0,0,0,1,0,15.0,1,0,0,0,0,4,1,8,13,28,True,False,False,Right-arm offbreak,Right-hand bat
+Khulna Tigers,M Deyal,7183799b,7,3,3,0,0,100.0,"[2, 5, 11, 19]",4.0,24,6,0,40,3,2,2,0,0,1,0,10.0,0,0,0,0,0,3,54,0,57,31,True,False,False,Right-arm offbreak,Left-hand bat
+Khulna Tigers,Mohammad Saifuddin,b3a28446,8,13,12,2,0,108.33,"[12, 14, 18, 20]",4.0,24,7,0,33,2,1,0,0,0,1,3,8.25,0,0,0,0,0,21,7,0,28,28,True,False,True,Right-arm medium-fast,Left-hand bat
+Khulna Tigers,Nahidul Islam,8c7b16c8,9,9,9,1,0,100.0,"[1, 3, 7, 17]",4.0,24,10,0,25,3,0,1,0,1,0,0,6.25,1,0,0,0,0,13,45,8,66,31,True,False,True,Right-arm offbreak,Right-hand bat
+Khulna Tigers,Nasum Ahmed,37654b75,10,13,9,2,0,144.44,"[4, 6, 8, 10]",4.0,24,4,0,39,3,2,0,0,0,0,0,9.75,0,0,0,0,0,21,4,0,25,30,True,False,True,Slow left-arm orthodox,Left-hand bat
+Khulna Tigers,Nahid Rana,5318ee68,11,2,2,0,0,100.0,"[9, 13, 16]",3.0,18,3,0,34,3,1,1,0,0,1,1,11.33,0,0,0,0,0,2,24,0,26,22,True,False,False,Right-arm fast,Right-hand bat
+Sylhet Strikers,Towhid Hridoy,9e52a414,1,74,48,9,0,154.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,122,0,0,122,24,True,False,False,Right-arm offbreak,Right-hand bat
+Sylhet Strikers,Nazmul Hossain Shanto,1274d7ab,2,6,12,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,2,0,0,2,26,True,False,False,Right-arm offbreak,Left-hand bat
+Sylhet Strikers,Zakir Hasan,e3e09091,3,53,36,2,4,147.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,95,0,8,103,27,True,False,False,,Left-hand bat
+Sylhet Strikers,RP Burl,b08252b8,4,21,10,1,2,210.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,43,0,8,51,30,True,False,True,Legbreak,Left-hand bat
+Sylhet Strikers,Mushfiqur Rahim,a94e08ea,5,7,7,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,37,True,False,False,,Right-hand bat
+Sylhet Strikers,NLTC Perera,0f12f9df,6,17,7,2,1,242.86,[20],1.833,11,2,0,22,3,1,0,0,0,0,0,12.0,0,0,0,0,0,31,2,0,33,35,True,False,True,Right-arm medium-fast,Left-hand bat
+Sylhet Strikers,Mashrafe Mortaza,e186f49c,11,0,0,0,0,0.0,"[1, 10, 12]",2.167,13,5,0,12,1,0,0,0,0,0,0,5.54,1,0,0,0,0,0,9,8,17,41,True,False,False,Right-arm fast-medium,Right-hand bat
+Sylhet Strikers,Imad Wasim,9cb8d7a6,12,0,0,0,0,0.0,"[2, 4, 8, 14]",4.0,24,10,0,24,1,1,1,0,1,0,0,6.0,0,0,0,0,0,0,45,0,45,36,True,False,True,Slow left-arm orthodox,Left-hand bat
+Sylhet Strikers,Mohammad Amir,e174dadd,13,0,0,0,0,0.0,"[6, 13, 17, 19]",4.0,24,8,0,28,4,0,2,0,1,0,1,7.0,0,0,0,0,0,0,68,0,68,32,True,False,False,Left-arm fast-medium,Left-hand bat
+Sylhet Strikers,Rubel Hossain,f56cd097,14,0,0,0,0,0.0,"[3, 5, 15, 18]",4.0,24,7,0,37,6,0,4,0,2,0,0,9.25,0,0,0,0,0,0,131,0,131,35,True,False,False,Right-arm fast,Right-hand bat
+Sylhet Strikers,Rejaur Rahman,267be846,15,0,0,0,0,0.0,"[7, 9, 11, 16]",4.0,24,9,0,29,1,2,2,0,0,0,2,7.25,2,0,0,0,0,0,59,16,75,25,True,False,False,Right-arm medium,Right-hand bat

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Leicestershire,HD Rutherford,0605de92,1,29,34,2,0,85.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,41,0,0,41,35,True,False,False,Slow left-arm orthodox,Left-hand bat
+Leicestershire,S Steel,de6c2c6e,2,8,9,1,0,88.89,"[2, 10]",2.0,12,2,0,26,5,0,0,0,0,0,0,13.0,0,0,0,0,0,12,-4,0,8,25,True,False,False,Right-arm offbreak,Right-hand bat
+Leicestershire,AM Lilley,88a004e9,3,32,20,4,1,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,62,0,0,62,33,True,False,True,Right-arm offbreak,Right-hand bat
+Leicestershire,CN Ackermann,e734d090,4,14,16,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,33,True,False,True,Right-arm offbreak,Right-hand bat
+Leicestershire,RK Patel,4531f249,5,37,25,5,0,148.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,63,0,0,63,26,True,False,False,Legbreak,Right-hand bat
+Leicestershire,BWM Mike,ed12fcd7,6,12,6,2,0,200.0,"[4, 13]",2.0,12,4,0,26,2,1,0,0,0,2,2,13.0,1,0,0,0,0,20,-2,8,26,26,True,False,True,Right-arm medium-fast,Right-hand bat
+Leicestershire,Rehan Ahmed,0ecb4de6,7,6,5,1,0,120.0,"[9, 12, 14, 18]",4.0,24,6,0,25,2,0,2,1,1,0,0,6.25,1,0,0,0,0,10,74,8,92,20,True,False,True,Legbreak googly,Right-hand bat
+Leicestershire,LJ Hill,35f9a295,8,10,5,0,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24,34,True,True,False,Right-arm medium,Right-hand bat
+Leicestershire,CF Parkinson,aa1210d8,11,0,0,0,0,0.0,"[1, 7, 11, 16]",4.0,24,11,0,23,3,0,2,1,0,0,0,5.75,1,0,0,0,0,0,73,8,81,28,True,False,False,Slow left-arm orthodox,Right-hand bat
+Leicestershire,Naveen-ul-Haq,c0c411cb,12,0,0,0,0,0.0,"[3, 6, 17, 19]",4.0,24,13,0,11,0,0,5,1,2,0,0,2.75,0,0,0,0,0,0,180,0,180,25,True,False,False,Right-arm medium-fast,Right-hand bat
+Leicestershire,WS Davis,078ffbf2,13,0,0,0,0,0.0,"[5, 8, 15]",3.0,18,8,0,23,1,2,1,0,0,0,0,7.67,0,0,0,0,0,0,33,0,33,29,True,False,False,Right-arm fast-medium,Right-hand bat
+Worcestershire,EJ Pollock,d6663a9a,1,19,13,2,1,146.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,35,0,8,43,29,True,False,False,Right-arm offbreak,Left-hand bat
+Worcestershire,BL D'Oliveira,9679838c,2,25,13,5,0,192.31,[13],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,6,55,1,0,56,33,True,False,True,Legbreak,Right-hand bat
+Worcestershire,MM Ali,bb351c23,3,17,14,2,1,121.43,"[1, 7, 9, 11]",4.0,24,6,0,19,0,0,1,0,1,0,0,4.75,1,0,0,0,0,31,45,8,84,37,True,False,True,Right-arm offbreak,Left-hand bat
+Worcestershire,C Munro,af2c687b,4,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,38,True,False,False,Right-arm medium-fast,Left-hand bat
+Worcestershire,JA Haynes,fe4ebca0,5,10,12,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,24,True,False,False,Right-arm offbreak,Right-hand bat
+Worcestershire,OB Cox,324a6ee1,6,25,24,2,0,104.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,37,0,0,37,33,True,False,False,,Right-hand bat
+Worcestershire,EG Barnard,a510bdd3,7,27,25,1,1,108.0,"[10, 12, 16]",3.0,18,5,0,17,1,0,2,1,0,0,1,5.67,0,0,0,0,0,41,67,0,108,29,True,False,True,Right-arm fast-medium,Right-hand bat
+Worcestershire,DJ Bravo,87e562a9,8,1,3,0,0,33.33,"[8, 14, 18, 20]",4.0,24,6,0,45,3,2,1,0,0,2,3,11.25,0,0,0,0,0,1,27,0,28,41,True,False,True,Right-arm medium,Right-hand bat
+Worcestershire,JO Baker,52c442e4,9,2,3,0,0,66.67,"[15, 17]",2.0,12,4,0,15,2,0,0,0,0,0,0,7.5,1,0,0,0,0,2,4,8,14,20,True,False,True,Slow left-arm orthodox,Right-hand bat
+Worcestershire,DY Pennington,219cc59e,10,2,4,0,0,50.0,"[2, 4, 6]",3.0,18,6,0,30,6,0,1,0,0,0,0,10.0,0,0,0,0,0,2,29,0,31,26,True,False,False,Right-arm medium-fast,Right-hand bat
+Worcestershire,PR Brown,1efd12d1,11,1,1,0,0,100.0,"[3, 5, 19]",3.0,18,5,0,24,3,0,1,0,0,0,4,8.0,1,0,0,0,0,1,30,8,39,26,True,False,False,Right-arm fast-medium,Right-hand bat

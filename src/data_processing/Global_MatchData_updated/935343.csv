@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Comilla Victorians,Imrul Kayes,5fbe14fc,1,67,48,7,2,139.58,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,117,0,0,117
+Comilla Victorians,Liton Das,0404d43c,2,28,36,1,0,77.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,36,0,12,48
+Comilla Victorians,Mashrafe Mortaza,e186f49c,3,1,5,0,0,20.0,"[7, 9, 11, 13]",4.0,24,16,0,13,0,1,1,0,0,0,0,3.25,0,0,0,0,0,1,47,0,48
+Comilla Victorians,AD Russell,bbd41817,4,3,4,0,0,75.0,"[10, 14]",2.0,12,3,0,15,2,0,1,0,1,0,0,7.5,0,0,0,0,0,3,36,0,39
+Comilla Victorians,Ashar Zaidi,9bab2b81,5,40,15,4,2,266.67,"[6, 8, 12, 16]",4.0,24,17,1,11,1,0,4,0,1,0,1,2.75,0,0,0,0,6,78,151,0,229
+Comilla Victorians,Ahmed Shehzad,f8fd6e3f,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Comilla Victorians,Alok Kapali,54279e23,7,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+Comilla Victorians,Shuvagata Hom,bb01f9e0,8,12,5,1,1,240.0,"[1, 3]",2.0,12,6,0,23,5,0,0,0,0,0,2,11.5,2,0,0,0,0,22,2,16,40
+Comilla Victorians,Abu Hider,31803fac,9,1,1,0,0,100.0,"[5, 15, 17]",3.0,18,8,0,19,2,0,4,0,3,0,0,6.33,1,0,0,0,0,1,142,8,151
+Comilla Victorians,Mahmudul Hasan,8c783a97,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Comilla Victorians,KMDN Kulasekara,469ea22b,11,0,0,0,0,0.0,"[2, 4]",2.0,12,6,0,10,1,0,0,0,0,0,0,5.0,0,0,0,0,0,0,10,0,10
+Rangpur Riders,LMP Simmons,89f64c19,1,25,20,5,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,49,0,0,49
+Rangpur Riders,Soumya Sarkar,4d9f9686,2,9,8,1,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+Rangpur Riders,Jahurul Islam,6752c57b,3,9,15,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,7,0,0,7
+Rangpur Riders,Mohammad Mithun,77191792,4,5,10,1,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,2,0,0,-4,5,0,24,29
+Rangpur Riders,Shakib Al Hasan,7dc35884,5,0,1,0,0,0.0,"[5, 7, 15, 19]",4.0,24,6,0,42,1,3,0,0,0,0,1,10.5,1,0,0,0,0,-2,4,8,10
+Rangpur Riders,Mohammad Nabi,62af8546,6,12,11,1,1,109.09,"[2, 4, 6, 20]",4.0,24,11,0,39,5,1,1,0,0,1,1,9.75,0,0,0,0,0,22,36,0,58
+Rangpur Riders,Al-Amin,ec72efc5,7,3,8,0,0,37.5,"[8, 10]",2.0,12,5,0,11,1,0,0,0,0,0,0,5.5,1,0,0,0,0,3,9,8,20
+Rangpur Riders,NLTC Perera,0f12f9df,8,11,13,1,0,84.62,"[12, 14, 16, 18]",4.0,24,10,0,26,3,0,5,1,0,0,3,6.5,1,0,0,0,0,15,157,8,180
+Rangpur Riders,DJG Sammy,c03c6200,9,6,4,1,0,150.0,[1],1.0,6,3,0,5,0,0,0,0,0,0,1,5.0,0,0,0,0,0,10,3,0,13
+Rangpur Riders,Arafat Sunny,1f7adc8a,10,7,10,1,0,70.0,"[3, 17]",2.0,12,5,0,19,2,1,0,0,0,0,0,9.5,0,0,0,0,-2,9,5,0,14
+Rangpur Riders,Saqlain Sajib,f3c150bb,11,1,2,0,0,50.0,"[9, 11, 13]",3.0,18,6,0,19,1,0,1,0,0,0,0,6.33,1,0,0,0,0,1,33,8,42

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Kenya,DM Gondaria,9048c17e,1,37,20,5,2,185.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,79,0,0,79,30,True,False,False,Right-arm medium-fast,Right-hand bat
+Kenya,AA Obanda,7081491e,2,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,37,True,False,False,Right-arm medium-fast,Right-hand bat
+Kenya,RR Patel,7fa6bd8e,3,14,14,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,22,0,8,30,35,True,True,False,Right-arm offbreak,Right-hand bat
+Kenya,CO Obuya,5680f1ad,4,67,44,5,4,152.27,[15],1.0,6,2,0,19,0,3,0,0,0,0,0,19.0,0,0,0,0,4,123,2,0,125,43,True,False,True,Legbreak,Right-hand bat
+Kenya,NM Odhiambo,c07a1f41,5,0,0,0,0,0.0,"[9, 11]",2.0,12,4,0,24,2,2,0,0,0,0,0,12.0,0,0,0,0,0,0,0,0,0,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Kenya,Gurdeep Singh,31865a5b,5,19,20,1,1,95.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,29,0,8,37,27,True,False,False,Legbreak,Left-hand bat
+Kenya,SO Ngoche,49118dc7,6,31,14,0,4,221.43,"[1, 3, 13]",3.0,18,10,0,13,1,0,1,0,1,0,2,4.33,0,0,0,0,6,65,49,0,114,35,True,False,False,Slow left-arm orthodox,Right-hand bat
+Kenya,LN Oluoch,eb4f9c61,6,0,0,0,0,0.0,"[2, 4, 16, 19]",3.833,23,6,0,52,7,2,1,0,0,0,3,13.57,0,0,0,0,0,0,25,0,25,33,True,False,False,Left-arm fast-medium,Right-hand bat
+Kenya,E Otieno,c57fa67e,7,0,0,0,0,0.0,"[6, 8, 14, 18]",4.0,24,10,0,33,2,2,1,0,0,2,0,8.25,0,0,0,0,0,0,35,0,35,37,True,False,False,Right-arm medium-fast,Right-hand bat
+Kenya,NN Odhiambo,753b5a2d,7,3,3,0,0,100.0,"[5, 7, 17]",3.0,18,7,0,36,1,4,0,0,0,0,0,12.0,0,0,0,0,0,3,3,0,6,41,True,False,False,Right-arm medium-fast,Right-hand bat
+Kenya,P Kerai,ab343e93,8,0,0,0,0,0.0,"[10, 12]",2.0,12,5,0,12,0,1,0,0,0,0,0,6.0,0,0,0,0,0,0,7,0,7,29,True,False,False,Legbreak,Left-hand bat
+Uganda,RG Mukasa,011f6b42,1,5,8,0,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,35,True,False,False,Right-arm offbreak,Right-hand bat
+Uganda,HB Kayondo,d26858c0,2,15,11,3,0,136.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,29,0,0,29,35,True,False,False,Right-arm offbreak,Right-hand bat
+Uganda,RB Patel,f88dc8de,3,40,38,5,0,105.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,64,0,0,64,36,True,False,False,Slow left-arm orthodox,Right-hand bat
+Uganda,DM Nakrani,46a7ac78,4,102,49,4,12,208.16,"[5, 7, 9, 14]",4.0,24,8,0,25,1,1,0,0,0,0,1,6.25,0,0,0,0,6,212,10,0,222,33,True,False,True,Left-arm medium,Left-hand bat
+Uganda,D Muhumuza,7636b587,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,35,True,True,False,Right-arm medium,Right-hand bat
+Uganda,Riazat Ali Shah,269cc4ff,5,20,7,1,2,285.71,"[6, 8, 18]",3.0,18,8,0,34,4,2,2,0,0,1,1,11.33,0,0,0,0,0,36,54,0,90,27,True,False,True,Right-arm medium,Right-hand bat
+Uganda,Mohammed Irfan,dc67d315,6,0,0,0,0,0.0,"[2, 10, 12, 15]",4.0,24,10,0,31,2,2,0,0,0,0,0,7.75,0,0,0,0,0,0,10,0,10,40,True,True,False,Legbreak googly,Right-hand bat
+Uganda,C Waiswa,18db3f22,7,0,0,0,0,0.0,"[4, 16, 20]",3.0,18,6,0,31,1,3,1,0,1,0,0,10.33,0,0,0,0,0,0,37,0,37,37,True,True,False,Left-arm medium,Left-hand bat
+Uganda,B Masaba,f33cfd25,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,33,True,False,False,Legbreak googly,Right-hand bat
+Uganda,Bilal Hassun,1a9e9efe,9,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,9,0,34,4,1,2,1,1,0,2,8.5,1,0,0,0,0,0,75,8,83,34,True,False,False,Right-arm medium-fast,Right-hand bat
+Uganda,F Nsubuga,87e33d07,10,0,0,0,0,0.0,"[11, 13]",2.0,12,3,0,22,1,2,0,0,0,0,0,11.0,1,0,0,0,0,0,1,8,9,44,True,False,True,Right-arm offbreak,Right-hand bat

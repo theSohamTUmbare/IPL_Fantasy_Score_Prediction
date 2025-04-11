@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Croatia,A Shukla,c594137f,1,0,2,0,0,0.0,"[9, 11, 13, 15]",4.0,24,6,0,40,4,1,1,0,0,0,1,10.0,0,0,0,0,0,-2,29,0,27,33,True,True,False,Right-arm medium,Right-hand bat
+Croatia,J Danikula,98e4af63,2,19,31,1,0,61.29,"[1, 3, 17, 19]",4.0,24,8,0,59,4,5,1,0,0,0,2,14.75,0,0,0,0,-2,21,27,0,48,33,True,True,False,Right-arm medium,Right-hand bat
+Croatia,Saghar Manzoor,9d103769,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,34,True,True,False,Right-arm medium,Right-hand bat
+Croatia,A Maheshwari,3ec513ea,4,2,17,0,0,11.76,"[12, 14, 16]",3.0,18,3,0,38,1,4,0,0,0,0,0,12.67,1,0,0,0,-6,-4,-3,8,1,40,True,True,False,Left-arm medium-fast,Right-hand bat
+Croatia,S Houghton,4895df9e,5,4,2,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16,29,True,False,False,,Right-hand bat
+Croatia,V Rathinasamy,305c9b8a,6,11,24,1,0,45.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,9,0,0,9,30,True,True,False,Right-arm medium,Right-hand bat
+Croatia,H Satheedevi,a17a9548,7,6,3,0,1,200.0,"[5, 7, 18]",3.0,18,6,0,26,3,0,2,0,0,0,2,8.67,1,0,0,0,0,12,56,8,76,31,True,True,False,Right-arm medium,Right-hand bat
+Croatia,A Chaubey,c577d7d4,8,6,3,0,1,200.0,"[2, 4, 6, 20]",4.0,24,11,0,33,4,1,0,0,0,0,3,8.25,0,0,0,0,0,12,11,0,23,23,True,True,False,Right-arm medium,Right-hand bat
+Croatia,V Pulibanti,ac02a458,9,9,16,1,0,56.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,9,0,0,9,33,True,True,False,Right-arm medium,Right-hand bat
+Croatia,K Kekez,fe11e1a3,10,6,5,1,0,120.0,"[8, 10]",2.0,12,2,0,29,2,2,0,0,0,1,0,14.5,1,0,0,0,0,10,-4,8,14,44,True,True,False,Right-arm medium,Right-hand bat
+Croatia,P Bosnjak,fed92736,11,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,38,True,True,False,Right-arm bowler,Right-hand bat
+Spain,Mohammad Ihsan,510e33d3,1,26,17,2,2,152.94,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,54,0,0,54,28,True,False,False,,Right-hand bat
+Spain,D Long Martinez,c44ddfb9,2,79,49,7,4,161.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,147,0,0,147,23,True,False,False,,Right-hand bat
+Spain,Yasir Ali,79209272,3,9,6,2,0,150.0,[18],0.667,4,3,0,5,1,0,2,0,1,1,0,7.5,1,0,0,0,0,17,61,8,86,33,True,True,False,Right-arm offbreak,Right-hand bat
+Spain,D Doyle-Calle,74be2916,4,33,22,1,2,150.0,[17],1.0,6,4,0,4,0,0,0,0,0,0,2,4.0,2,0,0,0,0,53,4,16,73,26,True,False,False,,Right-hand bat
+Spain,Hamza Dar,557550a4,5,50,15,5,4,333.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,108,0,0,108,29,True,True,False,Right-arm medium,Left-hand bat
+Spain,C Munoz-Mills,17bc032c,6,19,11,1,1,172.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,35,0,0,35,33,True,True,False,Right-arm offbreak,Right-hand bat
+Spain,A Davidson Soler,524943f1,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,2,0,0,0,0,0,32,32,21,True,False,False,,Right-hand bat
+Spain,LA Burns,5b616bf0,12,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,18,1,14,0,1,2,0,0,0,3,3.5,0,0,0,0,0,0,86,0,86,32,True,True,False,Legbreak googly,Right-hand bat
+Spain,Atif Mehmood,7fcc57bf,13,0,0,0,0,0.0,"[1, 3, 5, 7]",4.0,24,19,1,5,0,0,2,0,1,0,0,1.25,0,0,0,0,0,0,95,0,95,37,True,True,False,Left-arm medium-fast,Right-hand bat
+Spain,C Rumistrzewicz,3ed4e2ad,14,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,11,0,24,2,1,2,0,0,0,0,6.0,0,0,0,0,0,0,63,0,63,19,True,True,False,Slow left-arm orthodox,Right-hand bat
+Spain,Mohammad Atif,705b8c5c,15,0,0,0,0,0.0,"[2, 4, 6, 8]",4.0,24,15,0,17,2,0,2,0,1,0,0,4.25,1,0,0,0,0,0,79,8,87,25,True,True,False,Left-arm medium,Right-hand bat

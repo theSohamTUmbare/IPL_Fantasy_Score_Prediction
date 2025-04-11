@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Madhya Pradesh,RM Patidar,c740ea83,1,13,12,2,0,108.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21,31,True,False,False,Right-arm offbreak,Right-hand bat
+Madhya Pradesh,NV Ojha,890946a0,2,20,28,1,1,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30,41,True,False,False,,Right-hand bat
+Madhya Pradesh,Harpreet Singh,28c78fb3,3,13,15,0,0,86.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,33,True,False,False,Right-arm medium,Left-hand bat
+Madhya Pradesh,Parth Sahani,239f7526,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,32,True,False,True,Slow left-arm orthodox,Left-hand bat
+Madhya Pradesh,Anshul Tripathi,65ff7036,5,39,28,6,0,139.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,69,0,8,77,34,True,True,False,Legbreak googly,Right-hand bat
+Madhya Pradesh,Sohraab Dhaliwal,564714f5,6,45,25,3,3,180.0,[12],1.0,6,0,0,11,1,0,0,0,0,0,0,11.0,0,0,1,0,6,85,0,12,97,33,True,True,False,Slow left-arm orthodox,Right-hand bat
+Madhya Pradesh,Ankit Sharma,24d94623,7,3,5,0,0,60.0,"[8, 11, 13, 15]",4.0,24,5,0,26,1,1,0,0,0,0,0,6.5,1,0,0,0,0,3,7,8,18,33,True,False,False,Slow left-arm orthodox,Left-hand bat
+Madhya Pradesh,Puneet Datey,389ae08a,8,7,4,0,1,175.0,"[4, 6, 18, 20]",4.0,24,11,0,24,4,0,1,0,0,0,0,6.0,0,0,0,0,0,13,38,0,51,30,True,True,False,Right-arm medium,Right-hand bat
+Madhya Pradesh,IC Pandey,e0407c01,9,1,2,0,0,50.0,"[1, 3, 5]",3.0,18,11,0,10,1,0,1,0,0,0,1,3.33,1,0,0,0,0,1,42,8,51,35,True,False,False,Right-arm medium,Right-hand bat
+Madhya Pradesh,Mihir Hirwani,49bacd0f,10,0,0,0,0,0.0,"[7, 9, 14, 16]",4.0,24,7,0,39,1,2,1,0,0,0,1,9.75,0,0,0,0,0,0,32,0,32,30,True,True,False,Legbreak googly,Right-hand bat
+Madhya Pradesh,Avesh Khan,eef2536f,10,0,0,0,0,0.0,"[2, 10, 17, 19]",4.0,24,8,0,34,4,1,0,0,0,0,0,8.5,0,0,1,0,0,0,8,12,20,28,True,False,False,Right-arm fast-medium,Right-hand bat
+Vidarbha,FY Fazal,c15e2193,1,5,8,0,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,5,0,16,21,39,True,False,False,Right-arm medium,Left-hand bat
+Vidarbha,JM Sharma,800d2d97,2,15,21,2,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,23,0,8,31,31,True,False,False,,Right-hand bat
+Vidarbha,Ganesh Satish,0ed1a112,3,35,32,3,0,109.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,51,0,0,51,37,True,False,False,,Right-hand bat
+Vidarbha,RL Jangid,fe5f2e48,4,34,28,1,1,121.43,[13],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,2,0,0,0,0,48,1,16,65,37,True,False,True,Slow left-arm orthodox,Left-hand bat
+Vidarbha,AV Wankhade,5708d0b6,5,43,23,4,3,186.96,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,87,0,0,87,33,True,False,False,Right-arm medium,Right-hand bat
+Vidarbha,Akshay Karnewar,e1e7f950,6,10,8,2,0,125.0,"[9, 11, 17]",3.0,18,5,0,29,2,2,2,0,1,0,0,9.67,1,0,0,0,0,18,63,8,89,32,True,False,False,Slow left-arm orthodox,Left-hand bat
+Vidarbha,KV Sharma,119678fd,7,0,0,0,0,0.0,"[7, 12, 14]",3.0,18,4,0,23,3,0,0,0,0,0,0,7.67,1,0,0,0,0,0,4,8,12,37,True,False,False,Legbreak googly,Left-hand bat
+Vidarbha,Ravikumar Thakur,1ea4fbd5,10,0,0,0,0,0.0,"[5, 15, 18, 20]",4.0,24,9,0,29,3,1,4,0,0,0,0,7.25,0,0,0,0,0,0,117,0,117,40,True,True,False,Left-arm medium,Right-hand bat
+Vidarbha,SB Wagh,dddca1d6,11,0,0,0,0,0.0,"[1, 3, 19]",3.0,18,7,0,23,2,1,2,0,1,0,1,7.67,0,0,0,0,0,0,65,0,65,36,True,False,True,Left-arm medium-fast,Left-hand bat
+Vidarbha,RN Gurbani,bcaf7d33,12,0,0,0,0,0.0,"[2, 4, 6, 16]",4.0,24,14,0,19,1,1,0,0,0,0,2,4.75,0,0,0,0,0,0,20,0,20,32,True,False,False,Right-arm medium,Right-hand bat
+Vidarbha,Akshay Wakhare,ec9fc54b,13,0,0,0,0,0.0,"[8, 10]",2.0,12,1,0,13,0,0,1,0,0,0,0,6.5,0,0,0,0,0,0,28,0,28,39,True,False,False,Right-arm offbreak,Right-hand bat

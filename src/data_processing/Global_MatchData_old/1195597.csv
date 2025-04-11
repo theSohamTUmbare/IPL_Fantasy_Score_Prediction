@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Brisbane Heat,T Banton,25f7b7d6,1,56,19,2,7,294.74,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,120,0,0,120,26,True,False,False,,Right-hand bat
+Brisbane Heat,CA Lynn,45eda7c8,2,31,13,3,2,238.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,65,0,0,65,34,True,False,False,Slow left-arm orthodox,Right-hand bat
+Brisbane Heat,BCJ Cutting,2e11c706,3,7,6,1,0,116.67,[5],1.0,6,0,0,11,1,0,0,0,0,0,1,11.0,0,0,0,0,0,11,0,0,11,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Brisbane Heat,M Bryant,f32012f4,4,12,4,1,1,300.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,26,True,False,False,Right-arm medium,Right-hand bat
+Brisbane Heat,MT Renshaw,218d4d78,5,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,29,True,False,False,Right-arm offbreak,Left-hand bat
+Brisbane Heat,JJ Peirson,2b55c3b4,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,32,True,False,False,,Right-hand bat
+Brisbane Heat,JA Prestwidge,5f317fd4,6,9,4,2,0,225.0,[4],1.0,6,2,0,15,2,1,2,0,1,0,0,15.0,0,0,0,0,0,17,60,0,77,29,True,False,False,Right-arm medium-fast,Right-hand bat
+Brisbane Heat,MJ Swepson,86b4bf88,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,31,True,False,False,Legbreak,Right-hand bat
+Brisbane Heat,JK Lalor,88209c84,8,0,0,0,0,0.0,[1],1.0,6,3,0,11,0,1,0,0,0,0,0,11.0,0,0,0,0,0,0,3,0,3,37,True,False,False,Left-arm fast-medium,Right-hand bat
+Brisbane Heat,B Laughlin,b2a79f17,9,0,0,0,0,0.0,[3],1.0,6,1,0,16,3,0,1,0,0,0,1,16.0,1,0,0,0,0,0,26,8,34,42,True,False,False,Right-arm fast-medium,Right-hand bat
+Brisbane Heat,Zahir Khan,786b7fe8,10,0,0,0,0,0.0,[2],1.0,6,4,0,7,0,1,1,0,1,0,0,7.0,0,0,0,0,0,0,37,0,37,26,True,False,False,Left-arm wrist-spin,Left-hand bat
+Sydney Thunder,UT Khawaja,331ea488,1,11,8,0,1,137.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,38,True,False,False,Right-arm medium,Left-hand bat
+Sydney Thunder,AD Hales,92aeac25,2,20,9,2,1,222.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34,36,True,False,False,Right-arm medium,Right-hand bat
+Sydney Thunder,CJ Ferguson,9b4935c8,3,5,4,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,40,True,False,False,Right-arm medium,Right-hand bat
+Sydney Thunder,CH Morris,fb66ce1f,4,4,2,1,0,200.0,"[2, 8]",2.0,12,2,0,30,5,1,0,0,0,0,1,15.0,2,0,0,0,0,8,-4,16,20,37,True,False,True,Right-arm fast-medium,Right-hand bat
+Sydney Thunder,DR Sams,caf69bf7,5,10,3,1,1,333.33,"[1, 7]",2.0,12,3,0,24,3,1,2,0,0,0,0,12.0,0,0,0,0,0,20,49,0,69,32,True,False,True,Left-arm fast-medium,Right-hand bat
+Sydney Thunder,AI Ross,fb0d68b4,6,8,4,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20,32,True,False,False,Right-arm offbreak,Right-hand bat
+Sydney Thunder,M Gilkes,d85b0f8b,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,25,True,False,False,,Left-hand bat
+Sydney Thunder,CJ Green,19b9f399,7,0,0,0,0,0.0,[3],1.0,6,1,0,11,0,1,0,0,0,0,1,11.0,0,0,0,0,0,0,1,0,1,31,True,False,True,Right-arm offbreak,Right-hand bat
+Sydney Thunder,AJ Nair,4ba2c04d,8,0,0,0,0,0.0,[4],1.0,6,1,0,30,0,5,0,0,0,0,0,30.0,1,0,0,0,0,0,1,8,9,26,True,False,False,Right-arm offbreak,Right-hand bat
+Sydney Thunder,CP Tremain,96824e68,9,0,0,0,0,0.0,[5],1.0,6,2,0,9,0,1,1,0,0,0,0,9.0,0,0,0,0,0,0,27,0,27,33,True,False,False,Right-arm medium-fast,Right-hand bat
+Sydney Thunder,B Doggett,898e628d,10,0,0,0,0,0.0,[6],1.0,6,2,0,13,1,1,1,0,0,0,0,13.0,0,0,0,0,0,0,27,0,27,30,True,False,False,Right-arm fast-medium,Right-hand bat

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Arunachal Pradesh,A Awasthi,fa62a463,1,4,2,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,18,True,False,False,,Right-hand bat
+Arunachal Pradesh,Techi Neri,d3885f28,2,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,30,True,True,False,Right-arm offbreak,Right-hand bat
+Arunachal Pradesh,Yab Niya,8d6505d3,2,0,0,0,0,0.0,"[2, 4]",1.5,9,1,0,32,3,3,0,0,0,0,0,21.33,0,0,0,0,0,0,1,0,1,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Arunachal Pradesh,Aryan Sahani,ed9a84e9,3,0,7,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,17,True,True,False,Right-arm medium-fast,Right-hand bat
+Arunachal Pradesh,Y Sera,4fcaa008,3,0,0,0,0,0.0,"[1, 3]",2.0,12,2,0,38,3,3,0,0,0,1,0,19.0,0,0,0,0,0,0,-4,0,-4,23,True,False,False,,Left-hand bat
+Arunachal Pradesh,AV Jaiswal,297b2240,4,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,29,True,True,False,Right-arm offbreak,Right-hand bat
+Arunachal Pradesh,D Yadav,9f622b6c,5,6,12,1,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,6,0,0,6,22,True,True,False,Slow left-arm orthodox,Right-hand bat
+Arunachal Pradesh,Neelam Obi,047fc26e,6,1,14,0,0,7.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-5,0,0,-5,32,True,True,False,Legbreak googly,Right-hand bat
+Arunachal Pradesh,Techi Doria,dde809f3,7,27,40,1,1,67.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,39,0,0,39,31,True,True,False,Right-arm medium,Right-hand bat
+Arunachal Pradesh,L Jhon,c16f70b4,8,22,33,2,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,28,0,0,28,27,True,False,False,,Right-hand bat
+Arunachal Pradesh,N Joshi,cfece11f,9,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,27,True,False,False,,Right-hand bat
+Saurashtra,Tarang Gohel,3b16788a,1,51,16,5,4,318.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,6,109,0,12,121,25,True,True,False,Right-arm medium,Right-hand bat
+Saurashtra,H Desai,9c86350f,2,18,5,1,2,360.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,34,0,8,42,25,True,False,False,,Right-hand bat
+Saurashtra,Dharmendrasinh Jadeja,d330f9b9,2,0,0,0,0,0.0,"[7, 9, 11, 14]",4.0,24,19,0,11,2,0,2,0,1,0,0,2.75,0,0,0,0,0,0,83,0,83,34,True,False,False,Slow left-arm orthodox,Left-hand bat
+Saurashtra,Chirag Jani,783e6111,3,0,0,0,0,0.0,"[6, 13, 17, 20]",4.0,24,13,0,18,0,1,0,0,0,0,2,4.5,0,0,0,0,0,0,19,0,19,35,True,False,True,Right-arm medium,Right-hand bat
+Saurashtra,JD Unadkat,1e66c162,4,0,0,0,0,0.0,"[1, 3, 5, 12]",4.0,24,20,1,6,1,0,4,0,1,0,0,1.5,0,0,0,0,0,0,154,0,154,33,True,False,False,Left-arm medium,Right-hand bat
+Saurashtra,Jay Gohil,efd1a0ef,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,24,True,True,False,Right-arm offbreak,Right-hand bat
+Saurashtra,P Karia,7878257d,6,0,0,0,0,0.0,"[8, 10, 16, 18]",4.0,24,16,1,14,1,0,0,0,0,0,0,3.5,1,0,0,0,0,0,34,8,42,26,True,True,False,Right-arm offbreak,Right-hand bat
+Saurashtra,Samarth Vyas,34819e70,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,29,True,False,True,Legbreak googly,Right-hand bat
+Saurashtra,SP Jackson,acc1aeda,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,38,True,True,False,Right-arm offbreak,Right-hand bat
+Saurashtra,Aditya Jadeja,c0c4b2e9,9,0,0,0,0,0.0,"[2, 4, 15, 19]",4.0,24,15,0,15,1,0,1,0,1,0,1,3.75,0,0,0,0,0,0,54,0,54,23,True,True,False,Left-arm medium,Left-hand bat
+Saurashtra,Vishvaraj Jadeja,d30c6f81,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,26,True,True,False,Right-arm medium,Right-hand bat

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Kolkata Knight Riders,Shubman Gill,b4b99816,1,57,51,10,0,111.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,105,0,8,113,25,True,False,False,Right-arm offbreak,Right-hand bat
+Kolkata Knight Riders,VR Iyer,a24be938,2,8,14,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,-4,4,0,16,20,30,True,False,True,Right-arm medium,Left-hand bat
+Kolkata Knight Riders,RA Tripathi,77255a9e,3,7,6,1,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19,34,True,False,False,Right-arm medium,Right-hand bat
+Kolkata Knight Riders,N Rana,fb2d1dda,4,25,33,3,0,75.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,41,0,0,41,31,True,False,False,Legbreak,Left-hand bat
+Kolkata Knight Riders,KD Karthik,c03f1114,5,18,12,3,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,30,0,12,42,39,True,True,False,Right-arm offbreak,Right-hand bat
+Kolkata Knight Riders,Shakib Al Hasan,7dc35884,6,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,10,0,20,0,1,1,0,0,0,0,5.0,0,0,1,0,0,0,39,12,51,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Kolkata Knight Riders,EJG Morgan,d2a6c0e6,6,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,38,True,False,False,Right-arm medium,Left-hand bat
+Kolkata Knight Riders,SP Narine,9d430b40,7,0,0,0,0,0.0,"[8, 10, 14, 16]",4.0,24,12,0,12,0,0,0,0,0,0,0,3.0,0,0,0,0,0,0,18,0,18,36,True,False,True,Right-arm offbreak,Left-hand bat
+Kolkata Knight Riders,TG Southee,13c35c9e,8,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,9,0,26,3,0,2,1,0,0,0,6.5,1,0,0,0,0,0,69,8,77,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Kolkata Knight Riders,CV Varun,5b7ab5a9,9,0,0,0,0,0.0,"[5, 12, 15, 17]",4.0,24,12,0,26,0,3,2,0,0,0,0,6.5,0,0,0,0,0,0,64,0,64,33,True,False,False,Legbreak googly,Right-hand bat
+Kolkata Knight Riders,Shivam Mavi,c38d3503,10,0,0,0,0,0.0,"[2, 4, 6, 19]",4.0,24,12,0,29,5,0,2,0,0,1,0,7.25,0,0,0,0,0,0,62,0,62,26,True,False,False,Right-arm fast-medium,Right-hand bat
+Sunrisers Hyderabad,JJ Roy,d1c36f5c,1,10,12,2,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,34,True,False,False,,Right-hand bat
+Sunrisers Hyderabad,WP Saha,fe11caa6,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,40,True,False,False,,Right-hand bat
+Sunrisers Hyderabad,KS Williamson,d027ba9f,3,26,21,4,0,123.81,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,46,0,8,54,34,True,False,False,Right-arm offbreak,Right-hand bat
+Sunrisers Hyderabad,PK Garg,bb965e9a,4,21,31,0,1,67.74,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,25,0,0,25,24,True,False,False,Right-arm medium,Right-hand bat
+Sunrisers Hyderabad,Abhishek Sharma,f29185a1,5,6,10,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,4,0,8,12,24,True,False,True,Slow left-arm orthodox,Left-hand bat
+Sunrisers Hyderabad,Abdul Samad,8e514b4c,6,25,18,0,3,138.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,49,0,0,49,23,True,False,False,Legbreak,Right-hand bat
+Sunrisers Hyderabad,Umran Malik,81c08fa3,6,0,0,0,0,0.0,"[4, 9, 13, 15]",4.0,24,13,0,27,4,0,0,0,0,0,2,6.75,0,0,0,0,0,0,15,0,15,25,True,False,False,Right-arm fast,Right-hand bat
+Sunrisers Hyderabad,JO Holder,0f721006,7,2,9,0,0,22.22,"[2, 5, 12, 18]",4.0,24,8,0,32,5,0,2,0,0,0,0,8.0,1,0,0,0,0,2,58,8,68,33,True,False,True,Right-arm medium-fast,Right-hand bat
+Sunrisers Hyderabad,Rashid Khan,5f547c8b,8,8,6,1,0,133.33,"[7, 11, 14, 16]",4.0,24,13,0,23,3,0,1,0,0,0,0,5.75,0,0,0,0,0,12,42,0,54,26,True,False,True,Legbreak googly,Right-hand bat
+Sunrisers Hyderabad,B Kumar,2e81a32d,9,7,7,0,0,100.0,"[1, 3, 6, 19]",4.0,24,14,0,20,3,0,0,0,0,0,0,5.0,0,0,0,0,0,7,18,0,25,35,True,False,False,Right-arm medium,Right-hand bat
+Sunrisers Hyderabad,S Kaul,dcf81436,10,7,5,1,0,140.0,"[8, 10, 17, 20]",3.667,22,11,0,17,2,0,1,0,0,0,0,4.64,0,0,0,0,0,11,42,0,53,34,True,False,False,Right-arm medium,Right-hand bat

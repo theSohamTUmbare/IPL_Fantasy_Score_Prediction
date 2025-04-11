@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Knights,CP Klijnhans,d50fba28,1,67,54,7,1,124.07,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,109,0,8,117,25,True,True,False,Left-arm medium,Left-hand bat
+Knights,GJ Snyman,a3ae63f4,2,90,51,10,3,176.47,"[9, 11, 13]",3.0,18,6,0,23,2,1,2,0,0,0,0,7.67,1,0,0,0,6,166,56,8,230,30,True,False,True,Right-arm offbreak,Right-hand bat
+Knights,R van Tonder,0ba03cec,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,False,False,,Right-hand bat
+Knights,PJ van Biljon,4025c262,3,12,7,2,0,171.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,38,True,True,False,Right-arm medium,Right-hand bat
+Knights,F Behardien,dce2019b,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,41,True,False,True,Right-arm fast-medium,Right-hand bat
+Knights,M Mosehle,8836fcac,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,34,True,False,False,,Right-hand bat
+Knights,PE Kruger,39181592,6,0,0,0,0,0.0,[7],1.0,6,0,0,13,2,0,0,0,0,0,1,13.0,1,0,0,0,0,0,0,8,8,30,True,False,True,Right-arm medium,Right-hand bat
+Knights,G Coetzee,3204c99f,7,0,0,0,0,0.0,"[1, 4, 15, 20]",4.0,24,11,0,35,2,2,2,0,0,0,1,8.75,0,0,0,0,0,0,61,0,61,24,True,False,False,Right-arm fast,Right-hand bat
+Knights,M Budaza,1d105638,8,0,0,0,0,0.0,"[3, 6, 12, 17]",4.0,24,8,0,30,4,0,0,0,0,0,1,7.5,1,0,0,0,0,0,8,8,16,31,True,False,False,Left-arm fast,Right-hand bat
+Knights,N van Heerden,ad19dda3,9,0,0,0,0,0.0,"[2, 10, 14, 18]",4.0,24,6,0,37,1,1,0,0,0,0,4,9.25,0,0,0,0,0,0,6,0,6,28,True,False,False,Right-arm fast,Left-hand bat
+Knights,SA Mothoa,ea1eba98,10,0,0,0,0,0.0,"[5, 8, 16, 19]",4.0,24,8,0,31,1,2,1,0,0,0,2,7.75,0,0,0,0,0,0,33,0,33,35,True,False,False,Right-arm fast-medium,Right-hand bat
+Warriors,WJ Lubbe,10f42013,1,24,21,3,0,114.29,[8],1.0,6,0,0,6,0,0,0,0,0,0,0,6.0,0,0,0,0,0,36,0,0,36,32,True,False,False,Right-arm offbreak,Left-hand bat
+Warriors,MP Breetzke,35f173a0,2,15,18,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,26,True,False,False,,Right-hand bat
+Warriors,K Jacobs,f3288c80,3,0,0,0,0,0.0,"[7, 12, 14]",3.0,18,2,0,35,4,1,0,0,0,0,0,11.67,0,0,0,0,0,0,-2,0,-2,26,True,True,False,Legbreak,Right-hand bat
+Warriors,JT Smuts,42172c3c,3,16,13,3,0,123.08,"[1, 9, 11]",3.0,18,9,0,14,1,0,0,0,0,0,0,4.67,0,0,0,0,0,28,15,0,43,36,True,False,True,Slow left-arm orthodox,Right-hand bat
+Warriors,T Stubbs,85b3fab2,4,65,35,3,5,185.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,121,0,0,121,24,True,False,False,Right-arm offbreak,Right-hand bat
+Warriors,S Tait,02635912,4,0,0,0,0,0.0,"[2, 5, 16, 19]",3.667,22,6,0,46,7,1,0,0,0,0,2,12.54,0,0,0,0,0,0,0,0,0,29,True,True,False,Left-arm fast,Left-hand bat
+Warriors,M Nabe,6ed11905,5,0,0,0,0,0.0,"[3, 6, 15, 18]",4.0,24,6,0,38,4,1,1,0,1,1,1,9.5,0,0,0,0,0,0,39,0,39,29,True,False,False,Right-arm medium,Right-hand bat
+Warriors,LC Ngoepe,51355a30,5,27,21,2,1,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,45,0,0,45,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Warriors,A Mnyaka,bd36db2c,6,0,0,0,0,0.0,"[4, 10, 13, 17]",4.0,24,7,0,34,3,1,0,0,0,0,0,8.5,0,0,0,0,0,0,7,0,7,25,True,False,False,Left-arm fast,Right-hand bat
+Warriors,DS Rosier,f8e6dbdd,6,13,12,0,0,108.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,30,True,False,False,Legbreak,Right-hand bat
+Warriors,S Qeshile,94268960,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,False,False,,Right-hand bat

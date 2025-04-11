@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Mumbai Indians,PA Patel,b5da6c24,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,-2,0,12,10,40,True,True,False,Right-arm offbreak,Left-hand bat
+Mumbai Indians,JC Buttler,99b75528,2,33,21,4,1,157.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,63,0,0,63,34,True,False,False,,Right-hand bat
+Mumbai Indians,N Rana,fb2d1dda,3,27,28,4,0,96.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,47,0,0,47,31,True,False,False,Legbreak,Left-hand bat
+Mumbai Indians,RG Sharma,740742ef,4,56,37,6,1,151.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,98,0,8,106,37,True,False,False,Right-arm offbreak,Right-hand bat
+Mumbai Indians,KA Pollard,a757b0d8,5,17,13,2,0,130.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,27,0,16,43,37,True,False,True,Right-arm medium,Right-hand bat
+Mumbai Indians,KH Pandya,5b8c830e,6,2,2,0,0,100.0,"[7, 9, 11, 13]",4.0,24,7,0,34,2,2,2,0,0,0,1,8.5,0,0,0,0,0,2,57,0,59,34,True,False,True,Slow left-arm orthodox,Left-hand bat
+Mumbai Indians,KV Sharma,119678fd,7,9,8,1,0,112.5,"[4, 10, 12]",3.0,18,5,0,23,1,1,1,0,0,0,1,7.67,0,0,0,0,0,13,30,0,43,37,True,False,False,Legbreak googly,Left-hand bat
+Mumbai Indians,MJ McClenaghan,51a3c5ef,8,0,0,0,0,0.0,"[1, 6, 16, 20]",4.0,24,9,0,34,4,1,3,0,0,0,0,8.5,0,0,0,0,0,0,88,0,88,38,True,False,False,Left-arm fast-medium,Left-hand bat
+Mumbai Indians,HH Pandya,dbe50b21,8,14,9,0,1,155.56,[3],1.0,6,2,0,5,0,0,0,0,0,0,0,5.0,2,0,0,0,0,20,2,16,38,31,True,False,True,Right-arm medium-fast,Right-hand bat
+Mumbai Indians,SL Malinga,a12e1d51,9,0,0,0,0,0.0,"[2, 8, 15, 18]",4.0,24,9,0,31,2,2,0,0,0,0,0,7.75,0,0,0,0,0,0,9,0,9,41,True,False,False,Right-arm fast,Right-hand bat
+Mumbai Indians,JJ Bumrah,462411b3,10,0,0,0,0,0.0,"[5, 14, 17, 19]",4.0,24,7,0,33,1,2,1,0,1,0,0,8.25,1,0,0,0,0,0,40,8,48,31,True,False,False,Right-arm fast,Right-hand bat
+Royal Challengers Bangalore,V Kohli,ba607b88,1,20,14,0,2,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,34,0,0,34,36,True,False,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,Mandeep Singh,c3a96caf,2,17,13,3,0,130.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,31,0,0,31,33,True,False,True,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,TM Head,12b610c2,3,12,15,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,16,0,28,44,31,True,False,False,Right-arm offbreak,Left-hand bat
+Royal Challengers Bangalore,AB de Villiers,c4487b84,4,43,27,3,3,159.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,81,0,0,81,41,True,True,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,KM Jadhav,99d63244,5,28,22,2,0,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,40,0,0,40,40,True,False,True,Right-arm offbreak,Right-hand bat
+Royal Challengers Bangalore,SR Watson,4329fbb5,6,3,5,0,0,60.0,"[7, 9, 17, 20]",3.833,23,6,0,28,3,0,1,0,0,0,1,7.3,0,0,0,0,0,3,31,0,34,43,True,False,True,Right-arm fast-medium,Right-hand bat
+Royal Challengers Bangalore,P Negi,f62772e5,7,35,23,1,3,152.17,"[8, 10, 12, 14]",4.0,24,9,0,17,0,0,2,0,0,0,0,4.25,0,0,0,0,4,65,65,0,130,32,True,False,False,Slow left-arm orthodox,Left-hand bat
+Royal Challengers Bangalore,AF Milne,350bb1b1,8,0,1,0,0,0.0,"[3, 11]",2.0,12,1,0,29,5,0,0,0,0,0,1,14.5,1,0,0,0,0,0,-5,8,3,32,True,False,False,Right-arm fast,Right-hand bat
+Royal Challengers Bangalore,A Choudhary,18e6906e,8,0,0,0,0,0.0,"[1, 4, 15, 18]",4.0,24,9,0,32,3,1,1,0,0,0,1,8.0,0,0,0,0,0,0,34,0,34,35,True,False,False,Left-arm medium,Right-hand bat
+Royal Challengers Bangalore,YS Chahal,57ee1fde,9,0,0,0,0,0.0,"[2, 6, 13, 16]",4.0,24,8,0,36,4,1,1,0,0,0,2,9.0,1,0,0,0,0,0,33,8,41,34,True,False,False,Legbreak googly,Right-hand bat
+Royal Challengers Bangalore,S Aravind,957532de,9,0,0,0,0,0.0,"[5, 19]",2.0,12,1,0,21,2,1,0,0,0,0,0,10.5,0,0,0,0,0,0,-1,0,-1,40,True,False,False,Left-arm medium-fast,Left-hand bat

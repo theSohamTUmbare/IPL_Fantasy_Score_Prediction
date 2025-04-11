@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Fiji,J Kida,0d1e8d3a,1,0,8,0,0,0.0,"[15, 17, 19]",3.0,18,4,0,21,2,0,1,0,0,0,0,7.0,0,0,0,0,0,-2,31,0,29,44,True,True,False,Right-arm medium,Right-hand bat
+Fiji,M Beitaki,3d29b5fc,2,15,19,1,1,78.95,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,29,True,False,False,,Right-hand bat
+Fiji,J Veikauyaki,8c60bc07,3,15,13,2,1,115.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,29,0,12,41,0,True,False,False,,
+Fiji,SM Tupou,a02b9f81,4,5,10,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,1,0,8,9,34,True,True,False,Right-arm medium,Left-hand bat
+Fiji,PV Vuniwaqa,653a7fa8,5,27,20,4,0,135.0,[16],1.0,6,0,0,13,2,0,0,0,0,0,1,13.0,0,0,0,0,2,49,0,0,49,27,True,True,False,Right-arm medium,Right-hand bat
+Fiji,MB Gauna,5252740c,6,19,18,2,0,105.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,27,0,8,35,34,True,False,False,,Right-hand bat
+Fiji,S Ravoka,ce7936a5,7,12,11,0,0,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20,38,True,False,False,,Right-hand bat
+Fiji,KSB Tavo,7ccbfc83,8,17,13,2,0,130.77,"[2, 4, 6, 20]",4.0,24,12,0,32,2,2,2,0,0,0,1,8.0,0,0,1,0,2,27,62,12,101,38,True,True,False,Right-arm medium,Right-hand bat
+Fiji,Riyad Khan,5a8ab04a,8,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,5,0,22,0,0,0,0,0,0,2,5.5,1,0,0,0,0,0,9,8,17,0,True,False,False,,
+Fiji,V Yabaki,c53e6827,9,6,7,0,0,85.71,"[7, 9, 11, 13]",4.0,24,12,0,15,1,0,1,0,0,0,0,3.75,0,0,0,0,0,6,43,0,49,34,True,True,False,Legbreak,Right-hand bat
+Fiji,T Tavo,770ae770,10,2,1,0,0,200.0,"[1, 3, 5, 18]",4.0,24,10,0,27,2,0,2,0,1,0,2,6.75,0,0,0,0,0,2,70,0,72,32,True,True,False,Right-arm medium,Left-hand bat
+Samoa,DP Michael,9815de17,1,0,2,0,0,0.0,"[10, 12, 18]",3.0,18,6,0,28,3,0,1,0,0,2,5,9.33,2,0,1,0,0,-2,31,28,57,37,True,True,False,Right-arm medium-fast,Left-hand bat
+Samoa,SM Solia,fd9f43bb,2,10,10,1,0,100.0,"[2, 4, 16, 20]",4.0,24,11,0,23,1,0,2,0,0,1,3,5.75,1,0,0,0,0,14,65,8,87,32,True,False,True,Right-arm medium,Left-hand bat
+Samoa,BF Mailata,f49935eb,3,2,3,0,0,66.67,"[7, 9, 11, 13]",4.0,24,14,0,20,0,1,1,0,0,0,2,5.0,0,0,0,0,0,2,43,0,45,40,True,False,False,,Right-hand bat
+Samoa,AJ Michael,d68f4aa1,4,52,57,3,0,91.23,"[15, 17, 19]",3.0,18,5,0,22,2,0,0,0,0,0,1,7.33,0,0,1,0,0,72,5,12,89,,,,,,
+Samoa,N Vaasili,c53cfae5,5,7,12,0,0,58.33,"[6, 8]",2.0,12,5,0,20,2,1,2,0,0,0,2,10.0,0,0,0,0,-4,3,53,0,56,36,True,True,False,Left-arm medium,Left-hand bat
+Samoa,DE Burgess,7bf39e5c,6,32,27,4,0,118.52,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,52,0,0,52,36,True,True,False,Right-arm medium,Right-hand bat
+Samoa,T Kaisala,80ba2fe8,7,21,9,1,2,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,37,0,8,45,,,,,,
+Samoa,ML Maiava,a6710e6c,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,39,True,False,False,,Left-hand bat
+Samoa,F Sapatu,d5c7d9ff,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,30,True,False,False,,Right-hand bat
+Samoa,F Vaaetasi,4abc5713,9,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,13,1,11,2,0,0,0,0,0,0,3.67,0,0,0,0,0,0,31,0,31,27,True,True,False,Slow left-arm orthodox,
+Samoa,L Evile,1dd99aa6,10,0,0,0,0,0.0,[14],1.0,6,0,0,10,1,0,0,0,0,0,0,10.0,1,0,0,0,0,0,0,8,8,22,True,False,False,Right-arm offbreak,Right-hand bat

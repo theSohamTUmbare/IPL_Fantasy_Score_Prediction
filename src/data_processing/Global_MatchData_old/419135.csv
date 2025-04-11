@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Deccan Chargers,HH Gibbs,e1d1b294,1,50,45,5,1,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,84,0,16,100,51,True,False,False,Right-arm bowler,Right-hand bat
+Deccan Chargers,AC Gilchrist,2b6e6dec,2,9,5,2,0,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,53,True,True,False,Right-arm offbreak,Left-hand bat
+Deccan Chargers,MD Mishra,6afb26d6,3,29,16,6,0,181.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,63,0,0,63,41,True,False,False,Right-arm offbreak,Right-hand bat
+Deccan Chargers,A Symonds,bd77eb62,4,45,37,5,0,121.62,"[3, 6, 12, 16]",4.0,24,11,0,26,3,1,2,0,0,0,0,6.5,0,0,0,0,0,69,63,0,132,46,True,False,True,Right-arm offbreak,Right-hand bat
+Deccan Chargers,RG Sharma,740742ef,5,2,6,0,0,33.33,"[8, 14]",2.0,12,1,0,16,1,0,0,0,0,0,1,8.0,1,0,0,0,0,2,1,8,11,37,True,False,False,Right-arm offbreak,Right-hand bat
+Deccan Chargers,TL Suman,aaa1b522,6,15,11,0,1,136.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,23,0,0,23,41,True,False,False,Right-arm offbreak,Right-hand bat
+Deccan Chargers,Jaskaran Singh,d7b3a420,7,0,0,0,0,0.0,"[2, 4, 19]",3.0,18,8,0,18,3,0,2,0,0,0,0,6.0,0,0,0,0,0,0,60,0,60,35,True,False,False,Right-arm medium,Right-hand bat
+Deccan Chargers,Y Venugopal Rao,fe763256,7,0,0,0,0,0.0,[15],1.0,6,1,0,10,1,0,0,0,0,0,0,10.0,0,0,0,0,0,0,1,0,1,43,True,False,False,Right-arm offbreak,Right-hand bat
+Deccan Chargers,KAJ Roach,78eb4223,8,0,0,0,0,0.0,"[1, 7, 18, 20]",4.0,24,6,0,48,5,2,0,0,0,1,1,12.0,1,0,0,0,0,0,2,8,10,36,True,False,False,Right-arm fast-medium,Right-hand bat
+Deccan Chargers,Harmeet Singh,2a72fd4f,9,0,0,0,0,0.0,"[5, 10]",2.0,12,6,0,21,3,0,0,0,0,0,5,10.5,0,0,0,0,0,0,4,0,4,37,True,False,False,Right-arm medium,Right-hand bat
+Deccan Chargers,PP Ojha,6c6591ab,10,0,0,0,0,0.0,"[9, 11, 13, 17]",4.0,24,10,0,38,1,4,2,0,1,0,2,9.5,1,0,0,0,0,0,68,8,76,38,True,False,False,Slow left-arm orthodox,Left-hand bat
+Kolkata Knight Riders,SC Ganguly,725529bc,1,88,54,9,5,162.96,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,170,0,0,170,52,True,False,False,Right-arm medium,Left-hand bat
+Kolkata Knight Riders,CH Gayle,db584dad,2,4,7,1,0,57.14,[20],1.0,6,2,0,9,0,1,1,0,0,0,0,9.0,0,0,0,0,0,8,27,0,35,45,True,False,True,Right-arm offbreak,Left-hand bat
+Kolkata Knight Riders,CA Pujara,d4f9dbd4,3,17,13,3,0,130.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,31,0,8,39,37,True,False,False,Legbreak,Right-hand bat
+Kolkata Knight Riders,MK Tiwary,26e5cabf,4,5,7,0,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,5,0,8,13,39,True,False,False,Legbreak googly,Right-hand bat
+Kolkata Knight Riders,DJ Hussey,fd835ab3,5,31,26,1,2,119.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,51,0,8,59,47,True,False,True,Right-arm offbreak,Right-hand bat
+Kolkata Knight Riders,AD Mathews,896d78ad,6,4,4,0,0,100.0,"[7, 9, 11, 17]",4.0,24,9,0,25,2,0,1,0,0,0,1,6.25,0,0,0,0,0,4,36,0,40,37,True,False,True,Right-arm medium,Right-hand bat
+Kolkata Knight Riders,WP Saha,fe11caa6,7,10,4,2,0,250.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,40,True,False,False,,Right-hand bat
+Kolkata Knight Riders,M Kartik,abfeb126,7,0,0,0,0,0.0,"[6, 8, 10, 16]",4.0,24,8,0,29,4,0,1,0,1,0,0,7.25,1,0,0,0,0,0,41,8,49,48,True,False,False,Slow left-arm orthodox,Left-hand bat
+Kolkata Knight Riders,SE Bond,4f629497,8,0,0,0,0,0.0,"[2, 4, 15, 19]",4.0,24,11,0,28,2,1,1,0,0,0,2,7.0,0,0,0,0,0,0,38,0,38,49,True,False,False,Right-arm fast,Right-hand bat
+Kolkata Knight Riders,AB Agarkar,fa463154,8,8,5,1,0,160.0,"[3, 5, 13, 18]",4.0,24,7,0,31,4,0,1,0,0,0,1,7.75,0,0,0,0,0,12,32,0,44,47,True,False,False,Right-arm fast,Right-hand bat
+Kolkata Knight Riders,MB Parmar,86ae8ef2,9,0,0,0,0,0.0,"[1, 12, 14]",3.0,18,4,0,33,6,0,0,0,0,0,1,11.0,0,0,0,0,0,0,2,0,2,36,True,True,False,Right-arm offbreak,Right-hand bat

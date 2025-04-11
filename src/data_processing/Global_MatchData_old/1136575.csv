@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Kolkata Knight Riders,SP Narine,9d430b40,1,35,25,5,1,140.0,"[4, 11, 15, 18]",4.0,24,6,0,48,7,1,0,0,0,0,0,12.0,0,0,0,0,2,67,2,0,69,36,True,False,True,Right-arm offbreak,Left-hand bat
+Kolkata Knight Riders,CA Lynn,45eda7c8,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,34,True,False,False,Slow left-arm orthodox,Right-hand bat
+Kolkata Knight Riders,RV Uthappa,1c17e270,3,48,36,6,2,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,90,0,0,90,39,True,False,False,Right-arm medium,Right-hand bat
+Kolkata Knight Riders,N Rana,fb2d1dda,4,35,27,2,1,129.63,"[7, 13]",2.0,12,4,0,11,1,0,2,0,1,0,0,5.5,1,0,0,0,0,53,66,8,127,31,True,False,False,Legbreak,Left-hand bat
+Kolkata Knight Riders,AD Russell,bbd41817,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,36,True,False,True,Right-arm fast,Right-hand bat
+Kolkata Knight Riders,KD Karthik,c03f1114,5,42,23,2,2,182.61,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,6,72,0,12,84,39,True,True,False,Right-arm offbreak,Right-hand bat
+Kolkata Knight Riders,Shubman Gill,b4b99816,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,25,True,False,False,Right-arm offbreak,Right-hand bat
+Kolkata Knight Riders,TK Curran,e86754b2,7,0,0,0,0,0.0,"[10, 19]",2.0,12,3,0,19,2,0,2,0,1,1,0,9.5,0,0,0,0,0,0,61,0,61,30,True,False,True,Right-arm fast-medium,Right-hand bat
+Kolkata Knight Riders,PP Chawla,98ae73b1,8,0,0,0,0,0.0,"[1, 3, 6, 17]",4.0,24,10,0,18,1,0,1,0,0,0,0,4.5,0,0,0,0,0,0,41,0,41,36,True,False,True,Legbreak,Left-hand bat
+Kolkata Knight Riders,Shivam Mavi,c38d3503,9,0,0,0,0,0.0,"[5, 9, 12, 20]",4.0,24,9,0,40,3,2,1,0,0,0,3,10.0,1,0,0,0,0,0,32,8,40,26,True,False,False,Right-arm fast-medium,Right-hand bat
+Kolkata Knight Riders,Kuldeep Yadav,8d2c70ad,10,0,0,0,0,0.0,"[2, 8, 14, 16]",4.0,24,8,0,23,1,1,1,0,0,0,0,5.75,1,0,0,0,0,0,37,8,45,30,True,False,False,Left-arm wrist-spin,Left-hand bat
+Rajasthan Royals,AM Rahane,29e95537,1,36,19,5,1,189.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,72,0,0,72,36,True,False,False,Right-arm medium,Right-hand bat
+Rajasthan Royals,DJM Short,1a156c88,2,44,43,5,1,102.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,74,0,0,74,34,True,False,False,Left-arm wrist-spin,Left-hand bat
+Rajasthan Royals,SV Samson,a4cc73aa,3,7,8,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,30,True,False,False,,Right-hand bat
+Rajasthan Royals,RA Tripathi,77255a9e,4,15,11,2,0,136.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,25,0,0,25,34,True,False,False,Right-arm medium,Right-hand bat
+Rajasthan Royals,B Laughlin,b2a79f17,5,0,0,0,0,0.0,"[6, 12, 16, 19]",3.833,23,5,0,37,2,2,0,0,0,0,1,9.65,0,0,0,0,0,0,5,0,5,42,True,False,False,Right-arm fast-medium,Right-hand bat
+Rajasthan Royals,BA Stokes,e087956b,5,14,11,0,1,127.27,"[8, 10, 18]",3.0,18,4,0,25,3,0,0,0,0,0,1,8.33,1,0,0,0,0,20,4,8,32,33,True,False,True,Right-arm fast-medium,Left-hand bat
+Rajasthan Royals,JC Buttler,99b75528,6,24,17,2,0,141.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,34,0,0,34,34,True,False,False,,Right-hand bat
+Rajasthan Royals,K Gowtham,90de905a,7,12,7,0,1,171.43,"[1, 3, 11, 13]",4.0,24,12,0,23,3,0,2,0,1,0,0,5.75,0,0,0,0,0,18,74,0,92,36,True,False,True,Right-arm offbreak,Right-hand bat
+Rajasthan Royals,S Gopal,7a8bd078,8,0,1,0,0,0.0,"[7, 9, 14]",3.0,18,6,0,23,0,2,0,0,0,0,0,7.67,0,0,0,0,0,-2,6,0,4,31,True,False,True,Legbreak,Right-hand bat
+Rajasthan Royals,DS Kulkarni,d2a989fc,9,3,3,0,0,100.0,"[2, 4]",2.0,12,5,0,20,4,0,0,0,0,0,0,10.0,0,0,0,0,0,3,3,0,6,36,True,False,False,Right-arm medium,Right-hand bat
+Rajasthan Royals,JD Unadkat,1e66c162,10,0,0,0,0,0.0,"[5, 15, 17]",3.0,18,4,0,34,3,2,0,0,0,0,0,11.33,0,0,0,0,0,0,0,0,0,33,True,False,False,Left-arm medium,Right-hand bat

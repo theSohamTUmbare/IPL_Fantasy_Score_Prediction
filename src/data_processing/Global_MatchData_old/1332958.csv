@@ -1,0 +1,25 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Delhi,Anuj Rawat,c8f5f961,1,6,9,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6,25,True,False,False,,Left-hand bat
+Delhi,Hiten Dalal,74bace71,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,30,True,True,False,Legbreak,Right-hand bat
+Delhi,YV Dhull,dd7e9b3b,3,11,17,1,0,64.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,13,0,8,21,22,True,False,False,Right-arm offbreak,Right-hand bat
+Delhi,N Rana,fb2d1dda,4,45,39,3,2,115.38,"[7, 17]",2.0,12,2,0,13,1,0,0,0,0,0,0,6.5,0,0,0,0,0,73,4,0,77,31,True,False,False,Legbreak,Left-hand bat
+Delhi,MP Yadav,b1ad996b,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,22,True,False,False,Right-arm fast,Right-hand bat
+Delhi,A Badoni,872b03f7,5,5,13,0,0,38.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-1,0,0,-1,25,True,False,False,Right-arm offbreak,Right-hand bat
+Delhi,Pranshu Vijayran,f0380005,6,5,4,0,0,125.0,[15],1.0,6,2,0,9,1,0,0,0,0,0,0,9.0,0,0,0,0,0,5,2,0,7,29,True,True,False,Right-arm medium,Left-hand bat
+Delhi,Lalit Yadav,ad427b5c,7,6,9,0,0,66.67,"[10, 12, 14]",3.0,18,7,0,16,0,1,0,0,0,0,0,5.33,0,0,0,0,0,6,11,0,17,28,True,False,True,Right-arm offbreak,Right-hand bat
+Delhi,Himmat Singh,ebcfef83,8,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,28,True,False,False,Right-arm offbreak,Right-hand bat
+Delhi,Shivank Vashisth,3a922344,9,6,12,0,0,50.0,"[4, 6, 8, 13]",4.0,24,11,0,21,3,0,2,0,0,0,0,5.25,0,0,0,0,-4,2,65,0,67,29,True,False,False,Slow left-arm orthodox,Left-hand bat
+Delhi,Navdeep Saini,21d4e29b,10,7,9,0,0,77.78,"[2, 9, 16]",3.0,18,12,0,16,3,0,0,0,0,0,1,5.33,1,0,0,0,0,7,16,8,31,32,True,False,False,Right-arm fast,Right-hand bat
+Delhi,Yogesh Sharma,34f27721,11,1,1,0,0,100.0,"[1, 3, 5, 11]",4.0,24,12,0,26,3,1,0,0,0,0,0,6.5,0,0,0,0,0,1,14,0,15,26,True,True,False,Slow left-arm orthodox,Left-hand bat
+Uttar Pradesh,KS Sharma,39ed0d2f,1,52,50,4,2,104.0,[3],1.0,6,3,0,6,1,0,1,0,1,0,0,6.0,1,0,0,0,0,88,36,8,132,26,True,False,True,Right-arm offbreak,Right-hand bat
+Uttar Pradesh,Aryan Juyal,5f2732f7,2,11,11,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,19,0,6,25,23,True,False,False,,Right-hand bat
+Uttar Pradesh,PK Garg,bb965e9a,3,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,10,0,16,26,24,True,False,False,Right-arm medium,Right-hand bat
+Uttar Pradesh,AD Nath,f10e94c4,4,31,35,4,0,88.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,51,0,0,51,31,True,False,False,Right-arm medium-fast,Right-hand bat
+Uttar Pradesh,Kartik Tyagi,5d2eea49,4,0,0,0,0,0.0,"[5, 7, 15, 17]",4.0,24,16,0,14,1,0,1,0,1,1,1,3.5,0,0,0,0,0,0,55,0,55,24,True,False,False,Right-arm fast,Right-hand bat
+Uttar Pradesh,RK Singh,0a509d6b,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,27,True,False,False,Right-arm offbreak,Left-hand bat
+Uttar Pradesh,Sameer Choudhary,9e67cfd0,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,0,0,14,14,25,True,True,False,Right-arm offbreak,Right-hand bat
+Uttar Pradesh,D Joshi,989006c5,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,23,True,True,False,Right-arm medium,Right-hand bat
+Uttar Pradesh,Kuldeep Yadav,8d2c70ad,8,0,0,0,0,0.0,"[9, 11, 13, 16]",4.0,24,9,0,19,0,0,1,0,0,0,0,4.75,1,0,0,0,0,0,40,8,48,30,True,False,False,Left-arm wrist-spin,Left-hand bat
+Uttar Pradesh,Shiva Singh,3b63b5cc,9,0,0,0,0,0.0,"[1, 10, 12, 14]",4.0,24,11,0,25,0,2,2,0,0,0,1,6.25,1,0,0,0,0,0,63,8,71,25,True,False,False,Slow left-arm orthodox,Right-hand bat
+Uttar Pradesh,Shivam Mavi,c38d3503,10,0,0,0,0,0.0,"[6, 8, 18, 20]",3.833,23,12,0,14,0,0,4,1,0,0,1,3.65,0,0,0,0,0,0,134,0,134,26,True,False,False,Right-arm fast-medium,Right-hand bat
+Uttar Pradesh,Yash Dayal,7210d461,11,0,0,0,0,0.0,"[2, 4, 19]",3.0,18,6,0,21,2,0,0,0,0,0,0,7.0,0,0,0,0,0,0,8,0,8,27,True,False,False,Left-arm medium-fast,Right-hand bat

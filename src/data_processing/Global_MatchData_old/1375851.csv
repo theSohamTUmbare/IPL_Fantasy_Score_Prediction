@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Australia,DA Warner,dcce6f09,1,22,19,3,1,115.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,40,0,0,40,38,True,False,False,Legbreak,Left-hand bat
+Australia,JP Inglis,989889ff,2,4,6,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,8,0,16,24,30,True,False,False,,Right-hand bat
+Australia,MR Marsh,3d8feaf8,3,29,12,3,2,241.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,63,0,0,63,33,True,False,True,Right-arm medium,Right-hand bat
+Australia,GJ Maxwell,b681e71e,4,120,55,12,8,218.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,238,0,16,254,36,True,False,True,Right-arm offbreak,Right-hand bat
+Australia,MP Stoinis,d9273ee7,5,16,15,2,0,106.67,"[6, 11, 14, 20]",4.0,24,12,0,36,3,3,3,0,0,0,2,9.0,0,0,0,0,0,24,91,0,115,35,True,False,True,Right-arm medium,Right-hand bat
+Australia,TH David,f1f99156,6,31,13,2,2,238.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,61,0,8,69,29,True,False,False,Right-arm offbreak,Right-hand bat
+Australia,MS Wade,afa7e784,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,37,True,True,False,Right-arm medium,Left-hand bat
+Australia,A Zampa,14f96089,12,0,0,0,0,0.0,"[8, 10, 15, 17]",4.0,24,7,0,39,1,3,1,0,0,0,0,9.75,0,0,0,0,0,0,32,0,32,32,True,False,False,Legbreak googly,Right-hand bat
+Australia,SH Johnson,83c3e8e3,13,0,0,0,0,0.0,"[5, 7, 13, 19]",4.0,24,9,0,39,5,1,2,0,0,0,6,9.75,0,0,0,0,0,0,59,0,59,29,True,False,False,Left-arm fast,Left-hand bat
+Australia,JP Behrendorff,4933f499,14,0,0,0,0,0.0,"[1, 3, 12, 16]",4.0,24,9,0,55,2,6,1,0,0,0,3,13.75,0,0,0,0,0,0,28,0,28,34,True,False,False,Left-arm fast-medium,Right-hand bat
+Australia,JR Hazlewood,03806cf8,15,0,0,0,0,0.0,"[2, 4, 9, 18]",4.0,24,13,0,31,5,1,2,0,1,0,0,7.75,0,0,0,0,0,0,71,0,71,34,True,False,False,Right-arm fast-medium,Left-hand bat
+West Indies,BA King,7fca84b7,1,5,9,1,0,55.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17,30,True,False,False,,Right-hand bat
+West Indies,J Charles,09a9d073,2,24,11,1,3,218.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,52,0,8,60,36,True,False,False,,Right-hand bat
+West Indies,N Pooran,3241e3fd,3,18,10,0,3,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,42,0,0,42,29,True,True,False,Right-arm offbreak,Left-hand bat
+West Indies,SD Hope,1fc6ef83,4,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,31,True,False,False,,Right-hand bat
+West Indies,R Powell,650d5e49,5,63,36,5,4,175.0,[11],1.0,6,0,0,18,4,0,0,0,0,0,0,18.0,0,0,0,0,6,121,0,0,121,31,True,False,False,Right-arm medium-fast,Right-hand bat
+West Indies,SE Rutherford,d014d5ac,6,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,26,True,False,False,Right-arm fast-medium,Left-hand bat
+West Indies,AD Russell,bbd41817,7,37,16,4,2,231.25,"[4, 10, 16, 20]",4.0,24,8,0,59,6,4,0,0,0,1,1,14.75,0,0,0,0,6,75,2,0,77,36,True,False,True,Right-arm fast,Right-hand bat
+West Indies,R Shepherd,c5aef772,8,12,12,1,1,100.0,"[7, 9, 15, 19]",4.0,24,7,0,48,6,2,1,0,0,0,3,12.0,0,0,0,0,0,22,28,0,50,30,True,False,True,Right-arm fast-medium,Right-hand bat
+West Indies,JO Holder,0f721006,9,28,16,4,1,175.0,"[2, 5, 14, 18]",4.0,24,7,0,42,4,2,2,0,0,0,1,10.5,1,0,0,0,6,60,55,8,123,33,True,False,True,Right-arm medium-fast,Right-hand bat
+West Indies,AJ Hosein,4d7f517e,10,0,1,0,0,0.0,"[1, 8, 13]",3.0,18,7,0,32,2,3,0,0,0,0,0,10.67,0,0,0,0,0,-2,5,0,3,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+West Indies,AS Joseph,b0946605,11,2,5,0,0,40.0,"[3, 6, 12, 17]",4.0,24,8,0,31,1,2,1,0,0,0,2,7.75,0,0,0,0,0,2,33,0,35,28,True,False,False,Right-arm fast,Right-hand bat

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Somerset,T Banton,25f7b7d6,1,26,20,3,1,130.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,50,0,8,58,26,True,False,False,,Right-hand bat
+Somerset,WCF Smeed,4e18e961,2,21,14,2,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,35,0,28,63,23,True,False,False,Right-arm offbreak,Right-hand bat
+Somerset,T Kohler-Cadmore,f836b33d,3,11,13,1,0,84.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15,30,True,True,False,Right-arm offbreak,Right-hand bat
+Somerset,TB Abell,ba9258a7,4,15,14,1,0,107.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,19,0,8,27,31,True,False,True,Right-arm medium,Right-hand bat
+Somerset,SR Dickson,2344bdd1,5,30,22,2,1,136.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,50,0,8,58,33,True,False,False,Right-arm medium,Right-hand bat
+Somerset,L Gregory,06c2de82,6,9,10,1,0,90.0,"[6, 12]",2.0,12,4,0,18,1,1,0,0,0,0,0,9.0,0,0,0,0,0,13,4,0,17,32,True,False,True,Right-arm medium-fast,Right-hand bat
+Somerset,BGF Green,34b37279,7,2,3,0,0,66.67,"[8, 10, 16]",3.0,18,6,0,25,4,0,3,0,0,0,0,8.33,0,0,0,0,0,2,85,0,87,27,True,False,True,Right-arm fast-medium,Right-hand bat
+Somerset,C Overton,e9987a94,8,8,4,2,0,200.0,"[1, 3, 5, 14]",4.0,24,12,0,24,2,1,3,0,1,0,0,6.0,2,0,0,0,0,16,101,16,133,30,True,False,True,Right-arm medium-fast,Right-hand bat
+Somerset,MJ Henry,e84ac20c,9,14,14,0,0,100.0,"[2, 4, 15, 17]",3.833,23,11,0,19,2,0,3,0,0,0,0,4.96,1,0,0,0,0,14,96,8,118,33,True,False,False,Right-arm fast-medium,Right-hand bat
+Somerset,IS Sodhi,641ac5ff,11,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,6,0,31,2,1,1,0,0,0,0,7.75,0,0,0,0,0,0,31,0,31,32,True,False,False,Legbreak,Right-hand bat
+Somerset,Shoaib Bashir,e36e9dd3,12,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,21,True,False,False,Right-arm offbreak,Right-hand bat
+Surrey,WG Jacks,9caf69a1,1,9,13,1,0,69.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,11,0,0,11,26,True,False,True,Right-arm offbreak,Right-hand bat
+Surrey,LJ Evans,1c513d54,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,37,True,False,False,Right-arm offbreak,Right-hand bat
+Surrey,JJ Roy,d1c36f5c,3,13,10,2,0,130.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,23,0,0,23,34,True,False,False,,Right-hand bat
+Surrey,SM Curran,e94915e6,4,5,10,0,0,50.0,"[1, 3, 12, 18]",4.0,24,6,0,32,3,0,1,0,1,0,1,8.0,0,0,0,0,-4,1,39,0,40,26,True,False,True,Left-arm medium-fast,Left-hand bat
+Surrey,JL Smith,c834c290,5,19,15,2,0,126.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,27,0,28,55,24,True,False,False,,Right-hand bat
+Surrey,TK Curran,e86754b2,6,22,15,1,1,146.67,"[4, 8, 14, 17]",4.0,24,6,0,33,2,1,0,0,0,2,1,8.25,1,0,0,0,2,34,6,8,48,30,True,False,True,Right-arm fast-medium,Right-hand bat
+Surrey,J Overton,59559bc2,7,11,6,2,0,183.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,30,True,False,True,Right-arm fast,Right-hand bat
+Surrey,CJ Jordan,ffe699c0,8,16,14,0,2,114.29,"[6, 11, 15, 19]",4.0,24,7,0,26,2,0,1,0,0,0,0,6.5,0,0,0,0,0,28,34,0,62,36,True,False,False,Right-arm fast-medium,Right-hand bat
+Surrey,SA Abbott,1a2676c5,9,9,7,1,0,128.57,"[5, 10, 13, 16]",4.0,24,10,0,23,3,0,4,0,0,0,0,5.75,1,0,0,0,0,13,122,8,143,33,True,False,True,Right-arm fast-medium,Right-hand bat
+Surrey,CT Steel,5899dceb,10,5,3,1,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,29,True,False,False,Legbreak,Right-hand bat
+Surrey,AAP Atkinson,70d57519,11,8,6,1,0,133.33,"[2, 7, 9]",3.0,18,9,0,26,2,2,1,0,0,0,0,8.67,0,0,0,0,0,12,34,0,46,27,True,False,False,Right-arm fast-medium,Right-hand bat

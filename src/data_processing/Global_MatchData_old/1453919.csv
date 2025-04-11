@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bhutan,S Pradhan,04f0d409,1,0,4,0,0,0.0,[15],1.0,6,1,0,17,0,2,0,0,0,0,0,17.0,0,0,0,0,0,-2,1,0,-1,40,True,True,False,Right-arm medium-fast,Right-hand bat
+Bhutan,Tenjin Rabgey,1fed517a,2,31,28,1,3,110.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,57,0,0,57,17,True,True,False,Legbreak,Right-hand bat
+Bhutan,RM Dorji,3d7f02d4,3,11,7,1,1,157.14,"[3, 5, 18, 20]",4.0,24,16,0,15,2,0,1,0,1,0,0,3.75,0,0,0,1,0,21,55,6,82,25,True,True,False,Right-arm medium,Right-hand bat
+Bhutan,T Jamtsho,c01d1c0a,4,4,5,1,0,80.0,[13],1.0,6,4,0,9,1,0,0,0,0,2,2,9.0,0,0,0,0,0,8,4,0,12,33,True,True,False,Right-arm medium-fast,Right-hand bat
+Bhutan,J Singye,28574428,5,15,33,0,0,45.45,"[7, 9, 11]",3.0,18,16,1,5,1,0,0,0,0,0,0,1.67,0,0,0,0,-6,9,34,0,43,32,True,True,False,Legbreak,Right-hand bat
+Bhutan,Namgay Thinley,9c333e40,6,15,19,0,0,78.95,"[12, 14, 16]",3.0,18,8,0,17,1,1,0,0,0,0,0,5.67,1,0,0,1,0,15,12,14,41,21,True,True,False,Slow left-arm orthodox,Left-hand bat
+Bhutan,GK Ghalley,2d1b6dee,7,9,13,0,1,69.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,13,0,0,13,24,True,False,False,,Right-hand bat
+Bhutan,T Wangchuk,39799e49,8,8,7,1,0,114.29,"[1, 17, 19]",3.0,18,6,0,23,2,1,0,0,0,0,0,7.67,0,0,0,0,0,12,6,0,18,29,True,True,False,Right-arm medium,Right-hand bat
+Bhutan,Tshering Tashi,596c60cf,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,2,0,0,0,20,20,19,True,True,False,Right-arm offbreak,Right-hand bat
+Bhutan,S Yeshi,0c24fb7b,10,1,0,0,0,0.0,"[8, 10]",2.0,12,9,0,3,0,0,0,0,0,0,0,1.5,0,0,0,0,0,1,15,0,16,21,True,True,False,Slow left-arm orthodox,Right-hand bat
+Bhutan,D Dawa,676aeb1b,11,1,1,0,0,100.0,"[2, 4, 6]",3.0,18,12,0,13,1,0,3,0,1,0,3,4.33,0,0,0,0,0,1,105,0,106,38,True,True,False,Right-arm medium,Right-hand bat
+Indonesia,KD Kesuma,4b349dc0,1,9,5,2,0,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,25,True,False,False,,Right-hand bat
+Indonesia,Ahmad Ramdoni,b5f30525,2,29,47,1,1,61.7,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,-2,41,0,6,47,40,True,False,False,,Right-hand bat
+Indonesia,Anjar Tadarus,72275237,3,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,40,True,True,False,Right-arm medium-fast,Right-hand bat
+Indonesia,DJ Hawoe,a62f55ba,4,0,2,0,0,0.0,[5],1.0,6,4,0,15,0,2,0,0,0,0,3,15.0,0,0,0,0,0,-2,4,0,2,24,True,True,False,Right-arm medium,Right-hand bat
+Indonesia,J Dzulfikar,05ea0342,5,5,7,1,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,9,0,16,25,25,True,True,False,Right-arm offbreak,Right-hand bat
+Indonesia,IKEG Artawan,190957d2,6,41,45,3,3,91.11,"[7, 9, 11, 13]",4.0,24,13,0,11,0,0,1,0,0,0,0,2.75,0,0,0,0,0,75,44,0,119,24,True,False,False,,Right-hand bat
+Indonesia,GD Arta,e969e580,7,10,13,1,0,76.92,"[2, 4, 10, 12]",4.0,24,17,0,21,2,1,1,0,0,1,2,5.25,0,0,0,0,0,14,46,0,60,37,True,True,False,Left-arm medium-fast,Left-hand bat
+Indonesia,RM Koda,f0a45427,11,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,14,0,20,2,0,1,0,0,0,2,5.0,1,0,0,0,0,0,43,8,51,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Indonesia,DGAPD Wiswi,d3d096f5,12,0,0,0,0,0.0,[15],1.0,6,2,0,5,0,0,1,0,0,0,0,5.0,0,0,0,1,0,0,27,6,33,18,True,True,False,Right-arm offbreak,Right-hand bat
+Indonesia,AA Rahayu,2327fdc7,13,0,0,0,0,0.0,"[6, 8]",2.0,12,4,0,15,0,1,1,0,1,0,0,7.5,1,0,0,0,0,0,37,8,45,24,True,True,False,Right-arm medium,Right-hand bat
+Indonesia,A Alexander,ef6d6883,14,0,0,0,0,0.0,"[14, 16, 18, 20]",3.5,21,12,0,19,0,1,2,0,1,1,2,5.43,0,0,0,2,0,0,74,12,86,19,True,True,False,Right-arm medium,Right-hand bat

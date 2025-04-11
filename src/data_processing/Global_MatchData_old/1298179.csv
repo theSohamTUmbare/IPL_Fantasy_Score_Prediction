@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+England,JC Buttler,99b75528,1,26,17,3,1,152.94,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,52,0,8,60,34,True,False,False,,Right-hand bat
+England,AD Hales,92aeac25,2,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,36,True,False,False,Right-arm medium,Right-hand bat
+England,PD Salt,3d284ca3,3,10,9,2,0,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,28,True,True,False,Right-arm offbreak,Right-hand bat
+England,BA Stokes,e087956b,4,52,49,5,1,106.12,"[1, 7, 13, 16]",4.0,24,5,0,32,1,0,1,0,0,1,2,8.0,1,0,0,0,0,86,30,8,124,33,True,False,True,Right-arm fast-medium,Left-hand bat
+England,HC Brook,4ae1755b,5,20,23,1,0,86.96,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24,26,True,False,False,Right-arm medium,Right-hand bat
+England,MM Ali,bb351c23,6,19,13,3,0,146.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,33,0,0,33,37,True,False,True,Right-arm offbreak,Left-hand bat
+England,SM Curran,e94915e6,7,0,0,0,0,0.0,"[3, 5, 17, 19]",4.0,24,15,0,12,0,0,3,0,1,0,0,3.0,0,0,0,0,0,0,108,0,108,26,True,False,True,Left-arm medium-fast,Left-hand bat
+England,LS Livingstone,50c6bc2b,7,1,1,0,0,100.0,[11],1.0,6,1,0,16,1,1,0,0,0,0,1,16.0,3,0,0,0,0,1,1,28,30,31,True,False,True,Legbreak,Right-hand bat
+England,CR Woakes,4c5d73db,8,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,7,0,26,2,1,0,0,0,0,2,8.67,1,0,0,0,0,0,7,8,15,36,True,False,True,Right-arm fast-medium,Right-hand bat
+England,CJ Jordan,ffe699c0,9,0,0,0,0,0.0,"[9, 15, 18, 20]",4.0,24,8,0,27,3,0,2,0,0,0,0,6.75,0,0,0,0,0,0,60,0,60,36,True,False,False,Right-arm fast-medium,Right-hand bat
+England,AU Rashid,249d60c9,10,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,10,1,22,1,0,2,0,0,0,1,5.5,1,0,0,0,0,0,76,8,84,37,True,False,False,Legbreak,Right-hand bat
+Pakistan,Mohammad Rizwan,2f26ac1a,1,15,13,0,1,115.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,21,0,8,29,32,True,True,False,Right-arm medium,Right-hand bat
+Pakistan,Babar Azam,8a75e999,2,32,28,2,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,44,0,0,44,30,True,False,False,Right-arm offbreak,Right-hand bat
+Pakistan,Mohammad Haris,ff3f6fc1,3,8,12,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,10,0,0,10,23,True,True,False,Right-arm offbreak,Right-hand bat
+Pakistan,Shan Masood,6843a783,4,38,28,2,1,135.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,58,0,0,58,35,True,False,False,Right-arm medium-fast,Left-hand bat
+Pakistan,Iftikhar Ahmed,29e253dd,5,0,6,0,0,0.0,[],0.833,5,0,0,13,1,1,0,0,0,0,0,15.61,1,0,0,0,0,-2,0,8,6,34,True,False,False,Right-arm offbreak,Right-hand bat
+Pakistan,Shadab Khan,9de62878,6,20,14,2,0,142.86,"[7, 9, 11, 13]",4.0,24,10,0,20,1,0,1,0,0,0,0,5.0,0,0,0,0,2,30,39,0,69,26,True,False,True,Legbreak,Right-hand bat
+Pakistan,Naseem Shah,9c9af282,7,0,0,0,0,0.0,"[2, 5, 12, 14]",4.0,24,15,0,30,3,1,0,0,0,0,5,7.5,0,0,0,0,0,0,15,0,15,22,True,False,False,Right-arm fast,Right-hand bat
+Pakistan,Mohammad Nawaz,3086f7a4,7,5,7,0,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Pakistan,Mohammad Wasim,9e9af5f2,8,4,8,0,0,50.0,"[8, 10, 17, 19]",4.0,24,5,0,38,5,0,1,0,1,0,2,9.5,0,0,0,0,0,4,38,0,42,23,True,False,False,Right-arm fast-medium,Right-hand bat
+Pakistan,Shaheen Shah Afridi,45a7e761,9,5,3,1,0,166.67,"[1, 3, 16]",2.167,13,5,0,13,1,0,1,0,1,0,0,6.0,1,0,0,0,0,9,38,8,55,24,True,False,False,Left-arm fast,Left-hand bat
+Pakistan,Haris Rauf,24bb1c2f,10,1,1,0,0,100.0,"[4, 6, 15, 18]",4.0,24,13,0,23,3,0,2,0,0,0,1,5.75,0,0,0,0,0,1,67,0,68,31,True,False,False,Right-arm fast,Right-hand bat

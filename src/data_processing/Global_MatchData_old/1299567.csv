@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Canada,R Pathan,7c840f73,1,73,44,9,2,165.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,133,0,0,133,33,True,False,True,Right-arm fast-medium,Right-hand bat
+Canada,M Spoors,da4a1e46,2,108,65,14,3,166.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,202,0,0,202,25,True,False,False,Legbreak googly,Right-hand bat
+Canada,NS Dhaliwal,cbabd6ad,3,26,11,0,3,236.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,54,0,8,62,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Canada,Saad Bin Zafar,f28a60e0,7,0,0,0,0,0.0,"[6, 8, 13, 15]",4.0,24,13,0,14,1,0,2,1,0,0,0,3.5,0,0,0,0,0,0,77,0,77,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Canada,Ravinderpal Singh,f80682f8,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,36,True,False,False,Right-arm offbreak,Right-hand bat
+Canada,H Thaker,c01d7726,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,27,True,False,True,Right-arm offbreak,Right-hand bat
+Canada,J Matharu,f0398c2f,10,0,0,0,0,0.0,"[11, 16, 18, 20]",4.0,24,4,0,22,0,0,0,0,0,0,1,5.5,0,0,0,0,0,0,8,0,8,32,True,False,False,Right-arm medium-fast,Left-hand bat
+Canada,Hamza Tariq,82e81007,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,34,True,False,False,,Right-hand bat
+Canada,Junaid Siddiqui,9025e58f,12,0,0,0,0,0.0,"[2, 4, 10, 12]",4.0,24,14,1,13,1,0,1,1,0,0,0,3.25,0,0,0,0,0,0,65,0,65,40,True,False,True,Legbreak,Right-hand bat
+Canada,D Heyliger,f8c72766,13,0,0,0,0,0.0,"[7, 9, 14, 17]",4.0,24,12,0,24,1,1,0,0,0,0,4,6.0,0,0,0,0,0,0,14,0,14,35,True,False,False,Right-arm medium,Right-hand bat
+Canada,Kaleem Sana,14810ee7,14,0,0,0,0,0.0,"[1, 3, 5, 19]",4.0,24,13,1,16,1,0,2,0,1,0,1,4.0,0,0,0,0,0,0,89,0,89,31,True,False,False,Left-arm medium-fast,Right-hand bat
+Philippines,R Goodwin,f8648b9b,1,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,38,True,False,False,,Right-hand bat
+Philippines,Kapil Kumar,d4e70d7c,2,23,44,1,1,52.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,29,0,0,29,36,True,True,False,Right-arm fast,Right-hand bat
+Philippines,J Hill,5481bd91,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,34,True,True,False,Right-arm medium-fast,Right-hand bat
+Philippines,DC Smith,a968d39b,4,35,36,3,0,97.22,"[1, 3, 13, 20]",4.0,24,6,0,48,5,2,0,0,0,1,1,12.0,0,0,0,0,0,51,2,0,53,33,True,True,False,Right-arm medium-fast,Right-hand bat
+Philippines,HER Tyler,0ba9de33,5,4,7,0,0,57.14,"[8, 10, 15, 17]",4.0,24,4,0,41,7,0,0,0,0,0,0,10.25,0,0,0,0,0,4,2,0,6,33,True,False,False,,Right-hand bat
+Philippines,Vimal Kumar,b6a85ead,6,15,20,0,0,75.0,"[9, 11, 18]",3.0,18,5,0,35,1,4,0,0,0,0,0,11.67,0,0,0,0,0,15,1,0,16,45,True,True,False,Right-arm offbreak,Right-hand bat
+Philippines,Huzaifa Mohammed,65a29a30,7,0,0,0,0,0.0,"[5, 7, 14, 16]",4.0,24,5,0,40,4,1,1,0,0,0,0,10.0,0,0,0,0,0,0,28,0,28,42,True,True,False,Right-arm offbreak,Right-hand bat
+Philippines,M Podosky,c46999c7,7,6,6,0,0,100.0,"[2, 4, 12, 19]",4.0,24,9,0,32,3,1,0,0,0,0,0,8.0,0,0,0,0,0,6,9,0,15,35,True,True,False,Right-arm medium,Right-hand bat
+Philippines,G Chohan,b978780e,8,0,0,0,0,0.0,[6],1.0,6,1,0,14,3,0,0,0,0,0,1,14.0,0,0,0,0,0,0,1,0,1,29,True,True,False,Right-arm medium,Right-hand bat
+Philippines,J Alegra,ac6be7ed,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,False,False,,Right-hand bat
+Philippines,GR Russ,1f28fdfd,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,34,True,True,False,Right-arm medium,Right-hand bat

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Netherlands,MR Swart,a75a78eb,1,3,8,0,0,37.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,42,True,False,False,Right-arm offbreak,Right-hand bat
+Netherlands,SJ Myburgh,18261c22,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,41,True,False,False,Right-arm offbreak,Left-hand bat
+Netherlands,W Barresi,0d677597,3,12,6,3,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24,40,True,False,False,Right-arm offbreak,Right-hand bat
+Netherlands,PW Borren,91052c96,4,8,7,2,0,114.29,"[8, 15]",2.0,12,1,0,12,0,0,0,0,0,0,0,6.0,2,0,0,0,0,16,3,16,35,41,True,False,True,Right-arm medium,Right-hand bat
+Netherlands,TLW Cooper,2318ba22,5,72,58,9,1,124.14,[10],1.0,6,2,0,13,0,2,0,0,0,0,0,13.0,0,0,0,0,0,122,2,0,124,38,True,False,False,Right-arm offbreak,Right-hand bat
+Netherlands,BN Cooper,634a7b21,6,20,24,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24,33,True,False,False,Right-arm medium,Left-hand bat
+Netherlands,Mudassar Bukhari,37312a74,7,14,16,0,0,87.5,"[1, 7, 11, 13]",4.0,24,6,0,26,2,0,0,0,0,0,0,6.5,0,0,0,0,0,14,8,0,22,41,True,False,True,Right-arm medium-fast,Right-hand bat
+Netherlands,LV van Beek,782fb776,7,0,0,0,0,0.0,"[6, 12, 17]",3.0,18,1,0,32,4,0,0,0,0,0,3,10.67,0,0,0,0,0,0,-1,0,-1,34,True,False,False,Right-arm medium-fast,Right-hand bat
+Netherlands,T van der Gugten,d99cc23a,8,0,0,0,0,0.0,"[2, 4, 16, 19]",4.0,24,9,0,22,1,0,1,0,0,0,0,5.5,0,0,0,0,0,0,38,0,38,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Netherlands,PM Seelaar,abbdca1a,9,0,0,0,0,0.0,"[9, 14]",2.0,12,6,0,9,0,0,2,0,1,0,0,4.5,1,0,0,0,0,0,70,8,78,37,True,False,True,Slow left-arm orthodox,Right-hand bat
+Netherlands,Ahsan Malik,96503059,10,0,0,0,0,0.0,"[3, 5, 18, 20]",4.0,24,11,0,30,2,1,1,0,0,0,1,7.5,0,0,1,0,0,0,36,12,48,35,True,False,False,Right-arm medium-fast,Right-hand bat
+Zimbabwe,H Masakadza,31fbf891,1,43,45,3,1,95.56,[13],1.0,6,1,0,11,0,1,0,0,0,0,1,11.0,0,0,0,0,0,65,1,0,66,41,True,False,False,Right-arm medium,Right-hand bat
+Zimbabwe,Sikandar Raza,26d041c4,2,13,12,2,0,108.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21,38,True,False,True,Legbreak,Right-hand bat
+Zimbabwe,BRM Taylor,53597be1,3,49,39,2,1,125.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,67,0,0,67,39,True,True,False,Right-arm offbreak,Right-hand bat
+Zimbabwe,E Chigumbura,d2babdd5,4,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,39,True,False,True,Right-arm fast-medium,Right-hand bat
+Zimbabwe,SC Williams,afe57f7a,5,26,19,2,0,136.84,"[8, 10, 12, 15]",4.0,24,6,0,22,1,0,0,0,0,0,0,5.5,0,0,0,0,2,40,10,0,50,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Zimbabwe,V Sibanda,0fdabe05,6,9,3,0,1,300.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15,41,True,False,False,Right-arm offbreak,Right-hand bat
+Zimbabwe,P Utseya,9de271ef,7,0,0,0,0,0.0,"[1, 3, 5, 17]",4.0,24,12,0,24,4,0,2,1,0,0,0,6.0,0,0,0,0,0,0,72,0,72,40,True,False,False,Right-arm offbreak,Right-hand bat
+Zimbabwe,T Maruma,f55c526f,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,36,True,False,False,Legbreak googly,Right-hand bat
+Zimbabwe,T Panyangara,3b417422,8,0,0,0,0,0.0,"[2, 16, 18, 20]",4.0,24,4,0,38,6,0,1,0,1,0,1,9.5,1,0,0,0,0,0,37,8,45,39,True,False,False,Right-arm fast-medium,Right-hand bat
+Zimbabwe,TL Chatara,5bbabe59,9,0,0,0,0,0.0,"[4, 6, 19]",3.0,18,10,0,14,2,0,0,0,0,0,0,4.67,0,0,1,0,0,0,16,12,28,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Zimbabwe,N M'shangwe,dd468277,10,0,0,0,0,0.0,"[7, 9, 11, 14]",4.0,24,8,0,24,2,0,1,0,0,0,2,6.0,0,0,0,0,0,0,35,0,35,34,True,False,False,Legbreak,Right-hand bat

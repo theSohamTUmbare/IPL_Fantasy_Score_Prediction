@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Mumbai Indians,Q de Kock,372455c4,1,65,47,6,2,138.3,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,111,0,0,111,32,True,False,False,,Left-hand bat
+Mumbai Indians,RG Sharma,740742ef,2,5,7,1,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,37,True,False,False,Right-arm offbreak,Right-hand bat
+Mumbai Indians,SA Yadav,271f83cd,3,34,33,1,1,103.03,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,48,0,8,56,34,True,False,False,Right-arm offbreak,Right-hand bat
+Mumbai Indians,HH Pandya,dbe50b21,4,23,15,2,1,153.33,"[1, 12, 14, 18]",4.0,24,10,0,31,5,0,0,0,0,0,0,7.75,0,0,0,0,4,41,10,0,51,31,True,False,True,Right-arm medium-fast,Right-hand bat
+Mumbai Indians,KA Pollard,a757b0d8,5,10,7,0,1,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24,37,True,False,True,Right-arm medium,Right-hand bat
+Mumbai Indians,BCJ Cutting,2e11c706,6,13,9,1,1,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Mumbai Indians,KH Pandya,5b8c830e,7,2,2,0,0,100.0,"[2, 11]",2.0,12,1,0,24,4,0,0,0,0,0,0,12.0,0,0,0,0,0,2,-3,0,-1,34,True,False,True,Slow left-arm orthodox,Left-hand bat
+Mumbai Indians,RD Chahar,2ed569a0,7,0,0,0,0,0.0,"[4, 8, 10, 15]",4.0,24,10,0,29,3,1,3,0,1,0,0,7.25,0,0,0,0,0,0,97,0,97,25,True,False,False,Legbreak googly,Right-hand bat
+Mumbai Indians,JJ Bumrah,462411b3,8,0,0,0,0,0.0,"[5, 13, 17, 19]",4.0,24,7,0,21,1,0,1,1,0,0,0,5.25,0,0,0,0,0,0,44,0,44,31,True,False,False,Right-arm fast,Right-hand bat
+Mumbai Indians,SL Malinga,a12e1d51,9,0,0,0,0,0.0,"[3, 6, 16, 20]",3.167,19,4,0,27,4,0,0,0,0,0,0,8.53,0,0,0,0,0,0,4,0,4,41,True,False,False,Right-arm fast,Right-hand bat
+Mumbai Indians,M Markande,a9fd84fb,10,0,0,0,0,0.0,"[7, 9]",2.0,12,4,0,24,2,2,0,0,0,0,0,12.0,0,0,0,0,0,0,0,0,0,27,True,False,False,Legbreak,Right-hand bat
+Rajasthan Royals,AM Rahane,29e95537,1,12,12,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,36,True,False,False,Right-arm medium,Right-hand bat
+Rajasthan Royals,SV Samson,a4cc73aa,2,35,19,6,1,184.21,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,75,0,0,75,30,True,False,False,,Right-hand bat
+Rajasthan Royals,SPD Smith,30a45b23,3,59,48,5,1,122.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,93,0,0,93,35,True,False,False,Legbreak googly,Right-hand bat
+Rajasthan Royals,BA Stokes,e087956b,4,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,33,True,False,True,Right-arm fast-medium,Left-hand bat
+Rajasthan Royals,R Parag,04a418e8,5,43,29,5,1,148.28,"[7, 9]",2.0,12,2,0,17,0,1,0,0,0,0,0,8.5,0,0,0,0,2,75,2,0,77,23,True,False,False,Legbreak,Right-hand bat
+Rajasthan Royals,AJ Turner,ff1e12a0,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,32,True,False,False,Right-arm offbreak,Right-hand bat
+Rajasthan Royals,STR Binny,bd17b45f,7,7,4,1,0,175.0,"[1, 8, 14]",3.0,18,8,0,19,2,0,1,0,0,0,0,6.33,0,0,0,0,0,11,35,0,46,40,True,False,True,Right-arm medium,Right-hand bat
+Rajasthan Royals,JC Archer,5574750c,7,0,0,0,0,0.0,"[5, 16, 18, 20]",4.0,24,14,0,22,2,1,1,1,0,0,0,5.5,0,0,0,0,0,0,51,0,51,29,True,False,False,Right-arm fast,Right-hand bat
+Rajasthan Royals,S Gopal,7a8bd078,8,0,0,0,0,0.0,"[3, 11, 13, 15]",4.0,24,8,0,21,1,0,2,0,0,0,0,5.25,1,0,0,0,0,0,62,8,70,31,True,False,True,Legbreak,Right-hand bat
+Rajasthan Royals,JD Unadkat,1e66c162,9,0,0,0,0,0.0,"[6, 12, 17, 19]",4.0,24,4,0,46,2,3,1,0,1,0,3,11.5,0,0,0,0,0,0,33,0,33,33,True,False,False,Left-arm medium,Right-hand bat
+Rajasthan Royals,DS Kulkarni,d2a989fc,10,0,0,0,0,0.0,"[2, 4, 10]",3.0,18,6,0,31,4,1,0,0,0,0,1,10.33,1,0,0,0,0,0,4,8,12,36,True,False,False,Right-arm medium,Right-hand bat

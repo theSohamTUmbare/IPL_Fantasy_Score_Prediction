@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Assam,Pallav Kumar Das,c2294408,1,15,9,3,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,27,0,8,35,35,True,False,False,Right-arm medium,Left-hand bat
+Assam,Pritam Debnath,1b9a1e10,2,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,37,True,False,False,,Right-hand bat
+Assam,Sibsankar Roy,3d8348d0,3,52,43,7,1,120.93,"[5, 7]",2.0,12,3,0,16,0,1,1,0,0,0,1,8.0,0,0,0,0,0,94,28,0,122,34,True,False,False,Right-arm offbreak,Left-hand bat
+Assam,Swarupam Purkayastha,dfc887dc,4,0,1,0,0,0.0,"[2, 4, 6, 14]",4.0,24,11,0,29,5,0,0,0,0,0,1,7.25,0,0,0,0,0,-2,11,0,9,35,True,True,False,Right-arm offbreak,Right-hand bat
+Assam,SJ Barman,aef46dfc,4,0,0,0,0,0.0,"[8, 10, 12]",3.0,18,6,0,30,1,3,1,0,0,0,0,10.0,0,0,0,0,0,0,29,0,29,36,True,True,False,Slow left-arm orthodox,Left-hand bat
+Assam,Pritam Das,e342d310,5,0,0,0,0,0.0,"[3, 13, 16]",3.0,18,3,0,40,7,0,0,0,0,1,2,13.33,0,0,0,0,0,0,-3,0,-3,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Assam,Amit Sinha,2f48362d,5,40,36,2,2,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,64,0,8,72,36,True,True,False,Legbreak,Right-hand bat
+Assam,Rajjakuddin Ahmed,69cbffb8,6,9,11,0,0,81.82,[9],1.0,6,1,0,10,1,0,0,0,0,0,0,10.0,0,0,0,0,0,9,1,0,10,29,True,True,False,Right-arm medium,Right-hand bat
+Assam,AN Ahmed,2af1b6d2,6,0,0,0,0,0.0,"[1, 11, 15]",3.0,18,5,0,24,3,0,0,0,0,0,1,8.0,0,0,0,0,0,0,5,0,5,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Assam,Romario Sharma,e15fb6f9,7,20,13,1,1,153.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,34,0,0,34,30,True,True,False,Right-arm offbreak,Left-hand bat
+Assam,Wasiqur Rahman,645eaa96,8,5,4,0,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,30,True,False,False,,Right-hand bat
+Jharkhand,Virat Singh,26d76ad9,1,20,18,0,1,111.11,"[12, 15]",2.0,12,3,0,13,1,0,1,0,0,0,0,6.5,0,0,0,0,0,26,30,0,56,27,True,False,False,Legbreak googly,Left-hand bat
+Jharkhand,Ishan Kishan,752f7486,2,36,19,8,0,189.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,78,0,0,78,26,True,True,False,Legbreak,Left-hand bat
+Jharkhand,IR Jaggi,dded65e7,3,68,36,9,2,188.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,130,0,8,138,36,True,False,False,Legbreak googly,Right-hand bat
+Jharkhand,VR Aaron,0a3d54b9,4,0,0,0,0,0.0,"[1, 3, 11, 18]",4.0,24,8,0,34,4,1,0,0,0,0,1,8.5,0,0,0,0,0,0,8,0,8,35,True,False,False,Right-arm fast,Right-hand bat
+Jharkhand,SS Tiwary,709b0bac,4,19,23,0,1,82.61,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,25,0,8,33,35,True,False,False,,Left-hand bat
+Jharkhand,Monu Kumar,fb24e76c,5,0,0,0,0,0.0,"[2, 4, 6, 20]",4.0,24,13,0,23,2,0,3,2,0,0,2,5.75,0,0,0,0,0,0,112,0,112,30,True,False,True,Right-arm medium,Right-hand bat
+Jharkhand,Jaskaran Singh,5efcabe2,6,0,0,0,0,0.0,"[5, 8, 16, 19]",4.0,24,10,0,23,2,0,1,0,0,0,1,5.75,0,0,0,0,0,0,39,0,39,33,True,False,False,Left-arm medium,Left-hand bat
+Jharkhand,S Nadeem,9d80c5e1,7,0,0,0,0,0.0,"[7, 9, 14, 17]",4.0,24,7,0,24,1,1,1,0,0,0,0,6.0,1,0,0,0,0,0,34,8,42,35,True,False,False,Slow left-arm orthodox,Right-hand bat
+Jharkhand,KR Singh,fe608a7e,8,0,0,0,0,0.0,"[10, 13]",2.0,12,3,0,28,3,2,0,0,0,0,0,14.0,0,0,0,0,0,0,-3,0,-3,28,True,True,False,Right-arm medium,Right-hand bat
+Jharkhand,Kumar Deobrat,bc6d8229,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,32,True,False,False,Right-arm medium,Right-hand bat
+Jharkhand,Nazim Siddiqui,88a4a356,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,30,True,True,False,Right-arm medium,Right-hand bat

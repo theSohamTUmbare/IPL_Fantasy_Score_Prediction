@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Delhi Daredevils,Q de Kock,372455c4,1,46,45,4,1,102.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,1,0,72,0,18,90,32,True,False,False,,Left-hand bat
+Delhi Daredevils,RR Pant,919a3be2,2,69,40,9,2,172.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,131,0,8,139,27,True,False,False,,Left-hand bat
+Delhi Daredevils,SV Samson,a4cc73aa,3,19,12,1,1,158.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,33,0,0,33,30,True,False,False,,Right-hand bat
+Delhi Daredevils,JP Duminy,2e8994e7,4,13,7,2,0,185.71,"[10, 13]",2.0,12,4,0,14,1,0,0,0,0,0,0,7.0,0,0,0,0,0,21,6,0,27,40,True,False,True,Right-arm offbreak,Left-hand bat
+Delhi Daredevils,KK Nair,944533a5,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,33,True,False,False,Right-arm offbreak,Right-hand bat
+Delhi Daredevils,SW Billings,c16d4035,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,0,0,6,6,33,True,False,False,,Right-hand bat
+Delhi Daredevils,CH Morris,fb66ce1f,6,0,0,0,0,0.0,"[2, 5, 8, 19]",4.0,24,8,0,32,4,0,1,0,1,0,1,8.0,1,0,0,0,0,0,41,8,49,37,True,False,True,Right-arm fast-medium,Right-hand bat
+Delhi Daredevils,A Mishra,6b19d823,7,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,4,0,19,1,0,1,0,0,0,0,6.33,0,0,0,0,0,0,31,0,31,42,True,False,False,Legbreak,Right-hand bat
+Delhi Daredevils,Mohammed Shami,8cf9814c,8,0,0,0,0,0.0,"[6, 15, 18, 20]",4.0,24,8,0,31,2,2,1,0,1,0,0,7.75,0,0,0,0,0,0,41,0,41,34,True,False,False,Right-arm fast,Right-hand bat
+Delhi Daredevils,Z Khan,91a4a398,9,0,0,0,0,0.0,"[3, 12, 14, 17]",4.0,24,12,0,27,3,0,1,0,1,0,1,6.75,0,0,0,0,0,0,47,0,47,46,True,False,False,Left-arm fast-medium,Right-hand bat
+Delhi Daredevils,S Nadeem,9d80c5e1,10,0,0,0,0,0.0,"[1, 4, 16]",3.0,18,7,0,23,3,0,2,0,0,0,1,7.67,0,0,0,0,0,0,57,0,57,35,True,False,False,Slow left-arm orthodox,Right-hand bat
+Gujarat Lions,DR Smith,35205dfc,1,15,14,3,0,107.14,"[11, 13]",2.0,12,4,0,12,1,0,0,0,0,0,0,6.0,1,0,0,0,0,27,6,8,41,41,True,False,True,Right-arm medium,Right-hand bat
+Gujarat Lions,BB McCullum,b8a55852,2,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,43,True,True,False,Right-arm offbreak,Right-hand bat
+Gujarat Lions,AJ Finch,b8d490fd,3,5,5,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,38,True,False,False,Slow left-arm orthodox,Right-hand bat
+Gujarat Lions,P Kumar,e938e1bc,4,0,0,0,0,0.0,"[1, 4]",2.0,12,4,0,20,2,1,0,0,0,0,1,10.0,0,0,0,0,0,0,2,0,2,38,True,False,False,Right-arm medium,Right-hand bat
+Gujarat Lions,SK Raina,1dc12ab9,4,24,20,1,1,120.0,"[3, 5, 7, 9]",4.0,24,6,0,34,3,1,0,0,0,0,0,8.5,0,0,0,0,0,34,6,0,40,38,True,False,False,Right-arm offbreak,Left-hand bat
+Gujarat Lions,KD Karthik,c03f1114,5,53,43,5,0,123.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,81,0,8,89,39,True,True,False,Right-arm offbreak,Right-hand bat
+Gujarat Lions,DS Kulkarni,d2a989fc,5,0,0,0,0,0.0,"[2, 6]",2.0,12,4,0,24,5,0,0,0,0,0,0,12.0,0,0,0,0,0,0,0,0,0,36,True,False,False,Right-arm medium,Right-hand bat
+Gujarat Lions,S Kaushik,1da489ff,6,0,0,0,0,0.0,"[8, 10, 15, 17]",4.0,24,9,0,29,4,0,1,0,0,0,0,7.25,0,0,0,0,0,0,34,0,34,29,True,False,False,Left-arm wrist-spin,Right-hand bat
+Gujarat Lions,RA Jadeja,fe93fd9d,6,36,26,4,1,138.46,"[14, 16, 18]",2.333,14,3,0,21,1,1,1,0,0,1,0,9.0,0,0,0,0,2,64,28,0,92,36,True,False,True,Slow left-arm orthodox,Left-hand bat
+Gujarat Lions,JP Faulkner,808f425a,7,7,6,0,0,116.67,[12],1.0,6,2,0,9,0,1,0,0,0,0,0,9.0,0,0,0,0,0,7,2,0,9,34,True,False,True,Left-arm fast-medium,Right-hand bat
+Gujarat Lions,Ishan Kishan,752f7486,8,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,26,True,True,False,Legbreak,Left-hand bat

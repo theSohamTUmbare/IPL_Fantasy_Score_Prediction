@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Derbyshire,BA Godleman,b26b1e3d,1,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Derbyshire,CS MacLeod,9c376401,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Derbyshire,WL Madsen,86e0f3f0,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Derbyshire,HM Nicholls,03521fd3,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Derbyshire,AL Hughes,1066a976,5,0,0,0,0,0.0,"[8, 10, 12]",3.0,18,3,0,16,0,0,1,0,0,0,0,5.33,0,0,0,0,0,0,32,0,32
+Derbyshire,GC Wilson,05de1a5a,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Derbyshire,MJJ Critchley,c5cc48bc,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Derbyshire,GC Viljoen,a316d663,8,0,0,0,0,0.0,"[4, 7, 11]",3.0,18,5,0,25,4,0,1,0,0,0,0,8.33,0,0,0,0,0,0,30,0,30
+Derbyshire,R Rampaul,d68e7f48,9,0,0,0,0,0.0,"[1, 5, 15]",2.5,15,8,0,16,2,0,1,0,0,0,1,6.4,0,0,0,0,0,0,35,0,35
+Derbyshire,LH Ferguson,2f9d0389,10,0,0,0,0,0.0,"[3, 6, 13]",3.0,18,8,0,17,2,0,1,0,0,2,0,5.67,0,0,0,0,0,0,37,0,37
+Derbyshire,SM Sharif,f43dd8c2,11,0,0,0,0,0.0,"[2, 9, 14]",3.0,18,5,0,25,2,1,0,0,0,0,0,8.33,0,0,0,0,0,0,5,0,5
+Leicestershire,NJ Dexter,dc670143,1,15,10,3,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27
+Leicestershire,HJ Swindells,95fd757d,2,15,14,3,0,107.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27
+Leicestershire,MJ Cosgrove,be768595,3,4,6,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+Leicestershire,BA Raine,4c0f3806,4,10,12,2,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
+Leicestershire,CN Ackermann,e734d090,5,24,21,1,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
+Leicestershire,A Javid,8d1dad51,6,28,24,1,1,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,42,0,0,42
+Leicestershire,Mohammad Nabi,62af8546,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Leicestershire,ZJ Chappell,fe5b4367,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Leicestershire,EJH Eckersley,d510d457,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Leicestershire,CF Parkinson,aa1210d8,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Leicestershire,GT Griffiths,79c7041c,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0

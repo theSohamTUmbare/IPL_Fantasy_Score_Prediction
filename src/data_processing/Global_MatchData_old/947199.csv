@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Middlesex,BB McCullum,b8a55852,1,7,8,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,11,0,16,27,43,True,True,False,Right-arm offbreak,Right-hand bat
+Middlesex,DJ Malan,ad9c32a2,2,53,28,2,4,189.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,99,0,0,99,37,True,False,False,Legbreak,Left-hand bat
+Middlesex,PR Stirling,cf494ffe,3,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,1,0,16,17,34,True,False,True,Right-arm offbreak,Right-hand bat
+Middlesex,JEC Franklin,cf73ad76,4,0,2,0,0,0.0,"[4, 6]",2.0,12,2,0,22,3,0,1,0,0,0,2,11.0,0,0,0,0,0,-2,25,0,23,44,True,False,True,Left-arm medium,Left-hand bat
+Middlesex,JA Simpson,f05fe9b1,5,26,12,2,2,216.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,56,0,0,56,36,True,False,False,,Left-hand bat
+Middlesex,NRT Gubbins,c1a89821,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,31,True,False,False,Legbreak,Left-hand bat
+Middlesex,RF Higgins,ad212f96,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,30,True,False,True,Right-arm medium-fast,Right-hand bat
+Middlesex,TS Roland-Jones,6c6aca89,10,0,0,0,0,0.0,"[2, 7]",2.0,12,6,0,14,2,0,1,0,0,0,0,7.0,0,0,0,0,0,0,33,0,33,37,True,False,False,Right-arm medium-fast,Right-hand bat
+Middlesex,JK Fuller,dda5aae5,11,0,0,0,0,0.0,"[3, 8]",2.0,12,4,0,18,1,1,2,0,0,0,1,9.0,0,0,0,0,0,0,54,0,54,35,True,False,True,Right-arm fast-medium,Right-hand bat
+Middlesex,NA Sowter,ee0c05c0,12,0,0,0,0,0.0,[5],1.0,6,1,0,12,2,0,1,0,1,0,1,12.0,0,0,0,0,0,0,34,0,34,32,True,False,False,Legbreak,Right-hand bat
+Middlesex,ST Finn,ccdd8308,13,0,0,0,0,0.0,"[1, 9]",2.0,12,4,0,22,1,1,1,0,0,2,0,11.0,1,0,0,0,0,0,27,8,35,35,True,False,False,Right-arm fast-medium,Right-hand bat
+Somerset,JG Myburgh,47b4ad09,1,12,7,2,0,171.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,44,True,False,False,Right-arm offbreak,Right-hand bat
+Somerset,J Allenby,7d5e0b78,2,17,10,2,1,170.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,35,0,0,35,42,True,False,True,Right-arm medium,Right-hand bat
+Somerset,PD Trego,93e06301,3,14,6,3,0,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26,43,True,False,True,Right-arm medium,Right-hand bat
+Somerset,DPMD Jayawardene,d18f9182,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,47,True,False,False,Right-arm medium,Right-hand bat
+Somerset,L Gregory,06c2de82,5,10,9,1,0,111.11,"[4, 8]",2.0,12,3,0,20,2,1,1,0,0,0,1,10.0,0,0,0,0,0,14,26,0,40,32,True,False,True,Right-arm medium-fast,Right-hand bat
+Somerset,RE van der Merwe,05c2ca46,6,17,10,1,1,170.0,[6],1.0,6,2,0,4,0,0,1,0,1,0,0,4.0,0,0,0,0,4,31,35,0,66,40,True,False,True,Slow left-arm orthodox,Right-hand bat
+Somerset,J Overton,59559bc2,7,9,8,0,0,112.5,"[2, 9]",2.0,12,4,0,24,1,2,0,0,0,0,0,12.0,1,0,0,0,0,9,0,8,17,30,True,False,True,Right-arm fast,Right-hand bat
+Somerset,RC Davies,f939ffa9,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,28,True,False,False,,Right-hand bat
+Somerset,C Overton,e9987a94,8,3,3,0,0,100.0,"[3, 7]",2.0,12,4,0,18,1,1,0,0,0,0,1,9.0,0,0,0,0,0,3,4,0,7,30,True,False,True,Right-arm medium-fast,Right-hand bat
+Somerset,TD Groenewald,dddc811c,9,0,0,0,0,0.0,[1],1.0,6,1,0,21,1,2,0,0,0,0,2,21.0,0,0,0,0,0,0,1,0,1,41,True,False,False,Right-arm fast-medium,Right-hand bat
+Somerset,MTC Waller,d74d1090,10,0,0,0,0,0.0,[5],1.0,6,2,0,4,0,0,1,0,0,0,0,4.0,0,0,0,0,0,0,27,0,27,37,True,False,False,Legbreak,Right-hand bat

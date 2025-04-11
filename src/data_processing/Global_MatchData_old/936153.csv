@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+South Africa,JT Smuts,42172c3c,1,13,8,1,1,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23,36,True,False,True,Slow left-arm orthodox,Right-hand bat
+South Africa,HG Kuhn,ede05b97,2,10,6,2,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26,40,True,False,False,,Right-hand bat
+South Africa,TB de Bruyn,90d6cdea,3,19,10,2,1,190.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,39,0,16,55,32,True,False,False,Right-arm medium-fast,Right-hand bat
+South Africa,DA Miller,d67d5f00,4,40,17,3,3,235.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,80,0,0,80,35,True,False,False,Right-arm offbreak,Left-hand bat
+South Africa,F Behardien,dce2019b,5,31,18,3,1,172.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,59,0,0,59,41,True,False,True,Right-arm fast-medium,Right-hand bat
+South Africa,M Mosehle,8836fcac,6,6,1,0,1,600.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20,34,True,False,False,,Right-hand bat
+South Africa,WD Parnell,3a60e0b5,7,0,0,0,0,0.0,"[2, 9]",2.0,12,3,0,23,3,1,1,0,0,0,0,11.5,0,0,0,0,0,0,24,0,24,35,True,False,False,Left-arm medium-fast,Left-hand bat
+South Africa,L Ngidi,f834dcfc,8,0,0,0,0,0.0,"[1, 8]",2.0,12,5,0,12,2,0,2,0,0,0,0,6.0,0,0,0,0,0,0,57,0,57,29,True,False,False,Right-arm fast-medium,Right-hand bat
+South Africa,AL Phehlukwayo,ab6b1c45,9,0,0,0,0,0.0,"[3, 10]",2.0,12,2,0,23,2,1,0,0,0,0,0,11.5,0,0,0,0,0,0,-2,0,-2,29,True,False,True,Right-arm medium-fast,Left-hand bat
+South Africa,AM Phangiso,7f8ecc51,10,0,0,0,0,0.0,"[5, 7]",2.0,12,4,0,24,2,2,1,0,0,0,0,12.0,0,0,0,0,0,0,25,0,25,41,True,False,False,Slow left-arm orthodox,Right-hand bat
+South Africa,Imran Tahir,acee4cc4,11,0,0,0,0,0.0,"[4, 6]",2.0,12,4,0,23,0,3,2,0,1,0,0,11.5,1,0,0,0,0,0,58,8,66,46,True,False,False,Legbreak googly,Right-hand bat
+Sri Lanka,N Dickwella,45963d9e,1,43,19,6,2,226.32,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,89,0,0,89,31,True,False,False,,Left-hand bat
+Sri Lanka,DM de Silva,7d608e12,2,27,16,2,2,168.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,55,0,0,55,33,True,False,True,Right-arm offbreak,Right-hand bat
+Sri Lanka,AD Mathews,896d78ad,3,6,8,0,0,75.0,"[1, 8]",2.0,12,0,0,29,3,1,0,0,0,0,2,14.5,0,0,0,0,0,6,-6,0,0,37,True,False,True,Right-arm medium,Right-hand bat
+Sri Lanka,ST de Silva,54ef649e,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,31,True,False,True,Right-arm fast-medium,Left-hand bat
+Sri Lanka,S Prasanna,f78e7113,5,12,3,0,2,400.0,[5],1.0,6,1,0,14,1,1,1,0,0,0,1,14.0,0,0,0,0,0,24,26,0,50,39,True,False,True,Legbreak,Right-hand bat
+Sri Lanka,BKG Mendis,5d1e7582,6,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,30,True,True,False,Legbreak,Right-hand bat
+Sri Lanka,LD Chandimal,8dd02a98,7,6,5,1,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,35,True,True,False,Right-arm offbreak,Right-hand bat
+Sri Lanka,DAS Gunaratne,770494eb,8,10,6,0,1,166.67,"[4, 6]",2.0,12,2,0,12,0,0,0,0,0,0,1,6.0,2,0,1,0,0,16,4,28,48,39,True,False,False,Right-arm medium-fast,Right-hand bat
+Sri Lanka,KMDN Kulasekara,469ea22b,8,0,0,0,0,0.0,"[2, 9]",2.0,12,4,0,27,3,2,2,1,0,1,0,13.5,0,0,0,0,0,0,56,0,56,42,True,False,False,Right-arm fast-medium,Right-hand bat
+Sri Lanka,N Pradeep,2af838ee,9,0,0,0,0,0.0,"[7, 10]",2.0,12,2,0,25,3,1,0,0,0,0,0,12.5,0,0,0,0,0,0,-4,0,-4,38,True,False,False,Right-arm fast-medium,Right-hand bat
+Sri Lanka,RAS Lakmal,2f28dc94,10,0,0,0,0,0.0,[3],1.0,6,2,0,18,1,2,1,0,0,0,1,18.0,1,0,0,0,0,0,27,8,35,38,True,False,False,Right-arm fast-medium,Right-hand bat

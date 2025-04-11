@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Adelaide Strikers,AT Carey,69d03465,1,34,28,4,1,121.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,60,0,8,68,33,True,False,False,,Left-hand bat
+Adelaide Strikers,J Weatherald,edc7ddb6,2,15,13,2,0,115.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,23,0,8,31,30,True,False,False,Legbreak,Left-hand bat
+Adelaide Strikers,TM Head,12b610c2,3,12,13,1,0,92.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,31,True,False,False,Right-arm offbreak,Left-hand bat
+Adelaide Strikers,CA Ingram,c995d726,4,48,31,2,4,154.84,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,88,0,0,88,39,True,False,False,Legbreak,Left-hand bat
+Adelaide Strikers,JW Wells,8bdac857,5,10,13,0,0,76.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,10,0,8,18,36,True,False,False,Right-arm medium,Right-hand bat
+Adelaide Strikers,MG Neser,0164b064,6,12,13,0,1,92.31,"[1, 3, 14, 19]",4.0,24,10,0,29,1,2,3,0,0,0,1,7.25,1,0,0,0,0,18,89,8,115,35,True,False,True,Right-arm medium-fast,Right-hand bat
+Adelaide Strikers,JS Lehmann,c96a215f,7,4,3,0,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12,32,True,False,False,Slow left-arm orthodox,Left-hand bat
+Adelaide Strikers,Rashid Khan,5f547c8b,8,16,6,0,2,266.67,"[5, 7, 9, 17]",4.0,24,9,0,21,2,0,2,0,1,0,0,5.25,1,0,0,0,0,28,71,8,107,26,True,False,True,Legbreak googly,Right-hand bat
+Adelaide Strikers,PM Siddle,bd93fea4,9,0,0,0,0,0.0,"[6, 8, 13, 20]",4.0,24,12,1,13,1,0,2,1,0,0,0,3.25,0,0,0,0,0,0,88,0,88,40,True,False,False,Right-arm fast-medium,Right-hand bat
+Adelaide Strikers,B Laughlin,b2a79f17,11,0,0,0,0,0.0,"[10, 12, 16, 18]",4.0,24,8,0,38,1,3,1,0,0,0,1,9.5,1,0,0,0,0,0,33,8,41,42,True,False,False,Right-arm fast-medium,Right-hand bat
+Adelaide Strikers,B Stanlake,6834d1f2,12,0,0,0,0,0.0,"[2, 4, 11, 15]",4.0,24,13,0,24,4,0,1,0,0,0,1,6.0,0,0,0,0,0,0,40,0,40,30,True,False,False,Right-arm fast,Left-hand bat
+Sydney Thunder,KR Patterson,e3bf8356,1,29,36,3,0,80.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,45,0,8,53,31,True,False,False,Right-arm offbreak,Left-hand bat
+Sydney Thunder,JC Buttler,99b75528,2,21,21,3,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,39,0,16,55,34,True,False,False,,Right-hand bat
+Sydney Thunder,SR Watson,4329fbb5,3,14,16,1,0,87.5,[1],1.0,6,1,0,8,1,0,0,0,0,0,1,8.0,0,0,0,0,0,18,1,0,19,43,True,False,True,Right-arm fast-medium,Right-hand bat
+Sydney Thunder,CJ Ferguson,9b4935c8,4,9,13,0,0,69.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,7,0,0,7,40,True,False,False,Right-arm medium,Right-hand bat
+Sydney Thunder,AJ Nair,4ba2c04d,5,10,9,1,0,111.11,"[8, 10, 12, 16]",4.0,24,4,0,28,0,1,0,0,0,0,0,7.0,0,0,0,0,0,14,6,0,20,26,True,False,False,Right-arm offbreak,Right-hand bat
+Sydney Thunder,BJ Rohrer,27af6414,6,29,13,1,3,223.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,61,0,8,69,44,True,False,False,,Left-hand bat
+Sydney Thunder,CJ Green,19b9f399,7,8,5,0,1,160.0,"[3, 5, 13, 18]",4.0,24,12,0,22,0,2,1,0,0,0,0,5.5,0,0,0,0,0,14,41,0,55,31,True,False,True,Right-arm offbreak,Right-hand bat
+Sydney Thunder,RJ Gibson,50636767,8,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,31,True,False,False,Right-arm medium,Right-hand bat
+Sydney Thunder,GS Sandhu,1558d83b,9,0,1,0,0,0.0,"[4, 14, 19]",3.0,18,8,0,28,2,2,2,0,0,0,2,9.33,0,0,0,0,0,-2,58,0,56,31,True,False,False,Right-arm fast-medium,Left-hand bat
+Sydney Thunder,MJ McClenaghan,51a3c5ef,10,0,2,0,0,0.0,"[2, 6, 17, 20]",4.0,24,8,0,38,2,2,0,0,0,0,1,9.5,0,0,0,0,0,-2,8,0,6,38,True,False,False,Left-arm fast-medium,Left-hand bat
+Sydney Thunder,Fawad Ahmed,22ae3041,11,0,2,0,0,0.0,"[7, 9, 11, 15]",4.0,24,11,0,31,4,1,3,0,2,0,0,7.75,0,0,0,0,0,0,106,0,106,43,True,False,False,Legbreak googly,Right-hand bat

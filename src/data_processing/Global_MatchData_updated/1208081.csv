@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Khulna Tigers,Rahmanullah Gurbaz,0bacade8,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+Khulna Tigers,Saif Hassan,bb95564b,2,20,20,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
+Khulna Tigers,RR Rossouw,cad00a4d,3,52,32,4,4,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,104,0,8,112
+Khulna Tigers,Mushfiqur Rahim,a94e08ea,4,12,8,2,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
+Khulna Tigers,Shamsur Rahman,02789d88,5,7,10,1,0,70.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,9,0,0,9
+Khulna Tigers,R Frylinck,8b248d88,6,44,20,6,2,220.0,"[1, 9, 11, 14]",4.0,24,7,0,37,6,0,2,1,1,0,0,9.25,0,0,0,0,6,90,73,0,163
+Khulna Tigers,Mehedi Hasan Miraz,c58b0108,7,4,6,0,0,66.67,[8],1.0,6,1,0,10,0,1,0,0,0,0,0,10.0,0,0,0,0,0,4,1,0,5
+Khulna Tigers,Shohidul Islam,607ed7c2,8,2,8,0,0,25.0,"[5, 13, 15, 18]",4.0,24,7,0,48,7,2,1,1,0,0,0,12.0,0,0,0,0,0,2,36,0,38
+Khulna Tigers,Mohammad Amir,e174dadd,9,4,6,0,0,66.67,"[2, 4, 12, 19]",4.0,24,4,0,45,6,1,0,0,0,0,2,11.25,0,0,0,0,0,4,0,0,4
+Khulna Tigers,Robiul Haque,2353b224,10,0,0,0,0,0.0,"[7, 10, 17]",3.0,18,3,0,44,4,3,1,0,0,0,1,14.67,0,0,0,0,0,0,22,0,22
+Khulna Tigers,Shafiul Islam,1a8eebbe,11,0,0,0,0,0.0,"[3, 6, 16, 20]",4.0,24,6,0,44,2,3,1,0,0,0,5,11.0,0,0,0,0,0,0,29,0,29
+Sylhet Thunder,ADS Fletcher,1bae756b,1,103,57,11,5,180.7,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,199,0,0,199
+Sylhet Thunder,Abdul Mazid,61a1cead,2,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+Sylhet Thunder,J Charles,09a9d073,3,90,38,11,5,236.84,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,182,0,0,182
+Sylhet Thunder,Mohammad Mithun,77191792,4,3,3,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,3,0,14,17
+Sylhet Thunder,Mosaddek Hossain,8919756f,5,11,11,1,0,100.0,[4],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,1,0,0,0,0,15,1,8,24
+Sylhet Thunder,Nazmul Hossain Milon,0637aa94,6,11,6,2,0,183.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,19,0,28,47
+Sylhet Thunder,Sohag Gazi,5a4c12ab,7,0,2,0,0,0.0,"[3, 5, 7, 9]",4.0,24,6,0,35,4,1,0,0,0,0,0,8.75,2,0,0,0,0,0,6,16,22
+Sylhet Thunder,Monir Hossain,760f445b,8,0,0,0,0,0.0,"[1, 12, 14]",3.0,18,6,0,31,4,1,2,0,0,0,1,10.33,0,0,0,1,0,0,54,6,60
+Sylhet Thunder,K Santokie,531f0278,9,0,0,0,0,0.0,"[2, 11, 15, 18]",4.0,24,10,0,37,4,2,3,0,0,0,2,9.25,0,0,0,0,0,0,89,0,89
+Sylhet Thunder,Ebadat Hossain,cb5100f1,10,0,0,0,0,0.0,"[6, 13, 17, 19]",3.5,21,11,0,17,1,1,2,0,0,0,0,4.86,0,0,0,0,0,0,67,0,67
+Sylhet Thunder,Naveen-ul-Haq,c0c411cb,11,0,0,0,0,0.0,"[8, 10, 16]",3.0,18,6,0,21,1,1,1,0,0,0,1,7.0,1,0,0,0,0,0,33,8,41

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Australia,AC Gilchrist,2b6e6dec,1,31,25,4,0,124.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,51,0,8,59,53,True,True,False,Right-arm offbreak,Left-hand bat
+Australia,BJ Hodge,b57f8a9a,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,50,True,False,False,Right-arm offbreak,Right-hand bat
+Australia,ML Hayden,d8699ab7,2,58,37,7,2,156.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,110,0,0,110,53,True,False,False,Right-arm medium,Left-hand bat
+Australia,A Symonds,bd77eb62,3,0,0,0,0,0.0,[],0.667,4,2,0,2,0,0,1,0,0,0,0,3.0,1,0,0,0,0,0,27,8,35,46,True,False,True,Right-arm offbreak,Right-hand bat
+Australia,MEK Hussey,48fd7349,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,49,True,False,False,Right-arm medium,Left-hand bat
+Australia,MJ Clarke,f842c2cf,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,43,True,False,False,Slow left-arm orthodox,Right-hand bat
+Australia,SR Watson,4329fbb5,6,0,0,0,0,0.0,"[13, 15, 17, 19]",3.333,20,6,0,19,0,1,1,0,0,1,0,5.7,0,0,0,0,0,0,35,0,35,43,True,False,True,Right-arm fast-medium,Right-hand bat
+Australia,B Lee,dd09ff8e,7,0,0,0,0,0.0,"[1, 3, 11, 18]",4.0,24,7,0,27,3,0,2,1,0,0,0,6.75,3,0,0,0,0,0,67,28,95,48,True,False,False,Right-arm fast,Right-hand bat
+Australia,MG Johnson,f5180fe6,8,0,0,0,0,0.0,"[5, 7, 9, 16]",4.0,24,10,0,18,1,0,0,0,0,0,1,4.5,0,0,0,0,0,0,16,0,16,43,True,False,False,Left-arm fast,Left-hand bat
+Australia,NW Bracken,4c61a0f9,9,0,0,0,0,0.0,"[2, 4, 14, 20]",3.5,21,12,0,14,1,0,2,0,0,0,0,4.0,1,0,0,0,0,0,68,8,76,47,True,False,False,Left-arm fast-medium,Right-hand bat
+Australia,SR Clark,a3bfec5d,10,0,0,0,0,0.0,"[6, 8, 10, 12]",4.0,24,16,0,20,3,0,4,0,0,1,0,5.0,1,0,0,0,0,0,128,8,136,,,,,,
+Sri Lanka,WU Tharanga,7ed9fd56,1,4,8,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,40,True,False,False,,Left-hand bat
+Sri Lanka,ST Jayasuriya,f233bbb4,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,55,True,False,True,Slow left-arm orthodox,Left-hand bat
+Sri Lanka,KC Sangakkara,6b71e6cf,3,22,23,3,0,95.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34,47,True,True,False,Right-arm offbreak,Left-hand bat
+Sri Lanka,DPMD Jayawardene,d18f9182,4,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,47,True,False,False,Right-arm medium,Right-hand bat
+Sri Lanka,LPC Silva,1be70c88,5,6,11,1,0,54.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,6,0,0,6,45,True,False,False,Legbreak,Right-hand bat
+Sri Lanka,TM Dilshan,5bdcdb72,6,3,5,0,0,60.0,"[8, 10]",2.0,12,4,0,13,1,0,0,0,0,0,1,6.5,0,0,0,0,0,3,6,0,9,48,True,False,True,Right-arm offbreak,Right-hand bat
+Sri Lanka,J Mubarak,a9520ac2,7,28,26,3,0,107.69,[11],0.333,2,0,0,8,0,1,0,0,0,0,0,24.02,0,0,0,0,0,44,0,0,44,44,True,False,True,Right-arm offbreak,Left-hand bat
+Sri Lanka,MF Maharoof,ab89348d,8,0,2,0,0,0.0,"[5, 7]",2.0,12,1,0,34,4,1,0,0,0,0,5,17.0,0,0,0,0,0,-2,-5,0,-7,40,True,False,True,Right-arm fast-medium,Right-hand bat
+Sri Lanka,WPUJC Vaas,bcce309e,9,21,26,1,0,80.77,"[1, 3]",2.0,12,3,0,21,3,0,0,0,0,1,0,10.5,0,0,0,0,0,25,1,0,26,51,True,False,False,Left-arm fast-medium,Left-hand bat
+Sri Lanka,SL Malinga,a12e1d51,10,12,10,0,1,120.0,[9],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,18,1,0,19,41,True,False,False,Right-arm fast,Right-hand bat
+Sri Lanka,CRD Fernando,342d8ade,11,0,2,0,0,0.0,"[2, 4, 6]",3.0,18,9,0,12,2,0,0,0,0,0,0,4.0,0,0,0,0,0,-2,15,0,13,45,True,False,False,Right-arm fast-medium,Right-hand bat

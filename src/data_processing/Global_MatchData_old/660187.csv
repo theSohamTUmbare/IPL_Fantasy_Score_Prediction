@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Italy,GK Berg,42151725,1,19,11,2,1,172.73,"[9, 11, 13, 15]",4.0,24,6,0,21,0,0,2,0,0,0,0,5.25,3,0,0,0,6,39,60,28,127,44,True,False,True,Right-arm medium,Right-hand bat
+Italy,AM Northcote,8cf570b0,2,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,41,True,False,False,Right-arm offbreak,Right-hand bat
+Italy,PA Petricola,d159bc7a,3,38,33,3,0,115.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,54,0,0,54,41,True,True,False,Right-arm medium-fast,Left-hand bat
+Italy,DG Crowley,1f1f93b5,4,59,48,3,2,122.92,"[2, 4, 6, 17]",3.333,20,13,0,10,1,0,2,0,0,0,0,3.0,1,0,1,0,0,91,69,20,180,35,True,True,False,Slow left-arm orthodox,Right-hand bat
+Italy,CS Sandri,b7ccb3c9,5,30,20,1,2,150.0,"[8, 10, 16]",3.0,18,5,0,15,1,0,0,0,0,0,0,5.0,1,0,1,0,0,50,9,20,79,41,True,True,False,Right-arm offbreak,Right-hand bat
+Italy,BBJL Perera,c8c9d60b,6,5,5,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,37,True,True,False,Right-arm offbreak,Right-hand bat
+Italy,MG Raso,2dfaa85a,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,44,True,True,False,Legbreak,Left-hand bat
+Italy,A Bonora,71c1f483,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,46,True,True,False,Right-arm fast-medium,Right-hand bat
+Italy,GRD Munasinghe,eff8b730,12,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,9,0,19,2,0,3,0,0,0,1,6.33,1,0,0,0,0,0,90,8,98,38,True,True,False,Right-arm medium-fast,Right-hand bat
+Italy,V Pennazza,235fb973,13,0,0,0,0,0.0,[7],1.0,6,3,0,10,0,0,0,0,0,0,7,10.0,1,0,0,0,0,0,3,8,11,40,True,True,False,Left-arm medium,Right-hand bat
+Italy,MGSM Fernando,658c2e71,14,0,0,0,0,0.0,"[12, 14]",2.0,12,5,0,12,0,0,1,0,0,0,3,6.0,0,0,0,0,0,0,32,0,32,33,True,True,False,Slow left-arm orthodox,Left-hand bat
+United Arab Emirates,Mohammad Azam,2056c495,1,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,44,True,True,False,Slow left-arm orthodox,Left-hand bat
+United Arab Emirates,Shaiman Anwar,e9630504,2,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,-2,0,12,10,46,True,False,False,Legbreak googly,Right-hand bat
+United Arab Emirates,Amjad Javed,18eaf2fa,3,5,8,1,0,62.5,[13],1.0,6,2,0,6,0,0,1,0,0,0,0,6.0,0,0,0,0,0,9,27,0,36,44,True,False,True,Right-arm medium,Right-hand bat
+United Arab Emirates,Khurram Khan,ae6746e0,4,6,6,1,0,100.0,"[8, 10, 20]",3.0,18,3,0,16,0,0,1,0,0,0,0,5.33,1,0,0,0,0,10,32,8,50,53,True,False,False,Slow left-arm orthodox,Left-hand bat
+United Arab Emirates,SP Patil,f5c198fb,5,13,12,1,0,108.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,39,True,False,False,,Right-hand bat
+United Arab Emirates,Rohan Mustafa,d1988788,6,17,24,0,0,70.83,"[7, 9]",2.0,12,3,0,15,1,0,0,0,0,0,0,7.5,0,0,0,0,0,17,3,0,20,36,True,False,False,Right-arm offbreak,Left-hand bat
+United Arab Emirates,Mohammad Shafiq,86d327a3,7,25,26,1,0,96.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,33,0,12,45,51,True,False,False,,Right-hand bat
+United Arab Emirates,Nasir Aziz,e70a0811,8,3,5,0,0,60.0,"[11, 15, 17]",3.0,18,3,0,35,1,3,0,0,0,0,0,11.67,0,0,0,0,0,3,-1,0,2,38,True,False,False,Right-arm offbreak,Right-hand bat
+United Arab Emirates,Ahmed Raza,79b4839e,9,1,2,0,0,50.0,"[12, 14, 16]",3.0,18,6,0,21,2,0,0,0,0,0,1,7.0,0,0,0,0,0,1,8,0,9,36,True,False,False,Slow left-arm orthodox,Right-hand bat
+United Arab Emirates,EHSN Silva,7572bf45,10,4,5,0,0,80.0,"[2, 4, 6, 18]",4.0,24,12,0,16,1,0,1,1,0,0,0,4.0,0,0,0,0,0,4,51,0,55,46,True,False,False,Slow left-arm orthodox,Left-hand bat
+United Arab Emirates,AM Guruge,26534b48,11,2,3,0,0,66.67,"[1, 3, 5, 19]",4.0,24,8,0,45,5,2,1,0,0,1,0,11.25,1,0,0,0,0,2,29,8,39,44,True,False,False,Left-arm fast-medium,Right-hand bat

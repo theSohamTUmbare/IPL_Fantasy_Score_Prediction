@@ -1,0 +1,25 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Lucknow Super Giants,KR Mayers,73c18486,1,2,14,0,0,14.29,[2],1.0,6,3,0,11,2,0,0,0,0,1,0,11.0,0,0,0,0,-6,-4,3,0,-1,32,True,False,True,Right-arm medium,Left-hand bat
+Lucknow Super Giants,Q de Kock,372455c4,2,29,19,3,1,152.63,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,0,0,4,55,0,28,83,32,True,False,False,,Left-hand bat
+Lucknow Super Giants,PN Mankad,663b5e34,3,64,45,7,2,142.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,114,0,8,122,30,True,False,True,Right-arm medium,Right-hand bat
+Lucknow Super Giants,MP Stoinis,d9273ee7,4,40,25,2,3,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,74,0,0,74,35,True,False,True,Right-arm medium,Right-hand bat
+Lucknow Super Giants,A Mishra,6b19d823,5,0,0,0,0,0.0,"[7, 9, 11, 16]",4.0,24,8,0,40,2,3,1,0,0,0,1,10.0,1,0,0,0,0,0,31,8,39,42,True,False,False,Legbreak,Right-hand bat
+Lucknow Super Giants,N Pooran,3241e3fd,5,44,13,3,4,338.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,90,0,0,90,29,True,True,False,Right-arm offbreak,Left-hand bat
+Lucknow Super Giants,KH Pandya,5b8c830e,6,0,0,0,0,0.0,"[4, 13, 15, 17]",4.0,24,12,0,24,2,1,2,0,1,0,0,6.0,0,0,0,0,0,0,72,0,72,34,True,False,True,Slow left-arm orthodox,Left-hand bat
+Lucknow Super Giants,Yash Thakur,4b31f3a3,7,0,0,0,0,0.0,"[6, 14, 18, 20]",4.0,24,11,0,28,1,2,1,0,0,0,0,7.0,0,0,0,0,0,0,38,0,38,26,True,False,False,Right-arm fast-medium,Right-hand bat
+Lucknow Super Giants,Ravi Bishnoi,df064e1a,8,0,0,0,0,0.0,"[10, 12]",2.0,12,1,0,23,2,1,0,0,0,0,0,11.5,0,0,0,0,0,0,-3,0,-3,24,True,False,False,Legbreak googly,Right-hand bat
+Lucknow Super Giants,Yudhvir Singh,4885bbe6,9,0,0,0,0,0.0,"[1, 3, 8]",3.0,18,7,0,24,4,0,1,0,0,0,1,8.0,0,0,0,0,0,0,32,0,32,27,True,False,False,Right-arm medium-fast,Right-hand bat
+Lucknow Super Giants,Avesh Khan,eef2536f,10,0,0,0,0,0.0,"[5, 19]",2.0,12,2,0,30,5,1,1,0,0,0,0,15.0,0,0,0,0,0,0,21,0,21,28,True,False,False,Right-arm fast-medium,Right-hand bat
+Lucknow Super Giants,A Badoni,872b03f7,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,25,True,False,False,Right-arm offbreak,Right-hand bat
+Sunrisers Hyderabad,Anmolpreet Singh,1399b39c,1,36,27,7,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,70,0,0,70,27,True,False,False,Right-arm offbreak,Right-hand bat
+Sunrisers Hyderabad,Abhishek Sharma,f29185a1,2,7,4,1,0,175.0,"[10, 12, 16]",3.0,18,6,0,42,1,5,1,0,0,0,1,14.0,1,0,0,0,0,11,25,8,44,24,True,False,True,Slow left-arm orthodox,Left-hand bat
+Sunrisers Hyderabad,RA Tripathi,77255a9e,3,20,13,4,0,153.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,40,0,0,40,34,True,False,False,Right-arm medium,Right-hand bat
+Sunrisers Hyderabad,AK Markram,6a26221c,4,28,20,2,1,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,48,0,8,56,30,True,False,True,Right-arm offbreak,Right-hand bat
+Sunrisers Hyderabad,H Klaasen,235c2bb6,5,47,29,3,3,162.07,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,85,0,0,85,33,True,True,False,Right-arm offbreak,Right-hand bat
+Sunrisers Hyderabad,Vivrant Sharma,1b7b0fa7,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,25,True,False,True,Legbreak googly,Left-hand bat
+Sunrisers Hyderabad,T Natarajan,ce794613,6,0,0,0,0,0.0,"[5, 11, 17, 19]",4.0,24,8,0,31,1,2,0,0,0,0,0,7.75,0,0,0,0,0,0,8,0,8,33,True,False,False,Left-arm medium,Left-hand bat
+Sunrisers Hyderabad,GD Phillips,9a46c4e5,6,0,1,0,0,0.0,"[4, 8]",2.0,12,5,0,10,1,0,1,0,0,0,0,5.0,0,0,0,0,0,-2,34,0,32,28,True,False,True,Right-arm offbreak,Right-hand bat
+Sunrisers Hyderabad,Abdul Samad,8e514b4c,7,37,25,1,4,148.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,71,0,8,79,23,True,False,False,Legbreak,Right-hand bat
+Sunrisers Hyderabad,M Markande,a9fd84fb,7,0,0,0,0,0.0,"[7, 9, 14]",3.0,18,2,0,39,4,2,1,0,0,0,0,13.0,0,0,0,0,0,0,21,0,21,27,True,False,False,Legbreak,Right-hand bat
+Sunrisers Hyderabad,Fazalhaq Farooqi,e9c7f0d0,8,0,0,0,0,0.0,"[2, 6, 13, 20]",3.333,20,8,0,32,5,0,0,0,0,0,4,9.6,0,0,0,0,0,0,8,0,8,24,True,False,False,Left-arm fast-medium,Right-hand bat
+Sunrisers Hyderabad,B Kumar,2e81a32d,8,2,1,0,0,200.0,"[1, 3, 15, 18]",4.0,24,7,0,30,3,1,0,0,0,0,0,7.5,0,0,0,0,0,2,7,0,9,35,True,False,False,Right-arm medium,Right-hand bat

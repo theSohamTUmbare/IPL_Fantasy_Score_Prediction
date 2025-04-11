@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+India,YBK Jaiswal,6c19c6e5,1,24,23,3,1,104.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,42,0,0,42,23,True,False,False,Legbreak,Left-hand bat
+India,RD Gaikwad,45a43fe2,2,19,16,1,1,118.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,29,0,8,37,28,True,False,False,Right-arm offbreak,Right-hand bat
+India,Tilak Varma,b0482a1d,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,22,True,False,True,Right-arm offbreak,Left-hand bat
+India,SV Samson,a4cc73aa,4,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,30,True,False,False,,Right-hand bat
+India,RK Singh,0a509d6b,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,27,True,False,False,Right-arm offbreak,Left-hand bat
+India,S Dube,a4e37e47,5,0,0,0,0,0.0,[9],1.0,6,3,0,6,1,0,0,0,0,0,0,6.0,0,0,0,0,0,0,3,0,3,31,True,False,True,Right-arm medium,Left-hand bat
+India,Washington Sundar,f19ccfad,6,0,0,0,0,0.0,"[10, 12, 14]",3.0,18,4,0,19,1,0,0,0,0,0,0,6.33,0,0,0,0,0,0,6,0,6,25,True,False,True,Right-arm offbreak,Left-hand bat
+India,Arshdeep Singh,244048f6,7,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,11,0,35,2,2,1,0,1,1,3,8.75,0,0,0,0,0,0,44,0,44,26,True,False,False,Left-arm medium-fast,Left-hand bat
+India,JJ Bumrah,462411b3,8,0,0,0,0,0.0,"[1, 3, 16, 19]",4.0,24,16,0,24,3,1,2,0,1,0,1,6.0,0,0,0,0,0,0,76,0,76,31,True,False,False,Right-arm fast,Right-hand bat
+India,Ravi Bishnoi,df064e1a,9,0,0,0,0,0.0,"[6, 8, 11, 13]",4.0,24,11,0,23,1,1,2,1,1,0,1,5.75,0,0,0,0,0,0,81,0,81,24,True,False,False,Legbreak googly,Right-hand bat
+India,M Prasidh Krishna,85e0cf10,10,0,0,0,0,0.0,"[5, 7, 15, 17]",4.0,24,11,0,32,4,1,2,0,0,0,1,8.0,0,0,0,0,0,0,61,0,61,29,True,False,False,Right-arm fast-medium,Right-hand bat
+Ireland,A Balbirnie,6ef13460,1,4,2,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,34,True,False,False,Right-arm offbreak,Right-hand bat
+Ireland,PR Stirling,cf494ffe,2,11,11,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,15,0,8,23,34,True,False,True,Right-arm offbreak,Right-hand bat
+Ireland,L Tucker,3979b5e0,3,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,28,True,False,False,,Right-hand bat
+Ireland,J Little,9061a703,4,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,9,0,20,2,1,0,0,0,0,1,6.67,0,0,0,0,0,0,11,0,11,25,True,False,False,Left-arm fast-medium,Right-hand bat
+Ireland,HT Tector,59ea70a4,4,9,16,1,0,56.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,9,0,0,9,25,True,False,False,Right-arm offbreak,Right-hand bat
+Ireland,C Campher,478a63e7,5,39,33,3,1,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,61,0,0,61,25,True,False,True,Right-arm medium-fast,Right-hand bat
+Ireland,B White,1a448be0,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,False,False,Legbreak,Right-hand bat
+Ireland,GH Dockrell,99cddc5e,6,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,32,True,False,True,Slow left-arm orthodox,Right-hand bat
+Ireland,MR Adair,fc55ec67,7,16,16,2,0,100.0,[1],1.0,6,3,0,10,2,0,0,0,0,0,0,10.0,0,0,0,0,0,24,3,0,27,29,True,False,True,Right-arm fast-medium,Right-hand bat
+Ireland,BJ McCarthy,3766056b,8,51,32,4,4,159.38,"[3, 5]",2.0,12,4,0,14,0,1,0,0,0,0,1,7.0,0,0,0,0,4,103,6,0,109,32,True,False,False,Right-arm fast-medium,Right-hand bat
+Ireland,CA Young,bd0a4a7d,9,1,4,0,0,25.0,[7],0.833,5,3,0,2,0,0,2,0,0,0,0,2.4,0,0,0,0,0,1,53,0,54,34,True,False,False,Right-arm fast-medium,Right-hand bat

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Durham,G Clark,4fd09cfc,1,87,56,8,4,155.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,159,0,8,167,32,True,False,False,Legbreak,Right-hand bat
+Durham,AZ Lees,c9c0fe50,2,30,20,3,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,52,0,0,52,31,True,False,False,Legbreak,Left-hand bat
+Durham,DG Bedingham,a1b69936,3,78,41,7,4,190.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,148,0,0,148,30,True,False,False,,Right-hand bat
+Durham,AJ Turner,ff1e12a0,4,2,2,0,0,100.0,[3],1.0,6,1,0,13,1,0,1,0,0,0,3,13.0,1,0,0,0,0,2,26,8,36,32,True,False,False,Right-arm offbreak,Right-hand bat
+Durham,OG Robinson,60f4c586,5,4,1,1,0,400.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,26,True,False,False,,Right-hand bat
+Durham,BS McKinney,1db6e336,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,20,True,False,False,Right-arm offbreak,Left-hand bat
+Durham,BA Raine,4c0f3806,11,0,0,0,0,0.0,"[6, 9, 16, 18]",4.0,24,5,0,28,3,0,1,0,0,0,2,7.0,0,0,0,0,0,0,32,0,32,33,True,False,True,Right-arm medium-fast,Left-hand bat
+Durham,P Coughlin,71440756,12,0,0,0,0,0.0,"[7, 15, 20]",3.0,18,4,0,45,6,2,2,0,1,2,0,15.0,2,0,0,0,0,0,56,16,72,32,True,False,True,Right-arm medium,Right-hand bat
+Durham,MJ Potts,894b2d25,13,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,3,0,55,2,3,0,0,0,0,8,13.75,0,0,0,0,0,0,-3,0,-3,26,True,False,False,Right-arm fast-medium,Right-hand bat
+Durham,CF Parkinson,aa1210d8,14,0,0,0,0,0.0,"[1, 5, 11, 13]",4.0,24,9,0,31,3,1,3,0,2,0,0,7.75,0,0,0,0,0,0,104,0,104,28,True,False,False,Slow left-arm orthodox,Right-hand bat
+Durham,NA Sowter,ee0c05c0,15,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,3,0,34,5,0,1,0,0,0,0,8.5,0,0,0,0,0,0,28,0,28,32,True,False,False,Legbreak,Right-hand bat
+Lancashire,LWP Wells,1957c6b7,1,9,7,0,1,128.57,"[7, 9, 16]",3.0,18,3,0,38,5,1,0,0,0,0,2,12.67,0,0,0,0,0,15,-3,0,12,34,True,False,False,Legbreak,Left-hand bat
+Lancashire,JJ Bohannon,fd96de7c,2,4,3,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,27,True,False,False,Right-arm medium,Right-hand bat
+Lancashire,KK Jennings,8479a24a,3,26,18,3,0,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,44,0,0,44,32,True,False,False,Right-arm medium-fast,Left-hand bat
+Lancashire,MF Hurst,40e4cf47,4,32,17,4,1,188.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,64,0,0,64,21,True,False,False,,Right-hand bat
+Lancashire,TC Bruce,f92c9151,5,18,17,3,0,105.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30,33,True,False,False,Right-arm offbreak,Right-hand bat
+Lancashire,SJ Croft,ab474682,6,9,8,1,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21,40,True,False,True,Right-arm offbreak,Right-hand bat
+Lancashire,CJ Green,19b9f399,7,38,18,4,2,211.11,"[4, 6, 14, 18]",4.0,24,6,0,40,2,2,0,0,0,0,4,10.0,1,0,0,0,6,76,4,8,88,31,True,False,True,Right-arm offbreak,Right-hand bat
+Lancashire,GP Balderson,23dee937,8,37,23,4,0,160.87,"[8, 10, 12]",3.0,18,2,0,28,2,1,1,0,0,0,0,9.33,1,0,0,0,4,61,27,8,96,24,True,False,True,Right-arm medium,Left-hand bat
+Lancashire,JM Blatherwick,35c08a29,9,17,8,0,2,212.5,"[11, 20]",2.0,12,3,0,28,1,2,1,0,0,4,0,14.0,0,0,0,0,0,29,22,0,51,26,True,False,False,Right-arm fast-medium,Right-hand bat
+Lancashire,S Mahmood,0f6db197,10,0,0,0,0,0.0,"[2, 5, 15, 19]",4.0,24,4,0,47,6,1,1,0,0,2,3,11.75,0,0,0,0,0,0,25,0,25,28,True,False,False,Right-arm fast-medium,Right-hand bat
+Lancashire,L Wood,65b6943c,10,1,1,0,0,100.0,"[1, 3, 13, 17]",4.0,24,8,0,35,3,2,0,0,0,0,0,8.75,0,0,0,0,0,1,8,0,9,29,True,False,False,Left-arm fast-medium,Left-hand bat

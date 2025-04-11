@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Rajasthan,YB Kothari,c2aaa4be,1,1,7,0,0,14.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,29,True,True,False,Legbreak googly,Right-hand bat
+Rajasthan,Arjit Gupta,145903a5,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,35,True,True,False,Right-arm medium,Right-hand bat
+Rajasthan,MK Lomror,da934ee8,3,11,10,2,0,110.0,"[8, 10, 15]",2.833,17,7,0,22,3,0,0,0,0,0,1,7.77,0,0,0,0,0,19,7,0,26,25,True,False,True,Slow left-arm orthodox,Left-hand bat
+Rajasthan,A Choudhary,18e6906e,3,0,0,0,0,0.0,"[11, 13]",2.0,12,8,0,4,0,0,1,0,0,0,0,2.0,0,0,0,0,0,0,39,0,39,35,True,False,False,Left-arm medium,Right-hand bat
+Rajasthan,DJ Hooda,73ad96ed,4,3,9,0,0,33.33,"[4, 6]",2.0,12,8,0,8,1,0,0,0,0,1,0,4.0,0,0,0,0,0,3,14,0,17,29,True,False,True,Right-arm offbreak,Right-hand bat
+Rajasthan,KL Nagarkoti,b4f5c2d9,5,39,48,4,0,81.25,[5],1.0,6,3,0,9,1,0,0,0,0,0,2,9.0,0,0,0,0,0,59,3,0,62,25,True,False,False,Right-arm fast,Right-hand bat
+Rajasthan,SF Khan,25986786,6,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,26,True,True,False,Right-arm offbreak,Right-hand bat
+Rajasthan,Suraj Ahuja,a0d05c98,7,12,11,2,0,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,25,True,False,False,,Right-hand bat
+Rajasthan,Shubham Kamal Sharma,3b892965,8,3,11,0,0,27.27,"[1, 3, 9]",3.0,18,8,0,17,2,0,0,0,0,0,0,5.67,0,0,0,0,-6,-3,12,0,9,28,True,False,True,Slow left-arm orthodox,Left-hand bat
+Rajasthan,Ravi Bishnoi,df064e1a,9,0,4,0,0,0.0,"[2, 7, 12, 14]",4.0,24,11,0,26,2,0,0,0,0,0,3,6.5,0,0,0,0,0,-2,13,0,11,24,True,False,False,Legbreak googly,Right-hand bat
+Rajasthan,Tanveer Ul-Haq,2795b0f6,10,9,18,1,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,9,0,0,9,33,True,True,False,Left-arm medium,Right-hand bat
+Vidarbha,Atharva Taide,1ac746c8,1,40,41,4,0,97.56,"[13, 15, 17]",3.0,18,13,0,9,1,0,1,0,0,0,1,3.0,0,0,0,0,0,60,44,0,104,24,True,False,True,Slow left-arm orthodox,Left-hand bat
+Vidarbha,Ganesh Satish,0ed1a112,2,28,33,4,0,84.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,48,0,12,60,37,True,False,False,,Right-hand bat
+Vidarbha,Akshay Wadkar,c88c8a7d,3,11,15,1,0,73.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,15,0,8,23,30,True,False,False,,Right-hand bat
+Vidarbha,DG Nalkande,cd8d2859,3,0,0,0,0,0.0,"[1, 4]",2.0,12,8,0,8,1,0,1,0,0,0,1,4.0,2,0,0,0,0,0,39,16,55,26,True,False,False,Right-arm fast-medium,Right-hand bat
+Vidarbha,LM Yadav,e0c30d35,4,0,0,0,0,0.0,"[2, 8, 20]",3.0,18,11,0,12,2,0,1,0,0,0,1,4.0,0,0,0,0,0,0,42,0,42,29,True,True,False,Right-arm medium-fast,Right-hand bat
+Vidarbha,Yash Thakur,4b31f3a3,5,0,0,0,0,0.0,"[3, 5, 7, 19]",4.0,24,8,0,24,3,0,2,1,0,0,0,6.0,0,0,0,0,0,0,68,0,68,26,True,False,False,Right-arm fast-medium,Right-hand bat
+Vidarbha,Akshay Karnewar,e1e7f950,6,0,0,0,0,0.0,"[6, 9, 11, 16]",4.0,24,17,0,7,0,0,1,0,1,0,0,1.75,1,0,0,0,0,0,56,8,64,32,True,False,False,Slow left-arm orthodox,Left-hand bat
+Vidarbha,Akshay Wakhare,ec9fc54b,7,0,0,0,0,0.0,"[10, 12, 14, 18]",4.0,24,11,0,21,2,0,1,0,0,0,0,5.25,0,0,0,0,0,0,40,0,40,39,True,False,False,Right-arm offbreak,Right-hand bat
+Vidarbha,SB Dubey,6b2ff18f,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,30,True,False,False,Right-arm offbreak,Left-hand bat
+Vidarbha,AV Wankhade,5708d0b6,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,33,True,False,False,Right-arm medium,Right-hand bat
+Vidarbha,JM Sharma,800d2d97,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,31,True,False,False,,Right-hand bat

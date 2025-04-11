@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Chattogram Challengers,Usman Khan,bafb9238,1,2,8,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,2,0,12,14,29,True,True,False,Right-arm offbreak,Right-hand bat
+Chattogram Challengers,MP O'Dowd,b699df47,2,11,9,1,1,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21,31,True,False,False,Right-arm offbreak,Right-hand bat
+Chattogram Challengers,Mehedi Maruf,3361993b,3,4,7,1,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,36,True,True,False,Right-arm offbreak,Right-hand bat
+Chattogram Challengers,Afif Hossain,37138918,4,15,8,3,0,187.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27,25,True,False,True,Right-arm offbreak,Left-hand bat
+Chattogram Challengers,Towfiq Khan,24e3c15b,5,28,26,3,1,107.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,50,0,0,50,33,True,True,False,Legbreak googly,Right-hand bat
+Chattogram Challengers,Nihaduzzaman,eca6dcb2,5,0,0,0,0,0.0,"[5, 7, 9, 13]",4.0,24,11,0,24,2,1,2,0,1,0,0,6.0,0,0,0,0,0,0,71,0,71,26,True,False,False,Slow left-arm orthodox,Right-hand bat
+Chattogram Challengers,Mehedi Hasan Rana,0b7363da,6,0,0,0,0,0.0,"[2, 14, 16]",3.0,18,7,0,32,3,2,0,0,0,0,1,10.67,0,0,0,0,0,0,5,0,5,28,True,False,False,Left-arm fast,Left-hand bat
+Chattogram Challengers,C Campher,478a63e7,6,3,7,0,0,42.86,[12],1.0,6,2,0,12,1,1,0,0,0,0,0,12.0,1,0,0,0,0,3,2,8,13,25,True,False,True,Right-arm medium-fast,Right-hand bat
+Chattogram Challengers,Ziaur Rahman,c27518d2,7,33,25,2,3,132.0,"[8, 10]",2.0,12,5,0,19,2,0,1,0,0,1,3,9.5,0,0,0,0,2,65,30,0,95,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Chattogram Challengers,Mrittunjoy Chowdhury,21b97584,8,17,20,0,1,85.0,"[1, 3, 15]",3.0,18,9,0,25,3,1,0,0,0,0,1,8.33,0,0,0,0,0,23,9,0,32,23,True,False,True,Left-arm medium-fast,Left-hand bat
+Chattogram Challengers,V Viyaskanth,03a83c50,9,11,10,1,0,110.0,"[4, 6, 11]",3.0,18,11,0,23,5,0,0,0,0,0,0,7.67,0,0,0,0,0,15,11,0,26,23,True,False,False,Legbreak,Right-hand bat
+Rangpur Riders,Mohammad Naim,7923a51d,1,20,12,3,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,42,0,0,42,25,True,False,False,,Left-hand bat
+Rangpur Riders,Rony Talukdar,8bd614b2,2,28,27,5,0,103.7,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,52,0,0,52,34,True,False,False,Right-arm slow-medium,Right-hand bat
+Rangpur Riders,Rahmanullah Gurbaz,0bacade8,3,46,30,7,1,153.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,88,0,8,96,23,True,True,False,Right-arm medium,Right-hand bat
+Rangpur Riders,Nurul Hasan,d365d463,4,15,12,0,1,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,21,0,14,35,31,True,False,False,,Right-hand bat
+Rangpur Riders,Shamim Hossain,711249d1,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,24,True,False,True,Right-arm offbreak,Left-hand bat
+Rangpur Riders,T Kohler-Cadmore,f836b33d,5,20,15,1,2,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,38,0,0,38,30,True,True,False,Right-arm offbreak,Right-hand bat
+Rangpur Riders,Azmatullah Omarzai,8f6dd463,6,0,0,0,0,0.0,"[2, 4, 6, 20]",4.0,24,12,0,28,3,1,1,0,1,0,2,7.0,0,0,0,0,0,0,47,0,47,25,True,False,True,Right-arm medium-fast,Right-hand bat
+Rangpur Riders,Hasan Mahmud,80ad39ac,7,0,0,0,0,0.0,"[9, 11, 17, 19]",4.0,24,9,0,35,3,2,1,0,1,0,0,8.75,1,0,0,0,0,0,42,8,50,25,True,False,False,Right-arm fast-medium,Right-hand bat
+Rangpur Riders,Haris Rauf,24bb1c2f,8,0,0,0,0,0.0,"[5, 7, 13, 15]",4.0,24,15,0,14,1,0,2,0,0,0,1,3.5,1,0,0,1,0,0,71,14,85,31,True,False,False,Right-arm fast,Right-hand bat
+Rangpur Riders,R Mondol,492ff0c2,9,0,0,0,0,0.0,"[10, 12, 16, 18]",4.0,24,10,0,26,1,2,1,0,0,0,0,6.5,0,0,0,0,0,0,37,0,37,22,True,False,False,Right-arm medium,Right-hand bat
+Rangpur Riders,Rakibul Hasan,77768f72,10,0,0,0,0,0.0,"[1, 3, 8, 14]",4.0,24,14,0,26,3,1,2,0,0,0,2,6.5,0,0,0,0,0,0,66,0,66,22,True,False,True,Slow left-arm orthodox,Left-hand bat

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Kenya,SO Tikolo,00d69fa4,1,11,6,1,1,183.33,[9],1.0,6,3,0,10,2,0,0,0,0,0,1,10.0,0,0,0,0,0,21,3,0,24,53,True,False,True,Right-arm offbreak,Right-hand bat
+Kenya,AA Obanda,7081491e,2,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,37,True,False,False,Right-arm medium-fast,Right-hand bat
+Kenya,CO Obuya,5680f1ad,3,6,6,0,1,100.0,"[14, 16]",2.0,12,2,0,15,1,0,0,0,0,0,1,7.5,0,0,1,0,0,12,2,12,26,43,True,False,True,Legbreak,Right-hand bat
+Kenya,MA Ouma,0939c670,4,37,37,1,2,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,57,0,12,69,42,True,True,False,Right-arm offbreak,Right-hand bat
+Kenya,TM Odoyo,2c13defe,5,7,11,0,0,63.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,5,0,0,5,46,True,False,True,Right-arm medium-fast,Right-hand bat
+Kenya,HA Varaiya,eeeebf82,6,0,0,0,0,0.0,"[7, 11, 15]",3.0,18,8,0,26,1,1,1,0,0,0,6,8.67,0,0,0,0,0,0,33,0,33,40,True,False,False,Slow left-arm orthodox,Right-hand bat
+Kenya,RR Patel,7fa6bd8e,6,103,45,5,10,228.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,205,0,8,213,35,True,True,False,Right-arm offbreak,Right-hand bat
+Kenya,E Otieno,c57fa67e,7,0,0,0,0,0.0,"[1, 4, 13, 18]",4.0,24,9,0,44,4,3,0,0,0,0,0,11.0,0,0,0,0,0,0,7,0,7,37,True,False,False,Right-arm medium-fast,Right-hand bat
+Kenya,RG Aga,2fdd16fe,7,0,1,0,0,0.0,"[2, 5, 8, 20]",3.667,22,5,0,38,1,3,1,0,0,0,0,10.36,0,0,0,0,0,0,28,0,28,40,True,False,False,Right-arm medium-fast,Right-hand bat
+Kenya,NN Odhiambo,753b5a2d,8,2,4,0,0,50.0,"[3, 6, 17, 19]",4.0,24,4,0,40,6,0,1,0,1,0,1,10.0,0,0,0,0,0,2,35,0,37,41,True,False,False,Right-arm medium-fast,Right-hand bat
+Kenya,SO Ngoche,49118dc7,9,10,5,2,0,200.0,"[10, 12]",2.0,12,4,0,12,1,0,0,0,0,0,0,6.0,0,0,0,0,0,18,6,0,24,35,True,False,False,Slow left-arm orthodox,Right-hand bat
+Nepal,SP Khakurel,9a6b71d1,1,54,48,6,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,86,0,8,94,37,True,False,False,,Right-hand bat
+Nepal,PS Airee,cc18ba92,2,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,32,True,True,False,Right-arm medium,Right-hand bat
+Nepal,G Malla,b2e1d224,3,32,22,6,0,145.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,62,0,8,70,34,True,False,False,,Right-hand bat
+Nepal,P Khadka,12c3ba4d,4,54,31,3,4,174.19,"[4, 6, 8, 18]",4.0,24,13,0,25,0,2,1,0,1,0,1,6.25,0,0,1,0,6,104,48,12,164,37,True,False,True,Right-arm offbreak,Right-hand bat
+Nepal,B Bhandari,82342b13,5,12,8,1,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,35,True,True,False,Right-arm bowler,Right-hand bat
+Nepal,S Vesawkar,3de06845,6,23,6,0,3,383.33,[17],1.0,6,0,0,30,3,3,0,0,0,0,0,30.0,0,0,0,0,0,41,0,0,41,36,True,False,False,Right-arm offbreak,Right-hand bat
+Nepal,Sagar Pun,3c4007d3,6,0,0,0,0,0.0,"[10, 12, 16]",3.0,18,5,0,37,1,4,0,0,0,0,0,12.33,1,0,0,0,0,0,-1,8,7,32,True,False,False,Right-arm offbreak,Right-hand bat
+Nepal,AK Mandal,defd49f6,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,34,True,False,False,,Right-hand bat
+Nepal,B Regmi,98d05440,8,0,0,0,0,0.0,"[2, 5, 13, 19]",4.0,24,11,0,34,0,4,2,0,1,0,1,8.5,0,0,1,0,0,0,69,12,81,38,True,False,False,Slow left-arm orthodox,Left-hand bat
+Nepal,SP Gauchan,2d8aae2f,9,0,0,0,0,0.0,"[7, 9, 11, 15]",4.0,24,8,0,24,2,0,0,0,0,0,0,6.0,0,0,0,0,0,0,10,0,10,40,True,False,False,Slow left-arm orthodox,Right-hand bat
+Nepal,JK Mukhiya,f8dcfe4e,10,0,0,0,0,0.0,"[1, 3, 14, 20]",4.0,24,9,0,31,3,1,2,0,0,0,0,7.75,0,0,0,0,0,0,59,0,59,32,True,False,False,Right-arm medium-fast,Right-hand bat

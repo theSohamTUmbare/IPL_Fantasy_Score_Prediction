@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Nottinghamshire,JM Clarke,2eca67f5,1,2,12,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-4,0,0,-4,28,True,False,False,,Right-hand bat
+Nottinghamshire,AD Hales,92aeac25,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,-2,0,12,10,36,True,False,False,Right-arm medium,Right-hand bat
+Nottinghamshire,C Munro,af2c687b,3,10,6,0,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,38,True,False,False,Right-arm medium-fast,Left-hand bat
+Nottinghamshire,M Montgomery,7671203a,4,51,38,8,0,134.21,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,93,0,0,93,24,True,True,False,Right-arm offbreak,Right-hand bat
+Nottinghamshire,SR Patel,18fac429,5,30,25,2,1,120.0,"[7, 9, 11, 15]",4.0,24,7,0,34,0,2,0,0,0,2,1,8.5,0,0,0,0,0,48,7,0,55,40,True,False,True,Slow left-arm orthodox,Right-hand bat
+Nottinghamshire,TJ Moores,85dcb721,6,8,9,0,0,88.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,8,0,16,24,28,True,False,False,,Left-hand bat
+Nottinghamshire,CG Harrison,f655d740,7,0,0,0,0,0.0,"[8, 10, 12, 16]",4.0,24,7,0,26,1,1,2,1,0,0,0,6.5,0,0,0,0,0,0,67,0,67,26,True,False,True,Legbreak googly,Right-hand bat
+Nottinghamshire,SJ Mullaney,0e0d43b4,7,18,13,1,1,138.46,[14],1.0,6,1,0,7,0,0,0,0,0,0,0,7.0,0,0,0,0,2,30,1,0,31,38,True,False,True,Right-arm medium,Right-hand bat
+Nottinghamshire,Imad Wasim,9cb8d7a6,8,31,15,2,1,206.67,"[2, 4, 13, 18]",4.0,24,10,1,33,3,2,2,0,1,0,0,8.25,0,0,0,0,6,55,80,0,135,36,True,False,True,Slow left-arm orthodox,Left-hand bat
+Nottinghamshire,LJ Fletcher,e423d162,8,0,0,0,0,0.0,"[1, 6, 20]",2.5,15,4,0,20,1,0,0,0,0,4,0,8.0,0,0,0,0,0,0,4,0,4,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Nottinghamshire,JT Ball,3d0ed2f9,9,0,0,0,0,0.0,"[3, 5, 17, 19]",4.0,24,7,0,37,5,1,0,0,0,0,0,9.25,0,0,0,0,0,0,7,0,7,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Somerset,T Banton,25f7b7d6,1,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,26,True,False,False,,Right-hand bat
+Somerset,WCF Smeed,4e18e961,2,22,18,3,0,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34,23,True,False,False,Right-arm offbreak,Right-hand bat
+Somerset,T Kohler-Cadmore,f836b33d,3,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,30,True,True,False,Right-arm offbreak,Right-hand bat
+Somerset,TB Abell,ba9258a7,4,26,21,3,0,123.81,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,42,0,0,42,31,True,False,True,Right-arm medium,Right-hand bat
+Somerset,SR Dickson,2344bdd1,5,4,6,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,33,True,False,False,Right-arm medium,Right-hand bat
+Somerset,L Gregory,06c2de82,6,57,33,1,5,172.73,"[9, 13, 16, 20]",4.0,24,5,0,33,2,1,2,0,1,0,0,8.25,0,0,0,0,6,105,63,0,168,32,True,False,True,Right-arm medium-fast,Right-hand bat
+Somerset,BGF Green,34b37279,7,35,28,2,1,125.0,"[11, 15, 18]",3.0,18,2,0,38,3,1,1,0,0,0,2,12.67,0,0,0,0,0,53,21,0,74,27,True,False,True,Right-arm fast-medium,Right-hand bat
+Somerset,C Overton,e9987a94,7,0,0,0,0,0.0,"[1, 3, 5, 7]",4.0,24,14,0,23,2,1,2,0,1,2,0,5.75,2,0,0,0,0,0,76,16,92,30,True,False,True,Right-arm medium-fast,Right-hand bat
+Somerset,MJ Henry,e84ac20c,8,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,10,0,27,1,1,1,0,0,2,0,6.75,1,0,0,0,0,0,37,8,45,33,True,False,False,Right-arm fast-medium,Right-hand bat
+Somerset,IS Sodhi,641ac5ff,9,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,8,0,22,2,0,0,0,0,0,0,5.5,1,0,0,0,0,0,12,8,20,32,True,False,False,Legbreak,Right-hand bat
+Somerset,JA Brooks,8bf61e65,10,0,0,0,0,0.0,[6],1.0,6,2,0,13,3,0,0,0,0,0,0,13.0,0,0,0,0,0,0,2,0,2,40,True,False,False,Right-arm medium-fast,Right-hand bat

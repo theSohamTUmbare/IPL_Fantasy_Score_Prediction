@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Kings XI Punjab,AC Gilchrist,2b6e6dec,1,40,30,3,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,64,0,0,64,53,True,True,False,Right-arm offbreak,Left-hand bat
+Kings XI Punjab,PC Valthaty,25eeb281,2,8,8,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,41,True,False,False,Right-arm medium,Right-hand bat
+Kings XI Punjab,SE Marsh,508a1ea7,3,33,30,4,0,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,53,0,0,53,41,True,False,False,Slow left-arm orthodox,Left-hand bat
+Kings XI Punjab,Mandeep Singh,c3a96caf,4,6,10,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,4,0,0,4,33,True,False,True,Right-arm medium,Right-hand bat
+Kings XI Punjab,Harmeet Singh,2a72fd4f,4,0,0,0,0,0.0,"[4, 9]",2.0,12,4,0,26,2,2,0,0,0,0,1,13.0,0,0,0,0,0,0,-2,0,-2,37,True,False,False,Right-arm medium,Right-hand bat
+Kings XI Punjab,DJ Hussey,fd835ab3,5,10,14,0,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,47,True,False,True,Right-arm offbreak,Right-hand bat
+Kings XI Punjab,P Kumar,e938e1bc,5,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,8,1,23,4,0,0,0,0,0,0,7.67,0,0,0,0,0,0,20,0,20,38,True,False,False,Right-arm medium,Right-hand bat
+Kings XI Punjab,BA Bhatt,dc4686e6,6,0,0,0,0,0.0,"[11, 13, 15, 17]",3.5,21,4,0,32,3,1,0,0,0,0,0,9.14,0,0,0,0,0,0,4,0,4,34,True,False,False,Slow left-arm orthodox,Left-hand bat
+Kings XI Punjab,P Dogra,2728e7e9,6,6,8,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6,40,True,False,False,Legbreak,Right-hand bat
+Kings XI Punjab,AD Mascarenhas,3edb58fc,7,9,10,1,0,90.0,"[2, 7, 12, 16]",4.0,24,9,0,23,2,0,0,0,0,0,0,5.75,1,0,0,0,0,13,13,8,34,47,True,False,True,Right-arm fast-medium,Right-hand bat
+Kings XI Punjab,PP Chawla,98ae73b1,8,9,10,0,0,90.0,"[6, 8, 10, 14]",4.0,24,11,0,19,1,0,2,0,1,0,0,4.75,0,0,0,0,0,9,75,0,84,36,True,False,True,Legbreak,Left-hand bat
+Kolkata Knight Riders,BB McCullum,b8a55852,1,15,18,3,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,27,0,6,33,43,True,True,False,Right-arm offbreak,Right-hand bat
+Kolkata Knight Riders,G Gambhir,bb345e0b,2,66,44,7,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,108,0,0,108,43,True,False,False,Legbreak,Left-hand bat
+Kolkata Knight Riders,MS Bisla,5afd4539,3,11,14,0,1,78.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,1,0,17,0,22,39,40,True,False,False,,Right-hand bat
+Kolkata Knight Riders,MK Tiwary,26e5cabf,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,39,True,False,False,Legbreak googly,Right-hand bat
+Kolkata Knight Riders,JH Kallis,86dc8f2e,4,30,23,2,1,130.43,"[2, 4, 6]",3.0,18,3,0,23,2,0,0,0,0,0,0,7.67,1,0,0,0,2,50,3,8,61,49,True,False,True,Right-arm fast-medium,Right-hand bat
+Kolkata Knight Riders,YK Pathan,3c6ffae8,5,0,0,0,0,0.0,[9],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,0,0,2,0,2,42,True,False,True,Right-arm offbreak,Right-hand bat
+Kolkata Knight Riders,R Bhatia,33a364a6,6,0,0,0,0,0.0,"[11, 13, 15, 17]",4.0,24,5,0,23,0,0,1,0,0,0,1,5.75,1,0,0,0,0,0,34,8,42,45,True,False,True,Right-arm medium-fast,Right-hand bat
+Kolkata Knight Riders,DB Das,7050a1e7,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,38,True,False,False,Legbreak googly,Right-hand bat
+Kolkata Knight Riders,SP Narine,9d430b40,8,0,0,0,0,0.0,"[5, 7, 18, 20]",4.0,24,11,0,24,2,1,2,0,1,0,0,6.0,0,0,0,0,0,0,71,0,71,36,True,False,True,Right-arm offbreak,Left-hand bat
+Kolkata Knight Riders,L Balaji,b2b50355,9,0,0,0,0,0.0,"[8, 10, 12, 19]",4.0,24,9,0,20,1,0,1,0,0,0,0,5.0,0,0,0,0,0,0,38,0,38,43,True,False,False,Right-arm medium-fast,Right-hand bat
+Kolkata Knight Riders,B Lee,dd09ff8e,10,0,0,0,0,0.0,"[1, 3, 14, 16]",4.0,24,9,0,26,3,0,2,0,0,0,1,6.5,0,0,0,0,0,0,61,0,61,48,True,False,False,Right-arm fast,Right-hand bat

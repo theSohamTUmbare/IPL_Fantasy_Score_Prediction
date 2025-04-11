@@ -1,0 +1,25 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Brisbane Heat,M Bryant,f32012f4,1,15,11,1,1,136.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,27,0,16,43,26,True,False,False,Right-arm medium,Right-hand bat
+Brisbane Heat,CA Lynn,45eda7c8,2,30,16,3,2,187.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,64,0,0,64,34,True,False,False,Slow left-arm orthodox,Right-hand bat
+Brisbane Heat,JL Denly,bdadf7da,3,50,36,4,2,138.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,88,0,0,88,39,True,False,False,Legbreak,Right-hand bat
+Brisbane Heat,JA Burns,7a5f232a,4,52,37,5,2,140.54,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,94,0,8,102,35,True,False,False,Right-arm offbreak,Right-hand bat
+Brisbane Heat,L Gregory,06c2de82,5,0,1,0,0,0.0,"[7, 10, 18]",3.0,18,7,0,34,4,2,1,0,0,0,0,11.33,1,0,0,0,0,-2,28,8,34,32,True,False,True,Right-arm medium-fast,Right-hand bat
+Brisbane Heat,JJ Peirson,2b55c3b4,6,15,11,2,0,136.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,25,0,0,25,32,True,False,False,,Right-hand bat
+Brisbane Heat,JJ Bazley,003d49e6,7,4,3,1,0,133.33,[11],1.0,6,0,0,12,0,1,0,0,0,0,0,12.0,0,0,0,0,0,8,0,0,8,29,True,False,True,Right-arm fast-medium,Right-hand bat
+Brisbane Heat,MP Kuhnemann,7b953689,7,0,0,0,0,0.0,[8],1.0,6,0,0,11,0,1,0,0,0,0,0,11.0,0,0,0,0,0,0,0,0,0,28,True,False,False,Slow left-arm orthodox,Left-hand bat
+Brisbane Heat,JD Wildermuth,f1c61793,8,0,0,0,0,0.0,"[2, 4, 16, 19]",4.0,24,9,0,28,2,1,1,0,0,0,0,7.0,1,0,0,0,0,0,36,8,44,31,True,False,True,Right-arm medium-fast,Right-hand bat
+Brisbane Heat,MT Steketee,903560ed,9,0,0,0,0,0.0,"[6, 13, 17, 20]",4.0,24,7,0,34,2,1,2,0,0,0,1,8.5,0,0,0,0,0,0,57,0,57,31,True,False,False,Right-arm fast-medium,Right-hand bat
+Brisbane Heat,XC Bartlett,3b53243a,10,0,0,0,0,0.0,"[1, 3, 15]",3.0,18,7,0,29,3,1,1,0,0,0,1,9.67,0,0,0,0,0,0,32,0,32,26,True,False,False,Right-arm fast-medium,Right-hand bat
+Brisbane Heat,Mujeeb Ur Rahman,7d92277a,11,0,0,0,0,0.0,"[5, 9, 12, 14]",4.0,24,13,0,26,0,2,2,0,0,0,1,6.5,2,0,0,0,0,0,65,16,81,24,True,False,False,Right-arm offbreak,Right-hand bat
+Sydney Thunder,UT Khawaja,331ea488,1,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,38,True,False,False,Right-arm medium,Left-hand bat
+Sydney Thunder,AD Hales,92aeac25,2,46,26,3,3,176.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,86,0,0,86,36,True,False,False,Right-arm medium,Right-hand bat
+Sydney Thunder,CJ Ferguson,9b4935c8,3,35,34,4,0,102.94,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,55,0,0,55,40,True,False,False,Right-arm medium,Right-hand bat
+Sydney Thunder,SW Billings,c16d4035,4,22,16,0,2,137.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,2,36,0,12,48,33,True,False,False,,Right-hand bat
+Sydney Thunder,O Davies,0ea54eca,5,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,24,True,False,False,Right-arm offbreak,Right-hand bat
+Sydney Thunder,DR Sams,caf69bf7,6,37,18,3,2,205.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,71,0,0,71,32,True,False,True,Left-arm fast-medium,Right-hand bat
+Sydney Thunder,BCJ Cutting,2e11c706,7,24,15,1,2,160.0,"[9, 14]",2.0,12,4,0,16,0,1,0,0,0,1,0,8.0,0,0,0,0,4,44,4,0,48,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Sydney Thunder,CP Tremain,96824e68,7,0,0,0,0,0.0,"[7, 11]",2.0,12,4,0,24,3,1,0,0,0,0,2,12.0,0,0,0,0,0,0,0,0,0,33,True,False,False,Right-arm medium-fast,Right-hand bat
+Sydney Thunder,T Sangha,52c952d9,8,0,0,0,0,0.0,"[6, 10, 15, 20]",3.167,19,3,0,40,4,2,3,0,0,0,1,12.63,0,0,0,0,0,0,76,0,76,23,True,False,False,Legbreak,Right-hand bat
+Sydney Thunder,CJ Green,19b9f399,8,1,2,0,0,50.0,"[4, 8, 12, 16]",4.0,24,11,0,20,2,0,1,0,0,0,0,5.0,1,0,0,0,0,1,40,8,49,31,True,False,True,Right-arm offbreak,Right-hand bat
+Sydney Thunder,N McAndrew,38c276e1,9,5,4,0,0,125.0,"[1, 3, 17, 19]",4.0,24,10,0,37,4,1,1,0,0,0,2,9.25,1,0,0,0,0,5,35,8,48,31,True,False,False,Right-arm medium-fast,Right-hand bat
+Sydney Thunder,AF Milne,350bb1b1,10,1,1,0,0,100.0,"[2, 5, 13, 18]",4.0,24,9,0,38,3,2,0,0,0,0,3,9.5,0,0,0,0,0,1,9,0,10,32,True,False,False,Right-arm fast,Right-hand bat

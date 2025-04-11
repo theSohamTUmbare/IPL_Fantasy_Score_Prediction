@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Khulna Titans,CAK Walton,bbff906c,1,4,3,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,39,True,False,False,,Right-hand bat
+Khulna Titans,RR Rossouw,cad00a4d,2,20,17,1,1,117.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30,35,True,False,False,Right-arm offbreak,Left-hand bat
+Khulna Titans,S Prasanna,f78e7113,3,6,5,1,0,120.0,[9],1.0,6,1,0,15,0,2,0,0,0,0,0,15.0,1,0,0,0,0,10,1,8,19,39,True,False,True,Legbreak,Right-hand bat
+Khulna Titans,Mahmudullah,bf1d7d3e,4,56,44,8,1,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,102,0,0,102,39,True,False,True,Right-arm offbreak,Right-hand bat
+Khulna Titans,Afif Hossain,37138918,5,5,5,1,0,100.0,"[11, 13, 15]",3.0,18,2,0,23,0,1,1,0,0,0,0,7.67,0,0,0,0,0,9,27,0,36,25,True,False,True,Right-arm offbreak,Left-hand bat
+Khulna Titans,CR Brathwaite,e342e5fb,6,12,12,1,0,100.0,"[6, 8, 10, 19]",4.0,24,7,0,33,4,1,1,0,1,0,0,8.25,0,0,0,0,0,16,40,0,56,36,True,False,True,Right-arm fast-medium,Right-hand bat
+Khulna Titans,Nazmul Hossain Shanto,1274d7ab,7,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,4,0,16,20,26,True,False,False,Right-arm offbreak,Left-hand bat
+Khulna Titans,Ariful Haque,ad1730bc,8,43,19,4,2,226.32,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,81,0,16,97,32,True,False,True,Right-arm medium-fast,Right-hand bat
+Khulna Titans,Shafiul Islam,1a8eebbe,9,5,4,1,0,125.0,"[5, 7, 12, 17]",4.0,24,7,0,35,1,3,0,0,0,0,0,8.75,0,0,0,0,0,9,7,0,16,35,True,False,False,Right-arm fast-medium,Right-hand bat
+Khulna Titans,Junaid Khan,086f5984,10,1,3,0,0,33.33,"[2, 4, 18, 20]",4.0,24,12,0,27,3,1,4,0,2,0,1,6.75,0,0,0,0,0,1,138,0,139,35,True,False,False,Left-arm fast,Right-hand bat
+Khulna Titans,Abu Jayed,1bb0993e,10,0,0,0,0,0.0,"[1, 3, 14, 16]",4.0,24,8,0,29,4,0,2,0,0,0,0,7.25,0,0,0,0,0,0,58,0,58,31,True,False,False,Right-arm fast-medium,Right-hand bat
+Rajshahi Kings,DR Smith,35205dfc,1,62,36,7,4,172.22,"[12, 15, 20]",2.333,14,2,0,26,2,1,1,0,0,0,3,11.14,0,0,0,0,6,128,23,0,151,41,True,False,True,Right-arm medium,Right-hand bat
+Rajshahi Kings,Mominul Haque,de0a3209,2,5,5,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,9,0,16,25,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+Rajshahi Kings,DJ Bell-Drummond,8f938a32,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,31,True,False,False,Right-arm medium-fast,Right-hand bat
+Rajshahi Kings,Zakir Hasan,e3e09091,4,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,27,True,False,False,,Left-hand bat
+Rajshahi Kings,Mushfiqur Rahim,a94e08ea,5,55,33,4,3,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,101,0,0,101,37,True,False,False,,Right-hand bat
+Rajshahi Kings,JEC Franklin,cf73ad76,6,29,27,0,1,107.41,"[5, 11, 13, 16]",4.0,24,5,0,30,3,0,2,0,1,0,0,7.5,0,0,0,0,0,39,63,0,102,44,True,False,True,Left-arm medium,Left-hand bat
+Rajshahi Kings,DJG Sammy,c03c6200,7,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11,41,True,False,True,Right-arm medium,Right-hand bat
+Rajshahi Kings,Mehedi Hasan Miraz,c58b0108,8,3,3,0,0,100.0,"[6, 8, 10]",3.0,18,9,0,24,3,1,1,0,0,0,1,8.0,0,0,0,0,0,3,34,0,37,27,True,False,True,Right-arm offbreak,Right-hand bat
+Rajshahi Kings,Mohammad Sami,68ddabdb,9,3,4,0,0,75.0,"[1, 3, 17, 19]",4.0,24,12,0,29,4,0,3,1,2,0,2,7.25,0,0,0,0,0,3,115,0,118,44,True,False,False,Right-arm fast,Right-hand bat
+Rajshahi Kings,Naeem Islam,185cbde3,10,1,3,0,0,33.33,"[7, 9]",2.0,12,3,0,20,1,1,0,0,0,0,1,10.0,0,0,0,0,0,1,1,0,2,30,True,True,False,Slow left-arm orthodox,Right-hand bat
+Rajshahi Kings,Hossain Ali,a40ac203,10,0,0,0,0,0.0,"[2, 4, 14, 18]",4.0,24,11,0,38,5,1,1,0,1,0,4,9.5,0,0,0,0,0,0,44,0,44,26,True,True,False,Right-arm medium,Right-hand bat

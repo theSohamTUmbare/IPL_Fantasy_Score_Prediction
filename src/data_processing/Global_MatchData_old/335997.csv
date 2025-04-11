@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Kolkata Knight Riders,BB McCullum,b8a55852,1,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,43,True,True,False,Right-arm offbreak,Right-hand bat
+Kolkata Knight Riders,SC Ganguly,725529bc,2,4,2,1,0,200.0,"[11, 13]",2.0,12,1,0,14,1,0,0,0,0,0,0,7.0,0,0,0,0,0,8,3,0,11,52,True,False,False,Right-arm medium,Left-hand bat
+Kolkata Knight Riders,RT Ponting,7d415ea5,3,19,31,1,0,61.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,21,0,0,21,50,True,False,False,Right-arm medium,Right-hand bat
+Kolkata Knight Riders,DB Das,7050a1e7,4,29,20,5,1,145.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,61,0,0,61,38,True,False,False,Legbreak googly,Right-hand bat
+Kolkata Knight Riders,AB Dinda,66b30f71,5,0,0,0,0,0.0,"[5, 7, 14, 18]",4.0,24,15,0,12,1,0,1,0,1,0,0,3.0,0,0,0,0,0,0,54,0,54,41,True,False,False,Right-arm medium-fast,Right-hand bat
+Kolkata Knight Riders,DJ Hussey,fd835ab3,5,17,20,3,0,85.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,29,0,8,37,47,True,False,True,Right-arm offbreak,Right-hand bat
+Kolkata Knight Riders,Mohammad Hafeez,9ab63e7b,6,2,6,0,0,33.33,[9],1.0,6,1,0,16,2,0,0,0,0,0,5,16.0,0,0,0,0,0,2,1,0,3,44,True,False,True,Right-arm offbreak,Right-hand bat
+Kolkata Knight Riders,LR Shukla,b1451597,7,40,22,4,2,181.82,[16],1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,6,78,1,0,79,43,True,False,True,Right-arm medium,Right-hand bat
+Kolkata Knight Riders,AB Agarkar,fa463154,8,2,6,0,0,33.33,"[1, 3, 15, 17]",4.0,24,13,0,23,2,0,1,0,0,1,3,5.75,0,0,0,0,0,2,42,0,44,47,True,False,False,Right-arm fast,Right-hand bat
+Kolkata Knight Riders,M Kartik,abfeb126,9,10,11,1,0,90.91,"[8, 10, 12]",3.0,18,8,0,24,3,1,0,0,0,0,1,8.0,0,0,0,0,0,14,8,0,22,48,True,False,False,Slow left-arm orthodox,Left-hand bat
+Kolkata Knight Riders,I Sharma,5bb1a1c4,10,0,0,0,0,0.0,"[2, 4, 6, 19]",3.667,22,13,0,33,6,1,1,0,1,0,0,9.0,0,0,0,0,0,0,46,0,46,36,True,False,False,Right-arm fast-medium,Right-hand bat
+Mumbai Indians,AM Rahane,29e95537,1,4,10,1,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,-6,2,0,6,8,36,True,False,False,Right-arm medium,Right-hand bat
+Mumbai Indians,ST Jayasuriya,f233bbb4,2,18,10,3,1,180.0,"[10, 12, 14, 16]",4.0,24,14,1,14,1,0,3,0,0,0,1,3.5,2,0,0,1,6,42,111,22,175,55,True,False,True,Slow left-arm orthodox,Left-hand bat
+Mumbai Indians,MK Pandey,93b4fc78,3,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,35,True,False,False,Right-arm medium,Right-hand bat
+Mumbai Indians,RV Uthappa,1c17e270,4,37,37,5,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,61,0,8,69,39,True,False,False,Right-arm medium,Right-hand bat
+Mumbai Indians,DJ Bravo,87e562a9,5,64,52,8,1,123.08,"[6, 8, 15, 17]",4.0,24,11,0,25,2,1,1,0,0,0,1,6.25,0,0,0,0,0,110,38,0,148,41,True,False,True,Right-arm medium,Right-hand bat
+Mumbai Indians,SM Pollock,88fccd6c,5,0,0,0,0,0.0,"[1, 3, 11, 13]",4.0,24,11,0,27,3,1,2,1,0,0,0,6.75,0,0,0,0,0,0,71,0,71,51,True,False,True,Right-arm fast-medium,Right-hand bat
+Mumbai Indians,AM Nayar,a45a5e8d,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,41,True,False,True,Right-arm medium,Left-hand bat
+Mumbai Indians,A Nehra,96fd40ae,7,0,0,0,0,0.0,[2],1.0,6,3,0,9,2,0,0,0,0,0,0,9.0,2,0,0,0,0,0,3,16,19,45,True,False,False,Left-arm medium-fast,Right-hand bat
+Mumbai Indians,DS Kulkarni,d2a989fc,8,0,0,0,0,0.0,"[5, 7, 19]",3.0,18,7,0,15,1,0,0,0,0,0,3,5.0,0,0,0,0,0,0,11,0,11,36,True,False,False,Right-arm medium,Right-hand bat
+Mumbai Indians,CRD Fernando,342d8ade,9,0,0,0,0,0.0,"[4, 9, 18, 20]",4.0,24,7,0,41,6,1,1,0,0,0,2,10.25,0,0,0,0,0,0,30,0,30,45,True,False,False,Right-arm fast-medium,Right-hand bat
+Mumbai Indians,PR Shah,0aadc906,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,37,True,False,False,,Right-hand bat

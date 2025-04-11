@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Canada,R Gunasekera,9b6ad88a,1,19,12,1,2,158.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,39,0,0,39,33,True,False,False,Legbreak googly,Left-hand bat
+Canada,Rizwan Cheema,3a026eb4,2,14,17,2,0,82.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,46,True,False,False,Right-arm medium,Right-hand bat
+Canada,H Patel,c4ff0618,3,7,4,0,1,175.0,"[8, 10, 15]",2.667,16,4,0,26,3,1,0,0,0,0,0,9.75,0,0,0,0,0,13,4,0,17,33,True,False,False,Slow left-arm orthodox,Right-hand bat
+Canada,C Pervez,7bf34437,4,0,0,0,0,0.0,"[2, 4]",2.0,12,6,0,15,3,0,0,0,0,0,0,7.5,0,0,0,0,0,0,6,0,6,40,True,False,False,Right-arm medium-fast,Right-hand bat
+Canada,NR Kumar,b3bad3f2,4,14,11,3,0,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26,30,True,False,False,Right-arm offbreak,Right-hand bat
+Canada,NS Dhaliwal,cbabd6ad,5,34,37,0,1,91.89,[6],1.0,6,2,0,15,2,1,0,0,0,0,0,15.0,0,0,0,0,0,44,2,0,46,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Canada,SA Wijeratne,5fbd0632,6,7,10,0,0,70.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,5,0,0,5,35,True,False,False,,Right-hand bat
+Canada,Hamza Tariq,82e81007,7,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,34,True,False,False,,Right-hand bat
+Canada,Saad Bin Zafar,f28a60e0,8,1,4,0,0,25.0,"[7, 9, 11, 13]",4.0,24,5,0,28,2,0,0,0,0,0,2,7.0,0,0,0,0,0,1,7,0,8,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Canada,SS Dhindsa,ed97af2b,9,3,6,0,0,50.0,"[5, 12, 14]",3.0,18,8,0,27,4,1,2,0,1,0,0,9.0,0,0,0,0,0,3,66,0,69,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Canada,Junaid Siddiqui,9025e58f,10,28,16,1,2,175.0,"[1, 3]",2.0,12,5,0,25,2,2,0,0,0,0,0,12.5,0,0,0,0,6,54,-1,0,53,40,True,False,True,Legbreak,Right-hand bat
+Scotland,KJ Coetzer,85d8110a,1,51,41,5,2,124.39,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,91,0,0,91,40,True,False,False,Right-arm medium-fast,Right-hand bat
+Scotland,CS MacLeod,9c376401,2,29,15,3,2,193.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,63,0,0,63,36,True,False,False,Right-arm offbreak,Right-hand bat
+Scotland,MH Cross,8b261d84,3,21,20,2,0,105.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,29,0,8,37,32,True,False,False,,Right-hand bat
+Scotland,RD Berrington,e21bc7f3,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,37,True,False,False,Right-arm medium-fast,Right-hand bat
+Scotland,HG Munsey,ff014c34,4,33,12,6,1,275.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,6,73,0,20,93,32,True,False,False,Right-arm medium-fast,Left-hand bat
+Scotland,PL Mommsen,a56f4b65,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,37,True,False,False,Right-arm offbreak,Right-hand bat
+Scotland,JH Davey,d3868bd0,6,0,0,0,0,0.0,"[4, 8, 16, 18]",4.0,24,9,0,36,3,2,3,1,0,0,1,9.0,1,0,0,0,0,0,96,8,104,34,True,False,False,Right-arm medium-fast,Right-hand bat
+Scotland,CD de Lange,e6d298e8,7,0,0,0,0,0.0,"[7, 10, 12, 20]",4.0,24,11,0,29,1,1,1,0,0,0,6,7.25,1,0,0,0,0,0,36,8,44,38,True,False,True,Slow left-arm orthodox,Right-hand bat
+Scotland,RML Taylor,7fa2ab1f,8,0,0,0,0,0.0,"[9, 11, 15, 19]",4.0,24,6,0,24,0,1,0,0,0,0,0,6.0,0,0,0,0,0,0,8,0,8,35,True,False,True,Left-arm medium,Left-hand bat
+Scotland,SM Sharif,f43dd8c2,9,0,0,0,0,0.0,"[2, 6, 14, 17]",4.0,24,10,0,21,1,0,1,0,0,0,1,5.25,1,0,0,0,0,0,39,8,47,33,True,False,False,Right-arm medium-fast,Right-hand bat
+Scotland,AC Evans,e9a870ed,10,0,0,0,0,0.0,"[1, 3, 5, 13]",4.0,24,15,0,25,2,2,2,0,0,0,0,6.25,1,0,0,0,0,0,67,8,75,36,True,False,False,Right-arm medium-fast,Right-hand bat

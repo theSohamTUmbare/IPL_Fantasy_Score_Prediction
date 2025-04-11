@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Cayman Islands,J Baker,a12672e0,1,29,32,2,1,90.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,47,0,0,47,32,True,False,False,,Right-hand bat
+Cayman Islands,YSD Seneveratne,0f71478c,2,26,18,2,2,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,52,0,16,68,33,True,False,False,Slow left-arm orthodox,Left-hand bat
+Cayman Islands,AR Naidoo,68886c16,3,39,42,3,1,92.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,61,0,0,61,35,True,True,False,Right-arm offbreak,Right-hand bat
+Cayman Islands,RA Sealy,1e98804a,4,5,8,0,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,33,True,True,False,Legbreak,Right-hand bat
+Cayman Islands,S Foster,3595ad3b,5,6,6,0,0,100.0,[11],1.0,6,5,0,1,0,0,0,0,0,0,0,1.0,1,0,1,0,0,6,5,20,31,35,True,True,False,Slow left-arm orthodox,Right-hand bat
+Cayman Islands,R Walker,be37d889,6,3,3,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,34,True,False,False,,Right-hand bat
+Cayman Islands,ROC Dunka,762f43b7,7,3,4,0,0,75.0,"[2, 4]",2.0,12,10,0,6,1,0,1,0,0,0,1,3.0,0,0,0,0,0,3,41,0,44,34,True,True,False,Left-arm medium,Left-hand bat
+Cayman Islands,T Taylor,1d6e8f52,8,8,7,0,0,114.29,"[5, 7, 9]",3.0,18,13,0,7,0,0,2,1,0,0,1,2.33,1,0,0,0,0,8,77,8,93,41,True,False,False,Right-arm medium-fast,Right-hand bat
+Cayman Islands,A Wright,4bb7f51e,11,0,0,0,0,0.0,"[10, 12, 14]",3.0,18,11,0,9,0,0,3,1,1,0,0,3.0,0,0,0,0,0,0,112,0,112,36,True,True,False,Right-arm offbreak,Right-hand bat
+Cayman Islands,C Wright,d465c6d7,12,0,0,0,0,0.0,"[1, 3]",2.0,12,8,0,4,0,0,0,0,0,0,0,2.0,0,0,0,0,0,0,14,0,14,39,True,True,False,Right-arm medium,Right-hand bat
+Cayman Islands,A Morris,04cf2e94,13,0,0,0,0,0.0,"[6, 8, 13, 15]",4.0,24,15,0,14,1,0,3,1,1,0,2,3.5,0,0,0,0,0,0,116,0,116,42,True,True,False,Right-arm offbreak,Right-hand bat
+Panama,YI Kachhalia,61650adb,1,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,29,True,False,False,,Right-hand bat
+Panama,Breeze Ahir,da09ca26,2,21,35,2,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,2,0,-2,27,0,24,51,24,True,True,False,Legbreak,Left-hand bat
+Panama,Yusuf Ebrahim,2d5c6e88,3,1,7,0,0,14.29,"[5, 7, 13, 17]",4.0,24,8,0,24,2,0,1,0,1,0,0,6.0,0,0,0,0,0,1,43,0,44,38,True,True,False,Right-arm medium,Right-hand bat
+Panama,A Natubhai Ahir,9c91218d,4,4,10,0,0,40.0,"[8, 10, 12, 16]",4.0,24,13,0,19,1,0,0,0,0,0,0,4.75,0,0,0,0,-6,-2,19,0,17,37,True,True,False,Left-arm medium,Right-hand bat
+Panama,Irfan Hafejee,244009ae,5,1,9,0,0,11.11,"[9, 14, 18, 20]",4.0,24,8,0,35,1,2,2,1,1,0,0,8.75,0,0,0,0,0,1,74,0,75,42,True,True,False,Right-arm medium,Right-hand bat
+Panama,Mahmud Jasat,97e36a0f,6,4,12,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,-2,0,8,6,32,True,False,False,Right-arm medium,Left-hand bat
+Panama,P Jayeshbhai Patel,3317dc7a,7,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,33,True,True,False,Right-arm medium,Right-hand bat
+Panama,Sohel Ebrahim Desai,3ec178e7,8,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,27,True,False,False,,Right-hand bat
+Panama,DK Dahyabhai Ahir,ce9ee68f,9,4,6,0,0,66.67,"[4, 6, 11, 15]",4.0,24,18,1,15,1,1,0,0,0,0,0,3.75,0,0,0,0,0,4,36,0,40,41,True,True,False,Right-arm medium,Right-hand bat
+Panama,AM Patel,a09323d8,10,1,1,0,0,100.0,"[1, 3, 19]",3.0,18,9,0,18,0,1,1,0,0,1,1,6.0,0,0,0,0,0,1,36,0,37,31,True,True,False,Right-arm medium,Right-hand bat
+Panama,Sanjay Kumar Ahir,d11e0c76,11,0,2,0,0,0.0,[2],1.0,6,2,0,11,2,0,0,0,0,0,1,11.0,0,0,0,0,0,-2,2,0,0,32,True,True,False,Right-arm medium,Right-hand bat

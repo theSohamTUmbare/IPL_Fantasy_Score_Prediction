@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Dolphins,DJ van Wyk,a2f71c9f,1,5,9,0,0,55.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,40,True,True,False,Right-arm offbreak,Left-hand bat
+Dolphins,CS Delport,afa78c3a,2,103,58,9,5,177.59,"[12, 14]",2.0,12,4,0,19,1,1,1,0,0,0,0,9.5,0,0,0,0,6,191,29,0,220,35,True,False,False,Right-arm medium,Left-hand bat
+Dolphins,RS Bopara,7ca5e05d,3,30,30,3,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,46,0,8,54,39,True,False,True,Right-arm medium,Right-hand bat
+Dolphins,DA Miller,d67d5f00,4,39,23,3,2,169.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,71,0,0,71,35,True,False,False,Right-arm offbreak,Left-hand bat
+Dolphins,VB van Jaarsveld,890b877d,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,40,True,False,False,Right-arm medium,Left-hand bat
+Dolphins,D Smit,4bb02ef1,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,41,True,True,False,Legbreak,Right-hand bat
+Dolphins,P Subrayen,7ec9711d,10,0,0,0,0,0.0,"[8, 10, 16]",3.0,18,6,0,33,0,3,0,0,0,0,1,11.0,1,0,0,0,0,0,4,8,12,31,True,False,True,Right-arm offbreak,Right-hand bat
+Dolphins,CP Savage,a55e0360,11,0,0,0,0,0.0,"[5, 11, 17, 19]",4.0,24,3,0,41,3,1,2,0,0,0,0,10.25,1,0,0,0,0,0,51,8,59,32,True,False,False,Right-arm fast-medium,Right-hand bat
+Dolphins,KA Maharaj,0b60eb09,12,0,0,0,0,0.0,"[7, 9, 15]",3.0,18,4,0,25,0,2,0,0,0,0,0,8.33,0,0,0,0,0,0,4,0,4,35,True,False,False,Slow left-arm orthodox,Right-hand bat
+Dolphins,M Shezi,016e5101,13,0,0,0,0,0.0,"[2, 4, 13, 20]",4.0,24,7,0,29,3,0,1,0,1,0,0,7.25,0,0,0,0,0,0,40,0,40,37,True,False,False,Left-arm medium,Left-hand bat
+Dolphins,YA Abdulla,4353bba5,14,0,0,0,0,0.0,"[1, 3, 6, 18]",4.0,24,14,1,17,0,1,2,0,0,0,1,4.25,2,0,0,0,0,0,82,16,98,42,True,False,False,Left-arm fast-medium,Left-hand bat
+Knights,LE Bosman,73e749e1,1,8,9,1,0,88.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20,47,True,False,False,Right-arm medium,Right-hand bat
+Knights,RR Rossouw,cad00a4d,2,44,28,2,3,157.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,78,0,0,78,35,True,False,False,Right-arm offbreak,Left-hand bat
+Knights,D Elgar,33085ffb,3,14,14,0,1,100.0,"[12, 14]",2.0,12,2,0,17,2,0,0,0,0,0,0,8.5,0,0,0,0,0,20,2,0,22,37,True,False,False,Slow left-arm orthodox,Left-hand bat
+Knights,PJ van Biljon,4025c262,4,27,24,0,2,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,43,0,0,43,38,True,True,False,Right-arm medium,Right-hand bat
+Knights,AJ Pienaar,647a48da,5,32,21,3,1,152.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,58,0,0,58,35,True,False,True,Slow left-arm orthodox,Right-hand bat
+Knights,JJ van der Wath,6821ac10,6,14,9,0,1,155.56,"[1, 3, 15, 19]",4.0,24,8,0,25,2,0,1,0,0,0,1,6.25,0,0,0,0,0,20,35,0,55,47,True,False,True,Right-arm medium-fast,Right-hand bat
+Knights,N Boje,6a0537aa,7,9,6,0,0,150.0,"[7, 9]",2.0,12,3,0,19,0,2,0,0,0,0,0,9.5,0,0,0,0,0,9,3,0,12,52,True,False,False,Slow left-arm orthodox,Left-hand bat
+Knights,D du Preez,d7a57f75,8,14,9,1,0,155.56,"[2, 4, 6, 18]",4.0,24,9,0,34,1,3,0,0,0,0,0,8.5,0,0,0,0,0,18,9,0,27,43,True,True,False,Right-arm fast-medium,Right-hand bat
+Knights,GL Cloete,3bf40832,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,32,True,True,False,Right-arm offbreak,Left-hand bat
+Knights,SC van Schalkwyk,97b0e4ff,9,0,0,0,0,0.0,"[8, 10, 13, 17]",4.0,24,5,0,39,6,0,1,0,0,0,0,9.75,1,0,0,0,0,0,30,8,38,36,True,False,True,Right-arm medium,Left-hand bat
+Knights,MP Siboto,9d50c7e1,10,0,0,0,0,0.0,"[5, 11, 16, 20]",4.0,24,4,0,45,4,2,0,0,0,0,1,11.25,0,0,0,0,0,0,0,0,0,37,True,False,False,Right-arm medium,Left-hand bat

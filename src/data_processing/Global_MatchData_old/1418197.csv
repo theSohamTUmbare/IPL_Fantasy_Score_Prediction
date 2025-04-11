@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Cambodia,Lakshit Gupta,52b090a6,1,8,19,0,0,42.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,2,0,8,10,26,True,True,False,Right-arm offbreak,Right-hand bat
+Cambodia,US Hathinjar,5f77f23a,2,13,14,3,0,92.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,25,0,16,41,27,True,True,False,Right-arm medium,Right-hand bat
+Cambodia,RR Sharan,7cff331d,3,0,2,0,0,0.0,"[8, 10, 12, 14]",4.0,24,9,0,23,0,1,1,0,0,0,1,5.75,0,0,0,0,0,-2,38,0,36,22,True,True,False,Right-arm offbreak,Right-hand bat
+Cambodia,Luqman Butt,7a6decc8,4,80,53,10,3,150.94,"[5, 7]",2.0,12,4,0,12,1,0,0,0,0,0,0,6.0,0,0,0,0,4,154,6,0,160,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Cambodia,Salvin Stanly,a6631b55,5,3,9,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,40,True,True,False,Right-arm medium,Right-hand bat
+Cambodia,E Beukes,fbb8cf87,6,21,15,1,2,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,39,0,0,39,27,True,True,False,Right-arm medium,Right-hand bat
+Cambodia,Phon Bunthean,8981deb8,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,23,True,True,False,Right-arm medium,Right-hand bat
+Cambodia,Utkarsh Jain,1f4a78c5,7,6,8,0,0,75.0,"[4, 6, 13, 16]",4.0,24,8,0,34,4,1,2,0,0,0,0,8.5,1,0,0,0,0,6,58,8,72,23,True,True,False,Slow left-arm orthodox,Right-hand bat
+Cambodia,Prasad Anish,a21d62c9,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,22,True,True,False,Right-arm medium,Right-hand bat
+Cambodia,GC Murtaza,6cc4d322,9,0,0,0,0,0.0,"[2, 9, 11, 18]",3.5,21,4,0,38,7,0,0,0,0,0,0,10.86,0,0,0,0,0,0,2,0,2,27,True,True,False,Right-arm medium,Right-hand bat
+Cambodia,S Godara,dd7dd27a,10,0,0,0,0,0.0,"[1, 3, 15, 17]",4.0,24,9,0,43,5,1,2,0,0,0,4,10.75,1,0,0,0,0,0,57,8,65,23,True,True,False,Right-arm medium,Right-hand bat
+Saudi Arabia,Abdul Waheed,23fa9ea9,1,17,10,4,0,170.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,37,0,0,37,31,True,True,False,Legbreak,Right-hand bat
+Saudi Arabia,Faisal Khan,a7553f15,2,15,8,3,0,187.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27,28,True,True,False,Right-arm medium,Right-hand bat
+Saudi Arabia,Waqar Ul Hassan,b704da31,3,35,30,5,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,59,0,8,67,33,True,True,False,Right-arm medium-fast,Left-hand bat
+Saudi Arabia,Waji Ul Hassan,6892f9c3,4,1,3,0,0,33.33,"[9, 11, 18]",3.0,18,7,0,24,1,1,0,0,0,0,5,8.0,0,0,0,0,0,1,7,0,8,30,True,False,False,,Right-hand bat
+Saudi Arabia,Hisham Sheikh,c4441675,5,47,41,3,1,114.63,"[8, 10, 12, 14]",4.0,24,11,0,25,4,0,2,1,0,0,0,6.25,0,0,0,0,0,69,71,0,140,28,True,True,False,Right-arm offbreak,Right-hand bat
+Saudi Arabia,Manan Ali,d0b643e1,6,26,12,1,2,216.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,52,0,0,52,27,True,True,False,Right-arm offbreak,Right-hand bat
+Saudi Arabia,Haseeb Ghafoor,454a7269,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,41,True,False,False,,Right-hand bat
+Saudi Arabia,Usman Khalid,314f0889,7,4,1,1,0,400.0,"[13, 15]",2.0,12,8,0,22,1,2,0,0,0,3,0,11.0,0,0,0,0,0,8,6,0,14,41,True,False,False,,Left-hand bat
+Saudi Arabia,Usman Najeeb,615688b6,8,0,0,0,0,0.0,"[5, 7, 16, 20]",4.0,24,10,0,34,2,2,2,1,1,0,4,8.5,0,0,0,0,0,0,76,0,76,29,True,True,False,Right-arm medium,Right-hand bat
+Saudi Arabia,Atif-Ur-Rehman,d20e22f7,9,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,12,0,13,2,0,1,1,0,0,0,4.33,0,0,0,0,0,0,51,0,51,43,True,True,False,Right-arm medium,Right-hand bat
+Saudi Arabia,Ishtiaq Ahmad,056b433b,10,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,10,0,27,4,0,0,0,0,0,2,6.75,0,0,0,0,0,0,12,0,12,31,True,True,False,Right-arm medium-fast,Right-hand bat

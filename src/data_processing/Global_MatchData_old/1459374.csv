@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Botswana,K Motlanka,21549344,1,23,35,1,0,65.71,"[12, 14, 16]",3.0,18,6,0,21,1,1,0,0,0,0,0,7.0,0,0,0,1,-2,25,8,6,39,32,True,False,False,,Left-hand bat
+Botswana,V Balakrishnan,0c1da0c4,2,101,66,12,2,153.03,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,181,0,8,189,36,True,True,False,Right-arm offbreak,Right-hand bat
+Botswana,V Mbazo,a2317d14,3,9,10,0,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,1,0,9,0,18,27,25,True,False,False,,Right-hand bat
+Botswana,T Tshose,18ae55e4,4,15,6,0,2,250.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,27,0,6,33,29,True,False,True,Right-arm medium,Right-hand bat
+Botswana,T Perera,456397e5,5,1,2,0,0,50.0,"[2, 9, 11]",3.0,18,5,0,23,2,1,0,0,0,0,0,7.67,0,0,0,0,0,1,5,0,6,24,True,True,False,Right-arm fast,Right-hand bat
+Botswana,M Kasselman,c6889eb6,6,6,1,0,1,600.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,18,True,False,False,,
+Botswana,R Nehonde,4393e047,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,0,0,6,6,34,True,True,False,Right-arm offbreak,Right-hand bat
+Botswana,K Piet,39fd9295,11,0,0,0,0,0.0,"[3, 5, 13, 18]",4.0,24,14,1,17,0,1,2,0,0,0,0,4.25,1,0,0,0,0,0,82,8,90,22,True,True,False,Slow left-arm orthodox,Left-hand bat
+Botswana,B Khumalo,33ab1f1c,12,0,0,0,0,0.0,"[1, 7]",2.0,12,5,0,10,1,0,0,0,0,0,0,5.0,0,0,0,1,0,0,9,6,15,23,True,True,False,Right-arm medium-fast,Right-hand bat
+Botswana,M Mooketsi,008a024c,13,0,0,0,0,0.0,"[4, 6, 15, 17]",4.0,24,15,0,23,2,1,3,1,0,0,2,5.75,1,0,0,0,0,0,106,8,114,28,True,True,False,Slow left-arm orthodox,Left-hand bat
+Botswana,B Kgosiemang,059ec7a5,14,0,0,0,0,0.0,"[8, 10, 19]",2.667,16,2,0,28,2,1,1,0,1,1,0,10.5,0,0,0,1,0,0,33,6,39,25,True,True,False,Right-arm fast,Right-hand bat
+Eswatini,Adil Butt,fde53ec1,1,21,12,2,1,175.0,"[1, 3, 5, 19]",4.0,24,7,0,35,3,2,0,0,0,0,0,8.75,0,0,0,0,6,41,7,0,48,36,True,True,False,Right-arm medium-fast,Right-hand bat
+Eswatini,Muhammad Amin,ce9ce42f,2,5,8,1,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,50,True,False,False,Right-arm medium-fast,Right-hand bat
+Eswatini,T Sandeep,b794a78d,3,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,False,False,,
+Eswatini,J Suleman,cacd240a,4,35,37,1,2,94.59,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,55,0,0,55,41,True,True,False,Right-arm offbreak,Right-hand bat
+Eswatini,M Khojbariya,e1631e47,5,32,25,4,0,128.0,"[10, 12, 14, 16]",4.0,24,6,0,32,3,0,0,0,0,0,0,8.0,0,0,0,0,0,52,6,0,58,26,True,True,False,Slow left-arm orthodox,Left-hand bat
+Eswatini,M Magagula,7a787b98,6,6,6,0,0,100.0,[17],1.0,6,3,0,11,2,0,0,0,0,0,2,11.0,0,0,0,0,0,6,3,0,9,30,True,True,False,Right-arm medium,Right-hand bat
+Eswatini,M Jele,1a8cedc8,7,10,10,0,1,100.0,"[7, 18, 20]",3.0,18,7,0,30,1,1,2,0,2,1,7,10.0,0,0,0,0,0,16,71,0,87,27,True,True,False,Right-arm medium-fast,Right-hand bat
+Eswatini,Umair Qasim,e086735b,8,0,2,0,0,0.0,"[9, 11, 13, 15]",4.0,24,9,0,35,2,2,1,0,1,0,0,8.75,0,0,0,0,0,-2,42,0,40,30,True,False,True,Right-arm offbreak,Right-hand bat
+Eswatini,R Sandeep,175937f6,9,10,9,0,1,111.11,"[6, 8]",2.333,14,7,0,9,0,0,0,0,0,0,1,3.86,0,0,0,0,0,16,13,0,29,22,True,True,False,Right-arm medium,Right-hand bat
+Eswatini,JJ Wright,c5981c9c,10,0,0,0,0,0.0,"[2, 4]",1.667,10,2,0,14,2,0,0,0,0,0,0,8.4,0,0,0,0,0,0,2,0,2,39,True,False,False,,
+Eswatini,S Jele,1c5c65d6,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,24,True,False,False,,Left-hand bat

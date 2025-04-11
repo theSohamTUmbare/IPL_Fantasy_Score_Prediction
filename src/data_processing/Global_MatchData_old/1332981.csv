@@ -1,0 +1,24 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Assam,Denish Das,9cd9e3f4,1,15,18,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15,22,True,True,False,Legbreak,Right-hand bat
+Assam,RG Hazarika,ef33e040,2,7,9,1,0,77.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,31,True,True,False,Right-arm offbreak,Left-hand bat
+Assam,SN Mandal,fac3af0f,3,39,39,4,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,59,0,0,59,26,True,True,False,Right-arm offbreak,Left-hand bat
+Assam,R Parag,04a418e8,4,52,30,4,2,173.33,"[1, 3, 7, 12]",4.0,24,15,0,18,2,0,1,0,1,0,0,4.5,0,0,0,0,6,94,54,0,148,23,True,False,False,Legbreak,Right-hand bat
+Assam,NR Narah,eb7c5965,5,4,3,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,22,True,True,False,Right-arm medium-fast,Right-hand bat
+Assam,Mrinmoy Dutta,64959652,5,0,0,0,0,0.0,"[6, 8, 10, 19]",4.0,24,16,0,10,0,0,2,0,1,0,1,2.5,0,0,0,0,0,0,80,0,80,26,True,True,False,Left-arm medium-fast,Left-hand bat
+Assam,Wasiqur Rahman,645eaa96,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,30,True,False,False,,Right-hand bat
+Assam,Rishav Das,8963ee49,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,35,True,True,False,Right-arm offbreak,Right-hand bat
+Assam,Roshan Alam,7cc093f4,8,0,0,0,0,0.0,"[9, 11, 14, 16]",4.0,24,9,0,22,0,0,2,2,0,0,0,5.5,2,0,0,0,0,0,79,16,95,29,True,True,False,Slow left-arm orthodox,Right-hand bat
+Assam,D Rabha,f67fe815,9,0,0,0,0,0.0,[5],1.0,6,2,0,13,3,0,0,0,0,0,0,13.0,0,0,0,0,0,0,2,0,2,27,True,True,False,Right-arm medium-fast,Right-hand bat
+Assam,Mukhtar Hussain,97114e80,10,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,11,0,21,3,0,1,0,0,0,1,5.25,0,0,2,0,0,0,40,24,64,26,True,True,False,Right-arm medium,Right-hand bat
+Assam,Rajjakuddin Ahmed,69cbffb8,11,0,0,0,0,0.0,"[13, 15, 17]",3.0,18,4,0,27,2,0,1,0,0,1,2,9.0,1,0,0,0,0,0,29,8,37,29,True,True,False,Right-arm medium,Right-hand bat
+Mizoram,SP Goswami,541f85c9,1,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,-2,0,6,4,35,True,False,False,,Left-hand bat
+Mizoram,Lalhmangaiha,15bbe51b,2,10,25,1,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,8,0,0,8,41,True,False,False,,Left-hand bat
+Mizoram,T Kohli,40caa465,3,75,51,8,0,147.06,[14],1.0,6,1,0,10,1,0,0,0,0,0,0,10.0,0,0,0,0,2,121,1,0,122,36,True,False,False,Right-arm medium,Right-hand bat
+Mizoram,Joseph Lalthankhuma,d644b8b2,4,12,16,1,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,24,True,True,False,Right-arm offbreak,Right-hand bat
+Mizoram,Avinash Yadav,f879ff6b,5,2,6,0,0,33.33,"[1, 3, 5, 15]",4.0,24,9,0,28,2,1,0,0,0,0,0,7.0,0,0,0,0,0,2,11,0,13,38,True,False,False,Slow left-arm orthodox,Left-hand bat
+Mizoram,Rinsangzela Hmamte,63798865,5,0,0,0,0,0.0,[16],1.0,6,3,0,3,0,0,1,0,0,0,0,3.0,0,0,0,1,0,0,28,6,34,22,True,True,False,Slow left-arm orthodox,Left-hand bat
+Mizoram,Vikash Kumar,fd25e20c,6,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,28,True,False,False,,Right-hand bat
+Mizoram,F Lalmuanzuala,054fc648,7,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,26,True,True,False,Legbreak,Right-hand bat
+Mizoram,G Lalbiakvela,66ea7420,8,0,1,0,0,0.0,"[6, 8, 10, 12]",4.0,24,5,0,24,1,0,1,0,0,0,0,6.0,0,0,0,0,0,0,32,0,32,37,True,True,False,Right-arm medium,Right-hand bat
+Mizoram,Bobby Zothansanga,6b4ce914,9,3,6,0,0,50.0,"[7, 9, 11, 13]",4.0,24,7,0,28,1,1,0,0,0,0,1,7.0,0,0,0,0,0,3,9,0,12,38,True,True,False,Right-arm offbreak,Right-hand bat
+Mizoram,Remruatdika Ralte,895a0ead,10,3,5,0,0,60.0,"[2, 4, 17]",2.5,15,6,0,25,5,0,0,0,0,0,0,10.0,0,0,0,0,0,3,4,0,7,26,True,False,False,Right-arm medium-fast,Right-hand bat

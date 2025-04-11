@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Melbourne Renegades,SB Harper,a756e61a,1,39,19,4,2,205.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,77,0,0,77,28,True,False,False,,Right-hand bat
+Melbourne Renegades,AJ Finch,b8d490fd,2,29,22,2,1,131.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,49,0,8,57,38,True,False,False,Slow left-arm orthodox,Right-hand bat
+Melbourne Renegades,SE Marsh,508a1ea7,3,42,33,5,1,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,72,0,0,72,41,True,False,False,Slow left-arm orthodox,Left-hand bat
+Melbourne Renegades,TLW Cooper,2318ba22,4,13,17,1,0,76.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,38,True,False,False,Right-arm offbreak,Right-hand bat
+Melbourne Renegades,DT Christian,2a2e6343,5,18,15,1,0,120.0,"[10, 16]",2.0,12,0,0,31,4,1,0,0,0,0,1,15.5,0,0,0,0,0,22,-6,0,16,41,True,False,True,Right-arm fast-medium,Right-hand bat
+Melbourne Renegades,BJ Webster,56b93d46,6,17,10,0,1,170.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,27,0,0,27,31,True,False,True,Right-arm offbreak,Right-hand bat
+Melbourne Renegades,CJ Boyce,51a60c16,6,0,0,0,0,0.0,"[7, 9, 11, 14]",4.0,24,3,0,43,3,2,0,0,0,0,0,10.75,0,0,0,0,0,0,1,0,1,35,True,False,False,Legbreak,Right-hand bat
+Melbourne Renegades,KW Richardson,dfc4d8b5,7,0,0,0,0,0.0,"[1, 3, 6, 18]",4.0,24,13,0,18,1,0,0,0,0,0,1,4.5,1,0,0,0,0,0,19,8,27,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Melbourne Renegades,JD Wildermuth,f1c61793,7,4,4,0,0,100.0,"[8, 13]",2.0,12,2,0,14,1,0,0,0,0,0,0,7.0,0,0,0,0,0,4,4,0,8,31,True,False,True,Right-arm medium-fast,Right-hand bat
+Melbourne Renegades,RJ Gleeson,402f8494,8,0,0,0,0,0.0,"[2, 4, 15, 20]",3.667,22,8,0,36,6,0,1,1,0,0,1,9.82,0,0,0,0,0,0,41,0,41,37,True,False,False,Right-arm fast-medium,Right-hand bat
+Melbourne Renegades,HF Gurney,e412cb64,9,0,0,0,0,0.0,"[5, 12, 17, 19]",4.0,24,8,0,26,3,0,2,0,0,0,1,6.5,0,0,0,0,0,0,60,0,60,38,True,False,False,Left-arm fast-medium,Right-hand bat
+Sydney Thunder,UT Khawaja,331ea488,1,66,46,8,1,143.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,114,0,0,114,38,True,False,False,Right-arm medium,Left-hand bat
+Sydney Thunder,AD Hales,92aeac25,2,68,38,8,2,178.95,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,126,0,0,126,36,True,False,False,Right-arm medium,Right-hand bat
+Sydney Thunder,CJ Ferguson,9b4935c8,3,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,40,True,False,False,Right-arm medium,Right-hand bat
+Sydney Thunder,M Gilkes,d85b0f8b,4,15,20,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15,25,True,False,False,,Left-hand bat
+Sydney Thunder,AI Ross,fb0d68b4,5,11,7,2,0,157.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,19,0,8,27,32,True,False,False,Right-arm offbreak,Right-hand bat
+Sydney Thunder,DR Sams,caf69bf7,6,0,0,0,0,0.0,"[1, 5, 19]",3.0,18,4,0,26,3,0,2,1,0,0,1,8.67,1,0,0,0,0,0,62,8,70,32,True,False,True,Left-arm fast-medium,Right-hand bat
+Sydney Thunder,CJ Green,19b9f399,6,0,0,0,0,0.0,"[6, 9, 16]",3.0,18,5,0,19,2,0,0,0,0,0,1,6.33,0,0,0,0,0,0,7,0,7,31,True,False,True,Right-arm offbreak,Right-hand bat
+Sydney Thunder,AJ Nair,4ba2c04d,7,0,0,0,0,0.0,"[8, 11, 15, 17]",4.0,24,9,0,32,2,2,2,0,0,0,0,8.0,1,0,0,0,0,0,59,8,67,26,True,False,False,Right-arm offbreak,Right-hand bat
+Sydney Thunder,N McAndrew,38c276e1,8,0,0,0,0,0.0,"[4, 7, 14]",3.0,18,6,0,19,2,0,1,0,0,0,0,6.33,1,0,0,0,0,0,33,8,41,31,True,False,False,Right-arm medium-fast,Right-hand bat
+Sydney Thunder,CP Tremain,96824e68,9,0,0,0,0,0.0,"[3, 13, 18, 20]",4.0,24,3,0,41,1,2,0,0,0,0,1,10.25,0,0,0,0,0,0,1,0,1,33,True,False,False,Right-arm medium-fast,Right-hand bat
+Sydney Thunder,JD Cook,45f56920,10,0,0,0,0,0.0,"[2, 10, 12]",3.0,18,3,0,29,3,1,0,0,0,0,1,9.67,0,0,0,0,0,0,3,0,3,35,True,False,False,Legbreak,Right-hand bat

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Kent,TS Muyeye,10b79140,1,9,5,1,0,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21,24,True,False,False,Right-arm offbreak,Right-hand bat
+Kent,DJ Bell-Drummond,8f938a32,2,25,20,2,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,37,0,0,37,31,True,False,False,Right-arm medium-fast,Right-hand bat
+Kent,JL Denly,bdadf7da,3,27,15,3,1,180.0,"[8, 11, 13, 15]",4.0,24,8,0,23,0,1,1,0,0,0,0,5.75,0,0,0,0,6,55,37,0,92,39,True,False,False,Legbreak,Right-hand bat
+Kent,SW Billings,c16d4035,4,30,28,1,1,107.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,44,0,0,44,33,True,False,False,,Right-hand bat
+Kent,JM Cox,ff154ecd,5,23,19,1,1,121.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33,24,True,False,False,,Right-hand bat
+Kent,JA Leaning,f2ab7a69,6,34,22,0,3,154.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,60,0,0,60,31,True,False,False,Right-arm offbreak,Right-hand bat
+Kent,GF Linde,e5437608,7,22,11,2,1,200.0,"[1, 7, 9, 12]",4.0,24,7,0,28,2,1,2,0,0,0,0,7.0,0,0,0,0,6,42,59,0,101,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+Kent,JDM Evison,00cada13,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,23,True,False,True,Right-arm medium,Right-hand bat
+Kent,G Stewart,a77472dc,8,0,0,0,0,0.0,"[5, 10, 14, 18]",4.0,24,8,0,32,1,2,2,0,0,0,1,8.0,0,0,0,0,0,0,58,0,58,31,True,False,True,Right-arm medium-fast,Right-hand bat
+Kent,KW Richardson,dfc4d8b5,9,0,0,0,0,0.0,"[3, 6, 17, 19]",4.0,24,5,0,53,3,4,0,0,0,0,1,13.25,2,0,0,0,0,0,-1,16,15,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Kent,MG Hogan,5da34add,10,0,0,0,0,0.0,"[2, 4, 16, 20]",4.0,24,8,0,37,6,0,0,0,0,0,0,9.25,1,0,0,0,0,0,8,8,16,43,True,False,False,Right-arm fast-medium,Right-hand bat
+Surrey,WG Jacks,9caf69a1,1,30,21,2,2,142.86,"[1, 5, 7, 9]",4.0,24,8,0,28,2,0,3,0,2,0,0,7.0,0,0,0,0,2,56,105,0,161,26,True,False,True,Right-arm offbreak,Right-hand bat
+Surrey,LJ Evans,1c513d54,2,52,36,5,2,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,94,0,0,94,37,True,False,False,Right-arm offbreak,Right-hand bat
+Surrey,SM Curran,e94915e6,3,10,8,1,0,125.0,"[2, 12, 18, 20]",4.0,24,5,0,42,2,3,0,0,0,0,0,10.5,0,0,0,0,0,14,3,0,17,26,True,False,True,Left-arm medium-fast,Left-hand bat
+Surrey,BT Foakes,fd770945,4,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,32,True,False,False,,Right-hand bat
+Surrey,JL Smith,c834c290,5,49,29,1,4,168.97,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,85,0,0,85,24,True,False,False,,Right-hand bat
+Surrey,TK Curran,e86754b2,6,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,30,True,False,True,Right-arm fast-medium,Right-hand bat
+Surrey,SA Abbott,1a2676c5,7,21,14,2,0,150.0,[3],1.0,6,1,0,13,1,1,0,0,0,0,0,13.0,1,0,0,0,0,29,1,8,38,33,True,False,True,Right-arm fast-medium,Right-hand bat
+Surrey,CJ Jordan,ffe699c0,7,0,0,0,0,0.0,"[11, 15, 17, 19]",4.0,24,5,0,39,2,2,0,0,0,0,0,9.75,0,0,0,0,0,0,5,0,5,36,True,False,False,Right-arm fast-medium,Right-hand bat
+Surrey,J Overton,59559bc2,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,30,True,False,True,Right-arm fast,Right-hand bat
+Surrey,SP Narine,9d430b40,9,0,0,0,0,0.0,"[8, 10, 14, 16]",4.0,24,4,0,28,0,1,2,0,1,0,0,7.0,0,0,0,0,0,0,64,0,64,36,True,False,True,Right-arm offbreak,Left-hand bat
+Surrey,AAP Atkinson,70d57519,10,0,0,0,0,0.0,"[4, 6, 13]",3.0,18,7,0,20,3,0,0,0,0,0,0,6.67,0,0,0,0,0,0,9,0,9,27,True,False,False,Right-arm fast-medium,Right-hand bat

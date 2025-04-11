@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Pakistan,Fakhar Zaman,1777c020,1,5,11,0,0,45.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,-1,0,8,7,34,True,False,False,Slow left-arm orthodox,Left-hand bat
+Pakistan,Babar Azam,8a75e999,2,51,28,8,1,182.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,103,0,0,103,30,True,False,False,Right-arm offbreak,Right-hand bat
+Pakistan,Haider Ali,c13e34f4,3,66,43,6,3,153.49,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,120,0,0,120,24,True,False,False,,Right-hand bat
+Pakistan,Khushdil Shah,fce581b5,4,11,9,2,0,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,30,True,False,True,Slow left-arm orthodox,Left-hand bat
+Pakistan,Mohammad Rizwan,2f26ac1a,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,0,20,20,32,True,True,False,Right-arm medium,Right-hand bat
+Pakistan,Mohammad Hafeez,9ab63e7b,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,44,True,False,True,Right-arm offbreak,Right-hand bat
+Pakistan,Wahab Riaz,b3118300,6,0,0,0,0,0.0,"[6, 9, 18, 20]",4.0,24,9,0,31,3,1,0,0,0,0,1,7.75,0,0,0,0,0,0,9,0,9,39,True,False,False,Left-arm fast,Right-hand bat
+Pakistan,Haris Rauf,24bb1c2f,7,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,8,0,31,4,0,3,0,0,0,0,7.75,0,0,0,0,0,0,87,0,87,31,True,False,False,Right-arm fast,Right-hand bat
+Pakistan,Mohammad Hasnain,8596fe80,8,0,0,0,0,0.0,"[1, 3, 11, 16]",4.0,24,6,0,28,3,0,0,0,0,0,0,7.0,0,0,0,0,0,0,8,0,8,24,True,False,False,Right-arm fast,Right-hand bat
+Pakistan,Faheem Ashraf,bd4ea627,9,0,0,0,0,0.0,"[5, 7, 13, 15]",4.0,24,10,0,20,1,0,1,0,1,0,2,5.0,1,0,0,0,0,0,47,8,55,31,True,False,True,Right-arm medium,Left-hand bat
+Pakistan,Usman Qadir,33742f04,10,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,15,0,23,1,2,3,1,1,0,0,5.75,0,0,0,0,0,0,114,0,114,31,True,False,False,Legbreak,Left-hand bat
+Zimbabwe,BRM Taylor,53597be1,1,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,39,True,True,False,Right-arm offbreak,Right-hand bat
+Zimbabwe,CJ Chibhabha,f32dbc84,2,15,9,3,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27,38,True,False,False,Right-arm medium,Right-hand bat
+Zimbabwe,SC Williams,afe57f7a,3,13,10,2,0,130.0,[8],1.0,6,2,0,11,0,1,0,0,0,0,0,11.0,0,0,0,0,2,23,2,0,25,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Zimbabwe,R Ngarava,6e3f5a5c,4,0,0,0,0,0.0,"[2, 5, 14, 16]",3.167,19,6,0,28,5,0,0,0,0,0,0,8.84,0,0,0,0,0,0,6,0,6,27,True,False,False,Left-arm fast-medium,Left-hand bat
+Zimbabwe,W Madhevere,a879b92c,4,24,22,3,1,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,42,0,0,42,24,True,False,True,Right-arm offbreak,Right-hand bat
+Zimbabwe,B Muzarabani,449f4e3c,5,0,0,0,0,0.0,"[1, 3, 13, 15]",4.0,24,12,0,33,4,1,2,0,0,0,2,8.25,0,0,0,0,0,0,62,0,62,28,True,False,False,Right-arm fast-medium,Right-hand bat
+Zimbabwe,Sikandar Raza,26d041c4,5,7,10,1,0,70.0,"[9, 11]",2.0,12,4,0,20,2,1,0,0,0,0,1,10.0,0,0,0,0,-2,9,2,0,11,38,True,False,True,Legbreak,Right-hand bat
+Zimbabwe,RP Burl,b08252b8,6,32,22,1,1,145.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,48,0,0,48,30,True,False,True,Legbreak,Left-hand bat
+Zimbabwe,E Chigumbura,d2babdd5,7,18,19,1,1,94.74,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,28,0,16,44,39,True,False,True,Right-arm fast-medium,Right-hand bat
+Zimbabwe,DT Tiripano,dbfb8218,8,15,17,1,0,88.24,"[4, 6]",2.0,12,3,0,18,3,0,0,0,0,0,0,9.0,0,0,0,0,0,19,3,0,22,37,True,False,False,Right-arm fast-medium,Right-hand bat
+Zimbabwe,TS Chisoro,4b2d6789,9,3,5,0,0,60.0,"[7, 10, 12]",3.0,18,3,0,26,2,1,0,0,0,0,0,8.67,0,0,0,0,0,3,3,0,6,37,True,False,False,Slow left-arm orthodox,Left-hand bat

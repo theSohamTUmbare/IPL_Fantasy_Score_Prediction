@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Nepal,I Pandey,ed547c49,1,4,8,1,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16,27,True,False,False,,Left-hand bat
+Nepal,P Khadka,12c3ba4d,2,18,22,3,0,81.82,"[10, 12]",2.0,12,7,0,10,0,1,1,0,1,0,0,5.0,0,0,0,0,0,30,44,0,74,37,True,False,True,Right-arm offbreak,Right-hand bat
+Nepal,Aarif Sheikh,cd4d7695,3,8,11,1,0,72.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20,27,True,False,False,Right-arm medium,Right-hand bat
+Nepal,DS Airee,1747ea18,4,40,33,5,0,121.21,"[8, 15]",2.0,12,4,0,23,1,2,0,0,0,0,1,11.5,0,0,0,0,0,64,0,0,64,25,True,False,False,Right-arm offbreak,Right-hand bat
+Nepal,Kushal Malla,7e9f1cde,5,2,6,0,0,33.33,"[3, 5, 17]",3.0,18,11,0,28,2,3,0,0,0,0,0,9.33,0,0,0,0,0,2,11,0,13,21,True,False,True,Slow left-arm orthodox,Left-hand bat
+Nepal,S Jora,156378d8,6,17,15,2,0,113.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,23,True,False,False,,Right-hand bat
+Nepal,S Lamichhane,b410bd3d,7,0,0,0,0,0.0,"[2, 4, 6, 14]",4.0,24,17,0,15,0,0,3,0,0,0,10,3.75,1,0,0,0,0,0,102,8,110,24,True,False,False,Legbreak googly,Right-hand bat
+Nepal,B Bhandari,82342b13,7,11,12,1,0,91.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15,35,True,True,False,Right-arm bowler,Right-hand bat
+Nepal,Karan KC,f53b3e1d,8,0,0,0,0,0.0,"[7, 9, 19]",2.167,13,5,0,11,1,0,0,0,0,0,0,5.08,0,0,0,0,0,0,9,0,9,33,True,False,True,Right-arm fast,Right-hand bat
+Nepal,Sompal Kami,1adb8ee8,8,25,13,0,3,192.31,"[1, 11, 13]",3.0,18,5,0,25,4,0,0,0,0,0,0,8.33,0,0,0,0,6,53,5,0,58,29,True,False,True,Right-arm fast-medium,Right-hand bat
+Nepal,A Bohara,64fb6b15,9,0,0,0,0,0.0,"[16, 18]",2.0,12,6,0,11,0,1,0,0,0,0,0,5.5,0,0,0,0,0,0,10,0,10,27,True,False,False,Right-arm medium,Right-hand bat
+Zimbabwe,BB Chari,41fc1ece,1,19,18,4,0,105.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,35,0,0,35,33,True,False,False,Right-arm offbreak,Right-hand bat
+Zimbabwe,RW Chakabva,2f0d7e4a,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,37,True,True,False,Right-arm offbreak,Right-hand bat
+Zimbabwe,CT Mutombodzi,26f12506,3,0,4,0,0,0.0,"[9, 15]",2.0,12,4,0,12,1,0,0,0,0,0,0,6.0,1,0,0,0,0,-2,6,8,12,34,True,False,True,Legbreak googly,Right-hand bat
+Zimbabwe,SC Williams,afe57f7a,4,0,1,0,0,0.0,"[3, 11, 13, 17]",4.0,24,13,0,19,2,0,2,0,0,0,0,4.75,0,0,0,0,0,-2,69,0,67,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Zimbabwe,T Maruma,f55c526f,5,12,21,0,1,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,14,0,8,22,36,True,False,False,Legbreak googly,Right-hand bat
+Zimbabwe,RP Burl,b08252b8,6,41,36,3,2,113.89,"[8, 10]",2.0,12,5,0,19,4,0,1,0,0,0,0,9.5,0,0,0,0,0,69,30,0,99,30,True,False,True,Legbreak,Left-hand bat
+Zimbabwe,TL Chatara,5bbabe59,7,0,0,0,0,0.0,"[2, 5, 18, 20]",4.0,24,12,0,30,0,3,1,0,0,1,0,7.5,1,0,0,0,0,0,37,8,45,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Zimbabwe,R Mutumbami,5fef85ee,7,40,28,1,4,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,74,0,0,74,35,True,True,False,Right-arm offbreak,Right-hand bat
+Zimbabwe,WP Masakadza,4bc0a378,8,0,0,0,0,0.0,"[1, 7, 12, 14]",4.0,24,11,0,19,2,0,1,0,0,0,0,4.75,2,0,0,0,0,0,42,16,58,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+Zimbabwe,N Madziva,4a36c370,9,0,0,0,0,0.0,"[4, 6, 16, 19]",4.0,24,9,0,31,4,0,1,0,0,0,4,7.75,0,0,0,0,0,0,34,0,34,33,True,False,True,Right-arm medium-fast,Right-hand bat
+Zimbabwe,T Munyonga,fbcfa528,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,False,True,Right-arm offbreak,Right-hand bat

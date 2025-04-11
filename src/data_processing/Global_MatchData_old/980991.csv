@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Kings XI Punjab,HM Amla,e798611a,1,96,56,14,2,171.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,182,0,0,182,41,True,False,False,Right-arm offbreak,Right-hand bat
+Kings XI Punjab,M Vijay,4b57e452,2,6,12,0,0,50.0,[2],1.0,6,2,0,8,1,0,0,0,0,0,1,8.0,0,0,0,0,-4,2,2,0,4,40,True,False,False,Right-arm offbreak,Right-hand bat
+Kings XI Punjab,WP Saha,fe11caa6,3,27,23,3,0,117.39,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,43,0,0,43,40,True,False,False,,Right-hand bat
+Kings XI Punjab,Gurkeerat Singh,6eb146d2,4,27,20,4,0,135.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,49,0,0,49,34,True,False,False,Right-arm offbreak,Right-hand bat
+Kings XI Punjab,MP Stoinis,d9273ee7,5,0,0,0,0,0.0,"[5, 10, 15]",3.0,18,5,0,28,3,1,0,0,0,0,1,9.33,0,0,0,0,0,0,5,0,5,35,True,False,True,Right-arm medium,Right-hand bat
+Kings XI Punjab,DA Miller,d67d5f00,5,20,9,2,1,222.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,34,0,8,42,35,True,False,False,Right-arm offbreak,Left-hand bat
+Kings XI Punjab,AR Patel,2e171977,6,0,0,0,0,0.0,"[7, 9, 13, 17]",4.0,24,9,0,26,1,1,1,0,0,0,0,6.5,0,0,0,0,0,0,36,0,36,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Kings XI Punjab,GJ Maxwell,b681e71e,6,0,0,0,0,0.0,[6],1.0,6,2,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,0,0,2,0,2,36,True,False,True,Right-arm offbreak,Right-hand bat
+Kings XI Punjab,MM Sharma,759ac88f,7,0,0,0,0,0.0,"[3, 14, 18, 20]",3.667,22,3,0,40,2,3,0,0,0,0,1,10.91,0,0,1,0,0,0,1,12,13,36,True,False,False,Right-arm medium,Right-hand bat
+Kings XI Punjab,Sandeep Sharma,ce820073,8,0,0,0,0,0.0,"[1, 11, 16, 19]",4.0,24,6,0,35,2,2,1,0,0,0,0,8.75,0,0,0,0,0,0,31,0,31,31,True,False,False,Right-arm medium,Right-hand bat
+Kings XI Punjab,Anureet Singh,69be866a,9,0,0,0,0,0.0,"[4, 8, 12]",3.0,18,6,0,28,4,0,0,0,0,2,0,9.33,0,0,0,0,0,0,6,0,6,37,True,False,False,Right-arm medium,Right-hand bat
+Sunrisers Hyderabad,DA Warner,dcce6f09,1,52,41,5,1,126.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,86,0,16,102,38,True,False,False,Legbreak,Left-hand bat
+Sunrisers Hyderabad,S Dhawan,0a476045,2,25,21,4,0,119.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,45,0,0,45,39,True,False,False,Right-arm offbreak,Left-hand bat
+Sunrisers Hyderabad,DJ Hooda,73ad96ed,3,34,21,3,1,161.9,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,60,0,8,68,29,True,False,True,Right-arm offbreak,Right-hand bat
+Sunrisers Hyderabad,Yuvraj Singh,1c914163,4,42,24,3,3,175.0,[10],1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,6,82,1,0,83,43,True,False,False,Slow left-arm orthodox,Left-hand bat
+Sunrisers Hyderabad,MC Henriques,32198ae0,5,0,0,0,0,0.0,"[8, 12, 16]",3.0,18,4,0,29,3,1,1,0,0,0,0,9.67,0,0,0,0,0,0,29,0,29,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Sunrisers Hyderabad,BCJ Cutting,2e11c706,5,18,11,0,2,163.64,[6],1.167,7,2,0,11,2,0,0,0,0,0,0,9.43,0,0,0,0,4,34,2,0,36,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Sunrisers Hyderabad,NV Ojha,890946a0,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,41,True,False,False,,Right-hand bat
+Sunrisers Hyderabad,KV Sharma,119678fd,7,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,6,0,26,2,0,0,0,0,0,0,6.5,0,0,0,0,0,0,8,0,8,37,True,False,False,Legbreak googly,Left-hand bat
+Sunrisers Hyderabad,B Kumar,2e81a32d,8,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,9,0,32,4,1,2,0,1,0,0,8.0,0,0,0,0,0,0,67,0,67,35,True,False,False,Right-arm medium,Right-hand bat
+Sunrisers Hyderabad,A Nehra,96fd40ae,9,0,0,0,0,0.0,"[2, 4, 14]",2.833,17,3,0,35,5,1,0,0,0,0,0,12.35,0,0,0,0,0,0,-3,0,-3,45,True,False,False,Left-arm medium-fast,Right-hand bat
+Sunrisers Hyderabad,Mustafizur Rahman,0a8fce53,10,0,0,0,0,0.0,"[5, 15, 17, 19]",4.0,24,9,0,32,5,0,1,0,0,0,0,8.0,0,0,0,0,0,0,34,0,34,29,True,False,False,Left-arm fast-medium,Left-hand bat

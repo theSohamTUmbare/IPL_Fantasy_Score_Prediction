@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Nottinghamshire,PA Jaques,03252e44,1,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,45,True,False,False,Left-arm medium,Left-hand bat
+Nottinghamshire,AD Hales,92aeac25,2,12,12,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26,36,True,False,False,Right-arm medium,Right-hand bat
+Nottinghamshire,MH Wessels,90f47cf2,3,14,11,3,0,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26,39,True,False,False,,Right-hand bat
+Nottinghamshire,SR Patel,18fac429,4,20,17,3,0,117.65,"[7, 9, 11, 13]",4.0,24,11,0,19,2,0,2,0,0,0,0,4.75,0,0,0,0,0,32,67,0,99,40,True,False,True,Slow left-arm orthodox,Right-hand bat
+Nottinghamshire,JWA Taylor,c374f37f,5,52,38,5,1,136.84,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,88,0,8,96,35,True,False,False,Legbreak,Right-hand bat
+Nottinghamshire,JEC Franklin,cf73ad76,6,27,23,2,1,117.39,[15],1.0,6,1,0,14,1,1,0,0,0,0,0,14.0,2,0,0,0,0,45,1,16,62,44,True,False,True,Left-arm medium,Left-hand bat
+Nottinghamshire,CMW Read,be4cefab,7,4,6,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,46,True,False,False,,Right-hand bat
+Nottinghamshire,SJ Mullaney,0e0d43b4,8,1,2,0,0,50.0,"[8, 10, 12, 14]",4.0,24,8,0,17,0,0,0,0,0,0,0,4.25,0,0,0,0,0,1,14,0,15,38,True,False,True,Right-arm medium,Right-hand bat
+Nottinghamshire,A Shahzad,a73321d3,9,6,4,0,1,150.0,"[4, 6, 16]",3.0,18,7,0,20,3,0,1,0,0,0,0,6.67,0,0,0,0,0,12,34,0,46,39,True,False,False,Right-arm fast-medium,Right-hand bat
+Nottinghamshire,LJ Fletcher,e423d162,10,3,3,0,0,100.0,"[2, 5, 18, 20]",4.0,24,8,0,21,2,0,3,0,2,0,0,5.25,0,0,0,0,0,3,107,0,110,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Nottinghamshire,HF Gurney,e412cb64,11,1,1,0,0,100.0,"[1, 3, 17, 19]",4.0,24,12,0,25,3,0,2,0,0,0,2,6.25,2,0,0,0,0,1,64,16,81,38,True,False,False,Left-arm fast-medium,Right-hand bat
+Yorkshire,AW Gale,43501c0d,1,7,15,0,0,46.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,1,0,0,1,41,True,False,False,Legbreak,Left-hand bat
+Yorkshire,AJ Finch,b8d490fd,2,10,6,2,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26,38,True,False,False,Slow left-arm orthodox,Right-hand bat
+Yorkshire,AZ Lees,c9c0fe50,3,37,37,4,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,57,0,0,57,31,True,False,False,Legbreak,Left-hand bat
+Yorkshire,JM Bairstow,abb83e27,4,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11,35,True,True,False,Right-arm medium,Right-hand bat
+Yorkshire,A Lyth,70b8fd28,5,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,37,True,False,False,Right-arm offbreak,Left-hand bat
+Yorkshire,TT Bresnan,58043739,6,28,23,2,1,121.74,"[2, 4, 14, 16]",4.0,24,10,0,31,3,1,2,0,0,0,1,7.75,3,0,0,0,0,46,60,28,134,40,True,False,True,Right-arm medium-fast,Right-hand bat
+Yorkshire,AU Rashid,249d60c9,7,21,18,3,0,116.67,"[7, 9, 11, 13]",4.0,24,7,0,25,2,0,0,0,0,0,1,6.25,0,0,0,0,0,33,9,0,42,37,True,False,False,Legbreak,Right-hand bat
+Yorkshire,RM Pyrah,903c1d37,8,3,5,0,0,60.0,"[5, 15]",2.0,12,5,0,19,2,1,1,0,0,0,0,9.5,0,0,0,0,0,3,30,0,33,42,True,False,True,Right-arm medium,Right-hand bat
+Yorkshire,OE Robinson,0f3ee070,9,2,4,0,0,50.0,"[6, 18, 20]",3.0,18,6,0,25,4,0,2,0,0,0,0,8.33,1,0,0,0,0,2,56,8,66,31,True,False,False,Right-arm medium-fast,Right-hand bat
+Yorkshire,Azeem Rafiq,5fcb6fb1,10,1,2,0,0,50.0,"[8, 10, 12]",3.0,18,5,0,18,0,1,1,0,1,0,0,6.0,1,0,0,0,0,1,40,8,49,34,True,False,False,Right-arm offbreak,Right-hand bat
+Yorkshire,RJ Sidebottom,9dca07d7,11,0,2,0,0,0.0,"[1, 3, 17, 19]",4.0,24,13,0,24,2,1,3,0,0,0,0,6.0,0,0,0,0,0,0,94,0,94,47,True,False,False,Left-arm fast-medium,Left-hand bat

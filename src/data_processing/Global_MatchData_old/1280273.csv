@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Manipur,Narsingh Yadav,4c450aee,1,10,9,2,0,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,33,True,False,False,,Right-hand bat
+Manipur,Nitesh Sedai,e9cb8d60,2,0,1,0,0,0.0,"[3, 8, 10, 12]",4.0,24,5,0,34,3,1,1,0,0,0,1,8.5,1,0,0,0,0,0,30,8,38,27,True,True,False,Right-arm offbreak,Right-hand bat
+Manipur,Al Bashid Muhammed,1dc27b6b,3,4,26,0,0,15.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,-2,0,8,6,26,True,False,False,,Right-hand bat
+Manipur,Karnajit Yumnam,6f2093a8,4,18,12,3,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30,27,True,False,False,,Right-hand bat
+Manipur,Sanatombaroy Laiphangbam,a207d093,5,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,27,True,False,False,,Right-hand bat
+Manipur,Johnson Singh,5355e20a,6,1,12,0,0,8.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-5,0,0,-5,25,True,False,False,,Right-hand bat
+Manipur,L Kishan Singha,ca82673d,7,7,13,0,0,53.85,"[1, 13, 15, 17]",4.0,24,7,0,29,2,0,2,0,1,0,5,7.25,0,0,0,0,-4,3,65,0,68,28,True,True,False,Slow left-arm orthodox,Right-hand bat
+Manipur,Chongtham Mehul,c916b3c2,8,1,3,0,0,33.33,"[14, 16]",2.0,12,1,0,35,1,4,0,0,0,0,0,17.5,0,0,0,0,0,1,-5,0,-4,36,True,True,False,Right-arm offbreak,Right-hand bat
+Manipur,Homendro Kabrambam,1b480a44,9,4,14,0,0,28.57,"[5, 7, 9, 11]",4.0,24,5,0,29,3,0,0,0,0,0,0,7.25,0,0,0,0,-6,-2,5,0,3,32,True,True,False,Right-arm medium-fast,Right-hand bat
+Manipur,Kishan Thokchom,dbc76c59,10,0,2,0,0,0.0,"[6, 18, 20]",3.0,18,2,0,60,5,5,1,0,0,0,2,20.0,0,0,0,0,0,-2,21,0,19,35,True,True,False,Right-arm medium,Right-hand bat
+Manipur,Somorjit Salam,2b38fa6d,11,1,4,0,0,25.0,"[2, 4, 19]",3.0,18,7,0,35,2,3,0,0,0,0,2,11.67,0,0,0,0,0,1,3,0,4,31,True,True,False,Right-arm medium-fast,Right-hand bat
+Vidarbha,Atharva Taide,1ac746c8,1,46,21,7,2,219.05,[14],1.0,6,6,1,0,0,0,2,1,1,0,0,0.0,1,0,1,0,6,96,84,20,200,24,True,False,True,Slow left-arm orthodox,Left-hand bat
+Vidarbha,Siddhesh Wath,5786f224,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,27,True,False,False,,Right-hand bat
+Vidarbha,Akshay Wadkar,c88c8a7d,3,28,29,2,0,96.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,40,0,8,48,30,True,False,False,,Right-hand bat
+Vidarbha,SB Dubey,6b2ff18f,4,18,21,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,22,0,16,38,30,True,False,False,Right-arm offbreak,Left-hand bat
+Vidarbha,JM Sharma,800d2d97,5,71,31,5,5,229.03,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,135,0,8,143,31,True,False,False,,Right-hand bat
+Vidarbha,AV Wankhade,5708d0b6,6,49,16,1,6,306.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,99,0,0,99,33,True,False,False,Right-arm medium,Right-hand bat
+Vidarbha,DG Nalkande,cd8d2859,11,0,0,0,0,0.0,"[6, 8, 10]",3.0,18,10,0,9,0,0,1,0,0,0,0,3.0,0,0,0,0,0,0,41,0,41,26,True,False,False,Right-arm fast-medium,Right-hand bat
+Vidarbha,Siddhesh Neral,5b181080,12,0,0,0,0,0.0,"[1, 3, 16]",3.0,18,12,0,13,1,0,1,1,0,0,3,4.33,0,0,0,0,0,0,51,0,51,30,True,True,False,Right-arm medium,Right-hand bat
+Vidarbha,AS Thakare,aa7176ba,13,0,0,0,0,0.0,"[2, 5, 13, 17]",3.5,21,13,0,17,3,0,2,0,0,0,0,4.86,0,0,0,0,0,0,69,0,69,26,True,False,False,Right-arm medium,Right-hand bat
+Vidarbha,Akshay Karnewar,e1e7f950,14,0,0,0,0,0.0,"[7, 9, 11, 15]",4.0,24,23,3,0,0,0,2,0,1,0,0,0.0,0,0,0,0,0,0,123,0,123,32,True,False,False,Slow left-arm orthodox,Left-hand bat
+Vidarbha,Akshay Wakhare,ec9fc54b,15,0,0,0,0,0.0,"[4, 12]",2.0,12,5,0,10,1,0,1,0,0,0,0,5.0,0,0,0,0,0,0,34,0,34,39,True,False,False,Right-arm offbreak,Right-hand bat

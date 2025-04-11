@@ -1,0 +1,25 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Mumbai,PP Shaw,8b3e9c7c,1,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,25,True,False,False,Right-arm offbreak,Right-hand bat
+Mumbai,AM Rahane,29e95537,2,21,22,3,0,95.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,33,0,8,41,36,True,False,False,Right-arm medium,Right-hand bat
+Mumbai,YBK Jaiswal,6c19c6e5,3,13,10,2,0,130.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,23,0,8,31,23,True,False,False,Legbreak,Left-hand bat
+Mumbai,SS Iyer,85ec8e33,4,40,30,1,2,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,62,0,8,70,30,True,False,False,Legbreak googly,Right-hand bat
+Mumbai,Sairaj Patil,79b35258,5,31,26,2,2,119.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,55,0,0,55,28,True,True,False,Right-arm medium,Right-hand bat
+Mumbai,S Dube,a4e37e47,6,25,13,3,1,192.31,"[10, 12, 14, 17]",4.0,24,3,0,54,5,2,1,0,0,1,3,13.5,0,0,0,0,6,53,22,0,75,31,True,False,True,Right-arm medium,Left-hand bat
+Mumbai,SN Khan,f088b960,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,27,True,False,False,Legbreak,Right-hand bat
+Mumbai,Aman Hakim Khan,378daa89,8,14,5,1,1,280.0,"[1, 8, 11, 13]",4.0,24,11,0,25,4,0,1,0,0,0,0,6.25,0,0,0,0,0,24,38,0,62,28,True,False,True,Right-arm medium,Right-hand bat
+Mumbai,Tanush Kotian,5724e517,9,7,4,1,0,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19,26,True,False,True,Right-arm offbreak,Right-hand bat
+Mumbai,TU Deshpande,46a9bea1,10,0,0,0,0,0.0,"[2, 4, 16, 19]",4.0,24,8,0,37,3,2,3,0,2,0,1,9.25,0,0,0,0,0,0,103,0,103,29,True,False,False,Right-arm medium,Left-hand bat
+Mumbai,SZ Mulani,9d704f6f,10,1,1,0,0,100.0,"[5, 7, 9, 15]",4.0,24,13,0,23,1,1,1,0,0,0,2,5.75,0,0,0,0,0,1,42,0,43,28,True,False,True,Slow left-arm orthodox,Left-hand bat
+Mumbai,Mohit Avasthi,7e83cef2,11,0,0,0,0,0.0,"[3, 6, 18, 20]",4.0,24,10,0,23,3,0,2,0,0,0,0,5.75,0,0,0,0,0,0,64,0,64,32,True,False,False,Right-arm medium-fast,Right-hand bat
+Saurashtra,H Desai,9c86350f,1,23,20,5,0,115.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,43,0,0,43,25,True,False,False,,Right-hand bat
+Saurashtra,CA Pujara,d4f9dbd4,2,12,10,0,1,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,37,True,False,False,Legbreak,Right-hand bat
+Saurashtra,Samarth Vyas,34819e70,3,14,14,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,20,0,6,26,29,True,False,True,Legbreak googly,Right-hand bat
+Saurashtra,SP Jackson,acc1aeda,4,31,37,3,0,83.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,47,0,14,61,38,True,True,False,Right-arm offbreak,Right-hand bat
+Saurashtra,Vishvaraj Jadeja,d30c6f81,5,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,26,True,True,False,Right-arm medium,Right-hand bat
+Saurashtra,PN Mankad,663b5e34,6,61,24,7,3,254.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,121,0,8,129,30,True,False,True,Right-arm medium,Right-hand bat
+Saurashtra,Jay Gohil,efd1a0ef,7,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,24,True,True,False,Right-arm offbreak,Right-hand bat
+Saurashtra,Chirag Jani,783e6111,8,0,1,0,0,0.0,"[6, 8, 14, 20]",3.5,21,6,0,34,2,3,1,1,0,0,0,9.71,0,0,0,0,0,-2,39,0,37,35,True,False,True,Right-arm medium,Right-hand bat
+Saurashtra,JD Unadkat,1e66c162,9,7,5,1,0,140.0,"[1, 3, 16, 18]",4.0,24,6,0,39,4,1,0,0,0,1,0,9.75,0,0,0,0,0,11,6,0,17,33,True,False,False,Left-arm medium,Right-hand bat
+Saurashtra,C Sakariya,2cdce1be,10,0,0,0,0,0.0,"[2, 5, 15, 19]",4.0,24,9,0,33,4,0,4,0,0,0,6,8.25,1,0,0,0,0,0,117,8,125,27,True,False,False,Left-arm medium-fast,Left-hand bat
+Saurashtra,Dharmendrasinh Jadeja,d330f9b9,10,5,4,0,0,125.0,"[7, 9, 11, 13]",4.0,24,6,0,24,0,1,0,0,0,0,0,6.0,1,0,0,0,0,5,8,8,21,34,True,False,False,Slow left-arm orthodox,Left-hand bat
+Saurashtra,K D Patel,76cc7070,11,0,0,0,0,0.0,"[4, 10, 12, 17]",4.0,24,7,0,33,3,1,2,0,0,0,2,8.25,0,0,0,0,0,0,57,0,57,33,True,True,False,Right-arm medium,Right-hand bat

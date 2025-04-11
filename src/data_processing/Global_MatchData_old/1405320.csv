@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Kuwait,D Sheeli,d5e5f96b,1,6,8,1,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,34,True,False,False,,Right-hand bat
+Kuwait,R Sandaruwan,cf6acc0d,2,22,14,3,1,157.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,44,0,0,44,32,True,False,False,Right-arm offbreak,Right-hand bat
+Kuwait,Meet Bhavsar,b25a3800,3,0,2,0,0,0.0,[15],0.333,2,1,0,6,0,1,0,0,0,0,0,18.02,0,0,0,0,0,-2,1,0,-1,20,True,False,False,,Left-hand bat
+Kuwait,Usman Patel,415c6ccf,4,3,8,0,0,37.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,34,True,False,False,,Right-hand bat
+Kuwait,MNM Aslam,20481563,5,2,12,0,0,16.67,"[5, 7, 9, 11]",4.0,24,15,0,17,1,1,3,0,0,0,0,4.25,1,0,0,0,-6,-4,100,8,104,34,True,False,True,Left-arm slow,Right-hand bat
+Kuwait,Bilal Tahir,3cf06094,6,15,17,3,0,88.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27,26,True,False,False,,Left-hand bat
+Kuwait,Mohamed Shafeeq,ff13b10c,7,0,0,0,0,0.0,[2],1.0,6,2,0,11,2,0,0,0,0,0,1,11.0,0,0,0,0,0,0,2,0,2,30,True,False,False,Right-arm medium,Right-hand bat
+Kuwait,Shiraz Khan,f310704c,7,12,30,0,0,40.0,"[10, 12, 14]",3.0,18,5,0,16,1,0,1,0,0,0,0,5.33,0,0,0,0,-6,6,34,0,40,30,True,False,True,Legbreak googly,Right-hand bat
+Kuwait,Yasin Patel,ecdd8d60,8,10,18,0,0,55.56,"[1, 3, 6, 8]",4.0,24,15,0,20,3,0,1,0,1,0,0,5.0,1,0,0,0,-4,6,52,8,66,27,True,False,False,Slow left-arm orthodox,Left-hand bat
+Kuwait,Sayed Monib,b9cfb0b1,9,0,2,0,0,0.0,[4],1.0,6,1,0,17,3,0,0,0,0,0,2,17.0,0,0,0,0,0,-2,1,0,-1,32,True,False,False,Right-arm medium,Right-hand bat
+Kuwait,Nimish Lathief,b561e8ea,10,11,9,1,0,122.22,[13],1.0,6,3,0,7,1,0,0,0,0,0,1,7.0,0,0,0,0,0,15,3,0,18,36,True,False,True,Right-arm offbreak,Left-hand bat
+United Arab Emirates,Khalid Shah,9e432a38,1,23,19,4,0,121.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,39,0,0,39,28,True,False,False,,Left-hand bat
+United Arab Emirates,Waseem Muhammad,6f02fe2a,2,33,23,5,1,143.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,65,0,0,65,31,True,False,False,Right-arm medium,Right-hand bat
+United Arab Emirates,Asif Khan,074acfb4,3,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,35,True,False,False,Right-arm offbreak,Right-hand bat
+United Arab Emirates,Ali Naseer,f5715b48,4,0,2,0,0,0.0,"[5, 7, 13, 20]",4.0,24,14,1,14,1,0,2,0,0,0,0,3.5,0,0,0,0,0,-2,82,0,80,21,True,False,True,Right-arm medium,Left-hand bat
+United Arab Emirates,A Sharafu,06cad4f0,5,16,22,2,0,72.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24,22,True,False,False,Right-arm medium,Right-hand bat
+United Arab Emirates,V Aravind,cddafe26,6,7,10,0,0,70.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,4,0,0,0,-2,5,0,36,41,22,True,False,False,,Right-hand bat
+United Arab Emirates,Basil Hameed,adbf0400,7,8,4,0,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,32,True,False,False,Right-arm offbreak,Right-hand bat
+United Arab Emirates,Aayan Afzal Khan,d2d15439,7,0,0,0,0,0.0,"[2, 4, 6, 16]",4.0,24,16,0,17,1,1,0,0,0,0,0,4.25,0,0,0,0,0,0,22,0,22,19,True,False,True,Slow left-arm orthodox,Right-hand bat
+United Arab Emirates,Nilansh Keswani,424a7994,8,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,14,0,16,2,0,2,1,1,0,0,4.0,0,0,0,0,0,0,86,0,86,21,True,False,True,Slow left-arm orthodox,Left-hand bat
+United Arab Emirates,Junaid Siddique,84dc72db,9,0,0,0,0,0.0,"[1, 3, 15, 18]",4.0,24,10,0,25,3,0,2,0,1,0,2,6.25,0,0,0,0,0,0,70,0,70,32,True,False,False,Right-arm medium-fast,Right-hand bat
+United Arab Emirates,Zahoor Khan,f0e293b0,10,0,0,0,0,0.0,"[9, 11, 17, 19]",4.0,24,16,0,13,1,0,2,0,1,1,1,3.25,0,0,0,0,0,0,80,0,80,35,True,False,False,Right-arm medium-fast,Right-hand bat

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Essex,T Westley,25a42048,1,39,30,2,1,130.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,59,0,0,59,36,True,False,False,Right-arm offbreak,Right-hand bat
+Essex,AJA Wheater,71647ced,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,35,True,False,False,,Right-hand bat
+Essex,DW Lawrence,4b685e2d,3,60,45,5,1,133.33,[3],1.0,6,2,0,13,3,0,0,0,0,0,0,13.0,0,0,0,0,2,96,2,0,98,27,True,False,False,Right-arm offbreak,Right-hand bat
+Essex,JDS Neesham,9219eff0,4,2,5,0,0,40.0,"[13, 15]",2.0,12,3,0,15,1,0,0,0,0,0,1,7.5,2,0,0,0,0,2,3,16,21,34,True,False,True,Right-arm medium-fast,Left-hand bat
+Essex,MS Pepper,270e4c23,5,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11,26,True,False,False,,Right-hand bat
+Essex,RN ten Doeschate,4ec07775,6,9,5,0,1,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,15,0,8,23,44,True,False,True,Right-arm medium-fast,Right-hand bat
+Essex,PI Walter,57590dbb,7,4,5,0,0,80.0,[10],1.0,6,1,0,10,0,1,0,0,0,0,0,10.0,2,0,0,0,0,4,1,16,21,30,True,False,True,Left-arm medium,Left-hand bat
+Essex,SR Harmer,23638956,8,13,10,0,1,130.0,"[8, 11, 16, 18]",4.0,24,6,0,26,2,0,2,0,0,0,0,6.5,0,0,0,0,2,21,58,0,79,36,True,False,False,Right-arm offbreak,Right-hand bat
+Essex,ASS Nijjar,e43aa7ed,9,8,6,0,1,133.33,"[1, 7, 9, 12]",4.0,24,11,0,30,2,2,2,0,0,0,0,7.5,0,0,0,0,0,14,61,0,75,30,True,False,False,Slow left-arm orthodox,Left-hand bat
+Essex,S Snater,a790df98,10,5,3,1,0,166.67,"[4, 6, 14, 19]",4.0,24,5,0,41,4,1,1,0,0,2,0,10.25,0,0,0,0,0,9,28,0,37,29,True,False,False,Right-arm fast-medium,Right-hand bat
+Essex,SJ Cook,679cd31e,11,0,1,0,0,0.0,"[2, 5, 17, 20]",4.0,24,8,0,34,3,2,3,0,0,0,0,8.5,2,0,0,0,0,-2,87,16,101,27,True,False,False,Right-arm medium-fast,Right-hand bat
+Hampshire,JM Vince,a15618fe,1,63,46,8,1,136.96,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,2,111,0,20,131,34,True,False,False,Right-arm medium,Right-hand bat
+Hampshire,DJM Short,1a156c88,2,30,22,4,1,136.36,"[11, 13]",2.0,12,3,0,11,0,0,1,0,1,0,0,5.5,0,0,0,0,2,58,40,0,98,34,True,False,False,Left-arm wrist-spin,Left-hand bat
+Hampshire,LA Dawson,4a461c24,3,0,2,0,0,0.0,"[2, 7, 9, 14]",4.0,24,6,0,25,1,0,1,0,0,0,0,6.25,0,0,0,0,0,-2,33,0,31,35,True,False,True,Slow left-arm orthodox,Right-hand bat
+Hampshire,C de Grandhomme,94d7f855,4,32,25,0,2,128.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,48,0,0,48,38,True,False,True,Right-arm medium-fast,Right-hand bat
+Hampshire,JJ Weatherley,a05d0552,5,10,6,2,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,28,True,False,False,Right-arm offbreak,Right-hand bat
+Hampshire,LD McManus,6feb46a4,6,25,12,1,2,208.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,1,0,0,6,51,0,40,91,30,True,False,False,,Right-hand bat
+Hampshire,JK Fuller,dda5aae5,7,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12,35,True,False,True,Right-arm fast-medium,Right-hand bat
+Hampshire,CP Wood,1cfac535,8,1,2,0,0,50.0,"[1, 5, 17, 19]",4.0,24,6,0,34,3,1,2,0,0,0,1,8.5,0,0,0,0,0,1,56,0,57,34,True,False,False,Left-arm medium-fast,Right-hand bat
+Hampshire,SW Currie,c5f40e35,9,0,0,0,0,0.0,"[4, 16, 18]",3.0,18,6,0,19,1,1,1,0,0,0,0,6.33,0,0,0,0,0,0,33,0,33,23,True,False,True,Right-arm medium-fast,Right-hand bat
+Hampshire,MS Crane,f0a0204e,10,1,1,0,0,100.0,"[8, 10, 12, 15]",4.0,24,7,0,35,0,3,2,0,0,0,0,8.75,0,0,0,0,0,1,57,0,58,28,True,False,False,Legbreak googly,Right-hand bat
+Hampshire,BTJ Wheal,3f61a062,11,0,0,0,0,0.0,"[3, 6, 20]",2.333,14,3,0,21,3,0,2,0,2,0,1,9.0,0,0,0,0,0,0,69,0,69,28,True,False,False,Right-arm fast-medium,Right-hand bat

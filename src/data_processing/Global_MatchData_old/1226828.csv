@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Melbourne Stars,MP Stoinis,d9273ee7,1,61,37,6,2,164.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,109,0,8,117,35,True,False,True,Right-arm medium,Right-hand bat
+Melbourne Stars,ADS Fletcher,1bae756b,2,12,10,1,1,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,22,0,8,30,37,True,False,False,Legbreak,Right-hand bat
+Melbourne Stars,GJ Maxwell,b681e71e,3,39,29,4,0,134.48,[1],1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,2,61,1,0,62,36,True,False,True,Right-arm offbreak,Right-hand bat
+Melbourne Stars,HWR Cartwright,ab965cad,4,9,8,0,1,112.5,"[11, 14, 19]",3.167,19,3,0,34,1,2,2,0,0,1,0,10.74,1,0,0,0,0,15,51,8,74,33,True,False,False,Right-arm medium,Right-hand bat
+Melbourne Stars,BR Dunk,272d796e,5,16,12,0,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,24,0,16,40,38,True,True,False,Right-arm offbreak,Left-hand bat
+Melbourne Stars,NCR Larkin,02bce9a8,6,15,14,0,0,107.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15,34,True,False,False,,Right-hand bat
+Melbourne Stars,CD Hinchliffe,8891669e,7,1,2,0,0,50.0,"[5, 13]",2.0,12,3,0,18,3,0,1,0,0,0,0,9.0,1,0,0,0,0,1,28,8,37,28,True,False,True,Left-arm wrist-spin,Left-hand bat
+Melbourne Stars,A Zampa,14f96089,8,3,5,0,0,60.0,"[6, 8, 16, 20]",4.0,24,15,0,10,0,0,2,0,0,0,0,2.5,0,0,0,0,0,3,71,0,74,32,True,False,False,Legbreak googly,Right-hand bat
+Melbourne Stars,LC Hatcher,8f3fde65,9,2,2,0,0,100.0,"[7, 10, 15, 17]",4.0,24,6,0,28,1,1,3,0,0,0,3,7.0,1,0,0,0,0,2,87,8,97,28,True,False,False,Right-arm fast-medium,Right-hand bat
+Melbourne Stars,B Stanlake,6834d1f2,10,1,1,0,0,100.0,"[2, 4, 12, 18]",4.0,24,10,0,34,5,1,0,0,0,0,0,8.5,0,0,0,0,0,1,10,0,11,30,True,False,False,Right-arm fast,Left-hand bat
+Melbourne Stars,Dilbar Hussain,a968d8eb,11,0,0,0,0,0.0,"[3, 9]",1.833,11,5,0,11,1,0,1,0,0,0,1,6.0,0,0,0,0,0,0,30,0,30,32,True,False,False,Right-arm fast-medium,Right-hand bat
+Sydney Thunder,UT Khawaja,331ea488,1,7,7,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,38,True,False,False,Right-arm medium,Left-hand bat
+Sydney Thunder,AD Hales,92aeac25,2,46,41,4,2,112.2,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,78,0,0,78,36,True,False,False,Right-arm medium,Right-hand bat
+Sydney Thunder,CJ Ferguson,9b4935c8,3,54,35,6,1,154.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,96,0,0,96,40,True,False,False,Right-arm medium,Right-hand bat
+Sydney Thunder,AI Ross,fb0d68b4,4,18,15,1,1,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28,32,True,False,False,Right-arm offbreak,Right-hand bat
+Sydney Thunder,BCJ Cutting,2e11c706,5,2,7,0,0,28.57,[10],1.0,6,1,0,6,0,0,0,0,0,0,0,6.0,0,0,0,0,0,2,1,0,3,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Sydney Thunder,DR Sams,caf69bf7,6,0,1,0,0,0.0,"[2, 13, 20]",3.0,18,8,0,24,1,2,2,0,2,0,0,8.0,1,0,0,0,0,-2,74,8,80,32,True,False,True,Left-arm fast-medium,Right-hand bat
+Sydney Thunder,CJ Green,19b9f399,7,5,6,0,0,83.33,"[3, 8, 15, 19]",4.0,24,6,0,42,4,1,2,2,0,0,0,10.5,1,0,0,0,0,5,70,8,83,31,True,False,True,Right-arm offbreak,Right-hand bat
+Sydney Thunder,N McAndrew,38c276e1,8,6,3,1,0,200.0,"[4, 6, 12, 14]",4.0,24,9,0,36,5,0,1,0,0,0,4,9.0,0,0,0,0,0,10,34,0,44,31,True,False,False,Right-arm medium-fast,Right-hand bat
+Sydney Thunder,BJ Holt,f05d1564,9,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,25,True,False,False,,Right-hand bat
+Sydney Thunder,JD Cook,45f56920,10,2,2,0,0,100.0,"[1, 7, 11, 17]",4.0,24,6,0,33,0,2,1,0,0,0,2,8.25,1,0,0,0,0,2,31,8,41,35,True,False,False,Legbreak,Right-hand bat
+Sydney Thunder,T Sangha,52c952d9,11,0,0,0,0,0.0,"[5, 9, 16, 18]",4.0,24,6,0,26,1,0,2,1,0,0,2,6.5,0,0,0,0,0,0,66,0,66,23,True,False,False,Legbreak,Right-hand bat

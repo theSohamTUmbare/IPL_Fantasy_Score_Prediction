@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+India,RD Gaikwad,45a43fe2,1,4,8,1,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,28,True,False,False,Right-arm offbreak,Right-hand bat
+India,Ishan Kishan,752f7486,2,34,31,5,0,109.68,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,58,0,28,86,26,True,True,False,Legbreak,Left-hand bat
+India,SS Iyer,85ec8e33,3,25,16,4,0,156.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,49,0,8,57,30,True,False,False,Legbreak googly,Right-hand bat
+India,RG Sharma,740742ef,4,7,15,0,0,46.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,-6,1,0,16,17,37,True,False,False,Right-arm offbreak,Right-hand bat
+India,SA Yadav,271f83cd,5,65,31,1,7,209.68,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,125,0,0,125,34,True,False,False,Right-arm offbreak,Right-hand bat
+India,VR Iyer,a24be938,6,35,19,4,2,184.21,"[9, 11]",2.167,13,5,0,23,3,1,2,0,0,0,0,10.61,0,0,0,0,6,73,53,0,126,30,True,False,True,Right-arm medium,Left-hand bat
+India,SN Thakur,1abb78f8,11,0,0,0,0,0.0,"[5, 10, 18, 20]",4.0,24,12,0,33,4,1,2,0,0,0,3,8.25,1,0,0,0,0,0,62,8,70,33,True,False,False,Right-arm medium,Right-hand bat
+India,DL Chahar,23eeb873,12,0,0,0,0,0.0,"[1, 3]",1.833,11,6,0,15,3,0,2,0,0,0,0,8.18,0,0,0,0,0,0,56,0,56,32,True,False,False,Right-arm medium,Right-hand bat
+India,HV Patel,f986ca1a,13,0,0,0,0,0.0,"[7, 12, 16, 19]",4.0,24,12,0,22,3,0,3,0,1,0,1,5.5,0,0,0,0,0,0,103,0,103,34,True,False,False,Right-arm medium,Right-hand bat
+India,Ravi Bishnoi,df064e1a,14,0,0,0,0,0.0,"[6, 8, 13, 15]",4.0,24,12,0,29,1,2,0,0,0,0,2,7.25,1,0,0,0,0,0,12,8,20,24,True,False,False,Legbreak googly,Right-hand bat
+India,Avesh Khan,eef2536f,15,0,0,0,0,0.0,"[2, 4, 14, 17]",4.0,24,9,0,42,5,2,0,0,0,0,1,10.5,0,0,0,0,0,0,7,0,7,28,True,False,False,Right-arm fast-medium,Right-hand bat
+West Indies,KR Mayers,73c18486,1,6,5,1,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,10,0,8,18,32,True,False,True,Right-arm medium,Left-hand bat
+West Indies,SD Hope,1fc6ef83,2,8,4,2,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,31,True,False,False,,Right-hand bat
+West Indies,N Pooran,3241e3fd,3,61,47,8,1,129.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,107,0,0,107,29,True,True,False,Right-arm offbreak,Left-hand bat
+West Indies,R Powell,650d5e49,4,25,14,2,2,178.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,55,0,8,63,31,True,False,False,Right-arm medium-fast,Right-hand bat
+West Indies,KA Pollard,a757b0d8,5,5,7,1,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,37,True,False,True,Right-arm medium,Right-hand bat
+West Indies,JO Holder,0f721006,6,2,6,0,0,33.33,"[1, 3, 5, 18]",4.0,24,12,0,29,4,1,1,0,0,0,2,7.25,1,0,0,0,0,2,37,8,47,33,True,False,True,Right-arm medium-fast,Right-hand bat
+West Indies,RL Chase,3feda4fa,7,12,7,2,0,171.43,"[6, 8, 10, 12]",4.0,24,6,0,23,1,0,1,0,1,0,0,5.75,0,0,0,0,0,20,43,0,63,33,True,False,True,Right-arm offbreak,Right-hand bat
+West Indies,R Shepherd,c5aef772,8,29,21,1,3,138.1,"[2, 4, 17, 20]",4.0,24,9,0,50,5,4,1,0,0,0,1,12.5,0,0,0,0,2,57,28,0,85,30,True,False,True,Right-arm fast-medium,Right-hand bat
+West Indies,FA Allen,b52ffbbd,9,5,3,1,0,166.67,[15],1.0,6,1,0,5,0,0,0,0,0,0,0,5.0,0,0,0,0,0,9,1,0,10,29,True,False,True,Slow left-arm orthodox,Right-hand bat
+West Indies,DC Drakes,34b332d3,10,4,3,1,0,133.33,"[14, 16, 19]",3.0,18,4,0,37,4,2,1,0,1,0,1,12.33,0,0,0,0,0,8,31,0,39,27,True,False,True,Left-arm medium-fast,Left-hand bat
+West Indies,HR Walsh,1ac2a995,11,0,3,0,0,0.0,"[7, 9, 11, 13]",4.0,24,8,0,30,1,2,1,0,0,0,0,7.5,0,0,0,0,0,0,33,0,33,32,True,False,False,Legbreak googly,Left-hand bat

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Singapore,Sidhant Singh,8f1e023f,1,59,50,5,1,118.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,93,0,0,93,25,True,False,False,,Right-hand bat
+Singapore,S Chandramohan,2a6ccc1c,2,9,13,1,0,69.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,-2,11,0,16,27,36,True,False,False,,Right-hand bat
+Singapore,R Rohan,baf0fc26,3,18,18,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,26,0,8,34,25,True,False,False,Right-arm offbreak,Right-hand bat
+Singapore,Manpreet Singh,e9d6a2ce,4,15,16,1,0,93.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,19,0,16,35,40,True,False,False,,Right-hand bat
+Singapore,U Aryaman Sunil,13bc54a8,5,7,8,0,0,87.5,"[9, 11, 13]",3.0,18,11,0,16,0,1,1,0,0,1,2,5.33,0,0,0,0,0,7,40,0,47,24,True,False,True,Right-arm medium-fast,Right-hand bat
+Singapore,Janak Prakash,f092b4c7,6,20,14,0,2,142.86,"[5, 7, 17, 19]",4.0,24,19,0,11,0,0,2,0,0,0,4,2.75,1,0,0,0,2,34,75,8,117,24,True,False,True,Right-arm medium,Right-hand bat
+Singapore,A Krishna,13598ebc,7,0,1,0,0,0.0,"[8, 10, 14, 16]",4.0,24,11,0,19,2,0,2,0,0,0,1,4.75,0,0,0,0,0,-2,67,0,65,34,True,True,False,Legbreak googly,Right-hand bat
+Singapore,R Gaznavi,0079f139,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,32,True,False,False,Legbreak,Right-hand bat
+Singapore,Amjad Mahboob,48f25627,9,0,0,0,0,0.0,"[1, 3]",2.0,12,9,0,8,0,1,0,0,0,0,0,4.0,1,0,0,0,0,0,15,8,23,44,True,False,False,Right-arm medium,Right-hand bat
+Singapore,V Baskaran,dd5a9067,11,0,0,0,0,0.0,"[2, 4]",2.0,12,8,0,13,3,0,2,0,1,0,0,6.5,0,0,0,0,0,0,68,0,68,34,True,False,False,Slow left-arm orthodox,Left-hand bat
+Singapore,K Subramanian,cf06cb34,12,0,0,0,0,0.0,"[6, 12, 15, 18]",4.0,24,9,0,27,0,2,3,0,0,0,1,6.75,0,0,0,0,0,0,90,0,90,40,True,True,False,Right-arm medium,Right-hand bat
+Thailand,DF Jacobs,de896b79,1,28,28,3,2,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,56,0,8,64,42,True,True,False,Legbreak googly,Left-hand bat
+Thailand,W Uisuk,f20e7aac,2,5,9,1,0,55.56,"[1, 3]",2.0,12,4,0,17,3,0,0,0,0,0,1,8.5,1,0,0,0,0,9,4,8,21,33,True,True,False,Left-arm medium,Left-hand bat
+Thailand,N Pathan,25bc2d36,3,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,42,True,True,False,Right-arm medium,Right-hand bat
+Thailand,HJ Jordaan,b8f10b60,4,19,21,0,1,90.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,25,0,8,33,36,True,True,False,Right-arm medium,Right-hand bat
+Thailand,Z Hoque,68f500c8,5,17,12,1,1,141.67,"[2, 4, 6, 16]",4.0,24,12,0,19,2,0,1,0,0,0,0,4.75,0,0,0,0,2,29,43,0,72,38,True,True,False,Right-arm medium-fast,Right-hand bat
+Thailand,Robert Raina,8e38d470,6,6,16,0,0,37.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,0,0,0,0,40,True,True,False,Right-arm medium,Left-hand bat
+Thailand,M Faheem,7fc8bb18,7,1,2,0,0,50.0,"[18, 20]",2.0,12,5,0,11,0,1,2,1,0,0,1,5.5,0,0,0,0,0,1,67,0,68,32,True,False,False,,
+Thailand,P Suanchuai,e6948355,8,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,22,True,False,False,,Right-hand bat
+Thailand,N Senamontree,44e00a4c,9,4,8,0,0,50.0,"[5, 7, 9, 19]",4.0,24,10,1,25,1,1,2,0,0,0,0,6.25,0,0,0,0,0,4,74,0,78,33,True,True,False,Slow left-arm orthodox,Right-hand bat
+Thailand,Vichanath Singh,dfa6db1a,10,2,5,0,0,40.0,"[11, 13, 15, 17]",4.0,24,2,0,30,1,0,0,0,0,0,1,7.5,0,0,0,0,0,2,2,0,4,33,True,True,False,Slow left-arm orthodox,Left-hand bat
+Thailand,S Desungnoen,3eb26dc4,11,2,4,0,0,50.0,"[8, 10, 12, 14]",4.0,24,9,0,30,2,1,1,0,1,0,1,7.5,0,0,0,0,0,2,42,0,44,22,True,True,False,Right-arm offbreak,Right-hand bat

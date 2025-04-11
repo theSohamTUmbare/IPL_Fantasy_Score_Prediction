@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Pakistan,Babar Azam,8a75e999,1,90,58,13,1,155.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,164,0,0,164,30,True,False,False,Right-arm offbreak,Right-hand bat
+Pakistan,Fakhar Zaman,1777c020,2,14,9,2,0,155.56,[11],1.0,6,2,0,12,1,1,0,0,0,0,0,12.0,0,0,0,0,0,22,2,0,24,34,True,False,False,Slow left-arm orthodox,Left-hand bat
+Pakistan,Hussain Talat,bb4b445b,3,55,41,7,1,134.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,99,0,0,99,29,True,False,True,Right-arm medium-fast,Left-hand bat
+Pakistan,Asif Ali,0a4736eb,4,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,33,True,False,False,Right-arm offbreak,Right-hand bat
+Pakistan,Shoaib Malik,64c34cd0,5,6,4,1,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,43,True,False,True,Right-arm offbreak,Right-hand bat
+Pakistan,Imad Wasim,9cb8d7a6,6,6,3,1,0,200.0,"[1, 3, 7, 9]",4.0,24,17,1,9,0,0,1,0,0,0,0,2.25,1,0,0,0,0,10,60,8,78,36,True,False,True,Slow left-arm orthodox,Left-hand bat
+Pakistan,Hasan Ali,2911de16,7,1,2,0,0,50.0,"[6, 14, 16, 18]",4.0,24,2,0,48,2,3,0,0,0,0,1,12.0,0,0,0,0,0,1,-2,0,-1,30,True,False,False,Right-arm medium-fast,Right-hand bat
+Pakistan,Shadab Khan,9de62878,8,0,0,0,0,0.0,"[8, 10, 12]",3.0,18,5,0,25,2,1,0,0,0,0,0,8.33,0,0,0,0,0,0,5,0,5,26,True,False,True,Legbreak,Right-hand bat
+Pakistan,Mohammad Rizwan,2f26ac1a,9,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,1,0,12,13,32,True,True,False,Right-arm medium,Right-hand bat
+Pakistan,Shaheen Shah Afridi,45a7e761,9,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,8,0,27,2,0,1,0,0,0,6,6.75,0,0,0,0,0,0,35,0,35,24,True,False,False,Left-arm fast,Left-hand bat
+Pakistan,Usman Shinwari,f0e722e0,10,0,0,0,0,0.0,"[5, 13, 15, 20]",4.0,24,7,0,63,4,6,0,0,0,1,0,15.75,0,0,0,0,0,0,1,0,1,31,True,False,False,Left-arm medium-fast,Right-hand bat
+South Africa,RR Hendricks,b8cc58c9,1,28,27,3,0,103.7,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,44,0,8,52,35,True,False,False,Right-arm offbreak,Right-hand bat
+South Africa,JN Malan,f76d7466,2,33,31,3,2,106.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,61,0,8,69,28,True,False,False,Legbreak,Right-hand bat
+South Africa,HE van der Dussen,9948e262,3,45,27,1,4,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,81,0,8,89,36,True,False,False,Legbreak,Right-hand bat
+South Africa,DA Miller,d67d5f00,4,65,28,4,5,232.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,125,0,0,125,35,True,False,False,Right-arm offbreak,Left-hand bat
+South Africa,H Klaasen,235c2bb6,5,5,7,0,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,33,True,True,False,Right-arm offbreak,Right-hand bat
+South Africa,AL Phehlukwayo,ab6b1c45,9,0,0,0,0,0.0,"[9, 13, 18, 20]",4.0,24,5,0,36,3,1,3,0,1,0,1,9.0,0,0,0,0,0,0,92,0,92,29,True,False,True,Right-arm medium-fast,Left-hand bat
+South Africa,CH Morris,fb66ce1f,10,0,0,0,0,0.0,"[2, 16, 19]",3.0,18,6,0,36,5,1,2,0,2,0,1,12.0,0,0,0,0,0,0,68,0,68,37,True,False,True,Right-arm fast-medium,Right-hand bat
+South Africa,L Sipamla,f892fcf9,11,0,0,0,0,0.0,"[3, 7, 11, 15]",4.0,24,5,0,23,1,0,0,0,0,0,1,5.75,0,0,0,0,0,0,9,0,9,26,True,False,False,Right-arm fast-medium,Right-hand bat
+South Africa,BE Hendricks,b56dc5f7,12,0,0,0,0,0.0,"[1, 4, 17]",3.0,18,6,0,30,5,0,2,0,0,1,1,10.0,0,0,0,0,0,0,54,0,54,34,True,False,False,Left-arm fast-medium,Left-hand bat
+South Africa,CJ Dala,1cb14aa4,13,0,0,0,0,0.0,"[5, 14]",2.0,12,3,0,25,5,0,0,0,0,0,1,12.5,1,0,0,0,0,0,-3,8,5,35,True,False,False,Right-arm medium,Right-hand bat
+South Africa,T Shamsi,a03bba42,14,0,0,0,0,0.0,"[6, 8, 10, 12]",4.0,24,8,0,31,5,0,0,0,0,0,0,7.75,0,0,0,0,0,0,8,0,8,35,True,False,False,Left-arm wrist-spin,Right-hand bat

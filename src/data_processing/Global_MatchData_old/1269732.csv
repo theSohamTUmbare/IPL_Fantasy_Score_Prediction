@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+St Kitts and Nevis Patriots,CH Gayle,db584dad,1,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,45,True,False,True,Right-arm offbreak,Left-hand bat
+St Kitts and Nevis Patriots,E Lewis,0ebfb1ad,2,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,33,True,False,False,,Left-hand bat
+St Kitts and Nevis Patriots,J Da Silva,bab78fa2,3,37,32,5,0,115.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,61,0,0,61,26,True,False,False,,Right-hand bat
+St Kitts and Nevis Patriots,SE Rutherford,d014d5ac,4,25,22,1,2,113.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,45,0,8,53,26,True,False,False,Right-arm fast-medium,Left-hand bat
+St Kitts and Nevis Patriots,DJ Bravo,87e562a9,5,8,11,0,0,72.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,41,True,False,True,Right-arm medium,Right-hand bat
+St Kitts and Nevis Patriots,DC Drakes,34b332d3,6,48,24,3,3,200.0,"[5, 16, 19]",3.0,18,7,0,38,3,3,1,0,0,0,3,12.67,0,0,0,0,6,88,26,0,114,27,True,False,True,Left-arm medium-fast,Left-hand bat
+St Kitts and Nevis Patriots,FA Allen,b52ffbbd,7,20,17,2,0,117.65,"[2, 9, 11, 13]",4.0,24,12,0,17,1,0,1,0,1,0,2,4.25,0,0,0,0,0,28,51,0,79,29,True,False,True,Slow left-arm orthodox,Right-hand bat
+St Kitts and Nevis Patriots,SS Cottrell,a1d053dd,8,5,2,1,0,250.0,[1],1.0,6,1,0,12,0,1,0,0,0,0,1,12.0,1,0,0,0,0,9,1,8,18,35,True,False,False,Left-arm fast-medium,Right-hand bat
+St Kitts and Nevis Patriots,Naseem Shah,9c9af282,9,1,2,0,0,50.0,"[4, 6, 18, 20]",4.0,24,16,1,26,1,2,2,0,1,0,2,6.5,0,0,0,0,0,1,88,0,89,22,True,False,False,Right-arm fast,Right-hand bat
+St Kitts and Nevis Patriots,JL Jaggesar,2b85c8e6,9,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,8,0,34,1,3,1,0,1,0,0,8.5,0,0,0,0,0,0,41,0,41,39,True,False,False,Right-arm offbreak,Right-hand bat
+St Kitts and Nevis Patriots,Fawad Ahmed,22ae3041,10,0,0,0,0,0.0,"[3, 7, 15, 17]",4.0,24,11,0,32,3,2,2,0,1,0,0,8.0,0,0,0,0,0,0,69,0,69,43,True,False,False,Legbreak googly,Right-hand bat
+St Lucia Kings,ADS Fletcher,1bae756b,1,11,7,0,1,157.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,17,0,6,23,37,True,False,False,Legbreak,Right-hand bat
+St Lucia Kings,RRS Cornwall,c4d9634c,2,43,32,5,2,134.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,81,0,0,81,32,True,False,True,Right-arm offbreak,Right-hand bat
+St Lucia Kings,M Deyal,7183799b,3,1,3,0,0,33.33,[8],1.0,6,2,0,8,0,0,0,0,0,0,3,8.0,0,0,0,0,0,1,2,0,3,31,True,False,False,Right-arm offbreak,Left-hand bat
+St Lucia Kings,RL Chase,3feda4fa,4,43,40,4,2,107.5,"[1, 3, 12]",3.0,18,9,0,17,2,0,1,0,1,0,1,5.67,1,0,0,1,0,75,46,14,135,33,True,False,True,Right-arm offbreak,Right-hand bat
+St Lucia Kings,D Wiese,aa8d28ae,5,2,6,0,0,33.33,"[6, 14, 16]",3.0,18,5,0,27,1,2,1,0,0,0,0,9.0,1,0,0,0,0,2,30,8,40,39,True,False,True,Right-arm medium-fast,Right-hand bat
+St Lucia Kings,TH David,f1f99156,6,10,10,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,29,True,False,False,Right-arm offbreak,Right-hand bat
+St Lucia Kings,KMA Paul,75224f22,7,39,21,0,5,185.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,79,0,16,95,27,True,False,True,Right-arm fast-medium,Right-hand bat
+St Lucia Kings,Wahab Riaz,b3118300,8,2,1,0,0,200.0,"[2, 4, 17, 19]",4.0,24,8,0,36,3,2,2,0,0,0,1,9.0,0,0,0,0,0,2,58,0,60,39,True,False,False,Left-arm fast,Right-hand bat
+St Lucia Kings,J Royal,44a18ad8,9,0,0,0,0,0.0,"[7, 9]",2.0,12,3,0,19,1,1,0,0,0,0,2,9.5,0,0,0,0,0,0,3,0,3,26,True,False,False,Slow left-arm orthodox,Right-hand bat
+St Lucia Kings,AS Joseph,b0946605,9,0,0,0,0,0.0,"[5, 11, 15]",3.0,18,8,0,22,3,0,1,0,0,0,0,7.33,1,0,0,0,0,0,33,8,41,28,True,False,False,Right-arm fast,Right-hand bat
+St Lucia Kings,KOK Williams,78cb83f3,10,0,0,0,0,0.0,"[10, 13, 18, 20]",4.0,24,8,0,29,3,0,1,0,0,1,0,7.25,0,0,0,0,0,0,33,0,33,35,True,False,False,Right-arm fast-medium,Right-hand bat

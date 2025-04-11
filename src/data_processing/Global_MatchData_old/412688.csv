@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Australia,DA Warner,dcce6f09,1,16,11,2,1,145.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,32,0,8,40,38,True,False,False,Legbreak,Left-hand bat
+Australia,SR Watson,4329fbb5,2,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,43,True,False,True,Right-arm fast-medium,Right-hand bat
+Australia,MJ Clarke,f842c2cf,3,16,21,0,1,76.19,[7],1.0,6,1,0,12,0,1,0,0,0,0,0,12.0,1,0,0,0,0,22,1,8,31,43,True,False,False,Slow left-arm orthodox,Right-hand bat
+Australia,BJ Haddin,b0c772ee,4,6,9,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6,47,True,False,False,,Right-hand bat
+Australia,DJ Hussey,fd835ab3,5,9,13,0,0,69.23,"[12, 14]",2.0,12,9,0,8,0,1,2,0,0,0,0,4.0,1,0,0,0,-2,7,65,8,80,47,True,False,True,Right-arm offbreak,Right-hand bat
+Australia,CL White,d0513f63,6,8,11,0,0,72.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,41,True,False,False,Legbreak googly,Right-hand bat
+Australia,MEK Hussey,48fd7349,7,47,29,4,1,162.07,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,4,77,0,28,105,49,True,False,False,Right-arm medium,Left-hand bat
+Australia,SPD Smith,30a45b23,8,27,18,1,2,150.0,"[9, 11, 13, 16]",4.0,24,11,0,29,0,2,2,0,1,0,1,7.25,1,0,0,0,0,47,69,8,124,35,True,False,False,Legbreak googly,Right-hand bat
+Australia,RJ Harris,12eddf28,9,2,1,0,0,200.0,"[8, 10, 15, 19]",3.667,22,7,0,28,2,1,1,0,1,0,0,7.64,0,0,0,0,0,2,40,0,42,45,True,False,False,Right-arm fast,Right-hand bat
+Australia,SW Tait,addfb70e,11,0,0,0,0,0.0,"[1, 3, 5, 18]",4.0,24,16,1,15,1,0,1,0,0,0,4,3.75,1,0,0,0,0,0,59,8,67,42,True,False,False,Right-arm fast,Right-hand bat
+Australia,DP Nannes,c404f58a,12,0,0,0,0,0.0,"[2, 4, 6, 17]",4.0,24,14,0,18,2,0,4,0,0,0,0,4.5,0,0,0,0,0,0,128,0,128,48,True,False,False,Left-arm fast,Right-hand bat
+Bangladesh,Imrul Kayes,5fbe14fc,1,0,6,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,38,True,False,False,Slow left-arm orthodox,Left-hand bat
+Bangladesh,Mohammad Ashraful,2bb09eb2,2,0,3,0,0,0.0,"[8, 10, 12, 14]",4.0,24,4,0,24,0,0,1,0,0,0,1,6.0,0,0,0,0,0,-2,31,0,29,40,True,False,False,Legbreak,Right-hand bat
+Bangladesh,Aftab Ahmed,53bc7b84,3,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,1,0,16,17,39,True,False,False,Right-arm medium,Right-hand bat
+Bangladesh,Shakib Al Hasan,7dc35884,4,28,28,0,1,100.0,"[4, 9, 13, 18]",4.0,24,11,0,24,2,1,2,0,1,0,0,6.0,0,0,0,0,0,38,71,0,109,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Bangladesh,Mahmudullah,bf1d7d3e,5,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,39,True,False,True,Right-arm offbreak,Right-hand bat
+Bangladesh,Mushfiqur Rahim,a94e08ea,6,24,25,2,1,96.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,38,0,20,58,37,True,False,False,,Right-hand bat
+Bangladesh,Naeem Islam,02e83ac5,7,7,6,0,1,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,38,True,False,True,Right-arm offbreak,Right-hand bat
+Bangladesh,Jahurul Islam,6752c57b,8,18,12,1,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,28,0,8,36,38,True,False,False,Right-arm offbreak,Right-hand bat
+Bangladesh,Shafiul Islam,1a8eebbe,9,16,13,1,1,123.08,"[2, 6, 16, 20]",4.0,24,4,0,34,1,1,0,0,0,0,2,8.5,1,0,0,0,0,26,4,8,38,35,True,False,False,Right-arm fast-medium,Right-hand bat
+Bangladesh,Mashrafe Mortaza,e186f49c,10,6,5,1,0,120.0,"[1, 3, 11, 17]",4.0,24,10,0,28,3,1,2,0,0,0,0,7.0,0,0,0,0,0,10,62,0,72,41,True,False,False,Right-arm fast-medium,Right-hand bat
+Bangladesh,Abdur Razzak,888e32bf,11,3,8,0,0,37.5,"[5, 7, 15, 19]",4.0,24,11,0,29,1,2,1,0,0,0,1,7.25,0,0,0,0,0,3,36,0,39,42,True,False,False,Slow left-arm orthodox,Left-hand bat

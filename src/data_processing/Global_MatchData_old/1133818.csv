@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bangladesh,Tamim Iqbal,3b041a12,1,15,16,2,0,93.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23,36,True,False,False,,Left-hand bat
+Bangladesh,Soumya Sarkar,4d9f9686,2,14,12,1,1,116.67,[10],1.0,6,2,0,8,1,0,0,0,0,0,1,8.0,0,0,0,0,0,24,2,0,26,32,True,False,True,Right-arm medium-fast,Left-hand bat
+Bangladesh,Liton Das,0404d43c,3,34,29,3,0,117.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,50,0,8,58,30,True,True,False,Right-arm offbreak,Right-hand bat
+Bangladesh,Mushfiqur Rahim,a94e08ea,4,18,14,2,1,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32,37,True,False,False,,Right-hand bat
+Bangladesh,Mahmudullah,bf1d7d3e,5,1,8,0,0,12.5,[13],1.0,6,1,0,11,0,1,0,0,0,0,0,11.0,0,0,0,0,0,1,1,0,2,39,True,False,True,Right-arm offbreak,Right-hand bat
+Bangladesh,Sabbir Rahman,7147f314,6,30,25,3,1,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,52,0,0,52,33,True,False,True,Legbreak,Right-hand bat
+Bangladesh,Nazmul Islam,6575e3bc,6,0,0,0,0,0.0,"[14, 16]",2.0,12,2,0,15,2,0,0,0,0,0,0,7.5,0,0,0,0,0,0,2,0,2,33,True,False,False,Slow left-arm orthodox,Left-hand bat
+Bangladesh,Mehedi Hasan Miraz,c58b0108,7,3,4,0,0,75.0,"[5, 7, 9, 11]",4.0,24,10,0,21,1,1,0,0,0,0,0,5.25,1,0,0,0,0,3,14,8,25,27,True,False,True,Right-arm offbreak,Right-hand bat
+Bangladesh,Taskin Ahmed,ef18b66e,8,8,9,1,0,88.89,"[2, 8, 17]",3.0,18,5,0,28,3,1,1,0,0,0,0,9.33,0,0,0,0,0,12,30,0,42,29,True,False,False,Right-arm fast,Left-hand bat
+Bangladesh,Rubel Hossain,f56cd097,9,0,1,0,0,0.0,"[3, 6, 15, 19]",3.667,22,6,0,24,2,0,2,0,1,0,1,6.54,0,0,0,0,0,0,66,0,66,35,True,False,False,Right-arm fast,Right-hand bat
+Bangladesh,Mustafizur Rahman,0a8fce53,10,1,2,0,0,50.0,"[1, 4, 12, 18]",4.0,24,6,0,31,4,0,1,0,1,0,0,7.75,0,0,0,0,0,1,39,0,40,29,True,False,False,Left-arm fast-medium,Left-hand bat
+India,RG Sharma,740742ef,1,17,13,3,0,130.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,31,0,0,31,37,True,False,False,Right-arm offbreak,Right-hand bat
+India,S Dhawan,0a476045,2,55,43,5,2,127.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,95,0,0,95,39,True,False,False,Right-arm offbreak,Left-hand bat
+India,RR Pant,919a3be2,3,7,8,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,27,True,False,False,,Left-hand bat
+India,SK Raina,1dc12ab9,4,28,27,1,1,103.7,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,42,0,8,50,38,True,False,False,Right-arm offbreak,Left-hand bat
+India,MK Pandey,93b4fc78,5,27,19,3,0,142.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,45,0,8,53,35,True,False,False,Right-arm medium,Right-hand bat
+India,KD Karthik,c03f1114,6,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,2,0,16,18,39,True,True,False,Right-arm offbreak,Right-hand bat
+India,V Shankar,0994d0ae,6,0,0,0,0,0.0,"[7, 9, 11, 15]",4.0,24,11,0,32,2,1,2,0,0,2,3,8.0,0,0,0,0,0,0,61,0,61,34,True,False,True,Right-arm medium,Right-hand bat
+India,Washington Sundar,f19ccfad,7,0,0,0,0,0.0,"[2, 4, 12, 14]",4.0,24,13,0,23,3,0,0,0,0,0,2,5.75,0,0,0,0,0,0,17,0,17,25,True,False,True,Right-arm offbreak,Left-hand bat
+India,SN Thakur,1abb78f8,8,0,0,0,0,0.0,"[5, 13, 18, 20]",4.0,24,11,0,25,3,0,1,0,0,0,2,6.25,1,0,0,0,0,0,38,8,46,33,True,False,False,Right-arm medium,Right-hand bat
+India,JD Unadkat,1e66c162,9,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,8,0,38,2,2,3,0,0,0,4,9.5,1,0,0,0,0,0,87,8,95,33,True,False,False,Left-arm medium,Right-hand bat
+India,YS Chahal,57ee1fde,10,0,0,0,0,0.0,"[6, 8, 10, 16]",4.0,24,10,0,19,2,0,1,0,0,0,0,4.75,1,0,0,0,0,0,41,8,49,34,True,False,False,Legbreak googly,Right-hand bat

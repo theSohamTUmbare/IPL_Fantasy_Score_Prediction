@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Guernsey,LJ Barker,da1f80f8,1,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,29,True,True,False,Right-arm medium,Right-hand bat
+Guernsey,J Butler,efcb778e,2,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,28,True,True,False,Right-arm medium,Right-hand bat
+Guernsey,MWR Stokes,c573d173,3,31,36,2,0,86.11,"[2, 4, 15]",3.0,18,8,0,14,0,0,0,0,0,0,2,4.67,0,0,0,0,0,43,14,0,57,29,True,True,False,Right-arm medium,Right-hand bat
+Guernsey,LC Le Tissier,c471750e,4,33,35,5,0,94.29,"[7, 9, 11, 13]",4.0,24,16,0,10,0,0,0,0,0,0,2,2.5,1,0,0,0,0,57,22,8,87,28,True,True,False,Right-arm offbreak,Right-hand bat
+Guernsey,T Nightingale,51a125b3,5,0,0,0,0,0.0,[1],1.0,6,6,0,1,0,0,0,0,0,0,1,1.0,0,0,0,0,0,0,6,0,6,26,True,True,False,Right-arm offbreak,Right-hand bat
+Guernsey,LB Ferbrache,0f72f582,5,8,11,1,0,72.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,37,True,True,False,Right-arm offbreak,Right-hand bat
+Guernsey,DR Hooper,0ac067e8,6,0,0,0,0,0.0,"[10, 12, 18, 20]",4.0,24,11,0,17,0,0,1,0,0,0,2,4.25,0,0,0,0,0,0,42,0,42,33,True,True,False,Right-arm medium,Right-hand bat
+Guernsey,IDA Damarell,580ae7f2,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,0,20,20,31,True,False,False,,Left-hand bat
+Guernsey,ACF Stokes,7f74b21d,8,0,0,0,0,0.0,"[6, 8, 14, 16]",4.0,24,11,0,18,1,0,3,2,0,0,0,4.5,0,0,0,0,0,0,112,0,112,26,True,True,False,Slow left-arm orthodox,Right-hand bat
+Guernsey,W Peatfield,609d6c7c,9,0,0,0,0,0.0,"[3, 5, 17, 19]",4.0,24,10,0,19,1,0,3,0,1,0,0,4.75,0,0,0,0,0,0,103,0,103,34,True,True,False,Right-arm medium,Right-hand bat
+Guernsey,OE Newey,f4b6f6ac,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,38,True,True,False,Right-arm medium,Right-hand bat
+Israel,PRPM Guruge,c51c4c22,1,1,8,0,0,12.5,"[2, 4, 6, 8]",4.0,24,13,0,23,3,0,2,0,0,0,0,5.75,0,0,0,0,0,1,67,0,68,46,True,False,True,Right-arm medium-fast,Right-hand bat
+Israel,S Bangera,856fc47a,2,13,15,1,0,86.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,17,0,8,25,47,True,False,False,,Right-hand bat
+Israel,J Evans,027662be,3,7,13,0,0,53.85,"[10, 12, 14]",3.0,18,11,0,9,1,0,0,0,0,0,0,3.0,1,0,0,0,-4,3,17,8,28,32,True,True,False,Legbreak,Right-hand bat
+Israel,E Solomon,8da9a284,4,26,32,1,0,81.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34,40,True,True,False,Right-arm medium,Right-hand bat
+Israel,G Schachat,ff92e604,5,16,32,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,12,0,0,12,34,True,True,False,Right-arm medium-fast,Right-hand bat
+Israel,R Talkar,82644713,5,0,0,0,0,0.0,"[1, 3, 5, 7]",4.0,24,16,0,13,1,0,0,0,0,0,0,3.25,0,0,0,0,0,0,22,0,22,44,True,True,False,Right-arm medium,Right-hand bat
+Israel,Yair Nagavkar,138e30ab,6,0,0,0,0,0.0,"[9, 11]",2.0,12,2,0,19,2,0,0,0,0,0,1,9.5,0,0,0,0,0,0,2,0,2,23,True,False,True,Right-arm offbreak,Right-hand bat
+Israel,Emanuel Solomon,6fea65a0,6,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,37,True,False,False,,
+Israel,E Kahamker,41acc8bf,7,3,8,0,0,37.5,[16],0.167,1,0,0,2,0,0,0,0,0,0,1,11.98,0,0,0,0,0,3,0,0,3,32,True,False,False,,
+Israel,R Schachat,8f929af6,8,5,6,0,0,83.33,"[13, 15]",2.0,12,5,0,12,1,0,1,0,1,0,0,6.0,0,0,0,0,0,5,40,0,45,32,True,True,False,Right-arm fast-medium,Right-hand bat
+Israel,T Kahamker,125853c3,9,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,24,True,False,True,Right-arm medium,Right-hand bat

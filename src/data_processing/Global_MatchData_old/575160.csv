@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Cape Cobras,RE Levi,18c78b11,1,38,33,5,1,115.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,68,0,8,76,37,True,False,False,Right-arm medium,Right-hand bat
+Cape Cobras,S van Zyl,f4dfcbb4,2,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,37,True,False,True,Right-arm medium,Left-hand bat
+Cape Cobras,DJ Vilas,087210b1,3,48,35,4,2,137.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,82,0,0,82,39,True,False,False,,Right-hand bat
+Cape Cobras,OA Shah,7bf96684,4,44,31,3,1,141.94,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,68,0,16,84,46,True,False,False,Right-arm offbreak,Right-hand bat
+Cape Cobras,Azhar Mahmood,9a158001,5,13,11,1,0,118.18,"[5, 13, 18, 20]",4.0,24,5,0,40,3,1,0,0,0,0,4,10.0,0,0,0,0,0,17,3,0,20,50,True,False,True,Right-arm fast-medium,Right-hand bat
+Cape Cobras,JL Ontong,55f33b32,6,20,6,2,1,333.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,34,0,8,42,45,True,False,True,Right-arm offbreak,Right-hand bat
+Cape Cobras,MQ Adams,59a7fc89,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,40,True,True,False,Right-arm medium,Left-hand bat
+Cape Cobras,BE Hendricks,b56dc5f7,11,0,0,0,0,0.0,"[2, 4, 6, 8]",4.0,24,16,1,16,2,0,2,0,0,0,1,4.0,1,0,0,0,0,0,84,8,92,34,True,False,False,Left-arm fast-medium,Left-hand bat
+Cape Cobras,J Louw,9c1ccdea,12,0,0,0,0,0.0,"[7, 9, 11, 15]",4.0,24,9,1,28,1,1,2,0,1,1,0,7.0,0,0,0,0,0,0,81,0,81,45,True,False,False,Right-arm medium-fast,Right-hand bat
+Cape Cobras,DL Piedt,537f5ab2,13,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,6,0,34,1,1,2,1,0,0,2,8.5,0,0,0,0,0,0,64,0,64,35,True,False,False,Right-arm offbreak,Right-hand bat
+Cape Cobras,CK Langeveldt,d1c94b25,14,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,13,1,25,1,1,2,0,1,0,0,6.25,0,0,0,0,0,0,85,0,85,50,True,False,False,Right-arm fast-medium,Right-hand bat
+Knights,LE Bosman,73e749e1,1,5,21,0,0,23.81,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-1,0,0,-1,47,True,False,False,Right-arm medium,Right-hand bat
+Knights,RR Rossouw,cad00a4d,2,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,35,True,False,False,Right-arm offbreak,Left-hand bat
+Knights,GL Cloete,3bf40832,3,5,11,0,0,45.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-1,0,0,-1,32,True,True,False,Right-arm offbreak,Left-hand bat
+Knights,AJ Pienaar,647a48da,4,11,10,1,0,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15,35,True,False,True,Slow left-arm orthodox,Right-hand bat
+Knights,RT Bailey,93a751e8,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,42,True,True,False,Right-arm medium,Right-hand bat
+Knights,R McLaren,c654af19,6,51,38,3,1,134.21,"[3, 5, 14, 19]",4.0,24,11,0,27,0,2,2,0,2,0,1,6.75,0,0,0,0,2,79,79,0,158,42,True,False,True,Right-arm medium-fast,Left-hand bat
+Knights,WL Coetsee,5f419ace,7,6,7,0,0,85.71,"[9, 11]",2.0,12,2,0,17,2,0,0,0,0,0,0,8.5,0,0,0,0,0,6,2,0,8,42,True,True,False,Right-arm offbreak,Right-hand bat
+Knights,JJ van der Wath,6821ac10,8,46,21,2,3,219.05,"[6, 10, 17, 20]",4.0,24,4,0,56,7,2,1,0,1,0,0,14.0,0,0,0,0,6,82,31,0,113,47,True,False,True,Right-arm medium-fast,Right-hand bat
+Knights,N Boje,6a0537aa,9,10,6,2,0,166.67,"[1, 7, 13, 15]",4.0,24,8,0,25,3,0,0,0,0,0,1,6.25,1,0,0,0,0,18,10,8,36,52,True,False,False,Slow left-arm orthodox,Left-hand bat
+Knights,J Coetzee,3ad06915,10,1,2,0,0,50.0,"[2, 4, 12, 18]",4.0,24,8,0,24,2,0,0,0,0,0,0,6.0,0,0,0,0,0,1,10,0,11,41,True,True,False,Left-arm medium,Left-hand bat
+Knights,MP Siboto,9d50c7e1,10,0,0,0,0,0.0,"[8, 16]",2.0,12,3,0,19,1,1,1,0,0,1,0,9.5,0,0,0,0,0,0,28,0,28,37,True,False,False,Right-arm medium,Left-hand bat

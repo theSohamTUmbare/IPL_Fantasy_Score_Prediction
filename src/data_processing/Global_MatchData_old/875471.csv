@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Netherlands,SJ Myburgh,18261c22,1,6,9,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6,41,True,False,False,Right-arm offbreak,Left-hand bat
+Netherlands,W Barresi,0d677597,2,75,40,7,5,187.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,151,0,8,159,40,True,False,False,Right-arm offbreak,Right-hand bat
+Netherlands,BN Cooper,634a7b21,3,12,15,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,12,0,16,28,33,True,False,False,Right-arm medium,Left-hand bat
+Netherlands,PW Borren,91052c96,4,57,28,6,3,203.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,113,0,0,113,41,True,False,True,Right-arm medium,Right-hand bat
+Netherlands,MR Swart,a75a78eb,5,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,42,True,False,False,Right-arm offbreak,Right-hand bat
+Netherlands,RE van der Merwe,05c2ca46,6,24,18,0,2,133.33,"[6, 11, 16, 18]",4.0,24,10,0,22,2,0,2,0,0,0,0,5.5,2,0,0,0,2,38,64,16,118,40,True,False,True,Slow left-arm orthodox,Right-hand bat
+Netherlands,Mudassar Bukhari,37312a74,7,4,3,0,0,133.33,"[2, 4, 20]",2.833,17,9,0,22,4,0,3,0,1,0,2,7.77,1,0,1,0,0,4,96,20,120,41,True,False,True,Right-arm medium-fast,Right-hand bat
+Netherlands,PM Seelaar,abbdca1a,8,6,4,0,0,150.0,"[7, 9, 13]",3.0,18,6,0,19,2,0,2,0,0,0,0,6.33,0,0,0,0,0,6,58,0,64,37,True,False,True,Slow left-arm orthodox,Right-hand bat
+Netherlands,MJG Rippon,b03db6fa,11,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,8,0,28,1,1,1,0,0,0,0,7.0,0,0,0,0,0,0,35,0,35,33,True,False,True,Left-arm wrist-spin,Right-hand bat
+Netherlands,T van der Gugten,d99cc23a,12,0,0,0,0,0.0,"[1, 3, 19]",3.0,18,6,0,23,2,1,0,0,0,0,1,7.67,0,0,1,0,0,0,6,12,18,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Netherlands,Ahsan Malik,96503059,13,0,0,0,0,0.0,"[5, 15, 17]",3.0,18,3,0,41,6,1,0,0,0,2,0,13.67,1,0,0,0,0,0,-3,8,5,35,True,False,False,Right-arm medium-fast,Right-hand bat
+Scotland,HG Munsey,ff014c34,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,32,True,False,False,Right-arm medium-fast,Left-hand bat
+Scotland,KJ Coetzer,85d8110a,2,5,6,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,40,True,False,False,Right-arm medium-fast,Right-hand bat
+Scotland,CS MacLeod,9c376401,3,18,22,2,0,81.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26,36,True,False,False,Right-arm offbreak,Right-hand bat
+Scotland,MH Cross,8b261d84,4,22,14,5,0,157.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,46,0,8,54,32,True,False,False,,Right-hand bat
+Scotland,RD Berrington,e21bc7f3,5,2,3,0,0,66.67,[10],1.0,6,1,0,14,1,1,0,0,0,0,0,14.0,0,0,0,0,0,2,1,0,3,37,True,False,False,Right-arm medium-fast,Right-hand bat
+Scotland,PL Mommsen,a56f4b65,6,68,43,5,3,158.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,118,0,8,126,37,True,False,False,Right-arm offbreak,Right-hand bat
+Scotland,JH Davey,d3868bd0,7,8,7,1,0,114.29,"[4, 6, 16, 20]",4.0,24,6,0,39,4,1,0,0,0,0,0,9.75,1,0,0,0,0,12,6,8,26,34,True,False,False,Right-arm medium-fast,Right-hand bat
+Scotland,MA Leask,28131839,8,1,3,0,0,33.33,"[8, 12, 14]",3.0,18,3,0,33,0,3,0,0,0,0,2,11.0,0,0,0,0,0,1,1,0,2,34,True,False,True,Right-arm offbreak,Right-hand bat
+Scotland,SM Sharif,f43dd8c2,9,26,17,3,0,152.94,"[2, 5, 15, 18]",4.0,24,8,0,39,3,3,0,0,0,0,0,9.75,0,0,0,0,4,46,8,0,54,33,True,False,False,Right-arm medium-fast,Right-hand bat
+Scotland,AC Evans,e9a870ed,10,0,1,0,0,0.0,"[1, 3, 11, 19]",4.0,24,10,0,24,2,0,5,0,3,0,1,6.0,0,0,0,0,0,-2,173,0,171,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Scotland,MRJ Watt,1252f71a,11,0,2,0,0,0.0,"[7, 9, 13, 17]",4.0,24,5,0,41,3,2,1,0,0,0,1,10.25,0,0,0,0,0,-2,28,0,26,28,True,False,False,Slow left-arm orthodox,Left-hand bat

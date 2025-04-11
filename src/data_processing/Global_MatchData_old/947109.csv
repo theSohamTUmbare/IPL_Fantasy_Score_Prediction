@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Derbyshire,HD Rutherford,0605de92,1,10,12,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,35,True,False,False,Slow left-arm orthodox,Left-hand bat
+Derbyshire,WJ Durston,3c77ca9d,2,47,24,4,3,195.83,"[10, 16]",2.0,12,2,0,22,2,1,1,0,0,0,0,11.0,0,0,0,0,6,91,25,0,116,44,True,False,True,Right-arm offbreak,Right-hand bat
+Derbyshire,CF Hughes,7f3f108f,3,46,29,6,1,158.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,84,0,0,84,34,True,False,True,Slow left-arm orthodox,Left-hand bat
+Derbyshire,NT Broom,a354c917,4,9,6,2,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,41,True,False,False,Right-arm medium,Right-hand bat
+Derbyshire,WL Madsen,86e0f3f0,5,21,12,2,1,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,41,0,0,41,41,True,False,False,Right-arm offbreak,Right-hand bat
+Derbyshire,JDS Neesham,9219eff0,6,1,2,0,0,50.0,"[1, 3, 15, 19]",4.0,24,4,0,47,8,1,0,0,0,0,0,11.75,2,0,0,0,0,1,0,16,17,34,True,False,True,Right-arm medium-fast,Left-hand bat
+Derbyshire,SJ Thakor,f6c84b9f,7,8,5,1,0,160.0,"[2, 5, 17]",3.0,18,8,0,34,3,3,1,0,1,0,0,11.33,1,0,0,0,0,12,37,8,57,31,True,True,False,Right-arm medium,Right-hand bat
+Derbyshire,AL Hughes,1066a976,8,8,9,0,0,88.89,"[7, 9, 12, 14]",4.0,24,5,0,33,3,1,0,0,0,0,0,8.25,1,0,0,0,0,8,5,8,21,33,True,False,True,Right-arm medium,Right-hand bat
+Derbyshire,T Poynton,430f8b13,9,37,21,2,1,176.19,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,61,0,0,61,35,True,False,False,,Right-hand bat
+Derbyshire,MJJ Critchley,c5cc48bc,9,0,0,0,0,0.0,"[8, 11, 13]",3.0,18,5,0,19,2,0,2,0,0,0,0,6.33,0,0,0,0,0,0,57,0,57,28,True,False,True,Legbreak,Right-hand bat
+Derbyshire,A Carter,6fe2c1c0,10,0,0,0,0,0.0,"[4, 6, 18, 20]",3.667,22,6,0,34,3,1,3,0,2,2,2,9.27,0,0,0,0,0,0,101,0,101,36,True,True,False,Right-arm medium,Right-hand bat
+Northamptonshire,RE Levi,18c78b11,1,58,37,3,4,156.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,106,0,8,114,37,True,False,False,Right-arm medium,Right-hand bat
+Northamptonshire,AM Rossington,7bcde3fe,2,16,7,2,1,228.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,30,0,12,42,31,True,False,False,,Right-hand bat
+Northamptonshire,JJ Cobb,58c481c6,3,35,23,4,1,152.17,"[12, 14]",2.0,12,3,0,21,2,1,2,1,1,0,0,10.5,0,0,0,0,4,65,67,0,132,34,True,False,True,Right-arm offbreak,Right-hand bat
+Northamptonshire,BM Duckett,5f26f677,4,29,15,4,1,193.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,61,0,0,61,30,True,False,False,Right-arm offbreak,Left-hand bat
+Northamptonshire,SP Crook,c4450a69,5,33,24,6,0,137.5,[5],1.0,6,0,0,20,1,2,0,0,0,0,0,20.0,1,0,0,0,2,63,0,8,71,41,True,False,True,Right-arm fast-medium,Right-hand bat
+Northamptonshire,S Prasanna,f78e7113,6,0,3,0,0,0.0,"[7, 9, 11, 17]",4.0,24,7,0,27,1,1,2,0,0,0,1,6.75,0,0,0,0,0,-2,59,0,57,39,True,False,True,Legbreak,Right-hand bat
+Northamptonshire,RK Kleinveldt,7955eb15,7,12,7,2,0,171.43,"[1, 3, 19]",3.0,18,5,0,25,3,0,1,0,0,0,1,8.33,0,0,0,0,0,20,30,0,50,42,True,False,False,Right-arm fast-medium,Right-hand bat
+Northamptonshire,RI Keogh,e22d3b5c,8,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,33,True,False,True,Right-arm offbreak,Right-hand bat
+Northamptonshire,GG White,0f21680d,9,0,0,0,0,0.0,"[13, 16, 18, 20]",4.0,24,5,0,34,1,1,1,0,0,0,0,8.5,1,0,0,0,0,0,30,8,38,37,True,False,False,Slow left-arm orthodox,Right-hand bat
+Northamptonshire,OP Stone,3f659464,9,0,0,0,0,0.0,"[2, 4, 6, 15]",4.0,24,8,0,39,6,1,1,0,0,0,0,9.75,0,0,0,0,0,0,33,0,33,31,True,False,False,Right-arm fast,Right-hand bat
+Northamptonshire,Azharullah,2a0d5d4a,10,0,0,0,0,0.0,"[8, 10]",2.0,12,2,0,23,4,0,0,0,0,0,0,11.5,0,0,0,0,0,0,-2,0,-2,41,True,False,False,Right-arm fast-medium,Right-hand bat

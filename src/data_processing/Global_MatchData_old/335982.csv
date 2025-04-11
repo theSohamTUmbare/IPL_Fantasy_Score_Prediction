@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Kolkata Knight Riders,SC Ganguly,725529bc,1,10,12,2,0,83.33,"[8, 10, 12, 14]",4.0,24,11,0,21,1,1,2,0,1,0,1,5.25,0,0,0,0,0,18,73,0,91,52,True,False,False,Right-arm medium,Left-hand bat
+Kolkata Knight Riders,BB McCullum,b8a55852,2,158,73,10,13,216.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,298,0,8,306,43,True,True,False,Right-arm offbreak,Right-hand bat
+Kolkata Knight Riders,RT Ponting,7d415ea5,3,20,20,1,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,30,0,16,46,50,True,False,False,Right-arm medium,Right-hand bat
+Kolkata Knight Riders,DJ Hussey,fd835ab3,4,12,12,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,47,True,False,True,Right-arm offbreak,Right-hand bat
+Kolkata Knight Riders,Mohammad Hafeez,9ab63e7b,5,5,3,1,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,44,True,False,True,Right-arm offbreak,Right-hand bat
+Kolkata Knight Riders,LR Shukla,b1451597,11,0,0,0,0,0.0,"[13, 16]",1.167,7,3,0,12,0,1,1,0,0,0,3,10.28,0,0,0,0,0,0,28,0,28,43,True,False,True,Right-arm medium,Right-hand bat
+Kolkata Knight Riders,WP Saha,fe11caa6,12,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,0,0,14,14,40,True,False,False,,Right-hand bat
+Kolkata Knight Riders,AB Agarkar,fa463154,13,0,0,0,0,0.0,"[5, 7, 9, 11]",4.0,24,15,0,25,2,1,3,0,0,0,4,6.25,0,0,0,1,0,0,96,6,102,47,True,False,False,Right-arm fast,Right-hand bat
+Kolkata Knight Riders,AB Dinda,66b30f71,14,0,0,0,0,0.0,"[1, 3, 6]",3.0,18,11,0,9,0,0,2,0,1,0,2,3.0,0,0,0,0,0,0,75,0,75,41,True,False,False,Right-arm medium-fast,Right-hand bat
+Kolkata Knight Riders,M Kartik,abfeb126,15,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,48,True,False,False,Slow left-arm orthodox,Left-hand bat
+Kolkata Knight Riders,I Sharma,5bb1a1c4,16,0,0,0,0,0.0,"[2, 4, 15]",3.0,18,10,0,7,0,0,1,0,1,0,1,2.33,0,0,0,0,0,0,49,0,49,36,True,False,False,Right-arm fast-medium,Right-hand bat
+Royal Challengers Bangalore,R Dravid,0184dc35,1,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,52,True,False,False,Right-arm offbreak,Right-hand bat
+Royal Challengers Bangalore,W Jaffer,619aa81f,2,6,16,0,0,37.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,0,0,0,0,47,True,False,False,Right-arm offbreak,Right-hand bat
+Royal Challengers Bangalore,V Kohli,ba607b88,3,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,36,True,False,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,JH Kallis,86dc8f2e,4,8,7,0,1,114.29,"[9, 11, 13, 19]",4.0,24,8,0,48,5,3,1,0,0,0,1,12.0,1,0,0,0,0,14,29,8,51,49,True,False,True,Right-arm fast-medium,Right-hand bat
+Royal Challengers Bangalore,CL White,d0513f63,5,6,10,0,0,60.0,[15],1.0,6,0,0,24,2,2,0,0,0,0,2,24.0,1,0,0,0,-2,4,0,8,12,41,True,False,False,Legbreak googly,Right-hand bat
+Royal Challengers Bangalore,MV Boucher,f3cb53a1,6,7,9,1,0,77.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,48,True,True,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,B Akhil,af7dadf7,7,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,47,True,False,False,Right-arm medium-fast,Right-hand bat
+Royal Challengers Bangalore,AA Noffke,b69e69ed,8,9,10,1,0,90.0,"[4, 7, 16, 18]",4.0,24,6,0,40,2,2,1,0,0,0,5,10.0,0,0,0,0,0,13,29,0,42,47,True,False,True,Right-arm fast-medium,Right-hand bat
+Royal Challengers Bangalore,P Kumar,e938e1bc,9,18,15,1,2,120.0,"[1, 3, 5, 20]",4.0,24,10,0,38,3,3,0,0,0,0,1,9.5,1,0,0,0,0,34,10,8,52,38,True,False,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,Z Khan,91a4a398,10,3,8,0,0,37.5,"[2, 6, 8, 17]",4.0,24,8,0,38,3,2,1,0,0,0,0,9.5,0,0,0,0,0,3,33,0,36,46,True,False,False,Left-arm fast-medium,Right-hand bat
+Royal Challengers Bangalore,SB Joshi,670709ec,11,3,6,0,0,50.0,"[10, 12, 14]",3.0,18,4,0,26,0,2,0,0,0,0,0,8.67,0,0,0,0,0,3,4,0,7,54,True,False,True,Slow left-arm orthodox,Left-hand bat

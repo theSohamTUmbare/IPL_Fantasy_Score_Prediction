@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Brazil,W Maximo,e41dee27,1,25,23,3,0,108.7,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,41,0,0,41,24,True,False,False,,
+Brazil,G Caisley,0f06d3cd,2,3,11,0,0,27.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-3,0,0,-3,47,True,False,False,Right-arm medium,Right-hand bat
+Brazil,LH Rodrigues,57c95c3c,3,0,4,0,0,0.0,"[1, 3, 9, 19]",4.0,24,18,0,10,1,0,4,1,2,0,2,2.5,1,0,0,0,0,-2,156,8,162,23,True,False,False,Right-arm medium-fast,Right-hand bat
+Brazil,Yasar Haroon,5a8dc41e,4,24,28,4,0,85.71,"[8, 10]",2.0,12,5,0,11,0,1,0,0,0,0,0,5.5,0,0,0,0,0,40,9,0,49,40,True,True,False,Right-arm offbreak,Right-hand bat
+Brazil,LF Muller,f6411545,5,10,9,2,0,111.11,"[11, 13, 15, 17]",4.0,24,15,0,21,0,1,1,0,0,0,4,5.25,2,0,0,0,0,18,44,16,78,19,True,False,False,,
+Brazil,Muhammad Saleem,a025c156,6,22,11,0,3,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,46,0,8,54,37,True,True,False,Right-arm medium,Left-hand bat
+Brazil,Kawsar Khan,a14b3bc0,7,21,13,1,2,161.54,"[2, 5, 14, 20]",4.0,24,10,0,32,5,0,3,0,0,1,1,8.0,2,0,0,0,4,41,89,16,146,27,True,False,False,,
+Brazil,MFI Assuncao,d8e48e1b,8,13,5,1,1,260.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23,24,True,False,False,,
+Brazil,CC Machado,5992ef03,9,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11,21,True,False,False,,Right-hand bat
+Brazil,IC Simao,dcc76384,10,0,1,0,0,0.0,"[4, 6, 16, 18]",4.0,24,11,0,28,3,1,2,0,0,0,0,7.0,0,0,0,0,0,-2,63,0,61,21,True,True,False,Left-arm medium,Left-hand bat
+Brazil,G Oliveira,b4c52f5f,11,2,3,0,0,66.67,"[7, 12]",2.0,12,3,0,18,2,0,0,0,0,1,0,9.0,0,0,0,0,0,2,3,0,5,28,True,True,False,Right-arm medium,Right-hand bat
+Mexico,Shashikant Laxman,8cf61570,1,4,4,1,0,100.0,"[12, 14]",2.0,12,6,0,23,2,1,0,0,0,0,5,11.5,0,0,0,0,0,8,2,0,10,43,True,False,True,Right-arm medium,Right-hand bat
+Mexico,Kaushal Kumar,8cc37805,2,43,40,3,3,107.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,77,0,6,83,46,True,True,False,Right-arm medium,Right-hand bat
+Mexico,Puneet Arora,c2f8f36e,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,38,True,True,False,Right-arm medium,Right-hand bat
+Mexico,Praveen Santhanakrishnan,22fb205e,4,9,6,2,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,17,0,8,25,38,True,False,False,,
+Mexico,Luis Hermida,03beb59f,5,2,6,0,0,33.33,"[8, 10, 16, 18]",4.0,24,10,0,38,4,2,4,0,1,0,2,9.5,1,0,0,0,0,2,126,8,136,42,True,False,False,Right-arm medium,Right-hand bat
+Mexico,Shantanu Kaveri,091880f7,6,14,17,1,0,82.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,46,True,True,False,Right-arm medium,Right-hand bat
+Mexico,R Ankad,5995707a,7,3,7,0,0,42.86,"[2, 4, 6]",3.0,18,12,0,9,1,0,1,0,0,0,0,3.0,0,0,0,0,0,3,43,0,46,47,True,True,False,Right-arm medium,Right-hand bat
+Mexico,R Galgalikar,3f951265,8,18,18,1,0,100.0,"[15, 17, 19]",3.0,18,10,0,9,0,0,3,0,2,0,0,3.0,1,0,0,0,0,22,111,8,141,37,True,True,False,Right-arm medium,Right-hand bat
+Mexico,Kalyan Manne,279d1dc1,9,5,3,1,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,9,0,6,15,29,True,False,False,,Right-hand bat
+Mexico,LK Sharma,7143efc1,10,10,14,2,0,71.43,"[5, 7, 13]",3.0,18,7,0,29,2,2,1,0,0,0,0,9.67,0,0,0,0,0,18,32,0,50,33,True,True,False,Right-arm medium,Right-hand bat
+Mexico,Pratik Singh Bais,5b351aff,11,3,3,0,0,100.0,"[1, 3, 9, 11]",4.0,24,13,0,23,2,1,0,0,0,0,1,5.75,2,0,0,0,0,3,17,16,36,27,True,True,False,Right-arm medium-fast,Right-hand bat

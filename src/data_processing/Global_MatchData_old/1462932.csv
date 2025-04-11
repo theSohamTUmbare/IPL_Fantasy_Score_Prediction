@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Nigeria,Sulaimon Runsewe,c25d26dc,1,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11,23,True,True,False,Right-arm offbreak,Right-hand bat
+Nigeria,Selim Salau,d18d3a0f,2,22,29,1,0,75.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26,19,True,False,False,,Right-hand bat
+Nigeria,O Olaleye,811785d2,3,9,12,1,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,23,True,False,False,Right-arm offbreak,Right-hand bat
+Nigeria,I Danladi,c156cc1f,4,32,33,3,0,96.97,[18],0.333,2,0,0,7,0,1,0,0,0,0,0,21.02,0,0,0,0,0,48,0,0,48,22,True,True,False,Slow left-arm orthodox,Left-hand bat
+Nigeria,VD Adewoye,45a34a2d,5,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,24,True,False,False,,
+Nigeria,SA Okpe,681f522f,6,0,1,0,0,0.0,"[7, 9, 11, 16]",4.0,24,8,0,24,1,1,0,0,0,0,0,6.0,0,0,0,1,0,-2,10,6,14,24,True,True,False,Right-arm offbreak,Right-hand bat
+Nigeria,IO Okpe,1c5c3dce,7,5,9,0,0,55.56,"[13, 15, 17]",3.0,18,8,0,13,1,0,1,1,0,0,0,4.33,0,0,0,0,0,5,47,0,52,29,True,True,False,Right-arm medium,Right-hand bat
+Nigeria,R Abdulkareem,b9e07e44,8,8,7,1,0,114.29,"[8, 10]",2.0,12,4,0,14,0,1,0,0,0,0,0,7.0,0,0,0,1,0,12,6,6,24,20,True,True,False,Right-arm offbreak,Right-hand bat
+Nigeria,Mohameed Taiwo,a9d788e3,9,1,3,0,0,33.33,"[1, 3, 5, 14]",4.0,24,17,0,11,1,0,2,0,0,0,1,2.75,0,0,0,0,0,1,73,0,74,22,True,False,False,Left-arm fast-medium,Left-hand bat
+Nigeria,P Aho,2e392afa,10,0,1,0,0,0.0,"[2, 4, 6, 12]",4.0,24,13,0,19,1,0,0,0,0,0,3,4.75,0,0,0,0,0,0,19,0,19,22,True,True,False,Right-arm medium-fast,Right-hand bat
+Nigeria,I Uboh,baf3cf01,11,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,24,True,True,False,Right-arm medium,Right-hand bat
+Uganda,SG Mangela,eb3c3cca,1,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,36,True,True,False,Legbreak googly,Left-hand bat
+Uganda,R Obuya,6bc04a3e,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,24,True,False,False,,Right-hand bat
+Uganda,Raghav Dhawan,ac64c2ef,3,13,24,0,0,54.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,9,0,0,9,38,True,True,False,Right-arm medium,Right-hand bat
+Uganda,Riazat Ali Shah,269cc4ff,4,42,49,3,1,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,1,0,0,64,0,40,104,27,True,False,True,Right-arm medium,Right-hand bat
+Uganda,DM Nakrani,46a7ac78,5,27,25,1,2,108.0,"[10, 12]",2.0,12,5,0,10,1,0,1,0,1,0,0,5.0,1,0,0,0,0,47,42,8,97,33,True,False,True,Left-arm medium,Left-hand bat
+Uganda,H Ssenyondo,2b7609f1,6,0,0,0,0,0.0,"[13, 15, 17]",3.0,18,7,0,15,1,0,3,1,0,0,0,5.0,0,0,0,0,0,0,98,0,98,31,True,False,False,Slow left-arm orthodox,Right-hand bat
+Uganda,AR Ramjani,30d8136b,6,2,3,0,0,66.67,"[9, 11, 14, 16]",4.0,24,11,0,21,2,0,1,0,0,0,1,5.25,0,0,0,0,0,2,40,0,42,30,True,False,True,Slow left-arm orthodox,Left-hand bat
+Uganda,C Kyewuta,395695ce,7,0,0,0,0,0.0,"[6, 8]",2.0,12,6,0,11,1,0,1,0,0,1,1,5.5,0,0,0,1,0,0,35,6,41,23,True,False,False,Right-arm medium,Right-hand bat
+Uganda,J Miyaji,414d8a10,8,0,0,0,0,0.0,"[2, 4, 18]",2.5,15,8,0,12,1,0,1,0,0,0,0,4.8,0,0,0,0,0,0,39,0,39,21,True,False,False,Right-arm medium-fast,Right-hand bat
+Uganda,F Nsubuga,87e33d07,9,0,0,0,0,0.0,"[1, 3, 5, 7]",4.0,24,12,0,16,0,0,1,0,0,0,0,4.0,1,0,0,0,0,0,43,8,51,44,True,False,True,Right-arm offbreak,Right-hand bat
+Uganda,F Achelam,b6b3ee6e,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,0,0,14,14,24,True,False,False,,Right-hand bat

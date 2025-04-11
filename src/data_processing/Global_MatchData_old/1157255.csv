@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Cape Cobras,DG Bedingham,a1b69936,1,73,39,7,4,187.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,139,0,0,139,30,True,False,False,,Right-hand bat
+Cape Cobras,JN Malan,f76d7466,2,14,10,2,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,24,0,16,40,28,True,False,False,Legbreak,Right-hand bat
+Cape Cobras,JP Duminy,2e8994e7,3,0,6,0,0,0.0,"[1, 4, 14, 16]",4.0,24,9,0,25,3,0,0,0,0,0,0,6.25,1,0,0,0,0,-2,11,8,17,40,True,False,True,Right-arm offbreak,Left-hand bat
+Cape Cobras,K Verreynne,bf814547,4,23,22,0,1,104.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29,27,True,True,False,Right-arm offbreak,Right-hand bat
+Cape Cobras,JF Smith,91cd48e0,5,6,5,0,0,120.0,"[10, 12]",2.0,12,2,0,16,2,0,1,0,0,0,0,8.0,0,0,0,0,0,6,27,0,33,30,True,False,False,Right-arm medium-fast,Right-hand bat
+Cape Cobras,A Mgijima,955e8e86,6,3,7,0,0,42.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,3,0,16,19,36,True,False,True,Right-arm offbreak,Right-hand bat
+Cape Cobras,FD Adams,f277f531,7,14,16,0,0,87.5,"[9, 11, 18, 20]",4.0,24,7,0,27,2,1,1,0,1,0,1,6.75,0,0,0,0,0,14,42,0,56,35,True,False,True,Right-arm fast-medium,Right-hand bat
+Cape Cobras,RK Kleinveldt,7955eb15,8,10,10,0,0,100.0,"[3, 5, 13, 17]",4.0,24,9,0,33,2,2,4,0,0,0,0,8.25,0,0,0,0,0,10,117,0,127,42,True,False,False,Right-arm fast-medium,Right-hand bat
+Cape Cobras,D Paterson,462d7c62,9,5,4,0,0,125.0,"[6, 15, 19]",3.0,18,3,0,26,2,1,1,0,0,0,0,8.67,1,0,0,0,0,5,28,8,41,35,True,False,False,Right-arm fast-medium,Right-hand bat
+Cape Cobras,T Bokako,032e4384,10,0,1,0,0,0.0,[8],1.0,6,0,0,12,0,1,0,0,0,0,0,12.0,0,0,0,0,0,0,0,0,0,31,True,False,False,Right-arm fast,Right-hand bat
+Cape Cobras,NM Serame,abd541e6,10,0,0,0,0,0.0,"[2, 7]",2.0,12,1,0,27,2,2,0,0,0,0,0,13.5,0,0,0,0,0,0,-5,0,-5,38,True,True,False,Right-arm offbreak,Right-hand bat
+Warriors,MP Breetzke,35f173a0,1,60,38,3,4,157.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,108,0,0,108,26,True,False,False,,Right-hand bat
+Warriors,GL Cloete,3bf40832,2,4,9,0,0,44.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12,32,True,True,False,Right-arm offbreak,Left-hand bat
+Warriors,JT Smuts,42172c3c,3,34,22,6,0,154.55,"[1, 8, 10, 14]",4.0,24,6,0,35,4,1,0,0,0,0,0,8.75,0,0,0,0,4,66,6,0,72,36,True,False,True,Slow left-arm orthodox,Right-hand bat
+Warriors,M Marais,7c18b36c,4,6,8,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,6,0,8,14,31,True,True,False,Right-arm medium-fast,Right-hand bat
+Warriors,S Qeshile,94268960,5,35,21,2,2,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,63,0,8,71,26,True,False,False,,Right-hand bat
+Warriors,LC Ngoepe,51355a30,6,5,6,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Warriors,O Nyaku,9b442f95,7,6,7,1,0,85.71,[20],1.0,6,3,0,6,0,0,1,0,0,0,1,6.0,0,0,0,0,0,10,28,0,38,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Warriors,ACR Birch,9df3a2f4,8,10,6,0,1,166.67,"[2, 12, 16, 18]",4.0,24,3,0,37,2,2,2,0,0,0,0,9.25,0,0,0,0,0,16,53,0,69,39,True,True,False,Right-arm medium-fast,Right-hand bat
+Warriors,SSB Magala,8361e524,9,5,3,1,0,166.67,"[3, 5, 17, 19]",4.0,24,7,0,19,0,0,2,0,0,0,2,4.75,0,0,0,0,0,9,63,0,72,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Warriors,J de Klerk,a941d2d5,10,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,5,0,33,0,2,1,0,1,0,0,8.25,1,0,0,0,0,0,38,8,46,26,True,False,False,Slow left-arm orthodox,Right-hand bat
+Warriors,L Sipamla,f892fcf9,11,0,0,0,0,0.0,"[4, 6, 15]",3.0,18,8,0,21,3,0,2,0,1,0,0,7.0,2,0,0,0,0,0,68,16,84,26,True,False,False,Right-arm fast-medium,Right-hand bat

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Finland,Sapan Mehta,ca673cff,1,3,9,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,39,True,True,False,Left-arm medium,Left-hand bat
+Finland,NG Collins,be3bdc15,2,22,30,2,0,73.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30,30,True,True,False,Right-arm offbreak,Right-hand bat
+Finland,AK Mohan,d55474ac,3,4,4,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,38,True,True,False,Right-arm offbreak,Right-hand bat
+Finland,M Jenkinson,68f7caf9,4,4,10,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,-2,0,8,6,51,True,True,False,Right-arm medium-fast,Right-hand bat
+Finland,VS Padhaal,c4fb0b39,5,17,20,0,1,85.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23,46,True,True,False,Right-arm offbreak,Right-hand bat
+Finland,PF Gallagher,8e9d3dc4,6,18,11,2,1,163.64,"[9, 11, 13, 15]",4.0,24,12,0,15,0,0,2,0,0,0,0,3.75,1,0,0,0,4,36,68,8,112,40,True,True,False,Right-arm offbreak,Right-hand bat
+Finland,JOP Scamans,4e56e796,7,22,18,2,1,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,36,0,8,44,35,True,False,False,,Right-hand bat
+Finland,MB Tambe,1c1bb0d5,8,3,4,0,0,75.0,"[5, 7, 16, 20]",4.0,24,10,0,17,1,0,2,0,1,0,0,4.25,1,0,0,0,0,3,74,8,85,39,True,True,False,Right-arm medium,Right-hand bat
+Finland,Amjad Sher,3b4a8cfb,9,18,9,3,1,200.0,"[2, 4, 6, 18]",4.0,24,16,1,27,5,1,0,0,0,0,0,6.75,0,0,0,0,0,36,30,0,66,38,True,True,False,Right-arm medium,Right-hand bat
+Finland,Raaz Mohammad,f83b77f9,10,0,1,0,0,0.0,"[1, 3, 17, 19]",4.0,24,11,0,17,1,0,3,2,0,0,1,4.25,0,0,0,0,0,-2,112,0,110,33,True,True,False,Right-arm medium,Right-hand bat
+Finland,Mohammad Asaduzzaman,11406bad,11,1,1,0,0,100.0,"[8, 10, 12, 14]",4.0,24,7,0,18,0,0,0,0,0,0,1,4.5,0,0,0,0,0,1,13,0,14,32,True,True,False,Right-arm offbreak,Right-hand bat
+Sweden,Ismaeel Zia,70abbb67,1,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,23,True,True,False,Left-arm medium,Right-hand bat
+Sweden,Umar Nawaz,1ed476fe,2,19,32,2,1,59.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,29,0,0,29,39,True,True,False,Right-arm medium,Right-hand bat
+Sweden,Waqas Haider,20f65440,3,4,3,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16,39,True,False,False,,Right-hand bat
+Sweden,A Venkatesh,06b45b20,4,35,43,2,0,81.4,"[6, 8, 18, 20]",3.5,21,12,0,21,2,1,4,1,2,0,0,6.0,0,0,0,0,0,47,146,0,193,35,True,True,False,Right-arm medium,Right-hand bat
+Sweden,Imal Zuwak,1283e17b,5,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,35,True,True,False,Right-arm medium-fast,Right-hand bat
+Sweden,W Boshoff,cad11a02,6,9,12,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,0,0,0,9,0,28,37,35,True,False,False,,Right-hand bat
+Sweden,Azam Khalil,ff1e08eb,7,12,12,1,0,100.0,"[10, 12, 14, 16]",4.0,24,10,0,25,0,2,1,0,0,0,0,6.25,0,0,0,0,0,16,37,0,53,38,True,False,False,,
+Sweden,Zaker Taqawi,d7074ddc,8,3,3,0,0,100.0,"[1, 7, 9, 11]",4.0,24,15,0,18,2,0,1,0,0,0,1,4.5,0,0,0,0,0,3,46,0,49,23,True,False,False,,Left-hand bat
+Sweden,Hamid Mahmood,5332fc2f,9,7,4,1,0,175.0,"[13, 15]",2.0,12,5,0,15,2,0,0,0,0,0,0,7.5,0,0,0,0,0,11,5,0,16,42,True,True,False,Slow left-arm orthodox,Right-hand bat
+Sweden,Lemar Momand,249fe400,9,0,0,0,0,0.0,"[2, 4]",2.0,12,4,0,15,2,0,0,0,0,0,1,7.5,1,0,0,0,0,0,4,8,12,24,True,True,False,Left-arm medium-fast,Right-hand bat
+Sweden,L Karlsson,90a41671,10,0,0,0,0,0.0,"[3, 5, 17, 19]",4.0,24,16,0,20,2,1,4,0,0,0,0,5.0,1,0,0,0,0,0,128,8,136,28,True,True,False,Right-arm medium-fast,Right-hand bat

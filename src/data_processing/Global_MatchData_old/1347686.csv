@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Birmingham Bears,AL Davies,29ede60b,1,19,9,2,1,211.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33,30,True,False,False,,Right-hand bat
+Birmingham Bears,RM Yates,3581a798,2,53,42,7,1,126.19,"[14, 18]",2.0,12,1,0,13,0,0,0,0,0,0,0,6.5,1,0,0,1,0,95,3,14,112,25,True,False,False,Right-arm offbreak,Left-hand bat
+Birmingham Bears,CG Benjamin,95a15317,3,4,3,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,25,True,True,False,Right-arm medium,Right-hand bat
+Birmingham Bears,SR Hain,67b9536c,4,12,16,1,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,29,True,False,False,Right-arm offbreak,Right-hand bat
+Birmingham Bears,GJ Maxwell,b681e71e,5,10,9,1,0,111.11,[4],1.0,6,1,0,9,1,0,0,0,0,0,0,9.0,2,0,0,0,0,14,1,16,31,36,True,False,True,Right-arm offbreak,Right-hand bat
+Birmingham Bears,DR Mousley,876dbe2d,6,5,6,1,0,83.33,"[5, 7, 9]",2.167,13,5,0,15,1,0,2,0,1,0,4,6.92,0,0,0,0,0,9,65,0,74,23,True,False,True,Right-arm offbreak,Left-hand bat
+Birmingham Bears,JG Bethell,3c55c703,7,4,6,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,21,True,False,True,Slow left-arm orthodox,Left-hand bat
+Birmingham Bears,HJH Brookes,2085e1fa,8,28,17,2,2,164.71,"[6, 11, 13]",3.833,23,13,0,15,1,0,3,1,1,0,0,3.91,0,0,0,0,4,56,114,0,170,25,True,False,False,Right-arm fast-medium,Right-hand bat
+Birmingham Bears,DC Drakes,34b332d3,9,0,1,0,0,0.0,"[1, 3, 15, 19]",4.0,24,11,0,34,2,2,2,0,0,2,1,8.5,0,0,0,0,0,-2,61,0,59,27,True,False,True,Left-arm medium-fast,Left-hand bat
+Birmingham Bears,JB Lintott,e5218454,10,0,3,0,0,0.0,"[8, 10, 12, 16]",4.0,24,9,0,24,3,0,1,0,0,0,0,6.0,0,0,0,0,0,-2,36,0,34,31,True,False,False,Left-arm wrist-spin,Right-hand bat
+Birmingham Bears,OJ Hannon-Dalby,e0ac7144,11,2,7,0,0,28.57,"[2, 17, 20]",3.0,18,6,0,23,2,0,0,0,0,0,0,7.67,1,0,0,0,0,2,6,8,16,35,True,False,False,Right-arm medium-fast,Left-hand bat
+Durham,G Clark,4fd09cfc,1,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,32,True,False,False,Legbreak,Right-hand bat
+Durham,AZ Lees,c9c0fe50,2,5,9,0,0,55.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,5,0,12,17,31,True,False,False,Legbreak,Left-hand bat
+Durham,MA Jones,05f96194,3,26,14,3,1,185.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,54,0,8,62,27,True,False,False,Right-arm offbreak,Right-hand bat
+Durham,OG Robinson,60f4c586,4,10,6,2,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26,26,True,False,False,,Right-hand bat
+Durham,AJ Turner,ff1e12a0,5,6,11,0,0,54.55,"[3, 9, 11, 15]",4.0,24,10,0,20,2,0,3,0,0,0,0,5.0,1,0,0,0,-4,2,93,8,103,32,True,False,False,Right-arm offbreak,Right-hand bat
+Durham,BA Carse,cad40f5e,6,8,8,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20,29,True,False,True,Right-arm fast,Right-hand bat
+Durham,L Trevaskis,b5781ac3,7,6,12,0,0,50.0,"[4, 12, 16]",3.0,18,4,0,43,4,3,2,1,0,0,0,14.33,0,0,0,0,-4,2,56,0,58,25,True,False,False,Slow left-arm orthodox,Left-hand bat
+Durham,JJ Bushnell,2ca9cf48,8,40,34,4,0,117.65,[14],1.0,6,4,0,6,1,0,1,0,0,0,1,6.0,0,0,0,0,0,60,29,0,89,23,True,True,False,Right-arm medium,Right-hand bat
+Durham,BA Raine,4c0f3806,9,4,5,0,0,80.0,"[2, 6, 18, 20]",3.833,23,10,0,25,2,1,1,0,1,0,1,6.52,0,0,0,0,0,4,45,0,49,33,True,False,True,Right-arm medium-fast,Left-hand bat
+Durham,GS Drissell,9a089b15,10,0,1,0,0,0.0,"[1, 5, 7, 13]",4.0,24,12,0,23,3,0,0,0,0,0,1,5.75,2,0,0,0,0,-2,16,16,30,26,True,False,False,Right-arm offbreak,Right-hand bat
+Durham,NA Sowter,ee0c05c0,11,19,14,0,1,135.71,"[8, 10, 17, 19]",4.0,24,11,0,23,3,0,2,0,0,0,0,5.75,0,0,0,0,2,27,65,0,92,32,True,False,False,Legbreak,Right-hand bat

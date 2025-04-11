@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Ghana,JK Vifah,a1448a10,1,1,4,0,0,25.0,"[13, 16]",2.0,12,5,0,12,0,0,1,0,0,0,4,6.0,0,0,0,0,0,1,32,0,33,35,True,True,False,Right-arm medium,Right-hand bat
+Ghana,SK Awiah,bc3fc527,2,4,10,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2,35,True,False,False,Right-arm offbreak,Right-hand bat
+Ghana,OH Agbomadzie,b38a9f73,3,38,35,3,0,108.57,"[5, 12, 14, 18]",4.0,24,10,0,23,3,0,3,0,0,0,0,5.75,2,0,0,0,0,54,93,16,163,34,True,True,False,Left-arm medium,Left-hand bat
+Ghana,R Bakum,c74c583b,4,6,11,1,0,54.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,6,0,0,6,25,True,False,True,Right-arm medium,Right-hand bat
+Ghana,KM Awala,c6c7d01b,5,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,25,True,False,True,Right-arm offbreak,Right-hand bat
+Ghana,M Aboagye,afe8ff08,6,2,4,0,0,50.0,"[1, 3, 15, 17]",4.0,24,13,0,21,2,0,3,1,0,0,1,5.25,0,0,0,0,0,2,104,0,106,23,True,False,True,Legbreak,Right-hand bat
+Ghana,DK Anefie,f98c24ec,7,8,12,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,-2,6,0,16,22,24,True,False,True,Right-arm medium,Right-hand bat
+Ghana,TK Joseph,4fafd79a,8,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,25,True,False,False,,Right-hand bat
+Ghana,G Bakiweyem,5fe3709e,9,15,12,1,0,125.0,"[2, 6]",2.0,12,2,0,24,3,0,0,0,0,0,0,12.0,3,0,0,0,0,19,-2,28,45,26,True,True,False,Right-arm medium,Right-hand bat
+Ghana,KS Bagabena,1ce4f664,10,5,4,0,0,125.0,"[7, 9, 11, 19]",4.0,24,7,0,29,2,0,1,0,0,0,0,7.25,1,0,0,0,0,5,32,8,45,36,True,True,False,Right-arm medium,Right-hand bat
+Ghana,Syed Aqeel Israr,4286e899,11,1,5,0,0,20.0,"[4, 8, 10, 20]",3.5,21,8,0,20,2,0,2,0,1,0,0,5.71,0,0,0,0,0,1,70,0,71,37,True,True,False,Right-arm medium,Right-hand bat
+Nigeria,Sulaimon Runsewe,c25d26dc,1,4,4,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,8,0,14,22,23,True,True,False,Right-arm offbreak,Right-hand bat
+Nigeria,D Ajekun,2494ff9e,2,36,21,5,0,171.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,66,0,8,74,28,True,False,False,Right-arm offbreak,Right-hand bat
+Nigeria,AA Onikoyi,409ce380,3,28,30,1,0,93.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,36,0,8,44,37,True,True,False,Legbreak,Right-hand bat
+Nigeria,JO Adedeji,abee08c7,4,11,14,1,0,78.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15,,,,,,
+Nigeria,I Danladi,c156cc1f,5,12,12,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,22,True,True,False,Slow left-arm orthodox,Left-hand bat
+Nigeria,IO Okpe,1c5c3dce,6,10,15,0,0,66.67,"[8, 18]",2.0,12,5,0,10,0,0,2,0,0,0,2,5.0,1,0,0,0,-2,8,59,8,75,29,True,True,False,Right-arm medium,Right-hand bat
+Nigeria,C Udekwe,74a578d0,7,3,4,0,0,75.0,"[1, 3, 5]",3.0,18,10,0,17,2,0,0,0,0,0,1,5.67,0,0,0,0,0,3,14,0,17,20,True,True,False,Right-arm medium-fast,Right-hand bat
+Nigeria,SA Okpe,681f522f,8,0,1,0,0,0.0,"[10, 12, 14, 16]",4.0,24,8,0,23,1,0,1,0,0,0,0,5.75,1,0,0,0,0,-2,37,8,43,24,True,True,False,Right-arm offbreak,Right-hand bat
+Nigeria,R Abdulkareem,b9e07e44,9,6,6,0,0,100.0,"[11, 13, 15, 17]",4.0,24,10,0,21,1,0,2,0,1,0,0,5.25,1,0,0,0,0,6,72,8,86,20,True,True,False,Right-arm offbreak,Right-hand bat
+Nigeria,Mohameed Taiwo,a9d788e3,10,0,3,0,0,0.0,"[7, 9]",2.0,12,5,0,9,0,0,2,0,0,0,0,4.5,0,0,0,0,0,-2,61,0,59,22,True,False,False,Left-arm fast-medium,Left-hand bat
+Nigeria,P Aho,2e392afa,11,14,7,2,0,200.0,"[2, 4, 6]",3.0,18,10,0,13,1,0,2,0,0,0,2,4.33,1,0,0,0,0,22,66,8,96,22,True,True,False,Right-arm medium-fast,Right-hand bat

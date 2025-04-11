@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Canada,R Pathan,7c840f73,1,14,11,1,1,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24,33,True,False,True,Right-arm fast-medium,Right-hand bat
+Canada,M Spoors,da4a1e46,2,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,25,True,False,False,Legbreak googly,Right-hand bat
+Canada,NS Dhaliwal,cbabd6ad,3,18,14,2,1,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Canada,Ravinderpal Singh,f80682f8,4,1,7,0,0,14.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,36,True,False,False,Right-arm offbreak,Right-hand bat
+Canada,Saad Bin Zafar,f28a60e0,5,2,5,0,0,40.0,"[10, 12, 14]",3.0,18,4,0,28,4,0,0,0,0,0,0,9.33,0,0,0,0,0,2,4,0,6,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Canada,Hamza Tariq,82e81007,6,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,34,True,False,False,,Right-hand bat
+Canada,H Thaker,c01d7726,7,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,27,True,False,True,Right-arm offbreak,Right-hand bat
+Canada,Kaleem Sana,14810ee7,8,1,6,0,0,16.67,"[1, 3, 5]",3.0,18,10,0,14,1,0,1,0,1,0,1,4.67,0,0,0,0,0,1,49,0,50,31,True,False,False,Left-arm medium-fast,Right-hand bat
+Canada,Junaid Siddiqui,9025e58f,9,2,4,0,0,50.0,"[2, 13, 15]",2.167,13,7,0,8,0,0,0,0,0,0,1,3.69,0,0,0,0,0,2,13,0,15,40,True,False,True,Legbreak,Right-hand bat
+Canada,D Heyliger,f8c72766,10,24,22,1,2,109.09,"[7, 9]",2.0,12,4,0,8,0,0,0,0,0,0,0,4.0,0,0,0,0,0,40,10,0,50,35,True,False,False,Right-arm medium,Right-hand bat
+Canada,Salman Nazar,679af2e2,11,10,9,1,0,111.11,"[4, 6, 8, 11]",4.0,24,15,0,22,2,1,1,1,0,0,0,5.5,0,0,0,0,0,14,52,0,66,34,True,True,False,Slow left-arm orthodox,Left-hand bat
+Nepal,K Bhurtel,e3386c8a,1,34,37,3,0,91.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,50,0,0,50,28,True,False,False,Legbreak googly,Right-hand bat
+Nepal,Aasif Sheikh,dcbea954,2,17,16,1,1,106.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,1,0,27,0,22,49,23,True,False,False,,Right-hand bat
+Nepal,Kushal Malla,7e9f1cde,3,0,1,0,0,0.0,[10],1.0,6,2,0,4,0,0,1,1,0,0,0,4.0,2,0,0,0,0,-2,35,16,49,21,True,False,True,Slow left-arm orthodox,Left-hand bat
+Nepal,DS Airee,1747ea18,4,27,31,3,0,87.1,"[8, 12]",2.0,12,6,0,16,0,2,0,0,0,0,0,8.0,0,0,0,0,0,43,6,0,49,25,True,False,False,Right-arm offbreak,Right-hand bat
+Nepal,Aarif Sheikh,cd4d7695,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,27,True,False,False,Right-arm medium,Right-hand bat
+Nepal,Lokesh Bam,75c8a26b,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,24,True,False,False,,Right-hand bat
+Nepal,G Malla,b2e1d224,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,34,True,False,False,,Right-hand bat
+Nepal,KS Airee,548d4188,7,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,12,0,16,2,0,2,0,0,0,3,5.33,0,0,0,2,0,0,66,12,78,24,True,False,False,Right-arm medium,Right-hand bat
+Nepal,S Lamichhane,b410bd3d,8,0,0,0,0,0.0,"[4, 7, 9, 11]",4.0,24,17,0,12,0,1,3,1,0,0,0,3.0,1,0,0,0,0,0,110,8,118,24,True,False,False,Legbreak googly,Right-hand bat
+Nepal,A Bohara,64fb6b15,9,0,0,0,0,0.0,"[6, 13, 15]",3.0,18,10,0,7,0,0,2,0,0,0,0,2.33,0,0,0,1,0,0,66,6,72,27,True,False,False,Right-arm medium,Right-hand bat
+Nepal,JK Mukhiya,f8dcfe4e,10,0,0,0,0,0.0,"[2, 14]",2.0,12,4,0,24,3,1,0,0,0,0,1,12.0,0,0,0,0,0,0,0,0,0,32,True,False,False,Right-arm medium-fast,Right-hand bat

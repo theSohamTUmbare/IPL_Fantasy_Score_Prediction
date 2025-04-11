@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Chattogram Challengers,Mehedi Maruf,3361993b,1,11,14,0,1,78.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,36,True,True,False,Right-arm offbreak,Right-hand bat
+Chattogram Challengers,Darwish Rasooli,3b2114a5,2,3,9,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,25,True,False,False,Right-arm offbreak,Right-hand bat
+Chattogram Challengers,Al-Amin,ec72efc5,3,18,20,1,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,31,True,True,False,Right-arm offbreak,Right-hand bat
+Chattogram Challengers,Shuvagata Hom,bb01f9e0,4,1,7,0,0,14.29,"[4, 7]",2.0,12,4,0,13,1,0,0,0,0,0,1,6.5,0,0,0,0,0,1,6,0,7,38,True,False,True,Right-arm offbreak,Right-hand bat
+Chattogram Challengers,Afif Hossain,37138918,5,25,23,3,0,108.7,"[8, 12]",2.0,12,4,0,10,0,0,0,0,0,0,0,5.0,0,0,0,0,0,41,8,0,49,25,True,False,True,Right-arm offbreak,Left-hand bat
+Chattogram Challengers,Usman Khan,bafb9238,6,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,29,True,True,False,Right-arm offbreak,Right-hand bat
+Chattogram Challengers,UBT Chand,0c94f480,7,5,10,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,1,0,0,1,32,True,True,False,Right-arm offbreak,Right-hand bat
+Chattogram Challengers,Mrittunjoy Chowdhury,21b97584,8,3,4,0,0,75.0,"[1, 3, 11, 13]",3.5,21,12,0,11,1,0,1,0,0,0,1,3.14,0,0,0,0,0,3,43,0,46,23,True,False,True,Left-arm medium-fast,Left-hand bat
+Chattogram Challengers,Nihaduzzaman,eca6dcb2,9,8,15,1,0,53.33,[9],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,-4,8,1,0,9,26,True,False,False,Slow left-arm orthodox,Right-hand bat
+Chattogram Challengers,PM Pushpakumara,b529630e,10,6,10,1,0,60.0,"[5, 10]",2.0,12,3,0,22,2,1,1,1,0,0,2,11.0,0,0,0,0,-2,8,34,0,42,38,True,False,True,Slow left-arm orthodox,Right-hand bat
+Chattogram Challengers,Mehedi Hasan Rana,0b7363da,11,2,4,0,0,50.0,"[2, 6]",2.0,12,6,0,23,1,1,0,0,0,0,6,11.5,0,0,0,0,0,2,2,0,4,28,True,False,False,Left-arm fast,Left-hand bat
+Sylhet Strikers,Nazmul Hossain Shanto,1274d7ab,1,43,41,3,1,104.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,65,0,0,65,26,True,False,False,Right-arm offbreak,Left-hand bat
+Sylhet Strikers,CN Ackermann,e734d090,2,1,5,0,0,20.0,"[8, 10, 12]",3.0,18,5,0,22,3,0,1,0,0,0,0,7.33,2,0,0,0,0,1,30,16,47,33,True,False,True,Right-arm offbreak,Right-hand bat
+Sylhet Strikers,Zakir Hasan,e3e09091,3,27,21,2,1,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,45,0,12,57,27,True,False,False,,Left-hand bat
+Sylhet Strikers,Towhid Hridoy,9e52a414,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,24,True,False,False,Right-arm offbreak,Right-hand bat
+Sylhet Strikers,Mushfiqur Rahim,a94e08ea,4,6,8,1,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,1,0,0,0,10,0,40,50,37,True,False,False,,Right-hand bat
+Sylhet Strikers,Akbar Ali,abae26ad,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,23,True,False,False,,Right-hand bat
+Sylhet Strikers,NLTC Perera,0f12f9df,6,0,0,0,0,0.0,"[9, 17, 20]",3.0,18,7,0,18,2,0,0,0,0,0,0,6.0,0,0,0,0,0,0,9,0,9,35,True,False,True,Right-arm medium-fast,Left-hand bat
+Sylhet Strikers,Imad Wasim,9cb8d7a6,7,0,0,0,0,0.0,"[4, 6]",2.0,12,6,0,9,0,0,0,0,0,0,3,4.5,1,0,0,0,0,0,12,8,20,36,True,False,True,Slow left-arm orthodox,Left-hand bat
+Sylhet Strikers,Mashrafe Mortaza,e186f49c,8,0,0,0,0,0.0,"[1, 3, 13, 15]",4.0,24,13,0,18,0,1,1,0,0,0,1,4.5,0,0,0,0,0,0,44,0,44,41,True,False,False,Right-arm fast-medium,Right-hand bat
+Sylhet Strikers,Mohammad Amir,e174dadd,9,0,0,0,0,0.0,"[2, 5, 16, 18]",4.0,24,20,1,7,1,0,2,0,0,0,0,1.75,0,0,0,0,0,0,88,0,88,32,True,False,False,Left-arm fast-medium,Left-hand bat
+Sylhet Strikers,Rejaur Rahman,267be846,10,0,0,0,0,0.0,"[7, 11, 14, 19]",4.0,24,12,0,14,0,0,4,0,0,0,0,3.5,0,0,0,0,0,0,126,0,126,25,True,False,False,Right-arm medium,Right-hand bat

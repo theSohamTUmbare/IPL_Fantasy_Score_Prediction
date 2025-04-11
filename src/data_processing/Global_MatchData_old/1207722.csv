@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Middlesex,SS Eskinazi,75cbed9b,1,79,48,6,3,164.58,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,137,0,8,145,31,True,False,False,,Right-hand bat
+Middlesex,MDE Holden,d34a2268,2,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,27,True,False,False,Right-arm offbreak,Left-hand bat
+Middlesex,MK Andersson,d26e0405,3,14,13,2,0,107.69,[14],1.0,6,1,0,14,2,0,0,0,0,2,0,14.0,0,0,0,0,0,22,1,0,23,28,True,False,True,Right-arm medium,Right-hand bat
+Middlesex,NRT Gubbins,c1a89821,4,7,13,0,0,53.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,3,0,0,3,31,True,False,False,Legbreak,Left-hand bat
+Middlesex,JA Simpson,f05fe9b1,5,46,31,2,3,148.39,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,78,0,0,78,36,True,False,False,,Left-hand bat
+Middlesex,DJ Lincoln,24cacd0a,6,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11,29,True,False,False,Right-arm medium,Right-hand bat
+Middlesex,LBK Hollman,bdc0670a,7,2,4,0,0,50.0,"[8, 10, 12]",3.0,18,4,0,33,3,2,2,1,0,0,0,11.0,0,0,0,0,0,2,60,0,62,24,True,False,True,Legbreak,Left-hand bat
+Middlesex,JAR Harris,f1ba9ed7,9,0,0,0,0,0.0,"[5, 11, 17, 19]",4.0,24,6,0,46,3,2,1,0,1,4,0,11.5,0,0,0,0,0,0,35,0,35,34,True,False,True,Right-arm medium-fast,Right-hand bat
+Middlesex,TG Helm,74a274cc,10,0,0,0,0,0.0,"[1, 3, 18, 20]",3.333,20,10,0,17,2,0,2,0,1,0,2,5.1,0,0,0,0,0,0,72,0,72,30,True,False,False,Right-arm fast-medium,Right-hand bat
+Middlesex,NA Sowter,ee0c05c0,11,0,0,0,0,0.0,"[7, 9, 13, 15]",4.0,24,8,0,20,1,0,0,0,0,0,0,5.0,1,0,0,0,0,0,12,8,20,32,True,False,False,Legbreak,Right-hand bat
+Middlesex,ST Finn,ccdd8308,12,0,0,0,0,0.0,"[2, 4, 6, 16]",4.0,24,6,0,35,2,2,2,0,0,0,0,8.75,1,0,0,0,0,0,56,8,64,35,True,False,False,Right-arm fast-medium,Right-hand bat
+Sussex,PD Salt,3d284ca3,1,7,4,0,1,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,28,True,True,False,Right-arm offbreak,Right-hand bat
+Sussex,LJ Wright,cca50cd6,2,4,4,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,40,True,False,False,Right-arm medium,Right-hand bat
+Sussex,HZ Finch,6b16f8ba,3,8,12,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,6,0,0,6,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Sussex,DMW Rawlins,f1eb3c73,4,23,17,1,2,135.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,41,0,0,41,27,True,False,True,Slow left-arm orthodox,Left-hand bat
+Sussex,D Wiese,aa8d28ae,5,79,44,8,3,179.55,"[6, 16]",2.0,12,0,0,23,1,1,0,0,0,0,1,11.5,1,0,0,0,6,147,-4,8,151,39,True,False,True,Right-arm medium-fast,Right-hand bat
+Sussex,RS Bopara,7ca5e05d,6,8,8,1,0,100.0,[15],1.0,6,1,0,11,0,1,0,0,0,0,0,11.0,0,0,0,0,0,12,1,0,13,39,True,False,True,Right-arm medium,Right-hand bat
+Sussex,GHS Garton,be869ccf,7,19,18,2,0,105.56,[1],1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,2,0,0,0,0,27,1,16,44,27,True,False,True,Left-arm fast,Left-hand bat
+Sussex,OE Robinson,0f3ee070,8,3,3,0,0,100.0,"[2, 4, 18, 20]",4.0,24,6,0,30,2,2,1,0,1,0,0,7.5,0,0,0,0,0,3,39,0,42,31,True,False,False,Right-arm medium-fast,Right-hand bat
+Sussex,DR Briggs,f3abd0c9,9,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,10,0,21,0,1,2,0,1,0,0,5.25,0,0,0,0,0,0,72,0,72,33,True,False,False,Slow left-arm orthodox,Right-hand bat
+Sussex,WAT Beer,98eacfe5,9,6,6,0,0,100.0,"[8, 10, 12, 14]",4.0,24,5,0,30,2,0,0,0,0,0,0,7.5,0,0,0,0,0,6,5,0,11,36,True,False,False,Legbreak,Right-hand bat
+Sussex,TS Mills,245c97cb,10,0,0,0,0,0.0,"[3, 5, 17, 19]",4.0,24,8,0,33,4,1,2,0,0,0,1,8.25,0,0,0,0,0,0,58,0,58,32,True,False,False,Left-arm fast,Right-hand bat

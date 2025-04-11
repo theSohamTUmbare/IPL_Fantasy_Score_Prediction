@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Gibraltar,MO Bacarese,486f252b,1,8,18,0,0,44.44,[2],1.0,6,1,0,9,1,0,0,0,0,0,1,9.0,0,0,0,0,-6,2,1,0,3,38,True,True,False,Right-arm offbreak,Right-hand bat
+Gibraltar,KJ Ferrary,81898acc,2,7,8,1,0,87.5,"[7, 9]",2.0,12,4,0,16,1,1,0,0,0,0,0,8.0,0,0,0,0,0,11,4,0,15,35,True,True,False,Right-arm offbreak,Right-hand bat
+Gibraltar,K Aswani,8ad721dd,3,31,32,3,0,96.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,47,0,0,47,37,True,True,False,Right-arm medium-fast,Right-hand bat
+Gibraltar,JD Freyone,7cd7eb50,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,30,True,True,False,Right-arm medium,Right-hand bat
+Gibraltar,IDM Latin,78f719ea,4,4,8,0,0,50.0,"[6, 8, 10]",2.833,17,3,0,23,2,0,0,0,0,1,0,8.12,0,0,0,0,0,4,3,0,7,40,True,True,False,Legbreak,Right-hand bat
+Gibraltar,SA Chipolina,b02bdcfc,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,32,True,False,False,,
+Gibraltar,J Hazell,40d29a33,5,8,6,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,38,True,False,False,,
+Gibraltar,K Mirpuri,441006af,5,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,8,0,13,0,0,0,0,0,0,0,4.33,0,0,1,0,0,0,14,12,26,37,True,True,False,Right-arm offbreak,Right-hand bat
+Gibraltar,A Orfila,7c6293d1,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,38,True,False,False,,
+Gibraltar,CJ Phillips,5629202a,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,38,True,True,False,Right-arm fast-medium,Right-hand bat
+Gibraltar,S Suarez,1d1a15fa,8,0,0,0,0,0.0,[4],1.0,6,2,0,9,1,0,0,0,0,0,0,9.0,0,0,0,0,0,0,2,0,2,38,True,True,False,Right-arm fast-medium,Right-hand bat
+Isle of Man,A McAuley,39e599c8,1,17,23,0,0,73.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,29,True,False,False,,Right-hand bat
+Isle of Man,OJ Webster,a69e2964,2,50,34,5,1,147.06,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,86,0,0,86,39,True,False,False,,
+Isle of Man,P Littlejohns,0d9992e3,3,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,42,True,False,False,,
+Isle of Man,D Kniveton,178b4188,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,35,True,False,False,,
+Isle of Man,C Hawke,fa135031,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,True,False,False,,
+Isle of Man,AM Killey,7ed05554,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,30,True,False,False,,
+Isle of Man,DJ Hawke,0c5f662b,6,0,0,0,0,0.0,"[8, 10]",2.0,12,5,0,14,2,0,1,0,0,0,0,7.0,0,0,0,0,0,0,32,0,32,32,True,False,False,,
+Isle of Man,N White,b2caf373,7,0,0,0,0,0.0,[12],1.0,6,1,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,0,0,1,0,1,29,True,False,False,,
+Isle of Man,MJ Ansell,6e60a792,8,0,0,0,0,0.0,"[1, 3, 5, 7]",4.0,24,13,0,13,1,0,2,1,1,0,0,3.25,0,0,0,0,0,0,85,0,85,30,True,False,False,Slow left-arm orthodox,Right-hand bat
+Isle of Man,S Mills,86ac0262,9,0,0,0,0,0.0,"[9, 11]",2.0,12,4,0,12,0,0,0,0,0,0,0,6.0,1,0,0,0,0,0,6,8,14,26,True,False,False,,
+Isle of Man,A van den Berg,63af7f6e,10,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,9,0,13,1,0,0,0,0,0,1,4.33,0,0,0,0,0,0,15,0,15,0,True,False,False,,

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Boland,JN Malan,f76d7466,1,37,39,7,0,94.87,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,69,0,8,77,28,True,False,False,Legbreak,Right-hand bat
+Boland,JL du Plooy,6e6fb538,2,0,1,0,0,0.0,"[13, 16]",2.0,12,6,0,14,2,0,1,0,0,0,1,7.0,0,0,0,0,0,-2,33,0,31,30,True,False,False,Slow left-arm orthodox,Left-hand bat
+Boland,C Fortuin,f25cebec,3,7,8,0,1,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,1,0,0,13,0,40,53,29,True,False,False,,Right-hand bat
+Boland,C Jonker,a81d6706,4,5,7,0,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,38,True,False,False,Right-arm medium-fast,Right-hand bat
+Boland,F Behardien,dce2019b,5,31,32,2,0,96.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,43,0,0,43,41,True,False,True,Right-arm fast-medium,Right-hand bat
+Boland,M Copeland,9943b637,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,22,True,False,False,Right-arm offbreak,Right-hand bat
+Boland,FD Adams,f277f531,7,3,7,0,0,42.86,"[1, 7, 17, 19]",4.0,24,7,0,19,0,0,1,0,0,0,0,4.75,0,0,0,0,0,3,38,0,41,35,True,False,True,Right-arm fast-medium,Right-hand bat
+Boland,GC Viljoen,a316d663,8,22,18,1,1,122.22,"[2, 4, 15]",3.0,18,7,0,26,2,1,0,0,0,0,3,8.67,0,0,0,0,0,32,7,0,39,36,True,False,False,Right-arm fast,Right-hand bat
+Boland,B Xenxe,94cdf850,9,10,4,1,0,250.0,"[6, 9, 18, 20]",3.667,22,7,0,34,3,1,4,0,0,1,3,9.27,0,0,0,0,0,14,115,0,129,27,True,False,False,Right-arm fast,Right-hand bat
+Boland,S von Berg,ffd3fc37,10,2,3,0,0,66.67,"[8, 10, 12, 14]",4.0,24,6,0,22,0,0,3,0,1,0,0,5.5,0,0,0,0,0,2,97,0,99,38,True,False,True,Legbreak,Right-hand bat
+Boland,K Gumede,781f2acc,10,0,0,0,0,0.0,"[3, 5, 11]",3.0,18,7,0,28,4,0,0,0,0,1,3,9.33,2,0,0,0,0,0,7,16,23,25,True,False,False,Left-arm medium,Right-hand bat
+Dolphins,G Roelofsen,ac688e55,1,26,30,2,0,86.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,0,38,0,40,78,28,True,False,False,,Right-hand bat
+Dolphins,KD Petersen,bf64dc29,2,25,19,3,1,131.58,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,49,0,0,49,31,True,False,False,Legbreak,Right-hand bat
+Dolphins,JT Smuts,42172c3c,3,6,10,0,0,60.0,"[8, 10, 12, 15]",4.0,24,9,0,17,0,0,2,1,1,0,1,4.25,0,0,0,0,-2,4,81,0,85,36,True,False,True,Slow left-arm orthodox,Right-hand bat
+Dolphins,TA Dithole,876bec53,4,4,2,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,8,0,6,14,32,True,True,False,Right-arm offbreak,Left-hand bat
+Dolphins,K Zondo,4aad78d3,5,18,11,1,0,163.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,26,0,0,26,35,True,False,False,Right-arm offbreak,Right-hand bat
+Dolphins,JF Smith,91cd48e0,6,22,24,2,0,91.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30,30,True,False,False,Right-arm medium-fast,Right-hand bat
+Dolphins,A Simelane,ebb74564,7,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,21,True,False,True,Right-arm fast,Right-hand bat
+Dolphins,E Bosch,28d6c44d,8,7,8,0,0,87.5,"[1, 3, 5, 16]",4.0,24,16,0,22,2,1,1,0,0,0,1,5.5,1,0,0,0,0,7,45,8,60,26,True,False,False,Right-arm fast,Right-hand bat
+Dolphins,P Subrayen,7ec9711d,9,22,10,2,1,220.0,"[7, 9, 11, 13]",4.0,24,11,0,18,1,0,3,0,0,0,1,4.5,0,0,0,0,6,42,96,0,138,31,True,False,True,Right-arm offbreak,Right-hand bat
+Dolphins,DM Dupavillon,7cb2d9d2,10,1,1,0,0,100.0,"[2, 4, 17, 19]",4.0,24,8,0,38,4,1,0,0,0,0,4,9.5,0,0,0,0,0,1,8,0,9,30,True,False,False,Right-arm fast,Right-hand bat
+Dolphins,OEG Baartman,6b9eb501,11,0,0,0,0,0.0,"[6, 14, 18, 20]",4.0,24,9,0,29,4,0,1,0,0,0,0,7.25,0,0,0,1,0,0,34,6,40,32,True,False,False,Right-arm medium-fast,Right-hand bat

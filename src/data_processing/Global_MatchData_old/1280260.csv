@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Chhattisgarh,AA Herwadkar,4ed49d3d,1,53,55,4,1,96.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,83,0,8,91,30,True,False,False,Right-arm offbreak,Left-hand bat
+Chhattisgarh,Shashank Chandrakar,9c20688d,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,30,True,True,False,Right-arm medium,Right-hand bat
+Chhattisgarh,Sanjeet Desai,9b0d5e52,3,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,27,True,True,False,Legbreak googly,Right-hand bat
+Chhattisgarh,Amandeep Khare,6c6cc94c,4,16,22,0,1,72.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,27,True,True,False,Right-arm medium,Right-hand bat
+Chhattisgarh,Shashank Singh,26989d80,5,57,28,4,4,203.57,"[9, 15]",2.0,12,0,0,23,2,1,0,0,0,0,0,11.5,1,0,0,0,6,111,-4,8,115,33,True,False,True,Right-arm offbreak,Right-hand bat
+Chhattisgarh,Ajay Mandal,31ee319e,6,19,8,1,2,237.5,"[2, 4, 11, 16]",4.0,24,11,0,29,3,1,0,0,0,0,0,7.25,1,0,0,0,0,35,11,8,54,29,True,False,True,Slow left-arm orthodox,Left-hand bat
+Chhattisgarh,Aishwary Mourya,ea3a41e0,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,31,True,True,False,Right-arm medium-fast,Right-hand bat
+Chhattisgarh,SS Agarwal,b51f72a5,7,0,0,0,0,0.0,"[10, 12]",2.0,12,4,0,18,0,2,0,0,0,0,0,9.0,0,0,0,0,0,0,4,0,4,31,True,True,False,Legbreak googly,Right-hand bat
+Chhattisgarh,Sourabh Majumdar,30225730,8,0,0,0,0,0.0,"[6, 8, 18, 20]",4.0,24,5,0,27,2,0,1,0,0,1,0,6.75,0,0,0,0,0,0,32,0,32,26,True,True,False,Right-arm medium-fast,Right-hand bat
+Chhattisgarh,Ravi Kiran,0ff9728b,9,0,0,0,0,0.0,"[5, 13, 17, 19]",4.0,24,5,0,32,2,1,2,0,0,0,1,8.0,0,0,0,0,0,0,55,0,55,34,True,True,False,Right-arm medium,Right-hand bat
+Chhattisgarh,Sumit Ruikar,f4ef0fd7,10,0,0,0,0,0.0,"[1, 3, 7, 14]",4.0,24,12,0,24,2,1,2,0,1,0,0,6.0,0,0,0,0,0,0,72,0,72,34,True,True,False,Slow left-arm orthodox,Left-hand bat
+Mumbai,PP Shaw,8b3e9c7c,1,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,25,True,False,False,Right-arm offbreak,Right-hand bat
+Mumbai,AM Rahane,29e95537,2,69,55,6,2,125.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,113,0,0,113,36,True,False,False,Right-arm medium,Right-hand bat
+Mumbai,YBK Jaiswal,6c19c6e5,3,4,6,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,23,True,False,False,Legbreak,Left-hand bat
+Mumbai,SD Lad,9601c534,4,46,34,3,2,135.29,"[1, 3]",2.0,12,6,0,12,0,1,1,0,0,0,0,6.0,0,0,0,0,2,76,33,0,109,32,True,False,False,Right-arm offbreak,Right-hand bat
+Mumbai,S Dube,a4e37e47,5,22,11,1,2,200.0,"[7, 9, 15]",3.0,18,5,0,30,1,2,0,0,0,1,0,10.0,0,0,0,0,6,44,3,0,47,31,True,False,True,Right-arm medium,Left-hand bat
+Mumbai,AP Tare,855a210c,6,6,8,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,6,0,8,14,37,True,False,False,,Right-hand bat
+Mumbai,Mohit Avasthi,7e83cef2,7,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,9,0,46,3,3,1,1,0,0,6,11.5,1,0,0,0,0,0,38,8,46,32,True,False,False,Right-arm medium-fast,Right-hand bat
+Mumbai,Aman Hakim Khan,378daa89,7,4,3,0,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,28,True,False,True,Right-arm medium,Right-hand bat
+Mumbai,TU Deshpande,46a9bea1,8,0,0,0,0,0.0,"[5, 14, 18, 20]",4.0,24,11,0,20,2,0,1,0,0,0,1,5.0,0,0,0,0,0,0,40,0,40,29,True,False,False,Right-arm medium,Left-hand bat
+Mumbai,Tanush Kotian,5724e517,9,0,0,0,0,0.0,"[6, 8, 10, 12]",4.0,24,10,0,19,0,1,0,0,0,0,0,4.75,0,0,0,0,0,0,16,0,16,26,True,False,True,Right-arm offbreak,Right-hand bat
+Mumbai,Atharva Ankolekar,d6cd318e,10,0,0,0,0,0.0,"[11, 13, 16]",3.0,18,4,0,28,3,1,1,0,0,0,0,9.33,0,0,1,0,0,0,29,12,41,24,True,True,False,Slow left-arm orthodox,Left-hand bat

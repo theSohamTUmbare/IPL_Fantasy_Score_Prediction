@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Arunachal Pradesh,Akhilesh Sahani,d6ac52e8,1,5,4,1,0,125.0,"[2, 4]",2.0,12,3,0,22,4,0,0,0,0,0,0,11.0,0,0,0,0,0,9,1,0,10,0,True,False,False,,
+Arunachal Pradesh,Shashwat Kohli,f782103d,2,4,2,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,27,True,True,False,Legbreak,Right-hand bat
+Arunachal Pradesh,Suraj Tayam,6827210b,3,9,25,1,0,36.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,7,0,0,7,40,True,False,False,,Right-hand bat
+Arunachal Pradesh,Samarth Seth,9fe56f2b,4,9,7,2,0,128.57,[5],1.0,6,1,0,19,1,2,0,0,0,0,0,19.0,0,0,0,0,0,17,1,0,18,25,True,True,False,Slow left-arm orthodox,Left-hand bat
+Arunachal Pradesh,Rahul Dalal,802fdccf,5,26,30,4,0,86.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,46,0,0,46,33,True,True,False,Right-arm offbreak,Right-hand bat
+Arunachal Pradesh,Uvais Ahmad,c9d6f9f2,6,27,20,3,1,135.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,51,0,0,51,25,True,False,False,,Right-hand bat
+Arunachal Pradesh,Song Tacho,128d1861,7,5,17,0,0,29.41,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-1,0,0,-1,32,True,True,False,Right-arm medium,Right-hand bat
+Arunachal Pradesh,Techi Neri,d3885f28,8,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,30,True,True,False,Right-arm offbreak,Right-hand bat
+Arunachal Pradesh,Kengo Bam,dd55932d,9,1,3,0,0,33.33,"[8, 10]",1.167,7,2,0,8,1,0,0,0,0,0,0,6.86,0,0,0,0,0,1,2,0,3,36,True,True,False,Slow left-arm orthodox,Right-hand bat
+Arunachal Pradesh,Karkir Taye,dfbd203a,10,7,7,1,0,100.0,"[6, 9]",2.0,12,4,0,30,4,2,0,0,0,0,0,15.0,0,0,0,0,0,11,-2,0,9,29,True,True,False,Right-arm medium-fast,Right-hand bat
+Arunachal Pradesh,Licha Tehi,4b6cc6c2,11,5,2,1,0,250.0,"[1, 3, 7]",3.0,18,6,0,29,5,0,0,0,0,0,1,9.67,0,0,0,0,0,9,6,0,15,32,True,True,False,Right-arm medium,Right-hand bat
+Chandigarh,M Vohra,c03e2850,1,68,32,9,3,212.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,136,0,0,136,31,True,False,False,Right-arm medium,Right-hand bat
+Chandigarh,Shivam Bhambri,e4bfcaad,2,39,23,6,1,169.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,77,0,0,77,29,True,True,False,Legbreak,Right-hand bat
+Chandigarh,Shreshth Nirmohi,e7e1eeb2,2,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,12,1,15,3,0,1,0,0,0,0,5.0,0,0,0,0,0,0,53,0,53,33,True,True,False,Right-arm medium,Left-hand bat
+Chandigarh,Jaskaran Singh,d7b3a420,3,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,13,0,25,4,0,4,2,1,0,2,6.25,0,0,0,0,0,0,147,0,147,35,True,False,False,Right-arm medium,Right-hand bat
+Chandigarh,Bipul Sharma,c18496e1,4,0,0,0,0,0.0,"[6, 8, 10, 12]",4.0,24,14,0,18,1,0,0,0,0,0,5,4.5,0,0,0,0,0,0,20,0,20,41,True,False,True,Slow left-arm orthodox,Left-hand bat
+Chandigarh,Anirudh Kanwar,6c8e4b0a,5,0,0,0,0,0.0,"[7, 9, 11, 16]",4.0,24,13,0,19,3,0,1,0,0,0,0,4.75,0,0,0,0,0,0,44,0,44,31,True,True,False,Right-arm medium-fast,Right-hand bat
+Chandigarh,Karanveer Singh,1647bd37,6,0,0,0,0,0.0,"[13, 15, 17, 19]",4.0,24,16,0,15,2,0,3,0,0,0,0,3.75,1,0,0,0,0,0,101,8,109,37,True,True,False,Legbreak googly,Right-hand bat
+Chandigarh,Gaurav Gambhir,242a9261,7,0,0,0,0,0.0,[14],1.0,6,1,0,13,1,1,0,0,0,0,0,13.0,0,0,0,0,0,0,1,0,1,37,True,True,False,Right-arm offbreak,Right-hand bat
+Chandigarh,Ankit Kaushik,084708eb,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,33,True,True,False,Legbreak googly,Right-hand bat
+Chandigarh,Jaskaranvir Singh Sohi,a030bba8,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,31,True,False,False,,Right-hand bat
+Chandigarh,Kunal Mahajan,b83ef011,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,33,True,False,False,,Right-hand bat

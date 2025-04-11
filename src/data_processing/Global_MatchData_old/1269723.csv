@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Jamaica Tallawahs,K Lewis,b0081e62,1,56,24,5,5,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,2,6,120,0,32,152,33,True,False,False,,Right-hand bat
+Jamaica Tallawahs,KSA McKenzie,2b8f219a,2,16,10,3,0,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,32,0,0,32,24,True,False,False,Right-arm offbreak,Left-hand bat
+Jamaica Tallawahs,SSJ Brooks,977b841a,3,34,29,2,1,117.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,52,0,8,60,36,True,False,False,Legbreak,Right-hand bat
+Jamaica Tallawahs,R Powell,650d5e49,4,22,20,1,2,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,38,0,0,38,31,True,False,False,Right-arm medium-fast,Right-hand bat
+Jamaica Tallawahs,AD Russell,bbd41817,5,31,15,0,4,206.67,"[3, 5, 17, 19]",3.167,19,6,0,34,3,2,2,0,0,0,0,10.74,0,0,0,0,6,65,54,0,119,36,True,False,True,Right-arm fast,Right-hand bat
+Jamaica Tallawahs,CR Brathwaite,e342e5fb,6,2,3,0,0,66.67,"[9, 11, 13]",3.0,18,7,0,13,1,0,2,0,0,0,0,4.33,1,0,0,0,0,2,63,8,73,36,True,False,True,Right-arm fast-medium,Right-hand bat
+Jamaica Tallawahs,Haider Ali,c13e34f4,7,7,7,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,24,True,False,False,,Right-hand bat
+Jamaica Tallawahs,Imad Wasim,9cb8d7a6,8,27,9,1,3,300.0,"[2, 4, 12, 16]",4.0,24,8,0,34,3,1,3,1,0,0,4,8.5,0,0,0,0,0,53,95,0,148,36,True,False,True,Slow left-arm orthodox,Left-hand bat
+Jamaica Tallawahs,M Pretorius,54c2b697,9,1,2,0,0,50.0,"[1, 7, 15]",3.0,18,4,0,33,4,1,0,0,0,0,0,11.0,0,0,0,0,0,1,2,0,3,30,True,False,False,Right-arm fast-medium,Right-hand bat
+Jamaica Tallawahs,CJ Green,19b9f399,10,2,1,0,0,200.0,[8],1.0,6,1,0,15,0,2,0,0,0,0,0,15.0,1,0,0,0,0,2,1,8,11,31,True,False,True,Right-arm offbreak,Right-hand bat
+Jamaica Tallawahs,V Permaul,78dfe704,11,0,0,0,0,0.0,"[6, 10, 14, 18]",4.0,24,13,1,25,2,1,1,0,0,1,0,6.25,1,0,0,1,0,0,52,14,66,35,True,False,False,Slow left-arm orthodox,Right-hand bat
+St Lucia Kings,ADS Fletcher,1bae756b,1,30,13,2,2,230.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,60,0,0,60,37,True,False,False,Legbreak,Right-hand bat
+St Lucia Kings,F du Plessis,3355b542,2,6,4,1,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,10,0,8,18,40,True,False,False,Legbreak,Right-hand bat
+St Lucia Kings,M Deyal,7183799b,3,33,17,3,2,194.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,67,0,0,67,31,True,False,False,Right-arm offbreak,Left-hand bat
+St Lucia Kings,RL Chase,3feda4fa,4,30,17,2,2,176.47,[4],1.0,6,3,0,9,0,1,1,0,0,0,0,9.0,3,0,0,1,6,60,28,34,122,33,True,False,True,Right-arm offbreak,Right-hand bat
+St Lucia Kings,SR Patel,18fac429,5,14,14,0,1,100.0,"[3, 12, 16]",3.0,18,6,0,43,2,5,0,0,0,0,0,14.33,0,0,0,0,0,20,0,0,20,40,True,False,True,Slow left-arm orthodox,Right-hand bat
+St Lucia Kings,TH David,f1f99156,6,8,11,1,0,72.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,29,True,False,False,Right-arm offbreak,Right-hand bat
+St Lucia Kings,D Wiese,aa8d28ae,7,15,14,2,0,107.14,"[7, 13]",2.0,12,1,0,16,1,0,0,0,0,0,0,8.0,0,0,0,0,0,23,1,0,24,39,True,False,True,Right-arm medium-fast,Right-hand bat
+St Lucia Kings,K Alleyne,6b07035d,8,0,1,0,0,0.0,"[6, 8, 18, 20]",4.0,24,9,0,53,3,5,3,0,0,0,4,13.25,0,0,0,1,0,0,82,6,88,24,True,False,True,Right-arm medium,Right-hand bat
+St Lucia Kings,AS Joseph,b0946605,9,5,5,1,0,100.0,"[2, 5, 11, 17]",4.0,24,14,0,32,3,2,1,0,0,0,1,8.0,3,0,0,0,0,9,39,28,76,28,True,False,False,Right-arm fast,Right-hand bat
+St Lucia Kings,J Royal,44a18ad8,10,6,5,1,0,120.0,"[1, 9, 15, 19]",4.0,24,9,0,37,2,2,3,0,0,1,2,9.25,2,0,0,0,0,10,88,16,114,26,True,False,False,Slow left-arm orthodox,Right-hand bat
+St Lucia Kings,KOK Williams,78cb83f3,11,2,8,0,0,25.0,"[10, 14]",2.0,12,3,0,16,1,1,1,0,0,0,0,8.0,0,0,0,0,0,2,28,0,30,35,True,False,False,Right-arm fast-medium,Right-hand bat

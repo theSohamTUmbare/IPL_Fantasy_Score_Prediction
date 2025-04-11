@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Mumbai Indians,AC Blizzard,1efb8a28,1,10,11,2,0,90.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,40,True,False,False,Left-arm medium,Left-hand bat
+Mumbai Indians,SR Tendulkar,d2c2b2d5,2,40,24,7,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,76,0,0,76,51,True,False,False,Legbreak googly,Right-hand bat
+Mumbai Indians,Harbhajan Singh,8b5b6769,3,13,7,1,1,185.71,"[2, 4, 12, 14]",4.0,24,9,0,40,3,3,0,0,0,0,1,10.0,0,0,0,0,0,23,7,0,30,44,True,False,False,Right-arm offbreak,Right-hand bat
+Mumbai Indians,RG Sharma,740742ef,4,13,15,1,0,86.67,[8],1.0,6,1,0,14,1,1,0,0,0,0,0,14.0,1,0,0,0,0,17,1,8,26,37,True,False,False,Right-arm offbreak,Right-hand bat
+Mumbai Indians,JEC Franklin,cf73ad76,5,16,17,0,1,94.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,22,0,8,30,44,True,False,True,Left-arm medium,Left-hand bat
+Mumbai Indians,AT Rayudu,70d205c9,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,39,True,False,False,Right-arm offbreak,Right-hand bat
+Mumbai Indians,KA Pollard,a757b0d8,7,3,6,0,0,50.0,"[9, 11, 13]",3.0,18,5,0,24,1,1,1,0,0,0,2,8.0,0,0,0,0,0,3,30,0,33,37,True,False,True,Right-arm medium,Right-hand bat
+Mumbai Indians,R Sathish,626c5379,8,18,21,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,44,True,False,True,Right-arm medium,Right-hand bat
+Mumbai Indians,SL Malinga,a12e1d51,9,7,5,0,1,140.0,"[3, 6, 18, 20]",4.0,24,9,0,24,2,0,0,0,0,0,0,6.0,1,0,0,0,0,13,11,8,32,41,True,False,False,Right-arm fast,Right-hand bat
+Mumbai Indians,MM Patel,f0f628c7,10,0,0,0,0,0.0,"[5, 7, 15, 17]",4.0,24,7,0,27,3,0,2,0,0,0,0,6.75,0,0,0,0,0,0,59,0,59,41,True,False,False,Right-arm medium-fast,Right-hand bat
+Mumbai Indians,AN Ahmed,2af1b6d2,10,18,13,1,1,138.46,"[1, 10, 16, 19]",4.0,24,5,0,56,3,3,1,0,1,1,10,14.0,0,0,0,0,2,30,32,0,62,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Royal Challengers Bangalore,MA Agarwal,00ea847a,1,41,31,4,2,132.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,75,0,8,83,34,True,False,False,Right-arm offbreak,Right-hand bat
+Royal Challengers Bangalore,CH Gayle,db584dad,2,89,47,9,5,189.36,"[3, 10, 14]",3.0,18,10,0,11,1,0,0,0,0,0,0,3.67,0,0,0,0,6,173,16,0,189,45,True,False,True,Right-arm offbreak,Left-hand bat
+Royal Challengers Bangalore,V Kohli,ba607b88,3,8,12,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,6,0,0,6,36,True,False,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,AB de Villiers,c4487b84,4,21,14,0,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,27,0,12,39,41,True,True,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,LA Pomersbach,b63ab531,5,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,4,0,28,32,40,True,False,False,Right-arm offbreak,Left-hand bat
+Royal Challengers Bangalore,SS Tiwary,709b0bac,6,8,12,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,6,0,0,6,35,True,False,False,,Left-hand bat
+Royal Challengers Bangalore,DL Vettori,d7c6af50,10,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,9,0,19,1,0,3,1,0,0,0,4.75,0,0,0,0,0,0,102,0,102,46,True,False,True,Slow left-arm orthodox,Left-hand bat
+Royal Challengers Bangalore,S Aravind,957532de,11,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,8,0,27,5,0,2,0,0,0,1,9.0,0,0,0,0,0,0,58,0,58,40,True,False,False,Left-arm medium-fast,Left-hand bat
+Royal Challengers Bangalore,A Mithun,66cf56a5,12,0,0,0,0,0.0,"[5, 20]",2.0,12,3,0,26,2,2,0,0,0,0,0,13.0,1,0,0,0,0,0,-3,8,5,35,True,False,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,Z Khan,91a4a398,13,0,0,0,0,0.0,"[1, 15, 17, 19]",4.0,24,8,0,32,3,1,1,0,1,0,1,8.0,0,0,0,0,0,0,41,0,41,46,True,False,False,Left-arm fast-medium,Right-hand bat
+Royal Challengers Bangalore,J Syed Mohammad,c64c2443,14,0,0,0,0,0.0,"[8, 12, 16, 18]",4.0,24,9,0,25,1,1,2,0,0,0,0,6.25,0,0,0,0,0,0,61,0,61,41,True,False,False,Slow left-arm orthodox,Left-hand bat

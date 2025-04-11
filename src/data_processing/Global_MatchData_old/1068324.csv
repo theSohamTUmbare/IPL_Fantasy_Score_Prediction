@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Derbyshire,MJJ Critchley,c5cc48bc,1,40,24,2,2,166.67,[12],1.0,6,1,0,13,0,0,0,0,0,0,5,13.0,1,0,0,0,4,68,1,8,77,28,True,False,True,Legbreak,Right-hand bat
+Derbyshire,BA Godleman,b26b1e3d,2,2,7,0,0,28.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,36,True,False,False,Legbreak,Left-hand bat
+Derbyshire,LM Reece,9789e56e,3,37,38,0,1,97.37,"[6, 13]",2.0,12,4,0,11,0,0,1,0,0,0,0,5.5,0,0,0,0,0,47,33,0,80,34,True,False,True,Left-arm medium,Left-hand bat
+Derbyshire,WL Madsen,86e0f3f0,4,52,33,6,1,157.58,"[2, 15]",2.0,12,4,0,12,1,0,0,0,0,0,1,6.0,3,0,0,0,4,94,6,28,128,41,True,False,False,Right-arm offbreak,Right-hand bat
+Derbyshire,MJ Henry,e84ac20c,5,7,8,0,0,87.5,"[4, 18]",2.0,12,1,0,29,2,1,0,0,0,0,2,14.5,0,0,0,0,0,7,-5,0,2,33,True,False,False,Right-arm fast-medium,Right-hand bat
+Derbyshire,GC Wilson,05de1a5a,6,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,39,True,False,False,,Right-hand bat
+Derbyshire,Hamidullah Qadri,eec81780,7,0,0,0,0,0.0,[8],1.0,6,1,0,12,1,0,0,0,0,0,1,12.0,0,0,0,0,0,0,1,0,1,24,True,False,False,Right-arm offbreak,Right-hand bat
+Derbyshire,AL Hughes,1066a976,7,0,1,0,0,0.0,"[1, 3, 7]",3.0,18,4,0,19,1,0,1,0,0,0,0,6.33,0,0,0,0,0,-2,31,0,29,33,True,False,True,Right-arm medium,Right-hand bat
+Derbyshire,D Smit,4bb02ef1,8,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,41,True,True,False,Legbreak,Right-hand bat
+Derbyshire,GC Viljoen,a316d663,9,0,1,0,0,0.0,"[10, 14, 16, 19]",3.5,21,7,0,26,3,0,1,0,0,2,0,7.43,0,0,0,0,0,-2,32,0,30,36,True,False,False,Right-arm fast,Right-hand bat
+Derbyshire,Imran Tahir,acee4cc4,10,0,0,0,0,0.0,"[5, 9, 11, 17]",4.0,24,6,0,32,3,1,2,1,0,0,0,8.0,0,0,0,0,0,0,64,0,64,46,True,False,False,Legbreak googly,Right-hand bat
+Lancashire,KR Brown,818c9e0d,1,30,20,3,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,46,0,0,46,36,True,False,False,Right-arm medium,Right-hand bat
+Lancashire,LS Livingstone,50c6bc2b,2,23,14,1,2,164.29,"[2, 4]",2.0,12,2,0,17,1,0,1,0,0,0,0,8.5,1,0,0,0,4,43,27,8,78,31,True,False,True,Legbreak,Right-hand bat
+Lancashire,AM Lilley,88a004e9,3,0,1,0,0,0.0,[8],1.0,6,0,0,11,0,1,0,0,0,0,0,11.0,0,0,0,0,0,-2,0,0,-2,33,True,False,True,Right-arm offbreak,Right-hand bat
+Lancashire,SJ Croft,ab474682,4,4,7,0,0,57.14,"[1, 3, 5]",3.0,18,7,0,17,0,1,0,0,0,0,0,5.67,1,0,0,0,0,4,11,8,23,40,True,False,True,Right-arm offbreak,Right-hand bat
+Lancashire,JC Buttler,99b75528,5,42,36,3,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,58,0,20,78,34,True,False,False,,Right-hand bat
+Lancashire,DJ Vilas,087210b1,6,20,17,1,0,117.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24,39,True,False,False,,Right-hand bat
+Lancashire,J Clark,c672e80e,7,0,0,0,0,0.0,[14],1.0,6,2,0,12,1,1,0,0,0,0,0,12.0,0,0,0,0,0,0,2,0,2,34,True,False,True,Right-arm medium-fast,Right-hand bat
+Lancashire,R McLaren,c654af19,7,24,16,3,0,150.0,"[6, 12, 19]",3.0,18,5,0,29,3,1,0,0,0,2,0,9.67,0,0,0,0,0,36,5,0,41,42,True,False,True,Right-arm medium-fast,Left-hand bat
+Lancashire,SD Parry,fdb8ed0d,8,0,0,0,0,0.0,"[7, 13]",2.0,12,0,0,16,1,0,0,0,0,0,1,8.0,0,0,0,0,0,0,0,0,0,39,True,False,False,Slow left-arm orthodox,Right-hand bat
+Lancashire,MW Parkinson,19708692,9,0,0,0,0,0.0,"[9, 11, 15, 17]",4.0,24,9,0,17,0,0,3,0,1,0,0,4.25,1,0,0,0,0,0,102,8,110,28,True,False,False,Legbreak,Right-hand bat
+Lancashire,Junaid Khan,086f5984,10,0,0,0,0,0.0,"[10, 16, 18, 20]",4.0,24,6,0,28,2,0,3,0,1,2,0,7.0,0,0,0,0,0,0,95,0,95,35,True,False,False,Left-arm fast,Right-hand bat

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Kolkata Knight Riders,CA Lynn,45eda7c8,1,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,34,True,False,False,Slow left-arm orthodox,Right-hand bat
+Kolkata Knight Riders,SP Narine,9d430b40,2,18,16,4,0,112.5,"[2, 4, 13, 18]",4.0,24,6,0,32,2,1,1,0,0,0,1,8.0,0,0,0,0,0,34,31,0,65,36,True,False,True,Right-arm offbreak,Left-hand bat
+Kolkata Knight Riders,Shubman Gill,b4b99816,3,9,11,1,0,81.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21,25,True,False,False,Right-arm offbreak,Right-hand bat
+Kolkata Knight Riders,RV Uthappa,1c17e270,4,9,20,1,0,45.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,7,0,8,15,39,True,False,False,Right-arm medium,Right-hand bat
+Kolkata Knight Riders,N Rana,fb2d1dda,5,85,46,9,5,184.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,169,0,8,177,31,True,False,False,Legbreak,Left-hand bat
+Kolkata Knight Riders,AD Russell,bbd41817,6,65,25,2,9,260.0,"[7, 9, 11]",3.0,18,8,0,17,0,1,1,0,0,0,0,5.67,0,0,0,0,6,141,37,0,178,36,True,False,True,Right-arm fast,Right-hand bat
+Kolkata Knight Riders,PP Chawla,98ae73b1,7,0,0,0,0,0.0,[12],1.0,6,1,0,10,0,1,0,0,0,0,0,10.0,0,0,0,0,0,0,1,0,1,36,True,False,True,Legbreak,Left-hand bat
+Kolkata Knight Riders,KD Karthik,c03f1114,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,39,True,True,False,Right-arm offbreak,Right-hand bat
+Kolkata Knight Riders,Kuldeep Yadav,8d2c70ad,8,0,0,0,0,0.0,"[8, 10, 14, 16]",4.0,24,6,0,59,5,5,1,0,0,0,1,14.75,0,0,0,0,0,0,25,0,25,30,True,False,False,Left-arm wrist-spin,Left-hand bat
+Kolkata Knight Riders,HF Gurney,e412cb64,9,0,0,0,0,0.0,"[1, 5, 17, 20]",4.0,24,8,0,42,4,2,1,0,0,0,3,10.5,0,0,0,0,0,0,31,0,31,38,True,False,False,Left-arm fast-medium,Right-hand bat
+Kolkata Knight Riders,M Prasidh Krishna,85e0cf10,10,0,0,0,0,0.0,"[3, 6, 15, 19]",4.0,24,4,0,52,7,2,0,0,0,0,0,13.0,1,0,0,0,0,0,-2,8,6,29,True,False,False,Right-arm fast-medium,Right-hand bat
+Royal Challengers Bangalore,PA Patel,b5da6c24,1,11,11,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,19,0,8,27,40,True,True,False,Right-arm offbreak,Left-hand bat
+Royal Challengers Bangalore,V Kohli,ba607b88,2,100,58,9,4,172.41,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,182,0,16,198,36,True,False,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,AD Nath,f10e94c4,3,13,15,0,1,86.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,31,True,False,False,Right-arm medium-fast,Right-hand bat
+Royal Challengers Bangalore,MM Ali,bb351c23,4,66,28,5,6,235.71,[20],1.0,6,3,0,13,0,2,0,0,0,0,0,13.0,0,0,0,0,6,136,3,0,139,37,True,False,True,Right-arm offbreak,Left-hand bat
+Royal Challengers Bangalore,MP Stoinis,d9273ee7,5,17,8,2,1,212.5,"[7, 9, 12, 19]",4.0,24,13,0,32,1,3,1,0,0,0,1,8.0,0,0,0,0,0,31,38,0,69,35,True,False,True,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,H Klaasen,235c2bb6,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,33,True,True,False,Right-arm offbreak,Right-hand bat
+Royal Challengers Bangalore,P Negi,f62772e5,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,32,True,False,False,Slow left-arm orthodox,Left-hand bat
+Royal Challengers Bangalore,DW Steyn,8fd1a8f5,9,0,0,0,0,0.0,"[1, 3, 5, 18]",4.0,24,11,0,40,5,2,2,0,0,0,0,10.0,0,0,0,0,0,0,59,0,59,41,True,False,False,Right-arm fast,Right-hand bat
+Royal Challengers Bangalore,Mohammed Siraj,2f49c897,10,0,0,0,0,0.0,"[6, 8, 10, 17]",4.0,24,13,0,38,5,1,0,0,0,0,7,9.5,0,0,0,0,0,0,13,0,13,31,True,False,False,Right-arm fast,Right-hand bat
+Royal Challengers Bangalore,YS Chahal,57ee1fde,11,0,0,0,0,0.0,"[11, 13, 15]",3.0,18,6,0,45,3,4,0,0,0,0,4,15.0,0,0,0,0,0,0,0,0,0,34,True,False,False,Legbreak googly,Right-hand bat
+Royal Challengers Bangalore,Navdeep Saini,21d4e29b,12,0,0,0,0,0.0,"[2, 4, 14, 16]",4.0,24,12,0,31,3,2,1,0,0,0,0,7.75,0,0,0,0,0,0,37,0,37,32,True,False,False,Right-arm fast,Right-hand bat

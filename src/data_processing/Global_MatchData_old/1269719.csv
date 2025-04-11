@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Barbados Royals,KR Mayers,73c18486,1,36,20,4,2,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,74,0,8,82,32,True,False,True,Right-arm medium,Left-hand bat
+Barbados Royals,J Charles,09a9d073,2,40,21,6,2,190.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,86,0,0,86,36,True,False,False,,Right-hand bat
+Barbados Royals,Azam Khan,ee8f1a6d,3,4,8,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,26,True,False,False,,Right-hand bat
+Barbados Royals,SK Patel,f93b43dd,4,16,21,1,0,76.19,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,20,0,20,40,31,True,False,False,,Right-hand bat
+Barbados Royals,GD Phillips,9a46c4e5,5,44,31,2,4,141.94,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,82,0,8,90,28,True,False,True,Right-arm offbreak,Right-hand bat
+Barbados Royals,JO Holder,0f721006,6,22,7,2,2,314.29,"[2, 4, 6, 14]",4.0,24,13,0,28,1,2,1,0,0,0,3,7.0,3,0,0,0,0,42,40,28,110,33,True,False,True,Right-arm medium-fast,Right-hand bat
+Barbados Royals,RA Reifer,d7725664,7,10,7,0,1,142.86,"[5, 7, 17]",3.0,18,10,0,25,3,1,2,0,1,0,1,8.33,0,0,0,0,0,16,68,0,84,33,True,False,True,Left-arm medium-fast,Left-hand bat
+Barbados Royals,AR Nurse,4a745f65,8,1,4,0,0,25.0,"[8, 10]",2.0,12,1,0,23,1,1,1,0,0,0,4,11.5,1,0,0,0,0,1,22,8,31,36,True,False,False,Right-arm offbreak,Right-hand bat
+Barbados Royals,NRJ Young,9cab5daf,9,1,1,0,0,100.0,"[11, 13, 16, 18]",3.333,20,8,0,24,2,1,3,0,0,0,1,7.2,0,0,0,0,0,1,87,0,88,24,True,False,False,Right-arm medium,Right-hand bat
+Barbados Royals,Mohammad Amir,e174dadd,11,0,0,0,0,0.0,"[1, 3, 15]",3.0,18,6,0,20,2,0,1,0,0,0,2,6.67,0,0,0,0,0,0,33,0,33,32,True,False,False,Left-arm fast-medium,Left-hand bat
+Barbados Royals,JB Lintott,e5218454,12,0,0,0,0,0.0,"[9, 12]",2.0,12,4,0,16,1,1,2,0,0,0,0,8.0,0,0,0,0,0,0,54,0,54,31,True,False,False,Left-arm wrist-spin,Right-hand bat
+Guyana Amazon Warriors,BA King,7fca84b7,1,5,3,1,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,30,True,False,False,,Right-hand bat
+Guyana Amazon Warriors,C Hemraj,9d450c28,2,12,10,0,1,120.0,"[1, 3]",2.0,12,6,0,15,3,0,0,0,0,0,0,7.5,0,0,0,0,0,18,6,0,24,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+Guyana Amazon Warriors,Mohammad Hafeez,9ab63e7b,3,30,25,5,0,120.0,"[8, 10, 12, 14]",4.0,24,11,0,20,2,0,1,0,0,0,0,5.0,0,0,0,0,0,54,40,0,94,44,True,False,True,Right-arm offbreak,Right-hand bat
+Guyana Amazon Warriors,SO Hetmyer,48a1d7b7,4,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11,28,True,False,False,,Left-hand bat
+Guyana Amazon Warriors,N Pooran,3241e3fd,5,14,10,1,1,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,26,0,8,34,29,True,True,False,Right-arm offbreak,Left-hand bat
+Guyana Amazon Warriors,Shoaib Malik,64c34cd0,6,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,4,0,16,20,43,True,False,True,Right-arm offbreak,Right-hand bat
+Guyana Amazon Warriors,OF Smith,23cca426,7,43,29,2,4,148.28,"[5, 18]",2.0,12,2,0,38,4,3,1,0,1,0,2,19.0,1,0,0,0,2,81,29,8,118,28,True,False,True,Right-arm fast-medium,Right-hand bat
+Guyana Amazon Warriors,R Shepherd,c5aef772,8,1,2,0,0,50.0,"[4, 15, 17, 20]",4.0,24,11,0,31,1,2,3,0,0,0,0,7.75,0,0,0,0,0,1,90,0,91,30,True,False,True,Right-arm fast-medium,Right-hand bat
+Guyana Amazon Warriors,K Sinclair,314642ed,9,3,2,0,0,150.0,[2],1.0,6,3,0,11,2,0,0,0,0,0,1,11.0,0,0,0,0,0,3,3,0,6,25,True,False,False,Right-arm offbreak,Right-hand bat
+Guyana Amazon Warriors,G Motie,97bdec3d,10,10,11,1,0,90.91,"[7, 16, 19]",3.0,18,5,0,33,2,3,2,0,0,0,0,11.0,0,0,0,0,0,14,53,0,67,30,True,False,False,Slow left-arm orthodox,Left-hand bat
+Guyana Amazon Warriors,Imran Tahir,acee4cc4,11,0,0,0,0,0.0,"[6, 9, 11, 13]",4.0,24,13,0,29,1,3,1,1,0,0,0,7.25,1,0,0,0,0,0,46,8,54,46,True,False,False,Legbreak googly,Right-hand bat

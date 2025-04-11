@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Cyprus,Muhammad Shoaib Ahmed,2a13e6b1,1,8,11,0,0,72.73,"[1, 3, 13, 16]",4.0,24,8,0,33,3,0,0,0,0,0,2,8.25,1,0,0,0,0,8,8,8,24,44,True,False,True,Right-arm medium,Right-hand bat
+Cyprus,AUKDS Kalugala,e2d1822f,2,13,10,2,0,130.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,23,0,8,31,30,True,True,False,Right-arm offbreak,Left-hand bat
+Cyprus,CPPM Sadun,2cf2fc9e,3,52,50,5,0,104.0,"[9, 11, 15]",3.0,18,7,0,22,1,1,1,0,0,0,1,7.33,2,0,0,0,0,80,32,16,128,34,True,True,False,Right-arm medium-fast,Left-hand bat
+Cyprus,S Austin,40ee633c,4,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,-2,0,28,26,27,True,True,False,Right-arm medium-fast,Right-hand bat
+Cyprus,Gurpratap Singh,49235be5,5,27,15,5,0,180.0,"[2, 4, 14, 18]",4.0,24,14,0,35,2,2,4,0,0,1,4,8.75,0,0,0,0,6,57,122,0,179,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Cyprus,R Mazumder,b23d3ec5,6,7,13,0,0,53.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,3,0,0,3,31,True,True,False,Right-arm offbreak,Right-hand bat
+Cyprus,Tejwinder Singh,ad37baac,7,14,8,1,1,175.0,"[5, 7, 17, 19]",4.0,24,9,0,42,1,4,1,0,1,0,4,10.5,1,0,0,1,0,24,40,14,78,33,True,False,True,Right-arm medium-fast,Right-hand bat
+Cyprus,Iftekar Jaman,0a5718ef,8,20,10,2,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,40,0,0,40,33,True,True,False,Right-arm medium-fast,Right-hand bat
+Cyprus,SRMJJ Arachchilage,c9473a95,9,0,0,0,0,0.0,[12],1.0,6,2,0,9,0,1,0,0,0,0,0,9.0,0,0,0,0,0,0,2,0,2,44,True,False,False,Right-arm offbreak,Right-hand bat
+Cyprus,NK Tiwari,97f44626,9,0,0,0,0,0.0,"[6, 8, 10, 20]",3.5,21,11,0,14,1,0,3,0,0,0,1,4.0,0,0,0,0,0,0,96,0,96,31,True,True,False,Right-arm offbreak,Right-hand bat
+Cyprus,SN Pathirana,f4000a7d,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,0,0,6,6,41,True,True,False,Right-arm medium,Right-hand bat
+Finland,NG Collins,be3bdc15,1,15,24,2,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,21,0,0,21,30,True,True,False,Right-arm offbreak,Right-hand bat
+Finland,Ziaur Rehman,085c1a4c,2,6,7,0,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6,32,True,False,False,,
+Finland,AK Mohan,d55474ac,3,8,18,0,0,44.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,2,0,0,2,38,True,True,False,Right-arm offbreak,Right-hand bat
+Finland,M Jenkinson,68f7caf9,4,34,20,2,3,170.0,"[6, 12, 15, 17]",4.0,24,6,0,40,4,1,0,0,0,0,1,10.0,0,0,0,0,4,68,4,0,72,51,True,True,False,Right-arm medium-fast,Right-hand bat
+Finland,Atif Rasheed,c7726eec,5,43,26,1,3,165.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,73,0,0,73,35,True,True,False,Right-arm medium,Right-hand bat
+Finland,Amjad Sher,3b4a8cfb,6,2,2,0,0,100.0,"[2, 4, 11, 18]",4.0,24,10,0,33,5,0,1,0,0,0,0,8.25,2,0,0,0,0,2,35,16,53,38,True,True,False,Right-arm medium,Right-hand bat
+Finland,VS Padhaal,c4fb0b39,7,20,10,2,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,40,0,8,48,46,True,True,False,Right-arm offbreak,Right-hand bat
+Finland,PF Gallagher,8e9d3dc4,8,0,1,0,0,0.0,"[8, 10, 14, 16]",4.0,24,6,0,31,3,0,1,0,1,0,2,7.75,0,0,0,1,0,-2,39,6,43,40,True,True,False,Right-arm offbreak,Right-hand bat
+Finland,JOP Scamans,4e56e796,9,7,4,1,0,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19,35,True,False,False,,Right-hand bat
+Finland,MB Tambe,1c1bb0d5,10,7,5,0,1,140.0,"[5, 7, 13, 20]",4.0,24,14,0,21,2,1,3,0,0,0,0,5.25,0,0,0,1,0,13,97,6,116,39,True,True,False,Right-arm medium,Right-hand bat
+Finland,Raaz Mohammad,f83b77f9,11,0,0,0,0,0.0,"[1, 3, 9, 19]",4.0,24,8,0,19,1,0,1,0,1,0,0,4.75,0,0,0,0,0,0,47,0,47,33,True,True,False,Right-arm medium,Right-hand bat

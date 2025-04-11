@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Dhaka Capital,Tanzid Hasan,80fe764d,1,62,44,2,4,140.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,104,0,8,112,24,True,False,False,,Left-hand bat
+Dhaka Capital,Liton Das,0404d43c,2,13,17,2,0,76.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21,30,True,True,False,Right-arm offbreak,Right-hand bat
+Dhaka Capital,Munim Shahriar,dd98b22f,3,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,26,True,False,False,Right-arm medium-fast,Right-hand bat
+Dhaka Capital,JP Kotze,9f308dfc,4,8,9,1,0,88.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,30,True,False,False,,Left-hand bat
+Dhaka Capital,Sabbir Rahman,7147f314,5,10,10,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,33,True,False,True,Legbreak,Right-hand bat
+Dhaka Capital,NLTC Perera,0f12f9df,6,0,2,0,0,0.0,"[11, 13, 15]",3.0,18,3,0,25,1,1,1,0,1,0,1,8.33,0,0,0,0,0,-2,36,0,34,35,True,False,True,Right-arm medium-fast,Left-hand bat
+Dhaka Capital,Mosaddek Hossain,8919756f,7,11,11,0,1,100.0,"[10, 12, 14, 16]",4.0,24,2,0,43,1,2,0,0,0,0,6,10.75,0,0,0,0,0,17,0,0,17,29,True,False,True,Right-arm offbreak,Right-hand bat
+Dhaka Capital,Farmanullah,3f607519,8,22,16,1,2,137.5,"[5, 8]",2.0,12,4,0,17,0,1,0,0,0,0,4,8.5,0,0,0,0,2,40,4,0,44,24,True,False,True,Right-arm medium-fast,Left-hand bat
+Dhaka Capital,PC de Silva,b40ee8a8,9,1,1,0,0,100.0,"[6, 9]",2.0,12,5,0,18,2,0,0,0,0,0,4,9.0,0,0,0,0,0,1,5,0,6,35,True,False,True,Slow left-arm orthodox,Left-hand bat
+Dhaka Capital,Abu Jayed,1bb0993e,10,1,1,0,0,100.0,"[2, 4, 7]",3.0,18,5,0,28,3,0,1,0,0,0,5,9.33,0,0,0,0,0,1,30,0,31,31,True,False,False,Right-arm fast-medium,Right-hand bat
+Dhaka Capital,Mustafizur Rahman,0a8fce53,11,1,2,0,0,50.0,"[1, 3]",2.0,12,5,0,14,2,0,0,0,0,0,0,7.0,0,0,0,0,0,1,7,0,8,29,True,False,False,Left-arm fast-medium,Left-hand bat
+Fortune Barishal,Tamim Iqbal,3b041a12,1,61,48,6,1,127.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,99,0,0,99,36,True,False,False,,Left-hand bat
+Fortune Barishal,Nazmul Hossain Shanto,1274d7ab,2,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,26,True,False,False,Right-arm offbreak,Left-hand bat
+Fortune Barishal,DJ Malan,ad9c32a2,3,49,41,3,1,119.51,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,71,0,16,87,37,True,False,False,Legbreak,Left-hand bat
+Fortune Barishal,Jahandad Khan,22d73540,4,13,4,0,2,325.0,"[1, 11, 15, 20]",3.5,21,12,0,15,0,0,1,0,0,0,6,4.29,0,0,0,0,0,25,43,0,68,21,True,False,True,Left-arm medium-fast,Left-hand bat
+Fortune Barishal,Towhid Hridoy,9e52a414,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,24,True,False,False,Right-arm offbreak,Right-hand bat
+Fortune Barishal,Mushfiqur Rahim,a94e08ea,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,2,0,0,0,28,28,37,True,False,False,,Right-hand bat
+Fortune Barishal,Mahmudullah,bf1d7d3e,6,0,0,0,0,0.0,[8],1.0,6,3,0,6,1,0,1,0,0,0,0,6.0,2,0,0,1,0,0,28,22,50,39,True,False,True,Right-arm offbreak,Right-hand bat
+Fortune Barishal,R Mondol,492ff0c2,7,0,0,0,0,0.0,"[2, 5, 14, 18]",4.0,24,11,0,27,2,1,1,0,0,0,1,6.75,0,0,0,1,0,0,38,6,44,22,True,False,False,Right-arm medium,Right-hand bat
+Fortune Barishal,Faheem Ashraf,bd4ea627,8,0,0,0,0,0.0,"[4, 6, 17, 19]",4.0,24,11,0,23,1,1,2,0,0,0,2,5.75,1,0,0,0,0,0,65,8,73,31,True,False,True,Right-arm medium,Left-hand bat
+Fortune Barishal,Mohammad Nabi,62af8546,9,0,0,0,0,0.0,"[3, 7, 9, 13]",4.0,24,8,0,29,2,1,0,0,0,0,0,7.25,0,0,0,0,0,0,8,0,8,40,True,False,True,Right-arm offbreak,Right-hand bat
+Fortune Barishal,Tanvir Islam,aa467af0,10,0,0,0,0,0.0,"[10, 12, 16]",3.0,18,6,0,39,0,5,3,0,0,0,1,13.0,0,0,0,0,0,0,79,0,79,28,True,False,False,Slow left-arm orthodox,Left-hand bat

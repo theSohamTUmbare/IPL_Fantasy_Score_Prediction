@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Delhi Capitals,PP Shaw,8b3e9c7c,1,39,22,3,3,177.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,79,0,0,79,25,True,False,False,Right-arm offbreak,Right-hand bat
+Delhi Capitals,S Dhawan,0a476045,2,69,47,6,2,146.81,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,115,0,0,115,39,True,False,False,Right-arm offbreak,Left-hand bat
+Delhi Capitals,SPD Smith,30a45b23,3,24,22,1,0,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,28,0,8,36,35,True,False,False,Legbreak googly,Right-hand bat
+Delhi Capitals,RR Pant,919a3be2,4,14,11,1,1,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24,27,True,False,False,,Left-hand bat
+Delhi Capitals,SO Hetmyer,48a1d7b7,5,16,4,1,2,400.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,32,0,8,40,28,True,False,False,,Left-hand bat
+Delhi Capitals,MP Stoinis,d9273ee7,5,0,0,0,0,0.0,[2],1.0,6,0,0,6,0,0,0,0,0,0,0,6.0,0,0,0,0,0,0,0,0,0,35,True,False,True,Right-arm medium,Right-hand bat
+Delhi Capitals,AR Patel,2e171977,6,0,0,0,0,0.0,"[8, 10, 14, 17]",4.0,24,10,0,21,2,0,1,0,1,0,0,5.25,0,0,0,0,0,0,47,0,47,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Delhi Capitals,Lalit Yadav,ad427b5c,7,0,0,0,0,0.0,"[7, 9, 13]",3.0,18,2,0,25,2,0,0,0,0,0,0,8.33,1,0,0,0,0,0,2,8,10,28,True,False,True,Right-arm offbreak,Right-hand bat
+Delhi Capitals,K Rabada,e62dd25d,8,0,0,0,0,0.0,"[4, 6, 15, 19]",4.0,24,6,0,36,0,3,3,0,1,0,0,9.0,0,0,0,0,0,0,93,0,93,29,True,False,False,Right-arm fast,Left-hand bat
+Delhi Capitals,I Sharma,5bb1a1c4,9,0,0,0,0,0.0,"[1, 3, 12, 16]",4.0,24,9,1,37,2,3,0,0,0,0,0,9.25,0,0,0,0,0,0,21,0,21,36,True,False,False,Right-arm fast-medium,Right-hand bat
+Delhi Capitals,Avesh Khan,eef2536f,10,0,0,0,0,0.0,"[5, 11, 18, 20]",4.0,24,7,0,39,5,1,1,0,0,0,3,9.75,0,0,0,0,0,0,32,0,32,28,True,False,False,Right-arm fast-medium,Right-hand bat
+Punjab Kings,P Simran Singh,9418198b,1,12,16,0,1,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,24,True,False,False,,Right-hand bat
+Punjab Kings,MA Agarwal,00ea847a,2,99,58,8,4,170.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,173,0,8,181,34,True,False,False,Right-arm offbreak,Right-hand bat
+Punjab Kings,CH Gayle,db584dad,3,13,9,1,1,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23,45,True,False,True,Right-arm offbreak,Left-hand bat
+Punjab Kings,DJ Malan,ad9c32a2,4,26,26,1,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,40,0,8,48,37,True,False,False,Legbreak,Left-hand bat
+Punjab Kings,DJ Hooda,73ad96ed,5,1,1,0,0,100.0,"[10, 16]",2.0,12,3,0,11,0,0,0,0,0,0,0,5.5,0,0,0,0,0,1,7,0,8,29,True,False,True,Right-arm offbreak,Right-hand bat
+Punjab Kings,RP Meredith,64775749,5,0,0,0,0,0.0,"[1, 3, 13, 18]",3.667,22,6,0,35,2,2,1,0,0,0,3,9.54,0,0,0,0,0,0,31,0,31,28,True,False,False,Right-arm fast,Right-hand bat
+Punjab Kings,Ravi Bishnoi,df064e1a,6,0,0,0,0,0.0,"[5, 8, 12, 14]",4.0,24,7,0,42,3,3,0,0,0,0,0,10.5,0,0,0,0,0,0,5,0,5,24,True,False,False,Legbreak googly,Right-hand bat
+Punjab Kings,M Shahrukh Khan,7dcb9bc9,6,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,29,True,False,False,Right-arm offbreak,Right-hand bat
+Punjab Kings,Mohammed Shami,8cf9814c,7,0,0,0,0,0.0,"[2, 4, 15]",3.0,18,5,0,37,5,2,0,0,0,0,0,12.33,0,0,0,0,0,0,-1,0,-1,34,True,False,False,Right-arm fast,Right-hand bat
+Punjab Kings,CJ Jordan,ffe699c0,7,2,3,0,0,66.67,"[6, 17]",2.0,12,4,0,21,2,1,1,0,0,0,0,10.5,0,0,0,0,0,2,27,0,29,36,True,False,False,Right-arm fast-medium,Right-hand bat
+Punjab Kings,Harpreet Brar,c05edf8e,8,4,2,1,0,200.0,"[7, 9, 11]",3.0,18,4,0,19,0,0,1,0,1,0,0,6.33,0,0,0,0,0,8,39,0,47,29,True,False,False,Slow left-arm orthodox,Left-hand bat

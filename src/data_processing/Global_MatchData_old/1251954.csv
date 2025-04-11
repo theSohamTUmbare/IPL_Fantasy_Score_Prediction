@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Ireland,PR Stirling,cf494ffe,1,19,23,1,1,82.61,"[1, 3, 11]",3.0,18,8,0,12,0,0,2,0,0,0,0,4.0,0,0,0,0,0,29,64,0,93,34,True,False,True,Right-arm offbreak,Right-hand bat
+Ireland,KJ O'Brien,243431b5,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,41,True,False,True,Right-arm medium-fast,Right-hand bat
+Ireland,A Balbirnie,6ef13460,3,6,7,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,10,0,16,26,34,True,False,False,Right-arm offbreak,Right-hand bat
+Ireland,GH Dockrell,99cddc5e,4,20,20,1,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30,32,True,False,True,Slow left-arm orthodox,Right-hand bat
+Ireland,HT Tector,59ea70a4,5,3,3,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,25,True,False,False,Right-arm offbreak,Right-hand bat
+Ireland,SC Getkate,c8065f31,6,24,18,1,2,133.33,[14],1.0,6,1,0,6,0,0,0,0,0,0,0,6.0,0,0,0,0,2,42,1,0,43,33,True,False,True,Right-arm medium-fast,Right-hand bat
+Ireland,L Tucker,3979b5e0,7,12,10,2,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,20,0,8,28,28,True,False,False,,Right-hand bat
+Ireland,Simi Singh,c9945bdf,8,1,3,0,0,33.33,"[7, 9, 13, 15]",4.0,24,7,0,26,1,1,1,1,0,0,0,6.5,0,0,0,0,0,1,42,0,43,38,True,False,True,Legbreak googly,Right-hand bat
+Ireland,MR Adair,fc55ec67,9,15,16,1,0,93.75,"[4, 6, 17, 19]",4.0,24,11,0,33,3,2,2,0,1,0,0,8.25,0,0,0,0,0,19,69,0,88,29,True,False,True,Right-arm fast-medium,Right-hand bat
+Ireland,CA Young,bd0a4a7d,10,0,4,0,0,0.0,"[2, 8, 16, 18]",4.0,24,4,0,39,6,0,1,0,0,0,1,9.75,0,0,0,0,0,-2,29,0,27,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Ireland,J Little,9061a703,11,9,11,1,0,81.82,"[5, 10, 12, 20]",4.0,24,12,0,42,3,4,1,0,0,0,0,10.5,2,0,0,0,0,13,35,16,64,25,True,False,False,Left-arm fast-medium,Right-hand bat
+South Africa,T Bavuma,9ffd1ac1,1,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,34,True,False,False,Right-arm medium,Right-hand bat
+South Africa,Q de Kock,372455c4,2,27,20,5,0,135.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,2,53,0,20,73,32,True,False,False,,Left-hand bat
+South Africa,JN Malan,f76d7466,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,28,True,False,False,Legbreak,Right-hand bat
+South Africa,AK Markram,6a26221c,4,8,6,1,0,133.33,"[9, 11]",2.0,12,4,0,17,1,1,1,0,0,0,0,8.5,1,0,0,0,0,12,29,8,49,30,True,False,True,Right-arm offbreak,Right-hand bat
+South Africa,HE van der Dussen,9948e262,5,6,15,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,0,0,0,0,36,True,False,False,Legbreak,Right-hand bat
+South Africa,DA Miller,d67d5f00,6,75,44,4,5,170.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,139,0,8,147,35,True,False,False,Right-arm offbreak,Left-hand bat
+South Africa,PWA Mulder,c96f6ac5,7,36,26,2,2,138.46,"[6, 12]",2.0,12,5,0,24,3,1,0,0,0,0,2,12.0,1,0,0,0,2,62,1,8,71,27,True,False,True,Right-arm medium,Right-hand bat
+South Africa,BC Fortuin,9a2fc964,8,5,4,1,0,125.0,"[1, 3, 13, 15]",4.0,24,17,0,16,0,2,3,0,1,0,0,4.0,2,0,0,0,0,9,110,16,135,30,True,False,False,Slow left-arm orthodox,Right-hand bat
+South Africa,BE Hendricks,b56dc5f7,9,0,1,0,0,0.0,"[5, 7, 17, 19]",4.0,24,7,0,28,3,0,2,0,0,0,0,7.0,0,0,0,0,0,0,59,0,59,34,True,False,False,Left-arm fast-medium,Left-hand bat
+South Africa,L Ngidi,f834dcfc,11,0,0,0,0,0.0,"[2, 4, 18, 20]",3.5,21,9,0,14,1,0,1,0,1,0,0,4.0,0,0,0,0,0,0,48,0,48,29,True,False,False,Right-arm fast-medium,Right-hand bat
+South Africa,T Shamsi,a03bba42,12,0,0,0,0,0.0,"[8, 10, 14, 16]",4.0,24,10,0,14,0,0,3,0,0,0,2,3.5,0,0,0,0,0,0,95,0,95,35,True,False,False,Left-arm wrist-spin,Right-hand bat

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+South Africa,Q de Kock,372455c4,1,12,7,3,0,171.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,24,0,12,36,32,True,False,False,,Left-hand bat
+South Africa,RR Hendricks,b8cc58c9,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,35,True,False,False,Right-arm offbreak,Right-hand bat
+South Africa,AK Markram,6a26221c,3,18,15,2,0,120.0,"[2, 4, 6, 8]",4.0,24,11,0,28,1,2,1,0,0,0,2,7.0,1,0,0,0,0,26,38,8,72,30,True,False,True,Right-arm offbreak,Right-hand bat
+South Africa,T Stubbs,85b3fab2,4,29,27,4,0,107.41,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,49,0,16,65,24,True,False,False,Right-arm offbreak,Right-hand bat
+South Africa,H Klaasen,235c2bb6,5,22,10,3,1,220.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,46,0,0,46,33,True,True,False,Right-arm offbreak,Right-hand bat
+South Africa,DA Miller,d67d5f00,6,4,14,0,0,28.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2,35,True,False,False,Right-arm offbreak,Left-hand bat
+South Africa,M Jansen,81c36ee9,7,21,14,1,1,150.0,"[1, 3]",2.0,12,6,0,17,2,0,1,0,0,0,4,8.5,1,0,0,0,0,31,31,8,70,24,True,False,True,Left-arm fast,Right-hand bat
+South Africa,KA Maharaj,0b60eb09,8,2,6,0,0,33.33,"[5, 7, 13, 15]",4.0,24,10,0,24,1,1,1,0,0,0,0,6.0,0,0,0,0,0,2,37,0,39,35,True,False,False,Slow left-arm orthodox,Right-hand bat
+South Africa,K Rabada,e62dd25d,9,5,3,1,0,166.67,"[18, 20]",2.0,12,6,0,11,0,1,1,0,0,0,0,5.5,2,0,0,0,0,9,35,16,60,29,True,False,False,Right-arm fast,Left-hand bat
+South Africa,A Nortje,acdc62f5,9,0,0,0,0,0.0,"[9, 11, 17, 19]",4.0,24,12,0,26,1,2,0,0,0,0,2,6.5,0,0,1,0,0,0,14,12,26,31,True,False,False,Right-arm fast,Right-hand bat
+South Africa,T Shamsi,a03bba42,10,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,11,0,27,3,1,3,0,0,0,0,6.75,0,0,0,0,0,0,92,0,92,35,True,False,False,Left-arm wrist-spin,Right-hand bat
+West Indies,KR Mayers,73c18486,1,35,34,3,2,102.94,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,63,0,16,79,32,True,False,True,Right-arm medium,Left-hand bat
+West Indies,SD Hope,1fc6ef83,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,31,True,False,False,,Right-hand bat
+West Indies,N Pooran,3241e3fd,3,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,1,0,16,17,29,True,True,False,Right-arm offbreak,Left-hand bat
+West Indies,RL Chase,3feda4fa,4,52,42,3,2,123.81,"[12, 14, 16]",3.0,18,9,0,12,1,0,3,0,1,0,0,4.0,0,0,0,0,0,84,102,0,186,33,True,False,True,Right-arm offbreak,Right-hand bat
+West Indies,R Powell,650d5e49,5,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,31,True,False,False,Right-arm medium-fast,Right-hand bat
+West Indies,SE Rutherford,d014d5ac,6,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,26,True,False,False,Right-arm fast-medium,Left-hand bat
+West Indies,AD Russell,bbd41817,7,15,9,0,2,166.67,"[2, 4, 11, 13]",4.0,24,13,0,19,2,0,2,0,0,0,1,4.75,0,0,0,0,0,27,69,0,96,36,True,False,True,Right-arm fast,Right-hand bat
+West Indies,AJ Hosein,4d7f517e,8,6,11,1,0,54.55,"[1, 3, 5]",3.0,18,6,0,31,6,0,0,0,0,0,0,10.33,0,0,0,0,-4,6,4,0,10,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+West Indies,OC McCoy,529eb9e0,9,0,0,0,0,0.0,"[9, 17]",1.167,7,3,0,15,1,1,0,0,0,0,3,12.85,0,0,0,0,0,0,3,0,3,28,True,False,False,Left-arm fast-medium,Left-hand bat
+West Indies,AS Joseph,b0946605,9,11,7,0,1,157.14,"[6, 8, 10, 15]",4.0,24,9,0,25,1,0,2,0,0,0,5,6.25,1,0,0,0,0,17,61,8,86,28,True,False,False,Right-arm fast,Right-hand bat
+West Indies,G Motie,97bdec3d,10,4,7,1,0,57.14,[7],1.0,6,0,0,20,3,1,0,0,0,0,0,20.0,0,0,0,0,0,8,0,0,8,30,True,False,False,Slow left-arm orthodox,Left-hand bat

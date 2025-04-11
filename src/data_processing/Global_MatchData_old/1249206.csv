@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+England,JJ Roy,d1c36f5c,1,36,22,4,1,163.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,66,0,0,66,34,True,False,False,,Right-hand bat
+England,JC Buttler,99b75528,2,68,55,8,1,123.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,114,0,16,130,34,True,False,False,,Right-hand bat
+England,DJ Malan,ad9c32a2,3,7,14,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,3,0,0,3,37,True,False,False,Legbreak,Left-hand bat
+England,JM Bairstow,abb83e27,4,13,12,1,1,108.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23,35,True,True,False,Right-arm medium,Right-hand bat
+England,EJG Morgan,d2a6c0e6,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,38,True,False,False,Right-arm medium,Left-hand bat
+England,LS Livingstone,50c6bc2b,5,0,0,0,0,0.0,"[8, 10]",2.0,12,3,0,9,0,0,1,1,0,0,0,4.5,0,0,0,0,0,0,42,0,42,31,True,False,True,Legbreak,Right-hand bat
+England,SM Curran,e94915e6,6,0,0,0,0,0.0,"[2, 6, 20]",3.0,18,6,0,25,0,1,2,0,0,0,3,8.33,0,0,0,0,0,0,56,0,56,26,True,False,True,Left-arm medium-fast,Left-hand bat
+England,CJ Jordan,ffe699c0,7,0,0,0,0,0.0,"[5, 7, 17, 19]",4.0,24,7,0,29,2,1,1,0,0,0,0,7.25,3,0,0,0,0,0,32,28,60,36,True,False,False,Right-arm fast-medium,Right-hand bat
+England,CR Woakes,4c5d73db,8,0,0,0,0,0.0,"[1, 3, 13]",3.0,18,11,0,14,1,0,0,0,0,0,1,4.67,0,0,0,0,0,0,17,0,17,36,True,False,True,Right-arm fast-medium,Right-hand bat
+England,AU Rashid,249d60c9,9,0,0,0,0,0.0,"[12, 14, 16, 18]",4.0,24,9,0,17,0,0,2,0,0,0,0,4.25,1,0,0,0,0,0,65,8,73,37,True,False,False,Legbreak,Right-hand bat
+England,MA Wood,8d92a2c3,10,0,0,0,0,0.0,"[4, 9, 11, 15]",4.0,24,9,0,33,4,1,1,0,0,0,1,8.25,0,0,0,0,0,0,34,0,34,35,True,False,False,Right-arm fast,Right-hand bat
+Sri Lanka,MD Gunathilaka,509a7ca1,1,19,16,3,0,118.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,31,0,8,39,34,True,False,True,Right-arm offbreak,Left-hand bat
+Sri Lanka,WIA Fernando,9550470d,2,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,26,True,False,False,Right-arm medium-fast,Right-hand bat
+Sri Lanka,MDKJ Perera,f21043a5,3,30,26,1,1,115.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,44,0,0,44,34,True,False,False,,Left-hand bat
+Sri Lanka,BKG Mendis,5d1e7582,4,9,12,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,30,True,True,False,Legbreak,Right-hand bat
+Sri Lanka,A Dananjaya,5b16a806,4,0,0,0,0,0.0,"[5, 7, 12, 17]",4.0,24,6,0,40,3,2,0,0,0,0,1,10.0,0,0,0,0,0,0,4,0,4,31,True,False,True,Legbreak,Left-hand bat
+Sri Lanka,DM de Silva,7d608e12,5,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,33,True,False,True,Right-arm offbreak,Right-hand bat
+Sri Lanka,PVD Chameera,327b58d3,5,0,0,0,0,0.0,"[1, 3, 10, 18]",3.167,19,9,0,24,4,0,1,0,0,0,1,7.58,0,0,0,0,0,0,34,0,34,33,True,False,False,Right-arm fast,Right-hand bat
+Sri Lanka,N Pradeep,2af838ee,6,0,0,0,0,0.0,"[2, 4]",2.0,12,2,0,23,2,1,0,0,0,0,2,11.5,0,0,0,0,0,0,-2,0,-2,38,True,False,False,Right-arm fast-medium,Right-hand bat
+Sri Lanka,MD Shanaka,3ff033bb,6,50,44,3,2,113.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,82,0,0,82,33,True,False,True,Right-arm medium,Right-hand bat
+Sri Lanka,PWH de Silva,a97c8ec2,7,5,7,0,0,71.43,"[9, 11, 13, 15]",4.0,24,14,0,12,0,0,0,0,0,0,0,3.0,0,0,0,0,0,5,20,0,25,27,True,False,True,Legbreak,Right-hand bat
+Sri Lanka,I Udana,ac5ae4af,8,6,7,0,0,85.71,"[6, 8, 14, 16]",4.0,24,8,0,30,4,0,1,0,1,0,1,7.5,0,0,0,0,0,6,41,0,47,37,True,False,True,Left-arm medium-fast,Right-hand bat

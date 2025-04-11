@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Durbar Rajshahi,Mohammad Haris,ff3f6fc1,1,19,14,0,2,135.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,33,0,0,33
+Durbar Rajshahi,Jishan Alam,86e22dd4,2,20,18,1,2,111.11,"[4, 6, 8]",3.0,18,6,0,31,3,2,0,0,0,0,0,10.33,0,0,0,0,0,36,4,0,40
+Durbar Rajshahi,Anamul Haque,72b245dd,3,32,22,3,2,145.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,2,62,0,28,90
+Durbar Rajshahi,RP Burl,b08252b8,4,41,27,1,4,151.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,77,0,0,77
+Durbar Rajshahi,Yasir Ali Chowdhury,5791b840,5,19,10,2,1,190.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,39,0,8,47
+Durbar Rajshahi,Akbar Ali,abae26ad,6,14,15,1,0,93.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26
+Durbar Rajshahi,M Deyal,7183799b,7,7,8,1,0,87.5,[10],1.0,6,2,0,5,0,0,1,0,0,0,0,5.0,0,0,0,0,0,11,27,0,38
+Durbar Rajshahi,Mrittunjoy Chowdhury,21b97584,8,12,6,1,1,200.0,"[7, 13, 15]",3.0,18,10,0,16,0,1,2,0,0,0,3,5.33,0,0,0,0,0,22,64,0,86
+Durbar Rajshahi,Aftab Alam,2a3a3786,9,0,0,0,0,0.0,"[9, 11, 17]",3.0,18,7,0,24,0,2,2,0,0,0,0,8.0,1,0,0,0,0,0,57,8,65
+Durbar Rajshahi,Sunzamul Islam,0f348f58,10,0,0,0,0,0.0,"[1, 3, 12, 14]",4.0,24,9,0,25,2,0,3,0,2,0,1,6.25,0,0,0,0,0,0,106,0,106
+Durbar Rajshahi,Taskin Ahmed,ef18b66e,11,0,0,0,0,0.0,"[2, 5, 16, 18]",3.5,21,12,0,14,1,0,2,0,1,0,0,4.0,1,0,0,0,0,0,76,8,84
+Sylhet Strikers,Rony Talukdar,8bd614b2,1,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12
+Sylhet Strikers,PR Stirling,cf494ffe,2,2,5,0,0,40.0,[9],1.0,6,1,0,19,1,2,0,0,0,0,0,19.0,0,0,0,0,0,2,1,0,3
+Sylhet Strikers,Zakir Hasan,e3e09091,3,39,28,4,2,139.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,73,0,0,73
+Sylhet Strikers,HG Munsey,ff014c34,4,20,22,1,0,90.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,24,0,8,32
+Sylhet Strikers,Aaron Jones,17aa4f1d,5,5,6,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
+Sylhet Strikers,Jaker Ali,cd56a813,6,31,20,0,3,155.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,57,0,0,57
+Sylhet Strikers,Nahidul Islam,8c7b16c8,7,1,2,0,0,50.0,"[2, 4, 6, 8]",4.0,24,14,0,20,1,1,2,0,0,0,1,5.0,0,0,0,0,0,1,68,0,69
+Sylhet Strikers,Ariful Haque,ad1730bc,8,6,10,1,0,60.0,"[11, 13, 15]",3.0,18,6,0,35,1,4,0,0,0,0,0,11.67,2,0,0,0,-2,8,2,16,26
+Sylhet Strikers,Nihaduzzaman,eca6dcb2,9,0,2,0,0,0.0,"[7, 12, 14, 16]",4.0,24,7,0,37,0,3,2,0,0,0,2,9.25,1,0,0,0,0,-2,57,8,63
+Sylhet Strikers,Ruyel Miah,fa41edde,10,3,2,0,0,150.0,"[5, 10, 18, 20]",4.0,24,12,0,32,3,1,3,1,0,0,7,8.0,0,0,0,0,0,3,99,0,102
+Sylhet Strikers,RJW Topley,8db7f47f,11,0,3,0,0,0.0,"[1, 3, 17, 19]",4.0,24,12,0,39,4,1,0,0,0,0,8,9.75,1,0,0,0,0,-2,12,8,18

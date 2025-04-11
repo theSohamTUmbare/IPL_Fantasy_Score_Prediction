@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Rwanda,O Tuyisenge,e6a6888f,1,53,51,5,1,103.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,87,0,0,87,24,True,False,False,,Right-hand bat
+Rwanda,E Dusingizimana,c15e7ba4,2,4,4,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,38,True,False,False,,Right-hand bat
+Rwanda,W Niyitanga,e7631adc,3,5,4,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,23,True,False,False,,Right-hand bat
+Rwanda,C Rububagumya,8088632c,4,11,17,0,0,64.71,[14],1.0,6,2,0,7,1,0,1,0,0,0,0,7.0,0,0,0,0,-2,9,27,0,36,29,True,True,False,Right-arm medium,Right-hand bat
+Rwanda,O Manishimwe,fb31ca49,5,12,23,0,0,52.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,-4,8,0,16,24,22,True,False,False,,Right-hand bat
+Rwanda,E Niyomugabo,2dcac6ff,6,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,30,True,True,False,Right-arm offbreak,Right-hand bat
+Rwanda,M Akayezu,1f3b9f8d,7,4,4,1,0,100.0,"[3, 13]",2.0,12,3,0,29,3,1,1,0,0,0,5,14.5,0,0,0,0,0,8,22,0,30,22,True,True,False,Right-arm medium,Right-hand bat
+Rwanda,E Sebareme,f99a219a,8,6,7,0,0,85.71,"[2, 4, 8, 10]",4.0,24,13,0,19,2,0,0,0,0,0,0,4.75,0,0,0,0,0,6,19,0,25,29,True,False,True,Right-arm offbreak,Right-hand bat
+Rwanda,Z Bimenyimana,ba57fb08,9,9,5,0,1,180.0,"[1, 12]",2.0,12,5,0,21,3,1,1,0,1,0,0,10.5,1,0,0,0,0,15,36,8,59,26,True,True,False,Right-arm medium,Right-hand bat
+Rwanda,K Irakoze,9ccb6e52,10,2,2,0,0,100.0,"[5, 7, 9, 11]",4.0,24,11,0,19,1,0,1,0,0,0,3,4.75,0,0,0,0,0,2,42,0,44,24,True,True,False,Right-arm offbreak,Right-hand bat
+Rwanda,I Ntirenganya,e73f6c4b,11,1,1,0,0,100.0,"[6, 15]",1.833,11,3,0,27,3,2,0,0,0,0,1,14.73,0,0,0,0,0,1,3,0,4,22,True,True,False,Left-arm medium,Right-hand bat
+Tanzania,II Selemani,b2dadc51,1,29,12,4,2,241.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,67,0,8,75,24,True,True,False,Right-arm offbreak,Right-hand bat
+Tanzania,K Nassoro,29ee9bf9,2,9,15,1,0,60.0,"[12, 14, 16, 18]",4.0,24,12,0,19,1,0,2,1,1,0,1,4.75,0,0,0,0,-2,11,84,0,95,36,True,True,False,Right-arm offbreak,Right-hand bat
+Tanzania,AJ Jabiri,90624d37,3,27,34,3,0,79.41,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,43,0,8,51,22,True,False,False,,Right-hand bat
+Tanzania,AP Rajeevan,63d6f031,4,21,15,3,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,35,0,8,43,27,True,False,False,,Right-hand bat
+Tanzania,MO Kitunda,badef0dc,5,26,12,2,2,216.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,56,0,8,64,25,True,True,False,Right-arm bowler,Right-hand bat
+Tanzania,SA Jumbe,91056862,6,1,1,0,0,100.0,"[2, 20]",2.0,12,5,0,16,3,0,3,0,0,0,0,8.0,0,0,0,0,0,1,84,0,85,27,True,True,False,Right-arm medium-fast,Left-hand bat
+Tanzania,S Thakor,0848ac5f,6,0,0,0,0,0.0,"[13, 15, 17]",3.0,18,9,0,22,2,1,2,0,0,0,1,7.33,0,0,0,0,0,0,59,0,59,34,True,True,False,Legbreak,Right-hand bat
+Tanzania,AM Kimote,34e36b65,7,0,0,0,0,0.0,"[1, 3, 19]",3.0,18,5,0,25,1,1,1,0,0,0,2,8.33,1,0,0,0,0,0,30,8,38,32,True,True,False,Right-arm medium,Right-hand bat
+Tanzania,M Yunusu Issa,bbab35a3,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,23,True,True,False,Right-arm medium,Right-hand bat
+Tanzania,JJ Nyambo,ffb3b559,9,0,0,0,0,0.0,"[4, 6, 8, 10]",4.0,24,10,0,22,1,0,0,0,0,0,2,5.5,0,0,0,0,0,0,14,0,14,19,True,True,False,Right-arm medium-fast,Right-hand bat
+Tanzania,YM Nkanya,9238dd92,10,0,0,0,0,0.0,"[5, 7, 9, 11]",4.0,24,12,0,11,0,0,1,0,0,0,0,2.75,0,0,0,0,0,0,43,0,43,21,True,True,False,Slow left-arm orthodox,Right-hand bat

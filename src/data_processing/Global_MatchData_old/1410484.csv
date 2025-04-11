@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Birmingham Bears,MM Ali,bb351c23,1,0,1,0,0,0.0,[12],1.0,6,1,0,10,2,0,0,0,0,0,0,10.0,2,0,0,0,0,-2,1,16,15,37,True,False,True,Right-arm offbreak,Left-hand bat
+Birmingham Bears,AL Davies,29ede60b,2,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,30,True,False,False,,Right-hand bat
+Birmingham Bears,DR Mousley,876dbe2d,3,0,3,0,0,0.0,"[6, 11, 15, 19]",4.0,24,7,0,34,1,2,1,0,0,2,1,8.5,0,0,0,0,0,-2,32,0,30,23,True,False,True,Right-arm offbreak,Left-hand bat
+Birmingham Bears,SR Hain,67b9536c,4,93,60,10,3,155.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,167,0,8,175,29,True,False,False,Right-arm offbreak,Right-hand bat
+Birmingham Bears,JG Bethell,3c55c703,5,50,31,2,4,161.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,94,0,0,94,21,True,False,True,Slow left-arm orthodox,Left-hand bat
+Birmingham Bears,CG Benjamin,95a15317,6,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,25,True,True,False,Right-arm medium,Right-hand bat
+Birmingham Bears,GHS Garton,be869ccf,7,29,20,2,1,145.0,"[1, 5]",2.0,12,10,0,6,1,0,1,0,0,0,0,3.0,1,0,0,0,2,49,41,8,98,27,True,False,True,Left-arm fast,Left-hand bat
+Birmingham Bears,ZGF Foulkes,30f92334,7,0,0,0,0,0.0,"[2, 4, 16, 20]",4.0,24,5,0,39,2,2,0,0,0,2,1,9.75,0,0,0,0,0,0,5,0,5,22,True,False,True,Right-arm medium,Right-hand bat
+Birmingham Bears,JB Lintott,e5218454,8,0,0,0,0,0.0,"[10, 14]",2.0,12,3,0,26,4,1,1,0,0,0,0,13.0,0,0,0,0,0,0,22,0,22,31,True,False,False,Left-arm wrist-spin,Right-hand bat
+Birmingham Bears,DR Briggs,f3abd0c9,9,0,0,0,0,0.0,"[7, 9, 13, 17]",4.0,24,6,0,38,0,4,2,0,0,0,0,9.5,0,0,0,0,0,0,56,0,56,33,True,False,False,Slow left-arm orthodox,Right-hand bat
+Birmingham Bears,CN Miles,5fed6272,10,0,0,0,0,0.0,"[3, 8, 18]",3.0,18,5,0,33,6,0,1,0,0,0,2,11.0,2,0,0,0,0,0,28,16,44,30,True,False,False,Right-arm medium,Right-hand bat
+Northamptonshire,R Vasconcelos,efe3fcc5,1,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,27,True,False,False,,Left-hand bat
+Northamptonshire,MP Breetzke,35f173a0,2,21,22,1,0,95.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,26,True,False,False,,Right-hand bat
+Northamptonshire,DJ Willey,7f048519,3,13,20,2,0,65.0,"[1, 3, 17, 19]",4.0,24,8,0,34,3,1,2,0,0,0,1,8.5,0,0,0,0,-2,19,58,0,77,35,True,False,True,Left-arm fast-medium,Left-hand bat
+Northamptonshire,SA Zaib,ab01e323,4,86,41,8,6,209.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,172,0,0,172,26,True,False,True,Slow left-arm orthodox,Left-hand bat
+Northamptonshire,RS Bopara,7ca5e05d,5,19,16,2,0,118.75,"[8, 12, 14]",3.0,18,1,0,27,1,1,1,0,0,0,0,9.0,0,0,0,0,0,27,26,0,53,39,True,False,True,Right-arm medium,Right-hand bat
+Northamptonshire,AC Agar,a2421394,6,9,4,0,1,225.0,"[7, 11, 13, 15]",4.0,24,7,0,30,2,1,1,0,0,0,0,7.5,0,0,0,0,0,15,32,0,47,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+Northamptonshire,BW Sanderson,e871a7a1,7,0,0,0,0,0.0,"[2, 5, 16, 18]",4.0,24,6,0,43,5,1,1,0,1,0,6,10.75,0,0,0,0,0,0,37,0,37,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Northamptonshire,LD McManus,6feb46a4,7,22,10,3,1,220.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,6,46,0,28,74,30,True,False,False,,Right-hand bat
+Northamptonshire,AH Miller,693af62a,8,8,4,0,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,23,True,True,False,Right-arm fast-medium,Right-hand bat
+Northamptonshire,FJ Heldreich,56ef4f99,8,0,0,0,0,0.0,[9],1.0,6,1,0,10,0,1,0,0,0,0,0,10.0,0,0,0,0,0,0,1,0,1,23,True,False,False,Left-arm wrist-spin,Right-hand bat
+Northamptonshire,CJ White,5a74e559,9,0,0,0,0,0.0,"[4, 6, 10, 20]",4.0,24,10,0,38,3,3,1,0,0,0,0,9.5,1,0,0,0,0,0,35,8,43,33,True,True,False,Right-arm fast-medium,Left-hand bat

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Nepal,K Bhurtel,e3386c8a,1,13,21,1,1,61.9,"[10, 12, 14, 20]",4.0,24,12,0,19,0,1,4,0,1,0,1,4.75,0,0,0,0,-2,21,134,0,155,28,True,False,False,Legbreak googly,Right-hand bat
+Nepal,Aasif Sheikh,dcbea954,2,42,49,4,1,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,68,0,12,80,23,True,False,False,,Right-hand bat
+Nepal,RK Paudel,1a3cc554,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,22,True,False,True,Right-arm offbreak,Right-hand bat
+Nepal,AK Sah,5b1d6583,4,27,24,3,1,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,49,0,8,57,26,True,True,False,Right-arm offbreak,Right-hand bat
+Nepal,DS Airee,1747ea18,5,6,11,0,0,54.55,"[2, 4, 16, 18]",4.0,24,9,0,21,1,0,3,0,0,0,1,5.25,2,0,0,0,-4,2,92,16,110,25,True,False,False,Right-arm offbreak,Right-hand bat
+Nepal,Kushal Malla,7e9f1cde,6,1,3,0,0,33.33,"[6, 8]",2.0,12,5,0,17,2,1,0,0,0,0,0,8.5,0,0,0,0,0,1,5,0,6,21,True,False,True,Slow left-arm orthodox,Left-hand bat
+Nepal,Gulsan Jha,9811e35e,7,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,19,True,False,True,Right-arm medium,Left-hand bat
+Nepal,Karan KC,f53b3e1d,8,0,0,0,0,0.0,[5],1.0,6,3,0,9,2,0,0,0,0,0,0,9.0,1,0,0,0,0,0,3,8,11,33,True,False,True,Right-arm fast,Right-hand bat
+Nepal,Sompal Kami,1adb8ee8,8,8,4,0,1,200.0,"[1, 3]",2.0,12,9,0,6,1,0,0,0,0,0,1,3.0,0,0,0,0,0,14,15,0,29,29,True,False,True,Right-arm fast-medium,Right-hand bat
+Nepal,S Lamichhane,b410bd3d,9,0,0,0,0,0.0,"[7, 9, 13, 17]",4.0,24,11,0,18,1,0,0,0,0,0,0,4.5,1,0,0,0,0,0,17,8,25,24,True,False,False,Legbreak googly,Right-hand bat
+Nepal,A Bohara,64fb6b15,10,0,0,0,0,0.0,"[11, 15, 19]",3.0,18,7,0,19,3,0,0,0,0,0,0,6.33,0,0,0,0,0,0,9,0,9,27,True,False,False,Right-arm medium,Right-hand bat
+South Africa,RR Hendricks,b8cc58c9,1,43,49,5,1,87.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,73,0,0,73,35,True,False,False,Right-arm offbreak,Right-hand bat
+South Africa,Q de Kock,372455c4,2,10,11,1,0,90.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,14,0,14,28,32,True,False,False,,Left-hand bat
+South Africa,AK Markram,6a26221c,3,15,22,2,0,68.18,"[14, 16]",2.0,12,4,0,8,0,0,1,0,0,0,0,4.0,0,0,0,0,-2,21,35,0,56,30,True,False,True,Right-arm offbreak,Right-hand bat
+South Africa,H Klaasen,235c2bb6,4,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,3,0,6,9,33,True,True,False,Right-arm offbreak,Right-hand bat
+South Africa,DA Miller,d67d5f00,5,7,10,0,0,70.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,5,0,0,5,35,True,False,False,Right-arm offbreak,Left-hand bat
+South Africa,T Stubbs,85b3fab2,6,27,18,2,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,45,0,0,45,24,True,False,False,Right-arm offbreak,Right-hand bat
+South Africa,M Jansen,81c36ee9,7,1,4,0,0,25.0,"[1, 3, 5, 17]",4.0,24,14,0,16,1,1,0,0,0,0,0,4.0,1,0,0,0,0,1,20,8,29,24,True,False,True,Left-arm fast,Right-hand bat
+South Africa,K Rabada,e62dd25d,8,0,1,0,0,0.0,"[2, 13]",2.0,12,6,0,17,2,1,0,0,0,0,0,8.5,0,0,0,0,0,-2,6,0,4,29,True,False,False,Right-arm fast,Left-hand bat
+South Africa,A Nortje,acdc62f5,8,0,0,0,0,0.0,"[7, 9, 11, 19]",4.0,24,14,0,27,3,1,1,0,1,0,3,6.75,0,0,0,0,0,0,49,0,49,31,True,False,False,Right-arm fast,Right-hand bat
+South Africa,OEG Baartman,6b9eb501,9,0,0,0,0,0.0,"[4, 6, 15, 20]",4.0,24,14,0,20,3,0,0,0,0,0,0,5.0,0,0,0,0,0,0,18,0,18,32,True,False,False,Right-arm medium-fast,Right-hand bat
+South Africa,T Shamsi,a03bba42,10,0,0,0,0,0.0,"[8, 10, 12, 18]",4.0,24,12,0,19,0,1,4,0,3,0,1,4.75,0,0,0,0,0,0,150,0,150,35,True,False,False,Left-arm wrist-spin,Right-hand bat

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Chennai Super Kings,DR Smith,35205dfc,1,21,19,3,1,110.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,39,0,8,47,41,True,False,True,Right-arm medium,Right-hand bat
+Chennai Super Kings,BB McCullum,b8a55852,2,12,5,3,0,240.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24,43,True,True,False,Right-arm offbreak,Right-hand bat
+Chennai Super Kings,SK Raina,1dc12ab9,3,23,15,0,3,153.33,"[7, 9, 11, 13]",4.0,24,10,0,29,1,2,1,0,0,0,2,7.25,0,0,0,0,4,45,35,0,80,38,True,False,False,Right-arm offbreak,Left-hand bat
+Chennai Super Kings,F du Plessis,3355b542,4,33,22,4,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,53,0,0,53,40,True,False,False,Legbreak,Right-hand bat
+Chennai Super Kings,MS Dhoni,4a8a2e3b,5,20,16,2,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,1,0,28,0,26,54,43,True,True,False,Right-arm medium,Right-hand bat
+Chennai Super Kings,P Negi,f62772e5,6,15,11,1,1,136.36,"[10, 12]",2.0,12,3,0,20,2,1,1,0,0,0,0,10.0,0,0,0,0,2,27,26,0,53,32,True,False,False,Slow left-arm orthodox,Left-hand bat
+Chennai Super Kings,DJ Bravo,87e562a9,7,25,20,3,0,125.0,"[8, 14, 18, 20]",4.0,24,11,0,25,4,0,3,0,0,0,0,6.25,0,0,0,0,0,41,92,0,133,41,True,False,True,Right-arm medium,Right-hand bat
+Chennai Super Kings,RA Jadeja,fe93fd9d,8,14,12,0,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,14,0,14,28,36,True,False,True,Slow left-arm orthodox,Left-hand bat
+Chennai Super Kings,MM Sharma,759ac88f,8,0,0,0,0,0.0,"[1, 3, 15, 19]",4.0,24,4,0,58,8,2,0,0,0,1,0,14.5,0,0,0,0,0,0,-2,0,-2,36,True,False,False,Right-arm medium,Right-hand bat
+Chennai Super Kings,A Nehra,96fd40ae,9,0,0,0,0,0.0,"[2, 4, 6, 17]",4.0,24,8,0,31,4,0,1,0,1,0,0,7.75,0,0,0,0,0,0,41,0,41,45,True,False,False,Left-arm medium-fast,Right-hand bat
+Chennai Super Kings,RG More,b2b23612,10,0,0,0,0,0.0,"[5, 16]",2.0,12,2,0,28,4,1,0,0,0,0,1,14.0,0,0,0,0,0,0,-4,0,-4,33,True,False,False,Right-arm medium,Right-hand bat
+Sunrisers Hyderabad,DA Warner,dcce6f09,1,61,27,11,1,225.93,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,125,0,0,125,38,True,False,False,Legbreak,Left-hand bat
+Sunrisers Hyderabad,S Dhawan,0a476045,2,37,32,4,0,115.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,57,0,0,57,39,True,False,False,Right-arm offbreak,Left-hand bat
+Sunrisers Hyderabad,MC Henriques,32198ae0,3,19,9,1,2,211.11,"[6, 8, 10, 14]",4.0,24,12,0,20,2,0,2,0,0,0,1,5.0,0,0,0,0,0,35,66,0,101,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Sunrisers Hyderabad,EJG Morgan,d2a6c0e6,4,32,27,1,2,118.52,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,52,0,8,60,38,True,False,False,Right-arm medium,Left-hand bat
+Sunrisers Hyderabad,NV Ojha,890946a0,5,20,12,3,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,42,0,0,42,41,True,False,False,,Right-hand bat
+Sunrisers Hyderabad,A Ashish Reddy,1c2a64cd,6,6,6,1,0,100.0,"[13, 15]",2.0,12,2,0,19,1,1,1,0,1,0,0,9.5,0,0,1,0,0,10,35,12,57,34,True,False,True,Right-arm medium,Right-hand bat
+Sunrisers Hyderabad,GH Vihari,94253925,7,8,5,1,0,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20,31,True,False,True,Right-arm offbreak,Right-hand bat
+Sunrisers Hyderabad,KV Sharma,119678fd,8,4,2,1,0,200.0,"[7, 9]",2.0,12,1,0,19,1,1,0,0,0,0,0,9.5,0,0,0,0,0,8,1,0,9,37,True,False,False,Legbreak googly,Left-hand bat
+Sunrisers Hyderabad,B Kumar,2e81a32d,8,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,9,0,32,2,2,2,0,2,0,1,8.0,0,0,0,0,0,0,75,0,75,35,True,False,False,Right-arm medium,Right-hand bat
+Sunrisers Hyderabad,P Kumar,e938e1bc,9,0,0,0,0,0.0,"[5, 12, 16, 20]",4.0,24,4,0,33,2,1,0,0,0,0,2,8.25,0,0,0,0,0,0,4,0,4,38,True,False,False,Right-arm medium,Right-hand bat
+Sunrisers Hyderabad,TA Boult,a818c1be,10,0,0,0,0,0.0,"[1, 3, 11, 18]",4.0,24,6,0,44,8,0,0,0,0,0,0,11.0,0,0,0,0,0,0,4,0,4,35,True,False,False,Left-arm fast-medium,Right-hand bat

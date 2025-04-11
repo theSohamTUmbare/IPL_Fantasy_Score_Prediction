@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Nigeria,Sulaimon Runsewe,c25d26dc,1,5,5,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,5,0,16,21,23,True,True,False,Right-arm offbreak,Right-hand bat
+Nigeria,D Ajekun,2494ff9e,2,21,19,1,0,110.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,25,0,8,33,28,True,False,False,Right-arm offbreak,Right-hand bat
+Nigeria,Mohameed Taiwo,a9d788e3,3,0,0,0,0,0.0,"[5, 7, 9, 11]",4.0,24,20,1,13,1,1,4,0,0,0,1,3.25,0,0,0,0,0,0,146,0,146,22,True,False,False,Left-arm fast-medium,Left-hand bat
+Nigeria,AE Isesele,5249f9c4,3,18,19,1,0,94.74,[15],0.833,5,3,0,5,1,0,1,0,0,0,0,6.0,2,0,0,0,0,22,28,16,66,23,True,False,False,,Right-hand bat
+Nigeria,SA Okpe,681f522f,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,24,True,True,False,Right-arm offbreak,Right-hand bat
+Nigeria,R Abdulkareem,b9e07e44,5,0,0,0,0,0.0,[14],1.0,6,3,0,3,0,0,0,0,0,0,0,3.0,0,0,0,0,0,0,3,0,3,20,True,True,False,Right-arm offbreak,Right-hand bat
+Nigeria,JO Adedeji,abee08c7,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,0,0,20,20,,,,,,
+Nigeria,C Udekwe,74a578d0,7,0,0,0,0,0.0,"[1, 3, 13]",3.0,18,13,0,8,0,0,1,0,0,0,3,2.67,1,0,0,0,0,0,44,8,52,20,True,True,False,Right-arm medium-fast,Right-hand bat
+Nigeria,P Aho,2e392afa,8,0,0,0,0,0.0,"[2, 12]",2.0,12,4,0,10,0,0,0,0,0,0,2,5.0,0,0,0,0,0,0,8,0,8,22,True,True,False,Right-arm medium-fast,Right-hand bat
+Nigeria,IO Okpe,1c5c3dce,9,0,0,0,0,0.0,"[4, 6, 8, 10]",4.0,24,18,0,8,0,0,3,0,1,2,0,2.0,0,0,0,0,0,0,111,0,111,29,True,True,False,Right-arm medium,Right-hand bat
+Nigeria,Joshua Asia,c4ecc42c,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,19,True,True,False,Right-arm offbreak,Right-hand bat
+Sierra Leone,G Ngegba,69caf2be,1,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,22,True,True,False,Right-arm offbreak,Right-hand bat
+Sierra Leone,A Kainessie,c7acf05f,2,4,9,0,0,44.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,24,True,False,False,,Right-hand bat
+Sierra Leone,I Kamara,38702fb5,3,3,7,0,0,42.86,"[3, 5, 7]",3.0,18,4,0,16,0,0,0,0,0,0,0,5.33,0,0,0,0,0,3,8,0,11,32,True,True,False,Right-arm medium,Right-hand bat
+Sierra Leone,J Bangura,d7acab5d,4,17,28,1,0,60.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,19,0,0,19,19,True,True,False,Right-arm offbreak,Right-hand bat
+Sierra Leone,R Coker,3239c8a9,5,1,7,0,0,14.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,17,True,True,False,Legbreak,Left-hand bat
+Sierra Leone,Y Jalloh,7fe9a7e6,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,24,True,True,False,Right-arm medium,Right-hand bat
+Sierra Leone,M Kpaka,c381cec5,7,0,1,0,0,0.0,"[2, 4, 6, 8]",3.167,19,7,0,22,2,0,0,0,0,0,0,6.95,0,0,0,0,0,-2,9,0,7,28,True,True,False,Right-arm medium,Right-hand bat
+Sierra Leone,L Lamin,5a970aab,8,0,7,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,39,True,True,False,Right-arm fast-medium,Right-hand bat
+Sierra Leone,A Gbla,34ab1e6e,9,6,5,0,1,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,27,True,True,False,Right-arm medium,Right-hand bat
+Sierra Leone,G Sesay,c556b9d2,10,2,10,0,0,20.0,[1],1.0,6,2,0,8,0,0,1,1,0,1,1,8.0,0,0,0,0,-6,-4,35,0,31,18,True,True,False,Right-arm medium,Right-hand bat
+Sierra Leone,C Bah,7213d757,11,5,8,1,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,22,True,True,False,Right-arm medium,Right-hand bat

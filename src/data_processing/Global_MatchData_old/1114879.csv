@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Brisbane Heat,SD Heazlett,e00a9155,1,45,33,4,2,136.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,79,0,0,79,29,True,False,False,Slow left-arm orthodox,Left-hand bat
+Brisbane Heat,BB McCullum,b8a55852,2,33,22,6,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,61,0,8,69,43,True,True,False,Right-arm offbreak,Right-hand bat
+Brisbane Heat,JA Burns,7a5f232a,3,13,14,0,0,92.86,[1],1.0,6,1,0,5,0,0,0,0,0,0,0,5.0,0,0,0,0,0,13,1,0,14,35,True,False,False,Right-arm offbreak,Right-hand bat
+Brisbane Heat,AI Ross,fb0d68b4,4,27,19,2,1,142.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,47,0,8,55,32,True,False,False,Right-arm offbreak,Right-hand bat
+Brisbane Heat,BCJ Cutting,2e11c706,5,4,7,0,0,57.14,"[10, 12, 16, 18]",4.0,24,5,0,27,3,0,2,0,0,0,0,6.75,0,0,0,0,0,4,57,0,61,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Brisbane Heat,M Labuschagne,fa433be6,6,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,30,True,False,False,Legbreak,Right-hand bat
+Brisbane Heat,JJ Peirson,2b55c3b4,7,26,13,2,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,50,0,0,50,32,True,False,False,,Right-hand bat
+Brisbane Heat,MT Steketee,903560ed,8,13,4,0,2,325.0,"[3, 5, 15, 20]",4.0,24,10,0,51,5,4,2,0,1,0,2,12.75,0,0,0,0,0,25,62,0,87,31,True,False,False,Right-arm fast-medium,Right-hand bat
+Brisbane Heat,Yasir Shah,f2800ef3,9,0,0,0,0,0.0,"[2, 4, 8, 14]",4.0,24,5,0,29,1,1,0,0,0,0,1,7.25,0,0,0,0,0,0,5,0,5,38,True,False,False,Legbreak googly,Right-hand bat
+Brisbane Heat,B Doggett,898e628d,9,3,3,0,0,100.0,"[6, 13, 17, 19]",4.0,24,4,0,39,0,3,0,0,0,0,2,9.75,0,0,0,0,0,3,4,0,7,30,True,False,False,Right-arm fast-medium,Right-hand bat
+Brisbane Heat,MJ Swepson,86b4bf88,10,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,3,0,24,1,1,0,0,0,0,0,8.0,1,0,0,0,0,0,3,8,11,31,True,False,False,Legbreak,Right-hand bat
+Hobart Hurricanes,AJ Doolan,36eafb02,1,9,10,1,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,39,True,False,False,,Right-hand bat
+Hobart Hurricanes,DJM Short,1a156c88,2,122,69,8,8,176.81,"[8, 10, 12, 14]",4.0,24,8,0,20,0,0,1,1,0,0,1,5.0,0,0,0,0,6,224,45,0,269,34,True,False,False,Left-arm wrist-spin,Left-hand bat
+Hobart Hurricanes,MS Wade,afa7e784,3,16,19,1,0,84.21,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,37,True,True,False,Right-arm medium,Left-hand bat
+Hobart Hurricanes,BR McDermott,c41043e6,4,19,15,0,1,126.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,30,True,True,False,Right-arm medium,Right-hand bat
+Hobart Hurricanes,GJ Bailey,5056011d,5,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12,42,True,False,False,Right-arm medium,Right-hand bat
+Hobart Hurricanes,DT Christian,2a2e6343,9,0,0,0,0,0.0,[20],1.0,6,1,0,8,0,0,1,0,0,0,2,8.0,0,0,0,0,0,0,26,0,26,41,True,False,True,Right-arm fast-medium,Right-hand bat
+Hobart Hurricanes,S Milenko,479f9b04,10,0,0,0,0,0.0,[1],1.0,6,2,0,16,2,1,0,0,0,0,0,16.0,0,0,0,0,0,0,2,0,2,36,True,False,True,Right-arm medium,Right-hand bat
+Hobart Hurricanes,JC Archer,5574750c,11,0,0,0,0,0.0,"[3, 5, 15, 19]",4.0,24,10,0,39,4,2,1,0,0,0,2,9.75,3,0,0,0,0,0,35,28,63,29,True,False,False,Right-arm fast,Right-hand bat
+Hobart Hurricanes,CJ Boyce,51a60c16,12,0,0,0,0,0.0,"[7, 9, 11, 16]",4.0,24,7,0,23,0,1,2,0,0,0,0,5.75,0,0,0,0,0,0,61,0,61,35,True,False,False,Legbreak,Right-hand bat
+Hobart Hurricanes,CA Rose,7517d134,13,0,0,0,0,0.0,"[2, 18]",2.0,12,2,0,29,2,2,0,0,0,0,0,14.5,0,0,0,0,0,0,-4,0,-4,35,True,False,False,Slow left-arm orthodox,Right-hand bat
+Hobart Hurricanes,TS Mills,245c97cb,14,0,0,0,0,0.0,"[4, 6, 13, 17]",4.0,24,7,0,35,6,0,0,0,0,0,0,8.75,0,0,0,0,0,0,7,0,7,32,True,False,False,Left-arm fast,Right-hand bat

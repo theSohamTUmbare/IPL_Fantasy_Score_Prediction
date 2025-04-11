@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Comilla Victorians,Tamim Iqbal,3b041a12,1,35,34,1,1,102.94,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,49,0,8,57,36,True,False,False,,Left-hand bat
+Comilla Victorians,E Lewis,0ebfb1ad,2,5,9,1,0,55.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,33,True,False,False,,Left-hand bat
+Comilla Victorians,Imrul Kayes,5fbe14fc,3,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,-2,0,6,4,38,True,False,False,Slow left-arm orthodox,Left-hand bat
+Comilla Victorians,SPD Smith,30a45b23,4,16,16,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,20,0,8,28,35,True,False,False,Legbreak googly,Right-hand bat
+Comilla Victorians,Shoaib Malik,64c34cd0,5,13,20,1,0,65.0,"[3, 5, 11, 13]",4.0,24,16,1,20,2,1,0,0,0,0,1,5.0,0,0,0,1,-2,15,32,6,53,43,True,False,True,Right-arm offbreak,Right-hand bat
+Comilla Victorians,Anamul Haque,72b245dd,6,5,5,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,5,0,8,13,32,True,False,False,,Right-hand bat
+Comilla Victorians,Shahid Afridi,0dc00542,7,39,25,5,2,156.0,"[8, 10, 14, 16]",4.0,24,13,1,29,2,2,1,1,0,0,0,7.25,0,0,0,0,4,79,58,0,137,45,True,False,True,Legbreak googly,Right-hand bat
+Comilla Victorians,Abu Hider,31803fac,8,0,0,0,0,0.0,"[1, 15]",2.0,12,8,0,10,2,0,0,0,0,0,0,5.0,1,0,0,0,0,0,12,8,20,29,True,False,True,Left-arm fast-medium,Right-hand bat
+Comilla Victorians,Mohammad Saifuddin,b3a28446,8,5,6,0,0,83.33,"[9, 17, 19]",3.0,18,7,0,13,0,0,2,0,1,0,2,4.33,0,0,0,0,0,5,71,0,76,28,True,False,True,Right-arm medium-fast,Left-hand bat
+Comilla Victorians,Mahedi Hasan,9dad0f2e,9,0,0,0,0,0.0,"[2, 4, 6, 12]",4.0,24,12,0,24,4,0,2,0,0,0,0,6.0,0,0,0,0,0,0,64,0,64,30,True,False,True,Right-arm offbreak,Right-hand bat
+Comilla Victorians,Mohammad Shahid,c285c86e,10,0,0,0,0,0.0,"[7, 18, 20]",3.0,18,8,0,22,2,1,2,0,1,0,0,7.33,0,0,0,0,0,0,66,0,66,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Sylhet Sixers,Liton Das,0404d43c,1,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,30,True,True,False,Right-arm offbreak,Right-hand bat
+Sylhet Sixers,DA Warner,dcce6f09,2,14,13,3,0,107.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26,38,True,False,False,Legbreak,Left-hand bat
+Sylhet Sixers,Towhid Hridoy,9e52a414,3,8,24,1,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,6,0,0,6,24,True,False,False,Right-arm offbreak,Right-hand bat
+Sylhet Sixers,Afif Hossain,37138918,4,19,16,3,0,118.75,[6],1.0,6,3,0,7,1,0,0,0,0,0,0,7.0,1,0,0,0,0,31,3,8,42,25,True,False,True,Right-arm offbreak,Left-hand bat
+Sylhet Sixers,Sabbir Rahman,7147f314,5,7,5,0,1,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21,33,True,False,True,Legbreak,Right-hand bat
+Sylhet Sixers,N Pooran,3241e3fd,6,41,26,5,2,157.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,4,81,0,12,93,29,True,True,False,Right-arm offbreak,Left-hand bat
+Sylhet Sixers,Alok Kapali,54279e23,7,19,20,0,1,95.0,"[7, 11, 20]",2.833,17,4,0,24,1,1,0,0,0,1,0,8.47,0,0,0,0,0,25,4,0,29,41,True,False,True,Legbreak,Right-hand bat
+Sylhet Sixers,Mohammad Irfan,a8e3170f,8,0,0,0,0,0.0,"[2, 4, 12, 17]",4.0,24,16,0,19,2,1,1,0,1,0,1,4.75,0,0,0,0,0,0,55,0,55,42,True,False,False,Left-arm fast,Right-hand bat
+Sylhet Sixers,Taskin Ahmed,ef18b66e,8,4,7,0,0,57.14,"[1, 5, 14, 18]",4.0,24,5,0,31,2,1,0,0,0,0,0,7.75,0,0,0,0,0,4,5,0,9,29,True,False,False,Right-arm fast,Left-hand bat
+Sylhet Sixers,S Lamichhane,b410bd3d,9,1,2,0,0,50.0,"[8, 10, 13, 15]",4.0,24,11,0,16,0,0,2,0,1,0,3,4.0,0,0,0,0,0,1,75,0,76,24,True,False,False,Legbreak googly,Right-hand bat
+Sylhet Sixers,Al-Amin Hossain,3f5f39cd,10,1,2,0,0,50.0,"[3, 9, 16, 19]",4.0,24,6,0,27,3,0,2,0,0,0,1,6.75,0,0,0,0,0,1,58,0,59,32,True,False,False,Right-arm medium-fast,Right-hand bat

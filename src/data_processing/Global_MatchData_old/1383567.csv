@@ -1,0 +1,25 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Assam,Rishav Das,8963ee49,1,48,41,3,2,117.07,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,76,0,0,76,35,True,True,False,Right-arm offbreak,Right-hand bat
+Assam,Denish Das,9cd9e3f4,2,32,20,2,3,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,66,0,0,66,22,True,True,False,Legbreak,Right-hand bat
+Assam,S Ghadigaonkar,d2c05733,3,5,7,0,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,5,0,8,13,32,True,False,False,,Right-hand bat
+Assam,R Parag,04a418e8,4,8,10,0,0,80.0,"[5, 13, 15]",3.0,18,7,0,32,1,3,0,0,0,0,1,10.67,0,0,0,0,0,8,5,0,13,23,True,False,False,Legbreak,Right-hand bat
+Assam,Sibsankar Roy,3d8348d0,5,10,11,1,0,90.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,14,0,8,22,34,True,False,False,Right-arm offbreak,Left-hand bat
+Assam,BA Roy,b7ab7aa9,6,21,16,2,0,131.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,31,0,0,31,22,True,True,False,Right-arm offbreak,Right-hand bat
+Assam,AA Choudhury,b2c38dce,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,25,True,True,False,Slow left-arm orthodox,Right-hand bat
+Assam,Pallav Kumar Das,c2294408,7,0,3,0,0,0.0,[14],1.0,6,2,0,12,0,1,1,0,0,0,2,12.0,0,0,0,0,0,-2,27,0,25,35,True,False,False,Right-arm medium,Left-hand bat
+Assam,Akash Sengupta,bb3ccb17,8,4,4,0,0,100.0,"[6, 8, 10, 17]",3.167,19,6,0,32,5,0,2,0,0,0,2,10.1,1,0,0,0,0,4,54,8,66,24,True,True,False,Right-arm medium,Right-hand bat
+Assam,Mukhtar Hussain,97114e80,9,10,5,0,1,200.0,"[1, 3, 11]",3.0,18,7,0,23,1,1,1,0,0,0,2,7.67,0,0,0,0,0,16,32,0,48,26,True,True,False,Right-arm medium,Right-hand bat
+Assam,Sourav Dey,9bc4faa8,10,0,1,0,0,0.0,"[7, 9]",2.0,12,3,0,13,1,0,0,0,0,1,0,6.5,0,0,0,0,0,-2,5,0,3,21,True,True,False,Right-arm medium,Right-hand bat
+Assam,Mrinmoy Dutta,64959652,11,0,2,0,0,0.0,"[2, 4, 12, 16]",4.0,24,8,0,32,3,0,0,0,0,1,3,8.0,0,0,0,0,0,0,8,0,8,26,True,True,False,Left-arm medium-fast,Left-hand bat
+Baroda,Jyotsnil Singh,b32b1661,1,37,28,2,3,132.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,69,0,0,69,27,True,True,False,Right-arm offbreak,Right-hand bat
+Baroda,NA Rathva,8f607eea,2,44,26,6,1,169.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,4,82,0,16,98,26,True,True,False,Slow left-arm orthodox,Left-hand bat
+Baroda,KH Pandya,5b8c830e,3,8,6,1,0,133.33,"[4, 7, 9, 11]",4.0,24,4,0,36,3,1,0,0,0,0,1,9.0,1,0,0,0,0,12,4,8,24,34,True,False,True,Slow left-arm orthodox,Left-hand bat
+Baroda,SS Sharma,0ebaa16a,4,13,9,0,1,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,26,True,False,False,Legbreak googly,Left-hand bat
+Baroda,Vishnu Solanki,2e802011,5,17,17,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,1,0,21,0,26,47,32,True,False,False,Right-arm offbreak,Right-hand bat
+Baroda,SI Sopariya,d477678c,6,0,0,0,0,0.0,"[1, 3, 8, 10]",4.0,24,9,0,26,0,2,1,0,0,0,0,6.5,0,0,0,0,0,0,36,0,36,30,True,True,False,Right-arm medium,Right-hand bat
+Baroda,Bhanu Pania,af863475,6,13,11,1,0,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,17,0,8,25,28,True,True,False,Right-arm medium-fast,Right-hand bat
+Baroda,AV Rajput,c1d3515b,7,0,0,0,0,0.0,"[12, 14, 16, 18]",4.0,24,9,0,29,1,2,4,0,1,0,0,7.25,1,0,0,0,0,0,125,8,133,26,True,True,False,Right-arm medium-fast,Right-hand bat
+Baroda,MV Pithiya,1c29d51f,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,0,0,6,6,23,True,True,False,Right-arm offbreak,Right-hand bat
+Baroda,A Sheth,4312e8f9,9,0,0,0,0,0.0,"[2, 6, 15, 20]",4.0,24,11,0,25,2,1,2,0,0,0,2,6.25,0,0,0,0,0,0,63,0,63,29,True,False,True,Right-arm medium,Right-hand bat
+Baroda,LI Meriwala,d3611425,10,0,0,0,0,0.0,"[5, 13, 17, 19]",4.0,24,6,0,25,2,0,1,1,0,0,0,6.25,0,0,0,0,0,0,41,0,41,33,True,False,False,Left-arm fast-medium,Left-hand bat
+Baroda,Dhruv Patel,e85f3659,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,27,True,True,False,Right-arm medium,Right-hand bat

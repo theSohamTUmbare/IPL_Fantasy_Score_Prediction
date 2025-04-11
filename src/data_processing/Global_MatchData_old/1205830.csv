@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Delhi,Hiten Dalal,74bace71,1,54,24,6,4,225.0,"[17, 19]",2.0,12,5,0,16,1,1,1,0,0,0,1,8.0,1,0,0,0,6,116,30,8,154,30,True,True,False,Legbreak,Right-hand bat
+Delhi,S Dhawan,0a476045,2,19,18,4,0,105.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,35,0,0,35,39,True,False,False,Right-arm offbreak,Left-hand bat
+Delhi,Simarjeet Singh,30df8c66,3,0,0,0,0,0.0,"[1, 3, 5, 7]",4.0,24,16,0,17,3,0,2,0,0,0,0,4.25,0,0,0,0,0,0,72,0,72,27,True,False,False,Right-arm medium-fast,Right-hand bat
+Delhi,Anuj Rawat,c8f5f961,3,14,12,1,1,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,24,0,8,32,25,True,False,False,,Left-hand bat
+Delhi,Lalit Yadav,ad427b5c,4,0,0,0,0,0.0,"[2, 6, 8, 10]",4.0,24,15,0,14,0,1,0,0,0,0,0,3.5,0,0,0,0,0,0,21,0,21,28,True,False,True,Right-arm offbreak,Right-hand bat
+Delhi,Pranshu Vijayran,f0380005,5,0,0,0,0,0.0,[4],1.0,6,4,0,7,0,1,0,0,0,0,0,7.0,0,0,0,0,0,0,4,0,4,29,True,True,False,Right-arm medium,Left-hand bat
+Delhi,Karan Dagar,155c24d2,6,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,16,0,12,0,0,4,1,1,0,1,3.0,0,0,0,0,0,0,146,0,146,29,True,True,False,Legbreak,Right-hand bat
+Delhi,N Rana,fb2d1dda,7,0,0,0,0,0.0,"[12, 14, 16, 18]",4.0,24,16,0,13,1,0,0,0,0,0,0,3.25,2,0,0,0,0,0,22,16,38,31,True,False,False,Legbreak,Left-hand bat
+Delhi,DR Shorey,faa7365d,8,0,0,0,0,0.0,[20],1.0,6,0,0,9,1,0,0,0,0,0,0,9.0,0,0,0,0,0,0,0,0,0,32,True,False,False,Right-arm offbreak,Right-hand bat
+Delhi,Suboth Bhati,bee290b6,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,34,True,False,False,Right-arm medium,Right-hand bat
+Delhi,Rajesh Sharma,f7fc6c43,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,29,True,True,False,Right-arm offbreak,Right-hand bat
+Sikkim,Bibek Diyali,54d9489d,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,35,True,False,False,,Right-hand bat
+Sikkim,Yashpal Singh,297b26da,2,0,2,0,0,0.0,"[6, 8]",2.0,12,7,0,4,0,0,1,0,1,0,0,2.0,0,0,0,0,0,-2,46,0,44,43,True,False,False,Right-arm medium,Right-hand bat
+Sikkim,Ashish Thapa,60c6038a,3,17,24,0,0,70.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,31,True,True,False,Right-arm medium,Right-hand bat
+Sikkim,Prabesh Gurung,44d9d268,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,32,True,True,False,Right-arm medium,Left-hand bat
+Sikkim,Anil Subba,941a4359,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,35,True,True,False,Right-arm medium,Right-hand bat
+Sikkim,Iqbal Abdulla,85aae393,4,37,45,3,2,82.22,"[4, 7]",2.0,12,4,0,22,3,1,0,0,0,0,0,11.0,0,0,0,0,0,65,2,0,67,35,True,False,True,Slow left-arm orthodox,Left-hand bat
+Sikkim,Palzor Tamang,61a3c20c,5,0,4,0,0,0.0,"[2, 5]",2.0,12,7,0,15,3,0,0,0,0,0,1,7.5,0,0,0,0,0,-2,7,0,5,32,True,True,False,Right-arm medium,Right-hand bat
+Sikkim,Benoy Upreti,44ba3b30,6,1,11,0,0,9.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-5,0,0,-5,38,True,True,False,Right-arm medium,Right-hand bat
+Sikkim,Dinesh Rai,597d321a,7,2,10,0,0,20.0,[9],1.0,6,2,0,17,1,2,0,0,0,0,0,17.0,0,0,0,0,-6,-4,2,0,-2,35,True,True,False,Right-arm offbreak,Right-hand bat
+Sikkim,Padam Limboo,ae9adf77,8,16,15,1,1,106.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26,29,True,True,False,Right-arm medium,Right-hand bat
+Sikkim,Ishwar Chaudhary,fe473dc2,9,13,8,2,0,162.5,"[1, 3]",2.0,12,3,0,31,4,2,0,0,0,0,1,15.5,0,0,0,0,0,21,-3,0,18,36,True,True,False,Right-arm fast-medium,Right-hand bat

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Indonesia,GA Priandana,2af0e3b1,1,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,27,True,False,False,,Right-hand bat
+Indonesia,KD Kesuma,4b349dc0,2,31,22,4,1,140.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,59,0,0,59,25,True,False,False,,Right-hand bat
+Indonesia,F Banunaek,3c8faed4,3,14,26,1,0,53.85,"[6, 8, 18]",3.0,18,10,0,14,1,0,2,0,0,0,1,4.67,0,0,0,0,-4,14,66,0,80,23,True,True,False,Right-arm medium,Right-hand bat
+Indonesia,IK Gamantika,4d7c5b56,4,8,11,1,0,72.73,"[10, 12, 14, 16]",4.0,24,10,0,20,0,1,3,0,0,0,3,5.0,1,0,0,0,0,12,93,8,113,30,True,False,False,,Right-hand bat
+Indonesia,Anjar Tadarus,72275237,5,18,15,1,1,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28,40,True,True,False,Right-arm medium-fast,Right-hand bat
+Indonesia,RM Koda,f0a45427,6,0,0,0,0,0.0,"[2, 4, 17, 19]",3.167,19,10,0,15,1,0,1,0,0,0,1,4.74,1,0,0,0,0,0,41,8,49,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Indonesia,GD Arta,e969e580,6,10,10,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,37,True,True,False,Left-arm medium-fast,Left-hand bat
+Indonesia,Ahmad Ramdoni,b5f30525,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0,0,28,28,40,True,False,False,,Right-hand bat
+Indonesia,IKEG Artawan,190957d2,8,0,0,0,0,0.0,[13],1.0,6,1,0,10,0,1,0,0,0,0,0,10.0,4,0,0,0,0,0,1,36,37,24,True,False,False,,Right-hand bat
+Indonesia,DJ Hawoe,a62f55ba,9,0,0,0,0,0.0,"[1, 3, 5, 15]",4.0,24,15,0,17,1,0,3,0,0,0,4,4.25,0,0,0,0,0,0,100,0,100,24,True,True,False,Right-arm medium,Right-hand bat
+Indonesia,IW Budiarta,27320242,10,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,7,0,11,0,0,1,0,0,0,0,3.67,0,0,0,0,0,0,38,0,38,32,True,True,False,Right-arm medium,Right-hand bat
+Thailand,AP Yadav,a5501504,1,36,40,3,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,52,0,0,52,26,True,True,False,Right-arm offbreak,Right-hand bat
+Thailand,C Chatphaisan,85c56be8,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,20,True,True,False,Right-arm medium,Right-hand bat
+Thailand,N Nuntarach,9e3575ce,3,3,8,0,0,37.5,"[5, 7, 14]",3.0,18,11,0,28,2,2,0,0,0,0,4,9.33,0,0,0,0,0,3,11,0,14,22,True,True,False,Right-arm medium,Right-hand bat
+Thailand,Y Saranonnakkun,9c93c0a3,4,11,22,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,7,0,0,7,21,True,False,False,,Right-hand bat
+Thailand,AV Lazarus,30c917bf,5,13,11,0,1,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,33,True,False,False,,
+Thailand,J Coetzee,3ad06915,6,2,7,0,0,28.57,"[1, 3, 9]",3.0,18,12,0,13,1,0,1,0,0,0,3,4.33,0,0,0,0,0,2,43,0,45,41,True,True,False,Left-arm medium,Left-hand bat
+Thailand,MK Thakur,2d9451cc,7,6,4,0,1,150.0,"[2, 4, 15]",2.333,14,7,0,15,2,0,0,0,0,0,0,6.43,0,0,0,0,0,12,9,0,21,36,True,False,False,,
+Thailand,S Rungrueang,35ae9e8a,8,5,9,0,0,55.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,5,0,8,13,21,True,False,False,,Right-hand bat
+Thailand,N Senamontree,44e00a4c,9,2,5,0,0,40.0,"[6, 11, 13]",3.0,18,9,0,20,1,1,1,0,1,0,1,6.67,0,0,0,0,0,2,44,0,46,33,True,True,False,Slow left-arm orthodox,Right-hand bat
+Thailand,W Ngowhuad,b8cd9955,10,0,2,0,0,0.0,[8],1.0,6,3,0,8,1,0,1,0,0,0,2,8.0,0,0,0,0,0,-2,28,0,26,19,True,True,False,Right-arm medium-fast,Right-hand bat
+Thailand,A Kalasi,8930a2a6,11,0,0,0,0,0.0,"[10, 12]",2.0,12,5,0,7,0,0,1,0,1,0,0,3.5,1,0,0,0,0,0,44,8,52,18,True,True,False,Legbreak,Right-hand bat

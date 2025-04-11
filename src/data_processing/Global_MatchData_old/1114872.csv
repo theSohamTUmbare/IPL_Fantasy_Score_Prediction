@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Adelaide Strikers,AT Carey,69d03465,1,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,33,True,False,False,,Left-hand bat
+Adelaide Strikers,J Weatherald,edc7ddb6,2,7,10,1,0,70.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,9,0,8,17,30,True,False,False,Legbreak,Left-hand bat
+Adelaide Strikers,TM Head,12b610c2,3,44,32,1,3,137.5,[1],1.0,6,1,0,13,2,0,0,0,0,0,0,13.0,0,0,0,0,2,72,1,0,73,31,True,False,False,Right-arm offbreak,Left-hand bat
+Adelaide Strikers,CA Ingram,c995d726,4,66,43,9,2,153.49,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,126,0,0,126,39,True,False,False,Legbreak,Left-hand bat
+Adelaide Strikers,JW Wells,8bdac857,5,28,18,0,2,155.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,48,0,0,48,36,True,False,False,Right-arm medium,Right-hand bat
+Adelaide Strikers,JS Lehmann,c96a215f,6,16,8,1,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26,32,True,False,False,Slow left-arm orthodox,Left-hand bat
+Adelaide Strikers,MG Neser,0164b064,7,1,2,0,0,50.0,"[5, 11, 18, 20]",4.0,24,3,0,47,3,2,0,0,0,0,0,11.75,1,0,0,0,0,1,-1,8,8,35,True,False,True,Right-arm medium-fast,Right-hand bat
+Adelaide Strikers,Rashid Khan,5f547c8b,8,4,3,0,0,133.33,"[3, 7, 9, 14]",4.0,24,12,0,18,2,0,2,0,0,0,0,4.5,0,0,0,0,0,4,68,0,72,26,True,False,True,Legbreak googly,Right-hand bat
+Adelaide Strikers,PM Siddle,bd93fea4,8,0,0,0,0,0.0,"[8, 10, 15, 19]",4.0,24,5,0,35,0,2,0,0,0,0,2,8.75,1,0,0,0,0,0,5,8,13,40,True,False,False,Right-arm fast-medium,Right-hand bat
+Adelaide Strikers,B Laughlin,b2a79f17,9,0,0,0,0,0.0,"[6, 13, 16]",3.0,18,5,0,42,5,2,0,0,0,1,0,14.0,0,0,0,0,0,0,-1,0,-1,42,True,False,False,Right-arm fast-medium,Right-hand bat
+Adelaide Strikers,B Stanlake,6834d1f2,10,0,0,0,0,0.0,"[2, 4, 12, 17]",4.0,24,10,0,27,2,1,2,0,0,0,1,6.75,0,0,0,0,0,0,62,0,62,30,True,False,False,Right-arm fast,Left-hand bat
+Hobart Hurricanes,AJ Doolan,36eafb02,1,29,23,3,1,126.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,51,0,0,51,39,True,False,False,,Right-hand bat
+Hobart Hurricanes,DJM Short,1a156c88,2,96,57,9,4,168.42,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,172,0,8,180,34,True,False,False,Left-arm wrist-spin,Left-hand bat
+Hobart Hurricanes,BR McDermott,c41043e6,3,18,18,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24,30,True,True,False,Right-arm medium,Right-hand bat
+Hobart Hurricanes,GJ Bailey,5056011d,4,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,42,True,False,False,Right-arm medium,Right-hand bat
+Hobart Hurricanes,DT Christian,2a2e6343,5,7,3,0,1,233.33,"[8, 16, 18]",3.0,18,3,0,33,2,1,0,0,0,0,3,11.0,0,0,0,0,0,13,1,0,14,41,True,False,True,Right-arm fast-medium,Right-hand bat
+Hobart Hurricanes,MS Wade,afa7e784,6,20,13,1,0,153.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,28,0,0,28,37,True,True,False,Right-arm medium,Left-hand bat
+Hobart Hurricanes,S Milenko,479f9b04,7,7,3,1,0,233.33,[10],1.0,6,1,0,20,0,3,0,0,0,0,0,20.0,1,0,0,0,0,11,1,8,20,36,True,False,True,Right-arm medium,Right-hand bat
+Hobart Hurricanes,JC Archer,5574750c,8,0,0,0,0,0.0,"[2, 4, 14, 20]",4.0,24,13,0,15,0,0,3,1,0,0,0,3.75,0,0,0,0,0,0,106,0,106,29,True,False,False,Right-arm fast,Right-hand bat
+Hobart Hurricanes,CJ Boyce,51a60c16,9,0,0,0,0,0.0,"[7, 9, 11, 15]",4.0,24,4,0,34,2,1,0,0,0,0,0,8.5,0,0,0,0,0,0,4,0,4,35,True,False,False,Legbreak,Right-hand bat
+Hobart Hurricanes,CA Rose,7517d134,10,0,0,0,0,0.0,"[1, 3, 5, 13]",4.0,24,9,0,32,5,0,1,0,0,0,1,8.0,0,0,0,0,0,0,34,0,34,35,True,False,False,Slow left-arm orthodox,Right-hand bat
+Hobart Hurricanes,TS Mills,245c97cb,11,0,0,0,0,0.0,"[6, 12, 17, 19]",4.0,24,9,0,41,3,3,1,0,0,1,2,10.25,1,0,0,0,0,0,32,8,40,32,True,False,False,Left-arm fast,Right-hand bat

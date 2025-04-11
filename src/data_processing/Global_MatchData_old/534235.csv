@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+England,C Kieswetter,1e960f2a,1,50,32,3,3,156.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,92,0,0,92,37,True,False,False,Right-arm offbreak,Right-hand bat
+England,MJ Lumb,11df3dc8,2,5,4,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,45,True,False,False,Right-arm medium,Left-hand bat
+England,LJ Wright,cca50cd6,3,6,10,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,4,0,0,4,40,True,False,False,Right-arm medium,Right-hand bat
+England,EJG Morgan,d2a6c0e6,4,5,9,0,0,55.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,5,0,16,21,38,True,False,False,Right-arm medium,Left-hand bat
+England,JC Buttler,99b75528,5,32,8,2,3,400.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,62,0,0,62,34,True,False,False,,Right-hand bat
+England,JM Bairstow,abb83e27,6,4,2,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,8,0,16,24,35,True,True,False,Right-arm medium,Right-hand bat
+England,TT Bresnan,58043739,7,1,1,0,0,100.0,"[2, 10]",2.0,12,5,0,14,0,1,2,0,1,0,0,7.0,0,0,0,0,0,1,65,0,66,40,True,False,True,Right-arm medium-fast,Right-hand bat
+England,GP Swann,221ad9d9,7,0,0,0,0,0.0,"[5, 7, 9]",3.0,18,5,0,24,1,1,2,0,0,0,0,8.0,0,0,0,0,0,0,55,0,55,46,True,False,False,Right-arm offbreak,Right-hand bat
+England,SCJ Broad,eba6a852,8,0,0,0,0,0.0,"[3, 6]",2.0,12,5,0,18,3,0,0,0,0,0,2,9.0,0,0,0,0,0,0,5,0,5,38,True,False,False,Right-arm fast-medium,Left-hand bat
+England,DR Briggs,f3abd0c9,9,0,0,0,0,0.0,"[1, 4]",2.0,12,4,0,16,3,0,1,0,0,0,0,8.0,0,0,0,0,0,0,29,0,29,33,True,False,False,Slow left-arm orthodox,Right-hand bat
+England,JW Dernbach,7be8a0ed,10,0,0,0,0,0.0,"[8, 11]",2.0,12,4,0,14,0,0,0,0,0,0,2,7.0,0,0,0,0,0,0,6,0,6,39,True,False,False,Right-arm fast-medium,Right-hand bat
+South Africa,RE Levi,18c78b11,1,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,37,True,False,False,Right-arm medium,Right-hand bat
+South Africa,HM Amla,e798611a,2,36,27,6,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,66,0,8,74,41,True,False,False,Right-arm offbreak,Right-hand bat
+South Africa,F du Plessis,3355b542,3,8,6,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,40,True,False,False,Legbreak,Right-hand bat
+South Africa,AB de Villiers,c4487b84,4,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,41,True,True,False,Right-arm medium,Right-hand bat
+South Africa,JA Morkel,c3d35165,5,17,14,0,1,121.43,[3],1.0,6,1,0,5,0,0,0,0,0,0,0,5.0,0,0,0,0,0,23,1,0,24,43,True,False,True,Right-arm medium-fast,Left-hand bat
+South Africa,JL Ontong,55f33b32,6,10,7,0,1,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24,45,True,False,True,Right-arm offbreak,Right-hand bat
+South Africa,JH Kallis,86dc8f2e,7,8,5,0,0,160.0,[8],1.0,6,2,0,11,0,1,0,0,0,0,0,11.0,0,0,0,0,0,8,2,0,10,49,True,False,True,Right-arm fast-medium,Right-hand bat
+South Africa,J Botha,7c503806,7,0,0,0,0,0.0,"[5, 7, 9]",3.0,18,7,0,19,1,1,2,0,0,0,0,6.33,0,0,0,0,0,0,59,0,59,42,True,False,True,Right-arm offbreak,Right-hand bat
+South Africa,RJ Peterson,26ff4c29,8,0,0,0,0,0.0,"[4, 6]",2.0,12,2,0,16,0,0,0,0,0,0,5,8.0,0,0,0,0,0,0,2,0,2,45,True,False,False,Slow left-arm orthodox,Left-hand bat
+South Africa,WD Parnell,3a60e0b5,9,0,0,0,0,0.0,"[2, 10]",2.0,12,4,0,37,3,3,1,0,1,2,0,18.5,0,0,0,0,0,0,31,0,31,35,True,False,False,Left-arm medium-fast,Left-hand bat
+South Africa,M Morkel,5bb5a915,10,0,0,0,0,0.0,"[1, 11]",2.0,12,4,0,28,3,1,2,0,2,0,6,14.0,0,0,0,0,0,0,64,0,64,40,True,False,False,Right-arm fast,Left-hand bat

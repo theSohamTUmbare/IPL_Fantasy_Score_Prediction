@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Baroda,KH Devdhar,62e07f92,1,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,35,True,False,False,,Right-hand bat
+Baroda,Mohit Mongia,e5b78474,2,9,11,1,0,81.82,"[8, 10]",2.0,12,4,0,13,1,0,1,0,0,0,0,6.5,1,0,0,0,0,13,31,8,52,25,True,True,False,Slow left-arm orthodox,Right-hand bat
+Baroda,Vishnu Solanki,2e802011,3,14,19,1,0,73.68,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26,32,True,False,False,Right-arm offbreak,Right-hand bat
+Baroda,DJ Hooda,73ad96ed,4,7,15,0,0,46.67,"[12, 14, 16]",3.0,18,11,1,12,1,0,0,0,0,0,0,4.0,0,0,0,0,-6,1,29,0,30,29,True,False,True,Right-arm offbreak,Right-hand bat
+Baroda,YK Pathan,3c6ffae8,5,8,18,1,0,44.44,"[15, 17]",1.333,8,3,0,9,1,0,0,0,0,0,1,6.75,0,0,0,0,-6,6,3,0,9,42,True,False,True,Right-arm offbreak,Right-hand bat
+Baroda,Swapnil Singh,983f2f61,6,17,22,2,0,77.27,"[2, 7, 9, 11]",4.0,24,13,0,16,1,0,2,0,0,0,0,4.0,0,0,0,0,0,25,69,0,94,34,True,False,False,Slow left-arm orthodox,Right-hand bat
+Baroda,BA Bhatt,dc4686e6,7,3,6,0,0,50.0,"[1, 3, 13]",3.0,18,12,0,7,0,0,0,0,0,0,0,2.33,0,0,0,0,0,3,18,0,21,34,True,False,False,Slow left-arm orthodox,Left-hand bat
+Baroda,RT Arothe,50455929,8,4,4,0,0,100.0,[5],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,0,4,2,0,6,29,True,False,False,Left-arm medium,Left-hand bat
+Baroda,Mitesh Patel,ab636882,9,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,27,True,False,False,,Right-hand bat
+Baroda,A Sheth,4312e8f9,10,4,7,0,0,57.14,"[4, 6]",2.0,12,7,0,12,2,0,0,0,0,0,0,6.0,0,0,0,0,0,4,9,0,13,29,True,False,True,Right-arm medium,Right-hand bat
+Baroda,LI Meriwala,d3611425,11,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,33,True,False,False,Left-arm fast-medium,Left-hand bat
+Services,Nakul Verma,38c0d699,1,19,33,1,0,57.58,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,19,0,8,27,33,True,True,False,Legbreak googly,Right-hand bat
+Services,Ravi Chauhan,f7ce1f24,2,22,20,3,0,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,34,0,8,42,31,True,True,False,Legbreak googly,Right-hand bat
+Services,Rahul Singh,adf454e9,3,8,7,1,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20,29,True,True,False,Right-arm medium,Left-hand bat
+Services,Rajat Paliwal,2fcb040c,4,8,12,0,0,66.67,"[13, 15]",2.0,12,5,0,8,0,0,0,0,0,0,0,4.0,0,0,1,0,-2,6,11,12,29,33,True,False,False,Right-arm offbreak,Right-hand bat
+Services,Diwesh Pathania,a63563c0,5,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,10,0,11,1,0,2,0,0,0,0,3.67,0,0,0,0,0,0,66,0,66,35,True,True,False,Right-arm medium,Right-hand bat
+Services,Vikas Hathwala,904585d1,5,18,26,2,0,69.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,24,0,0,24,31,True,True,False,Left-arm medium,Left-hand bat
+Services,Sachidanand Pandey,f8c7484e,6,0,0,0,0,0.0,"[2, 4, 19]",2.333,14,5,0,18,1,0,0,0,0,0,5,7.72,0,0,0,0,0,0,5,0,5,28,True,True,False,Right-arm medium,Right-hand bat
+Services,Mohit Kumar,caabc8e4,7,0,0,0,0,0.0,"[6, 8, 18]",3.0,18,12,0,10,1,0,2,0,1,0,0,3.33,0,0,0,0,0,0,76,0,76,28,True,True,False,Right-arm medium-fast,Right-hand bat
+Services,AP Sharma,12f75dbd,8,0,0,0,0,0.0,"[7, 9, 11, 17]",4.0,24,15,0,12,1,0,1,0,0,0,0,3.0,0,0,1,0,0,0,46,12,58,28,True,True,False,Slow left-arm orthodox,Left-hand bat
+Services,Vikas Yadav,fa73f373,9,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,13,0,15,1,0,3,1,2,0,1,3.75,1,0,0,0,0,0,122,8,130,28,True,True,False,Slow left-arm orthodox,Right-hand bat
+Services,Mohit Ahlawat,791b8fac,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,29,True,False,False,,Right-hand bat

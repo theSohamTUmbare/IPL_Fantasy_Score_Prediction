@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Hampshire,MA Carberry,8305580c,1,42,28,5,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,66,0,0,66,44,True,False,False,Right-arm offbreak,Left-hand bat
+Hampshire,JM Vince,a15618fe,2,107,65,13,3,164.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,197,0,0,197,34,True,False,False,Right-arm medium,Right-hand bat
+Hampshire,AJA Wheater,71647ced,3,32,22,2,1,145.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,52,0,8,60,35,True,False,False,,Right-hand bat
+Hampshire,WR Smith,ad962377,4,0,0,0,0,0.0,[1],1.0,6,3,0,10,2,0,0,0,0,0,1,10.0,0,0,0,0,0,0,3,0,3,42,True,False,False,Right-arm offbreak,Right-hand bat
+Hampshire,SM Ervine,556302a7,4,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,42,True,False,True,Right-arm offbreak,Left-hand bat
+Hampshire,OA Shah,7bf96684,5,5,3,1,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,46,True,False,False,Right-arm offbreak,Right-hand bat
+Hampshire,LA Dawson,4a461c24,5,0,0,0,0,0.0,[8],1.0,6,2,0,14,0,2,0,0,0,0,0,14.0,0,0,0,0,0,0,2,0,2,35,True,False,True,Slow left-arm orthodox,Right-hand bat
+Hampshire,CP Wood,1cfac535,6,0,0,0,0,0.0,"[3, 5]",2.0,12,7,0,10,2,0,1,0,0,0,0,5.0,0,0,0,0,0,0,36,0,36,34,True,False,False,Left-arm medium-fast,Right-hand bat
+Hampshire,Yasir Arafat,3cf5ae43,7,0,0,0,0,0.0,"[7, 9]",1.167,7,2,0,5,0,0,0,0,0,0,0,4.28,0,0,0,0,0,0,2,0,2,43,True,False,True,Right-arm fast-medium,Right-hand bat
+Hampshire,DR Briggs,f3abd0c9,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,33,True,False,False,Slow left-arm orthodox,Right-hand bat
+Hampshire,FH Edwards,a7c226e1,9,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,10,0,17,3,0,0,0,0,0,0,5.67,0,0,0,0,0,0,14,0,14,43,True,False,False,Right-arm fast,Right-hand bat
+Worcestershire,MM Ali,bb351c23,1,10,9,2,0,111.11,"[7, 9, 11, 13]",4.0,24,7,0,33,4,0,0,0,0,0,0,8.25,0,0,0,0,0,18,7,0,25,37,True,False,True,Right-arm offbreak,Left-hand bat
+Worcestershire,DKH Mitchell,8108e2d2,2,20,21,3,0,95.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32,41,True,False,True,Right-arm medium,Right-hand bat
+Worcestershire,T Kohler-Cadmore,f836b33d,3,9,12,2,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,30,True,True,False,Right-arm offbreak,Right-hand bat
+Worcestershire,BL D'Oliveira,9679838c,4,0,0,0,0,0.0,"[10, 12, 14]",3.0,18,3,0,21,1,0,0,0,0,0,0,7.0,0,0,0,0,0,0,5,0,5,33,True,False,True,Legbreak,Right-hand bat
+Worcestershire,RA Whiteley,d346d939,4,16,7,0,2,228.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28,36,True,False,False,Left-arm medium,Left-hand bat
+Worcestershire,JM Clarke,2eca67f5,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,28,True,False,False,,Right-hand bat
+Worcestershire,OB Cox,324a6ee1,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,33,True,False,False,,Right-hand bat
+Worcestershire,J Leach,cd143bca,7,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,8,0,40,6,1,2,0,0,0,1,10.0,0,0,0,0,0,0,56,0,56,34,True,False,True,Right-arm fast-medium,Right-hand bat
+Worcestershire,EG Barnard,a510bdd3,8,0,0,0,0,0.0,"[8, 16]",2.0,12,2,0,22,2,1,0,0,0,0,1,11.0,1,0,0,0,0,0,0,8,8,29,True,False,True,Right-arm fast-medium,Right-hand bat
+Worcestershire,Saeed Ajmal,05d74535,9,0,0,0,0,0.0,"[3, 5, 15, 17]",4.0,24,5,0,38,3,1,0,0,0,0,1,9.5,0,0,0,0,0,0,5,0,5,47,True,False,False,Right-arm offbreak,Right-hand bat
+Worcestershire,JD Shantry,70fdd428,10,0,0,0,0,0.0,"[1, 6, 19]",3.0,18,4,0,37,5,1,0,0,0,0,0,12.33,0,0,0,0,0,0,-2,0,-2,37,True,False,False,Left-arm medium,Left-hand bat

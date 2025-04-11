@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Hong Kong,Shahid Wasif,2cc08c3c,1,26,21,3,0,123.81,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,42,0,8,50,27,True,False,False,Right-arm offbreak,Right-hand bat
+Hong Kong,Nizakat Khan,e3eb9e46,2,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12,32,True,False,True,Legbreak,Right-hand bat
+Hong Kong,KD Shah,d5ae21a2,3,1,2,0,0,50.0,"[3, 5, 15]",3.0,18,11,0,15,1,1,1,0,0,0,0,5.0,0,0,0,0,0,1,40,0,41,29,True,False,False,Right-arm offbreak,Left-hand bat
+Hong Kong,SS McKechnie,e6dd77bb,4,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,33,True,False,False,,Right-hand bat
+Hong Kong,Haroon Arshad,be0f9ce9,5,18,14,2,0,128.57,[10],1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,0,26,1,0,27,25,True,False,True,Right-arm medium,Right-hand bat
+Hong Kong,Aizaz Khan,f6c2659d,6,1,2,0,0,50.0,"[1, 12, 14, 17]",3.5,21,8,0,27,2,1,1,0,1,1,2,7.71,0,0,0,0,0,1,41,0,42,32,True,False,True,Right-arm medium-fast,Right-hand bat
+Hong Kong,Waqas Khan,35971419,7,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,26,True,False,False,Right-arm medium-fast,Right-hand bat
+Hong Kong,Hamed Khan,0e4843d2,8,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,26,True,True,False,Right-arm medium,Right-hand bat
+Hong Kong,Ehsan Khan,d3851cd8,9,0,2,0,0,0.0,"[6, 8, 16]",3.0,18,7,0,21,4,0,0,0,0,0,0,7.0,0,0,0,0,0,-2,9,0,7,40,True,False,False,Right-arm offbreak,Right-hand bat
+Hong Kong,Mohsin Khan,2669d6b7,10,0,0,0,0,0.0,"[2, 4]",2.0,12,8,0,11,2,0,0,0,0,0,0,5.5,0,0,0,0,0,0,12,0,12,26,True,True,False,Left-arm medium-fast,Left-hand bat
+Hong Kong,Aftab Hussain,3c6b4b2b,10,5,2,1,0,250.0,"[7, 9, 11, 13]",4.0,24,10,0,33,2,2,1,0,0,0,0,8.25,0,0,0,0,0,9,35,0,44,27,True,True,False,Slow left-arm orthodox,Right-hand bat
+Malaysia,Virandeep Singh,415d30b6,1,32,23,3,2,139.13,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,2,62,0,12,74,26,True,False,True,Slow left-arm orthodox,Right-hand bat
+Malaysia,BV Save,1d89c232,2,7,11,1,0,63.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,-2,9,0,16,25,40,True,False,False,,Right-hand bat
+Malaysia,Ahmed Faiz,f6b4f746,3,40,39,6,0,102.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,68,0,0,68,37,True,False,False,Legbreak,Right-hand bat
+Malaysia,Syed Aziz,6667067e,4,27,19,2,2,142.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,53,0,0,53,26,True,False,True,Right-arm medium,Left-hand bat
+Malaysia,Aminuddin Ramly,8cae5b48,5,9,7,1,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,34,True,False,True,Right-arm medium,Right-hand bat
+Malaysia,Syazrul Idrus,6dba59e0,10,0,0,0,0,0.0,"[2, 6]",2.0,12,3,0,17,2,0,1,0,0,0,0,8.5,0,0,0,0,0,0,28,0,28,34,True,False,False,Right-arm medium,Right-hand bat
+Malaysia,Pavandeep Singh,78fcc740,11,0,0,0,0,0.0,[1],1.0,6,2,0,9,1,0,0,0,0,0,1,9.0,0,0,0,0,0,0,2,0,2,27,True,False,False,Slow left-arm orthodox,Right-hand bat
+Malaysia,Fitri Sham,d2ec068c,12,0,0,0,0,0.0,"[5, 7]",2.0,12,4,0,12,1,0,1,0,0,0,0,6.0,0,0,0,0,0,0,31,0,31,31,True,True,False,Slow left-arm orthodox,Left-hand bat
+Malaysia,S Muniandy,57fcfd3b,13,0,0,0,0,0.0,"[4, 9]",2.0,12,2,0,16,2,0,1,0,1,0,0,8.0,0,0,0,0,0,0,35,0,35,29,True,False,False,Right-arm medium,Right-hand bat
+Malaysia,Mohamed Arief,1087dd78,14,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,37,True,True,False,Right-arm medium,Right-hand bat
+Malaysia,Khizar Hayat,78bbeba1,15,0,0,0,0,0.0,"[3, 8]",2.0,12,9,0,4,0,0,5,1,2,0,0,2.0,0,0,0,0,0,0,176,0,176,35,True,False,False,Right-arm offbreak,Right-hand bat

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Adelaide Strikers,M Klinger,b970a03f,1,24,18,3,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,38,0,8,46,44,True,False,False,,Right-hand bat
+Adelaide Strikers,TP Ludeman,c3f7898b,2,6,8,1,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,10,0,8,18,37,True,False,False,,Right-hand bat
+Adelaide Strikers,CJ Ferguson,9b4935c8,3,6,11,0,0,54.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,2,0,0,2,40,True,False,False,Right-arm medium,Right-hand bat
+Adelaide Strikers,NJ Reardon,c7bdb5b5,4,4,11,0,0,36.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2,40,True,False,False,Right-arm medium,Left-hand bat
+Adelaide Strikers,J Botha,7c503806,5,31,31,1,1,100.0,"[7, 9, 11, 17]",4.0,24,8,0,17,0,0,1,0,0,0,0,4.25,0,0,0,0,0,45,39,0,84,42,True,False,True,Right-arm offbreak,Right-hand bat
+Adelaide Strikers,KA Pollard,a757b0d8,6,0,2,0,0,0.0,"[12, 14]",2.0,12,3,0,17,0,1,1,0,0,0,1,8.5,2,0,0,0,0,-2,28,16,42,37,True,False,True,Right-arm medium,Right-hand bat
+Adelaide Strikers,TP Doropoulos,d87404b4,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,39,True,True,False,Right-arm fast-medium,Right-hand bat
+Adelaide Strikers,MG Neser,0164b064,8,29,24,1,1,120.83,"[6, 8, 16, 18]",4.0,24,7,0,36,2,1,1,0,0,1,2,9.0,1,0,0,0,0,43,32,8,83,35,True,False,True,Right-arm medium-fast,Right-hand bat
+Adelaide Strikers,KW Richardson,dfc4d8b5,9,0,1,0,0,0.0,"[5, 13, 20]",3.0,18,7,0,23,3,0,1,0,0,0,1,7.67,0,0,0,0,0,-2,32,0,30,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Adelaide Strikers,BE Young,278fd5ff,10,3,3,0,0,100.0,"[2, 4, 10, 15]",4.0,24,7,0,37,2,1,2,1,0,0,0,9.25,0,0,0,0,0,3,65,0,68,52,True,False,False,Slow left-arm orthodox,Right-hand bat
+Adelaide Strikers,GD Putland,9f54ae00,11,0,1,0,0,0.0,"[1, 3, 19]",3.0,18,8,0,21,3,0,0,0,0,1,1,7.0,0,0,0,0,0,0,10,0,10,39,True,True,False,Left-arm fast-medium,Right-hand bat
+Melbourne Renegades,MW Hill,1952e660,1,3,9,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,36,True,True,False,Right-arm medium,Left-hand bat
+Melbourne Renegades,AJ Finch,b8d490fd,2,13,14,2,0,92.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,21,0,16,37,38,True,False,False,Slow left-arm orthodox,Right-hand bat
+Melbourne Renegades,MN Samuels,f846de6a,3,16,9,2,1,177.78,"[8, 13, 18]",3.0,18,8,0,16,0,1,3,0,0,0,0,5.33,0,0,0,0,0,30,91,0,121,44,True,False,False,Right-arm offbreak,Right-hand bat
+Melbourne Renegades,BJ Rohrer,27af6414,4,35,27,3,0,129.63,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,51,0,8,59,44,True,False,False,,Left-hand bat
+Melbourne Renegades,TLW Cooper,2318ba22,5,59,46,2,2,128.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,87,0,0,87,38,True,False,False,Right-arm offbreak,Right-hand bat
+Melbourne Renegades,PM Nevill,a22fb7b5,6,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,39,True,False,False,,Right-hand bat
+Melbourne Renegades,WD Sheridan,25d12bb4,7,15,10,1,0,150.0,"[10, 19]",1.5,9,6,0,2,0,0,1,0,1,0,0,1.33,1,0,0,0,0,19,39,8,66,37,True,True,False,Left-arm fast-medium,Right-hand bat
+Melbourne Renegades,NJ Rimmington,6042bf26,11,0,0,0,0,0.0,"[3, 6, 12, 16]",4.0,24,11,0,22,1,1,2,0,0,0,0,5.5,0,0,0,0,0,0,65,0,65,42,True,False,False,Right-arm fast-medium,Right-hand bat
+Melbourne Renegades,AW O'Brien,d29be810,12,0,0,0,0,0.0,"[1, 5, 15]",3.0,18,4,0,19,0,0,0,0,0,0,0,6.33,1,0,1,0,0,0,6,20,26,43,True,True,False,Slow left-arm orthodox,Left-hand bat
+Melbourne Renegades,DJ Pattinson,3fe2db87,13,0,0,0,0,0.0,"[2, 4, 14]",3.0,18,6,0,27,4,0,0,0,0,0,0,9.0,0,0,0,0,0,0,6,0,6,45,True,False,False,Right-arm fast-medium,Right-hand bat
+Melbourne Renegades,M Muralitharan,4ba44e19,14,0,0,0,0,0.0,"[7, 9, 11, 17]",4.0,24,11,0,18,1,0,3,2,1,0,1,4.5,0,0,0,0,0,0,120,0,120,52,True,False,False,Right-arm offbreak,Right-hand bat

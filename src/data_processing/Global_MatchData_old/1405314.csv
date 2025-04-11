@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Nepal,K Bhurtel,e3386c8a,1,74,48,8,2,154.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,130,0,0,130,28,True,False,False,Legbreak googly,Right-hand bat
+Nepal,Aasif Sheikh,dcbea954,2,27,26,2,1,103.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,45,0,8,53,23,True,False,False,,Right-hand bat
+Nepal,RK Paudel,1a3cc554,3,35,24,2,2,145.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,61,0,16,77,22,True,False,True,Right-arm offbreak,Right-hand bat
+Nepal,Kushal Malla,7e9f1cde,4,6,1,0,1,600.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,21,True,False,True,Slow left-arm orthodox,Left-hand bat
+Nepal,Karan KC,f53b3e1d,4,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,11,0,36,6,0,2,0,0,0,1,9.0,1,0,0,0,0,0,61,8,69,33,True,False,True,Right-arm fast,Right-hand bat
+Nepal,A Bohara,64fb6b15,5,0,0,0,0,0.0,"[5, 13, 18, 20]",4.0,24,8,1,43,5,2,3,0,0,0,0,10.75,0,0,0,0,0,0,97,0,97,27,True,False,False,Right-arm medium,Right-hand bat
+Nepal,Gulsan Jha,9811e35e,6,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,12,0,21,3,0,2,0,0,0,1,5.25,1,0,0,0,0,0,66,8,74,19,True,False,True,Right-arm medium,Left-hand bat
+Nepal,B Yadav,ef07f354,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,21,True,False,True,Right-arm medium,Right-hand bat
+Nepal,S Lamichhane,b410bd3d,8,0,0,0,0,0.0,"[7, 9, 11, 15]",4.0,24,12,0,18,2,0,2,1,1,0,1,4.5,0,0,0,0,0,0,84,0,84,24,True,False,False,Legbreak googly,Right-hand bat
+Nepal,Sompal Kami,1adb8ee8,9,0,0,0,0,0.0,"[2, 4, 6, 16]",4.0,24,13,0,21,3,0,0,0,0,0,1,5.25,0,0,0,0,0,0,17,0,17,29,True,False,True,Right-arm fast-medium,Right-hand bat
+Nepal,S Jora,156378d8,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,23,True,False,False,,Right-hand bat
+Singapore,Aritra Dutta,f3a5c378,1,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,33,True,False,False,,Right-hand bat
+Singapore,R Rohan,baf0fc26,2,46,30,9,1,153.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,96,0,0,96,25,True,False,False,Right-arm offbreak,Right-hand bat
+Singapore,S Chandramohan,2a6ccc1c,3,6,10,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,4,0,0,4,36,True,False,False,,Right-hand bat
+Singapore,A Kaul,53d0b0dc,4,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,25,True,False,False,Right-arm medium,Right-hand bat
+Singapore,Manpreet Singh,e9d6a2ce,5,24,26,3,0,92.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,36,0,0,36,40,True,False,False,,Right-hand bat
+Singapore,Janak Prakash,f092b4c7,6,7,7,1,0,100.0,"[1, 6, 11]",3.0,18,6,0,29,3,1,0,0,0,0,3,9.67,0,0,0,0,0,11,6,0,17,24,True,False,True,Right-arm medium,Right-hand bat
+Singapore,A Chaudhary,465fd722,7,37,26,5,0,142.31,"[3, 5]",2.0,12,5,0,19,2,1,0,0,0,0,0,9.5,0,0,0,0,2,63,5,0,68,18,True,True,False,Left-arm medium,Left-hand bat
+Singapore,TO Thilappan,44482748,8,1,4,0,0,25.0,"[13, 15]",2.0,12,3,0,14,1,0,0,0,0,0,0,7.0,1,0,0,0,0,1,5,8,14,32,True,True,False,Right-arm medium,Right-hand bat
+Singapore,A Krishna,13598ebc,9,0,2,0,0,0.0,"[7, 9, 14, 17]",3.5,21,5,0,33,3,1,1,0,0,0,0,9.43,0,0,0,0,0,-2,30,0,28,34,True,True,False,Legbreak googly,Right-hand bat
+Singapore,AR Puri,1f490b28,10,13,8,1,1,162.5,"[8, 10, 12]",3.0,18,7,0,28,2,2,1,0,1,0,0,9.33,0,0,0,0,0,23,40,0,63,21,True,False,False,Right-arm offbreak,Right-hand bat
+Singapore,R Kalimuthu,5892ac75,11,1,1,0,0,100.0,"[2, 4, 16]",3.0,18,7,0,22,1,1,0,0,0,0,0,7.33,0,0,0,0,0,1,7,0,8,37,True,True,False,Right-arm medium-fast,Right-hand bat

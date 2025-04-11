@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Essex,ML Pettini,eba62359,1,13,12,1,0,108.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,41,True,False,False,Right-arm medium,Right-hand bat
+Essex,JD Ryder,91ffa6c6,2,25,18,3,1,138.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,49,0,0,49,40,True,False,True,Right-arm medium,Left-hand bat
+Essex,T Westley,25a42048,3,55,42,5,1,130.95,[16],1.0,6,1,0,8,0,0,0,0,0,0,1,8.0,0,0,0,0,2,91,1,0,92,36,True,False,False,Right-arm offbreak,Right-hand bat
+Essex,RN ten Doeschate,4ec07775,4,0,0,0,0,0.0,[11],1.0,6,1,0,13,2,0,0,0,0,0,0,13.0,0,0,0,0,0,0,1,0,1,44,True,False,True,Right-arm medium-fast,Right-hand bat
+Essex,RS Bopara,7ca5e05d,4,66,39,2,6,169.23,"[7, 9, 13, 18]",4.0,24,6,0,33,4,0,1,0,1,0,3,8.25,0,0,0,0,4,122,39,0,161,39,True,False,True,Right-arm medium,Right-hand bat
+Essex,BT Foakes,fd770945,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,32,True,False,False,,Right-hand bat
+Essex,JS Foster,e68dd455,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,44,True,False,False,,Right-hand bat
+Essex,TJ Phillips,ecf7bbc9,7,0,0,0,0,0.0,"[2, 4, 12, 14]",4.0,24,11,0,20,2,0,1,0,1,0,0,5.0,1,0,0,0,0,0,48,8,56,44,True,False,False,Slow left-arm orthodox,Left-hand bat
+Essex,DD Masters,61a9ce31,8,0,0,0,0,0.0,"[1, 3, 5, 17]",4.0,24,9,0,17,1,0,2,0,2,0,0,4.25,0,0,0,0,0,0,81,0,81,46,True,False,False,Right-arm medium-fast,Right-hand bat
+Essex,TS Mills,245c97cb,9,0,0,0,0,0.0,"[6, 20]",2.0,12,3,0,23,3,0,1,0,0,0,2,11.5,0,0,0,0,0,0,24,0,24,32,True,False,False,Left-arm fast,Right-hand bat
+Essex,RJW Topley,8db7f47f,10,0,0,0,0,0.0,"[8, 10, 15, 19]",4.0,24,6,0,39,3,1,1,0,1,2,1,9.75,0,0,0,0,0,0,39,0,39,31,True,False,False,Left-arm fast-medium,Right-hand bat
+Gloucestershire,M Klinger,b970a03f,1,15,16,3,0,93.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27,44,True,False,False,,Right-hand bat
+Gloucestershire,APR Gidman,254db476,2,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,43,True,False,True,Right-arm medium,Right-hand bat
+Gloucestershire,IA Cockbain,542fd5a6,3,5,8,0,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,38,True,False,False,Right-arm medium,Right-hand bat
+Gloucestershire,HJH Marshall,70542bef,4,74,47,8,0,157.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,118,0,0,118,46,True,False,False,Right-arm medium,Right-hand bat
+Gloucestershire,TMJ Smith,0a12e736,4,0,0,0,0,0.0,"[5, 8, 12, 18]",4.0,24,7,0,26,0,1,1,0,1,0,0,6.5,0,0,0,0,0,0,42,0,42,37,True,False,False,Slow left-arm orthodox,Right-hand bat
+Gloucestershire,DA Payne,6c79c098,5,0,0,0,0,0.0,"[1, 3, 15, 19]",3.5,21,6,0,33,5,1,0,0,0,0,0,9.43,0,0,0,0,0,0,6,0,6,34,True,False,False,Left-arm fast-medium,Right-hand bat
+Gloucestershire,BAC Howell,0bec3a6c,5,19,18,2,0,105.56,"[7, 9, 13, 17]",4.0,24,8,0,34,1,3,1,0,0,0,0,8.5,0,0,0,0,0,27,33,0,60,36,True,False,True,Right-arm medium,Right-hand bat
+Gloucestershire,DM Housego,62faf735,6,5,11,0,0,45.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-1,0,0,-1,36,True,True,False,Legbreak,Right-hand bat
+Gloucestershire,GJ McCarter,6232e1ed,6,0,0,0,0,0.0,"[4, 11, 14]",3.0,18,1,0,30,2,1,0,0,0,0,0,10.0,0,0,0,0,0,0,-1,0,-1,32,True,False,False,Right-arm medium,Right-hand bat
+Gloucestershire,CL Herring,32513930,7,23,12,2,1,191.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,43,0,8,51,30,True,False,False,,Right-hand bat
+Gloucestershire,JMR Taylor,aed5be04,8,1,2,0,0,50.0,"[2, 6, 10, 16]",4.0,24,7,0,36,3,2,0,0,0,0,0,9.0,0,0,0,0,0,1,7,0,8,33,True,False,False,Legbreak,Right-hand bat

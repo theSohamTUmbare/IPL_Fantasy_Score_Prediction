@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Deccan Chargers,AC Gilchrist,2b6e6dec,1,50,42,6,1,119.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,88,0,0,88,53,True,True,False,Right-arm offbreak,Left-hand bat
+Deccan Chargers,HH Gibbs,e1d1b294,2,44,34,3,3,129.41,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,78,0,8,86,51,True,False,False,Right-arm bowler,Right-hand bat
+Deccan Chargers,RG Sharma,740742ef,3,50,27,3,4,185.19,"[8, 10, 12, 14]",4.0,24,6,0,25,2,0,1,0,0,0,1,6.25,1,0,0,0,6,100,33,8,141,37,True,False,False,Right-arm offbreak,Right-hand bat
+Deccan Chargers,Y Venugopal Rao,fe763256,4,2,5,0,0,40.0,"[3, 9]",2.0,12,4,0,23,3,1,0,0,0,0,0,11.5,0,0,0,0,0,2,0,0,2,43,True,False,False,Right-arm offbreak,Right-hand bat
+Deccan Chargers,LPC Silva,1be70c88,5,23,10,2,1,230.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,43,0,8,51,45,True,False,False,Legbreak,Right-hand bat
+Deccan Chargers,SB Styris,57efa3be,6,1,2,0,0,50.0,"[5, 7, 16, 19]",4.0,24,6,0,36,1,3,1,0,0,0,0,9.0,0,0,0,0,0,1,31,0,32,49,True,False,True,Right-arm medium,Right-hand bat
+Deccan Chargers,DB Ravi Teja,b720a5d6,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,37,True,False,False,Legbreak googly,Right-hand bat
+Deccan Chargers,SB Bangar,0604ef16,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,52,True,True,False,Right-arm medium-fast,Right-hand bat
+Deccan Chargers,RP Singh,c3d1402f,8,0,0,0,0,0.0,"[1, 6, 18, 20]",3.5,21,3,0,37,4,1,0,0,0,0,1,10.57,1,0,0,0,0,0,1,8,9,39,True,False,False,Left-arm fast-medium,Right-hand bat
+Deccan Chargers,PP Ojha,6c6591ab,9,0,0,0,0,0.0,"[11, 13, 15, 17]",4.0,24,8,0,30,0,2,2,0,0,0,3,7.5,0,0,0,0,0,0,58,0,58,38,True,False,False,Slow left-arm orthodox,Left-hand bat
+Deccan Chargers,DP Vijaykumar,acd4f5dc,10,0,0,0,0,0.0,"[2, 4]",2.0,12,5,0,24,3,1,0,0,0,0,0,12.0,0,0,0,0,0,0,1,0,1,38,True,True,False,Right-arm medium,Right-hand bat
+Kings XI Punjab,SE Marsh,508a1ea7,1,60,46,3,3,130.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,100,0,0,100,41,True,False,False,Slow left-arm orthodox,Left-hand bat
+Kings XI Punjab,KC Sangakkara,6b71e6cf,2,50,25,7,2,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,104,0,0,104,47,True,True,False,Right-arm offbreak,Left-hand bat
+Kings XI Punjab,Yuvraj Singh,1c914163,3,17,15,2,0,113.33,[14],1.0,6,0,0,18,0,2,0,0,0,0,0,18.0,0,0,0,0,0,25,0,0,25,43,True,False,False,Slow left-arm orthodox,Left-hand bat
+Kings XI Punjab,LA Pomersbach,b63ab531,4,13,12,0,1,108.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,40,True,False,False,Right-arm offbreak,Left-hand bat
+Kings XI Punjab,DPMD Jayawardene,d18f9182,5,14,10,0,1,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,22,0,0,22,47,True,False,False,Right-arm medium,Right-hand bat
+Kings XI Punjab,PP Chawla,98ae73b1,6,16,9,1,1,177.78,"[7, 9, 11, 16]",4.0,24,12,0,31,1,3,0,0,0,0,0,7.75,1,0,0,0,0,26,12,8,46,36,True,False,True,Legbreak,Left-hand bat
+Kings XI Punjab,TM Srivastava,a76d10ba,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,35,True,False,False,Right-arm medium,Left-hand bat
+Kings XI Punjab,RR Powar,5d096f3d,7,0,0,0,0,0.0,"[6, 8, 13, 15]",4.0,24,12,0,20,0,1,1,0,1,0,1,5.0,0,0,0,0,0,0,49,0,49,46,True,False,False,Right-arm offbreak,Right-hand bat
+Kings XI Punjab,Gagandeep Singh,890de8cb,8,0,0,0,0,0.0,"[10, 12, 17]",3.0,18,5,0,33,3,2,1,0,1,0,0,11.0,0,0,0,0,0,0,36,0,36,43,True,True,False,Right-arm medium-fast,Right-hand bat
+Kings XI Punjab,VRV Singh,034b4b7d,9,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,5,0,40,5,1,1,0,1,0,0,10.0,0,0,0,0,0,0,36,0,36,40,True,True,False,Right-arm medium-fast,Right-hand bat
+Kings XI Punjab,S Sreesanth,6b8eb6e5,10,0,0,0,0,0.0,"[1, 3, 5, 19]",4.0,24,10,0,29,5,0,1,0,0,0,0,7.25,0,0,0,0,0,0,35,0,35,42,True,False,False,Right-arm fast-medium,Right-hand bat

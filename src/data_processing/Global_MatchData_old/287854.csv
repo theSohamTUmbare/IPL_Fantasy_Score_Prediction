@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Kenya,MA Ouma,0939c670,1,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,42,True,True,False,Right-arm offbreak,Right-hand bat
+Kenya,DO Obuya,6ed3d5ac,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,45,True,False,False,,Right-hand bat
+Kenya,T Mishra,c9cac448,3,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,38,True,False,False,Right-arm fast-medium,Right-hand bat
+Kenya,SO Tikolo,00d69fa4,4,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,53,True,False,True,Right-arm offbreak,Right-hand bat
+Kenya,CO Obuya,5680f1ad,5,18,25,2,0,72.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26,43,True,False,True,Legbreak,Right-hand bat
+Kenya,TM Odoyo,2c13defe,6,18,26,3,0,69.23,"[1, 3, 5]",3.0,18,11,0,22,2,1,1,0,0,1,2,7.33,0,0,0,0,-2,28,36,0,64,46,True,False,True,Right-arm medium-fast,Right-hand bat
+Kenya,NN Odhiambo,753b5a2d,7,0,6,0,0,0.0,[7],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,-2,1,0,-1,41,True,False,False,Right-arm medium-fast,Right-hand bat
+Kenya,AA Obanda,7081491e,8,4,12,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2,37,True,False,False,Right-arm medium-fast,Right-hand bat
+Kenya,JK Kamande,270b3f8e,9,14,13,1,0,107.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,46,True,False,False,Right-arm offbreak,Right-hand bat
+Kenya,RL Bhudia,47d00fb5,10,11,9,0,1,122.22,[8],0.667,4,0,0,17,1,2,0,0,0,0,0,25.49,0,0,0,0,0,17,0,0,17,,,,,,
+Kenya,PJ Ongondo,27cc4361,11,0,2,0,0,0.0,"[2, 4, 6]",3.0,18,10,0,22,2,1,0,0,0,0,2,7.33,0,0,0,0,0,-2,10,0,8,48,True,False,False,Right-arm fast-medium,Right-hand bat
+New Zealand,L Vincent,2764133a,1,27,20,4,1,135.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,55,0,0,55,46,True,False,False,Right-arm medium,Right-hand bat
+New Zealand,BB McCullum,b8a55852,2,16,12,1,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,2,28,0,12,40,43,True,True,False,Right-arm offbreak,Right-hand bat
+New Zealand,PG Fulton,10a2a1ff,3,21,14,1,2,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,37,0,0,37,46,True,False,False,Right-arm medium,Right-hand bat
+New Zealand,LRPL Taylor,b61a3e1a,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,41,True,False,False,Right-arm offbreak,Right-hand bat
+New Zealand,SB Styris,57efa3be,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,49,True,False,True,Right-arm medium,Right-hand bat
+New Zealand,JDP Oram,3eac9d95,5,0,0,0,0,0.0,"[6, 8]",2.0,12,3,0,20,3,0,0,0,0,0,1,10.0,1,0,0,0,0,0,1,8,9,46,True,False,True,Right-arm fast-medium,Left-hand bat
+New Zealand,CD McMillan,f5390243,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,,,,,,
+New Zealand,DL Vettori,d7c6af50,7,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,12,0,18,1,0,2,0,1,0,1,4.5,0,0,0,0,0,0,76,0,76,46,True,False,True,Slow left-arm orthodox,Left-hand bat
+New Zealand,SE Bond,4f629497,8,0,0,0,0,0.0,"[1, 3, 5, 7]",4.0,24,19,1,12,2,0,2,0,1,0,1,3.0,0,0,0,0,0,0,95,0,95,49,True,False,False,Right-arm fast,Right-hand bat
+New Zealand,MR Gillespie,7d7ab238,9,0,0,0,0,0.0,"[2, 4, 17]",2.833,17,14,0,7,0,0,4,1,2,0,2,2.47,0,0,0,0,0,0,152,0,152,,,,,,
+New Zealand,CS Martin,05e0fab5,10,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,17,1,14,0,1,2,0,0,0,1,3.5,0,0,0,0,0,0,85,0,85,,,,,,

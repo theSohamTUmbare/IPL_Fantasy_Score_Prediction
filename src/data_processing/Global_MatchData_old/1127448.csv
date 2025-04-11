@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Essex,AJA Wheater,71647ced,1,6,9,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6,35,True,False,False,,Right-hand bat
+Essex,V Chopra,54745c20,2,64,48,5,3,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,112,0,0,112,37,True,False,False,Legbreak googly,Right-hand bat
+Essex,T Westley,25a42048,3,22,14,4,0,157.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,42,0,0,42,36,True,False,False,Right-arm offbreak,Right-hand bat
+Essex,RN ten Doeschate,4ec07775,4,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,44,True,False,True,Right-arm medium-fast,Right-hand bat
+Essex,RS Bopara,7ca5e05d,5,4,7,0,0,57.14,"[10, 18, 20]",3.0,18,3,0,31,2,2,0,0,0,0,0,10.33,0,0,0,0,0,4,1,0,5,39,True,False,True,Right-arm medium,Right-hand bat
+Essex,Ashar Zaidi,9bab2b81,6,22,21,1,1,104.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32,43,True,False,True,Slow left-arm orthodox,Left-hand bat
+Essex,SR Harmer,23638956,7,13,10,1,0,130.0,"[12, 14]",2.0,12,2,0,15,1,0,0,0,0,0,0,7.5,1,0,0,0,2,19,2,8,29,36,True,False,False,Right-arm offbreak,Right-hand bat
+Essex,MT Coles,e9d5218e,8,0,1,0,0,0.0,"[7, 11, 15, 19]",4.0,24,4,0,49,6,2,1,0,0,0,1,12.25,1,0,0,0,0,-2,23,8,29,34,True,False,True,Right-arm fast-medium,Left-hand bat
+Essex,A Zampa,14f96089,9,0,2,0,0,0.0,"[6, 8, 16]",3.0,18,5,0,30,4,1,1,1,0,0,0,10.0,0,0,0,0,0,-2,36,0,34,32,True,False,False,Legbreak googly,Right-hand bat
+Essex,SJ Cook,679cd31e,10,0,1,0,0,0.0,"[2, 4, 13, 17]",4.0,24,9,0,27,3,0,1,0,0,0,0,6.75,0,0,0,0,0,-2,36,0,34,27,True,False,False,Right-arm medium-fast,Right-hand bat
+Essex,JA Porter,5b6d248a,11,1,2,0,0,50.0,"[1, 3, 5, 9]",4.0,24,11,0,26,3,1,2,0,1,0,0,6.5,0,0,0,0,0,1,71,0,72,31,True,False,False,Right-arm medium-fast,Right-hand bat
+Sussex,PD Salt,3d284ca3,1,4,8,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,28,True,True,False,Right-arm offbreak,Right-hand bat
+Sussex,LJ Wright,cca50cd6,2,4,2,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,40,True,False,False,Right-arm medium,Right-hand bat
+Sussex,LJ Evans,1c513d54,3,61,45,9,0,135.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,107,0,8,115,37,True,False,False,Right-arm offbreak,Right-hand bat
+Sussex,TC Bruce,f92c9151,4,5,7,1,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,9,0,16,25,33,True,False,False,Right-arm offbreak,Right-hand bat
+Sussex,MGK Burgess,715941c3,5,56,23,4,5,243.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,116,0,8,124,30,True,False,False,,Right-hand bat
+Sussex,D Wiese,aa8d28ae,6,23,17,3,0,135.29,"[4, 7, 9, 19]",4.0,24,13,0,24,4,0,5,0,2,0,1,6.0,0,0,0,0,2,37,168,0,205,39,True,False,True,Right-arm medium-fast,Right-hand bat
+Sussex,JC Archer,5574750c,7,24,18,1,1,133.33,"[2, 6, 16, 20]",3.667,22,11,0,24,1,1,3,0,2,0,0,6.54,0,0,0,0,2,36,108,0,144,29,True,False,False,Right-arm fast,Right-hand bat
+Sussex,Rashid Khan,5f547c8b,8,0,0,0,0,0.0,"[5, 11, 13, 17]",4.0,24,13,0,25,1,1,2,0,1,0,7,6.25,0,0,0,0,0,0,73,0,73,26,True,False,True,Legbreak googly,Right-hand bat
+Sussex,WAT Beer,98eacfe5,11,0,0,0,0,0.0,[12],1.0,6,0,0,14,1,1,0,0,0,0,0,14.0,0,0,0,0,0,0,0,0,0,36,True,False,False,Legbreak,Right-hand bat
+Sussex,OE Robinson,0f3ee070,12,0,0,0,0,0.0,"[1, 3, 15, 18]",4.0,24,8,0,32,3,0,0,0,0,0,1,8.0,1,0,0,0,0,0,8,8,16,31,True,False,False,Right-arm medium-fast,Right-hand bat
+Sussex,DR Briggs,f3abd0c9,13,0,0,0,0,0.0,"[8, 10, 14]",3.0,18,2,0,22,1,1,0,0,0,0,0,7.33,0,0,0,0,0,0,2,0,2,33,True,False,False,Slow left-arm orthodox,Right-hand bat

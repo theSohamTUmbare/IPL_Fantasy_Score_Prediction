@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Pakistan,Mohammad Rizwan,2f26ac1a,1,78,51,10,0,152.94,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,134,0,0,134,32,True,True,False,Right-arm medium,Right-hand bat
+Pakistan,Babar Azam,8a75e999,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,30,True,False,False,Right-arm offbreak,Right-hand bat
+Pakistan,Fakhar Zaman,1777c020,3,10,10,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,34,True,False,False,Slow left-arm orthodox,Left-hand bat
+Pakistan,Haider Ali,c13e34f4,4,68,38,6,4,178.95,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,130,0,0,130,24,True,False,False,,Right-hand bat
+Pakistan,Asif Ali,0a4736eb,5,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,33,True,False,False,Right-arm offbreak,Right-hand bat
+Pakistan,Iftikhar Ahmed,29e253dd,6,7,5,1,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,34,True,False,False,Right-arm offbreak,Right-hand bat
+Pakistan,Mohammad Nawaz,3086f7a4,7,30,10,3,2,300.0,"[2, 7, 9, 11]",4.0,24,11,0,24,2,1,1,0,0,0,0,6.0,2,0,0,0,6,64,38,16,118,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Pakistan,Shadab Khan,9de62878,8,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,16,1,17,1,1,3,1,1,0,0,4.25,0,0,0,0,0,0,129,0,129,26,True,False,True,Legbreak,Right-hand bat
+Pakistan,Mohammad Wasim,9e9af5f2,11,0,0,0,0,0.0,"[4, 6, 15, 19]",4.0,24,10,0,40,4,2,4,1,3,0,3,10.0,0,0,0,0,0,0,148,0,148,23,True,False,False,Right-arm fast-medium,Right-hand bat
+Pakistan,Haris Rauf,24bb1c2f,12,0,0,0,0,0.0,"[5, 13, 17]",3.0,18,7,0,21,0,2,1,0,0,0,0,7.0,0,0,0,0,0,0,34,0,34,31,True,False,False,Right-arm fast,Right-hand bat
+Pakistan,Shaheen Shah Afridi,45a7e761,13,0,0,0,0,0.0,"[1, 3, 16, 18]",4.0,24,8,0,35,4,1,1,0,1,0,2,8.75,0,0,0,0,0,0,41,0,41,24,True,False,False,Left-arm fast,Left-hand bat
+West Indies,SD Hope,1fc6ef83,1,31,26,4,0,119.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,51,0,16,67,31,True,False,False,,Right-hand bat
+West Indies,BA King,7fca84b7,2,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,30,True,False,False,,Right-hand bat
+West Indies,N Pooran,3241e3fd,3,18,10,1,2,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,40,0,0,40,29,True,True,False,Right-arm offbreak,Left-hand bat
+West Indies,DC Thomas,08a4f9ad,4,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,35,True,False,False,Right-arm medium,Right-hand bat
+West Indies,SSJ Brooks,977b841a,5,5,15,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,-1,0,8,7,36,True,False,False,Legbreak,Right-hand bat
+West Indies,R Powell,650d5e49,6,23,15,1,2,153.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,43,0,8,51,31,True,False,False,Right-arm medium-fast,Right-hand bat
+West Indies,DC Drakes,34b332d3,7,5,6,1,0,83.33,"[3, 6, 14, 20]",4.0,24,3,0,43,3,2,1,0,0,0,0,10.75,0,0,0,0,0,9,26,0,35,27,True,False,True,Left-arm medium-fast,Left-hand bat
+West Indies,R Shepherd,c5aef772,8,21,16,2,1,131.25,"[5, 10, 16, 19]",4.0,24,5,0,43,5,1,2,0,0,0,2,10.75,0,0,0,0,2,37,53,0,90,30,True,False,True,Right-arm fast-medium,Right-hand bat
+West Indies,OF Smith,23cca426,9,24,16,2,2,150.0,"[8, 12, 15, 18]",4.0,24,4,0,56,7,3,1,0,0,0,0,14.0,2,0,0,0,0,44,23,16,83,28,True,False,True,Right-arm fast-medium,Right-hand bat
+West Indies,AJ Hosein,4d7f517e,10,1,1,0,0,100.0,"[1, 7, 9, 11]",4.0,24,10,0,19,1,0,1,0,0,0,0,4.75,0,0,0,0,0,1,41,0,42,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+West Indies,O Thomas,c6097d68,11,1,3,0,0,33.33,"[2, 4, 13, 17]",4.0,24,8,0,38,5,0,1,0,0,2,1,9.5,0,0,0,0,0,1,33,0,34,28,True,False,False,Right-arm fast,Left-hand bat

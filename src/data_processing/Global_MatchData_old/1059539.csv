@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Kenya,IA Karim,ca92a578,1,19,15,1,2,126.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,35,0,16,51,32,True,True,False,Right-arm offbreak,Left-hand bat
+Kenya,AA Obanda,7081491e,2,13,9,1,1,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23,37,True,False,False,Right-arm medium-fast,Right-hand bat
+Kenya,DM Gondaria,9048c17e,3,5,4,1,0,125.0,"[9, 11, 13]",3.0,18,8,0,17,0,1,1,0,0,1,0,5.67,1,0,0,0,0,9,37,8,54,30,True,False,False,Right-arm medium-fast,Right-hand bat
+Kenya,RR Patel,7fa6bd8e,4,54,40,5,2,135.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,96,0,0,96,35,True,True,False,Right-arm offbreak,Right-hand bat
+Kenya,CO Obuya,5680f1ad,5,15,18,0,0,83.33,"[12, 14]",2.0,12,5,0,25,4,1,0,0,0,0,0,12.5,0,0,0,0,0,15,-1,0,14,43,True,False,True,Legbreak,Right-hand bat
+Kenya,RN Patel,db1bf9c2,6,28,19,1,2,147.37,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,50,0,8,58,31,True,False,False,Right-arm medium-fast,Left-hand bat
+Kenya,Gurdeep Singh,31865a5b,7,6,8,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6,27,True,False,False,Legbreak,Left-hand bat
+Kenya,SO Ngoche,49118dc7,8,12,7,2,0,171.43,"[6, 8, 10, 20]",3.5,21,7,0,17,1,0,0,0,0,0,1,4.86,0,0,0,0,0,20,13,0,33,35,True,False,False,Slow left-arm orthodox,Right-hand bat
+Kenya,E Otieno,c57fa67e,10,0,0,0,0,0.0,"[1, 3, 15, 17]",4.0,24,8,0,35,2,2,2,0,1,1,0,8.75,0,0,2,0,0,0,66,24,90,37,True,False,False,Right-arm medium-fast,Right-hand bat
+Kenya,E Ochieng,b64e3749,11,0,0,0,0,0.0,"[2, 4, 18]",3.0,18,6,0,34,5,1,0,0,0,0,0,11.33,0,0,0,0,0,0,2,0,2,32,True,True,False,Right-arm medium,Right-hand bat
+Kenya,NM Odhiambo,c07a1f41,12,0,0,0,0,0.0,"[5, 7, 16, 19]",4.0,24,11,0,29,2,1,3,0,1,0,1,7.25,0,0,0,0,0,0,98,0,98,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Qatar,Faisal Javed,b0ef0346,1,35,16,5,2,218.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,77,0,0,77,50,True,False,False,,Right-hand bat
+Qatar,Kamran Khan,922e3dcc,2,12,10,0,1,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,36,True,True,False,Right-arm medium,Right-hand bat
+Qatar,Inam-ul-Haq,15c766c3,3,31,31,1,2,100.0,"[2, 4, 6, 17]",4.0,24,10,0,35,5,1,2,0,0,0,1,8.75,1,0,0,0,0,51,60,8,119,,,,,,
+Qatar,Mohammad Rizlan,82afc034,4,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,3,0,12,15,39,True,False,False,Right-arm fast-medium,Right-hand bat
+Qatar,Tamoor Sajjad,7bb926a7,5,2,10,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,-4,0,8,4,33,True,True,False,Legbreak,Right-hand bat
+Qatar,Imran Ashraf,e95eb01b,6,33,19,4,1,173.68,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,65,0,0,65,44,True,True,False,Legbreak googly,Right-hand bat
+Qatar,Mujeeb-ur-Rehman,1a8f879b,7,5,5,0,0,100.0,"[12, 14, 16, 18]",4.0,24,10,0,30,0,2,2,1,1,0,1,7.5,1,0,0,0,0,5,76,8,89,35,True,True,False,Slow left-arm orthodox,Left-hand bat
+Qatar,Nouman Sarwar,6adabee6,8,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,40,True,True,False,Right-arm medium,Right-hand bat
+Qatar,Mohammed Awais,34b8b1b5,9,8,8,0,0,100.0,"[1, 3, 5, 19]",4.0,24,12,0,35,2,3,2,0,1,0,0,8.75,0,0,0,0,0,8,70,0,78,42,True,True,False,Right-arm medium,Right-hand bat
+Qatar,Iqbal Hussain,b9fd3959,10,24,11,4,0,218.18,"[8, 10, 15, 20]",4.0,24,6,0,32,3,1,1,0,0,0,0,8.0,0,0,0,0,6,46,31,0,77,36,True,True,False,Right-arm medium,Right-hand bat
+Qatar,Mohammed Nadeem,856cbb1e,10,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,9,0,22,1,0,0,0,0,0,0,5.5,0,0,0,0,0,0,13,0,13,42,True,True,False,Slow left-arm orthodox,Right-hand bat

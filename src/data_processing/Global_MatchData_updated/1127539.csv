@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Birmingham Bears,EJ Pollock,d6663a9a,1,15,9,0,2,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27
+Birmingham Bears,IR Bell,33155d1b,2,54,37,3,2,145.95,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,88,0,8,96
+Birmingham Bears,AJ Hose,104e88a4,3,7,7,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,7,0,16,23
+Birmingham Bears,SR Hain,67b9536c,4,9,13,0,1,69.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,13,0,0,13
+Birmingham Bears,C de Grandhomme,94d7f855,5,49,28,1,5,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,93,0,0,93
+Birmingham Bears,GD Elliott,c03449e0,6,9,4,2,0,225.0,"[7, 9, 13, 15]",4.0,24,7,0,26,2,0,1,0,0,0,0,6.5,1,0,0,0,0,17,34,8,59
+Birmingham Bears,TR Ambrose,a15aaa7f,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Birmingham Bears,JS Patel,f5821615,8,0,0,0,0,0.0,"[2, 4, 6, 18]",4.0,24,12,0,28,3,1,2,0,1,0,2,7.0,1,0,0,0,0,0,72,8,80
+Birmingham Bears,AD Thomason,0c5bb005,9,0,0,0,0,0.0,"[1, 14, 17, 20]",4.0,24,8,0,37,3,0,2,0,0,0,8,9.25,1,0,0,0,0,0,58,8,66
+Birmingham Bears,JE Poysden,bbbb7f1e,10,0,0,0,0,0.0,"[8, 10, 12, 16]",4.0,24,7,0,31,3,1,0,0,0,0,0,7.75,1,0,0,0,0,0,7,8,15
+Birmingham Bears,OJ Hannon-Dalby,e0ac7144,11,0,0,0,0,0.0,"[3, 5, 11, 19]",4.0,24,10,0,30,3,1,3,0,0,0,1,7.5,0,0,0,0,0,0,89,0,89
+Nottinghamshire,MH Wessels,90f47cf2,1,3,3,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+Nottinghamshire,AD Hales,92aeac25,2,20,14,3,1,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,40,0,16,56
+Nottinghamshire,TJ Moores,85dcb721,3,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
+Nottinghamshire,SJ Mullaney,0e0d43b4,4,24,16,1,2,150.0,"[8, 10, 12]",3.0,18,6,0,27,1,2,1,0,0,0,1,9.0,0,0,0,0,0,40,31,0,71
+Nottinghamshire,SR Patel,18fac429,5,41,39,5,0,105.13,"[1, 11]",2.0,12,3,0,24,0,3,0,0,0,0,0,12.0,0,0,0,0,0,65,-1,0,64
+Nottinghamshire,DT Christian,2a2e6343,6,10,9,1,0,111.11,[3],1.0,6,2,0,8,1,0,1,0,0,0,0,8.0,1,0,0,0,0,14,27,8,49
+Nottinghamshire,JD Libby,0d61d8f0,7,21,16,2,0,131.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,31,0,0,31
+Nottinghamshire,WT Root,72898514,8,17,14,2,0,121.43,[16],1.0,6,3,0,6,1,0,0,0,0,0,0,6.0,0,0,0,0,0,25,3,0,28
+Nottinghamshire,LJ Fletcher,e423d162,9,3,4,0,0,75.0,"[4, 6, 15, 17]",3.333,20,7,0,32,2,1,1,0,0,2,0,9.6,0,0,0,0,0,3,32,0,35
+Nottinghamshire,IS Sodhi,641ac5ff,10,0,0,0,0,0.0,"[7, 9, 14]",3.0,18,4,0,35,1,3,0,0,0,0,0,11.67,0,0,0,0,0,0,0,0,0
+Nottinghamshire,HF Gurney,e412cb64,11,0,0,0,0,0.0,"[2, 5, 13]",3.0,18,6,0,14,0,1,1,0,0,0,0,4.67,0,0,0,0,0,0,37,0,37

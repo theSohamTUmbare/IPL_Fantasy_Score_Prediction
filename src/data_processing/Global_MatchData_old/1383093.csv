@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Philippines,AS Samra,bf976fb0,1,1,7,0,0,14.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,27,True,True,False,Slow left-arm orthodox,Left-hand bat
+Philippines,GR Russ,1f28fdfd,2,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,34,True,True,False,Right-arm medium,Right-hand bat
+Philippines,J Alegra,ac6be7ed,3,30,29,1,1,103.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,44,0,0,44,26,True,False,False,,Right-hand bat
+Philippines,DC Smith,a968d39b,4,26,28,2,0,92.86,"[2, 4, 6]",3.0,18,8,0,19,1,0,2,0,1,0,3,6.33,1,0,0,0,0,38,68,8,114,33,True,True,False,Right-arm medium-fast,Right-hand bat
+Philippines,JEA Doctora,43449b1e,5,12,22,1,0,54.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,12,0,8,20,27,True,True,False,Right-arm offbreak,Right-hand bat
+Philippines,M Podosky,c46999c7,6,28,16,1,2,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,6,54,0,14,68,35,True,True,False,Right-arm medium,Right-hand bat
+Philippines,ASF Sirah,06bcade5,6,0,0,0,0,0.0,"[13, 15, 17, 19]",4.0,24,9,0,18,0,0,2,0,0,0,1,4.5,0,0,0,0,0,0,65,0,65,21,True,True,False,Legbreak googly,Right-hand bat
+Philippines,G Chohan,b978780e,7,0,0,0,0,0.0,"[9, 11]",2.0,12,4,0,19,3,0,0,0,0,0,0,9.5,0,0,0,0,0,0,4,0,4,29,True,True,False,Right-arm medium,Right-hand bat
+Philippines,LJ Myott,3f9d95f9,8,0,0,0,0,0.0,"[8, 18, 20]",2.5,15,4,0,17,1,0,1,0,0,0,2,6.8,2,0,0,1,0,0,31,22,53,24,True,True,False,Right-arm offbreak,Right-hand bat
+Philippines,KDA Lukies,14af45c4,9,0,0,0,0,0.0,"[1, 3, 5, 7]",4.0,24,16,0,14,1,0,2,1,0,0,0,3.5,0,0,0,0,0,0,80,0,80,18,True,True,False,Slow left-arm orthodox,Left-hand bat
+Philippines,Huzaifa Mohammed,65a29a30,10,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,18,2,8,0,0,2,0,0,0,0,2.0,0,0,0,0,0,0,98,0,98,42,True,True,False,Right-arm offbreak,Right-hand bat
+Vanuatu,N Nipiko,c498c510,1,8,8,1,0,100.0,"[5, 13, 15]",3.0,18,10,0,16,1,0,0,0,0,0,0,5.33,0,0,0,0,0,12,14,0,26,29,True,True,False,Right-arm medium,Right-hand bat
+Vanuatu,PK Matautaava,af19aa66,2,5,9,0,0,55.56,"[1, 3, 17]",3.0,18,9,0,23,0,2,0,0,0,0,0,7.67,0,0,0,0,0,5,9,0,14,33,True,True,False,Right-arm medium,Right-hand bat
+Vanuatu,A Mansale,a22b4f3f,3,0,1,0,0,0.0,"[7, 9, 11]",3.0,18,5,0,23,1,1,0,0,0,0,0,7.67,1,0,0,0,0,-2,5,8,11,36,True,True,False,Right-arm offbreak,Right-hand bat
+Vanuatu,JD Allan,3758028b,4,36,35,4,0,102.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,56,0,8,64,34,True,False,False,,Right-hand bat
+Vanuatu,J Rasu,1021b6e5,5,0,1,0,0,0.0,"[2, 4, 6, 8]",4.0,24,15,0,17,2,0,2,0,1,0,0,4.25,0,0,0,0,0,-2,79,0,77,30,True,True,False,Right-arm medium,Right-hand bat
+Vanuatu,JP Kaltapau,d8dccff5,6,7,16,0,0,43.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,1,0,0,1,25,True,True,False,Right-arm offbreak,Right-hand bat
+Vanuatu,R Tari,c4d19735,7,23,26,1,0,88.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27,31,True,True,False,Right-arm medium,Right-hand bat
+Vanuatu,J Vira,2090e94d,8,3,12,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-3,0,0,-3,30,True,False,False,,Right-hand bat
+Vanuatu,SH Obed,f49c401e,9,3,4,0,0,75.0,[18],0.667,4,3,0,4,1,0,0,0,0,0,0,6.0,0,0,0,0,0,3,3,0,6,35,True,True,False,Legbreak,Right-hand bat
+Vanuatu,W Nalisa,673be48f,10,1,2,0,0,50.0,"[10, 12, 14, 16]",4.0,24,13,0,14,0,0,2,0,0,0,0,3.5,0,0,0,0,0,1,69,0,70,25,True,True,False,Legbreak googly,Right-hand bat
+Vanuatu,D Wotu,9585854d,11,3,3,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11,26,True,True,False,Right-arm medium,Right-hand bat

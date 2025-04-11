@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Lions,RR Hendricks,b8cc58c9,1,41,37,4,1,110.81,"[2, 12]",2.0,12,4,0,20,2,1,0,0,0,0,0,10.0,0,0,0,0,0,67,2,0,69,35,True,False,False,Right-arm offbreak,Right-hand bat
+Lions,K Rapulana,7fe32072,2,31,25,5,0,124.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,55,0,0,55,33,True,True,False,Right-arm medium,Right-hand bat
+Lions,S Dadswell,0ecf791e,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,27,True,False,False,Right-arm medium-fast,Right-hand bat
+Lions,J Richards,15531194,4,10,12,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,26,True,False,False,Legbreak,Right-hand bat
+Lions,MP Siboto,9d50c7e1,5,0,0,0,0,0.0,"[6, 8, 17, 19]",3.167,19,8,0,21,3,0,2,0,0,0,0,6.63,1,0,0,0,0,0,60,8,68,37,True,False,False,Right-arm medium,Left-hand bat
+Lions,M Van Buuren,46e4a4e0,5,9,9,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,27,True,False,False,Legbreak googly,Right-hand bat
+Lions,Codi Yusuf,f2397e48,6,0,0,0,0,0.0,"[5, 7, 11, 15]",4.0,24,5,0,33,2,1,0,0,0,0,1,8.25,0,0,0,0,0,0,5,0,5,26,True,False,True,Right-arm medium,Right-hand bat
+Lions,DA Hendricks,f66f5343,6,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12,34,True,False,False,Right-arm offbreak,Left-hand bat
+Lions,SSB Magala,8361e524,7,33,18,2,2,183.33,"[4, 16, 18]",3.0,18,5,0,30,3,0,0,0,0,0,7,10.0,0,0,0,0,6,63,3,0,66,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Lions,A Myoli,c50bfbc2,7,0,0,0,0,0.0,"[9, 14]",2.0,12,2,0,25,1,2,0,0,0,0,0,12.5,1,0,0,0,0,0,-4,8,4,34,True,False,False,Right-arm fast,Right-hand bat
+Lions,BC Fortuin,9a2fc964,8,15,14,1,0,107.14,"[1, 3, 10, 13]",4.0,24,11,0,23,1,1,1,0,0,0,0,5.75,0,0,0,0,0,19,40,0,59,30,True,False,False,Slow left-arm orthodox,Right-hand bat
+Titans,Q de Kock,372455c4,1,22,11,3,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,6,46,0,14,60,32,True,False,False,,Left-hand bat
+Titans,TB de Bruyn,90d6cdea,2,63,51,6,1,123.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,101,0,0,101,32,True,False,False,Right-arm medium-fast,Right-hand bat
+Titans,D Brevis,844e79d1,3,7,8,1,0,87.5,"[12, 14, 18]",3.0,18,4,0,18,1,0,1,1,0,0,0,6.0,0,0,0,0,0,11,39,0,50,21,True,False,True,Legbreak,Right-hand bat
+Titans,H Klaasen,235c2bb6,4,44,33,1,3,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,72,0,8,80,33,True,True,False,Right-arm offbreak,Right-hand bat
+Titans,D Ferreira,f0af99a7,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,False,True,Right-arm offbreak,Right-hand bat
+Titans,BS Makhanya,1b42a100,5,8,6,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,29,True,False,False,Right-arm medium,Right-hand bat
+Titans,A Gqamane,a83c44b8,6,0,0,0,0,0.0,[5],1.0,6,1,0,10,1,0,0,0,0,0,1,10.0,0,0,0,0,0,0,1,0,1,35,True,False,True,Right-arm fast-medium,Right-hand bat
+Titans,CJ Dala,1cb14aa4,7,0,0,0,0,0.0,"[2, 4, 13, 20]",4.0,24,11,0,39,4,2,1,0,0,0,2,9.75,0,0,0,0,0,0,36,0,36,35,True,False,False,Right-arm medium,Right-hand bat
+Titans,AM Phangiso,7f8ecc51,8,0,0,0,0,0.0,"[6, 8, 10, 16]",4.0,24,11,0,18,1,0,1,0,1,0,0,4.5,0,0,0,1,0,0,50,6,56,41,True,False,False,Slow left-arm orthodox,Right-hand bat
+Titans,LB Williams,a1d95bd8,9,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,7,0,38,4,1,0,0,0,0,1,9.5,0,0,0,0,0,0,7,0,7,31,True,False,False,Right-arm medium-fast,Left-hand bat
+Titans,T Shamsi,a03bba42,10,0,0,0,0,0.0,"[7, 9, 11, 15]",4.0,24,9,0,25,2,0,2,1,0,0,1,6.25,0,0,0,0,0,0,69,0,69,35,True,False,False,Left-arm wrist-spin,Right-hand bat

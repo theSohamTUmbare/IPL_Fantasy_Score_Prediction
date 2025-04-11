@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bulgaria,H Lakov,87a6f411,1,5,8,1,0,62.5,"[2, 4, 6, 8]",4.0,24,16,0,21,2,1,3,1,2,0,2,5.25,3,0,0,0,0,9,123,28,160,33,True,True,False,Right-arm fast,Right-hand bat
+Bulgaria,Fayaz Mohammad,67fedcb4,2,5,4,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,49,True,True,False,Right-arm medium-fast,Right-hand bat
+Bulgaria,Omar Rassol,6caae2dc,3,99,55,9,7,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,195,0,8,203,27,True,True,False,Right-arm offbreak,Right-hand bat
+Bulgaria,KC D'Souza,2687fff2,4,0,1,0,0,0.0,"[14, 16]",2.0,12,10,0,6,1,0,0,0,0,0,1,3.0,1,0,0,0,0,-2,16,8,22,26,True,True,False,Right-arm offbreak,Right-hand bat
+Bulgaria,M Kadyan,c7aae1f0,5,50,34,5,3,147.06,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,98,0,0,98,31,True,True,False,Right-arm medium-fast,Right-hand bat
+Bulgaria,P Mishra,3fa5672e,6,31,17,3,2,182.35,"[9, 11, 13, 15]",3.833,23,15,0,22,1,1,1,0,0,0,4,5.74,0,0,0,0,6,65,44,0,109,46,True,True,False,Right-arm medium,Right-hand bat
+Bulgaria,IA De Silva,58973aaf,7,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,27,True,True,False,Right-arm medium,Right-hand bat
+Bulgaria,J Albin,a4a53adf,11,0,0,0,0,0.0,"[5, 7]",2.0,12,7,0,19,2,1,1,0,0,0,3,9.5,0,0,0,0,0,0,32,0,32,26,True,True,False,Right-arm medium-fast,Right-hand bat
+Bulgaria,DV Varghese,26f98ea3,12,0,0,0,0,0.0,"[1, 3]",2.0,12,6,0,19,1,1,1,0,0,1,3,9.5,0,0,0,0,0,0,31,0,31,27,True,True,False,Right-arm medium-fast,Right-hand bat
+Bulgaria,Sandeep Nair,6ceec40d,13,0,0,0,0,0.0,"[10, 12, 18]",3.0,18,13,0,14,1,0,2,0,0,0,6,4.67,0,0,0,0,0,0,69,0,69,26,True,True,False,Right-arm offbreak,Right-hand bat
+Bulgaria,Tarun Yadav,865d671f,14,0,0,0,0,0.0,"[17, 19]",1.833,11,6,0,7,1,0,2,1,1,0,0,3.82,0,0,0,0,0,0,72,0,72,27,True,True,False,Right-arm offbreak,Right-hand bat
+Serbia,WAE Burton,b0358c6d,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,1,0,-2,0,26,24,33,True,True,False,Right-arm medium-fast,Right-hand bat
+Serbia,MV Pavlovic,2809b390,2,12,14,2,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,41,True,True,False,Right-arm medium-fast,Right-hand bat
+Serbia,ML Kostic,79e23cc5,3,5,9,1,0,55.56,"[12, 14]",2.0,12,4,0,23,3,1,1,0,0,0,0,11.5,0,0,0,0,0,9,25,0,34,25,True,True,False,Right-arm medium,Right-hand bat
+Serbia,S Ivetic,04ab1575,4,23,11,2,2,209.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,49,0,0,49,33,True,True,False,Right-arm medium-fast,Right-hand bat
+Serbia,A Mene-Ejegi,e4f13acd,5,7,5,0,1,140.0,"[1, 3, 5, 19]",4.0,24,13,0,25,3,1,1,0,1,0,0,6.25,0,0,0,0,0,13,48,0,61,34,True,True,False,Right-arm medium,Right-hand bat
+Serbia,Sachin Ganpat Shinde,ddc2613d,6,6,16,0,0,37.5,"[16, 18]",2.0,12,5,0,24,2,2,0,0,0,0,1,12.0,0,0,0,0,-6,0,1,0,1,41,True,True,False,Right-arm medium,Right-hand bat
+Serbia,N Zimonjic,638f451b,7,13,6,1,1,216.67,"[7, 9, 20]",3.0,18,5,0,34,3,2,1,0,0,0,1,11.33,0,0,0,0,0,23,26,0,49,21,True,True,False,Right-arm medium,Right-hand bat
+Serbia,S Tosic,1c40f69f,8,7,20,0,0,35.0,"[11, 13]",2.0,12,4,0,26,4,1,0,0,0,0,1,13.0,0,0,0,0,-6,1,-2,0,-1,39,True,True,False,Right-arm offbreak,Right-hand bat
+Serbia,M Sarenac,f5ba4611,9,0,4,0,0,0.0,"[2, 4, 6]",3.0,18,11,0,17,3,0,1,0,0,0,1,5.67,1,0,0,0,0,-2,40,8,46,21,True,True,False,Right-arm medium,Right-hand bat
+Serbia,A Djorovic,677c18f9,10,15,25,3,0,60.0,"[8, 10]",2.0,12,4,0,28,0,3,0,0,0,0,5,14.0,0,0,0,0,-2,25,-2,0,23,31,True,True,False,Left-arm wrist-spin,Right-hand bat
+Serbia,B Dugic,5edaa34d,11,0,1,0,0,0.0,"[15, 17]",2.0,12,2,0,28,1,2,0,0,0,1,4,14.0,0,0,0,1,0,-2,-4,6,0,32,True,True,False,Right-arm fast,Right-hand bat

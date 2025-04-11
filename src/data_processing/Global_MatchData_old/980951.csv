@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Delhi Daredevils,Q de Kock,372455c4,1,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,32,True,False,False,,Left-hand bat
+Delhi Daredevils,SS Iyer,85ec8e33,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,1,0,0,-2,0,28,26,30,True,False,False,Legbreak googly,Right-hand bat
+Delhi Daredevils,SV Samson,a4cc73aa,3,15,15,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23,30,True,False,False,,Right-hand bat
+Delhi Daredevils,KK Nair,944533a5,4,68,50,9,1,136.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,120,0,8,128,33,True,False,False,Right-arm offbreak,Right-hand bat
+Delhi Daredevils,SW Billings,c16d4035,5,54,33,3,2,163.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,90,0,0,90,33,True,False,False,,Right-hand bat
+Delhi Daredevils,CH Morris,fb66ce1f,6,0,2,0,0,0.0,"[7, 9, 18]",3.0,18,4,0,19,1,0,1,0,0,0,0,6.33,2,0,1,0,0,-2,31,28,57,37,True,False,True,Right-arm fast-medium,Right-hand bat
+Delhi Daredevils,CR Brathwaite,e342e5fb,7,34,11,3,3,309.09,"[8, 10, 12, 14]",4.0,24,3,0,47,4,1,3,0,0,6,0,11.75,0,0,0,0,6,74,78,0,152,36,True,False,True,Right-arm fast-medium,Right-hand bat
+Delhi Daredevils,RR Pant,919a3be2,8,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,27,True,False,False,,Left-hand bat
+Delhi Daredevils,Mohammed Shami,8cf9814c,9,0,1,0,0,0.0,"[2, 4, 6, 16]",4.0,24,6,0,33,3,1,0,0,0,0,1,8.25,0,0,0,0,0,0,6,0,6,34,True,False,False,Right-arm fast,Right-hand bat
+Delhi Daredevils,A Mishra,6b19d823,11,0,0,0,0,0.0,"[11, 13, 15, 17]",4.0,24,9,0,36,3,2,1,0,0,0,2,9.0,2,0,0,0,0,0,34,16,50,42,True,False,False,Legbreak,Right-hand bat
+Delhi Daredevils,Z Khan,91a4a398,12,0,0,0,0,0.0,"[1, 3, 5, 19]",3.5,21,9,0,21,2,0,3,1,0,0,1,6.0,0,0,0,0,0,0,98,0,98,46,True,False,False,Left-arm fast-medium,Right-hand bat
+Kolkata Knight Riders,RV Uthappa,1c17e270,1,72,52,6,2,138.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,2,118,0,6,124,39,True,False,False,Right-arm medium,Right-hand bat
+Kolkata Knight Riders,G Gambhir,bb345e0b,2,6,8,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6,43,True,False,False,Legbreak,Left-hand bat
+Kolkata Knight Riders,PP Chawla,98ae73b1,3,8,5,2,0,160.0,"[10, 12]",2.0,12,1,0,24,3,0,0,0,0,1,0,12.0,0,0,0,0,0,16,-3,0,13,36,True,False,True,Legbreak,Left-hand bat
+Kolkata Knight Riders,YK Pathan,3c6ffae8,4,10,9,1,0,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,42,True,False,True,Right-arm offbreak,Right-hand bat
+Kolkata Knight Riders,SA Yadav,271f83cd,5,21,11,1,1,190.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,6,37,0,6,43,34,True,False,False,Right-arm offbreak,Right-hand bat
+Kolkata Knight Riders,R Sathish,626c5379,6,6,7,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,44,True,False,True,Right-arm medium,Right-hand bat
+Kolkata Knight Riders,AD Russell,bbd41817,7,17,12,2,1,141.67,"[1, 3, 6, 20]",4.0,24,11,0,26,2,1,3,1,0,0,0,6.5,0,0,0,0,2,33,100,0,133,36,True,False,True,Right-arm fast,Right-hand bat
+Kolkata Knight Riders,JO Holder,0f721006,8,0,1,0,0,0.0,"[2, 4, 14, 16]",4.0,24,8,0,35,4,1,0,0,0,0,1,8.75,0,0,0,0,0,0,8,0,8,33,True,False,True,Right-arm medium-fast,Right-hand bat
+Kolkata Knight Riders,UT Yadav,cc1e8c68,9,2,3,0,0,66.67,"[8, 17, 19]",3.0,18,5,0,33,4,2,3,1,2,0,0,11.0,0,0,0,0,0,2,106,0,108,37,True,False,False,Right-arm fast,Right-hand bat
+Kolkata Knight Riders,SP Narine,9d430b40,10,4,3,0,0,133.33,"[5, 7, 15]",3.0,18,9,0,22,4,0,1,1,0,0,1,7.33,1,0,0,0,0,4,42,8,54,36,True,False,True,Right-arm offbreak,Left-hand bat
+Kolkata Knight Riders,GB Hogg,f708a0bc,11,0,0,0,0,0.0,"[9, 11, 13, 18]",4.0,24,1,0,39,0,2,0,0,0,0,0,9.75,1,0,0,0,0,0,1,8,9,54,True,False,True,Left-arm wrist-spin,Left-hand bat

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Rising Pune Supergiants,AM Rahane,29e95537,1,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,36,True,False,False,Right-arm medium,Right-hand bat
+Rising Pune Supergiants,F du Plessis,3355b542,2,30,21,3,2,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,60,0,8,68,40,True,False,False,Legbreak,Right-hand bat
+Rising Pune Supergiants,SPD Smith,30a45b23,3,46,36,7,0,127.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,78,0,0,78,35,True,False,False,Legbreak googly,Right-hand bat
+Rising Pune Supergiants,SS Tiwary,709b0bac,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,35,True,False,False,,Left-hand bat
+Rising Pune Supergiants,MS Dhoni,4a8a2e3b,4,5,4,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,9,0,28,37,43,True,True,False,Right-arm medium,Right-hand bat
+Rising Pune Supergiants,NLTC Perera,0f12f9df,5,0,0,0,0,0.0,"[3, 7, 18, 20]",4.0,24,8,0,32,2,1,1,0,0,0,0,8.0,1,0,1,0,0,0,33,20,53,35,True,False,True,Right-arm medium-fast,Left-hand bat
+Rising Pune Supergiants,MR Marsh,3d8feaf8,6,0,0,0,0,0.0,"[2, 4, 6, 9]",4.0,24,15,0,14,1,0,2,0,0,0,0,3.5,0,0,0,0,0,0,71,0,71,33,True,False,True,Right-arm medium,Right-hand bat
+Rising Pune Supergiants,R Bhatia,33a364a6,7,0,0,0,0,0.0,"[11, 13, 15]",3.0,18,4,0,24,1,1,0,0,0,0,1,8.0,0,0,0,0,0,0,4,0,4,45,True,False,True,Right-arm medium-fast,Right-hand bat
+Rising Pune Supergiants,R Ashwin,495d42a5,8,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,11,0,14,0,0,1,0,0,0,0,3.5,0,0,0,0,0,0,42,0,42,38,True,False,True,Right-arm offbreak,Right-hand bat
+Rising Pune Supergiants,M Ashwin,e2db2409,9,0,0,0,0,0.0,[16],1.0,6,1,0,6,0,0,0,0,0,0,0,6.0,0,0,0,0,0,0,1,0,1,34,True,False,False,Legbreak googly,Right-hand bat
+Rising Pune Supergiants,AB Dinda,66b30f71,10,0,0,0,0,0.0,"[1, 5, 17, 19]",4.0,24,15,0,23,2,1,3,0,1,0,2,5.75,0,0,0,0,0,0,106,0,106,41,True,False,False,Right-arm medium-fast,Right-hand bat
+Sunrisers Hyderabad,DA Warner,dcce6f09,1,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,38,True,False,False,Legbreak,Left-hand bat
+Sunrisers Hyderabad,S Dhawan,0a476045,2,56,53,2,1,105.66,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,78,0,0,78,39,True,False,False,Right-arm offbreak,Left-hand bat
+Sunrisers Hyderabad,AP Tare,855a210c,3,8,14,1,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,8,0,8,16,37,True,False,False,,Right-hand bat
+Sunrisers Hyderabad,EJG Morgan,d2a6c0e6,4,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,38,True,False,False,Right-arm medium,Left-hand bat
+Sunrisers Hyderabad,Mustafizur Rahman,0a8fce53,4,0,0,0,0,0.0,"[4, 6]",2.0,12,5,0,21,4,0,0,0,0,0,2,10.5,0,0,0,0,0,0,3,0,3,29,True,False,False,Left-arm fast-medium,Left-hand bat
+Sunrisers Hyderabad,DJ Hooda,73ad96ed,5,1,9,0,0,11.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,29,True,False,True,Right-arm offbreak,Right-hand bat
+Sunrisers Hyderabad,MC Henriques,32198ae0,6,1,4,0,0,25.0,"[8, 10]",2.0,12,5,0,16,1,1,1,0,0,0,0,8.0,0,0,0,0,0,1,30,0,31,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Sunrisers Hyderabad,NV Ojha,890946a0,7,18,21,0,1,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,24,0,8,32,41,True,False,False,,Right-hand bat
+Sunrisers Hyderabad,Bipul Sharma,c18496e1,8,5,5,0,0,100.0,[7],1.0,6,0,0,17,2,1,0,0,0,0,0,17.0,0,0,0,0,0,5,0,0,5,41,True,False,True,Slow left-arm orthodox,Left-hand bat
+Sunrisers Hyderabad,B Kumar,2e81a32d,9,21,8,3,1,262.5,"[1, 3, 9]",3.0,18,10,1,17,1,0,1,0,0,0,3,5.67,0,0,0,0,0,39,51,0,90,35,True,False,False,Right-arm medium,Right-hand bat
+Sunrisers Hyderabad,A Nehra,96fd40ae,10,0,0,0,0,0.0,"[2, 5, 11]",3.0,18,11,0,21,3,0,1,0,0,0,6,7.0,0,0,0,0,0,0,38,0,38,45,True,False,False,Left-arm medium-fast,Right-hand bat

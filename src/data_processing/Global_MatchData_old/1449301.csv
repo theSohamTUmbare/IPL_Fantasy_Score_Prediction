@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+India,SV Samson,a4cc73aa,1,107,49,7,10,218.37,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,217,0,8,225,30,True,False,False,,Right-hand bat
+India,Abhishek Sharma,f29185a1,2,7,8,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,24,True,False,True,Slow left-arm orthodox,Left-hand bat
+India,SA Yadav,271f83cd,3,21,16,2,1,131.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,2,37,0,20,57,34,True,False,False,Right-arm offbreak,Right-hand bat
+India,Tilak Varma,b0482a1d,4,33,18,3,2,183.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,67,0,8,75,22,True,False,True,Right-arm offbreak,Left-hand bat
+India,HH Pandya,dbe50b21,5,2,6,0,0,33.33,"[5, 7, 16]",3.0,18,7,0,27,1,2,0,0,0,0,2,9.0,2,0,0,0,0,2,7,16,25,31,True,False,True,Right-arm medium-fast,Right-hand bat
+India,RK Singh,0a509d6b,6,11,10,2,0,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,27,True,False,False,Right-arm offbreak,Left-hand bat
+India,AR Patel,2e171977,7,7,7,1,0,100.0,[14],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,1,0,0,0,0,11,1,8,20,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+India,Arshdeep Singh,244048f6,8,5,3,1,0,166.67,"[1, 3, 17]",3.0,18,9,0,25,2,1,1,0,0,0,3,8.33,0,0,0,0,0,9,34,0,43,26,True,False,False,Left-arm medium-fast,Left-hand bat
+India,Ravi Bishnoi,df064e1a,9,1,3,0,0,33.33,"[9, 11, 13, 15]",4.0,24,14,0,28,1,3,3,1,0,0,0,7.0,0,0,0,0,0,1,103,0,104,24,True,False,False,Legbreak googly,Right-hand bat
+India,Avesh Khan,eef2536f,11,0,0,0,0,0.0,"[2, 4, 18]",2.833,17,7,0,28,4,1,2,0,1,0,0,9.88,1,0,0,0,0,0,65,8,73,28,True,False,False,Right-arm fast-medium,Right-hand bat
+India,CV Varun,5b7ab5a9,12,0,0,0,0,0.0,"[6, 8, 10, 12]",4.0,24,13,0,25,1,2,3,0,0,0,1,6.25,0,0,0,0,0,0,94,0,94,33,True,False,False,Legbreak googly,Right-hand bat
+South Africa,AK Markram,6a26221c,1,8,4,2,0,200.0,[2],1.0,6,2,0,10,2,0,0,0,0,0,0,10.0,1,0,0,0,0,16,2,8,26,30,True,False,True,Right-arm offbreak,Right-hand bat
+South Africa,RD Rickelton,e66732f8,2,21,11,3,1,190.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,45,0,0,45,28,True,False,False,,Left-hand bat
+South Africa,T Stubbs,85b3fab2,3,11,11,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,17,0,16,33,24,True,False,False,Right-arm offbreak,Right-hand bat
+South Africa,H Klaasen,235c2bb6,4,25,22,2,1,113.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,43,0,14,57,33,True,True,False,Right-arm offbreak,Right-hand bat
+South Africa,DA Miller,d67d5f00,5,18,22,1,1,81.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28,35,True,False,False,Right-arm offbreak,Left-hand bat
+South Africa,PE Kruger,39181592,6,1,2,0,0,50.0,"[9, 14]",2.0,12,1,0,35,2,2,1,0,0,2,3,17.5,0,0,0,0,0,1,20,0,21,30,True,False,True,Right-arm medium,Right-hand bat
+South Africa,M Jansen,81c36ee9,7,12,8,1,1,150.0,"[1, 5, 18, 20]",4.0,24,14,0,24,2,1,1,0,0,1,1,6.0,2,0,0,1,0,22,41,22,85,24,True,False,True,Left-arm fast,Right-hand bat
+South Africa,A Simelane,ebb74564,8,6,4,0,1,150.0,"[10, 13]",2.0,12,2,0,27,2,2,0,0,0,0,1,13.5,1,0,0,0,0,12,-4,8,16,21,True,False,True,Right-arm fast,Right-hand bat
+South Africa,G Coetzee,3204c99f,9,23,11,0,3,209.09,"[4, 6, 17, 19]",4.0,24,12,0,37,5,2,3,0,0,0,0,9.25,0,0,0,0,6,47,91,0,138,24,True,False,False,Right-arm fast,Right-hand bat
+South Africa,KA Maharaj,0b60eb09,10,5,9,0,0,55.56,"[3, 7, 11, 15]",4.0,24,9,0,34,3,2,1,0,0,0,0,8.5,0,0,0,0,0,5,34,0,39,35,True,False,False,Slow left-arm orthodox,Right-hand bat
+South Africa,N Peter,212aeedd,11,5,3,1,0,166.67,"[8, 12, 16]",3.0,18,6,0,35,1,4,1,0,0,0,0,11.67,0,0,0,0,0,9,27,0,36,23,True,False,False,Legbreak,Right-hand bat

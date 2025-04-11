@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Andhra,Ashwin Hebbar,b11d8647,1,37,34,2,1,108.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,55,0,16,71,29,True,False,False,Right-arm slow-medium,Right-hand bat
+Andhra,KS Bharat,44a89551,2,76,44,3,7,172.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,148,0,0,148,31,True,False,False,,Right-hand bat
+Andhra,Manish Golamaru,327c7253,3,0,0,0,0,0.0,"[1, 4]",2.0,12,7,0,10,0,1,0,0,0,0,0,5.0,1,0,0,0,0,0,11,8,19,28,True,True,False,Slow left-arm orthodox,Left-hand bat
+Andhra,Prashanth Kumar,1f0b8f44,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,33,True,False,False,Legbreak googly,Right-hand bat
+Andhra,Cheepurapalli Stephen,48bf9d5c,4,0,0,0,0,0.0,"[2, 5, 14, 19]",4.0,24,13,0,22,3,0,3,0,0,0,0,5.5,0,0,0,0,0,0,96,0,96,31,True,True,False,Left-arm medium,Left-hand bat
+Andhra,Bandaru Ayyappa,cb4f31e2,5,0,0,0,0,0.0,"[3, 12, 16, 20]",3.5,21,4,0,30,4,0,3,0,1,0,0,8.57,0,0,0,0,0,0,91,0,91,32,True,False,False,Right-arm medium,Right-hand bat
+Andhra,Harishankar Reddy,791c088d,6,0,0,0,0,0.0,"[6, 11, 15, 18]",4.0,24,6,0,20,1,0,1,1,0,0,1,5.0,0,0,0,0,0,0,43,0,43,26,True,False,False,Right-arm medium,Right-hand bat
+Andhra,K V Sasikanth,bf6e03ea,7,0,0,0,0,0.0,"[7, 9, 13, 17]",4.0,24,8,0,20,0,0,3,1,1,0,3,5.0,2,0,0,0,0,0,107,16,123,29,True,False,False,Right-arm medium,Right-hand bat
+Andhra,Naren Reddy,a7b20d59,8,0,0,0,0,0.0,"[8, 10]",2.0,12,6,0,9,1,0,0,0,0,0,0,4.5,0,0,0,0,0,0,12,0,12,30,True,True,False,Right-arm offbreak,Right-hand bat
+Andhra,RK Bhui,b63e358a,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,28,True,False,False,Legbreak googly,Right-hand bat
+Andhra,Chintapalli Kranthi Kumar,cc9c8722,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,29,True,True,False,Right-arm offbreak,Right-hand bat
+Goa,SS Prabhudessai,9385de2e,1,32,23,6,0,139.13,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,62,0,0,62,27,True,False,True,Right-arm medium,Right-hand bat
+Goa,Aditya Kaushik,9a2d95ac,2,16,14,0,1,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,33,True,False,False,,Right-hand bat
+Goa,Snehal Kauthankar,3a0dc16e,3,20,25,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24,29,True,False,False,Right-arm offbreak,Right-hand bat
+Goa,Amit Verma,3b30b8c4,4,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,37,True,False,True,Legbreak,Left-hand bat
+Goa,Achit Shigwan,95f2b15b,5,4,9,0,0,44.44,[14],0.0,0,0,0,1,0,0,0,0,0,1,0,0.0,1,0,0,0,0,4,0,8,12,29,True,True,False,Right-arm medium,Right-hand bat
+Goa,Deepraj Gaonkar,d3c1f849,6,21,21,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29,26,True,False,False,Right-arm medium,Right-hand bat
+Goa,Darshan Misal,ce2b42ae,7,3,6,0,0,50.0,"[1, 6, 10, 12]",4.0,24,5,0,32,1,2,0,0,0,0,0,8.0,0,0,0,0,0,3,5,0,8,32,True,False,True,Slow left-arm orthodox,Left-hand bat
+Goa,Lakshay Garg,4af886ed,8,0,2,0,0,0.0,[9],1.0,6,2,0,12,1,1,0,0,0,0,0,12.0,0,0,0,0,0,-2,2,0,0,29,True,False,True,Right-arm medium,Right-hand bat
+Goa,MG Sirur,a71b0bd3,9,4,6,0,0,66.67,"[4, 7, 13]",3.0,18,3,0,33,1,3,1,0,0,0,0,11.0,0,0,0,0,0,4,26,0,30,32,True,False,True,Right-arm offbreak,Right-hand bat
+Goa,Heramb Parab,b29f6148,10,4,4,0,0,100.0,[3],1.0,6,3,0,16,1,2,0,0,0,0,0,16.0,0,0,0,0,0,4,3,0,7,26,True,True,False,Right-arm medium-fast,Right-hand bat
+Goa,Amulya Pandrekar,47ccd2bb,11,1,2,0,0,50.0,"[2, 5, 8, 11]",4.0,24,7,0,20,1,0,0,0,0,0,0,5.0,0,0,0,0,0,1,11,0,12,28,True,True,False,Slow left-arm orthodox,Left-hand bat

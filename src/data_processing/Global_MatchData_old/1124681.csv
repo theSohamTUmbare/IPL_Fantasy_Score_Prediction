@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Cape Cobras,T Bavuma,9ffd1ac1,1,46,39,5,0,117.95,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,70,0,12,82,34,True,False,False,Right-arm medium,Right-hand bat
+Cape Cobras,HM Amla,e798611a,2,18,10,2,1,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,38,0,0,38,41,True,False,False,Right-arm offbreak,Right-hand bat
+Cape Cobras,A Mgijima,955e8e86,3,10,7,2,0,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,36,True,False,True,Right-arm offbreak,Right-hand bat
+Cape Cobras,JP Duminy,2e8994e7,4,31,20,3,0,155.0,[9],1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,1,0,0,0,4,51,1,8,60,40,True,False,True,Right-arm offbreak,Left-hand bat
+Cape Cobras,MQ Adams,59a7fc89,5,8,13,0,0,61.54,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,6,0,8,14,40,True,True,False,Right-arm medium,Left-hand bat
+Cape Cobras,FD Adams,f277f531,6,16,12,2,0,133.33,"[12, 18, 20]",3.0,18,7,0,24,2,0,2,0,1,0,5,8.0,0,0,0,0,2,26,65,0,91,35,True,False,True,Right-arm fast-medium,Right-hand bat
+Cape Cobras,GF Linde,e5437608,7,10,6,0,1,166.67,"[7, 11, 13, 15]",4.0,24,10,0,29,4,0,0,0,0,0,1,7.25,0,0,0,0,0,16,10,0,26,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+Cape Cobras,K Verreynne,bf814547,8,3,3,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11,27,True,True,False,Right-arm offbreak,Right-hand bat
+Cape Cobras,RK Kleinveldt,7955eb15,9,7,5,0,1,140.0,"[1, 3, 5, 17]",4.0,24,10,0,31,5,0,0,0,0,0,0,7.75,1,0,0,0,0,13,10,8,31,42,True,False,False,Right-arm fast-medium,Right-hand bat
+Cape Cobras,D Paterson,462d7c62,10,1,2,0,0,50.0,"[2, 4, 14, 19]",4.0,24,10,0,24,1,1,4,2,0,0,0,6.0,1,0,0,0,0,1,136,8,145,35,True,False,False,Right-arm fast-medium,Right-hand bat
+Cape Cobras,M Nabe,6ed11905,11,3,3,0,0,100.0,"[6, 8, 10, 16]",4.0,24,11,0,30,0,2,2,0,0,0,2,7.5,0,0,0,0,0,3,61,0,64,29,True,False,False,Right-arm medium,Right-hand bat
+Knights,RS Second,13d0b3d6,1,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,35,True,False,True,Right-arm offbreak,Right-hand bat
+Knights,KD Petersen,bf64dc29,2,4,8,1,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,8,0,16,24,31,True,False,False,Legbreak,Right-hand bat
+Knights,TB de Bruyn,90d6cdea,3,25,23,4,0,108.7,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,45,0,8,53,32,True,False,False,Right-arm medium-fast,Right-hand bat
+Knights,DA Miller,d67d5f00,4,59,32,4,3,184.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,107,0,8,115,35,True,False,False,Right-arm offbreak,Left-hand bat
+Knights,R McLaren,c654af19,5,19,14,3,0,135.71,"[2, 9, 11, 13]",4.0,24,8,0,31,4,0,2,0,0,0,0,7.75,0,0,0,0,2,33,58,0,91,42,True,False,True,Right-arm medium-fast,Left-hand bat
+Knights,TG Mokoena,0827b38d,6,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,37,True,False,False,Left-arm fast-medium,Right-hand bat
+Knights,AR Swanepoel,cba5185d,7,20,19,1,0,105.26,"[7, 15]",2.0,12,1,0,19,2,0,0,0,0,0,0,9.5,2,0,0,0,0,24,1,16,41,35,True,False,True,Right-arm offbreak,Right-hand bat
+Knights,SC van Schalkwyk,97b0e4ff,8,7,6,1,0,116.67,"[3, 6, 18, 20]",4.0,24,11,0,27,2,1,3,0,0,0,0,6.75,1,0,0,0,0,11,92,8,111,36,True,False,True,Right-arm medium,Left-hand bat
+Knights,D Olivier,a8e56914,9,2,5,0,0,40.0,"[1, 5]",2.0,12,5,0,16,3,0,0,0,0,0,1,8.0,0,0,0,0,0,2,5,0,7,32,True,False,False,Right-arm fast-medium,Right-hand bat
+Knights,M Budaza,1d105638,10,0,1,0,0,0.0,"[4, 10, 17, 19]",4.0,24,7,0,32,1,2,4,0,1,0,0,8.0,0,0,0,0,0,0,123,0,123,31,True,False,False,Left-arm fast,Right-hand bat
+Knights,E Leie,a7bc76a0,11,2,3,0,0,66.67,"[8, 12, 14, 16]",4.0,24,3,0,29,2,0,0,0,0,0,0,7.25,0,0,0,0,0,2,3,0,5,38,True,False,False,Legbreak,Right-hand bat

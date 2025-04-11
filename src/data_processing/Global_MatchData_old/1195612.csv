@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Adelaide Strikers,PD Salt,3d284ca3,1,67,38,5,5,176.32,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,131,0,0,131,28,True,True,False,Right-arm offbreak,Right-hand bat
+Adelaide Strikers,TM Head,12b610c2,2,0,0,0,0,0.0,[9],1.0,6,3,0,4,0,0,1,0,0,0,0,4.0,0,0,0,0,0,0,28,0,28,31,True,False,False,Right-arm offbreak,Left-hand bat
+Adelaide Strikers,J Weatherald,edc7ddb6,2,33,27,6,0,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,61,0,8,69,30,True,False,False,Legbreak,Left-hand bat
+Adelaide Strikers,JW Wells,8bdac857,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,36,True,False,False,Right-arm medium,Right-hand bat
+Adelaide Strikers,MW Short,a90e53ec,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,29,True,False,False,Right-arm offbreak,Right-hand bat
+Adelaide Strikers,HJ Nielsen,0ea1455a,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0,0,28,28,29,True,True,False,Right-arm offbreak,Left-hand bat
+Adelaide Strikers,MG Neser,0164b064,6,0,0,0,0,0.0,"[1, 4, 15]",3.0,18,7,0,14,1,0,2,0,0,0,1,4.67,0,0,0,0,0,0,63,0,63,35,True,False,True,Right-arm medium-fast,Right-hand bat
+Adelaide Strikers,Rashid Khan,5f547c8b,7,0,0,0,0,0.0,"[2, 6, 11, 16]",4.0,24,15,0,15,2,0,1,0,1,0,1,3.75,2,0,0,0,0,0,54,16,70,26,True,False,True,Legbreak googly,Right-hand bat
+Adelaide Strikers,PM Siddle,bd93fea4,8,0,0,0,0,0.0,"[3, 5]",2.0,12,4,0,19,2,1,1,0,0,0,0,9.5,0,0,0,0,0,0,29,0,29,40,True,False,False,Right-arm fast-medium,Right-hand bat
+Adelaide Strikers,WA Agar,15de1f5d,9,0,0,0,0,0.0,"[7, 13, 17]",3.0,18,9,0,15,1,0,2,0,2,0,1,5.0,0,0,0,0,0,0,79,0,79,28,True,False,False,Right-arm fast,Right-hand bat
+Adelaide Strikers,LN O'Connor,5456bd0c,10,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,7,0,30,3,0,3,0,0,0,0,7.5,1,0,0,0,0,0,86,8,94,31,True,False,False,Legbreak,Right-hand bat
+Brisbane Heat,M Bryant,f32012f4,1,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,26,True,False,False,Right-arm medium,Right-hand bat
+Brisbane Heat,CA Lynn,45eda7c8,2,26,24,3,1,108.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,48,0,0,48,34,True,False,False,Slow left-arm orthodox,Right-hand bat
+Brisbane Heat,AB de Villiers,c4487b84,3,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,41,True,True,False,Right-arm medium,Right-hand bat
+Brisbane Heat,MT Renshaw,218d4d78,4,43,31,6,0,138.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,73,0,0,73,29,True,False,False,Right-arm offbreak,Left-hand bat
+Brisbane Heat,JA Burns,7a5f232a,5,3,3,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,35,True,False,False,Right-arm offbreak,Right-hand bat
+Brisbane Heat,JJ Peirson,2b55c3b4,6,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,32,True,False,False,,Right-hand bat
+Brisbane Heat,BCJ Cutting,2e11c706,7,9,13,0,0,69.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,7,0,0,7,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Brisbane Heat,JK Lalor,88209c84,8,4,8,0,0,50.0,"[1, 3, 10]",3.0,18,11,1,22,1,2,0,0,0,0,0,7.33,0,0,0,0,0,4,23,0,27,37,True,False,False,Left-arm fast-medium,Right-hand bat
+Brisbane Heat,MJ Swepson,86b4bf88,9,1,6,0,0,16.67,"[7, 9]",2.0,12,3,0,15,0,1,0,0,0,0,0,7.5,0,0,0,0,0,1,3,0,4,31,True,False,False,Legbreak,Right-hand bat
+Brisbane Heat,B Laughlin,b2a79f17,10,1,3,0,0,33.33,"[5, 8]",2.0,12,5,0,16,3,0,0,0,0,0,0,8.0,0,0,0,0,0,1,5,0,6,42,True,False,False,Right-arm fast-medium,Right-hand bat
+Brisbane Heat,Mujeeb Ur Rahman,7d92277a,11,1,2,0,0,50.0,"[2, 4, 6, 11]",3.833,23,6,0,47,7,2,0,0,0,0,0,12.26,0,0,0,0,0,1,0,0,1,24,True,False,False,Right-arm offbreak,Right-hand bat

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Adelaide Strikers,CJ Simmons,0095ce38,1,21,15,1,1,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,33,0,0,33
+Adelaide Strikers,TP Ludeman,c3f7898b,2,4,4,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+Adelaide Strikers,JR Dean,97188292,3,7,6,1,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
+Adelaide Strikers,RN ten Doeschate,4ec07775,4,23,12,0,2,191.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,41,0,0,41
+Adelaide Strikers,TM Head,12b610c2,5,18,6,1,2,300.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34
+Adelaide Strikers,J Botha,7c503806,6,12,6,1,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
+Adelaide Strikers,AI Ross,fb0d68b4,7,30,11,0,4,272.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,64,0,0,64
+Adelaide Strikers,KW Richardson,dfc4d8b5,8,0,0,0,0,0.0,[1],1.0,6,2,0,14,2,1,0,0,0,0,0,14.0,0,0,0,0,0,0,2,0,2
+Adelaide Strikers,A Zampa,14f96089,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Adelaide Strikers,B Laughlin,b2a79f17,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Adelaide Strikers,SW Tait,addfb70e,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Sydney Thunder,JJ Roy,d1c36f5c,1,14,6,2,1,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,28,0,8,36
+Sydney Thunder,JH Kallis,86dc8f2e,2,0,0,0,0,0.0,"[1, 4]",2.0,12,6,0,15,0,1,0,0,0,0,0,7.5,1,0,0,0,0,0,6,8,14
+Sydney Thunder,AC Blizzard,1efb8a28,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Sydney Thunder,NM Hauritz,8ea6e670,4,0,0,0,0,0.0,[5],1.0,6,0,0,12,1,0,0,0,0,0,0,12.0,0,0,0,0,0,0,0,0,0
+Sydney Thunder,DP Hughes,f3982af9,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Sydney Thunder,CD Hartley,9a06679d,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Sydney Thunder,JK Lalor,88209c84,7,0,0,0,0,0.0,"[2, 10]",2.0,12,2,0,32,2,3,1,0,0,0,1,16.0,0,0,0,0,0,0,21,0,21
+Sydney Thunder,IA Moran,5ce5204c,8,0,0,0,0,0.0,[7],1.0,6,1,0,19,1,2,1,0,1,0,1,19.0,0,0,0,0,0,0,34,0,34
+Sydney Thunder,AR Beadle,bb1c1950,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Sydney Thunder,CP Tremain,96824e68,10,0,0,0,0,0.0,"[6, 8]",2.0,12,3,0,32,1,4,2,0,0,0,0,16.0,0,0,0,0,0,0,47,0,47
+Sydney Thunder,GS Sandhu,1558d83b,11,0,0,0,0,0.0,"[3, 9]",2.0,12,4,0,7,0,0,1,0,0,0,0,3.5,0,0,0,0,0,0,35,0,35

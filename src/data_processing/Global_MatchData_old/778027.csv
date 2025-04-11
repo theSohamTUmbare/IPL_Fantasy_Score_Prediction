@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+China,Jiang Shuyao,d52ab778,1,7,10,0,0,70.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,5,0,0,5,36,True,False,False,,Right-hand bat
+China,Song Yang Yang,6944f52f,2,18,18,1,0,100.0,[6],1.0,6,0,0,17,0,2,0,0,0,0,0,17.0,0,0,0,0,0,22,0,0,22,31,True,True,False,Right-arm offbreak,Right-hand bat
+China,Zhang Yu Fei,4522ba9a,3,6,6,0,0,100.0,"[7, 9]",2.0,12,1,0,22,2,0,0,0,0,1,2,11.0,0,0,0,0,0,6,-1,0,5,33,True,True,False,Right-arm medium,Right-hand bat
+China,Lei Sun,4f8ab93f,4,14,11,0,0,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,34,True,False,False,,Left-hand bat
+China,Li Jian,5893ce9d,5,15,6,2,0,250.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23,32,True,True,False,Right-arm medium-fast,Right-hand bat
+China,Zhong Wenyi,c014a58a,6,5,4,0,0,125.0,"[8, 10]",2.0,12,5,0,9,0,0,4,0,0,0,0,4.5,1,0,0,0,0,5,119,8,132,31,True,True,False,Right-arm offbreak,Right-hand bat
+China,Wang Jing,fe4d18dd,7,0,1,0,0,0.0,"[2, 4]",2.0,12,4,0,12,0,0,0,0,0,0,0,6.0,0,0,0,0,0,0,6,0,6,30,True,True,False,Right-arm offbreak,Right-hand bat
+China,H Min Jian,cb5f199d,8,0,1,0,0,0.0,"[3, 5]",2.0,12,6,0,11,1,0,1,0,0,0,0,5.5,0,0,0,0,0,-2,35,0,33,29,True,True,False,Right-arm offbreak,Right-hand bat
+China,Zhao Gaosheng,b2930683,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,2,0,0,0,0,0,24,24,32,True,False,False,,Right-hand bat
+China,Zhang Peng,200efd38,9,5,3,0,0,166.67,[1],1.0,6,1,0,13,0,0,0,0,0,0,4,13.0,0,0,0,0,0,5,1,0,6,38,True,True,False,Right-arm medium-fast,Right-hand bat
+China,Gaofeng Hu,416283af,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,28,True,True,False,Right-arm medium,Right-hand bat
+South Korea,Sunghoon Cho,218d7e5d,1,23,28,0,0,82.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,23,0,14,37,35,True,False,False,,Right-hand bat
+South Korea,Ilhwan Seo,e6e847f9,2,9,8,0,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,35,True,False,False,,Right-hand bat
+South Korea,Daesik Sung,45e03c04,3,33,15,2,2,220.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,63,0,8,71,37,True,False,False,,Right-hand bat
+South Korea,Taekwan Park,9a5668db,4,10,6,1,0,166.67,"[1, 10]",2.0,12,7,0,15,0,0,1,0,1,0,5,7.5,0,0,1,0,0,14,40,12,66,34,True,True,False,Left-arm fast-medium,Left-hand bat
+South Korea,Hyobum An,3a0d43f6,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,31,True,True,False,Right-arm medium,Right-hand bat
+South Korea,Sangwook Lee,b40393b7,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,38,True,False,False,,Right-hand bat
+South Korea,Jiwon Choi,766e328e,7,2,1,0,0,200.0,"[7, 9]",2.0,12,1,0,18,0,0,0,0,0,0,3,9.0,1,0,0,0,0,2,1,8,11,34,True,True,False,Right-arm fast-medium,Right-hand bat
+South Korea,Hwanhee Lee,709cb7f0,9,0,0,0,0,0.0,"[6, 8]",2.0,12,3,0,20,2,0,2,0,0,0,0,10.0,0,0,0,0,0,0,51,0,51,42,True,True,False,Right-arm offbreak,Right-hand bat
+South Korea,Kyungsik Kim,694ad656,10,0,0,0,0,0.0,"[3, 5]",2.0,12,4,0,12,0,0,1,0,0,0,1,6.0,0,0,0,0,0,0,31,0,31,40,True,True,False,Right-arm fast-medium,Right-hand bat
+South Korea,Inho Cha,f1599171,11,0,0,0,0,0.0,"[2, 4]",2.0,12,2,0,17,1,0,0,0,0,0,3,8.5,0,0,0,0,0,0,2,0,2,30,True,True,False,Right-arm offbreak,Right-hand bat
+South Korea,Suin Bang,cd9cec4c,12,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,1,0,0,0,18,18,41,True,False,False,,Right-hand bat

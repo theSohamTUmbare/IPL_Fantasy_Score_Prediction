@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Barisal Burners,Ahmed Shehzad,f8fd6e3f,1,7,7,1,0,100.0,"[8, 10]",2.0,12,2,0,25,1,2,0,0,0,1,0,12.5,0,0,0,0,0,11,-4,0,7,33,True,False,False,Legbreak,Right-hand bat
+Barisal Burners,CH Gayle,db584dad,2,116,61,6,11,190.16,"[11, 16, 18]",3.0,18,3,0,38,2,3,0,0,0,0,0,12.67,0,0,0,0,6,228,-3,0,225,45,True,False,True,Right-arm offbreak,Left-hand bat
+Barisal Burners,Mominul Haque,de0a3209,3,5,8,1,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+Barisal Burners,BJ Hodge,b57f8a9a,4,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,50,True,False,False,Right-arm offbreak,Right-hand bat
+Barisal Burners,Mohammad Mithun,77191792,5,38,32,1,1,118.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,52,0,8,60,34,True,False,False,,Right-hand bat
+Barisal Burners,Kabir Ali,60dd8960,6,15,9,2,0,166.67,"[2, 4, 14, 20]",4.0,24,12,0,31,4,1,2,1,0,0,1,7.75,0,0,0,0,0,23,70,0,93,44,True,False,False,Right-arm medium-fast,Right-hand bat
+Barisal Burners,Shahriar Nafees,b9c225c2,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,39,True,False,False,,Left-hand bat
+Barisal Burners,Suhrawadi Shuvo,8fb49ef8,7,0,0,0,0,0.0,"[9, 13]",2.0,12,4,0,24,0,3,0,0,0,0,0,12.0,0,0,0,0,0,0,0,0,0,36,True,False,False,Slow left-arm orthodox,Left-hand bat
+Barisal Burners,Nazmul Islam,6575e3bc,8,0,0,0,0,0.0,"[5, 7, 15]",3.0,18,4,0,33,1,3,0,0,0,0,0,11.0,0,0,0,0,0,0,2,0,2,33,True,False,False,Slow left-arm orthodox,Left-hand bat
+Barisal Burners,Yasir Arafat,3cf5ae43,9,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,11,1,30,4,1,2,0,1,0,2,7.5,2,0,0,0,0,0,81,16,97,43,True,False,True,Right-arm fast-medium,Right-hand bat
+Barisal Burners,Alauddin Babu,721032ec,10,0,0,0,0,0.0,"[6, 12]",2.0,12,5,0,24,4,1,1,0,0,0,0,12.0,0,0,0,0,0,0,26,0,26,33,True,False,True,Right-arm medium-fast,Right-hand bat
+Dhaka Gladiators,Imran Nazir,3eb7c45d,1,58,34,3,5,170.59,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,114,0,0,114,43,True,False,False,Legbreak,Right-hand bat
+Dhaka Gladiators,Anamul Haque,72b245dd,2,8,11,2,0,72.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,32,True,False,False,,Right-hand bat
+Dhaka Gladiators,Mohammad Ashraful,2bb09eb2,3,4,3,1,0,133.33,[3],1.0,6,2,0,22,1,3,0,0,0,0,0,22.0,3,0,0,0,0,8,2,28,38,40,True,False,False,Legbreak,Right-hand bat
+Dhaka Gladiators,Azhar Mahmood,9a158001,4,77,47,8,3,163.83,"[14, 16, 18, 20]",4.0,24,5,0,42,3,2,2,0,1,0,2,10.5,0,0,0,0,4,143,61,0,204,50,True,False,True,Right-arm fast-medium,Right-hand bat
+Dhaka Gladiators,KA Pollard,a757b0d8,5,36,15,0,5,240.0,"[7, 9, 11, 13]",4.0,24,12,0,23,1,1,0,0,0,0,1,5.75,0,0,0,0,6,76,16,0,92,37,True,False,True,Right-arm medium,Right-hand bat
+Dhaka Gladiators,Naved-ul-Hasan,33f28243,6,0,0,0,0,0.0,"[2, 5, 17, 19]",4.0,24,4,0,37,4,0,0,0,0,0,1,9.25,0,0,0,0,0,0,4,0,4,47,True,False,False,Right-arm medium-fast,Right-hand bat
+Dhaka Gladiators,DI Stevens,bca21d18,6,13,7,1,1,185.71,"[8, 10]",2.0,12,3,0,24,0,3,1,0,0,0,0,12.0,1,0,0,0,0,23,24,8,55,48,True,False,True,Right-arm medium,Right-hand bat
+Dhaka Gladiators,Mosharraf Hossain,8eb611d0,7,0,0,0,0,0.0,[12],1.0,6,2,0,19,0,3,0,0,0,0,0,19.0,0,0,0,0,0,0,2,0,2,40,True,False,True,Slow left-arm orthodox,Left-hand bat
+Dhaka Gladiators,Aftab Ahmed,53bc7b84,7,5,3,1,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,39,True,False,False,Right-arm medium,Right-hand bat
+Dhaka Gladiators,Elias Sunny,817c1746,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,39,True,False,False,Slow left-arm orthodox,Left-hand bat
+Dhaka Gladiators,Mashrafe Mortaza,e186f49c,9,0,0,0,0,0.0,"[1, 4, 6, 15]",4.0,24,12,0,20,2,0,2,0,0,0,2,5.0,0,0,0,0,0,0,66,0,66,41,True,False,False,Right-arm fast-medium,Right-hand bat

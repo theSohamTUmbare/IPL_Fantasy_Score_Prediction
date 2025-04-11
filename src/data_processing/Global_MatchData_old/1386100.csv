@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Melbourne Stars,SB Harper,a756e61a,1,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,28,True,False,False,,Right-hand bat
+Melbourne Stars,TF Rogers,7f232d46,2,22,17,3,0,129.41,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34,26,True,False,False,Right-arm medium,Left-hand bat
+Melbourne Stars,BJ Webster,56b93d46,3,4,6,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,31,True,False,True,Right-arm offbreak,Right-hand bat
+Melbourne Stars,MP Stoinis,d9273ee7,4,13,20,1,0,65.0,"[1, 3]",2.0,12,4,0,19,0,1,0,0,0,0,1,9.5,0,0,0,0,-2,15,4,0,19,35,True,False,True,Right-arm medium,Right-hand bat
+Melbourne Stars,HWR Cartwright,ab965cad,5,24,18,0,2,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,38,0,8,46,33,True,False,False,Right-arm medium,Right-hand bat
+Melbourne Stars,NCR Larkin,02bce9a8,6,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,34,True,False,False,,Right-hand bat
+Melbourne Stars,J Merlo,02ba80a0,7,5,6,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,26,True,False,True,Right-arm medium-fast,Right-hand bat
+Melbourne Stars,LA Dawson,4a461c24,8,22,22,2,1,100.0,"[6, 8, 12, 14]",3.833,23,6,0,30,2,1,1,0,0,0,0,7.83,1,0,0,0,0,36,31,8,75,35,True,False,True,Slow left-arm orthodox,Right-hand bat
+Melbourne Stars,Usama Mir,6dd8b88c,9,0,1,0,0,0.0,"[7, 9, 11, 13]",4.0,24,11,0,22,1,1,1,0,0,0,0,5.5,0,0,0,0,0,-2,40,0,38,29,True,False,False,Legbreak,Right-hand bat
+Melbourne Stars,JS Paris,7c8f533d,10,0,4,0,0,0.0,"[2, 4]",2.0,12,7,0,17,2,1,1,0,0,0,0,8.5,0,0,0,0,0,-2,32,0,30,32,True,False,False,Left-arm fast-medium,Left-hand bat
+Melbourne Stars,Haris Rauf,24bb1c2f,11,8,16,1,0,50.0,"[5, 10]",2.0,12,4,0,14,2,0,0,0,0,0,0,7.0,0,0,0,0,-4,8,6,0,14,31,True,False,False,Right-arm fast,Right-hand bat
+Perth Scorchers,SS Eskinazi,75cbed9b,1,25,25,2,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,43,0,8,51,31,True,False,False,,Right-hand bat
+Perth Scorchers,C Connolly,fe366f34,2,20,9,1,1,222.22,"[5, 7]",2.0,12,6,0,11,0,1,1,0,0,0,0,5.5,1,0,0,0,0,30,35,8,73,21,True,False,True,Slow left-arm orthodox,Left-hand bat
+Perth Scorchers,AM Hardie,d405c0d5,3,20,15,1,1,133.33,"[18, 20]",1.167,7,5,0,5,1,0,1,0,0,0,0,4.28,1,0,0,0,2,32,30,8,70,26,True,False,True,Right-arm medium-fast,Right-hand bat
+Perth Scorchers,JP Inglis,989889ff,4,17,17,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,25,0,28,53,30,True,False,False,,Right-hand bat
+Perth Scorchers,AJ Turner,ff1e12a0,5,19,17,1,1,111.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29,32,True,False,False,Right-arm offbreak,Right-hand bat
+Perth Scorchers,LJ Evans,1c513d54,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,37,True,False,False,Right-arm offbreak,Right-hand bat
+Perth Scorchers,NR Hobson,4312e0fd,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,30,True,False,False,Right-arm medium,Left-hand bat
+Perth Scorchers,JA Richardson,1ee08e9a,7,0,0,0,0,0.0,"[1, 3, 12, 17]",4.0,24,15,0,20,3,0,2,0,0,0,1,5.0,0,0,0,0,0,0,69,0,69,28,True,False,False,Right-arm fast,Right-hand bat
+Perth Scorchers,AJ Tye,7c7d63a2,8,0,0,0,0,0.0,"[8, 13, 15, 19]",4.0,24,8,0,24,1,1,1,0,1,0,0,6.0,0,0,0,0,0,0,43,0,43,38,True,False,False,Right-arm medium-fast,Right-hand bat
+Perth Scorchers,H McKenzie,5222f5fa,9,0,0,0,0,0.0,"[6, 10, 14, 16]",4.0,24,12,0,12,0,0,2,0,1,0,0,3.0,0,0,0,0,0,0,76,0,76,25,True,False,False,Left-arm wrist-spin,Left-hand bat
+Perth Scorchers,JP Behrendorff,4933f499,10,0,0,0,0,0.0,"[2, 4, 9, 11]",4.0,24,13,1,28,3,1,3,0,0,0,0,7.0,0,0,0,0,0,0,106,0,106,34,True,False,False,Left-arm fast-medium,Right-hand bat

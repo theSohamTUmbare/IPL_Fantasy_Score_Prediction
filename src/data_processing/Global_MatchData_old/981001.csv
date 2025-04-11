@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Gujarat Lions,DR Smith,35205dfc,1,0,1,0,0,0.0,"[5, 7, 10, 12]",4.0,24,18,0,8,0,0,4,0,1,0,1,2.0,0,0,0,0,0,-2,140,0,138,41,True,False,True,Right-arm medium,Right-hand bat
+Gujarat Lions,BB McCullum,b8a55852,2,6,3,0,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,43,True,True,False,Right-arm offbreak,Right-hand bat
+Gujarat Lions,SK Raina,1dc12ab9,3,53,36,7,1,147.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,97,0,16,113,38,True,False,False,Right-arm offbreak,Left-hand bat
+Gujarat Lions,KD Karthik,c03f1114,4,12,8,2,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,20,0,8,28,39,True,True,False,Right-arm offbreak,Right-hand bat
+Gujarat Lions,AJ Finch,b8d490fd,5,26,23,1,2,113.04,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,46,0,8,54,38,True,False,False,Slow left-arm orthodox,Right-hand bat
+Gujarat Lions,DJ Bravo,87e562a9,6,0,0,0,0,0.0,"[8, 16, 18, 20]",4.0,24,10,0,29,3,1,1,0,0,0,1,7.25,0,0,0,0,0,0,35,0,35,41,True,False,True,Right-arm medium,Right-hand bat
+Gujarat Lions,RA Jadeja,fe93fd9d,6,11,10,1,0,110.0,"[13, 15]",2.0,12,3,0,17,1,1,0,0,0,0,0,8.5,0,0,0,0,0,15,3,0,18,36,True,False,True,Slow left-arm orthodox,Left-hand bat
+Gujarat Lions,ER Dwivedi,b274dbbd,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,36,True,False,False,,Right-hand bat
+Gujarat Lions,P Kumar,e938e1bc,8,0,0,0,0,0.0,"[1, 3]",2.0,12,5,0,12,1,0,0,0,0,0,2,6.0,0,0,0,0,0,0,7,0,7,38,True,False,False,Right-arm medium,Right-hand bat
+Gujarat Lions,SB Jakati,c8179c68,9,0,0,0,0,0.0,"[9, 11, 14, 17]",4.0,24,5,0,22,0,1,1,0,0,0,0,5.5,0,0,1,0,0,0,34,12,46,44,True,False,False,Slow left-arm orthodox,Left-hand bat
+Gujarat Lions,DS Kulkarni,d2a989fc,10,0,0,0,0,0.0,"[2, 4, 6, 19]",4.0,24,12,0,34,5,1,1,0,0,0,1,8.5,1,0,0,0,0,0,37,8,45,36,True,False,False,Right-arm medium,Right-hand bat
+Kolkata Knight Riders,RV Uthappa,1c17e270,1,25,19,3,1,131.58,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,2,49,0,14,63,39,True,False,False,Right-arm medium,Right-hand bat
+Kolkata Knight Riders,G Gambhir,bb345e0b,2,8,8,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,43,True,False,False,Legbreak,Left-hand bat
+Kolkata Knight Riders,MK Pandey,93b4fc78,3,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,35,True,False,False,Right-arm medium,Right-hand bat
+Kolkata Knight Riders,PP Chawla,98ae73b1,4,11,16,1,0,68.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,13,0,0,13,36,True,False,True,Legbreak,Left-hand bat
+Kolkata Knight Riders,YK Pathan,3c6ffae8,5,36,36,3,1,100.0,[13],1.0,6,3,0,6,1,0,0,0,0,0,0,6.0,0,0,0,0,0,58,3,0,61,42,True,False,True,Right-arm offbreak,Right-hand bat
+Kolkata Knight Riders,Shakib Al Hasan,7dc35884,6,3,8,0,0,37.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Kolkata Knight Riders,AS Rajpoot,db31895a,6,0,0,0,0,0.0,"[1, 3, 7]",3.0,18,6,0,35,3,1,1,0,0,0,8,11.67,0,0,0,1,0,0,27,6,33,31,True,False,False,Right-arm medium,Right-hand bat
+Kolkata Knight Riders,SA Yadav,271f83cd,7,17,14,1,1,121.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27,34,True,False,False,Right-arm offbreak,Right-hand bat
+Kolkata Knight Riders,JO Holder,0f721006,8,13,8,1,1,162.5,"[9, 11]",2.0,12,5,0,14,2,0,0,0,0,0,1,7.0,0,0,0,0,0,23,7,0,30,33,True,False,True,Right-arm medium-fast,Right-hand bat
+Kolkata Knight Riders,SP Narine,9d430b40,9,2,7,0,0,28.57,"[2, 5, 10, 12]",4.0,24,10,0,30,1,1,1,1,0,0,6,7.5,0,0,0,0,0,2,43,0,45,36,True,False,True,Right-arm offbreak,Left-hand bat
+Kolkata Knight Riders,M Morkel,5bb5a915,10,1,1,0,0,100.0,"[4, 6, 8, 14]",3.5,21,6,0,39,4,2,1,0,1,0,1,11.14,0,0,0,0,0,1,35,0,36,40,True,False,False,Right-arm fast,Left-hand bat

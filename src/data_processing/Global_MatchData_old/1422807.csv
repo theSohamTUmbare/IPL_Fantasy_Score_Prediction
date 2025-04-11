@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Tanzania,II Selemani,b2dadc51,1,9,9,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,15,0,16,31,24,True,True,False,Right-arm offbreak,Right-hand bat
+Tanzania,J Masquater,f6d3cab2,2,29,18,3,2,161.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,61,0,0,61,26,True,True,False,Right-arm offbreak,Right-hand bat
+Tanzania,AJ Jabiri,90624d37,3,14,20,1,0,70.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,-2,16,0,16,32,22,True,False,False,,Right-hand bat
+Tanzania,ZR Jaboneke,438aef39,4,7,9,0,0,77.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,7,0,0,7,31,True,True,False,Right-arm medium,Left-hand bat
+Tanzania,MO Kitunda,badef0dc,5,14,15,1,1,93.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24,25,True,True,False,Right-arm bowler,Right-hand bat
+Tanzania,M Yunusu Issa,bbab35a3,6,2,4,0,0,50.0,"[2, 4, 6]",3.0,18,6,0,18,1,0,1,0,0,0,0,6.0,0,0,0,0,0,2,33,0,35,23,True,True,False,Right-arm medium,Right-hand bat
+Tanzania,SA Jumbe,91056862,7,25,19,1,2,131.58,"[1, 3, 18, 20]",4.0,24,11,0,29,3,1,1,0,0,0,0,7.25,0,0,0,0,2,47,36,0,83,27,True,True,False,Right-arm medium-fast,Left-hand bat
+Tanzania,AM Kimote,34e36b65,8,6,7,0,0,85.71,"[5, 7, 16, 19]",4.0,24,8,0,20,0,0,2,0,1,0,1,5.0,0,0,0,0,0,6,70,0,76,32,True,True,False,Right-arm medium,Right-hand bat
+Tanzania,S Thakor,0848ac5f,9,3,4,0,0,75.0,"[13, 15, 17]",3.0,18,5,0,28,0,2,0,0,0,0,0,9.33,0,0,0,0,0,3,5,0,8,34,True,True,False,Legbreak,Right-hand bat
+Tanzania,JJ Nyambo,ffb3b559,10,0,2,0,0,0.0,"[9, 11]",2.0,12,5,0,16,2,0,0,0,0,0,1,8.0,0,0,0,0,0,-2,5,0,3,19,True,True,False,Right-arm medium-fast,Right-hand bat
+Tanzania,YM Nkanya,9238dd92,11,1,1,0,0,100.0,"[8, 10, 12, 14]",4.0,24,15,0,16,0,1,1,0,0,0,0,4.0,0,0,0,0,0,1,46,0,47,21,True,True,False,Slow left-arm orthodox,Right-hand bat
+Vanuatu,N Nipiko,c498c510,1,14,11,1,0,127.27,"[1, 10]",2.0,12,6,0,21,2,1,0,0,0,2,0,10.5,0,0,0,0,0,18,4,0,22,29,True,True,False,Right-arm medium,Right-hand bat
+Vanuatu,JD Allan,3758028b,2,6,8,1,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,10,0,20,30,34,True,False,False,,Right-hand bat
+Vanuatu,PK Matautaava,af19aa66,3,16,25,1,0,64.0,"[8, 17]",2.0,12,6,0,11,1,0,1,0,0,0,2,5.5,1,0,0,0,-2,18,35,8,61,33,True,True,False,Right-arm medium,Right-hand bat
+Vanuatu,J Rasu,1021b6e5,4,8,10,0,0,80.0,"[2, 4, 12, 16]",4.0,24,13,0,21,1,1,3,0,0,0,0,5.25,1,0,0,0,0,8,96,8,112,30,True,True,False,Right-arm medium,Right-hand bat
+Vanuatu,A Mansale,a22b4f3f,5,61,40,1,4,152.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,4,101,0,16,117,36,True,True,False,Right-arm offbreak,Right-hand bat
+Vanuatu,R Tari,c4d19735,6,11,22,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,7,0,0,7,31,True,True,False,Right-arm medium,Right-hand bat
+Vanuatu,W Wotu,6b25ef46,7,9,4,2,0,225.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,17,0,8,25,20,True,False,False,,Right-hand bat
+Vanuatu,JP Kaltapau,d8dccff5,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,25,True,True,False,Right-arm offbreak,Right-hand bat
+Vanuatu,W Nalisa,673be48f,12,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,12,0,15,0,0,3,1,0,0,2,3.75,0,0,0,0,0,0,105,0,105,25,True,True,False,Legbreak googly,Right-hand bat
+Vanuatu,AL Stephen,49f6d023,13,0,0,0,0,0.0,"[5, 7]",2.0,12,8,0,6,0,0,0,0,0,1,0,3.0,1,0,0,0,0,0,14,8,22,29,True,True,False,Right-arm medium,Right-hand bat
+Vanuatu,TL Cutler,384fa385,14,0,0,0,0,0.0,"[3, 6, 14, 18]",4.0,24,9,0,44,2,4,3,1,0,0,1,11.0,0,0,0,0,0,0,94,0,94,43,True,True,False,Slow left-arm orthodox,Right-hand bat

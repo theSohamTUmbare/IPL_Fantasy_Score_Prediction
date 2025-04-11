@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Delhi Capitals,PP Shaw,8b3e9c7c,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,25,True,False,False,Right-arm offbreak,Right-hand bat
+Delhi Capitals,S Dhawan,0a476045,2,57,32,6,2,178.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,107,0,0,107,39,True,False,False,Right-arm offbreak,Left-hand bat
+Delhi Capitals,AM Rahane,29e95537,3,2,9,0,0,22.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,36,True,False,False,Right-arm medium,Right-hand bat
+Delhi Capitals,SS Iyer,85ec8e33,4,53,42,3,2,126.19,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,85,0,0,85,30,True,False,False,Legbreak googly,Right-hand bat
+Delhi Capitals,MP Stoinis,d9273ee7,5,18,19,1,0,94.74,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,35,True,False,True,Right-arm medium,Right-hand bat
+Delhi Capitals,AT Carey,69d03465,6,14,13,0,1,107.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,33,True,False,False,,Left-hand bat
+Delhi Capitals,AR Patel,2e171977,7,7,4,1,0,175.0,"[7, 9, 12, 14]",4.0,24,8,0,32,2,2,1,0,1,0,0,8.0,0,0,0,0,0,11,41,0,52,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Delhi Capitals,R Ashwin,495d42a5,8,0,0,0,0,0.0,"[4, 8, 10, 16]",4.0,24,10,0,17,1,0,1,0,0,0,0,4.25,1,0,0,0,0,0,41,8,49,38,True,False,True,Right-arm offbreak,Right-hand bat
+Delhi Capitals,TU Deshpande,46a9bea1,9,0,0,0,0,0.0,"[2, 11, 15, 20]",4.0,24,5,0,37,4,0,2,0,0,1,3,9.25,0,0,0,0,0,0,55,0,55,29,True,False,False,Right-arm medium,Left-hand bat
+Delhi Capitals,K Rabada,e62dd25d,10,0,0,0,0,0.0,"[1, 6, 17, 19]",4.0,24,9,0,28,4,0,1,0,0,0,0,7.0,0,0,0,0,0,0,36,0,36,29,True,False,False,Right-arm fast,Left-hand bat
+Delhi Capitals,A Nortje,acdc62f5,11,0,0,0,0,0.0,"[3, 5, 13, 18]",4.0,24,9,0,33,3,2,2,0,2,0,0,8.25,0,0,0,0,0,0,75,0,75,31,True,False,False,Right-arm fast,Right-hand bat
+Rajasthan Royals,BA Stokes,e087956b,1,41,35,6,0,117.14,"[5, 10]",2.0,12,2,0,24,3,0,0,0,0,2,0,12.0,0,0,0,0,0,69,-2,0,67,33,True,False,True,Right-arm fast-medium,Left-hand bat
+Rajasthan Royals,JC Buttler,99b75528,2,22,9,3,1,244.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,40,0,0,40,34,True,False,False,,Right-hand bat
+Rajasthan Royals,SPD Smith,30a45b23,3,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,35,True,False,False,Legbreak googly,Right-hand bat
+Rajasthan Royals,SV Samson,a4cc73aa,4,25,17,0,2,147.06,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,43,0,0,43,30,True,False,False,,Right-hand bat
+Rajasthan Royals,RV Uthappa,1c17e270,5,32,27,3,1,118.52,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,54,0,8,62,39,True,False,False,Right-arm medium,Right-hand bat
+Rajasthan Royals,R Parag,04a418e8,6,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,23,True,False,False,Legbreak,Right-hand bat
+Rajasthan Royals,R Tewatia,39a2dfa8,7,14,18,1,0,77.78,"[8, 11, 13]",3.0,18,5,0,23,3,0,0,0,0,0,0,7.67,1,0,0,0,0,18,5,8,31,31,True,False,True,Legbreak,Left-hand bat
+Rajasthan Royals,JC Archer,5574750c,8,1,4,0,0,25.0,"[1, 3, 17, 19]",4.0,24,12,0,19,0,1,3,0,1,0,3,4.75,2,0,0,0,0,1,105,16,122,29,True,False,False,Right-arm fast,Right-hand bat
+Rajasthan Royals,S Gopal,7a8bd078,9,6,4,1,0,150.0,"[7, 9, 12, 14]",4.0,24,4,0,31,1,1,1,0,0,0,2,7.75,0,0,0,0,0,10,29,0,39,31,True,False,True,Legbreak,Right-hand bat
+Rajasthan Royals,JD Unadkat,1e66c162,9,0,0,0,0,0.0,"[2, 15, 20]",3.0,18,5,0,32,2,2,2,0,0,0,0,10.67,0,0,0,0,0,0,53,0,53,33,True,False,False,Left-arm medium,Right-hand bat
+Rajasthan Royals,Kartik Tyagi,5d2eea49,10,0,0,0,0,0.0,"[4, 6, 16, 18]",4.0,24,9,0,30,2,1,1,0,0,0,1,7.5,2,0,0,0,0,0,34,16,50,24,True,False,False,Right-arm fast,Right-hand bat

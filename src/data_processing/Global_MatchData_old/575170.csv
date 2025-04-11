@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Knights,RR Rossouw,cad00a4d,1,48,34,3,3,141.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,84,0,8,92,35,True,False,False,Right-arm offbreak,Left-hand bat
+Knights,LE Bosman,73e749e1,2,91,57,5,5,159.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,157,0,0,157,47,True,False,False,Right-arm medium,Right-hand bat
+Knights,D Elgar,33085ffb,3,16,12,2,0,133.33,"[9, 11, 17, 19]",4.0,24,7,0,31,2,1,1,0,0,0,0,7.75,0,0,0,1,2,26,32,6,64,37,True,False,False,Slow left-arm orthodox,Left-hand bat
+Knights,PJ van Biljon,4025c262,4,32,16,3,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,60,0,0,60,38,True,True,False,Right-arm medium,Right-hand bat
+Knights,R McLaren,c654af19,5,2,1,0,0,200.0,"[2, 4, 15, 20]",4.0,24,8,0,35,3,1,0,0,0,0,4,8.75,1,0,1,0,0,2,8,20,30,42,True,False,True,Right-arm medium-fast,Left-hand bat
+Knights,AJ Pienaar,647a48da,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,35,True,False,True,Slow left-arm orthodox,Right-hand bat
+Knights,GL Cloete,3bf40832,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,0,20,20,32,True,True,False,Right-arm offbreak,Left-hand bat
+Knights,N Boje,6a0537aa,12,0,0,0,0,0.0,"[8, 10, 13]",3.0,18,4,0,39,1,4,1,0,0,0,1,13.0,1,0,0,0,0,0,23,8,31,52,True,False,False,Slow left-arm orthodox,Left-hand bat
+Knights,JJ van der Wath,6821ac10,13,0,0,0,0,0.0,"[1, 3]",2.0,12,6,0,13,2,0,2,0,0,0,1,6.5,0,0,0,0,0,0,58,0,58,47,True,False,True,Right-arm medium-fast,Right-hand bat
+Knights,SC van Schalkwyk,97b0e4ff,14,0,0,0,0,0.0,"[6, 14, 16]",3.0,18,5,0,33,3,2,0,0,0,0,0,11.0,0,0,0,0,0,0,3,0,3,36,True,False,True,Right-arm medium,Left-hand bat
+Knights,MP Siboto,9d50c7e1,15,0,0,0,0,0.0,"[5, 7, 12, 18]",4.0,24,12,0,35,6,1,2,0,1,0,0,8.75,0,0,0,1,0,0,70,6,76,37,True,False,False,Right-arm medium,Left-hand bat
+Titans,H Davids,9c9f8dbc,1,0,1,0,0,0.0,[8],1.0,6,1,0,9,1,0,0,0,0,0,0,9.0,1,0,0,0,0,-2,1,8,7,45,True,False,False,Right-arm medium-fast,Right-hand bat
+Titans,JA Rudolph,42537f07,2,17,9,2,1,188.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31,43,True,False,False,Legbreak googly,Left-hand bat
+Titans,RE van der Merwe,05c2ca46,3,66,45,8,2,146.67,"[1, 7, 9]",3.0,18,4,0,24,3,0,0,0,0,0,0,8.0,0,0,0,0,2,120,4,0,124,40,True,False,True,Slow left-arm orthodox,Right-hand bat
+Titans,M van Jaarsveld,f407e354,4,13,13,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21,50,True,False,False,Right-arm offbreak,Right-hand bat
+Titans,M Mosehle,8836fcac,5,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,34,True,False,False,,Right-hand bat
+Titans,F Behardien,dce2019b,6,7,4,0,1,175.0,[15],1.0,6,2,0,13,1,1,0,0,0,0,0,13.0,0,0,0,0,0,13,2,0,15,41,True,False,True,Right-arm fast-medium,Right-hand bat
+Titans,JA Morkel,c3d35165,7,48,25,2,4,192.0,"[10, 12, 14, 16]",4.0,24,6,0,35,2,1,1,0,0,0,2,8.75,0,0,0,0,6,90,31,0,121,43,True,False,True,Right-arm medium-fast,Left-hand bat
+Titans,D Wiese,aa8d28ae,8,2,5,0,0,40.0,"[11, 13]",2.0,12,5,0,20,2,1,1,0,1,0,2,10.0,0,0,0,0,0,2,36,0,38,39,True,False,True,Right-arm medium-fast,Right-hand bat
+Titans,AC Thomas,b552a935,9,18,12,3,0,150.0,"[2, 5, 18, 20]",4.0,24,5,0,44,1,3,1,0,1,0,0,11.0,0,0,0,0,0,30,36,0,66,48,True,False,False,Right-arm fast-medium,Right-hand bat
+Titans,NE Mbhalati,800b52dc,10,0,0,0,0,0.0,"[4, 17]",2.0,12,4,0,24,1,2,0,0,0,0,2,12.0,0,0,0,0,0,0,0,0,0,43,True,True,False,Right-arm medium-fast,Right-hand bat
+Titans,M de Lange,d4eef961,10,9,4,0,1,225.0,"[3, 6, 19]",3.0,18,4,0,26,2,1,0,0,0,0,0,8.67,0,0,0,0,0,15,4,0,19,34,True,False,False,Right-arm fast,Right-hand bat

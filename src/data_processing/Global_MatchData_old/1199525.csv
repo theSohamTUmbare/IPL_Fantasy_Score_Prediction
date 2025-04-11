@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Netherlands,TP Visee,881b3f8e,1,12,8,1,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,34,True,False,False,,Right-hand bat
+Netherlands,MP O'Dowd,b699df47,2,13,16,2,0,81.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21,31,True,False,False,Right-arm offbreak,Right-hand bat
+Netherlands,BN Cooper,634a7b21,3,9,11,0,1,81.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15,33,True,False,False,Right-arm medium,Left-hand bat
+Netherlands,CN Ackermann,e734d090,4,10,9,1,0,111.11,"[1, 8, 10, 12]",4.0,24,15,0,22,2,1,1,0,0,0,1,5.5,0,0,0,0,0,14,44,0,58,33,True,False,True,Right-arm offbreak,Right-hand bat
+Netherlands,RN ten Doeschate,4ec07775,5,3,8,0,0,37.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,44,True,False,True,Right-arm medium-fast,Right-hand bat
+Netherlands,PM Seelaar,abbdca1a,6,21,31,1,0,67.74,[7],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,-2,23,1,0,24,37,True,False,True,Slow left-arm orthodox,Right-hand bat
+Netherlands,RE van der Merwe,05c2ca46,7,5,11,0,0,45.45,"[9, 11, 15, 17]",4.0,24,9,0,27,3,0,2,1,1,0,1,6.75,0,0,0,0,-6,-1,77,0,76,40,True,False,True,Slow left-arm orthodox,Right-hand bat
+Netherlands,PA van Meekeren,4557dc54,7,0,0,0,0,0.0,"[2, 5, 14]",3.0,18,10,0,12,1,0,0,0,0,0,0,4.0,0,0,0,0,0,0,16,0,16,32,True,False,False,Right-arm fast-medium,Right-hand bat
+Netherlands,BD Glover,0dbe27b8,8,0,0,0,0,0.0,"[3, 6, 16, 18]",4.0,24,10,0,31,4,0,0,0,0,0,3,7.75,0,0,0,0,0,0,10,0,10,27,True,False,False,Right-arm fast,Right-hand bat
+Netherlands,SA Edwards,b59db04f,8,6,5,0,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,6,0,8,14,28,True,False,False,,Right-hand bat
+Netherlands,T van der Gugten,d99cc23a,9,40,21,1,3,190.48,"[4, 13, 19]",3.0,18,7,0,22,1,1,1,0,0,0,1,7.33,1,0,0,0,6,72,32,8,112,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Papua New Guinea,TP Ura,a82eb3fb,1,23,25,2,0,92.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31,35,True,False,False,,Right-hand bat
+Papua New Guinea,A Vala,72e60730,2,37,38,3,2,97.37,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,65,0,0,65,37,True,False,False,Right-arm offbreak,Left-hand bat
+Papua New Guinea,L Siaka,6b4593ee,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,32,True,False,False,Legbreak,Right-hand bat
+Papua New Guinea,CJA Amini,4d84ad05,4,17,17,2,0,100.0,"[11, 13, 15, 19]",4.0,24,9,0,24,1,1,2,0,0,1,0,6.0,0,0,0,0,0,25,61,0,86,32,True,False,True,Legbreak,Left-hand bat
+Papua New Guinea,S Bau,9a95bebb,5,34,26,5,0,130.77,"[4, 6]",2.0,12,7,0,10,0,1,1,0,0,0,0,5.0,1,0,0,0,2,60,36,8,104,32,True,False,False,Right-arm offbreak,Left-hand bat
+Papua New Guinea,K Doriga,365229a8,6,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11,29,True,False,False,,Right-hand bat
+Papua New Guinea,N Vanua,a36915ce,7,2,3,0,0,66.67,"[8, 12, 16, 18]",4.0,24,11,0,24,1,1,0,0,0,0,1,6.0,0,0,0,0,0,2,13,0,15,31,True,False,False,Right-arm medium,Right-hand bat
+Papua New Guinea,J Kila,d996ba33,7,0,0,0,0,0.0,"[2, 7]",2.0,12,5,0,15,0,1,0,0,0,0,1,7.5,2,0,0,0,0,0,5,16,21,35,True,False,True,Slow left-arm orthodox,Left-hand bat
+Papua New Guinea,R Hekure,c70448aa,8,0,0,0,0,0.0,[10],1.0,6,3,0,6,1,0,1,0,0,0,0,6.0,0,0,0,0,0,0,28,0,28,30,True,False,False,Right-arm medium,Right-hand bat
+Papua New Guinea,D Ravu,053f3ce3,9,0,0,0,0,0.0,"[5, 9, 14]",3.0,18,8,0,16,1,0,1,0,0,1,0,5.33,1,0,0,0,0,0,37,8,45,30,True,False,False,Right-arm medium-fast,Right-hand bat
+Papua New Guinea,N Pokana,87a92b6b,10,0,0,0,0,0.0,"[1, 3, 17, 20]",4.0,24,8,0,28,2,1,1,0,0,0,0,7.0,0,0,0,0,0,0,35,0,35,28,True,False,False,Left-arm fast,Right-hand bat

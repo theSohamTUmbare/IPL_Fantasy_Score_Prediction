@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Ireland,PR Stirling,cf494ffe,1,27,15,5,0,180.0,[18],1.0,6,1,0,10,1,0,1,0,0,0,1,10.0,0,0,0,0,6,57,26,0,83,34,True,False,True,Right-arm offbreak,Right-hand bat
+Ireland,JNK Shannon,6e161a33,2,31,21,4,1,147.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,59,0,0,59,35,True,False,False,Right-arm offbreak,Right-hand bat
+Ireland,WTS Porterfield,ec02b798,3,20,20,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24,40,True,False,False,Right-arm offbreak,Left-hand bat
+Ireland,Simi Singh,c9945bdf,4,13,10,2,0,130.0,"[5, 8, 14, 16]",4.0,24,5,0,23,1,0,1,0,1,0,1,5.75,1,0,0,0,2,23,42,8,73,38,True,False,True,Legbreak googly,Right-hand bat
+Ireland,GC Wilson,05de1a5a,5,45,42,2,1,107.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,63,0,0,63,39,True,False,False,,Right-hand bat
+Ireland,KJ O'Brien,243431b5,6,13,6,1,1,216.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23,41,True,False,True,Right-arm medium-fast,Right-hand bat
+Ireland,SR Thompson,7f3ad1ed,7,3,4,0,0,75.0,"[7, 9, 11]",3.0,18,6,0,25,1,1,1,0,0,0,3,8.33,0,0,0,0,0,3,31,0,34,33,True,False,False,Right-arm medium-fast,Left-hand bat
+Ireland,SW Poynter,cdf59953,8,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,2,0,20,22,34,True,False,False,,Right-hand bat
+Ireland,GH Dockrell,99cddc5e,8,0,0,0,0,0.0,"[1, 4, 12, 15]",4.0,24,8,0,30,4,0,2,0,1,0,0,7.5,0,0,0,0,0,0,66,0,66,32,True,False,True,Slow left-arm orthodox,Right-hand bat
+Ireland,BJ McCarthy,3766056b,9,0,0,0,0,0.0,"[2, 6, 17, 19]",4.0,24,7,0,43,6,1,1,0,1,0,0,10.75,0,0,0,0,0,0,38,0,38,32,True,False,False,Right-arm fast-medium,Right-hand bat
+Ireland,WB Rankin,29b89ae8,10,0,0,0,0,0.0,"[3, 10, 13]",3.0,18,5,0,28,4,0,0,0,0,0,1,9.33,0,0,0,0,0,0,5,0,5,40,True,False,False,Right-arm fast-medium,Left-hand bat
+Netherlands,TP Visee,881b3f8e,1,25,15,5,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,53,0,0,53,34,True,False,False,,Right-hand bat
+Netherlands,MP O'Dowd,b699df47,2,39,24,5,1,162.5,[12],1.0,6,1,0,6,0,0,0,0,0,0,0,6.0,0,0,0,0,4,73,1,0,74,31,True,False,False,Right-arm offbreak,Right-hand bat
+Netherlands,BN Cooper,634a7b21,3,10,10,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,14,0,8,22,33,True,False,False,Right-arm medium,Left-hand bat
+Netherlands,BFW de Leede,fc4375ef,4,6,12,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,2,0,8,10,25,True,False,True,Right-arm fast-medium,Right-hand bat
+Netherlands,RE van der Merwe,05c2ca46,5,37,26,3,1,142.31,"[9, 11, 16, 19]",4.0,24,8,0,24,2,0,2,0,1,0,0,6.0,1,0,0,0,2,61,68,8,137,40,True,False,True,Slow left-arm orthodox,Right-hand bat
+Netherlands,PM Seelaar,abbdca1a,6,22,19,0,0,115.79,"[1, 7, 13, 15]",4.0,24,6,0,30,3,0,1,0,1,0,0,7.5,0,0,0,0,0,22,39,0,61,37,True,False,True,Slow left-arm orthodox,Right-hand bat
+Netherlands,Sikander Zulfiqar,3b572f28,7,5,5,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,28,True,False,False,Right-arm medium,Right-hand bat
+Netherlands,SA Edwards,b59db04f,8,9,3,2,0,300.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,28,True,False,False,,Right-hand bat
+Netherlands,FJ Klaassen,c042b412,8,0,0,0,0,0.0,"[3, 6, 10, 17]",4.0,24,10,0,29,3,1,1,0,1,0,0,7.25,0,0,0,0,0,0,43,0,43,32,True,False,False,Left-arm fast-medium,Right-hand bat
+Netherlands,PA van Meekeren,4557dc54,9,0,0,0,0,0.0,"[5, 8, 18, 20]",4.0,24,8,0,33,3,1,1,0,0,1,1,8.25,0,0,0,0,0,0,33,0,33,32,True,False,False,Right-arm fast-medium,Right-hand bat
+Netherlands,S Snater,a790df98,10,0,0,0,0,0.0,"[2, 4, 14]",3.0,18,4,0,34,4,1,1,0,0,0,0,11.33,0,0,0,0,0,0,25,0,25,29,True,False,False,Right-arm fast-medium,Right-hand bat

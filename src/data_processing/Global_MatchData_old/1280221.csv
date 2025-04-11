@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Baroda,KH Devdhar,62e07f92,1,18,21,2,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26,35,True,False,False,,Right-hand bat
+Baroda,Shashwat Rawat,7e435410,2,8,15,0,0,53.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,4,0,0,4,23,True,True,False,Right-arm medium-fast,Left-hand bat
+Baroda,Dhruv Patel,e85f3659,3,21,18,1,1,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31,27,True,True,False,Right-arm medium,Right-hand bat
+Baroda,KH Pandya,5b8c830e,4,57,43,9,0,132.56,"[2, 7, 12, 16]",4.0,24,8,0,25,2,0,0,0,0,0,2,6.25,0,0,0,0,2,103,10,0,113,34,True,False,True,Slow left-arm orthodox,Left-hand bat
+Baroda,Vishnu Solanki,2e802011,5,13,11,1,0,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,32,True,False,False,Right-arm offbreak,Right-hand bat
+Baroda,A Sheth,4312e8f9,6,2,2,0,0,100.0,"[1, 6, 17, 19]",4.0,24,9,0,33,1,2,3,0,1,0,1,8.25,0,0,0,0,0,2,96,0,98,29,True,False,True,Right-arm medium,Right-hand bat
+Baroda,Bhanu Pania,af863475,7,15,9,1,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,28,True,True,False,Right-arm medium-fast,Right-hand bat
+Baroda,KR Kakade,ba86aae4,8,1,1,0,0,100.0,"[9, 11, 13, 15]",4.0,24,9,0,28,2,0,2,1,1,0,6,7.0,0,0,0,0,0,1,77,0,78,29,True,True,False,Right-arm offbreak,Right-hand bat
+Baroda,LI Meriwala,d3611425,8,0,0,0,0,0.0,"[3, 5, 18, 20]",4.0,24,7,0,37,2,2,0,0,0,0,0,9.25,1,0,0,0,0,0,7,8,15,33,True,False,False,Left-arm fast-medium,Left-hand bat
+Baroda,NA Rathva,8f607eea,9,0,0,0,0,0.0,"[4, 8, 10, 14]",4.0,24,8,0,19,1,0,1,0,1,0,0,4.75,1,0,1,0,0,0,47,20,67,26,True,True,False,Slow left-arm orthodox,Left-hand bat
+Baroda,Ansh Patel,9e76cdb3,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,23,True,False,False,Left-arm wrist-spin,Right-hand bat
+Bengal,Abhisek Das,f4cd319e,1,35,27,3,0,129.63,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,51,0,0,51,34,True,True,False,Right-arm offbreak,Right-hand bat
+Bengal,Sudip Chatterjee,0cb8626f,2,13,16,2,0,81.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21,33,True,False,False,Legbreak googly,Left-hand bat
+Bengal,Karan Lal,72147266,3,3,7,0,0,42.86,"[12, 14]",2.0,12,5,0,15,1,1,1,0,0,0,0,7.5,0,0,0,0,0,3,30,0,33,24,True,True,False,Right-arm offbreak,Right-hand bat
+Bengal,WP Saha,fe11caa6,4,7,10,0,0,70.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,5,0,8,13,40,True,False,False,,Right-hand bat
+Bengal,Kaif Ahmad,7b09e19c,5,7,12,1,0,58.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,7,0,0,7,27,True,True,False,Right-arm medium-fast,Right-hand bat
+Bengal,Shahbaz Ahmed,f9e6e7ef,6,34,25,2,2,136.0,"[5, 7, 13, 17]",4.0,24,8,0,26,0,1,2,1,1,0,2,6.5,0,0,0,0,2,60,76,0,136,30,True,False,True,Slow left-arm orthodox,Left-hand bat
+Bengal,Ritwik Roy Chowdhury,6033d30a,7,21,16,0,1,131.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,1,0,2,29,0,28,57,29,True,True,False,Right-arm medium,Right-hand bat
+Bengal,IC Porel,fdf7491e,8,0,0,0,0,0.0,"[1, 3, 15]",3.0,18,7,0,25,4,0,0,0,0,0,1,8.33,0,0,0,0,0,0,7,0,7,26,True,False,False,Right-arm medium,Right-hand bat
+Bengal,Writtick Chatterjee,a00e1842,8,1,1,0,0,100.0,"[2, 8, 10, 16]",4.0,24,10,0,14,0,0,1,0,0,0,0,3.5,0,0,0,0,0,1,41,0,42,32,True,False,True,Right-arm offbreak,Right-hand bat
+Bengal,Mukesh Kumar,2cffab74,9,0,0,0,0,0.0,"[4, 6, 18, 20]",4.0,24,11,0,30,5,0,0,0,0,0,1,7.5,0,0,0,0,0,0,11,0,11,31,True,False,False,Right-arm medium,Right-hand bat
+Bengal,Akash Deep,0a67aec0,9,12,6,0,1,200.0,"[9, 11, 19]",3.0,18,3,0,29,4,0,1,0,0,0,0,9.67,0,0,0,0,0,18,28,0,46,28,True,False,False,Right-arm fast-medium,Right-hand bat

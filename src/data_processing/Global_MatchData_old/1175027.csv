@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bengal,SP Goswami,541f85c9,1,80,55,9,2,145.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,142,0,8,150,35,True,False,False,,Left-hand bat
+Bengal,WP Saha,fe11caa6,2,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,40,True,False,False,,Right-hand bat
+Bengal,AR Easwaran,10b58586,3,46,35,7,1,131.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,86,0,0,86,29,True,False,False,Legbreak googly,Right-hand bat
+Bengal,MK Tiwary,26e5cabf,4,4,5,0,0,80.0,"[7, 15]",2.0,12,2,0,18,1,1,0,0,0,0,0,9.0,2,0,0,0,0,4,2,16,22,39,True,False,False,Legbreak googly,Right-hand bat
+Bengal,Ritwik Roy Chowdhury,6033d30a,5,7,8,0,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,7,0,8,15,29,True,True,False,Right-arm medium,Right-hand bat
+Bengal,AB Dinda,66b30f71,6,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,8,0,19,1,0,1,0,0,0,0,4.75,0,0,0,0,0,0,39,0,39,41,True,False,False,Right-arm medium-fast,Right-hand bat
+Bengal,Vivek Singh,a446c7be,6,3,3,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,31,True,False,False,Right-arm medium,Left-hand bat
+Bengal,IC Porel,fdf7491e,7,0,0,0,0,0.0,"[2, 4, 11, 16]",4.0,24,7,0,30,4,0,0,0,0,0,0,7.5,0,0,0,0,0,0,7,0,7,26,True,False,False,Right-arm medium,Right-hand bat
+Bengal,Sayan Ghosh,d4b8ea98,8,0,0,0,0,0.0,"[5, 9, 17, 19]",4.0,24,9,0,26,4,0,2,0,0,0,1,6.5,1,0,0,0,0,0,61,8,69,32,True,False,False,Right-arm medium,Right-hand bat
+Bengal,Shahbaz Ahmed,f9e6e7ef,9,0,0,0,0,0.0,"[6, 8, 13]",3.0,18,5,0,24,2,1,1,0,0,0,0,8.0,0,0,0,0,0,0,30,0,30,30,True,False,True,Slow left-arm orthodox,Left-hand bat
+Bengal,Pradipta Pramanik,24e3f53e,10,0,0,0,0,0.0,"[10, 12, 14]",3.0,18,8,0,18,0,1,1,0,0,0,1,6.0,0,0,1,0,0,0,35,12,47,26,True,True,False,Slow left-arm orthodox,Right-hand bat
+Railways,Mrunal Devdhar,a1765140,1,1,7,0,0,14.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,32,True,True,False,Right-arm medium,Right-hand bat
+Railways,Pratham Singh,f9f21866,2,22,16,4,0,137.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,40,0,0,40,32,True,False,False,Right-arm offbreak,Left-hand bat
+Railways,Prashant Gupta,ad1e02b4,3,39,31,5,1,125.81,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,69,0,8,77,36,True,True,False,Legbreak googly,Right-hand bat
+Railways,Ashish Yadav,254c7802,4,51,44,2,2,115.91,"[1, 3, 11, 13]",4.0,24,12,0,20,2,0,2,0,1,0,0,5.0,0,0,0,0,0,79,74,0,153,39,True,False,True,Slow left-arm orthodox,Left-hand bat
+Railways,Abhinav Dixit,f1a7f596,5,12,15,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,33,True,True,False,Right-arm offbreak,Right-hand bat
+Railways,AG Paunikar,3a02626a,6,7,5,1,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19,36,True,False,False,,Right-hand bat
+Railways,Anureet Singh,69be866a,6,0,0,0,0,0.0,"[2, 10]",2.0,12,5,0,24,3,1,0,0,0,0,3,12.0,1,0,0,0,0,0,1,8,9,37,True,False,False,Right-arm medium,Right-hand bat
+Railways,Harsh Tyagi,4a15018a,7,1,2,0,0,50.0,"[7, 9, 15, 17]",4.0,24,9,0,25,1,1,0,0,0,0,0,6.25,0,0,0,0,0,1,11,0,12,25,True,True,False,Slow left-arm orthodox,Left-hand bat
+Railways,K Upadhyay,27e71d47,7,0,0,0,0,0.0,"[4, 6, 18]",3.0,18,7,0,18,2,0,1,0,0,0,0,6.0,0,0,0,0,0,0,34,0,34,38,True,True,False,Right-arm medium,Right-hand bat
+Railways,Prashant Awasthi,bbbc7d28,8,0,0,0,0,0.0,"[8, 14, 16]",3.0,18,4,0,22,2,0,1,0,0,0,0,7.33,0,0,0,0,0,0,29,0,29,34,True,True,False,Right-arm offbreak,Right-hand bat
+Railways,Manjeet Singh,c2c97df0,9,0,0,0,0,0.0,"[5, 12, 19]",2.167,13,2,0,34,6,1,0,0,0,0,0,15.69,0,0,0,0,0,0,-4,0,-4,33,True,True,False,Right-arm medium,Right-hand bat

@@ -1,0 +1,25 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Royal Challengers Bengaluru,V Kohli,ba607b88,1,51,43,4,1,118.6,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,81,0,0,81,36,True,False,False,Right-arm medium,Right-hand bat
+Royal Challengers Bengaluru,F du Plessis,3355b542,2,25,12,3,1,208.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,53,0,0,53,40,True,False,False,Legbreak,Right-hand bat
+Royal Challengers Bengaluru,WG Jacks,9caf69a1,3,6,9,0,0,66.67,"[1, 3]",2.0,12,3,0,23,1,2,1,0,0,0,0,11.5,0,0,0,0,0,6,24,0,30,26,True,False,True,Right-arm offbreak,Right-hand bat
+Royal Challengers Bengaluru,RM Patidar,c740ea83,4,50,20,2,5,250.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,102,0,0,102,31,True,False,False,Right-arm offbreak,Right-hand bat
+Royal Challengers Bengaluru,C Green,eaa76d3c,5,37,20,5,0,185.0,"[14, 16]",2.0,12,7,0,12,2,0,2,0,0,0,1,6.0,1,0,0,0,6,67,59,8,134,25,True,False,True,Right-arm fast-medium,Right-hand bat
+Royal Challengers Bengaluru,MK Lomror,da934ee8,6,7,4,1,0,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,25,True,False,True,Slow left-arm orthodox,Left-hand bat
+Royal Challengers Bengaluru,KD Karthik,c03f1114,7,11,6,2,0,183.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,19,0,8,27,39,True,True,False,Right-arm offbreak,Right-hand bat
+Royal Challengers Bengaluru,Swapnil Singh,983f2f61,8,12,6,1,1,200.0,"[5, 7, 11]",3.0,18,3,0,40,1,4,2,1,0,1,0,13.33,0,0,0,0,0,22,55,0,77,34,True,False,False,Slow left-arm orthodox,Right-hand bat
+Royal Challengers Bengaluru,KV Sharma,119678fd,10,0,0,0,0,0.0,"[8, 10, 12, 15]",4.0,24,10,0,29,2,1,2,0,1,0,2,7.25,2,0,0,0,0,0,68,16,84,37,True,False,False,Legbreak googly,Left-hand bat
+Royal Challengers Bengaluru,LH Ferguson,2f9d0389,11,0,0,0,0,0.0,"[9, 18]",2.0,12,2,0,28,2,2,0,0,0,0,0,14.0,0,0,0,0,0,0,-4,0,-4,33,True,False,False,Right-arm fast,Right-hand bat
+Royal Challengers Bengaluru,Yash Dayal,7210d461,12,0,0,0,0,0.0,"[4, 13, 20]",3.0,18,8,0,18,1,0,1,0,0,0,3,6.0,0,0,0,0,0,0,35,0,35,27,True,False,False,Left-arm medium-fast,Right-hand bat
+Royal Challengers Bengaluru,Mohammed Siraj,2f49c897,13,0,0,0,0,0.0,"[2, 6, 17, 19]",4.0,24,10,0,20,1,0,0,0,0,0,2,5.0,2,0,0,0,0,0,14,16,30,31,True,False,False,Right-arm fast,Right-hand bat
+Sunrisers Hyderabad,Abhishek Sharma,f29185a1,1,31,13,3,2,238.46,[1],1.0,6,0,0,10,1,0,0,0,0,0,0,10.0,1,0,0,0,6,65,0,8,73,24,True,False,True,Slow left-arm orthodox,Left-hand bat
+Sunrisers Hyderabad,TM Head,12b610c2,2,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,31,True,False,False,Right-arm offbreak,Left-hand bat
+Sunrisers Hyderabad,AK Markram,6a26221c,3,7,8,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19,30,True,False,True,Right-arm offbreak,Right-hand bat
+Sunrisers Hyderabad,Nithish Kumar Reddy,aad0c365,4,13,13,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,21,True,False,True,Right-arm medium-fast,Right-hand bat
+Sunrisers Hyderabad,H Klaasen,235c2bb6,5,7,2,0,1,350.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,33,True,True,False,Right-arm offbreak,Right-hand bat
+Sunrisers Hyderabad,Shahbaz Ahmed,f9e6e7ef,6,40,37,1,1,108.11,"[5, 8, 14]",3.0,18,7,0,14,1,0,0,0,0,0,0,4.67,0,0,0,0,0,54,13,0,67,30,True,False,True,Slow left-arm orthodox,Left-hand bat
+Sunrisers Hyderabad,Abdul Samad,8e514b4c,7,10,6,0,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,16,0,28,44,23,True,False,False,Legbreak,Right-hand bat
+Sunrisers Hyderabad,PJ Cummins,ded9240e,8,31,15,1,3,206.67,"[3, 12, 16, 19]",4.0,24,1,0,55,8,1,1,0,0,0,1,13.75,1,0,0,0,6,63,20,8,91,31,True,False,False,Right-arm fast,Right-hand bat
+Sunrisers Hyderabad,B Kumar,2e81a32d,9,13,13,3,0,100.0,[2],1.0,6,1,0,14,3,0,0,0,0,0,0,14.0,0,0,0,0,0,25,1,0,26,35,True,False,False,Right-arm medium,Right-hand bat
+Sunrisers Hyderabad,T Natarajan,ce794613,10,0,0,0,0,0.0,"[4, 6, 18, 20]",4.0,24,6,0,39,3,2,2,0,0,0,1,9.75,0,0,0,0,0,0,56,0,56,33,True,False,False,Left-arm medium,Left-hand bat
+Sunrisers Hyderabad,JD Unadkat,1e66c162,10,8,10,1,0,80.0,"[10, 13, 15, 17]",4.0,24,4,0,30,2,0,3,0,0,0,2,7.5,0,0,0,0,0,12,83,0,95,33,True,False,False,Left-arm medium,Right-hand bat
+Sunrisers Hyderabad,M Markande,a9fd84fb,11,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,2,0,42,0,5,1,0,1,0,1,14.0,0,0,0,0,0,0,29,0,29,27,True,False,False,Legbreak,Right-hand bat

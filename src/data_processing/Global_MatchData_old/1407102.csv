@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Kenya,RN Patel,db1bf9c2,1,1,10,0,0,10.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-5,0,0,-5,31,True,False,False,Right-arm medium-fast,Left-hand bat
+Kenya,CO Obuya,5680f1ad,2,15,22,1,0,68.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,17,0,0,17,43,True,False,True,Legbreak,Right-hand bat
+Kenya,IA Karim,ca92a578,3,43,47,2,1,91.49,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,61,0,16,77,32,True,True,False,Right-arm offbreak,Left-hand bat
+Kenya,P Sharma,d047f983,4,5,9,0,0,55.56,"[14, 16]",1.333,8,1,0,12,1,0,0,0,0,0,0,9.0,0,0,0,0,0,5,1,0,6,24,True,True,False,Left-arm medium-fast,Left-hand bat
+Kenya,SR Bhudia,e9173fb0,5,18,17,3,0,105.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30,26,True,False,True,Right-arm medium,Right-hand bat
+Kenya,SO Ngoche,49118dc7,6,2,2,0,0,100.0,"[3, 11]",2.0,12,3,0,24,5,0,1,0,0,0,0,12.0,1,0,0,0,0,2,24,8,34,35,True,False,False,Slow left-arm orthodox,Right-hand bat
+Kenya,NM Odhiambo,c07a1f41,6,0,0,0,0,0.0,"[6, 8, 15]",3.0,18,9,0,16,1,0,0,0,0,0,3,5.33,0,0,0,0,0,0,13,0,13,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Kenya,S Singh,612a395c,7,8,10,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,24,True,True,False,Right-arm offbreak,Right-hand bat
+Kenya,LN Oluoch,eb4f9c61,7,0,0,0,0,0.0,"[1, 4, 10]",3.0,18,11,0,13,2,0,1,0,1,0,0,4.33,0,0,0,0,0,0,50,0,50,33,True,False,False,Left-arm fast-medium,Right-hand bat
+Kenya,GM Muthui,d7e51f87,8,0,0,0,0,0.0,"[2, 5, 12]",3.0,18,8,0,22,1,0,0,0,0,0,3,7.33,0,0,0,0,0,0,8,0,8,25,True,False,True,Right-arm medium-fast,Right-hand bat
+Kenya,Vraj Patel,2af28253,8,4,3,0,0,133.33,"[7, 9, 13]",3.0,18,6,0,19,0,1,2,0,0,0,0,6.33,0,0,0,0,0,4,58,0,62,23,True,False,False,Slow left-arm orthodox,Left-hand bat
+Namibia,M van Lingen,7eb36269,1,5,5,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,27,True,False,False,Slow left-arm orthodox,Left-hand bat
+Namibia,N Davin,72e361fe,2,19,17,3,0,111.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31,27,True,False,False,Legbreak,Right-hand bat
+Namibia,MG Erasmus,95a5e066,3,3,9,0,0,33.33,"[3, 5, 13]",3.0,18,11,1,10,1,0,1,0,0,0,0,3.33,1,0,0,0,0,3,54,8,65,29,True,False,True,Right-arm offbreak,Right-hand bat
+Namibia,JN Frylinck,3c87f0c3,4,57,41,5,1,139.02,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,93,0,0,93,30,True,False,True,Left-arm fast-medium,Left-hand bat
+Namibia,JN Loftie-Eaton,f468293b,5,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,24,True,False,True,Legbreak,Left-hand bat
+Namibia,JJ Smit,bb134e5c,6,14,14,1,0,100.0,"[2, 6, 17, 20]",4.0,24,13,0,19,1,0,1,0,1,0,0,4.75,0,0,0,0,0,18,52,0,70,29,True,False,True,Left-arm medium-fast,Right-hand bat
+Namibia,HN Ya France,915264c2,6,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,7,0,11,0,0,1,0,0,0,0,3.67,1,0,0,0,0,0,38,8,46,34,True,False,False,Right-arm offbreak,Right-hand bat
+Namibia,BM Scholtz,e85d03d6,7,0,0,0,0,0.0,"[8, 10, 14]",3.0,18,7,0,17,2,0,0,0,0,0,0,5.67,0,0,0,0,0,0,11,0,11,34,True,False,False,Slow left-arm orthodox,Right-hand bat
+Namibia,ZE Green,8716233e,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,28,True,False,False,,Left-hand bat
+Namibia,D Wiese,aa8d28ae,9,0,0,0,0,0.0,"[1, 4, 16, 18]",4.0,24,11,0,21,1,1,1,0,1,0,1,5.25,1,0,0,0,0,0,48,8,56,39,True,False,True,Right-arm medium-fast,Right-hand bat
+Namibia,T Lungameni,1688f2dc,10,0,0,0,0,0.0,"[12, 15, 19]",3.0,18,7,0,19,2,0,2,0,0,0,0,6.33,1,0,0,0,0,0,59,8,67,32,True,False,False,Left-arm medium,Right-hand bat

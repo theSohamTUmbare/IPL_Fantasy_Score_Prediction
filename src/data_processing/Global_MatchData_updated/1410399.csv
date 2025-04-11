@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Northamptonshire,R Vasconcelos,efe3fcc5,1,28,25,5,0,112.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,52,0,0,52
+Northamptonshire,MP Breetzke,35f173a0,2,26,17,0,3,152.94,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,52,0,0,52
+Northamptonshire,DJ Willey,7f048519,3,3,7,0,0,42.86,"[5, 12, 17, 19]",4.0,24,6,0,39,4,1,1,0,1,2,0,9.75,1,0,0,0,0,3,39,8,50
+Northamptonshire,RS Bopara,7ca5e05d,4,18,20,1,0,90.0,"[10, 14]",2.0,12,6,0,16,1,1,1,1,0,2,0,8.0,0,0,0,0,0,22,39,0,61
+Northamptonshire,Sikandar Raza,26d041c4,5,42,30,2,3,140.0,"[1, 7, 9]",3.0,18,3,0,26,3,0,0,0,0,0,0,8.67,1,0,0,0,2,74,3,8,85
+Northamptonshire,SA Zaib,ab01e323,6,44,21,6,2,209.52,"[3, 11, 13, 15]",4.0,24,11,0,20,0,1,3,0,1,0,0,5.0,0,0,0,0,6,90,102,0,192
+Northamptonshire,LD McManus,6feb46a4,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Northamptonshire,GA Bartlett,e2caec46,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Northamptonshire,BW Sanderson,e871a7a1,9,0,0,0,0,0.0,"[2, 4, 6, 18]",4.0,24,9,0,35,3,2,1,0,0,0,0,8.75,1,0,0,0,0,0,34,8,42
+Northamptonshire,FJ Heldreich,56ef4f99,10,0,0,0,0,0.0,"[8, 16]",2.0,12,5,0,22,1,1,2,0,1,0,5,11.0,0,0,0,0,0,0,61,0,61
+Northamptonshire,RA Weatherall,acb94221,11,0,0,0,0,0.0,[20],1.0,6,4,0,4,0,0,1,0,1,0,0,4.0,0,0,0,0,0,0,37,0,37
+Worcestershire,BL D'Oliveira,9679838c,1,8,8,1,0,100.0,"[12, 15]",2.0,12,3,0,20,0,2,0,0,0,0,0,10.0,0,0,0,0,0,12,1,0,13
+Worcestershire,MJ Waite,a4b810d0,2,12,12,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
+Worcestershire,EJ Pollock,d6663a9a,3,14,10,3,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,28,0,0,28
+Worcestershire,AJ Hose,104e88a4,4,30,20,2,2,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,54,0,8,62
+Worcestershire,EA Brookes,6ce9f3eb,5,24,15,4,0,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,44,0,0,44
+Worcestershire,TAI Taylor,867a45a7,6,9,16,0,0,56.25,"[3, 6, 18]",3.0,18,4,0,25,4,0,0,0,0,0,0,8.33,1,0,0,0,-4,5,4,8,17
+Worcestershire,NG Smith,05b1aef8,7,11,8,0,1,137.5,"[1, 5, 17, 20]",4.0,24,10,0,42,3,3,0,0,0,2,1,10.5,1,0,0,0,0,17,8,8,33
+Worcestershire,GH Roderick,7081848a,8,39,21,1,3,185.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,71,0,0,71
+Worcestershire,HR Walsh,1ac2a995,9,0,1,0,0,0.0,"[7, 9, 11, 13]",4.0,24,11,0,17,1,0,1,0,1,0,1,4.25,0,0,0,0,0,-2,50,0,48
+Worcestershire,AW Finch,fc63d916,10,6,8,0,0,75.0,"[4, 14, 19]",3.0,18,8,0,25,4,0,1,0,0,0,2,8.33,0,0,0,0,0,6,33,0,39
+Worcestershire,Shoaib Bashir,e36e9dd3,11,0,1,0,0,0.0,"[2, 8, 10, 16]",4.0,24,7,0,38,2,3,2,0,0,0,0,9.5,0,0,0,0,0,0,57,0,57

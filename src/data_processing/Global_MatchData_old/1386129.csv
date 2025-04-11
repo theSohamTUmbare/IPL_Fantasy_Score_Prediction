@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Melbourne Renegades,SE Marsh,508a1ea7,1,64,48,10,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,114,0,0,114,41,True,False,False,Slow left-arm orthodox,Left-hand bat
+Melbourne Renegades,AJ Finch,b8d490fd,2,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,38,True,False,False,Slow left-arm orthodox,Right-hand bat
+Melbourne Renegades,J Fraser-McGurk,9b6e1b3f,3,42,31,4,2,135.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,76,0,16,92,22,True,False,False,Legbreak googly,Right-hand bat
+Melbourne Renegades,JM Cox,ff154ecd,4,4,2,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,8,0,6,14,24,True,False,False,,Right-hand bat
+Melbourne Renegades,W Sutherland,bc2d4f2e,5,10,5,1,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,25,True,False,True,Right-arm medium-fast,Right-hand bat
+Melbourne Renegades,JW Wells,8bdac857,6,14,15,1,0,93.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,36,True,False,False,Right-arm medium,Right-hand bat
+Melbourne Renegades,AJ Hosein,4d7f517e,6,0,0,0,0,0.0,"[2, 9, 11, 15]",4.0,24,14,0,18,1,0,2,0,1,0,0,4.5,0,0,0,0,0,0,78,0,78,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+Melbourne Renegades,TS Rogers,1b04e02b,7,0,0,0,0,0.0,"[3, 7, 16, 19]",4.0,24,9,0,36,3,2,1,1,0,0,0,9.0,0,0,0,0,0,0,42,0,42,31,True,False,True,Right-arm medium-fast,Left-hand bat
+Melbourne Renegades,F O'Neill,39d608d4,8,0,0,0,0,0.0,"[1, 4, 10, 20]",4.0,24,12,0,39,7,1,1,0,0,0,0,9.75,1,0,0,1,0,0,37,14,51,24,True,False,False,Right-arm medium-fast,Right-hand bat
+Melbourne Renegades,KW Richardson,dfc4d8b5,9,0,0,0,0,0.0,"[6, 8, 13, 17]",4.0,24,14,0,17,2,0,2,0,0,0,0,4.25,1,0,0,0,0,0,70,8,78,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Melbourne Renegades,A Zampa,14f96089,10,0,0,0,0,0.0,"[5, 12, 14, 18]",4.0,24,10,0,27,2,1,1,0,0,0,0,6.75,0,0,0,0,0,0,37,0,37,32,True,False,False,Legbreak googly,Right-hand bat
+Melbourne Stars,TF Rogers,7f232d46,1,23,17,4,0,135.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,41,0,8,49,26,True,False,False,Right-arm medium,Left-hand bat
+Melbourne Stars,DW Lawrence,4b685e2d,2,8,5,2,0,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,27,True,False,False,Right-arm offbreak,Right-hand bat
+Melbourne Stars,BJ Webster,56b93d46,3,29,34,3,1,85.29,[16],1.0,6,2,0,4,0,0,0,0,0,0,0,4.0,0,0,0,0,0,51,2,0,53,31,True,False,True,Right-arm offbreak,Right-hand bat
+Melbourne Stars,GJ Maxwell,b681e71e,4,20,10,1,2,200.0,[15],1.0,6,1,0,6,0,0,0,0,0,0,0,6.0,1,0,0,0,6,42,1,8,51,36,True,False,True,Right-arm offbreak,Right-hand bat
+Melbourne Stars,MP Stoinis,d9273ee7,5,2,5,0,0,40.0,"[8, 13]",2.0,12,2,0,26,3,1,0,0,0,0,1,13.0,0,0,0,0,0,2,-4,0,-2,35,True,False,True,Right-arm medium,Right-hand bat
+Melbourne Stars,HWR Cartwright,ab965cad,6,38,30,4,1,126.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,64,0,8,72,33,True,False,False,Right-arm medium,Right-hand bat
+Melbourne Stars,JS Paris,7c8f533d,6,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,12,0,20,4,0,1,0,0,1,0,6.67,0,0,0,0,0,0,39,0,39,32,True,False,False,Left-arm fast-medium,Left-hand bat
+Melbourne Stars,Imad Wasim,9cb8d7a6,7,14,14,1,0,100.0,"[6, 10, 14]",3.0,18,3,0,28,3,0,0,0,0,0,0,9.33,0,0,0,0,0,18,3,0,21,36,True,False,True,Slow left-arm orthodox,Left-hand bat
+Melbourne Stars,SM Boland,d167edd3,7,0,0,0,0,0.0,"[2, 4, 12, 18]",3.333,20,11,0,27,3,2,1,0,0,0,0,8.1,0,0,0,0,0,0,36,0,36,35,True,False,False,Right-arm fast-medium,Right-hand bat
+Melbourne Stars,PSP Handscomb,ada15e88,8,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11,33,True,False,False,,Right-hand bat
+Melbourne Stars,NM Coulter-Nile,56ab442f,9,0,1,0,0,0.0,"[7, 9, 11, 17]",4.0,24,11,0,25,4,0,2,0,0,0,0,6.25,0,0,0,0,0,0,63,0,63,37,True,False,True,Right-arm fast,Right-hand bat

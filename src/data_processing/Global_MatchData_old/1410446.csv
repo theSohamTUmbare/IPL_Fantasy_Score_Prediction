@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Leicestershire,RK Patel,4531f249,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,False,False,Legbreak,Right-hand bat
+Leicestershire,PR Stirling,cf494ffe,8,0,0,0,0,0.0,"[1, 14]",2.0,12,4,0,15,2,0,0,0,0,0,0,7.5,0,0,0,0,0,0,4,0,4,34,True,False,True,Right-arm offbreak,Right-hand bat
+Leicestershire,SG Budinger,bfc60227,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,25,True,False,False,,Left-hand bat
+Leicestershire,LPJ Kimber,9f812582,10,0,0,0,0,0.0,[8],1.0,6,0,0,13,2,0,0,0,0,0,0,13.0,1,0,0,0,0,0,0,8,8,28,True,False,False,Right-arm offbreak,Right-hand bat
+Leicestershire,JDS Neesham,9219eff0,11,0,0,0,0,0.0,"[6, 9]",2.0,12,3,0,24,1,2,0,0,0,0,0,12.0,0,0,0,0,0,0,-1,0,-1,34,True,False,True,Right-arm medium-fast,Left-hand bat
+Leicestershire,BWM Mike,ed12fcd7,12,0,0,0,0,0.0,"[3, 11, 18]",2.0,12,6,0,16,2,0,1,0,1,0,4,8.0,0,0,0,0,0,0,39,0,39,26,True,False,True,Right-arm medium-fast,Right-hand bat
+Leicestershire,OB Cox,324a6ee1,13,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,33,True,False,False,,Right-hand bat
+Leicestershire,LP Goldsworthy,ed47cb25,14,0,0,0,0,0.0,"[7, 13, 15, 17]",4.0,24,7,0,36,4,1,3,0,0,0,0,9.0,2,0,0,0,0,0,86,16,102,24,True,False,True,Slow left-arm orthodox,Right-hand bat
+Leicestershire,J Hull,1cc0a83d,15,0,0,0,0,0.0,"[2, 4, 16]",3.0,18,8,0,30,3,2,1,0,0,0,1,10.0,0,0,0,0,0,0,31,0,31,20,True,False,False,Left-arm fast-medium,Left-hand bat
+Leicestershire,RI Walker,c78a879c,16,0,0,0,0,0.0,"[5, 10]",2.0,12,5,0,27,4,1,0,0,0,2,0,13.5,0,0,0,0,0,0,-1,0,-1,24,True,False,False,Right-arm fast-medium,Right-hand bat
+Leicestershire,SB Wood,c2d9b9cd,17,0,0,0,0,0.0,[12],1.0,6,0,0,13,2,0,0,0,0,0,0,13.0,0,0,0,0,0,0,0,0,0,20,True,True,False,Right-arm medium,Left-hand bat
+Nottinghamshire,JM Clarke,2eca67f5,1,79,40,10,4,197.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,161,0,0,161,28,True,False,False,,Right-hand bat
+Nottinghamshire,BJR Martindale,a81cac82,2,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,22,True,True,False,Right-arm medium,Left-hand bat
+Nottinghamshire,BM Duckett,5f26f677,3,39,21,5,1,185.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,75,0,0,75,30,True,False,False,Right-arm offbreak,Left-hand bat
+Nottinghamshire,JA Haynes,fe4ebca0,4,18,12,2,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26,24,True,False,False,Right-arm offbreak,Right-hand bat
+Nottinghamshire,TJ Moores,85dcb721,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,28,True,False,False,,Left-hand bat
+Nottinghamshire,LA Patterson-White,d48c0f40,6,26,15,3,1,173.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,54,0,0,54,26,True,False,True,Slow left-arm orthodox,Left-hand bat
+Nottinghamshire,M Montgomery,7671203a,7,4,8,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,24,True,True,False,Right-arm offbreak,Right-hand bat
+Nottinghamshire,LW James,2baad3bd,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,False,True,Right-arm medium-fast,Right-hand bat
+Nottinghamshire,CG Harrison,f655d740,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,False,True,Legbreak googly,Right-hand bat
+Nottinghamshire,OP Stone,3f659464,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,31,True,False,False,Right-arm fast,Right-hand bat
+Nottinghamshire,Fazalhaq Farooqi,e9c7f0d0,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,24,True,False,False,Left-arm fast-medium,Right-hand bat

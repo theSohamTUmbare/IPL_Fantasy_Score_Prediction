@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Delhi Daredevils,DPMD Jayawardene,d18f9182,1,39,41,3,1,95.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,61,0,0,61,47,True,False,False,Right-arm medium,Right-hand bat
+Delhi Daredevils,UBT Chand,0c94f480,2,7,8,0,1,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,32,True,True,False,Right-arm offbreak,Right-hand bat
+Delhi Daredevils,IK Pathan,5fa06777,3,1,7,0,0,14.29,"[1, 8, 10, 15]",4.0,24,10,0,28,4,0,1,0,0,0,2,7.0,2,0,0,0,0,1,37,16,54,40,True,False,True,Left-arm medium-fast,Left-hand bat
+Delhi Daredevils,DA Warner,dcce6f09,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,38,True,False,False,Legbreak,Left-hand bat
+Delhi Daredevils,V Sehwag,8ba8195d,5,30,22,6,0,136.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,60,0,0,60,46,True,False,False,Right-arm offbreak,Right-hand bat
+Delhi Daredevils,BJ Rohrer,27af6414,6,49,29,4,3,168.97,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,91,0,8,99,44,True,False,False,,Left-hand bat
+Delhi Daredevils,CM Gautam,30a2649b,7,12,8,2,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,39,True,False,False,,Right-hand bat
+Delhi Daredevils,S Kaul,dcf81436,8,0,0,0,0,0.0,"[2, 11, 14, 18]",4.0,24,4,0,39,3,2,0,0,0,0,1,9.75,1,0,0,0,0,0,4,8,12,34,True,False,False,Right-arm medium,Right-hand bat
+Delhi Daredevils,M Morkel,5bb5a915,8,13,4,0,2,325.0,"[3, 5, 13, 17]",4.0,24,12,0,22,1,1,1,0,0,0,0,5.5,0,0,0,0,0,25,41,0,66,40,True,False,False,Right-arm fast,Left-hand bat
+Delhi Daredevils,UT Yadav,cc1e8c68,9,0,0,0,0,0.0,"[7, 9, 16, 19]",4.0,24,8,0,38,5,2,0,0,0,0,0,9.5,0,0,0,0,0,0,8,0,8,37,True,False,False,Right-arm fast,Right-hand bat
+Delhi Daredevils,A Nehra,96fd40ae,10,0,0,0,0,0.0,"[4, 6, 12, 20]",4.0,24,12,0,38,5,2,2,0,0,0,0,9.5,0,0,0,0,0,0,62,0,62,45,True,False,False,Left-arm medium-fast,Right-hand bat
+Kings XI Punjab,AC Gilchrist,2b6e6dec,1,42,26,5,2,161.54,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,4,82,0,16,98,53,True,True,False,Right-arm offbreak,Left-hand bat
+Kings XI Punjab,SE Marsh,508a1ea7,2,45,44,7,0,102.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,77,0,8,85,41,True,False,False,Slow left-arm orthodox,Left-hand bat
+Kings XI Punjab,Azhar Mahmood,9a158001,3,9,13,1,0,69.23,"[2, 7, 16, 19]",4.0,24,6,0,40,4,2,0,0,0,0,0,10.0,0,0,0,0,-2,11,4,0,15,50,True,False,True,Right-arm fast-medium,Right-hand bat
+Kings XI Punjab,DA Miller,d67d5f00,4,44,24,3,4,183.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,90,0,8,98,35,True,False,False,Right-arm offbreak,Left-hand bat
+Kings XI Punjab,R Sathish,626c5379,5,22,13,2,1,169.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,40,0,0,40,44,True,False,True,Right-arm medium,Right-hand bat
+Kings XI Punjab,PP Chawla,98ae73b1,6,0,0,0,0,0.0,"[10, 12, 14, 20]",4.0,24,6,0,44,3,3,2,0,1,0,0,11.0,0,0,0,0,0,0,62,0,62,36,True,False,True,Legbreak,Left-hand bat
+Kings XI Punjab,Mandeep Singh,c3a96caf,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,33,True,False,True,Right-arm medium,Right-hand bat
+Kings XI Punjab,M Vohra,c03e2850,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,31,True,False,False,Right-arm medium,Right-hand bat
+Kings XI Punjab,P Kumar,e938e1bc,10,0,0,0,0,0.0,"[1, 3, 5, 18]",4.0,24,13,0,19,1,1,1,0,1,0,0,4.75,0,0,0,0,0,0,52,0,52,38,True,False,False,Right-arm medium,Right-hand bat
+Kings XI Punjab,P Awana,1a0c3177,11,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,12,0,28,4,0,1,0,0,3,0,7.0,0,0,0,0,0,0,39,0,39,38,True,False,False,Right-arm medium,Right-hand bat
+Kings XI Punjab,Sandeep Sharma,ce820073,12,0,0,0,0,0.0,"[4, 6, 8, 17]",4.0,24,14,1,23,3,1,3,0,0,0,0,5.75,0,0,0,0,0,0,109,0,109,31,True,False,False,Right-arm medium,Right-hand bat

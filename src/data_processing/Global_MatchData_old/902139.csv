@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bengal,WP Saha,fe11caa6,1,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,40,True,False,False,,Right-hand bat
+Bengal,SP Goswami,541f85c9,2,11,18,1,0,61.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,13,0,0,13,35,True,False,False,,Left-hand bat
+Bengal,Sudip Chatterjee,0cb8626f,3,42,39,5,0,107.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,66,0,8,74,33,True,False,False,Legbreak googly,Left-hand bat
+Bengal,Pankaj Shaw,b7892352,4,13,13,2,0,100.0,"[12, 14]",2.0,12,1,0,33,0,4,0,0,0,0,1,16.5,0,0,0,0,0,21,-5,0,16,37,True,True,False,Right-arm offbreak,Right-hand bat
+Bengal,Pramod Chandila,f6f60dca,5,70,38,9,2,184.21,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,132,0,0,132,31,True,True,False,Right-arm offbreak,Right-hand bat
+Bengal,Pratap Singh,9b7cce15,5,0,0,0,0,0.0,"[2, 4, 15, 20]",4.0,24,10,0,28,3,0,2,0,0,1,1,7.0,0,0,0,0,0,0,62,0,62,31,True,True,False,Right-arm medium,Right-hand bat
+Bengal,DB Das,7050a1e7,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,38,True,False,False,Legbreak googly,Right-hand bat
+Bengal,Anurag Tiwari,7793e24b,6,0,0,0,0,0.0,"[10, 13, 16, 18]",4.0,24,7,0,34,0,3,1,0,1,0,0,8.5,0,0,0,0,0,0,40,0,40,29,True,False,True,Slow left-arm orthodox,Right-hand bat
+Bengal,Sayan Mondal,c14721ab,7,9,6,1,0,150.0,"[5, 7, 9, 11]",4.0,24,6,0,35,3,0,0,0,0,0,4,8.75,0,0,0,0,0,13,6,0,19,35,True,True,False,Right-arm medium,Left-hand bat
+Bengal,PP Ojha,6c6591ab,7,0,0,0,0,0.0,"[6, 8]",2.0,12,3,0,14,1,0,0,0,0,0,0,7.0,0,0,0,0,0,0,5,0,5,38,True,False,False,Slow left-arm orthodox,Left-hand bat
+Bengal,AB Dinda,66b30f71,8,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,16,1,8,0,0,0,0,0,0,0,2.0,1,0,0,0,0,0,34,8,42,41,True,False,False,Right-arm medium-fast,Right-hand bat
+Himachal,P Chopra,8ac93ca2,1,74,60,6,1,123.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,112,0,8,120,32,True,False,False,Legbreak googly,Right-hand bat
+Himachal,Raghav Dhawan,ac64c2ef,2,1,6,0,0,16.67,"[9, 16]",2.0,12,3,0,16,2,0,0,0,0,0,1,8.0,0,0,0,0,0,1,3,0,4,38,True,True,False,Right-arm medium,Right-hand bat
+Himachal,P Dogra,2728e7e9,3,52,38,1,4,136.84,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,90,0,0,90,40,True,False,False,Legbreak,Right-hand bat
+Himachal,Pankaj Jaswal,3bc10d5b,4,13,4,0,2,325.0,"[5, 7, 18, 20]",4.0,24,11,0,26,2,1,4,0,1,0,0,6.5,0,0,0,0,0,25,129,0,154,29,True,False,False,Right-arm medium,Right-hand bat
+Himachal,AN Chauhan,b40d4f63,5,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,11,0,24,3,0,1,0,0,0,2,6.0,1,0,0,0,0,0,38,8,46,34,True,True,False,Right-arm medium,Right-hand bat
+Himachal,Nikhil Gangta,8812869d,5,5,12,0,0,41.67,"[11, 13]",2.0,12,4,0,27,4,1,0,0,0,1,0,13.5,0,0,0,0,-6,-1,-2,0,-3,32,True,False,True,Right-arm medium,Right-hand bat
+Himachal,Shreshth Nirmohi,e7e1eeb2,6,0,0,0,0,0.0,"[2, 4, 6, 15]",4.0,24,7,0,29,4,0,0,0,0,0,1,7.25,2,0,0,0,0,0,7,16,23,33,True,True,False,Right-arm medium,Left-hand bat
+Himachal,Rahul Khajan Singh,0d64d81c,7,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,5,0,28,3,0,1,0,0,0,0,7.0,0,0,0,0,0,0,32,0,32,32,True,True,False,Slow left-arm orthodox,Left-hand bat
+Himachal,Abhimanyu Rana,c224c5ef,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,33,True,True,False,Slow left-arm orthodox,Left-hand bat
+Himachal,AKS Bains,cb932841,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,29,True,False,False,,Right-hand bat
+Himachal,Robin Bist,bc761d00,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,37,True,False,False,Right-arm offbreak,Right-hand bat

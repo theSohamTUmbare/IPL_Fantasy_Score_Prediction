@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Gloucestershire,Miles Hammond,c88bc84a,1,58,41,6,3,141.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,110,0,0,110,29,True,False,False,Right-arm offbreak,Left-hand bat
+Gloucestershire,CT Bancroft,399b0b94,2,53,42,5,2,126.19,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,93,0,16,109,32,True,False,False,,Right-hand bat
+Gloucestershire,James Bracey,5bfdc77a,3,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,27,True,True,False,Right-arm medium,Left-hand bat
+Gloucestershire,JMR Taylor,aed5be04,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,33,True,False,False,Legbreak,Right-hand bat
+Gloucestershire,OJ Price,dfc3f02d,4,7,4,0,1,175.0,[7],1.0,6,3,0,7,1,0,1,0,1,0,1,7.0,2,0,0,0,0,13,36,16,65,23,True,False,True,Right-arm offbreak,Right-hand bat
+Gloucestershire,BG Charlesworth,ffdba4e2,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,24,True,False,False,Right-arm medium-fast,Left-hand bat
+Gloucestershire,TJ Price,269ff06e,6,0,0,0,0,0.0,"[8, 10, 13, 15]",4.0,24,11,0,22,2,0,1,0,0,0,0,5.5,1,0,0,0,0,0,40,8,48,25,True,False,True,Right-arm medium,Right-hand bat
+Gloucestershire,MD Taylor,01a95383,7,0,0,0,0,0.0,"[4, 6, 12, 18]",4.0,24,8,0,18,0,0,3,0,0,0,0,4.5,0,0,0,0,0,0,93,0,93,30,True,False,False,Left-arm fast-medium,Right-hand bat
+Gloucestershire,J Shaw,b82e3032,8,0,0,0,0,0.0,"[2, 5, 17, 20]",3.667,22,11,0,20,3,0,2,0,0,0,0,5.45,0,0,0,0,0,0,65,0,65,29,True,False,False,Right-arm medium-fast,Right-hand bat
+Gloucestershire,DA Payne,6c79c098,9,0,0,0,0,0.0,"[1, 3, 16, 19]",4.0,24,8,0,27,0,2,3,0,0,0,0,6.75,0,0,0,0,0,0,89,0,89,34,True,False,False,Left-arm fast-medium,Right-hand bat
+Gloucestershire,TMJ Smith,0a12e736,10,0,0,0,0,0.0,"[9, 11, 14]",3.0,18,2,0,29,1,2,0,0,0,0,0,9.67,2,0,0,0,0,0,2,16,18,37,True,False,False,Slow left-arm orthodox,Right-hand bat
+Somerset,T Kohler-Cadmore,f836b33d,1,21,15,1,2,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,39,0,0,39,30,True,True,False,Right-arm offbreak,Right-hand bat
+Somerset,WCF Smeed,4e18e961,2,8,7,1,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20,23,True,False,False,Right-arm offbreak,Right-hand bat
+Somerset,TB Abell,ba9258a7,3,19,24,1,0,79.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23,31,True,False,True,Right-arm medium,Right-hand bat
+Somerset,JEK Rew,521595e7,4,6,8,1,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,21,True,False,False,,Left-hand bat
+Somerset,SR Dickson,2344bdd1,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,33,True,False,False,Right-arm medium,Right-hand bat
+Somerset,L Gregory,06c2de82,6,53,37,3,2,143.24,[6],1.0,6,2,0,14,3,0,0,0,0,0,1,14.0,0,0,0,0,2,87,2,0,89,32,True,False,True,Right-arm medium-fast,Right-hand bat
+Somerset,BGF Green,34b37279,7,6,9,0,0,66.67,"[10, 13]",2.0,12,4,0,16,1,1,0,0,0,0,0,8.0,0,0,0,0,0,6,4,0,10,27,True,False,True,Right-arm fast-medium,Right-hand bat
+Somerset,C Overton,e9987a94,8,0,1,0,0,0.0,"[1, 3, 5, 11]",4.0,24,10,0,30,3,1,0,0,0,0,0,7.5,0,0,0,0,0,-2,10,0,8,30,True,False,True,Right-arm medium-fast,Right-hand bat
+Somerset,RE van der Merwe,05c2ca46,9,5,6,0,0,83.33,"[7, 9, 12]",3.0,18,6,0,28,3,1,0,0,0,0,0,9.33,0,0,0,0,0,5,6,0,11,40,True,False,True,Slow left-arm orthodox,Right-hand bat
+Somerset,JH Davey,d3868bd0,10,4,8,0,0,50.0,"[2, 4, 14]",3.0,18,8,0,18,1,1,1,0,0,0,2,6.0,0,0,0,0,0,4,35,0,39,34,True,False,False,Right-arm medium-fast,Right-hand bat
+Somerset,JT Ball,3d0ed2f9,11,0,2,0,0,0.0,"[8, 15]",2.0,12,4,0,19,0,2,1,0,0,0,2,9.5,0,0,0,0,0,-2,29,0,27,34,True,False,False,Right-arm fast-medium,Right-hand bat

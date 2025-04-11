@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Chennai Super Kings,MEK Hussey,48fd7349,1,79,55,8,1,143.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,131,0,8,139,49,True,False,False,Right-arm medium,Left-hand bat
+Chennai Super Kings,M Vijay,4b57e452,2,5,6,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,9,0,16,25,40,True,False,False,Right-arm offbreak,Right-hand bat
+Chennai Super Kings,SK Raina,1dc12ab9,3,61,51,3,1,119.61,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,87,0,8,95,38,True,False,False,Right-arm offbreak,Left-hand bat
+Chennai Super Kings,JA Morkel,c3d35165,4,0,0,0,0,0.0,"[1, 3, 5, 19]",4.0,24,11,0,24,3,0,2,0,0,0,0,6.0,1,0,0,0,0,0,63,8,71,43,True,False,True,Right-arm medium-fast,Left-hand bat
+Chennai Super Kings,MS Dhoni,4a8a2e3b,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,43,True,True,False,Right-arm medium,Right-hand bat
+Chennai Super Kings,S Badrinath,3576e47e,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,44,True,False,False,Right-arm offbreak,Right-hand bat
+Chennai Super Kings,S Anirudha,95a2ea61,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,37,True,False,False,,Right-hand bat
+Chennai Super Kings,R Ashwin,495d42a5,7,0,0,0,0,0.0,"[6, 10, 13, 17]",4.0,24,7,0,36,6,0,1,0,0,0,1,9.0,0,0,0,0,0,0,32,0,32,38,True,False,True,Right-arm offbreak,Right-hand bat
+Chennai Super Kings,DE Bollinger,45c2196c,8,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,9,0,28,3,0,0,0,0,1,0,7.0,0,0,0,0,0,0,11,0,11,43,True,False,False,Left-arm fast-medium,Left-hand bat
+Chennai Super Kings,SB Jakati,c8179c68,9,0,0,0,0,0.0,"[7, 9, 11, 15]",4.0,24,8,0,22,1,0,2,0,0,0,0,5.5,1,0,0,0,0,0,62,8,70,44,True,False,False,Slow left-arm orthodox,Left-hand bat
+Chennai Super Kings,S Randiv,f5f18a18,10,0,0,0,0,0.0,"[8, 12, 14, 16]",4.0,24,9,0,32,5,0,1,0,0,0,0,8.0,0,0,0,0,0,0,34,0,34,40,True,False,False,Right-arm offbreak,Right-hand bat
+Rajasthan Royals,SR Watson,4329fbb5,1,32,26,5,0,123.08,"[3, 9, 14, 18]",4.0,24,6,0,27,2,0,0,0,0,0,0,6.75,0,0,0,0,0,56,8,0,64,43,True,False,True,Right-arm fast-medium,Right-hand bat
+Rajasthan Royals,R Dravid,0184dc35,2,66,51,10,0,129.41,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,114,0,0,114,52,True,False,False,Right-arm offbreak,Right-hand bat
+Rajasthan Royals,AL Menaria,8291f939,3,2,8,0,0,25.0,[17],1.0,6,1,0,13,2,0,0,0,0,0,1,13.0,0,0,0,0,0,2,1,0,3,34,True,False,True,Slow left-arm orthodox,Left-hand bat
+Rajasthan Royals,SK Warne,bb18be76,4,0,0,0,0,0.0,"[8, 10, 15]",3.0,18,8,0,14,1,0,0,0,0,0,0,4.67,0,0,0,0,0,0,14,0,14,52,True,False,False,Legbreak googly,Right-hand bat
+Rajasthan Royals,J Botha,7c503806,4,8,6,1,0,133.33,"[2, 4, 6, 12]",4.0,24,9,0,22,0,0,1,1,0,0,0,5.5,1,0,0,0,0,12,46,8,66,42,True,False,True,Right-arm offbreak,Right-hand bat
+Rajasthan Royals,LRPL Taylor,b61a3e1a,5,20,13,2,0,153.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,32,0,0,32,41,True,False,False,Right-arm offbreak,Right-hand bat
+Rajasthan Royals,ND Doshi,6ec424a9,5,0,0,0,0,0.0,"[1, 11]",2.0,12,4,0,24,2,2,0,0,0,0,0,12.0,0,0,0,0,0,0,0,0,0,46,True,False,False,Slow left-arm orthodox,Right-hand bat
+Rajasthan Royals,SK Trivedi,3d7e087f,6,0,0,0,0,0.0,"[5, 7, 16, 19]",3.667,22,3,0,37,3,0,1,0,0,0,3,10.09,0,0,0,0,0,0,26,0,26,42,True,False,False,Right-arm medium,Right-hand bat
+Rajasthan Royals,AM Rahane,29e95537,6,4,8,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,36,True,False,False,Right-arm medium,Right-hand bat
+Rajasthan Royals,STR Binny,bd17b45f,7,7,7,0,0,100.0,[13],1.0,6,0,0,12,2,0,0,0,0,0,0,12.0,0,0,0,0,0,7,0,0,7,40,True,False,True,Right-arm medium,Right-hand bat
+Rajasthan Royals,DH Yagnik,063b3673,8,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,41,True,False,False,,Left-hand bat

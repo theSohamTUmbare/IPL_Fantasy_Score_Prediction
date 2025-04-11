@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Surrey,AJ Finch,b8d490fd,1,13,8,3,0,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,25,0,8,33,38,True,False,False,Slow left-arm orthodox,Right-hand bat
+Surrey,JJ Roy,d1c36f5c,2,12,7,2,0,171.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,34,True,False,False,,Right-hand bat
+Surrey,MC Henriques,32198ae0,3,41,31,7,0,132.26,[6],1.0,6,0,0,24,4,1,0,0,0,0,0,24.0,0,0,0,0,2,75,0,0,75,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Surrey,JW Dernbach,7be8a0ed,4,0,0,0,0,0.0,"[1, 3]",2.0,12,6,0,15,2,1,0,0,0,0,0,7.5,0,0,0,0,0,0,6,0,6,39,True,False,False,Right-arm fast-medium,Right-hand bat
+Surrey,BT Foakes,fd770945,4,15,15,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,32,True,False,False,,Right-hand bat
+Surrey,OJ Pope,e94bc520,5,34,23,4,1,147.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,62,0,0,62,27,True,False,False,,Right-hand bat
+Surrey,SM Curran,e94915e6,6,1,5,0,0,20.0,"[2, 7]",2.0,12,1,0,31,6,0,0,0,0,0,1,15.5,0,0,0,0,0,1,-5,0,-4,26,True,False,True,Left-arm medium-fast,Left-hand bat
+Surrey,TK Curran,e86754b2,7,20,20,1,0,100.0,[5],1.0,6,3,0,17,1,2,0,0,0,0,1,17.0,0,0,0,0,0,24,3,0,27,30,True,False,True,Right-arm fast-medium,Right-hand bat
+Surrey,SG Borthwick,51e1ed69,8,2,6,0,0,33.33,"[9, 11, 14]",2.5,15,5,0,21,3,0,1,0,0,0,0,8.4,0,0,0,0,0,2,30,0,32,34,True,False,True,Legbreak,Left-hand bat
+Surrey,SC Meaker,eb9cb105,9,1,3,0,0,33.33,"[4, 13]",2.0,12,4,0,29,3,2,0,0,0,0,1,14.5,0,0,0,0,0,1,-2,0,-1,36,True,False,False,Right-arm fast-medium,Right-hand bat
+Surrey,GJ Batty,5ac8f17b,10,2,2,0,0,100.0,"[8, 10, 12]",3.0,18,10,0,11,1,0,1,1,0,0,0,3.67,0,0,0,0,0,2,49,0,51,47,True,False,False,Right-arm offbreak,Right-hand bat
+Sussex,CD Nash,6f049d41,1,64,36,9,3,177.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,132,0,16,148,41,True,False,False,Right-arm offbreak,Right-hand bat
+Sussex,S van Zyl,f4dfcbb4,2,52,21,8,2,247.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,110,0,0,110,37,True,False,True,Right-arm medium,Left-hand bat
+Sussex,BC Brown,8af86756,3,18,11,3,0,163.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,34,0,8,42,36,True,True,False,Slow left-arm orthodox,Right-hand bat
+Sussex,LJ Evans,1c513d54,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,37,True,False,False,Right-arm offbreak,Right-hand bat
+Sussex,LRPL Taylor,b61a3e1a,4,11,13,0,1,84.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,41,True,False,False,Right-arm offbreak,Right-hand bat
+Sussex,CJ Jordan,ffe699c0,5,0,0,0,0,0.0,"[6, 13, 16, 18]",4.0,24,6,0,29,4,0,1,0,0,0,0,7.25,0,0,0,0,0,0,31,0,31,36,True,False,False,Right-arm fast-medium,Right-hand bat
+Sussex,D Wiese,aa8d28ae,6,0,0,0,0,0.0,[8],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,0,1,0,1,39,True,False,True,Right-arm medium-fast,Right-hand bat
+Sussex,JC Archer,5574750c,7,0,0,0,0,0.0,"[3, 9, 15, 20]",4.0,24,6,0,34,3,1,0,0,0,0,0,8.5,0,0,0,0,0,0,6,0,6,29,True,False,False,Right-arm fast,Right-hand bat
+Sussex,WAT Beer,98eacfe5,8,0,0,0,0,0.0,"[10, 12, 14]",3.0,18,9,0,19,2,0,2,0,1,0,2,6.33,0,0,0,0,0,0,69,0,69,36,True,False,False,Legbreak,Right-hand bat
+Sussex,DR Briggs,f3abd0c9,9,0,0,0,0,0.0,"[1, 5, 7, 11]",4.0,24,7,0,33,5,0,1,0,1,0,0,8.25,0,0,0,0,0,0,40,0,40,33,True,False,False,Slow left-arm orthodox,Right-hand bat
+Sussex,TS Mills,245c97cb,10,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,11,0,20,3,0,3,0,0,0,0,5.0,0,0,0,0,0,0,94,0,94,32,True,False,False,Left-arm fast,Right-hand bat

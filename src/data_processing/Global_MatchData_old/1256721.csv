@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+England,JJ Roy,d1c36f5c,1,45,31,6,2,145.16,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,87,0,0,87,34,True,False,False,,Right-hand bat
+England,T Banton,25f7b7d6,2,25,18,3,1,138.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,49,0,8,57,26,True,False,False,,Right-hand bat
+England,JM Vince,a15618fe,3,4,4,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,8,0,16,24,34,True,False,False,Right-arm medium,Right-hand bat
+England,MM Ali,bb351c23,4,31,24,3,1,129.17,"[8, 10, 12, 14]",4.0,24,10,0,24,0,2,3,0,0,0,0,6.0,1,0,0,0,0,53,91,8,152,37,True,False,True,Right-arm offbreak,Left-hand bat
+England,SW Billings,c16d4035,5,5,7,1,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,33,True,False,False,,Right-hand bat
+England,EJG Morgan,d2a6c0e6,6,13,12,2,0,108.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21,38,True,False,False,Right-arm medium,Left-hand bat
+England,CJ Jordan,ffe699c0,7,27,15,2,1,180.0,"[6, 16, 18]",3.0,18,3,0,39,1,4,1,0,0,0,1,13.0,0,0,0,0,6,51,22,0,73,36,True,False,False,Right-arm fast-medium,Right-hand bat
+England,LA Dawson,4a461c24,8,4,2,1,0,200.0,[13],1.0,6,3,0,13,0,2,0,0,0,0,0,13.0,0,0,0,0,0,8,3,0,11,35,True,False,True,Slow left-arm orthodox,Right-hand bat
+England,AU Rashid,249d60c9,9,2,3,0,0,66.67,"[7, 9, 11, 15]",4.0,24,11,0,24,1,2,2,2,0,0,0,6.0,0,0,0,0,0,2,79,0,81,37,True,False,False,Legbreak,Right-hand bat
+England,RJW Topley,8db7f47f,10,0,0,0,0,0.0,"[1, 3, 5, 19]",4.0,24,15,0,18,2,0,1,1,0,0,2,4.5,0,0,1,0,0,0,54,12,66,31,True,False,False,Left-arm fast-medium,Right-hand bat
+England,S Mahmood,0f6db197,10,7,4,1,0,175.0,"[2, 4, 17, 20]",4.0,24,10,0,45,4,3,0,0,0,0,2,11.25,0,0,0,0,0,11,6,0,17,28,True,False,False,Right-arm fast-medium,Right-hand bat
+West Indies,BA King,7fca84b7,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,30,True,False,False,,Right-hand bat
+West Indies,SD Hope,1fc6ef83,2,2,9,0,0,22.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,31,True,False,False,,Right-hand bat
+West Indies,N Pooran,3241e3fd,3,24,22,3,1,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,42,0,0,42,29,True,True,False,Right-arm offbreak,Left-hand bat
+West Indies,DM Bravo,14b14cd8,4,23,20,1,1,115.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33,36,True,False,False,Right-arm medium,Left-hand bat
+West Indies,KA Pollard,a757b0d8,5,1,4,0,0,25.0,"[8, 10, 14, 16]",4.0,24,6,0,32,1,1,1,0,0,0,4,8.0,1,0,0,0,0,1,31,8,40,37,True,False,True,Right-arm medium,Right-hand bat
+West Indies,JO Holder,0f721006,6,1,6,0,0,16.67,"[2, 12, 18, 20]",4.0,24,14,0,25,4,0,2,0,0,0,2,6.25,1,0,0,0,0,1,66,8,75,33,True,False,True,Right-arm medium-fast,Right-hand bat
+West Indies,R Shepherd,c5aef772,7,44,28,1,5,157.14,"[13, 17]",2.0,12,5,0,26,4,1,1,0,0,0,1,13.0,0,0,0,0,4,86,24,0,110,30,True,False,True,Right-arm fast-medium,Right-hand bat
+West Indies,OF Smith,23cca426,8,7,3,0,1,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,28,True,False,True,Right-arm fast-medium,Right-hand bat
+West Indies,FA Allen,b52ffbbd,9,12,11,0,1,109.09,"[4, 6, 9, 11]",4.0,24,9,0,50,8,2,2,0,1,0,0,12.5,2,0,0,0,0,18,61,16,95,29,True,False,True,Slow left-arm orthodox,Right-hand bat
+West Indies,SS Cottrell,a1d053dd,10,0,0,0,0,0.0,"[1, 5, 19]",3.0,18,8,0,23,3,0,1,0,0,0,1,7.67,2,0,0,0,0,0,33,16,49,35,True,False,False,Left-arm fast-medium,Right-hand bat
+West Indies,AJ Hosein,4d7f517e,10,44,16,3,4,275.0,"[3, 7, 15]",3.0,18,8,0,15,0,1,1,0,0,0,0,5.0,0,0,0,0,6,90,37,0,127,31,True,False,False,Slow left-arm orthodox,Left-hand bat

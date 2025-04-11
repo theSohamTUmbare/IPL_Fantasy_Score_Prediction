@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Hong Kong,M Coetzee,3f149080,1,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,1,0,12,13,36,True,False,False,,Right-hand bat
+Hong Kong,Anshuman Rath,552b228c,2,16,21,1,0,76.19,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,20,0,16,36,27,True,False,False,Slow left-arm orthodox,Left-hand bat
+Hong Kong,Nizakat Khan,e3eb9e46,3,57,35,3,3,162.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,99,0,8,107,32,True,False,True,Legbreak,Right-hand bat
+Hong Kong,Babar Hayat,fbb657bb,4,41,22,4,2,186.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,79,0,8,87,33,True,False,False,Right-arm medium,Right-hand bat
+Hong Kong,Aizaz Khan,f6c2659d,5,16,11,2,0,145.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,26,0,0,26,32,True,False,True,Right-arm medium-fast,Right-hand bat
+Hong Kong,Yasim Murtaza,c9d05f1a,6,16,10,1,1,160.0,"[3, 8, 12, 14]",4.0,24,12,0,36,1,3,2,0,0,1,3,9.0,0,0,0,0,4,30,62,0,92,34,True,False,True,Slow left-arm orthodox,Left-hand bat
+Hong Kong,Zeeshan Ali,987187b9,7,9,8,1,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,35,True,False,False,,Right-hand bat
+Hong Kong,A Shukla,a1e80d06,8,0,0,0,0,0.0,"[1, 5, 16, 19]",3.833,23,4,0,56,4,4,0,0,0,2,2,14.61,0,0,0,0,0,0,-2,0,-2,22,True,False,False,Right-arm medium,Right-hand bat
+Hong Kong,Nasrulla Rana,9ffb7550,8,5,4,1,0,125.0,"[11, 13, 17]",3.0,18,6,0,33,1,3,0,0,0,0,1,11.0,0,0,0,0,0,9,4,0,13,22,True,False,True,Right-arm medium-fast,Right-hand bat
+Hong Kong,Ehsan Khan,d3851cd8,9,3,3,0,0,100.0,"[6, 10, 15, 18]",4.0,24,11,0,16,0,0,1,1,0,0,2,4.0,0,0,0,0,0,3,50,0,53,40,True,False,False,Right-arm offbreak,Right-hand bat
+Hong Kong,Ateeq Iqbal,29b322c7,10,2,1,0,0,200.0,"[2, 4, 7, 9]",4.0,24,9,0,26,2,1,2,0,0,0,0,6.5,0,0,0,0,0,2,61,0,63,33,True,False,False,Right-arm medium,Right-hand bat
+Kuwait,CV Anto,c01ca5af,1,33,24,3,2,137.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,2,63,0,6,69,30,True,False,False,,Right-hand bat
+Kuwait,R Sandaruwan,cf6acc0d,2,12,6,1,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,32,True,False,False,Right-arm offbreak,Right-hand bat
+Kuwait,Adnan Idrees,0e34c23a,3,11,7,2,0,157.14,"[13, 15, 17]",3.0,18,8,0,20,1,1,3,1,1,0,0,6.67,0,0,0,0,0,19,105,0,124,34,True,False,True,Legbreak,Right-hand bat
+Kuwait,Meet Bhavsar,b25a3800,4,30,23,0,3,130.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,2,54,0,6,60,20,True,False,False,,Left-hand bat
+Kuwait,MNM Aslam,20481563,5,4,6,0,0,66.67,"[6, 8, 10, 12]",4.0,24,4,0,41,1,3,1,0,0,0,0,10.25,0,0,0,0,0,4,27,0,31,34,True,False,True,Left-arm slow,Right-hand bat
+Kuwait,Muhammad Umar,0abc33ff,6,20,20,1,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,30,0,8,38,21,True,True,False,Legbreak googly,Right-hand bat
+Kuwait,Bilal Tahir,3cf06094,7,36,21,1,3,171.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,6,68,0,12,80,26,True,False,False,,Left-hand bat
+Kuwait,Nimish Lathief,b561e8ea,8,10,6,0,1,166.67,"[5, 7, 16]",3.0,18,2,0,35,4,1,0,0,0,0,0,11.67,0,0,0,0,0,16,-2,0,14,36,True,False,True,Right-arm offbreak,Left-hand bat
+Kuwait,Mohamed Shafeeq,ff13b10c,8,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,9,0,25,2,0,0,0,0,0,1,6.25,0,0,0,0,0,0,11,0,11,30,True,False,False,Right-arm medium,Right-hand bat
+Kuwait,Nawaf Ahmed,bfe33045,9,0,0,0,0,0.0,"[11, 14]",2.0,12,1,0,30,3,1,0,0,0,0,1,15.0,0,0,1,0,0,0,-5,12,7,33,True,False,False,Right-arm medium,Left-hand bat
+Kuwait,Yasin Patel,ecdd8d60,10,0,0,0,0,0.0,"[2, 4, 9, 19]",4.0,24,15,0,17,2,0,1,0,1,0,0,4.25,1,0,0,0,0,0,54,8,62,27,True,False,False,Slow left-arm orthodox,Left-hand bat

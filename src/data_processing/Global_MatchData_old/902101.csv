@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Delhi,UBT Chand,0c94f480,1,38,19,4,3,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,82,0,0,82,32,True,True,False,Right-arm offbreak,Right-hand bat
+Delhi,G Gambhir,bb345e0b,2,10,6,2,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,43,True,False,False,Legbreak,Left-hand bat
+Delhi,Aditya Kaushik,9a2d95ac,3,53,36,5,1,147.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,89,0,0,89,33,True,False,False,,Right-hand bat
+Delhi,N Rana,fb2d1dda,4,34,15,1,4,226.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,72,0,0,72,31,True,False,False,Legbreak,Left-hand bat
+Delhi,Sarthak Ranjan,d7cdefa9,5,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,28,True,False,False,Legbreak,Right-hand bat
+Delhi,Milind Kumar,b4296080,6,23,17,1,1,135.29,[5],1.0,6,2,0,10,2,0,0,0,0,0,0,10.0,1,0,0,0,2,35,2,8,45,34,True,False,True,Right-arm offbreak,Right-hand bat
+Delhi,P Negi,f62772e5,7,35,17,5,1,205.88,"[8, 10, 18]",3.0,18,4,0,48,1,5,1,0,0,0,5,16.0,0,0,0,0,6,71,23,0,94,32,True,False,False,Slow left-arm orthodox,Left-hand bat
+Delhi,A Nehra,96fd40ae,8,0,0,0,0,0.0,"[1, 3, 14, 19]",4.0,24,9,0,32,3,1,0,0,0,0,1,8.0,0,0,0,0,0,0,9,0,9,45,True,False,False,Left-arm medium-fast,Right-hand bat
+Delhi,Suboth Bhati,bee290b6,8,4,1,1,0,400.0,"[7, 9, 16, 20]",4.0,24,7,0,33,3,1,0,0,0,0,0,8.25,0,0,0,0,0,8,7,0,15,34,True,False,False,Right-arm medium,Right-hand bat
+Delhi,Manan Sharma,bfcff6cd,9,0,0,0,0,0.0,"[2, 4, 6, 12]",4.0,24,6,0,55,5,4,1,1,0,0,1,13.75,0,0,0,0,0,0,33,0,33,34,True,False,True,Slow left-arm orthodox,Left-hand bat
+Delhi,Navdeep Saini,21d4e29b,10,0,0,0,0,0.0,"[11, 13, 15, 17]",4.0,24,3,0,32,3,0,0,0,0,0,1,8.0,0,0,0,0,0,0,3,0,3,32,True,False,False,Right-arm fast,Right-hand bat
+Railways,AUK Pathan,3ae3f034,1,81,59,10,0,137.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,135,0,16,151,40,True,False,False,Right-arm medium,Right-hand bat
+Railways,Praveen Deshetti,5407500f,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,37,True,True,False,Right-arm offbreak,Right-hand bat
+Railways,Saurabh Wakaskar,dd8439ed,3,118,55,7,11,214.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,234,0,0,234,33,True,True,False,Legbreak googly,Left-hand bat
+Railways,KV Sharma,119678fd,4,3,4,0,0,75.0,"[8, 10, 12, 14]",4.0,24,6,0,38,1,3,1,0,0,0,1,9.5,0,0,0,0,0,3,31,0,34,37,True,False,False,Legbreak googly,Left-hand bat
+Railways,M Rawat,de8d3876,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,39,True,False,False,,Right-hand bat
+Railways,KR Mahajan,6ee6b491,9,0,0,0,0,0.0,[7],1.0,6,1,0,11,0,1,0,0,0,0,0,11.0,0,0,0,0,0,0,1,0,1,28,True,True,False,Right-arm offbreak,Right-hand bat
+Railways,AN Ghosh,7023d182,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,38,True,False,False,Right-arm medium,Right-hand bat
+Railways,Ashish Yadav,254c7802,11,0,0,0,0,0.0,"[5, 9, 13, 19]",4.0,24,4,0,46,4,1,0,0,0,0,7,11.5,2,0,0,0,0,0,0,16,16,39,True,False,True,Slow left-arm orthodox,Left-hand bat
+Railways,AR Pandey,dd73b2ff,12,0,0,0,0,0.0,"[3, 6, 17]",3.0,18,6,0,41,5,2,2,0,0,1,1,13.67,0,0,0,0,0,0,50,0,50,32,True,True,False,Right-arm medium,Left-hand bat
+Railways,Anureet Singh,69be866a,13,0,0,0,0,0.0,"[1, 16, 18, 20]",3.333,20,5,0,41,5,2,1,0,0,0,1,12.3,0,0,0,0,0,0,24,0,24,37,True,False,False,Right-arm medium,Right-hand bat
+Railways,K Upadhyay,27e71d47,14,0,0,0,0,0.0,"[2, 4, 11, 15]",4.0,24,7,0,36,4,1,2,0,0,0,2,9.0,1,0,0,0,0,0,57,8,65,38,True,True,False,Right-arm medium,Right-hand bat

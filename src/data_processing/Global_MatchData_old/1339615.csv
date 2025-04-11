@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+New Zealand,TWM Latham,e824e6ee,1,19,20,2,0,95.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,27,0,8,35,32,True,True,False,Right-arm medium,Left-hand bat
+New Zealand,CJ Bowes,45df0e72,2,26,23,3,0,113.04,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,42,0,0,42,32,True,False,False,Right-arm medium,Right-hand bat
+New Zealand,WA Young,8afe73e2,3,9,12,1,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,32,True,False,False,Right-arm offbreak,Right-hand bat
+New Zealand,MS Chapman,7fa12533,4,65,40,4,4,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,117,0,0,117,30,True,False,True,Slow left-arm orthodox,Left-hand bat
+New Zealand,DJ Mitchell,eade4650,5,9,7,1,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21,33,True,False,True,Right-arm medium,Right-hand bat
+New Zealand,JDS Neesham,9219eff0,6,1,2,0,0,50.0,"[7, 13, 17, 20]",4.0,24,4,0,48,5,2,1,0,0,0,0,12.0,1,0,0,0,0,1,25,8,34,34,True,False,True,Right-arm medium-fast,Left-hand bat
+New Zealand,R Ravindra,ba5e1069,7,5,6,0,0,83.33,"[8, 10, 12, 14]",4.0,24,9,0,22,0,1,1,0,0,0,0,5.5,0,0,0,0,0,5,38,0,43,25,True,False,True,Slow left-arm orthodox,Left-hand bat
+New Zealand,CE McConchie,d285acaf,8,12,9,2,0,133.33,[9],1.0,6,0,0,9,1,0,0,0,0,0,0,9.0,0,0,0,0,0,20,0,0,20,33,True,False,True,Right-arm offbreak,Right-hand bat
+New Zealand,MJ Henry,e84ac20c,9,0,0,0,0,0.0,"[1, 3, 11, 18]",4.0,24,11,0,29,1,2,2,0,1,0,1,7.25,0,0,0,0,0,0,69,0,69,33,True,False,False,Right-arm fast-medium,Right-hand bat
+New Zealand,HB Shipley,5426de63,9,1,1,0,0,100.0,"[2, 5, 16]",3.0,18,3,0,39,6,1,0,0,0,0,0,13.0,0,0,0,0,0,1,-3,0,-2,28,True,False,False,Right-arm medium-fast,Right-hand bat
+New Zealand,BG Lister,79f5bc26,10,0,0,0,0,0.0,"[4, 6, 15, 19]",4.0,24,5,0,41,5,1,0,0,0,0,1,10.25,0,0,0,0,0,0,3,0,3,29,True,False,False,Left-arm fast-medium,Right-hand bat
+Pakistan,Mohammad Rizwan,2f26ac1a,1,50,34,6,1,147.06,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,90,0,0,90,32,True,True,False,Right-arm medium,Right-hand bat
+Pakistan,Babar Azam,8a75e999,2,101,58,11,3,174.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,185,0,0,185,30,True,False,False,Right-arm offbreak,Right-hand bat
+Pakistan,Fakhar Zaman,1777c020,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,34,True,False,False,Slow left-arm orthodox,Left-hand bat
+Pakistan,Saim Ayub,33609a8c,4,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,22,True,False,False,Right-arm offbreak,Left-hand bat
+Pakistan,Imad Wasim,9cb8d7a6,5,2,5,0,0,40.0,"[2, 8, 10]",3.0,18,8,0,19,0,1,1,0,1,0,1,6.33,0,0,0,0,0,2,43,0,45,36,True,False,True,Slow left-arm orthodox,Left-hand bat
+Pakistan,Iftikhar Ahmed,29e253dd,6,33,19,1,3,173.68,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,65,0,0,65,34,True,False,False,Right-arm offbreak,Right-hand bat
+Pakistan,Shadab Khan,9de62878,9,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,5,0,27,3,1,1,1,0,0,0,9.0,2,0,0,0,0,0,38,16,54,26,True,False,True,Legbreak,Right-hand bat
+Pakistan,Faheem Ashraf,bd4ea627,10,0,0,0,0,0.0,"[13, 16]",2.0,12,2,0,23,2,1,0,0,0,0,0,11.5,0,0,0,0,0,0,-2,0,-2,31,True,False,True,Right-arm medium,Left-hand bat
+Pakistan,Shaheen Shah Afridi,45a7e761,11,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,5,0,25,2,0,0,0,0,0,0,6.25,1,0,0,0,0,0,7,8,15,24,True,False,False,Left-arm fast,Left-hand bat
+Pakistan,Haris Rauf,24bb1c2f,12,0,0,0,0,0.0,"[5, 12, 15, 18]",4.0,24,9,0,27,3,0,4,0,0,0,1,6.75,0,0,0,0,0,0,119,0,119,31,True,False,False,Right-arm fast,Right-hand bat
+Pakistan,Zaman Khan,28392e11,13,0,0,0,0,0.0,"[4, 6, 14, 20]",4.0,24,10,0,30,3,1,1,0,1,1,1,7.5,0,0,0,0,0,0,43,0,43,23,True,False,False,Right-arm fast,Right-hand bat

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Kolkata Knight Riders,MS Bisla,5afd4539,1,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,40,True,False,False,,Right-hand bat
+Kolkata Knight Riders,G Gambhir,bb345e0b,2,59,45,7,1,131.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,103,0,0,103,43,True,False,False,Legbreak,Left-hand bat
+Kolkata Knight Riders,JH Kallis,86dc8f2e,3,16,19,2,0,84.21,"[2, 4, 14, 16]",4.0,24,14,1,30,2,2,0,0,0,1,1,7.5,0,0,0,0,0,24,26,0,50,49,True,False,True,Right-arm fast-medium,Right-hand bat
+Kolkata Knight Riders,L Balaji,b2b50355,4,0,0,0,0,0.0,"[8, 10, 12, 18]",3.5,21,11,0,33,2,3,1,0,0,0,2,9.43,0,0,0,0,0,0,36,0,36,43,True,False,False,Right-arm medium-fast,Right-hand bat
+Kolkata Knight Riders,YK Pathan,3c6ffae8,4,27,17,3,1,158.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,53,0,0,53,42,True,False,True,Right-arm offbreak,Right-hand bat
+Kolkata Knight Riders,MK Tiwary,26e5cabf,5,23,16,2,0,143.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,33,0,0,33,39,True,False,False,Legbreak googly,Right-hand bat
+Kolkata Knight Riders,EJG Morgan,d2a6c0e6,6,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,38,True,False,False,Right-arm medium,Left-hand bat
+Kolkata Knight Riders,R Bhatia,33a364a6,7,13,7,2,0,185.71,[17],1.0,6,2,0,10,0,1,0,0,0,0,1,10.0,0,0,0,0,0,21,2,0,23,45,True,False,True,Right-arm medium-fast,Right-hand bat
+Kolkata Knight Riders,R McLaren,c654af19,8,2,3,0,0,66.67,"[1, 3, 6]",3.0,18,10,0,34,3,3,1,0,0,0,2,11.33,0,0,0,0,0,2,31,0,33,42,True,False,True,Right-arm medium-fast,Left-hand bat
+Kolkata Knight Riders,PJ Sangwan,9fc0ef64,9,4,2,1,0,200.0,"[9, 11]",2.0,12,3,0,34,2,3,0,0,0,1,2,17.0,0,0,0,0,0,8,-3,0,5,34,True,False,False,Left-arm medium,Right-hand bat
+Kolkata Knight Riders,SP Narine,9d430b40,10,1,1,0,0,100.0,"[5, 7, 13, 15]",4.0,24,13,0,17,2,0,0,0,0,0,0,4.25,0,0,0,0,0,1,19,0,20,36,True,False,True,Right-arm offbreak,Left-hand bat
+Royal Challengers Bangalore,CH Gayle,db584dad,1,85,49,4,9,173.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,173,0,0,173,45,True,False,True,Right-arm offbreak,Left-hand bat
+Royal Challengers Bangalore,MA Agarwal,00ea847a,2,6,8,1,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,34,True,False,False,Right-arm offbreak,Right-hand bat
+Royal Challengers Bangalore,V Kohli,ba607b88,3,35,26,4,2,134.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,69,0,0,69,36,True,False,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,AB de Villiers,c4487b84,4,22,22,2,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,36,0,8,44,41,True,True,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,MC Henriques,32198ae0,4,0,0,0,0,0.0,"[1, 3, 5, 13]",4.0,24,11,0,24,3,0,2,0,0,0,1,6.0,1,0,0,0,0,0,63,8,71,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Royal Challengers Bangalore,KB Arun Karthik,7daedf2f,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,39,True,True,False,Legbreak googly,Right-hand bat
+Royal Challengers Bangalore,KL Rahul,b17e2f24,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,32,True,False,False,,Right-hand bat
+Royal Challengers Bangalore,R Vinay Kumar,41eb4a4f,7,0,0,0,0,0.0,"[7, 9, 17, 19]",4.0,24,8,0,36,5,0,2,0,0,0,0,9.0,2,0,0,0,0,0,58,16,74,41,True,False,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,RP Singh,c3d1402f,8,0,0,0,0,0.0,"[2, 11, 18, 20]",4.0,24,10,0,27,3,0,3,0,1,0,1,6.75,0,0,1,0,0,0,99,12,111,39,True,False,False,Left-arm fast-medium,Right-hand bat
+Royal Challengers Bangalore,JD Unadkat,1e66c162,9,0,0,0,0,0.0,"[4, 12, 14, 16]",4.0,24,8,0,34,2,2,0,0,0,0,0,8.5,0,0,0,0,0,0,8,0,8,33,True,False,False,Left-arm medium,Right-hand bat
+Royal Challengers Bangalore,M Muralitharan,4ba44e19,10,0,0,0,0,0.0,"[6, 8, 10, 15]",4.0,24,6,0,30,4,0,0,0,0,1,0,7.5,0,0,0,0,0,0,6,0,6,52,True,False,False,Right-arm offbreak,Right-hand bat

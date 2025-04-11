@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bermuda,TS Fray,c7537f8a,1,32,35,1,0,91.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,40,0,0,40,33,True,False,False,,Right-hand bat
+Bermuda,T Manders,6d2b9724,2,11,6,1,1,183.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,21,0,8,29,30,True,False,False,,Right-hand bat
+Bermuda,AD Dore,aa867444,3,8,14,1,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,8,0,0,8,27,True,False,False,,Left-hand bat
+Bermuda,OGL Bascome,94a1827c,4,42,34,2,1,123.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,60,0,0,60,29,True,True,False,Right-arm medium,Right-hand bat
+Bermuda,DC Stovell,7f6c2dae,5,5,8,0,0,62.5,"[2, 4, 14, 16]",4.0,24,12,0,21,3,0,1,0,0,0,0,5.25,1,0,0,0,0,5,41,8,54,40,True,True,False,Right-arm offbreak,Right-hand bat
+Bermuda,D Sabir,04bc296f,6,20,14,1,1,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,32,0,8,40,21,True,False,False,,Right-hand bat
+Bermuda,Z Burgess,d0042e16,7,14,9,0,1,155.56,"[1, 3, 15, 19]",4.0,24,13,0,20,3,0,3,0,3,0,0,5.0,1,0,0,0,0,20,120,8,148,30,True,True,False,Right-arm medium,Right-hand bat
+Bermuda,Jonte Smith,ae4d0b45,8,0,0,0,0,0.0,"[6, 9, 11, 20]",4.0,24,7,0,33,2,1,1,0,0,0,2,8.25,0,0,0,1,0,0,32,6,38,30,True,True,False,Right-arm medium,Right-hand bat
+Bermuda,DL Brangman,dab18aa5,11,0,0,0,0,0.0,"[5, 7, 13, 17]",4.0,24,11,0,23,1,1,2,0,0,0,0,5.75,0,0,0,0,0,0,65,0,65,37,True,True,False,Slow left-arm orthodox,Left-hand bat
+Bermuda,S Smith,18a0ba24,12,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,0,0,14,14,33,True,False,False,,Right-hand bat
+Bermuda,K Fubler,b471ff6c,13,0,0,0,0,0.0,"[8, 10, 12, 18]",4.0,24,8,0,27,0,1,1,0,0,0,1,6.75,0,0,0,0,0,0,35,0,35,33,True,False,False,Left-arm medium-fast,Left-hand bat
+Cayman Islands,J Baker,a12672e0,1,5,5,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17,32,True,False,False,,Right-hand bat
+Cayman Islands,YSD Seneveratne,0f71478c,2,13,15,1,1,86.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,23,0,8,31,33,True,False,False,Slow left-arm orthodox,Left-hand bat
+Cayman Islands,AR Naidoo,68886c16,3,33,37,3,0,89.19,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,49,0,0,49,35,True,True,False,Right-arm offbreak,Right-hand bat
+Cayman Islands,RA Sealy,1e98804a,4,18,20,0,1,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24,33,True,True,False,Legbreak,Right-hand bat
+Cayman Islands,S Foster,3595ad3b,5,22,17,3,0,129.41,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34,35,True,True,False,Slow left-arm orthodox,Right-hand bat
+Cayman Islands,ROC Dunka,762f43b7,6,23,15,1,1,153.33,"[2, 16]",2.0,12,4,0,23,2,1,0,0,0,1,1,11.5,0,0,0,0,4,37,0,0,37,34,True,True,False,Left-arm medium,Left-hand bat
+Cayman Islands,C Wright,d465c6d7,7,0,3,0,0,0.0,"[1, 3]",2.0,12,6,0,12,1,0,0,0,0,0,2,6.0,1,0,0,1,0,-2,8,14,20,39,True,True,False,Right-arm medium,Right-hand bat
+Cayman Islands,D Johnson,d406e303,8,0,1,0,0,0.0,"[4, 6, 18, 20]",4.0,24,7,0,32,1,1,1,0,1,0,0,8.0,0,0,0,1,0,-2,40,6,44,34,True,True,False,Right-arm medium,Right-hand bat
+Cayman Islands,Ronald Ebanks,e21ef7ec,9,2,4,0,0,50.0,"[8, 10, 12, 14]",4.0,24,5,0,24,1,0,1,0,0,0,0,6.0,0,0,0,0,0,2,32,0,34,41,True,False,False,Right-arm offbreak,Right-hand bat
+Cayman Islands,A Morris,04cf2e94,10,5,3,0,0,166.67,"[5, 7, 17, 19]",4.0,24,10,0,25,1,1,1,0,0,0,0,6.25,0,0,0,0,0,5,37,0,42,42,True,True,False,Right-arm offbreak,Right-hand bat
+Cayman Islands,AF Ifill,0e6c2f00,11,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,13,0,20,0,1,2,0,1,0,0,5.0,0,0,0,0,0,0,75,0,75,48,True,True,False,Legbreak,Right-hand bat

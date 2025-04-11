@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bengal,Sayan Mondal,c14721ab,1,52,38,4,1,136.84,[9],1.0,6,1,0,12,1,0,0,0,0,0,5,12.0,0,0,0,0,2,84,1,0,85,35,True,True,False,Right-arm medium,Left-hand bat
+Bengal,Abhisek Das,f4cd319e,2,56,52,2,2,107.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,84,0,8,92,34,True,True,False,Right-arm offbreak,Right-hand bat
+Bengal,WP Saha,fe11caa6,3,9,10,1,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,40,True,False,False,,Right-hand bat
+Bengal,Pramod Chandila,f6f60dca,4,2,6,0,0,33.33,"[11, 15, 17]",3.0,18,2,0,26,1,1,1,0,1,0,0,8.67,0,0,0,0,0,2,35,0,37,31,True,True,False,Right-arm offbreak,Right-hand bat
+Bengal,DB Das,7050a1e7,5,12,10,1,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,38,True,False,False,Legbreak googly,Right-hand bat
+Bengal,Pankaj Shaw,b7892352,6,12,4,1,1,300.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,37,True,True,False,Right-arm offbreak,Right-hand bat
+Bengal,Aamir Gani,2c3afa34,8,0,0,0,0,0.0,"[5, 7, 13, 16]",4.0,24,8,0,25,1,1,1,0,1,0,0,6.25,1,0,0,0,0,0,43,8,51,28,True,True,False,Right-arm offbreak,Right-hand bat
+Bengal,Anurag Tiwari,7793e24b,9,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,5,0,28,0,1,1,0,0,0,0,7.0,0,0,0,0,0,0,32,0,32,29,True,False,True,Slow left-arm orthodox,Right-hand bat
+Bengal,Sudip Chatterjee,0cb8626f,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,33,True,False,False,Legbreak googly,Left-hand bat
+Bengal,Mukesh Kumar,2cffab74,11,0,0,0,0,0.0,"[2, 4, 6, 19]",4.0,24,11,0,23,3,0,2,0,1,0,1,5.75,0,0,0,0,0,0,73,0,73,31,True,False,False,Right-arm medium,Right-hand bat
+Bengal,AB Dinda,66b30f71,12,0,0,0,0,0.0,"[1, 3, 18, 20]",3.333,20,6,0,33,4,0,1,0,0,0,2,9.9,0,0,0,0,0,0,31,0,31,41,True,False,False,Right-arm medium-fast,Right-hand bat
+Vidarbha,JM Sharma,800d2d97,1,12,10,2,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,31,True,False,False,,Right-hand bat
+Vidarbha,FY Fazal,c15e2193,2,49,44,1,2,111.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,69,0,0,69,39,True,False,False,Right-arm medium,Left-hand bat
+Vidarbha,HS Joshi,bd16343f,3,3,3,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,38,True,True,False,Right-arm offbreak,Left-hand bat
+Vidarbha,Ganesh Satish,0ed1a112,4,14,15,2,0,93.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,37,True,False,False,,Right-hand bat
+Vidarbha,AV Wankhade,5708d0b6,5,37,27,4,0,137.04,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,59,0,16,75,33,True,False,False,Right-arm medium,Right-hand bat
+Vidarbha,RL Jangid,fe5f2e48,6,5,6,0,0,83.33,"[2, 6, 15, 18]",4.0,24,8,0,26,3,0,1,0,0,0,1,6.5,1,0,0,0,0,5,35,8,48,37,True,False,True,Slow left-arm orthodox,Left-hand bat
+Vidarbha,Akshay Karnewar,e1e7f950,7,18,10,1,1,180.0,"[7, 9, 14, 16]",4.0,24,7,0,26,0,1,2,0,0,0,0,6.5,0,0,0,0,6,34,59,0,93,32,True,False,False,Slow left-arm orthodox,Left-hand bat
+Vidarbha,RN Gurbani,bcaf7d33,8,0,0,0,0,0.0,"[1, 3, 13, 20]",4.0,24,6,0,40,5,1,1,0,0,0,0,10.0,0,0,0,0,0,0,29,0,29,32,True,False,False,Right-arm medium,Right-hand bat
+Vidarbha,UR Patel,64677a10,8,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,37,True,False,False,,Right-hand bat
+Vidarbha,Akshay Wakhare,ec9fc54b,9,0,0,0,0,0.0,"[4, 8, 10, 12]",4.0,24,5,0,27,1,1,0,0,0,0,0,6.75,1,0,0,0,0,0,7,8,15,39,True,False,False,Right-arm offbreak,Right-hand bat
+Vidarbha,Ravikumar Thakur,1ea4fbd5,10,0,0,0,0,0.0,"[5, 11, 17, 19]",4.0,24,6,0,25,0,1,1,0,0,0,0,6.25,0,0,0,0,0,0,33,0,33,40,True,True,False,Left-arm medium,Right-hand bat

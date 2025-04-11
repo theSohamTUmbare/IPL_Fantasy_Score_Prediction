@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Guyana Amazon Warriors,BA King,7fca84b7,1,49,24,7,3,204.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,105,0,8,113,30,True,False,False,,Right-hand bat
+Guyana Amazon Warriors,C Hemraj,9d450c28,2,22,25,3,0,88.0,"[1, 3]",2.0,12,8,0,10,2,0,0,0,0,0,0,5.0,0,0,0,0,0,34,12,0,46,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+Guyana Amazon Warriors,SO Hetmyer,48a1d7b7,3,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,1,0,16,17,28,True,False,False,,Left-hand bat
+Guyana Amazon Warriors,Shoaib Malik,64c34cd0,4,24,24,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32,43,True,False,True,Right-arm offbreak,Right-hand bat
+Guyana Amazon Warriors,N Pooran,3241e3fd,5,18,17,1,1,105.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28,29,True,True,False,Right-arm offbreak,Left-hand bat
+Guyana Amazon Warriors,SE Rutherford,d014d5ac,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,False,False,Right-arm fast-medium,Left-hand bat
+Guyana Amazon Warriors,KMA Paul,75224f22,6,0,0,0,0,0.0,"[6, 13, 17, 19]",4.0,24,10,0,24,2,0,2,0,0,1,1,6.0,2,0,0,0,0,0,62,16,78,27,True,False,True,Right-arm fast-medium,Right-hand bat
+Guyana Amazon Warriors,CJ Green,19b9f399,7,0,0,0,0,0.0,"[2, 14, 18]",3.0,18,4,0,28,2,1,2,0,1,0,1,9.33,1,0,0,0,0,0,62,8,70,31,True,False,True,Right-arm offbreak,Right-hand bat
+Guyana Amazon Warriors,R Shepherd,c5aef772,8,0,0,0,0,0.0,"[5, 7]",2.0,12,4,0,14,0,1,0,0,0,0,0,7.0,0,0,0,0,0,0,6,0,6,30,True,False,True,Right-arm fast-medium,Right-hand bat
+Guyana Amazon Warriors,Qais Ahmad,8d5d991e,9,0,0,0,0,0.0,"[8, 10, 12, 16]",4.0,24,10,0,28,2,1,3,0,0,0,1,7.0,1,0,0,0,0,0,91,8,99,24,True,False,False,Legbreak,Right-hand bat
+Guyana Amazon Warriors,Imran Tahir,acee4cc4,10,0,0,0,0,0.0,"[4, 9, 11, 15]",4.0,24,14,0,17,2,0,2,1,0,0,0,4.25,0,0,0,0,0,0,78,0,78,46,True,False,False,Legbreak googly,Right-hand bat
+St Kitts and Nevis Patriots,DC Thomas,08a4f9ad,1,1,7,0,0,14.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,35,True,False,False,Right-arm medium,Right-hand bat
+St Kitts and Nevis Patriots,Mohammad Hafeez,9ab63e7b,2,14,15,0,1,93.33,"[4, 6, 8, 12]",4.0,24,12,0,24,2,1,1,0,0,0,0,6.0,0,0,0,0,0,20,39,0,59,44,True,False,True,Right-arm offbreak,Right-hand bat
+St Kitts and Nevis Patriots,LJ Evans,1c513d54,3,26,20,4,0,130.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,48,0,8,56,37,True,False,False,Right-arm offbreak,Right-hand bat
+St Kitts and Nevis Patriots,JN Mohammed,773cec26,4,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,38,True,False,False,Right-arm offbreak,Right-hand bat
+St Kitts and Nevis Patriots,SSJ Brooks,977b841a,5,34,25,3,1,136.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,58,0,0,58,36,True,False,False,Legbreak,Right-hand bat
+St Kitts and Nevis Patriots,DC Drakes,34b332d3,6,2,5,0,0,40.0,"[14, 16]",1.833,11,6,0,9,1,0,0,0,0,0,1,4.91,0,0,0,0,0,2,6,0,8,27,True,False,True,Left-arm medium-fast,Left-hand bat
+St Kitts and Nevis Patriots,FA Allen,b52ffbbd,7,16,17,2,0,94.12,[5],1.0,6,3,0,16,1,2,0,0,0,0,0,16.0,0,0,0,0,0,24,3,0,27,29,True,False,True,Slow left-arm orthodox,Right-hand bat
+St Kitts and Nevis Patriots,CR Brathwaite,e342e5fb,8,3,9,0,0,33.33,"[7, 9]",2.0,12,6,0,9,1,0,0,0,0,0,0,4.5,0,0,0,0,0,3,12,0,15,36,True,False,True,Right-arm fast-medium,Right-hand bat
+St Kitts and Nevis Patriots,AS Joseph,b0946605,9,15,8,1,1,187.5,"[2, 10]",2.0,12,4,0,22,3,0,0,0,0,0,5,11.0,0,0,0,0,0,25,2,0,27,28,True,False,False,Right-arm fast,Right-hand bat
+St Kitts and Nevis Patriots,RR Emrit,e7de4f6b,10,2,2,0,0,100.0,"[11, 13]",2.0,12,2,0,15,1,0,1,0,0,1,1,7.5,0,0,0,0,0,2,27,0,29,44,True,False,True,Right-arm medium-fast,Right-hand bat
+St Kitts and Nevis Patriots,SS Cottrell,a1d053dd,11,0,1,0,0,0.0,"[1, 3, 15]",3.0,18,9,0,27,4,1,0,0,0,0,0,9.0,0,0,0,0,0,-2,9,0,7,35,True,False,False,Left-arm fast-medium,Right-hand bat

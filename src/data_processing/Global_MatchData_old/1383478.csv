@@ -1,0 +1,25 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Punjab,P Simran Singh,9418198b,1,34,23,5,0,147.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,60,0,16,76,24,True,False,False,,Right-hand bat
+Punjab,Abhishek Sharma,f29185a1,2,82,38,4,8,215.79,"[2, 5]",2.0,12,5,0,19,2,1,0,0,0,0,1,9.5,0,0,0,0,6,164,5,0,169,24,True,False,True,Slow left-arm orthodox,Left-hand bat
+Punjab,Naman Dhir,fffa744b,3,12,13,0,1,92.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,25,True,False,False,Right-arm offbreak,Right-hand bat
+Punjab,Anmolpreet Singh,1399b39c,4,28,18,1,2,155.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,52,0,0,52,27,True,False,False,Right-arm offbreak,Right-hand bat
+Punjab,Mandeep Singh,c3a96caf,5,12,7,2,0,171.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,33,True,False,True,Right-arm medium,Right-hand bat
+Punjab,Sanvir Singh,b0f2baf4,6,22,14,3,1,157.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,44,0,0,44,28,True,False,True,Right-arm medium,Right-hand bat
+Punjab,Ramandeep Singh,be24ead0,7,22,7,0,3,314.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,40,0,16,56,27,True,False,False,Right-arm medium,Right-hand bat
+Punjab,Baltej Singh,0c0ef3fb,11,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,11,0,15,1,0,2,1,0,0,1,3.75,0,0,0,0,0,0,75,0,75,34,True,False,False,Right-arm medium,Right-hand bat
+Punjab,Harpreet Brar,c05edf8e,12,0,0,0,0,0.0,"[7, 9, 15]",3.0,18,9,0,15,2,0,3,1,0,0,0,5.0,0,0,0,0,0,0,100,0,100,29,True,False,False,Slow left-arm orthodox,Left-hand bat
+Punjab,S Kaul,dcf81436,13,0,0,0,0,0.0,"[4, 6]",2.0,12,4,0,15,2,0,1,0,1,0,2,7.5,0,0,0,0,0,0,37,0,37,34,True,False,False,Right-arm medium,Right-hand bat
+Punjab,Arshdeep Singh,244048f6,14,0,0,0,0,0.0,"[1, 3]",2.0,12,6,0,9,1,0,1,1,0,0,1,4.5,0,0,0,0,0,0,45,0,45,26,True,False,False,Left-arm medium-fast,Left-hand bat
+Punjab,M Markande,a9fd84fb,15,0,0,0,0,0.0,"[11, 13, 16]",3.0,18,6,0,18,2,0,3,0,2,0,0,6.0,0,0,0,0,0,0,103,0,103,27,True,False,False,Legbreak,Right-hand bat
+Railways,Shivam Chaudhary,e53af640,1,11,10,2,0,110.0,"[9, 11, 13]",3.0,18,5,0,27,1,2,1,0,1,0,0,9.0,0,0,0,0,0,19,38,0,57,27,True,True,False,Right-arm offbreak,Right-hand bat
+Railways,Pratham Singh,f9f21866,2,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,32,True,False,False,Right-arm offbreak,Left-hand bat
+Railways,Vivek Singh,a446c7be,3,20,18,2,1,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34,31,True,False,False,Right-arm medium,Left-hand bat
+Railways,Upendra Yadav,80ffea17,4,7,8,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19,28,True,True,False,Right-arm offbreak,Right-hand bat
+Railways,Shubham Chaubey,58588e5a,5,19,27,1,0,70.37,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23,29,True,True,False,Right-arm offbreak,Right-hand bat
+Railways,N Kushwah,87b9786b,6,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,30,True,True,False,Right-arm offbreak,Left-hand bat
+Railways,AR Pandey,dd73b2ff,7,18,11,3,0,163.64,"[5, 7]",2.0,12,4,0,21,2,1,1,0,0,0,0,10.5,0,0,0,0,4,34,27,0,61,32,True,True,False,Right-arm medium,Left-hand bat
+Railways,Ashutosh Sharma,84d9c311,8,4,3,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,26,True,False,True,,Right-hand bat
+Railways,KV Sharma,119678fd,9,5,9,0,0,55.56,"[8, 10, 12, 15]",4.0,24,7,0,45,2,4,0,0,0,0,1,11.25,1,0,0,0,0,5,3,8,16,37,True,False,False,Legbreak googly,Left-hand bat
+Railways,Yuvraj Singh,30829ea2,10,1,2,0,0,50.0,"[1, 3, 17, 19]",4.0,24,9,0,37,4,2,0,0,0,0,0,9.25,0,0,0,0,0,1,9,0,10,26,True,False,True,Right-arm medium-fast,Right-hand bat
+Railways,Susheel Kumar,18956346,11,0,0,0,0,0.0,"[2, 6, 18, 20]",4.0,24,8,0,54,4,4,1,0,0,0,1,13.5,0,0,0,0,0,0,27,0,27,28,True,True,False,Left-arm medium-fast,Left-hand bat
+Railways,Akash Pandey,f691e227,11,0,3,0,0,0.0,"[4, 14, 16]",3.0,18,5,0,30,2,2,2,0,1,0,0,10.0,0,0,0,0,0,-2,61,0,59,26,True,True,False,Slow left-arm orthodox,Left-hand bat

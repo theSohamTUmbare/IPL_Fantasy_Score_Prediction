@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Hobart Hurricanes,CP Jewell,806c4e58,1,5,5,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17,27,True,False,False,,Left-hand bat
+Hobart Hurricanes,BR McDermott,c41043e6,2,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,30,True,True,False,Right-arm medium,Right-hand bat
+Hobart Hurricanes,Z Crawley,922e1b19,3,12,6,3,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,24,0,8,32,27,True,False,False,Right-arm offbreak,Right-hand bat
+Hobart Hurricanes,MS Wade,afa7e784,4,30,22,2,1,136.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,50,0,8,58,37,True,True,False,Right-arm medium,Left-hand bat
+Hobart Hurricanes,TH David,f1f99156,5,76,40,5,6,190.0,[3],1.0,6,2,0,10,2,0,0,0,0,0,0,10.0,0,0,0,0,6,150,2,0,152,29,True,False,False,Right-arm offbreak,Right-hand bat
+Hobart Hurricanes,Asif Ali,0a4736eb,6,5,8,0,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,33,True,False,False,Right-arm offbreak,Right-hand bat
+Hobart Hurricanes,Faheem Ashraf,bd4ea627,7,6,12,0,0,50.0,"[6, 9, 13, 16]",4.0,24,8,0,28,4,0,1,0,1,0,0,7.0,2,0,0,0,-4,2,43,16,61,31,True,False,True,Right-arm medium,Left-hand bat
+Hobart Hurricanes,TD Andrews,a0f612b6,7,0,0,0,0,0.0,"[8, 10, 12]",3.0,18,6,0,26,0,2,0,0,0,0,1,8.67,0,0,0,0,0,0,6,0,6,30,True,False,True,Slow left-arm orthodox,Left-hand bat
+Hobart Hurricanes,PG Dooley,5e3054d0,8,0,0,0,0,0.0,"[2, 7, 11, 20]",4.0,24,10,0,22,1,1,3,0,0,0,1,5.5,0,0,0,0,0,0,93,0,93,27,True,False,False,Left-arm wrist-spin,Left-hand bat
+Hobart Hurricanes,NT Ellis,9eb1455b,9,0,0,0,0,0.0,"[4, 15, 17, 19]",4.0,24,9,0,27,2,0,4,1,2,1,1,6.75,0,0,0,0,0,0,143,0,143,30,True,False,False,Right-arm fast-medium,Right-hand bat
+Hobart Hurricanes,RP Meredith,64775749,10,0,0,0,0,0.0,"[1, 5, 14, 18]",4.0,24,7,0,14,0,0,2,0,1,0,0,3.5,0,0,0,0,0,0,71,0,71,28,True,False,False,Right-arm fast,Right-hand bat
+Sydney Thunder,M Gilkes,d85b0f8b,1,13,14,2,0,92.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,21,0,6,27,25,True,False,False,,Left-hand bat
+Sydney Thunder,DA Warner,dcce6f09,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,38,True,False,False,Legbreak,Left-hand bat
+Sydney Thunder,SM Whiteman,f4427cc6,3,5,9,0,0,55.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,33,True,False,False,,Left-hand bat
+Sydney Thunder,O Davies,0ea54eca,4,45,38,3,2,118.42,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,73,0,6,79,24,True,False,False,Right-arm offbreak,Right-hand bat
+Sydney Thunder,AI Ross,fb0d68b4,5,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,32,True,False,False,Right-arm offbreak,Right-hand bat
+Sydney Thunder,DR Sams,caf69bf7,6,9,12,0,0,75.0,"[3, 5, 11, 13]",4.0,24,16,0,18,2,0,4,1,0,0,0,4.5,1,0,0,0,0,9,138,8,155,32,True,False,True,Left-arm fast-medium,Right-hand bat
+Sydney Thunder,BCJ Cutting,2e11c706,7,20,16,3,0,125.0,[7],1.0,6,1,0,13,1,1,0,0,0,0,0,13.0,0,0,0,0,0,32,1,0,33,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Sydney Thunder,N McAndrew,38c276e1,8,0,1,0,0,0.0,"[4, 8, 12, 17]",3.167,19,5,0,33,2,2,0,0,0,0,1,10.42,1,0,0,0,0,-2,3,8,9,31,True,False,False,Right-arm medium-fast,Right-hand bat
+Sydney Thunder,CJ Green,19b9f399,9,21,17,1,1,123.53,"[2, 10, 14, 16]",4.0,24,11,0,24,2,1,0,0,0,0,0,6.0,1,0,0,0,0,31,13,8,52,31,True,False,True,Right-arm offbreak,Right-hand bat
+Sydney Thunder,Usman Qadir,33742f04,10,7,6,0,0,116.67,[9],1.0,6,1,0,20,1,2,0,0,0,1,0,20.0,0,0,0,0,0,7,1,0,8,31,True,False,False,Legbreak,Left-hand bat
+Sydney Thunder,B Doggett,898e628d,11,1,1,0,0,100.0,"[1, 6, 15]",3.0,18,5,0,28,3,1,0,0,0,0,0,9.33,0,0,0,0,0,1,5,0,6,30,True,False,False,Right-arm fast-medium,Right-hand bat

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Madhya Pradesh,RM Patidar,c740ea83,1,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,31,True,False,False,Right-arm offbreak,Right-hand bat
+Madhya Pradesh,NV Ojha,890946a0,2,19,18,1,1,105.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,29,0,20,49,41,True,False,False,,Right-hand bat
+Madhya Pradesh,Harpreet Singh,28c78fb3,3,50,46,4,0,108.7,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,74,0,0,74,33,True,False,False,Right-arm medium,Left-hand bat
+Madhya Pradesh,Anshul Tripathi,65ff7036,4,13,14,0,0,92.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,13,0,12,25,34,True,True,False,Legbreak googly,Right-hand bat
+Madhya Pradesh,Sohraab Dhaliwal,564714f5,5,31,20,3,1,155.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,57,0,0,57,33,True,True,False,Slow left-arm orthodox,Right-hand bat
+Madhya Pradesh,Parth Sahani,239f7526,6,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,32,True,False,True,Slow left-arm orthodox,Left-hand bat
+Madhya Pradesh,Mihir Hirwani,49bacd0f,7,0,0,0,0,0.0,"[7, 9, 12, 14]",4.0,24,4,0,23,0,0,0,0,0,0,0,5.75,0,0,0,0,0,0,8,0,8,30,True,True,False,Legbreak googly,Right-hand bat
+Madhya Pradesh,Ankit Sharma,24d94623,7,5,6,0,0,83.33,"[11, 13, 15, 18]",4.0,24,5,0,28,2,0,1,0,0,0,0,7.0,0,0,0,0,0,5,32,0,37,33,True,False,False,Slow left-arm orthodox,Left-hand bat
+Madhya Pradesh,Avesh Khan,eef2536f,8,0,0,0,0,0.0,"[2, 4, 17, 20]",4.0,24,13,0,16,0,0,2,0,0,0,3,4.0,1,0,0,0,0,0,69,8,77,28,True,False,False,Right-arm fast-medium,Right-hand bat
+Madhya Pradesh,Ankit Kushwah,d27dafe2,8,10,7,1,0,142.86,"[6, 8, 10, 16]",4.0,24,11,0,27,1,1,0,0,0,0,5,6.75,1,0,1,0,0,14,13,20,47,32,True,True,False,Right-arm medium,Right-hand bat
+Madhya Pradesh,IC Pandey,e0407c01,9,1,3,0,0,33.33,"[1, 3, 5, 19]",4.0,24,17,1,15,2,0,1,0,0,0,1,3.75,0,0,0,0,0,1,60,0,61,35,True,False,False,Right-arm medium,Right-hand bat
+Railways,Aakash Verma,24f5e41a,1,0,8,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,34,True,False,False,,Right-hand bat
+Railways,ARB Singh,4d4e6658,2,11,18,0,0,61.11,"[8, 10, 12, 14]",4.0,24,8,0,28,1,1,1,0,1,1,1,7.0,0,0,0,0,-2,9,43,0,52,30,True,True,False,Right-arm medium,Right-hand bat
+Railways,AG Sehrawat,1bd8d47d,3,5,10,1,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,5,0,0,5,30,True,False,False,,Right-hand bat
+Railways,AN Ghosh,7023d182,4,26,29,3,0,89.66,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,42,0,8,50,38,True,False,False,Right-arm medium,Right-hand bat
+Railways,M Rawat,de8d3876,5,38,31,1,1,122.58,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,52,0,8,60,39,True,False,False,,Right-hand bat
+Railways,Ashish Yadav,254c7802,6,14,17,0,0,82.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,14,0,12,26,39,True,False,True,Slow left-arm orthodox,Left-hand bat
+Railways,Amit Mishra,1d8388eb,7,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,13,0,17,2,0,3,0,2,0,0,4.25,0,0,0,0,0,0,114,0,114,36,True,True,False,Right-arm medium,Right-hand bat
+Railways,Anureet Singh,69be866a,7,6,7,0,0,85.71,"[2, 4, 11, 16]",4.0,24,10,0,18,0,0,2,0,1,0,0,4.5,0,0,0,0,0,6,74,0,80,37,True,False,False,Right-arm medium,Right-hand bat
+Railways,Karan Thakur,8050f0f0,8,0,0,0,0,0.0,"[5, 7, 15, 19]",4.0,24,5,0,31,1,1,0,0,0,0,0,7.75,0,0,0,0,0,0,5,0,5,32,True,True,False,Right-arm medium,Left-hand bat
+Railways,Abhishek Sharma,f29185a1,9,0,0,0,0,0.0,[6],1.0,6,1,0,15,3,0,0,0,0,0,0,15.0,0,0,0,0,0,0,1,0,1,24,True,False,True,Slow left-arm orthodox,Left-hand bat
+Railways,Chanderpal Saini,f0c86c2d,10,0,0,0,0,0.0,"[9, 13, 17]",3.0,18,2,0,24,2,0,0,0,0,0,0,8.0,0,0,0,0,0,0,2,0,2,38,True,True,False,Right-arm medium,Right-hand bat

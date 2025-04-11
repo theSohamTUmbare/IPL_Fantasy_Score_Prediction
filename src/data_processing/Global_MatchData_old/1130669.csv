@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Jammu & Kashmir,Ahmed Banday,2f9a41e7,1,20,14,3,1,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,40,0,0,40,30,True,True,False,Right-arm medium,Right-hand bat
+Jammu & Kashmir,Shubham Khajuria,d8a90827,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,29,True,False,False,Right-arm offbreak,Right-hand bat
+Jammu & Kashmir,Ian Dev Singh,f732f3e7,3,47,37,6,0,127.03,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,75,0,0,75,36,True,False,False,Right-arm offbreak,Right-hand bat
+Jammu & Kashmir,Parvez Rasool,9170ff49,4,20,18,1,1,111.11,"[5, 7, 13, 15]",4.0,24,9,0,19,1,0,0,0,0,0,0,4.75,1,0,0,0,0,30,15,8,53,36,True,False,True,Right-arm offbreak,Right-hand bat
+Jammu & Kashmir,OA Shah,7bf96684,5,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,46,True,False,False,Right-arm offbreak,Right-hand bat
+Jammu & Kashmir,Bandeep Singh,37b0f5f9,6,10,11,1,0,90.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,35,True,True,False,Legbreak googly,Right-hand bat
+Jammu & Kashmir,Manzoor Dar,91a260d3,7,1,5,0,0,20.0,[16],1.0,6,4,0,3,0,0,1,0,0,0,0,3.0,0,0,0,0,0,1,29,0,30,31,True,False,False,Right-arm offbreak,Right-hand bat
+Jammu & Kashmir,Ram Dayal,93fefdfa,8,5,8,0,0,62.5,"[2, 4]",2.0,12,4,0,26,6,0,0,0,0,0,0,13.0,0,0,0,0,0,5,-2,0,3,36,True,False,True,Right-arm medium,Right-hand bat
+Jammu & Kashmir,Waseem Raza,c32087fc,9,9,13,0,0,69.23,"[3, 10, 12, 14]",4.0,24,9,0,21,1,0,0,0,0,0,0,5.25,0,0,0,0,-2,7,13,0,20,32,True,True,False,Slow left-arm orthodox,Right-hand bat
+Jammu & Kashmir,Mohammed Mudhasir,7549ecb0,10,0,2,0,0,0.0,"[1, 9, 11]",3.0,18,7,0,27,4,0,0,0,0,1,0,9.0,0,0,0,0,0,0,7,0,7,36,True,True,False,Right-arm medium,Right-hand bat
+Jammu & Kashmir,Umar Nazir,734062e6,11,9,6,1,0,150.0,"[6, 8, 17]",2.833,17,4,0,34,7,0,0,0,0,0,0,12.0,0,0,0,0,0,13,-2,0,11,31,True,True,False,Right-arm medium,Right-hand bat
+Services,Nakul Verma,38c0d699,1,36,41,2,0,87.8,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,48,0,0,48,33,True,True,False,Legbreak googly,Right-hand bat
+Services,Ravi Chauhan,f7ce1f24,2,86,57,16,0,150.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,166,0,8,174,31,True,True,False,Legbreak googly,Right-hand bat
+Services,Rahul Singh,adf454e9,3,7,3,1,0,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,29,True,True,False,Right-arm medium,Left-hand bat
+Services,Diwesh Pathania,a63563c0,3,0,0,0,0,0.0,"[1, 5, 15, 19]",4.0,24,11,0,28,3,1,3,0,0,0,1,7.0,1,0,1,0,0,0,92,20,112,35,True,True,False,Right-arm medium,Right-hand bat
+Services,Nitin Yadav,ed3fdd1a,4,0,0,0,0,0.0,"[2, 4, 10, 20]",4.0,24,10,0,19,2,0,1,0,0,0,0,4.75,1,0,0,0,0,0,41,8,49,32,True,True,False,Right-arm medium,Right-hand bat
+Services,Abhishek Sakuja,a92a9292,5,0,0,0,0,0.0,"[3, 6, 16, 18]",4.0,24,7,0,27,2,1,0,0,0,0,0,6.75,0,0,1,0,0,0,9,12,21,37,True,True,False,Slow left-arm orthodox,Left-hand bat
+Services,Avishek Sinha,9fc68dcb,6,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,8,0,31,4,0,2,0,1,0,1,7.75,0,0,0,0,0,0,66,0,66,40,True,True,False,Slow left-arm orthodox,Right-hand bat
+Services,AA Bamal,6a58e069,7,0,0,0,0,0.0,"[8, 12, 14, 17]",4.0,24,9,0,19,1,0,2,1,0,0,0,4.75,1,0,0,0,0,0,73,8,81,27,True,False,True,Slow left-arm orthodox,Left-hand bat
+Services,Amit Pachhara,be271641,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,29,True,True,False,Right-arm offbreak,Right-hand bat
+Services,Nakul Sharma,f5cf7ae0,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,31,True,True,False,Legbreak googly,Right-hand bat
+Services,Vikas Hathwala,904585d1,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,31,True,True,False,Left-arm medium,Left-hand bat

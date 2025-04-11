@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Mumbai Indians,SA Yadav,271f83cd,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,34,True,False,False,Right-arm offbreak,Right-hand bat
+Mumbai Indians,E Lewis,0ebfb1ad,2,65,42,6,5,154.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,131,0,0,131,33,True,False,False,,Left-hand bat
+Mumbai Indians,Ishan Kishan,752f7486,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,-2,0,12,10,26,True,True,False,Legbreak,Left-hand bat
+Mumbai Indians,RG Sharma,740742ef,4,94,52,10,5,180.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,182,0,8,190,37,True,False,False,Right-arm offbreak,Right-hand bat
+Mumbai Indians,KH Pandya,5b8c830e,5,15,12,1,1,125.0,"[2, 8, 10, 12]",4.0,24,9,0,28,3,0,3,0,0,0,1,7.0,1,0,0,0,0,25,90,8,123,34,True,False,True,Slow left-arm orthodox,Left-hand bat
+Mumbai Indians,KA Pollard,a757b0d8,6,5,7,0,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,37,True,False,True,Right-arm medium,Right-hand bat
+Mumbai Indians,HH Pandya,dbe50b21,7,17,5,1,2,340.0,[15],1.0,6,2,0,4,0,0,0,0,0,0,0,4.0,1,0,0,0,0,33,2,8,43,31,True,False,True,Right-arm medium-fast,Right-hand bat
+Mumbai Indians,MJ McClenaghan,51a3c5ef,8,0,0,0,0,0.0,"[3, 5, 17]",3.0,18,4,0,24,1,1,2,0,1,0,0,8.0,0,0,0,0,0,0,62,0,62,38,True,False,False,Left-arm fast-medium,Left-hand bat
+Mumbai Indians,M Markande,a9fd84fb,10,0,0,0,0,0.0,"[7, 9, 11, 14]",4.0,24,7,0,25,1,1,1,0,0,0,1,6.25,0,0,0,0,0,0,34,0,34,27,True,False,False,Legbreak,Right-hand bat
+Mumbai Indians,JJ Bumrah,462411b3,11,0,0,0,0,0.0,"[1, 13, 18, 20]",4.0,24,11,0,28,3,1,2,0,0,0,1,7.0,0,0,0,0,0,0,63,0,63,31,True,False,False,Right-arm fast,Right-hand bat
+Mumbai Indians,Mustafizur Rahman,0a8fce53,12,0,0,0,0,0.0,"[4, 6, 16, 19]",4.0,24,3,0,55,4,4,0,0,0,1,0,13.75,0,0,0,0,0,0,-3,0,-3,29,True,False,False,Left-arm fast-medium,Left-hand bat
+Royal Challengers Bangalore,V Kohli,ba607b88,1,92,61,7,4,150.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,160,0,0,160,36,True,False,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,Q de Kock,372455c4,2,19,12,2,1,158.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,37,0,8,45,32,True,False,False,,Left-hand bat
+Royal Challengers Bangalore,AB de Villiers,c4487b84,3,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,41,True,True,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,Mandeep Singh,c3a96caf,4,16,14,1,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,33,True,False,True,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,CJ Anderson,8abdf100,5,0,1,0,0,0.0,"[10, 12, 16, 20]",4.0,24,10,0,47,8,1,2,0,0,0,3,11.75,0,0,0,0,0,-2,56,0,54,34,True,False,True,Left-arm medium-fast,Left-hand bat
+Royal Challengers Bangalore,Washington Sundar,f19ccfad,6,7,8,1,0,87.5,"[4, 8]",2.0,12,2,0,32,4,1,0,0,0,0,5,16.0,0,0,0,0,0,11,-4,0,7,25,True,False,True,Right-arm offbreak,Left-hand bat
+Royal Challengers Bangalore,SN Khan,f088b960,7,5,6,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,27,True,False,False,Legbreak,Right-hand bat
+Royal Challengers Bangalore,CR Woakes,4c5d73db,8,11,11,0,1,100.0,"[2, 6, 19]",3.0,18,9,0,31,2,3,1,0,0,0,1,10.33,1,0,0,0,0,17,32,8,57,36,True,False,True,Right-arm fast-medium,Right-hand bat
+Royal Challengers Bangalore,UT Yadav,cc1e8c68,9,1,2,0,0,50.0,"[1, 3, 15, 17]",4.0,24,9,0,36,3,2,2,0,2,0,1,9.0,0,0,0,0,0,1,75,0,76,37,True,False,False,Right-arm fast,Right-hand bat
+Royal Challengers Bangalore,Mohammed Siraj,2f49c897,10,8,3,0,1,266.67,"[5, 7, 13, 18]",4.0,24,11,0,34,1,2,0,0,0,0,6,8.5,0,0,0,0,0,14,11,0,25,31,True,False,False,Right-arm fast,Right-hand bat
+Royal Challengers Bangalore,YS Chahal,57ee1fde,10,0,0,0,0,0.0,"[9, 11, 14]",3.0,18,7,0,32,0,4,0,0,0,0,0,10.67,0,0,0,0,0,0,5,0,5,34,True,False,False,Legbreak googly,Right-hand bat

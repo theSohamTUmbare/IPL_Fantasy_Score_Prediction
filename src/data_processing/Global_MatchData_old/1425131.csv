@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bangladesh,Liton Das,0404d43c,1,14,15,1,1,93.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24,30,True,True,False,Right-arm offbreak,Right-hand bat
+Bangladesh,Soumya Sarkar,4d9f9686,2,20,13,3,0,153.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,36,0,0,36,32,True,False,True,Right-arm medium-fast,Left-hand bat
+Bangladesh,Nazmul Hossain Shanto,1274d7ab,3,3,10,0,0,30.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,-3,0,8,5,26,True,False,False,Right-arm offbreak,Left-hand bat
+Bangladesh,Towhid Hridoy,9e52a414,4,58,44,4,2,131.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,96,0,8,104,24,True,False,False,Right-arm offbreak,Right-hand bat
+Bangladesh,Shakib Al Hasan,7dc35884,5,6,12,0,0,50.0,"[5, 10, 14]",3.0,18,13,0,16,0,2,0,0,0,0,0,5.33,0,0,0,0,-4,2,17,0,19,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Bangladesh,Mahmudullah,bf1d7d3e,6,31,21,2,1,147.62,"[1, 16, 20]",2.5,15,3,0,20,1,1,0,0,0,0,0,8.0,1,0,0,0,2,51,3,8,62,39,True,False,True,Right-arm offbreak,Right-hand bat
+Bangladesh,Mahedi Hasan,9dad0f2e,7,0,0,0,0,0.0,"[3, 8, 11, 13]",4.0,24,6,0,27,0,1,0,0,0,0,0,6.75,0,0,0,0,0,0,8,0,8,30,True,False,True,Right-arm offbreak,Right-hand bat
+Bangladesh,Jaker Ali,cd56a813,7,9,5,2,0,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,27,True,False,False,,Right-hand bat
+Bangladesh,Rishad Hossain,5935d694,8,0,0,0,0,0.0,"[7, 9]",2.0,12,5,0,16,3,0,1,0,0,0,0,8.0,0,0,0,0,0,0,30,0,30,22,True,False,True,Legbreak googly,Right-hand bat
+Bangladesh,Mustafizur Rahman,0a8fce53,9,0,0,0,0,0.0,"[6, 12, 17, 19]",4.0,24,7,0,41,0,3,2,0,0,0,4,10.25,1,0,0,0,0,0,55,8,63,29,True,False,False,Left-arm fast-medium,Left-hand bat
+Bangladesh,Shoriful Islam,bb34fd31,10,0,0,0,0,0.0,"[2, 4, 15, 18]",4.0,24,12,0,31,3,1,1,0,0,0,3,7.75,0,0,1,0,0,0,37,12,49,23,True,False,False,Left-arm fast-medium,Left-hand bat
+United States of America,SR Taylor,a9231c3f,1,28,29,1,1,96.55,"[6, 8, 10]",3.0,18,10,0,9,0,0,2,0,0,0,0,3.0,1,0,0,1,0,42,66,14,122,31,True,False,False,Right-arm offbreak,Left-hand bat
+United States of America,MD Patel,25d7f1ac,2,12,10,0,1,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,18,0,12,30,31,True,False,False,,Right-hand bat
+United States of America,AGS Gous,d1305df0,3,23,18,4,0,127.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,39,0,0,39,31,True,False,False,,Right-hand bat
+United States of America,Aaron Jones,17aa4f1d,4,4,12,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2,30,True,False,False,Legbreak googly,Right-hand bat
+United States of America,NR Kumar,b3bad3f2,5,10,10,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,16,0,16,32,30,True,False,False,Right-arm offbreak,Right-hand bat
+United States of America,CJ Anderson,8abdf100,6,34,25,0,2,136.0,"[9, 11]",2.0,12,5,0,10,1,0,0,0,0,0,0,5.0,0,0,0,0,2,52,9,0,61,34,True,False,True,Left-arm medium-fast,Left-hand bat
+United States of America,Ali Khan,b0eaaac6,7,0,0,0,0,0.0,"[2, 4, 17, 20]",4.0,24,8,0,49,7,1,1,0,0,1,4,12.25,0,0,0,0,0,0,27,0,27,34,True,False,False,Right-arm fast-medium,Right-hand bat
+United States of America,Harmeet Singh,0bf15e52,7,33,13,2,3,253.85,"[12, 14, 16, 18]",4.0,24,6,0,27,1,0,0,0,0,2,2,6.75,0,0,0,1,6,69,8,6,83,32,True,False,True,Slow left-arm orthodox,Left-hand bat
+United States of America,Jasdeep Singh,5ec41cd7,8,0,0,0,0,0.0,"[5, 7, 13]",3.0,18,9,1,30,2,2,1,1,0,2,0,10.0,0,0,0,0,0,0,52,0,52,32,True,False,False,Right-arm medium,Right-hand bat
+United States of America,NP Kenjige,f7d267f7,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,34,True,False,False,Slow left-arm orthodox,Right-hand bat
+United States of America,SN Netravalkar,c8a3f688,10,0,0,0,0,0.0,"[1, 3, 15, 19]",4.0,24,6,0,27,1,1,1,0,0,0,0,6.75,0,0,0,0,0,0,33,0,33,33,True,False,False,Left-arm fast-medium,Right-hand bat

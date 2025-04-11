@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bangladesh,Tamim Iqbal,3b041a12,1,11,11,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,36,True,False,False,,Left-hand bat
+Bangladesh,Nazimuddin,4aef496b,2,43,37,3,2,116.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,71,0,0,71,39,True,False,False,Right-arm medium,Right-hand bat
+Bangladesh,Aftab Ahmed,53bc7b84,3,17,6,2,1,283.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31,39,True,False,False,Right-arm medium,Right-hand bat
+Bangladesh,Mohammad Ashraful,2bb09eb2,4,36,20,4,1,180.0,"[10, 12, 14, 16]",4.0,24,8,0,32,2,1,1,0,0,0,3,8.0,0,0,0,0,6,68,33,0,101,40,True,False,False,Legbreak,Right-hand bat
+Bangladesh,Alok Kapali,54279e23,5,17,19,1,0,89.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21,41,True,False,True,Legbreak,Right-hand bat
+Bangladesh,Mahmudullah,bf1d7d3e,6,2,8,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,39,True,False,True,Right-arm offbreak,Right-hand bat
+Bangladesh,Farhad Reza,4948a447,7,0,0,0,0,0.0,"[11, 13, 15, 17]",4.167,25,7,0,34,2,1,2,0,2,0,0,8.16,1,0,0,0,0,0,73,8,81,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Bangladesh,Mashrafe Mortaza,e186f49c,7,7,6,0,1,116.67,"[1, 3, 5, 19]",4.0,24,11,0,29,4,0,2,0,0,0,2,7.25,0,0,0,0,0,13,61,0,74,41,True,False,False,Right-arm fast-medium,Right-hand bat
+Bangladesh,Mushfiqur Rahim,a94e08ea,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,2,0,0,0,0,0,24,24,37,True,False,False,,Right-hand bat
+Bangladesh,Syed Rasel,b743f01b,9,0,0,0,0,0.0,"[2, 4, 6, 8]",4.0,24,13,0,20,2,0,0,0,0,0,0,5.0,1,0,0,0,0,0,17,8,25,40,True,False,False,Left-arm medium-fast,Left-hand bat
+Bangladesh,Abdur Razzak,888e32bf,10,0,0,0,0,0.0,"[7, 9, 18, 20]",4.0,24,11,0,22,2,0,2,0,0,0,0,5.5,0,0,0,0,0,0,65,0,65,42,True,False,False,Slow left-arm orthodox,Left-hand bat
+Kenya,DO Obuya,6ed3d5ac,1,23,19,4,0,121.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,39,0,8,47,45,True,False,False,,Right-hand bat
+Kenya,JS Jesani,68be5567,2,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,,,,,,
+Kenya,T Mishra,c9cac448,3,38,41,2,1,92.68,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,56,0,0,56,38,True,False,False,Right-arm fast-medium,Right-hand bat
+Kenya,SO Tikolo,00d69fa4,4,24,21,2,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32,53,True,False,True,Right-arm offbreak,Right-hand bat
+Kenya,TM Odoyo,2c13defe,5,22,13,2,1,169.23,"[1, 3, 15, 17]",4.0,24,13,0,28,3,1,1,0,0,0,1,7.0,2,0,0,0,4,40,40,16,96,46,True,False,True,Right-arm medium-fast,Right-hand bat
+Kenya,CO Obuya,5680f1ad,6,14,10,1,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,20,0,8,28,43,True,False,True,Legbreak,Right-hand bat
+Kenya,PJ Ongondo,27cc4361,7,0,0,0,0,0.0,"[2, 4, 14, 16]",4.167,25,17,0,21,4,0,2,0,0,1,0,5.04,0,0,0,0,0,0,71,0,71,48,True,False,False,Right-arm fast-medium,Right-hand bat
+Kenya,JK Kamande,270b3f8e,7,6,6,1,0,100.0,"[9, 11, 13]",3.0,18,4,0,21,2,0,1,0,0,0,1,7.0,0,0,0,0,0,10,31,0,41,46,True,False,False,Right-arm offbreak,Right-hand bat
+Kenya,HA Varaiya,eeeebf82,8,0,0,0,0,0.0,"[10, 12]",2.0,12,1,0,15,1,0,0,0,0,0,0,7.5,0,0,0,0,0,0,1,0,1,40,True,False,False,Slow left-arm orthodox,Right-hand bat
+Kenya,RL Bhudia,47d00fb5,8,0,2,0,0,0.0,"[6, 8, 18]",2.667,16,4,0,32,0,3,0,0,0,0,2,12.0,1,0,0,0,0,-2,0,8,6,,,,,,
+Kenya,LN Onyango,68c3f79d,9,4,4,0,0,100.0,"[5, 7]",2.0,12,3,0,21,2,1,1,0,0,0,0,10.5,0,0,0,0,0,4,26,0,30,51,True,False,False,Right-arm medium,Right-hand bat

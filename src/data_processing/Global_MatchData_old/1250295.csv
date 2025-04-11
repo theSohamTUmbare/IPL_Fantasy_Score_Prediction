@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Durham,DG Bedingham,a1b69936,1,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,30,True,False,False,,Right-hand bat
+Durham,G Clark,4fd09cfc,2,26,16,3,0,162.5,[9],1.0,6,0,0,13,2,0,0,0,0,0,0,13.0,0,0,0,0,4,46,0,0,46,32,True,False,False,Legbreak,Right-hand bat
+Durham,EJH Eckersley,d510d457,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,35,True,True,False,Right-arm offbreak,Right-hand bat
+Durham,BA Stokes,e087956b,3,11,14,2,0,78.57,"[3, 12, 17]",3.0,18,5,0,30,3,1,0,0,0,2,0,10.0,0,0,0,0,0,19,3,0,22,33,True,False,True,Right-arm fast-medium,Left-hand bat
+Durham,L Trevaskis,b5781ac3,4,0,0,0,0,0.0,"[1, 4, 14, 16]",4.0,24,10,0,25,3,0,1,0,0,0,0,6.25,0,0,0,0,0,0,37,0,37,25,True,False,False,Slow left-arm orthodox,Left-hand bat
+Durham,BA Raine,4c0f3806,4,14,16,1,0,87.5,"[7, 13]",2.0,12,1,0,15,1,0,0,0,0,0,0,7.5,0,0,0,0,0,18,1,0,19,33,True,False,True,Right-arm medium-fast,Left-hand bat
+Durham,CT Bancroft,399b0b94,5,27,21,2,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,39,0,0,39,32,True,False,False,,Right-hand bat
+Durham,SG Borthwick,51e1ed69,5,0,0,0,0,0.0,"[8, 11, 15]",3.0,18,3,0,24,1,1,0,0,0,0,1,8.0,0,0,0,0,0,0,3,0,3,34,True,False,True,Legbreak,Left-hand bat
+Durham,SR Dickson,2344bdd1,6,51,37,4,2,137.84,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,89,0,0,89,33,True,False,False,Right-arm medium,Right-hand bat
+Durham,MJ Potts,894b2d25,6,0,0,0,0,0.0,"[2, 6, 18]",2.833,17,3,0,30,5,0,0,0,0,0,0,10.59,1,0,0,0,0,0,1,8,9,26,True,False,False,Right-arm fast-medium,Right-hand bat
+Durham,BA Carse,cad40f5e,7,20,14,1,0,142.86,"[5, 10]",2.0,12,3,0,19,3,0,0,0,0,0,0,9.5,0,0,0,0,2,26,3,0,29,29,True,False,True,Right-arm fast,Right-hand bat
+Northamptonshire,R Vasconcelos,efe3fcc5,1,78,57,10,0,136.84,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,132,0,0,132,27,True,False,False,,Left-hand bat
+Northamptonshire,AM Rossington,7bcde3fe,2,59,37,7,2,159.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,2,0,0,4,111,0,32,143,31,True,False,False,,Right-hand bat
+Northamptonshire,RI Keogh,e22d3b5c,3,16,13,1,0,123.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,33,True,False,True,Right-arm offbreak,Right-hand bat
+Northamptonshire,CO Thurston,2964e311,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,28,True,False,False,Right-arm medium,Right-hand bat
+Northamptonshire,WD Parnell,3a60e0b5,4,0,0,0,0,0.0,"[3, 6, 17, 19]",4.0,24,8,0,37,6,0,0,0,0,0,0,9.25,0,0,0,0,0,0,8,0,8,35,True,False,False,Left-arm medium-fast,Left-hand bat
+Northamptonshire,Mohammad Nabi,62af8546,5,0,0,0,0,0.0,"[1, 5, 13, 15]",4.0,24,12,0,24,3,0,2,0,0,0,1,6.0,0,0,0,0,0,0,64,0,64,40,True,False,True,Right-arm offbreak,Right-hand bat
+Northamptonshire,SA Zaib,ab01e323,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,False,True,Slow left-arm orthodox,Left-hand bat
+Northamptonshire,TAI Taylor,867a45a7,7,0,0,0,0,0.0,"[4, 14]",2.0,12,3,0,19,1,1,0,0,0,0,2,9.5,0,0,0,0,0,0,3,0,3,30,True,False,True,Right-arm medium-fast,Right-hand bat
+Northamptonshire,GG White,0f21680d,8,0,0,0,0,0.0,"[8, 10, 12, 16]",4.0,24,6,0,31,0,1,2,0,0,0,3,7.75,1,0,0,0,0,0,56,8,64,37,True,False,False,Slow left-arm orthodox,Right-hand bat
+Northamptonshire,FJ Heldreich,56ef4f99,9,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,4,0,23,2,0,1,0,1,0,0,7.67,0,0,0,0,0,0,37,0,37,23,True,False,False,Left-arm wrist-spin,Right-hand bat
+Northamptonshire,BW Sanderson,e871a7a1,10,0,0,0,0,0.0,"[2, 18, 20]",3.0,18,7,0,21,1,0,0,0,0,0,0,7.0,0,0,0,0,0,0,9,0,9,36,True,False,False,Right-arm medium-fast,Right-hand bat

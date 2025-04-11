@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Hyderabad (India),Tanmay Agarwal,e6e9b619,1,42,46,3,0,91.3,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,58,0,0,58,29,True,False,False,Legbreak googly,Left-hand bat
+Hyderabad (India),AT Rayudu,70d205c9,2,34,25,4,1,136.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,62,0,16,78,39,True,False,False,Right-arm offbreak,Right-hand bat
+Hyderabad (India),PA Reddy,2461eef2,3,47,27,2,4,174.07,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,89,0,0,89,34,True,False,False,Legbreak,Right-hand bat
+Hyderabad (India),Bavanaka Sandeep,bc67cc22,4,18,15,1,1,120.0,[11],1.0,6,0,0,10,1,0,0,0,0,0,0,10.0,1,0,0,0,0,28,0,8,36,32,True,False,False,Slow left-arm orthodox,Left-hand bat
+Hyderabad (India),Mohammed Siraj,2f49c897,5,0,0,0,0,0.0,"[1, 3, 14]",3.0,18,8,0,26,2,2,1,0,0,0,1,8.67,0,0,0,0,0,0,33,0,33,31,True,False,False,Right-arm fast,Right-hand bat
+Hyderabad (India),Tilak Varma,b0482a1d,5,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,22,True,False,True,Right-arm offbreak,Left-hand bat
+Hyderabad (India),Ravi Teja,5f39537c,6,1,2,0,0,50.0,"[4, 6, 8]",3.0,18,8,0,22,3,0,1,0,0,0,0,7.33,0,0,0,0,0,1,33,0,34,30,True,True,False,Right-arm medium,Left-hand bat
+Hyderabad (India),Mehdi Hassan,5876c626,6,0,0,0,0,0.0,"[5, 7, 9]",3.0,18,12,0,11,0,1,1,0,0,0,0,3.67,0,0,0,0,0,0,43,0,43,35,True,False,False,Slow left-arm orthodox,Left-hand bat
+Hyderabad (India),CV Milind,7b5b6311,7,0,0,0,0,0.0,"[2, 13]",2.0,12,3,0,13,0,1,1,0,0,0,0,6.5,0,0,0,0,0,0,30,0,30,30,True,False,False,Left-arm medium,Left-hand bat
+Hyderabad (India),Himalay Agarwal,8e48d9a3,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,31,True,True,False,Right-arm medium-fast,Right-hand bat
+Hyderabad (India),Akash Bhandari,c2ce55cb,8,3,1,0,0,300.0,"[10, 12]",2.0,12,3,0,12,1,0,0,0,0,0,0,6.0,1,0,0,0,0,3,5,8,16,31,True,False,False,Legbreak,Right-hand bat
+Punjab,Shubman Gill,b4b99816,1,48,42,4,2,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,80,0,8,88,25,True,False,False,Right-arm offbreak,Right-hand bat
+Punjab,P Simran Singh,9418198b,2,10,14,1,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,24,True,False,False,,Right-hand bat
+Punjab,Anmolpreet Singh,1399b39c,3,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11,27,True,False,False,Right-arm offbreak,Right-hand bat
+Punjab,Gurkeerat Singh,6eb146d2,4,16,16,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24,34,True,False,False,Right-arm offbreak,Right-hand bat
+Punjab,Sandeep Sharma,ce820073,5,0,0,0,0,0.0,"[1, 3, 15, 19]",4.0,24,15,0,11,1,0,3,0,2,0,0,2.75,1,0,0,0,0,0,116,8,124,31,True,False,False,Right-arm medium,Right-hand bat
+Punjab,Mandeep Singh,c3a96caf,5,16,7,0,2,228.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28,33,True,False,True,Right-arm medium,Right-hand bat
+Punjab,S Kaul,dcf81436,6,0,0,0,0,0.0,"[2, 5, 17, 20]",4.0,24,9,0,44,3,3,3,0,2,0,0,11.0,0,0,0,0,0,0,102,0,102,34,True,False,False,Right-arm medium,Right-hand bat
+Punjab,Krishan Alang,339bda40,7,0,0,0,0,0.0,"[4, 10, 12, 18]",4.0,24,8,0,32,2,2,0,0,0,0,0,8.0,0,0,0,0,0,0,8,0,8,33,True,True,False,Right-arm offbreak,Right-hand bat
+Punjab,M Markande,a9fd84fb,8,0,0,0,0,0.0,"[6, 8, 14, 16]",4.0,24,5,0,33,1,1,0,0,0,0,1,8.25,0,0,0,0,0,0,5,0,5,27,True,False,False,Legbreak,Right-hand bat
+Punjab,Nikhil Chaudhary,1f84183a,9,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,9,0,27,3,0,1,0,0,0,1,6.75,0,0,0,0,0,0,36,0,36,28,True,False,False,Legbreak googly,Right-hand bat
+Punjab,Sharad Lumba,03c29939,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,35,True,False,False,Right-arm offbreak,Right-hand bat

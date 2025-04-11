@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bangladesh,Mohammad Naim,7923a51d,1,39,39,3,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,55,0,0,55,25,True,False,False,,Left-hand bat
+Bangladesh,Liton Das,0404d43c,2,33,29,3,1,113.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,55,0,0,55,30,True,True,False,Right-arm offbreak,Right-hand bat
+Bangladesh,Mushfiqur Rahim,a94e08ea,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,-2,0,16,14,37,True,False,False,,Right-hand bat
+Bangladesh,Shakib Al Hasan,7dc35884,4,12,7,2,0,171.43,"[3, 9, 11, 17]",4.0,24,8,0,29,1,1,2,0,1,0,0,7.25,0,0,0,0,0,20,66,0,86,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Bangladesh,Mahmudullah,bf1d7d3e,5,37,32,5,0,115.62,[8],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,0,61,2,0,63,39,True,False,True,Right-arm offbreak,Right-hand bat
+Bangladesh,Afif Hossain,37138918,6,3,3,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,25,True,False,True,Right-arm offbreak,Left-hand bat
+Bangladesh,Nurul Hasan,d365d463,7,13,9,1,0,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,17,0,12,29,31,True,False,False,,Right-hand bat
+Bangladesh,Mahedi Hasan,9dad0f2e,7,0,0,0,0,0.0,"[1, 4, 6, 16]",4.0,24,17,0,12,1,0,2,0,0,0,0,3.0,0,0,0,0,0,0,73,0,73,30,True,False,True,Right-arm offbreak,Right-hand bat
+Bangladesh,Mohammad Saifuddin,b3a28446,8,0,0,0,0,0.0,"[10, 12, 14, 19]",4.0,24,3,0,36,2,1,0,0,0,0,0,9.0,1,0,0,0,0,0,3,8,11,28,True,False,True,Right-arm medium-fast,Left-hand bat
+Bangladesh,Nasum Ahmed,37654b75,9,0,0,0,0,0.0,"[2, 5, 15]",3.0,18,11,0,17,3,0,1,0,0,0,1,5.67,0,0,0,0,0,0,40,0,40,30,True,False,True,Slow left-arm orthodox,Left-hand bat
+Bangladesh,Mustafizur Rahman,0a8fce53,10,0,0,0,0,0.0,"[7, 13, 18, 20]",4.0,24,4,0,34,3,0,0,0,0,1,1,8.5,0,0,0,0,0,0,4,0,4,29,True,False,False,Left-arm fast-medium,Left-hand bat
+New Zealand,TA Blundell,21e5f325,1,6,8,1,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,10,0,8,18,34,True,True,False,Right-arm offbreak,Right-hand bat
+New Zealand,R Ravindra,ba5e1069,2,10,9,0,1,111.11,"[8, 10, 14, 16]",4.0,24,10,0,22,1,1,3,0,1,0,0,5.5,0,0,0,0,0,16,101,0,117,25,True,False,True,Slow left-arm orthodox,Left-hand bat
+New Zealand,TWM Latham,e824e6ee,3,65,48,6,1,135.42,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,2,105,0,12,117,32,True,True,False,Right-arm medium,Left-hand bat
+New Zealand,WA Young,8afe73e2,4,22,28,3,0,78.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,34,0,8,42,32,True,False,False,Right-arm offbreak,Right-hand bat
+New Zealand,C de Grandhomme,94d7f855,5,8,10,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16,38,True,False,True,Right-arm medium-fast,Right-hand bat
+New Zealand,HM Nicholls,03521fd3,6,6,5,1,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,33,True,False,False,Right-arm offbreak,Left-hand bat
+New Zealand,CE McConchie,d285acaf,7,15,12,0,0,125.0,"[2, 7, 11, 13]",4.0,24,10,0,24,2,0,1,0,0,0,0,6.0,0,0,0,0,0,15,37,0,52,33,True,False,True,Right-arm offbreak,Right-hand bat
+New Zealand,DAJ Bracewell,2e9fdf9b,7,0,0,0,0,0.0,"[5, 15, 19]",3.0,18,3,0,30,4,0,0,0,0,0,1,10.0,0,0,0,0,0,0,1,0,1,34,True,False,False,Right-arm fast-medium,Right-hand bat
+New Zealand,AY Patel,fbd4f01f,8,0,0,0,0,0.0,"[1, 3, 9, 17]",4.0,24,12,0,20,2,0,1,0,0,0,1,5.0,0,0,0,0,0,0,41,0,41,36,True,False,False,Slow left-arm orthodox,Left-hand bat
+New Zealand,HK Bennett,94238673,9,0,0,0,0,0.0,"[4, 6, 18, 20]",4.0,24,5,0,32,3,0,1,0,0,0,0,8.0,0,0,0,0,0,0,30,0,30,38,True,False,False,Right-arm medium-fast,Left-hand bat
+New Zealand,BV Sears,e1891e00,10,0,0,0,0,0.0,[12],1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,1,0,0,0,0,0,1,8,9,27,True,False,False,Right-arm medium-fast,Right-hand bat

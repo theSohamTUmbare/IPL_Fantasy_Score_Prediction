@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Norway,Raza Iqbal,eee46f77,1,3,8,0,0,37.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,38,True,True,False,Slow left-arm orthodox,Left-hand bat
+Norway,Aminullah Tanha,4fde9ae6,2,4,3,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,20,True,False,False,,Left-hand bat
+Norway,Sher Sahak,8299b9a2,3,20,11,1,2,181.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,42,0,8,50,24,True,False,True,Right-arm medium-fast,Right-hand bat
+Norway,Vinay Ravi,9c181b99,3,0,0,0,0,0.0,"[2, 4]",2.0,12,6,0,9,1,0,0,0,0,0,1,4.5,0,0,0,0,0,0,12,0,12,35,True,False,False,Right-arm medium-fast,Right-hand bat
+Norway,RHO Saunders,60bb8160,4,14,19,2,0,73.68,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,21,True,True,False,Right-arm offbreak,Right-hand bat
+Norway,Ahmadullah Shinwari,e068d48e,4,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,12,0,15,1,1,1,0,0,0,1,5.0,0,0,0,0,0,0,41,0,41,24,True,True,False,Left-arm medium-fast,Left-hand bat
+Norway,Ansar Iqbal,9a08a863,5,12,14,1,1,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,43,True,False,True,Right-arm medium,Right-hand bat
+Norway,M Shahbaz Butt,5ef3c310,6,7,10,0,0,70.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,5,0,0,5,40,True,True,False,Legbreak,Right-hand bat
+Norway,Ali Saleem,661e8a03,7,53,37,3,4,143.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,99,0,0,99,45,True,False,False,,Right-hand bat
+Norway,Usman Arif,fccc2d5a,8,44,14,1,6,314.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,94,0,0,94,34,True,True,False,Right-arm medium-fast,Right-hand bat
+Norway,Qamar Mushtaque,fc362c5d,9,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,36,True,True,False,Right-arm medium-fast,Right-hand bat
+Switzerland,Faheem Nazir,7e00711f,1,12,9,1,1,133.33,"[9, 11, 13, 19]",4.0,24,11,0,36,0,4,0,0,0,0,1,9.0,0,0,0,0,0,22,11,0,33,41,True,True,False,Right-arm medium,Left-hand bat
+Switzerland,Sathya Narayanan,8ae49076,2,4,10,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,-2,0,8,6,44,True,False,False,,Right-hand bat
+Switzerland,Arjun Vinod,033e9d59,3,6,11,1,0,54.55,[15],1.0,6,1,0,28,1,4,0,0,0,0,0,28.0,0,0,0,0,-4,6,1,0,7,29,True,False,False,,
+Switzerland,A Andrews,1d45c01a,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,True,False,Right-arm medium,Right-hand bat
+Switzerland,Ashwin Vinod,8a99caa9,4,0,0,0,0,0.0,"[1, 3, 18]",3.0,18,7,0,37,3,3,1,0,1,0,2,12.33,2,0,0,0,0,0,34,16,50,27,True,True,False,Right-arm medium-fast,Right-hand bat
+Switzerland,Asad Mahmood,5038c022,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,33,True,True,False,Right-arm offbreak,Right-hand bat
+Switzerland,Jai Sinh,10ae134c,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,26,True,True,False,Right-arm medium-fast,Right-hand bat
+Switzerland,Ali Nayyer,4ec0443d,7,0,0,0,0,0.0,"[5, 7, 17, 20]",4.0,24,8,0,39,2,2,2,0,0,0,3,9.75,0,0,0,0,0,0,58,0,58,32,True,False,False,,
+Switzerland,K Fletcher,443d1fd8,8,0,0,0,0,0.0,"[2, 4, 6, 8]",4.0,24,13,0,19,2,0,2,0,0,0,2,4.75,0,0,0,0,0,0,69,0,69,35,True,True,False,Left-arm medium-fast,Left-hand bat
+Switzerland,NK Aneesh Kumar,e23da78c,9,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,17,1,10,1,0,2,1,0,0,0,2.5,0,0,0,0,0,0,93,0,93,41,True,True,False,Slow left-arm orthodox,Left-hand bat
+Switzerland,Azeem Nazir,9f3f532a,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,46,True,True,False,Right-arm medium-fast,Right-hand bat

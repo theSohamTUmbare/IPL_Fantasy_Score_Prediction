@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Kings XI Punjab,SE Marsh,508a1ea7,1,115,68,11,7,169.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,221,0,8,229,41,True,False,False,Slow left-arm orthodox,Left-hand bat
+Kings XI Punjab,JR Hopes,2498e163,2,51,35,7,1,145.71,"[6, 17, 19]",3.0,18,6,0,29,6,0,2,0,0,0,0,9.67,1,0,0,0,2,95,56,8,159,46,True,False,True,Right-arm medium,Right-hand bat
+Kings XI Punjab,Yuvraj Singh,1c914163,3,49,16,2,6,306.25,[12],1.0,6,0,0,20,1,2,0,0,0,0,0,20.0,0,0,0,0,6,103,0,0,103,43,True,False,False,Slow left-arm orthodox,Left-hand bat
+Kings XI Punjab,LA Pomersbach,b63ab531,4,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,40,True,False,False,Right-arm offbreak,Left-hand bat
+Kings XI Punjab,KC Sangakkara,6b71e6cf,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,47,True,True,False,Right-arm offbreak,Left-hand bat
+Kings XI Punjab,RR Powar,5d096f3d,10,0,0,0,0,0.0,[7],1.0,6,1,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,0,0,1,0,1,46,True,False,False,Right-arm offbreak,Right-hand bat
+Kings XI Punjab,PP Chawla,98ae73b1,11,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,7,0,35,0,3,3,0,1,0,0,8.75,0,0,0,0,0,0,94,0,94,36,True,False,True,Legbreak,Left-hand bat
+Kings XI Punjab,IK Pathan,5fa06777,12,0,0,0,0,0.0,"[1, 3, 5, 20]",4.0,24,17,0,10,1,0,1,0,1,0,0,2.5,1,0,0,0,0,0,56,8,64,40,True,False,True,Left-arm medium-fast,Left-hand bat
+Kings XI Punjab,VRV Singh,034b4b7d,13,0,0,0,0,0.0,"[8, 10, 16, 18]",4.0,24,7,0,32,4,0,0,0,0,0,0,8.0,0,0,0,0,0,0,7,0,7,40,True,True,False,Right-arm medium-fast,Right-hand bat
+Kings XI Punjab,S Sreesanth,6b8eb6e5,14,0,0,0,0,0.0,"[2, 4, 14]",3.0,18,5,0,44,5,3,1,0,1,0,1,14.67,0,0,0,0,0,0,32,0,32,42,True,False,False,Right-arm fast-medium,Right-hand bat
+Kings XI Punjab,WA Mota,3dba85c2,15,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,43,True,True,False,Right-arm medium,Right-hand bat
+Rajasthan Royals,M Kaif,d84378a4,1,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,44,True,False,False,Right-arm offbreak,Right-hand bat
+Rajasthan Royals,NK Patel,a2870fb7,2,57,39,10,0,146.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,107,0,0,107,44,True,False,True,,Left-hand bat
+Rajasthan Royals,Younis Khan,33cb3411,3,3,7,0,0,42.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11,47,True,False,False,Legbreak,Right-hand bat
+Rajasthan Royals,SR Watson,4329fbb5,4,22,19,1,1,115.79,"[2, 4, 6, 20]",4.0,24,10,0,40,7,1,1,0,0,0,1,10.0,0,0,0,1,0,32,33,6,71,43,True,False,True,Right-arm fast-medium,Right-hand bat
+Rajasthan Royals,YK Pathan,3c6ffae8,5,39,15,3,3,260.0,"[12, 14]",2.0,12,2,0,24,1,2,1,0,0,0,0,12.0,0,0,0,1,6,79,23,6,108,42,True,False,True,Right-arm offbreak,Right-hand bat
+Rajasthan Royals,Kamran Akmal,ff077124,6,24,8,1,3,300.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,46,0,0,46,43,True,False,False,,Right-hand bat
+Rajasthan Royals,M Rawat,de8d3876,7,23,19,2,1,121.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,37,0,0,37,39,True,False,False,,Right-hand bat
+Rajasthan Royals,D Salunkhe,0264c10e,8,6,3,1,0,200.0,"[8, 10, 16]",3.0,18,7,0,23,2,1,0,0,0,0,0,7.67,1,0,0,0,0,10,7,8,25,42,True,False,False,Legbreak,Right-hand bat
+Rajasthan Royals,SK Trivedi,3d7e087f,9,0,0,0,0,0.0,"[9, 11, 15, 18]",4.0,24,7,0,48,3,4,0,0,0,0,0,12.0,0,0,0,0,0,0,3,0,3,42,True,False,False,Right-arm medium,Right-hand bat
+Rajasthan Royals,Pankaj Singh,e32d22f6,9,1,5,0,0,20.0,"[5, 7, 17]",3.0,18,3,0,48,4,3,0,0,0,1,1,16.0,0,0,0,0,0,1,-3,0,-2,39,True,False,False,Right-arm medium-fast,Right-hand bat
+Rajasthan Royals,MM Patel,f0f628c7,10,0,0,0,0,0.0,"[1, 3, 13, 19]",4.0,24,12,0,37,3,3,0,0,0,0,1,9.25,0,0,0,0,0,0,12,0,12,41,True,False,False,Right-arm medium-fast,Right-hand bat

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Glamorgan,SE Marsh,508a1ea7,1,52,49,4,2,106.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,88,0,0,88,41,True,False,False,Slow left-arm orthodox,Left-hand bat
+Glamorgan,NJ Selman,bab08c8b,2,40,23,5,2,173.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,82,0,0,82,29,True,False,False,Right-arm medium,Right-hand bat
+Glamorgan,CA Ingram,c995d726,3,50,30,4,3,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,96,0,0,96,39,True,False,False,Legbreak,Left-hand bat
+Glamorgan,DL Lloyd,0c7f11be,4,19,11,3,0,172.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,37,0,0,37,32,True,False,True,Right-arm medium,Right-hand bat
+Glamorgan,CB Cooke,6755cd5c,5,10,6,0,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24,38,True,True,False,Right-arm slow-medium,Right-hand bat
+Glamorgan,AG Salter,1a45b864,5,0,0,0,0,0.0,"[4, 8, 10, 12]",4.0,24,6,0,37,4,1,3,0,2,0,1,9.25,0,0,0,0,0,0,101,0,101,31,True,False,False,Right-arm offbreak,Right-hand bat
+Glamorgan,RAJ Smith,6daf5e8c,6,0,0,0,0,0.0,"[2, 16]",2.0,12,3,0,22,2,1,0,0,0,0,0,11.0,0,0,0,0,0,0,1,0,1,30,True,False,False,Right-arm medium,Right-hand bat
+Glamorgan,Callum Taylor,5a42a396,6,1,1,0,0,100.0,[11],1.0,6,2,0,9,0,1,0,0,0,0,0,9.0,0,0,0,0,0,1,2,0,3,26,True,False,False,Right-arm offbreak,Right-hand bat
+Glamorgan,M de Lange,d4eef961,7,0,0,0,0,0.0,"[3, 6]",2.0,12,3,0,33,6,1,0,0,0,0,0,16.5,0,0,0,0,0,0,-3,0,-3,34,True,False,False,Right-arm fast,Right-hand bat
+Glamorgan,RI Walker,c78a879c,8,0,0,0,0,0.0,"[5, 13, 15, 17]",3.833,23,3,0,50,5,2,0,0,0,2,0,13.04,0,0,0,0,0,0,-3,0,-3,24,True,False,False,Right-arm fast-medium,Right-hand bat
+Glamorgan,P Sisodiya,dd9de7ad,9,0,0,0,0,0.0,"[1, 7, 9, 14]",4.0,24,10,0,25,3,0,0,0,0,0,0,6.25,0,0,0,0,0,0,12,0,12,26,True,False,False,Slow left-arm orthodox,Right-hand bat
+Sussex,AT Carey,69d03465,1,61,30,10,1,203.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,121,0,0,121,33,True,False,False,,Left-hand bat
+Sussex,PD Salt,3d284ca3,2,27,18,4,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,47,0,0,47,28,True,True,False,Right-arm offbreak,Right-hand bat
+Sussex,LJ Evans,1c513d54,3,45,30,4,2,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,77,0,0,77,37,True,False,False,Right-arm offbreak,Right-hand bat
+Sussex,DMW Rawlins,f1eb3c73,4,15,7,0,2,214.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,27,0,8,35,27,True,False,True,Slow left-arm orthodox,Left-hand bat
+Sussex,D Wiese,aa8d28ae,5,25,16,2,1,156.25,"[11, 15, 18, 20]",4.0,24,7,0,30,1,1,1,0,0,2,0,7.5,0,0,0,0,4,47,32,0,79,39,True,False,True,Right-arm medium-fast,Right-hand bat
+Sussex,LJ Wright,cca50cd6,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,40,True,False,False,Right-arm medium,Right-hand bat
+Sussex,CJ Jordan,ffe699c0,6,0,0,0,0,0.0,"[6, 14, 17, 19]",4.0,24,9,0,35,3,2,2,0,0,0,0,8.75,0,0,0,0,0,0,59,0,59,36,True,False,False,Right-arm fast-medium,Right-hand bat
+Sussex,OE Robinson,0f3ee070,7,0,0,0,0,0.0,"[2, 4, 16]",3.0,18,4,0,34,5,1,0,0,0,0,0,11.33,2,0,0,0,0,0,0,16,16,31,True,False,False,Right-arm medium-fast,Right-hand bat
+Sussex,WAT Beer,98eacfe5,8,0,0,0,0,0.0,"[8, 10, 12]",3.0,18,5,0,24,2,1,1,0,0,0,0,8.0,0,0,0,0,0,0,30,0,30,36,True,False,False,Legbreak,Right-hand bat
+Sussex,DR Briggs,f3abd0c9,9,0,0,0,0,0.0,"[7, 9]",2.0,12,4,0,19,2,1,0,0,0,0,0,9.5,0,0,0,0,0,0,4,0,4,33,True,False,False,Slow left-arm orthodox,Right-hand bat
+Sussex,JP Behrendorff,4933f499,10,0,0,0,0,0.0,"[1, 3, 5, 13]",4.0,24,12,0,32,3,2,0,0,0,0,0,8.0,1,0,0,0,0,0,12,8,20,34,True,False,False,Left-arm fast-medium,Right-hand bat

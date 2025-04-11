@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Australia,TM Head,12b610c2,1,33,30,5,1,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,63,0,0,63,31,True,False,False,Right-arm offbreak,Left-hand bat
+Australia,SPD Smith,30a45b23,2,4,3,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,35,True,False,False,Legbreak googly,Right-hand bat
+Australia,MW Short,a90e53ec,3,27,11,1,3,245.45,"[2, 10]",2.0,12,2,0,33,2,3,1,0,0,0,1,16.5,0,0,0,0,6,59,21,0,80,29,True,False,False,Right-arm offbreak,Right-hand bat
+Australia,GJ Maxwell,b681e71e,4,20,9,3,1,222.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,38,0,0,38,36,True,False,True,Right-arm offbreak,Right-hand bat
+Australia,JP Inglis,989889ff,5,14,8,0,1,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,20,0,8,28,30,True,False,False,,Right-hand bat
+Australia,MS Wade,afa7e784,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,37,True,True,False,Right-arm medium,Left-hand bat
+Australia,MA Starc,3fb19989,6,0,0,0,0,0.0,"[1, 8]",2.0,12,6,0,15,3,0,0,0,0,0,0,7.5,1,0,0,0,0,0,6,8,14,35,True,False,False,Left-arm fast,Left-hand bat
+Australia,TH David,f1f99156,6,8,3,0,1,266.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,29,True,False,False,Right-arm offbreak,Right-hand bat
+Australia,NT Ellis,9eb1455b,7,0,0,0,0,0.0,"[5, 9]",2.0,12,5,0,11,2,0,0,0,0,0,0,5.5,0,0,0,0,0,0,9,0,9,30,True,False,False,Right-arm fast-medium,Right-hand bat
+Australia,A Zampa,14f96089,8,0,0,0,0,0.0,"[4, 6]",2.0,12,3,0,20,2,1,1,0,0,0,0,10.0,1,0,0,0,0,0,26,8,34,32,True,False,False,Legbreak googly,Right-hand bat
+Australia,SH Johnson,83c3e8e3,9,0,0,0,0,0.0,"[3, 7]",2.0,12,3,0,10,0,0,1,0,0,0,2,5.0,0,0,0,0,0,0,32,0,32,29,True,False,False,Left-arm fast,Left-hand bat
+New Zealand,FH Allen,bf74b130,1,13,9,0,1,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,25,True,False,False,,Right-hand bat
+New Zealand,WA Young,8afe73e2,2,14,7,2,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,28,0,8,36,32,True,False,False,Right-arm offbreak,Right-hand bat
+New Zealand,TL Seifert,4663bd23,3,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,2,0,16,18,30,True,False,False,,Right-hand bat
+New Zealand,GD Phillips,9a46c4e5,4,40,24,5,2,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,80,0,0,80,28,True,False,True,Right-arm offbreak,Right-hand bat
+New Zealand,MS Chapman,7fa12533,5,17,15,2,0,113.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,30,True,False,True,Slow left-arm orthodox,Left-hand bat
+New Zealand,JA Clarkson,bed90114,5,0,0,0,0,0.0,[9],1.0,6,1,0,8,1,0,1,0,0,0,0,8.0,0,0,0,0,0,0,26,0,26,28,True,False,True,Right-arm medium,Right-hand bat
+New Zealand,MJ Santner,e4a0deae,6,0,0,0,0,0.0,"[8, 10]",2.0,12,5,0,16,1,1,1,0,0,0,1,8.0,0,0,0,0,0,0,30,0,30,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+New Zealand,AF Milne,350bb1b1,7,0,0,0,0,0.0,"[2, 5]",2.0,12,5,0,20,1,2,1,0,0,0,0,10.0,0,0,0,0,0,0,28,0,28,32,True,False,False,Right-arm fast,Right-hand bat
+New Zealand,IS Sodhi,641ac5ff,8,0,0,0,0,0.0,"[7, 11]",1.667,10,2,0,22,1,2,0,0,0,0,0,13.2,1,0,0,0,0,0,2,8,10,32,True,False,False,Legbreak,Right-hand bat
+New Zealand,TA Boult,a818c1be,9,0,0,0,0,0.0,"[1, 3]",2.0,12,4,0,24,4,1,0,0,0,0,0,12.0,0,0,0,0,0,0,0,0,0,35,True,False,False,Left-arm fast-medium,Right-hand bat
+New Zealand,BV Sears,e1891e00,10,0,0,0,0,0.0,"[4, 6]",2.0,12,6,0,22,2,1,1,0,0,0,5,11.0,0,0,0,0,0,0,29,0,29,27,True,False,False,Right-arm medium-fast,Right-hand bat

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Kuwait,CV Anto,c01ca5af,1,34,15,3,3,226.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,74,0,0,74,30,True,False,False,,Right-hand bat
+Kuwait,R Sandaruwan,cf6acc0d,2,23,12,3,1,191.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,6,47,0,12,59,32,True,False,False,Right-arm offbreak,Right-hand bat
+Kuwait,Meet Bhavsar,b25a3800,3,29,26,2,1,111.54,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,47,0,8,55,20,True,False,False,,Left-hand bat
+Kuwait,Adnan Idrees,0e34c23a,4,0,2,0,0,0.0,"[8, 10, 12, 14]",4.0,24,8,0,31,1,2,2,0,0,0,0,7.75,0,0,0,0,0,-2,58,0,56,34,True,False,True,Legbreak,Right-hand bat
+Kuwait,Usman Patel,415c6ccf,5,5,7,0,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,5,0,6,11,34,True,False,False,,Right-hand bat
+Kuwait,Yasin Patel,ecdd8d60,6,8,12,0,0,66.67,"[1, 3, 5, 17]",4.0,24,9,0,41,5,2,1,0,0,0,0,10.25,2,0,0,2,-2,6,32,28,66,27,True,False,False,Slow left-arm orthodox,Left-hand bat
+Kuwait,Bilal Tahir,3cf06094,7,33,25,3,1,132.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,57,0,0,57,26,True,False,False,,Left-hand bat
+Kuwait,MNM Aslam,20481563,8,3,6,0,0,50.0,"[15, 19]",2.0,12,2,0,32,0,3,2,0,1,0,4,16.0,0,0,0,0,0,3,54,0,57,34,True,False,True,Left-arm slow,Right-hand bat
+Kuwait,Sayed Monib,b9cfb0b1,9,1,2,0,0,50.0,"[16, 18]",2.0,12,2,0,43,4,2,0,0,0,4,1,21.5,2,0,0,0,0,1,-4,16,13,32,True,False,False,Right-arm medium,Right-hand bat
+Kuwait,Nimish Lathief,b561e8ea,10,6,8,1,0,75.0,"[7, 9, 11, 13]",4.0,24,9,0,25,2,1,1,0,0,0,0,6.25,0,0,0,0,0,10,36,0,46,36,True,False,True,Right-arm offbreak,Left-hand bat
+Kuwait,Ilyas Ahmed,42a01b52,11,3,5,0,0,60.0,"[2, 4, 6, 20]",4.0,24,12,0,27,3,1,0,0,0,0,0,6.75,0,0,0,1,0,3,14,6,23,34,True,True,False,Left-arm medium,Left-hand bat
+Oman,KH Prajapati,c4e73ff1,1,5,5,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17,29,True,False,False,Right-arm offbreak,Right-hand bat
+Oman,Naseem Khushi,c63671e9,2,13,9,3,0,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,42,True,False,False,,Right-hand bat
+Oman,Aqib Ilyas,b3b39bed,3,34,32,2,2,106.25,"[7, 9, 12, 14]",4.0,24,11,0,14,0,0,3,1,0,0,0,3.5,0,0,0,0,0,58,104,0,162,32,True,False,False,Legbreak googly,Right-hand bat
+Oman,Zeeshan Maqsood,34464143,4,35,24,3,2,145.83,"[8, 10, 16, 18]",4.0,24,10,0,29,1,1,4,1,1,0,5,7.25,0,0,0,0,2,65,134,0,199,37,True,False,False,Slow left-arm orthodox,Left-hand bat
+Oman,Khalid Kail,3ee90b67,5,15,11,0,1,136.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,23,0,0,23,28,True,False,False,,Right-hand bat
+Oman,Ayan Khan,44d6a8b8,6,45,19,2,4,236.84,[15],1.0,6,0,0,18,2,1,0,0,0,0,1,18.0,0,0,0,0,6,87,0,0,87,32,True,False,True,Slow left-arm orthodox,Left-hand bat
+Oman,PS Athavale,c2f12310,7,15,8,0,1,187.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,2,0,0,0,21,0,32,53,27,True,True,False,Right-arm offbreak,Right-hand bat
+Oman,Rafiullah,369cc49c,8,23,9,3,1,255.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,41,0,0,41,28,True,False,False,Right-arm medium,Right-hand bat
+Oman,Shakeel Ahmed,e29e9c12,9,0,1,0,0,0.0,"[4, 6, 11, 13]",4.0,24,11,0,21,2,0,1,0,1,1,0,5.25,0,0,0,0,0,-2,48,0,46,37,True,False,False,Slow left-arm orthodox,Left-hand bat
+Oman,Fayyaz Butt,bd9fbd51,10,5,2,1,0,250.0,"[2, 5, 20]",3.0,18,9,0,35,5,2,1,0,0,0,0,11.67,1,0,0,0,0,9,30,8,47,31,True,False,False,Right-arm medium-fast,Right-hand bat
+Oman,Bilal Khan,dcdb87f2,11,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,5,0,36,2,2,0,0,0,0,1,9.0,0,0,0,0,0,0,5,0,5,37,True,False,False,Left-arm medium-fast,Left-hand bat

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Lancashire,AL Davies,29ede60b,1,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,30,True,False,False,,Right-hand bat
+Lancashire,LS Livingstone,50c6bc2b,2,69,43,5,4,160.47,"[8, 10, 14, 17]",4.0,24,6,0,36,2,2,1,1,0,0,1,9.0,0,0,0,0,4,125,39,0,164,31,True,False,True,Legbreak,Right-hand bat
+Lancashire,SJ Croft,ab474682,3,58,45,3,3,128.89,[1],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,0,96,2,0,98,40,True,False,True,Right-arm offbreak,Right-hand bat
+Lancashire,DJ Vilas,087210b1,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,39,True,False,False,,Right-hand bat
+Lancashire,RP Jones,ad8cb396,5,8,8,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20,29,True,False,False,Legbreak,Right-hand bat
+Lancashire,GID Lavelle,c2988809,6,6,8,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6,25,True,False,False,,Right-hand bat
+Lancashire,DJ Lamb,27c5a793,7,16,10,2,0,160.0,"[4, 12]",2.0,12,3,0,15,1,0,1,0,0,0,1,7.5,0,0,0,0,4,28,28,0,56,29,True,False,True,Right-arm medium-fast,Right-hand bat
+Lancashire,L Wood,65b6943c,8,2,2,0,0,100.0,"[3, 5]",2.0,12,3,0,29,2,2,0,0,0,0,2,14.5,0,0,0,0,0,2,-3,0,-1,29,True,False,False,Left-arm fast-medium,Left-hand bat
+Lancashire,TW Hartley,22b98d7c,8,0,0,0,0,0.0,"[7, 13, 16, 18]",4.0,24,6,0,24,2,0,0,0,0,0,0,6.0,0,0,0,0,0,0,8,0,8,25,True,False,False,Slow left-arm orthodox,Left-hand bat
+Lancashire,S Mahmood,0f6db197,9,0,0,0,0,0.0,"[2, 6, 20]",3.0,18,8,0,20,3,0,0,0,0,0,1,6.67,0,0,0,0,0,0,10,0,10,28,True,False,False,Right-arm fast-medium,Right-hand bat
+Lancashire,MW Parkinson,19708692,10,0,0,0,0,0.0,"[9, 11, 15, 19]",4.0,24,7,0,27,3,0,1,0,0,0,0,6.75,0,0,0,0,0,0,34,0,34,28,True,False,False,Legbreak,Right-hand bat
+Yorkshire,A Lyth,70b8fd28,1,45,36,2,2,125.0,"[2, 4, 6]",3.0,18,3,0,18,1,0,0,0,0,0,0,6.0,0,0,0,0,0,69,5,0,74,37,True,False,False,Right-arm offbreak,Left-hand bat
+Yorkshire,DJ Malan,ad9c32a2,2,8,11,1,0,72.73,"[7, 9]",2.0,12,5,0,16,1,1,0,0,0,0,1,8.0,0,0,0,0,0,12,5,0,17,37,True,False,False,Legbreak,Left-hand bat
+Yorkshire,JE Root,a343262c,3,64,39,8,1,164.1,"[13, 16, 18, 20]",4.0,24,9,0,25,1,1,2,0,0,0,0,6.25,0,0,0,0,4,114,61,0,175,34,True,False,False,Right-arm offbreak,Right-hand bat
+Yorkshire,HC Brook,4ae1755b,4,15,11,1,1,136.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,27,0,16,43,26,True,False,False,Right-arm medium,Right-hand bat
+Yorkshire,WAR Fraine,e3bc992b,5,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,28,True,False,True,Right-arm medium,Right-hand bat
+Yorkshire,JA Tattersall,793977d8,6,16,13,2,0,123.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,24,0,20,44,30,True,True,False,Legbreak,Right-hand bat
+Yorkshire,JA Thompson,1d2f290a,7,1,4,0,0,25.0,"[3, 5, 15]",3.0,18,7,0,32,3,2,2,0,0,0,1,10.67,1,0,0,0,0,1,55,8,64,28,True,False,True,Right-arm medium-fast,Left-hand bat
+Yorkshire,D Olivier,a8e56914,8,0,0,0,0,0.0,"[1, 11, 17, 19]",4.0,24,8,0,33,3,1,2,0,0,0,1,8.25,0,0,0,0,0,0,58,0,58,32,True,False,False,Right-arm fast-medium,Right-hand bat
+Yorkshire,ML Revis,28217d89,8,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,23,True,False,False,Right-arm medium-fast,Right-hand bat
+Yorkshire,JW Shutt,ec33b21a,9,0,0,0,0,0.0,"[12, 14]",2.0,12,0,0,26,2,1,0,0,0,0,1,13.0,1,0,0,0,0,0,-6,8,2,27,True,False,False,Right-arm offbreak,Right-hand bat
+Yorkshire,SA Wisniewski,5f6eccd1,10,0,0,0,0,0.0,"[8, 10]",2.0,12,4,0,15,0,1,0,0,0,0,0,7.5,0,0,0,0,0,0,4,0,4,23,True,False,False,Left-arm wrist-spin,Left-hand bat

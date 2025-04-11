@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Australia,AC Gilchrist,2b6e6dec,1,12,5,3,0,240.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,24,0,16,40,53,True,True,False,Right-arm offbreak,Left-hand bat
+Australia,ML Hayden,d8699ab7,2,17,19,1,2,89.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33,53,True,False,False,Right-arm medium,Left-hand bat
+Australia,RT Ponting,7d415ea5,3,76,53,13,0,143.4,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,142,0,8,150,50,True,False,False,Right-arm medium,Right-hand bat
+Australia,A Symonds,bd77eb62,4,20,18,1,0,111.11,"[8, 10, 12]",3.0,18,2,0,26,3,0,0,0,0,0,0,8.67,0,0,0,0,0,24,2,0,26,46,True,False,True,Right-arm offbreak,Right-hand bat
+Australia,B Lee,dd09ff8e,5,0,0,0,0,0.0,"[1, 3, 5, 19]",3.167,19,7,0,35,4,1,1,0,0,1,1,11.05,0,0,0,0,0,0,28,0,28,48,True,False,False,Right-arm fast,Right-hand bat
+Australia,BJ Hodge,b57f8a9a,5,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,50,True,False,False,Right-arm offbreak,Right-hand bat
+Australia,MJ Clarke,f842c2cf,6,25,15,2,0,166.67,"[11, 13]",2.0,12,5,0,14,0,1,1,0,0,0,1,7.0,0,0,0,0,4,41,32,0,73,43,True,False,False,Slow left-arm orthodox,Right-hand bat
+Australia,BW Hilfenhaus,f3171936,6,0,0,0,0,0.0,"[4, 6, 16, 18]",4.0,24,11,0,28,3,1,1,0,0,2,0,7.0,0,0,0,0,0,0,38,0,38,42,True,False,False,Right-arm fast-medium,Right-hand bat
+Australia,NW Bracken,4c61a0f9,7,0,0,0,0,0.0,"[2, 14]",2.0,12,6,0,19,3,0,0,0,0,0,1,9.5,0,0,0,0,0,0,6,0,6,47,True,False,False,Left-arm fast-medium,Right-hand bat
+Australia,BJ Haddin,b0c772ee,7,5,4,0,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,47,True,False,False,,Right-hand bat
+Australia,SR Clark,a3bfec5d,8,0,0,0,0,0.0,"[7, 9, 15, 17]",4.0,24,9,0,33,1,2,0,0,0,0,6,8.25,0,0,0,0,0,0,9,0,9,,,,,,
+India,G Gambhir,bb345e0b,1,63,51,6,1,123.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,101,0,0,101,43,True,False,False,Legbreak,Left-hand bat
+India,V Sehwag,8ba8195d,2,5,4,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,46,True,False,False,Right-arm offbreak,Right-hand bat
+India,RV Uthappa,1c17e270,3,35,24,6,0,145.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,65,0,0,65,39,True,False,False,Right-arm medium,Right-hand bat
+India,Yuvraj Singh,1c914163,4,31,25,1,3,124.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,57,0,6,63,43,True,False,False,Slow left-arm orthodox,Left-hand bat
+India,RG Sharma,740742ef,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,37,True,False,False,Right-arm offbreak,Right-hand bat
+India,MS Dhoni,4a8a2e3b,5,9,5,0,1,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15,43,True,True,False,Right-arm medium,Right-hand bat
+India,IK Pathan,5fa06777,6,0,0,0,0,0.0,"[6, 11, 15, 19]",4.0,24,6,0,34,5,0,2,0,2,0,0,8.5,0,0,0,0,0,0,72,0,72,40,True,False,True,Left-arm medium-fast,Left-hand bat
+India,M Kartik,abfeb126,7,0,0,0,0,0.0,"[8, 10, 12, 16]",4.0,24,5,0,27,2,0,0,0,0,0,0,6.75,0,0,0,0,0,0,7,0,7,48,True,False,False,Slow left-arm orthodox,Left-hand bat
+India,Harbhajan Singh,8b5b6769,8,0,0,0,0,0.0,"[7, 9, 14, 17]",4.0,24,9,0,17,0,0,1,0,1,0,0,4.25,0,0,0,1,0,0,48,6,54,44,True,False,False,Right-arm offbreak,Right-hand bat
+India,RP Singh,c3d1402f,9,0,0,0,0,0.0,"[1, 3, 5, 20]",4.0,24,11,0,39,6,1,1,0,1,0,1,9.75,0,0,0,0,0,0,44,0,44,39,True,False,False,Left-arm fast-medium,Right-hand bat
+India,S Sreesanth,6b8eb6e5,10,0,0,0,0,0.0,"[2, 4, 13, 18]",4.0,24,11,0,47,7,1,0,0,0,0,6,11.75,0,0,0,0,0,0,7,0,7,42,True,False,False,Right-arm fast-medium,Right-hand bat

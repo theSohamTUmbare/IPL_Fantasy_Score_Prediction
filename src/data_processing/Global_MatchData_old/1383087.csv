@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Denmark,ND Laegsgaard,b0f2d3bd,1,1,8,0,0,12.5,"[2, 4, 19]",3.0,18,7,0,23,2,0,3,0,1,0,4,7.67,1,0,0,0,0,1,94,8,103,28,True,True,False,Slow left-arm orthodox,Left-hand bat
+Denmark,HAM Shah,007113d7,2,0,3,0,0,0.0,"[12, 14, 16]",3.0,18,8,0,22,1,1,2,0,0,0,1,7.33,1,0,0,0,0,-2,58,8,64,32,True,True,False,Right-arm offbreak,Right-hand bat
+Denmark,T Bharaj,49556abb,3,45,35,3,1,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,67,0,28,95,32,True,True,False,Right-arm offbreak,Right-hand bat
+Denmark,SA Ahmad,8de618ab,4,46,36,6,0,127.78,"[6, 8, 15, 17]",4.0,24,12,0,22,1,1,2,0,0,0,1,5.5,0,0,0,0,0,74,66,0,140,26,True,True,False,Right-arm offbreak,Left-hand bat
+Denmark,S Thanikaithasan,498aacac,5,11,12,0,0,91.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19,26,True,True,False,Legbreak googly,Right-hand bat
+Denmark,Abdullah Mahmood,926c6d3c,6,6,9,0,0,66.67,[10],1.0,6,1,0,12,0,1,0,0,0,0,0,12.0,0,0,0,0,0,6,1,0,7,22,True,True,False,Right-arm offbreak,Right-hand bat
+Denmark,Musa Shaheen,6709b2de,7,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,3,0,16,19,21,True,True,False,Right-arm medium-fast,Right-hand bat
+Denmark,Surya Anand,ef141f36,8,10,10,1,0,100.0,"[1, 3]",2.0,12,3,0,27,2,1,0,0,0,0,1,13.5,0,0,0,0,0,14,-3,0,11,27,True,True,False,Right-arm medium,Right-hand bat
+Denmark,E Karimi,95bd9407,9,0,0,0,0,0.0,"[5, 7, 13]",3.0,18,5,0,31,2,2,2,0,1,0,1,10.33,0,0,0,0,0,0,61,0,61,20,True,True,False,Slow left-arm orthodox,Right-hand bat
+Denmark,Lucky Ali,28b032ac,9,3,3,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,21,True,True,False,Slow left-arm orthodox,Left-hand bat
+Denmark,Saud Munir,5902f2eb,10,0,0,0,0,0.0,"[9, 11, 18, 20]",4.0,24,8,0,21,0,0,1,0,0,0,0,5.25,0,0,0,0,0,0,37,0,37,26,True,True,False,Right-arm medium,Right-hand bat
+Jersey,JAD Lawrenson,c810b349,1,17,15,1,0,113.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21,22,True,True,False,Right-arm offbreak,Right-hand bat
+Jersey,NA Greenwood,7ca68967,2,43,17,4,3,252.94,"[7, 10, 13, 16]",4.0,24,7,0,24,2,0,0,0,0,0,0,6.0,0,0,0,0,6,87,9,0,96,25,True,False,False,,Right-hand bat
+Jersey,JW Jenner,32a8161e,3,10,10,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,14,0,6,20,27,True,True,False,Right-arm offbreak,Right-hand bat
+Jersey,C Brennan,80f9fd4f,4,43,30,1,3,143.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,71,0,8,79,19,True,True,False,Right-arm medium-fast,Right-hand bat
+Jersey,AM Tribe,86f84b37,5,18,20,1,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,0,22,0,12,34,21,True,False,False,Right-arm offbreak,Right-hand bat
+Jersey,ZM Tribe,96fe3e9f,6,10,13,0,0,76.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,23,True,False,False,Legbreak googly,Right-hand bat
+Jersey,PB Gouge,fe2432c4,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,22,True,True,False,Legbreak googly,Right-hand bat
+Jersey,J Sumerauer,0b581ed6,8,4,7,0,0,57.14,"[2, 4, 11, 17]",4.0,24,6,0,37,4,1,1,0,1,0,0,9.25,0,0,0,1,0,4,39,6,49,24,True,True,False,Right-arm fast-medium,Right-hand bat
+Jersey,CW Perchard,9f998ed8,9,0,1,0,0,0.0,"[5, 8, 14, 20]",4.0,24,7,0,22,1,0,0,0,0,0,0,5.5,0,0,0,0,0,-2,11,0,9,32,True,True,False,Right-arm medium,Right-hand bat
+Jersey,EJB Miles,6b46ce43,10,0,1,0,0,0.0,"[3, 6, 12, 18]",4.0,24,9,0,26,2,0,2,1,1,0,5,6.5,1,0,0,0,0,-2,77,8,83,27,True,True,False,Slow left-arm orthodox,Right-hand bat
+Jersey,RJG Palmer,bc6f8328,11,5,5,0,0,100.0,"[1, 9, 15, 19]",4.0,24,9,0,21,1,0,2,0,0,0,0,5.25,0,0,0,0,0,5,63,0,68,29,True,True,False,Right-arm offbreak,Right-hand bat

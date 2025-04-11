@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Khulna Tigers,Anamul Haque,72b245dd,1,0,7,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,32,True,False,False,,Right-hand bat
+Khulna Tigers,E Lewis,0ebfb1ad,2,37,25,3,3,148.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,73,0,0,73,33,True,False,False,,Left-hand bat
+Khulna Tigers,Mahmudul Hasan Joy,4b51bd51,3,7,11,0,0,63.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,5,0,8,13,24,True,False,False,,Right-hand bat
+Khulna Tigers,Afif Hossain,37138918,4,4,6,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12,25,True,False,True,Right-arm offbreak,Left-hand bat
+Khulna Tigers,MD Shanaka,3ff033bb,5,40,33,5,1,121.21,"[10, 15, 18]",3.0,18,8,0,16,2,0,4,0,0,0,0,5.33,0,0,1,0,0,70,120,12,202,33,True,False,True,Right-arm medium,Right-hand bat
+Khulna Tigers,Mohammad Nawaz,3086f7a4,6,55,34,5,3,161.76,"[4, 11]",2.0,12,5,0,13,0,1,2,0,1,0,1,6.5,0,0,0,0,4,105,65,0,170,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Khulna Tigers,Mohammad Wasim,9e9af5f2,7,7,3,1,0,233.33,"[2, 12, 17, 19]",3.667,22,12,0,31,3,2,2,1,0,0,1,8.45,0,0,0,0,0,11,70,0,81,23,True,False,False,Right-arm fast-medium,Right-hand bat
+Khulna Tigers,Habibur Rahman,cee2fbd8,8,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,37,True,False,True,Right-arm offbreak,Right-hand bat
+Khulna Tigers,Mukidul Islam,a699488a,11,0,0,0,0,0.0,"[8, 14, 16]",3.0,18,4,0,29,4,0,0,0,0,0,2,9.67,2,0,0,0,0,0,4,16,20,24,True,False,False,Right-arm medium-fast,Right-hand bat
+Khulna Tigers,Nahidul Islam,8c7b16c8,12,0,0,0,0,0.0,"[1, 5, 7]",3.0,18,6,0,16,1,0,0,0,0,0,1,5.33,1,0,0,0,0,0,10,8,18,31,True,False,True,Right-arm offbreak,Right-hand bat
+Khulna Tigers,Nasum Ahmed,37654b75,13,0,0,0,0,0.0,"[3, 6, 9, 13]",4.0,24,9,0,25,3,0,1,0,0,0,0,6.25,0,0,0,0,0,0,36,0,36,30,True,False,True,Slow left-arm orthodox,Left-hand bat
+Rangpur Riders,Rony Talukdar,8bd614b2,1,15,25,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,-2,13,0,16,29,34,True,False,False,Right-arm slow-medium,Right-hand bat
+Rangpur Riders,Babar Azam,8a75e999,2,2,8,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,30,True,False,False,Right-arm offbreak,Right-hand bat
+Rangpur Riders,BA King,7fca84b7,3,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,30,True,False,False,,Right-hand bat
+Rangpur Riders,Shamim Hossain,711249d1,4,30,22,4,0,136.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,52,0,0,52,24,True,False,True,Right-arm offbreak,Left-hand bat
+Rangpur Riders,Mohammad Nabi,62af8546,5,50,30,4,3,166.67,[7],1.0,6,4,0,7,1,0,0,0,0,0,1,7.0,0,0,0,0,4,96,4,0,100,40,True,False,True,Right-arm offbreak,Right-hand bat
+Rangpur Riders,Azmatullah Omarzai,8f6dd463,6,4,3,1,0,133.33,"[1, 3, 5, 18]",4.0,24,11,0,41,4,3,0,0,0,0,2,10.25,0,0,0,0,0,8,9,0,17,25,True,False,True,Right-arm medium-fast,Right-hand bat
+Rangpur Riders,Nurul Hasan,d365d463,7,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,1,0,16,17,31,True,False,False,,Right-hand bat
+Rangpur Riders,Shakib Al Hasan,7dc35884,8,2,4,0,0,50.0,"[9, 11, 13, 15]",4.0,24,10,0,21,2,0,0,0,0,0,0,5.25,0,0,0,0,0,2,14,0,16,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Rangpur Riders,Mahedi Hasan,9dad0f2e,9,12,8,2,0,150.0,"[2, 4, 6, 12]",4.0,24,13,0,20,1,0,2,0,0,0,3,5.0,0,0,0,0,0,20,67,0,87,30,True,False,True,Right-arm offbreak,Right-hand bat
+Rangpur Riders,R Mondol,492ff0c2,10,8,3,2,0,266.67,"[14, 16, 20]",3.0,18,5,0,41,4,3,1,0,0,0,1,13.67,0,0,0,0,0,16,24,0,40,22,True,False,False,Right-arm medium,Right-hand bat
+Rangpur Riders,Hasan Mahmud,80ad39ac,11,0,1,0,0,0.0,"[8, 10, 17, 19]",4.0,24,9,0,29,2,1,3,0,1,0,1,7.25,0,0,0,0,0,0,96,0,96,25,True,False,False,Right-arm fast-medium,Right-hand bat

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Perth Scorchers,SE Marsh,508a1ea7,1,73,58,3,3,125.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,111,0,0,111,41,True,False,False,Slow left-arm orthodox,Left-hand bat
+Perth Scorchers,M Klinger,b970a03f,2,33,37,4,0,89.19,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,53,0,0,53,44,True,False,False,,Right-hand bat
+Perth Scorchers,AC Voges,864c199e,3,20,12,1,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,28,0,0,28,45,True,False,False,Slow left-arm orthodox,Right-hand bat
+Perth Scorchers,MA Carberry,8305580c,4,9,7,1,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,44,True,False,False,Right-arm offbreak,Left-hand bat
+Perth Scorchers,AJ Turner,ff1e12a0,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,-2,0,6,4,32,True,False,False,Right-arm offbreak,Right-hand bat
+Perth Scorchers,NM Coulter-Nile,56ab442f,6,7,3,0,1,233.33,"[2, 4, 13, 18]",4.0,24,9,0,32,4,0,1,0,1,0,4,8.0,0,0,0,0,0,13,42,0,55,37,True,False,True,Right-arm fast,Right-hand bat
+Perth Scorchers,SM Whiteman,f4427cc6,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,-2,0,6,4,33,True,False,False,,Left-hand bat
+Perth Scorchers,Yasir Arafat,3cf5ae43,8,1,1,0,0,100.0,"[7, 9, 16, 20]",4.0,24,5,0,37,3,1,1,0,1,0,0,9.25,0,0,0,0,0,1,38,0,39,43,True,False,True,Right-arm fast-medium,Right-hand bat
+Perth Scorchers,GB Hogg,f708a0bc,8,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,7,0,25,1,0,1,0,1,0,0,6.25,0,0,0,0,0,0,42,0,42,54,True,False,True,Left-arm wrist-spin,Left-hand bat
+Perth Scorchers,AJ Tye,7c7d63a2,9,0,0,0,0,0.0,"[6, 11, 17, 19]",4.0,24,5,0,31,2,1,0,0,0,0,0,7.75,0,0,0,0,0,0,5,0,5,38,True,False,False,Right-arm medium-fast,Right-hand bat
+Perth Scorchers,JP Behrendorff,4933f499,10,0,0,0,0,0.0,"[1, 3, 5, 15]",4.0,24,11,0,19,1,0,1,0,1,0,1,4.75,0,0,0,0,0,0,50,0,50,34,True,False,False,Left-arm fast-medium,Right-hand bat
+Sydney Sixers,MJ Lumb,11df3dc8,1,3,8,0,0,37.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,45,True,False,False,Right-arm medium,Left-hand bat
+Sydney Sixers,MH Wessels,90f47cf2,2,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,39,True,False,False,,Right-hand bat
+Sydney Sixers,NJ Maddinson,44afbf2d,3,19,22,2,0,86.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27,33,True,False,False,Slow left-arm orthodox,Left-hand bat
+Sydney Sixers,MC Henriques,32198ae0,4,77,57,5,2,135.09,"[8, 11, 13, 15]",4.0,24,9,0,21,1,0,0,0,0,0,0,5.25,0,0,0,0,2,123,13,0,136,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Sydney Sixers,JC Silk,7a6dc294,5,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,32,True,False,False,,Right-hand bat
+Sydney Sixers,RGL Carters,f54c8804,6,35,25,4,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,57,0,8,65,34,True,False,False,,Right-hand bat
+Sydney Sixers,SA Abbott,1a2676c5,8,0,0,0,0,0.0,"[2, 14, 16]",3.0,18,3,0,26,2,0,0,0,0,1,0,8.67,3,0,0,0,0,0,3,28,31,33,True,False,True,Right-arm fast-medium,Right-hand bat
+Sydney Sixers,SNJ O'Keefe,3540beff,9,0,0,0,0,0.0,"[7, 9]",2.0,12,4,0,13,0,0,0,0,0,0,0,6.5,0,0,0,0,0,0,6,0,6,40,True,False,True,Slow left-arm orthodox,Right-hand bat
+Sydney Sixers,NM Lyon,96a6a7ad,10,0,0,0,0,0.0,"[3, 5, 10, 19]",4.0,24,9,0,34,3,2,2,0,0,0,0,8.5,0,0,0,0,0,0,59,0,59,37,True,False,False,Right-arm offbreak,Right-hand bat
+Sydney Sixers,B Lee,dd09ff8e,11,0,0,0,0,0.0,"[1, 12, 18, 20]",4.0,24,12,0,25,1,1,3,0,2,1,1,6.25,0,0,0,0,0,0,109,0,109,48,True,False,False,Right-arm fast,Right-hand bat
+Sydney Sixers,DE Bollinger,45c2196c,12,0,0,0,0,0.0,"[4, 6, 17]",3.0,18,3,0,27,2,1,1,0,0,0,0,9.0,0,0,0,0,0,0,28,0,28,43,True,False,False,Left-arm fast-medium,Left-hand bat

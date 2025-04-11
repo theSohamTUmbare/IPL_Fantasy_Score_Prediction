@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Malaysia,Virandeep Singh,415d30b6,1,34,36,5,0,94.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,58,0,8,66,26,True,False,True,Slow left-arm orthodox,Right-hand bat
+Malaysia,Anwar Arudin,6d24561a,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,40,True,True,False,Right-arm medium-fast,Left-hand bat
+Malaysia,Ainool Hafizs,1bada9da,3,21,22,1,1,95.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31,29,True,False,False,Right-arm medium,Right-hand bat
+Malaysia,Mohamed Arief,1087dd78,4,28,22,2,1,127.27,[7],1.0,6,1,0,13,1,1,0,0,0,0,0,13.0,0,0,0,0,0,46,1,0,47,37,True,True,False,Right-arm medium,Right-hand bat
+Malaysia,S Muniandy,57fcfd3b,5,8,6,0,1,133.33,"[10, 12, 18, 20]",4.0,24,8,0,26,2,0,2,1,1,0,2,6.5,0,0,0,0,0,14,76,0,90,29,True,False,False,Right-arm medium,Right-hand bat
+Malaysia,Zubaidi Zulkifle,dca8273d,6,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,25,True,False,False,Right-arm medium,Right-hand bat
+Malaysia,Nazril Rahman,6d5bdc43,7,24,20,1,0,120.0,"[5, 8, 14, 16]",4.0,24,5,0,48,1,5,1,0,1,0,0,12.0,0,0,0,0,0,28,34,0,62,32,True,True,False,Right-arm medium,Right-hand bat
+Malaysia,Fitri Sham,d2ec068c,8,2,3,0,0,66.67,"[2, 6, 11, 13]",4.0,24,9,0,39,4,2,0,0,0,0,0,9.75,0,0,0,0,0,2,9,0,11,31,True,True,False,Slow left-arm orthodox,Left-hand bat
+Malaysia,Syazrul Idrus,6dba59e0,9,9,8,1,0,112.5,"[1, 3, 19]",3.0,18,7,0,33,4,2,1,0,0,0,0,11.0,0,0,0,0,0,13,30,0,43,34,True,False,False,Right-arm medium,Right-hand bat
+Malaysia,Ainool Haqqiem,349cf113,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,25,True,False,False,,Right-hand bat
+Malaysia,Pavandeep Singh,78fcc740,10,0,0,0,0,0.0,"[4, 9, 15, 17]",4.0,24,10,0,27,1,2,1,0,0,0,0,6.75,0,0,0,0,0,0,37,0,37,27,True,False,False,Slow left-arm orthodox,Right-hand bat
+Vanuatu,J Rasu,1021b6e5,1,11,16,1,0,68.75,[20],1.0,6,2,0,8,1,0,0,0,0,0,0,8.0,1,0,0,0,-2,13,2,8,23,30,True,True,False,Right-arm medium,Right-hand bat
+Vanuatu,A Mansale,a22b4f3f,2,0,4,0,0,0.0,"[15, 17, 19]",3.0,18,6,0,20,2,0,1,0,0,0,1,6.67,0,0,0,0,0,-2,33,0,31,36,True,True,False,Right-arm offbreak,Right-hand bat
+Vanuatu,PK Matautaava,af19aa66,3,103,52,9,7,198.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,203,0,0,203,33,True,True,False,Right-arm medium,Right-hand bat
+Vanuatu,N Nipiko,c498c510,4,43,28,1,4,153.57,"[1, 6]",2.0,12,6,0,12,1,0,1,0,0,0,2,6.0,0,0,0,0,4,79,33,0,112,29,True,True,False,Right-arm medium,Right-hand bat
+Vanuatu,C Tommy,c6d4cff0,5,7,8,0,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,7,0,8,15,27,True,False,False,,Right-hand bat
+Vanuatu,R Tari,c4d19735,6,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,31,True,True,False,Right-arm medium,Right-hand bat
+Vanuatu,J Vira,2090e94d,7,19,9,2,1,211.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,33,0,8,41,30,True,False,False,,Right-hand bat
+Vanuatu,W Viraliliu,a89730a9,8,1,1,0,0,100.0,"[3, 5]",2.0,12,8,0,14,3,0,0,0,0,0,1,7.0,0,0,0,0,0,1,10,0,11,26,True,True,False,Right-arm medium-fast,Right-hand bat
+Vanuatu,JW Chilia,479da8f9,9,0,0,0,0,0.0,"[2, 4, 8, 10]",4.0,24,12,0,21,1,1,1,0,1,0,0,5.25,2,0,0,0,0,0,49,16,65,33,True,True,False,Right-arm offbreak,Right-hand bat
+Vanuatu,W Nalisa,673be48f,10,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,11,0,39,2,2,1,0,1,0,7,9.75,0,0,0,0,0,0,44,0,44,25,True,True,False,Legbreak googly,Right-hand bat
+Vanuatu,SH Obed,f49c401e,11,0,0,0,0,0.0,"[12, 14, 16, 18]",4.0,24,5,0,23,0,0,3,0,0,0,0,5.75,0,0,0,0,0,0,88,0,88,35,True,True,False,Legbreak,Right-hand bat

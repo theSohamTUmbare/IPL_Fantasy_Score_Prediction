@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Chennai Super Kings,RV Uthappa,1c17e270,1,50,27,8,1,185.19,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,102,0,0,102,39,True,False,False,Right-arm medium,Right-hand bat
+Chennai Super Kings,RD Gaikwad,45a43fe2,2,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,28,True,False,False,Right-arm offbreak,Right-hand bat
+Chennai Super Kings,MM Ali,bb351c23,3,35,22,4,2,159.09,[8],1.0,6,1,0,14,1,1,0,0,0,0,0,14.0,0,0,0,0,4,71,1,0,72,37,True,False,True,Right-arm offbreak,Left-hand bat
+Chennai Super Kings,S Dube,a4e37e47,4,49,30,5,2,163.33,[19],1.0,6,0,0,25,2,2,0,0,0,0,2,25.0,0,0,0,0,4,89,0,0,89,31,True,False,True,Right-arm medium,Left-hand bat
+Chennai Super Kings,AT Rayudu,70d205c9,5,27,20,2,2,135.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,53,0,8,61,39,True,False,False,Right-arm offbreak,Right-hand bat
+Chennai Super Kings,RA Jadeja,fe93fd9d,6,17,9,3,0,188.89,"[7, 9]",2.0,12,3,0,21,2,1,0,0,0,0,0,10.5,1,0,0,0,0,29,1,8,38,36,True,False,True,Slow left-arm orthodox,Left-hand bat
+Chennai Super Kings,TU Deshpande,46a9bea1,6,0,0,0,0,0.0,"[2, 4, 12, 14]",4.0,24,8,0,40,6,1,1,0,0,0,1,10.0,0,0,0,0,0,0,31,0,31,29,True,False,False,Right-arm medium,Left-hand bat
+Chennai Super Kings,MS Dhoni,4a8a2e3b,7,16,6,2,1,266.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,30,0,8,38,43,True,True,False,Right-arm medium,Right-hand bat
+Chennai Super Kings,Mukesh Choudhary,765a4731,7,0,0,0,0,0.0,"[1, 3, 5, 20]",3.5,21,8,0,39,4,2,0,0,0,0,3,11.14,0,0,0,0,0,0,4,0,4,28,True,False,False,Left-arm medium,Left-hand bat
+Chennai Super Kings,D Pretorius,11614d87,8,0,1,0,0,0.0,"[11, 13, 15, 17]",4.0,24,8,0,31,1,1,2,0,0,0,3,7.75,0,0,0,0,0,-2,58,0,56,36,True,False,True,Right-arm medium-fast,Right-hand bat
+Chennai Super Kings,DJ Bravo,87e562a9,9,1,1,0,0,100.0,"[6, 10, 16, 18]",4.0,24,5,0,35,2,1,1,0,0,0,3,8.75,1,0,0,0,0,1,30,8,39,41,True,False,True,Right-arm medium,Right-hand bat
+Lucknow Super Giants,KL Rahul,b17e2f24,1,40,26,2,3,153.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,74,0,0,74,32,True,False,False,,Right-hand bat
+Lucknow Super Giants,Q de Kock,372455c4,2,61,45,9,0,135.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,107,0,0,107,32,True,False,False,,Left-hand bat
+Lucknow Super Giants,MK Pandey,93b4fc78,3,5,6,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,5,0,8,13,35,True,False,False,Right-arm medium,Right-hand bat
+Lucknow Super Giants,E Lewis,0ebfb1ad,4,55,23,6,3,239.13,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,111,0,8,119,33,True,False,False,,Left-hand bat
+Lucknow Super Giants,DJ Hooda,73ad96ed,5,13,8,1,1,162.5,[13],1.0,6,2,0,12,1,1,0,0,0,0,0,12.0,0,0,0,0,0,23,2,0,25,29,True,False,True,Right-arm offbreak,Right-hand bat
+Lucknow Super Giants,A Badoni,872b03f7,6,19,9,0,2,211.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31,25,True,False,False,Right-arm offbreak,Right-hand bat
+Lucknow Super Giants,KH Pandya,5b8c830e,6,0,0,0,0,0.0,"[6, 14, 16]",3.0,18,2,0,36,3,2,0,0,0,0,1,12.0,0,0,0,0,0,0,-2,0,-2,34,True,False,True,Slow left-arm orthodox,Left-hand bat
+Lucknow Super Giants,PVD Chameera,327b58d3,7,0,0,0,0,0.0,"[2, 7, 9, 18]",4.0,24,6,0,49,6,2,0,0,0,0,1,12.25,0,0,0,0,0,0,0,0,0,33,True,False,False,Right-arm fast,Right-hand bat
+Lucknow Super Giants,AJ Tye,7c7d63a2,8,0,0,0,0,0.0,"[3, 5, 15, 20]",4.0,24,8,0,40,6,1,2,1,0,0,1,10.0,0,0,0,0,0,0,64,0,64,38,True,False,False,Right-arm medium-fast,Right-hand bat
+Lucknow Super Giants,Ravi Bishnoi,df064e1a,9,0,0,0,0,0.0,"[8, 10, 12, 17]",4.0,24,10,0,24,3,0,2,1,1,0,0,6.0,0,0,1,0,0,0,78,12,90,24,True,False,False,Legbreak googly,Right-hand bat
+Lucknow Super Giants,Avesh Khan,eef2536f,10,0,0,0,0,0.0,"[1, 4, 11, 19]",4.0,24,11,0,38,5,2,2,0,1,0,0,9.5,0,0,0,0,0,0,69,0,69,28,True,False,False,Right-arm fast-medium,Right-hand bat

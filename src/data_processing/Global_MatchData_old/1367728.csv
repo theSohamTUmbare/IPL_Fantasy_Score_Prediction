@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Gibraltar,BA Pai,716bf559,1,7,12,0,0,58.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,3,0,0,3,43,True,True,False,Right-arm offbreak,Right-hand bat
+Gibraltar,L Bruce,2a03bd2f,2,22,12,5,0,183.33,"[2, 4]",2.0,12,6,0,12,1,0,0,0,0,0,2,6.0,0,0,0,0,6,48,8,0,56,19,True,True,False,Right-arm medium,Right-hand bat
+Gibraltar,J West,1d1c6410,3,11,27,0,0,40.74,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,5,0,0,5,43,True,True,False,Right-arm medium,Right-hand bat
+Gibraltar,IDM Latin,78f719ea,4,5,10,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,1,0,0,1,40,True,True,False,Legbreak,Right-hand bat
+Gibraltar,KJ Stagno,46ad7e01,5,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,31,True,True,False,Right-arm offbreak,Right-hand bat
+Gibraltar,BAA Zammitt,0e102c3b,6,9,14,0,0,64.29,[10],0.833,5,1,0,10,0,0,0,0,0,1,0,12.0,0,0,0,0,-2,7,1,0,8,35,True,False,False,,
+Gibraltar,K Nestor,b89cde87,7,10,19,1,0,52.63,[1],1.0,6,2,0,14,0,2,0,0,0,0,0,14.0,0,0,0,0,-4,10,2,0,12,36,True,True,False,Right-arm fast,Right-hand bat
+Gibraltar,JA Fitzgerald,4e6ff836,8,3,7,0,0,42.86,"[6, 8]",2.0,12,3,0,32,1,4,0,0,0,0,0,16.0,0,0,0,0,0,3,-3,0,0,25,True,True,False,Right-arm medium-fast,Right-hand bat
+Gibraltar,K Mirpuri,441006af,9,6,12,0,0,50.0,[9],1.0,6,3,0,5,0,0,0,0,0,0,1,5.0,0,0,0,0,-4,2,3,0,5,37,True,True,False,Right-arm offbreak,Right-hand bat
+Gibraltar,A Reyes,fd2b8c06,10,2,4,0,0,50.0,"[3, 5, 7]",3.0,18,9,0,20,2,0,1,1,0,0,5,6.67,0,0,0,0,0,2,44,0,46,41,True,True,False,Right-arm medium,Right-hand bat
+Gibraltar,J Horrocks,1c8cd1c3,11,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,31,True,True,False,Left-arm medium,Right-hand bat
+Portugal,Kuldeep,61c48027,1,56,31,2,6,180.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,114,0,8,122,35,True,False,False,,Right-hand bat
+Portugal,ARA Chambers,8db27a28,2,4,9,0,0,44.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Portugal,M Machado,fd34bcb0,3,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,1,0,12,13,27,True,False,False,,Right-hand bat
+Portugal,Sirajullah Khadim,ff36e706,4,18,17,2,0,105.88,"[15, 17, 19]",3.0,18,9,0,12,1,0,1,1,0,0,0,4.0,0,0,0,0,0,26,48,0,74,36,True,True,False,Slow left-arm orthodox,Left-hand bat
+Portugal,Zohaib Sarwar,bd3cecc6,4,0,0,0,0,0.0,"[18, 20]",2.0,12,3,0,8,0,0,2,0,1,0,1,4.0,0,0,0,0,0,0,67,0,67,34,True,True,False,Right-arm medium-fast,Right-hand bat
+Portugal,Suman Ghimire,7d990412,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,True,False,Right-arm offbreak,Right-hand bat
+Portugal,Najjam Shahzad,58aa33cd,6,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,9,0,25,4,0,0,0,0,1,2,8.33,0,0,0,0,0,0,9,0,9,37,True,False,False,,
+Portugal,F Stoman,69e53eb3,7,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,19,0,5,0,0,2,1,0,0,0,1.25,0,0,0,0,0,0,83,0,83,25,True,False,False,,
+Portugal,Amir Zaib,973006cc,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,44,True,True,False,Right-arm medium-fast,Right-hand bat
+Portugal,Junaid Khan,be0077ba,9,0,0,0,0,0.0,"[1, 3, 5, 16]",4.0,24,13,0,16,1,0,1,0,1,0,2,4.0,0,0,0,0,0,0,52,0,52,39,True,True,False,Right-arm medium-fast,Right-hand bat
+Portugal,Assad Mehmood,71b1e668,10,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,11,0,16,0,0,1,0,0,0,0,4.0,0,0,0,0,0,0,42,0,42,47,True,False,False,,

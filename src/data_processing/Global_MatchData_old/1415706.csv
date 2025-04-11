@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+England,PD Salt,3d284ca3,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,28,True,True,False,Right-arm offbreak,Right-hand bat
+England,JC Buttler,99b75528,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,34,True,False,False,,Right-hand bat
+England,WG Jacks,9caf69a1,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,False,True,Right-arm offbreak,Right-hand bat
+England,JM Bairstow,abb83e27,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,35,True,True,False,Right-arm medium,Right-hand bat
+England,HC Brook,4ae1755b,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,False,False,Right-arm medium,Right-hand bat
+England,MM Ali,bb351c23,7,0,0,0,0,0.0,"[3, 7]",2.0,12,3,0,15,2,0,0,0,0,0,0,7.5,0,0,0,0,0,0,3,0,3,37,True,False,True,Right-arm offbreak,Left-hand bat
+England,LS Livingstone,50c6bc2b,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,31,True,False,True,Legbreak,Right-hand bat
+England,CJ Jordan,ffe699c0,9,0,0,0,0,0.0,"[6, 9]",2.0,12,4,0,24,2,2,0,0,0,0,0,12.0,0,0,0,0,0,0,0,0,0,36,True,False,False,Right-arm fast-medium,Right-hand bat
+England,JC Archer,5574750c,10,0,0,0,0,0.0,"[2, 4]",2.0,12,6,0,12,1,0,0,0,0,0,0,6.0,0,0,0,0,0,0,8,0,8,29,True,False,False,Right-arm fast,Right-hand bat
+England,AU Rashid,249d60c9,11,0,0,0,0,0.0,"[8, 10]",2.0,12,2,0,26,2,2,0,0,0,0,0,13.0,0,0,0,0,0,0,-4,0,-4,37,True,False,False,Legbreak,Right-hand bat
+England,MA Wood,8d92a2c3,12,0,0,0,0,0.0,"[1, 5]",2.0,12,6,0,11,1,0,0,0,0,1,1,5.5,0,0,0,0,0,0,10,0,10,35,True,False,False,Right-arm fast,Right-hand bat
+Scotland,HG Munsey,ff014c34,1,41,30,4,2,136.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,75,0,0,75,32,True,False,False,Right-arm medium-fast,Left-hand bat
+Scotland,MA Jones,05f96194,2,45,30,4,2,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,77,0,0,77,27,True,False,False,Right-arm offbreak,Right-hand bat
+Scotland,BJ McMullen,436c763a,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,25,True,False,True,Right-arm medium,Right-hand bat
+Scotland,RD Berrington,e21bc7f3,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,37,True,False,False,Right-arm medium-fast,Right-hand bat
+Scotland,MH Cross,8b261d84,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,32,True,False,False,,Right-hand bat
+Scotland,MA Leask,28131839,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,34,True,False,True,Right-arm offbreak,Right-hand bat
+Scotland,CN Greaves,f42064d5,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,34,True,False,False,Legbreak,Right-hand bat
+Scotland,MRJ Watt,1252f71a,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,28,True,False,False,Slow left-arm orthodox,Left-hand bat
+Scotland,CB Sole,469ccead,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,31,True,False,False,Right-arm fast-medium,Right-hand bat
+Scotland,BTJ Wheal,3f61a062,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,28,True,False,False,Right-arm fast-medium,Right-hand bat
+Scotland,BJ Currie,2ecd844a,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,False,False,Left-arm medium,Right-hand bat

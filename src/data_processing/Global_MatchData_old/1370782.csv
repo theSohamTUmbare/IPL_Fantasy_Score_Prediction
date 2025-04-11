@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Denmark,ND Laegsgaard,b0f2d3bd,1,63,36,5,4,175.0,"[3, 5, 17]",3.0,18,15,1,4,0,0,1,0,1,0,0,1.33,1,0,0,0,6,121,66,8,195,28,True,True,False,Slow left-arm orthodox,Left-hand bat
+Denmark,HAM Shah,007113d7,2,9,9,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,15,0,16,31,32,True,True,False,Right-arm offbreak,Right-hand bat
+Denmark,S Thanikaithasan,498aacac,3,26,14,4,0,185.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,52,0,0,52,26,True,True,False,Legbreak googly,Right-hand bat
+Denmark,Musa Shaheen,6709b2de,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,21,True,True,False,Right-arm medium-fast,Right-hand bat
+Denmark,Abdul Hashim,73b1db79,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,27,True,False,False,,Right-hand bat
+Denmark,Lucky Ali,28b032ac,5,0,0,0,0,0.0,"[7, 9, 15]",3.0,18,11,0,8,0,0,1,0,0,0,0,2.67,0,0,0,0,0,0,42,0,42,21,True,True,False,Slow left-arm orthodox,Left-hand bat
+Denmark,Surya Anand,ef141f36,6,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,12,0,14,1,1,1,0,0,0,0,4.67,0,0,0,0,0,0,43,0,43,27,True,True,False,Right-arm medium,Right-hand bat
+Denmark,SA Ahmad,8de618ab,7,0,0,0,0,0.0,"[8, 14, 16]",3.0,18,7,0,20,2,0,0,0,0,0,1,6.67,0,0,0,0,0,0,9,0,9,26,True,True,False,Right-arm offbreak,Left-hand bat
+Denmark,Saud Munir,5902f2eb,8,0,0,0,0,0.0,"[10, 12, 18, 20]",4.0,24,10,0,21,1,0,5,2,1,0,0,5.25,0,0,0,0,0,0,175,0,175,26,True,True,False,Right-arm medium,Right-hand bat
+Denmark,Abdullah Mahmood,926c6d3c,9,0,0,0,0,0.0,"[11, 13]",2.0,12,6,0,7,0,0,1,0,0,0,0,3.5,1,0,0,0,0,0,37,8,45,22,True,True,False,Right-arm offbreak,Right-hand bat
+Denmark,OD Hald,38189be1,10,0,0,0,0,0.0,"[1, 19]",2.0,12,5,0,23,4,0,0,0,0,0,2,11.5,0,0,0,0,0,0,1,0,1,25,True,True,False,Left-arm medium,Left-hand bat
+Norway,Raza Iqbal,eee46f77,1,25,22,3,1,113.64,"[2, 4]",2.0,12,5,0,19,0,2,0,0,0,0,0,9.5,1,0,0,0,0,47,5,8,60,38,True,True,False,Slow left-arm orthodox,Left-hand bat
+Norway,Nouman Butt,6d99dc44,2,5,10,1,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,5,0,0,5,39,True,True,False,Right-arm medium-fast,Right-hand bat
+Norway,Chaudhary Akram,3e697d4a,3,36,50,1,0,72.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,44,0,0,44,20,True,True,False,Right-arm medium,Right-hand bat
+Norway,Ali Saleem,661e8a03,4,3,7,0,0,42.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,45,True,False,False,,Right-hand bat
+Norway,D Abeyrathna,ee17d329,5,17,21,2,0,80.95,"[6, 8]",2.0,12,8,0,12,0,1,1,0,0,0,0,6.0,0,0,0,0,0,25,35,0,60,33,True,False,False,,Right-hand bat
+Norway,Javed Maroofkhail,909d9fac,6,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,23,True,True,False,Right-arm medium,Right-hand bat
+Norway,Sher Sahak,8299b9a2,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,24,True,False,True,Right-arm medium-fast,Right-hand bat
+Norway,Qamar Mushtaque,fc362c5d,8,2,2,0,0,100.0,"[5, 10]",1.833,11,2,0,27,4,1,0,0,0,0,1,14.73,0,0,0,0,0,2,2,0,4,36,True,True,False,Right-arm medium-fast,Right-hand bat
+Norway,Junaid Mehmood,3e46c4f3,9,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,31,True,False,False,,Right-hand bat
+Norway,M Shahbaz Butt,5ef3c310,10,0,1,0,0,0.0,"[7, 9]",2.0,12,1,0,23,3,0,0,0,0,0,0,11.5,0,0,0,0,0,-2,-3,0,-5,40,True,True,False,Legbreak,Right-hand bat
+Norway,Vinay Ravi,9c181b99,11,4,1,1,0,400.0,"[1, 3]",2.0,12,6,0,18,2,1,0,0,0,0,0,9.0,0,0,0,0,0,8,6,0,14,35,True,False,False,Right-arm medium-fast,Right-hand bat

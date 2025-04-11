@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Australia,DA Warner,dcce6f09,1,23,15,4,0,153.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,43,0,0,43,38,True,False,False,Legbreak,Left-hand bat
+Australia,BJ Haddin,b0c772ee,2,15,10,2,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,23,0,20,43,47,True,False,False,,Right-hand bat
+Australia,CJ Ferguson,9b4935c8,3,8,9,1,0,88.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20,40,True,False,False,Right-arm medium,Right-hand bat
+Australia,DJ Hussey,fd835ab3,4,41,39,1,1,105.13,"[10, 12, 14, 16]",4.0,24,6,0,24,2,0,0,0,0,0,0,6.0,0,0,0,0,0,55,8,0,63,47,True,False,True,Right-arm offbreak,Right-hand bat
+Australia,AC Voges,864c199e,5,26,24,2,0,108.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,38,0,8,46,45,True,False,False,Slow left-arm orthodox,Right-hand bat
+Australia,CL White,d0513f63,6,16,11,0,1,145.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,24,0,0,24,41,True,False,False,Legbreak googly,Right-hand bat
+Australia,NW Bracken,4c61a0f9,7,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,14,1,16,1,1,0,0,0,0,0,4.0,0,0,0,0,0,0,32,0,32,47,True,False,False,Left-arm fast-medium,Right-hand bat
+Australia,JR Hopes,2498e163,7,16,10,1,0,160.0,"[9, 11, 13, 17]",4.0,24,6,0,40,5,1,1,0,0,0,0,10.0,0,0,0,0,4,24,29,0,53,46,True,False,True,Right-arm medium,Right-hand bat
+Australia,BW Hilfenhaus,f3171936,8,0,0,0,0,0.0,"[6, 8, 15, 19]",4.0,24,8,0,32,3,1,1,0,0,0,1,8.0,0,0,0,0,0,0,33,0,33,42,True,False,False,Right-arm fast-medium,Right-hand bat
+Australia,MC Henriques,32198ae0,8,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Australia,PM Siddle,bd93fea4,9,1,1,0,0,100.0,"[1, 3, 5, 7]",4.0,24,9,0,24,3,0,2,1,0,0,1,6.0,0,0,0,0,0,1,69,0,70,40,True,False,False,Right-arm fast-medium,Right-hand bat
+New Zealand,BB McCullum,b8a55852,1,61,47,5,2,129.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,101,0,6,107,43,True,True,False,Right-arm offbreak,Right-hand bat
+New Zealand,MJ Guptill,2be41edb,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,38,True,False,False,Right-arm offbreak,Right-hand bat
+New Zealand,PG Fulton,10a2a1ff,3,1,8,0,0,12.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,46,True,False,False,Right-arm medium,Right-hand bat
+New Zealand,NT Broom,a354c917,4,36,26,6,0,138.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,66,0,8,74,41,True,False,False,Right-arm medium,Right-hand bat
+New Zealand,GD Elliott,c03449e0,5,23,30,2,0,76.67,[15],1.0,6,1,0,11,0,1,1,1,0,0,0,11.0,0,0,0,0,0,31,34,0,65,46,True,False,True,Right-arm medium,Right-hand bat
+New Zealand,JEC Franklin,cf73ad76,6,3,3,0,0,100.0,[1],1.0,6,2,0,6,0,0,0,0,0,0,0,6.0,0,0,0,0,0,3,2,0,5,44,True,False,True,Left-arm medium,Left-hand bat
+New Zealand,IG Butler,b68a30f0,7,0,0,0,0,0.0,"[7, 9, 11, 17]",4.0,24,6,0,30,1,1,1,0,1,0,1,7.5,0,0,0,0,0,0,39,0,39,43,True,False,False,Right-arm fast,Right-hand bat
+New Zealand,NL McCullum,5673a3fc,7,10,4,1,1,250.0,"[14, 16]",2.0,12,2,0,14,1,0,0,0,0,0,0,7.0,0,0,0,0,0,20,4,0,24,44,True,False,False,Right-arm offbreak,Right-hand bat
+New Zealand,DL Vettori,d7c6af50,8,0,0,0,0,0.0,"[8, 10, 12, 18]",4.0,24,6,0,23,0,0,1,0,0,0,0,5.75,2,0,0,0,0,0,35,16,51,46,True,False,True,Slow left-arm orthodox,Left-hand bat
+New Zealand,TG Southee,13c35c9e,9,0,0,0,0,0.0,"[2, 4, 6, 20]",4.0,24,10,0,31,4,0,1,0,0,1,0,7.75,1,0,0,1,0,0,35,14,49,36,True,False,False,Right-arm medium-fast,Right-hand bat
+New Zealand,IE O'Brien,78f34e15,10,0,0,0,0,0.0,"[3, 5, 13, 19]",4.0,24,7,0,34,5,0,2,0,0,0,0,8.5,0,0,0,0,0,0,57,0,57,48,True,False,False,Right-arm fast-medium,Right-hand bat

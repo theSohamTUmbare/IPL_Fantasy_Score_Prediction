@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Punjab Kings,JM Bairstow,abb83e27,1,23,15,5,0,153.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,47,0,0,47,35,True,True,False,Right-arm medium,Right-hand bat
+Punjab Kings,S Dhawan,0a476045,2,39,32,2,2,121.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,63,0,16,79,39,True,False,False,Right-arm offbreak,Left-hand bat
+Punjab Kings,M Shahrukh Khan,7dcb9bc9,3,19,10,2,1,190.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,39,0,0,39,29,True,False,False,Right-arm offbreak,Right-hand bat
+Punjab Kings,MA Agarwal,00ea847a,4,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,34,True,False,False,Right-arm offbreak,Right-hand bat
+Punjab Kings,LS Livingstone,50c6bc2b,5,49,22,2,5,222.73,"[1, 8, 10, 12]",4.0,24,8,0,25,1,1,0,0,0,0,0,6.25,1,0,0,0,6,97,10,8,115,31,True,False,True,Legbreak,Right-hand bat
+Punjab Kings,JM Sharma,800d2d97,6,19,7,3,1,271.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,1,0,0,37,0,32,69,31,True,False,False,,Right-hand bat
+Punjab Kings,Harpreet Brar,c05edf8e,7,0,0,0,0,0.0,"[7, 9, 11, 15]",4.0,24,11,0,26,2,1,3,0,0,0,0,6.5,0,0,0,0,0,0,92,0,92,29,True,False,False,Slow left-arm orthodox,Left-hand bat
+Punjab Kings,PN Mankad,663b5e34,7,4,1,1,0,400.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16,30,True,False,True,Right-arm medium,Right-hand bat
+Punjab Kings,K Rabada,e62dd25d,8,0,0,0,0,0.0,"[3, 5, 14, 18]",4.0,24,9,0,38,4,1,1,0,0,0,7,9.5,0,0,0,0,0,0,34,0,34,29,True,False,False,Right-arm fast,Left-hand bat
+Punjab Kings,NT Ellis,9eb1455b,9,0,0,0,0,0.0,"[6, 13, 17, 20]",4.0,24,9,0,40,3,3,3,0,0,1,1,10.0,0,0,0,0,0,0,86,0,86,30,True,False,False,Right-arm fast-medium,Right-hand bat
+Punjab Kings,Arshdeep Singh,244048f6,10,0,0,0,0,0.0,"[2, 4, 16, 19]",4.0,24,10,0,25,3,0,0,0,0,0,0,6.25,0,0,0,0,0,0,12,0,12,26,True,False,False,Left-arm medium-fast,Left-hand bat
+Sunrisers Hyderabad,PK Garg,bb965e9a,1,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12,24,True,False,False,Right-arm medium,Right-hand bat
+Sunrisers Hyderabad,Abhishek Sharma,f29185a1,2,43,32,5,2,134.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,81,0,0,81,24,True,False,True,Slow left-arm orthodox,Left-hand bat
+Sunrisers Hyderabad,RA Tripathi,77255a9e,3,20,18,1,1,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30,34,True,False,False,Right-arm medium,Right-hand bat
+Sunrisers Hyderabad,AK Markram,6a26221c,4,21,17,2,0,123.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29,30,True,False,True,Right-arm offbreak,Right-hand bat
+Sunrisers Hyderabad,N Pooran,3241e3fd,5,5,10,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,1,0,0,1,29,True,True,False,Right-arm offbreak,Left-hand bat
+Sunrisers Hyderabad,Washington Sundar,f19ccfad,6,25,19,3,1,131.58,"[2, 8]",2.0,12,4,0,19,2,1,1,0,0,0,0,9.5,1,0,0,0,2,49,29,8,86,25,True,False,True,Right-arm offbreak,Left-hand bat
+Sunrisers Hyderabad,Fazalhaq Farooqi,e9c7f0d0,7,0,0,0,0,0.0,"[3, 5, 11, 13]",4.0,24,7,0,32,4,0,2,0,2,0,1,8.0,0,0,0,0,0,0,73,0,73,24,True,False,False,Left-arm fast-medium,Right-hand bat
+Sunrisers Hyderabad,R Shepherd,c5aef772,7,26,14,2,2,185.71,[15],1.0,6,1,0,23,2,2,0,0,0,0,1,23.0,0,0,0,0,6,56,1,0,57,30,True,False,True,Right-arm fast-medium,Right-hand bat
+Sunrisers Hyderabad,J Suchith,4125d931,8,0,1,0,0,0.0,"[6, 10, 12, 14]",4.0,24,8,0,38,2,3,1,0,0,0,2,9.5,1,0,0,0,0,-2,33,8,39,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+Sunrisers Hyderabad,B Kumar,2e81a32d,9,1,1,0,0,100.0,"[1, 4]",2.0,12,4,0,22,3,1,0,0,0,0,0,11.0,0,0,0,0,0,1,2,0,3,35,True,False,False,Right-arm medium,Right-hand bat
+Sunrisers Hyderabad,Umran Malik,81c08fa3,10,0,1,0,0,0.0,"[7, 9, 16]",2.167,13,4,0,24,2,2,1,0,0,0,0,11.08,0,0,0,0,0,0,25,0,25,25,True,False,False,Right-arm fast,Right-hand bat

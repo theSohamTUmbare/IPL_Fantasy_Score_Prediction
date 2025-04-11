@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Brisbane Heat,T Banton,25f7b7d6,1,7,10,0,0,70.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,5,0,0,5,26,True,False,False,,Right-hand bat
+Brisbane Heat,M Bryant,f32012f4,2,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,26,True,False,False,Right-arm medium,Right-hand bat
+Brisbane Heat,CA Lynn,45eda7c8,3,14,21,2,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,20,0,0,20,34,True,False,False,Slow left-arm orthodox,Right-hand bat
+Brisbane Heat,MT Renshaw,218d4d78,4,1,4,0,0,25.0,[7],1.0,6,1,0,6,0,0,0,0,0,0,0,6.0,1,0,0,0,0,1,1,8,10,29,True,False,False,Right-arm offbreak,Left-hand bat
+Brisbane Heat,SD Heazlett,e00a9155,5,12,8,1,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,22,0,8,30,29,True,False,False,Slow left-arm orthodox,Left-hand bat
+Brisbane Heat,JJ Peirson,2b55c3b4,6,6,10,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,4,0,8,12,32,True,False,False,,Right-hand bat
+Brisbane Heat,BCJ Cutting,2e11c706,7,1,6,0,0,16.67,"[9, 11, 13]",3.0,18,2,0,20,1,0,1,0,0,0,0,6.67,1,0,0,0,0,1,29,8,38,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Brisbane Heat,MT Steketee,903560ed,8,13,14,2,0,92.86,"[1, 3, 10, 18]",4.0,24,8,0,36,3,2,0,0,0,0,0,9.0,0,0,0,0,0,21,8,0,29,31,True,False,False,Right-arm fast-medium,Right-hand bat
+Brisbane Heat,JK Lalor,88209c84,9,8,10,0,0,80.0,"[2, 5, 16, 19]",4.0,24,5,0,37,3,1,1,0,0,0,0,9.25,0,0,0,0,0,8,30,0,38,37,True,False,False,Left-arm fast-medium,Right-hand bat
+Brisbane Heat,B Laughlin,b2a79f17,10,17,13,2,1,130.77,"[8, 14, 17, 20]",4.0,24,7,0,32,0,2,2,0,0,0,0,8.0,0,0,0,0,2,33,57,0,90,42,True,False,False,Right-arm fast-medium,Right-hand bat
+Brisbane Heat,Zahir Khan,786b7fe8,11,19,10,1,1,190.0,"[4, 6, 12, 15]",4.0,24,12,0,18,1,0,2,1,1,0,1,4.5,0,0,0,0,6,35,84,0,119,26,True,False,False,Left-arm wrist-spin,Left-hand bat
+Perth Scorchers,JP Inglis,989889ff,1,27,19,3,1,142.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,2,51,0,20,71,30,True,False,False,,Right-hand bat
+Perth Scorchers,LS Livingstone,50c6bc2b,2,12,10,2,0,120.0,"[14, 16]",2.0,12,3,0,17,0,1,1,0,0,0,0,8.5,1,0,0,0,0,20,28,8,56,31,True,False,True,Legbreak,Right-hand bat
+Perth Scorchers,CT Bancroft,399b0b94,3,50,42,2,1,119.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,72,0,0,72,32,True,False,False,,Right-hand bat
+Perth Scorchers,AJ Turner,ff1e12a0,4,14,16,0,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,32,True,False,False,Right-arm offbreak,Right-hand bat
+Perth Scorchers,MR Marsh,3d8feaf8,5,26,19,1,2,136.84,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,48,0,0,48,33,True,False,True,Right-arm medium,Right-hand bat
+Perth Scorchers,AC Agar,a2421394,6,14,11,0,1,127.27,"[4, 8, 10, 12]",4.0,24,14,0,16,1,0,2,0,0,0,3,4.0,1,0,0,0,0,20,70,8,98,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+Perth Scorchers,C Green,eaa76d3c,7,3,2,0,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,25,True,False,True,Right-arm fast-medium,Right-hand bat
+Perth Scorchers,CJ Jordan,ffe699c0,8,2,1,0,0,200.0,"[5, 18]",2.0,12,4,0,20,4,0,1,0,0,0,0,10.0,2,0,0,0,0,2,27,16,45,36,True,False,False,Right-arm fast-medium,Right-hand bat
+Perth Scorchers,JA Richardson,1ee08e9a,11,0,0,0,0,0.0,"[1, 3, 13]",3.0,18,11,0,16,2,0,1,1,0,0,0,5.33,0,0,0,0,0,0,48,0,48,28,True,False,False,Right-arm fast,Right-hand bat
+Perth Scorchers,M Kelly,68e26ec9,12,0,0,0,0,0.0,"[2, 6, 17, 19]",3.667,22,11,0,22,2,1,2,1,0,0,0,6.0,0,0,0,0,0,0,69,0,69,30,True,False,False,Right-arm fast-medium,Right-hand bat
+Perth Scorchers,Fawad Ahmed,22ae3041,13,0,0,0,0,0.0,"[7, 9, 11, 15]",4.0,24,13,0,16,0,1,3,0,2,0,0,4.0,0,0,0,0,0,0,114,0,114,43,True,False,False,Legbreak googly,Right-hand bat

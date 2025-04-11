@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Australia,DA Warner,dcce6f09,1,0,9,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,38,True,False,False,Legbreak,Left-hand bat
+Australia,MS Wade,afa7e784,2,10,13,0,1,76.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,37,True,True,False,Right-arm medium,Left-hand bat
+Australia,SE Marsh,508a1ea7,3,26,23,2,2,113.04,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,50,0,0,50,41,True,False,False,Slow left-arm orthodox,Left-hand bat
+Australia,DJ Hussey,fd835ab3,4,12,14,1,0,85.71,"[7, 9, 20]",2.167,13,5,0,20,0,2,1,0,0,0,0,9.23,2,0,0,0,0,16,30,16,62,47,True,False,True,Right-arm offbreak,Right-hand bat
+Australia,CL White,d0513f63,5,39,26,4,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,65,0,0,65,41,True,False,False,Legbreak googly,Right-hand bat
+Australia,SPD Smith,30a45b23,6,9,8,0,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,35,True,False,False,Legbreak googly,Right-hand bat
+Australia,MR Marsh,3d8feaf8,7,36,21,0,4,171.43,[12],1.0,6,1,0,11,0,1,0,0,0,0,1,11.0,0,0,0,0,6,70,1,0,71,33,True,False,True,Right-arm medium,Right-hand bat
+Australia,SNJ O'Keefe,3540beff,8,3,3,0,0,100.0,"[8, 10, 14, 18]",4.0,24,7,0,35,2,2,1,0,0,0,0,8.75,0,0,0,0,0,3,32,0,35,40,True,False,True,Slow left-arm orthodox,Right-hand bat
+Australia,JL Pattinson,f752db61,9,5,3,1,0,166.67,"[6, 11, 13, 15]",4.0,24,13,0,17,1,0,2,0,1,0,1,4.25,2,0,0,0,0,9,77,16,102,34,True,False,False,Right-arm fast-medium,Left-hand bat
+Australia,PJ Cummins,ded9240e,9,0,0,0,0,0.0,"[2, 4, 16, 19]",4.0,24,11,1,27,3,0,2,0,1,0,3,6.75,0,0,0,0,0,0,83,0,83,31,True,False,False,Right-arm fast,Right-hand bat
+Australia,DE Bollinger,45c2196c,10,0,0,0,0,0.0,"[1, 3, 5, 17]",4.0,24,11,0,36,7,0,1,0,1,0,1,9.0,0,0,0,0,0,0,44,0,44,43,True,False,False,Left-arm fast-medium,Left-hand bat
+South Africa,HM Amla,e798611a,1,4,6,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,41,True,False,False,Right-arm offbreak,Right-hand bat
+South Africa,GC Smith,72861603,2,24,22,1,1,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34,44,True,False,False,Right-arm offbreak,Left-hand bat
+South Africa,CA Ingram,c995d726,3,5,6,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17,39,True,False,False,Legbreak,Left-hand bat
+South Africa,JP Duminy,2e8994e7,4,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,40,True,False,True,Right-arm offbreak,Left-hand bat
+South Africa,J Botha,7c503806,5,34,28,3,1,121.43,"[9, 11, 13, 15]",4.0,24,6,0,26,2,0,1,0,0,0,1,6.5,0,0,0,0,0,56,33,0,89,42,True,False,True,Right-arm offbreak,Right-hand bat
+South Africa,DA Miller,d67d5f00,6,10,13,1,0,76.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,14,0,16,30,35,True,False,False,Right-arm offbreak,Left-hand bat
+South Africa,HG Kuhn,ede05b97,7,3,9,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,3,0,28,31,40,True,False,False,,Right-hand bat
+South Africa,WD Parnell,3a60e0b5,8,29,11,3,2,263.64,"[6, 8, 17, 19]",4.0,24,6,0,44,3,3,0,0,0,0,0,11.0,0,0,1,0,6,63,4,12,79,35,True,False,False,Left-arm medium-fast,Left-hand bat
+South Africa,M Morkel,5bb5a915,9,0,0,0,0,0.0,"[2, 4, 12, 20]",4.0,24,12,0,37,1,4,2,0,1,0,1,9.25,0,0,0,0,0,0,70,0,70,40,True,False,False,Right-arm fast,Left-hand bat
+South Africa,J Theron,dec8e038,9,31,16,3,1,193.75,"[7, 10, 16, 18]",4.0,24,11,0,28,2,1,2,0,0,0,2,7.0,0,0,0,0,6,59,63,0,122,39,True,False,False,Right-arm medium-fast,Right-hand bat
+South Africa,LL Tsotsobe,12bffe91,10,0,0,0,0,0.0,"[1, 3, 5, 14]",4.0,24,15,0,11,0,0,2,0,0,0,2,2.75,0,0,0,0,0,0,71,0,71,41,True,False,False,Left-arm fast-medium,Right-hand bat

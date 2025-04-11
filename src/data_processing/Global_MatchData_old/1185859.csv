@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Barbados Tridents,J Charles,09a9d073,1,58,39,8,0,148.72,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,100,0,0,100,36,True,False,False,,Right-hand bat
+Barbados Tridents,JL Carter,0a9d8b61,2,51,46,5,1,110.87,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,85,0,0,85,37,True,False,True,Right-arm medium,Left-hand bat
+Barbados Tridents,JP Duminy,2e8994e7,3,65,20,4,7,325.0,"[6, 16, 18]",2.667,16,7,0,24,1,2,2,0,0,0,2,9.0,2,0,0,0,6,137,57,16,210,40,True,False,True,Right-arm offbreak,Left-hand bat
+Barbados Tridents,AD Hales,92aeac25,4,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,36,True,False,False,Right-arm medium,Right-hand bat
+Barbados Tridents,AR Nurse,4a745f65,5,5,11,0,0,45.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,-1,0,8,7,36,True,False,False,Right-arm offbreak,Right-hand bat
+Barbados Tridents,JO Holder,0f721006,6,0,1,0,0,0.0,"[1, 3, 5, 12]",4.0,24,10,0,38,2,3,1,0,1,0,2,9.5,2,0,0,0,0,-2,43,16,57,33,True,False,True,Right-arm medium-fast,Right-hand bat
+Barbados Tridents,RA Reifer,d7725664,7,6,1,0,1,600.0,"[7, 10, 17]",3.0,18,10,0,9,0,0,1,0,0,0,1,3.0,0,0,0,0,0,12,41,0,53,33,True,False,True,Left-arm medium-fast,Left-hand bat
+Barbados Tridents,JP Greaves,74d12124,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,31,True,False,True,Right-arm medium,Right-hand bat
+Barbados Tridents,RS Primus,6f4c73ce,12,0,0,0,0,0.0,[2],1.0,6,1,0,13,2,0,0,0,0,0,0,13.0,0,0,0,0,0,0,1,0,1,29,True,False,True,Right-arm medium,Right-hand bat
+Barbados Tridents,HR Walsh,1ac2a995,13,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,14,0,19,1,1,5,0,1,0,0,4.75,1,0,0,0,0,0,165,8,173,32,True,False,False,Legbreak googly,Left-hand bat
+Barbados Tridents,HF Gurney,e412cb64,14,0,0,0,0,0.0,"[4, 8, 14]",3.0,18,10,0,16,1,0,1,0,0,0,5,5.33,0,0,0,0,0,0,39,0,39,38,True,False,False,Left-arm fast-medium,Right-hand bat
+Trinbago Knight Riders,SP Narine,9d430b40,1,19,9,2,1,211.11,"[6, 12, 14, 16]",4.0,24,14,1,19,2,0,1,0,0,0,1,4.75,1,0,0,0,0,33,57,8,98,36,True,False,True,Right-arm offbreak,Left-hand bat
+Trinbago Knight Riders,LMP Simmons,89f64c19,2,11,9,1,1,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21,40,True,False,False,Right-arm medium-fast,Right-hand bat
+Trinbago Knight Riders,C Munro,af2c687b,3,23,13,1,2,176.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,45,0,16,61,38,True,False,False,Right-arm medium-fast,Left-hand bat
+Trinbago Knight Riders,D Ramdin,d1523761,4,11,14,1,0,78.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15,40,True,False,False,,Right-hand bat
+Trinbago Knight Riders,DM Bravo,14b14cd8,5,28,24,2,1,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,46,0,0,46,36,True,False,False,Right-arm medium,Left-hand bat
+Trinbago Knight Riders,KA Pollard,a757b0d8,6,3,6,0,0,50.0,"[8, 10, 13, 20]",4.0,24,8,0,38,3,2,2,0,0,0,1,9.5,1,0,0,0,0,3,58,8,69,37,True,False,True,Right-arm medium,Right-hand bat
+Trinbago Knight Riders,JDS Neesham,9219eff0,7,0,1,0,0,0.0,[19],1.0,6,0,0,25,3,2,0,0,0,0,0,25.0,0,0,0,0,0,-2,0,0,-2,34,True,False,True,Right-arm medium-fast,Left-hand bat
+Trinbago Knight Riders,S Prasanna,f78e7113,8,0,2,0,0,0.0,"[7, 9, 11]",3.0,18,4,0,29,2,1,0,0,0,0,2,9.67,0,0,0,0,0,-2,4,0,2,39,True,False,True,Legbreak,Right-hand bat
+Trinbago Knight Riders,K Pierre,a61bcb94,9,5,13,0,0,38.46,"[1, 3, 15, 17]",4.0,24,12,0,24,1,1,2,0,0,0,2,6.0,1,0,0,0,-6,-1,64,8,71,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+Trinbago Knight Riders,A Phillip,f2665768,10,1,9,0,0,11.11,[4],1.0,6,2,0,6,0,0,0,0,0,0,0,6.0,0,0,0,0,0,1,2,0,3,28,True,False,False,Right-arm fast-medium,Right-hand bat
+Trinbago Knight Riders,Ali Khan,b0eaaac6,11,8,6,0,1,133.33,"[2, 5, 18]",3.0,18,3,0,51,6,3,0,0,0,0,0,17.0,0,0,0,0,0,14,-3,0,11,34,True,False,False,Right-arm fast-medium,Right-hand bat

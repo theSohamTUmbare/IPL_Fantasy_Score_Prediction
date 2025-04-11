@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Australia,DA Warner,dcce6f09,1,20,11,4,0,181.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,42,0,8,50,38,True,False,False,Legbreak,Left-hand bat
+Australia,AJ Finch,b8d490fd,2,17,14,3,0,121.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29,38,True,False,False,Slow left-arm orthodox,Right-hand bat
+Australia,SPD Smith,30a45b23,3,80,49,11,1,163.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,146,0,0,146,35,True,False,False,Legbreak googly,Right-hand bat
+Australia,BR McDermott,c41043e6,4,21,22,1,0,95.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,30,True,True,False,Right-arm medium,Right-hand bat
+Australia,AJ Turner,ff1e12a0,5,8,15,0,0,53.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,4,0,0,4,32,True,False,False,Right-arm offbreak,Right-hand bat
+Australia,AT Carey,69d03465,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0,0,12,12,33,True,False,False,,Left-hand bat
+Australia,AC Agar,a2421394,6,0,0,0,0,0.0,"[8, 10, 12, 16]",4.0,24,6,0,23,2,0,2,0,0,0,0,5.75,0,0,0,0,0,0,60,0,60,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+Australia,PJ Cummins,ded9240e,7,0,0,0,0,0.0,"[4, 6, 13, 17]",4.0,24,10,0,19,1,0,1,0,0,0,0,4.75,1,0,0,0,0,0,41,8,49,31,True,False,False,Right-arm fast,Right-hand bat
+Australia,MA Starc,3fb19989,8,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,12,0,25,3,0,0,0,0,0,0,6.25,0,0,0,0,0,0,14,0,14,35,True,False,False,Left-arm fast,Left-hand bat
+Australia,KW Richardson,dfc4d8b5,9,0,0,0,0,0.0,"[2, 5, 15, 19]",4.0,24,7,0,51,5,3,1,0,0,0,0,12.75,1,0,0,0,0,0,26,8,34,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Australia,A Zampa,14f96089,10,0,0,0,0,0.0,"[7, 9, 11, 14]",4.0,24,2,0,31,2,0,0,0,0,0,0,7.75,0,0,0,0,0,0,2,0,2,32,True,False,False,Legbreak googly,Right-hand bat
+Pakistan,Babar Azam,8a75e999,1,50,38,6,0,131.58,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,84,0,8,92,30,True,False,False,Right-arm offbreak,Right-hand bat
+Pakistan,Fakhar Zaman,1777c020,2,2,7,0,0,28.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,34,True,False,False,Slow left-arm orthodox,Left-hand bat
+Pakistan,Haris Sohail,7cd0a092,3,6,9,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6,36,True,False,False,Slow left-arm orthodox,Left-hand bat
+Pakistan,Mohammad Rizwan,2f26ac1a,4,14,16,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,32,True,True,False,Right-arm medium,Right-hand bat
+Pakistan,Asif Ali,0a4736eb,5,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,33,True,False,False,Right-arm offbreak,Right-hand bat
+Pakistan,Shadab Khan,9de62878,5,0,0,0,0,0.0,"[7, 9, 14, 16]",4.0,24,6,0,25,2,0,0,0,0,0,0,6.25,0,0,0,0,0,0,8,0,8,26,True,False,True,Legbreak,Right-hand bat
+Pakistan,Mohammad Amir,e174dadd,6,0,0,0,0,0.0,"[3, 5, 17, 19]",3.5,21,8,0,32,4,1,1,0,1,0,2,9.14,0,0,0,0,0,0,41,0,41,32,True,False,False,Left-arm fast-medium,Left-hand bat
+Pakistan,Iftikhar Ahmed,29e253dd,6,62,34,5,3,182.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,114,0,0,114,34,True,False,False,Right-arm offbreak,Right-hand bat
+Pakistan,Mohammad Irfan,a8e3170f,7,0,0,0,0,0.0,"[1, 6, 8, 15]",4.0,24,11,0,27,4,0,1,0,0,0,0,6.75,0,0,0,0,0,0,38,0,38,42,True,False,False,Left-arm fast,Right-hand bat
+Pakistan,Imad Wasim,9cb8d7a6,7,11,11,1,0,100.0,"[2, 4, 11, 13]",4.0,24,6,0,34,5,0,1,1,0,0,0,8.5,0,0,0,0,0,15,39,0,54,36,True,False,True,Slow left-arm orthodox,Left-hand bat
+Pakistan,Wahab Riaz,b3118300,8,0,0,0,0,0.0,"[10, 12, 18]",3.0,18,4,0,33,4,0,0,0,0,2,1,11.0,0,0,0,0,0,0,2,0,2,39,True,False,False,Left-arm fast,Right-hand bat

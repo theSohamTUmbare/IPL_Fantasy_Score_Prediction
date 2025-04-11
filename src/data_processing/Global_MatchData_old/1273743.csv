@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+New Zealand,MJ Guptill,2be41edb,1,93,56,6,7,166.07,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,175,0,0,175,38,True,False,False,Right-arm offbreak,Right-hand bat
+New Zealand,DJ Mitchell,eade4650,2,13,11,1,0,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,33,True,False,True,Right-arm medium,Right-hand bat
+New Zealand,KS Williamson,d027ba9f,3,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,34,True,False,False,Right-arm offbreak,Right-hand bat
+New Zealand,DP Conway,df5a6881,4,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,33,True,True,False,Right-arm medium,Left-hand bat
+New Zealand,GD Phillips,9a46c4e5,5,33,37,0,1,89.19,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,43,0,0,43,28,True,False,True,Right-arm offbreak,Right-hand bat
+New Zealand,JDS Neesham,9219eff0,6,10,6,1,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,34,True,False,True,Right-arm medium-fast,Left-hand bat
+New Zealand,AF Milne,350bb1b1,7,0,0,0,0,0.0,"[4, 6, 13, 20]",4.0,24,10,1,36,7,0,0,0,0,0,0,9.0,0,0,0,0,0,0,22,0,22,32,True,False,False,Right-arm fast,Right-hand bat
+New Zealand,MJ Santner,e4a0deae,7,2,3,0,0,66.67,"[7, 9, 12, 14]",4.0,24,8,0,23,0,1,0,0,0,0,0,5.75,0,0,0,0,0,2,12,0,14,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+New Zealand,TG Southee,13c35c9e,8,0,0,0,0,0.0,"[2, 5, 11, 19]",4.0,24,12,0,24,1,1,1,0,1,0,5,6.0,2,0,0,0,0,0,47,16,63,36,True,False,False,Right-arm medium-fast,Right-hand bat
+New Zealand,IS Sodhi,641ac5ff,9,0,0,0,0,0.0,"[8, 10, 16, 18]",4.0,24,6,0,42,2,3,2,0,0,0,1,10.5,0,0,0,0,0,0,54,0,54,32,True,False,False,Legbreak,Right-hand bat
+New Zealand,TA Boult,a818c1be,10,0,0,0,0,0.0,"[1, 3, 15, 17]",4.0,24,12,0,29,4,1,2,0,1,0,0,7.25,0,0,0,0,0,0,70,0,70,35,True,False,False,Left-arm fast-medium,Right-hand bat
+Scotland,HG Munsey,ff014c34,1,22,18,1,2,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,38,0,0,38,32,True,False,False,Right-arm medium-fast,Left-hand bat
+Scotland,KJ Coetzer,85d8110a,2,17,11,4,0,154.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,37,0,0,37,40,True,False,False,Right-arm medium-fast,Right-hand bat
+Scotland,MH Cross,8b261d84,3,27,29,5,0,93.1,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,51,0,16,67,32,True,False,False,,Right-hand bat
+Scotland,RD Berrington,e21bc7f3,4,20,17,1,1,117.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30,37,True,False,False,Right-arm medium-fast,Right-hand bat
+Scotland,CS MacLeod,9c376401,5,12,15,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20,36,True,False,False,Right-arm offbreak,Right-hand bat
+Scotland,MA Leask,28131839,6,42,20,3,3,210.0,[11],1.0,6,1,0,12,0,1,0,0,0,0,0,12.0,0,0,0,0,6,82,1,0,83,34,True,False,True,Right-arm offbreak,Right-hand bat
+Scotland,CN Greaves,f42064d5,7,8,10,0,0,80.0,"[8, 10, 13]",3.0,18,6,0,26,2,1,0,0,0,0,0,8.67,1,0,0,0,0,8,6,8,22,34,True,False,False,Legbreak,Right-hand bat
+Scotland,MRJ Watt,1252f71a,7,0,0,0,0,0.0,"[7, 9, 14, 18]",4.0,24,10,0,13,0,0,1,0,0,0,1,3.25,0,0,0,0,0,0,41,0,41,28,True,False,False,Slow left-arm orthodox,Left-hand bat
+Scotland,SM Sharif,f43dd8c2,8,0,0,0,0,0.0,"[2, 5, 16, 20]",4.0,24,13,0,28,0,2,2,1,0,0,4,7.0,0,0,0,0,0,0,73,0,73,33,True,False,False,Right-arm medium-fast,Right-hand bat
+Scotland,AC Evans,e9a870ed,9,0,0,0,0,0.0,"[3, 6, 12, 17]",4.0,24,6,0,48,3,3,0,0,0,0,4,12.0,0,0,0,0,0,0,2,0,2,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Scotland,BTJ Wheal,3f61a062,10,0,0,0,0,0.0,"[1, 4, 15, 19]",4.0,24,6,0,40,3,1,2,0,0,0,6,10.0,0,0,0,0,0,0,54,0,54,28,True,False,False,Right-arm fast-medium,Right-hand bat

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Gibraltar,KJ Stagno,46ad7e01,1,36,14,2,4,257.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,78,0,8,86,31,True,True,False,Right-arm offbreak,Right-hand bat
+Gibraltar,L Bruce,2a03bd2f,2,0,1,0,0,0.0,"[2, 4, 6, 19]",4.0,24,13,0,27,4,0,1,0,1,0,2,6.75,1,0,0,0,0,-2,48,8,54,19,True,True,False,Right-arm medium,Right-hand bat
+Gibraltar,JD Freyone,7cd7eb50,3,9,19,1,0,47.37,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,7,0,8,15,30,True,True,False,Right-arm medium,Right-hand bat
+Gibraltar,IDM Latin,78f719ea,4,5,4,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17,40,True,True,False,Legbreak,Right-hand bat
+Gibraltar,BAA Zammitt,0e102c3b,5,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,35,True,False,False,,
+Gibraltar,K Nestor,b89cde87,6,35,16,2,3,218.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,71,0,0,71,36,True,True,False,Right-arm fast,Right-hand bat
+Gibraltar,RJ Hatchman,01c05b6c,7,11,13,1,0,84.62,"[17, 20]",2.0,12,2,0,32,2,3,1,0,0,0,1,16.0,0,0,0,0,0,15,21,0,36,38,True,False,False,Right-arm medium,Right-hand bat
+Gibraltar,A Reyes,fd2b8c06,8,1,6,0,0,16.67,"[9, 11]",2.0,12,6,0,23,0,3,1,0,0,0,2,11.5,1,0,0,0,0,1,27,8,36,41,True,True,False,Right-arm medium,Right-hand bat
+Gibraltar,K Mirpuri,441006af,9,18,19,0,0,94.74,"[8, 10, 13, 15]",4.0,24,9,0,25,2,0,3,0,0,0,0,6.25,1,0,0,0,0,18,90,8,116,37,True,True,False,Right-arm offbreak,Right-hand bat
+Gibraltar,S Bodha,00467a76,10,25,16,4,0,156.25,"[12, 14, 16, 18]",4.0,24,10,0,29,1,1,1,0,0,1,5,7.25,0,0,0,0,4,49,35,0,84,22,True,True,False,Right-arm medium,Right-hand bat
+Gibraltar,BA Pai,716bf559,11,12,7,1,0,171.43,"[1, 3, 5, 7]",4.0,24,11,1,22,1,1,0,0,0,0,0,5.5,0,0,0,0,0,16,27,0,43,43,True,True,False,Right-arm offbreak,Right-hand bat
+Malta,SSM Stanislaus,34dd3fd9,1,47,39,4,2,120.51,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,79,0,0,79,44,True,True,False,Right-arm offbreak,Right-hand bat
+Malta,Jaspal Singh,adca37a2,2,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,-2,0,16,14,38,True,True,False,Right-arm medium,Right-hand bat
+Malta,RR Bastiansz,5365f10f,3,24,24,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,30,0,8,38,39,True,True,False,Right-arm medium,Left-hand bat
+Malta,N Khanna,0ec6a7c3,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,42,True,True,False,Right-arm offbreak,Right-hand bat
+Malta,VP Thamotharam,eb40ed89,5,60,30,5,5,200.0,"[1, 20]",2.0,12,1,0,34,2,3,0,0,0,0,0,17.0,0,0,0,0,6,124,-5,0,119,36,True,True,False,Left-arm medium-fast,Left-hand bat
+Malta,Fanyan Mughal,e85bb4b3,6,3,5,0,0,60.0,"[7, 11, 13, 19]",4.0,24,12,0,18,1,0,2,0,0,0,3,4.5,1,0,0,0,0,3,68,8,79,38,True,False,False,,
+Malta,Aaftab Alam Khan,9dbc77b3,7,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,1,0,20,21,39,True,True,False,Right-arm medium-fast,Right-hand bat
+Malta,Amar Sharma,14e1fdab,8,6,8,0,0,75.0,"[9, 14, 16, 18]",4.0,24,10,0,31,2,1,2,0,0,0,2,7.75,0,0,0,0,0,6,60,0,66,46,True,True,False,Right-arm offbreak,Right-hand bat
+Malta,Fazil Rahman,d18b7f34,9,6,6,1,0,100.0,"[2, 4, 6, 12]",4.0,24,18,0,15,2,0,4,1,0,0,2,3.75,0,0,0,0,0,10,140,0,150,28,True,True,False,Right-arm medium,Right-hand bat
+Malta,D Marks,0813a8b1,11,0,0,0,0,0.0,"[3, 5, 15, 17]",4.0,24,4,0,42,4,1,0,0,0,0,3,10.5,0,0,0,0,0,0,2,0,2,38,True,True,False,Right-arm fast,Right-hand bat
+Malta,Yash Singh,7adc2d68,12,0,0,0,0,0.0,"[8, 10]",2.0,12,3,0,23,1,2,1,0,0,0,0,11.5,0,0,0,0,0,0,24,0,24,32,True,True,False,Right-arm offbreak,Right-hand bat

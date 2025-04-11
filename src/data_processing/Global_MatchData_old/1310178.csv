@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Hungary,Khaibar Deldar,032c7eab,1,14,11,2,0,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,22,0,8,30,34,True,True,False,Right-arm medium,Right-hand bat
+Hungary,Abhijeet Ahuja,b91083bd,2,21,25,2,0,84.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,29,0,16,45,38,True,True,False,Right-arm medium,Right-hand bat
+Hungary,Zahir Mohammed,7c38942a,3,78,42,6,6,185.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,6,156,0,6,162,34,True,True,False,Right-arm medium,Right-hand bat
+Hungary,Abhishek Ahuja,65cf74b4,4,6,8,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,0,6,0,12,18,39,True,True,False,Right-arm offbreak,Right-hand bat
+Hungary,HV Mandhyan,11f56b14,5,9,8,0,1,112.5,"[6, 8, 18, 20]",4.0,24,8,0,30,3,0,3,0,0,0,0,7.5,0,0,0,0,0,15,87,0,102,34,True,True,False,Right-arm offbreak,Right-hand bat
+Hungary,AG Weligamage,747209e0,6,0,0,0,0,0.0,"[1, 3, 5, 17]",4.0,24,11,0,40,4,2,0,0,0,0,3,10.0,0,0,0,0,0,0,9,0,9,41,True,True,False,Right-arm medium-fast,Right-hand bat
+Hungary,A Kheterpal,2deb4082,6,23,11,3,1,209.09,"[7, 9, 11, 19]",4.0,24,9,0,30,3,0,0,0,0,0,5,7.5,0,0,0,1,6,47,9,6,62,43,True,True,False,Right-arm medium,Right-hand bat
+Hungary,Ali Farasat,5845b99b,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,0,0,6,6,32,True,True,False,Right-arm offbreak,Right-hand bat
+Hungary,S Ashwathnarayana,8f8d30be,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,39,True,True,False,Right-arm medium,Right-hand bat
+Hungary,SA Mohandas,8b0b3bba,9,0,0,0,0,0.0,"[2, 4, 13, 15]",4.0,24,13,0,31,2,1,1,0,0,0,8,7.75,1,0,0,1,0,0,38,14,52,36,True,True,False,Right-arm medium-fast,Right-hand bat
+Hungary,BP Adapaka,e6082b10,10,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,7,0,26,1,1,0,0,0,0,0,6.5,0,0,0,0,0,0,9,0,9,34,True,True,False,Right-arm offbreak,Right-hand bat
+Romania,R Satheesan,1125ebe4,1,20,20,3,0,100.0,[16],1.0,6,1,0,13,1,1,0,0,0,0,0,13.0,0,0,0,0,0,32,1,0,33,43,True,True,False,Right-arm offbreak,Right-hand bat
+Romania,Taranjeet Singh,ec483176,2,43,25,6,2,172.0,"[9, 11]",2.0,12,2,0,28,2,2,1,0,0,0,0,14.0,0,0,0,0,6,89,21,0,110,39,True,True,False,Right-arm offbreak,Right-hand bat
+Romania,Abdul Shakoor,d52b13a6,3,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,3,0,12,15,31,True,True,False,Right-arm medium-fast,Right-hand bat
+Romania,S Periyalwar,d207e4fb,4,5,6,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,27,True,True,False,Right-arm medium-fast,Right-hand bat
+Romania,V Saini,0fa81719,5,47,32,4,2,146.88,"[8, 10, 12, 18]",3.5,21,9,0,31,3,2,0,0,0,0,0,8.86,1,0,0,0,2,81,9,8,98,35,True,True,False,Right-arm medium,Right-hand bat
+Romania,C Zavoiu,6b96bebf,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,46,True,True,False,Right-arm offbreak,Right-hand bat
+Romania,Ijaz Hussain,dc1dd6c4,6,3,12,0,0,25.0,"[13, 15, 17]",3.0,18,9,0,16,2,0,2,0,0,1,1,5.33,1,0,0,0,-6,-3,63,8,68,31,True,True,False,Right-arm medium-fast,Right-hand bat
+Romania,M Gherasim,692d4cbe,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,18,True,True,False,Right-arm medium,Right-hand bat
+Romania,Gaurav Mishra,507dd87f,7,20,19,0,0,105.26,"[1, 3, 5, 7]",4.0,24,9,0,29,2,0,0,0,0,0,4,7.25,0,0,0,0,0,20,9,0,29,33,True,True,False,Right-arm medium-fast,Right-hand bat
+Romania,Aftab Kayani,4d83491d,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,42,True,True,False,Right-arm medium,Right-hand bat
+Romania,R Kumar,2df874e6,8,0,0,0,0,0.0,"[2, 4, 6, 14]",4.0,24,11,0,43,3,3,1,0,1,0,3,10.75,0,0,0,0,0,0,42,0,42,34,True,True,False,Right-arm medium-fast,Right-hand bat

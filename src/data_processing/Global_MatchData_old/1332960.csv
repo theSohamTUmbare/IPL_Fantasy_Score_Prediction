@@ -1,0 +1,25 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Railways,Pratham Singh,f9f21866,1,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,32,True,False,False,Right-arm offbreak,Left-hand bat
+Railways,Shivam Chaudhary,e53af640,2,70,55,7,1,127.27,"[1, 3, 9, 11]",4.0,24,12,0,21,3,0,0,0,0,0,0,5.25,0,0,0,0,0,112,16,0,128,27,True,True,False,Right-arm offbreak,Right-hand bat
+Railways,Mohammad Saif,2843d331,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,28,True,True,False,Slow left-arm orthodox,Left-hand bat
+Railways,Upendra Yadav,80ffea17,4,35,33,4,1,106.06,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,1,0,61,0,18,79,28,True,True,False,Right-arm offbreak,Right-hand bat
+Railways,Suraj Ahuja,a0d05c98,5,22,11,1,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,38,0,0,38,25,True,False,False,,Right-hand bat
+Railways,Vivek Singh,a446c7be,6,10,7,0,1,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,31,True,False,False,Right-arm medium,Left-hand bat
+Railways,MR Raut,af7f15f3,7,5,4,1,0,125.0,[13],1.0,6,0,0,22,0,3,0,0,0,0,0,22.0,2,0,0,0,0,9,0,16,25,27,True,True,False,Slow left-arm orthodox,Right-hand bat
+Railways,KV Sharma,119678fd,8,9,5,2,0,180.0,"[7, 10, 12, 15]",4.0,24,8,0,21,1,0,0,0,0,0,1,5.25,1,0,0,0,0,17,12,8,37,37,True,False,False,Legbreak googly,Left-hand bat
+Railways,Dhrushant Soni,13abdc50,9,0,1,0,0,0.0,"[14, 16, 18]",3.0,18,5,0,34,5,1,1,0,0,0,1,11.33,0,0,0,1,0,-2,26,6,30,29,True,True,False,Right-arm medium,Right-hand bat
+Railways,Harsh Tyagi,4a15018a,10,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,25,True,True,False,Slow left-arm orthodox,Left-hand bat
+Railways,Yuvraj Singh,30829ea2,10,0,0,0,0,0.0,"[5, 8, 17, 19]",4.0,24,10,0,25,2,1,2,0,0,0,0,6.25,0,0,0,0,0,0,62,0,62,26,True,False,True,Right-arm medium-fast,Right-hand bat
+Railways,T Pradeep,a0d66374,11,0,0,0,0,0.0,"[2, 4, 6, 20]",4.0,24,11,0,41,5,2,1,0,0,0,1,10.25,0,0,0,0,0,0,34,0,34,30,True,False,False,Right-arm medium-fast,Right-hand bat
+Rajasthan,YB Kothari,c2aaa4be,1,10,8,2,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,29,True,True,False,Legbreak googly,Right-hand bat
+Rajasthan,AL Menaria,8291f939,2,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,1,0,14,15,34,True,False,True,Slow left-arm orthodox,Left-hand bat
+Rajasthan,SF Khan,25986786,3,28,22,3,1,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,50,0,0,50,26,True,True,False,Right-arm offbreak,Right-hand bat
+Rajasthan,MK Lomror,da934ee8,4,50,44,6,1,113.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,88,0,8,96,25,True,False,True,Slow left-arm orthodox,Left-hand bat
+Rajasthan,Samarpit Joshi,ad5cdffc,5,39,27,2,3,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,71,0,0,71,25,True,False,False,,Right-hand bat
+Rajasthan,Arjit Gupta,145903a5,6,17,12,1,1,141.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,29,0,0,29,35,True,True,False,Right-arm medium,Right-hand bat
+Rajasthan,KS Rathore,e3851766,7,14,4,2,1,350.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,28,0,8,36,22,True,False,False,,Left-hand bat
+Rajasthan,KL Nagarkoti,b4f5c2d9,8,2,1,0,0,200.0,"[5, 7, 17, 19]",4.0,24,7,0,45,9,0,1,0,0,0,1,11.25,0,0,0,0,0,2,28,0,30,25,True,False,False,Right-arm fast,Right-hand bat
+Rajasthan,Ravi Bishnoi,df064e1a,10,0,0,0,0,0.0,"[6, 9, 11, 13]",4.0,24,7,0,28,1,1,1,0,0,0,1,7.0,0,0,0,0,0,0,34,0,34,24,True,False,False,Legbreak googly,Right-hand bat
+Rajasthan,RD Chahar,2ed569a0,11,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,5,0,27,2,0,0,0,0,0,0,6.75,1,0,0,0,0,0,7,8,15,25,True,False,False,Legbreak googly,Right-hand bat
+Rajasthan,A Choudhary,18e6906e,12,0,0,0,0,0.0,"[1, 3, 16, 18]",4.0,24,12,0,25,1,2,3,1,0,0,0,6.25,0,0,0,0,0,0,101,0,101,35,True,False,False,Left-arm medium,Right-hand bat
+Rajasthan,KK Ahmed,a2f46292,13,0,0,0,0,0.0,"[2, 4, 15, 20]",4.0,24,11,0,31,2,1,2,0,0,0,2,7.75,2,0,0,1,0,0,61,22,83,27,True,False,False,Left-arm fast-medium,Right-hand bat

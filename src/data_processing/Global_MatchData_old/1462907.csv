@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Mexico,Praveen Santhanakrishnan,22fb205e,1,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,38,True,False,False,,
+Mexico,RK Singh,6e974d8f,2,5,9,0,0,55.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,5,0,8,13,36,True,True,False,Right-arm offbreak,Left-hand bat
+Mexico,Luis Hermida,03beb59f,3,26,32,2,0,81.25,"[15, 17]",2.0,12,3,0,10,0,0,1,1,0,0,0,5.0,0,0,0,0,0,38,40,0,78,42,True,False,False,Right-arm medium,Right-hand bat
+Mexico,R Ankad,5995707a,4,9,17,0,0,52.94,"[7, 9, 11, 13]",4.0,24,12,0,18,1,0,3,0,1,0,2,4.5,1,0,0,0,-4,5,105,8,118,47,True,True,False,Right-arm medium,Right-hand bat
+Mexico,PK Mohanarangam,d73891ad,5,5,8,0,0,62.5,"[6, 8, 10, 20]",4.0,24,13,0,17,2,0,2,0,0,0,0,4.25,1,0,0,0,0,5,69,8,82,31,True,True,False,Right-arm medium,Right-hand bat
+Mexico,Shoaib Rafiq,27df03d2,6,9,5,0,1,180.0,"[2, 4, 19]",3.0,18,9,0,17,2,0,0,0,0,0,0,5.67,0,0,0,0,0,15,13,0,28,35,True,True,False,Right-arm medium-fast,Right-hand bat
+Mexico,KB Patil,0474fd64,7,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,34,True,False,False,,Right-hand bat
+Mexico,R Poojary,d05e9052,8,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,2,0,20,22,36,True,False,False,,Right-hand bat
+Mexico,Shantanu Kaveri,091880f7,9,0,4,0,0,0.0,"[16, 18]",2.0,12,6,0,7,0,0,1,0,0,0,0,3.5,0,0,0,0,0,-2,37,0,35,46,True,True,False,Right-arm medium,Right-hand bat
+Mexico,DV Devjani Mutreja,c872d657,10,0,2,0,0,0.0,"[12, 14]",2.0,12,3,0,17,2,0,0,0,0,0,2,8.5,0,0,0,0,0,-2,3,0,1,16,True,True,False,Right-arm medium,Right-hand bat
+Mexico,Pratik Singh Bais,5b351aff,11,1,1,0,0,100.0,"[1, 3, 5]",3.0,18,6,0,24,3,0,1,0,0,0,1,8.0,0,0,0,0,0,1,31,0,32,27,True,True,False,Right-arm medium-fast,Right-hand bat
+Panama,Breeze Ahir,da09ca26,1,3,3,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,24,True,True,False,Legbreak,Left-hand bat
+Panama,P Jayeshbhai Patel,3317dc7a,2,20,18,3,0,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,32,0,6,38,33,True,True,False,Right-arm medium,Right-hand bat
+Panama,Mahmud Jasat,97e36a0f,3,28,24,4,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,48,0,0,48,32,True,False,False,Right-arm medium,Left-hand bat
+Panama,Irfan Hafejee,244009ae,4,4,16,0,0,25.0,"[5, 7]",2.0,12,7,0,15,2,0,0,0,0,0,2,7.5,0,0,0,0,-6,-2,7,0,5,42,True,True,False,Right-arm medium,Right-hand bat
+Panama,A Natubhai Ahir,9c91218d,5,0,2,0,0,0.0,"[8, 10, 12, 14]",4.0,24,12,0,12,0,0,1,0,0,0,0,3.0,1,0,0,1,0,-2,43,14,55,37,True,True,False,Left-arm medium,Right-hand bat
+Panama,Yusuf Ebrahim,2d5c6e88,6,8,7,1,0,114.29,[6],1.0,6,3,0,5,0,0,0,0,0,0,0,5.0,2,0,0,0,0,12,3,16,31,38,True,True,False,Right-arm medium,Right-hand bat
+Panama,P Suman Bhai Ahir,af3042f1,7,10,12,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,14,0,14,28,24,True,True,False,Right-arm medium,Right-hand bat
+Panama,RDB Ahir,2f6f44bb,8,8,8,0,0,100.0,"[2, 4, 15]",2.667,16,9,0,11,0,0,2,0,0,0,1,4.12,1,0,0,0,0,8,65,8,81,29,True,True,False,Right-arm medium,Right-hand bat
+Panama,DK Dahyabhai Ahir,ce9ee68f,9,12,16,0,0,75.0,"[9, 11, 13]",3.0,18,12,0,11,0,1,3,1,0,0,0,3.67,0,0,0,0,0,12,105,0,117,41,True,True,False,Right-arm medium,Right-hand bat
+Panama,Sohel Ebrahim Desai,3ec178e7,10,4,6,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,1,0,4,0,26,30,27,True,False,False,,Right-hand bat
+Panama,AM Patel,a09323d8,11,8,8,1,0,100.0,"[1, 3]",2.0,12,5,0,9,0,0,2,0,0,0,1,4.5,0,0,0,0,0,12,61,0,73,31,True,True,False,Right-arm medium,Right-hand bat

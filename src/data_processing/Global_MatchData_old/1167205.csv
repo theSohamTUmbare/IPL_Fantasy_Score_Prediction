@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Gloucestershire,Miles Hammond,c88bc84a,1,6,7,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,29,True,False,False,Right-arm offbreak,Left-hand bat
+Gloucestershire,M Klinger,b970a03f,2,40,38,0,2,105.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,56,0,8,64,44,True,False,False,,Right-hand bat
+Gloucestershire,James Bracey,5bfdc77a,3,64,47,9,0,136.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,110,0,8,118,27,True,True,False,Right-arm medium,Left-hand bat
+Gloucestershire,IA Cockbain,542fd5a6,4,6,10,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,4,0,0,4,38,True,False,False,Right-arm medium,Right-hand bat
+Gloucestershire,JMR Taylor,aed5be04,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,33,True,False,False,Legbreak,Right-hand bat
+Gloucestershire,RF Higgins,ad212f96,5,12,5,1,1,240.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,30,True,False,True,Right-arm medium-fast,Right-hand bat
+Gloucestershire,TMJ Smith,0a12e736,6,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,8,0,20,1,0,1,0,0,0,0,5.0,0,0,0,0,0,0,37,0,37,37,True,False,False,Slow left-arm orthodox,Right-hand bat
+Gloucestershire,ZJ Chappell,fe5b4367,7,0,0,0,0,0.0,"[2, 5, 11, 18]",4.0,24,7,0,39,4,1,1,0,0,0,2,9.75,1,0,0,0,0,0,32,8,40,28,True,False,False,Right-arm fast-medium,Right-hand bat
+Gloucestershire,AJ Tye,7c7d63a2,8,0,0,0,0,0.0,"[4, 6, 17, 19]",4.0,24,8,0,25,3,0,1,0,0,0,0,6.25,3,0,0,0,0,0,35,28,63,38,True,False,False,Right-arm medium-fast,Right-hand bat
+Gloucestershire,DA Payne,6c79c098,9,0,0,0,0,0.0,"[1, 3, 16, 20]",4.0,24,10,0,28,3,1,0,0,0,0,0,7.0,0,0,0,0,0,0,12,0,12,34,True,False,False,Left-arm fast-medium,Right-hand bat
+Gloucestershire,CJ Liddle,5b3acc53,10,0,0,0,0,0.0,"[7, 9, 13, 15]",4.0,24,9,0,25,1,1,3,0,0,0,0,6.25,0,0,0,0,0,0,90,0,90,41,True,False,False,Left-arm fast-medium,Right-hand bat
+Hampshire,AHT Donald,72918338,1,44,23,5,2,191.3,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,86,0,0,86,28,True,False,False,Right-arm offbreak,Right-hand bat
+Hampshire,JM Vince,a15618fe,2,9,9,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,34,True,False,False,Right-arm medium,Right-hand bat
+Hampshire,SA Northeast,7e4c8ba3,3,26,24,3,0,108.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,42,0,16,58,35,True,False,False,Right-arm offbreak,Right-hand bat
+Hampshire,LA Dawson,4a461c24,4,13,14,1,0,92.86,"[8, 10, 12, 14]",4.0,24,8,0,21,1,0,1,0,0,0,0,5.25,0,0,0,0,0,17,37,0,54,35,True,False,True,Slow left-arm orthodox,Right-hand bat
+Hampshire,RA Stevenson,978bd738,5,0,0,0,0,0.0,[5],1.0,6,2,0,25,3,1,0,0,0,2,2,25.0,0,0,0,0,0,0,2,0,2,32,True,True,False,Right-arm fast-medium,Right-hand bat
+Hampshire,CH Morris,fb66ce1f,5,18,24,1,0,75.0,"[2, 4, 13, 17]",4.0,24,13,0,27,4,0,2,0,0,2,1,6.75,1,0,0,0,0,22,65,8,95,37,True,False,True,Right-arm fast-medium,Right-hand bat
+Hampshire,CP Wood,1cfac535,6,0,0,0,0,0.0,"[1, 3, 16, 18]",3.833,23,9,0,25,1,1,0,0,0,0,1,6.52,0,0,0,0,0,0,11,0,11,34,True,False,False,Left-arm medium-fast,Right-hand bat
+Hampshire,JK Fuller,dda5aae5,6,6,7,0,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6,35,True,False,True,Right-arm fast-medium,Right-hand bat
+Hampshire,KJ Abbott,a9da7784,7,0,0,0,0,0.0,"[6, 9, 15]",3.0,18,4,0,24,2,0,0,0,0,0,1,8.0,0,0,0,0,0,0,4,0,4,37,True,False,False,Right-arm fast-medium,Right-hand bat
+Hampshire,LD McManus,6feb46a4,7,18,16,1,1,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28,30,True,False,False,,Right-hand bat
+Hampshire,IG Holland,4167f30b,8,1,3,0,0,33.33,"[7, 11]",2.0,12,2,0,17,0,1,0,0,0,0,2,8.5,0,0,0,0,0,1,2,0,3,34,True,False,True,Right-arm medium,Right-hand bat

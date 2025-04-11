@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Maharashtra,RD Gaikwad,45a43fe2,1,7,8,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,28,True,False,False,Right-arm offbreak,Right-hand bat
+Maharashtra,RA Tripathi,77255a9e,2,0,2,0,0,0.0,"[6, 8, 10]",3.0,18,10,0,12,1,0,2,0,0,0,1,4.0,3,0,0,0,0,-2,66,28,92,34,True,False,False,Right-arm medium,Right-hand bat
+Maharashtra,KM Jadhav,99d63244,3,27,26,2,1,103.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,45,0,0,45,40,True,False,True,Right-arm offbreak,Right-hand bat
+Maharashtra,Naushad Shaikh,9ed95736,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,33,True,False,False,Right-arm offbreak,Right-hand bat
+Maharashtra,SM Gugale,fdf8d681,5,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,33,True,True,False,Right-arm offbreak,Right-hand bat
+Maharashtra,Azim Kazi,ccae927b,6,44,28,1,4,157.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,80,0,0,80,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Maharashtra,NS Naik,aedc3b7c,7,20,17,0,1,117.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,26,0,8,34,30,True,False,False,,Right-hand bat
+Maharashtra,Satyajeet Bachhav,09a71776,8,4,6,0,0,66.67,"[7, 11, 13]",3.0,18,6,0,23,2,1,2,0,0,0,0,7.67,0,0,0,0,0,4,56,0,60,32,True,False,False,Slow left-arm orthodox,Left-hand bat
+Maharashtra,Mukesh Choudhary,765a4731,10,0,0,0,0,0.0,"[2, 4, 15]",3.0,18,13,0,10,0,1,2,0,1,0,1,3.33,0,0,0,0,0,0,77,0,77,28,True,False,False,Left-arm medium,Left-hand bat
+Maharashtra,NR Dhumal,732dbafc,11,0,0,0,0,0.0,"[5, 9, 12]",3.0,18,9,0,28,4,1,0,0,0,0,1,9.33,0,0,0,0,0,0,9,0,9,33,True,True,False,Right-arm medium,Right-hand bat
+Maharashtra,SM Fallah,c8f697bd,12,0,0,0,0,0.0,"[1, 3, 14]",3.0,18,8,0,20,1,1,2,0,1,0,2,6.67,0,0,0,0,0,0,68,0,68,39,True,False,False,Left-arm medium,Left-hand bat
+Railways,Mrunal Devdhar,a1765140,1,3,3,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,32,True,True,False,Right-arm medium,Right-hand bat
+Railways,Pratham Singh,f9f21866,2,7,6,1,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,32,True,False,False,Right-arm offbreak,Left-hand bat
+Railways,Gandhar Bhatawadekar,80beeaa1,3,1,10,0,0,10.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-5,0,0,-5,31,True,False,False,Right-arm offbreak,Right-hand bat
+Railways,Dinesh Mor,7f28f186,4,10,14,2,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,18,0,28,46,29,True,False,False,,Right-hand bat
+Railways,M Ahmed,7ca476bf,5,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,35,True,True,False,Slow left-arm orthodox,Right-hand bat
+Railways,KV Sharma,119678fd,6,11,10,2,0,110.0,"[7, 10, 12]",3.0,18,5,0,19,0,1,1,0,0,0,0,6.33,0,0,0,0,0,19,32,0,51,37,True,False,False,Legbreak googly,Left-hand bat
+Railways,KP Kakad,1ece10dd,7,0,4,0,0,0.0,[11],1.0,6,1,0,16,0,2,0,0,0,0,0,16.0,0,0,0,0,0,-2,1,0,-1,29,True,True,False,Legbreak,Right-hand bat
+Railways,Harsh Tyagi,4a15018a,8,28,21,1,2,133.33,"[9, 13]",2.0,12,1,0,18,1,1,1,0,0,0,0,9.0,0,0,0,0,2,50,26,0,76,25,True,True,False,Slow left-arm orthodox,Left-hand bat
+Railways,T Pradeep,a0d66374,9,27,16,2,2,168.75,"[2, 5, 14]",3.0,18,10,0,12,1,0,1,0,0,0,0,4.0,1,0,0,0,4,55,41,8,104,30,True,False,False,Right-arm medium-fast,Right-hand bat
+Railways,Himanshu Sangwan,531f7ccc,10,0,0,0,0,0.0,"[3, 8, 15]",3.0,18,5,0,26,1,2,0,0,0,0,0,8.67,1,0,0,0,0,0,5,8,13,29,True,True,False,Right-arm medium-fast,Right-hand bat
+Railways,K Upadhyay,27e71d47,10,0,0,0,0,0.0,"[1, 4, 6]",3.0,18,10,0,12,1,0,3,0,1,0,0,4.0,0,0,0,0,0,0,103,0,103,38,True,True,False,Right-arm medium,Right-hand bat

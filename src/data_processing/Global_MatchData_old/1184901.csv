@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Botswana,Z Abbasi,5d9ebb3c,1,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,37,True,True,False,Right-arm medium,Right-hand bat
+Botswana,K Modise,b7f70e36,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,36,True,True,False,Slow left-arm orthodox,Left-hand bat
+Botswana,K Mothlhanka,1a37008a,3,4,7,1,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,,,,,,
+Botswana,T Phaswana,56c0966b,4,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,26,True,False,False,,
+Botswana,V Balakrishnan,0c1da0c4,5,8,20,1,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,6,0,0,6,36,True,True,False,Right-arm offbreak,Right-hand bat
+Botswana,R Nehonde,4393e047,6,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,34,True,True,False,Right-arm offbreak,Right-hand bat
+Botswana,JWN Moses,492c17f0,7,3,9,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,59,True,True,False,Right-arm medium,Right-hand bat
+Botswana,A Rangaswamy,08df0bd3,8,0,1,0,0,0.0,"[2, 4]",1.833,11,4,0,33,5,1,0,0,0,0,6,18.0,0,0,0,0,0,-2,4,0,2,30,True,True,False,Left-arm medium,Right-hand bat
+Botswana,N Master,4833efb4,9,21,16,4,0,131.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,39,0,0,39,33,True,True,False,Right-arm medium,Right-hand bat
+Botswana,M Mooketsi,008a024c,10,3,9,0,0,33.33,"[1, 3]",2.0,12,5,0,17,3,0,0,0,0,0,0,8.5,0,0,0,0,0,3,5,0,8,28,True,True,False,Slow left-arm orthodox,Left-hand bat
+Botswana,D Maisuria,a96b36af,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,True,False,Legbreak googly,Right-hand bat
+Namibia,SJ Baard,e8511411,1,7,4,1,0,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,32,True,False,False,Right-arm medium-fast,Right-hand bat
+Namibia,N Davin,72e361fe,2,37,19,7,1,194.74,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,81,0,0,81,27,True,False,False,Legbreak,Right-hand bat
+Namibia,C Viljoen,f7b2cbe8,2,0,0,0,0,0.0,"[2, 4, 6, 8]",4.0,24,20,0,9,1,0,5,0,3,0,1,2.25,0,0,0,0,0,0,187,0,187,37,True,False,True,Right-arm medium,Right-hand bat
+Namibia,MG Erasmus,95a5e066,3,0,0,0,0,0.0,"[11, 13]",1.167,7,3,0,6,0,0,0,0,0,0,1,5.14,1,0,0,0,0,0,3,8,11,29,True,False,True,Right-arm offbreak,Right-hand bat
+Namibia,ZE Green,8716233e,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,28,True,False,False,,Left-hand bat
+Namibia,JJ Smit,bb134e5c,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,29,True,False,True,Left-arm medium-fast,Right-hand bat
+Namibia,JN Frylinck,3c87f0c3,6,0,0,0,0,0.0,[12],1.0,6,5,0,1,0,0,1,0,1,0,0,1.0,0,0,0,0,0,0,38,0,38,30,True,False,True,Left-arm fast-medium,Left-hand bat
+Namibia,K Birkenstock,27b8d7b6,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,29,True,False,False,Right-arm fast-medium,Left-hand bat
+Namibia,Z Groenewald,017faef2,8,0,0,0,0,0.0,"[1, 3]",2.0,12,10,0,8,1,0,1,1,0,0,3,4.0,0,0,0,0,0,0,49,0,49,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Namibia,BM Scholtz,e85d03d6,9,0,0,0,0,0.0,"[5, 7, 9]",3.0,18,12,0,9,1,0,2,1,1,0,0,3.0,0,0,0,0,0,0,84,0,84,34,True,False,False,Slow left-arm orthodox,Right-hand bat
+Namibia,T Lungameni,1688f2dc,10,0,0,0,0,0.0,[10],1.0,6,3,0,13,3,0,0,0,0,0,1,13.0,0,0,0,0,0,0,3,0,3,32,True,False,False,Left-arm medium,Right-hand bat

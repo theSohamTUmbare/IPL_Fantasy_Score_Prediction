@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Hampshire,FS Organ,819ae1ad,1,9,11,0,0,81.82,[7],1.0,6,1,0,7,0,0,0,0,0,0,1,7.0,0,0,0,0,0,9,1,0,10,25,True,False,False,Right-arm offbreak,Right-hand bat
+Hampshire,TP Alsop,961b8ff1,2,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,29,True,False,False,,Left-hand bat
+Hampshire,SA Northeast,7e4c8ba3,3,31,30,2,0,103.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,43,0,0,43,35,True,False,False,Right-arm offbreak,Right-hand bat
+Hampshire,CP Wood,1cfac535,3,0,0,0,0,0.0,"[2, 10]",2.0,12,2,0,13,0,0,0,0,0,0,0,6.5,0,0,0,0,0,0,4,0,4,34,True,False,False,Left-arm medium-fast,Right-hand bat
+Hampshire,RA Stevenson,978bd738,4,0,0,0,0,0.0,[11],0.667,4,1,0,7,1,0,0,0,0,0,0,10.49,0,0,0,0,0,0,1,0,1,32,True,True,False,Right-arm fast-medium,Right-hand bat
+Hampshire,JJ Weatherley,a05d0552,4,8,7,1,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,28,True,False,False,Right-arm offbreak,Right-hand bat
+Hampshire,LD McManus,6feb46a4,5,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,30,True,False,False,,Right-hand bat
+Hampshire,Shaheen Shah Afridi,45a7e761,5,0,0,0,0,0.0,"[1, 3, 8]",3.0,18,5,0,30,5,0,0,0,0,0,1,10.0,0,0,0,0,0,0,3,0,3,24,True,False,False,Left-arm fast,Left-hand bat
+Hampshire,MS Crane,f0a0204e,6,0,0,0,0,0.0,"[5, 9]",2.0,12,4,0,13,2,0,1,0,0,0,0,6.5,0,0,0,0,0,0,31,0,31,28,True,False,False,Legbreak googly,Right-hand bat
+Hampshire,JK Fuller,dda5aae5,6,17,10,1,1,170.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,31,0,0,31,35,True,False,True,Right-arm fast-medium,Right-hand bat
+Hampshire,IG Holland,4167f30b,7,1,1,0,0,100.0,"[4, 6]",2.0,12,3,0,10,0,0,0,0,0,0,0,5.0,0,0,0,0,0,1,7,0,8,34,True,False,True,Right-arm medium,Right-hand bat
+Surrey,HM Amla,e798611a,1,29,27,3,0,107.41,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,45,0,0,45,41,True,False,False,Right-arm offbreak,Right-hand bat
+Surrey,WG Jacks,9caf69a1,2,45,31,5,0,145.16,[2],1.0,6,2,0,10,0,0,1,0,0,0,4,10.0,1,0,0,0,2,71,27,8,106,26,True,False,True,Right-arm offbreak,Right-hand bat
+Surrey,LJ Evans,1c513d54,3,4,6,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,37,True,False,False,Right-arm offbreak,Right-hand bat
+Surrey,BT Foakes,fd770945,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0,0,12,12,32,True,False,False,,Right-hand bat
+Surrey,RJ Burns,29e8a62e,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,34,True,False,False,Right-arm medium,Left-hand bat
+Surrey,JL Smith,c834c290,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,24,True,False,False,,Right-hand bat
+Surrey,J Overton,59559bc2,6,0,0,0,0,0.0,[10],1.0,6,2,0,12,2,0,0,0,0,0,0,12.0,0,0,0,0,0,0,2,0,2,30,True,False,True,Right-arm fast,Right-hand bat
+Surrey,AAP Atkinson,70d57519,7,0,0,0,0,0.0,"[9, 11]",2.0,12,3,0,19,1,1,1,0,0,0,0,9.5,0,0,0,0,0,0,28,0,28,27,True,False,False,Right-arm fast-medium,Right-hand bat
+Surrey,GJ Batty,5ac8f17b,8,0,0,0,0,0.0,"[5, 7]",2.0,12,3,0,12,1,0,1,0,0,0,0,6.0,0,0,0,0,0,0,30,0,30,47,True,False,False,Right-arm offbreak,Right-hand bat
+Surrey,D Moriarty,6ea2710f,9,0,0,0,0,0.0,"[4, 6, 8]",3.0,18,8,0,12,0,0,2,0,1,0,0,4.0,0,0,0,0,0,0,72,0,72,26,True,False,False,Slow left-arm orthodox,Left-hand bat
+Surrey,RJW Topley,8db7f47f,10,0,0,0,0,0.0,"[1, 3]",2.0,12,5,0,10,0,0,0,0,0,2,0,5.0,0,0,0,0,0,0,9,0,9,31,True,False,False,Left-arm fast-medium,Right-hand bat

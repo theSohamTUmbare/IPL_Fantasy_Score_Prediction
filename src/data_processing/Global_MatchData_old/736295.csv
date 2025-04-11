@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Titans,H Davids,9c9f8dbc,1,23,11,4,1,209.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,51,0,8,59,45,True,False,False,Right-arm medium-fast,Right-hand bat
+Titans,TB de Bruyn,90d6cdea,2,16,8,2,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30,32,True,False,False,Right-arm medium-fast,Right-hand bat
+Titans,MQ Adams,59a7fc89,3,6,5,1,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,10,0,8,18,40,True,True,False,Right-arm medium,Left-hand bat
+Titans,D Wiese,aa8d28ae,4,1,2,0,0,50.0,"[3, 8]",2.0,12,4,0,13,1,0,2,0,0,0,2,6.5,0,0,0,1,0,1,56,6,63,39,True,False,True,Right-arm medium-fast,Right-hand bat
+Titans,H Klaasen,235c2bb6,5,7,9,0,0,77.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,7,0,8,15,33,True,True,False,Right-arm offbreak,Right-hand bat
+Titans,DJG Sammy,c03c6200,6,16,12,2,0,133.33,[4],1.0,6,2,0,8,1,0,0,0,0,0,1,8.0,1,0,0,0,2,26,2,8,36,41,True,False,True,Right-arm medium,Right-hand bat
+Titans,GL van Buuren,ba377b40,7,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,34,True,False,True,Slow left-arm orthodox,Right-hand bat
+Titans,S von Berg,ffd3fc37,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,38,True,False,True,Legbreak,Right-hand bat
+Titans,ER Links,994d9d36,8,0,0,0,0,0.0,[6],1.0,6,0,0,18,2,1,0,0,0,0,0,18.0,0,0,0,1,0,0,0,6,6,36,True,True,False,Right-arm offbreak,Right-hand bat
+Titans,CJ Dala,1cb14aa4,9,0,0,0,0,0.0,"[2, 7]",2.0,12,5,0,18,1,1,1,0,0,0,1,9.0,0,0,0,0,0,0,30,0,30,35,True,False,False,Right-arm medium,Right-hand bat
+Titans,NE Mbhalati,800b52dc,10,0,0,0,0,0.0,"[1, 5]",2.0,12,3,0,22,2,1,1,0,0,0,2,11.0,0,0,0,0,0,0,26,0,26,43,True,True,False,Right-arm medium-fast,Right-hand bat
+Warriors,JT Smuts,42172c3c,1,37,22,3,2,168.18,[6],1.0,6,2,0,6,0,0,0,0,0,0,2,6.0,0,0,0,0,4,69,2,0,71,36,True,False,True,Slow left-arm orthodox,Right-hand bat
+Warriors,C Kieswetter,1e960f2a,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,37,True,False,False,Right-arm offbreak,Right-hand bat
+Warriors,CA Ingram,c995d726,3,4,3,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16,39,True,False,False,Legbreak,Left-hand bat
+Warriors,C Jonker,a81d6706,4,4,4,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,38,True,False,False,Right-arm medium-fast,Right-hand bat
+Warriors,SR Harmer,23638956,5,24,13,2,1,184.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,44,0,0,44,36,True,False,False,Right-arm offbreak,Right-hand bat
+Warriors,MY Vallie,9fa54c94,6,3,3,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11,35,True,True,False,Right-arm offbreak,Right-hand bat
+Warriors,J Theron,dec8e038,7,1,2,0,0,50.0,"[1, 8]",2.0,12,5,0,13,2,0,1,1,0,0,0,6.5,1,0,0,0,0,1,40,8,49,39,True,False,False,Right-arm medium-fast,Right-hand bat
+Warriors,A Gqamane,a83c44b8,7,0,0,0,0,0.0,[5],1.0,6,3,0,4,0,0,2,0,0,0,1,4.0,0,0,0,0,0,0,53,0,53,35,True,False,True,Right-arm fast-medium,Right-hand bat
+Warriors,SSB Magala,8361e524,8,0,0,0,0,0.0,"[3, 7]",2.0,12,2,0,25,3,0,0,0,0,0,5,12.5,0,0,0,0,0,0,-4,0,-4,34,True,False,False,Right-arm fast-medium,Right-hand bat
+Warriors,BD Walters,1e182ae2,9,0,0,0,0,0.0,[2],1.0,6,2,0,19,3,1,1,0,0,0,1,19.0,0,0,0,0,0,0,27,0,27,38,True,False,False,Right-arm medium-fast,Right-hand bat
+Warriors,L Mbane,ca322fd6,10,0,0,0,0,0.0,[4],1.0,6,2,0,12,1,1,1,0,0,0,0,12.0,0,0,0,0,0,0,27,0,27,42,True,True,False,Right-arm medium,Right-hand bat

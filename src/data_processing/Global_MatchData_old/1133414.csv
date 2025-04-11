@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Jharkhand,Kumar Deobrat,bc6d8229,1,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,32,True,False,False,Right-arm medium,Right-hand bat
+Jharkhand,Ishan Kishan,752f7486,2,18,10,4,0,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,40,0,8,48,26,True,True,False,Legbreak,Left-hand bat
+Jharkhand,Virat Singh,26d76ad9,3,4,7,1,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,27,True,False,False,Legbreak googly,Left-hand bat
+Jharkhand,SS Tiwary,709b0bac,4,12,4,3,0,300.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24,35,True,False,False,,Left-hand bat
+Jharkhand,Nazim Siddiqui,88a4a356,5,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,30,True,True,False,Right-arm medium,Right-hand bat
+Jharkhand,KR Singh,fe608a7e,6,0,1,0,0,0.0,"[11, 14]",2.0,12,3,0,24,3,1,0,0,0,0,0,12.0,0,0,0,0,0,-2,-1,0,-3,28,True,True,False,Right-arm medium,Right-hand bat
+Jharkhand,VR Aaron,0a3d54b9,7,3,30,0,0,10.0,"[2, 4, 13, 19]",4.0,24,9,0,42,5,2,1,0,0,0,0,10.5,2,0,0,0,-6,-3,32,16,45,35,True,False,False,Right-arm fast,Right-hand bat
+Jharkhand,S Nadeem,9d80c5e1,8,0,3,0,0,0.0,"[10, 12, 15, 17]",4.0,24,2,0,41,2,2,0,0,0,0,0,10.25,0,0,0,0,0,-2,0,0,-2,35,True,False,False,Slow left-arm orthodox,Right-hand bat
+Jharkhand,Sunny Gupta,ee3dfa89,9,0,4,0,0,0.0,"[7, 9]",2.0,12,4,0,18,3,0,0,0,0,0,0,9.0,0,0,0,0,0,-2,4,0,2,36,True,True,False,Right-arm offbreak,Right-hand bat
+Jharkhand,Vikash Singh,8b018008,10,25,16,0,3,156.25,"[6, 8, 16, 18, 20]",5.0,30,9,0,55,1,5,1,0,0,1,2,11.0,0,0,0,0,4,51,32,0,83,30,True,True,False,Left-arm medium,Left-hand bat
+Jharkhand,Monu Kumar,fb24e76c,11,0,1,0,0,0.0,"[1, 3, 5]",3.0,18,11,1,16,2,0,2,0,0,0,0,5.33,1,0,0,0,0,0,77,8,85,30,True,False,True,Right-arm medium,Right-hand bat
+Karnataka,MA Agarwal,00ea847a,1,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,34,True,False,False,Right-arm offbreak,Right-hand bat
+Karnataka,KK Nair,944533a5,2,100,51,8,7,196.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,196,0,8,204,33,True,False,False,Right-arm offbreak,Right-hand bat
+Karnataka,BR Sharath,c2dd89ea,3,12,15,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24,28,True,False,False,,Right-hand bat
+Karnataka,Pavan Deshpande,436b8481,4,56,39,6,1,143.59,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,96,0,0,96,35,True,False,True,Right-arm offbreak,Left-hand bat
+Karnataka,Aniruddha Joshi,40c1eeeb,5,19,10,0,2,190.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,37,0,0,37,37,True,False,False,Right-arm offbreak,Right-hand bat
+Karnataka,STR Binny,bd17b45f,6,6,3,1,0,200.0,[7],1.0,6,5,0,1,0,0,0,0,0,0,0,1.0,0,0,0,0,0,10,5,0,15,40,True,False,True,Right-arm medium,Right-hand bat
+Karnataka,M Prasidh Krishna,85e0cf10,11,0,0,0,0,0.0,"[1, 3]",2.0,12,8,0,8,2,0,2,0,1,0,0,4.0,0,0,0,0,0,0,72,0,72,29,True,False,False,Right-arm fast-medium,Right-hand bat
+Karnataka,S Aravind,957532de,12,0,0,0,0,0.0,"[4, 6]",2.0,12,9,0,6,1,0,2,0,0,0,0,3.0,1,0,0,0,0,0,65,8,73,40,True,False,False,Left-arm medium-fast,Left-hand bat
+Karnataka,J Suchith,4125d931,13,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,17,0,13,0,1,2,0,1,0,0,3.25,0,0,1,0,0,0,81,12,93,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+Karnataka,A Mithun,66cf56a5,14,0,0,0,0,0.0,"[2, 5, 15]",2.333,14,7,0,23,5,0,2,0,1,0,0,9.86,1,0,0,0,0,0,65,8,73,35,True,False,False,Right-arm medium,Right-hand bat
+Karnataka,S Gopal,7a8bd078,15,0,0,0,0,0.0,"[9, 11, 13]",3.0,18,13,1,14,0,2,1,0,0,0,0,4.67,1,0,0,0,0,0,56,8,64,31,True,False,True,Legbreak,Right-hand bat

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Belgium,Sherul Mehta,e9bdb79b,1,6,17,0,0,35.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,0,0,0,0,34,True,True,False,Right-arm offbreak,Right-hand bat
+Belgium,Hadisullah Tarakhel,77bedcce,2,78,40,7,6,195.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,160,0,8,168,25,True,False,False,Left-arm medium,Left-hand bat
+Belgium,Wahidullah Usmani,6d27e42d,3,7,12,1,0,58.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,7,0,0,7,36,True,True,False,Right-arm medium-fast,Right-hand bat
+Belgium,Sheraz Sheikh,4aad6842,4,2,9,0,0,22.22,[14],1.0,6,4,0,2,0,0,1,0,0,0,0,2.0,1,0,0,0,0,2,29,8,39,37,True,False,False,Slow left-arm orthodox,Right-hand bat
+Belgium,Saber Zakhil,036dcf9b,5,64,34,1,7,188.24,"[11, 13, 15, 17]",4.0,24,8,0,28,3,0,3,1,1,0,1,7.0,0,0,0,0,6,124,105,0,229,28,True,False,False,Right-arm fast,Right-hand bat
+Belgium,Mamoon Latif,8d78d0d0,6,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,32,True,False,False,,Left-hand bat
+Belgium,Saqlain Ali,be0278d2,7,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,27,True,True,False,Right-arm medium,Right-hand bat
+Belgium,Khalid Ahmadi,cf0b9a0d,8,1,1,0,0,100.0,"[3, 5, 16, 18]",4.0,24,10,0,21,0,0,2,0,1,0,4,5.25,0,0,0,0,0,1,72,0,73,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Belgium,Ashiqullah Said,407d13cc,11,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,7,0,25,3,1,0,0,0,0,1,8.33,0,0,0,0,0,0,7,0,7,31,True,False,False,Right-arm fast,Right-hand bat
+Belgium,B Niaz,b7824537,12,0,0,0,0,0.0,"[7, 9, 19]",2.667,16,6,0,20,1,1,2,0,1,0,0,7.5,0,0,0,0,0,0,64,0,64,21,True,True,False,Right-arm medium-fast,Right-hand bat
+Belgium,NSK Mehta,d516a95f,13,0,0,0,0,0.0,"[1, 8, 10, 12]",4.0,24,10,0,34,4,1,2,0,2,0,1,8.5,1,0,0,0,0,0,76,8,84,33,True,True,False,Slow left-arm orthodox,Left-hand bat
+Malta,G Chaturvedi,e1c92333,1,25,29,3,0,86.21,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,41,0,0,41,40,True,False,False,Right-arm offbreak,Right-hand bat
+Malta,HS Gericke,c28a293e,2,55,33,5,2,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,4,99,0,16,115,45,True,True,False,Right-arm medium-fast,Right-hand bat
+Malta,SSM Stanislaus,34dd3fd9,3,9,10,1,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,44,True,True,False,Right-arm offbreak,Right-hand bat
+Malta,VP Thamotharam,eb40ed89,4,2,4,0,0,50.0,"[4, 8, 14, 18]",4.0,24,12,0,38,2,4,1,0,1,0,0,9.5,0,0,0,0,0,2,45,0,47,36,True,True,False,Left-arm medium-fast,Left-hand bat
+Malta,B Arora,39e9f0c9,5,13,14,2,0,92.86,[12],1.0,6,2,0,17,1,2,0,0,0,0,0,17.0,0,0,0,0,0,21,2,0,23,42,True,True,False,Legbreak,Right-hand bat
+Malta,Bilal Muhammad,eb5aa5b9,6,6,7,0,0,85.71,"[1, 3, 11, 16]",4.0,24,13,0,31,2,1,1,0,0,0,7,7.75,0,0,0,0,0,6,38,0,44,26,True,True,False,Left-arm medium,Right-hand bat
+Malta,N Khanna,0ec6a7c3,7,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,42,True,True,False,Right-arm offbreak,Right-hand bat
+Malta,Washeem Abbas,6de4e430,8,9,8,0,1,112.5,"[5, 7, 17, 19]",4.0,24,14,1,23,1,2,2,0,1,0,0,5.75,0,0,0,0,0,15,88,0,103,34,True,True,False,Right-arm fast,Right-hand bat
+Malta,Haroon Mughal,8ac3d7ee,9,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,40,True,True,False,Right-arm medium,Right-hand bat
+Malta,Amar Sharma,14e1fdab,10,2,2,0,0,100.0,"[6, 9, 13, 15]",4.0,24,11,0,26,2,1,1,0,0,0,1,6.5,0,0,0,0,0,2,38,0,40,46,True,True,False,Right-arm offbreak,Right-hand bat
+Malta,A Bishnoi,376557f7,11,0,1,0,0,0.0,"[2, 10, 20]",3.0,18,7,0,36,1,3,1,1,0,0,3,12.0,1,0,0,0,0,-2,36,8,42,37,True,True,False,Right-arm medium,Right-hand bat

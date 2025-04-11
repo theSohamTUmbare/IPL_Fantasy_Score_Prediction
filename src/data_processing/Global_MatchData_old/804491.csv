@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Essex,JD Ryder,91ffa6c6,1,54,27,9,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,110,0,0,110,40,True,False,True,Right-arm medium,Left-hand bat
+Essex,T Westley,25a42048,2,68,55,7,0,123.64,"[8, 10]",2.0,12,2,0,24,1,2,0,0,0,0,1,12.0,0,0,0,0,0,104,-2,0,102,36,True,False,False,Right-arm offbreak,Right-hand bat
+Essex,RS Bopara,7ca5e05d,3,4,6,0,0,66.67,"[12, 14, 20]",3.0,18,3,0,23,0,1,1,0,0,0,1,7.67,1,0,0,0,0,4,28,8,40,39,True,False,True,Right-arm medium,Right-hand bat
+Essex,KS Velani,a83107e2,4,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,30,True,True,False,Right-arm medium,Right-hand bat
+Essex,RN ten Doeschate,4ec07775,5,14,11,1,0,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,44,True,False,True,Right-arm medium-fast,Right-hand bat
+Essex,JS Foster,e68dd455,6,16,9,0,1,177.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,44,True,False,False,,Right-hand bat
+Essex,GR Napier,611926bc,7,8,3,0,1,266.67,"[5, 7, 13, 17]",4.0,24,10,0,33,1,3,2,0,1,0,1,8.25,0,0,0,0,0,14,68,0,82,45,True,False,True,Right-arm medium,Right-hand bat
+Essex,GM Smith,be4807e3,8,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,41,True,False,True,Right-arm offbreak,Right-hand bat
+Essex,DD Masters,61a9ce31,9,1,3,0,0,33.33,"[2, 4, 6]",3.0,18,5,0,21,2,0,0,0,0,0,0,7.0,1,0,0,0,0,1,7,8,16,46,True,False,False,Right-arm medium-fast,Right-hand bat
+Essex,SW Tait,addfb70e,10,0,0,0,0,0.0,"[9, 11, 16, 18]",4.0,24,10,0,29,2,1,2,1,0,0,3,7.25,0,0,0,0,0,0,68,0,68,42,True,False,False,Right-arm fast,Right-hand bat
+Essex,RJW Topley,8db7f47f,11,0,1,0,0,0.0,"[1, 3, 15, 19]",4.0,24,9,0,46,7,2,1,0,0,0,1,11.5,1,0,0,0,0,-2,30,8,36,31,True,False,False,Left-arm fast-medium,Right-hand bat
+Somerset,CH Gayle,db584dad,1,92,59,8,6,155.93,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,176,0,8,184,45,True,False,True,Right-arm offbreak,Left-hand bat
+Somerset,ME Trescothick,ea42ddb9,2,20,13,3,0,153.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,36,0,0,36,49,True,False,False,Right-arm medium,Left-hand bat
+Somerset,PD Trego,93e06301,3,7,11,0,0,63.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,5,0,8,13,43,True,False,True,Right-arm medium,Right-hand bat
+Somerset,JC Hildreth,782c0568,4,18,13,1,1,138.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,30,0,8,38,40,True,False,False,Right-arm medium-fast,Right-hand bat
+Somerset,J Allenby,7d5e0b78,5,19,14,1,1,135.71,"[9, 11, 13]",3.0,18,10,0,10,0,0,3,2,1,0,0,3.33,0,0,0,0,2,31,119,0,150,42,True,False,True,Right-arm medium,Right-hand bat
+Somerset,TLW Cooper,2318ba22,6,6,2,0,1,300.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,38,True,False,False,Right-arm offbreak,Right-hand bat
+Somerset,L Gregory,06c2de82,7,3,4,0,0,75.0,"[2, 5]",2.0,12,4,0,23,5,0,0,0,0,0,0,11.5,1,0,0,0,0,3,0,8,11,32,True,False,True,Right-arm medium-fast,Right-hand bat
+Somerset,Sohail Tanvir,64d43928,8,1,2,0,0,50.0,"[1, 3, 17, 19]",4.0,24,7,0,38,3,1,2,0,1,2,2,9.5,0,0,0,0,0,1,65,0,66,40,True,False,False,Left-arm medium-fast,Left-hand bat
+Somerset,MTC Waller,d74d1090,9,3,2,0,0,150.0,"[8, 10, 12, 14]",4.0,24,2,0,34,2,0,1,0,0,0,1,8.5,1,0,0,0,0,3,27,8,38,37,True,False,False,Legbreak,Right-hand bat
+Somerset,J Overton,59559bc2,9,0,0,0,0,0.0,"[4, 7, 15]",3.0,18,6,0,33,5,0,0,0,0,3,1,11.0,0,0,0,0,0,0,4,0,4,30,True,False,True,Right-arm fast,Right-hand bat
+Somerset,AC Thomas,b552a935,10,0,0,0,0,0.0,"[6, 16, 18, 20]",4.0,24,8,0,37,2,2,4,0,1,0,0,9.25,0,0,0,0,0,0,124,0,124,48,True,False,False,Right-arm fast-medium,Right-hand bat

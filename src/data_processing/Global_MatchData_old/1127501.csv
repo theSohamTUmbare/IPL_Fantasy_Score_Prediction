@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Somerset,JG Myburgh,47b4ad09,1,16,10,0,2,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,32,0,0,32,44,True,False,False,Right-arm offbreak,Right-hand bat
+Somerset,SM Davies,8fc65c2b,2,11,9,2,0,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,38,True,False,False,,Left-hand bat
+Somerset,JE Taylor,4180d897,3,0,0,0,0,0.0,"[1, 7]",1.667,10,3,0,29,2,2,0,0,0,0,3,17.4,0,0,0,0,0,0,3,0,3,40,True,False,False,Right-arm fast,Right-hand bat
+Somerset,PD Trego,93e06301,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,43,True,False,True,Right-arm medium,Right-hand bat
+Somerset,CJ Anderson,8abdf100,4,8,6,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,34,True,False,True,Left-arm medium-fast,Left-hand bat
+Somerset,J Overton,59559bc2,4,0,0,0,0,0.0,[3],1.0,6,0,0,17,4,0,0,0,0,0,0,17.0,0,0,0,0,0,0,0,0,0,30,True,False,True,Right-arm fast,Right-hand bat
+Somerset,JC Hildreth,782c0568,5,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,40,True,False,False,Right-arm medium-fast,Right-hand bat
+Somerset,MTC Waller,d74d1090,5,0,0,0,0,0.0,[5],1.0,6,2,0,11,2,0,0,0,0,0,1,11.0,1,0,0,0,0,0,2,8,10,37,True,False,False,Legbreak,Right-hand bat
+Somerset,L Gregory,06c2de82,6,50,23,3,4,217.39,[2],1.0,6,2,0,18,1,2,0,0,0,0,1,18.0,0,0,0,0,6,100,2,0,102,32,True,False,True,Right-arm medium-fast,Right-hand bat
+Somerset,RE van der Merwe,05c2ca46,7,9,6,0,1,150.0,"[4, 6]",2.0,12,4,0,26,1,1,1,0,0,0,10,13.0,0,0,0,0,0,15,23,0,38,40,True,False,True,Slow left-arm orthodox,Right-hand bat
+Somerset,TB Abell,ba9258a7,8,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,31,True,False,True,Right-arm medium,Right-hand bat
+Surrey,JJ Roy,d1c36f5c,1,28,11,3,2,254.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,62,0,8,70,34,True,False,False,,Right-hand bat
+Surrey,AJ Finch,b8d490fd,2,43,21,4,3,204.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,87,0,0,87,38,True,False,False,Slow left-arm orthodox,Right-hand bat
+Surrey,NJ Maddinson,44afbf2d,3,15,8,3,0,187.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27,33,True,False,False,Slow left-arm orthodox,Left-hand bat
+Surrey,BT Foakes,fd770945,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,32,True,False,False,,Right-hand bat
+Surrey,OJ Pope,e94bc520,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,27,True,False,False,,Right-hand bat
+Surrey,R Clarke,8728a058,5,0,0,0,0,0.0,"[4, 6]",2.0,12,4,0,19,2,1,2,0,0,0,0,9.5,1,0,0,0,0,0,54,8,62,43,True,False,True,Right-arm medium-fast,Right-hand bat
+Surrey,SM Curran,e94915e6,6,0,0,0,0,0.0,[2],1.0,6,2,0,9,0,1,0,0,0,0,1,9.0,0,0,0,0,0,0,2,0,2,26,True,False,True,Left-arm medium-fast,Left-hand bat
+Surrey,TK Curran,e86754b2,7,0,0,0,0,0.0,"[3, 10]",2.0,12,6,0,16,2,1,2,1,0,0,0,8.0,0,0,0,0,0,0,64,0,64,30,True,False,True,Right-arm fast-medium,Right-hand bat
+Surrey,MW Pillans,6a2fadd0,8,0,0,0,0,0.0,[8],1.0,6,1,0,11,0,1,1,0,0,0,0,11.0,0,0,0,0,0,0,26,0,26,33,True,True,False,Right-arm fast,Right-hand bat
+Surrey,GJ Batty,5ac8f17b,9,0,0,0,0,0.0,"[5, 7]",2.0,12,3,0,14,0,1,1,1,0,0,0,7.0,0,0,0,0,0,0,38,0,38,47,True,False,False,Right-arm offbreak,Right-hand bat
+Surrey,JW Dernbach,7be8a0ed,10,0,0,0,0,0.0,"[1, 9]",2.0,12,2,0,28,2,2,0,0,0,0,0,14.0,0,0,0,0,0,0,-4,0,-4,39,True,False,False,Right-arm fast-medium,Right-hand bat

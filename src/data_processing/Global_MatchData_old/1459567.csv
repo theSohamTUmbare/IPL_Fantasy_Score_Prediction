@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Durbar Rajshahi,Mohammad Haris,ff3f6fc1,1,19,12,4,0,158.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,39,0,0,39,23,True,True,False,Right-arm offbreak,Right-hand bat
+Durbar Rajshahi,Sabbir Hossain,047e80ca,2,39,19,4,3,205.26,[9],1.0,6,1,0,16,0,2,1,0,0,1,0,16.0,0,0,0,0,6,83,26,0,109,28,True,False,True,Right-arm medium,Right-hand bat
+Durbar Rajshahi,Anamul Haque,72b245dd,3,34,31,2,0,109.68,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,46,0,8,54,32,True,False,False,,Right-hand bat
+Durbar Rajshahi,RP Burl,b08252b8,4,0,1,0,0,0.0,"[13, 15, 17, 19]",4.0,24,12,0,22,1,1,4,0,0,0,1,5.5,1,0,0,0,0,-2,124,8,130,30,True,False,True,Legbreak,Left-hand bat
+Durbar Rajshahi,Yasir Ali Chowdhury,5791b840,5,60,32,2,6,187.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,6,118,0,28,146,28,True,False,False,Right-arm offbreak,Right-hand bat
+Durbar Rajshahi,Akbar Ali,abae26ad,6,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,2,0,12,14,23,True,False,False,,Right-hand bat
+Durbar Rajshahi,SM Meherob,f146c339,7,4,6,0,0,66.67,"[2, 4, 14]",3.0,18,12,1,19,1,2,2,0,1,0,0,6.33,0,0,0,0,0,4,84,0,88,21,True,False,True,Right-arm offbreak,Left-hand bat
+Durbar Rajshahi,Sunzamul Islam,0f348f58,8,2,4,0,0,50.0,"[5, 7, 11]",3.0,18,4,0,28,1,1,0,0,0,0,5,9.33,0,0,0,0,0,2,4,0,6,35,True,False,True,Slow left-arm orthodox,Left-hand bat
+Durbar Rajshahi,Taskin Ahmed,ef18b66e,9,4,3,1,0,133.33,"[1, 3, 18, 20]",3.333,20,6,0,20,2,0,2,0,2,0,1,6.0,0,0,0,0,0,8,74,0,82,29,True,False,False,Right-arm fast,Left-hand bat
+Durbar Rajshahi,Shafiul Islam,1a8eebbe,10,2,2,0,0,100.0,"[8, 10, 12]",3.0,18,9,0,16,2,0,1,0,0,0,0,5.33,0,0,0,0,0,2,38,0,40,35,True,False,False,Right-arm fast-medium,Right-hand bat
+Durbar Rajshahi,Mohor Sheikh,b3213c74,11,3,4,0,0,75.0,"[6, 16]",2.0,12,4,0,23,5,0,0,0,0,0,0,11.5,1,0,0,0,0,3,0,8,11,28,True,True,False,Right-arm medium,Right-hand bat
+Rangpur Riders,SR Taylor,a9231c3f,1,4,10,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2,31,True,False,False,Right-arm offbreak,Left-hand bat
+Rangpur Riders,Irfan Sukkur,3cc7dd5f,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,31,True,False,False,,Left-hand bat
+Rangpur Riders,Saif Hassan,bb95564b,3,43,29,5,2,148.28,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,81,0,0,81,26,True,False,True,Right-arm offbreak,Right-hand bat
+Rangpur Riders,Iftikhar Ahmed,29e253dd,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,34,True,False,False,Right-arm offbreak,Right-hand bat
+Rangpur Riders,Khushdil Shah,fce581b5,5,14,13,0,1,107.69,"[2, 8, 10, 16]",4.0,24,5,0,31,2,1,3,0,0,0,0,7.75,2,0,1,0,0,20,84,28,132,30,True,False,True,Slow left-arm orthodox,Left-hand bat
+Rangpur Riders,Nurul Hasan,d365d463,6,41,25,4,2,164.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,4,77,0,16,93,31,True,False,False,,Right-hand bat
+Rangpur Riders,Mahedi Hasan,9dad0f2e,7,8,14,1,0,57.14,"[9, 11, 18]",3.0,18,8,0,18,1,1,0,0,0,0,0,6.0,0,0,0,0,-4,8,10,0,18,30,True,False,True,Right-arm offbreak,Right-hand bat
+Rangpur Riders,Mohammad Saifuddin,b3a28446,8,23,14,2,1,164.29,"[5, 15]",2.0,12,1,0,32,2,3,0,0,0,0,0,16.0,1,0,0,0,4,41,-5,8,44,28,True,False,True,Right-arm medium-fast,Left-hand bat
+Rangpur Riders,Akif Javed,99d7d5b7,9,1,3,0,0,33.33,"[4, 6, 17, 19]",4.0,24,13,0,23,4,0,3,0,1,0,0,5.75,1,0,0,0,0,1,104,8,113,24,True,False,False,Left-arm medium-fast,Right-hand bat
+Rangpur Riders,Rakibul Hasan,77768f72,10,2,2,0,0,100.0,"[1, 3, 12, 14]",4.0,24,11,0,38,3,3,1,0,0,0,0,9.5,1,0,0,0,0,2,36,8,46,22,True,False,True,Slow left-arm orthodox,Left-hand bat
+Rangpur Riders,Nahid Rana,5318ee68,11,0,3,0,0,0.0,"[7, 13, 20]",3.0,18,4,0,27,1,1,1,0,0,0,0,9.0,0,0,0,0,0,-2,29,0,27,22,True,False,False,Right-arm fast,Right-hand bat

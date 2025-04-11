@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+India,YBK Jaiswal,6c19c6e5,1,100,49,8,7,204.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,196,0,16,212,23,True,False,False,Legbreak,Left-hand bat
+India,RD Gaikwad,45a43fe2,2,25,23,4,0,108.7,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,45,0,0,45,28,True,False,False,Right-arm offbreak,Right-hand bat
+India,Tilak Varma,b0482a1d,3,2,10,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-4,0,0,-4,22,True,False,True,Right-arm offbreak,Left-hand bat
+India,JM Sharma,800d2d97,4,5,4,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17,31,True,False,False,,Right-hand bat
+India,S Dube,a4e37e47,5,25,19,2,1,131.58,"[12, 14, 20]",3.0,18,7,0,37,0,5,0,0,0,0,0,12.33,0,0,0,0,2,45,1,0,46,31,True,False,True,Right-arm medium,Left-hand bat
+India,RK Singh,0a509d6b,6,37,15,2,4,246.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,79,0,8,87,27,True,False,False,Right-arm offbreak,Left-hand bat
+India,R Sai Kishore,c7a995d3,11,0,0,0,0,0.0,"[3, 7, 9, 13]",4.0,24,13,0,25,1,2,1,0,0,0,0,6.25,3,0,0,0,0,0,40,28,68,28,True,False,False,Slow left-arm orthodox,Left-hand bat
+India,Washington Sundar,f19ccfad,12,0,0,0,0,0.0,[10],1.0,6,2,0,11,0,1,0,0,0,0,0,11.0,0,0,0,0,0,0,2,0,2,25,True,False,True,Right-arm offbreak,Left-hand bat
+India,Ravi Bishnoi,df064e1a,13,0,0,0,0,0.0,"[6, 8, 11, 15]",4.0,24,10,0,24,3,0,3,1,0,0,1,6.0,0,0,0,0,0,0,99,0,99,24,True,False,False,Legbreak googly,Right-hand bat
+India,Avesh Khan,eef2536f,14,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,14,0,32,4,2,3,0,0,0,1,8.0,1,0,0,0,0,0,93,8,101,28,True,False,False,Right-arm fast-medium,Right-hand bat
+India,Arshdeep Singh,244048f6,15,0,0,0,0,0.0,"[1, 5, 16, 18]",4.0,24,13,0,43,3,4,2,0,0,0,3,10.75,0,0,0,0,0,0,61,0,61,26,True,False,False,Left-arm medium-fast,Left-hand bat
+Nepal,K Bhurtel,e3386c8a,1,28,32,4,1,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,54,0,0,54,28,True,False,False,Legbreak googly,Right-hand bat
+Nepal,Aasif Sheikh,dcbea954,2,10,6,1,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,23,True,False,False,,Right-hand bat
+Nepal,Kushal Malla,7e9f1cde,3,29,22,2,2,131.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,55,0,0,55,21,True,False,True,Slow left-arm orthodox,Left-hand bat
+Nepal,RK Paudel,1a3cc554,4,3,5,0,0,60.0,"[11, 15, 19]",3.0,18,7,0,26,0,3,0,0,0,0,0,8.67,1,0,0,0,0,3,7,8,18,22,True,False,True,Right-arm offbreak,Right-hand bat
+Nepal,DS Airee,1747ea18,5,32,15,0,4,213.33,"[4, 6, 10, 17]",4.0,24,8,0,31,3,1,2,0,0,0,0,7.75,0,0,0,0,6,66,58,0,124,25,True,False,False,Right-arm offbreak,Right-hand bat
+Nepal,S Jora,156378d8,6,29,12,1,3,241.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,61,0,0,61,23,True,False,False,,Right-hand bat
+Nepal,Sompal Kami,1adb8ee8,7,7,5,0,1,140.0,"[1, 3, 12, 16]",4.0,24,9,0,38,5,1,1,0,1,0,3,9.5,0,0,0,0,0,13,42,0,55,29,True,False,True,Right-arm fast-medium,Right-hand bat
+Nepal,Gulsan Jha,9811e35e,8,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,19,True,False,True,Right-arm medium,Left-hand bat
+Nepal,Karan KC,f53b3e1d,9,18,13,1,2,138.46,"[2, 8]",2.0,12,5,0,23,2,2,0,0,0,0,0,11.5,0,0,0,0,2,36,1,0,37,33,True,False,True,Right-arm fast,Right-hand bat
+Nepal,S Lamichhane,b410bd3d,10,5,4,1,0,125.0,"[7, 9, 13]",3.0,18,6,0,28,3,1,1,0,0,0,0,9.33,1,0,0,0,0,9,31,8,48,24,True,False,False,Legbreak googly,Right-hand bat
+Nepal,A Bohara,64fb6b15,11,0,0,0,0,0.0,"[5, 14, 18, 20]",4.0,24,6,0,53,4,4,0,0,0,0,2,13.25,1,0,0,0,0,0,0,8,8,27,True,False,False,Right-arm medium,Right-hand bat

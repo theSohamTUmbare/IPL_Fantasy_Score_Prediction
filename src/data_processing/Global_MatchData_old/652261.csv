@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Cape Cobras,HM Amla,e798611a,1,48,28,7,1,171.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,92,0,8,100,41,True,False,False,Right-arm offbreak,Right-hand bat
+Cape Cobras,RE Levi,18c78b11,2,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,37,True,False,False,Right-arm medium,Right-hand bat
+Cape Cobras,GC Smith,72861603,3,23,23,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31,44,True,False,False,Right-arm offbreak,Left-hand bat
+Cape Cobras,JP Duminy,2e8994e7,4,0,1,0,0,0.0,"[4, 6]",2.0,12,2,0,18,0,1,0,0,0,0,0,9.0,1,0,0,0,0,-2,2,8,8,40,True,False,True,Right-arm offbreak,Left-hand bat
+Cape Cobras,JL Ontong,55f33b32,5,12,16,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,45,True,False,True,Right-arm offbreak,Right-hand bat
+Cape Cobras,DJ Vilas,087210b1,6,7,8,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,39,True,False,False,,Right-hand bat
+Cape Cobras,JM Kemp,6581d753,6,0,0,0,0,0.0,"[3, 8]",2.0,12,4,0,10,1,0,2,0,0,0,0,5.0,0,0,0,0,0,0,58,0,58,47,True,False,True,Right-arm fast-medium,Right-hand bat
+Cape Cobras,RJ Peterson,26ff4c29,7,0,0,0,0,0.0,"[5, 7]",2.0,12,3,0,17,1,1,0,0,0,0,0,8.5,1,0,0,0,0,0,3,8,11,45,True,False,False,Slow left-arm orthodox,Left-hand bat
+Cape Cobras,RK Kleinveldt,7955eb15,8,0,0,0,0,0.0,"[1, 9]",2.0,12,5,0,21,1,1,1,0,0,0,5,10.5,0,0,0,0,0,0,28,0,28,42,True,False,False,Right-arm fast-medium,Right-hand bat
+Cape Cobras,BE Hendricks,b56dc5f7,9,0,0,0,0,0.0,"[2, 10]",1.5,9,4,0,18,1,1,1,0,0,2,1,12.0,0,0,0,0,0,0,29,0,29,34,True,False,False,Left-arm fast-medium,Left-hand bat
+Cape Cobras,A Mgijima,955e8e86,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,36,True,False,True,Right-arm offbreak,Right-hand bat
+Titans,H Davids,9c9f8dbc,1,8,8,1,0,100.0,[7],1.0,6,0,0,12,2,0,0,0,0,0,0,12.0,1,0,0,0,0,12,0,8,20,45,True,False,False,Right-arm medium-fast,Right-hand bat
+Titans,F du Plessis,3355b542,2,0,1,0,0,0.0,"[12, 14]",1.167,7,4,0,3,0,0,0,0,0,0,0,2.57,0,0,0,0,0,-2,4,0,2,40,True,False,False,Legbreak,Right-hand bat
+Titans,M Mosehle,8836fcac,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,34,True,False,False,,Right-hand bat
+Titans,F Behardien,dce2019b,4,41,21,2,3,195.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,77,0,0,77,41,True,False,True,Right-arm fast-medium,Right-hand bat
+Titans,JA Morkel,c3d35165,5,22,21,1,1,104.76,"[2, 4]",2.0,12,6,0,16,3,0,0,0,0,0,1,8.0,0,0,0,0,0,32,6,0,38,43,True,False,True,Right-arm medium-fast,Left-hand bat
+Titans,D Wiese,aa8d28ae,6,5,4,0,0,125.0,[6],1.0,6,1,0,11,1,0,0,0,0,0,1,11.0,0,0,0,0,0,5,1,0,6,39,True,False,True,Right-arm medium-fast,Right-hand bat
+Titans,JA Rudolph,42537f07,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,43,True,False,False,Legbreak googly,Left-hand bat
+Titans,RE van der Merwe,05c2ca46,7,0,0,0,0,0.0,"[1, 9, 11, 13]",4.0,24,11,0,18,2,0,2,1,0,0,0,4.5,0,0,0,0,0,0,75,0,75,40,True,False,True,Slow left-arm orthodox,Right-hand bat
+Titans,HG Kuhn,ede05b97,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,40,True,False,False,,Right-hand bat
+Titans,NE Mbhalati,800b52dc,9,0,0,0,0,0.0,"[3, 5]",2.0,12,3,0,23,2,1,0,0,0,1,0,11.5,0,0,0,0,0,0,-1,0,-1,43,True,True,False,Right-arm medium-fast,Right-hand bat
+Titans,RR Richards,fa9c0196,10,0,0,0,0,0.0,"[8, 10]",2.0,12,5,0,12,0,0,2,1,0,0,2,6.0,0,0,0,0,0,0,65,0,65,40,True,True,False,Left-arm fast-medium,Left-hand bat

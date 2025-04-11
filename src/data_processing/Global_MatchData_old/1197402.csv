@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Canada,Rizwan Cheema,3a026eb4,1,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,46,True,False,False,Right-arm medium,Right-hand bat
+Canada,RA Thomas,6db7068e,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,34,True,False,False,,Left-hand bat
+Canada,NS Dhaliwal,cbabd6ad,3,53,34,3,5,155.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,107,0,8,115,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Canada,NR Kumar,b3bad3f2,4,37,33,2,2,112.12,"[5, 7, 9]",3.0,18,11,0,21,1,2,1,0,1,0,0,7.0,0,0,0,0,0,61,46,0,107,30,True,False,False,Right-arm offbreak,Right-hand bat
+Canada,N Dutta,e258a603,4,0,0,0,0,0.0,"[6, 8, 14, 16]",4.0,24,12,0,16,0,0,1,0,0,2,1,4.0,0,0,0,0,0,0,43,0,43,30,True,False,False,Right-arm offbreak,Right-hand bat
+Canada,Hamza Tariq,82e81007,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0,0,12,12,34,True,False,False,,Right-hand bat
+Canada,Ravinderpal Singh,f80682f8,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,36,True,False,False,Right-arm offbreak,Right-hand bat
+Canada,D Heyliger,f8c72766,7,0,0,0,0,0.0,"[10, 12, 18, 20]",4.0,24,8,0,23,1,0,1,0,1,0,1,5.75,0,0,0,0,0,0,45,0,45,35,True,False,False,Right-arm medium,Right-hand bat
+Canada,Junaid Siddiqui,9025e58f,8,0,0,0,0,0.0,"[1, 3]",2.0,12,7,0,8,1,0,0,0,0,0,0,4.0,0,0,0,0,0,0,13,0,13,40,True,False,True,Legbreak,Right-hand bat
+Canada,GDR Eranga,95c434f7,9,0,0,0,0,0.0,"[2, 17, 19]",3.0,18,10,0,10,0,0,1,0,0,0,2,3.33,0,0,0,0,0,0,41,0,41,39,True,False,False,Left-arm medium-fast,Left-hand bat
+Canada,Saad Bin Zafar,f28a60e0,10,0,0,0,0,0.0,"[4, 11, 13, 15]",4.0,24,18,0,8,0,0,3,0,2,0,0,2.0,0,0,0,0,0,0,119,0,119,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Cayman Islands,C Hauptfleisch,c8a18d94,1,16,25,0,1,64.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,20,0,8,28,37,True,False,False,,Left-hand bat
+Cayman Islands,KR Ebanks,e52eb657,2,8,11,1,0,72.73,"[2, 4]",2.0,12,5,0,25,2,1,1,0,0,1,2,12.5,0,0,0,0,0,12,24,0,36,36,True,False,True,Right-arm medium-fast,Right-hand bat
+Cayman Islands,YSD Seneveratne,0f71478c,3,7,12,1,0,58.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,7,0,0,7,33,True,False,False,Slow left-arm orthodox,Left-hand bat
+Cayman Islands,GM Strydom,5dc19220,4,23,32,0,1,71.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29,41,True,True,False,Right-arm medium,Right-hand bat
+Cayman Islands,A Morris,04cf2e94,4,0,0,0,0,0.0,"[1, 3, 5, 11]",4.0,24,16,1,15,0,1,1,0,1,0,0,3.75,0,0,0,0,0,0,67,0,67,42,True,True,False,Right-arm offbreak,Right-hand bat
+Cayman Islands,Z McLaughlin,679302a1,5,0,0,0,0,0.0,"[7, 9, 13]",2.167,13,8,0,14,3,0,0,0,0,0,0,6.46,0,0,0,0,0,0,10,0,10,34,True,True,False,Legbreak,Right-hand bat
+Cayman Islands,AF Ifill,0e6c2f00,5,6,15,0,0,40.0,"[6, 8, 10, 12]",4.0,24,11,0,41,0,5,0,0,0,1,1,10.25,0,0,0,0,-6,0,9,0,9,48,True,True,False,Legbreak,Right-hand bat
+Cayman Islands,LHB Harrington-Myers,91136091,6,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,23,True,True,False,Slow left-arm orthodox,Left-hand bat
+Cayman Islands,P Manning,f06b5585,7,7,12,0,0,58.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,3,0,0,3,34,True,False,True,Right-arm offbreak,Right-hand bat
+Cayman Islands,T Taylor,1d6e8f52,8,11,10,1,0,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15,41,True,False,False,Right-arm medium-fast,Right-hand bat
+Cayman Islands,C Wright,d465c6d7,9,2,1,0,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,39,True,True,False,Right-arm medium,Right-hand bat

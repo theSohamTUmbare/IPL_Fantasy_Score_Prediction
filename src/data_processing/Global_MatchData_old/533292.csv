@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+New Zealand,RJ Nicol,8d8c24fd,1,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,41,True,False,False,Right-arm offbreak,Right-hand bat
+New Zealand,MJ Guptill,2be41edb,2,21,27,2,0,77.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29,38,True,False,False,Right-arm offbreak,Right-hand bat
+New Zealand,BB McCullum,b8a55852,3,23,19,3,0,121.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,35,0,8,43,43,True,True,False,Right-arm offbreak,Right-hand bat
+New Zealand,LRPL Taylor,b61a3e1a,4,76,44,4,4,172.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,134,0,16,150,41,True,False,False,Right-arm offbreak,Right-hand bat
+New Zealand,JEC Franklin,cf73ad76,5,14,14,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,18,0,16,34,44,True,False,True,Left-arm medium,Left-hand bat
+New Zealand,JDP Oram,3eac9d95,6,6,9,0,0,66.67,"[6, 20]",1.5,9,4,0,17,0,2,1,0,1,1,1,11.33,0,0,0,0,0,6,37,0,43,46,True,False,True,Right-arm fast-medium,Left-hand bat
+New Zealand,NL McCullum,5673a3fc,7,5,7,0,0,71.43,"[9, 11, 13, 15]",4.0,24,10,0,19,2,0,2,0,1,0,0,4.75,0,0,0,0,0,5,74,0,79,44,True,False,False,Right-arm offbreak,Right-hand bat
+New Zealand,DAJ Bracewell,2e9fdf9b,8,1,1,0,0,100.0,"[2, 4, 16, 18]",4.0,24,11,0,31,4,1,3,0,0,0,0,7.75,1,0,0,0,0,1,90,8,99,34,True,False,False,Right-arm fast-medium,Right-hand bat
+New Zealand,RM Hira,2e966563,8,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,11,0,24,1,1,1,0,0,0,3,6.0,0,0,0,0,0,0,38,0,38,38,True,False,False,Slow left-arm orthodox,Left-hand bat
+New Zealand,TG Southee,13c35c9e,9,0,0,0,0,0.0,"[1, 5, 7, 17, 19]",4.833,29,7,0,40,0,2,3,0,1,1,3,8.28,1,0,0,0,0,0,94,8,102,36,True,False,False,Right-arm medium-fast,Right-hand bat
+New Zealand,KD Mills,7fb32e5b,10,0,0,0,0,0.0,"[1, 3]",2.0,12,6,0,25,4,1,0,0,0,1,0,12.5,0,0,0,0,0,0,0,0,0,46,True,False,False,Right-arm fast-medium,Right-hand bat
+West Indies,J Charles,09a9d073,1,8,8,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24,36,True,False,False,,Right-hand bat
+West Indies,CH Gayle,db584dad,2,38,16,3,3,237.5,[12],1.0,6,0,0,15,1,1,0,0,0,0,0,15.0,1,0,0,0,6,78,0,8,86,45,True,False,True,Right-arm offbreak,Left-hand bat
+West Indies,AD Russell,bbd41817,3,6,6,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,36,True,False,True,Right-arm fast,Right-hand bat
+West Indies,MN Samuels,f846de6a,4,33,24,2,2,137.5,"[1, 20]",2.0,12,1,0,29,1,2,0,0,0,0,2,14.5,1,0,0,0,2,59,-5,8,62,44,True,False,False,Right-arm offbreak,Right-hand bat
+West Indies,DM Bravo,14b14cd8,5,16,21,0,1,76.19,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,36,True,False,False,Right-arm medium,Left-hand bat
+West Indies,KA Pollard,a757b0d8,6,28,22,3,0,127.27,"[11, 15]",2.0,12,4,0,13,1,0,0,0,0,0,0,6.5,0,0,0,0,0,44,6,0,50,37,True,False,True,Right-arm medium,Right-hand bat
+West Indies,D Ramdin,d1523761,7,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,40,True,False,False,,Right-hand bat
+West Indies,DJG Sammy,c03c6200,8,11,12,1,0,91.67,"[7, 9, 14, 16]",4.0,24,6,0,35,3,1,1,0,0,0,1,8.75,0,0,0,0,0,15,31,0,46,41,True,False,True,Right-arm medium,Right-hand bat
+West Indies,SP Narine,9d430b40,9,3,4,0,0,75.0,"[6, 13, 17, 19]",4.0,24,10,0,20,1,0,3,1,0,1,0,5.0,0,0,0,0,0,3,101,0,104,36,True,False,True,Right-arm offbreak,Left-hand bat
+West Indies,S Badree,76388dc8,10,1,4,0,0,25.0,"[2, 4, 8, 10]",4.0,24,10,0,18,1,0,1,0,1,0,0,4.5,0,0,0,0,0,1,49,0,50,44,True,False,False,Legbreak,Right-hand bat
+West Indies,R Rampaul,d68e7f48,11,1,3,0,0,33.33,"[1, 3, 5, 18]",4.0,24,9,0,23,2,0,1,1,0,0,0,5.75,0,0,0,0,0,1,46,0,47,40,True,False,False,Right-arm fast-medium,Left-hand bat

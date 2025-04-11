@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Gibraltar,BA Pai,716bf559,1,14,12,1,1,116.67,"[1, 6, 8, 10]",4.0,24,11,0,23,1,1,0,0,0,0,1,5.75,0,0,0,0,0,24,15,0,39,43,True,True,False,Right-arm offbreak,Right-hand bat
+Gibraltar,L Bruce,2a03bd2f,2,31,27,2,0,114.81,"[12, 14]",2.0,12,2,0,20,0,1,0,0,0,0,3,10.0,0,0,0,0,0,43,0,0,43,19,True,True,False,Right-arm medium,Right-hand bat
+Gibraltar,PA Raikes,dfe5db8a,3,5,9,0,0,55.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,34,True,False,False,,Right-hand bat
+Gibraltar,CJ Delany,3bc56bd6,4,18,23,1,0,78.26,"[11, 13]",2.0,12,5,0,17,0,1,0,0,0,0,6,8.5,0,0,0,0,0,22,5,0,27,34,True,True,False,Right-arm medium,Right-hand bat
+Gibraltar,JA Fitzgerald,4e6ff836,5,17,16,0,1,106.25,"[3, 5]",2.0,12,3,0,26,2,2,0,0,0,0,0,13.0,1,0,0,0,0,23,-3,8,28,25,True,True,False,Right-arm medium-fast,Right-hand bat
+Gibraltar,P Hatchman,b504e8b8,6,13,12,0,1,108.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,31,True,True,False,Right-arm medium,Right-hand bat
+Gibraltar,K Nestor,b89cde87,7,10,12,1,0,83.33,"[2, 4]",2.0,12,6,0,20,1,1,0,0,0,1,1,10.0,0,0,0,0,0,14,4,0,18,36,True,True,False,Right-arm fast,Right-hand bat
+Gibraltar,A Reyes,fd2b8c06,8,0,1,0,0,0.0,[15],0.667,4,2,0,4,0,0,0,0,0,0,2,6.0,0,0,0,0,0,-2,2,0,0,41,True,True,False,Right-arm medium,Right-hand bat
+Gibraltar,J Marples,9d75aec7,9,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,33,True,False,False,,Right-hand bat
+Gibraltar,LA Collado,177009a5,10,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,32,True,False,False,,
+Gibraltar,CV Harrison,b0b80a99,11,0,0,0,0,0.0,"[7, 9]",2.0,12,9,0,19,1,2,1,0,0,1,1,9.5,0,0,0,0,0,0,34,0,34,41,True,True,False,Slow left-arm orthodox,Left-hand bat
+Switzerland,Osama Mahmood,601544aa,1,58,44,4,3,131.82,"[6, 8, 17, 20]",4.0,24,14,1,16,2,0,0,0,0,0,0,4.0,1,0,0,0,2,102,32,8,142,29,True,True,False,Right-arm medium-fast,Left-hand bat
+Switzerland,Idrees Ul Haque,d5b52676,2,35,21,1,4,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,71,0,0,71,38,True,False,False,,Right-hand bat
+Switzerland,Arjun Vinod,033e9d59,3,0,0,0,0,0.0,[14],1.0,6,0,0,11,0,1,0,0,0,0,0,11.0,2,0,1,0,0,0,0,28,28,29,True,False,False,,
+Switzerland,Anser Mehmood,e871b2f0,3,20,23,0,1,86.96,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26,40,True,False,False,Right-arm offbreak,Right-hand bat
+Switzerland,Ashwin Vinod,8a99caa9,4,0,0,0,0,0.0,"[1, 3, 5, 15]",4.0,24,10,0,27,0,2,2,0,0,0,1,6.75,0,0,0,0,0,0,62,0,62,27,True,True,False,Right-arm medium-fast,Right-hand bat
+Switzerland,A Andrews,1d45c01a,5,0,0,0,0,0.0,"[10, 12, 16, 18]",4.0,24,8,0,21,1,0,3,0,0,0,0,5.25,1,0,0,0,0,0,91,8,99,26,True,True,False,Right-arm medium,Right-hand bat
+Switzerland,Asad Mahmood,5038c022,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,33,True,True,False,Right-arm offbreak,Right-hand bat
+Switzerland,Ali Nayyer,4ec0443d,7,0,0,0,0,0.0,"[2, 4, 13, 19]",4.0,24,10,0,25,1,0,3,1,0,0,6,6.25,1,0,0,0,0,0,99,8,107,32,True,False,False,,
+Switzerland,Noorkhan Ahmedi,b5417394,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,25,True,True,False,Right-arm medium-fast,Right-hand bat
+Switzerland,N Henderson,6e71b00b,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,False,False,,Right-hand bat
+Switzerland,S Franklin,0e3552e2,10,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,5,0,27,2,0,0,0,0,1,3,9.0,0,0,0,0,0,0,5,0,5,31,True,True,False,Left-arm medium-fast,Left-hand bat

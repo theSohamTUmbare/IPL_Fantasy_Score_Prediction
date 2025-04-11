@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Hobart Hurricanes,MS Wade,afa7e784,1,85,49,7,4,173.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,155,0,0,155,37,True,True,False,Right-arm medium,Left-hand bat
+Hobart Hurricanes,DJM Short,1a156c88,2,58,39,5,3,148.72,"[9, 17]",2.0,12,3,0,16,2,0,0,0,0,0,1,8.0,0,0,0,0,2,106,3,0,109,34,True,False,False,Left-arm wrist-spin,Left-hand bat
+Hobart Hurricanes,BR McDermott,c41043e6,3,22,18,0,2,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34,30,True,True,False,Right-arm medium,Right-hand bat
+Hobart Hurricanes,GJ Bailey,5056011d,4,23,8,2,1,287.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,37,0,0,37,42,True,False,False,Right-arm medium,Right-hand bat
+Hobart Hurricanes,AJ Doolan,36eafb02,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,39,True,False,False,,Right-hand bat
+Hobart Hurricanes,S Milenko,479f9b04,5,4,1,1,0,400.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,36,True,False,True,Right-arm medium,Right-hand bat
+Hobart Hurricanes,JP Faulkner,808f425a,6,0,0,0,0,0.0,"[1, 6, 12, 15]",4.0,24,8,0,34,4,1,2,0,0,0,0,8.5,0,0,0,0,0,0,58,0,58,34,True,False,True,Left-arm fast-medium,Right-hand bat
+Hobart Hurricanes,J Botha,7c503806,7,0,0,0,0,0.0,"[11, 13]",2.0,12,0,0,20,2,0,0,0,0,0,0,10.0,1,0,0,0,0,0,-2,8,6,42,True,False,True,Right-arm offbreak,Right-hand bat
+Hobart Hurricanes,JC Archer,5574750c,8,0,0,0,0,0.0,"[2, 5, 16, 20]",4.0,24,8,0,47,5,3,1,0,0,0,0,11.75,1,0,0,0,0,0,29,8,37,29,True,False,False,Right-arm fast,Right-hand bat
+Hobart Hurricanes,CA Rose,7517d134,9,0,0,0,0,0.0,"[3, 7, 10, 19]",4.0,24,9,0,30,3,1,2,0,1,0,0,7.5,1,0,0,0,0,0,67,8,75,35,True,False,False,Slow left-arm orthodox,Right-hand bat
+Hobart Hurricanes,RP Meredith,64775749,10,0,0,0,0,0.0,"[4, 8, 14, 18]",4.0,24,8,0,44,4,2,1,1,0,1,3,11.0,1,0,0,0,0,0,39,8,47,28,True,False,False,Right-arm fast,Right-hand bat
+Sydney Thunder,JC Buttler,99b75528,1,89,54,8,4,164.81,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,161,0,0,161,34,True,False,False,,Right-hand bat
+Sydney Thunder,SR Watson,4329fbb5,2,20,14,3,1,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,40,0,0,40,43,True,False,True,Right-arm fast-medium,Right-hand bat
+Sydney Thunder,CJ Ferguson,9b4935c8,3,15,8,2,1,187.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29,40,True,False,False,Right-arm medium,Right-hand bat
+Sydney Thunder,JE Root,a343262c,4,17,13,3,0,130.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,31,0,8,39,34,True,False,False,Right-arm offbreak,Right-hand bat
+Sydney Thunder,JJS Sangha,8e3cb0e9,5,7,8,0,0,87.5,[11],1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,0,7,1,0,8,25,True,False,False,Legbreak,Right-hand bat
+Sydney Thunder,SL Rainbird,e7dd5eca,5,0,0,0,0,0.0,"[5, 18, 20]",2.167,13,5,0,25,2,1,2,0,1,1,2,11.54,0,0,0,0,0,0,59,0,59,32,True,False,False,Left-arm medium-fast,Right-hand bat
+Sydney Thunder,DR Sams,caf69bf7,6,11,8,2,0,137.5,"[6, 13, 17, 19]",4.0,24,7,0,54,5,3,0,0,0,1,0,13.5,0,0,0,0,0,19,1,0,20,32,True,False,True,Left-arm fast-medium,Right-hand bat
+Sydney Thunder,JD Cook,45f56920,6,0,0,0,0,0.0,"[1, 3, 14, 16]",4.0,24,8,0,31,1,2,0,0,0,0,0,7.75,0,0,0,0,0,0,8,0,8,35,True,False,False,Legbreak,Right-hand bat
+Sydney Thunder,Fawad Ahmed,22ae3041,7,0,0,0,0,0.0,"[7, 9, 12, 15]",4.0,24,4,0,34,1,2,0,0,0,0,0,8.5,0,0,0,0,0,0,4,0,4,43,True,False,False,Legbreak googly,Right-hand bat
+Sydney Thunder,CJ Green,19b9f399,7,26,13,2,1,200.0,"[2, 4, 10]",3.0,18,5,0,26,2,1,0,0,0,0,0,8.67,0,0,0,0,6,50,5,0,55,31,True,False,True,Right-arm offbreak,Right-hand bat
+Sydney Thunder,N McAndrew,38c276e1,8,1,2,0,0,50.0,[8],1.0,6,2,0,15,2,1,0,0,0,0,0,15.0,0,0,0,0,0,1,2,0,3,31,True,False,False,Right-arm medium-fast,Right-hand bat

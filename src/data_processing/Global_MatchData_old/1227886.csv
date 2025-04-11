@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Barbados Tridents,J Charles,09a9d073,1,0,8,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,36,True,False,False,,Right-hand bat
+Barbados Tridents,JP Greaves,74d12124,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,31,True,False,True,Right-arm medium,Right-hand bat
+Barbados Tridents,KR Mayers,73c18486,3,10,22,0,0,45.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,4,0,0,4,32,True,False,True,Right-arm medium,Left-hand bat
+Barbados Tridents,JO Holder,0f721006,4,0,1,0,0,0.0,"[1, 3, 6, 11]",4.0,24,15,1,22,0,2,0,0,0,0,3,5.5,0,0,0,0,0,0,31,0,31,33,True,False,True,Right-arm medium-fast,Right-hand bat
+Barbados Tridents,SD Hope,1fc6ef83,5,5,8,0,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,31,True,False,False,,Right-hand bat
+Barbados Tridents,JL Carter,0a9d8b61,6,5,18,0,0,27.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-1,0,0,-1,37,True,False,True,Right-arm medium,Left-hand bat
+Barbados Tridents,MJ Santner,e4a0deae,7,36,27,1,2,133.33,"[2, 4, 15, 17]",3.667,22,9,0,20,1,0,0,0,0,0,0,5.45,0,0,0,0,2,58,13,0,71,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+Barbados Tridents,AR Nurse,4a745f65,8,1,5,0,0,20.0,"[10, 12]",2.0,12,4,0,12,1,0,0,0,0,0,0,6.0,0,0,0,0,0,1,6,0,7,36,True,False,False,Right-arm offbreak,Right-hand bat
+Barbados Tridents,RA Reifer,d7725664,9,1,3,0,0,33.33,[14],1.0,6,3,0,6,1,0,0,0,0,0,0,6.0,0,0,0,0,0,1,3,0,4,33,True,False,True,Left-arm medium-fast,Left-hand bat
+Barbados Tridents,Rashid Khan,5f547c8b,10,19,15,0,2,126.67,"[5, 8, 13, 16]",4.0,24,15,0,21,2,0,1,0,1,0,6,5.25,0,0,0,0,0,31,52,0,83,26,True,False,True,Legbreak googly,Right-hand bat
+Barbados Tridents,HR Walsh,1ac2a995,11,12,12,1,0,100.0,"[7, 9]",2.0,12,3,0,9,0,0,1,0,1,0,0,4.5,0,0,0,0,0,16,42,0,58,32,True,False,False,Legbreak googly,Left-hand bat
+Guyana Amazon Warriors,BA King,7fca84b7,1,51,49,4,2,104.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,87,0,0,87,30,True,False,False,,Right-hand bat
+Guyana Amazon Warriors,K Sinclair,314642ed,2,3,11,0,0,27.27,"[2, 4, 6, 8]",4.0,24,15,0,13,0,0,2,0,0,0,1,3.25,2,0,0,0,-6,-3,71,16,84,25,True,False,False,Right-arm offbreak,Right-hand bat
+Guyana Amazon Warriors,SO Hetmyer,48a1d7b7,3,9,7,1,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21,28,True,False,False,,Left-hand bat
+Guyana Amazon Warriors,N Pooran,3241e3fd,4,18,33,0,0,54.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,-4,14,0,16,30,29,True,True,False,Right-arm offbreak,Left-hand bat
+Guyana Amazon Warriors,LRPL Taylor,b61a3e1a,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,41,True,False,False,Right-arm offbreak,Right-hand bat
+Guyana Amazon Warriors,R Shepherd,c5aef772,5,0,0,0,0,0.0,"[16, 20]",2.0,12,4,0,12,0,0,0,0,0,0,1,6.0,1,0,0,0,0,0,6,8,14,30,True,False,True,Right-arm fast-medium,Right-hand bat
+Guyana Amazon Warriors,KMA Paul,75224f22,6,0,0,0,0,0.0,"[17, 19]",2.0,12,7,0,19,1,2,0,0,0,0,0,9.5,0,0,0,0,0,0,7,0,7,27,True,False,True,Right-arm fast-medium,Right-hand bat
+Guyana Amazon Warriors,CJ Green,19b9f399,7,0,0,0,0,0.0,"[1, 3, 5, 7]",4.0,24,20,1,3,0,0,1,1,0,0,0,0.75,0,0,0,0,0,0,71,0,71,31,True,False,True,Right-arm offbreak,Right-hand bat
+Guyana Amazon Warriors,Naveen-ul-Haq,c0c411cb,8,0,0,0,0,0.0,"[10, 12, 14, 18]",4.0,24,13,0,14,0,0,4,0,0,0,0,3.5,0,0,0,0,0,0,127,0,127,25,True,False,False,Right-arm medium-fast,Right-hand bat
+Guyana Amazon Warriors,K Magram,63a64f19,9,0,0,0,0,0.0,[15],1.0,6,0,0,12,0,1,0,0,0,0,0,12.0,0,0,0,0,0,0,0,0,0,0,True,False,False,Legbreak,Right-hand bat
+Guyana Amazon Warriors,Imran Tahir,acee4cc4,10,0,0,0,0,0.0,"[9, 11, 13]",3.0,18,10,0,18,1,1,0,0,0,0,0,6.0,0,0,0,0,0,0,12,0,12,46,True,False,False,Legbreak googly,Right-hand bat

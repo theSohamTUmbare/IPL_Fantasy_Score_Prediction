@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bulgaria,D Nikolov,9c3a8776,1,4,6,1,0,66.67,[11],0.667,4,0,0,6,0,0,0,0,0,0,0,9.0,0,0,0,0,0,8,0,0,8,32,True,True,False,Right-arm medium,Right-hand bat
+Bulgaria,Manan Bashir,5c14bd52,2,12,10,1,1,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,24,True,True,False,Right-arm offbreak,Right-hand bat
+Bulgaria,Firas Hussain,261d591a,3,21,13,3,1,161.54,[10],1.0,6,1,0,11,0,1,0,0,0,0,0,11.0,0,0,0,0,4,43,1,0,44,26,True,True,False,Right-arm offbreak,Right-hand bat
+Bulgaria,M Gogev,995fd3b2,4,0,6,0,0,0.0,"[2, 4, 6, 8]",4.0,24,11,0,28,2,0,0,0,0,0,7,7.0,1,0,0,0,0,-2,13,8,19,30,True,True,False,Right-arm medium,Right-hand bat
+Bulgaria,P Mishra,3fa5672e,5,3,13,0,0,23.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-3,0,0,-3,46,True,True,False,Right-arm medium,Right-hand bat
+Bulgaria,Isa Zaroo,9822fb85,6,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,24,True,True,False,Right-arm medium,Right-hand bat
+Bulgaria,Zaid Soulat,14cbe9b7,7,1,7,0,0,14.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,23,True,True,False,Right-arm offbreak,Right-hand bat
+Bulgaria,Zeerak Chughtai,ff0b1636,8,4,5,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,31,True,True,False,Right-arm medium,Left-hand bat
+Bulgaria,Danyal Raja,324e00a9,9,15,20,2,0,75.0,"[1, 3, 5]",3.0,18,10,0,23,4,0,1,0,1,0,2,7.67,1,0,0,0,0,23,43,8,74,24,True,True,False,Right-arm medium,Right-hand bat
+Bulgaria,Gagandeep Singh,4a370769,10,5,7,1,0,71.43,"[7, 9]",2.0,12,8,0,11,1,1,2,0,0,0,0,5.5,0,0,0,0,0,9,62,0,71,31,True,True,False,Right-arm medium,Right-hand bat
+Bulgaria,B Ivanov,7d4f6e1f,11,5,11,0,0,45.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-1,0,0,-1,45,True,True,False,Right-arm medium,Right-hand bat
+Romania,S Nadigotla,b78b3ffd,1,4,17,0,0,23.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,-6,-2,0,16,14,36,True,True,False,Right-arm offbreak,Right-hand bat
+Romania,Taranjeet Singh,ec483176,2,37,21,6,1,176.19,"[12, 14, 16, 18]",3.333,20,13,0,15,2,0,3,0,2,0,2,4.5,2,0,0,0,6,77,114,16,207,39,True,True,False,Right-arm offbreak,Right-hand bat
+Romania,Muhammad Moiz,906b7d48,3,10,12,1,0,83.33,"[4, 6, 15, 17]",4.0,24,17,0,17,1,1,2,0,0,0,1,4.25,0,0,0,0,0,14,73,0,87,36,True,True,False,Right-arm medium-fast,Right-hand bat
+Romania,A Rajshekara,1f3e41fe,4,11,8,0,1,137.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,35,True,True,False,Right-arm offbreak,Right-hand bat
+Romania,S Vashisht,20ac8219,5,0,0,0,0,0.0,"[7, 9, 13]",3.0,18,13,0,11,1,0,1,0,1,0,3,3.67,0,0,0,0,0,0,52,0,52,36,True,True,False,Right-arm medium-fast,Right-hand bat
+Romania,KA Vimlesh,6d2081aa,5,8,6,0,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,8,0,16,24,32,True,True,False,Right-arm medium,Right-hand bat
+Romania,S Periyalwar,d207e4fb,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,27,True,True,False,Right-arm medium-fast,Right-hand bat
+Romania,Luca Petre,b31d458f,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,17,True,True,False,Right-arm medium,Right-hand bat
+Romania,Asif Bevinje,9865ed99,8,0,0,0,0,0.0,"[2, 8, 10]",3.0,18,11,0,22,3,1,2,0,1,0,1,7.33,0,0,0,0,0,0,69,0,69,27,True,True,False,Right-arm medium,Right-hand bat
+Romania,R Kumar,2df874e6,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,34,True,True,False,Right-arm medium-fast,Right-hand bat
+Romania,M Koli,eb0f2802,10,0,0,0,0,0.0,"[1, 3, 5, 11]",4.0,24,17,0,14,2,0,2,0,0,0,1,3.5,0,0,0,0,0,0,73,0,73,28,True,True,False,Right-arm medium-fast,Right-hand bat

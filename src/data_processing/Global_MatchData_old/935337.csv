@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Barisal Bulls,CH Gayle,db584dad,1,92,45,6,9,204.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,188,0,0,188,45,True,False,True,Right-arm offbreak,Left-hand bat
+Barisal Bulls,Rony Talukdar,8bd614b2,2,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,4,0,0,0,0,1,0,36,37,34,True,False,False,Right-arm slow-medium,Right-hand bat
+Barisal Bulls,Mehedi Maruf,3361993b,3,18,18,2,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32,36,True,True,False,Right-arm offbreak,Right-hand bat
+Barisal Bulls,Mahmudullah,bf1d7d3e,4,19,25,1,0,76.0,[13],1.0,6,1,0,5,0,0,1,1,0,0,0,5.0,0,0,0,0,0,23,34,0,57,39,True,False,True,Right-arm offbreak,Right-hand bat
+Barisal Bulls,E Lewis,0ebfb1ad,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,33,True,False,False,,Left-hand bat
+Barisal Bulls,Sabbir Rahman,7147f314,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,33,True,False,True,Legbreak,Right-hand bat
+Barisal Bulls,Mohammad Sami,68ddabdb,6,0,0,0,0,0.0,"[1, 3, 16, 20]",4.0,24,9,0,31,3,1,2,0,0,0,1,7.75,0,0,0,0,0,0,59,0,59,44,True,False,False,Right-arm fast,Right-hand bat
+Barisal Bulls,Sohag Gazi,5a4c12ab,7,0,0,0,0,0.0,"[5, 7, 9, 11]",4.0,24,13,0,17,0,1,1,0,1,0,0,4.25,0,0,0,0,0,0,52,0,52,33,True,False,True,Right-arm offbreak,Right-hand bat
+Barisal Bulls,KK Cooper,557153ca,8,0,0,0,0,0.0,"[4, 10, 15, 18]",4.0,24,10,0,24,1,1,2,0,0,0,1,6.0,0,0,0,0,0,0,62,0,62,36,True,False,True,Right-arm medium,Right-hand bat
+Barisal Bulls,Al-Amin Hossain,3f5f39cd,9,0,0,0,0,0.0,"[2, 6, 17, 19]",4.0,24,12,0,31,3,2,1,0,0,0,0,7.75,0,0,0,0,0,0,37,0,37,32,True,False,False,Right-arm medium-fast,Right-hand bat
+Barisal Bulls,Taijul Islam,9d1d34bd,10,0,0,0,0,0.0,"[8, 12, 14]",3.0,18,7,0,19,1,1,0,0,0,0,0,6.33,0,0,0,0,0,0,9,0,9,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+Chittagong Vikings,Anamul Haque,72b245dd,1,28,18,2,2,155.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,56,0,0,56,32,True,False,False,,Right-hand bat
+Chittagong Vikings,TM Dilshan,5bdcdb72,2,28,22,2,2,127.27,"[1, 8, 12]",3.0,18,8,0,16,0,1,0,0,0,0,0,5.33,0,0,1,0,0,52,12,12,76,48,True,False,True,Right-arm offbreak,Right-hand bat
+Chittagong Vikings,Yasir Ali Chowdhury,5791b840,3,11,11,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,28,True,False,False,Right-arm offbreak,Right-hand bat
+Chittagong Vikings,Umar Akmal,fd2bf2a0,4,25,30,1,1,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,39,0,0,39,34,True,False,False,Right-arm offbreak,Right-hand bat
+Chittagong Vikings,Taskin Ahmed,ef18b66e,4,0,0,0,0,0.0,"[5, 7, 13]",3.0,18,9,0,23,2,1,1,0,1,1,3,7.67,0,0,0,0,0,0,42,0,42,29,True,False,False,Right-arm fast,Left-hand bat
+Chittagong Vikings,BMAJ Mendis,9868bc75,5,3,7,0,0,42.86,[15],1.0,6,0,0,26,0,4,0,0,0,0,0,26.0,0,0,0,0,0,3,0,0,3,42,True,False,True,Legbreak,Left-hand bat
+Chittagong Vikings,Shafiul Islam,1a8eebbe,5,0,0,0,0,0.0,"[3, 9]",2.0,12,3,0,12,1,0,0,0,0,0,1,6.0,0,0,0,0,0,0,5,0,5,35,True,False,False,Right-arm fast-medium,Right-hand bat
+Chittagong Vikings,Naeem Islam,02e83ac5,6,4,9,0,0,44.44,"[4, 10]",2.0,12,6,0,14,1,1,0,0,0,0,0,7.0,0,0,0,0,0,4,8,0,12,38,True,False,True,Right-arm offbreak,Right-hand bat
+Chittagong Vikings,Elias Sunny,817c1746,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,39,True,False,False,Slow left-arm orthodox,Left-hand bat
+Chittagong Vikings,Asif Ahmed,4603914b,7,17,14,3,0,121.43,[6],1.0,6,2,0,19,3,1,0,0,0,1,0,19.0,0,0,0,0,0,29,2,0,31,32,True,True,False,Right-arm offbreak,Right-hand bat
+Chittagong Vikings,Bilawal Bhatti,7662cf7a,8,9,9,0,0,100.0,"[2, 11, 14]",3.0,18,9,0,26,2,2,0,0,0,0,0,8.67,0,0,0,0,0,9,9,0,18,33,True,False,False,Right-arm medium-fast,Right-hand bat

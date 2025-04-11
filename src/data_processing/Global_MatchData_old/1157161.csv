@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Jammu & Kashmir,Abdul Samad,8e514b4c,1,6,8,1,0,75.0,[12],1.0,6,1,0,7,0,0,0,0,0,0,0,7.0,1,0,0,0,0,10,1,8,19,23,True,False,False,Legbreak,Right-hand bat
+Jammu & Kashmir,Jatin Wadhwan,2cd4271e,2,24,28,2,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32,30,True,True,False,Right-arm medium,Right-hand bat
+Jammu & Kashmir,Adil Reshi,8d4653f3,3,3,8,0,0,37.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,36,True,True,False,Right-arm medium,Right-hand bat
+Jammu & Kashmir,Shubham Pundir,86a98b15,4,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,26,True,False,False,Legbreak googly,Left-hand bat
+Jammu & Kashmir,Manzoor Dar,91a260d3,5,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,31,True,False,False,Right-arm offbreak,Right-hand bat
+Jammu & Kashmir,IK Pathan,5fa06777,6,10,9,1,0,111.11,"[1, 7, 15, 19]",4.0,24,10,0,32,4,1,2,0,0,0,1,8.0,0,0,1,0,0,14,60,12,86,40,True,False,True,Left-arm medium-fast,Left-hand bat
+Jammu & Kashmir,Suryansh Raina,d162e895,7,7,5,1,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19,27,True,False,False,,Left-hand bat
+Jammu & Kashmir,Ram Dayal,93fefdfa,8,4,8,0,0,50.0,"[3, 5, 10, 17]",4.0,24,8,0,32,4,0,1,0,0,1,1,8.0,0,0,0,0,0,4,33,0,37,36,True,False,True,Right-arm medium,Right-hand bat
+Jammu & Kashmir,Rasikh Salam,b8527c3d,9,3,10,0,0,30.0,"[2, 4, 14, 16]",4.0,24,11,0,22,3,0,0,0,0,0,0,5.5,0,0,1,0,-6,-3,15,12,24,24,True,False,False,Right-arm medium,Right-hand bat
+Jammu & Kashmir,Parvez Rasool,9170ff49,10,0,0,0,0,0.0,"[9, 11, 13, 20]",4.0,24,6,0,34,0,3,2,0,0,0,0,8.5,3,0,0,0,0,0,56,28,84,36,True,False,True,Right-arm offbreak,Right-hand bat
+Jammu & Kashmir,Mujtaba Yousuf,f5c9b42c,10,0,1,0,0,0.0,"[6, 8, 18]",3.0,18,7,0,26,0,3,0,0,0,0,1,8.67,0,0,0,0,0,0,7,0,7,22,True,True,False,Left-arm medium-fast,Left-hand bat
+Kerala,Vishnu Vinod,0494fa6e,1,23,13,5,0,176.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,49,0,8,57,31,True,False,False,,Right-hand bat
+Kerala,KB Arun Karthik,7daedf2f,2,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,1,0,28,29,39,True,True,False,Legbreak googly,Right-hand bat
+Kerala,Rohan Prem,92d07362,3,4,7,1,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16,38,True,False,False,Right-arm offbreak,Left-hand bat
+Kerala,Vinoop Manoharan,a0d832c0,4,52,42,5,2,123.81,"[8, 11]",2.0,12,4,0,10,1,0,2,0,0,0,0,5.0,1,0,0,0,0,92,58,8,158,32,True,True,False,Right-arm offbreak,Right-hand bat
+Kerala,Sachin Baby,dc9dd038,5,14,17,0,1,82.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,36,True,False,False,Right-arm offbreak,Left-hand bat
+Kerala,Mohammed Azharuddeen,4ae89f36,6,32,24,0,2,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,50,0,8,58,31,True,False,False,,Right-hand bat
+Kerala,Salman Nizar,47ff3985,7,23,14,0,2,164.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,39,0,0,39,27,True,False,False,Right-arm offbreak,Left-hand bat
+Kerala,Basil Thampi,871e9faf,8,0,1,0,0,0.0,"[2, 5, 12]",3.0,18,5,0,21,2,0,1,0,0,0,0,7.0,0,0,0,0,0,-2,32,0,30,31,True,False,False,Right-arm fast-medium,Right-hand bat
+Kerala,MD Nidheesh,96513a65,9,0,1,0,0,0.0,"[4, 6, 10]",3.0,18,8,0,15,2,0,2,0,0,0,0,5.0,0,0,0,0,0,0,62,0,62,33,True,False,False,Right-arm medium,Right-hand bat
+Kerala,S Sandeep Warrier,cdc6bdba,10,0,0,0,0,0.0,"[1, 3, 14]",3.0,18,12,0,6,0,0,1,0,0,0,1,2.0,0,0,0,0,0,0,43,0,43,33,True,False,False,Right-arm medium,Right-hand bat
+Kerala,S Midhun,ade90de7,11,0,0,0,0,0.0,"[7, 9, 13, 15]",3.333,20,11,0,9,0,0,3,1,1,0,0,2.7,0,0,0,0,0,0,112,0,112,30,True,False,False,Legbreak googly,Right-hand bat

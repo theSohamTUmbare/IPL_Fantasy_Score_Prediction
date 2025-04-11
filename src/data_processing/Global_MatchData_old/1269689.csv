@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Adelaide Strikers,MT Renshaw,218d4d78,1,50,31,7,0,161.29,"[1, 11, 17, 19]",4.0,24,3,0,38,0,3,1,0,1,0,0,9.5,0,0,0,0,4,90,36,0,126,29,True,False,False,Right-arm offbreak,Left-hand bat
+Adelaide Strikers,HJ Hunt,62ef4abe,2,15,9,1,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,28,True,False,False,Right-arm medium,Right-hand bat
+Adelaide Strikers,IA Cockbain,542fd5a6,3,71,42,5,4,169.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,4,127,0,16,143,38,True,False,False,Right-arm medium,Right-hand bat
+Adelaide Strikers,JW Wells,8bdac857,4,27,23,3,0,117.39,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,43,0,0,43,36,True,False,False,Right-arm medium,Right-hand bat
+Adelaide Strikers,J Weatherald,edc7ddb6,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,30,True,False,False,Legbreak,Left-hand bat
+Adelaide Strikers,T Kelly,6ceb94d0,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,24,True,False,False,,Right-hand bat
+Adelaide Strikers,HJ Nielsen,0ea1455a,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,29,True,True,False,Right-arm offbreak,Left-hand bat
+Adelaide Strikers,HTRY Thornton,055be93a,7,0,0,0,0,0.0,"[3, 10, 14, 18]",4.0,24,8,0,39,3,2,1,0,0,1,0,9.75,0,0,0,0,0,0,33,0,33,28,True,False,False,Right-arm fast,Right-hand bat
+Adelaide Strikers,PM Siddle,bd93fea4,8,0,0,0,0,0.0,"[4, 6, 16, 20]",4.0,24,7,0,32,1,1,2,0,1,0,1,8.0,0,0,0,0,0,0,65,0,65,40,True,False,False,Right-arm fast-medium,Right-hand bat
+Adelaide Strikers,HNA Conway,272fc5ad,9,0,0,0,0,0.0,"[2, 8, 12, 15]",4.0,24,5,0,30,2,0,0,0,0,0,0,7.5,0,0,0,0,0,0,5,0,5,32,True,False,False,Right-arm fast-medium,Right-hand bat
+Adelaide Strikers,Fawad Ahmed,22ae3041,10,0,0,0,0,0.0,"[5, 7, 9, 13]",4.0,24,10,0,16,0,0,3,0,2,0,0,4.0,0,0,0,0,0,0,111,0,111,43,True,False,False,Legbreak googly,Right-hand bat
+Sydney Sixers,J Edwards,f787e0eb,1,34,34,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,42,0,0,42,24,True,False,False,Right-arm medium,Right-hand bat
+Sydney Sixers,JR Philippe,39086549,2,22,19,2,0,115.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30,27,True,False,False,,Right-hand bat
+Sydney Sixers,MC Henriques,32198ae0,3,17,14,2,0,121.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Sydney Sixers,DT Christian,2a2e6343,4,22,17,0,1,129.41,"[5, 18]",1.5,9,2,0,14,2,0,0,0,0,0,0,9.33,0,0,0,0,0,28,2,0,30,41,True,False,True,Right-arm fast-medium,Right-hand bat
+Sydney Sixers,JM Bird,bc773eeb,4,0,0,0,0,0.0,"[1, 11]",2.0,12,4,0,11,1,0,0,0,0,0,0,5.5,0,0,0,0,0,0,8,0,8,38,True,False,False,Right-arm fast-medium,Right-hand bat
+Sydney Sixers,DP Hughes,f3982af9,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,36,True,False,False,Right-arm medium,Left-hand bat
+Sydney Sixers,T Murphy,ac2e7ec0,5,0,0,0,0,0.0,"[6, 8, 14, 16]",4.0,24,6,0,22,1,0,0,0,0,0,0,5.5,1,0,0,0,0,0,10,8,18,24,True,False,False,Right-arm offbreak,Left-hand bat
+Sydney Sixers,J Avendano,0af4a90b,6,52,28,1,5,185.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,100,0,0,100,31,True,False,False,,Right-hand bat
+Sydney Sixers,SA Abbott,1a2676c5,7,5,6,0,0,83.33,"[2, 7, 15]",3.0,18,2,0,44,5,2,0,0,0,0,1,14.67,0,0,0,0,0,5,-4,0,1,33,True,False,True,Right-arm fast-medium,Right-hand bat
+Sydney Sixers,H Kerr,f422728b,8,0,0,0,0,0.0,"[3, 10, 12, 17]",4.0,24,5,0,37,3,1,1,0,1,0,1,9.25,0,0,0,0,0,0,38,0,38,28,True,False,True,Left-arm fast-medium,Right-hand bat
+Sydney Sixers,BJ Dwarshuis,e1b9f3a9,9,1,1,0,0,100.0,"[4, 9, 13]",3.0,18,5,0,37,4,2,1,0,0,0,0,12.33,0,0,0,0,0,1,24,0,25,30,True,False,False,Left-arm fast-medium,Left-hand bat

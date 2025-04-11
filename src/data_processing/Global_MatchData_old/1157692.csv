@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Canada,RA Thomas,6db7068e,1,16,11,1,1,145.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,28,0,0,28,34,True,False,False,,Left-hand bat
+Canada,D Heyliger,f8c72766,2,0,0,0,0,0.0,"[6, 8]",2.0,12,9,1,8,1,0,1,0,0,0,2,4.0,1,0,0,0,0,0,52,8,60,35,True,False,False,Right-arm medium,Right-hand bat
+Canada,Hamza Tariq,82e81007,2,27,13,6,0,207.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,61,0,8,69,34,True,False,False,,Right-hand bat
+Canada,NS Dhaliwal,cbabd6ad,3,0,0,0,0,0.0,"[14, 16]",2.0,12,7,0,7,0,0,1,0,1,0,0,3.5,0,0,0,0,0,0,46,0,46,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Canada,SA Wijeratne,5fbd0632,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,35,True,False,False,,Right-hand bat
+Canada,C Pervez,7bf34437,5,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,15,0,6,0,0,1,0,1,0,3,2.0,0,0,0,0,0,0,54,0,54,40,True,False,False,Right-arm medium-fast,Right-hand bat
+Canada,N Dutta,e258a603,6,0,0,0,0,0.0,"[7, 9, 18]",3.0,18,14,0,4,0,0,0,0,0,0,0,1.33,0,0,0,0,0,0,20,0,20,30,True,False,False,Right-arm offbreak,Right-hand bat
+Canada,Rizwan Cheema,3a026eb4,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,46,True,False,False,Right-arm medium,Right-hand bat
+Canada,Saad Bin Zafar,f28a60e0,8,0,0,0,0,0.0,"[11, 13, 15, 17]",4.0,24,19,1,6,0,0,1,1,0,0,1,1.5,0,0,0,0,0,0,70,0,70,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Canada,GDR Eranga,95c434f7,9,0,0,0,0,0.0,"[2, 4]",2.0,12,10,0,3,0,0,1,1,0,0,0,1.5,0,0,0,0,0,0,49,0,49,39,True,False,False,Left-arm medium-fast,Left-hand bat
+Canada,NR Kumar,b3bad3f2,10,0,0,0,0,0.0,"[10, 12, 19]",2.833,17,13,1,8,1,0,3,0,2,0,0,2.82,0,0,0,0,0,0,126,0,126,30,True,False,False,Right-arm offbreak,Right-hand bat
+Panama,Imran Bulbulia,6464a804,1,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,41,True,True,False,Right-arm medium,Right-hand bat
+Panama,Mahmud Jasat,97e36a0f,2,1,8,0,0,12.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,32,True,False,False,Right-arm medium,Left-hand bat
+Panama,Mitulkumar Patel,cd468a10,3,16,30,2,0,53.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,20,0,0,20,34,True,True,False,Right-arm medium,Left-hand bat
+Panama,V Ahir,9d61f3d2,4,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,0,True,False,False,,Right-hand bat
+Panama,Irfan Hafejee,244009ae,5,2,9,0,0,22.22,[1],1.0,6,3,0,8,2,0,0,0,0,0,0,8.0,0,0,0,0,0,2,3,0,5,42,True,True,False,Right-arm medium,Right-hand bat
+Panama,D Ahir,424a646f,6,8,23,0,0,34.78,[4],1.0,6,1,0,9,1,0,0,0,0,0,0,9.0,0,0,0,0,-6,2,1,0,3,44,True,False,True,Slow left-arm orthodox,Left-hand bat
+Panama,KB Ahir,214cf493,7,0,0,0,0,0.0,[2],1.0,6,2,0,14,1,1,0,0,0,0,2,14.0,0,0,0,0,0,0,2,0,2,39,True,True,False,Right-arm medium,Right-hand bat
+Panama,Ibrahim Vhora,a1588e46,8,5,19,0,0,26.32,[3],1.0,6,1,0,14,3,0,0,0,0,0,0,14.0,0,0,0,0,-6,-1,1,0,0,0,True,True,False,Right-arm medium,Right-hand bat
+Panama,Mahmad Data,0ee7ede5,9,2,8,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,40,True,True,False,Right-arm medium,Right-hand bat
+Panama,Sarfaraj Mulla,514db0e2,10,0,7,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,0,True,True,False,Right-arm medium,Right-hand bat
+Panama,Abdullah Jasat,5a42db78,11,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,30,True,True,False,Left-arm medium,Right-hand bat

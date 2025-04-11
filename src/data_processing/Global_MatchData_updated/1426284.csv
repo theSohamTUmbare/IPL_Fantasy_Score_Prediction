@@ -1,0 +1,25 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Chennai Super Kings,AM Rahane,29e95537,1,9,12,1,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+Chennai Super Kings,RD Gaikwad,45a43fe2,2,98,54,10,3,181.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,174,0,0,174
+Chennai Super Kings,DJ Mitchell,eade4650,3,52,32,7,1,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,5,0,0,0,4,98,0,44,142
+Chennai Super Kings,S Dube,a4e37e47,4,39,20,1,4,195.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,77,0,0,77
+Chennai Super Kings,MS Dhoni,4a8a2e3b,5,5,2,1,0,250.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17
+Chennai Super Kings,SN Thakur,1abb78f8,6,0,0,0,0,0.0,"[8, 13, 15, 17]",4.0,24,8,0,27,3,0,1,0,0,1,0,6.75,0,0,0,0,0,0,35,0,35
+Chennai Super Kings,MM Ali,bb351c23,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
+Chennai Super Kings,RA Jadeja,fe93fd9d,8,0,0,0,0,0.0,"[7, 9, 12, 14]",4.0,24,8,0,22,0,1,1,0,0,0,0,5.5,0,0,0,0,0,0,37,0,37
+Chennai Super Kings,DL Chahar,23eeb873,9,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,5,0,22,3,0,0,0,0,0,0,7.33,0,0,0,0,0,0,5,0,5
+Chennai Super Kings,TU Deshpande,46a9bea1,10,0,0,0,0,0.0,"[2, 4, 18]",3.0,18,6,0,27,1,2,4,0,0,0,0,9.0,0,0,0,0,0,0,114,0,114
+Chennai Super Kings,Mustafizur Rahman,0a8fce53,11,0,0,0,0,0.0,"[6, 10, 19]",2.833,17,6,0,19,2,0,2,0,0,0,0,6.71,0,0,0,0,0,0,58,0,58
+Chennai Super Kings,M Pathirana,64839cb3,12,0,0,0,0,0.0,"[11, 16]",2.0,12,3,0,17,0,1,2,0,1,0,2,8.5,0,0,0,0,0,0,61,0,61
+Sunrisers Hyderabad,TM Head,12b610c2,1,13,7,1,1,185.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
+Sunrisers Hyderabad,Abhishek Sharma,f29185a1,2,15,9,1,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
+Sunrisers Hyderabad,Anmolpreet Singh,1399b39c,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Sunrisers Hyderabad,AK Markram,6a26221c,4,32,25,4,0,128.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,52,0,0,52
+Sunrisers Hyderabad,Nithish Kumar Reddy,aad0c365,5,15,15,0,0,100.0,[2],1.0,6,1,0,8,1,0,0,0,0,0,1,8.0,2,0,0,0,0,15,1,16,32
+Sunrisers Hyderabad,H Klaasen,235c2bb6,6,20,21,0,1,95.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26
+Sunrisers Hyderabad,Abdul Samad,8e514b4c,7,19,18,1,1,105.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29
+Sunrisers Hyderabad,Shahbaz Ahmed,f9e6e7ef,8,7,5,1,0,140.0,"[4, 8, 12]",3.0,18,3,0,33,5,0,0,0,0,0,0,11.0,1,0,0,0,0,11,1,8,20
+Sunrisers Hyderabad,PJ Cummins,ded9240e,9,5,7,1,0,71.43,"[9, 13, 16, 18]",4.0,24,3,0,49,4,3,0,0,0,0,1,12.25,0,0,0,0,0,9,-3,0,6
+Sunrisers Hyderabad,B Kumar,2e81a32d,10,4,3,0,0,133.33,"[1, 3, 5, 15]",4.0,24,6,0,38,5,1,1,0,0,0,0,9.5,0,0,0,0,0,4,31,0,35
+Sunrisers Hyderabad,JD Unadkat,1e66c162,11,1,2,0,0,50.0,"[7, 10, 14, 19]",4.0,24,3,0,38,2,1,1,0,0,0,1,9.5,0,0,0,0,0,1,28,0,29
+Sunrisers Hyderabad,T Natarajan,ce794613,12,0,0,0,0,0.0,"[6, 11, 17, 20]",4.0,24,8,0,43,3,3,1,0,0,0,3,10.75,0,0,0,0,0,0,31,0,31

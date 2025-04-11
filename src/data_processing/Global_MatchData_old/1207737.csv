@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Durham,G Clark,4fd09cfc,1,68,39,7,2,174.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,122,0,0,122,32,True,False,False,Legbreak,Right-hand bat
+Durham,AZ Lees,c9c0fe50,2,24,20,3,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,36,0,0,36,31,True,False,False,Legbreak,Left-hand bat
+Durham,BA Raine,4c0f3806,3,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,33,True,False,True,Right-arm medium-fast,Left-hand bat
+Durham,DG Bedingham,a1b69936,4,18,13,0,1,138.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,26,0,0,26,30,True,False,False,,Right-hand bat
+Durham,F Behardien,dce2019b,5,11,11,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11,41,True,False,True,Right-arm fast-medium,Right-hand bat
+Durham,BA Carse,cad40f5e,6,16,8,2,0,200.0,"[3, 6, 16]",3.0,18,4,0,33,2,2,0,0,0,0,0,11.0,1,0,0,0,0,24,2,8,34,29,True,False,True,Right-arm fast,Right-hand bat
+Durham,P Coughlin,71440756,7,10,10,1,0,100.0,"[11, 13, 15, 18]",4.0,24,6,0,37,2,2,2,0,0,0,1,9.25,0,0,0,0,0,14,56,0,70,32,True,False,True,Right-arm medium,Right-hand bat
+Durham,S Steel,de6c2c6e,8,1,2,0,0,50.0,"[2, 8, 10]",3.0,18,4,0,24,3,0,0,0,0,0,0,8.0,0,0,0,0,0,1,4,0,5,25,True,False,False,Right-arm offbreak,Right-hand bat
+Durham,L Trevaskis,b5781ac3,9,0,1,0,0,0.0,"[7, 9, 12]",3.0,18,2,0,35,1,3,0,0,0,0,0,11.67,1,0,0,0,0,-2,-2,8,4,25,True,False,False,Slow left-arm orthodox,Left-hand bat
+Durham,MJ Potts,894b2d25,10,2,3,0,0,66.67,"[1, 4, 17, 19]",4.0,24,9,0,23,1,1,1,0,0,0,1,5.75,1,0,0,0,0,2,38,8,48,26,True,False,False,Right-arm fast-medium,Right-hand bat
+Durham,NJ Rimmington,6042bf26,11,2,3,0,0,66.67,"[5, 14, 20]",3.0,18,2,0,39,3,1,0,0,0,0,0,13.0,0,0,0,0,0,2,-4,0,-2,42,True,False,False,Right-arm fast-medium,Right-hand bat
+Yorkshire,A Lyth,70b8fd28,1,20,15,3,0,133.33,"[3, 5]",2.0,12,4,0,14,0,1,0,0,0,0,0,7.0,0,0,0,0,2,34,6,0,40,37,True,False,False,Right-arm offbreak,Left-hand bat
+Yorkshire,T Kohler-Cadmore,f836b33d,2,85,57,3,5,149.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,141,0,0,141,30,True,True,False,Right-arm offbreak,Right-hand bat
+Yorkshire,JE Root,a343262c,3,25,20,2,0,125.0,"[6, 8, 10, 12]",4.0,24,3,0,29,1,0,2,0,0,0,2,7.25,1,0,0,0,0,37,53,8,98,34,True,False,False,Right-arm offbreak,Right-hand bat
+Yorkshire,HC Brook,4ae1755b,4,23,13,2,1,176.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,43,0,0,43,26,True,False,False,Right-arm medium,Right-hand bat
+Yorkshire,WAR Fraine,e3bc992b,5,36,15,2,3,240.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,72,0,16,88,28,True,False,True,Right-arm medium,Right-hand bat
+Yorkshire,JA Tattersall,793977d8,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0,0,12,12,30,True,True,False,Legbreak,Right-hand bat
+Yorkshire,DJ Willey,7f048519,12,0,0,0,0,0.0,"[1, 13, 18, 20]",3.167,19,7,0,26,3,1,3,2,0,0,0,8.21,1,0,0,0,0,0,102,8,110,35,True,False,True,Left-arm fast-medium,Left-hand bat
+Yorkshire,JA Thompson,1d2f290a,13,0,0,0,0,0.0,[7],1.0,6,1,0,14,3,0,0,0,0,0,0,14.0,0,0,0,0,0,0,1,0,1,28,True,False,True,Right-arm medium-fast,Left-hand bat
+Yorkshire,MD Fisher,8f2dfebf,14,0,0,0,0,0.0,"[2, 4, 19]",3.0,18,4,0,26,2,1,1,0,1,0,0,8.67,1,0,0,0,0,0,37,8,45,27,True,False,False,Right-arm fast-medium,Right-hand bat
+Yorkshire,MW Pillans,6a2fadd0,15,0,0,0,0,0.0,"[14, 16]",2.0,12,1,0,22,1,0,1,0,0,0,5,11.0,0,0,0,0,0,0,24,0,24,33,True,True,False,Right-arm fast,Right-hand bat
+Yorkshire,JE Poysden,bbbb7f1e,16,0,0,0,0,0.0,"[9, 11, 15, 17]",4.0,24,6,0,32,3,0,3,0,0,0,0,8.0,1,0,0,0,0,0,85,8,93,33,True,True,False,Legbreak,Left-hand bat

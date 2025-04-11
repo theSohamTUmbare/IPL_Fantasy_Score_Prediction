@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Barbados Tridents,J Charles,09a9d073,1,52,43,4,3,120.93,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,94,0,0,94,36,True,False,False,,Right-hand bat
+Barbados Tridents,AD Hales,92aeac25,2,18,12,4,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34,36,True,False,False,Right-arm medium,Right-hand bat
+Barbados Tridents,LS Boucher,3b647e2b,3,62,47,4,3,131.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,106,0,16,122,27,True,False,False,,Right-hand bat
+Barbados Tridents,JP Duminy,2e8994e7,4,43,18,2,4,238.89,[1],1.0,6,3,0,9,2,0,0,0,0,0,0,9.0,0,0,0,0,6,85,3,0,88,40,True,False,True,Right-arm offbreak,Left-hand bat
+Barbados Tridents,JL Carter,0a9d8b61,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,37,True,False,True,Right-arm medium,Left-hand bat
+Barbados Tridents,JO Holder,0f721006,12,0,0,0,0,0.0,"[2, 4, 6, 18]",4.0,24,12,0,37,3,3,2,0,0,0,2,9.25,1,0,0,0,0,0,62,8,70,33,True,False,True,Right-arm medium-fast,Right-hand bat
+Barbados Tridents,AR Nurse,4a745f65,13,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,36,True,False,False,Right-arm offbreak,Right-hand bat
+Barbados Tridents,RS Primus,6f4c73ce,14,0,0,0,0,0.0,"[8, 10, 20]",3.0,18,4,0,24,2,1,1,0,0,0,0,8.0,0,0,0,0,0,0,29,0,29,29,True,False,True,Right-arm medium,Right-hand bat
+Barbados Tridents,HR Walsh,1ac2a995,15,0,0,0,0,0.0,"[7, 9, 14, 16]",4.0,24,12,0,33,5,1,2,0,2,0,0,8.25,0,0,0,0,0,0,78,0,78,32,True,False,False,Legbreak googly,Left-hand bat
+Barbados Tridents,JK Lalor,88209c84,16,0,0,0,0,0.0,"[3, 12, 17, 19]",4.0,24,7,0,36,4,1,1,0,0,0,1,9.0,1,0,0,0,0,0,32,8,40,37,True,False,False,Left-arm fast-medium,Right-hand bat
+Barbados Tridents,S Lamichhane,b410bd3d,17,0,0,0,0,0.0,"[5, 11, 13, 15]",4.0,24,14,0,22,2,1,3,1,0,0,0,5.5,0,0,0,0,0,0,105,0,105,24,True,False,False,Legbreak googly,Right-hand bat
+St Kitts and Nevis Patriots,DC Thomas,08a4f9ad,1,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,35,True,False,False,Right-arm medium,Right-hand bat
+St Kitts and Nevis Patriots,E Lewis,0ebfb1ad,2,12,9,3,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24,33,True,False,False,,Left-hand bat
+St Kitts and Nevis Patriots,LJ Evans,1c513d54,3,64,41,10,1,156.1,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,122,0,0,122,37,True,False,False,Right-arm offbreak,Right-hand bat
+St Kitts and Nevis Patriots,JN Mohammed,773cec26,4,12,10,1,1,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22,38,True,False,False,Right-arm offbreak,Right-hand bat
+St Kitts and Nevis Patriots,SSJ Brooks,977b841a,5,13,15,0,1,86.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,19,0,8,27,36,True,False,False,Legbreak,Right-hand bat
+St Kitts and Nevis Patriots,FA Allen,b52ffbbd,6,0,2,0,0,0.0,"[1, 3, 11, 13]",4.0,24,7,0,35,4,1,0,0,0,0,1,8.75,0,0,0,0,0,-2,7,0,5,29,True,False,True,Slow left-arm orthodox,Right-hand bat
+St Kitts and Nevis Patriots,CR Brathwaite,e342e5fb,7,1,4,0,0,25.0,[9],1.0,6,2,0,12,1,1,0,0,0,0,0,12.0,0,0,0,0,0,1,2,0,3,36,True,False,True,Right-arm fast-medium,Right-hand bat
+St Kitts and Nevis Patriots,Usama Mir,6dd8b88c,8,2,6,0,0,33.33,"[8, 10, 12, 14]",4.0,24,6,0,30,1,2,1,0,0,0,0,7.5,0,0,0,0,0,2,31,0,33,29,True,False,False,Legbreak,Right-hand bat
+St Kitts and Nevis Patriots,RR Emrit,e7de4f6b,9,12,8,1,1,150.0,"[5, 7, 17, 19]",4.0,24,9,0,34,3,2,1,0,0,0,1,8.5,0,0,0,0,0,22,34,0,56,44,True,False,True,Right-arm medium-fast,Right-hand bat
+St Kitts and Nevis Patriots,AS Joseph,b0946605,10,7,8,0,0,87.5,"[2, 15, 18, 20]",4.0,24,6,0,41,3,2,0,0,0,0,2,10.25,0,0,0,0,0,7,4,0,11,28,True,False,False,Right-arm fast,Right-hand bat
+St Kitts and Nevis Patriots,DC Drakes,34b332d3,11,34,14,3,3,242.86,"[4, 6, 16]",3.0,18,7,0,27,2,2,0,0,0,0,0,9.0,0,0,0,0,6,74,7,0,81,27,True,False,True,Left-arm medium-fast,Left-hand bat

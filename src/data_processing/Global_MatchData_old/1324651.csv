@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Brisbane Heat,C Munro,af2c687b,1,38,14,0,6,271.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,84,0,0,84,38,True,False,False,Right-arm medium-fast,Left-hand bat
+Brisbane Heat,J Brown,647e7d44,2,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,31,True,False,False,Right-arm offbreak,Right-hand bat
+Brisbane Heat,SW Billings,c16d4035,3,16,9,2,1,177.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30,33,True,False,False,,Right-hand bat
+Brisbane Heat,JJ Peirson,2b55c3b4,4,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,32,True,False,False,,Right-hand bat
+Brisbane Heat,RA Whiteley,d346d939,5,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,36,True,False,False,Left-arm medium,Left-hand bat
+Brisbane Heat,NA McSweeney,e94d2d50,6,28,20,3,1,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,52,0,0,52,26,True,False,True,Right-arm offbreak,Right-hand bat
+Brisbane Heat,JJ Bazley,003d49e6,7,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,29,True,False,True,Right-arm fast-medium,Right-hand bat
+Brisbane Heat,MG Neser,0164b064,8,45,18,5,3,250.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,93,0,0,93,35,True,False,True,Right-arm medium-fast,Right-hand bat
+Brisbane Heat,MT Steketee,903560ed,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,31,True,False,False,Right-arm fast-medium,Right-hand bat
+Brisbane Heat,MP Kuhnemann,7b953689,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,28,True,False,False,Slow left-arm orthodox,Left-hand bat
+Brisbane Heat,MJ Swepson,86b4bf88,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,31,True,False,False,Legbreak,Right-hand bat
+Sydney Sixers,JR Philippe,39086549,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,27,True,False,False,,Right-hand bat
+Sydney Sixers,JM Vince,a15618fe,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,34,True,False,False,Right-arm medium,Right-hand bat
+Sydney Sixers,DP Hughes,f3982af9,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,36,True,False,False,Right-arm medium,Left-hand bat
+Sydney Sixers,MC Henriques,32198ae0,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Sydney Sixers,JC Silk,7a6dc294,12,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,32,True,False,False,,Right-hand bat
+Sydney Sixers,DT Christian,2a2e6343,13,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,41,True,False,True,Right-arm fast-medium,Right-hand bat
+Sydney Sixers,H Kerr,f422728b,14,0,0,0,0,0.0,"[5, 11, 13]",3.0,18,4,0,39,5,2,1,0,0,0,0,13.0,0,0,0,0,0,0,23,0,23,28,True,False,True,Left-arm fast-medium,Right-hand bat
+Sydney Sixers,BJ Dwarshuis,e1b9f3a9,15,0,0,0,0,0.0,"[1, 7]",2.0,12,5,0,18,0,2,1,0,0,0,1,9.0,1,0,0,0,0,0,30,8,38,30,True,False,False,Left-arm fast-medium,Left-hand bat
+Sydney Sixers,SA Abbott,1a2676c5,16,0,0,0,0,0.0,"[2, 9]",2.0,12,2,0,26,2,2,0,0,0,0,0,13.0,0,0,0,0,0,0,-4,0,-4,33,True,False,True,Right-arm fast-medium,Right-hand bat
+Sydney Sixers,CJ Jordan,ffe699c0,17,0,0,0,0,0.0,"[4, 10, 12]",3.0,18,7,0,33,2,3,1,0,1,0,2,11.0,1,0,0,0,0,0,38,8,46,36,True,False,False,Right-arm fast-medium,Right-hand bat
+Sydney Sixers,SNJ O'Keefe,3540beff,18,0,0,0,0,0.0,"[3, 6, 8]",3.0,18,8,0,26,2,2,3,0,1,0,0,8.67,0,0,0,0,0,0,95,0,95,40,True,False,True,Slow left-arm orthodox,Right-hand bat

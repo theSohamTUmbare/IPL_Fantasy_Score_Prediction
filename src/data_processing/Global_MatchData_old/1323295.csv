@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bangladesh,Munim Shahriar,dd98b22f,1,4,8,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,26,True,False,False,Right-arm medium-fast,Right-hand bat
+Bangladesh,Liton Das,0404d43c,2,32,19,6,0,168.42,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,64,0,0,64,30,True,True,False,Right-arm offbreak,Right-hand bat
+Bangladesh,Anamul Haque,72b245dd,3,26,26,0,2,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,42,0,0,42,32,True,False,False,,Right-hand bat
+Bangladesh,Nazmul Hossain Shanto,1274d7ab,4,37,25,3,1,148.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,61,0,8,69,26,True,False,False,Right-arm offbreak,Left-hand bat
+Bangladesh,Afif Hossain,37138918,5,10,8,1,0,125.0,[11],1.0,6,3,0,6,1,0,0,0,0,0,0,6.0,0,0,0,0,0,14,3,0,17,25,True,False,True,Right-arm offbreak,Left-hand bat
+Bangladesh,Nurul Hasan,d365d463,6,42,25,1,4,168.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,78,0,0,78,31,True,False,False,,Right-hand bat
+Bangladesh,Mosaddek Hossain,8919756f,7,13,9,1,0,144.44,"[4, 7, 9]",3.0,18,4,0,21,1,0,1,0,1,0,1,7.0,0,0,0,0,0,17,39,0,56,29,True,False,True,Right-arm offbreak,Right-hand bat
+Bangladesh,Nasum Ahmed,37654b75,8,0,0,0,0,0.0,"[2, 8, 12, 14]",4.0,24,6,0,38,4,1,0,0,0,0,0,9.5,0,0,0,0,0,0,6,0,6,30,True,False,True,Slow left-arm orthodox,Left-hand bat
+Bangladesh,Taskin Ahmed,ef18b66e,8,0,0,0,0,0.0,"[1, 6, 15, 17]",4.0,24,7,0,42,5,1,0,0,0,0,5,10.5,0,0,0,0,0,0,5,0,5,29,True,False,False,Right-arm fast,Left-hand bat
+Bangladesh,Mustafizur Rahman,0a8fce53,9,0,0,0,0,0.0,"[3, 13, 18, 20]",4.0,24,5,0,50,7,1,2,0,1,0,2,12.5,0,0,0,0,0,0,57,0,57,29,True,False,False,Left-arm fast-medium,Left-hand bat
+Bangladesh,Shoriful Islam,bb34fd31,10,0,0,0,0,0.0,"[5, 10, 16, 19]",4.0,24,2,0,45,5,2,0,0,0,0,0,11.25,0,0,0,0,0,0,-2,0,-2,23,True,False,False,Left-arm fast-medium,Left-hand bat
+Zimbabwe,RW Chakabva,2f0d7e4a,1,8,11,1,0,72.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20,37,True,True,False,Right-arm offbreak,Right-hand bat
+Zimbabwe,CR Ervine,c96311d4,2,21,18,2,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29,39,True,False,False,Right-arm offbreak,Left-hand bat
+Zimbabwe,W Madhevere,a879b92c,3,67,46,9,0,145.65,[14],1.0,6,1,0,12,0,1,0,0,0,0,1,12.0,0,0,0,0,2,113,1,0,114,24,True,False,True,Right-arm offbreak,Right-hand bat
+Zimbabwe,SC Williams,afe57f7a,4,33,19,4,1,173.68,"[7, 9]",2.0,12,5,0,7,0,0,0,0,0,0,0,3.5,0,0,0,1,6,65,11,6,82,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Zimbabwe,Sikandar Raza,26d041c4,5,65,26,7,4,250.0,"[8, 10, 12]",3.0,18,3,0,30,2,1,1,0,0,0,0,10.0,0,0,0,0,6,131,26,0,157,38,True,False,True,Legbreak,Right-hand bat
+Zimbabwe,RP Burl,b08252b8,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,30,True,False,True,Legbreak,Left-hand bat
+Zimbabwe,M Shumba,6766ca00,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,24,True,False,False,Slow left-arm orthodox,Left-hand bat
+Zimbabwe,LM Jongwe,b8704508,9,0,0,0,0,0.0,"[11, 13, 16, 18]",4.0,24,6,0,34,2,1,2,0,0,1,1,8.5,0,0,0,0,0,0,56,0,56,30,True,False,True,Right-arm fast-medium,Right-hand bat
+Zimbabwe,WP Masakadza,4bc0a378,10,0,0,0,0,0.0,"[2, 4, 15]",3.0,18,9,0,23,1,2,1,0,0,0,0,7.67,1,0,0,0,0,0,34,8,42,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+Zimbabwe,R Ngarava,6e3f5a5c,11,0,0,0,0,0.0,"[1, 5, 17, 19]",4.0,24,5,0,43,5,0,1,0,0,1,6,10.75,0,0,0,1,0,0,28,6,34,27,True,False,False,Left-arm fast-medium,Left-hand bat
+Zimbabwe,TL Chivanga,61fb296e,12,0,0,0,0,0.0,"[3, 6, 20]",3.0,18,7,0,28,2,2,0,0,0,1,2,9.33,1,0,0,0,0,0,7,8,15,31,True,False,False,Right-arm fast,Right-hand bat

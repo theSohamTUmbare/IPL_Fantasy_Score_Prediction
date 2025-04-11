@@ -1,0 +1,24 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Chattogram Challengers,WIA Fernando,9550470d,1,12,6,3,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24,26,True,False,False,Right-arm medium-fast,Right-hand bat
+Chattogram Challengers,Tanzid Hasan,80fe764d,2,49,40,5,1,122.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,79,0,16,95,24,True,False,False,,Left-hand bat
+Chattogram Challengers,Imran Uzzaman,1eff4f98,3,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,1,0,14,15,30,True,False,False,,Right-hand bat
+Chattogram Challengers,Shahadat Hossain,69e23303,4,22,31,2,0,70.97,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30,23,True,False,False,Right-arm offbreak,Right-hand bat
+Chattogram Challengers,Najibullah Zadran,1212cbec,5,32,19,1,3,168.42,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,62,0,8,70,32,True,False,False,Right-arm offbreak,Left-hand bat
+Chattogram Challengers,Shuvagata Hom,bb01f9e0,6,7,11,1,0,63.64,"[1, 3, 5, 9]",4.0,24,14,0,20,3,0,1,0,0,0,0,5.0,1,0,0,0,-2,9,43,8,60,38,True,False,True,Right-arm offbreak,Right-hand bat
+Chattogram Challengers,Nihaduzzaman,eca6dcb2,6,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,7,0,29,2,0,1,0,0,0,2,7.25,1,0,0,0,0,0,32,8,40,26,True,False,False,Slow left-arm orthodox,Right-hand bat
+Chattogram Challengers,Shohidul Islam,607ed7c2,7,0,0,0,0,0.0,"[6, 11, 19]",3.0,18,6,0,31,5,0,0,0,0,1,0,10.33,0,0,0,0,0,0,4,0,4,30,True,False,True,Right-arm medium,Right-hand bat
+Chattogram Challengers,Al-Amin Hossain,3f5f39cd,8,0,0,0,0,0.0,"[2, 4, 15, 17]",4.0,24,14,0,15,1,0,2,0,0,0,1,3.75,0,0,0,1,0,0,70,6,76,32,True,False,False,Right-arm medium-fast,Right-hand bat
+Chattogram Challengers,Bilal Khan,dcdb87f2,9,0,0,0,0,0.0,"[7, 13, 18, 20]",4.0,24,7,0,28,0,1,2,0,1,1,2,7.0,0,0,0,0,0,0,67,0,67,37,True,False,False,Left-arm medium-fast,Left-hand bat
+Chattogram Challengers,C Campher,478a63e7,10,0,0,0,0,0.0,[16],1.0,6,1,0,10,0,1,1,0,0,0,0,10.0,0,0,0,0,0,0,26,0,26,25,True,False,True,Right-arm medium-fast,Right-hand bat
+Durdanto Dhaka,MD Gunathilaka,509a7ca1,1,1,9,0,0,11.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,34,True,False,True,Right-arm offbreak,Left-hand bat
+Durdanto Dhaka,Mohammad Naim,7923a51d,2,8,11,1,0,72.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,25,True,False,False,,Left-hand bat
+Durdanto Dhaka,Saif Hassan,bb95564b,3,9,9,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,26,True,False,True,Right-arm offbreak,Right-hand bat
+Durdanto Dhaka,Mosaddek Hossain,8919756f,4,0,6,0,0,0.0,"[2, 15]",2.0,12,5,0,11,1,0,0,0,0,0,0,5.5,0,0,0,0,0,-2,9,0,7,29,True,False,True,Right-arm offbreak,Right-hand bat
+Durdanto Dhaka,AI Ross,fb0d68b4,5,11,9,2,0,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,19,0,8,27,32,True,False,False,Right-arm offbreak,Right-hand bat
+Durdanto Dhaka,Irfan Sukkur,3cc7dd5f,6,27,24,2,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,39,0,0,39,31,True,False,False,,Left-hand bat
+Durdanto Dhaka,Arafat Sunny,1f7adc8a,6,0,0,0,0,0.0,"[5, 7]",2.0,12,5,0,14,2,0,0,0,0,0,0,7.0,0,0,0,0,0,0,7,0,7,38,True,False,False,Slow left-arm orthodox,Left-hand bat
+Durdanto Dhaka,L Croospulle,e30c9b2d,7,46,31,3,2,148.39,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,76,0,0,76,26,True,False,False,Right-arm offbreak,Right-hand bat
+Durdanto Dhaka,PC de Silva,b40ee8a8,8,3,3,0,0,100.0,"[6, 8, 18]",3.0,18,8,0,26,0,3,0,0,0,0,0,8.67,1,0,0,0,0,3,8,8,19,35,True,False,True,Slow left-arm orthodox,Left-hand bat
+Durdanto Dhaka,Usman Qadir,33742f04,9,5,7,0,0,71.43,"[9, 11, 13, 17]",4.0,24,14,0,16,1,0,1,0,0,0,0,4.0,0,0,0,0,0,5,45,0,50,31,True,False,False,Legbreak,Left-hand bat
+Durdanto Dhaka,Taskin Ahmed,ef18b66e,10,15,9,1,0,166.67,"[4, 10, 12, 16]",4.0,24,12,0,26,4,0,1,0,0,0,2,6.5,0,0,0,0,0,19,39,0,58,29,True,False,False,Right-arm fast,Left-hand bat
+Durdanto Dhaka,Shoriful Islam,bb34fd31,11,1,2,0,0,50.0,"[1, 3, 14, 19]",3.333,20,8,0,40,4,1,2,2,0,0,8,12.0,0,0,0,0,0,1,68,0,69,23,True,False,False,Left-arm fast-medium,Left-hand bat

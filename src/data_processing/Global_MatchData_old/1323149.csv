@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Barbados Royals,RRS Cornwall,c4d9634c,1,32,17,5,1,188.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,68,0,0,68,32,True,False,True,Right-arm offbreak,Right-hand bat
+Barbados Royals,KR Mayers,73c18486,2,36,23,6,1,156.52,"[1, 3]",2.0,12,10,1,4,0,0,4,0,2,0,0,2.0,0,0,0,0,4,74,152,0,226,32,True,False,True,Right-arm medium,Left-hand bat
+Barbados Royals,Q de Kock,372455c4,3,24,25,1,1,96.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34,32,True,False,False,,Left-hand bat
+Barbados Royals,Azam Khan,ee8f1a6d,4,10,11,0,1,90.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,26,True,False,False,,Right-hand bat
+Barbados Royals,HT Tector,59ea70a4,5,5,7,0,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,25,True,False,False,Right-arm offbreak,Right-hand bat
+Barbados Royals,OC McCoy,529eb9e0,6,0,0,0,0,0.0,[8],1.0,6,1,0,13,2,0,0,0,0,0,1,13.0,0,0,0,0,0,0,1,0,1,28,True,False,False,Left-arm fast-medium,Left-hand bat
+Barbados Royals,DA Miller,d67d5f00,6,24,15,0,2,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,40,0,0,40,35,True,False,False,Right-arm offbreak,Left-hand bat
+Barbados Royals,RR Simmonds,fcf6b0f6,7,0,0,0,0,0.0,[7],1.0,6,0,0,12,0,1,0,0,0,0,0,12.0,1,0,0,0,0,0,0,8,8,23,True,False,False,Left-arm fast-medium,Left-hand bat
+Barbados Royals,C Bosch,172dff15,7,2,4,0,0,50.0,[9],1.0,6,0,0,18,2,1,0,0,0,0,0,18.0,0,0,0,0,0,2,0,0,2,30,True,False,True,Right-arm fast-medium,Right-hand bat
+Barbados Royals,JO Holder,0f721006,8,15,15,1,0,100.0,"[2, 5]",2.0,12,4,0,20,0,2,0,0,0,0,2,10.0,0,0,0,0,0,19,2,0,21,33,True,False,True,Right-arm medium-fast,Right-hand bat
+Barbados Royals,J Bishop,66162077,9,10,3,1,1,333.33,"[4, 6]",2.0,12,3,0,20,0,2,0,0,0,0,2,10.0,1,0,0,0,0,20,1,8,29,24,True,False,False,Slow left-arm orthodox,Right-hand bat
+St Lucia Kings,J Charles,09a9d073,1,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,4,0,16,20,36,True,False,False,,Right-hand bat
+St Lucia Kings,F du Plessis,3355b542,2,47,20,2,4,235.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,89,0,0,89,40,True,False,False,Legbreak,Right-hand bat
+St Lucia Kings,M Deyal,7183799b,3,0,2,0,0,0.0,"[10, 12, 14, 16]",4.0,24,10,0,15,1,0,2,0,0,0,0,3.75,0,0,0,0,0,-2,66,0,64,31,True,False,False,Right-arm offbreak,Left-hand bat
+St Lucia Kings,RL Chase,3feda4fa,4,2,6,0,0,33.33,"[6, 8]",2.0,12,4,0,19,2,1,0,0,0,0,0,9.5,0,0,0,0,0,2,4,0,6,33,True,False,True,Right-arm offbreak,Right-hand bat
+St Lucia Kings,RS Primus,6f4c73ce,5,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,29,True,False,True,Right-arm medium,Right-hand bat
+St Lucia Kings,TH David,f1f99156,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,29,True,False,False,Right-arm offbreak,Right-hand bat
+St Lucia Kings,AS Joseph,b0946605,6,29,18,2,2,161.11,"[3, 5, 15, 19]",4.0,24,7,0,31,2,1,2,1,0,0,1,7.75,0,0,0,0,4,57,65,0,122,28,True,False,False,Right-arm fast,Right-hand bat
+St Lucia Kings,D Wiese,aa8d28ae,7,0,0,0,0,0.0,"[9, 11, 17]",3.0,18,6,0,22,0,2,1,0,0,0,0,7.33,1,0,0,0,0,0,31,8,39,39,True,False,True,Right-arm medium-fast,Right-hand bat
+St Lucia Kings,SC Kuggeleijn,fef92afc,8,0,0,0,0,0.0,"[7, 13, 18, 20]",4.0,24,8,0,37,3,2,2,0,0,0,0,9.25,1,0,0,0,0,0,58,8,66,33,True,False,True,Right-arm fast-medium,Right-hand bat
+St Lucia Kings,J Royal,44a18ad8,9,0,0,0,0,0.0,"[2, 4]",2.0,12,5,0,22,3,1,0,0,0,0,0,11.0,1,0,0,0,0,0,3,8,11,26,True,False,False,Slow left-arm orthodox,Right-hand bat
+St Lucia Kings,PAS McSween,b319df8c,10,0,0,0,0,0.0,[1],1.0,6,2,0,14,3,0,0,0,0,0,1,14.0,0,0,0,0,0,0,2,0,2,29,True,False,False,Left-arm fast-medium,Right-hand bat

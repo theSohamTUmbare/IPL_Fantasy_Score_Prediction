@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Baroda,KH Devdhar,62e07f92,1,9,5,2,0,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,17,0,8,25,35,True,False,False,,Right-hand bat
+Baroda,Mohit Mongia,e5b78474,2,7,4,0,1,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13,25,True,True,False,Slow left-arm orthodox,Right-hand bat
+Baroda,Vishnu Solanki,2e802011,3,40,38,4,0,105.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,60,0,0,60,32,True,False,False,Right-arm offbreak,Right-hand bat
+Baroda,DJ Hooda,73ad96ed,4,35,30,5,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,59,0,0,59,29,True,False,True,Right-arm offbreak,Right-hand bat
+Baroda,YK Pathan,3c6ffae8,5,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,42,True,False,True,Right-arm offbreak,Right-hand bat
+Baroda,Swapnil Singh,983f2f61,6,36,29,4,1,124.14,"[4, 9, 11, 15]",4.0,24,11,0,24,4,0,0,0,0,0,0,6.0,0,0,0,0,0,62,13,0,75,34,True,False,False,Slow left-arm orthodox,Right-hand bat
+Baroda,Mitesh Patel,ab636882,7,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,27,True,False,False,,Right-hand bat
+Baroda,A Sheth,4312e8f9,8,5,5,1,0,100.0,"[1, 13, 17, 19]",4.0,24,7,0,37,4,1,2,0,0,0,0,9.25,0,0,0,0,0,9,57,0,66,29,True,False,True,Right-arm medium,Right-hand bat
+Baroda,RT Arothe,50455929,8,0,0,0,0,0.0,"[2, 6, 16, 18]",4.0,24,10,0,18,1,0,4,0,2,0,0,4.5,0,0,0,0,0,0,140,0,140,29,True,False,False,Left-arm medium,Left-hand bat
+Baroda,BA Bhatt,dc4686e6,9,0,0,0,0,0.0,"[3, 5, 7, 14]",4.0,24,8,0,23,1,0,0,0,0,0,2,5.75,0,0,0,0,0,0,12,0,12,34,True,False,False,Slow left-arm orthodox,Left-hand bat
+Baroda,LI Meriwala,d3611425,10,0,0,0,0,0.0,"[8, 10, 12, 20]",4.0,24,6,0,22,2,0,1,0,0,0,0,5.5,1,0,0,0,0,0,35,8,43,33,True,False,False,Left-arm fast-medium,Left-hand bat
+Hyderabad (India),Tanmay Agarwal,e6e9b619,1,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,29,True,False,False,Legbreak googly,Left-hand bat
+Hyderabad (India),PA Reddy,2461eef2,2,46,44,5,0,104.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,70,0,8,78,34,True,False,False,Legbreak,Right-hand bat
+Hyderabad (India),Himalay Agarwal,8e48d9a3,3,8,9,1,0,88.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,31,True,True,False,Right-arm medium-fast,Right-hand bat
+Hyderabad (India),Bavanaka Sandeep,bc67cc22,4,39,34,3,1,114.71,"[3, 5, 8, 12]",4.0,24,12,0,17,1,0,0,0,0,0,0,4.25,0,0,0,0,0,61,18,0,79,32,True,False,False,Slow left-arm orthodox,Left-hand bat
+Hyderabad (India),AT Rayudu,70d205c9,5,17,16,2,0,106.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,39,True,False,False,Right-arm offbreak,Right-hand bat
+Hyderabad (India),Kolla Sumanth,b93a5d0b,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,32,True,False,False,,Right-hand bat
+Hyderabad (India),Akash Bhandari,c2ce55cb,7,2,6,0,0,33.33,"[7, 9, 11, 13]",4.0,24,10,0,25,3,0,1,0,0,0,0,6.25,1,0,1,0,0,2,37,20,59,31,True,False,False,Legbreak,Right-hand bat
+Hyderabad (India),Mohammed Siraj,2f49c897,8,0,0,0,0,0.0,"[1, 16]",2.0,12,1,0,34,4,2,0,0,0,0,0,17.0,0,0,0,0,0,0,-5,0,-5,31,True,False,False,Right-arm fast,Right-hand bat
+Hyderabad (India),PS Sairam,c08963b0,8,6,5,1,0,120.0,"[14, 19]",2.0,12,4,0,12,1,0,0,0,0,0,0,6.0,0,0,0,0,0,10,6,0,16,32,True,True,False,Right-arm offbreak,Right-hand bat
+Hyderabad (India),Mehdi Hassan,5876c626,9,0,0,0,0,0.0,"[2, 4, 15, 17]",4.0,24,9,0,28,4,0,2,0,1,0,0,7.0,0,0,0,0,0,0,69,0,69,35,True,False,False,Slow left-arm orthodox,Left-hand bat
+Hyderabad (India),CV Milind,7b5b6311,10,0,0,0,0,0.0,"[6, 10, 18, 20]",3.667,22,14,1,18,3,0,2,0,0,0,0,4.91,0,0,0,0,0,0,82,0,82,30,True,False,False,Left-arm medium,Left-hand bat

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+St Kitts and Nevis Patriots,E Lewis,0ebfb1ad,1,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,33,True,False,False,,Left-hand bat
+St Kitts and Nevis Patriots,ADS Fletcher,1bae756b,2,93,64,6,5,145.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,161,0,0,161,37,True,False,False,Legbreak,Right-hand bat
+St Kitts and Nevis Patriots,WCF Smeed,4e18e961,3,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,23,True,False,False,Right-arm offbreak,Right-hand bat
+St Kitts and Nevis Patriots,JU Goolie,92780e2f,4,5,7,0,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,5,0,12,17,27,True,False,False,Right-arm offbreak,Left-hand bat
+St Kitts and Nevis Patriots,SE Rutherford,d014d5ac,5,17,16,1,1,106.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27,26,True,False,False,Right-arm fast-medium,Left-hand bat
+St Kitts and Nevis Patriots,GF Linde,e5437608,6,9,10,0,1,90.0,"[9, 11, 13, 15]",4.0,24,11,0,36,2,2,0,0,0,0,5,9.0,1,0,0,0,0,15,11,8,34,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+St Kitts and Nevis Patriots,C Bosch,172dff15,7,12,12,1,0,100.0,"[2, 6, 17, 19]",4.0,24,8,0,36,3,1,1,0,0,0,5,9.0,2,0,0,0,0,16,33,16,65,30,True,False,True,Right-arm fast-medium,Right-hand bat
+St Kitts and Nevis Patriots,BAC Howell,0bec3a6c,8,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,7,0,31,1,2,2,0,1,0,1,7.75,1,0,0,0,0,0,65,8,73,36,True,False,True,Right-arm medium,Right-hand bat
+St Kitts and Nevis Patriots,DC Drakes,34b332d3,8,1,1,0,0,100.0,[8],1.0,6,1,0,14,3,0,0,0,0,0,0,14.0,0,0,0,0,0,1,1,0,2,27,True,False,True,Left-arm medium-fast,Left-hand bat
+St Kitts and Nevis Patriots,O Thomas,c6097d68,9,0,0,0,0,0.0,"[4, 18, 20]",3.0,18,10,1,14,1,0,1,0,0,2,0,4.67,0,0,0,0,0,0,53,0,53,28,True,False,False,Right-arm fast,Left-hand bat
+St Kitts and Nevis Patriots,AR Nedd,92b7602a,10,0,0,0,0,0.0,"[1, 3, 5, 7]",4.0,24,15,0,14,2,0,2,1,0,0,0,3.5,0,0,0,0,0,0,79,0,79,24,True,False,False,Slow left-arm orthodox,Right-hand bat
+St Lucia Kings,C Munro,af2c687b,1,10,10,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,38,True,False,False,Right-arm medium-fast,Left-hand bat
+St Lucia Kings,J Charles,09a9d073,2,42,38,7,0,110.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,2,0,0,0,74,0,24,98,36,True,False,False,,Right-hand bat
+St Lucia Kings,SC Williams,afe57f7a,3,1,7,0,0,14.29,[4],1.0,6,1,0,23,2,2,0,0,0,0,1,23.0,1,0,0,0,0,1,1,8,10,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+St Lucia Kings,RL Chase,3feda4fa,4,0,2,0,0,0.0,"[2, 10, 20]",2.833,17,5,0,25,1,2,2,0,0,0,0,8.82,1,0,0,0,0,-2,55,8,61,33,True,False,True,Right-arm offbreak,Right-hand bat
+St Lucia Kings,S Descarte,b7b09ba5,5,43,31,1,3,138.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,71,0,8,79,0,True,False,True,Right-arm medium-fast,Left-hand bat
+St Lucia Kings,Sikandar Raza,26d041c4,6,22,16,1,2,137.5,"[12, 14, 16, 18]",4.0,24,12,0,28,3,0,2,0,1,0,5,7.0,0,0,0,0,2,40,72,0,112,38,True,False,True,Legbreak,Right-hand bat
+St Lucia Kings,RS Primus,6f4c73ce,7,5,8,0,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,29,True,False,True,Right-arm medium,Right-hand bat
+St Lucia Kings,AS Joseph,b0946605,8,8,6,1,0,133.33,"[6, 8, 17, 19]",4.0,24,10,0,24,0,1,0,0,0,0,2,6.0,0,0,0,0,0,12,12,0,24,28,True,False,False,Right-arm fast,Right-hand bat
+St Lucia Kings,K Pierre,a61bcb94,8,0,0,0,0,0.0,"[1, 3, 5, 7]",4.0,24,11,0,18,0,0,2,0,0,0,2,4.5,0,0,0,0,0,0,67,0,67,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+St Lucia Kings,MW Forde,83d17bbc,9,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,22,True,False,False,Right-arm medium,Right-hand bat
+St Lucia Kings,P Hatzoglou,6f95e5fa,9,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,10,0,32,2,2,0,0,0,0,0,8.0,0,0,0,0,0,0,10,0,10,26,True,False,False,Legbreak googly,Right-hand bat

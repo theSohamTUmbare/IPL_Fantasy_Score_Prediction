@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+South Africa,Q de Kock,372455c4,1,36,32,3,1,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,58,0,0,58,32,True,False,False,,Left-hand bat
+South Africa,RR Hendricks,b8cc58c9,2,38,30,3,1,126.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,60,0,8,68,35,True,False,False,Right-arm offbreak,Right-hand bat
+South Africa,AK Markram,6a26221c,3,48,33,1,2,145.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,70,0,0,70,30,True,False,True,Right-arm offbreak,Right-hand bat
+South Africa,H Klaasen,235c2bb6,4,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,33,True,True,False,Right-arm offbreak,Right-hand bat
+South Africa,DA Miller,d67d5f00,5,26,15,2,1,173.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,50,0,0,50,35,True,False,False,Right-arm offbreak,Left-hand bat
+South Africa,D Pretorius,11614d87,6,10,6,1,0,166.67,"[14, 16, 18]",3.0,18,5,0,21,1,0,1,0,0,0,1,7.0,1,0,0,0,0,14,32,8,54,36,True,False,True,Right-arm medium-fast,Right-hand bat
+South Africa,K Rabada,e62dd25d,7,0,0,0,0,0.0,"[4, 6, 20]",3.0,18,7,0,21,1,1,0,0,0,0,0,7.0,0,0,0,0,0,0,9,0,9,29,True,False,False,Right-arm fast,Left-hand bat
+South Africa,KA Maharaj,0b60eb09,8,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,12,0,19,1,0,1,1,0,0,5,4.75,0,0,0,0,0,0,51,0,51,35,True,False,False,Slow left-arm orthodox,Right-hand bat
+South Africa,BC Fortuin,9a2fc964,9,0,0,0,0,0.0,"[1, 3, 8, 15]",4.0,24,10,0,24,1,1,1,0,1,0,0,6.0,0,0,0,0,0,0,45,0,45,30,True,False,False,Slow left-arm orthodox,Right-hand bat
+South Africa,A Nortje,acdc62f5,10,0,0,0,0,0.0,"[2, 5, 17, 19]",4.0,24,12,0,29,2,1,1,0,1,0,6,7.25,0,0,1,0,0,0,45,12,57,31,True,False,False,Right-arm fast,Right-hand bat
+South Africa,T Shamsi,a03bba42,11,0,0,0,0,0.0,"[10, 12]",2.0,12,2,0,20,1,1,1,0,0,0,0,10.0,0,0,0,0,0,0,25,0,25,35,True,False,False,Left-arm wrist-spin,Right-hand bat
+Sri Lanka,WIA Fernando,9550470d,1,11,14,0,0,78.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19,26,True,False,False,Right-arm medium-fast,Right-hand bat
+Sri Lanka,LD Chandimal,8dd02a98,2,66,54,5,2,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,106,0,0,106,35,True,True,False,Right-arm offbreak,Right-hand bat
+Sri Lanka,PBB Rajapaksa,6c882e9a,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,33,True,False,False,Right-arm medium,Left-hand bat
+Sri Lanka,KIC Asalanka,732c038e,4,6,19,0,0,31.58,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,0,0,8,8,27,True,False,True,Right-arm offbreak,Left-hand bat
+Sri Lanka,MD Shanaka,3ff033bb,5,16,14,1,0,114.29,[19],1.0,6,2,0,6,0,0,1,0,0,0,0,6.0,0,0,0,0,0,20,27,0,47,33,True,False,True,Right-arm medium,Right-hand bat
+Sri Lanka,PWH de Silva,a97c8ec2,6,0,2,0,0,0.0,"[8, 10, 12, 16]",4.0,24,7,0,23,0,1,2,0,0,0,0,5.75,0,0,0,0,0,-2,61,0,59,27,True,False,True,Legbreak,Right-hand bat
+Sri Lanka,DM de Silva,7d608e12,7,1,2,0,0,50.0,"[2, 4]",2.0,12,5,0,12,0,1,0,0,0,0,0,6.0,0,0,0,0,0,1,7,0,8,33,True,False,True,Right-arm offbreak,Right-hand bat
+Sri Lanka,C Karunaratne,fb3e0d39,8,22,14,1,2,157.14,"[14, 18]",2.0,12,0,0,24,1,1,0,0,0,0,1,12.0,0,0,0,0,4,42,-4,0,38,28,True,False,True,Right-arm medium-fast,Right-hand bat
+Sri Lanka,PVD Chameera,327b58d3,8,0,0,0,0,0.0,"[1, 6, 17, 20]",4.0,24,8,0,35,5,0,1,0,0,0,1,8.75,1,0,0,0,0,0,33,8,41,33,True,False,False,Right-arm fast,Right-hand bat
+Sri Lanka,M Theekshana,f24c6701,9,0,0,0,0,0.0,"[3, 7, 9, 13]",4.0,24,5,0,35,4,0,1,1,0,0,0,8.75,1,0,0,0,0,0,38,8,46,24,True,False,False,Right-arm offbreak,Right-hand bat
+Sri Lanka,A Dananjaya,5b16a806,10,0,0,0,0,0.0,"[5, 11, 15]",3.0,18,4,0,28,0,2,0,0,0,0,1,9.33,0,0,0,0,0,0,4,0,4,31,True,False,True,Legbreak,Left-hand bat

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Warriors,WJ Lubbe,10f42013,1,69,59,6,1,116.95,[3],1.0,6,2,0,15,2,1,0,0,0,0,0,15.0,1,0,0,0,0,107,2,8,117,32,True,False,False,Right-arm offbreak,Left-hand bat
+Warriors,MP Breetzke,35f173a0,2,8,11,1,0,72.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12,26,True,False,False,,Right-hand bat
+Warriors,JT Smuts,42172c3c,3,0,1,0,0,0.0,"[7, 9, 11, 13]",4.0,24,3,0,31,1,1,0,0,0,0,0,7.75,0,0,0,0,0,-2,3,0,1,36,True,False,True,Slow left-arm orthodox,Right-hand bat
+Warriors,LC Ngoepe,51355a30,4,36,20,5,1,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,72,0,8,80,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Warriors,T Stubbs,85b3fab2,5,21,11,0,2,190.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,39,0,0,39,24,True,False,False,Right-arm offbreak,Right-hand bat
+Warriors,T van Vuuren,20afc7e7,5,0,0,0,0,0.0,"[1, 5, 16, 18]",3.167,19,6,0,29,3,1,1,0,0,0,2,9.16,0,0,0,0,0,0,31,0,31,23,True,False,True,Left-arm medium-fast,Right-hand bat
+Warriors,D Paterson,462d7c62,6,0,0,0,0,0.0,"[4, 15, 17]",3.0,18,2,0,38,3,2,0,0,0,0,1,12.67,0,0,0,0,0,0,-4,0,-4,35,True,False,False,Right-arm fast-medium,Right-hand bat
+Warriors,DS Rosier,f8e6dbdd,6,18,16,3,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30,30,True,False,False,Legbreak,Right-hand bat
+Warriors,M Nabe,6ed11905,7,0,0,0,0,0.0,"[8, 10, 14]",3.0,18,5,0,18,0,1,2,0,1,0,0,6.0,0,0,0,0,0,0,65,0,65,29,True,False,False,Right-arm medium,Right-hand bat
+Warriors,S Qeshile,94268960,7,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,26,True,False,False,,Right-hand bat
+Warriors,Tsepo Ndwandwa,be3ffb65,8,0,0,0,0,0.0,"[2, 6, 12]",3.0,18,5,0,30,3,1,0,0,0,0,0,10.0,0,0,0,0,0,0,3,0,3,29,True,False,False,Slow left-arm orthodox,Right-hand bat
+Western Province,RE Levi,18c78b11,1,40,17,5,3,235.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,88,0,0,88,37,True,False,False,Right-arm medium,Right-hand bat
+Western Province,JA Bird,572f55fb,2,39,26,4,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,65,0,0,65,23,True,False,False,Left-arm wrist-spin,Left-hand bat
+Western Province,G Kaplan,a5c3d564,3,12,9,0,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18,27,True,True,False,Right-arm offbreak,Right-hand bat
+Western Province,DJ Vilas,087210b1,4,33,27,2,1,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,51,0,0,51,39,True,False,False,,Right-hand bat
+Western Province,WD Parnell,3a60e0b5,5,0,0,0,0,0.0,"[3, 5, 17, 19]",4.0,24,10,0,25,4,0,1,0,1,0,0,6.25,0,0,0,0,0,0,45,0,45,35,True,False,False,Left-arm medium-fast,Left-hand bat
+Western Province,GF Linde,e5437608,5,34,24,1,1,141.67,[1],1.0,6,2,0,11,2,0,0,0,0,0,0,11.0,1,0,0,0,2,50,2,8,60,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+Western Province,A Mgijima,955e8e86,6,0,0,0,0,0.0,"[7, 9, 12, 14]",4.0,24,5,0,30,1,1,1,0,0,0,1,7.5,0,0,0,0,0,0,30,0,30,36,True,False,True,Right-arm offbreak,Right-hand bat
+Western Province,M Mpongwana,547c5509,7,0,0,0,0,0.0,"[8, 16]",2.0,12,2,0,14,1,0,0,0,0,0,1,7.0,0,0,1,0,0,0,4,12,16,24,True,False,True,Right-arm medium,Right-hand bat
+Western Province,BE Hendricks,b56dc5f7,8,0,0,0,0,0.0,"[2, 6, 18, 20]",4.0,24,7,0,33,4,1,1,1,0,0,0,8.25,0,0,0,0,0,0,40,0,40,34,True,False,False,Left-arm fast-medium,Left-hand bat
+Western Province,TL Moreki,36ea17c1,9,0,0,0,0,0.0,"[4, 10]",2.0,12,3,0,18,1,1,0,0,0,0,0,9.0,0,0,0,0,0,0,3,0,3,31,True,False,False,Right-arm fast-medium,Right-hand bat
+Western Province,J Dawood,a2316f90,10,0,0,0,0,0.0,"[11, 13, 15]",3.0,18,7,0,26,2,1,1,1,0,0,1,8.67,0,0,0,0,0,0,40,0,40,28,True,False,False,Legbreak,Right-hand bat

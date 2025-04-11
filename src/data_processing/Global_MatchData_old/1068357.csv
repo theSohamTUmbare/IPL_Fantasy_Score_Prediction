@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Kent,JL Denly,bdadf7da,1,46,24,8,0,191.67,"[11, 13]",2.0,12,3,0,16,0,1,1,0,0,0,0,8.0,0,0,0,0,6,88,28,0,116,39,True,False,False,Legbreak,Right-hand bat
+Kent,DJ Bell-Drummond,8f938a32,2,39,26,6,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,67,0,8,75,31,True,False,False,Right-arm medium-fast,Right-hand bat
+Kent,SA Northeast,7e4c8ba3,3,54,26,5,3,207.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,106,0,0,106,35,True,False,False,Right-arm offbreak,Right-hand bat
+Kent,AJ Blake,ea27a674,4,20,16,2,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28,36,True,False,False,Right-arm medium-fast,Left-hand bat
+Kent,JDS Neesham,9219eff0,5,0,0,0,0,0.0,"[1, 16, 20]",3.0,18,6,0,24,3,0,1,0,0,2,0,8.0,0,0,0,0,0,0,31,0,31,34,True,False,True,Right-arm medium-fast,Left-hand bat
+Kent,SW Billings,c16d4035,5,14,7,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,18,0,28,46,33,True,False,False,,Right-hand bat
+Kent,DI Stevens,bca21d18,6,0,0,0,0,0.0,[6],1.0,6,3,0,12,1,1,0,0,0,0,0,12.0,0,0,0,0,0,0,3,0,3,48,True,False,True,Right-arm medium,Right-hand bat
+Kent,MT Coles,e9d5218e,7,0,0,0,0,0.0,"[2, 4, 14, 18]",4.0,24,9,0,38,6,1,1,0,0,0,0,9.5,0,0,0,0,0,0,34,0,34,34,True,False,True,Right-arm fast-medium,Left-hand bat
+Kent,AF Milne,350bb1b1,8,0,0,0,0,0.0,"[3, 5]",2.0,12,1,0,34,2,2,0,0,0,0,0,17.0,1,0,0,0,0,0,-5,8,3,32,True,False,False,Right-arm fast,Right-hand bat
+Kent,ME Claydon,15101f12,9,0,0,0,0,0.0,"[8, 10, 17, 19]",4.0,24,8,0,25,2,0,1,0,0,2,0,6.25,0,0,0,0,0,0,35,0,35,42,True,False,False,Right-arm medium-fast,Left-hand bat
+Kent,Imran Qayyum,e5652e3d,10,0,0,0,0,0.0,"[7, 9, 12, 15]",4.0,24,7,0,47,2,4,1,0,0,0,0,11.75,0,0,0,0,0,0,28,0,28,31,True,False,False,Slow left-arm orthodox,Right-hand bat
+Somerset,L Gregory,06c2de82,1,1,3,0,0,33.33,"[5, 15]",2.0,12,2,0,24,3,0,1,0,1,0,1,12.0,0,0,0,0,0,1,31,0,32,32,True,False,True,Right-arm medium-fast,Right-hand bat
+Somerset,SM Davies,8fc65c2b,2,62,31,7,2,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,116,0,0,116,38,True,False,False,,Left-hand bat
+Somerset,J Allenby,7d5e0b78,3,25,15,3,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,51,0,0,51,42,True,False,True,Right-arm medium,Right-hand bat
+Somerset,JG Myburgh,47b4ad09,4,64,35,1,6,182.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,118,0,0,118,44,True,False,False,Right-arm offbreak,Right-hand bat
+Somerset,JH Davey,d3868bd0,5,0,0,0,0,0.0,[4],1.0,6,0,0,16,3,0,0,0,0,0,0,16.0,0,0,0,0,0,0,0,0,0,34,True,False,False,Right-arm medium-fast,Right-hand bat
+Somerset,JC Hildreth,782c0568,5,11,10,1,0,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15,40,True,False,False,Right-arm medium-fast,Right-hand bat
+Somerset,PD Trego,93e06301,6,26,24,4,0,108.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,46,0,0,46,43,True,False,True,Right-arm medium,Right-hand bat
+Somerset,C Overton,e9987a94,6,0,0,0,0,0.0,"[2, 11, 17]",2.5,15,1,0,41,6,1,0,0,0,2,0,16.4,0,0,0,0,0,0,-5,0,-5,30,True,False,True,Right-arm medium-fast,Right-hand bat
+Somerset,RE van der Merwe,05c2ca46,7,3,2,0,0,150.0,"[1, 7, 9, 13]",4.0,24,8,0,21,2,0,0,0,0,0,1,5.25,1,0,0,0,0,3,12,8,23,40,True,False,True,Slow left-arm orthodox,Right-hand bat
+Somerset,TD Groenewald,dddc811c,7,0,0,0,0,0.0,"[3, 6, 12]",3.0,18,1,0,44,6,1,0,0,0,0,1,14.67,0,0,0,0,0,0,-5,0,-5,41,True,False,False,Right-arm fast-medium,Right-hand bat
+Somerset,MTC Waller,d74d1090,8,0,0,0,0,0.0,"[8, 10, 14, 16]",4.0,24,5,0,33,2,1,2,0,1,0,1,8.25,0,0,0,0,0,0,63,0,63,37,True,False,False,Legbreak,Right-hand bat

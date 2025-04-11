@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Gujarat,Priyank Panchal,ebf25cf2,1,76,53,10,1,143.4,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,136,0,8,144,34,True,False,False,Right-arm medium,Right-hand bat
+Gujarat,Dhruv Raval,e635a5dd,2,19,15,3,0,126.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,2,0,0,0,31,0,24,55,36,True,False,False,,Left-hand bat
+Gujarat,BH Merai,15d20a08,3,35,32,2,0,109.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,47,0,8,55,33,True,True,False,Right-arm medium,Right-hand bat
+Gujarat,AR Patel,2e171977,4,0,0,0,0,0.0,"[1, 7, 11, 15]",4.0,24,11,0,20,1,0,1,0,0,0,0,5.0,0,0,0,0,0,0,40,0,40,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Gujarat,Chirag Gandhi,35eb75af,4,5,9,0,0,55.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,5,0,8,13,34,True,False,False,Right-arm offbreak,Right-hand bat
+Gujarat,Ishwar Chaudhary,fe473dc2,5,0,0,0,0,0.0,"[2, 5, 17, 19]",4.0,24,10,0,30,1,2,2,0,0,0,3,7.5,0,0,0,0,0,0,60,0,60,36,True,True,False,Right-arm fast-medium,Right-hand bat
+Gujarat,PP Chawla,98ae73b1,6,0,0,0,0,0.0,"[3, 9, 13, 16]",4.0,24,7,0,24,2,0,2,0,0,0,0,6.0,0,0,0,0,0,0,59,0,59,36,True,False,True,Legbreak,Left-hand bat
+Gujarat,Jayveer Parmar,f9346e2a,7,0,0,0,0,0.0,"[4, 6, 18, 20]",3.333,20,9,0,17,0,1,4,0,3,0,0,5.1,1,0,0,0,0,0,145,8,153,26,True,True,False,Right-arm medium-fast,Right-hand bat
+Gujarat,Chirag Parmar,d22c0460,8,0,0,0,0,0.0,"[8, 10]",2.0,12,2,0,20,1,1,0,0,0,0,1,10.0,0,0,0,0,0,0,0,0,0,34,True,True,False,Right-arm medium,Right-hand bat
+Gujarat,Karan Patel,a18da10f,9,0,0,0,0,0.0,"[12, 14]",2.0,12,1,0,22,3,0,1,0,0,0,0,11.0,1,0,0,0,0,0,24,8,32,30,True,True,False,Right-arm offbreak,Right-hand bat
+Gujarat,Kshitij Patel,9309e81f,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,27,True,False,False,Right-arm offbreak,Right-hand bat
+Saurashtra,RV Uthappa,1c17e270,1,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,39,True,False,False,Right-arm medium,Right-hand bat
+Saurashtra,SP Jackson,acc1aeda,2,11,17,0,1,64.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,15,0,0,15,38,True,True,False,Right-arm offbreak,Right-hand bat
+Saurashtra,Vishvaraj Jadeja,d30c6f81,3,48,32,3,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,70,0,0,70,26,True,True,False,Right-arm medium,Right-hand bat
+Saurashtra,PN Mankad,663b5e34,4,20,21,2,0,95.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28,30,True,False,True,Right-arm medium,Right-hand bat
+Saurashtra,Arpit Vasavada,2bbab579,5,19,13,2,0,146.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,29,0,0,29,36,True,False,False,Slow left-arm orthodox,Left-hand bat
+Saurashtra,JD Unadkat,1e66c162,6,4,6,0,0,66.67,"[1, 4, 14, 17]",4.0,24,12,1,15,0,0,0,0,0,0,0,3.75,0,0,0,0,0,4,30,0,34,33,True,False,False,Left-arm medium,Right-hand bat
+Saurashtra,Chirag Jani,783e6111,7,2,4,0,0,50.0,[13],1.0,6,0,0,13,1,0,0,0,0,1,0,13.0,2,0,0,0,0,2,0,16,18,35,True,False,True,Right-arm medium,Right-hand bat
+Saurashtra,S Sanandia,4c7543cf,8,18,11,1,2,163.64,"[2, 5, 16, 18]",4.0,24,11,0,25,4,0,2,0,0,0,0,6.25,0,0,0,0,4,38,63,0,101,37,True,True,False,Right-arm medium,Right-hand bat
+Saurashtra,Dharmendrasinh Jadeja,d330f9b9,9,1,2,0,0,50.0,"[7, 9, 11]",3.0,18,4,0,18,1,0,0,0,0,0,0,6.0,0,0,0,0,0,1,6,0,7,34,True,False,False,Slow left-arm orthodox,Left-hand bat
+Saurashtra,K D Patel,76cc7070,10,2,4,0,0,50.0,"[3, 6, 15]",3.0,18,3,0,34,6,0,0,0,0,0,0,11.33,0,0,0,0,0,2,-1,0,1,33,True,True,False,Right-arm medium,Right-hand bat
+Saurashtra,Yuvraj Chudasama,20666746,11,1,1,0,0,100.0,"[8, 10, 12, 19]",3.167,19,3,0,31,3,1,0,0,0,0,0,9.79,0,0,0,0,0,1,3,0,4,29,True,False,False,Legbreak,Left-hand bat

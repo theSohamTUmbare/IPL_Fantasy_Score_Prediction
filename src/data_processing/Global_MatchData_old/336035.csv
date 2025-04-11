@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Kings XI Punjab,SE Marsh,508a1ea7,1,40,31,3,2,129.03,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,68,0,0,68,41,True,False,False,Slow left-arm orthodox,Left-hand bat
+Kings XI Punjab,JR Hopes,2498e163,2,13,10,2,0,130.0,"[14, 16]",2.0,12,4,0,23,0,3,1,0,0,0,0,11.5,0,0,0,0,2,23,25,0,48,46,True,False,True,Right-arm medium,Right-hand bat
+Kings XI Punjab,KC Sangakkara,6b71e6cf,3,64,45,7,2,142.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,114,0,8,122,47,True,True,False,Right-arm offbreak,Left-hand bat
+Kings XI Punjab,Yuvraj Singh,1c914163,4,27,18,3,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,49,0,0,49,43,True,False,False,Slow left-arm orthodox,Left-hand bat
+Kings XI Punjab,DPMD Jayawardene,d18f9182,5,11,10,1,0,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15,47,True,False,False,Right-arm medium,Right-hand bat
+Kings XI Punjab,IK Pathan,5fa06777,6,7,4,1,0,175.0,"[1, 3, 13, 20]",3.667,22,10,0,36,4,2,0,0,0,0,1,9.82,1,0,0,0,0,11,10,8,29,40,True,False,True,Left-arm medium-fast,Left-hand bat
+Kings XI Punjab,PP Chawla,98ae73b1,7,0,1,0,0,0.0,"[9, 11, 15, 17]",4.0,24,8,0,36,3,2,2,0,1,0,0,9.0,0,0,0,0,0,-2,66,0,64,36,True,False,True,Legbreak,Left-hand bat
+Kings XI Punjab,TM Srivastava,a76d10ba,8,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9,35,True,False,False,Right-arm medium,Left-hand bat
+Kings XI Punjab,RR Powar,5d096f3d,9,0,0,0,0,0.0,"[5, 7]",2.0,12,7,0,14,1,1,0,0,0,0,1,7.0,1,0,0,0,0,0,9,8,17,46,True,False,False,Right-arm offbreak,Right-hand bat
+Kings XI Punjab,VRV Singh,034b4b7d,10,0,0,0,0,0.0,"[8, 10, 12, 19]",4.0,24,11,0,28,4,0,2,0,1,0,2,7.0,0,0,0,0,0,0,71,0,71,40,True,True,False,Right-arm medium-fast,Right-hand bat
+Kings XI Punjab,S Sreesanth,6b8eb6e5,11,0,0,0,0,0.0,"[2, 4, 6, 18]",4.0,24,10,0,33,5,1,2,1,0,0,0,8.25,0,0,0,0,0,0,68,0,68,42,True,False,False,Right-arm fast-medium,Right-hand bat
+Kolkata Knight Riders,Salman Butt,4d6d6280,1,24,19,5,0,126.32,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,44,0,0,44,40,True,False,False,Right-arm offbreak,Left-hand bat
+Kolkata Knight Riders,SC Ganguly,725529bc,2,86,53,6,6,162.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,162,0,0,162,52,True,False,False,Right-arm medium,Left-hand bat
+Kolkata Knight Riders,DB Das,7050a1e7,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,38,True,False,False,Legbreak googly,Right-hand bat
+Kolkata Knight Riders,DJ Hussey,fd835ab3,4,12,11,2,0,109.09,"[8, 10, 12, 14]",4.0,24,7,0,36,1,3,0,0,0,0,0,9.0,0,0,0,0,0,20,7,0,27,47,True,False,True,Right-arm offbreak,Right-hand bat
+Kolkata Knight Riders,LR Shukla,b1451597,5,5,4,1,0,125.0,"[9, 11]",2.0,12,1,0,23,2,1,0,0,0,0,1,11.5,0,0,0,0,0,9,-3,0,6,43,True,False,True,Right-arm medium,Right-hand bat
+Kolkata Knight Riders,WP Saha,fe11caa6,6,13,15,2,0,86.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,21,0,12,33,40,True,False,False,,Right-hand bat
+Kolkata Knight Riders,A Chopra,e249fdaa,7,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,47,True,False,False,Right-arm offbreak,Right-hand bat
+Kolkata Knight Riders,Umar Gul,16dfcc19,8,24,11,1,3,218.18,"[1, 4, 15, 20]",4.0,24,13,0,23,1,1,4,2,2,0,2,5.75,0,0,0,0,6,52,157,0,209,42,True,False,False,Right-arm fast-medium,Right-hand bat
+Kolkata Knight Riders,I Sharma,5bb1a1c4,9,0,1,0,0,0.0,"[2, 6, 16, 18]",4.0,24,8,0,49,7,0,0,0,0,0,7,12.25,0,0,0,0,0,0,2,0,2,36,True,False,False,Right-arm fast-medium,Right-hand bat
+Kolkata Knight Riders,BAW Mendis,ea0cdc12,9,0,0,0,0,0.0,"[3, 5, 13, 17]",4.0,24,9,0,24,3,0,1,0,0,0,0,6.0,0,0,0,0,0,0,36,0,36,40,True,False,False,Right-arm offbreak,Right-hand bat
+Kolkata Knight Riders,AB Dinda,66b30f71,10,0,0,0,0,0.0,"[7, 19]",2.0,12,4,0,18,3,0,0,0,0,0,0,9.0,0,0,0,0,0,0,4,0,4,41,True,False,False,Right-arm medium-fast,Right-hand bat

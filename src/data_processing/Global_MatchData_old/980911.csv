@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Gujarat Lions,AJ Finch,b8d490fd,1,50,36,7,2,138.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,100,0,0,100,38,True,False,False,Slow left-arm orthodox,Right-hand bat
+Gujarat Lions,BB McCullum,b8a55852,2,49,31,3,3,158.06,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,87,0,0,87,43,True,True,False,Right-arm offbreak,Right-hand bat
+Gujarat Lions,SK Raina,1dc12ab9,3,24,24,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28,38,True,False,False,Right-arm offbreak,Left-hand bat
+Gujarat Lions,DJ Bravo,87e562a9,4,22,10,3,1,220.0,"[6, 14, 18, 20]",4.0,24,6,0,43,2,3,1,0,1,0,0,10.75,0,0,0,0,6,46,37,0,83,41,True,False,True,Right-arm medium,Right-hand bat
+Gujarat Lions,KD Karthik,c03f1114,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0,0,12,12,39,True,True,False,Right-arm offbreak,Right-hand bat
+Gujarat Lions,RA Jadeja,fe93fd9d,5,4,7,0,0,57.14,"[7, 9, 17, 19]",4.0,24,13,0,18,0,1,2,0,1,0,0,4.5,0,0,0,0,0,4,77,0,81,36,True,False,True,Slow left-arm orthodox,Left-hand bat
+Gujarat Lions,AD Nath,f10e94c4,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,31,True,False,False,Right-arm medium-fast,Right-hand bat
+Gujarat Lions,JP Faulkner,808f425a,7,0,0,0,0,0.0,"[12, 15]",2.0,12,3,0,15,1,0,0,0,0,0,0,7.5,1,0,0,0,0,0,3,8,11,34,True,False,True,Left-arm fast-medium,Right-hand bat
+Gujarat Lions,P Kumar,e938e1bc,8,0,0,0,0,0.0,"[1, 3]",2.0,12,6,0,12,2,0,0,0,0,0,0,6.0,0,0,0,0,0,0,8,0,8,38,True,False,False,Right-arm medium,Right-hand bat
+Gujarat Lions,SB Jakati,c8179c68,9,0,0,0,0,0.0,"[2, 5, 11, 13]",4.0,24,4,0,40,5,1,0,0,0,0,0,10.0,0,0,0,0,0,0,2,0,2,44,True,False,False,Slow left-arm orthodox,Left-hand bat
+Gujarat Lions,PV Tambe,6aed7e79,10,0,0,0,0,0.0,"[4, 8, 10, 16]",4.0,24,7,0,33,3,1,2,1,0,0,0,8.25,0,0,0,0,0,0,65,0,65,53,True,False,False,Legbreak,Right-hand bat
+Rising Pune Supergiants,AM Rahane,29e95537,1,21,17,4,0,123.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,37,0,0,37,36,True,False,False,Right-arm medium,Right-hand bat
+Rising Pune Supergiants,F du Plessis,3355b542,2,69,43,5,4,160.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,125,0,8,133,40,True,False,False,Legbreak,Right-hand bat
+Rising Pune Supergiants,KP Pietersen,39f01cdb,3,37,31,2,1,119.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,55,0,0,55,44,True,False,False,Right-arm offbreak,Right-hand bat
+Rising Pune Supergiants,SPD Smith,30a45b23,4,5,6,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,35,True,False,False,Legbreak googly,Right-hand bat
+Rising Pune Supergiants,MS Dhoni,4a8a2e3b,5,22,10,2,1,220.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,6,42,0,12,54,43,True,True,False,Right-arm medium,Right-hand bat
+Rising Pune Supergiants,R Ashwin,495d42a5,5,0,0,0,0,0.0,"[5, 10, 12, 15]",4.0,24,13,0,26,1,1,0,0,0,0,2,6.5,0,0,0,0,0,0,15,0,15,38,True,False,True,Right-arm offbreak,Right-hand bat
+Rising Pune Supergiants,MR Marsh,3d8feaf8,6,7,11,0,0,63.64,[8],1.0,6,0,0,10,1,0,0,0,0,0,0,10.0,0,0,0,0,-2,5,0,0,5,33,True,False,True,Right-arm medium,Right-hand bat
+Rising Pune Supergiants,I Sharma,5bb1a1c4,6,0,0,0,0,0.0,"[2, 4, 14, 16]",4.0,24,5,0,39,7,0,1,0,0,0,0,9.75,1,0,0,0,0,0,30,8,38,36,True,False,False,Right-arm fast-medium,Right-hand bat
+Rising Pune Supergiants,RP Singh,c3d1402f,7,0,0,0,0,0.0,"[1, 3, 19]",2.0,12,4,0,21,1,2,0,0,0,0,1,10.5,0,0,0,0,0,0,2,0,2,39,True,False,False,Left-arm fast-medium,Right-hand bat
+Rising Pune Supergiants,R Bhatia,33a364a6,7,0,2,0,0,0.0,"[7, 13, 18]",3.0,18,5,0,30,0,3,0,0,0,1,0,10.0,0,0,0,0,0,0,3,0,3,45,True,False,True,Right-arm medium-fast,Right-hand bat
+Rising Pune Supergiants,M Ashwin,e2db2409,8,0,0,0,0,0.0,"[6, 9, 11, 17]",4.0,24,8,0,31,4,0,2,0,0,0,4,7.75,0,0,0,0,0,0,58,0,58,34,True,False,False,Legbreak googly,Right-hand bat

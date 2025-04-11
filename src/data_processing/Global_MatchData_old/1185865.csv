@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Guyana Amazon Warriors,BA King,7fca84b7,1,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,30,True,False,False,,Right-hand bat
+Guyana Amazon Warriors,C Hemraj,9d450c28,2,2,2,0,0,100.0,"[6, 8, 10]",3.0,18,5,0,16,1,0,1,0,0,0,0,5.33,1,0,0,0,0,2,34,8,44,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+Guyana Amazon Warriors,SO Hetmyer,48a1d7b7,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,28,True,False,False,,Left-hand bat
+Guyana Amazon Warriors,Shoaib Malik,64c34cd0,4,73,44,5,2,165.91,[17],0.5,3,1,0,7,0,1,1,0,0,0,0,14.0,0,0,0,0,4,117,26,0,143,43,True,False,True,Right-arm offbreak,Right-hand bat
+Guyana Amazon Warriors,N Pooran,3241e3fd,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,29,True,True,False,Right-arm offbreak,Left-hand bat
+Guyana Amazon Warriors,SE Rutherford,d014d5ac,6,45,43,5,1,104.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,75,0,8,83,26,True,False,False,Right-arm fast-medium,Left-hand bat
+Guyana Amazon Warriors,CJ Green,19b9f399,7,2,6,0,0,33.33,"[1, 3, 5, 11]",4.0,24,16,1,20,3,0,1,0,1,0,2,5.0,2,0,0,0,0,2,65,16,83,31,True,False,True,Right-arm offbreak,Right-hand bat
+Guyana Amazon Warriors,KMA Paul,75224f22,8,18,19,0,1,94.74,[15],1.0,6,3,0,2,0,0,2,0,0,0,0,2.0,0,0,0,0,0,24,53,0,77,27,True,False,True,Right-arm fast-medium,Right-hand bat
+Guyana Amazon Warriors,R Shepherd,c5aef772,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,30,True,False,True,Right-arm fast-medium,Right-hand bat
+Guyana Amazon Warriors,Qais Ahmad,8d5d991e,12,0,0,0,0,0.0,"[7, 9, 12, 14]",4.0,24,13,0,20,3,0,2,0,1,0,1,5.0,1,0,0,0,0,0,75,8,83,24,True,False,False,Legbreak,Right-hand bat
+Guyana Amazon Warriors,Imran Tahir,acee4cc4,13,0,0,0,0,0.0,"[2, 4, 13, 16]",4.0,24,16,0,12,1,0,3,1,1,0,1,3.0,0,0,0,0,0,0,117,0,117,46,True,False,False,Legbreak googly,Right-hand bat
+Jamaica Tallawahs,CH Gayle,db584dad,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,45,True,False,True,Right-arm offbreak,Left-hand bat
+Jamaica Tallawahs,GD Phillips,9a46c4e5,2,21,28,3,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,33,0,8,41,28,True,False,True,Right-arm offbreak,Right-hand bat
+Jamaica Tallawahs,CAK Walton,bbff906c,3,8,14,1,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,8,0,0,8,39,True,False,False,,Right-hand bat
+Jamaica Tallawahs,Liton Das,0404d43c,4,21,25,2,0,84.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29,30,True,True,False,Right-arm offbreak,Right-hand bat
+Jamaica Tallawahs,TA Griffith,9d6e1d80,5,11,11,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,19,0,8,27,33,True,False,False,Right-arm offbreak,Left-hand bat
+Jamaica Tallawahs,DR Smith,35205dfc,6,2,5,0,0,40.0,"[8, 10, 12, 16]",4.0,24,6,0,34,2,1,0,0,0,0,1,8.5,0,0,0,0,0,2,6,0,8,41,True,False,True,Right-arm medium,Right-hand bat
+Jamaica Tallawahs,I Khan,2ae01eb0,7,0,1,0,0,0.0,"[11, 13, 15, 17]",4.0,24,5,0,25,1,0,1,0,0,0,0,6.25,0,0,0,0,0,-2,32,0,30,40,True,False,False,Legbreak,Right-hand bat
+Jamaica Tallawahs,DC Green,cfd84210,8,1,2,0,0,50.0,"[2, 4, 20]",3.0,18,10,1,23,3,0,2,1,1,1,1,7.67,0,0,0,0,0,1,88,0,89,36,True,False,True,Right-arm medium-fast,Right-hand bat
+Jamaica Tallawahs,SA Jacobs,f8cdc4d7,9,1,6,0,0,16.67,[6],1.0,6,2,0,9,0,1,0,0,0,0,0,9.0,0,0,0,0,0,1,2,0,3,36,True,False,False,Right-arm offbreak,Right-hand bat
+Jamaica Tallawahs,O Thomas,c6097d68,10,2,4,0,0,50.0,"[1, 3, 5, 19]",4.0,24,10,0,40,3,2,2,0,1,1,5,10.0,0,0,0,0,0,2,66,0,68,28,True,False,False,Right-arm fast,Left-hand bat
+Jamaica Tallawahs,Zahir Khan,786b7fe8,11,6,2,0,1,300.0,"[7, 9, 14, 18]",4.0,24,9,0,19,1,0,1,0,1,0,0,4.75,0,0,0,0,0,12,48,0,60,26,True,False,False,Left-arm wrist-spin,Left-hand bat

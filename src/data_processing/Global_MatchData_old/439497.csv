@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Canada,Rizwan Cheema,3a026eb4,1,3,3,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,46,True,False,False,Right-arm medium,Right-hand bat
+Canada,JM Davison,5471024e,2,0,3,0,0,0.0,"[8, 10, 12, 14]",4.0,24,5,0,24,1,0,1,0,0,0,0,6.0,0,0,0,0,0,-2,32,0,30,54,True,False,True,Right-arm offbreak,Right-hand bat
+Canada,H Patel,c4ff0618,3,25,25,1,0,100.0,[13],1.0,6,0,0,7,0,0,0,0,0,0,0,7.0,0,0,0,0,0,33,0,0,33,33,True,False,False,Slow left-arm orthodox,Right-hand bat
+Canada,GEF Barnett,b7646e8c,4,36,20,6,0,180.0,[18],1.0,6,1,0,11,1,0,0,0,0,0,1,11.0,0,0,0,0,6,70,1,0,71,41,True,False,False,Right-arm medium-fast,Left-hand bat
+Canada,A Bagai,112959b2,5,14,17,0,0,82.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,1,0,14,0,26,40,43,True,False,False,,Right-hand bat
+Canada,Usman Limbada,b0e08fde,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,35,True,False,False,Right-arm medium,Right-hand bat
+Canada,IS Billcliff,1fb2f362,6,37,30,3,1,123.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,59,0,0,59,52,True,True,False,Right-arm medium,Right-hand bat
+Canada,S Dhaniram,123e663a,7,4,6,0,0,66.67,"[7, 9]",2.0,12,2,0,14,0,1,0,0,0,0,0,7.0,0,0,0,1,0,4,4,6,14,56,True,False,True,Slow left-arm orthodox,Left-hand bat
+Canada,U Bhatti,c66d9486,8,7,7,0,0,100.0,"[4, 6, 11, 16]",4.0,24,7,0,26,2,0,1,0,0,0,1,6.5,0,0,0,0,0,7,34,0,41,41,True,False,False,Left-arm medium,Left-hand bat
+Canada,Khurram Chohan,796e4140,9,7,7,1,0,100.0,"[2, 5, 17, 20]",3.167,19,6,0,32,6,0,0,0,0,0,0,10.1,1,0,0,0,0,11,4,8,23,45,True,False,False,Right-arm fast-medium,Right-hand bat
+Canada,HS Baidwan,7839bf3a,10,4,2,0,0,200.0,"[1, 3, 15, 19]",4.0,24,14,0,27,4,0,1,0,0,0,3,6.75,0,0,0,0,0,4,41,0,45,37,True,False,True,Right-arm medium,Right-hand bat
+Netherlands,AN Kervezee,dc36a6a5,1,39,31,6,0,125.81,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,67,0,0,67,35,True,False,False,Right-arm medium,Right-hand bat
+Netherlands,ES Szwarczynski,6a7239a7,2,25,17,5,0,147.06,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,51,0,8,59,42,True,False,False,Right-arm medium,Right-hand bat
+Netherlands,B Zuiderent,d953ed6a,3,43,41,2,1,104.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,61,0,0,61,48,True,False,False,Right-arm medium,Right-hand bat
+Netherlands,PW Borren,91052c96,4,12,12,0,0,100.0,"[7, 13, 15]",3.0,18,2,0,25,2,0,0,0,0,0,0,8.33,0,0,0,0,0,12,2,0,14,41,True,False,True,Right-arm medium,Right-hand bat
+Netherlands,RN ten Doeschate,4ec07775,5,17,14,1,0,121.43,"[5, 11, 17, 19]",4.0,24,7,0,30,3,0,1,0,1,0,1,7.5,0,0,0,0,0,21,40,0,61,44,True,False,True,Right-arm medium-fast,Right-hand bat
+Netherlands,Mudassar Bukhari,37312a74,6,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,9,0,25,2,0,1,0,0,0,0,6.25,0,0,0,0,0,0,36,0,36,41,True,False,True,Right-arm medium-fast,Right-hand bat
+Netherlands,DLS van Bunge,3185266a,6,0,0,0,0,0.0,"[9, 14]",2.0,12,3,0,14,0,1,1,0,0,0,0,7.0,1,0,0,0,0,0,30,8,38,42,True,False,True,Legbreak,Right-hand bat
+Netherlands,AF Buurman,03d3dd8e,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,0,0,12,12,43,True,False,False,,Right-hand bat
+Netherlands,TN de Grooth,52980a48,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,45,True,False,False,Right-arm offbreak,Right-hand bat
+Netherlands,E Schiferli,cefe0886,9,0,0,0,0,0.0,"[1, 3, 6]",3.0,18,6,0,27,3,0,1,0,0,0,1,9.0,0,0,0,0,0,0,31,0,31,48,True,False,False,Right-arm medium-fast,Right-hand bat
+Netherlands,PM Seelaar,abbdca1a,10,0,0,0,0,0.0,"[8, 10, 12, 16]",4.0,24,11,0,18,1,0,2,0,1,0,0,4.5,0,0,0,0,0,0,75,0,75,37,True,False,True,Slow left-arm orthodox,Right-hand bat

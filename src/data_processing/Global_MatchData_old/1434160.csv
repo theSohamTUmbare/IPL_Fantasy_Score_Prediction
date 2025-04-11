@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Gibraltar,C Pyle,d278b70b,1,47,42,4,1,111.9,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,73,0,0,73,23,True,True,False,Right-arm medium,Right-hand bat
+Gibraltar,H Pile,2f3b270e,2,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,41,True,False,False,,Right-hand bat
+Gibraltar,A Reyes,fd2b8c06,3,4,5,1,0,80.0,"[2, 4, 14, 16]",4.0,24,9,0,32,2,1,1,0,0,0,5,8.0,0,0,0,0,0,8,34,0,42,41,True,True,False,Right-arm medium,Right-hand bat
+Gibraltar,L Bruce,2a03bd2f,4,71,54,8,1,131.48,"[1, 3, 17, 19]",4.0,24,6,0,30,3,0,0,0,0,0,1,7.5,1,0,0,0,2,119,6,8,133,19,True,True,False,Right-arm medium,Right-hand bat
+Gibraltar,IDM Latin,78f719ea,5,3,3,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,3,0,16,19,40,True,True,False,Legbreak,Right-hand bat
+Gibraltar,JA Fitzgerald,4e6ff836,6,20,10,1,2,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,42,0,0,42,25,True,True,False,Right-arm medium-fast,Right-hand bat
+Gibraltar,M Whelan,d613f046,6,0,0,0,0,0.0,"[15, 18, 20]",3.0,18,5,0,44,2,4,1,0,0,0,3,14.67,0,0,0,0,0,0,24,0,24,35,True,True,False,Right-arm offbreak,Right-hand bat
+Gibraltar,J Marples,9d75aec7,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,33,True,False,False,,Right-hand bat
+Gibraltar,K Mirpuri,441006af,8,0,0,0,0,0.0,"[6, 8, 10, 12]",4.0,24,13,0,29,3,1,1,0,0,0,4,7.25,1,0,0,0,0,0,38,8,46,37,True,True,False,Right-arm offbreak,Right-hand bat
+Gibraltar,M Gouws,018f6488,9,0,0,0,0,0.0,[13],1.0,6,3,0,16,1,1,0,0,0,0,5,16.0,0,0,0,0,0,0,3,0,3,42,True,True,False,Right-arm medium-fast,Right-hand bat
+Gibraltar,S Bodha,00467a76,10,0,0,0,0,0.0,"[5, 7, 9, 11]",4.0,24,14,0,16,1,0,5,1,1,0,2,4.0,0,0,0,0,0,0,173,0,173,22,True,True,False,Right-arm medium,Right-hand bat
+Romania,Taranjeet Singh,ec483176,1,28,20,5,0,140.0,"[10, 15]",2.0,12,2,0,18,3,0,0,0,0,0,0,9.0,0,0,0,0,2,54,2,0,56,39,True,True,False,Right-arm offbreak,Right-hand bat
+Romania,A Rajshekara,1f3e41fe,2,50,42,3,3,119.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,88,0,0,88,35,True,True,False,Right-arm offbreak,Right-hand bat
+Romania,Muhammad Moiz,906b7d48,3,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,-2,0,16,14,36,True,True,False,Right-arm medium-fast,Right-hand bat
+Romania,V Saini,0fa81719,4,5,4,1,0,125.0,"[7, 9, 13, 17]",4.0,24,10,0,25,3,0,1,0,0,0,0,6.25,1,0,0,0,0,9,37,8,54,35,True,True,False,Right-arm medium,Right-hand bat
+Romania,S Periyalwar,d207e4fb,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,27,True,True,False,Right-arm medium-fast,Right-hand bat
+Romania,M Koli,eb0f2802,6,0,0,0,0,0.0,"[1, 3, 5, 18]",4.0,24,13,0,19,2,0,2,0,0,0,1,4.75,0,0,0,0,0,0,69,0,69,28,True,True,False,Right-arm medium-fast,Right-hand bat
+Romania,Asif Bevinje,9865ed99,6,0,3,0,0,0.0,"[6, 8, 12, 19]",4.0,24,9,0,27,1,1,0,0,0,0,2,6.75,0,0,0,0,0,-2,11,0,9,27,True,True,False,Right-arm medium,Right-hand bat
+Romania,S Vashisht,20ac8219,7,3,6,0,0,50.0,"[11, 20]",2.0,12,3,0,29,2,2,0,0,0,0,2,14.5,0,0,0,0,0,3,-3,0,0,36,True,True,False,Right-arm medium-fast,Right-hand bat
+Romania,S Nadigotla,b78b3ffd,8,26,19,2,1,136.84,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,46,0,8,54,36,True,True,False,Right-arm offbreak,Right-hand bat
+Romania,KA Vimlesh,6d2081aa,9,7,10,0,0,70.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,5,0,0,5,32,True,True,False,Right-arm medium,Right-hand bat
+Romania,R Athapaththu,3465e307,10,28,12,1,3,233.33,"[2, 4, 14, 16]",4.0,24,7,0,49,3,1,1,0,0,0,15,12.25,0,0,0,0,6,60,26,0,86,36,True,True,False,Right-arm medium,Right-hand bat

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Essex,JD Ryder,91ffa6c6,1,52,43,5,0,120.93,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,80,0,0,80,40,True,False,True,Right-arm medium,Left-hand bat
+Essex,KS Velani,a83107e2,2,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,30,True,True,False,Right-arm medium,Right-hand bat
+Essex,T Westley,25a42048,3,19,15,4,0,126.67,"[6, 8, 12]",3.0,18,5,0,15,1,0,0,0,0,0,0,5.0,2,0,0,0,0,35,9,16,60,36,True,False,False,Right-arm offbreak,Right-hand bat
+Essex,Ashar Zaidi,9bab2b81,4,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,8,0,18,0,0,1,0,0,0,0,4.5,0,0,1,0,0,0,39,12,51,43,True,False,True,Slow left-arm orthodox,Left-hand bat
+Essex,RS Bopara,7ca5e05d,4,36,38,2,0,94.74,[15],1.0,6,3,0,10,0,0,0,0,0,4,0,10.0,2,0,0,0,0,48,3,16,67,39,True,False,True,Right-arm medium,Right-hand bat
+Essex,RN ten Doeschate,4ec07775,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,44,True,False,True,Right-arm medium-fast,Right-hand bat
+Essex,DW Lawrence,4b685e2d,6,0,0,0,0,0.0,"[2, 4, 10, 14]",4.0,24,14,0,11,0,0,2,0,0,0,0,2.75,0,0,0,0,0,0,70,0,70,27,True,False,False,Right-arm offbreak,Right-hand bat
+Essex,JS Foster,e68dd455,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,44,True,False,False,,Right-hand bat
+Essex,GR Napier,611926bc,8,0,0,0,0,0.0,"[5, 16, 18, 20]",4.0,24,7,0,28,1,1,3,0,0,0,0,7.0,1,0,0,0,0,0,88,8,96,45,True,False,True,Right-arm medium,Right-hand bat
+Essex,PI Walter,57590dbb,9,0,0,0,0,0.0,[1],1.0,6,3,0,6,1,0,0,0,0,0,0,6.0,0,0,0,0,0,0,3,0,3,30,True,False,True,Left-arm medium,Left-hand bat
+Essex,MR Quinn,b082d112,10,0,0,0,0,0.0,"[3, 17, 19]",3.0,18,6,0,28,2,1,2,0,1,0,1,9.33,0,0,0,0,0,0,64,0,64,32,True,False,False,Right-arm medium-fast,Right-hand bat
+Surrey,GC Wilson,05de1a5a,1,17,24,1,0,70.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21,39,True,False,False,,Right-hand bat
+Surrey,SM Davies,8fc65c2b,2,5,5,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9,38,True,False,False,,Left-hand bat
+Surrey,KC Sangakkara,6b71e6cf,3,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,47,True,True,False,Right-arm offbreak,Left-hand bat
+Surrey,R Rampaul,d68e7f48,4,0,0,0,0,0.0,"[2, 4]",2.0,12,6,0,13,1,0,1,0,0,2,0,6.5,0,0,0,0,0,0,33,0,33,40,True,False,False,Right-arm fast-medium,Left-hand bat
+Surrey,RJ Burns,29e8a62e,4,11,10,2,0,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,34,True,False,False,Right-arm medium,Left-hand bat
+Surrey,ZS Ansari,7b1e20ea,5,9,11,0,0,81.82,"[8, 10, 12]",3.0,18,5,0,22,2,0,0,0,0,0,0,7.33,0,0,0,0,0,9,5,0,14,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+Surrey,DJ Bravo,87e562a9,6,20,19,0,1,105.26,"[3, 6, 14, 16]",4.0,24,6,0,32,3,0,1,1,0,4,2,8.0,0,0,0,0,0,26,39,0,65,41,True,False,True,Right-arm medium,Right-hand bat
+Surrey,SM Curran,e94915e6,7,32,32,1,1,100.0,"[1, 15]",2.0,12,7,0,9,1,0,0,0,0,0,0,4.5,0,0,0,0,0,46,13,0,59,26,True,False,True,Left-arm medium-fast,Left-hand bat
+Surrey,TK Curran,e86754b2,8,9,11,0,0,81.82,"[5, 11, 17]",2.833,17,5,0,24,3,0,0,0,0,0,1,8.47,1,0,0,0,0,9,5,8,22,30,True,False,True,Right-arm fast-medium,Right-hand bat
+Surrey,BT Foakes,fd770945,9,7,6,0,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,7,0,0,7,32,True,False,False,,Right-hand bat
+Surrey,GJ Batty,5ac8f17b,10,0,0,0,0,0.0,"[7, 9, 13]",3.0,18,6,0,16,1,0,0,0,0,0,0,5.33,0,0,0,0,0,0,10,0,10,47,True,False,False,Right-arm offbreak,Right-hand bat

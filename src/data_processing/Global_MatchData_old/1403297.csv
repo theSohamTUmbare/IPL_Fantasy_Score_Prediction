@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Chile,Guillermo Aburto,08deefa3,1,0,4,0,0,0.0,"[2, 4, 6]",3.0,18,11,0,17,1,0,1,0,0,1,3,5.67,0,0,0,0,0,-2,40,0,38,41,True,True,False,Right-arm medium-fast,Right-hand bat
+Chile,Amit Uniyal,085071f2,2,8,13,0,0,61.54,"[8, 10, 12]",3.0,18,12,0,13,1,0,1,0,0,0,1,4.33,0,0,0,0,-2,6,43,0,49,45,True,True,False,Right-arm offbreak,Right-hand bat
+Chile,John Bartlett,6b7f9d9d,3,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,32,True,True,False,Right-arm medium-fast,Right-hand bat
+Chile,Simon Shalders,167b3c71,4,21,33,2,0,63.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,27,0,8,35,57,True,False,False,,
+Chile,Anthony Roe,0dcd8fbd,5,13,28,2,0,46.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,15,0,0,15,56,True,False,False,,
+Chile,Edward Taylor,9adb9f71,6,14,26,1,0,53.85,"[1, 3, 5, 7]",4.0,24,13,0,26,1,0,2,0,2,3,2,6.5,0,0,0,0,-4,14,81,0,95,41,True,True,False,Legbreak,Right-hand bat
+Chile,Jack Inglis,06da3abc,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,True,False,Left-arm medium-fast,Left-hand bat
+Chile,Nelson Jesus Navarrete Aburto,0f1ea8c4,7,1,8,0,0,12.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,27,True,True,False,Right-arm medium-fast,Right-hand bat
+Chile,Alex Carthew,ea6ec2d9,8,6,6,0,0,100.0,"[9, 11, 13]",3.0,18,11,0,12,1,0,1,0,0,0,1,4.0,0,0,0,0,0,6,42,0,48,39,True,True,False,Right-arm offbreak,Right-hand bat
+Chile,Mario Ovalle,f0fbdf0a,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8,43,True,False,False,,
+Chile,Alfredo Puentes,e214be36,9,0,0,0,0,0.0,[14],0.333,2,0,0,6,1,0,0,0,0,0,0,18.02,1,0,0,0,0,0,0,8,8,33,True,False,False,,
+Mexico,Tarun Sharma,1ba16d18,1,11,11,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,15,0,8,23,52,True,True,False,Right-arm medium,Right-hand bat
+Mexico,Shashikant Laxman,8cf61570,2,9,8,0,0,112.5,"[11, 13, 15, 17]",4.0,24,16,0,15,2,0,2,1,0,0,0,3.75,0,0,0,0,0,9,80,0,89,43,True,False,True,Right-arm medium,Right-hand bat
+Mexico,Puneet Arora,c2f8f36e,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,38,True,True,False,Right-arm medium,Right-hand bat
+Mexico,Shantanu Kaveri,091880f7,4,11,19,1,0,57.89,"[6, 8, 10, 12]",4.0,24,14,0,13,0,0,1,0,0,0,0,3.25,0,0,0,0,-4,11,45,0,56,46,True,True,False,Right-arm medium,Right-hand bat
+Mexico,Kaushal Kumar,8cc37805,5,21,26,3,0,80.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33,46,True,True,False,Right-arm medium,Right-hand bat
+Mexico,Praveen Santhanakrishnan,22fb205e,6,1,4,0,0,25.0,[14],1.0,6,5,0,5,0,0,0,0,0,1,3,5.0,0,0,0,0,0,1,5,0,6,38,True,False,False,,
+Mexico,Pratik Singh Bais,5b351aff,7,0,0,0,0,0.0,"[1, 3, 5, 19]",4.0,24,15,0,14,1,0,2,1,0,0,0,3.5,0,0,0,0,0,0,79,0,79,27,True,True,False,Right-arm medium-fast,Right-hand bat
+Mexico,Luis Hermida,03beb59f,7,10,10,0,0,100.0,"[7, 9]",2.0,12,8,0,9,1,0,0,0,0,0,1,4.5,0,0,0,0,0,10,14,0,24,42,True,False,False,Right-arm medium,Right-hand bat
+Mexico,Bhargav Narasimha,e60e8014,8,0,0,0,0,0.0,[20],1.0,6,3,0,6,0,0,0,0,0,0,1,6.0,0,0,1,0,0,0,3,12,15,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Mexico,Shoaib Rafiq,27df03d2,9,0,0,0,0,0.0,"[2, 4, 16, 18]",4.0,24,20,0,10,1,0,1,1,0,0,2,2.5,2,0,0,0,0,0,59,16,75,35,True,True,False,Right-arm medium-fast,Right-hand bat
+Mexico,Mukesh Singh,c44bf6a2,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,36,True,False,False,,

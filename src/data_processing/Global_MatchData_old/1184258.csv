@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Ghana,F Baleri,6efdad14,1,11,13,1,0,84.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15,26,True,False,False,,Right-hand bat
+Ghana,R Bakum,c74c583b,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,25,True,False,True,Right-arm medium,Right-hand bat
+Ghana,KS Bagabena,1ce4f664,3,0,0,0,0,0.0,[11],0.833,5,0,0,8,1,0,0,0,0,0,0,9.6,0,0,0,0,0,0,0,0,0,36,True,True,False,Right-arm medium,Right-hand bat
+Ghana,S Ateak,a8529363,3,26,22,3,1,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,48,0,0,48,31,True,True,False,Right-arm offbreak,Right-hand bat
+Ghana,V Ateak,65a60be7,4,0,0,0,0,0.0,"[4, 6, 10]",3.0,18,8,0,27,2,2,1,0,0,0,0,9.0,1,0,0,0,0,0,33,8,41,27,True,True,False,Slow left-arm orthodox,Left-hand bat
+Ghana,SL Perera,9c33091b,4,7,19,0,0,36.84,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,1,0,0,1,39,True,False,True,Right-arm offbreak,Right-hand bat
+Ghana,DNA Ankrah,c6614fc0,5,12,27,1,0,44.44,"[1, 3]",2.0,12,9,1,7,1,0,0,0,0,0,0,3.5,0,0,0,0,-6,10,27,0,37,26,True,True,False,Right-arm medium,Right-hand bat
+Ghana,JH Mensah,d701081f,6,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,31,True,False,False,,Right-hand bat
+Ghana,IKO Aboagye,98614193,7,7,10,0,0,70.0,"[7, 9]",2.0,12,4,0,16,1,1,0,0,0,0,0,8.0,0,0,0,0,-2,5,4,0,9,29,True,True,False,Right-arm medium,Right-hand bat
+Ghana,M Aboagye,afe8ff08,8,18,21,1,0,85.71,[8],1.0,6,2,0,17,1,2,0,0,0,0,0,17.0,0,0,0,0,0,22,2,0,24,23,True,False,True,Legbreak,Right-hand bat
+Ghana,DK Anefie,f98c24ec,9,3,4,0,0,75.0,"[2, 5]",2.0,12,5,0,17,3,0,0,0,0,0,0,8.5,0,0,0,0,0,3,5,0,8,24,True,False,True,Right-arm medium,Right-hand bat
+Namibia,SJ Baard,e8511411,1,52,34,5,3,152.94,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,4,102,0,16,118,32,True,False,False,Right-arm medium-fast,Right-hand bat
+Namibia,N Davin,72e361fe,2,38,28,4,2,135.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,72,0,8,80,27,True,False,False,Legbreak,Right-hand bat
+Namibia,MG Erasmus,95a5e066,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,29,True,False,True,Right-arm offbreak,Right-hand bat
+Namibia,C Viljoen,f7b2cbe8,3,2,3,0,0,66.67,[5],1.0,6,4,0,5,1,0,0,0,0,0,0,5.0,0,0,0,0,0,2,4,0,6,37,True,False,True,Right-arm medium,Right-hand bat
+Namibia,ZE Green,8716233e,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,28,True,False,False,,Left-hand bat
+Namibia,JJ Smit,bb134e5c,5,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,7,0,21,1,0,0,0,0,0,0,5.25,0,0,0,0,0,0,11,0,11,29,True,False,True,Left-arm medium-fast,Right-hand bat
+Namibia,JN Frylinck,3c87f0c3,6,0,0,0,0,0.0,"[6, 13, 15, 17]",4.0,24,11,0,21,1,0,2,0,0,0,2,5.25,1,0,0,0,0,0,65,8,73,30,True,False,True,Left-arm fast-medium,Left-hand bat
+Namibia,K Birkenstock,27b8d7b6,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,29,True,False,False,Right-arm fast-medium,Left-hand bat
+Namibia,Z Groenewald,017faef2,8,0,0,0,0,0.0,"[1, 3, 8, 14]",4.0,24,15,1,20,2,1,3,1,2,0,0,5.0,0,0,0,0,0,0,134,0,134,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+Namibia,BM Scholtz,e85d03d6,9,0,0,0,0,0.0,"[7, 9, 11, 16]",4.0,24,13,0,11,0,0,1,0,0,0,0,2.75,0,0,0,0,0,0,44,0,44,34,True,False,False,Slow left-arm orthodox,Right-hand bat
+Namibia,T Lungameni,1688f2dc,10,0,0,0,0,0.0,"[10, 12, 19]",3.0,18,12,0,12,1,0,1,0,0,0,3,4.0,0,0,0,0,0,0,43,0,43,32,True,False,False,Left-arm medium,Right-hand bat

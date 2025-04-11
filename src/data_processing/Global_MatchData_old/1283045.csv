@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Sierra Leone,J Bangura,d7acab5d,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,19,True,True,False,Right-arm offbreak,Right-hand bat
+Sierra Leone,S Conteh,8f70fff7,2,17,24,2,0,70.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,25,0,8,33,21,True,True,False,Right-arm medium,Right-hand bat
+Sierra Leone,G Sesay,c556b9d2,3,12,24,0,0,50.0,"[7, 9, 11]",2.833,17,6,0,28,1,2,1,0,1,0,3,9.88,0,0,0,0,-4,8,39,0,47,18,True,True,False,Right-arm medium,Right-hand bat
+Sierra Leone,S Tarawally,809ab8d4,4,0,0,0,0,0.0,[2],1.0,6,0,0,19,1,2,0,0,0,0,0,19.0,0,0,0,0,0,0,0,0,0,30,True,True,False,Right-arm medium,Right-hand bat
+Sierra Leone,Zahid Khan,bf896894,4,0,2,0,0,0.0,"[3, 5]",2.0,12,4,0,19,2,1,0,0,0,0,0,9.5,0,0,0,0,0,-2,4,0,2,26,True,True,False,Right-arm medium-fast,Right-hand bat
+Sierra Leone,AL Kerai,adb629f6,5,8,16,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,4,0,0,4,38,True,False,False,,Left-hand bat
+Sierra Leone,L Lamin,5a970aab,6,13,17,0,1,76.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,39,True,True,False,Right-arm fast-medium,Right-hand bat
+Sierra Leone,A Gbla,34ab1e6e,7,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,27,True,True,False,Right-arm medium,Right-hand bat
+Sierra Leone,E Ernest,4a2159dc,8,0,1,0,0,0.0,"[4, 6, 8, 10]",4.0,24,11,0,20,2,0,1,0,0,0,0,5.0,0,0,0,0,0,-2,40,0,38,21,True,True,False,Right-arm medium,Right-hand bat
+Sierra Leone,AB Kamara,3951be49,9,10,14,0,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10,34,True,True,False,Right-arm fast-medium,Right-hand bat
+Sierra Leone,S Williams,7ae1aad9,10,22,17,3,0,129.41,[1],1.0,6,2,0,17,1,2,0,0,0,0,0,17.0,0,0,0,0,0,34,2,0,36,28,True,True,False,Right-arm medium,Right-hand bat
+Tanzania,AR Patwa,b43f7a6a,1,26,19,3,1,136.84,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,50,0,0,50,38,True,False,False,Right-arm offbreak,Right-hand bat
+Tanzania,II Selemani,b2dadc51,2,70,35,4,6,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,136,0,8,144,24,True,True,False,Right-arm offbreak,Right-hand bat
+Tanzania,JC Darji,6d5983d4,3,3,7,0,0,42.86,"[9, 11]",2.0,12,8,0,6,0,0,0,0,0,0,1,3.0,0,0,0,0,0,3,14,0,17,37,True,True,False,Right-arm medium,Right-hand bat
+Tanzania,K Nassoro,29ee9bf9,4,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,36,True,True,False,Right-arm offbreak,Right-hand bat
+Tanzania,S Thakor,0848ac5f,4,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,15,0,14,0,0,2,0,0,0,5,3.5,2,0,0,0,0,0,71,16,87,34,True,True,False,Legbreak,Right-hand bat
+Tanzania,HA Chohan,847b4bdd,5,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,10,0,27,2,0,1,1,0,0,3,6.75,0,0,0,0,0,0,45,0,45,26,True,True,False,Right-arm medium,Right-hand bat
+Tanzania,SA Jumbe,91056862,6,0,0,0,0,0.0,"[5, 7]",2.0,12,4,0,9,0,0,0,0,0,0,0,4.5,0,0,0,0,0,0,10,0,10,27,True,True,False,Right-arm medium-fast,Left-hand bat
+Tanzania,Jitin Singh,b7db83eb,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,41,True,True,False,Right-arm medium,Right-hand bat
+Tanzania,AM Kimote,34e36b65,8,0,0,0,0,0.0,"[13, 15, 17, 19]",4.0,24,8,0,25,1,1,3,0,0,0,0,6.25,2,0,0,0,0,0,89,16,105,32,True,True,False,Right-arm medium,Right-hand bat
+Tanzania,N Mapunda,a94c2947,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,33,True,False,False,,Right-hand bat
+Tanzania,RK Kiseto,780d1997,10,0,0,0,0,0.0,"[2, 4, 6, 8]",4.0,24,18,0,14,2,0,2,1,0,0,2,3.5,1,0,0,0,0,0,82,8,90,35,True,False,False,Right-arm offbreak,Right-hand bat

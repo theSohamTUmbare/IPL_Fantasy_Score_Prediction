@@ -1,0 +1,24 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Mumbai Indians,Ishan Kishan,752f7486,1,9,7,2,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,17,0,8,25,26,True,True,False,Legbreak,Left-hand bat
+Mumbai Indians,RG Sharma,740742ef,2,4,5,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,37,True,False,False,Right-arm offbreak,Right-hand bat
+Mumbai Indians,Naman Dhir,fffa744b,3,0,9,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,25,True,False,False,Right-arm offbreak,Right-hand bat
+Mumbai Indians,SA Yadav,271f83cd,4,102,51,12,6,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,208,0,8,216,34,True,False,False,Right-arm offbreak,Right-hand bat
+Mumbai Indians,HH Pandya,dbe50b21,5,0,0,0,0,0.0,"[7, 9, 12, 16]",4.0,24,7,0,31,4,0,3,0,1,0,1,7.75,0,0,0,0,0,0,94,0,94,31,True,False,True,Right-arm medium-fast,Right-hand bat
+Mumbai Indians,Tilak Varma,b0482a1d,5,37,32,6,0,115.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,65,0,8,73,22,True,False,True,Right-arm offbreak,Left-hand bat
+Mumbai Indians,TH David,f1f99156,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,29,True,False,False,Right-arm offbreak,Right-hand bat
+Mumbai Indians,A Kamboj,fcc21ace,7,0,0,0,0,0.0,"[2, 5, 8, 10]",4.0,24,8,0,42,3,2,1,0,1,2,1,10.5,1,0,0,0,0,0,39,8,47,24,True,False,True,Right-arm medium,Right-hand bat
+Mumbai Indians,PP Chawla,98ae73b1,8,0,0,0,0,0.0,"[11, 13, 15, 17]",4.0,24,7,0,33,1,2,3,1,1,0,2,8.25,0,0,0,0,0,0,102,0,102,36,True,False,True,Legbreak,Left-hand bat
+Mumbai Indians,JJ Bumrah,462411b3,9,0,0,0,0,0.0,"[4, 6, 14, 19]",4.0,24,9,0,23,2,0,1,0,0,0,1,5.75,0,0,0,0,0,0,38,0,38,31,True,False,False,Right-arm fast,Right-hand bat
+Mumbai Indians,N Thushara,ee1b6c27,10,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,6,0,42,3,1,0,0,0,1,4,10.5,0,0,0,0,0,0,4,0,4,30,True,False,False,Right-arm medium-fast,Right-hand bat
+Sunrisers Hyderabad,TM Head,12b610c2,1,48,28,7,1,171.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,92,0,0,92,31,True,False,False,Right-arm offbreak,Left-hand bat
+Sunrisers Hyderabad,Abhishek Sharma,f29185a1,2,11,16,0,1,68.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,15,0,0,15,24,True,False,True,Slow left-arm orthodox,Left-hand bat
+Sunrisers Hyderabad,MA Agarwal,00ea847a,3,5,6,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17,34,True,False,False,Right-arm offbreak,Right-hand bat
+Sunrisers Hyderabad,Nithish Kumar Reddy,aad0c365,4,20,15,2,0,133.33,"[9, 12]",2.0,12,5,0,16,3,0,0,0,0,0,0,8.0,0,0,0,0,2,30,5,0,35,21,True,False,True,Right-arm medium-fast,Right-hand bat
+Sunrisers Hyderabad,B Kumar,2e81a32d,5,0,0,0,0,0.0,"[1, 3, 5, 14]",4.0,24,14,0,22,3,1,1,0,0,0,1,5.5,0,0,0,0,0,0,43,0,43,35,True,False,False,Right-arm medium,Right-hand bat
+Sunrisers Hyderabad,H Klaasen,235c2bb6,5,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,33,True,True,False,Right-arm offbreak,Right-hand bat
+Sunrisers Hyderabad,T Natarajan,ce794613,6,0,0,0,0,0.0,"[8, 11, 16, 18]",3.333,20,8,0,31,4,1,0,0,0,0,0,9.3,0,0,0,0,0,0,8,0,8,33,True,False,False,Left-arm medium,Left-hand bat
+Sunrisers Hyderabad,M Jansen,81c36ee9,6,17,12,1,1,141.67,"[2, 7, 13]",3.0,18,3,0,45,5,2,1,0,0,0,6,15.0,1,0,0,0,2,29,22,8,59,24,True,False,True,Left-arm fast,Right-hand bat
+Sunrisers Hyderabad,Shahbaz Ahmed,f9e6e7ef,7,10,12,0,0,83.33,[15],1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,0,0,0,0,0,10,1,0,11,30,True,False,True,Slow left-arm orthodox,Left-hand bat
+Sunrisers Hyderabad,Abdul Samad,8e514b4c,8,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,23,True,False,False,Legbreak,Right-hand bat
+Sunrisers Hyderabad,PJ Cummins,ded9240e,9,35,16,2,2,218.75,"[4, 6, 10, 17]",4.0,24,12,1,35,4,2,1,0,0,0,1,8.75,0,0,0,0,6,65,49,0,114,31,True,False,False,Right-arm fast,Right-hand bat
+Sunrisers Hyderabad,Sanvir Singh,b0f2baf4,10,8,7,0,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,28,True,False,True,Right-arm medium,Right-hand bat

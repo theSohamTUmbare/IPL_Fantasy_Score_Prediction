@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Maldives,Ahmed Hassan,7c885103,1,9,25,0,0,36.0,"[2, 4, 6]",3.0,18,11,0,18,0,2,2,0,1,0,0,6.0,0,0,0,0,-6,3,71,0,74,35,True,True,False,Right-arm offbreak,Right-hand bat
+Maldives,Abdullah Shahid,71686118,2,24,20,4,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,40,0,0,40,50,True,True,False,Right-arm medium-fast,
+Maldives,Mohamed Rishwan,7d15170b,3,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,31,True,False,False,,Right-hand bat
+Maldives,Afzal Faiz,4017cb2e,4,15,22,2,0,68.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,21,0,0,21,0,True,True,False,Slow left-arm orthodox,Right-hand bat
+Maldives,Mohamed Azzam,e43c9818,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,2,0,0,0,0,0,24,24,33,True,False,False,,Right-hand bat
+Maldives,Mihusan Hamid,b426ff49,5,18,21,1,0,85.71,[7],1.0,6,0,0,9,0,0,0,0,0,0,0,9.0,0,0,0,0,0,22,0,0,22,33,True,True,False,Right-arm offbreak,Right-hand bat
+Maldives,Shunan Ali,3b2ca392,6,0,0,0,0,0.0,"[8, 10]",1.167,7,2,0,14,1,1,0,0,0,0,0,12.0,0,0,0,0,0,0,2,0,2,27,True,True,False,Legbreak,Right-hand bat
+Maldives,Ibrahim Hassan,4add4c98,6,16,13,1,1,123.08,"[1, 3]",2.0,12,5,0,25,3,1,0,0,0,0,3,12.5,0,0,0,0,0,26,-1,0,25,33,True,True,False,Right-arm medium,Right-hand bat
+Maldives,Umar Adam,5d77a96a,7,0,0,0,0,0.0,[9],1.0,6,1,0,21,0,3,1,0,0,0,0,21.0,0,0,0,0,0,0,26,0,26,27,True,True,False,Right-arm offbreak,Right-hand bat
+Maldives,Ameel Mauroof,1579d497,7,5,8,0,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,32,True,True,False,Left-arm fast-medium,Left-hand bat
+Maldives,Mohamed Mahfooz,44f5a3e4,8,6,5,0,0,120.0,[5],1.0,6,2,0,16,0,2,0,0,0,0,1,16.0,0,0,0,0,0,6,2,0,8,37,True,True,False,Slow left-arm orthodox,Right-hand bat
+Oman,Zeeshan Maqsood,34464143,1,15,12,1,1,125.0,"[5, 7, 9, 11]",4.0,24,17,1,10,1,0,1,0,0,0,0,2.5,0,0,0,0,0,25,60,0,85,37,True,False,False,Slow left-arm orthodox,Left-hand bat
+Oman,Muhammad Saeed,cfcc1258,2,10,11,2,0,90.91,[2],1.0,6,2,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,18,2,0,20,50,True,False,False,,Right-hand bat
+Oman,Jatinder Singh,b80dd12c,3,15,9,0,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21,36,True,False,False,Right-arm offbreak,Right-hand bat
+Oman,Adnan Ilyas,d376bbaa,4,57,21,1,7,271.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,117,0,0,117,40,True,True,False,Right-arm medium,Right-hand bat
+Oman,Amir Ali,3748955d,5,0,0,0,0,0.0,"[12, 14, 16, 18]",4.0,24,8,0,22,2,0,0,0,0,0,1,5.5,0,0,0,0,0,0,12,0,12,46,True,False,False,Right-arm offbreak,Right-hand bat
+Oman,VS Wategaonkar,dd340ef9,5,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,42,True,False,False,,Left-hand bat
+Oman,Shuaib Al Balushi,87968c84,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,29,True,True,False,Right-arm offbreak,Right-hand bat
+Oman,RJ Ranpura,c024db94,7,0,0,0,0,0.0,"[1, 3, 20]",3.0,18,7,0,19,1,0,0,0,0,0,2,6.33,1,0,0,0,0,0,9,8,17,41,True,False,False,Right-arm fast-medium,Left-hand bat
+Oman,Sultan Ahmed,3bf7c034,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,0,0,20,20,47,True,False,False,,Right-hand bat
+Oman,AV Lalcheta,b858be20,9,0,0,0,0,0.0,"[4, 6, 17, 19]",4.0,24,13,0,22,2,1,1,1,0,0,0,5.5,1,0,0,0,0,0,50,8,58,41,True,False,True,Slow left-arm orthodox,Left-hand bat
+Oman,Aamir Kaleem,7ecb9a14,10,0,0,0,0,0.0,"[8, 10, 13, 15]",4.0,24,11,0,17,1,0,3,0,0,0,1,4.25,0,0,0,0,0,0,96,0,96,43,True,False,False,Slow left-arm orthodox,Left-hand bat

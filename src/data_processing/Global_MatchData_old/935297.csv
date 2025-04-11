@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Barisal Bulls,Shahriar Nafees,b9c225c2,1,3,8,0,0,37.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,39,True,False,False,,Left-hand bat
+Barisal Bulls,Rony Talukdar,8bd614b2,2,17,22,2,0,77.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,34,True,False,False,Right-arm slow-medium,Right-hand bat
+Barisal Bulls,BRM Taylor,53597be1,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,39,True,True,False,Right-arm offbreak,Right-hand bat
+Barisal Bulls,Mahmudullah,bf1d7d3e,4,9,13,1,0,69.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,11,0,8,19,39,True,False,True,Right-arm offbreak,Right-hand bat
+Barisal Bulls,Sabbir Rahman,7147f314,5,10,13,1,0,76.92,[17],1.0,6,1,0,4,0,0,0,0,0,0,0,4.0,1,0,0,0,0,14,1,8,23,33,True,False,True,Legbreak,Right-hand bat
+Barisal Bulls,Nadif Chowdhury,d6ac6545,6,7,15,0,0,46.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,1,0,0,1,37,True,False,False,Slow left-arm orthodox,Right-hand bat
+Barisal Bulls,S Prasanna,f78e7113,7,0,1,0,0,0.0,"[8, 10, 12, 14]",4.0,24,11,0,16,1,0,0,0,0,0,0,4.0,0,0,0,0,0,-2,17,0,15,39,True,False,True,Legbreak,Right-hand bat
+Barisal Bulls,KK Cooper,557153ca,8,22,21,2,0,104.76,"[11, 13, 15]",3.0,18,10,0,7,0,0,1,0,0,0,0,2.33,0,0,0,0,0,30,41,0,71,36,True,False,True,Right-arm medium,Right-hand bat
+Barisal Bulls,Taijul Islam,9d1d34bd,9,3,9,0,0,33.33,"[5, 7, 9, 16]",4.0,24,15,0,12,0,0,0,0,0,0,0,3.0,0,0,0,0,0,3,21,0,24,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+Barisal Bulls,Mohammad Sami,68ddabdb,10,6,3,0,1,200.0,"[1, 3]",2.0,12,6,0,11,2,0,0,0,0,0,0,5.5,0,0,0,0,0,12,10,0,22,44,True,False,False,Right-arm fast,Right-hand bat
+Barisal Bulls,Al-Amin Hossain,3f5f39cd,11,0,4,0,0,0.0,"[2, 4, 6, 18]",4.0,24,10,0,29,4,0,1,0,0,0,0,7.25,0,0,0,0,0,0,35,0,35,32,True,False,False,Right-arm medium-fast,Right-hand bat
+Comilla Victorians,Imrul Kayes,5fbe14fc,1,13,14,2,0,92.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21,38,True,False,False,Slow left-arm orthodox,Left-hand bat
+Comilla Victorians,Mahmudul Hasan,8c783a97,2,31,43,4,0,72.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,51,0,0,51,34,True,True,False,Right-arm offbreak,Right-hand bat
+Comilla Victorians,MN Samuels,f846de6a,3,23,38,0,0,60.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,21,0,0,21,44,True,False,False,Right-arm offbreak,Right-hand bat
+Comilla Victorians,Shuvagata Hom,bb01f9e0,4,12,13,1,0,92.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24,38,True,False,True,Right-arm offbreak,Right-hand bat
+Comilla Victorians,Mashrafe Mortaza,e186f49c,4,0,0,0,0,0.0,"[1, 3, 6, 16]",4.0,24,13,0,22,2,0,0,0,0,0,1,5.5,0,0,0,0,0,0,17,0,17,41,True,False,False,Right-arm fast-medium,Right-hand bat
+Comilla Victorians,Alok Kapali,54279e23,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,41,True,False,True,Legbreak,Right-hand bat
+Comilla Victorians,SP Narine,9d430b40,6,0,0,0,0,0.0,"[5, 13, 15, 19]",3.5,21,9,0,21,1,1,1,0,1,0,0,6.0,0,0,1,0,0,0,44,12,56,36,True,False,True,Right-arm offbreak,Left-hand bat
+Comilla Victorians,Ashar Zaidi,9bab2b81,7,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,13,0,16,0,0,3,0,1,0,5,4.0,0,0,0,0,0,0,106,0,106,43,True,False,True,Slow left-arm orthodox,Left-hand bat
+Comilla Victorians,KMDN Kulasekara,469ea22b,8,0,0,0,0,0.0,"[2, 4, 18]",3.0,18,15,1,8,1,0,3,1,0,0,2,2.67,0,0,0,0,0,0,120,0,120,42,True,False,False,Right-arm fast-medium,Right-hand bat
+Comilla Victorians,Abu Hider,31803fac,9,0,0,0,0,0.0,"[7, 9, 11, 17]",4.0,24,14,0,21,2,0,2,0,2,0,3,5.25,0,0,0,0,0,0,84,0,84,29,True,False,True,Left-arm fast-medium,Right-hand bat
+Comilla Victorians,Dhiman Ghosh,1494a583,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0,0,28,28,37,True,False,False,,Right-hand bat

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Royal Challengers Bangalore,CH Gayle,db584dad,1,14,20,1,0,70.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,16,0,0,16,45,True,False,True,Right-arm offbreak,Left-hand bat
+Royal Challengers Bangalore,PA Patel,b5da6c24,2,4,4,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,8,0,6,14,40,True,True,False,Right-arm offbreak,Left-hand bat
+Royal Challengers Bangalore,V Kohli,ba607b88,3,67,41,4,4,163.41,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,119,0,0,119,36,True,False,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,Yuvraj Singh,1c914163,4,21,25,2,1,84.0,[18],1.667,10,3,0,10,0,0,0,0,0,0,1,6.0,2,0,0,1,0,35,3,22,60,43,True,False,False,Slow left-arm orthodox,Left-hand bat
+Royal Challengers Bangalore,M Muralitharan,4ba44e19,5,0,0,0,0,0.0,"[1, 5, 11, 13]",4.0,24,13,0,26,3,1,0,0,0,0,0,6.5,0,0,0,0,0,0,15,0,15,52,True,False,False,Right-arm offbreak,Right-hand bat
+Royal Challengers Bangalore,AB de Villiers,c4487b84,5,29,17,2,1,170.59,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,53,0,0,53,41,True,True,False,Right-arm medium,Right-hand bat
+Royal Challengers Bangalore,YS Chahal,57ee1fde,6,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,9,0,32,0,3,0,0,0,0,0,8.0,0,0,0,0,0,0,9,0,9,34,True,False,False,Legbreak googly,Right-hand bat
+Royal Challengers Bangalore,S Rana,90edaaa9,6,12,7,2,0,171.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20,40,True,False,False,Right-arm medium-fast,Right-hand bat
+Royal Challengers Bangalore,AN Ahmed,2af1b6d2,7,0,0,0,0,0.0,"[6, 9, 16]",2.333,14,4,0,22,2,1,0,0,0,0,0,9.43,0,0,0,0,0,0,4,0,4,36,True,False,False,Right-arm medium-fast,Right-hand bat
+Royal Challengers Bangalore,MA Starc,3fb19989,7,6,6,1,0,100.0,"[2, 4, 15, 20]",3.667,22,5,0,31,4,0,0,0,0,0,1,8.45,0,0,0,0,0,10,5,0,15,35,True,False,False,Left-arm fast,Left-hand bat
+Royal Challengers Bangalore,VR Aaron,0a3d54b9,8,0,0,0,0,0.0,"[3, 7, 17, 19]",4.0,24,9,0,36,2,3,2,0,0,0,1,9.0,0,0,0,0,0,0,59,0,59,35,True,False,False,Right-arm fast,Right-hand bat
+Sunrisers Hyderabad,S Dhawan,0a476045,1,50,39,7,1,128.21,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,92,0,0,92,39,True,False,False,Right-arm offbreak,Left-hand bat
+Sunrisers Hyderabad,DA Warner,dcce6f09,2,59,46,3,4,128.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,103,0,0,103,38,True,False,False,Legbreak,Left-hand bat
+Sunrisers Hyderabad,NV Ojha,890946a0,3,24,20,0,2,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,36,0,12,48,41,True,False,False,,Right-hand bat
+Sunrisers Hyderabad,AJ Finch,b8d490fd,4,11,9,1,0,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15,38,True,False,False,Slow left-arm orthodox,Right-hand bat
+Sunrisers Hyderabad,DJG Sammy,c03c6200,5,10,4,0,1,250.0,[16],1.0,6,0,0,19,0,2,0,0,0,0,1,19.0,0,0,0,0,0,16,0,0,16,41,True,False,True,Right-arm medium,Right-hand bat
+Sunrisers Hyderabad,Y Venugopal Rao,fe763256,5,0,0,0,0,0.0,[9],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,0,0,2,0,2,43,True,False,False,Right-arm offbreak,Right-hand bat
+Sunrisers Hyderabad,IK Pathan,5fa06777,6,0,0,0,0,0.0,"[10, 15, 18]",3.0,18,6,0,28,4,1,1,0,0,0,0,9.33,0,0,0,0,0,0,31,0,31,40,True,False,True,Left-arm medium-fast,Left-hand bat
+Sunrisers Hyderabad,KV Sharma,119678fd,7,0,0,0,0,0.0,"[6, 8, 12]",3.0,18,8,0,27,2,2,1,0,0,0,0,9.0,0,0,0,0,0,0,33,0,33,37,True,False,False,Legbreak googly,Left-hand bat
+Sunrisers Hyderabad,Parvez Rasool,9170ff49,8,0,0,0,0,0.0,"[5, 7, 11, 13]",4.0,24,9,0,26,1,1,1,0,0,0,3,6.5,1,0,0,0,0,0,36,8,44,36,True,False,True,Right-arm offbreak,Right-hand bat
+Sunrisers Hyderabad,DW Steyn,8fd1a8f5,9,0,0,0,0,0.0,"[2, 4, 14, 20]",4.0,24,9,0,23,1,0,0,0,0,0,0,5.75,2,0,0,0,0,0,13,16,29,41,True,False,False,Right-arm fast,Right-hand bat
+Sunrisers Hyderabad,B Kumar,2e81a32d,10,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,9,0,27,4,0,2,1,1,0,0,6.75,0,0,0,0,0,0,77,0,77,35,True,False,False,Right-arm medium,Right-hand bat

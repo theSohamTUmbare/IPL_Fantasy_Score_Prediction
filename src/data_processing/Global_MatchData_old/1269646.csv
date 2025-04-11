@@ -1,0 +1,24 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Adelaide Strikers,MW Short,a90e53ec,1,63,47,4,2,134.04,"[7, 9, 11]",3.0,18,4,0,23,0,1,0,0,0,0,1,7.67,0,0,0,0,2,101,4,0,105,29,True,False,False,Right-arm offbreak,Right-hand bat
+Adelaide Strikers,J Weatherald,edc7ddb6,2,17,9,2,1,188.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31,30,True,False,False,Legbreak,Left-hand bat
+Adelaide Strikers,HJ Nielsen,0ea1455a,3,9,12,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,9,0,6,15,29,True,True,False,Right-arm offbreak,Left-hand bat
+Adelaide Strikers,JW Wells,8bdac857,4,6,7,0,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,6,0,6,12,36,True,False,False,Right-arm medium,Right-hand bat
+Adelaide Strikers,DR Drew,88684a42,5,10,6,1,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14,28,True,False,False,Right-arm offbreak,Right-hand bat
+Adelaide Strikers,T Kelly,6ceb94d0,6,26,15,2,2,173.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,56,0,0,56,24,True,False,False,,Right-hand bat
+Adelaide Strikers,L Scott,0ebb3444,7,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,24,True,False,True,Right-arm fast-medium,Right-hand bat
+Adelaide Strikers,Rashid Khan,5f547c8b,8,0,1,0,0,0.0,"[4, 8, 16, 18]",4.0,24,7,0,40,3,2,0,0,0,0,1,10.0,0,0,0,0,0,-2,5,0,3,26,True,False,True,Legbreak googly,Right-hand bat
+Adelaide Strikers,DJ Worrall,208f22ea,9,2,3,0,0,66.67,"[1, 5, 17, 19]",4.0,24,10,0,28,2,1,0,0,0,0,5,7.0,0,0,0,0,0,2,12,0,14,33,True,False,False,Right-arm fast-medium,Right-hand bat
+Adelaide Strikers,PM Siddle,bd93fea4,10,0,3,0,0,0.0,"[2, 13, 15, 20]",4.0,24,4,0,46,5,2,0,0,0,0,2,11.5,0,0,0,0,0,-2,0,0,-2,40,True,False,False,Right-arm fast-medium,Right-hand bat
+Adelaide Strikers,WA Agar,15de1f5d,11,0,0,0,0,0.0,[3],1.0,6,1,0,14,2,0,0,0,0,0,2,14.0,0,0,0,0,0,0,1,0,1,28,True,False,False,Right-arm fast,Right-hand bat
+Adelaide Strikers,Fawad Ahmed,22ae3041,11,1,1,0,0,100.0,"[6, 10, 12, 14]",4.0,24,3,0,33,1,1,0,0,0,0,0,8.25,0,0,0,0,0,1,3,0,4,43,True,False,False,Legbreak googly,Right-hand bat
+Perth Scorchers,C Munro,af2c687b,1,114,73,8,6,156.16,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,202,0,0,202,38,True,False,False,Right-arm medium-fast,Left-hand bat
+Perth Scorchers,CT Bancroft,399b0b94,2,45,37,5,0,121.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,69,0,16,85,32,True,False,False,,Right-hand bat
+Perth Scorchers,AJ Turner,ff1e12a0,3,14,10,0,1,140.0,[6],1.0,6,2,0,9,0,1,0,0,0,0,0,9.0,1,0,0,0,2,22,2,8,32,32,True,False,False,Right-arm offbreak,Right-hand bat
+Perth Scorchers,KR Patterson,e3bf8356,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16,31,True,False,False,Right-arm offbreak,Left-hand bat
+Perth Scorchers,LJ Evans,1c513d54,12,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,37,True,False,False,Right-arm offbreak,Right-hand bat
+Perth Scorchers,AM Hardie,d405c0d5,13,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,0,0,20,20,26,True,False,True,Right-arm medium-fast,Right-hand bat
+Perth Scorchers,AC Agar,a2421394,14,0,0,0,0,0.0,"[7, 10, 12, 15]",4.0,24,4,0,34,1,1,1,0,0,0,0,8.5,0,0,0,0,0,0,29,0,29,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+Perth Scorchers,AJ Tye,7c7d63a2,15,0,0,0,0,0.0,"[8, 14, 17]",3.0,18,10,0,21,2,1,3,0,1,0,0,7.0,0,0,0,0,0,0,99,0,99,38,True,False,False,Right-arm medium-fast,Right-hand bat
+Perth Scorchers,M Kelly,68e26ec9,16,0,0,0,0,0.0,"[2, 4, 16]",3.0,18,5,0,30,3,1,1,0,0,0,0,10.0,0,0,0,0,0,0,28,0,28,30,True,False,False,Right-arm fast-medium,Right-hand bat
+Perth Scorchers,JP Behrendorff,4933f499,17,0,0,0,0,0.0,"[1, 3, 18]",2.833,17,7,0,22,2,1,3,0,1,0,1,7.77,0,0,0,0,0,0,94,0,94,34,True,False,False,Left-arm fast-medium,Right-hand bat
+Perth Scorchers,P Hatzoglou,6f95e5fa,18,0,0,0,0,0.0,"[5, 9, 11, 13]",4.0,24,7,0,26,1,0,1,0,1,0,5,6.5,0,0,0,0,0,0,42,0,42,26,True,False,False,Legbreak googly,Right-hand bat

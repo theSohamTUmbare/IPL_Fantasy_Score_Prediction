@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+North West,WB Marshall,2d7f2ba0,1,30,19,6,0,157.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,62,0,0,62,31,True,False,False,Right-arm medium,Right-hand bat
+North West,HG Kuhn,ede05b97,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,40,True,False,False,,Right-hand bat
+North West,L Senokwane,7d9b4224,3,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10,27,True,False,False,Right-arm offbreak,Right-hand bat
+North West,S Pillay,09497f5a,4,12,17,1,0,70.59,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,30,True,False,False,Right-arm medium,Right-hand bat
+North West,D Potgieter,60fbf53a,5,9,13,0,0,69.23,"[3, 10]",2.0,12,4,0,20,2,1,0,0,0,0,0,10.0,0,0,0,0,-2,7,2,0,9,28,True,False,False,Right-arm medium,Left-hand bat
+North West,S Muthusamy,7dfb8890,6,39,24,3,1,162.5,[6],1.0,6,1,0,12,2,0,0,0,0,0,0,12.0,0,0,0,0,4,65,1,0,66,31,True,False,True,Slow left-arm orthodox,Left-hand bat
+North West,D Jansen,8dc152d1,7,23,12,0,3,191.67,"[2, 5, 16, 18]",4.0,24,8,0,26,3,0,2,0,0,0,1,6.5,0,0,0,0,6,47,60,0,107,24,True,False,False,Left-arm fast,Right-hand bat
+North West,H Coetzer,bd25d145,8,15,16,1,1,93.75,"[12, 14]",2.0,12,7,0,12,1,1,1,0,1,0,0,6.0,1,0,0,0,0,25,42,8,75,0,True,False,True,Right-arm medium-fast,Right-hand bat
+North West,C Seleka,be8b147b,8,0,0,0,0,0.0,"[8, 11, 13]",3.0,18,3,0,38,1,4,1,0,1,0,0,12.67,0,0,1,0,0,0,30,12,42,22,True,False,False,Legbreak,Right-hand bat
+North West,R Meyer,64f55c74,9,0,0,0,0,0.0,"[7, 9]",2.0,12,5,0,15,3,0,0,0,0,0,0,7.5,0,0,0,0,0,0,5,0,5,30,True,False,False,Right-arm fast-medium,Left-hand bat
+North West,K Mungroo,56feceb0,10,0,0,0,0,0.0,"[1, 4, 15, 17]",4.0,24,5,0,36,5,0,0,0,0,0,1,9.0,0,0,0,0,0,0,5,0,5,30,True,False,False,Right-arm fast,Right-hand bat
+Western Province,G Kaplan,a5c3d564,1,39,26,4,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,65,0,0,65,27,True,True,False,Right-arm offbreak,Right-hand bat
+Western Province,D Smith,5d69930d,2,69,46,9,3,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,131,0,0,131,23,True,True,False,Left-arm medium,Left-hand bat
+Western Province,GF Linde,e5437608,3,21,12,1,2,175.0,"[4, 6]",2.0,12,6,0,13,2,0,0,0,0,0,0,6.5,0,0,0,0,6,43,8,0,51,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+Western Province,K Verreynne,bf814547,4,17,11,2,0,154.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,29,0,0,29,27,True,True,False,Right-arm offbreak,Right-hand bat
+Western Province,Abdullah Bayoumy,8ab49ad2,5,11,10,1,0,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15,0,True,False,True,Right-arm fast-medium,Right-hand bat
+Western Province,M Mpongwana,547c5509,6,0,2,0,0,0.0,"[8, 13]",2.0,12,5,0,25,0,3,0,0,0,1,0,12.5,1,0,0,0,0,0,-1,8,7,24,True,False,True,Right-arm medium,Right-hand bat
+Western Province,L Tywaku,80444ee7,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,25,True,False,False,,Right-hand bat
+Western Province,TL Moreki,36ea17c1,8,0,0,0,0,0.0,"[5, 7, 15, 17]",4.0,24,12,0,22,2,0,1,0,0,0,0,5.5,0,0,0,0,0,0,41,0,41,31,True,False,False,Right-arm fast-medium,Right-hand bat
+Western Province,J Dawood,a2316f90,9,0,0,0,0,0.0,"[9, 11]",2.0,12,4,0,15,0,1,1,0,0,0,1,7.5,0,0,0,0,0,0,29,0,29,28,True,False,False,Legbreak,Right-hand bat
+Western Province,N Burger,465aa633,10,0,0,0,0,0.0,"[1, 3, 10, 12]",4.0,24,10,0,30,5,0,2,1,1,0,0,7.5,3,0,0,0,0,0,76,28,104,29,True,False,False,Left-arm fast-medium,Left-hand bat
+Western Province,D Paterson,462d7c62,11,0,0,0,0,0.0,"[2, 14, 16, 18]",4.0,24,10,0,28,2,1,2,0,0,0,1,7.0,0,0,0,0,0,0,62,0,62,35,True,False,False,Right-arm fast-medium,Right-hand bat

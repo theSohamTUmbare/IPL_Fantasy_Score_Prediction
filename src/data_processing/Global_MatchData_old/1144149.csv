@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+South Africa,Q de Kock,372455c4,1,5,5,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,9,0,16,25,32,True,False,False,,Left-hand bat
+South Africa,GL Cloete,3bf40832,2,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2,32,True,True,False,Right-arm offbreak,Left-hand bat
+South Africa,F du Plessis,3355b542,3,34,20,5,2,170.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,74,0,0,74,40,True,False,False,Legbreak,Right-hand bat
+South Africa,HE van der Dussen,9948e262,4,56,44,5,1,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,90,0,0,90,36,True,False,False,Legbreak,Right-hand bat
+South Africa,DA Miller,d67d5f00,5,39,34,1,2,114.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,59,0,0,59,35,True,False,False,Right-arm offbreak,Left-hand bat
+South Africa,C Jonker,a81d6706,6,8,5,0,1,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,14,0,8,22,38,True,False,False,Right-arm medium-fast,Right-hand bat
+South Africa,AL Phehlukwayo,ab6b1c45,7,4,8,0,0,50.0,"[6, 10, 13, 18]",3.333,20,9,0,25,3,1,2,0,0,0,0,7.5,1,0,0,0,0,4,59,8,71,29,True,False,True,Right-arm medium-fast,Left-hand bat
+South Africa,CJ Dala,1cb14aa4,8,0,1,0,0,0.0,"[5, 8, 16]",3.0,18,9,0,25,3,1,2,0,0,0,0,8.33,0,0,0,0,0,0,59,0,59,35,True,False,False,Right-arm medium,Right-hand bat
+South Africa,Imran Tahir,acee4cc4,11,0,0,0,0,0.0,"[2, 4, 12, 14]",4.0,24,11,0,23,1,1,5,2,2,0,2,5.75,0,0,0,0,0,0,184,0,184,46,True,False,False,Legbreak googly,Right-hand bat
+South Africa,L Ngidi,f834dcfc,12,0,0,0,0,0.0,"[1, 3, 17]",3.0,18,14,0,7,1,0,1,0,1,0,1,2.33,1,0,0,0,0,0,53,8,61,29,True,False,False,Right-arm fast-medium,Right-hand bat
+South Africa,T Shamsi,a03bba42,13,0,0,0,0,0.0,"[7, 9, 11, 15]",4.0,24,6,0,43,0,4,0,0,0,0,2,10.75,0,0,0,0,0,0,4,0,4,35,True,False,False,Left-arm wrist-spin,Right-hand bat
+Zimbabwe,CJ Chibhabha,f32dbc84,1,3,5,0,0,60.0,[10],1.0,6,0,0,11,1,0,0,0,0,0,0,11.0,1,0,0,0,0,3,0,8,11,38,True,False,False,Right-arm medium,Right-hand bat
+Zimbabwe,H Masakadza,31fbf891,2,1,7,0,0,14.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,1,0,28,29,41,True,False,False,Right-arm medium,Right-hand bat
+Zimbabwe,BRM Taylor,53597be1,3,19,23,3,0,82.61,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31,39,True,True,False,Right-arm offbreak,Right-hand bat
+Zimbabwe,TK Musakanda,9f9b903e,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,30,True,False,False,Right-arm slow-medium,Right-hand bat
+Zimbabwe,SC Williams,afe57f7a,5,21,22,2,0,95.45,"[8, 11, 14, 16]",4.0,24,6,0,28,1,1,0,0,0,0,0,7.0,1,0,0,0,0,29,8,8,45,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Zimbabwe,PJ Moor,a1d3540a,6,44,21,1,5,209.52,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,88,0,0,88,34,True,True,False,Right-arm offbreak,Right-hand bat
+Zimbabwe,E Chigumbura,d2babdd5,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,39,True,False,True,Right-arm fast-medium,Right-hand bat
+Zimbabwe,TS Chisoro,4b2d6789,8,2,5,0,0,40.0,"[3, 5, 13]",3.0,18,8,0,37,4,2,0,0,0,0,3,12.33,1,0,0,0,0,2,2,8,12,37,True,False,False,Slow left-arm orthodox,Left-hand bat
+Zimbabwe,B Mavuta,dadb9703,9,28,14,2,2,200.0,"[7, 9, 12, 15]",4.0,24,9,0,19,1,0,1,0,0,0,0,4.75,0,0,0,0,6,58,40,0,98,28,True,False,True,Legbreak,Right-hand bat
+Zimbabwe,KM Jarvis,59792462,10,0,3,0,0,0.0,"[1, 6, 17, 19]",4.0,24,12,0,37,3,3,3,0,0,0,0,9.25,0,0,0,0,0,-2,91,0,89,36,True,False,False,Right-arm fast-medium,Right-hand bat
+Zimbabwe,CB Mpofu,49691d7a,11,0,2,0,0,0.0,"[2, 4, 18, 20]",4.0,24,13,0,24,2,0,2,0,0,0,5,6.0,0,0,0,0,0,0,65,0,65,39,True,False,False,Right-arm fast-medium,Right-hand bat

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Barisal Bulls,Rony Talukdar,8bd614b2,1,23,19,3,1,121.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,41,0,8,49,34,True,False,False,Right-arm slow-medium,Right-hand bat
+Barisal Bulls,E Lewis,0ebfb1ad,2,4,4,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8,33,True,False,False,,Left-hand bat
+Barisal Bulls,Mehedi Maruf,3361993b,3,3,14,0,0,21.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,-6,-3,0,28,25,36,True,True,False,Right-arm offbreak,Right-hand bat
+Barisal Bulls,Mahmudullah,bf1d7d3e,4,23,18,2,0,127.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,31,0,16,47,39,True,False,True,Right-arm offbreak,Right-hand bat
+Barisal Bulls,Nadif Chowdhury,d6ac6545,5,16,19,1,1,84.21,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26,37,True,False,False,Slow left-arm orthodox,Right-hand bat
+Barisal Bulls,Sabbir Rahman,7147f314,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,33,True,False,True,Legbreak,Right-hand bat
+Barisal Bulls,S Prasanna,f78e7113,6,1,1,0,0,100.0,"[7, 9, 11, 13]",4.0,24,13,0,17,2,0,1,0,0,0,0,4.25,0,0,0,0,0,1,44,0,45,39,True,False,True,Legbreak,Right-hand bat
+Barisal Bulls,Mohammad Sami,68ddabdb,7,0,0,0,0,0.0,"[1, 3, 15, 19]",4.0,24,16,0,16,0,1,2,0,0,0,1,4.0,0,0,0,0,0,0,72,0,72,44,True,False,False,Right-arm fast,Right-hand bat
+Barisal Bulls,Al-Amin Hossain,3f5f39cd,8,0,0,0,0,0.0,"[2, 4, 17, 20]",4.0,24,10,0,30,4,1,3,0,0,0,0,7.5,0,0,0,0,0,0,89,0,89,32,True,False,False,Right-arm medium-fast,Right-hand bat
+Barisal Bulls,Taijul Islam,9d1d34bd,9,0,0,0,0,0.0,"[6, 8, 14, 16]",4.0,24,12,0,21,3,0,1,0,0,0,0,5.25,0,0,0,0,0,0,41,0,41,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+Barisal Bulls,RR Emrit,e7de4f6b,10,0,0,0,0,0.0,"[5, 10, 12, 18]",4.0,24,12,0,18,2,0,2,0,1,0,0,4.5,2,0,0,0,0,0,76,16,92,44,True,False,True,Right-arm medium-fast,Right-hand bat
+Rangpur Riders,Jahurul Islam,6752c57b,1,24,32,1,1,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34,38,True,False,False,Right-arm offbreak,Right-hand bat
+Rangpur Riders,Soumya Sarkar,4d9f9686,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,32,True,False,True,Right-arm medium-fast,Left-hand bat
+Rangpur Riders,Shakib Al Hasan,7dc35884,3,1,3,0,0,33.33,"[1, 8, 10]",3.0,18,12,1,12,0,1,1,0,0,0,0,4.0,0,0,0,0,0,1,55,0,56,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Rangpur Riders,Mohammad Mithun,77191792,4,2,9,0,0,22.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,2,0,12,14,34,True,False,False,,Right-hand bat
+Rangpur Riders,Misbah-ul-Haq,7eae4418,5,22,27,3,0,81.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,34,0,8,42,50,True,False,False,Legbreak,Right-hand bat
+Rangpur Riders,NLTC Perera,0f12f9df,6,9,10,1,0,90.0,"[4, 9]",2.0,12,4,0,12,1,0,0,0,0,0,1,6.0,0,0,0,0,0,13,6,0,19,35,True,False,True,Right-arm medium-fast,Left-hand bat
+Rangpur Riders,Mohammad Nabi,62af8546,7,5,5,1,0,100.0,"[2, 13]",1.5,9,3,0,15,3,0,0,0,0,0,0,10.0,1,0,0,0,0,9,3,8,20,40,True,False,True,Right-arm offbreak,Right-hand bat
+Rangpur Riders,Al-Amin,ec72efc5,8,17,13,2,1,130.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,33,0,0,33,31,True,True,False,Right-arm offbreak,Right-hand bat
+Rangpur Riders,Wahab Riaz,b3118300,9,12,10,2,0,120.0,"[3, 5, 11]",3.0,18,12,1,12,2,0,1,1,0,0,0,4.0,0,0,0,0,0,20,63,0,83,39,True,False,False,Left-arm fast,Right-hand bat
+Rangpur Riders,Muktar Ali,4a491652,10,9,10,1,0,90.0,[7],1.0,6,1,0,11,1,0,0,0,0,0,2,11.0,0,0,0,0,0,13,1,0,14,35,True,False,True,Right-arm medium-fast,Right-hand bat
+Rangpur Riders,Arafat Sunny,1f7adc8a,11,0,0,0,0,0.0,"[6, 12]",2.0,12,5,0,11,0,1,2,0,0,0,0,5.5,0,0,0,0,0,0,59,0,59,38,True,False,False,Slow left-arm orthodox,Left-hand bat

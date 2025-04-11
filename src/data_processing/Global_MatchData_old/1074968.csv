@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Oman,Zeeshan Maqsood,34464143,1,17,21,3,0,80.95,"[3, 7, 14, 16]",4.0,24,7,0,22,0,1,1,1,0,0,0,5.5,0,0,0,0,0,29,44,0,73,37,True,False,False,Slow left-arm orthodox,Left-hand bat
+Oman,A Poulose,b481216d,2,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,38,True,True,False,Right-arm medium,Right-hand bat
+Oman,Aqib Ilyas,b3b39bed,3,19,21,2,0,90.48,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27,32,True,False,False,Legbreak googly,Right-hand bat
+Oman,Khawar Ali,934b36a6,4,13,16,1,0,81.25,"[9, 11, 13, 19]",4.0,24,5,0,28,2,0,1,0,0,0,1,7.0,1,0,0,0,0,17,32,8,57,39,True,False,False,Legbreak,Right-hand bat
+Oman,Khurram Nawaz,07ff32f5,5,23,25,2,1,92.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,37,0,0,37,39,True,False,False,,Right-hand bat
+Oman,AV Lalcheta,b858be20,6,20,14,2,1,142.86,"[2, 4, 10, 12]",4.0,24,14,0,23,2,1,0,0,0,0,0,5.75,0,0,0,0,2,36,18,0,54,41,True,False,True,Slow left-arm orthodox,Left-hand bat
+Oman,Naseem Khushi,c63671e9,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,42,True,False,False,,Right-hand bat
+Oman,Sultan Ahmed,3bf7c034,8,17,12,2,0,141.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,27,0,0,27,47,True,False,False,,Right-hand bat
+Oman,Mohammad Nadeem,c5d7b244,9,2,4,0,0,50.0,[15],1.0,6,1,0,13,1,1,0,0,0,0,0,13.0,0,0,0,0,0,2,1,0,3,42,True,False,True,Right-arm medium-fast,Right-hand bat
+Oman,Kaleemullah,72253b87,10,0,1,0,0,0.0,"[6, 8, 18]",3.0,18,6,0,14,0,0,0,0,0,0,1,4.67,0,0,0,0,0,-2,12,0,10,34,True,False,False,Right-arm medium,Right-hand bat
+Oman,Bilal Khan,dcdb87f2,11,4,2,1,0,200.0,"[1, 5, 17]",3.0,18,4,0,31,4,0,1,0,0,1,1,10.33,0,0,0,0,0,8,27,0,35,37,True,False,False,Left-arm medium-fast,Left-hand bat
+Scotland,HG Munsey,ff014c34,1,15,19,1,0,78.95,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19,32,True,False,False,Right-arm medium-fast,Left-hand bat
+Scotland,KJ Coetzer,85d8110a,2,25,22,3,0,113.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,41,0,8,49,40,True,False,False,Right-arm medium-fast,Right-hand bat
+Scotland,MH Cross,8b261d84,3,47,39,3,2,120.51,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,1,0,75,0,18,93,32,True,False,False,,Right-hand bat
+Scotland,CS MacLeod,9c376401,4,35,30,2,1,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,53,0,8,61,36,True,False,False,Right-arm offbreak,Right-hand bat
+Scotland,CD Wallace,7b5c6c0b,5,5,4,0,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5,34,True,False,False,,Right-hand bat
+Scotland,CD de Lange,e6d298e8,5,0,0,0,0,0.0,"[7, 9, 11, 16]",4.0,24,11,0,23,2,0,2,1,1,0,2,5.75,0,0,0,0,0,0,81,0,81,38,True,False,True,Slow left-arm orthodox,Right-hand bat
+Scotland,RD Berrington,e21bc7f3,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,0,0,6,6,37,True,False,False,Right-arm medium-fast,Right-hand bat
+Scotland,SM Sharif,f43dd8c2,7,0,0,0,0,0.0,"[2, 10, 18, 20]",4.0,24,11,0,33,4,1,3,0,2,2,0,8.25,0,0,0,0,0,0,106,0,106,33,True,False,False,Right-arm medium-fast,Right-hand bat
+Scotland,MA Leask,28131839,8,0,0,0,0,0.0,"[1, 8, 12, 15]",4.0,24,11,0,21,1,1,1,0,1,0,2,5.25,0,0,0,0,0,0,48,0,48,34,True,False,True,Right-arm offbreak,Right-hand bat
+Scotland,MRJ Watt,1252f71a,9,0,0,0,0,0.0,"[3, 5, 14, 17]",4.0,24,12,0,23,3,0,2,1,0,0,0,5.75,0,0,0,0,0,0,74,0,74,28,True,False,False,Slow left-arm orthodox,Left-hand bat
+Scotland,CB Sole,469ccead,10,0,0,0,0,0.0,"[4, 6, 13, 19]",4.0,24,8,0,22,3,0,0,0,0,0,1,5.5,0,0,0,0,0,0,12,0,12,31,True,False,False,Right-arm fast-medium,Right-hand bat

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Indonesia,KD Kesuma,4b349dc0,1,4,6,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16,25,True,False,False,,Right-hand bat
+Indonesia,Anjar Tadarus,72275237,2,2,10,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-4,0,0,-4,40,True,True,False,Right-arm medium-fast,Right-hand bat
+Indonesia,IK Gamantika,4d7c5b56,3,7,23,0,0,30.43,"[6, 8, 16, 18]",4.0,24,10,0,19,1,0,2,0,1,0,1,4.75,0,0,0,0,-6,1,74,0,75,30,True,False,False,,Right-hand bat
+Indonesia,PR Surve,206efeb1,4,36,42,2,1,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,54,0,0,54,43,True,False,False,,Right-hand bat
+Indonesia,KC Ramamoorthy,a89c270b,5,8,8,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,12,0,6,18,35,True,True,False,Right-arm offbreak,Right-hand bat
+Indonesia,DJ Hawoe,a62f55ba,6,5,4,1,0,125.0,"[1, 3, 5]",3.0,18,7,0,24,1,0,1,1,0,0,3,8.0,0,0,0,0,0,9,40,0,49,24,True,True,False,Right-arm medium,Right-hand bat
+Indonesia,Gaurav Tiwari,cab3f89a,7,13,19,0,0,68.42,"[2, 4, 15]",3.0,18,10,0,15,0,1,0,0,0,0,0,5.0,0,0,0,0,-2,11,14,0,25,31,True,True,False,Right-arm medium,Right-hand bat
+Indonesia,Ahmad Ramdoni,b5f30525,8,11,8,0,1,137.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17,40,True,False,False,,Right-hand bat
+Indonesia,IKEG Artawan,190957d2,8,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,12,0,18,1,0,2,0,1,0,0,4.5,1,0,0,0,0,0,76,8,84,24,True,False,False,,Right-hand bat
+Indonesia,F Banunaek,3c8faed4,9,0,0,0,0,0.0,"[17, 19]",2.0,12,3,0,13,0,0,0,0,0,0,1,6.5,0,0,0,0,0,0,5,0,5,23,True,True,False,Right-arm medium,Right-hand bat
+Indonesia,RM Koda,f0a45427,10,0,0,0,0,0.0,"[10, 12, 14, 20]",4.0,24,12,0,14,0,0,3,1,1,0,0,3.5,1,0,0,1,0,0,113,14,127,30,True,True,False,Right-arm medium-fast,Right-hand bat
+Japan,L Yamamoto-Lake,fa23405f,1,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,22,True,False,False,,Right-hand bat
+Japan,K Kadowaki-Fleming,33290a80,2,19,13,2,0,146.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,29,0,0,29,29,True,False,False,Right-arm offbreak,Left-hand bat
+Japan,R Sakurano-Thomas,dd14abf5,3,16,25,0,0,64.0,"[2, 15]",2.0,12,7,0,12,1,0,0,0,0,0,2,6.0,0,0,0,0,-2,14,9,0,23,25,True,True,False,Right-arm medium,Right-hand bat
+Japan,S Ravichandran,9f2be73d,4,7,11,0,0,63.64,"[7, 10, 14, 18]",4.0,24,12,0,11,0,0,2,1,1,0,0,2.75,1,0,0,0,-2,5,84,8,97,32,True,False,True,Legbreak,Right-hand bat
+Japan,W Miyauchi,fef40097,5,3,7,0,0,42.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,26,True,False,False,,Right-hand bat
+Japan,KH Abe,f22d2247,6,6,10,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,4,0,0,4,19,True,False,False,,Right-hand bat
+Japan,I Takahashi,c988daa1,7,19,19,1,1,100.0,"[6, 8, 17]",3.0,18,11,0,9,1,0,1,0,1,0,0,3.0,0,0,0,0,0,29,50,0,79,26,True,True,False,Right-arm offbreak,Right-hand bat
+Japan,C Hinze,626af7ff,8,18,17,0,0,105.88,"[4, 11, 13, 19]",4.0,24,12,0,23,1,1,2,0,1,0,3,5.75,0,0,0,0,0,18,74,0,92,16,True,False,False,Slow left-arm orthodox,Left-hand bat
+Japan,M Taniyama,cbd91942,9,9,12,0,0,75.0,"[12, 20]",2.0,12,3,0,18,1,1,0,0,0,0,0,9.0,0,0,0,0,0,9,3,0,12,29,True,True,False,Legbreak googly,Right-hand bat
+Japan,P Kumbhare,ef503cfe,10,0,1,0,0,0.0,"[1, 3, 5, 16]",4.0,24,16,0,15,1,0,1,0,1,0,2,3.75,0,0,0,0,0,-2,55,0,53,34,True,True,False,Slow left-arm orthodox,Right-hand bat
+Japan,K Kubota,42581e6d,11,0,1,0,0,0.0,[9],1.0,6,1,0,5,0,0,0,0,0,0,0,5.0,0,0,0,0,0,0,1,0,1,26,True,True,False,Right-arm medium,Right-hand bat

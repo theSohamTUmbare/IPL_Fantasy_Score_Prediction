@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Jamaica Tallawahs,BA King,7fca84b7,1,36,25,4,2,144.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,70,0,0,70,30,True,False,False,,Right-hand bat
+Jamaica Tallawahs,AD Hales,92aeac25,2,21,23,3,0,91.3,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,33,0,16,49,36,True,False,False,Right-arm medium,Right-hand bat
+Jamaica Tallawahs,J Blackwood,c3b93a03,3,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,33,True,False,False,Right-arm offbreak,Right-hand bat
+Jamaica Tallawahs,SSJ Brooks,977b841a,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6,36,True,False,False,Legbreak,Right-hand bat
+Jamaica Tallawahs,RA Reifer,d7725664,5,17,19,2,0,89.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25,33,True,False,True,Left-arm medium-fast,Left-hand bat
+Jamaica Tallawahs,Imad Wasim,9cb8d7a6,6,19,24,2,0,79.17,"[5, 7, 9, 11]",4.0,24,12,0,19,0,1,1,0,0,0,1,4.75,0,0,0,0,0,27,43,0,70,36,True,False,True,Slow left-arm orthodox,Left-hand bat
+Jamaica Tallawahs,FA Allen,b52ffbbd,7,8,8,1,0,100.0,"[14, 16]",2.0,12,4,0,20,2,1,0,0,0,0,1,10.0,0,0,0,0,0,12,2,0,14,29,True,False,True,Slow left-arm orthodox,Right-hand bat
+Jamaica Tallawahs,CJ Green,19b9f399,8,32,16,0,3,200.0,"[2, 4]",2.0,12,6,0,19,1,1,0,0,0,0,6,9.5,1,0,0,0,6,60,6,8,74,31,True,False,True,Right-arm offbreak,Right-hand bat
+Jamaica Tallawahs,K Pitman,88b4d220,9,0,0,0,0,0.0,"[8, 10, 12, 18]",4.0,24,8,0,27,1,1,3,0,1,0,2,6.75,2,0,0,0,0,0,97,16,113,21,True,False,False,Right-arm fast,Right-hand bat
+Jamaica Tallawahs,Mohammad Amir,e174dadd,9,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,15,1,20,0,2,3,0,0,0,1,5.0,0,0,0,0,0,0,110,0,110,32,True,False,False,Left-arm fast-medium,Left-hand bat
+Jamaica Tallawahs,Salman Irshad,30afc92b,10,0,0,0,0,0.0,"[6, 13, 15, 20]",4.0,24,11,0,28,2,2,1,1,0,0,1,7.0,0,0,0,0,0,0,46,0,46,29,True,False,False,Right-arm fast-medium,Right-hand bat
+Trinbago Knight Riders,MJ Guptill,2be41edb,1,15,25,2,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,21,0,0,21,38,True,False,False,Right-arm offbreak,Right-hand bat
+Trinbago Knight Riders,M Deyal,7183799b,2,30,23,1,3,130.43,[11],1.0,6,2,0,4,0,0,0,0,0,0,0,4.0,0,0,0,0,2,58,2,0,60,31,True,False,False,Right-arm offbreak,Left-hand bat
+Trinbago Knight Riders,N Pooran,3241e3fd,3,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,1,0,16,17,29,True,True,False,Right-arm offbreak,Left-hand bat
+Trinbago Knight Riders,L Tucker,3979b5e0,4,30,27,2,2,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,54,0,12,66,28,True,False,False,,Right-hand bat
+Trinbago Knight Riders,KA Pollard,a757b0d8,5,33,27,1,2,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,53,0,0,53,37,True,False,True,Right-arm medium,Right-hand bat
+Trinbago Knight Riders,AD Russell,bbd41817,6,1,5,0,0,20.0,"[2, 9, 17, 19]",4.0,24,10,0,34,1,3,3,0,0,0,0,8.5,1,0,0,0,0,1,89,8,98,36,True,False,True,Right-arm fast,Right-hand bat
+Trinbago Knight Riders,K Alleyne,6b07035d,7,7,3,0,1,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21,24,True,False,True,Right-arm medium,Right-hand bat
+Trinbago Knight Riders,AJ Hosein,4d7f517e,8,3,4,0,0,75.0,"[1, 3, 5]",3.0,18,10,0,23,3,1,0,0,0,0,0,7.67,0,0,0,0,0,3,10,0,13,31,True,False,False,Slow left-arm orthodox,Left-hand bat
+Trinbago Knight Riders,Waqar Salamkheil,3f1066d0,9,0,0,0,0,0.0,"[8, 10, 13, 15]",4.0,24,11,0,21,2,0,2,0,0,0,1,5.25,0,0,0,0,0,0,65,0,65,23,True,False,False,Left-arm wrist-spin,Right-hand bat
+Trinbago Knight Riders,SP Narine,9d430b40,9,0,3,0,0,0.0,"[4, 6, 14, 16]",4.0,24,10,0,26,2,1,2,1,1,0,0,6.5,0,0,0,0,0,-2,78,0,76,36,True,False,True,Right-arm offbreak,Left-hand bat
+Trinbago Knight Riders,Ali Khan,b0eaaac6,10,1,1,0,0,100.0,"[7, 12, 18, 20]",4.0,24,9,0,29,4,0,0,0,0,0,2,7.25,0,0,0,0,0,1,9,0,10,34,True,False,False,Right-arm fast-medium,Right-hand bat

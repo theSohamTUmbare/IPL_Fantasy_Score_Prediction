@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Rajasthan Royals,AM Rahane,29e95537,1,8,6,2,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16,36,True,False,False,Right-arm medium,Right-hand bat
+Rajasthan Royals,SR Watson,4329fbb5,2,12,12,3,0,100.0,"[5, 13, 18]",3.0,18,5,0,36,3,2,2,0,0,0,0,12.0,0,0,0,0,0,24,51,0,75,43,True,False,True,Right-arm fast-medium,Right-hand bat
+Rajasthan Royals,SPD Smith,30a45b23,3,68,40,9,2,170.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,128,0,8,136,35,True,False,False,Legbreak googly,Right-hand bat
+Rajasthan Royals,KK Nair,944533a5,4,4,10,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2,33,True,False,False,Right-arm offbreak,Right-hand bat
+Rajasthan Royals,DJ Hooda,73ad96ed,5,7,9,0,0,77.78,"[1, 12, 14]",3.0,18,3,0,34,4,1,0,0,0,0,1,11.33,0,0,0,0,0,7,-1,0,6,29,True,False,True,Right-arm offbreak,Right-hand bat
+Rajasthan Royals,JP Faulkner,808f425a,6,30,19,2,2,157.89,"[6, 10, 15, 19]",4.0,24,8,0,37,6,0,1,0,1,0,1,9.25,0,0,0,0,4,58,41,0,99,34,True,False,True,Left-arm fast-medium,Right-hand bat
+Rajasthan Royals,SV Samson,a4cc73aa,7,21,10,0,3,210.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,45,0,8,53,30,True,False,False,,Right-hand bat
+Rajasthan Royals,STR Binny,bd17b45f,8,3,3,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3,40,True,False,True,Right-arm medium,Right-hand bat
+Rajasthan Royals,CH Morris,fb66ce1f,9,34,11,2,3,309.09,"[2, 4, 17, 20]",4.0,24,8,0,38,3,1,0,0,0,0,7,9.5,0,0,0,0,6,70,8,0,78,37,True,False,True,Right-arm fast-medium,Right-hand bat
+Rajasthan Royals,DS Kulkarni,d2a989fc,9,0,0,0,0,0.0,"[3, 8]",2.0,12,6,0,19,4,0,0,0,0,0,1,9.5,0,0,0,0,0,0,6,0,6,36,True,False,False,Right-arm medium,Right-hand bat
+Rajasthan Royals,PV Tambe,6aed7e79,10,0,0,0,0,0.0,"[7, 9, 11, 16]",4.0,24,11,0,32,1,3,1,0,1,0,0,8.0,0,0,0,0,0,0,44,0,44,53,True,False,False,Legbreak,Right-hand bat
+Sunrisers Hyderabad,S Dhawan,0a476045,1,54,35,6,2,154.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,102,0,0,102,39,True,False,False,Right-arm offbreak,Left-hand bat
+Sunrisers Hyderabad,DA Warner,dcce6f09,2,24,18,5,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,46,0,0,46,38,True,False,False,Legbreak,Left-hand bat
+Sunrisers Hyderabad,MC Henriques,32198ae0,3,20,21,3,0,95.24,"[8, 10, 16]",3.0,18,6,0,29,5,0,1,0,0,0,1,9.67,0,0,0,0,0,32,31,0,63,38,True,False,True,Right-arm fast-medium,Right-hand bat
+Sunrisers Hyderabad,EJG Morgan,d2a6c0e6,4,63,28,4,5,225.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,123,0,0,123,38,True,False,False,Right-arm medium,Left-hand bat
+Sunrisers Hyderabad,RS Bopara,7ca5e05d,5,17,12,2,0,141.67,"[9, 15, 17]",3.0,18,4,0,22,1,1,1,0,1,0,0,7.33,1,0,0,0,2,27,37,8,72,39,True,False,True,Right-arm medium,Right-hand bat
+Sunrisers Hyderabad,NV Ojha,890946a0,6,8,6,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,12,0,16,28,41,True,False,False,,Right-hand bat
+Sunrisers Hyderabad,GH Vihari,94253925,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,31,True,False,True,Right-arm offbreak,Right-hand bat
+Sunrisers Hyderabad,KV Sharma,119678fd,10,0,0,0,0,0.0,"[7, 11, 13]",3.0,18,5,0,28,1,2,1,0,0,0,0,9.33,0,0,0,0,0,0,30,0,30,37,True,False,False,Legbreak googly,Left-hand bat
+Sunrisers Hyderabad,P Kumar,e938e1bc,11,0,0,0,0,0.0,"[2, 5, 14, 19]",4.0,24,9,0,40,3,3,0,0,0,0,0,10.0,1,0,0,0,0,0,7,8,15,38,True,False,False,Right-arm medium,Right-hand bat
+Sunrisers Hyderabad,B Kumar,2e81a32d,12,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,9,0,44,6,2,3,0,1,0,0,11.0,1,0,0,0,0,0,94,8,102,35,True,False,False,Right-arm medium,Right-hand bat
+Sunrisers Hyderabad,I Sharma,5bb1a1c4,13,0,0,0,0,0.0,"[4, 6, 12]",3.0,18,8,0,25,2,2,1,0,0,0,0,8.33,0,0,0,0,0,0,33,0,33,36,True,False,False,Right-arm fast-medium,Right-hand bat

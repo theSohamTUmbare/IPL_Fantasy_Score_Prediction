@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp,age,batting,bowling,all_rounder,bowling_style,batting_style
+Bangladesh,Liton Das,0404d43c,1,19,12,1,1,158.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,33,0,0,33,30,True,True,False,Right-arm offbreak,Right-hand bat
+Bangladesh,Soumya Sarkar,4d9f9686,2,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4,32,True,False,True,Right-arm medium-fast,Left-hand bat
+Bangladesh,Shakib Al Hasan,7dc35884,3,1,3,0,0,33.33,"[1, 3, 12, 16]",4.0,24,8,0,49,6,3,0,0,0,0,0,12.25,0,0,0,0,0,1,2,0,3,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Bangladesh,Mushfiqur Rahim,a94e08ea,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2,37,True,False,False,,Right-hand bat
+Bangladesh,Mahmudullah,bf1d7d3e,5,14,16,2,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,22,0,8,30,39,True,False,True,Right-arm offbreak,Right-hand bat
+Bangladesh,Sabbir Rahman,7147f314,6,15,15,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,19,0,8,27,33,True,False,True,Legbreak,Right-hand bat
+Bangladesh,Mosaddek Hossain,8919756f,7,30,24,0,2,125.0,"[9, 11, 13]",3.0,18,8,0,10,0,0,1,0,0,0,0,3.33,2,0,0,0,0,46,39,16,101,29,True,False,True,Right-arm offbreak,Right-hand bat
+Bangladesh,Afif Hossain,37138918,8,52,26,8,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,104,0,0,104,25,True,False,True,Right-arm offbreak,Left-hand bat
+Bangladesh,Mohammad Saifuddin,b3a28446,9,6,2,1,0,300.0,"[5, 8, 14, 17]",4.0,24,7,0,26,1,1,1,0,0,0,0,6.5,0,0,0,0,0,10,34,0,44,28,True,False,True,Right-arm medium-fast,Left-hand bat
+Bangladesh,Taijul Islam,9d1d34bd,9,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,9,0,26,3,1,1,0,0,0,2,8.67,0,0,0,0,0,0,34,0,34,33,True,False,True,Slow left-arm orthodox,Left-hand bat
+Bangladesh,Mustafizur Rahman,0a8fce53,10,0,0,0,0,0.0,"[7, 10, 15, 18]",4.0,24,11,0,31,3,1,1,0,0,0,2,7.75,0,0,0,0,0,0,36,0,36,29,True,False,False,Left-arm fast-medium,Left-hand bat
+Zimbabwe,BRM Taylor,53597be1,1,6,5,1,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,10,0,8,18,39,True,True,False,Right-arm offbreak,Right-hand bat
+Zimbabwe,H Masakadza,31fbf891,2,34,26,5,1,130.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,66,0,16,82,41,True,False,False,Right-arm medium,Right-hand bat
+Zimbabwe,CR Ervine,c96311d4,3,11,14,1,0,78.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15,39,True,False,False,Right-arm offbreak,Left-hand bat
+Zimbabwe,SC Williams,afe57f7a,4,2,3,0,0,66.67,"[1, 11, 15]",3.0,18,6,0,31,3,2,0,0,0,0,0,10.33,0,0,0,0,0,2,4,0,6,38,True,False,True,Slow left-arm orthodox,Left-hand bat
+Zimbabwe,T Maruma,f55c526f,5,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1,36,True,False,False,Legbreak googly,Right-hand bat
+Zimbabwe,RP Burl,b08252b8,6,57,32,5,4,178.12,"[7, 9, 12]",3.0,18,4,0,27,0,2,1,1,0,0,1,9.0,1,0,0,0,6,115,37,8,160,30,True,False,True,Legbreak,Left-hand bat
+Zimbabwe,CT Mutombodzi,26f12506,7,27,26,1,1,103.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,41,0,0,41,34,True,False,True,Legbreak googly,Right-hand bat
+Zimbabwe,N Madziva,4a36c370,9,0,0,0,0,0.0,"[8, 10, 14, 18]",3.667,22,10,0,25,3,0,2,0,0,0,2,6.82,1,0,0,0,0,0,62,8,70,33,True,False,True,Right-arm medium-fast,Right-hand bat
+Zimbabwe,KM Jarvis,59792462,10,0,0,0,0,0.0,"[2, 4, 6, 16]",4.0,24,10,0,31,4,0,2,0,0,1,0,7.75,0,0,0,0,0,0,60,0,60,36,True,False,False,Right-arm fast-medium,Right-hand bat
+Zimbabwe,T Munyonga,fbcfa528,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,26,True,False,True,Right-arm offbreak,Right-hand bat
+Zimbabwe,TL Chatara,5bbabe59,12,0,0,0,0,0.0,"[3, 5, 13, 17]",4.0,24,6,0,32,3,0,2,0,1,1,0,8.0,0,0,0,0,0,0,64,0,64,34,True,False,False,Right-arm fast-medium,Right-hand bat
