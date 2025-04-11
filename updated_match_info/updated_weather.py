@@ -3,7 +3,7 @@ import requests_cache
 import pandas as pd
 from retry_requests import retry
 import os
-matches_df = pd.read_csv(r"updated_match_info\updated_matches_info3.csv")
+matches_df = pd.read_csv(r"FINAL_DATASET\final_matches_info.csv")
 
 # Setup the Open-Meteo API client with cache and retry on error
 cache_session = requests_cache.CachedSession('.cache', expire_after=-1)
@@ -22,7 +22,7 @@ no_match_date_data = []
 no_lat_long_data = []
 # Iterate through matches dataframe
 # matches_data = []
-output_csv = "updated_match_info\\weather_data.csv"
+output_csv = "FINAL_DATASET\\weather_data.csv"
 
 # If file exists, load it to avoid repeating work
 if os.path.exists(output_csv):
@@ -34,8 +34,8 @@ else:
     processed_match_ids = set()
     matches_data = []
     
-match_ids = ['811111','811117','811123','1068308','1068327','1068409','1127465','693111','804553','804599','947107','947219','543883','543884', '543885']
-# match_ids = []
+# match_ids = ['811111','811117','811123','1068308','1068327','1068409','1127465','693111','804553','804599','947107','947219','543883','543884', '543885']
+match_ids = ['1456013']
 
 for index, row in matches_df.iterrows():
     # if str(row["match_id"]) in processed_match_ids:
@@ -47,20 +47,21 @@ for index, row in matches_df.iterrows():
     latitude = row["venue_lat"]
     longitude = row["venue_long"]
     match_date = row["match_date"]
+    # match_time = pd.to_timedelta('07:00:00')
     match_time = row["match_time"]
     print(match_id)
-    if pd.isna(latitude) or pd.isna(longitude):
-        print(f"Skipping match {match_id} due to missing lat/long")
-        no_lat_long_data.append(match_id)
-        continue
-    if pd.isna(match_time):
-        print(f"Skipping match {match_id} due to time")
-        no_match_time_data.append(match_id)
-        continue
-    if pd.isna(match_date):
-        print(f"Skipping match {match_id} due to date")
-        no_match_date_data.append(match_id)
-        continue
+    # if pd.isna(latitude) or pd.isna(longitude):
+    #     print(f"Skipping match {match_id} due to missing lat/long")
+    #     no_lat_long_data.append(match_id)
+    #     continue
+    # if pd.isna(match_time):
+    #     print(f"Skipping match {match_id} due to time")
+    #     no_match_time_data.append(match_id)
+    #     continue
+    # if pd.isna(match_date):
+    #     print(f"Skipping match {match_id} due to date")
+    #     no_match_date_data.append(match_id)
+    #     continue
     start_datetime = pd.to_datetime(f"{match_date} {match_time}")
     end_datetime = start_datetime + pd.DateOffset(hours=5)
 
@@ -68,9 +69,11 @@ for index, row in matches_df.iterrows():
 
     # Round to the nearest hour
     rounded_time = start_datetime.round('h')
-    print(match_time)
+    # print(match_time)
     # Extract the hour integer
     start_hour_int = rounded_time.hour
+    print(start_hour_int)
+    # exit()
     end_hour_int = start_hour_int + 5
     print(start_hour_int)
     # print(start_hour_int)
