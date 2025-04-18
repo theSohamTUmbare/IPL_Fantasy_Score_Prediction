@@ -1,0 +1,75 @@
+Match_number,team1,team2,Date,Time,Venue
+1,Kolkata Knight Riders,Royal Challengers Bengaluru,22 March 2025,02:00 PM GMT / 07:30 PM LOCAL,Eden Gardens, Kolkata
+2,Sunrisers Hyderabad,Rajasthan Royals,23 March 2025,10:00 AM GMT / 03:30 PM LOCAL,Rajiv Gandhi International Cricket Stadium, Hyderabad
+3,Mumbai Indians,Chennai Super Kings,23 March 2025,02:00 PM GMT / 07:30 PM LOCAL,MA Chidambaram Stadium, Chennai
+4,Lucknow Super Giants,Delhi Capitals,24 March 2025,02:00 PM GMT / 07:30 PM LOCAL,ACA–VDCA Cricket Stadium, Visakhapatnam
+5,Punjab Kings,Gujarat Titans,25 March 2025,02:00 PM GMT / 07:30 PM LOCAL,Narendra Modi Stadium, Ahmedabad
+6,Rajasthan Royals,Kolkata Knight Riders,26 March 2025,02:00 PM GMT / 07:30 PM LOCAL,ACA Cricket Stadium, Guwahati
+7,Sunrisers Hyderabad,Lucknow Super Giants,27 March 2025,02:00 PM GMT / 07:30 PM LOCAL,Rajiv Gandhi International Cricket Stadium, Hyderabad
+8,Royal Challengers Bengaluru,Chennai Super Kings,28 March 2025,02:00 PM GMT / 07:30 PM LOCAL,MA Chidambaram Stadium, Chennai
+9,Gujarat Titans,Mumbai Indians,29 March 2025,02:00 PM GMT / 07:30 PM LOCAL,Narendra Modi Stadium, Ahmedabad
+10,Sunrisers Hyderabad,Delhi Capitals,30 March 2025,10:00 AM GMT / 03:30 PM LOCAL,ACA–VDCA Cricket Stadium, Visakhapatnam
+11,Rajasthan Royals,Chennai Super Kings,30 March 2025,02:00 PM GMT / 07:30 PM LOCAL,ACA Cricket Stadium, Guwahati
+12,Kolkata Knight Riders,Mumbai Indians,31 March 2025,02:00 PM GMT / 07:30 PM LOCAL,Wankhede Stadium, Mumbai
+13,Lucknow Super Giants,Punjab Kings,01 April 2025,02:00 PM GMT / 07:30 PM LOCAL,BRSABV Ekana Cricket Stadium, Lucknow
+14,Royal Challengers Bengaluru,Gujarat Titans,02 April 2025,02:00 PM GMT / 07:30 PM LOCAL,M Chinnaswamy Stadium, Bengaluru
+15,Kolkata Knight Riders,Sunrisers Hyderabad,03 April 2025,02:00 PM GMT / 07:30 PM LOCAL,Eden Gardens, Kolkata
+16,Lucknow Super Giants,Mumbai Indians,04 April 2025,02:00 PM GMT / 07:30 PM LOCAL,BRSABV Ekana Cricket Stadium, Lucknow
+17,Delhi Capitals,Chennai Super Kings,05 April 2025,10:00 AM GMT / 03:30 PM LOCAL,MA Chidambaram Stadium, Chennai
+18,Rajasthan Royals,Punjab Kings,05 April 2025,02:00 PM GMT / 07:30 PM LOCAL,Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur
+19,Sunrisers Hyderabad,Gujarat Titans,06 April 2025,02:00 PM GMT / 07:30 PM LOCAL,Rajiv Gandhi International Cricket Stadium, Hyderabad
+20,Royal Challengers Bengaluru,Mumbai Indians,07 April 2025,02:00 PM GMT / 07:30 PM LOCAL,Wankhede Stadium, Mumbai
+21,Lucknow Super Giants,Kolkata Knight Riders,08 April 2025,10:00 AM GMT / 03:30 PM LOCAL,Eden Gardens, Kolkata
+22,Punjab Kings,Chennai Super Kings,08 April 2025,02:00 PM GMT / 07:30 PM LOCAL,Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur
+23,Gujarat Titans,Rajasthan Royals,09 April 2025,02:00 PM GMT / 07:30 PM LOCAL,Narendra Modi Stadium, Ahmedabad
+24,Royal Challengers Bengaluru,Delhi Capitals,10 April 2025,02:00 PM GMT / 07:30 PM LOCAL,M Chinnaswamy Stadium, Bengaluru
+25,Chennai Super Kings,Kolkata Knight Riders,11 April 2025,02:00 PM GMT / 07:30 PM LOCAL,MA Chidambaram Stadium, Chennai
+26,Gujarat Titans,Lucknow Super Giants,12 April 2025,10:00 AM GMT / 03:30 PM LOCAL,BRSABV Ekana Cricket Stadium, Lucknow
+27,Punjab Kings,Sunrisers Hyderabad,12 April 2025,02:00 PM GMT / 07:30 PM LOCAL,Rajiv Gandhi International Cricket Stadium, Hyderabad
+28,Rajasthan Royals,Royal Challengers Bengaluru,13 April 2025,10:00 AM GMT / 03:30 PM LOCAL,Sawai Mansingh Stadium, Jaipur
+29,Mumbai Indians,Delhi Capitals,13 April 2025,02:00 PM GMT / 07:30 PM LOCAL,Arun Jaitley Stadium, Delhi
+30,Lucknow Super Giants,Chennai Super Kings,14 April 2025,02:00 PM GMT / 07:30 PM LOCAL,BRSABV Ekana Cricket Stadium, Lucknow
+31,Punjab Kings,Kolkata Knight Riders,15 April 2025,02:00 PM GMT / 07:30 PM LOCAL,Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur
+32,Delhi Capitals,Rajasthan Royals,16 April 2025,02:00 PM GMT / 07:30 PM LOCAL,Arun Jaitley Stadium, Delhi
+33,Sunrisers Hyderabad,Mumbai Indians,17 April 2025,02:00 PM GMT / 07:30 PM LOCAL,Wankhede Stadium, Mumbai
+34,Royal Challengers Bengaluru,Punjab Kings,18 April 2025,02:00 PM GMT / 07:30 PM LOCAL,M Chinnaswamy Stadium, Bengaluru
+35,Gujarat Titans,Delhi Capitals,Apr 19,10:00 AM GMT / 03:30 PM LOCAL,Narendra Modi Stadium, Ahmedabad
+36,Rajasthan Royals,Lucknow Super Giants,Apr 19,02:00 PM GMT / 07:30 PM LOCAL,Sawai Mansingh Stadium, Jaipur
+37,Punjab Kings,Royal Challengers Bengaluru,Apr 20,10:00 AM GMT / 03:30 PM LOCAL,Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur
+38,Mumbai Indians,Chennai Super Kings,Apr 20,02:00 PM GMT / 07:30 PM LOCAL,Wankhede Stadium, Mumbai
+39,Kolkata Knight Riders,Gujarat Titans,Apr 21,02:00 PM GMT / 07:30 PM LOCAL,Eden Gardens, Kolkata
+40,Lucknow Super Giants,Delhi Capitals,Apr 22,02:00 PM GMT / 07:30 PM LOCAL,BRSABV Ekana Cricket Stadium, Lucknow
+41,Sunrisers Hyderabad,Mumbai Indians,Apr 23,02:00 PM GMT / 07:30 PM LOCAL,Rajiv Gandhi International Cricket Stadium, Hyderabad
+42,Royal Challengers Bengaluru,Rajasthan Royals,Apr 24,02:00 PM GMT / 07:30 PM LOCAL,M Chinnaswamy Stadium, Bengaluru
+43,Chennai Super Kings,Sunrisers Hyderabad,Apr 25,02:00 PM GMT / 07:30 PM LOCAL,MA Chidambaram Stadium, Chennai
+44,Kolkata Knight Riders,Punjab Kings,Apr 26,02:00 PM GMT / 07:30 PM LOCAL,Eden Gardens, Kolkata
+45,Mumbai Indians,Lucknow Super Giants,Apr 27,10:00 AM GMT / 03:30 PM LOCAL,Wankhede Stadium, Mumbai
+46,Delhi Capitals,Royal Challengers Bengaluru,Apr 27,02:00 PM GMT / 07:30 PM LOCAL,Arun Jaitley Stadium, Delhi
+47,Rajasthan Royals,Gujarat Titans,Apr 28,02:00 PM GMT / 07:30 PM LOCAL,Sawai Mansingh Stadium, Jaipur
+48,Delhi Capitals,Kolkata Knight Riders,Apr 29,02:00 PM GMT / 07:30 PM LOCAL,Arun Jaitley Stadium, Delhi
+49,Chennai Super Kings,Punjab Kings,Apr 30,02:00 PM GMT / 07:30 PM LOCAL,MA Chidambaram Stadium, Chennai
+50,Rajasthan Royals,Mumbai Indians,May 01,02:00 PM GMT / 07:30 PM LOCAL,Sawai Mansingh Stadium, Jaipur
+51,Gujarat Titans,Sunrisers Hyderabad,May 02,02:00 PM GMT / 07:30 PM LOCAL,Narendra Modi Stadium, Ahmedabad
+52,Royal Challengers Bengaluru,Chennai Super Kings,May 03,02:00 PM GMT / 07:30 PM LOCAL,M Chinnaswamy Stadium, Bengaluru
+53,Kolkata Knight Riders,Rajasthan Royals,May 04,10:00 AM GMT / 03:30 PM LOCAL,Eden Gardens, Kolkata
+54,Punjab Kings,Lucknow Super Giants,May 04,02:00 PM GMT / 07:30 PM LOCAL,HPCA Cricket Stadium, Dharamshala
+55,Sunrisers Hyderabad,Delhi Capitals,May 05,02:00 PM GMT / 07:30 PM LOCAL,Rajiv Gandhi International Cricket Stadium, Hyderabad
+56,Mumbai Indians,Gujarat Titans,May 06,02:00 PM GMT / 07:30 PM LOCAL,Wankhede Stadium, Mumbai
+57,Kolkata Knight Riders,Chennai Super Kings,May 07,02:00 PM GMT / 07:30 PM LOCAL,Eden Gardens, Kolkata
+58,Punjab Kings,Delhi Capitals,May 08,02:00 PM GMT / 07:30 PM LOCAL,HPCA Cricket Stadium, Dharamshala
+59,Lucknow Super Giants,Royal Challengers Bengaluru,May 09,02:00 PM GMT / 07:30 PM LOCAL,BRSABV Ekana Cricket Stadium, Lucknow
+60,Sunrisers Hyderabad,Kolkata Knight Riders,May 10,02:00 PM GMT / 07:30 PM LOCAL,Rajiv Gandhi International Cricket Stadium, Hyderabad
+61,Punjab Kings,Mumbai Indians,May 11,10:00 AM GMT / 03:30 PM LOCAL,HPCA Cricket Stadium, Dharamshala
+62,Delhi Capitals,Gujarat Titans,May 11,02:00 PM GMT / 07:30 PM LOCAL,Arun Jaitley Stadium, Delhi
+63,Chennai Super Kings,Rajasthan Royals,May 12,02:00 PM GMT / 07:30 PM LOCAL,MA Chidambaram Stadium, Chennai
+64,Royal Challengers Bengaluru,Sunrisers Hyderabad,May 13,02:00 PM GMT / 07:30 PM LOCAL,M Chinnaswamy Stadium, Bengaluru
+65,Gujarat Titans,Lucknow Super Giants,May 14,02:00 PM GMT / 07:30 PM LOCAL,Narendra Modi Stadium, Ahmedabad
+66,Mumbai Indians,Delhi Capitals,May 15,02:00 PM GMT / 07:30 PM LOCAL,Wankhede Stadium, Mumbai
+67,Rajasthan Royals,Punjab Kings,May 16,02:00 PM GMT / 07:30 PM LOCAL,Sawai Mansingh Stadium, Jaipur
+68,Royal Challengers Bengaluru,Kolkata Knight Riders,May 17,02:00 PM GMT / 07:30 PM LOCAL,M Chinnaswamy Stadium, Bengaluru
+69,Gujarat Titans,Chennai Super Kings,May 18,10:00 AM GMT / 03:30 PM LOCAL,Narendra Modi Stadium, Ahmedabad
+70,Lucknow Super Giants,Sunrisers Hyderabad,May 18,02:00 PM GMT / 07:30 PM LOCAL,BRSABV Ekana Cricket Stadium, Lucknow
+71,,,May 20,02:00 PM GMT / 07:30 PM LOCAL,Rajiv Gandhi International Cricket Stadium, Hyderabad
+72,,,May 21,02:00 PM GMT / 07:30 PM LOCAL,Rajiv Gandhi International Cricket Stadium, Hyderabad
+73,,,May 23,02:00 PM GMT / 07:30 PM LOCAL,Eden Gardens, Kolkata
+74,,,May 25,02:00 PM GMT / 07:30 PM LOCAL,Eden Gardens, Kolkata
