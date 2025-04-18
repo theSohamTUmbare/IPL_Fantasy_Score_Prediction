@@ -1,0 +1,15 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-03-11'],Syed Mushtaq Ali Trophy,1175037,Railways,6,23,24,2,1,95.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,37,0,0,37
+['2019-03-09'],Syed Mushtaq Ali Trophy,1175031,Railways,6,5,10,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,1,0,8,9
+['2019-03-08'],Syed Mushtaq Ali Trophy,1175027,Railways,6,7,5,1,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19
+['2019-03-02'],Syed Mushtaq Ali Trophy,1157200,Railways,7,15,8,1,1,187.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,25,0,8,33
+['2019-02-28'],Syed Mushtaq Ali Trophy,1157183,Railways,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0,0,12,12
+['2019-02-27'],Syed Mushtaq Ali Trophy,1157167,Railways,5,10,3,1,1,333.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,20,0,20,40
+['2019-02-25'],Syed Mushtaq Ali Trophy,1157148,Railways,7,21,14,3,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,33,0,8,41
+['2019-02-24'],Syed Mushtaq Ali Trophy,1157133,Railways,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,0,20,20
+['2019-02-21'],Syed Mushtaq Ali Trophy,1157098,Railways,3,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2011-04-17'],Indian Premier League,501214,Rajasthan Royals,2,15,14,2,0,107.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
+['2011-04-15'],Indian Premier League,501209,Rajasthan Royals,1,9,15,2,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,-2,15,0,6,21
+['2011-04-12'],Indian Premier League,501204,Rajasthan Royals,1,5,7,1,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
+['2011-04-09'],Indian Premier League,501199,Rajasthan Royals,1,20,18,4,0,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,36,0,8,44
+['2010-04-14'],Indian Premier League,419154,Rajasthan Royals,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2

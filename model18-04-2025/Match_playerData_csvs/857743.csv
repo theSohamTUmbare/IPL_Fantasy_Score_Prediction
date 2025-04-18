@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Barbados Tridents,DR Smith,35205dfc,1,27,25,1,1,108.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,41,0,0,41
+Barbados Tridents,EMDY Munaweera,5a22d91c,2,18,14,2,1,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32
+Barbados Tridents,JL Carter,0a9d8b61,3,6,14,0,0,42.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,0,0,0,0
+Barbados Tridents,KA Pollard,a757b0d8,4,59,37,5,3,159.46,"[11, 13, 15]",3.0,18,5,0,23,1,1,0,0,0,0,0,7.67,2,0,0,0,4,109,5,16,130
+Barbados Tridents,Misbah-ul-Haq,7eae4418,5,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+Barbados Tridents,JO Holder,0f721006,6,26,22,2,1,118.18,"[2, 4, 18, 20]",4.0,24,7,0,36,1,3,2,0,1,0,0,9.0,0,0,0,0,0,44,65,0,109
+Barbados Tridents,ND Stewart,16edfe47,7,0,2,0,0,0.0,[12],1.0,6,1,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,0,-2,1,0,-1
+Barbados Tridents,AR Nurse,4a745f65,8,7,3,0,1,233.33,[6],1.0,6,2,0,12,1,1,0,0,0,0,0,12.0,0,0,0,0,0,13,2,0,15
+Barbados Tridents,RR Emrit,e7de4f6b,9,0,0,0,0,0.0,"[8, 10, 14, 16]",4.0,24,12,0,14,0,0,1,0,1,0,1,3.5,0,0,0,0,0,0,51,0,51
+Barbados Tridents,RJ Peterson,26ff4c29,10,0,0,0,0,0.0,"[5, 7, 9]",3.0,18,11,0,13,0,1,3,0,2,0,0,4.33,0,0,0,0,0,0,112,0,112
+Barbados Tridents,R Rampaul,d68e7f48,11,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,10,0,21,2,0,1,0,0,0,2,5.25,0,0,0,0,0,0,39,0,39
+Jamaica Tallawahs,CH Gayle,db584dad,1,14,11,1,1,127.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
+Jamaica Tallawahs,CAK Walton,bbff906c,2,46,44,2,2,104.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,70,0,8,78
+Jamaica Tallawahs,CA Lynn,45eda7c8,3,13,7,1,1,185.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,23,0,16,39
+Jamaica Tallawahs,DPMD Jayawardene,d18f9182,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+Jamaica Tallawahs,J Blackwood,c3b93a03,5,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+Jamaica Tallawahs,NE Bonner,59ddd811,6,31,36,1,1,86.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,45,0,0,45
+Jamaica Tallawahs,AD Russell,bbd41817,7,15,10,1,1,150.0,"[9, 11, 13, 19]",4.0,24,12,0,18,2,0,2,0,1,0,0,4.5,0,0,0,0,0,25,76,0,101
+Jamaica Tallawahs,J Theron,dec8e038,8,0,1,0,0,0.0,"[6, 8, 14, 20]",4.0,24,11,0,39,2,4,2,0,0,0,0,9.75,0,0,0,0,0,-2,61,0,59
+Jamaica Tallawahs,JE Taylor,4180d897,9,3,6,0,0,50.0,"[5, 7, 15, 17]",4.0,24,9,0,24,2,0,1,0,0,0,0,6.0,0,0,0,0,0,3,36,0,39
+Jamaica Tallawahs,DL Vettori,d7c6af50,10,0,0,0,0,0.0,"[2, 4, 10, 12]",4.0,24,9,0,26,2,1,1,0,0,0,0,6.5,1,0,0,0,0,0,36,8,44
+Jamaica Tallawahs,K Santokie,531f0278,11,0,0,0,0,0.0,"[1, 3, 16, 18]",4.0,24,7,0,37,2,2,0,0,0,0,1,9.25,0,0,0,0,0,0,7,0,7

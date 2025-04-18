@@ -1,0 +1,9 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-02-15'],Quadrangular Twenty20 Series (Thailand),1420806,Bhutan,5,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2024-02-13'],Quadrangular Twenty20 Series (Thailand),1420804,Bhutan,5,21,34,0,0,61.76,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,19,0,0,19
+['2024-02-07'],Asian Cricket Council Men's Challenger Cup,1418193,Bhutan,7,18,13,1,1,138.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,30,0,0,30
+['2024-02-01'],Asian Cricket Council Men's Challenger Cup,1418181,Bhutan,5,15,20,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
+['2023-07-31'],ICC Men's T20 World Cup Asia B Qualifier,1383108,Bhutan,4,14,17,1,0,82.35,"[1, 3]",2.0,12,5,0,22,3,0,1,0,0,0,7,11.0,0,0,0,0,0,18,28,0,46
+['2023-07-30'],ICC Men's T20 World Cup Asia B Qualifier,1383106,Bhutan,8,0,0,0,0,0.0,"[4, 6, 8]",3.0,18,12,0,10,0,0,3,1,1,0,4,3.33,1,0,0,0,0,0,113,8,121
+['2023-07-27'],ICC Men's T20 World Cup Asia B Qualifier,1383104,Bhutan,10,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,9,0,18,2,0,0,0,0,0,1,6.0,0,0,0,0,0,0,11,0,11
+['2023-07-26'],ICC Men's T20 World Cup Asia B Qualifier,1383102,Bhutan,4,11,15,0,0,73.33,"[1, 3, 5]",3.0,18,15,0,9,0,0,2,1,0,0,6,3.0,0,0,0,0,0,11,79,0,90

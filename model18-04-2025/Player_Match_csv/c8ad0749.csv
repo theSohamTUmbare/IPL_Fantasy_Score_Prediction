@@ -1,0 +1,8 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-02-17'],Bangladesh Premier League,1412308,Sylhet Strikers,4,17,19,2,0,89.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
+['2019-10-09'],Sri Lanka tour of Pakistan,1198491,Sri Lanka,4,13,11,1,0,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
+['2019-03-24'],Sri Lanka tour of South Africa,1144174,Sri Lanka,5,15,10,2,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29
+['2019-03-22'],Sri Lanka tour of South Africa,1144173,Sri Lanka,6,11,18,1,0,61.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,13,0,0,13
+['2019-03-19'],Sri Lanka tour of South Africa,1144172,Sri Lanka,5,16,18,1,0,88.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
+['2014-02-14'],Sri Lanka in Bangladesh T20I Series,690353,Sri Lanka,5,4,8,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+['2013-03-31'],NA,602477,Sri Lanka,8,0,0,0,0,0.0,[13],1.0,6,1,0,17,2,1,0,0,0,0,0,17.0,1,0,0,0,0,0,1,8,9

@@ -1,0 +1,7 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2015-07-19'],ICC World Twenty20 Qualifier,875535,Jersey,4,11,10,2,0,110.0,[17],0.667,4,2,0,2,0,0,0,0,0,0,0,3.0,1,0,0,0,0,19,2,8,29
+['2015-07-18'],ICC World Twenty20 Qualifier,875523,Jersey,4,27,21,4,0,128.57,"[11, 13, 17]",3.0,18,9,0,11,0,0,1,0,0,0,0,3.67,1,0,0,0,0,47,40,8,95
+['2015-07-17'],ICC World Twenty20 Qualifier,875515,Jersey,4,10,13,1,0,76.92,"[9, 17]",1.5,9,1,0,20,2,1,0,0,0,0,1,13.33,0,0,0,0,0,14,1,0,15
+['2015-07-15'],ICC World Twenty20 Qualifier,875503,Jersey,4,2,5,0,0,40.0,[11],1.0,6,4,0,3,0,0,1,0,0,0,0,3.0,1,0,0,0,0,2,29,8,39
+['2015-07-12'],ICC World Twenty20 Qualifier,875479,Jersey,4,10,11,0,1,90.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24
+['2015-07-11'],ICC World Twenty20 Qualifier,875469,Jersey,5,0,0,0,0,0.0,"[6, 10, 14]",3.0,18,7,0,23,1,1,1,0,0,0,4,7.67,0,0,0,0,0,0,32,0,32

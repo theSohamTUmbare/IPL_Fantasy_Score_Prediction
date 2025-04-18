@@ -1,0 +1,17 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2015-11-22'],NA,930573,United Arab Emirates,9,0,0,0,0,0.0,"[1, 3, 15, 17]",4.0,24,12,0,22,2,0,2,0,0,0,4,5.5,0,0,0,0,0,0,66,0,66
+['2015-07-15'],ICC World Twenty20 Qualifier,875509,United Arab Emirates,11,0,5,0,0,0.0,"[1, 3, 17]",3.0,18,7,0,28,2,2,0,0,0,0,0,9.33,0,0,0,0,0,0,7,0,7
+['2015-07-14'],ICC World Twenty20 Qualifier,875497,United Arab Emirates,10,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,9,0,31,2,1,2,0,0,0,0,7.75,0,0,0,0,0,0,59,0,59
+['2015-07-12'],ICC World Twenty20 Qualifier,875481,United Arab Emirates,11,0,0,0,0,0.0,"[2, 4]",2.0,12,6,0,18,4,0,1,0,0,0,0,9.0,0,0,0,0,0,0,31,0,31
+['2015-07-09'],ICC World Twenty20 Qualifier,875457,United Arab Emirates,11,1,6,0,0,16.67,"[2, 4]",2.0,12,4,0,28,6,0,0,0,0,0,0,14.0,0,0,0,0,0,1,-2,0,-1
+['2014-03-21'],World T20,682917,United Arab Emirates,11,1,1,0,0,100.0,"[2, 4, 6, 12]",4.0,24,14,0,18,2,0,2,0,1,0,0,4.5,1,0,0,0,0,1,78,8,87
+['2014-03-17'],World T20,682903,United Arab Emirates,11,1,1,0,0,100.0,"[1, 3, 5, 14]",4.0,24,7,0,39,6,1,0,0,0,0,0,9.75,0,0,0,0,0,1,7,0,8
+['2013-11-30'],ICC World Twenty20 Qualifier,660233,United Arab Emirates,9,0,0,0,0,0.0,"[2, 4, 6, 19]",4.0,24,9,0,29,2,1,0,0,0,0,2,7.25,0,0,0,0,0,0,9,0,9
+['2013-11-29'],ICC World Twenty20 Qualifier,660231,United Arab Emirates,11,0,0,0,0,0.0,"[2, 4, 6, 20]",4.0,24,14,0,21,2,0,3,0,1,0,0,5.25,0,0,0,0,0,0,105,0,105
+['2013-11-27'],ICC World Twenty20 Qualifier,660217,United Arab Emirates,11,0,0,0,0,0.0,"[2, 4, 6, 20]",4.0,24,8,0,26,1,1,1,0,0,0,0,6.5,0,0,0,0,0,0,35,0,35
+['2013-11-23'],ICC World Twenty20 Qualifier,660187,United Arab Emirates,11,2,3,0,0,66.67,"[1, 3, 5, 19]",4.0,24,8,0,45,5,2,1,0,0,1,0,11.25,1,0,0,0,0,2,29,8,39
+['2013-11-22'],ICC World Twenty20 Qualifier,660171,United Arab Emirates,11,0,0,0,0,0.0,"[1, 3, 5, 20]",3.833,23,12,0,18,1,0,2,0,0,0,1,4.7,0,0,0,0,0,0,68,0,68
+['2013-11-19'],ICC World Twenty20 Qualifier,660145,United Arab Emirates,10,0,0,0,0,0.0,"[2, 4, 6, 20]",4.0,24,11,0,19,2,0,3,0,0,0,0,4.75,0,0,0,0,0,0,96,0,96
+['2013-11-17'],ICC World Twenty20 Qualifier,660127,United Arab Emirates,11,0,1,0,0,0.0,"[1, 3, 20]",3.0,18,6,0,26,4,0,2,0,1,0,0,8.67,0,0,0,0,0,-2,64,0,62
+['2013-11-16'],ICC World Twenty20 Qualifier,660109,United Arab Emirates,8,0,0,0,0,0.0,"[1, 3, 5, 19]",4.0,24,9,0,25,0,1,1,0,1,0,0,6.25,0,0,0,0,0,0,44,0,44
+['2013-11-15'],ICC World Twenty20 Qualifier,660095,United Arab Emirates,6,0,0,0,0,0.0,"[1, 3, 17]",3.0,18,10,0,18,2,0,1,0,0,0,0,6.0,0,0,0,0,0,0,37,0,37

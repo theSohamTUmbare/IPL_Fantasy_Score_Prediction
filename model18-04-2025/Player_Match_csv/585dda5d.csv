@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-10-23'],ICC Men's T20 World Cup,1298149,Sri Lanka,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2021-07-25'],India tour of Sri Lanka,1262758,Sri Lanka,5,9,19,0,0,47.37,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,3,0,8,11
+['2021-03-07'],Sri Lanka tour of West Indies,1252068,Sri Lanka,6,44,35,3,2,125.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,72,0,0,72
+['2021-03-05'],Sri Lanka tour of West Indies,1252067,Sri Lanka,5,21,19,0,1,110.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,27,0,8,35
+['2021-03-03'],Sri Lanka tour of West Indies,1252066,Sri Lanka,8,10,6,1,0,166.67,[13],1.0,6,4,0,2,0,0,0,0,0,0,0,2.0,0,0,0,0,0,14,4,0,18

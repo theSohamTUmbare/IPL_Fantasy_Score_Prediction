@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Chennai Super Kings,DR Smith,35205dfc,1,17,12,3,0,141.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,31,0,0,31
+Chennai Super Kings,MEK Hussey,48fd7349,2,56,46,3,2,121.74,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,88,0,8,96
+Chennai Super Kings,F du Plessis,3355b542,3,21,22,2,0,95.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29
+Chennai Super Kings,SK Raina,1dc12ab9,4,0,2,0,0,0.0,"[10, 12, 14]",3.0,18,3,0,36,3,2,1,0,0,0,2,12.0,1,0,0,0,0,-2,24,8,30
+Chennai Super Kings,MS Dhoni,4a8a2e3b,5,26,29,1,0,89.66,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,34,0,12,46
+Chennai Super Kings,P Negi,f62772e5,6,12,6,0,1,200.0,[15],1.0,6,3,0,4,0,0,0,0,0,0,0,4.0,1,0,0,0,0,18,3,8,29
+Chennai Super Kings,DJ Bravo,87e562a9,7,0,1,0,0,0.0,"[13, 18, 20]",3.0,18,8,0,21,1,1,1,0,0,0,2,7.0,1,0,0,0,0,-2,35,8,41
+Chennai Super Kings,RA Jadeja,fe93fd9d,8,0,0,0,0,0.0,[16],1.0,6,1,0,13,2,0,0,0,0,0,0,13.0,0,0,0,0,0,0,1,0,1
+Chennai Super Kings,R Ashwin,495d42a5,9,1,1,0,0,100.0,"[2, 4, 6, 8]",4.0,24,16,0,13,1,0,1,0,0,0,0,3.25,0,0,0,0,0,1,47,0,48
+Chennai Super Kings,MM Sharma,759ac88f,10,0,0,0,0,0.0,"[7, 9, 11, 19]",4.0,24,9,0,22,2,0,1,0,0,0,0,5.5,2,0,0,0,0,0,38,16,54
+Chennai Super Kings,A Nehra,96fd40ae,11,0,0,0,0,0.0,"[1, 3, 5, 17]",4.0,24,14,0,28,2,2,3,1,0,0,1,7.0,0,0,0,0,0,0,103,0,103
+Royal Challengers Bangalore,CH Gayle,db584dad,1,41,43,2,3,95.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,71,0,0,71
+Royal Challengers Bangalore,V Kohli,ba607b88,2,12,9,1,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
+Royal Challengers Bangalore,AB de Villiers,c4487b84,3,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Royal Challengers Bangalore,Mandeep Singh,c3a96caf,4,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+Royal Challengers Bangalore,KD Karthik,c03f1114,5,28,26,4,0,107.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,48,0,8,56
+Royal Challengers Bangalore,SN Khan,f088b960,6,31,21,4,0,147.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,2,53,0,12,65
+Royal Challengers Bangalore,D Wiese,aa8d28ae,7,12,7,0,1,171.43,"[7, 9, 12, 17]",4.0,24,5,0,30,3,0,1,0,0,0,2,7.5,1,0,0,0,0,18,30,8,56
+Royal Challengers Bangalore,HV Patel,f986ca1a,8,2,2,0,0,100.0,"[5, 11, 18, 20]",3.833,23,10,0,26,1,1,1,0,0,0,1,6.78,1,0,0,0,0,2,37,8,47
+Royal Challengers Bangalore,MA Starc,3fb19989,9,1,1,0,0,100.0,"[1, 3, 15, 19]",4.0,24,6,0,27,3,0,1,0,1,0,0,6.75,1,0,0,0,0,1,41,8,50
+Royal Challengers Bangalore,S Aravind,957532de,10,0,1,0,0,0.0,"[2, 4, 6, 13]",4.0,24,9,0,25,2,0,1,0,0,0,0,6.25,0,0,0,0,0,0,36,0,36
+Royal Challengers Bangalore,YS Chahal,57ee1fde,11,0,0,0,0,0.0,"[8, 10, 14, 16]",4.0,24,9,0,28,0,2,2,0,1,0,0,7.0,0,0,0,0,0,0,69,0,69

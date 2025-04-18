@@ -1,0 +1,7 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2016-11-29'],Bangladesh Premier League,1063080,Khulna Titans,2,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2016-11-26'],Bangladesh Premier League,1063076,Khulna Titans,8,2,2,0,0,100.0,[12],1.0,6,3,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,0,2,3,0,5
+['2016-11-25'],Bangladesh Premier League,1063074,Khulna Titans,1,21,23,2,0,91.3,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29
+['2016-11-22'],Bangladesh Premier League,1063071,Khulna Titans,5,32,37,3,1,86.49,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,54,0,0,54
+['2016-11-20'],Bangladesh Premier League,1063052,Khulna Titans,8,10,10,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
+['2016-11-19'],Bangladesh Premier League,1063067,Khulna Titans,6,21,22,1,0,95.45,[11],1.0,6,4,0,5,1,0,1,0,0,0,0,5.0,1,0,0,0,0,25,29,8,62

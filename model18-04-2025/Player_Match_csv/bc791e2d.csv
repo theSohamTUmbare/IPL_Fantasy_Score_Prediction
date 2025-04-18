@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2018-09-02'],ICC World Twenty20 Europe Region Qualifier B,1156663,Finland,11,0,2,0,0,0.0,"[2, 4, 17, 19]",4.0,24,8,0,36,4,0,2,0,1,0,2,9.0,1,0,0,0,0,-2,66,8,72
+['2018-09-01'],ICC World Twenty20 Europe Region Qualifier B,1156660,Finland,9,0,0,0,0,0.0,"[2, 4, 6, 8]",4.0,24,17,1,14,2,0,2,0,2,0,0,3.5,0,0,0,0,0,0,101,0,101
+['2018-08-30'],ICC World Twenty20 Europe Region Qualifier B,1156656,Finland,3,0,1,0,0,0.0,"[7, 9, 19]",3.0,18,4,0,22,1,0,0,0,0,0,0,7.33,0,0,0,0,0,-2,4,0,2
+['2018-08-29'],ICC World Twenty20 Europe Region Qualifier B,1156653,Finland,9,0,0,0,0,0.0,"[7, 9, 20]",3.333,20,9,0,17,1,0,0,0,0,0,0,5.1,0,0,0,0,0,0,13,0,13

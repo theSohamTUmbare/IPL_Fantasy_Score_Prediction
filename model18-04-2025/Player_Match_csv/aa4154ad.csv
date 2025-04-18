@@ -1,0 +1,8 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2021-08-22'],Portugal T20 Tri-Series,1273139,Gibraltar,9,4,13,0,0,30.77,"[7, 9, 11, 13]",4.0,24,5,0,36,4,0,1,0,1,0,1,9.0,1,0,0,0,-6,-2,38,8,44
+['2021-08-21'],Portugal T20 Tri-Series,1273138,Gibraltar,9,0,0,0,0,0.0,[17],1.0,6,2,0,15,2,1,0,0,0,0,0,15.0,0,0,0,0,0,0,2,0,2
+['2021-08-20'],Portugal T20 Tri-Series,1273136,Gibraltar,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2019-10-27'],Iberia Cup,1201673,Gibraltar,10,1,5,0,0,20.0,"[12, 14, 16]",2.833,17,6,0,12,0,0,1,0,0,0,1,4.24,0,0,0,0,0,1,37,0,38
+['2019-10-26'],Iberia Cup,1201669,Gibraltar,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2019-10-26'],Iberia Cup,1201670,Gibraltar,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2018-08-29'],ICC World Twenty20 Europe Region Qualifier C,1156665,Gibraltar,10,0,2,0,0,0.0,"[6, 8]",2.0,12,4,0,20,4,0,0,0,0,0,0,10.0,0,0,0,0,0,-2,2,0,0

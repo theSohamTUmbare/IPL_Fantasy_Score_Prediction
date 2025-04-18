@@ -1,0 +1,8 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-07-31'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321304,Austria,1,8,13,0,0,61.54,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,6,0,0,6
+['2022-07-27'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321289,Austria,1,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2022-07-25'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321286,Austria,1,12,17,2,0,70.59,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
+['2022-07-24'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321281,Austria,1,27,22,2,0,122.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,39,0,0,39
+['2022-07-09'],Central Europe Cup,1321307,Austria,1,9,10,1,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+['2022-07-09'],Central Europe Cup,1321308,Austria,1,39,25,5,1,156.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,73,0,0,73
+['2022-07-08'],Central Europe Cup,1321305,Austria,4,8,11,0,0,72.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8

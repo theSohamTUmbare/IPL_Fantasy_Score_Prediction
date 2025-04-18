@@ -1,0 +1,16 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2010-04-18'],Indian Premier League,419159,Chennai Super Kings,11,0,0,0,0,0.0,"[1, 7]",2.0,12,5,0,24,2,2,0,0,0,0,1,12.0,1,0,0,0,0,0,1,8,9
+['2010-04-10'],Indian Premier League,419147,Chennai Super Kings,11,0,0,0,0,0.0,[15],1.0,6,3,0,12,1,1,0,0,0,0,0,12.0,1,0,0,0,0,0,3,8,11
+['2010-04-06'],Indian Premier League,419142,Chennai Super Kings,10,0,0,0,0,0.0,"[1, 3, 11]",3.0,18,6,0,20,2,0,1,0,0,0,1,6.67,0,0,0,0,0,0,33,0,33
+['2010-04-03'],Indian Premier League,419137,Chennai Super Kings,11,0,0,0,0,0.0,"[3, 5, 14, 20]",4.0,24,7,0,45,5,2,0,0,0,0,2,11.25,0,0,0,0,0,0,3,0,3
+['2010-03-23'],Indian Premier League,419123,Chennai Super Kings,11,0,0,0,0,0.0,"[2, 4, 6, 9]",4.0,24,13,0,19,2,0,0,0,0,0,1,4.75,0,0,0,0,0,0,19,0,19
+['2010-03-14'],Indian Premier League,419110,Chennai Super Kings,11,3,4,0,0,75.0,"[2, 20]",1.833,11,0,0,39,4,3,0,0,0,2,0,21.28,0,0,0,0,0,3,0,0,3
+['2009-12-12'],Sri Lanka in India T20I Series,430885,India,11,0,0,0,0,0.0,"[3, 10]",2.0,12,5,0,21,2,1,0,0,0,0,1,10.5,1,0,0,0,0,0,3,8,11
+['2009-05-18'],Indian Premier League,392231,Chennai Super Kings,11,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,9,0,29,5,1,0,0,0,0,0,9.67,0,0,0,0,0,0,9,0,9
+['2009-05-16'],Indian Premier League,392227,Chennai Super Kings,11,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,9,0,29,5,1,1,0,0,0,0,9.67,0,0,0,0,0,0,34,0,34
+['2009-05-14'],Indian Premier League,392224,Chennai Super Kings,11,0,0,0,0,0.0,"[2, 4]",2.0,12,4,0,21,4,0,1,0,0,0,1,10.5,1,0,0,0,0,0,27,8,35
+['2009-05-09'],Indian Premier League,392217,Chennai Super Kings,8,0,0,0,0,0.0,"[2, 4]",2.0,12,5,0,12,1,0,0,0,0,0,0,6.0,0,0,0,0,0,0,7,0,7
+['2009-05-07'],Indian Premier League,392214,Chennai Super Kings,7,0,0,0,0,0.0,"[2, 4]",2.0,12,6,0,10,1,0,0,0,0,0,0,5.0,0,0,0,0,0,0,10,0,10
+['2009-05-04'],Indian Premier League,392209,Chennai Super Kings,8,0,0,0,0,0.0,"[2, 4]",2.0,12,9,0,9,0,1,1,0,1,0,1,4.5,0,0,0,0,0,0,48,0,48
+['2009-05-02'],Indian Premier League,392206,Chennai Super Kings,11,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,10,0,18,1,1,2,0,1,1,0,6.0,0,0,0,0,0,0,70,0,70
+['2009-04-30'],Indian Premier League,392202,Chennai Super Kings,8,0,0,0,0,0.0,"[1, 3]",2.0,12,7,0,8,1,0,0,0,0,0,1,4.0,0,0,0,0,0,0,13,0,13

@@ -1,0 +1,11 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-05-11'],Mongolia tour of Japan,1431124,Japan,9,2,1,0,0,200.0,"[1, 11]",2.0,12,9,0,6,0,0,1,0,0,0,2,3.0,0,0,0,0,0,2,40,0,42
+['2024-05-11'],Mongolia tour of Japan,1431125,Japan,1,0,2,0,0,0.0,"[2, 13, 20]",3.0,18,14,0,11,2,0,2,0,2,0,1,3.67,0,0,0,0,0,-2,86,0,84
+"['2024-05-09', '2024-05-10']",Mongolia tour of Japan,1431123,Japan,10,0,0,0,0,0.0,"[1, 9]",2.0,12,10,0,2,0,0,1,1,0,0,0,1.0,1,0,0,0,0,0,49,8,57
+['2024-05-08'],Mongolia tour of Japan,1431121,Japan,9,10,4,2,0,250.0,"[1, 3, 7, 9]",3.333,20,17,0,7,0,0,5,0,2,0,3,2.1,0,0,0,0,0,18,176,0,194
+['2024-05-07'],Mongolia tour of Japan,1431120,Japan,8,0,0,0,0,0.0,"[4, 9]",2.0,12,9,0,4,0,0,2,1,1,0,2,2.0,0,0,0,0,0,0,81,0,81
+['2024-02-16'],East Asia Cup,1418544,Japan,5,0,2,0,0,0.0,"[10, 12, 19]",3.0,18,6,0,19,1,0,0,0,0,0,1,6.33,1,0,0,1,0,-2,8,14,20
+['2024-02-15'],East Asia Cup,1418541,Japan,6,0,0,0,0,0.0,"[2, 5, 15]",3.0,18,12,0,16,2,0,3,0,2,1,3,5.33,0,0,0,0,0,0,111,0,111
+['2024-02-15'],East Asia Cup,1418542,Japan,9,21,13,2,1,161.54,[11],1.0,6,1,0,11,0,1,0,0,0,0,1,11.0,0,0,0,0,4,39,1,0,40
+['2024-02-14'],East Asia Cup,1418540,Japan,8,0,0,0,0,0.0,"[9, 17]",1.167,7,1,0,18,0,2,0,0,0,0,1,15.42,0,0,0,0,0,0,1,0,1
+['2024-02-04'],Asian Cricket Council Men's Challenger Cup,1418187,Japan,9,13,9,2,0,144.44,"[7, 14]",2.0,12,2,0,18,0,1,0,0,0,1,1,9.0,1,0,1,0,0,21,2,20,43

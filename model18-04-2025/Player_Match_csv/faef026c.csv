@@ -1,0 +1,26 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-06-16'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436491,Luxembourg,3,57,48,9,0,118.75,"[14, 16, 18, 20]",3.833,23,10,0,20,2,0,2,2,0,0,0,5.22,1,0,0,0,0,101,80,8,189
+['2024-06-15'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436487,Luxembourg,3,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,-2,0,16,14
+['2024-06-13'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436484,Luxembourg,3,36,42,5,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,60,0,0,60
+['2024-06-12'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436481,Luxembourg,3,1,1,0,0,100.0,[14],1.0,6,1,0,6,0,0,0,0,0,0,0,6.0,0,0,0,0,0,1,1,0,2
+['2024-06-09'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436471,Luxembourg,3,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2023-10-15'],Luxembourg tour of Gibraltar,1400055,Luxembourg,2,64,45,2,3,142.22,[17],1.0,6,2,0,9,0,1,1,0,0,0,0,9.0,0,0,0,0,2,100,27,0,127
+['2023-10-15'],Luxembourg tour of Gibraltar,1400056,Luxembourg,7,8,4,0,1,200.0,"[10, 12, 14]",3.0,18,6,0,18,0,1,1,1,0,0,0,6.0,0,0,0,0,0,14,41,0,55
+['2023-07-16'],Valletta Cup,1384599,Luxembourg,3,14,22,0,0,63.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,12,0,0,12
+['2023-07-15'],Valletta Cup,1384595,Luxembourg,3,32,30,3,0,106.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,48,0,8,56
+['2023-07-15'],Valletta Cup,1384597,Luxembourg,3,8,10,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+['2023-07-14'],Valletta Cup,1384592,Luxembourg,2,49,45,4,1,108.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,75,0,0,75
+['2023-07-13'],Valletta Cup,1384589,Luxembourg,2,40,34,5,1,117.65,[9],1.0,6,1,0,12,0,1,0,0,0,0,2,12.0,0,0,0,0,0,70,1,0,71
+['2023-07-12'],Mdina Cup,1384586,Luxembourg,2,47,39,3,1,120.51,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,69,0,0,69
+['2023-07-12'],Mdina Cup,1384587,Luxembourg,2,1,9,0,0,11.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2023-07-11'],Mdina Cup,1384584,Luxembourg,3,10,19,0,0,52.63,"[15, 17]",2.0,12,3,0,24,1,2,1,0,0,0,1,12.0,0,0,0,0,-4,6,24,0,30
+['2023-07-11'],Mdina Cup,1384585,Luxembourg,3,8,12,0,1,66.67,"[11, 13]",2.0,12,3,0,26,2,2,0,0,0,0,0,13.0,0,0,0,0,-2,12,-3,0,9
+['2022-07-31'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321303,Luxembourg,4,23,26,5,0,88.46,"[6, 8, 13, 18]",4.0,24,11,0,22,1,0,1,1,0,1,0,5.5,0,0,0,0,0,43,48,0,91
+['2022-07-30'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321299,Luxembourg,4,9,12,0,0,75.0,"[4, 6, 8, 14]",4.0,24,12,0,21,2,0,0,0,0,0,3,5.25,0,0,0,1,0,9,16,6,31
+['2022-07-28'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321294,Luxembourg,4,45,37,4,1,121.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,71,0,14,85
+['2022-07-25'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321288,Luxembourg,4,47,38,6,1,123.68,"[8, 10]",2.0,12,1,0,18,1,0,0,0,0,0,0,9.0,0,0,0,0,0,81,1,0,82
+['2022-07-24'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321281,Luxembourg,4,0,1,0,0,0.0,"[14, 16]",2.0,12,5,0,12,1,0,1,0,1,0,0,6.0,0,0,0,0,0,0,40,0,40
+['2022-07-10'],Central Europe Cup,1321309,Luxembourg,6,14,10,0,1,140.0,"[10, 12, 15, 17]",4.0,24,4,0,50,3,2,0,0,0,0,2,12.5,0,0,0,0,2,22,-2,0,20
+['2022-07-09'],Central Europe Cup,1321308,Luxembourg,10,0,0,0,0,0.0,"[8, 10]",2.0,12,4,0,12,1,0,0,0,0,0,0,6.0,0,0,0,0,0,0,6,0,6
+['2022-07-08'],Central Europe Cup,1321305,Luxembourg,4,28,30,2,0,93.33,"[14, 16]",2.0,12,6,0,14,0,1,2,1,0,0,0,7.0,0,0,0,0,0,40,66,0,106
+['2022-07-08'],Central Europe Cup,1321306,Luxembourg,4,27,32,1,0,84.38,"[6, 8]",2.0,12,6,0,10,1,0,0,0,0,0,0,5.0,0,0,0,0,0,35,10,0,45

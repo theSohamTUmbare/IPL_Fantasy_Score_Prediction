@@ -1,0 +1,17 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-07-05'],Twenty20 Quadrangular (in Kenya),1441145,Rwanda,3,28,33,3,0,84.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,44,0,0,44
+['2024-07-03'],Twenty20 Quadrangular (in Kenya),1441140,Rwanda,3,29,25,3,0,116.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,45,0,0,45
+['2024-06-29'],Twenty20 Quadrangular (in Kenya),1441135,Rwanda,3,11,17,1,0,64.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,13,0,8,21
+['2024-06-28'],Twenty20 Quadrangular (in Kenya),1441133,Rwanda,3,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2023-11-29'],ICC Men's T20 World Cup Africa Region Qualifier,1407105,Rwanda,3,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2023-11-27'],ICC Men's T20 World Cup Africa Region Qualifier,1407101,Rwanda,3,4,4,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+['2023-11-25'],ICC Men's T20 World Cup Africa Region Qualifier,1407097,Rwanda,2,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2023-11-24'],ICC Men's T20 World Cup Africa Region Qualifier,1407094,Rwanda,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2023-11-22'],ICC Men's T20 World Cup Africa Region Qualifier,1407089,Rwanda,3,7,11,0,0,63.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,5,0,0,5
+['2023-10-15'],West Africa Trophy,1400991,Rwanda,5,13,15,1,0,86.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,17,0,6,23
+['2023-10-14'],West Africa Trophy,1400988,Rwanda,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2023-10-12'],West Africa Trophy,1400986,Rwanda,3,14,6,1,1,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
+['2023-10-11'],West Africa Trophy,1400985,Rwanda,3,12,18,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,10,0,0,10
+['2023-10-10'],West Africa Trophy,1400983,Rwanda,3,38,30,1,3,126.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,64,0,0,64
+['2023-10-06'],West Africa Trophy,1400977,Rwanda,3,59,44,6,3,134.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,111,0,0,111
+['2023-10-05'],West Africa Trophy,1400975,Rwanda,3,46,48,2,1,95.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,64,0,12,76

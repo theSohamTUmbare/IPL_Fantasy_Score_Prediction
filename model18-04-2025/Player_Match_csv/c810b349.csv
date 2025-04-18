@@ -1,0 +1,11 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-06-23'],Jersey tour of Guernsey,1440131,Jersey,4,22,20,2,0,110.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30
+['2024-06-22'],Jersey tour of Guernsey,1440129,Jersey,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2024-06-22'],Jersey tour of Guernsey,1440130,Jersey,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2024-06-16'],Jersey tour of Denmark,1438074,Jersey,6,7,12,0,0,58.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,3,0,0,3
+['2023-07-28'],ICC Men's T20 World Cup Europe Region Qualifier,1383087,Jersey,1,17,15,1,0,113.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
+['2023-07-25'],ICC Men's T20 World Cup Europe Region Qualifier,1383082,Jersey,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
+['2023-07-24'],ICC Men's T20 World Cup Europe Region Qualifier,1383079,Jersey,7,5,12,0,0,41.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-1,0,0,-1
+['2023-07-23'],ICC Men's T20 World Cup Europe Region Qualifier,1383075,Jersey,7,14,12,1,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
+['2023-07-21'],ICC Men's T20 World Cup Europe Region Qualifier,1383073,Jersey,6,2,8,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
+['2023-07-20'],ICC Men's T20 World Cup Europe Region Qualifier,1383068,Jersey,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8

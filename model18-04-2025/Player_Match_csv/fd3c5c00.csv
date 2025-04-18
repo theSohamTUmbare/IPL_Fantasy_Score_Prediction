@@ -1,0 +1,10 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-11-18'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343745,Lesotho,3,9,7,1,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+"['2021-10-20', '2021-10-21']",ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283036,Lesotho,8,4,5,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16
+['2021-10-19'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283030,Lesotho,8,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2021-10-17'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283025,Lesotho,7,19,15,2,1,126.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,33,0,8,41
+['2018-11-02'],ICC World Twenty20 Africa Region Qualifier C,1163064,Lesotho,2,5,11,0,0,45.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-1,0,0,-1
+['2018-11-01'],ICC World Twenty20 Africa Region Qualifier C,1163060,Lesotho,7,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2018-11-01'],ICC World Twenty20 Africa Region Qualifier C,1163062,Lesotho,6,24,19,2,0,126.32,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32
+['2018-10-30'],ICC World Twenty20 Africa Region Qualifier C,1163057,Lesotho,3,21,26,0,2,80.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33
+['2018-10-29'],ICC World Twenty20 Africa Region Qualifier C,1163051,Lesotho,2,19,20,1,1,95.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29

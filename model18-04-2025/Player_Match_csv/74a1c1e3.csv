@@ -1,0 +1,8 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2018-01-03'],Big Bash League,1114871,Sydney Sixers,11,0,0,0,0,0.0,"[5, 7]",2.0,12,6,0,13,1,1,0,0,0,0,0,6.5,0,0,0,0,0,0,8,0,8
+['2018-01-01'],Big Bash League,1114869,Sydney Sixers,11,0,0,0,0,0.0,"[6, 8, 14, 16]",4.0,24,7,0,32,1,2,0,0,0,0,0,8.0,0,0,0,0,0,0,7,0,7
+['2017-12-28'],Big Bash League,1114864,Sydney Sixers,11,0,0,0,0,0.0,"[4, 9, 11, 14]",4.0,24,7,0,31,3,1,0,0,0,0,0,7.75,0,0,0,0,0,0,7,0,7
+['2017-01-03'],Big Bash League,1023609,Sydney Sixers,10,0,0,0,0,0.0,"[4, 6, 14, 16]",4.0,24,8,0,35,4,1,0,0,0,0,0,8.75,0,0,0,0,0,0,8,0,8
+['2016-12-31'],Big Bash League,1023601,Sydney Sixers,10,3,5,0,0,60.0,"[7, 9, 11, 13]",4.0,24,8,0,22,0,1,1,0,1,0,0,5.5,1,0,0,0,0,3,45,8,56
+['2016-12-27'],Big Bash League,1023593,Sydney Sixers,11,0,0,0,0,0.0,"[5, 13]",2.0,12,6,0,10,1,0,2,0,0,0,0,5.0,0,0,0,0,0,0,60,0,60
+['2016-01-02'],Big Bash League,897727,Sydney Sixers,11,0,0,0,0,0.0,"[6, 8]",2.0,12,5,0,15,1,1,0,0,0,0,0,7.5,1,0,0,0,0,0,5,8,13

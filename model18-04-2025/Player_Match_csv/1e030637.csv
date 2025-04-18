@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2025-04-07'],Indian Premier League,1473458,Mumbai Indians,12,0,0,0,0,0.0,[9],1.0,6,1,0,10,0,1,1,0,0,0,0,10.0,0,0,0,0,0,0,26,0,26
+['2025-04-04'],Indian Premier League,1473453,Mumbai Indians,8,0,0,0,0,0.0,"[7, 10, 13, 17]",4.0,24,8,0,31,1,2,1,0,0,0,1,7.75,1,0,0,0,0,0,33,8,41
+['2025-03-31'],Indian Premier League,1473449,Mumbai Indians,5,0,0,0,0,0.0,"[8, 15]",2.0,12,4,0,21,1,2,1,0,0,0,0,10.5,0,0,0,0,0,0,27,0,27
+['2025-03-23'],Indian Premier League,1473440,Mumbai Indians,12,0,0,0,0,0.0,"[8, 10, 12, 18]",4.0,24,9,0,32,0,3,3,0,0,0,0,8.0,0,0,0,0,0,0,88,0,88

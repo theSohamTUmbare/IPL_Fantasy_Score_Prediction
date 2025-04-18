@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Antigua Hawksbills,BR Dunk,272d796e,1,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+Antigua Hawksbills,DJ Hussey,fd835ab3,2,13,14,0,1,92.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
+Antigua Hawksbills,MN Samuels,f846de6a,3,106,52,10,8,203.85,"[12, 14, 16, 18]",4.0,24,6,0,33,0,2,0,0,0,0,1,8.25,1,0,0,0,6,216,6,8,230
+Antigua Hawksbills,DP Hyatt,2e2fe3e8,4,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Antigua Hawksbills,O Peters,df60a57a,5,67,45,4,5,148.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,123,0,8,131
+Antigua Hawksbills,DC Thomas,08a4f9ad,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Antigua Hawksbills,CR Brathwaite,e342e5fb,7,0,0,0,0,0.0,"[3, 6, 9, 17]",4.0,24,7,0,37,3,2,1,0,0,0,2,9.25,0,0,0,0,0,0,32,0,32
+Antigua Hawksbills,SS Cottrell,a1d053dd,8,0,0,0,0,0.0,"[1, 5, 11, 19]",4.0,24,11,0,28,3,1,1,0,0,1,0,7.0,1,0,0,0,0,0,38,8,46
+Antigua Hawksbills,ML Cummins,92aa28fe,9,0,0,0,0,0.0,[7],1.0,6,3,0,23,0,2,0,0,0,5,0,23.0,1,0,0,0,0,0,3,8,11
+Antigua Hawksbills,GC Tonge,7d21eb9b,10,0,0,0,0,0.0,"[2, 4, 13, 15]",4.0,24,7,0,46,6,2,2,0,0,0,1,11.5,0,0,0,0,0,0,53,0,53
+Antigua Hawksbills,GB Hogg,f708a0bc,11,0,0,0,0,0.0,"[8, 10, 20]",3.0,18,6,0,39,2,4,1,0,1,0,0,13.0,0,0,0,0,0,0,33,0,33
+Guyana Amazon Warriors,LMP Simmons,89f64c19,1,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Guyana Amazon Warriors,MJ Guptill,2be41edb,2,90,48,7,6,187.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,172,0,0,172
+Guyana Amazon Warriors,Mohammad Hafeez,9ab63e7b,3,8,9,1,0,88.89,[2],1.0,6,2,0,4,0,0,0,0,0,0,0,4.0,0,0,0,0,0,12,2,0,14
+Guyana Amazon Warriors,D Ramdin,d1523761,4,51,32,5,2,159.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,95,0,8,103
+Guyana Amazon Warriors,CD Barnwell,0d51e658,5,37,20,1,4,185.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,75,0,0,75
+Guyana Amazon Warriors,JDS Neesham,9219eff0,6,9,5,0,1,180.0,[16],1.0,6,2,0,17,1,2,0,0,0,0,0,17.0,1,0,0,0,0,15,2,8,25
+Guyana Amazon Warriors,ND Stewart,16edfe47,7,1,1,0,0,100.0,"[5, 7, 13]",3.0,18,9,0,25,2,2,1,0,1,0,0,8.33,0,0,0,0,0,1,42,0,43
+Guyana Amazon Warriors,V Permaul,78dfe704,8,0,0,0,0,0.0,"[6, 8, 12]",3.0,18,6,0,34,4,2,1,0,0,0,0,11.33,0,0,0,0,0,0,27,0,27
+Guyana Amazon Warriors,SP Narine,9d430b40,9,0,0,0,0,0.0,"[9, 11, 14, 18]",4.0,24,13,0,16,0,1,0,0,0,0,0,4.0,0,0,0,0,0,0,19,0,19
+Guyana Amazon Warriors,K Santokie,531f0278,10,0,0,0,0,0.0,"[1, 3, 15, 20]",4.0,24,8,0,45,1,5,1,0,0,0,0,11.25,0,0,0,0,0,0,29,0,29
+Guyana Amazon Warriors,RR Beaton,684a56df,11,0,0,0,0,0.0,"[4, 10, 17, 19]",4.0,24,5,0,48,6,2,0,0,0,0,0,12.0,0,0,0,0,0,0,1,0,1

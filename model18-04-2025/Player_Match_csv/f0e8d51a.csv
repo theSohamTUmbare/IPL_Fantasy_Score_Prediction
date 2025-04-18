@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2020-02-25'],ACC Western Region T20,1215160,Saudi Arabia,11,0,0,0,0,0.0,"[2, 8, 10, 12]",4.0,24,11,0,23,0,1,1,0,0,0,1,5.75,0,0,0,0,0,0,40,0,40
+['2016-09-28'],Kenya T20 Quadrangular Series,1058157,Saudi Arabia,6,54,18,1,7,300.0,"[16, 18]",2.0,12,4,0,17,1,1,1,0,0,0,0,8.5,0,0,0,0,6,114,29,0,143
+['2015-01-29'],ACC Twenty20 Cup,811129,Saudi Arabia,8,6,4,1,0,150.0,"[12, 14, 16, 20]",4.0,24,10,0,30,0,3,2,1,0,0,0,7.5,0,0,1,0,0,10,68,12,90
+['2015-01-27'],ACC Twenty20 Cup,811125,Saudi Arabia,8,0,2,0,0,0.0,"[14, 16, 18, 20]",4.0,24,14,0,19,1,1,5,1,0,0,0,4.75,0,0,0,0,0,0,165,0,165
+['2015-01-26'],ACC Twenty20 Cup,811117,Saudi Arabia,10,1,1,0,0,100.0,"[9, 11, 16, 18]",4.0,24,9,0,55,3,5,6,0,1,0,5,13.75,1,0,0,0,0,1,173,8,182

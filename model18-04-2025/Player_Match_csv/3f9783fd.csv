@@ -1,0 +1,9 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-05-12'],Mongolia tour of Japan,1431126,Mongolia,6,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+['2024-05-11'],Mongolia tour of Japan,1431124,Mongolia,6,7,17,0,0,41.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,1,0,0,1
+['2024-05-11'],Mongolia tour of Japan,1431125,Mongolia,6,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,3,0,6,9
+"['2024-05-09', '2024-05-10']",Mongolia tour of Japan,1431123,Mongolia,4,7,13,0,0,53.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,3,0,0,3
+['2024-05-08'],Mongolia tour of Japan,1431121,Mongolia,3,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,1,0,28,29
+['2024-05-08'],Mongolia tour of Japan,1431122,Mongolia,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2024-05-07'],Mongolia tour of Japan,1431120,Mongolia,3,1,7,0,0,14.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2023-09-27'],Asian Games Men's Cricket Competition,1399104,Mongolia,3,3,11,0,0,27.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,-6,-3,0,16,13

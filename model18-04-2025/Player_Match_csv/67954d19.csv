@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-08-30'],Vitality Blast,1167246,Durham,7,1,5,0,0,20.0,"[10, 12]",2.0,12,2,0,11,0,0,1,0,0,0,0,5.5,1,0,0,0,0,1,31,8,40
+['2019-08-27'],Vitality Blast,1167239,Durham,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2019-08-23'],Vitality Blast,1167224,Durham,5,6,6,1,0,100.0,[7],1.0,6,0,0,9,1,0,0,0,0,0,0,9.0,0,0,0,0,0,10,0,0,10
+['2017-08-05'],NatWest T20 Blast,1068390,Durham,5,6,5,1,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+['2017-07-23'],NatWest T20 Blast,1068346,Durham,3,11,9,0,0,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,11,0,16,27

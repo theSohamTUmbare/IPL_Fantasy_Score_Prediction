@@ -1,0 +1,8 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2021-11-10'],ICC Men's T20 World Cup Americas Region Qualifier,1286674,United States of America,8,31,15,3,2,206.67,[13],1.0,6,3,0,7,1,0,0,0,0,0,0,7.0,1,0,0,0,6,65,3,8,76
+['2021-11-08'],ICC Men's T20 World Cup Americas Region Qualifier,1286673,United States of America,8,12,10,1,0,120.0,[9],1.0,6,0,0,16,3,0,0,0,0,0,0,16.0,0,0,0,0,0,16,0,0,16
+['2021-11-07'],ICC Men's T20 World Cup Americas Region Qualifier,1286667,United States of America,7,0,0,0,0,0.0,"[6, 8, 10]",3.0,18,13,0,13,1,1,2,1,0,0,0,4.33,1,0,0,0,0,0,77,8,85
+['2019-08-25'],ICC Men's T20 World Cup Americas Region Final,1197406,United States of America,11,0,0,0,0,0.0,"[4, 6, 8, 16]",4.0,24,14,0,21,2,1,3,0,0,0,0,5.25,0,0,0,0,0,0,97,0,97
+['2019-08-24'],ICC Men's T20 World Cup Americas Region Final,1197404,United States of America,11,0,0,0,0,0.0,"[4, 6, 8, 10]",4.0,24,14,0,20,2,0,2,0,1,0,1,5.0,0,0,0,0,0,0,76,0,76
+['2019-08-22'],ICC Men's T20 World Cup Americas Region Final,1197403,United States of America,11,4,3,0,0,133.33,"[2, 4, 6, 17]",4.0,24,20,2,5,0,0,3,0,1,0,0,1.25,1,0,0,0,0,4,137,8,149
+['2019-08-21'],ICC Men's T20 World Cup Americas Region Final,1197401,United States of America,11,0,0,0,0,0.0,"[2, 4, 9, 11]",4.0,24,10,0,24,0,2,0,0,0,0,0,6.0,0,0,0,0,0,0,12,0,12

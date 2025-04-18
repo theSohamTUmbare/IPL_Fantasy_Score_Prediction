@@ -1,0 +1,20 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2025-04-15'],Indian Premier League,1473468,Kolkata Knight Riders,4,37,28,5,1,132.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,69,0,0,69
+['2025-04-08'],Indian Premier League,1473456,Kolkata Knight Riders,6,5,4,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
+['2025-04-03'],Indian Premier League,1473452,Kolkata Knight Riders,4,50,32,5,2,156.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,94,0,0,94
+['2025-03-31'],Indian Premier League,1473449,Kolkata Knight Riders,4,26,16,3,1,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,52,0,0,52
+['2025-03-26'],Indian Premier League,1473443,Kolkata Knight Riders,4,22,17,2,0,129.41,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,30,0,8,38
+['2025-03-22'],Indian Premier League,1473438,Kolkata Knight Riders,5,30,22,2,1,136.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,50,0,0,50
+['2024-05-05'],Indian Premier League,1426292,Kolkata Knight Riders,3,32,26,3,1,123.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,54,0,0,54
+['2024-05-03'],Indian Premier League,1426289,Kolkata Knight Riders,3,13,6,0,2,216.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
+['2024-04-29'],Indian Premier League,1426285,Kolkata Knight Riders,12,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2024-04-26'],Indian Premier League,1426280,Kolkata Knight Riders,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2024-04-21'],Indian Premier League,1426274,Kolkata Knight Riders,3,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,3,0,16,19
+['2024-04-16'],Indian Premier League,1426269,Kolkata Knight Riders,3,30,18,5,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,58,0,8,66
+['2024-04-14'],Indian Premier League,1426266,Kolkata Knight Riders,3,7,6,0,1,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
+['2024-04-08'],Indian Premier League,1426260,Kolkata Knight Riders,3,24,18,3,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,44,0,0,44
+['2024-04-03'],Indian Premier League,1422134,Kolkata Knight Riders,3,54,27,5,3,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,106,0,0,106
+['2024-03-29'],Indian Premier League,1422128,Kolkata Knight Riders,12,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2023-10-21'],Syed Mushtaq Ali Trophy,1383488,Mumbai,2,16,16,0,2,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
+['2023-10-17'],Syed Mushtaq Ali Trophy,1383452,Mumbai,2,32,31,3,1,103.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,54,0,0,54
+['2023-10-16'],Syed Mushtaq Ali Trophy,1383434,Mumbai,2,26,24,2,0,108.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,38,0,0,38

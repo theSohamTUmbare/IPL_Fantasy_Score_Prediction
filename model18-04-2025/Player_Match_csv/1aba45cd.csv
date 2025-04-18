@@ -1,0 +1,10 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-12-05'],Pakistan tour of Zimbabwe,1444654,Pakistan,1,4,7,1,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,8,0,14,22
+['2024-11-18'],Pakistan tour of Australia,1426554,Pakistan,1,9,7,1,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+['2024-11-16'],Pakistan tour of Australia,1426553,Pakistan,3,5,10,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,-4,1,0,16,17
+['2024-11-14'],Pakistan tour of Australia,1426552,Pakistan,1,8,4,2,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24
+['2024-01-21'],Pakistan tour of New Zealand,1388220,Pakistan,7,19,14,1,1,135.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,31,0,0,31
+['2024-01-19'],Pakistan tour of New Zealand,1388219,Pakistan,5,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2018-10-31'],New Zealand tour of United Arab Emirates,1157375,Pakistan,2,1,8,0,0,12.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2018-10-28'],Australia tour of United Arab Emirates,1157374,Pakistan,2,39,38,2,3,102.63,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,69,0,0,69
+['2018-07-08'],Zimbabwe Twenty20 Tri-Series,1142919,Pakistan,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16

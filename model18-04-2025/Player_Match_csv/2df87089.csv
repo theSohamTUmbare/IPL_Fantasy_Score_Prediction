@@ -1,0 +1,14 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-11-18'],Syed Mushtaq Ali Trophy,1205720,Meghalaya,1,2,7,0,0,28.57,[8],1.0,6,0,0,27,0,4,0,0,0,0,1,27.0,0,0,0,0,0,2,0,0,2
+['2019-11-17'],Syed Mushtaq Ali Trophy,1205836,Meghalaya,1,36,31,4,1,116.13,"[4, 6, 12, 14]",4.0,24,9,0,29,4,0,1,0,1,0,1,7.25,0,0,0,0,0,62,42,0,104
+['2019-11-15'],Syed Mushtaq Ali Trophy,1205818,Meghalaya,1,0,4,0,0,0.0,"[1, 3, 14, 17]",4.0,24,4,0,27,2,0,0,0,0,0,0,6.75,1,0,0,0,0,-2,6,8,12
+['2019-11-14'],Syed Mushtaq Ali Trophy,1205801,Meghalaya,1,8,9,1,0,88.89,"[4, 8]",2.0,12,1,0,29,2,2,0,0,0,0,1,14.5,0,0,0,0,0,12,-5,0,7
+['2019-11-12'],Syed Mushtaq Ali Trophy,1205774,Meghalaya,1,25,37,4,0,67.57,"[1, 4, 6, 10]",4.0,24,13,0,14,1,0,2,0,1,0,0,3.5,0,0,0,0,-2,43,77,0,120
+['2019-11-11'],Syed Mushtaq Ali Trophy,1205756,Meghalaya,1,0,5,0,0,0.0,"[5, 7, 10, 12]",4.0,24,4,0,32,3,0,1,0,0,0,0,8.0,1,0,0,0,0,-2,29,8,35
+['2019-11-09'],Syed Mushtaq Ali Trophy,1205739,Meghalaya,1,5,13,0,0,38.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-1,0,0,-1
+['2019-03-02'],Syed Mushtaq Ali Trophy,1157197,Meghalaya,1,10,13,2,0,76.92,"[7, 9, 11, 13]",4.0,24,4,0,26,0,1,0,0,0,0,0,6.5,0,0,0,0,0,18,6,0,24
+['2019-02-28'],Syed Mushtaq Ali Trophy,1157179,Meghalaya,1,20,13,5,0,153.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,44,0,0,44
+['2019-02-27'],Syed Mushtaq Ali Trophy,1157163,Meghalaya,1,19,20,4,0,95.0,"[11, 13, 15, 17]",4.0,24,5,0,26,2,0,2,0,0,0,0,6.5,0,0,0,0,0,35,57,0,92
+['2019-02-24'],Syed Mushtaq Ali Trophy,1157129,Meghalaya,1,4,3,1,0,133.33,"[8, 10, 12, 14]",4.0,24,5,0,30,3,0,1,0,0,0,1,7.5,1,0,0,0,0,8,30,8,46
+['2019-02-22'],Syed Mushtaq Ali Trophy,1157112,Meghalaya,1,26,19,2,2,136.84,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,52,0,8,60
+['2019-02-21'],Syed Mushtaq Ali Trophy,1157094,Meghalaya,1,12,16,2,0,75.0,"[10, 12, 14, 16]",4.0,24,3,0,27,2,0,0,0,0,0,0,6.75,0,0,0,0,0,20,5,0,25

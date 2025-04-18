@@ -1,0 +1,8 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2025-04-16'],Indian Premier League,1473469,Delhi Capitals,9,0,0,0,0,0.0,[6],1.0,6,3,0,13,1,1,0,0,0,1,0,13.0,0,0,0,0,0,0,3,0,3
+['2025-04-13'],Indian Premier League,1473466,Delhi Capitals,8,14,8,1,1,175.0,"[5, 7, 13, 15]",4.0,24,10,0,41,3,3,2,1,0,0,2,10.25,0,0,0,0,0,24,66,0,90
+['2025-04-10'],Indian Premier League,1473461,Delhi Capitals,8,0,0,0,0,0.0,"[5, 7, 16, 18]",4.0,24,12,0,18,0,1,2,0,0,0,0,4.5,0,0,0,1,0,0,68,6,74
+['2025-04-05'],Indian Premier League,1473454,Delhi Capitals,8,1,2,0,0,50.0,"[6, 8, 10, 12]",4.0,24,9,0,27,2,1,2,0,0,0,0,6.75,0,0,0,0,0,1,61,0,62
+['2025-03-30'],Indian Premier League,1473447,Delhi Capitals,7,0,0,0,0,0.0,"[7, 18]",2.0,12,2,0,21,1,1,0,0,0,1,1,10.5,1,0,1,0,0,0,0,20,20
+['2025-03-24'],Indian Premier League,1473441,Delhi Capitals,8,39,15,5,2,260.0,"[5, 7]",2.0,12,3,0,35,2,4,1,0,0,0,0,17.5,0,0,0,0,6,81,22,0,103
+['2024-12-11'],Syed Mushtaq Ali Trophy,1446102,Uttar Pradesh,7,7,7,1,0,100.0,"[8, 10]",2.0,12,4,0,22,1,2,0,0,0,0,1,11.0,0,0,0,0,0,11,2,0,13

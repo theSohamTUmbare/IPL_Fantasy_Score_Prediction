@@ -1,0 +1,12 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-12-16'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462909,Mexico,8,4,6,0,0,66.67,"[11, 13, 15, 17]",4.0,24,12,0,30,2,2,3,2,0,0,0,7.5,0,0,0,0,0,4,107,0,111
+['2024-12-15'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462907,Mexico,3,26,32,2,0,81.25,"[15, 17]",2.0,12,3,0,10,0,0,1,1,0,0,0,5.0,0,0,0,0,0,38,40,0,78
+['2024-12-14'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462903,Mexico,3,8,20,0,0,40.0,"[11, 13, 15]",3.0,18,7,0,14,1,0,0,0,0,0,0,4.67,0,0,0,0,-6,2,13,0,15
+['2024-12-12'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462897,Mexico,3,10,26,1,0,38.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,8,0,8,16
+['2024-12-11'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462892,Mexico,4,6,9,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6
+['2024-12-10'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462890,Mexico,4,7,20,0,0,35.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,1,0,0,1
+['2024-12-07'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462880,Mexico,6,32,35,1,0,91.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,0,40,0,12,52
+['2024-10-13'],South American Men's Championships,1453909,Mexico,4,37,30,3,0,123.33,"[5, 7]",2.0,12,4,0,23,2,1,1,0,0,0,2,11.5,1,0,0,0,0,53,25,8,86
+['2024-10-12'],South American Men's Championships,1453903,Mexico,5,2,6,0,0,33.33,"[8, 10, 16, 18]",4.0,24,10,0,38,4,2,4,0,1,0,2,9.5,1,0,0,0,0,2,126,8,136
+['2023-10-19'],South American Men's Championships,1403301,Mexico,4,4,14,1,0,28.57,"[5, 7, 17]",3.0,18,11,0,21,2,1,1,0,0,0,1,7.0,0,0,0,0,-6,2,38,0,40
+['2023-10-18'],South American Men's Championships,1403297,Mexico,7,10,10,0,0,100.0,"[7, 9]",2.0,12,8,0,9,1,0,0,0,0,0,1,4.5,0,0,0,0,0,10,14,0,24

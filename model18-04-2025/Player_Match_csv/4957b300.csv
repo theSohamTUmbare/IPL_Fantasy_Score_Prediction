@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-10-31'],ICC Men's T20 World Cup Qualifier,1199545,Scotland,10,0,0,0,0,0.0,"[2, 6, 14, 18]",4.0,24,9,0,28,4,0,1,0,0,0,0,7.0,0,0,0,0,0,0,36,0,36
+['2019-09-19'],Ireland Tri-Nation T20I Series,1200428,Scotland,10,0,0,0,0,0.0,"[3, 5, 18, 20]",4.0,24,10,0,38,3,2,1,0,0,0,3,9.5,2,0,0,0,0,0,35,16,51
+['2019-09-16'],Ireland Tri-Nation T20I Series,1200425,Scotland,6,0,0,0,0,0.0,"[3, 5, 16, 18]",4.0,24,11,0,33,3,2,2,0,0,0,1,8.25,0,0,0,0,0,0,61,0,61
+['2019-02-17'],Oman Quadrangular T20I Series,1172510,Scotland,8,0,0,0,0,0.0,"[4, 6, 8, 18]",4.0,24,11,0,21,2,0,3,0,2,0,2,5.25,1,0,0,0,0,0,110,8,118

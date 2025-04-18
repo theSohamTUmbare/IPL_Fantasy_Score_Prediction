@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2018-11-01'],ICC World Twenty20 Africa Region Qualifier C,1163059,Mozambique,1,31,15,6,1,206.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,71,0,8,79
+['2018-10-30'],ICC World Twenty20 Africa Region Qualifier C,1163057,Mozambique,1,55,35,8,2,157.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,111,0,8,119
+['2018-10-29'],ICC World Twenty20 Africa Region Qualifier C,1163054,Mozambique,1,17,10,2,1,170.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,35,0,8,43

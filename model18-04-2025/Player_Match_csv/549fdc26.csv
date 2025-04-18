@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2016-01-07'],Syed Mushtaq Ali Trophy,902201,Services,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2016-01-04'],Syed Mushtaq Ali Trophy,902155,Services,11,0,0,0,0,0.0,"[2, 4]",2.0,12,3,0,19,3,0,0,0,0,0,0,9.5,0,0,0,0,0,0,3,0,3
+['2016-01-03'],Syed Mushtaq Ali Trophy,902133,Services,10,6,4,1,0,150.0,"[6, 8, 10, 12]",4.0,24,7,0,32,2,1,0,0,0,0,0,8.0,0,0,0,0,0,10,7,0,17
+['2016-01-02'],Syed Mushtaq Ali Trophy,902107,Services,11,0,0,0,0,0.0,"[4, 6, 8, 10]",4.0,24,13,0,21,2,0,2,0,1,0,1,5.25,0,0,0,0,0,0,75,0,75

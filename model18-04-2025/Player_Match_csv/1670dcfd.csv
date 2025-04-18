@@ -1,0 +1,31 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-02-07'],Bangladesh Premier League,1412297,Sylhet Strikers,9,0,0,0,0,0.0,"[1, 3, 13, 15]",4.0,24,11,0,32,4,1,1,0,0,0,0,8.0,0,0,0,0,0,0,36,0,36
+['2024-02-03'],Bangladesh Premier League,1412293,Sylhet Strikers,9,6,12,1,0,50.0,"[3, 5, 7]",3.0,18,9,0,17,2,0,0,0,0,0,2,5.67,1,0,0,0,-4,6,13,8,27
+['2024-02-02'],Bangladesh Premier League,1412290,Sylhet Strikers,10,6,2,0,1,300.0,"[3, 10, 12, 14]",4.0,24,13,0,19,1,1,1,1,0,0,0,4.75,0,0,0,1,0,12,52,6,70
+['2024-01-30'],Bangladesh Premier League,1412289,Sylhet Strikers,9,1,1,0,0,100.0,"[2, 4, 8, 10]",4.0,24,9,0,36,5,1,1,1,0,0,0,9.0,2,0,0,0,0,1,42,16,59
+['2023-01-14'],Bangladesh Premier League,1351062,Comilla Victorians,9,1,1,0,0,100.0,"[6, 8, 16]",3.0,18,5,0,35,4,2,1,0,0,0,0,11.67,0,0,0,0,0,1,26,0,27
+['2022-02-07'],Bangladesh Premier League,1296705,Fortune Barishal,9,0,0,0,0,0.0,"[7, 9, 13, 18]",4.0,24,8,0,29,1,2,3,0,0,0,1,7.25,1,0,0,0,0,0,87,8,95
+['2022-01-25'],Bangladesh Premier League,1296692,Fortune Barishal,10,0,1,0,0,0.0,"[2, 4, 8]",3.0,18,7,0,31,5,1,1,0,0,0,0,10.33,0,0,0,0,0,-2,30,0,28
+['2022-01-21'],Bangladesh Premier League,1296685,Fortune Barishal,11,0,0,0,0,0.0,"[1, 3, 10, 12]",4.0,24,12,0,25,1,2,2,0,0,0,0,6.25,2,0,0,0,0,0,64,16,80
+['2020-01-07'],Bangladesh Premier League,1208101,Sylhet Thunder,9,0,0,0,0,0.0,"[2, 4, 6, 8]",4.0,24,9,0,21,0,1,3,1,1,0,1,5.25,0,0,0,0,0,0,108,0,108
+['2020-01-03'],Bangladesh Premier League,1208098,Sylhet Thunder,9,12,7,2,0,171.43,[5],1.0,6,1,0,21,2,2,0,0,0,0,0,21.0,0,0,0,0,0,20,1,0,21
+['2020-01-02'],Bangladesh Premier League,1208096,Sylhet Thunder,8,0,2,0,0,0.0,"[6, 8]",2.0,12,5,0,12,2,0,0,0,0,0,0,6.0,0,0,0,0,0,-2,7,0,5
+['2019-12-30'],Bangladesh Premier League,1208091,Sylhet Thunder,8,8,8,1,0,100.0,"[3, 6, 8, 11]",4.0,24,9,0,45,3,4,0,0,0,0,0,11.25,1,0,0,0,0,12,5,8,25
+['2019-12-28'],Bangladesh Premier League,1208090,Sylhet Thunder,8,0,0,0,0,0.0,"[2, 14, 16]",3.0,18,6,0,31,2,2,0,0,0,0,0,10.33,1,0,0,0,0,0,4,8,12
+['2019-12-17'],Bangladesh Premier League,1208076,Sylhet Thunder,7,11,16,1,0,68.75,"[16, 18]",2.0,12,7,0,18,1,2,0,0,0,0,0,9.0,0,0,0,0,-2,13,7,0,20
+['2019-12-14'],Bangladesh Premier League,1208074,Sylhet Thunder,7,10,12,1,0,83.33,"[1, 3, 5, 17]",4.0,24,9,0,35,3,2,1,0,0,1,0,8.75,0,0,0,0,0,14,34,0,48
+['2019-12-13'],Bangladesh Premier League,1208071,Sylhet Thunder,7,1,3,0,0,33.33,"[1, 3, 5]",3.0,18,12,1,16,2,1,1,0,1,0,0,5.33,0,0,0,0,0,1,61,0,62
+['2019-02-04'],Bangladesh Premier League,1169421,Chittagong Vikings,9,6,7,0,0,85.71,"[2, 8, 14]",3.0,18,4,0,28,3,1,1,0,0,0,0,9.33,1,0,0,0,0,6,29,8,43
+['2019-02-01'],Bangladesh Premier League,1169418,Chittagong Vikings,9,0,0,0,0,0.0,"[11, 13, 15]",3.0,18,7,0,14,1,0,1,0,0,0,0,4.67,1,0,0,0,0,0,38,8,46
+['2019-01-30'],Bangladesh Premier League,1169415,Chittagong Vikings,8,0,0,0,0,0.0,"[4, 6, 9, 18]",4.0,24,6,0,37,3,2,1,0,0,0,0,9.25,2,0,0,0,0,0,31,16,47
+['2019-01-29'],Bangladesh Premier League,1169413,Chittagong Vikings,9,4,13,0,0,30.77,"[2, 4, 8, 12]",4.0,24,12,0,26,1,2,0,0,0,0,0,6.5,0,0,0,0,-6,-2,14,0,12
+['2019-01-26'],Bangladesh Premier League,1169410,Chittagong Vikings,8,0,1,0,0,0.0,"[4, 12, 14, 16]",4.0,24,6,0,44,4,3,0,0,0,0,0,11.0,0,0,0,0,0,0,4,0,4
+['2019-01-23'],Bangladesh Premier League,1169405,Chittagong Vikings,7,0,0,0,0,0.0,"[2, 8]",2.0,12,4,0,16,1,1,0,0,0,0,0,8.0,0,0,0,0,0,0,4,0,4
+['2019-01-21'],Bangladesh Premier League,1169402,Chittagong Vikings,7,4,11,0,0,36.36,"[2, 5, 8, 10]",4.0,24,10,0,27,2,1,0,0,0,0,0,6.75,0,0,0,0,-6,-2,12,0,10
+['2019-01-19'],Bangladesh Premier League,1169400,Chittagong Vikings,8,0,0,0,0,0.0,"[8, 10]",2.0,12,2,0,22,0,2,1,0,1,0,0,11.0,0,0,0,0,0,0,33,0,33
+['2019-01-13'],Bangladesh Premier League,1169392,Chittagong Vikings,8,1,1,0,0,100.0,"[2, 4, 6, 16]",4.0,24,12,0,20,2,0,0,0,0,0,0,5.0,0,0,0,0,0,1,16,0,17
+['2019-01-12'],Bangladesh Premier League,1169389,Chittagong Vikings,8,8,5,0,1,160.0,"[3, 5, 7, 9]",4.0,24,13,0,16,2,0,1,0,0,0,0,4.0,1,0,0,0,0,14,44,8,66
+['2019-01-09'],Bangladesh Premier League,1169385,Chittagong Vikings,8,0,1,0,0,0.0,"[2, 4, 7, 12]",4.0,24,11,0,20,1,1,1,0,0,0,0,5.0,0,0,0,0,0,-2,40,0,38
+['2019-01-05'],Bangladesh Premier League,1169379,Chittagong Vikings,7,10,10,1,0,100.0,"[7, 9, 11, 13]",4.0,24,17,0,10,1,0,2,1,0,0,0,2.5,0,0,0,0,0,14,81,0,95
+['2017-12-03'],Bangladesh Premier League,1121281,Chittagong Vikings,10,3,8,0,0,37.5,"[2, 4, 6]",3.0,18,10,0,26,4,1,0,0,0,0,0,8.67,0,0,0,0,0,3,10,0,13
+['2017-11-29'],Bangladesh Premier League,1121277,Chittagong Vikings,10,2,10,0,0,20.0,"[10, 12]",2.0,12,3,0,9,0,0,1,0,0,0,0,4.5,0,0,0,0,-6,-4,34,0,30

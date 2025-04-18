@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-03-23'],African Games,1424767,Zimbabwe,8,0,0,0,0,0.0,"[1, 3, 13, 15]",4.0,24,15,0,15,2,0,1,0,1,0,0,3.75,0,0,0,0,0,0,54,0,54
+['2024-03-21'],African Games,1424765,Zimbabwe,8,0,0,0,0,0.0,"[3, 5, 11, 15]",4.0,24,14,0,17,2,0,1,1,0,0,0,4.25,0,0,0,0,0,0,53,0,53
+['2024-03-20'],African Games,1424762,Zimbabwe,9,0,0,0,0,0.0,"[1, 7, 9]",3.0,18,6,0,17,1,0,0,0,0,0,0,5.67,0,0,0,0,0,0,10,0,10
+['2024-03-18'],African Games,1424756,Zimbabwe,8,3,4,0,0,75.0,"[1, 3, 11, 18]",4.0,24,14,0,12,0,0,3,0,2,0,0,3.0,0,0,0,0,0,3,115,0,118
+['2024-03-17'],African Games,1424752,Zimbabwe,9,0,0,0,0,0.0,"[1, 5, 16, 18]",4.0,24,9,0,26,2,0,0,0,0,0,0,6.5,0,0,0,0,0,0,11,0,11

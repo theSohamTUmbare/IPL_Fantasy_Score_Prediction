@@ -1,0 +1,7 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-02-22'],ICC Men's T20 World Cup Qualifier A,1299579,Philippines,5,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+['2022-02-21'],ICC Men's T20 World Cup Qualifier A,1299577,Philippines,6,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+['2022-02-19'],ICC Men's T20 World Cup Qualifier A,1299571,Philippines,9,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2018-12-07'],ICC World Twenty20 East Asia-Pacific Region Qualifier B,1166891,Philippines,2,2,5,0,0,40.0,"[10, 12, 14, 16]",4.0,24,10,0,24,3,0,2,1,0,0,0,6.0,0,0,0,0,0,2,70,0,72
+['2018-12-05'],ICC World Twenty20 East Asia-Pacific Region Qualifier B,1166888,Philippines,10,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+['2018-12-03'],ICC World Twenty20 East Asia-Pacific Region Qualifier B,1166885,Philippines,7,2,2,0,0,100.0,[17],1.0,6,2,0,10,2,0,0,0,0,0,0,10.0,1,0,0,0,0,2,2,8,12

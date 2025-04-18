@@ -1,0 +1,10 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2015-07-14'],ICC World Twenty20 Qualifier,875499,Kenya,9,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,7,0,39,5,1,1,0,0,0,0,9.75,0,0,0,0,0,0,32,0,32
+['2015-07-11'],ICC World Twenty20 Qualifier,875473,Kenya,9,0,0,0,0,0.0,"[10, 12, 18]",3.0,18,5,0,21,2,0,1,0,1,0,0,7.0,1,0,0,0,0,0,40,8,48
+['2015-07-10'],ICC World Twenty20 Qualifier,875463,Kenya,7,0,0,0,0,0.0,"[6, 10, 12, 17]",4.0,24,10,0,30,3,1,2,0,1,0,0,7.5,0,0,0,0,0,0,68,0,68
+['2013-04-20'],Twenty20 Quadrangular (in Namibia),592276,Kenya,10,0,0,0,0,0.0,"[9, 11, 13, 17]",4.0,24,13,0,22,2,0,1,0,0,0,1,5.5,0,0,0,0,0,0,42,0,42
+['2013-04-19'],NA,630951,Kenya,11,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,10,0,25,0,2,0,0,0,0,0,6.25,0,0,0,0,0,0,12,0,12
+['2012-03-14'],ICC World Twenty20 Qualifier,546414,Kenya,11,2,14,0,0,14.29,[4],1.0,6,3,0,9,2,0,0,0,0,0,0,9.0,0,0,0,0,-6,-4,3,0,-1
+['2012-02-24'],Ireland in Kenya T20I Series,543885,Kenya,11,0,0,0,0,0.0,"[4, 6, 16, 18]",4.0,24,11,0,23,3,0,0,0,0,0,0,5.75,0,0,0,0,0,0,15,0,15
+['2012-02-23'],Ireland in Kenya T20I Series,543884,Kenya,11,0,0,0,0,0.0,"[3, 5, 7, 15]",4.0,24,14,0,23,2,1,0,0,0,0,2,5.75,0,0,0,0,0,0,18,0,18
+['2012-02-22'],Ireland in Kenya T20I Series,543883,Kenya,11,1,2,0,0,50.0,"[5, 7, 9]",3.0,18,12,0,7,0,0,1,0,0,0,1,2.33,0,0,0,0,0,1,43,0,44

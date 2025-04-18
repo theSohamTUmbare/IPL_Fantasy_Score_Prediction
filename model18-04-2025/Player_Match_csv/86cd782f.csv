@@ -1,0 +1,10 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2013-02-14'],Bangladesh Premier League,599906,Chittagong Kings,7,6,6,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6
+['2013-02-02'],Bangladesh Premier League,599888,Chittagong Kings,8,6,8,0,0,75.0,[20],1.0,6,1,0,11,0,1,0,0,0,0,0,11.0,0,0,0,0,0,6,1,0,7
+['2013-01-24'],Bangladesh Premier League,599875,Chittagong Kings,9,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,4,0,12,16
+['2013-01-19'],Bangladesh Premier League,599867,Chittagong Kings,5,18,17,2,0,105.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26
+['2012-02-27'],Bangladesh Premier League,551073,Dhaka Gladiators,8,10,18,0,0,55.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,6,0,0,6
+['2012-02-24'],Bangladesh Premier League,551067,Dhaka Gladiators,5,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2012-02-19'],Bangladesh Premier League,551061,Dhaka Gladiators,9,8,6,0,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,14,0,8,22
+['2009-08-02'],NA,401076,Bangladesh,9,10,17,1,0,58.82,"[7, 15, 17]",2.833,17,8,0,20,3,0,0,0,0,0,1,7.06,0,0,0,0,-4,10,8,0,18
+['2008-11-05'],NA,350347,Bangladesh,8,6,8,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6

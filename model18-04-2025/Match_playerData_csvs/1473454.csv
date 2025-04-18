@@ -1,0 +1,25 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Chennai Super Kings,R Ravindra,ba5e1069,1,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+Chennai Super Kings,DP Conway,df5a6881,2,13,14,1,0,92.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
+Chennai Super Kings,RD Gaikwad,45a43fe2,3,5,4,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
+Chennai Super Kings,V Shankar,0994d0ae,4,69,53,5,1,130.19,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,105,0,0,105
+Chennai Super Kings,S Dube,a4e37e47,5,18,15,1,1,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
+Chennai Super Kings,RA Jadeja,fe93fd9d,6,2,3,0,0,66.67,"[7, 13]",2.0,12,4,0,19,0,2,1,0,0,0,1,9.5,1,0,0,1,0,2,29,14,45
+Chennai Super Kings,MS Dhoni,4a8a2e3b,7,30,26,1,1,115.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,44,0,14,58
+Chennai Super Kings,M Pathirana,64839cb3,8,0,0,0,0,0.0,"[12, 14, 18, 20]",4.0,24,4,0,31,2,0,1,0,0,0,4,7.75,1,0,0,0,0,0,29,8,37
+Chennai Super Kings,R Ashwin,495d42a5,9,0,0,0,0,0.0,"[6, 8, 10]",3.0,18,4,0,21,2,0,0,0,0,0,0,7.0,1,0,0,0,0,0,6,8,14
+Chennai Super Kings,Noor Ahmad,efc04be7,10,0,0,0,0,0.0,"[9, 11, 15]",3.0,18,2,0,36,3,2,1,0,1,0,0,12.0,0,0,0,0,0,0,31,0,31
+Chennai Super Kings,Mukesh Choudhary,765a4731,11,0,0,0,0,0.0,"[2, 4, 16, 19]",4.0,24,6,0,50,7,2,0,0,0,0,0,12.5,0,0,0,0,0,0,0,0,0
+Chennai Super Kings,KK Ahmed,a2f46292,12,0,0,0,0,0.0,"[1, 3, 5, 17]",4.0,24,9,0,25,1,1,2,0,0,0,0,6.25,0,0,0,0,0,0,61,0,61
+Delhi Capitals,J Fraser-McGurk,9b6e1b3f,1,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+Delhi Capitals,KL Rahul,b17e2f24,2,77,51,6,3,150.98,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,135,0,0,135
+Delhi Capitals,Abishek Porel,ad3b6e95,3,33,20,4,1,165.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,63,0,0,63
+Delhi Capitals,AR Patel,2e171977,4,21,14,2,1,150.0,[17],1.0,6,1,0,5,0,0,0,0,0,0,0,5.0,1,0,0,0,0,35,1,8,44
+Delhi Capitals,Sameer Rizvi,f89d3b11,5,20,15,1,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,32,0,0,32
+Delhi Capitals,T Stubbs,85b3fab2,6,24,12,2,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,44,0,8,52
+Delhi Capitals,Ashutosh Sharma,84d9c311,7,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Delhi Capitals,V Nigam,5ffc0565,8,1,2,0,0,50.0,"[6, 8, 10, 12]",4.0,24,9,0,27,2,1,2,0,0,0,0,6.75,0,0,0,0,0,1,61,0,62
+Delhi Capitals,Mukesh Kumar,2cffab74,9,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,3,0,36,1,2,1,0,0,0,1,9.0,1,0,0,0,0,0,28,8,36
+Delhi Capitals,MA Starc,3fb19989,10,0,0,0,0,0.0,"[1, 3, 7, 19]",4.0,24,11,0,27,2,0,1,0,0,1,6,6.75,0,0,0,0,0,0,38,0,38
+Delhi Capitals,Kuldeep Yadav,8d2c70ad,11,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,4,0,30,2,0,1,1,0,0,0,7.5,0,0,0,0,0,0,37,0,37
+Delhi Capitals,MM Sharma,759ac88f,12,0,0,0,0,0.0,"[5, 14, 16]",3.0,18,3,0,27,2,0,0,0,0,1,3,9.0,0,0,0,0,0,0,3,0,3

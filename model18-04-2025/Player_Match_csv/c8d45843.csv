@@ -1,0 +1,9 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-09-16'],Caribbean Premier League,1369585,Trinbago Knight Riders,10,4,1,1,0,400.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+['2023-09-09'],Caribbean Premier League,1369579,Trinbago Knight Riders,11,0,0,0,0,0.0,"[1, 3, 5, 11]",4.0,24,13,0,27,1,2,1,0,0,0,1,6.75,0,0,0,0,0,0,40,0,40
+['2023-08-26'],Caribbean Premier League,1369566,Trinbago Knight Riders,10,1,4,0,0,25.0,[2],1.0,6,2,0,13,1,1,0,0,0,0,0,13.0,0,0,0,0,0,1,2,0,3
+['2022-09-17'],Caribbean Premier League,1323163,St Kitts and Nevis Patriots,11,2,2,0,0,100.0,"[1, 3, 7]",3.0,18,7,0,30,1,3,0,0,0,0,0,10.0,0,0,0,0,0,2,5,0,7
+['2022-09-14'],Caribbean Premier League,1323160,St Kitts and Nevis Patriots,11,0,0,0,0,0.0,[2],1.0,6,2,0,10,2,0,0,0,0,0,0,10.0,0,0,0,0,0,0,2,0,2
+['2022-09-11'],Caribbean Premier League,1323158,St Kitts and Nevis Patriots,11,2,6,0,0,33.33,[4],1.0,6,0,0,17,0,2,0,0,0,1,0,17.0,1,0,1,0,0,2,0,20,22
+['2022-09-01'],Caribbean Premier League,1323146,St Kitts and Nevis Patriots,10,0,0,0,0,0.0,"[4, 16]",1.167,7,1,0,22,1,2,0,0,0,1,1,18.85,0,0,0,0,0,0,1,0,1
+['2022-08-31'],Caribbean Premier League,1323144,St Kitts and Nevis Patriots,9,9,13,0,0,69.23,"[7, 9, 15]",3.0,18,11,1,22,0,3,1,0,0,0,0,7.33,0,0,0,0,-2,7,48,0,55

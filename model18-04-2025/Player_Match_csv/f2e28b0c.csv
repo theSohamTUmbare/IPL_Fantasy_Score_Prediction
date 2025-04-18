@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-07-19'],Vitality Blast,1410489,Somerset,2,16,10,1,1,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,4,30,0,12,42
+['2024-07-18'],Vitality Blast,1410485,Somerset,2,42,30,7,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,76,0,8,84
+['2024-07-14'],Vitality Blast,1410477,Somerset,2,29,28,4,0,103.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,49,0,0,49
+['2024-07-12'],Vitality Blast,1410471,Somerset,2,40,25,6,2,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,84,0,0,84

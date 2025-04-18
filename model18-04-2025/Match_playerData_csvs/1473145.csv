@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Oman,Aamir Kaleem,7ecb9a14,1,72,50,11,0,144.0,"[6, 8, 16]",3.0,18,7,0,30,6,0,1,0,0,0,0,10.0,0,0,0,0,2,126,30,0,156
+Oman,Jatinder Singh,b80dd12c,2,28,20,5,1,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,60,0,0,60
+Oman,Hammad Mirza,0b7b78c6,3,20,12,2,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,38,0,8,46
+Oman,Mujibur Ali,e88468b7,4,12,11,1,0,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
+Oman,V Shukla,101b1180,5,36,22,2,2,163.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,64,0,0,64
+Oman,Hassnain Shah,7cb931fc,6,0,1,0,0,0.0,"[1, 13]",2.0,12,2,0,27,4,1,0,0,0,0,0,13.5,1,0,0,0,0,-2,-4,8,2
+Oman,Wasim Ali,ea59139a,7,12,4,1,1,300.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
+Oman,Mohammad Nadeem,c5d7b244,8,0,0,0,0,0.0,"[7, 9, 11, 15]",4.0,24,7,0,43,0,4,1,0,0,1,1,10.75,0,0,0,0,0,0,30,0,30
+Oman,Sufyan Mehmood,bf172ae6,9,0,0,0,0,0.0,"[3, 5, 17, 19]",4.0,24,8,0,44,2,4,1,0,1,0,0,11.0,0,0,0,0,0,0,39,0,39
+Oman,Shakeel Ahmed,e29e9c12,10,0,0,0,0,0.0,"[2, 4, 14, 18]",4.0,24,11,0,26,2,1,0,0,0,0,0,6.5,0,0,0,0,0,0,13,0,13
+Oman,S Shrivastava,ac166f77,11,0,0,0,0,0.0,"[10, 12]",2.0,12,3,0,23,1,1,0,0,0,0,5,11.5,0,0,0,0,0,0,-1,0,-1
+United States of America,SR Taylor,a9231c3f,1,6,10,1,0,60.0,"[9, 12, 14]",3.0,18,5,0,25,2,1,1,1,0,0,0,8.33,1,0,0,0,-2,8,38,8,54
+United States of America,AGS Gous,d1305df0,2,28,21,2,2,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,54,0,0,54
+United States of America,SR Mukkamalla,156d0ea2,3,100,47,7,7,212.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,192,0,0,192
+United States of America,MD Patel,25d7f1ac,4,27,22,3,0,122.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,43,0,0,43
+United States of America,Aaron Jones,17aa4f1d,5,25,14,2,2,178.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,55,0,0,55
+United States of America,Milind Kumar,b4296080,6,0,0,0,0,0.0,"[7, 13]",2.0,12,2,0,21,3,0,0,0,0,0,1,10.5,1,0,0,0,0,0,0,8,8
+United States of America,SP Krishnamurthi,3b8e7647,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+United States of America,Harmeet Singh,0bf15e52,8,0,0,0,0,0.0,"[8, 10, 17, 19]",4.0,24,8,0,37,3,2,3,1,0,0,0,9.25,1,0,0,0,0,0,95,8,103
+United States of America,NP Kenjige,f7d267f7,9,0,0,0,0,0.0,"[3, 5, 11, 15]",4.0,24,13,0,19,2,0,1,0,0,0,1,4.75,0,0,0,0,0,0,44,0,44
+United States of America,J Drysdale,23f94c02,10,0,0,0,0,0.0,"[2, 4, 20]",3.0,18,5,0,41,6,2,0,0,0,0,1,13.67,0,0,0,0,0,0,-1,0,-1
+United States of America,Ali Khan,b0eaaac6,11,0,0,0,0,0.0,"[1, 6, 16, 18]",4.0,24,4,0,42,6,0,0,0,0,0,2,10.5,0,0,0,0,0,0,2,0,2

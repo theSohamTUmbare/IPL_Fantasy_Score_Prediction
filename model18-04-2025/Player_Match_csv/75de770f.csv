@@ -1,0 +1,15 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2012-02-14'],Zimbabwe in New Zealand T20I Series,520596,Zimbabwe,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2012-02-11'],Zimbabwe in New Zealand T20I Series,520595,Zimbabwe,4,27,24,3,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,43,0,0,43
+['2011-09-18'],Pakistan in Zimbabwe T20I Series,523736,Zimbabwe,6,37,28,3,1,132.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,1,2,61,0,22,83
+['2011-09-16'],Pakistan in Zimbabwe T20I Series,523735,Zimbabwe,8,6,7,0,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,6,0,6,12
+['2010-10-10'],Zimbabwe in South Africa T20I Series,463142,Zimbabwe,7,11,6,0,1,183.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
+['2010-10-08'],Zimbabwe in South Africa T20I Series,463141,Zimbabwe,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2010-06-13'],India in Zimbabwe T20I Series,452154,Zimbabwe,4,45,39,2,0,115.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,57,0,0,57
+['2010-06-12'],India in Zimbabwe T20I Series,452153,Zimbabwe,4,4,6,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,4,0,20,24
+['2010-05-04'],ICC World Twenty20,412684,Zimbabwe,1,21,14,3,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,33,0,8,41
+['2010-05-03'],ICC World Twenty20,412686,Zimbabwe,2,12,13,0,0,92.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+['2010-02-28'],NA,439139,Zimbabwe,3,0,7,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2008-05-13'],Indian Premier League,336017,Kolkata Knight Riders,5,7,9,0,0,77.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,7,0,8,15
+['2008-05-11'],Indian Premier League,336014,Kolkata Knight Riders,5,9,5,1,0,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+['2008-05-08'],Indian Premier League,336010,Kolkata Knight Riders,5,15,12,2,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23

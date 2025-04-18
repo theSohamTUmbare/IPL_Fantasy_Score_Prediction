@@ -1,0 +1,8 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2009-04-21'],Indian Premier League,392186,Kolkata Knight Riders,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,0,0,6,6
+['2009-04-19'],Indian Premier League,392184,Kolkata Knight Riders,5,11,19,2,0,57.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,15,0,0,15
+['2008-05-25'],Indian Premier League,336035,Kolkata Knight Riders,7,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
+['2008-05-16'],Indian Premier League,336021,Kolkata Knight Riders,2,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2008-05-13'],Indian Premier League,336017,Kolkata Knight Riders,2,13,17,2,0,76.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
+['2008-05-11'],Indian Premier League,336014,Kolkata Knight Riders,2,24,23,3,0,104.35,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,36,0,8,44
+['2008-05-08'],Indian Premier League,336010,Kolkata Knight Riders,1,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2

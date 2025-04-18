@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2011-05-15'],Indian Premier League,501258,Rajasthan Royals,11,0,13,0,0,0.0,"[4, 8]",1.333,8,4,0,15,2,1,1,0,1,0,0,11.25,0,0,0,0,-6,-8,37,0,29
+['2011-05-04'],Indian Premier League,501240,Rajasthan Royals,10,0,0,0,0,0.0,"[1, 11]",2.0,12,4,0,24,2,2,0,0,0,0,0,12.0,0,0,0,0,0,0,0,0,0
+['2011-04-15'],Indian Premier League,501209,Rajasthan Royals,11,0,0,0,0,0.0,"[5, 16]",2.0,12,2,0,23,1,2,0,0,0,0,0,11.5,0,0,0,0,0,0,-2,0,-2
+['2010-04-24'],Indian Premier League,419164,Royal Challengers Bangalore,10,0,0,0,0,0.0,"[10, 12, 14, 17]",4.0,24,14,0,17,0,1,1,0,0,0,1,4.25,0,0,0,0,0,0,45,0,45

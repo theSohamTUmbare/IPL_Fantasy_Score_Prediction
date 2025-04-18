@@ -1,0 +1,10 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-07-12'],Vitality Blast,1410472,Worcestershire,7,33,16,4,1,206.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,65,0,0,65
+['2024-06-21'],Vitality Blast,1410441,Worcestershire,7,8,10,0,0,80.0,"[1, 3, 16]",3.0,18,7,0,24,1,1,2,0,1,0,1,8.0,0,0,0,0,0,8,65,0,73
+['2024-06-16'],Vitality Blast,1410426,Worcestershire,6,7,8,0,0,87.5,"[1, 6, 17, 20]",4.0,24,5,0,40,6,0,0,0,0,0,0,10.0,2,0,0,0,0,7,3,16,26
+['2024-06-14'],Vitality Blast,1410419,Worcestershire,6,27,23,0,2,117.39,"[1, 3, 13, 15]",4.0,24,10,0,16,0,0,0,0,0,0,0,4.0,0,0,0,0,0,43,16,0,59
+['2024-06-09'],Vitality Blast,1410404,Worcestershire,8,4,2,0,0,200.0,"[2, 6, 18, 20]",4.0,24,7,0,39,5,0,3,0,0,2,2,9.75,1,0,0,0,0,4,86,8,98
+['2024-06-07'],Vitality Blast,1410399,Worcestershire,7,11,8,0,1,137.5,"[1, 5, 17, 20]",4.0,24,10,0,42,3,3,0,0,0,2,1,10.5,1,0,0,0,0,17,8,8,33
+['2024-06-06'],Vitality Blast,1410392,Worcestershire,8,51,35,5,2,145.71,"[1, 4, 18, 20]",4.0,24,9,0,25,2,1,1,0,0,0,0,6.25,0,0,0,0,2,93,36,0,129
+['2024-05-31'],Vitality Blast,1410382,Worcestershire,8,0,0,0,0,0.0,"[1, 3, 18, 20]",4.0,24,12,1,32,3,2,2,0,0,0,0,8.0,0,0,0,0,0,0,74,0,74
+['2024-05-30'],Vitality Blast,1410375,Worcestershire,7,3,6,0,0,50.0,"[2, 6]",2.0,12,3,0,24,4,0,0,0,0,2,0,12.0,1,0,0,0,0,3,-1,8,10

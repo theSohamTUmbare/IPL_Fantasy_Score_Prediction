@@ -1,0 +1,9 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2017-08-11'],NatWest T20 Blast,1068398,Essex,11,0,0,0,0,0.0,[3],1.0,6,3,0,14,2,1,0,0,0,0,0,14.0,0,0,0,0,0,0,3,0,3
+['2017-08-04'],NatWest T20 Blast,1068389,Essex,11,0,0,0,0,0.0,[4],1.0,6,3,0,4,1,0,0,0,0,0,0,4.0,0,0,0,0,0,0,3,0,3
+['2017-07-27'],NatWest T20 Blast,1068358,Essex,11,1,2,0,0,50.0,"[3, 6, 20]",3.0,18,5,0,49,5,3,2,0,1,2,3,16.33,0,0,0,0,0,1,57,0,58
+['2017-07-21'],NatWest T20 Blast,1068339,Essex,11,0,0,0,0,0.0,"[3, 11, 15, 20]",4.0,24,10,0,25,2,0,1,0,0,0,1,6.25,0,0,0,0,0,0,37,0,37
+['2016-05-20'],NatWest T20 Blast,947099,Essex,10,1,2,0,0,50.0,"[1, 3, 10, 15]",4.0,24,7,0,35,6,0,1,0,0,0,2,8.75,0,0,0,0,0,1,32,0,33
+['2015-01-01'],Big Bash League,756759,Perth Scorchers,11,0,0,0,0,0.0,"[3, 5, 8, 15]",4.0,24,8,0,48,9,1,0,0,0,0,0,12.0,0,0,0,0,0,0,4,0,4
+['2014-12-29'],Big Bash League,756753,Perth Scorchers,11,0,0,0,0,0.0,"[1, 3, 5, 7]",4.0,24,11,0,22,0,1,2,0,0,0,2,5.5,0,0,0,0,0,0,65,0,65
+['2014-12-26'],Big Bash League,756747,Perth Scorchers,10,0,0,0,0,0.0,"[4, 6, 11, 15]",4.0,24,11,0,30,3,1,1,0,0,0,2,7.5,0,0,0,0,0,0,36,0,36

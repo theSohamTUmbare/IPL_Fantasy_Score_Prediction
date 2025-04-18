@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-02-28'],Syed Mushtaq Ali Trophy,1157177,Nagaland,6,14,19,1,0,73.68,[7],1.0,6,0,0,14,1,1,0,0,0,0,0,14.0,0,0,0,0,0,18,0,0,18
+['2019-02-25'],Syed Mushtaq Ali Trophy,1157144,Nagaland,6,36,22,2,2,163.64,"[10, 12, 14]",3.0,18,4,0,17,1,0,0,0,0,0,0,5.67,0,0,0,0,4,64,8,0,72
+['2019-02-22'],Syed Mushtaq Ali Trophy,1157110,Nagaland,5,0,1,0,0,0.0,"[5, 7, 13, 17]",4.0,24,6,0,49,3,4,0,0,0,0,0,12.25,2,0,0,0,0,-2,0,16,14
+['2019-02-21'],Syed Mushtaq Ali Trophy,1157093,Nagaland,6,11,12,1,0,91.67,"[6, 8, 14, 16]",3.833,23,3,0,35,1,2,0,0,0,0,0,9.13,0,0,0,0,0,15,3,0,18
+['2011-05-11'],Indian Premier League,501252,Royal Challengers Bangalore,8,0,0,0,0,0.0,"[12, 14]",2.0,12,2,0,21,1,1,0,0,0,0,1,10.5,0,0,0,0,0,0,0,0,0

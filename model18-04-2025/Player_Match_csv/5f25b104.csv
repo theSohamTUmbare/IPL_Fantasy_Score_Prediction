@@ -1,0 +1,12 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2025-02-05'],Malta Tri-Nation T20I Series,1470191,Hungary,4,1,4,0,0,25.0,[9],1.0,6,1,0,13,0,1,0,0,0,0,0,13.0,0,0,0,0,0,1,1,0,2
+['2025-02-04'],Malta Tri-Nation T20I Series,1470188,Hungary,4,45,22,1,5,204.55,"[2, 4, 14]",3.0,18,7,0,22,1,1,0,0,0,0,1,7.33,0,0,0,1,6,89,7,6,102
+['2025-02-04'],Malta Tri-Nation T20I Series,1470189,Hungary,4,106,38,5,12,278.95,"[2, 4, 20]",3.0,18,8,0,19,0,1,0,0,0,0,0,6.33,0,0,0,1,6,220,10,6,236
+['2025-02-03'],Malta Tri-Nation T20I Series,1470186,Hungary,4,28,15,2,2,186.67,"[2, 4]",2.0,12,5,0,8,0,0,0,0,0,0,0,4.0,1,0,0,0,6,58,11,8,77
+['2024-06-15'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436488,Hungary,4,51,30,4,3,170.0,"[6, 9, 16, 18]",4.0,24,4,0,32,1,1,0,0,0,0,1,8.0,1,0,0,0,4,97,4,8,109
+['2024-06-13'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436483,Hungary,4,4,15,0,0,26.67,"[4, 6, 12]",3.0,18,8,0,24,3,1,2,0,0,0,1,8.0,0,0,0,0,-6,-2,58,0,56
+['2024-06-12'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436482,Hungary,4,5,8,0,0,62.5,"[7, 9, 16, 18]",4.0,24,7,0,23,1,0,0,0,0,0,0,5.75,2,0,0,0,0,5,11,16,32
+['2024-06-09'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436472,Hungary,4,26,24,3,0,108.33,"[6, 8, 10, 19]",4.0,24,12,0,25,2,1,3,0,0,0,1,6.25,0,0,0,0,0,42,93,0,135
+['2024-05-26'],Continental Cup,1434162,Hungary,4,69,31,5,4,222.58,"[2, 4, 6, 18]",4.0,24,17,1,14,2,0,1,0,1,0,1,3.5,1,0,0,0,6,127,68,8,203
+['2023-08-06'],Croatia tour of Hungary,1390169,Hungary,4,25,13,1,2,192.31,"[2, 4, 6]",3.0,18,12,1,13,0,1,1,0,0,0,0,4.33,0,0,0,0,6,51,55,0,106
+['2023-08-05'],Croatia tour of Hungary,1390167,Hungary,3,53,30,3,4,176.67,"[8, 10]",2.0,12,5,0,10,1,0,1,0,0,0,0,5.0,2,0,0,0,6,103,34,16,153

@@ -1,0 +1,33 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-12-13'],Africa Continental Cup,1462930,Botswana,6,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2024-12-12'],Africa Continental Cup,1462920,Botswana,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2024-12-11'],Africa Continental Cup,1462918,Botswana,6,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2024-12-09'],Africa Continental Cup,1462928,Botswana,5,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2024-12-08'],Africa Continental Cup,1462914,Botswana,5,15,12,3,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,27,0,8,35
+['2024-12-07'],Africa Continental Cup,1462927,Botswana,5,42,37,6,0,113.51,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,70,0,8,78
+['2024-12-06'],Africa Continental Cup,1462924,Botswana,7,9,7,1,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+['2024-12-05'],Africa Continental Cup,1462919,Botswana,6,7,6,1,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,11,0,16,27
+['2024-11-26'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459382,Botswana,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,1,2,0,0,0,40,40
+['2023-06-18'],Africa Continental Cup,1379579,Botswana,5,17,20,1,0,85.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
+['2023-06-17'],Africa Continental Cup,1379575,Botswana,6,1,12,0,0,8.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-5,0,0,-5
+['2023-06-15'],Africa Continental Cup,1379590,Botswana,7,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2023-06-14'],Africa Continental Cup,1379583,Botswana,5,20,25,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,20,0,8,28
+['2023-06-13'],Africa Continental Cup,1379586,Botswana,6,41,25,3,1,164.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,67,0,0,67
+['2023-06-11'],Africa Continental Cup,1379580,Botswana,5,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2022-11-24'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343762,Botswana,5,2,1,0,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
+['2022-11-22'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343756,Botswana,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2022-11-18'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343745,Botswana,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2022-11-17'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343740,Botswana,6,0,1,0,0,0.0,[15],1.0,6,2,0,13,2,0,0,0,0,1,0,13.0,1,0,0,0,0,0,2,8,10
+['2022-11-17'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343743,Botswana,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2022-09-21'],Africa Cricket Association Cup,1332509,Botswana,5,22,16,1,0,137.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,28,0,8,36
+['2022-09-19'],Africa Cricket Association Cup,1332504,Botswana,7,4,3,0,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+['2022-09-18'],Africa Cricket Association Cup,1332507,Botswana,6,32,24,2,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,52,0,16,68
+['2022-09-15'],Africa Cricket Association Cup,1332496,Botswana,9,21,13,3,0,161.54,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,37,0,0,37
+['2021-11-07'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283051,Botswana,8,10,6,0,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
+['2021-11-06'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283048,Botswana,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2021-11-05'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283046,Botswana,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2021-11-02'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283042,Botswana,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0,0,28,28
+['2019-08-23'],Botswana tour of Namibia,1197510,Botswana,8,20,24,0,1,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26
+['2019-08-22'],Botswana tour of Namibia,1197509,Botswana,8,9,8,1,0,112.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
+['2019-08-20'],Botswana tour of Namibia,1197508,Botswana,6,0,0,0,0,0.0,[10],1.0,6,1,0,21,0,3,0,0,0,0,0,21.0,1,0,0,0,0,0,1,8,9
+['2019-08-19'],Botswana tour of Namibia,1197507,Botswana,8,10,12,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,10,0,8,18

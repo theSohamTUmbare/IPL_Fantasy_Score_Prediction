@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2012-02-22'],South Africa in New Zealand T20I Series,520599,New Zealand,10,0,0,0,0,0.0,"[2, 4, 14]",3.0,18,5,0,29,4,1,0,0,0,0,0,9.67,0,0,0,0,0,0,5,0,5
+['2012-02-14'],Zimbabwe in New Zealand T20I Series,520596,New Zealand,10,0,0,0,0,0.0,"[2, 4, 14, 18]",4.0,24,5,0,47,3,3,1,0,0,0,1,11.75,0,0,0,0,0,0,26,0,26
+['2012-02-11'],Zimbabwe in New Zealand T20I Series,520595,New Zealand,11,0,0,0,0,0.0,"[2, 4, 6, 20]",4.0,24,9,0,31,1,2,3,0,1,0,0,7.75,0,0,0,0,0,0,96,0,96

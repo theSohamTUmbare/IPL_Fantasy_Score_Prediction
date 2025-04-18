@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+St Kitts and Nevis Patriots,LMP Simmons,89f64c19,1,15,15,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,19,0,0,19
+St Kitts and Nevis Patriots,E Lewis,0ebfb1ad,2,7,7,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,11,0,16,27
+St Kitts and Nevis Patriots,JT Smuts,42172c3c,3,30,18,1,3,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,60,0,0,60
+St Kitts and Nevis Patriots,F du Plessis,3355b542,4,48,37,3,1,129.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,70,0,8,78
+St Kitts and Nevis Patriots,DC Thomas,08a4f9ad,5,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
+St Kitts and Nevis Patriots,JL Carter,0a9d8b61,6,21,19,3,0,110.53,"[7, 10, 12, 14]",4.0,24,10,0,28,2,1,2,0,0,0,2,7.0,2,0,0,0,0,33,62,16,111
+St Kitts and Nevis Patriots,BJ Hodge,b57f8a9a,7,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+St Kitts and Nevis Patriots,K Santokie,531f0278,8,0,3,0,0,0.0,"[1, 3, 15, 19]",4.0,24,7,0,41,2,3,2,0,1,0,1,10.25,0,0,0,0,0,-2,63,0,61
+St Kitts and Nevis Patriots,SS Cottrell,a1d053dd,9,6,8,1,0,75.0,"[2, 4, 16, 18]",4.0,24,6,0,35,2,1,1,0,0,1,2,8.75,0,0,0,0,0,10,31,0,41
+St Kitts and Nevis Patriots,S Badree,76388dc8,10,2,4,0,0,50.0,"[6, 9, 11, 13]",4.0,24,9,0,26,1,1,0,0,0,0,0,6.5,1,0,0,0,0,2,11,8,21
+St Kitts and Nevis Patriots,AS Joseph,b0946605,11,2,3,0,0,66.67,"[5, 8, 17, 20]",4.0,24,12,0,41,5,2,4,0,0,1,3,10.25,1,0,0,0,0,2,118,8,128
+St Lucia Zouks,J Charles,09a9d073,1,25,14,1,2,178.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,51,0,8,59
+St Lucia Zouks,ADS Fletcher,1bae756b,2,6,5,1,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+St Lucia Zouks,SR Watson,4329fbb5,3,15,14,2,0,107.14,"[6, 11, 16, 20]",4.0,24,9,0,27,3,0,1,0,0,0,1,6.75,1,0,0,0,0,23,36,8,67
+St Lucia Zouks,MEK Hussey,48fd7349,4,26,20,2,1,130.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,46,0,16,62
+St Lucia Zouks,DA Miller,d67d5f00,5,11,19,1,0,57.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,-4,11,0,28,39
+St Lucia Zouks,DJG Sammy,c03c6200,6,59,34,2,5,173.53,"[8, 10, 12, 14]",4.0,24,6,0,26,2,0,1,0,0,0,0,6.5,0,0,0,0,6,111,33,0,144
+St Lucia Zouks,K Lesporis,fb496f7a,7,15,10,2,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,23,0,8,31
+St Lucia Zouks,DE Johnson,c0babb93,8,4,3,1,0,133.33,"[7, 9, 13, 18]",4.0,24,7,0,37,3,2,3,0,0,0,0,9.25,0,0,0,0,0,8,86,0,94
+St Lucia Zouks,S Shillingford,d76b0d2d,9,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+St Lucia Zouks,JE Taylor,4180d897,10,0,0,0,0,0.0,"[2, 4, 17, 19]",4.0,24,13,0,19,1,0,2,0,0,0,2,4.75,0,0,0,0,0,0,69,0,69
+St Lucia Zouks,M Morkel,5bb5a915,11,0,0,0,0,0.0,"[1, 3, 5, 15]",4.0,24,11,0,29,1,2,1,0,0,0,1,7.25,0,0,0,0,0,0,36,0,36

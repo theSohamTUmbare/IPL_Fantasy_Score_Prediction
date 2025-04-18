@@ -1,0 +1,9 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-07-19'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321279,Sweden,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,0,0,6,6
+['2022-07-18'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321273,Sweden,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2022-07-15'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321265,Sweden,1,2,9,0,0,22.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2022-07-13'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321262,Sweden,1,19,22,2,0,86.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27
+['2022-07-12'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321259,Sweden,1,0,5,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2022-06-11'],Germany T20 Tri-Series,1318361,Sweden,6,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2022-06-11'],Germany T20 Tri-Series,1318362,Sweden,1,22,18,4,0,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,2,0,0,0,38,0,24,62
+['2022-06-10'],Germany T20 Tri-Series,1318360,Sweden,8,10,12,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10

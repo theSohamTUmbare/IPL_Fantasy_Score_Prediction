@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+St Kitts and Nevis Patriots,DC Thomas,08a4f9ad,1,9,13,1,0,69.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,2,0,0,-2,11,0,24,35
+St Kitts and Nevis Patriots,E Lewis,0ebfb1ad,2,10,14,2,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
+St Kitts and Nevis Patriots,LJ Evans,1c513d54,3,28,24,0,2,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,44,0,8,52
+St Kitts and Nevis Patriots,Mohammad Hafeez,9ab63e7b,4,29,31,0,1,93.55,"[6, 8, 10, 12]",4.0,24,8,0,22,0,1,3,0,0,0,1,5.5,0,0,0,0,0,39,91,0,130
+St Kitts and Nevis Patriots,FA Allen,b52ffbbd,5,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+St Kitts and Nevis Patriots,CR Brathwaite,e342e5fb,6,2,3,0,0,66.67,"[16, 18, 20]",3.0,18,2,0,26,0,1,0,0,0,0,3,8.67,0,0,0,0,0,2,2,0,4
+St Kitts and Nevis Patriots,SSJ Brooks,977b841a,7,7,4,1,0,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
+St Kitts and Nevis Patriots,KJ Cottoy,e3f143c1,8,19,14,0,2,135.71,"[9, 11, 13, 15]",4.0,24,6,0,28,2,0,1,0,1,0,0,7.0,0,0,0,0,2,33,41,0,74
+St Kitts and Nevis Patriots,RR Emrit,e7de4f6b,9,18,10,0,2,180.0,"[5, 7, 17]",3.0,18,3,0,40,5,2,0,0,0,0,2,13.33,0,0,0,0,6,36,-3,0,33
+St Kitts and Nevis Patriots,AS Joseph,b0946605,10,4,5,0,0,80.0,"[2, 4, 14, 19]",4.0,24,12,0,20,1,1,2,0,1,0,1,5.0,0,0,0,0,0,4,74,0,78
+St Kitts and Nevis Patriots,JS Louis,8ae98a8e,11,0,0,0,0,0.0,"[1, 3]",2.0,12,5,0,23,2,2,0,0,0,0,0,11.5,0,0,0,0,0,0,1,0,1
+St Lucia Zouks,ADS Fletcher,1bae756b,1,36,23,4,2,156.52,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,72,0,0,72
+St Lucia Zouks,RRS Cornwall,c4d9634c,2,13,9,0,2,144.44,[2],1.0,6,4,0,6,1,0,0,0,0,0,1,6.0,0,0,0,0,0,25,4,0,29
+St Lucia Zouks,CA Ingram,c995d726,3,21,16,1,1,131.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,33,0,0,33
+St Lucia Zouks,C de Grandhomme,94d7f855,4,17,14,1,0,121.43,"[10, 12]",2.0,12,1,0,13,0,0,0,0,0,0,0,6.5,1,0,0,0,0,21,3,8,32
+St Lucia Zouks,AM McCarthy,7f148ce7,5,6,13,0,0,46.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,0,0,0,0
+St Lucia Zouks,CD Barnwell,0d51e658,6,27,23,1,1,117.39,[1],1.0,6,3,0,7,1,0,0,0,0,0,2,7.0,1,0,0,0,0,41,3,8,52
+St Lucia Zouks,DJG Sammy,c03c6200,7,30,19,3,1,157.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,56,0,0,56
+St Lucia Zouks,GC Viljoen,a316d663,8,2,3,0,0,66.67,"[4, 6, 15, 19]",4.0,24,15,1,14,1,0,3,0,1,0,2,3.5,0,0,0,0,0,2,120,0,122
+St Lucia Zouks,KOK Williams,78cb83f3,9,0,0,0,0,0.0,"[3, 13, 17, 20]",4.0,24,5,0,48,1,4,3,1,0,0,4,12.0,2,0,0,0,0,0,88,16,104
+St Lucia Zouks,Fawad Ahmed,22ae3041,10,0,0,0,0,0.0,"[8, 14, 16, 18]",4.0,24,11,0,19,0,1,2,0,0,0,0,4.75,1,0,0,0,0,0,67,8,75
+St Lucia Zouks,J Royal,44a18ad8,11,0,0,0,0,0.0,"[5, 7, 9, 11]",4.0,24,7,0,30,0,2,1,0,1,0,1,7.5,0,0,0,0,0,0,40,0,40

@@ -1,0 +1,18 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-07-13'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439831,Switzerland,8,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,12,0,21,2,0,1,0,0,0,1,5.25,1,0,0,0,0,0,41,8,49
+['2024-07-11'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439826,Switzerland,8,14,7,1,1,200.0,"[1, 3, 18]",3.0,18,12,1,8,0,0,2,0,1,0,0,2.67,0,0,0,0,0,24,88,0,112
+['2024-07-09'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439820,Switzerland,8,2,3,0,0,66.67,"[1, 3, 14, 19]",4.0,24,9,0,30,4,0,3,0,1,0,1,7.5,0,0,0,0,0,2,96,0,98
+['2023-07-16'],Valletta Cup,1384600,Switzerland,6,4,3,0,0,133.33,"[2, 4, 17, 19]",4.0,24,7,0,44,5,2,1,0,0,0,3,11.0,0,0,0,0,0,4,30,0,34
+['2023-07-15'],Valletta Cup,1384596,Switzerland,6,1,1,0,0,100.0,"[2, 4, 18, 20]",4.0,24,9,0,23,1,0,1,0,1,2,3,5.75,1,0,0,0,0,1,46,8,55
+['2023-07-14'],Valletta Cup,1384592,Switzerland,6,0,0,0,0,0.0,"[2, 4]",2.0,12,7,0,14,1,0,0,0,0,0,6,7.0,2,0,0,0,0,0,9,16,25
+['2023-07-14'],Valletta Cup,1384594,Switzerland,5,0,1,0,0,0.0,"[2, 4, 19]",3.0,18,10,0,29,2,2,1,0,1,2,2,9.67,0,0,0,0,0,-2,43,0,41
+['2023-07-13'],Valletta Cup,1384590,Switzerland,6,13,13,0,0,100.0,"[2, 4, 17, 20]",4.0,24,9,0,28,1,2,0,0,0,1,1,7.0,0,0,0,1,0,13,11,6,30
+['2022-07-31'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321303,Switzerland,7,28,33,0,1,84.85,"[9, 11, 13, 19]",4.0,24,9,0,32,3,1,0,0,0,2,1,8.0,1,0,0,0,0,38,9,8,55
+['2022-07-30'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321298,Switzerland,3,7,5,1,0,140.0,"[5, 9, 17]",3.0,18,3,0,35,2,2,1,0,1,1,0,11.67,1,0,0,0,0,11,32,8,51
+['2022-07-28'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321293,Switzerland,8,0,0,0,0,0.0,"[5, 7, 17, 20]",4.0,24,8,0,39,2,2,2,0,0,0,3,9.75,0,0,0,0,0,0,58,0,58
+['2022-07-27'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321290,Switzerland,6,22,12,2,1,183.33,"[8, 10, 16, 20]",4.0,24,5,0,31,3,0,0,0,0,0,0,7.75,0,0,0,0,6,42,5,0,47
+['2022-07-25'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321287,Switzerland,9,48,16,3,4,300.0,"[5, 7, 18]",3.0,18,9,0,26,3,1,2,0,1,1,0,8.67,0,0,0,0,6,94,67,0,161
+['2021-10-24'],Valletta Cup,1282279,Switzerland,7,7,6,0,1,116.67,"[2, 4, 17, 19]",4.0,24,9,0,43,3,3,1,0,1,0,3,10.75,0,0,0,0,0,13,40,0,53
+['2021-10-23'],Valletta Cup,1282276,Switzerland,8,27,23,1,2,117.39,"[2, 4, 17, 19]",4.0,24,14,0,23,0,2,2,0,0,0,1,5.75,1,0,0,0,0,47,68,8,123
+['2021-10-22'],Valletta Cup,1282273,Switzerland,8,0,0,0,0,0.0,"[2, 4, 13, 19]",4.0,24,10,0,25,1,0,3,1,0,0,6,6.25,1,0,0,0,0,0,99,8,107
+['2021-10-22'],Valletta Cup,1282275,Switzerland,4,9,8,2,0,112.5,"[2, 4, 15, 17]",4.0,24,16,0,17,2,0,1,0,1,0,3,4.25,0,0,0,0,0,17,55,0,72

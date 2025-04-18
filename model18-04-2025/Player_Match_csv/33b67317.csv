@@ -1,0 +1,14 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2025-02-05'],Malta Tri-Nation T20I Series,1470190,Austria,1,10,6,0,1,166.67,"[7, 9, 11, 13]",4.0,24,6,0,32,2,1,0,0,0,0,0,8.0,0,0,0,0,0,16,6,0,22
+['2025-02-05'],Malta Tri-Nation T20I Series,1470191,Austria,1,0,2,0,0,0.0,"[9, 11, 13, 19]",3.5,21,11,0,28,1,3,1,1,0,0,0,8.0,1,0,0,0,0,-2,44,8,50
+['2025-02-04'],Malta Tri-Nation T20I Series,1470188,Austria,1,67,40,4,6,167.5,"[8, 10, 12, 14]",4.0,24,10,0,30,2,2,0,0,0,0,0,7.5,0,0,0,0,4,131,10,0,141
+['2025-02-03'],Malta Tri-Nation T20I Series,1470187,Austria,1,20,20,0,1,100.0,"[7, 9, 11, 13]",4.0,24,5,0,38,1,3,0,0,0,0,0,9.5,1,0,0,0,0,26,5,8,39
+['2024-06-16'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436492,Austria,3,71,37,8,4,191.89,"[5, 7, 9, 11]",4.0,24,10,0,19,0,1,2,0,0,0,0,4.75,0,0,0,0,6,141,66,0,207
+['2024-06-15'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436488,Austria,3,55,29,5,4,189.66,"[5, 7, 9, 11]",4.0,24,8,0,27,1,1,1,0,0,0,1,6.75,0,0,0,1,6,113,35,6,154
+['2024-06-12'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436480,Austria,3,27,18,4,1,150.0,"[7, 9, 11, 13]",4.0,24,11,0,24,2,1,1,0,0,0,0,6.0,0,0,0,0,0,53,38,0,91
+['2024-06-10'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436475,Austria,3,17,13,2,1,130.77,"[9, 11, 13, 15]",4.0,24,11,0,20,0,1,1,0,1,0,1,5.0,0,0,0,0,2,33,48,0,81
+['2024-06-09'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436474,Austria,3,15,9,2,1,166.67,"[6, 8, 10, 12]",4.0,24,9,0,30,2,1,0,0,0,0,0,7.5,0,0,0,0,0,29,9,0,38
+['2021-05-23'],Central Europe Cup,1263712,Austria,1,16,13,3,0,123.08,"[1, 3, 5, 15]",4.0,24,8,0,29,2,0,1,0,1,0,2,7.25,0,0,0,0,0,28,41,0,69
+['2021-05-23'],Central Europe Cup,1263713,Austria,1,7,6,1,0,116.67,"[1, 11, 13, 15]",4.0,24,9,0,26,2,0,2,0,0,0,1,6.5,0,0,0,0,0,11,61,0,72
+['2021-05-22'],Central Europe Cup,1263710,Austria,1,28,21,3,0,133.33,"[1, 3, 8, 10]",4.0,24,11,0,16,0,0,2,0,1,0,1,4.0,0,0,0,0,2,46,75,0,121
+['2018-09-02'],ICC World Twenty20 Europe Region Qualifier A,1155315,Austria,1,12,14,1,0,85.71,"[1, 3, 5, 7]",4.0,24,13,0,19,1,1,1,0,0,0,0,4.75,1,0,0,0,0,16,44,8,68

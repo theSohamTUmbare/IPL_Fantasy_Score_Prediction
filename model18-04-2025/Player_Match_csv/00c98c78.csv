@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-03-04'],ICC Men's T20 World Cup Americas Region Qualifier,1359800,Bahamas,11,7,13,0,0,53.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,3,0,0,3
+['2023-03-02'],ICC Men's T20 World Cup Americas Region Qualifier,1359798,Bahamas,2,1,6,0,0,16.67,"[10, 12, 14, 18]",4.0,24,8,0,27,0,0,0,0,0,1,2,6.75,0,0,0,0,0,1,10,0,11
+['2023-02-28'],ICC Men's T20 World Cup Americas Region Qualifier,1359788,Bahamas,2,3,6,0,0,50.0,"[18, 20]",1.833,11,5,0,15,1,1,2,0,0,0,0,8.18,0,0,0,0,0,3,55,0,58
+['2023-02-26'],ICC Men's T20 World Cup Americas Region Qualifier,1359792,Bahamas,2,19,18,3,1,105.56,"[10, 12, 14, 16]",4.0,24,13,0,18,2,0,1,0,0,0,1,4.5,0,0,0,0,0,37,44,0,81
+['2010-06-05'],ICC World Cricket League Americas Region Division One Twenty20,460058,Bahamas,5,13,11,1,1,118.18,"[15, 17, 19]",3.0,18,7,0,14,0,0,1,0,0,0,0,4.67,0,0,0,0,0,23,38,0,61

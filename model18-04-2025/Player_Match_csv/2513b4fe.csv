@@ -1,0 +1,12 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-02-16'],Quadrangular Twenty20 Series (Thailand),1420807,Saudi Arabia,2,29,16,5,1,181.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,65,0,0,65
+['2024-02-15'],Quadrangular Twenty20 Series (Thailand),1420806,Saudi Arabia,2,57,22,9,3,259.09,[15],0.333,2,1,0,1,0,0,1,0,1,0,0,3.0,1,0,0,0,6,125,34,8,167
+['2024-02-13'],Quadrangular Twenty20 Series (Thailand),1420803,Saudi Arabia,2,26,16,6,0,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,58,0,0,58
+['2024-02-12'],Quadrangular Twenty20 Series (Thailand),1420802,Saudi Arabia,2,51,36,8,0,141.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,93,0,8,101
+['2022-11-21'],Desert Cup T20I Series,1344794,Saudi Arabia,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2022-11-20'],Desert Cup T20I Series,1344793,Saudi Arabia,2,11,16,2,0,68.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,17,0,8,25
+['2022-11-19'],Desert Cup T20I Series,1344790,Saudi Arabia,2,6,4,0,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+['2022-11-17'],Desert Cup T20I Series,1344788,Saudi Arabia,3,28,26,3,0,107.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,44,0,0,44
+['2022-11-16'],Desert Cup T20I Series,1344786,Saudi Arabia,3,27,30,2,1,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,45,0,0,45
+['2022-11-15'],Desert Cup T20I Series,1344784,Saudi Arabia,3,17,10,4,0,170.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,37,0,0,37
+['2022-11-14'],Desert Cup T20I Series,1344782,Saudi Arabia,3,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2

@@ -1,0 +1,9 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-08-28'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1443786,Finland,8,22,18,1,1,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32
+['2024-08-22'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1443770,Finland,9,9,7,1,0,128.57,"[9, 11, 13]",3.0,18,7,0,25,3,1,0,0,0,0,0,8.33,0,0,0,0,0,13,7,0,20
+['2024-08-21'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1443769,Finland,6,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,15,0,16,1,0,1,0,0,0,0,4.0,0,0,1,0,0,0,46,12,58
+['2024-06-16'],Nordic T20 Cup,1438262,Finland,8,1,3,0,0,33.33,"[7, 13, 15]",2.5,15,6,0,28,6,0,0,0,0,0,0,11.2,0,0,0,0,0,1,2,0,3
+['2024-06-15'],Nordic T20 Cup,1438259,Finland,7,13,19,0,0,68.42,"[9, 11, 13]",3.0,18,6,0,22,1,0,0,0,0,0,4,7.33,0,0,0,0,-2,11,6,0,17
+['2024-06-14'],Nordic T20 Cup,1438257,Finland,7,24,30,2,0,80.0,"[2, 4, 7, 9]",4.0,24,10,0,34,2,2,0,0,0,0,2,8.5,0,0,0,0,0,32,10,0,42
+['2023-05-19'],Nordic T20 Cup,1370787,Finland,10,0,1,0,0,0.0,"[7, 9, 11]",3.0,18,6,0,22,1,1,1,0,0,0,0,7.33,1,0,0,0,0,-2,31,8,37
+['2023-05-18'],Nordic T20 Cup,1370783,Finland,10,13,17,0,0,76.47,"[8, 14, 16, 18]",4.0,24,5,0,39,4,1,1,0,0,0,0,9.75,0,0,0,0,0,13,30,0,43

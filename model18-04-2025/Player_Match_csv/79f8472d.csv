@@ -1,0 +1,3 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-09-06'],Caribbean Premier League,1428686,St Kitts and Nevis Patriots,8,9,19,0,0,47.37,"[12, 14, 18]",3.0,18,5,0,36,4,2,0,0,0,0,0,12.0,0,0,0,0,-6,3,1,0,4
+['2024-09-04'],Caribbean Premier League,1428684,St Kitts and Nevis Patriots,9,16,6,1,2,266.67,"[8, 13, 15, 17]",4.0,24,5,0,57,2,6,1,0,0,0,1,14.25,0,0,0,0,0,32,24,0,56

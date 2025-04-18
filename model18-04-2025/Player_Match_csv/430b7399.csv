@@ -1,0 +1,8 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2025-03-04'],Bahrain tour of Singapore,1474263,Singapore,5,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2025-03-02'],Bahrain tour of Singapore,1474262,Singapore,6,20,12,0,2,166.67,[14],1.0,6,3,0,11,1,1,0,0,0,0,0,11.0,0,0,0,0,4,36,3,0,39
+['2025-03-01'],Bahrain tour of Singapore,1474261,Singapore,7,12,6,2,0,200.0,[7],1.0,6,0,0,14,1,1,0,0,0,0,0,14.0,0,0,0,0,0,20,0,0,20
+['2025-02-28'],Bahrain tour of Singapore,1474260,Singapore,6,7,7,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
+['2024-02-02'],Asian Cricket Council Men's Challenger Cup,1418182,Singapore,10,0,0,0,0,0.0,[5],1.0,6,1,0,21,2,2,0,0,0,0,0,21.0,0,0,0,0,0,0,1,0,1
+['2022-12-22'],Quadrangular Twenty20 Series (Malaysia),1349388,Singapore,8,7,11,1,0,63.64,[12],1.0,6,1,0,15,0,2,0,0,0,0,0,15.0,0,0,0,0,-2,9,1,0,10
+['2022-12-15'],Quadrangular Twenty20 Series (Malaysia),1349379,Singapore,3,3,2,0,0,150.0,"[2, 14]",2.0,12,4,0,26,2,2,2,0,1,0,0,13.0,0,0,0,0,0,3,56,0,59

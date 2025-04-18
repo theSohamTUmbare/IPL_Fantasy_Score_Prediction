@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-10-13'],South American Men's Championships,1453909,Mexico,2,7,10,1,0,70.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,9,0,0,9
+['2024-10-12'],South American Men's Championships,1453903,Mexico,2,43,40,3,3,107.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,77,0,6,83
+['2023-10-19'],South American Men's Championships,1403301,Mexico,3,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2023-10-18'],South American Men's Championships,1403297,Mexico,5,21,26,3,0,80.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33

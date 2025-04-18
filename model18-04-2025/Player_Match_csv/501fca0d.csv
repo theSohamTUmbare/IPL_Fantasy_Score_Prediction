@@ -1,0 +1,21 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-07-14'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439833,Germany,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,3,0,0,0,0,0,36,36
+['2024-07-11'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439822,Germany,6,7,3,0,1,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,13,0,16,29
+['2024-07-09'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439819,Germany,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,1,0,0,0,26,26
+['2024-07-08'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439814,Germany,9,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,2,0,0,0,1,0,24,25
+['2023-08-15'],Germany tour of Netherlands,1387245,Germany,6,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2023-08-14'],Germany tour of Netherlands,1387243,Germany,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2023-08-14'],Germany tour of Netherlands,1387244,Germany,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,0,20,20
+['2023-07-28'],ICC Men's T20 World Cup Europe Region Qualifier,1383086,Germany,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2023-07-23'],ICC Men's T20 World Cup Europe Region Qualifier,1383076,Germany,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2023-07-21'],ICC Men's T20 World Cup Europe Region Qualifier,1383072,Germany,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2023-07-20'],ICC Men's T20 World Cup Europe Region Qualifier,1383070,Germany,7,4,5,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+['2023-06-30'],Austria tour of Netherlands,1381452,Germany,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2023-06-29'],Austria tour of Netherlands,1381451,Germany,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2023-06-11'],Belgium tour of Germany,1380584,Germany,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2023-06-10'],Belgium tour of Germany,1380583,Germany,7,9,7,1,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,2,0,0,0,13,0,24,37
+['2022-11-06'],Spain Triangular T20I Series,1339209,Germany,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
+['2022-06-11'],Germany T20 Tri-Series,1318362,Germany,1,12,10,2,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,20,0,20,40
+['2022-06-10'],Germany T20 Tri-Series,1318359,Germany,1,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,0,-2,0,12,10
+['2022-06-09'],Germany T20 Tri-Series,1318357,Germany,2,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,2,0,28,30
+['2022-06-09'],Germany T20 Tri-Series,1318358,Germany,1,29,34,3,0,85.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,0,45,0,40,85

@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-10-25'],Syed Mushtaq Ali Trophy,1383527,Mizoram,3,21,41,2,0,51.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,25,0,8,33
+['2023-10-23'],Syed Mushtaq Ali Trophy,1383507,Mizoram,3,16,14,2,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
+['2023-10-21'],Syed Mushtaq Ali Trophy,1383491,Mizoram,3,8,10,2,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,16,0,8,24

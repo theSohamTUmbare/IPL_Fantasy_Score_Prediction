@@ -1,0 +1,14 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2012-09-20'],ICC World Twenty20,533275,Zimbabwe,9,7,6,1,0,116.67,"[3, 5, 11]",3.0,18,6,0,19,2,0,0,0,0,0,1,6.33,0,0,0,0,0,11,8,0,19
+['2012-02-14'],Zimbabwe in New Zealand T20I Series,520596,Zimbabwe,10,0,0,0,0,0.0,"[7, 9, 13, 16]",4.0,24,5,0,39,3,2,0,0,0,0,2,9.75,0,0,0,0,0,0,5,0,5
+['2012-02-11'],Zimbabwe in New Zealand T20I Series,520595,Zimbabwe,10,0,0,0,0,0.0,"[6, 8, 14, 16]",4.0,24,5,0,34,2,1,0,0,0,0,0,8.5,0,0,0,0,0,0,5,0,5
+['2011-10-17'],New Zealand in Zimbabwe T20I Series,527013,Zimbabwe,9,0,1,0,0,0.0,"[5, 8, 11, 14]",4.0,24,6,0,34,3,1,0,0,0,0,1,8.5,0,0,0,0,0,0,6,0,6
+['2011-10-15'],New Zealand in Zimbabwe T20I Series,527012,Zimbabwe,10,0,0,0,0,0.0,"[2, 4, 6, 14]",3.5,21,8,0,26,1,2,0,0,0,0,0,7.43,0,0,0,0,0,0,8,0,8
+['2011-09-18'],Pakistan in Zimbabwe T20I Series,523736,Zimbabwe,11,0,0,0,0,0.0,"[5, 8, 10, 15]",4.0,24,9,0,27,4,0,1,0,0,0,0,6.75,1,0,0,0,0,0,36,8,44
+['2011-09-16'],Pakistan in Zimbabwe T20I Series,523735,Zimbabwe,9,3,10,0,0,30.0,"[5, 7, 13, 17]",4.0,24,9,0,35,0,1,1,1,0,0,13,8.75,0,0,0,0,-6,-3,42,0,39
+['2011-05-22'],Indian Premier League,501267,Mumbai Indians,10,0,0,0,0,0.0,"[5, 7, 10]",3.0,18,1,0,33,2,2,0,0,0,0,0,11.0,0,0,0,0,0,0,-1,0,-1
+['2010-06-13'],India in Zimbabwe T20I Series,452154,Zimbabwe,10,0,0,0,0,0.0,"[5, 8, 14]",3.0,18,6,0,25,3,0,1,0,0,0,2,8.33,0,0,0,0,0,0,31,0,31
+['2010-06-12'],India in Zimbabwe T20I Series,452153,Zimbabwe,9,2,3,0,0,66.67,"[8, 10, 12, 14]",4.0,24,10,0,24,3,0,2,0,0,0,0,6.0,0,0,0,0,0,2,62,0,64
+['2010-05-04'],ICC World Twenty20,412684,Zimbabwe,11,2,4,0,0,50.0,"[2, 4, 6, 8]",4.0,24,18,0,14,0,0,0,0,0,0,6,3.5,0,0,0,0,0,2,24,0,26
+['2010-05-03'],ICC World Twenty20,412686,Zimbabwe,10,0,0,0,0,0.0,"[2, 4, 6, 19]",4.0,24,9,0,31,2,2,2,0,0,0,2,7.75,1,0,0,0,0,0,59,8,67
+['2010-02-28'],NA,439139,Zimbabwe,11,0,0,0,0,0.0,"[2, 4, 6, 8]",4.0,24,17,1,18,2,0,1,0,1,0,4,4.5,0,0,0,0,0,0,68,0,68

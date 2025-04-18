@@ -1,0 +1,25 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Gujarat Titans,B Sai Sudharsan,d5130a30,1,82,53,8,3,154.72,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,4,148,0,16,164
+Gujarat Titans,Shubman Gill,b4b99816,2,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
+Gujarat Titans,JC Buttler,99b75528,3,36,25,5,0,144.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,62,0,8,70
+Gujarat Titans,M Shahrukh Khan,7dcb9bc9,4,36,20,4,2,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,74,0,0,74
+Gujarat Titans,SE Rutherford,d014d5ac,5,7,3,0,1,233.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+Gujarat Titans,R Tewatia,39a2dfa8,6,24,12,2,2,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,50,0,0,50
+Gujarat Titans,Rashid Khan,5f547c8b,7,12,4,1,1,300.0,"[8, 10, 12, 14]",4.0,24,6,0,37,2,2,2,1,0,0,2,9.25,2,0,0,0,0,22,64,16,102
+Gujarat Titans,Arshad Khan,12314277,8,0,0,0,0,0.0,"[2, 4]",2.0,12,5,0,19,2,1,1,0,0,0,1,9.5,0,0,0,0,0,0,30,0,30
+Gujarat Titans,K Khejroliya,fa2f1dde,9,0,0,0,0,0.0,"[7, 9, 11]",3.0,18,4,0,29,3,1,1,0,0,0,1,9.67,1,0,0,0,0,0,29,8,37
+Gujarat Titans,R Sai Kishore,c7a995d3,10,0,0,0,0,0.0,"[15, 17, 20]",2.333,14,3,0,20,0,1,2,0,0,0,1,8.57,2,0,0,0,0,0,53,16,69
+Gujarat Titans,Mohammed Siraj,2f49c897,11,0,0,0,0,0.0,"[1, 3, 5, 19]",4.0,24,15,0,30,2,2,1,0,0,0,4,7.5,0,0,0,0,0,0,40,0,40
+Gujarat Titans,M Prasidh Krishna,85e0cf10,12,0,0,0,0,0.0,"[6, 13, 16, 18]",4.0,24,12,0,24,2,1,3,0,0,0,0,6.0,0,0,0,0,0,0,93,0,93
+Rajasthan Royals,YBK Jaiswal,6c19c6e5,1,6,7,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,10,0,8,18
+Rajasthan Royals,SV Samson,a4cc73aa,2,41,28,4,2,146.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,0,0,2,75,0,28,103
+Rajasthan Royals,N Rana,fb2d1dda,3,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Rajasthan Royals,R Parag,04a418e8,4,26,14,1,3,185.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,58,0,0,58
+Rajasthan Royals,Dhruv Jurel,bcf325d2,5,5,4,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
+Rajasthan Royals,SO Hetmyer,48a1d7b7,6,52,32,4,3,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,98,0,0,98
+Rajasthan Royals,SB Dubey,6b2ff18f,7,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Rajasthan Royals,JC Archer,5574750c,8,4,4,0,0,100.0,"[1, 3, 11, 18]",4.0,24,9,0,30,2,1,1,0,1,0,2,7.5,0,0,0,0,0,4,42,0,46
+Rajasthan Royals,M Theekshana,f24c6701,9,5,13,0,0,38.46,"[8, 10, 14, 16]",4.0,24,5,0,54,6,2,2,1,0,0,5,13.5,0,0,0,0,-6,-1,57,0,56
+Rajasthan Royals,TU Deshpande,46a9bea1,10,3,3,0,0,100.0,"[5, 9, 13, 19]",4.0,24,7,0,53,4,3,2,0,0,0,7,13.25,0,0,0,0,0,3,51,0,54
+Rajasthan Royals,Sandeep Sharma,ce820073,11,6,5,0,0,120.0,"[6, 15, 17, 20]",4.0,24,6,0,41,3,2,1,0,0,0,3,10.25,0,0,0,0,0,6,29,0,35
+Rajasthan Royals,Fazalhaq Farooqi,e9c7f0d0,12,0,0,0,0,0.0,"[2, 4, 7, 12]",4.0,24,8,0,38,5,1,0,0,0,0,0,9.5,0,0,0,0,0,0,8,0,8

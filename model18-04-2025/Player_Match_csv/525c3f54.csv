@@ -1,0 +1,3 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2012-02-26'],Bangladesh Premier League,551071,Khulna Royal Bengals,8,4,5,1,0,80.0,[1],1.0,6,2,0,14,3,0,0,0,0,0,0,14.0,1,0,0,0,0,8,2,8,18
+['2012-02-12'],Bangladesh Premier League,551049,Khulna Royal Bengals,11,0,0,0,0,0.0,"[1, 5, 16]",3.0,18,5,0,22,2,0,0,0,0,1,1,7.33,0,0,0,0,0,0,5,0,5

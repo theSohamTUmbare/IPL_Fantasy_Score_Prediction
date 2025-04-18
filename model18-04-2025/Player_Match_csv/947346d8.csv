@@ -1,0 +1,14 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-09-09'],ICC Men's T20 World Cup Asia Qualifier A,1447496,Mongolia,3,2,9,0,0,22.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2024-09-06'],ICC Men's T20 World Cup Asia Qualifier A,1447492,Mongolia,3,3,8,0,0,37.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2024-09-05'],ICC Men's T20 World Cup Asia Qualifier A,1447490,Mongolia,5,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2024-09-02'],ICC Men's T20 World Cup Asia Qualifier A,1447485,Mongolia,2,6,10,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,4,0,0,4
+['2024-08-31'],ICC Men's T20 World Cup Asia Qualifier A,1447482,Mongolia,2,2,9,0,0,22.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2024-08-30'],ICC Men's T20 World Cup Asia Qualifier A,1447479,Mongolia,4,0,7,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2024-05-12'],Mongolia tour of Japan,1431126,Mongolia,1,7,12,0,0,58.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,3,0,0,3
+['2024-05-11'],Mongolia tour of Japan,1431124,Mongolia,1,12,32,1,0,37.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,10,0,8,18
+['2024-05-11'],Mongolia tour of Japan,1431125,Mongolia,1,2,11,0,0,18.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-4,0,0,-4
+"['2024-05-09', '2024-05-10']",Mongolia tour of Japan,1431123,Mongolia,1,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2024-05-08'],Mongolia tour of Japan,1431121,Mongolia,4,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
+['2024-05-08'],Mongolia tour of Japan,1431122,Mongolia,1,3,7,0,0,42.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2024-05-07'],Mongolia tour of Japan,1431120,Mongolia,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2

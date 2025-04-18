@@ -1,0 +1,25 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Delhi Capitals,PP Shaw,8b3e9c7c,1,7,6,1,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19
+Delhi Capitals,J Fraser-McGurk,9b6e1b3f,2,20,10,2,2,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,46,0,0,46
+Delhi Capitals,Abishek Porel,ad3b6e95,3,15,7,2,1,214.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,29,0,0,29
+Delhi Capitals,SD Hope,1fc6ef83,4,19,10,1,2,190.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,41,0,0,41
+Delhi Capitals,RR Pant,919a3be2,5,16,11,1,1,145.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,2,28,0,40,68
+Delhi Capitals,Sumit Kumar,8998a68f,6,9,9,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,17,0,20,37
+Delhi Capitals,KK Ahmed,a2f46292,7,0,0,0,0,0.0,"[1, 3, 6, 15]",4.0,24,14,1,18,3,0,1,0,0,0,1,4.5,0,0,0,0,0,0,57,0,57
+Delhi Capitals,T Stubbs,85b3fab2,8,0,0,0,0,0.0,[9],1.0,6,3,0,11,2,0,2,0,0,0,1,11.0,0,0,0,0,0,0,53,0,53
+Delhi Capitals,AR Patel,2e171977,9,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,13,0,17,1,0,1,1,0,0,1,4.25,0,0,0,0,0,0,52,0,52
+Delhi Capitals,Kuldeep Yadav,8d2c70ad,10,0,0,0,0,0.0,"[8, 11, 13, 17]",4.0,24,12,0,16,0,1,0,0,0,0,0,4.0,0,0,0,0,0,0,18,0,18
+Delhi Capitals,I Sharma,5bb1a1c4,11,0,0,0,0,0.0,"[2, 5]",2.0,12,9,0,8,1,0,2,0,0,0,1,4.0,0,0,0,0,0,0,65,0,65
+Delhi Capitals,Mukesh Kumar,2cffab74,12,0,0,0,0,0.0,"[4, 7, 18]",2.5,15,8,0,14,1,0,3,0,2,2,1,5.6,0,0,0,0,0,0,107,0,107
+Gujarat Titans,WP Saha,fe11caa6,1,2,10,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-4,0,0,-4
+Gujarat Titans,Shubman Gill,b4b99816,2,8,6,2,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
+Gujarat Titans,B Sai Sudharsan,d5130a30,3,12,8,2,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
+Gujarat Titans,DA Miller,d67d5f00,4,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+Gujarat Titans,A Manohar,0890552f,5,8,14,1,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,8,0,8,16
+Gujarat Titans,R Tewatia,39a2dfa8,6,10,14,1,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
+Gujarat Titans,M Shahrukh Khan,7dcb9bc9,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Gujarat Titans,Rashid Khan,5f547c8b,8,31,24,2,1,129.17,"[6, 8]",2.0,12,6,0,12,0,1,1,0,0,0,0,6.0,0,0,0,0,0,49,33,0,82
+Gujarat Titans,MM Sharma,759ac88f,9,2,14,0,0,14.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,-4,0,8,4
+Gujarat Titans,Noor Ahmad,efc04be7,10,1,7,0,0,14.29,"[7, 9]",1.833,11,5,0,14,3,0,0,0,0,0,0,7.64,0,0,0,0,0,1,5,0,6
+Gujarat Titans,SH Johnson,83c3e8e3,11,1,1,0,0,100.0,"[2, 4]",2.0,12,6,0,22,3,1,1,0,0,0,2,11.0,1,0,0,0,0,1,29,8,38
+Gujarat Titans,S Sandeep Warrier,cdc6bdba,12,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,6,0,40,3,4,2,0,1,0,0,13.33,0,0,0,0,0,0,58,0,58

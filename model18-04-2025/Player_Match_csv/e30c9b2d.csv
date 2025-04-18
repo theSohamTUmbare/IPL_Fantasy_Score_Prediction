@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-02-07'],Bangladesh Premier League,1412297,Durdanto Dhaka,6,12,17,0,0,70.59,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+['2024-01-27'],Bangladesh Premier League,1412285,Durdanto Dhaka,4,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2024-01-22'],Bangladesh Premier League,1412278,Durdanto Dhaka,7,46,31,3,2,148.39,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,76,0,0,76
+['2024-01-19'],Bangladesh Premier League,1412274,Durdanto Dhaka,3,5,8,0,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,5,0,8,13

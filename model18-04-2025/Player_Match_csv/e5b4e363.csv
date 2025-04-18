@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2018-10-10'],ICC World Twenty20 Asia Region Qualifier B,1160961,Bhutan,11,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,6,0,29,0,2,1,0,1,0,0,7.25,0,0,0,0,0,0,39,0,39
+['2018-10-09'],ICC World Twenty20 Asia Region Qualifier B,1160958,Bhutan,11,4,20,0,0,20.0,"[14, 16, 18, 20]",4.0,24,2,0,33,1,1,1,0,0,0,0,8.25,0,0,0,0,-6,-2,27,0,25
+['2018-10-04'],ICC World Twenty20 Asia Region Qualifier B,1160948,Bhutan,11,0,0,0,0,0.0,"[10, 12]",2.0,12,11,1,1,0,0,1,0,1,0,0,0.5,0,0,0,0,0,0,62,0,62

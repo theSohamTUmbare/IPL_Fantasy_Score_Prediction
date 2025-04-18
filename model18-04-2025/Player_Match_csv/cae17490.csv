@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-11-06'],Spain Triangular T20I Series,1339210,Italy,11,0,0,0,0,0.0,"[1, 3, 17]",3.0,18,12,1,9,1,0,3,0,1,0,0,3.0,1,0,0,0,0,0,117,8,125
+['2022-11-04'],Spain Triangular T20I Series,1339205,Italy,10,10,7,0,1,142.86,"[1, 3]",2.0,12,5,0,17,2,1,0,0,0,0,0,8.5,0,0,0,0,0,16,5,0,21
+['2022-07-19'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321280,Italy,11,0,0,0,0,0.0,"[2, 4, 9]",3.0,18,7,0,15,1,0,0,0,0,0,0,5.0,0,0,0,0,0,0,11,0,11
+['2022-07-16'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321272,Italy,11,0,0,0,0,0.0,"[1, 3, 5, 20]",4.0,24,17,0,10,1,0,2,0,0,0,0,2.5,0,0,0,1,0,0,73,6,79
+['2022-07-15'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321265,Italy,11,0,0,0,0,0.0,"[2, 4, 7, 9]",4.0,24,12,0,20,1,1,2,0,1,0,0,5.0,0,0,0,0,0,0,74,0,74

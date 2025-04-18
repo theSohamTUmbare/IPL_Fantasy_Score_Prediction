@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-09-09'],ICC Men's T20 World Cup Asia Qualifier A,1447496,Malaysia,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2024-08-23'],Malaysia Tri-Nation T20I Series,1446773,Malaysia,2,8,13,0,1,61.54,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,12,0,0,12
+['2024-08-22'],Malaysia Tri-Nation T20I Series,1446772,Malaysia,2,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2

@@ -1,0 +1,27 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-08-30'],East Africa Cup,1393331,Tanzania,3,3,9,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2023-08-25'],East Africa Cup,1393315,Tanzania,3,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2023-08-22'],East Africa Cup,1393328,Tanzania,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2023-08-20'],East Africa Cup,1393310,Tanzania,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2022-12-08'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343790,Tanzania,3,0,7,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2022-12-06'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343786,Tanzania,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2022-12-01'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343768,Tanzania,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2022-09-22'],Africa Cricket Association Cup,1332510,Tanzania,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2022-09-21'],Africa Cricket Association Cup,1332509,Tanzania,4,16,22,2,0,72.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
+['2022-09-20'],Africa Cricket Association Cup,1332505,Tanzania,3,6,5,1,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+['2022-09-17'],Africa Cricket Association Cup,1332497,Tanzania,5,19,15,3,0,126.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31
+['2021-11-20'],ICC Men's T20 World Cup Africa Region Qualifier,1289050,Tanzania,4,8,10,1,0,80.0,[6],1.0,6,2,0,13,1,1,0,0,0,0,0,13.0,0,0,0,0,0,12,2,0,14
+['2021-11-20'],ICC Men's T20 World Cup Africa Region Qualifier,1289053,Tanzania,6,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,1,0,6,7
+['2021-11-18'],ICC Men's T20 World Cup Africa Region Qualifier,1289046,Tanzania,4,21,10,2,1,210.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,41,0,0,41
+['2021-11-18'],ICC Men's T20 World Cup Africa Region Qualifier,1289048,Tanzania,5,21,15,3,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,35,0,0,35
+['2021-11-17'],ICC Men's T20 World Cup Africa Region Qualifier,1289042,Tanzania,4,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2021-11-17'],ICC Men's T20 World Cup Africa Region Qualifier,1289045,Tanzania,4,6,7,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+['2021-11-07'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283051,Tanzania,4,4,7,0,0,57.14,"[16, 18, 20]",3.0,18,5,0,35,2,2,3,0,0,1,0,11.67,0,0,0,0,0,4,80,0,84
+['2021-11-06'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283049,Tanzania,4,29,20,4,0,145.0,[17],0.333,2,2,0,0,0,0,1,0,1,0,0,0.0,0,0,0,0,2,51,35,0,86
+['2021-11-03'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283045,Tanzania,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2021-11-02'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283043,Tanzania,4,60,42,9,0,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,106,0,0,106
+['2018-07-14'],ICC World Twenty20 Africa Region Qualifier B,1151253,Tanzania,1,2,3,0,0,66.67,"[16, 18]",2.0,12,5,0,17,2,0,2,0,2,0,2,8.5,0,0,0,0,0,2,71,0,73
+['2018-07-13'],ICC World Twenty20 Africa Region Qualifier B,1151251,Tanzania,1,0,3,0,0,0.0,"[18, 20]",2.0,12,5,0,19,0,2,1,0,0,0,1,9.5,0,0,0,0,0,-2,30,0,28
+['2018-07-11'],ICC World Twenty20 Africa Region Qualifier B,1151249,Tanzania,1,14,14,3,0,100.0,"[13, 15]",2.0,12,4,0,28,3,2,1,0,1,0,0,14.0,0,0,0,0,0,26,31,0,57
+['2018-07-10'],ICC World Twenty20 Africa Region Qualifier B,1151247,Tanzania,1,4,9,1,0,44.44,[7],1.0,6,0,0,28,0,3,0,0,0,1,5,28.0,0,0,0,0,0,8,0,0,8
+['2018-07-07'],ICC World Twenty20 Africa Region Qualifier B,1151244,Tanzania,1,31,28,4,0,110.71,"[14, 16]",2.0,12,5,0,11,1,0,1,0,0,0,0,5.5,1,0,0,0,0,51,34,8,93

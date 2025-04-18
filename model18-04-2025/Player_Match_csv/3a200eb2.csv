@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-11-28'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459377,Ivory Coast,5,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2024-11-27'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459385,Ivory Coast,6,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2024-11-26'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459382,Ivory Coast,5,1,7,0,0,14.29,[3],0.167,1,0,0,11,1,1,0,0,0,1,0,65.87,0,0,0,0,0,1,0,0,1
+['2024-11-24'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459387,Ivory Coast,3,1,8,0,0,12.5,"[3, 8, 13, 18]",4.0,24,4,0,45,4,0,0,0,0,1,4,11.25,0,0,0,0,0,1,0,0,1
+['2024-11-23'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459375,Ivory Coast,3,5,3,1,0,166.67,"[3, 8, 13, 18]",4.0,24,7,0,29,1,0,0,0,0,1,1,7.25,0,0,0,0,0,9,7,0,16

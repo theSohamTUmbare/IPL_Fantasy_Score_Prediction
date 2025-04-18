@@ -1,0 +1,13 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-11-28'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459378,Sierra Leone,1,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2024-11-27'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459383,Sierra Leone,1,24,31,3,0,77.42,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,36,0,0,36
+['2024-11-26'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459380,Sierra Leone,1,14,10,2,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,24,0,8,32
+['2024-11-24'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459386,Sierra Leone,1,40,29,4,2,137.93,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,74,0,0,74
+['2024-11-23'],ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C,1459375,Sierra Leone,1,37,24,5,0,154.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,65,0,0,65
+['2023-10-15'],West Africa Trophy,1400990,Sierra Leone,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2023-10-14'],West Africa Trophy,1400989,Sierra Leone,1,8,17,0,0,47.06,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,2,0,0,2
+['2023-10-12'],West Africa Trophy,1400987,Sierra Leone,1,10,15,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,12,0,0,12
+['2023-10-11'],West Africa Trophy,1400985,Sierra Leone,2,5,10,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,1,0,0,1
+['2023-10-10'],West Africa Trophy,1400983,Sierra Leone,1,8,6,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+['2023-10-08'],West Africa Trophy,1400980,Sierra Leone,2,4,9,0,0,44.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+['2023-10-05'],West Africa Trophy,1400974,Sierra Leone,8,3,7,0,0,42.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11

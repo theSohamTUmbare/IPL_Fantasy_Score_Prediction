@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-02-15'],CSA T20 Challenge,1299616,Lions,6,5,9,0,0,55.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
+['2022-02-13'],CSA T20 Challenge,1299612,Lions,6,8,4,0,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,1,0,0,14,0,24,38
+['2022-02-10'],CSA T20 Challenge,1299609,Lions,6,10,9,2,0,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,1,0,18,0,18,36
+['2022-02-08'],CSA T20 Challenge,1299604,Lions,6,5,6,0,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,5,0,14,19
+['2021-02-26'],CSA T20 Challenge,1235386,Lions,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0

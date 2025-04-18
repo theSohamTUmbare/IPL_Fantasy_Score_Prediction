@@ -1,0 +1,14 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-11-05'],Syed Mushtaq Ali Trophy,1333055,Himachal Pradesh,7,25,22,3,0,113.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,41,0,0,41
+['2022-11-03'],Syed Mushtaq Ali Trophy,1333053,Himachal Pradesh,5,43,24,4,2,179.17,[15],1.0,6,1,0,8,1,0,1,0,0,0,0,8.0,0,0,0,0,6,81,26,0,107
+['2022-10-22'],Syed Mushtaq Ali Trophy,1333041,Himachal Pradesh,7,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,17,0,7,0,0,2,0,2,0,0,1.75,2,0,0,0,0,0,89,16,105
+['2022-10-20'],Syed Mushtaq Ali Trophy,1333024,Himachal Pradesh,7,0,0,0,0,0.0,[18],1.0,6,1,0,5,0,0,1,0,0,0,0,5.0,0,0,0,0,0,0,26,0,26
+['2022-10-18'],Syed Mushtaq Ali Trophy,1333005,Himachal Pradesh,5,37,21,5,1,176.19,"[10, 15]",2.0,12,4,0,11,1,0,0,0,0,0,0,5.5,1,0,0,0,6,73,8,8,89
+['2021-11-16'],Syed Mushtaq Ali Trophy,1280295,Himachal,5,12,17,0,0,70.59,"[10, 12]",2.0,12,3,0,20,2,1,0,0,0,0,0,10.0,0,0,0,0,0,12,1,0,13
+['2021-11-09'],Syed Mushtaq Ali Trophy,1280280,Himachal,3,9,6,2,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
+['2021-11-05'],Syed Mushtaq Ali Trophy,1280224,Himachal,6,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,1,0,12,13
+['2021-11-04'],Syed Mushtaq Ali Trophy,1280204,Himachal,9,15,10,2,0,150.0,"[14, 16, 18]",2.667,16,3,0,27,4,0,0,0,0,0,0,10.12,0,0,0,0,0,23,1,0,24
+['2021-01-14'],Syed Mushtaq Ali Trophy,1244351,Himachal,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2021-01-12'],Syed Mushtaq Ali Trophy,1244333,Himachal,8,1,5,0,0,20.0,"[11, 13, 15, 18]",4.0,24,10,0,20,1,0,0,0,0,0,0,5.0,0,0,0,0,0,1,14,0,15
+['2021-01-10'],Syed Mushtaq Ali Trophy,1244313,Himachal,4,25,18,2,0,138.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,2,39,0,12,51
+['2019-11-18'],Syed Mushtaq Ali Trophy,1205835,Himachal,7,0,0,0,0,0.0,"[9, 11, 15]",3.0,18,9,0,24,3,1,2,0,0,0,0,8.0,4,0,0,0,0,0,59,36,95

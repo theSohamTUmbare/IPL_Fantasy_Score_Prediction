@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2018-09-02'],ICC World Twenty20 Europe Region Qualifier A,1155316,France,9,15,27,2,0,55.56,"[2, 4, 6, 15]",4.0,24,10,0,24,1,1,1,0,1,0,0,6.0,0,0,0,0,-4,19,45,0,64
+['2018-08-30'],ICC World Twenty20 Europe Region Qualifier A,1155308,France,7,11,8,1,0,137.5,"[2, 4, 11, 13]",4.0,24,11,0,25,1,0,1,0,1,0,2,6.25,0,0,0,0,0,15,46,0,61
+['2018-08-30'],ICC World Twenty20 Europe Region Qualifier A,1155310,France,6,2,13,0,0,15.38,"[2, 4, 13, 20]",4.0,24,6,0,38,1,1,1,0,0,0,6,9.5,0,0,0,0,-6,-4,31,0,27

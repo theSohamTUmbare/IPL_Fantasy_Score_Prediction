@@ -1,0 +1,12 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-08-24'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A,1444963,Samoa,10,14,3,0,2,466.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,26,0,8,34
+['2024-08-23'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A,1444961,Samoa,11,0,0,0,0,0.0,[14],1.0,6,0,0,19,4,0,0,0,0,0,1,19.0,0,0,0,0,0,0,0,0,0
+['2024-08-21'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A,1444958,Samoa,8,0,0,0,0,0.0,[7],1.0,6,3,0,7,1,0,0,0,0,0,1,7.0,0,0,0,0,0,0,3,0,3
+['2024-08-20'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A,1444956,Samoa,9,0,0,0,0,0.0,"[6, 8, 11, 19]",4.0,24,7,0,34,2,2,3,1,2,0,1,8.5,1,0,0,0,0,0,110,8,118
+['2024-08-19'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A,1444954,Samoa,10,0,1,0,0,0.0,[12],1.0,6,3,0,6,1,0,0,0,0,0,0,6.0,0,0,0,0,0,-2,3,0,1
+['2024-08-17'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A,1444953,Samoa,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2022-09-15'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A,1333928,Samoa,10,2,4,0,0,50.0,"[2, 17, 19]",3.0,18,3,0,32,2,2,0,0,0,0,0,10.67,0,0,0,0,0,2,1,0,3
+['2022-09-14'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A,1333926,Samoa,10,0,0,0,0,0.0,"[2, 4, 11]",3.0,18,10,0,23,4,0,1,0,1,0,0,7.67,0,0,0,0,0,0,43,0,43
+['2022-09-13'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A,1333924,Samoa,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2022-09-11'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A,1333923,Samoa,9,0,0,0,0,0.0,[12],1.0,6,2,0,14,0,2,0,0,0,0,0,14.0,0,0,0,0,0,0,2,0,2
+['2022-09-10'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A,1333921,Samoa,11,2,2,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2

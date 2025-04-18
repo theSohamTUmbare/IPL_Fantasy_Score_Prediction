@@ -1,0 +1,11 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-07-15'],Valletta Cup,1384597,Luxembourg,7,10,7,0,1,142.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
+['2023-07-12'],Mdina Cup,1384587,Luxembourg,7,2,3,0,0,66.67,"[7, 9]",2.0,12,2,0,27,2,2,0,0,0,0,0,13.5,0,0,0,0,0,2,-4,0,-2
+['2023-07-11'],Mdina Cup,1384584,Luxembourg,8,7,8,0,0,87.5,"[8, 10]",2.0,12,2,0,19,1,1,0,0,0,0,0,9.5,0,0,0,0,0,7,2,0,9
+['2022-07-25'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321288,Luxembourg,2,5,14,0,0,35.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,-1,0,8,7
+['2022-07-24'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321281,Luxembourg,2,4,2,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16
+['2022-07-10'],Central Europe Cup,1321309,Luxembourg,2,8,7,0,1,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,14,0,8,22
+['2022-07-09'],Central Europe Cup,1321308,Luxembourg,3,16,8,3,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
+['2022-07-08'],Central Europe Cup,1321305,Luxembourg,2,25,34,2,0,73.53,"[15, 17]",1.333,8,4,0,11,1,0,1,0,0,0,1,8.25,0,0,0,0,0,37,29,0,66
+['2022-07-08'],Central Europe Cup,1321306,Luxembourg,2,14,19,0,1,73.68,"[2, 4]",2.0,12,5,0,22,3,1,0,0,0,0,0,11.0,0,0,0,0,0,20,3,0,23
+['2021-05-22'],Central Europe Cup,1263711,Luxembourg,2,11,9,1,0,122.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
