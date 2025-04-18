@@ -1,0 +1,15 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-08-30'],ICC Men's T20 World Cup Asia Qualifier A,1447479,Kuwait,8,2,3,0,0,66.67,"[16, 18]",2.0,12,9,0,5,0,0,1,0,1,0,1,2.5,0,0,0,0,0,2,48,0,50
+['2024-08-22'],Malaysia Tri-Nation T20I Series,1446772,Kuwait,6,2,7,0,0,28.57,"[5, 7]",2.0,12,2,0,14,1,0,0,0,0,0,0,7.0,1,0,0,0,0,2,4,8,14
+['2024-08-21'],Malaysia Tri-Nation T20I Series,1446771,Kuwait,8,10,6,0,1,166.67,"[5, 7, 16]",3.0,18,2,0,35,4,1,0,0,0,0,0,11.67,0,0,0,0,0,16,-2,0,14
+['2024-04-17'],ACC Men's Premier Cup,1426474,Kuwait,10,6,8,1,0,75.0,"[7, 9, 11, 13]",4.0,24,9,0,25,2,1,1,0,0,0,0,6.25,0,0,0,0,0,10,36,0,46
+['2024-04-15'],ACC Men's Premier Cup,1426468,Kuwait,7,9,4,2,0,225.0,"[10, 12, 14]",3.0,18,3,0,31,3,1,1,0,0,0,0,10.33,0,0,0,0,0,17,26,0,43
+['2024-04-13'],ACC Men's Premier Cup,1426459,Kuwait,9,0,0,0,0,0.0,"[14, 16, 18]",3.0,18,7,0,25,3,1,1,0,0,0,0,8.33,0,0,0,0,0,0,32,0,32
+['2024-04-12'],ACC Men's Premier Cup,1426456,Kuwait,9,8,6,1,0,133.33,[16],1.0,6,1,0,13,1,1,0,0,0,0,0,13.0,0,0,0,0,0,12,1,0,13
+['2024-03-11'],Malaysia Open T20 Championship,1422817,Kuwait,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2024-03-09'],Malaysia Open T20 Championship,1422813,Kuwait,4,16,28,1,0,57.14,"[8, 10, 12, 14]",3.667,22,10,0,19,0,1,2,0,0,0,1,5.18,0,0,0,0,-4,16,64,0,80
+['2024-03-07'],Malaysia Open T20 Championship,1422812,Kuwait,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
+['2024-03-06'],Malaysia Open T20 Championship,1422809,Kuwait,5,18,28,2,0,64.29,"[15, 17, 19]",3.0,18,15,1,4,0,0,1,1,0,0,1,1.33,0,0,0,0,-2,24,66,0,90
+['2023-11-02'],ICC Men's T20 World Cup Asia Qualifier Final,1405324,Kuwait,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2023-10-31'],ICC Men's T20 World Cup Asia Qualifier Final,1405320,Kuwait,10,11,9,1,0,122.22,[13],1.0,6,3,0,7,1,0,0,0,0,0,1,7.0,0,0,0,0,0,15,3,0,18
+['2023-10-02'],ICC Men's T20 World Cup Sub Regional Asia Qualifier A,1399144,Kuwait,10,0,0,0,0,0.0,[10],1.0,6,2,0,12,1,1,0,0,0,0,0,12.0,1,0,0,0,0,0,2,8,10

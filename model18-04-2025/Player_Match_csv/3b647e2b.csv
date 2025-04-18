@@ -1,0 +1,9 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2020-09-05'],Caribbean Premier League,1227891,St Lucia Zouks,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2020-09-02'],Caribbean Premier League,1227888,St Lucia Zouks,3,1,7,0,0,14.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+['2020-08-30'],Caribbean Premier League,1227883,St Lucia Zouks,3,18,20,3,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30
+['2019-09-22'],Caribbean Premier League,1185855,Barbados Tridents,7,8,12,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,10,0,0,10
+['2019-09-20'],Caribbean Premier League,1185853,Barbados Tridents,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2019-09-15'],Caribbean Premier League,1185848,Barbados Tridents,3,15,14,2,0,107.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
+['2019-09-11'],Caribbean Premier League,1185844,Barbados Tridents,3,62,47,4,3,131.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,106,0,16,122
+['2019-09-08'],Caribbean Premier League,1185842,Barbados Tridents,3,16,14,3,0,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,28,0,16,44

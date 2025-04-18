@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-12-16'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462911,Brazil,8,3,9,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2024-12-15'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462904,Brazil,8,6,11,0,0,54.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,1,-4,2,0,18,20
+['2024-12-14'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462900,Brazil,8,5,18,0,0,27.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,-1,0,8,7
+['2024-12-12'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462896,Brazil,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,0,20,20

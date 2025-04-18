@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2016-01-08'],Syed Mushtaq Ali Trophy,902179,Uttar Pradesh,6,38,17,2,3,223.53,[19],1.0,6,2,0,9,0,1,0,0,0,0,0,9.0,0,0,0,0,6,74,2,0,76
+['2016-01-03'],Syed Mushtaq Ali Trophy,902129,Uttar Pradesh,7,7,2,0,1,350.0,[15],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,0,13,2,0,15
+['2016-01-02'],Syed Mushtaq Ali Trophy,902109,Uttar Pradesh,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16

@@ -1,0 +1,25 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Chennai Super Kings,RD Gaikwad,45a43fe2,1,57,31,3,4,183.87,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,107,0,8,115
+Chennai Super Kings,DP Conway,df5a6881,2,47,28,5,2,167.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,87,0,8,95
+Chennai Super Kings,S Dube,a4e37e47,3,27,16,1,3,168.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,57,0,0,57
+Chennai Super Kings,MM Ali,bb351c23,4,19,13,3,0,146.15,"[6, 8, 10, 14]",4.0,24,10,0,26,0,1,4,0,1,0,1,6.5,0,0,0,0,2,33,128,0,161
+Chennai Super Kings,BA Stokes,e087956b,5,8,8,1,0,100.0,[2],1.0,6,0,0,18,2,1,0,0,0,0,0,18.0,2,0,0,0,0,12,0,16,28
+Chennai Super Kings,AT Rayudu,70d205c9,6,27,14,2,2,192.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,57,0,0,57
+Chennai Super Kings,RA Jadeja,fe93fd9d,7,3,6,0,0,50.0,[15],1.0,6,2,0,14,0,2,0,0,0,0,0,14.0,1,0,0,0,0,3,2,8,13
+Chennai Super Kings,MS Dhoni,4a8a2e3b,8,12,3,0,2,400.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,24,0,8,32
+Chennai Super Kings,MJ Santner,e4a0deae,9,1,1,0,0,100.0,"[7, 9, 11, 13]",4.0,24,8,0,21,0,1,1,0,0,0,0,5.25,0,0,0,0,0,1,37,0,38
+Chennai Super Kings,TU Deshpande,46a9bea1,10,0,0,0,0,0.0,"[4, 16, 18, 20]",4.0,24,7,0,45,2,2,2,0,0,3,4,11.25,0,0,0,0,0,0,53,0,53
+Chennai Super Kings,DL Chahar,23eeb873,11,0,0,0,0,0.0,"[1, 3, 5, 17]",4.0,24,6,0,55,7,1,0,0,0,0,5,13.75,0,0,0,0,0,0,0,0,0
+Chennai Super Kings,RS Hangargekar,c3c92b42,12,0,0,0,0,0.0,"[12, 19]",2.0,12,4,0,24,2,1,0,0,0,0,3,12.0,0,0,0,0,0,0,0,0,0
+Lucknow Super Giants,KL Rahul,b17e2f24,1,20,18,2,0,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
+Lucknow Super Giants,KR Mayers,73c18486,2,53,20,8,2,265.0,"[1, 3]",2.0,12,1,0,16,1,0,0,0,0,0,1,8.0,0,0,0,0,6,111,1,0,112
+Lucknow Super Giants,DJ Hooda,73ad96ed,3,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+Lucknow Super Giants,KH Pandya,5b8c830e,4,9,9,0,1,100.0,"[4, 8]",2.0,12,3,0,21,1,2,0,0,0,0,0,10.5,1,0,0,0,0,15,1,8,24
+Lucknow Super Giants,MP Stoinis,d9273ee7,5,21,18,0,1,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27
+Lucknow Super Giants,N Pooran,3241e3fd,6,32,18,2,3,177.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,6,68,0,12,80
+Lucknow Super Giants,A Badoni,872b03f7,7,23,18,0,0,127.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
+Lucknow Super Giants,K Gowtham,90de905a,8,17,10,0,1,170.0,[5],1.0,6,2,0,20,0,3,0,0,0,0,0,20.0,0,0,0,0,4,27,2,0,29
+Lucknow Super Giants,MA Wood,8d92a2c3,9,10,3,1,1,333.33,"[6, 11, 18, 20]",4.0,24,6,0,49,3,5,3,0,0,0,0,12.25,2,0,0,0,0,20,79,16,115
+Lucknow Super Giants,Avesh Khan,eef2536f,10,0,0,0,0,0.0,"[2, 15, 17]",3.0,18,4,0,39,6,0,1,0,0,0,5,13.0,0,0,0,0,0,0,23,0,23
+Lucknow Super Giants,Yash Thakur,4b31f3a3,11,0,0,0,0,0.0,"[7, 9, 13, 19]",4.0,24,3,0,36,3,1,0,0,0,1,0,9.0,1,0,0,0,0,0,3,8,11
+Lucknow Super Giants,Ravi Bishnoi,df064e1a,12,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,13,0,28,1,2,3,0,0,0,1,7.0,2,0,0,0,0,0,94,16,110

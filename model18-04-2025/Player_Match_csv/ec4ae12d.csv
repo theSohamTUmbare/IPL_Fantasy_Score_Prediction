@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2025-02-05'],Malta Tri-Nation T20I Series,1470190,Austria,6,15,3,0,2,500.0,[15],1.0,6,2,0,16,0,2,0,0,0,1,0,16.0,1,0,0,0,0,27,2,8,37
+['2025-02-05'],Malta Tri-Nation T20I Series,1470191,Austria,9,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2025-02-04'],Malta Tri-Nation T20I Series,1470188,Austria,7,0,0,0,0,0.0,[13],1.0,6,0,0,26,0,4,0,0,0,0,0,26.0,1,0,0,0,0,0,0,8,8
+['2025-02-03'],Malta Tri-Nation T20I Series,1470187,Austria,9,0,0,0,0,0.0,"[15, 17, 19]",3.0,18,9,0,15,1,0,3,0,0,1,0,5.0,0,0,0,0,0,0,92,0,92

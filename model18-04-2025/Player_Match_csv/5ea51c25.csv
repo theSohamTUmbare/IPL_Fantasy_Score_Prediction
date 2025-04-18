@@ -1,0 +1,13 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-09-02'],Caribbean Premier League,1369572,Guyana Amazon Warriors,2,7,8,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,11,0,12,23
+['2023-08-27'],Caribbean Premier League,1369568,Guyana Amazon Warriors,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2019-12-17'],Bangladesh Premier League,1208075,Rajshahi Royals,2,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2019-12-13'],Bangladesh Premier League,1208071,Rajshahi Royals,1,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,-2,0,16,14
+['2019-12-12'],Bangladesh Premier League,1208069,Rajshahi Royals,1,56,47,5,3,119.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,102,0,0,102
+['2019-01-28'],Bangladesh Premier League,1169412,Dhaka Dynamites,1,17,18,1,1,94.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27
+['2019-01-22'],Bangladesh Premier League,1169404,Dhaka Dynamites,1,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+['2019-01-16'],Bangladesh Premier League,1169395,Dhaka Dynamites,1,6,6,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+['2019-01-12'],Bangladesh Premier League,1169390,Dhaka Dynamites,1,4,4,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+['2019-01-11'],Bangladesh Premier League,1169387,Dhaka Dynamites,1,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2019-01-08'],Bangladesh Premier League,1169383,Dhaka Dynamites,1,57,36,3,5,158.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,111,0,0,111
+['2019-01-05'],Bangladesh Premier League,1169380,Dhaka Dynamites,1,78,40,4,7,195.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,6,154,0,28,182

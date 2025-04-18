@@ -1,0 +1,7 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2021-09-03'],Continental Cup,1275268,Czech Republic,5,21,24,1,0,87.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
+['2021-09-02'],Continental Cup,1275270,Czech Republic,5,30,19,4,2,157.89,"[10, 12]",2.0,12,4,0,20,1,1,0,0,0,0,3,10.0,0,0,0,0,4,66,2,0,68
+['2021-05-23'],Central Europe Cup,1263713,Czech Republic,5,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
+['2021-05-22'],Central Europe Cup,1263710,Czech Republic,6,9,17,0,0,52.94,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,5,0,0,5
+['2021-05-22'],Central Europe Cup,1263711,Czech Republic,6,45,25,4,1,180.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,77,0,0,77
+['2020-08-30'],Luxembourg Twenty20 Tri-Series,1229822,Czech Republic,7,14,30,0,0,46.67,"[5, 7, 9, 11]",4.0,24,16,1,14,2,0,1,0,0,0,1,3.5,1,0,0,0,-6,8,59,8,75

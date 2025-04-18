@@ -1,0 +1,3 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2018-10-09'],ICC World Twenty20 Asia Region Qualifier B,1160957,Singapore,10,0,0,0,0,0.0,"[14, 16, 18, 20]",3.833,23,13,0,10,0,0,3,1,1,0,0,2.61,0,0,0,0,0,0,114,0,114
+['2018-10-04'],ICC World Twenty20 Asia Region Qualifier B,1160950,Singapore,7,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,20,2,8,1,0,2,1,0,0,0,2.0,0,0,0,0,0,0,108,0,108

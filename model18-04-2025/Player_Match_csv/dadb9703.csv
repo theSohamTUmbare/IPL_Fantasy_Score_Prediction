@@ -1,0 +1,12 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-10-24'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1453925,Zimbabwe,8,0,0,0,0,0.0,"[12, 14, 16]",3.0,18,8,0,18,1,1,2,0,1,0,0,6.0,0,0,0,0,0,0,68,0,68
+['2024-10-23'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1453932,Zimbabwe,10,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,19,1,10,1,0,3,0,1,0,1,2.5,0,0,0,0,0,0,124,0,124
+['2024-07-14'],India tour of Zimbabwe,1420227,Zimbabwe,9,4,7,0,0,57.14,"[7, 10, 12, 15]",4.0,24,8,0,39,0,4,1,0,0,0,2,9.75,0,0,0,0,0,4,33,0,37
+['2023-12-10'],Ireland tour of Zimbabwe,1408105,Zimbabwe,7,8,8,0,0,100.0,"[7, 9, 12]",3.0,18,7,0,17,2,0,1,0,0,0,0,5.67,0,0,0,0,0,8,36,0,44
+['2022-05-24'],Namibia tour of Zimbabwe,1310942,Zimbabwe,10,2,3,0,0,66.67,[7],1.0,6,2,0,14,1,0,0,0,0,0,2,14.0,0,0,0,0,0,2,2,0,4
+['2022-05-21'],Namibia tour of Zimbabwe,1310940,Zimbabwe,9,0,0,0,0,0.0,"[8, 10]",2.0,12,4,0,12,1,0,0,0,0,0,0,6.0,0,0,0,0,0,0,6,0,6
+['2022-05-19'],Namibia tour of Zimbabwe,1310939,Zimbabwe,10,0,1,0,0,0.0,"[7, 13]",2.0,12,2,0,19,2,0,0,0,0,0,2,9.5,0,0,0,0,0,0,2,0,2
+['2022-05-17'],Namibia tour of Zimbabwe,1310938,Zimbabwe,8,0,0,0,0,0.0,"[7, 10, 12]",3.0,18,5,0,20,1,0,1,0,0,0,3,6.67,0,0,0,0,0,0,32,0,32
+['2018-10-12'],Zimbabwe tour of South Africa,1144150,Zimbabwe,9,7,6,0,0,116.67,"[5, 7, 9, 12]",4.0,24,10,0,29,3,1,1,0,1,0,1,7.25,1,0,0,0,0,7,43,8,58
+['2018-10-09'],Zimbabwe tour of South Africa,1144149,Zimbabwe,9,28,14,2,2,200.0,"[7, 9, 12, 15]",4.0,24,9,0,19,1,0,1,0,0,0,0,4.75,0,0,0,0,6,58,40,0,98
+['2018-07-06'],Zimbabwe Twenty20 Tri-Series,1142918,Zimbabwe,9,6,3,1,0,200.0,"[8, 10, 12, 15]",4.0,24,7,0,33,1,1,0,0,0,0,3,8.25,0,0,0,0,0,10,7,0,17

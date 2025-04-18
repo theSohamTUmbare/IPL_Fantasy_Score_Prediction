@@ -1,0 +1,11 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-07-03'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1320985,Hungary,4,6,9,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,10,0,16,26
+['2022-07-01'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1320978,Hungary,3,15,12,2,1,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,0,29,0,14,43
+['2022-06-29'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1320976,Hungary,5,52,37,3,4,140.54,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,98,0,8,106
+['2022-05-15'],Valletta Cup,1310186,Hungary,8,4,3,0,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+['2022-05-14'],Valletta Cup,1310182,Hungary,8,24,12,0,2,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,42,0,0,42
+['2022-05-12'],Valletta Cup,1310178,Hungary,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2021-09-05'],Continental Cup,1275276,Hungary,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2021-09-04'],Continental Cup,1275274,Hungary,8,41,19,3,2,215.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,75,0,0,75
+['2021-09-03'],Continental Cup,1275272,Hungary,6,6,11,0,0,54.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,2,0,0,2
+['2021-09-02'],Continental Cup,1275270,Hungary,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,0,0,20,20

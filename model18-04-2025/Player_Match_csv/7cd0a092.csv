@@ -1,0 +1,15 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-11-08'],Pakistan tour of Australia,1183529,Pakistan,4,8,16,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,4,0,0,4
+['2019-11-05'],Pakistan tour of Australia,1183528,Pakistan,3,6,9,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6
+['2019-11-03'],Pakistan tour of Australia,1183527,Pakistan,3,4,6,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+['2019-10-09'],Sri Lanka tour of Pakistan,1198491,Pakistan,3,52,50,4,1,104.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,82,0,0,82
+['2019-05-05'],Pakistan tour of England,1152840,Pakistan,4,50,36,5,1,138.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,86,0,0,86
+['2018-07-05'],Zimbabwe Twenty20 Tri-Series,1142917,Pakistan,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2018-07-04'],Zimbabwe Twenty20 Tri-Series,1142916,Pakistan,2,16,15,1,0,106.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
+['2018-01-28'],Pakistan tour of New Zealand,1115809,Pakistan,5,20,12,3,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,36,0,0,36
+['2018-01-25'],Pakistan tour of New Zealand,1115808,Pakistan,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
+['2018-01-22'],Pakistan tour of New Zealand,1115807,Pakistan,4,9,10,1,0,90.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,13,0,0,13
+['2015-04-24'],NA,858491,Pakistan,4,30,24,0,1,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,40,0,0,40
+['2014-12-05'],Pakistan v New Zealand T20I Series,754039,Pakistan,4,3,9,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2014-12-04'],Pakistan v New Zealand T20I Series,742617,Pakistan,4,11,12,1,0,91.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
+['2013-07-28'],Pakistan in West Indies T20I Series,645647,Pakistan,4,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9

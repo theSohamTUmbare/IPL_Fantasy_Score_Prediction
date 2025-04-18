@@ -1,0 +1,13 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-09-24'],Caribbean Premier League,1428703,St Lucia Kings,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2024-09-22'],Caribbean Premier League,1428701,St Lucia Kings,3,35,32,4,0,109.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,55,0,0,55
+['2024-09-21'],Caribbean Premier League,1428699,St Lucia Kings,3,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+['2024-09-15'],Caribbean Premier League,1428694,St Lucia Kings,3,35,27,5,0,129.63,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,59,0,0,59
+['2024-09-12'],Caribbean Premier League,1428691,St Lucia Kings,5,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2024-09-07'],Caribbean Premier League,1428687,St Lucia Kings,3,10,9,2,0,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
+['2024-09-03'],Caribbean Premier League,1428683,St Lucia Kings,4,27,20,0,2,135.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,45,0,0,45
+['2024-09-01'],Caribbean Premier League,1428682,St Lucia Kings,3,6,4,1,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,10,0,6,16
+['2022-09-22'],Caribbean Premier League,1323170,St Lucia Kings,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2022-09-08'],Caribbean Premier League,1323154,St Lucia Kings,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2022-09-07'],Caribbean Premier League,1323152,St Lucia Kings,4,4,10,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-2,0,0,-2
+['2022-09-01'],Caribbean Premier League,1323145,St Lucia Kings,7,11,11,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,17,0,8,25

@@ -1,0 +1,12 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-12-05'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343780,Mozambique,9,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,11,0,11,1,0,2,0,0,0,0,3.67,0,0,0,0,0,0,67,0,67
+['2022-12-04'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343776,Mozambique,6,0,0,0,0,0.0,"[2, 4]",2.0,12,9,0,7,0,0,1,0,0,3,1,3.5,2,0,0,0,0,0,40,16,56
+['2022-12-02'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343773,Mozambique,7,0,0,0,0,0.0,"[2, 4, 6]",3.0,18,6,0,19,3,0,1,0,1,0,0,6.33,0,0,0,0,0,0,41,0,41
+['2022-12-01'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343770,Mozambique,8,1,2,0,0,50.0,"[2, 4]",2.0,12,4,0,19,3,0,0,0,0,0,1,9.5,0,0,0,0,0,1,4,0,5
+['2022-09-19'],Africa Cricket Association Cup,1332504,Mozambique,9,4,10,0,0,40.0,"[2, 4]",2.0,12,2,0,20,1,1,0,0,0,0,1,10.0,0,0,1,0,-6,-2,0,12,10
+['2022-09-18'],Africa Cricket Association Cup,1332503,Mozambique,11,1,6,0,0,16.67,"[2, 4, 6, 20]",4.0,24,14,0,20,1,0,2,0,1,1,2,5.0,0,0,0,0,0,1,76,0,77
+['2022-09-16'],Africa Cricket Association Cup,1332498,Mozambique,8,0,0,0,0,0.0,"[7, 9]",2.0,12,4,0,19,3,0,1,1,0,0,0,9.5,0,0,0,0,0,0,37,0,37
+['2021-11-06'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283048,Mozambique,10,6,10,1,0,60.0,"[4, 6, 8, 10]",4.0,24,14,0,16,1,0,0,0,0,0,1,4.0,1,0,0,0,-2,8,20,8,36
+['2021-11-05'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283047,Mozambique,10,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+['2021-11-03'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283044,Mozambique,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2021-11-02'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1283043,Mozambique,10,9,12,1,0,75.0,"[1, 3]",2.0,12,3,0,32,2,3,2,0,0,1,2,16.0,0,0,0,0,0,13,47,0,60

@@ -1,0 +1,8 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-06-16'],Vitality Blast,1410426,Worcestershire,11,0,0,0,0,0.0,"[10, 14]",2.0,12,3,0,14,1,0,0,0,0,0,0,7.0,0,0,0,0,0,0,5,0,5
+['2024-06-07'],Vitality Blast,1410399,Worcestershire,11,0,1,0,0,0.0,"[2, 8, 10, 16]",4.0,24,7,0,38,2,3,2,0,0,0,0,9.5,0,0,0,0,0,0,57,0,57
+['2023-07-15'],Vitality Blast,1347699,Somerset,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2023-06-23'],Vitality Blast,1347674,Somerset,11,0,0,0,0,0.0,"[9, 12, 14]",3.0,18,5,0,31,1,2,1,0,1,0,5,10.33,0,0,0,0,0,0,36,0,36
+['2023-06-21'],Vitality Blast,1347663,Somerset,11,0,0,0,0,0.0,"[10, 12]",2.0,12,3,0,18,1,1,0,0,0,0,0,9.0,1,0,0,0,0,0,3,8,11
+['2023-06-09'],Vitality Blast,1347635,Somerset,11,0,0,0,0,0.0,"[7, 11, 14, 16]",4.0,24,7,0,26,1,1,3,0,0,0,0,6.5,0,0,0,0,0,0,88,0,88
+['2023-06-07'],Vitality Blast,1347623,Somerset,11,0,0,0,0,0.0,"[7, 15]",2.0,12,2,0,19,2,0,0,0,0,0,2,9.5,0,0,0,0,0,0,2,0,2

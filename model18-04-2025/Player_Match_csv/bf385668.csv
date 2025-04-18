@@ -1,0 +1,8 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2018-09-01'],ICC World Twenty20 Europe Region Qualifier A,1155313,Denmark,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2018-08-29'],ICC World Twenty20 Europe Region Qualifier A,1155306,Denmark,10,0,0,0,0,0.0,[6],1.0,6,4,0,2,0,0,0,0,0,0,0,2.0,0,0,0,0,0,0,4,0,4
+['2013-11-26'],ICC World Twenty20 Qualifier,660207,Denmark,11,6,4,0,0,150.0,"[6, 12, 14]",3.0,18,9,0,17,2,0,0,0,0,0,0,5.67,0,0,0,0,0,6,13,0,19
+['2013-11-24'],ICC World Twenty20 Qualifier,660195,Denmark,9,0,0,0,0,0.0,"[2, 4, 17]",3.0,18,7,0,33,3,2,1,0,0,1,0,11.0,0,0,0,0,0,0,30,0,30
+['2013-11-18'],ICC World Twenty20 Qualifier,660135,Denmark,10,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+['2013-11-16'],ICC World Twenty20 Qualifier,660111,Denmark,10,0,0,0,0,0.0,"[13, 15, 17]",2.333,14,7,0,10,1,0,0,0,0,0,0,4.29,0,0,0,0,0,0,13,0,13
+['2013-11-15'],ICC World Twenty20 Qualifier,660097,Denmark,11,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9

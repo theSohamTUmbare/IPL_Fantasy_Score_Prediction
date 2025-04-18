@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-01-31'],Bangladesh Premier League,1351083,Khulna Tigers,7,0,0,0,0,0.0,"[7, 13, 18]",3.0,18,4,0,52,5,4,1,0,0,0,3,17.33,0,0,0,0,0,0,23,0,23
+['2023-01-24'],Bangladesh Premier League,1351075,Khulna Tigers,7,7,8,0,1,87.5,"[10, 12]",2.0,12,4,0,25,2,2,0,0,0,0,0,12.5,1,0,0,0,0,13,-2,8,19
+['2023-01-20'],Bangladesh Premier League,1351070,Khulna Tigers,6,0,0,0,0,0.0,"[8, 10, 12, 19]",4.0,24,6,0,26,2,0,1,0,0,0,1,6.5,0,0,0,0,0,0,33,0,33
+['2023-01-17'],Bangladesh Premier League,1351066,Khulna Tigers,6,0,0,0,0,0.0,"[12, 14, 17]",3.0,18,6,0,16,1,0,3,0,0,0,0,5.33,1,0,0,0,0,0,89,8,97
+['2023-01-13'],Bangladesh Premier League,1351061,Khulna Tigers,7,4,7,0,0,57.14,"[6, 11, 13, 18]",4.0,24,12,0,31,6,0,0,0,0,0,1,7.75,0,0,0,0,0,4,12,0,16

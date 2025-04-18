@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2020-03-08'],Germany tour of Spain,1207081,Spain,10,0,0,0,0,0.0,"[7, 9, 17, 19]",4.0,24,5,0,27,1,0,1,0,0,0,2,6.75,0,0,0,0,0,0,32,0,32
+['2020-03-08'],Germany tour of Spain,1207082,Spain,7,3,7,0,0,42.86,[9],1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,1,0,0,0,0,3,1,8,12
+['2019-10-27'],Iberia Cup,1201673,Spain,7,0,0,0,0,0.0,[20],0.833,5,5,0,0,0,0,1,0,1,0,0,0.0,0,0,0,0,0,0,38,0,38
+['2019-10-26'],Iberia Cup,1201671,Spain,8,3,3,0,0,100.0,"[7, 9, 18]",2.667,16,7,0,12,1,0,2,0,1,0,0,4.5,1,0,0,0,0,3,71,8,82

@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2021-11-09'],Syed Mushtaq Ali Trophy,1280276,Punjab,11,0,0,0,0,0.0,"[10, 16]",2.0,12,1,0,24,2,1,0,0,0,0,2,12.0,0,0,0,0,0,0,-3,0,-3
+['2019-11-08'],Syed Mushtaq Ali Trophy,1205719,Punjab,8,0,0,0,0,0.0,"[4, 10, 12, 18]",4.0,24,8,0,32,2,2,0,0,0,0,0,8.0,0,0,0,0,0,0,8,0,8
+['2019-03-02'],Syed Mushtaq Ali Trophy,1157200,Punjab,11,0,0,0,0,0.0,"[6, 8, 16]",3.0,18,3,0,29,3,1,1,0,0,0,0,9.67,0,0,0,0,0,0,28,0,28
+['2019-02-28'],Syed Mushtaq Ali Trophy,1157182,Punjab,11,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,8,0,26,2,0,4,1,0,0,3,6.5,0,0,1,0,0,0,126,12,138
+['2019-02-27'],Syed Mushtaq Ali Trophy,1157166,Punjab,7,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,12,0,17,1,0,2,1,0,0,1,4.25,0,0,0,0,0,0,76,0,76

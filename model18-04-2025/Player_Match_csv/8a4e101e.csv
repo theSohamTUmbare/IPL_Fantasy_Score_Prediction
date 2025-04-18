@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-07-13'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439832,Slovenia,7,0,4,0,0,0.0,[9],1.0,6,1,0,13,2,0,0,0,0,0,2,13.0,0,0,0,0,0,-2,1,0,-1
+['2024-07-10'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439824,Slovenia,5,18,13,1,0,138.46,"[6, 20]",2.0,12,7,0,13,1,0,2,0,0,0,2,6.5,0,0,1,0,2,24,59,12,95
+['2024-07-09'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439817,Slovenia,5,8,9,1,0,88.89,[5],1.0,6,3,0,11,1,1,1,0,0,0,0,11.0,0,0,0,0,0,12,28,0,40

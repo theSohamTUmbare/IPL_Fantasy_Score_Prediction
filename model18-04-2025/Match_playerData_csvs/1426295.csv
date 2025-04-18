@@ -1,0 +1,24 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Lucknow Super Giants,KL Rahul,b17e2f24,1,29,33,1,1,87.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,43,0,0,43
+Lucknow Super Giants,Q de Kock,372455c4,2,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+Lucknow Super Giants,MP Stoinis,d9273ee7,3,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+Lucknow Super Giants,KH Pandya,5b8c830e,4,24,21,0,2,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,36,0,0,36
+Lucknow Super Giants,N Pooran,3241e3fd,5,48,26,6,1,184.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,88,0,0,88
+Lucknow Super Giants,A Badoni,872b03f7,6,55,30,9,0,183.33,[7],1.0,6,0,0,19,1,2,0,0,0,0,0,19.0,0,0,0,0,6,105,0,0,105
+Lucknow Super Giants,DJ Hooda,73ad96ed,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Lucknow Super Giants,K Gowtham,90de905a,8,0,0,0,0,0.0,"[1, 3]",2.0,12,4,0,29,2,3,0,0,0,0,1,14.5,0,0,0,0,0,0,-2,0,-2
+Lucknow Super Giants,Yash Thakur,4b31f3a3,9,0,0,0,0,0.0,"[2, 6, 10]",2.667,16,4,0,47,6,3,0,0,0,0,1,17.62,0,0,0,0,0,0,-2,0,-2
+Lucknow Super Giants,Ravi Bishnoi,df064e1a,10,0,0,0,0,0.0,"[4, 8]",2.0,12,4,0,34,2,4,0,0,0,0,0,17.0,0,0,0,0,0,0,-2,0,-2
+Lucknow Super Giants,Naveen-ul-Haq,c0c411cb,11,0,0,0,0,0.0,"[5, 9]",2.0,12,1,0,37,5,2,0,0,0,0,0,18.5,0,0,0,0,0,0,-5,0,-5
+Sunrisers Hyderabad,Abhishek Sharma,f29185a1,1,75,28,8,6,267.86,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,161,0,0,161
+Sunrisers Hyderabad,TM Head,12b610c2,2,89,30,8,8,296.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,187,0,0,187
+Sunrisers Hyderabad,T Natarajan,ce794613,3,0,0,0,0,0.0,"[12, 14, 17, 19]",4.0,24,4,0,50,8,0,0,0,0,0,3,12.5,1,0,0,0,0,0,-2,8,6
+Sunrisers Hyderabad,Nithish Kumar Reddy,aad0c365,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Sunrisers Hyderabad,H Klaasen,235c2bb6,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Sunrisers Hyderabad,Abdul Samad,8e514b4c,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Sunrisers Hyderabad,Shahbaz Ahmed,f9e6e7ef,7,0,0,0,0,0.0,"[4, 6]",2.0,12,4,0,9,0,0,0,0,0,0,0,4.5,0,0,0,0,0,0,10,0,10
+Sunrisers Hyderabad,Sanvir Singh,b0f2baf4,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Sunrisers Hyderabad,PJ Cummins,ded9240e,9,0,0,0,0,0.0,"[2, 10, 16, 20]",4.0,24,5,0,47,6,1,1,0,0,0,0,11.75,0,0,1,0,0,0,26,12,38
+Sunrisers Hyderabad,B Kumar,2e81a32d,10,0,0,0,0,0.0,"[1, 3, 5, 18]",4.0,24,11,0,12,0,0,2,0,0,0,0,3.0,0,0,0,0,0,0,67,0,67
+Sunrisers Hyderabad,JD Unadkat,1e66c162,11,0,0,0,0,0.0,"[8, 13]",2.0,12,4,0,19,0,2,0,0,0,0,0,9.5,0,0,0,0,0,0,4,0,4
+Sunrisers Hyderabad,V Viyaskanth,03a83c50,12,0,0,0,0,0.0,"[7, 9, 11, 15]",4.0,24,8,0,27,2,1,0,0,0,0,0,6.75,0,0,0,0,0,0,10,0,10

@@ -1,0 +1,15 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-02-15'],Quadrangular Twenty20 Series (Thailand),1420806,Saudi Arabia,5,19,22,0,1,86.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,25,0,20,45
+['2024-02-11'],Asian Cricket Council Men's Challenger Cup,1418197,Saudi Arabia,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2024-02-09'],Asian Cricket Council Men's Challenger Cup,1418194,Saudi Arabia,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
+['2024-02-03'],Asian Cricket Council Men's Challenger Cup,1418184,Saudi Arabia,2,47,40,3,3,117.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,81,0,0,81
+['2023-10-05'],ICC Men's T20 World Cup Sub Regional Asia Qualifier A,1399149,Saudi Arabia,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2023-10-02'],ICC Men's T20 World Cup Sub Regional Asia Qualifier A,1399145,Saudi Arabia,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0,0,12,12
+['2023-10-01'],ICC Men's T20 World Cup Sub Regional Asia Qualifier A,1399143,Saudi Arabia,8,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2022-11-21'],Desert Cup T20I Series,1344794,Saudi Arabia,8,28,21,0,3,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,52,0,0,52
+['2022-11-20'],Desert Cup T20I Series,1344793,Saudi Arabia,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2022-11-19'],Desert Cup T20I Series,1344790,Saudi Arabia,8,12,9,0,1,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26
+['2022-11-17'],Desert Cup T20I Series,1344788,Saudi Arabia,7,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2022-11-16'],Desert Cup T20I Series,1344786,Saudi Arabia,4,6,13,1,0,46.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,4,0,0,4
+['2022-11-15'],Desert Cup T20I Series,1344784,Saudi Arabia,5,36,33,4,1,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,62,0,0,62
+['2022-11-14'],Desert Cup T20I Series,1344782,Saudi Arabia,7,34,28,2,1,121.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,52,0,0,52

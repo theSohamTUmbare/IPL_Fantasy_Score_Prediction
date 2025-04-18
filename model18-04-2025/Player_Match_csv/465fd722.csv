@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-09-09'],ICC Men's T20 World Cup Asia Qualifier A,1447495,Singapore,5,0,0,0,0,0.0,"[7, 9, 11, 15]",4.0,24,18,0,9,1,0,2,0,0,0,0,2.25,0,0,0,0,0,0,74,0,74
+['2024-09-06'],ICC Men's T20 World Cup Asia Qualifier A,1447493,Singapore,4,0,3,0,0,0.0,"[6, 13, 17, 19]",4.0,24,5,0,46,3,3,1,0,0,0,2,11.5,0,0,0,0,0,-2,26,0,24
+['2023-11-02'],ICC Men's T20 World Cup Asia Qualifier Final,1405323,Singapore,8,3,4,0,0,75.0,[16],1.0,6,1,0,7,0,0,0,0,0,1,0,7.0,0,0,0,0,0,3,1,0,4
+['2023-10-31'],ICC Men's T20 World Cup Asia Qualifier Final,1405317,Singapore,8,2,10,0,0,20.0,"[6, 16]",2.0,12,4,0,20,4,0,0,0,0,0,0,10.0,0,0,0,0,-6,-4,2,0,-2
+['2023-10-30'],ICC Men’s T20 World Cup Asia Qualifier Final,1405314,Singapore,7,37,26,5,0,142.31,"[3, 5]",2.0,12,5,0,19,2,1,0,0,0,0,0,9.5,0,0,0,0,2,63,5,0,68

@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2018-01-28'],Pakistan tour of New Zealand,1115809,New Zealand,3,16,19,2,0,84.21,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,24,0,0,24
+['2018-01-22'],Pakistan tour of New Zealand,1115807,New Zealand,6,0,0,0,0,0.0,[6],1.0,6,3,0,3,0,0,1,0,0,0,0,3.0,2,0,0,0,0,0,28,16,44
+['2018-01-03'],West Indies tour of New Zealand,1115800,New Zealand,4,9,3,0,1,300.0,"[4, 6, 10, 12]",4.0,24,12,0,33,3,2,1,0,0,0,1,8.25,0,0,0,0,0,15,37,0,52
+['2018-01-01'],West Indies tour of New Zealand,1115799,New Zealand,6,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2017-12-29'],West Indies tour of New Zealand,1115798,New Zealand,6,12,9,1,0,133.33,[6],1.0,6,2,0,10,2,0,0,0,0,0,0,10.0,1,0,0,0,0,16,2,8,26

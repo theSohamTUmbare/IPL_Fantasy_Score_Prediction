@@ -1,0 +1,13 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2021-01-18'],Syed Mushtaq Ali Trophy,1244382,Railways,9,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2021-01-16'],Syed Mushtaq Ali Trophy,1244364,Railways,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2021-01-14'],Syed Mushtaq Ali Trophy,1244344,Railways,5,6,12,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,-4,2,0,12,14
+['2021-01-12'],Syed Mushtaq Ali Trophy,1244327,Railways,4,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,2,0,16,18
+['2021-01-10'],Syed Mushtaq Ali Trophy,1244308,Railways,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2019-11-18'],Syed Mushtaq Ali Trophy,1205835,Railways,4,7,6,1,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
+['2019-11-15'],Syed Mushtaq Ali Trophy,1205817,Railways,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2019-11-14'],Syed Mushtaq Ali Trophy,1205791,Railways,9,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2019-11-12'],Syed Mushtaq Ali Trophy,1205772,Railways,4,17,11,2,0,154.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,29,0,0,29
+['2019-11-11'],Syed Mushtaq Ali Trophy,1205754,Railways,4,31,31,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,43,0,12,55
+['2019-11-09'],Syed Mushtaq Ali Trophy,1205745,Railways,4,21,11,3,1,190.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,45,0,8,53
+['2019-11-08'],Syed Mushtaq Ali Trophy,1205727,Railways,4,10,14,2,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,18,0,28,46

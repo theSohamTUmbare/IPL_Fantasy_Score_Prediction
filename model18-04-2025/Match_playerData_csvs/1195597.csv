@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Brisbane Heat,T Banton,25f7b7d6,1,56,19,2,7,294.74,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,120,0,0,120
+Brisbane Heat,CA Lynn,45eda7c8,2,31,13,3,2,238.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,65,0,0,65
+Brisbane Heat,BCJ Cutting,2e11c706,3,7,6,1,0,116.67,[5],1.0,6,0,0,11,1,0,0,0,0,0,1,11.0,0,0,0,0,0,11,0,0,11
+Brisbane Heat,M Bryant,f32012f4,4,12,4,1,1,300.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
+Brisbane Heat,MT Renshaw,218d4d78,5,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Brisbane Heat,JA Prestwidge,5f317fd4,6,9,4,2,0,225.0,[4],1.0,6,2,0,15,2,1,2,0,1,0,0,15.0,0,0,0,0,0,17,60,0,77
+Brisbane Heat,JJ Peirson,2b55c3b4,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Brisbane Heat,MJ Swepson,86b4bf88,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Brisbane Heat,JK Lalor,88209c84,9,0,0,0,0,0.0,[1],1.0,6,3,0,11,0,1,0,0,0,0,0,11.0,0,0,0,0,0,0,3,0,3
+Brisbane Heat,B Laughlin,b2a79f17,10,0,0,0,0,0.0,[3],1.0,6,1,0,16,3,0,1,0,0,0,1,16.0,1,0,0,0,0,0,26,8,34
+Brisbane Heat,Zahir Khan,786b7fe8,11,0,0,0,0,0.0,[2],1.0,6,4,0,7,0,1,1,0,1,0,0,7.0,0,0,0,0,0,0,37,0,37
+Sydney Thunder,UT Khawaja,331ea488,1,11,8,0,1,137.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,17,0,0,17
+Sydney Thunder,AD Hales,92aeac25,2,20,9,2,1,222.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,34,0,0,34
+Sydney Thunder,CJ Ferguson,9b4935c8,3,5,4,1,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
+Sydney Thunder,CH Morris,fb66ce1f,4,4,2,1,0,200.0,"[2, 8]",2.0,12,2,0,30,5,1,0,0,0,0,1,15.0,2,0,0,0,0,8,-4,16,20
+Sydney Thunder,DR Sams,caf69bf7,5,10,3,1,1,333.33,"[1, 7]",2.0,12,3,0,24,3,1,2,0,0,0,0,12.0,0,0,0,0,0,20,49,0,69
+Sydney Thunder,AI Ross,fb0d68b4,6,8,4,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20
+Sydney Thunder,M Gilkes,d85b0f8b,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Sydney Thunder,CJ Green,19b9f399,8,0,0,0,0,0.0,[3],1.0,6,1,0,11,0,1,0,0,0,0,1,11.0,0,0,0,0,0,0,1,0,1
+Sydney Thunder,AJ Nair,4ba2c04d,9,0,0,0,0,0.0,[4],1.0,6,1,0,30,0,5,0,0,0,0,0,30.0,1,0,0,0,0,0,1,8,9
+Sydney Thunder,CP Tremain,96824e68,10,0,0,0,0,0.0,[5],1.0,6,2,0,9,0,1,1,0,0,0,0,9.0,0,0,0,0,0,0,27,0,27
+Sydney Thunder,B Doggett,898e628d,11,0,0,0,0,0.0,[6],1.0,6,2,0,13,1,1,1,0,0,0,0,13.0,0,0,0,0,0,0,27,0,27

@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2025-04-04'],Indian Premier League,1473453,Mumbai Indians,12,0,0,0,0,0.0,"[4, 6, 16]",3.0,18,5,0,39,4,2,1,0,0,0,2,13.0,0,0,0,0,0,0,24,0,24
+['2025-03-31'],Indian Premier League,1473449,Mumbai Indians,12,0,0,0,0,0.0,"[4, 11, 13]",3.0,18,9,0,24,3,1,4,0,2,1,1,8.0,1,0,0,0,0,0,133,8,141
+['2022-11-01'],Syed Mushtaq Ali Trophy,1333049,Punjab,7,0,0,0,0,0.0,"[6, 9, 16]",3.0,18,6,0,37,3,3,1,0,0,0,1,12.33,1,0,0,0,0,0,25,8,33
+['2022-10-30'],Syed Mushtaq Ali Trophy,1333046,Punjab,9,0,0,0,0,0.0,"[8, 20]",2.0,12,2,0,13,1,0,0,0,0,0,0,6.5,0,0,0,0,0,0,4,0,4

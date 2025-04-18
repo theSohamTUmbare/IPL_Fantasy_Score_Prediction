@@ -1,0 +1,14 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2025-02-24'],Bahrain tour of Indonesia,1471826,Indonesia,2,44,45,1,2,97.78,"[2, 12, 14]",3.0,18,9,0,24,3,1,0,0,0,0,1,8.0,1,0,0,0,0,64,9,8,81
+['2025-02-23'],Bahrain tour of Indonesia,1471825,Indonesia,2,18,22,1,1,81.82,"[8, 10, 12, 14]",4.0,24,8,0,46,1,5,2,0,1,0,1,11.5,0,0,0,0,0,28,62,0,90
+['2025-02-22'],Bahrain tour of Indonesia,1471824,Indonesia,2,56,54,4,2,103.7,"[8, 10, 12]",3.0,18,7,0,18,0,1,0,0,0,0,2,6.0,0,0,0,0,0,92,9,0,101
+['2024-10-05'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier B,1450779,Indonesia,3,1,4,0,0,25.0,"[2, 4, 6, 8]",4.0,24,10,0,23,1,1,1,1,0,0,0,5.75,0,0,0,0,0,1,47,0,48
+['2024-10-04'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier B,1450776,Indonesia,3,1,2,0,0,50.0,"[2, 4, 6, 8]",4.0,24,15,0,13,1,0,3,1,2,0,0,3.25,0,0,0,0,0,1,124,0,125
+['2024-10-02'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier B,1450775,Indonesia,3,15,18,1,0,83.33,"[2, 4, 6, 8]",4.0,24,14,0,18,2,0,2,0,1,0,1,4.5,0,0,0,0,0,19,78,0,97
+['2024-10-01'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier B,1450772,Indonesia,3,16,14,2,0,114.29,"[2, 4]",2.0,12,5,0,23,3,1,0,0,0,0,0,11.5,0,0,0,0,0,24,1,0,25
+['2024-09-29'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier B,1450770,Indonesia,9,0,1,0,0,0.0,"[2, 4, 11]",3.0,18,8,0,18,3,0,0,0,0,0,0,6.0,0,0,0,0,0,-2,10,0,8
+['2024-09-28'],ICC Men's T20 World Cup East Asia-Pacific Region Qualifier B,1450769,Indonesia,8,18,22,0,0,81.82,"[2, 4, 6, 12]",4.0,24,15,0,17,2,0,0,0,0,0,3,4.25,0,0,0,0,0,18,21,0,39
+['2024-09-25'],Japan tour of South Korea,1450766,Indonesia,7,13,19,0,0,68.42,"[2, 4, 15]",3.0,18,10,0,15,0,1,0,0,0,0,0,5.0,0,0,0,0,-2,11,14,0,25
+['2024-05-06'],Thailand tour of Indonesia,1431611,Indonesia,6,5,14,0,0,35.71,"[12, 14, 16, 18]",3.333,20,6,0,30,4,1,0,0,0,0,1,9.0,0,0,0,0,-6,-1,6,0,5
+['2024-05-05'],Thailand tour of Indonesia,1431610,Indonesia,5,25,18,4,0,138.89,"[6, 8, 10, 16]",4.0,24,11,0,23,1,1,0,0,0,0,1,5.75,1,0,0,0,2,47,15,8,70
+['2024-05-04'],Thailand tour of Indonesia,1431609,Indonesia,6,4,7,0,0,57.14,"[12, 14, 16, 18]",4.0,24,13,0,12,0,0,4,0,1,0,1,3.0,1,0,0,0,0,4,135,8,147

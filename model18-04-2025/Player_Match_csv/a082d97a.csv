@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-11-14'],Syed Mushtaq Ali Trophy,1205787,Andhra,8,1,1,0,0,100.0,"[10, 12]",2.0,12,2,0,14,1,0,0,0,0,0,0,7.0,0,0,0,0,0,1,4,0,5
+['2019-11-08'],Syed Mushtaq Ali Trophy,1205715,Andhra,7,0,0,0,0,0.0,"[7, 9]",2.0,12,2,0,16,0,1,0,0,0,0,1,8.0,0,0,0,0,0,0,2,0,2
+['2019-03-02'],Syed Mushtaq Ali Trophy,1157195,Andhra,9,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,5,0,26,2,0,3,1,1,0,1,6.5,0,0,0,0,0,0,102,0,102

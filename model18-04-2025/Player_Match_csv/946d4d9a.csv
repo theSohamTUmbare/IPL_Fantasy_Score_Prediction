@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-09-05'],ICC Men's T20 World Cup Asia Qualifier A,1447491,Maldives,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
+['2024-09-03'],ICC Men's T20 World Cup Asia Qualifier A,1447486,Maldives,5,0,7,0,0,0.0,[6],1.0,6,1,0,22,2,2,1,0,0,0,1,22.0,0,0,0,0,0,-2,26,0,24
+['2024-09-02'],ICC Men's T20 World Cup Asia Qualifier A,1447484,Maldives,6,6,15,1,0,40.0,"[6, 20]",2.0,12,1,0,29,2,2,0,0,0,0,0,14.5,0,0,0,0,-6,4,-5,0,-1
+['2024-08-31'],ICC Men's T20 World Cup Asia Qualifier A,1447480,Maldives,7,25,26,2,0,96.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,37,0,8,45
+['2024-08-30'],ICC Men's T20 World Cup Asia Qualifier A,1447477,Maldives,6,6,6,1,0,100.0,[6],1.0,6,1,0,12,2,0,0,0,0,0,1,12.0,0,0,0,0,0,10,1,0,11

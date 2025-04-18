@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2008-04-30'],Indian Premier League,335998,Royal Challengers Bangalore,11,0,0,0,0,0.0,[14],1.0,6,0,0,19,1,2,0,0,0,0,0,19.0,0,0,0,0,0,0,0,0,0
+['2008-04-26'],Indian Premier League,335992,Royal Challengers Bangalore,8,3,8,0,0,37.5,"[11, 13, 16, 18]",3.167,19,9,0,27,4,1,1,0,0,0,0,8.53,0,0,0,0,0,3,34,0,37
+['2008-04-20'],Indian Premier League,335985,Royal Challengers Bangalore,10,0,0,0,0,0.0,"[11, 13]",2.0,12,5,0,10,1,0,0,0,0,0,0,5.0,0,0,0,0,0,0,9,0,9
+['2008-04-18'],Indian Premier League,335982,Royal Challengers Bangalore,11,3,6,0,0,50.0,"[10, 12, 14]",3.0,18,4,0,26,0,2,0,0,0,0,0,8.67,0,0,0,0,0,3,4,0,7

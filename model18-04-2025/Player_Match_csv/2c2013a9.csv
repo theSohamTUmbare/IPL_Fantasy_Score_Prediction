@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2014-11-24'],Hong Kong v Nepal T20I Series,802327,Nepal,11,2,3,0,0,66.67,"[7, 9, 11]",3.0,18,9,0,12,1,0,1,0,0,0,1,4.0,0,0,0,0,0,2,40,0,42
+['2013-11-20'],ICC World Twenty20 Qualifier,660159,Nepal,11,0,0,0,0,0.0,"[2, 4]",2.0,12,4,0,24,5,0,0,0,0,0,0,12.0,0,0,0,0,0,0,0,0,0
+['2013-11-19'],ICC World Twenty20 Qualifier,660151,Nepal,11,0,0,0,0,0.0,"[1, 3, 13, 19]",4.0,24,9,0,27,3,1,2,1,0,0,0,6.75,0,0,0,0,0,0,69,0,69
+['2013-11-18'],ICC World Twenty20 Qualifier,660139,Nepal,10,0,0,0,0,0.0,"[1, 3, 17, 19]",4.0,24,11,0,29,1,2,0,0,0,0,0,7.25,0,0,0,0,0,0,11,0,11
+['2013-11-15'],ICC World Twenty20 Qualifier,660097,Nepal,10,0,0,0,0,0.0,"[1, 3, 5]",3.0,18,10,0,10,1,0,0,0,0,0,0,3.33,0,0,0,0,0,0,16,0,16

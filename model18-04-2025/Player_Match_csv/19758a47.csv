@@ -1,0 +1,3 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-08-06'],Croatia tour of Hungary,1390169,Croatia,7,8,18,0,0,44.44,[6],1.0,6,1,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,-6,2,1,0,3
+['2023-08-05'],Croatia tour of Hungary,1390167,Croatia,8,3,7,0,0,42.86,"[13, 15, 19]",3.0,18,4,0,25,1,1,3,0,1,0,0,8.33,0,0,0,0,0,3,91,0,94

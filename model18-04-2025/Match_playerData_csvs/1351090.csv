@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Khulna Tigers,Munim Shahriar,dd98b22f,1,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+Khulna Tigers,A Balbirnie,6ef13460,2,7,13,0,0,53.85,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,3,0,0,3
+Khulna Tigers,SD Hope,1fc6ef83,3,9,9,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,15,0,16,31
+Khulna Tigers,Mahmudul Hasan Joy,4b51bd51,4,41,41,3,2,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,69,0,0,69
+Khulna Tigers,Yasir Ali Chowdhury,5791b840,5,12,15,2,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20
+Khulna Tigers,Sabbir Rahman,7147f314,6,6,9,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,6,0,0,6
+Khulna Tigers,Mohammad Saifuddin,b3a28446,7,6,5,1,0,120.0,"[2, 4, 14]",3.0,18,10,0,13,1,0,1,0,0,0,1,4.33,0,0,0,0,0,10,41,0,51
+Khulna Tigers,Nahidul Islam,8c7b16c8,8,22,17,3,0,129.41,"[1, 3, 5, 7]",4.0,24,11,0,23,3,0,1,0,0,0,0,5.75,1,0,0,0,0,34,40,8,82
+Khulna Tigers,Nasum Ahmed,37654b75,9,1,3,0,0,33.33,"[8, 10, 12, 17]",4.0,24,8,0,28,3,0,0,0,0,0,1,7.0,0,0,0,0,0,1,10,0,11
+Khulna Tigers,PA van Meekeren,4557dc54,10,1,2,0,0,50.0,"[6, 9, 15]",3.0,18,2,0,24,2,0,0,0,0,0,1,8.0,0,0,0,0,0,1,2,0,3
+Khulna Tigers,Hasan Murad,da9f58aa,11,0,0,0,0,0.0,"[11, 13, 16, 18]",3.5,21,11,0,26,2,2,1,0,0,0,0,7.43,0,0,1,0,0,0,36,12,48
+Sylhet Strikers,Towhid Hridoy,9e52a414,1,5,8,1,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17
+Sylhet Strikers,Nazmul Hossain Shanto,1274d7ab,2,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+Sylhet Strikers,Zakir Hasan,e3e09091,3,50,46,5,1,108.7,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,84,0,0,84
+Sylhet Strikers,Mushfiqur Rahim,a94e08ea,4,39,35,4,0,111.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,59,0,16,75
+Sylhet Strikers,RP Burl,b08252b8,5,12,6,1,1,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
+Sylhet Strikers,Gulbadin Naib,9f77963a,6,2,5,0,0,40.0,"[1, 9, 11, 17]",4.0,24,7,0,22,1,0,0,0,0,0,1,5.5,0,0,0,0,0,2,11,0,13
+Sylhet Strikers,Mashrafe Mortaza,e186f49c,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Sylhet Strikers,Imad Wasim,9cb8d7a6,8,0,0,0,0,0.0,"[2, 8, 10, 14]",4.0,24,16,0,10,1,0,2,1,1,0,0,2.5,0,0,0,0,0,0,88,0,88
+Sylhet Strikers,Mohammad Amir,e174dadd,9,0,0,0,0,0.0,"[3, 13, 18, 20]",4.0,24,11,0,32,2,2,1,0,1,0,1,8.0,1,0,0,0,0,0,44,8,52
+Sylhet Strikers,Tanzim Hasan Sakib,0b0cc297,10,0,0,0,0,0.0,"[5, 7, 15, 19]",4.0,24,13,0,22,2,1,3,0,0,0,0,5.5,1,0,0,0,0,0,96,8,104
+Sylhet Strikers,Rubel Hossain,f56cd097,11,0,0,0,0,0.0,"[4, 6, 12, 16]",4.0,24,11,0,24,3,0,2,0,0,0,0,6.0,0,0,0,0,0,0,63,0,63

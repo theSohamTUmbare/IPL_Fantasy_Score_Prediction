@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-08-27'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1443784,Greece,1,3,6,0,0,50.0,"[18, 20]",2.0,12,3,0,24,3,0,1,0,1,0,5,12.0,1,0,0,0,0,3,32,8,43
+['2024-08-25'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1443781,Greece,3,27,21,1,2,128.57,[1],1.0,6,3,0,12,3,0,0,0,0,0,0,12.0,0,0,0,0,0,47,3,0,50
+['2024-08-24'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1443776,Greece,1,5,7,0,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
+['2024-08-22'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1443771,Greece,1,31,18,3,2,172.22,"[11, 13, 18, 20]",4.0,24,3,0,40,3,1,0,0,0,0,2,10.0,1,0,0,0,6,65,1,8,74

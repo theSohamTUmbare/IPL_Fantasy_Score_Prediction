@@ -1,0 +1,16 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2015-07-23'],Caribbean Premier League,857763,Jamaica Tallawahs,7,5,3,1,0,166.67,"[6, 8, 10, 15]",4.0,24,9,0,31,1,2,1,0,0,0,1,7.75,0,0,0,0,0,9,34,0,43
+['2015-07-19'],Caribbean Premier League,857759,Jamaica Tallawahs,4,12,12,1,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
+['2015-07-12'],Caribbean Premier League,857745,Jamaica Tallawahs,5,18,23,2,0,78.26,"[12, 14]",2.0,12,1,0,21,0,2,0,0,0,0,0,10.5,0,0,0,0,0,26,-1,0,25
+['2015-07-09'],Caribbean Premier League,857737,Jamaica Tallawahs,5,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2013-08-04'],Caribbean Premier League,635221,Guyana Amazon Warriors,5,0,2,0,0,0.0,"[8, 10, 12]",3.0,18,10,0,20,0,2,1,0,0,0,0,6.67,0,0,0,0,0,-2,37,0,35
+['2013-08-02'],Caribbean Premier League,635218,Guyana Amazon Warriors,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2013-07-31'],Caribbean Premier League,635216,Guyana Amazon Warriors,6,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2013-02-13'],NA,573027,West Indies,8,6,3,1,0,200.0,"[8, 10, 14]",3.0,18,2,0,37,2,2,0,0,0,0,0,12.33,2,0,0,0,0,10,-4,16,22
+['2010-05-20'],South Africa in West Indies T20I Series,447539,West Indies,8,3,2,0,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2010-05-19'],South Africa in West Indies T20I Series,439146,West Indies,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2010-05-11'],ICC World Twenty20,412700,West Indies,5,0,2,0,0,0.0,"[9, 11]",2.0,12,4,0,15,2,0,0,0,0,0,0,7.5,0,0,0,0,0,-2,4,0,2
+['2010-05-03'],ICC World Twenty20,412685,West Indies,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2010-04-30'],ICC World Twenty20,412677,West Indies,5,10,16,0,0,62.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,8,0,0,8
+['2010-02-23'],West Indies in Australia T20I Series,406198,West Indies,7,36,29,4,0,124.14,"[4, 6]",2.0,12,8,0,18,3,1,0,0,0,0,0,9.0,0,0,0,0,0,56,8,0,64
+['2010-02-21'],West Indies in Australia T20I Series,406197,West Indies,3,0,1,0,0,0.0,"[1, 4]",2.0,12,6,0,17,2,1,0,0,0,0,0,8.5,0,0,0,0,0,-2,6,0,4

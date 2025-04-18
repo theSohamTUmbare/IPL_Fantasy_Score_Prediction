@@ -1,0 +1,12 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2021-11-05'],Syed Mushtaq Ali Trophy,1280228,Bihar,10,0,0,0,0,0.0,"[8, 10]",2.0,12,3,0,16,2,0,0,0,0,0,0,8.0,0,0,0,0,0,0,3,0,3
+['2021-01-19'],Syed Mushtaq Ali Trophy,1244399,Bihar,10,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,12,0,16,1,0,2,1,0,0,0,4.0,0,0,0,0,0,0,76,0,76
+['2021-01-17'],Syed Mushtaq Ali Trophy,1244378,Bihar,7,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,14,0,15,1,0,2,0,1,0,0,3.75,1,0,0,0,0,0,78,8,86
+['2021-01-15'],Syed Mushtaq Ali Trophy,1244359,Bihar,10,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,13,0,18,2,0,1,0,0,0,0,4.5,0,0,1,0,0,0,44,12,56
+['2021-01-13'],Syed Mushtaq Ali Trophy,1244342,Bihar,8,0,0,0,0,0.0,"[7, 9, 11, 15]",4.0,24,12,0,18,0,1,0,0,0,0,0,4.5,1,0,0,0,0,0,18,8,26
+['2021-01-11'],Syed Mushtaq Ali Trophy,1244323,Bihar,10,2,2,0,0,100.0,"[8, 10, 12, 14]",4.0,24,12,0,17,0,0,1,0,0,0,0,4.25,0,0,0,0,0,2,43,0,45
+['2019-02-28'],Syed Mushtaq Ali Trophy,1157179,Bihar,7,1,2,0,0,50.0,"[10, 12, 18, 20]",4.0,24,7,0,40,2,3,0,0,0,0,0,10.0,0,0,0,0,0,1,5,0,6
+['2019-02-27'],Syed Mushtaq Ali Trophy,1157162,Bihar,11,0,0,0,0,0.0,"[8, 10, 16, 18]",4.0,24,7,0,40,4,2,1,0,0,0,0,10.0,0,0,0,0,0,0,30,0,30
+['2019-02-25'],Syed Mushtaq Ali Trophy,1157146,Bihar,10,0,1,0,0,0.0,"[7, 9, 11]",2.5,15,7,0,14,0,1,1,0,0,0,0,5.6,0,0,0,0,0,0,36,0,36
+['2019-02-24'],Syed Mushtaq Ali Trophy,1157130,Bihar,8,0,2,0,0,0.0,"[8, 10, 13, 16]",4.0,24,3,0,26,1,0,0,0,0,0,0,6.5,0,0,0,0,0,-2,5,0,3
+['2019-02-22'],Syed Mushtaq Ali Trophy,1157113,Bihar,10,5,6,0,0,83.33,"[10, 12]",2.0,12,4,0,12,0,1,0,0,0,0,0,6.0,0,0,0,0,0,5,6,0,11

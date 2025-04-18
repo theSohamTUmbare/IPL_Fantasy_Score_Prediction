@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-08-30'],Nepal tour of Kenya,1328478,Nepal,2,29,21,4,1,138.1,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,57,0,8,65
+['2022-08-29'],Nepal tour of Kenya,1328477,Nepal,2,6,11,1,0,54.55,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,2,0,0,-4,6,0,32,38
+['2022-08-28'],Nepal tour of Kenya,1328476,Nepal,2,35,31,2,3,112.9,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,65,0,0,65

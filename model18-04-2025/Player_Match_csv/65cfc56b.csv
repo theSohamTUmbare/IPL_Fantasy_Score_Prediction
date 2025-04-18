@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-02-05'],Asian Cricket Council Men's Challenger Cup,1418188,Indonesia,11,5,5,0,0,100.0,[5],1.0,6,2,0,16,2,1,0,0,0,1,0,16.0,0,0,0,0,0,5,2,0,7
+['2023-11-23'],Cambodia tour of Indonesia,1407719,Indonesia,10,0,0,0,0,0.0,"[8, 10, 12]",2.5,15,8,0,10,0,0,1,0,0,0,0,4.0,0,0,0,0,0,0,39,0,39
+['2023-11-21'],Cambodia tour of Indonesia,1407716,Indonesia,10,0,0,0,0,0.0,"[6, 8, 17]",3.0,18,5,0,25,1,1,0,0,0,0,3,8.33,0,0,0,0,0,0,5,0,5
+['2023-11-20'],Cambodia tour of Indonesia,1407714,Indonesia,9,0,0,0,0,0.0,"[6, 8, 10, 20]",4.0,24,15,0,20,2,1,2,0,2,0,0,5.0,0,0,0,1,0,0,85,6,91
+['2023-11-20'],Cambodia tour of Indonesia,1407715,Indonesia,10,0,0,0,0,0.0,"[8, 10, 12, 20]",4.0,24,8,0,29,1,1,1,0,0,0,3,7.25,0,0,0,0,0,0,33,0,33

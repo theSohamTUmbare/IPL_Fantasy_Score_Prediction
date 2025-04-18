@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Leicestershire,LJ Hill,35f9a295,1,6,5,1,0,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+Leicestershire,S Steel,de6c2c6e,2,12,21,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,8,0,8,16
+Leicestershire,AM Lilley,88a004e9,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+Leicestershire,CN Ackermann,e734d090,4,13,10,3,0,130.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,27,0,16,43
+Leicestershire,PWA Mulder,c96f6ac5,5,32,26,1,2,123.08,"[4, 6]",2.0,12,4,0,21,4,0,0,0,0,0,0,10.5,0,0,0,0,0,52,2,0,54
+Leicestershire,RK Patel,4531f249,6,28,28,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,38,0,0,38
+Leicestershire,BWM Mike,ed12fcd7,7,10,9,1,0,111.11,"[3, 7]",2.0,12,6,1,25,3,2,0,0,0,0,0,12.5,0,0,0,0,0,14,12,0,26
+Leicestershire,Rehan Ahmed,0ecb4de6,8,1,1,0,0,100.0,"[8, 11, 13]",3.0,18,6,0,18,2,0,1,0,0,0,0,6.0,0,0,0,0,0,1,33,0,34
+Leicestershire,CF Parkinson,aa1210d8,9,1,3,0,0,33.33,"[2, 10, 12, 14]",3.333,20,12,1,28,5,1,2,0,1,0,0,8.4,0,0,0,0,0,1,82,0,83
+Leicestershire,Naveen-ul-Haq,c0c411cb,10,7,7,1,0,100.0,"[1, 5]",2.0,12,6,0,21,3,1,2,0,0,0,0,10.5,0,0,0,0,0,11,54,0,65
+Leicestershire,WS Davis,078ffbf2,11,0,1,0,0,0.0,[9],1.0,6,1,0,13,2,0,0,0,0,0,0,13.0,0,0,0,0,0,-2,1,0,-1
+Nottinghamshire,JM Clarke,2eca67f5,1,22,13,3,1,169.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,4,44,0,12,56
+Nottinghamshire,AD Hales,92aeac25,2,44,16,6,3,275.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,96,0,8,104
+Nottinghamshire,BM Duckett,5f26f677,3,44,23,8,0,191.3,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,86,0,8,94
+Nottinghamshire,SR Patel,18fac429,4,14,17,2,0,82.35,"[4, 10, 13, 18]",4.0,24,9,0,24,1,1,1,0,1,0,1,6.0,0,0,0,0,0,22,44,0,66
+Nottinghamshire,SJ Mullaney,0e0d43b4,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Nottinghamshire,DT Christian,2a2e6343,6,2,7,0,0,28.57,"[6, 8]",2.0,12,6,0,12,1,0,1,0,0,0,3,6.0,0,0,0,0,0,2,33,0,35
+Nottinghamshire,TJ Moores,85dcb721,7,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,0,0,0,0,0,28,28
+Nottinghamshire,CG Harrison,f655d740,8,0,0,0,0,0.0,"[9, 11, 14, 16]",4.0,24,6,0,31,1,1,2,1,0,0,1,7.75,0,0,0,0,0,0,64,0,64
+Nottinghamshire,M Carter,1ca7c00f,9,0,0,0,0,0.0,"[5, 7, 12]",3.0,18,4,0,18,0,1,1,0,0,0,0,6.0,0,0,0,0,0,0,31,0,31
+Nottinghamshire,LJ Fletcher,e423d162,10,0,0,0,0,0.0,"[1, 3, 17]",3.0,18,10,0,20,3,0,2,0,0,2,0,6.67,0,0,0,0,0,0,62,0,62
+Nottinghamshire,D Paterson,462d7c62,11,0,0,0,0,0.0,"[2, 15, 19]",2.667,16,9,0,12,1,0,2,0,2,0,0,4.5,0,0,0,0,0,0,81,0,81

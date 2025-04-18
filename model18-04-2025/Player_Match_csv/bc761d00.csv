@@ -1,0 +1,17 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2021-11-06'],Syed Mushtaq Ali Trophy,1280250,Uttarakhand,4,45,32,4,1,140.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,73,0,0,73
+['2021-11-05'],Syed Mushtaq Ali Trophy,1280230,Uttarakhand,4,14,15,1,0,93.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
+['2021-11-04'],Syed Mushtaq Ali Trophy,1280212,Uttarakhand,3,14,20,1,0,70.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,16,0,0,16
+['2021-01-19'],Syed Mushtaq Ali Trophy,1244398,Sikkim,3,1,11,0,0,9.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,-5,0,0,-5
+['2021-01-15'],Syed Mushtaq Ali Trophy,1244361,Sikkim,3,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2021-01-13'],Syed Mushtaq Ali Trophy,1244342,Sikkim,4,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2021-01-11'],Syed Mushtaq Ali Trophy,1244324,Sikkim,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2019-11-17'],Syed Mushtaq Ali Trophy,1205825,Rajasthan,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2019-11-15'],Syed Mushtaq Ali Trophy,1205806,Rajasthan,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2019-02-28'],Syed Mushtaq Ali Trophy,1157181,Rajasthan,5,34,23,4,0,147.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,56,0,16,72
+['2019-02-25'],Syed Mushtaq Ali Trophy,1157147,Rajasthan,3,22,30,2,0,73.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,30,0,0,30
+['2019-02-24'],Syed Mushtaq Ali Trophy,1157129,Rajasthan,5,38,25,4,1,152.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,68,0,0,68
+['2019-02-21'],Syed Mushtaq Ali Trophy,1157095,Rajasthan,3,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2016-01-04'],Syed Mushtaq Ali Trophy,902139,Himachal,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2016-01-03'],Syed Mushtaq Ali Trophy,902113,Himachal,3,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2016-01-02'],Syed Mushtaq Ali Trophy,902087,Himachal,3,12,16,2,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,20,0,0,20

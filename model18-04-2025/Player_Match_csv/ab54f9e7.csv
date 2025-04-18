@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-09-07'],Australia tour of Scotland,1440465,Scotland,8,3,3,0,0,100.0,"[10, 14]",2.0,12,3,0,22,3,0,1,0,1,0,0,11.0,1,0,0,0,0,3,34,8,45
+['2024-09-04'],Australia tour of Scotland,1440463,Scotland,8,10,8,0,1,125.0,"[5, 10]",1.667,10,0,0,45,5,4,0,0,0,0,0,26.99,0,0,0,0,0,16,0,0,16
+['2024-03-14'],Scotland tour of United Arab Emirates,1421080,Scotland,6,4,6,0,0,66.67,"[2, 4, 13, 15]",4.0,24,17,1,14,2,0,3,0,0,0,0,3.5,0,0,0,0,0,4,114,0,118
+['2024-03-13'],Scotland tour of United Arab Emirates,1421079,Scotland,6,20,28,2,0,71.43,"[4, 6, 19]",3.0,18,9,0,21,2,1,3,0,1,0,0,7.0,0,0,0,1,0,28,98,6,132
+['2024-03-11'],Scotland tour of United Arab Emirates,1421078,Scotland,6,21,19,2,0,110.53,"[6, 8, 13, 17]",4.0,24,8,0,33,3,1,1,0,0,1,0,8.25,0,0,0,0,0,29,33,0,62

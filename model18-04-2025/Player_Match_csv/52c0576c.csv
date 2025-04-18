@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2016-12-07'],CSA T20 Challenge,1003891,Lions,11,0,0,0,0,0.0,"[4, 13, 18]",2.167,13,4,0,29,5,1,0,0,0,0,0,13.38,0,0,0,0,0,0,-2,0,-2
+['2016-12-04'],CSA T20 Challenge,1003883,Lions,7,17,14,0,0,121.43,"[6, 8]",2.0,12,3,0,20,2,1,0,0,0,0,0,10.0,0,0,0,0,0,17,1,0,18
+['2016-12-02'],CSA T20 Challenge,1003879,Lions,7,5,2,1,0,250.0,"[4, 6]",2.0,12,8,0,12,1,1,1,0,1,0,0,6.0,1,0,0,0,0,9,43,8,60
+['2016-11-27'],CSA T20 Challenge,1003873,Lions,7,16,9,0,1,177.78,"[4, 6, 18, 20]",4.0,24,10,0,43,4,3,2,0,1,0,0,10.75,2,0,0,0,0,22,66,16,104
+['2016-11-12'],CSA T20 Challenge,1003845,Lions,8,1,6,0,0,16.67,"[5, 14, 16, 20]",4.0,24,4,0,43,2,2,1,0,0,0,1,10.75,0,0,0,0,0,1,27,0,28

@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Kolkata Knight Riders,Salman Butt,4d6d6280,1,7,7,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
+Kolkata Knight Riders,SC Ganguly,725529bc,2,51,39,4,2,130.77,[11],1.0,6,1,0,14,3,0,0,0,0,0,0,14.0,0,0,0,0,2,89,1,0,90
+Kolkata Knight Riders,AB Agarkar,fa463154,3,20,13,1,2,153.85,"[5, 7, 9, 15]",4.0,24,6,0,46,4,3,1,0,0,0,0,11.5,1,0,0,0,4,40,27,8,75
+Kolkata Knight Riders,BJ Hodge,b57f8a9a,4,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Kolkata Knight Riders,DJ Hussey,fd835ab3,5,42,30,1,2,140.0,"[10, 14]",2.0,12,1,0,26,4,0,0,0,0,0,0,13.0,1,0,0,0,2,64,-5,8,67
+Kolkata Knight Riders,LR Shukla,b1451597,6,2,2,0,0,100.0,[18],1.0,6,1,0,16,1,1,1,0,1,1,0,16.0,0,0,0,0,0,2,34,0,36
+Kolkata Knight Riders,DB Das,7050a1e7,7,11,13,1,0,84.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
+Kolkata Knight Riders,WP Saha,fe11caa6,8,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,1,0,6,7
+Kolkata Knight Riders,Umar Gul,16dfcc19,9,2,2,0,0,100.0,"[6, 12, 16, 20]",4.0,24,6,0,31,1,1,3,1,1,2,1,7.75,0,0,0,1,0,2,101,6,109
+Kolkata Knight Riders,I Sharma,5bb1a1c4,10,1,1,0,0,100.0,"[2, 4, 17, 19]",4.0,24,11,0,26,4,0,1,0,1,1,0,6.5,0,0,0,0,0,1,46,0,47
+Kolkata Knight Riders,AB Dinda,66b30f71,11,1,3,0,0,33.33,"[1, 3, 8, 13]",4.0,24,11,0,30,5,0,0,0,0,0,2,7.5,0,0,0,0,0,1,11,0,12
+Rajasthan Royals,GC Smith,72861603,1,2,7,0,0,28.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+Rajasthan Royals,SA Asnodkar,ae091d39,2,60,34,10,1,176.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,120,0,0,120
+Rajasthan Royals,M Kaif,d84378a4,3,21,18,3,1,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,39,0,8,47
+Rajasthan Royals,YK Pathan,3c6ffae8,4,55,31,6,2,177.42,"[13, 15]",2.0,12,3,0,14,1,0,0,0,0,0,0,7.0,0,0,0,0,6,105,5,0,110
+Rajasthan Royals,SR Watson,4329fbb5,5,0,1,0,0,0.0,"[1, 3, 5, 20]",3.167,19,10,0,22,2,1,2,0,0,0,2,6.95,1,0,0,0,0,-2,62,8,68
+Rajasthan Royals,RA Jadeja,fe93fd9d,6,33,18,3,1,183.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,6,61,0,12,73
+Rajasthan Royals,SK Warne,bb18be76,7,7,8,0,0,87.5,"[12, 14]",2.0,12,2,0,20,1,1,1,0,0,0,1,10.0,0,0,0,0,0,7,25,0,32
+Rajasthan Royals,Sohail Tanvir,64d43928,8,3,2,0,0,150.0,"[2, 4, 17, 19]",4.0,24,7,0,30,2,1,2,0,1,0,2,7.5,0,0,0,0,0,3,65,0,68
+Rajasthan Royals,M Rawat,de8d3876,9,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,2,0,1,0,20,21
+Rajasthan Royals,SK Trivedi,3d7e087f,10,0,0,0,0,0.0,"[6, 8, 10, 18]",4.0,24,8,0,31,1,2,2,0,2,0,2,7.75,0,0,1,0,0,0,74,12,86
+Rajasthan Royals,MM Patel,f0f628c7,11,0,0,0,0,0.0,"[7, 9, 11, 16]",4.0,24,6,0,29,1,1,0,0,0,0,0,7.25,0,0,0,0,0,0,6,0,6

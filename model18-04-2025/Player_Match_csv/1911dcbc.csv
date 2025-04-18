@@ -1,0 +1,17 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-12-16'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462911,Argentina,2,31,42,1,1,73.81,"[13, 15, 17, 19]",4.0,24,15,0,20,0,1,2,0,0,0,3,5.0,0,0,0,0,0,45,69,0,114
+['2024-12-15'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462905,Argentina,7,2,7,0,0,28.57,"[13, 15, 17, 19]",4.0,24,12,0,14,0,0,1,0,0,0,0,3.5,1,0,0,0,0,2,43,8,53
+['2024-12-14'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462903,Argentina,7,10,13,1,0,76.92,"[13, 15, 17, 19]",4.0,24,10,0,20,1,0,2,0,1,0,0,5.0,0,0,0,0,0,14,72,0,86
+['2024-12-11'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462895,Argentina,6,4,4,0,0,100.0,"[13, 15, 17, 19]",4.0,24,12,0,14,1,0,1,0,0,0,0,3.5,2,0,0,0,0,4,43,16,63
+['2024-12-10'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462891,Argentina,6,4,6,0,0,66.67,"[13, 15, 17, 19]",4.0,24,12,0,16,1,0,2,1,1,0,1,4.0,1,0,1,0,0,4,84,20,108
+['2024-12-08'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462885,Argentina,6,10,14,0,0,71.43,"[14, 16, 18, 20]",4.0,24,11,0,18,1,0,3,0,2,0,0,4.5,1,0,0,0,0,10,112,8,130
+['2024-12-07'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462881,Argentina,7,1,2,0,0,50.0,"[13, 15, 17, 19]",4.0,24,9,0,20,0,0,2,0,2,0,1,5.0,2,0,0,0,0,1,79,16,96
+['2024-10-13'],South American Men's Championships,1453909,Argentina,8,0,0,0,0,0.0,"[16, 18, 20]",3.0,18,9,0,15,2,0,2,0,0,0,0,5.0,1,0,0,0,0,0,63,8,71
+['2023-10-20'],South American Men's Championships,1403305,Argentina,9,0,0,0,0,0.0,"[17, 19]",2.0,12,9,0,8,0,0,0,0,0,0,4,4.0,0,0,0,1,0,0,15,6,21
+['2023-10-19'],South American Men's Championships,1403301,Argentina,6,19,13,3,0,146.15,"[13, 15, 17, 20]",4.0,24,13,0,30,3,0,1,0,0,0,8,7.5,0,0,0,0,2,33,38,0,71
+['2023-03-04'],ICC Men's T20 World Cup Americas Region Qualifier,1359802,Argentina,8,5,4,0,0,125.0,"[14, 16, 18, 20]",3.833,23,8,0,20,0,0,0,0,0,1,1,5.22,0,0,0,2,0,5,12,12,29
+['2023-03-02'],ICC Men's T20 World Cup Americas Region Qualifier,1359798,Argentina,8,0,2,0,0,0.0,"[16, 19]",2.0,12,8,0,7,1,0,1,0,0,0,0,3.5,0,0,0,0,0,-2,39,0,37
+['2023-02-26'],ICC Men's T20 World Cup Americas Region Qualifier,1359793,Argentina,9,0,2,0,0,0.0,"[10, 12, 19]",3.0,18,7,0,33,3,2,0,0,0,0,3,11.0,0,0,0,0,0,-2,5,0,3
+['2023-02-25'],ICC Men's T20 World Cup Americas Region Qualifier,1359794,Argentina,8,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,3,0,16,19
+['2023-02-22'],Bermuda tour of Argentina,1359787,Argentina,11,0,0,0,0,0.0,"[14, 16]",2.0,12,3,0,11,1,0,0,0,0,0,0,5.5,0,0,0,0,0,0,7,0,7
+['2023-02-21'],Bermuda tour of Argentina,1359786,Argentina,8,5,10,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,1,0,0,1

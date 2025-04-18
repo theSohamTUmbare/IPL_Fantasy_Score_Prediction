@@ -1,0 +1,10 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-10-16'],CSA T20 Challenge,1444787,Lions,2,41,25,3,3,164.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,79,0,8,87
+['2024-10-12'],CSA T20 Challenge,1444781,Lions,2,6,8,1,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+['2024-10-09'],CSA T20 Challenge,1444779,Lions,2,40,34,3,1,117.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,62,0,8,70
+['2024-10-06'],CSA T20 Challenge,1444774,Lions,2,7,4,1,0,175.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,0,0,0,11,0,28,39
+['2024-09-27'],CSA T20 Challenge,1444765,Lions,2,5,3,1,0,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,9,0,20,29
+['2021-02-25'],CSA T20 Challenge,1235383,Knights,6,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+['2021-02-23'],CSA T20 Challenge,1235378,Knights,7,13,18,0,0,72.22,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
+['2021-02-22'],CSA T20 Challenge,1235374,Knights,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2021-02-20'],CSA T20 Challenge,1235381,Knights,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0,0,28,28

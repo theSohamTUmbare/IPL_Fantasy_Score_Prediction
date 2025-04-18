@@ -1,0 +1,14 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-11-10'],New Zealand tour of Sri Lanka,1456442,New Zealand,8,24,25,0,2,96.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,36,0,0,36
+['2024-11-09'],New Zealand tour of Sri Lanka,1456441,New Zealand,7,3,6,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2024-09-22'],Caribbean Premier League,1428702,St Kitts and Nevis Patriots,7,0,0,0,0,0.0,"[9, 19]",1.5,9,1,0,28,3,2,0,0,0,0,1,18.67,0,0,0,0,0,0,1,0,1
+['2024-09-12'],Caribbean Premier League,1428691,St Kitts and Nevis Patriots,5,4,5,0,0,80.0,"[11, 13]",2.0,12,4,0,18,0,2,2,0,0,0,0,9.0,0,0,0,0,0,4,54,0,58
+['2024-09-08'],Caribbean Premier League,1428688,St Kitts and Nevis Patriots,8,3,3,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2024-09-06'],Caribbean Premier League,1428686,St Kitts and Nevis Patriots,7,24,31,1,1,77.42,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,34,0,8,42
+['2024-09-04'],Caribbean Premier League,1428684,St Kitts and Nevis Patriots,5,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2024-04-27'],New Zealand tour of Pakistan,1424833,New Zealand,7,38,26,3,2,146.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,68,0,0,68
+['2024-04-25'],New Zealand tour of Pakistan,1424832,New Zealand,7,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2024-04-18'],New Zealand tour of Pakistan,1424829,New Zealand,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2024-02-25'],Australia tour of New Zealand,1388225,New Zealand,6,0,0,0,0,0.0,[9],1.0,6,1,0,8,1,0,1,0,0,0,0,8.0,0,0,0,0,0,0,26,0,26
+['2024-02-23'],Australia tour of New Zealand,1388224,New Zealand,6,10,13,1,0,76.92,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,14,0,8,22
+['2024-02-21'],Australia tour of New Zealand,1388223,New Zealand,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0

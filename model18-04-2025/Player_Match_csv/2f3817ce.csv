@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2012-05-13'],Indian Premier League,548366,Deccan Chargers,11,0,0,0,0,0.0,"[2, 6, 12, 16]",4.0,24,5,0,47,3,3,0,0,0,0,1,11.75,0,0,0,0,0,0,1,0,1
+['2012-05-10'],Indian Premier League,548329,Deccan Chargers,11,0,0,0,0,0.0,"[2, 4, 15, 17]",3.667,22,10,0,43,4,3,0,0,0,1,0,11.73,0,0,0,0,0,0,6,0,6
+['2012-04-07'],Indian Premier League,548311,Deccan Chargers,11,0,0,0,0,0.0,"[9, 11, 17, 19]",4.0,24,3,0,46,2,3,1,0,0,0,2,11.5,0,0,0,0,0,0,24,0,24

@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-10-16'],CSA T20 Challenge,1444786,Knights,9,14,13,1,1,107.69,"[2, 4, 12]",3.0,18,12,0,25,2,1,1,0,1,1,5,8.33,0,0,0,0,0,24,45,0,69
+['2024-10-13'],CSA T20 Challenge,1444784,Knights,9,0,0,0,0,0.0,"[2, 6, 10, 12]",4.0,24,8,0,37,0,3,0,0,0,1,2,9.25,1,0,0,0,0,0,8,8,16
+['2024-09-28'],CSA T20 Challenge,1444766,Knights,11,0,0,0,0,0.0,"[2, 17]",2.0,12,4,0,12,1,0,0,0,0,0,1,6.0,0,0,0,0,0,0,6,0,6

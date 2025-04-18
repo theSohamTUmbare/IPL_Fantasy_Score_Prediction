@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2014-07-18'],NatWest T20 Blast,693229,Somerset,6,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2014-06-18'],NatWest T20 Blast,693113,Somerset,1,28,27,3,0,103.7,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,44,0,0,44
+['2014-06-15'],NatWest T20 Blast,693111,Somerset,1,18,21,2,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,26,0,16,42
+['2014-06-13'],NatWest T20 Blast,693097,Somerset,1,10,8,2,0,125.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,18,0,8,26

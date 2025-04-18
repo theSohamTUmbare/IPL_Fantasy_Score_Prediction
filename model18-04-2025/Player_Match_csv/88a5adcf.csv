@@ -1,0 +1,10 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-09-26'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1450764,Lesotho,1,4,6,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+['2024-09-25'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1450761,Lesotho,1,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,2,0,6,8
+['2024-09-24'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1450757,Lesotho,1,4,3,1,0,133.33,[7],1.0,6,3,0,9,1,0,0,0,0,0,4,9.0,0,0,0,0,0,8,3,0,11
+['2024-09-21'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1450751,Lesotho,1,0,3,0,0,0.0,"[16, 18]",2.0,12,2,0,15,0,0,0,0,0,0,4,7.5,0,0,0,0,0,-2,2,0,0
+['2022-11-25'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343767,Lesotho,9,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2022-11-22'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343757,Lesotho,1,0,3,0,0,0.0,"[6, 8, 15]",3.0,18,6,0,18,1,0,1,0,1,0,1,6.0,0,0,0,0,0,-2,41,0,39
+['2022-11-21'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343753,Lesotho,1,22,13,5,0,169.23,"[5, 7, 10, 17]",4.0,24,8,0,33,3,1,0,0,0,0,0,8.25,0,0,0,0,4,46,8,0,54
+['2022-11-18'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343745,Lesotho,2,23,14,3,0,164.29,[7],1.0,6,0,0,14,2,0,0,0,0,0,2,14.0,0,0,0,0,4,39,0,0,39
+['2022-11-17'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343741,Lesotho,4,45,37,4,0,121.62,[6],1.0,6,2,0,9,1,0,0,0,0,0,2,9.0,0,0,0,0,0,65,2,0,67

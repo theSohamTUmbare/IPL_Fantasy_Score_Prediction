@@ -1,0 +1,10 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+"['2014-08-01', '2014-08-02']",NatWest T20 Blast,693261,Glamorgan,6,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2014-07-25'],NatWest T20 Blast,693247,Glamorgan,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2014-07-18'],NatWest T20 Blast,693217,Glamorgan,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2014-07-15'],NatWest T20 Blast,693213,Glamorgan,5,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2014-07-11'],NatWest T20 Blast,693197,Glamorgan,4,16,7,3,0,228.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
+['2014-07-03'],NatWest T20 Blast,693165,Glamorgan,6,3,2,0,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11
+['2014-06-25'],NatWest T20 Blast,693135,Glamorgan,4,15,17,1,0,88.24,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,19,0,28,47
+['2014-06-20'],NatWest T20 Blast,693121,Glamorgan,4,35,33,2,0,106.06,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,47,0,0,47
+['2014-05-23'],NatWest T20 Blast,693043,Glamorgan,4,36,19,2,2,189.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,66,0,8,74

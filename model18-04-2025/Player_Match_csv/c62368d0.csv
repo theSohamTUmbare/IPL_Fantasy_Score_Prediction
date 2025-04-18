@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2013-11-17'],ICC World Twenty20 Qualifier,660125,United States of America,4,17,27,1,0,62.96,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,19,0,8,27
+['2013-11-16'],ICC World Twenty20 Qualifier,660117,United States of America,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2010-06-06'],ICC World Cricket League Americas Region Division One Twenty20,460060,United States of America,4,0,1,0,0,0.0,"[10, 12, 20]",3.0,18,1,0,27,1,1,0,0,0,0,1,9.0,0,0,0,0,0,0,1,0,1
+['2010-06-06'],ICC World Cricket League Americas Region Division One Twenty20,460064,United States of America,4,21,24,3,0,87.5,"[9, 11, 13, 15]",4.0,24,9,0,25,0,1,2,0,0,0,0,6.25,0,0,0,0,0,33,61,0,94
+['2010-06-04'],ICC World Cricket League Americas Region Division One Twenty20,460054,United States of America,8,28,21,2,1,133.33,"[6, 8, 16]",3.0,18,3,0,32,2,2,0,0,0,0,0,10.67,0,0,0,0,2,48,1,0,49

@@ -1,0 +1,8 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2021-01-16'],Syed Mushtaq Ali Trophy,1244368,Odisha,6,2,5,0,0,40.0,"[8, 16]",2.0,12,2,0,24,1,2,1,1,0,0,0,12.0,1,0,0,0,0,2,31,8,41
+['2021-01-14'],Syed Mushtaq Ali Trophy,1244348,Odisha,6,4,7,0,0,57.14,"[13, 15]",2.0,12,5,0,17,0,2,1,0,0,0,0,8.5,1,0,0,0,0,4,30,8,42
+['2021-01-10'],Syed Mushtaq Ali Trophy,1244309,Odisha,7,32,39,1,1,82.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,46,0,8,54
+['2019-11-17'],Syed Mushtaq Ali Trophy,1205839,Odisha,7,4,4,0,0,100.0,[6],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,0,4,2,0,6
+['2019-11-15'],Syed Mushtaq Ali Trophy,1205813,Odisha,6,6,7,0,0,85.71,[5],1.0,6,0,0,9,1,0,0,0,0,0,0,9.0,0,0,0,0,0,6,0,0,6
+['2019-11-12'],Syed Mushtaq Ali Trophy,1205784,Odisha,7,18,8,2,1,225.0,"[6, 8, 18, 20]",4.0,24,5,0,49,1,4,1,0,0,0,1,12.25,0,0,0,0,0,32,24,0,56
+['2019-11-11'],Syed Mushtaq Ali Trophy,1205767,Odisha,10,0,0,0,0,0.0,"[12, 14, 16, 18]",4.0,24,9,0,17,0,0,1,0,0,0,0,4.25,0,0,0,0,0,0,40,0,40

@@ -1,0 +1,31 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-12-16'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462910,Suriname,3,0,3,0,0,0.0,"[1, 3, 5, 7]",4.0,24,16,0,19,1,1,1,0,0,0,2,4.75,0,0,0,0,0,-2,47,0,45
+['2024-12-14'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462901,Suriname,5,3,4,0,0,75.0,"[2, 4, 18, 20]",3.333,20,11,0,13,1,0,2,1,1,0,0,3.9,1,0,0,0,0,3,83,8,94
+['2024-12-11'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462895,Suriname,3,15,10,2,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23,0,0,23
+['2024-12-10'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462888,Suriname,3,33,23,5,0,143.48,"[1, 3, 5, 20]",4.0,24,11,0,28,2,1,2,0,0,0,0,7.0,0,0,0,0,2,59,63,0,122
+['2024-12-08'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462886,Suriname,3,25,27,1,0,92.59,"[1, 3, 5, 7]",4.0,24,18,1,9,0,0,1,0,1,0,0,2.25,1,0,0,0,0,33,69,8,110
+['2024-12-07'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462882,Suriname,5,3,8,0,0,37.5,"[2, 4, 6, 20]",4.0,24,9,0,24,1,1,2,0,1,0,0,6.0,1,0,0,0,0,3,69,8,80
+['2024-12-06'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462877,Suriname,3,39,38,5,0,102.63,"[2, 4, 6]",3.0,18,12,0,12,1,0,0,0,0,0,0,4.0,0,0,0,0,0,63,18,0,81
+['2024-04-13'],Canada tour of United States of America,1425125,United States of America,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2024-04-07'],Canada tour of United States of America,1425121,United States of America,6,1,1,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2022-07-17'],ICC Men's T20 World Cup Qualifier,1321483,United States of America,5,12,11,1,1,109.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
+['2022-07-15'],ICC Men's T20 World Cup Qualifier,1321480,United States of America,4,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2022-07-14'],ICC Men's T20 World Cup Qualifier,1321475,United States of America,5,4,5,0,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,4,0,16,20
+['2022-07-12'],ICC Men's T20 World Cup Qualifier,1321470,United States of America,5,10,11,1,0,90.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,14,0,8,22
+['2022-07-11'],ICC Men's T20 World Cup Qualifier,1321466,United States of America,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2021-12-23'],Ireland tour of United States of America and West Indies,1291188,United States of America,4,22,19,1,1,115.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,32,0,0,32
+['2021-12-22'],Ireland tour of United States of America and West Indies,1291187,United States of America,6,65,41,3,5,158.54,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,119,0,0,119
+['2021-11-13'],ICC Men's T20 World Cup Americas Region Qualifier,1286682,United States of America,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2021-11-11'],ICC Men's T20 World Cup Americas Region Qualifier,1286681,United States of America,2,50,37,2,4,135.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,92,0,8,100
+['2021-11-07'],ICC Men's T20 World Cup Americas Region Qualifier,1286667,United States of America,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2017-09-07'],Caribbean Premier League,1094704,Guyana Amazon Warriors,5,39,25,1,3,156.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,69,0,0,69
+['2017-09-06'],Caribbean Premier League,1094703,Guyana Amazon Warriors,5,6,4,1,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+['2017-09-01'],Caribbean Premier League,1094699,Guyana Amazon Warriors,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2017-08-29'],Caribbean Premier League,1094696,Guyana Amazon Warriors,5,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2017-08-22'],Caribbean Premier League,1094692,Guyana Amazon Warriors,5,8,12,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,6,0,0,6
+['2017-08-20'],Caribbean Premier League,1094690,Guyana Amazon Warriors,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+['2017-08-19'],Caribbean Premier League,1094688,Guyana Amazon Warriors,5,27,27,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,39,0,0,39
+['2017-08-17'],Caribbean Premier League,1094686,Guyana Amazon Warriors,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2017-08-13'],Caribbean Premier League,1094683,Guyana Amazon Warriors,5,35,22,3,2,159.09,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,67,0,0,67
+['2017-08-11'],Caribbean Premier League,1094680,Guyana Amazon Warriors,5,7,14,1,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,7,0,8,15
+['2017-08-06'],Caribbean Premier League,1094675,Guyana Amazon Warriors,5,28,25,1,1,112.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,42,0,0,42

@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-09-26'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1450763,Ghana,8,0,0,0,0,0.0,"[1, 3, 5, 7]",4.0,24,21,1,3,0,0,3,1,2,0,0,0.75,2,0,0,0,0,0,142,16,158
+['2024-09-25'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1450760,Ghana,11,0,0,0,0,0.0,"[6, 8, 10]",3.0,18,12,0,11,1,0,1,0,1,0,2,3.67,0,0,0,0,0,0,51,0,51
+['2024-09-24'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1450757,Ghana,10,0,0,0,0,0.0,"[7, 9]",2.0,12,7,1,12,2,0,0,0,0,0,0,6.0,0,0,0,0,0,0,21,0,21
+['2024-03-20'],African Games,1424761,Ghana,11,0,4,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2024-03-18'],African Games,1424759,Ghana,11,0,1,0,0,0.0,"[4, 6]",2.0,12,4,0,15,2,0,0,0,0,0,0,7.5,2,0,0,0,0,-2,4,16,18

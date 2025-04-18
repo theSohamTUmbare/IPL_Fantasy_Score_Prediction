@@ -1,0 +1,7 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-03-02'],Syed Mushtaq Ali Trophy,1157195,Manipur,1,65,42,8,3,154.76,"[8, 15]",2.0,12,3,0,36,2,4,0,0,0,0,1,18.0,0,0,0,0,4,127,-3,0,124
+['2019-02-28'],Syed Mushtaq Ali Trophy,1157178,Manipur,1,103,64,11,5,160.94,"[8, 11, 13]",3.0,18,5,0,33,3,2,1,0,0,0,0,11.0,0,0,0,0,4,197,28,0,225
+['2019-02-25'],Syed Mushtaq Ali Trophy,1157144,Manipur,1,80,45,4,6,177.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,150,0,8,158
+['2019-02-24'],Syed Mushtaq Ali Trophy,1157126,Manipur,1,17,23,3,0,73.91,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,29,0,8,37
+['2019-02-22'],Syed Mushtaq Ali Trophy,1157108,Manipur,1,4,4,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+['2019-02-21'],Syed Mushtaq Ali Trophy,1157092,Manipur,1,32,30,6,0,106.67,"[12, 14, 16]",3.0,18,0,0,29,3,0,0,0,0,0,0,9.67,0,0,0,0,0,60,0,0,60

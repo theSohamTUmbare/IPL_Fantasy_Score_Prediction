@@ -1,0 +1,14 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-03-20'],African Games,1424763,Tanzania,10,1,6,0,0,16.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2024-03-09'],Malaysia Open T20 Championship,1422814,Tanzania,10,2,5,0,0,40.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2024-03-05'],Malaysia Open T20 Championship,1422807,Tanzania,10,0,2,0,0,0.0,"[9, 11]",2.0,12,5,0,16,2,0,0,0,0,0,1,8.0,0,0,0,0,0,-2,5,0,3
+['2023-11-28'],ICC Men's T20 World Cup Africa Region Qualifier,1407103,Tanzania,9,0,0,0,0,0.0,[16],1.0,6,3,0,4,0,0,1,0,0,0,0,4.0,0,0,0,0,0,0,28,0,28
+['2023-08-28'],East Africa Cup,1393317,Tanzania,10,2,3,0,0,66.67,"[7, 9, 11, 18]",4.0,24,11,0,37,5,1,1,0,0,0,3,9.25,1,0,0,0,0,2,36,8,46
+['2023-08-27'],East Africa Cup,1393330,Tanzania,11,0,0,0,0,0.0,"[7, 9, 18, 20]",4.0,24,8,0,37,3,1,2,0,0,0,2,9.25,0,0,0,0,0,0,58,0,58
+['2023-08-25'],East Africa Cup,1393329,Tanzania,11,0,0,0,0,0.0,"[7, 9, 11, 13]",4.0,24,9,0,24,2,1,1,0,0,0,0,6.0,0,0,0,0,0,0,36,0,36
+['2022-12-20'],Tri-Nation T20 Cup (Rwanda),1349136,Tanzania,10,4,7,0,0,57.14,"[4, 6, 8]",3.0,18,8,0,27,4,1,0,0,0,0,0,9.0,0,0,0,0,0,4,8,0,12
+['2022-12-19'],Tri-Nation T20 Cup (Rwanda),1349134,Tanzania,9,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,16,0,9,0,0,1,0,0,0,0,2.25,2,0,0,0,0,0,47,16,63
+['2022-12-18'],Tri-Nation T20 Cup (Rwanda),1349132,Tanzania,10,2,6,0,0,33.33,"[5, 7, 9]",3.0,18,5,0,30,4,1,0,0,0,0,0,10.0,0,0,1,0,0,2,3,12,17
+['2022-12-18'],Tri-Nation T20 Cup (Rwanda),1349133,Tanzania,10,0,0,0,0,0.0,"[4, 6, 8, 10]",4.0,24,10,0,22,1,0,0,0,0,0,2,5.5,0,0,0,0,0,0,14,0,14
+['2022-12-09'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343795,Tanzania,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
+['2022-12-06'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343786,Tanzania,11,0,0,0,0,0.0,"[16, 18]",1.333,8,5,0,3,0,0,2,1,1,0,0,2.25,0,0,0,0,0,0,71,0,71

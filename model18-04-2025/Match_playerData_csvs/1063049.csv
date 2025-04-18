@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Barisal Bulls,JJ Cobb,58c481c6,1,6,9,1,0,66.67,"[8, 10]",2.0,12,2,0,14,0,0,0,0,0,0,0,7.0,0,0,0,0,0,10,4,0,14
+Barisal Bulls,DJ Malan,ad9c32a2,2,78,46,3,7,169.57,[13],1.0,6,0,0,8,1,0,0,0,0,0,0,8.0,0,0,0,0,4,148,0,0,148
+Barisal Bulls,Shahriar Nafees,b9c225c2,3,65,58,7,1,112.07,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,107,0,0,107
+Barisal Bulls,NLTC Perera,0f12f9df,4,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6
+Barisal Bulls,Mushfiqur Rahim,a94e08ea,5,10,4,2,0,250.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,18,0,0,18
+Barisal Bulls,RR Emrit,e7de4f6b,6,0,0,0,0,0.0,"[6, 12]",2.0,12,2,0,31,5,1,0,0,0,0,0,15.5,0,0,0,0,0,0,-4,0,-4
+Barisal Bulls,Nadif Chowdhury,d6ac6545,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Barisal Bulls,Al-Amin Hossain,3f5f39cd,8,0,0,0,0,0.0,"[2, 4, 18, 20]",4.0,24,12,0,35,3,2,1,0,0,0,0,8.75,0,0,0,0,0,0,37,0,37
+Barisal Bulls,Taijul Islam,9d1d34bd,9,0,0,0,0,0.0,"[1, 3, 7]",3.0,18,10,1,16,2,0,0,0,0,1,0,5.33,0,0,0,0,0,0,26,0,26
+Barisal Bulls,Abu Hider,31803fac,10,0,0,0,0,0.0,"[5, 15, 17, 19]",4.0,24,7,0,31,3,1,1,0,0,0,0,7.75,0,0,0,0,0,0,32,0,32
+Barisal Bulls,Kamrul Islam Rabbi,f7e9a562,11,0,0,0,0,0.0,"[9, 11, 14, 16]",4.0,24,8,0,21,2,0,1,0,1,0,0,5.25,0,0,0,0,0,0,45,0,45
+Chittagong Vikings,Tamim Iqbal,3b041a12,1,75,50,10,2,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,139,0,0,139
+Chittagong Vikings,Jahurul Islam,6752c57b,2,36,34,4,0,105.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,56,0,0,56
+Chittagong Vikings,Anamul Haque,72b245dd,3,27,19,2,1,142.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,47,0,0,47
+Chittagong Vikings,DR Smith,35205dfc,4,17,17,0,1,100.0,"[8, 10, 18]",3.0,18,4,0,40,1,4,0,0,0,1,0,13.33,0,0,0,0,0,23,-2,0,21
+Chittagong Vikings,Zakir Hasan,e3e09091,5,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Chittagong Vikings,Nazmul Hossain Milon,0637aa94,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Chittagong Vikings,Mohammad Nabi,62af8546,7,0,0,0,0,0.0,"[3, 5, 12, 16]",4.0,24,15,0,17,1,1,0,0,0,0,0,4.25,0,0,0,0,0,0,21,0,21
+Chittagong Vikings,Imran Khan,195fb6db,8,0,0,0,0,0.0,"[11, 14, 17, 19]",4.0,24,6,0,30,2,1,2,0,1,2,0,7.5,1,0,0,0,0,0,64,8,72
+Chittagong Vikings,Subashis Roy,a3a078ba,9,0,0,0,0,0.0,"[2, 4, 6, 20]",3.667,22,11,0,24,4,0,1,0,1,0,0,6.54,0,0,0,0,0,0,46,0,46
+Chittagong Vikings,Abdur Razzak,888e32bf,10,0,0,0,0,0.0,"[1, 13]",2.0,12,4,0,22,3,1,0,0,0,0,0,11.0,0,0,0,0,0,0,2,0,2
+Chittagong Vikings,GD Elliott,c03449e0,11,0,0,0,0,0.0,"[7, 9, 15]",3.0,18,2,0,29,2,1,0,0,0,0,0,9.67,0,0,0,0,0,0,2,0,2

@@ -1,0 +1,10 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-08-27'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1443784,Greece,5,20,24,2,0,83.33,"[6, 8, 10, 12]",4.0,24,13,1,12,0,0,0,0,0,0,2,3.0,0,0,0,0,0,28,31,0,59
+['2024-08-25'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1443781,Greece,1,9,17,0,0,52.94,"[2, 4, 6, 8]",4.0,24,12,0,32,4,0,0,0,0,0,5,8.0,0,0,0,0,-4,5,12,0,17
+['2024-08-24'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1443776,Greece,2,14,13,2,0,107.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
+['2024-08-22'],ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C,1443771,Greece,6,10,10,0,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
+['2022-07-16'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321270,Greece,7,0,3,0,0,0.0,"[4, 16]",2.0,12,3,0,26,2,2,1,0,1,0,0,13.0,0,0,0,0,0,-2,30,0,28
+['2022-07-15'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321267,Greece,8,1,4,0,0,25.0,"[5, 7, 18]",3.0,18,9,0,17,2,0,0,0,0,0,2,5.67,0,0,0,0,0,1,13,0,14
+['2021-06-26'],Sofia Twenty20,1267311,Greece,2,2,4,0,0,50.0,"[2, 4, 6, 8]",4.0,24,14,0,23,3,0,2,0,1,0,6,5.75,0,0,0,0,0,2,76,0,78
+['2021-06-25'],Sofia Twenty20,1267306,Greece,2,54,25,5,5,216.0,"[11, 13, 15, 17]",4.0,24,11,0,22,2,1,2,0,0,0,0,5.5,1,0,0,0,6,118,65,8,191
+['2021-06-24'],Sofia Twenty20,1267304,Greece,2,61,42,2,6,145.24,[5],1.0,6,2,0,10,2,0,0,0,0,0,0,10.0,0,0,0,0,2,115,2,0,117

@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-07-09'],Bulgaria tour of Serbia,1323551,Bulgaria,7,6,5,1,0,120.0,[19],1.0,6,2,0,12,1,1,0,0,0,0,0,12.0,0,0,0,0,0,10,2,0,12
+['2022-07-09'],Bulgaria tour of Serbia,1323552,Bulgaria,11,0,0,0,0,0.0,"[17, 19]",1.833,11,6,0,7,1,0,2,1,1,0,0,3.82,0,0,0,0,0,0,72,0,72
+['2022-07-08'],Bulgaria tour of Serbia,1323550,Bulgaria,8,8,5,0,1,160.0,[18],1.0,6,5,0,2,0,0,0,0,0,0,0,2.0,0,0,0,0,0,14,5,0,19

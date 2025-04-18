@@ -1,0 +1,14 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2021-01-13'],Syed Mushtaq Ali Trophy,1244335,Services,6,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2021-01-11'],Syed Mushtaq Ali Trophy,1244315,Services,6,5,7,0,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
+['2019-11-17'],Syed Mushtaq Ali Trophy,1205832,Services,5,24,16,3,1,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,42,0,0,42
+['2019-11-14'],Syed Mushtaq Ali Trophy,1205786,Services,5,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2019-11-12'],Syed Mushtaq Ali Trophy,1205769,Services,6,5,7,0,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,5,0,8,13
+['2019-11-11'],Syed Mushtaq Ali Trophy,1205751,Services,6,3,2,0,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,3,0,16,19
+['2019-11-09'],Syed Mushtaq Ali Trophy,1205742,Services,6,8,7,0,1,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,14,0,16,30
+['2019-03-02'],Syed Mushtaq Ali Trophy,1157209,Services,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2018-01-16'],Syed Mushtaq Ali Trophy,1130722,Services,5,53,35,3,3,151.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,95,0,0,95
+['2018-01-15'],Syed Mushtaq Ali Trophy,1130718,Services,3,42,32,3,3,131.25,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,78,0,0,78
+['2018-01-13'],Syed Mushtaq Ali Trophy,1130704,Services,7,3,2,0,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2018-01-10'],Syed Mushtaq Ali Trophy,1130686,Services,7,14,10,1,1,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,26,0,8,34
+['2018-01-08'],Syed Mushtaq Ali Trophy,1130669,Services,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16

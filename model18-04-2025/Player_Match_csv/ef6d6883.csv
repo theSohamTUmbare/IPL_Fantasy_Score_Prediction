@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2025-02-24'],Bahrain tour of Indonesia,1471826,Indonesia,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2025-02-20'],Bahrain tour of Indonesia,1471823,Indonesia,7,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2025-02-19'],Bahrain tour of Indonesia,1471822,Indonesia,10,3,4,0,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11
+['2024-11-15'],Myanmar tour of Indonesia,1456869,Indonesia,8,0,0,0,0,0.0,[14],1.0,6,2,0,5,0,0,0,0,0,0,1,5.0,0,0,0,0,0,0,2,0,2
+['2024-10-24'],Bhutan Quadrangular T20I Series,1453919,Indonesia,11,0,0,0,0,0.0,"[14, 16, 18, 20]",3.5,21,12,0,19,0,1,2,0,1,1,2,5.43,0,0,0,2,0,0,74,12,86

@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2018-12-06'],ICC World Twenty20 East Asia-Pacific Region Qualifier B,1166889,Indonesia,8,4,9,0,0,44.44,"[9, 11]",2.0,12,5,0,11,0,0,0,0,0,0,1,5.5,0,0,0,0,0,4,9,0,13
+['2018-12-05'],ICC World Twenty20 East Asia-Pacific Region Qualifier B,1166887,Indonesia,8,8,7,1,0,114.29,[17],1.0,6,2,0,5,0,0,0,0,0,0,0,5.0,0,0,0,0,0,12,2,0,14
+['2018-12-03'],ICC World Twenty20 East Asia-Pacific Region Qualifier B,1166885,Indonesia,7,5,5,0,0,100.0,"[9, 11]",2.0,12,3,0,19,1,1,1,1,0,0,1,9.5,0,0,0,0,0,5,36,0,41
+['2018-12-01'],ICC World Twenty20 East Asia-Pacific Region Qualifier B,1166881,Indonesia,7,12,18,0,1,66.67,"[15, 17]",2.0,12,4,0,13,0,1,1,0,1,0,0,6.5,0,0,0,0,-2,16,39,0,55

@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2021-01-29'],Syed Mushtaq Ali Trophy,1244405,Tamil Nadu,8,0,0,0,0,0.0,"[3, 6]",2.0,12,3,0,29,5,1,0,0,0,0,0,14.5,1,0,0,0,0,0,-3,8,5
+['2021-01-16'],Syed Mushtaq Ali Trophy,1244366,Tamil Nadu,9,0,0,0,0,0.0,"[11, 13, 17]",3.0,18,4,0,37,5,1,1,0,0,0,0,12.33,2,0,0,0,0,0,23,16,39
+['2021-01-14'],Syed Mushtaq Ali Trophy,1244348,Tamil Nadu,6,0,0,0,0,0.0,"[2, 9, 13, 15]",4.0,24,8,0,34,4,1,2,0,0,0,0,8.5,1,0,0,0,0,0,58,8,66

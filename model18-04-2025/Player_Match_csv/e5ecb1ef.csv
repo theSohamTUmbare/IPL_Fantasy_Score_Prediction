@@ -1,0 +1,10 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-06-15'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436488,Hungary,1,30,17,5,1,176.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,66,0,8,74
+['2024-06-13'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436483,Hungary,2,35,24,3,2,145.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,65,0,0,65
+['2024-06-12'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436482,Hungary,2,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,4,0,12,16
+['2024-06-09'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436472,Hungary,1,57,45,8,0,126.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,97,0,12,109
+['2024-05-26'],Continental Cup,1434162,Hungary,1,26,18,4,1,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,2,54,0,12,66
+['2023-08-06'],Croatia tour of Hungary,1390169,Hungary,11,0,0,0,0,0.0,"[11, 13, 15, 17]",3.5,21,15,0,6,0,0,3,1,0,0,0,1.71,2,0,0,0,0,0,108,16,124
+['2023-08-05'],Croatia tour of Hungary,1390167,Hungary,2,36,23,3,2,156.52,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,68,0,0,68
+['2023-06-11'],Hungary tour of Czech Republic,1380586,Hungary,1,25,19,6,0,131.58,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,55,0,0,55
+['2023-06-11'],Hungary tour of Czech Republic,1380587,Hungary,1,21,14,3,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,33,0,8,41

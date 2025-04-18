@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-03-04'],ICC Men's T20 World Cup Americas Region Qualifier,1359802,Argentina,6,0,1,0,0,0.0,"[6, 8, 15, 17]",4.0,24,10,0,27,3,1,2,0,1,0,0,6.75,0,0,0,0,0,-2,70,0,68
+['2023-03-02'],ICC Men's T20 World Cup Americas Region Qualifier,1359798,Argentina,7,0,1,0,0,0.0,"[8, 10, 17]",3.0,18,11,0,11,1,0,0,0,0,0,2,3.67,2,0,0,0,0,-2,17,16,31
+['2023-02-26'],ICC Men's T20 World Cup Americas Region Qualifier,1359793,Argentina,8,0,3,0,0,0.0,"[6, 8, 14, 16]",4.0,24,5,0,46,3,3,0,0,0,0,3,11.5,0,0,0,0,0,-2,1,0,-1
+['2023-02-25'],ICC Men's T20 World Cup Americas Region Qualifier,1359794,Argentina,7,10,9,0,0,111.11,"[6, 8, 12, 18]",4.0,24,7,0,28,1,0,0,0,0,0,1,7.0,1,0,0,0,0,10,9,8,27
+['2023-02-21'],Bermuda tour of Argentina,1359786,Argentina,9,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,-2,0,16,14

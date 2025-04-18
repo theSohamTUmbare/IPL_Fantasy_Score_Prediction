@@ -1,0 +1,8 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-06-20'],ICC Men's T20 World Cup Europe Region Final,1185188,Norway,6,10,10,1,0,100.0,[2],1.0,6,1,0,11,1,0,0,0,0,1,2,11.0,0,0,0,0,0,14,1,0,15
+['2019-06-17'],ICC Men's T20 World Cup Europe Region Final,1185182,Norway,6,27,23,0,2,117.39,"[5, 14, 16, 20]",4.0,24,8,0,23,3,0,1,0,1,0,0,5.75,0,0,0,0,0,43,45,0,88
+['2019-06-16'],ICC Men's T20 World Cup Europe Region Final,1185186,Norway,6,6,8,0,0,75.0,"[2, 4, 19]",3.0,18,11,0,28,3,1,1,0,0,1,3,9.33,0,0,0,0,0,6,36,0,42
+['2018-09-02'],ICC World Twenty20 Europe Region Qualifier C,1156678,Norway,9,31,14,1,2,221.43,[2],1.0,6,2,0,17,2,0,0,0,0,1,3,17.0,0,0,0,0,6,57,2,0,59
+['2018-09-01'],ICC World Twenty20 Europe Region Qualifier C,1156675,Norway,9,0,0,0,0,0.0,"[2, 4, 14, 20]",4.0,24,13,0,18,1,0,0,0,0,0,2,4.5,1,0,0,0,0,0,19,8,27
+['2018-08-31'],ICC World Twenty20 Europe Region Qualifier C,1157847,Norway,7,1,3,0,0,33.33,"[2, 4, 6, 18]",4.0,24,19,0,7,0,0,3,1,1,1,0,1.75,1,0,0,0,0,1,120,8,129
+['2018-08-29'],ICC World Twenty20 Europe Region Qualifier C,1156668,Norway,5,5,2,1,0,250.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9

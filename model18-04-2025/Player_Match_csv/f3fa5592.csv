@@ -1,0 +1,11 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2014-08-02'],NatWest T20 Blast,693265,Warwickshire,3,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2014-07-25'],NatWest T20 Blast,693255,Warwickshire,3,12,12,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,16,0,0,16
+['2014-07-18'],NatWest T20 Blast,693221,Warwickshire,2,15,10,3,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27
+['2014-07-11'],NatWest T20 Blast,693205,Warwickshire,3,13,17,2,0,76.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,21,0,0,21
+['2014-07-08'],NatWest T20 Blast,693191,Warwickshire,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2014-07-03'],NatWest T20 Blast,693167,Warwickshire,3,13,19,2,0,68.42,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,19,0,0,19
+['2014-06-27'],NatWest T20 Blast,693151,Warwickshire,3,50,33,4,2,151.52,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,90,0,8,98
+['2014-06-13'],NatWest T20 Blast,693095,Warwickshire,3,14,9,3,0,155.56,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,26,0,8,34
+['2014-06-01'],NatWest T20 Blast,693069,Warwickshire,3,5,7,1,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,9,0,0,9
+['2014-05-30'],NatWest T20 Blast,693065,Warwickshire,3,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,3,0,8,11

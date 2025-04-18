@@ -1,0 +1,6 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-12-06'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343784,Eswatini,11,0,0,0,0,0.0,"[6, 8]",2.0,12,2,0,25,4,0,0,0,0,0,0,12.5,0,0,0,0,0,0,-4,0,-4
+['2022-12-05'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343781,Eswatini,10,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2022-12-04'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343777,Eswatini,10,0,1,0,0,0.0,"[2, 4, 6, 8]",4.0,24,8,0,33,5,0,1,0,1,0,1,8.25,0,0,0,0,0,-2,41,0,39
+['2022-12-02'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343775,Eswatini,8,0,0,0,0,0.0,"[2, 4]",2.0,12,6,0,14,2,0,0,0,0,0,0,7.0,0,0,0,0,0,0,8,0,8
+['2022-12-01'],ICC Men's T20 World Cup Sub Regional Africa Qualifier,1343771,Eswatini,11,0,0,0,0,0.0,"[16, 18, 20]",3.0,18,8,0,15,1,0,3,2,1,0,0,5.0,0,0,0,0,0,0,115,0,115

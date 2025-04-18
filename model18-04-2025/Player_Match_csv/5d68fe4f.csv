@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-10-20'],ICC Men's T20 World Cup,1298144,United Arab Emirates,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2018-04-24'],ICC World Twenty20 Asia Region Qualifier A,1142217,United Arab Emirates,9,8,4,0,1,200.0,"[2, 4, 8, 10]",4.0,24,15,0,22,2,1,2,0,0,0,0,5.5,1,0,0,0,0,14,69,8,91
+['2018-04-23'],ICC World Twenty20 Asia Region Qualifier A,1142216,United Arab Emirates,8,4,4,1,0,100.0,"[6, 8, 10, 12]",4.0,24,14,1,15,1,0,2,0,0,0,0,3.75,1,0,0,0,0,8,82,8,98

@@ -1,0 +1,23 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2010-04-18'],Indian Premier League,419159,Kings XI Punjab,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2010-04-16'],Indian Premier League,419156,Kings XI Punjab,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2010-04-11'],Indian Premier League,419149,Kings XI Punjab,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,0,0,6,6
+['2010-04-09'],Indian Premier League,419146,Kings XI Punjab,7,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2010-03-30'],Indian Premier League,419132,Kings XI Punjab,8,1,3,0,0,33.33,[11],1.0,6,1,0,7,0,0,0,0,0,0,0,7.0,1,0,0,0,0,1,1,8,10
+['2010-03-27'],Indian Premier League,419127,Kings XI Punjab,7,17,17,1,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,27,0,0,27
+['2009-05-12'],Indian Premier League,392222,Kings XI Punjab,8,20,21,2,0,95.24,"[12, 14]",2.0,12,5,0,16,2,0,0,0,0,0,0,8.0,0,0,0,0,0,28,5,0,33
+['2009-05-07'],Indian Premier League,392214,Kings XI Punjab,3,14,20,1,0,70.0,"[7, 9, 11]",3.0,18,6,0,23,3,0,0,0,0,0,0,7.67,1,0,0,0,-2,16,6,8,30
+['2009-05-05'],Indian Premier League,392210,Kings XI Punjab,3,1,4,0,0,25.0,[12],1.0,6,1,0,11,2,0,0,0,0,0,0,11.0,1,0,0,0,0,1,1,8,10
+['2009-05-01'],Indian Premier League,392204,Kings XI Punjab,2,20,29,2,0,68.97,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,26,0,0,26
+['2009-04-29'],Indian Premier League,392200,Kings XI Punjab,2,12,12,0,1,100.0,"[11, 14]",2.0,12,4,0,11,1,0,0,0,0,0,1,5.5,1,0,0,0,0,18,8,8,34
+['2009-04-26'],Indian Premier League,392195,Kings XI Punjab,2,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2009-04-24'],Indian Premier League,392191,Kings XI Punjab,2,19,19,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,23,0,8,31
+['2009-04-21'],Indian Premier League,392186,Kings XI Punjab,2,0,7,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2009-04-19'],Indian Premier League,392183,Kings XI Punjab,2,38,21,3,3,180.95,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,78,0,0,78
+['2008-05-10'],Indian Premier League,336013,Kings XI Punjab,3,1,7,0,0,14.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+['2008-05-03'],Indian Premier League,336003,Kings XI Punjab,6,6,7,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+['2008-05-01'],Indian Premier League,335999,Kings XI Punjab,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2008-04-27'],Indian Premier League,335995,Kings XI Punjab,1,1,3,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2008-04-25'],Indian Premier League,335991,Kings XI Punjab,1,18,21,1,1,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
+['2008-04-21'],Indian Premier League,335987,Kings XI Punjab,1,26,21,3,2,123.81,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,54,0,0,54
+['2008-04-19'],Indian Premier League,335983,Kings XI Punjab,1,24,19,2,1,126.32,"[10, 12]",2.0,12,2,0,25,1,2,0,0,0,0,0,12.5,0,0,0,0,0,38,-4,0,34

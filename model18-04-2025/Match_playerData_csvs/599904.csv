@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Barisal Burners,JL Denly,bdadf7da,1,1,5,0,0,20.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Barisal Burners,BJ Hodge,b57f8a9a,2,46,40,7,1,115.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,84,0,8,92
+Barisal Burners,Shuvagata Hom,bb01f9e0,3,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+Barisal Burners,Azhar Mahmood,9a158001,4,0,2,0,0,0.0,"[4, 6, 17, 20]",3.667,22,13,0,16,1,0,2,0,0,0,3,4.36,0,0,0,0,0,-2,69,0,67
+Barisal Burners,Sabbir Rahman,7147f314,5,18,14,2,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,26,0,8,34
+Barisal Burners,P Mustard,1b6fef02,6,18,19,2,0,94.74,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,26,0,20,46
+Barisal Burners,Alauddin Babu,721032ec,7,3,4,0,0,75.0,"[5, 10, 12]",3.0,18,6,0,27,3,1,0,0,0,0,0,9.0,1,0,0,0,0,3,6,8,17
+Barisal Burners,Alok Kapali,54279e23,8,34,16,4,1,212.5,"[7, 9]",2.0,12,2,0,20,1,1,0,0,0,0,0,10.0,0,0,0,0,6,66,0,0,66
+Barisal Burners,Hamid Hassan,093ae70b,9,2,5,0,0,40.0,"[1, 3, 11, 19]",4.0,24,13,0,31,6,0,3,0,2,1,0,7.75,0,0,1,0,0,2,108,12,122
+Barisal Burners,Elias Sunny,817c1746,10,20,11,2,1,181.82,"[8, 14, 16, 18]",4.0,24,9,0,28,2,1,2,0,0,0,0,7.0,1,0,0,0,6,40,61,8,109
+Barisal Burners,Nazmul Islam,6575e3bc,11,0,0,0,0,0.0,"[2, 13, 15]",3.0,18,6,0,23,3,0,1,0,0,0,0,7.67,0,0,0,0,0,0,31,0,31
+Sylhet Royals,H Masakadza,31fbf891,1,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Sylhet Royals,PR Stirling,cf494ffe,2,42,29,6,1,144.83,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,78,0,0,78
+Sylhet Royals,Imtiaz Hossain,003e7738,3,13,11,3,0,118.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,25,0,0,25
+Sylhet Royals,Mushfiqur Rahim,a94e08ea,4,34,34,1,1,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,1,0,0,48,0,28,76
+Sylhet Royals,Mominul Haque,de0a3209,5,14,16,1,0,87.5,"[9, 14, 16]",3.0,18,7,0,14,0,0,2,0,1,0,0,4.67,0,0,1,0,0,18,71,12,101
+Sylhet Royals,Nazmul Hossain Milon,0637aa94,6,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+Sylhet Royals,E Chigumbura,d2babdd5,7,19,10,2,1,190.0,"[2, 4, 6, 20]",4.0,24,12,0,29,3,1,1,0,0,0,0,7.25,1,0,0,0,6,39,37,8,84
+Sylhet Royals,Mohammad Nabi,62af8546,8,16,7,3,0,228.57,"[11, 13]",2.0,12,4,0,17,3,0,0,0,0,0,0,8.5,0,0,2,0,0,28,4,24,56
+Sylhet Royals,Sohag Gazi,5a4c12ab,9,0,1,0,0,0.0,"[7, 15, 17]",3.0,18,6,0,22,3,0,1,0,0,0,0,7.33,0,0,0,0,0,-2,31,0,29
+Sylhet Royals,Suhrawadi Shuvo,8fb49ef8,10,2,3,0,0,66.67,"[8, 10, 12, 18]",4.0,24,9,0,29,3,1,0,0,0,0,0,7.25,0,0,0,0,0,2,9,0,11
+Sylhet Royals,SJ Benn,364ee2cf,11,0,0,0,0,0.0,"[1, 3, 5, 19]",4.0,24,12,0,33,5,1,1,1,0,0,0,8.25,0,0,0,0,0,0,45,0,45

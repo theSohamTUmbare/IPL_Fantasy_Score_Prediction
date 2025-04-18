@@ -1,0 +1,11 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2017-01-17'],Desert T20 Challenge,1074963,Namibia,6,21,18,1,1,116.67,"[1, 7, 10]",3.0,18,4,0,21,1,0,1,0,1,0,0,7.0,0,0,0,0,0,31,39,0,70
+['2017-01-15'],Desert T20 Challenge,1074960,Namibia,7,2,4,0,0,50.0,"[1, 6, 16]",3.0,18,2,0,34,2,2,0,0,0,0,0,11.33,0,0,0,1,0,2,-2,6,6
+['2015-07-23'],ICC World Twenty20 Qualifier,875547,Namibia,2,0,2,0,0,0.0,"[1, 10, 18]",3.0,18,7,0,23,2,1,1,0,1,0,2,7.67,0,0,0,0,0,-2,40,0,38
+['2015-07-21'],ICC World Twenty20 Qualifier,875543,Namibia,2,0,0,0,0,0.0,"[1, 3, 14, 19]",4.0,24,11,0,22,2,0,1,0,0,0,1,5.5,0,0,0,0,0,0,40,0,40
+['2015-07-19'],ICC World Twenty20 Qualifier,875539,Namibia,2,12,6,3,0,200.0,"[6, 8, 18, 20]",4.0,24,9,0,30,1,1,4,0,1,0,4,7.5,0,0,0,0,0,24,125,0,149
+['2015-07-18'],ICC World Twenty20 Qualifier,875529,Namibia,2,19,10,1,2,190.0,"[5, 16, 18, 20]",3.333,20,10,0,18,0,1,3,1,0,0,1,5.4,0,0,0,0,6,41,101,0,142
+['2015-07-17'],ICC World Twenty20 Qualifier,875515,Namibia,2,82,43,8,5,190.7,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,162,0,0,162
+['2015-07-11'],ICC World Twenty20 Qualifier,875475,Namibia,2,10,12,1,0,83.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,14,0,0,14
+['2015-07-10'],ICC World Twenty20 Qualifier,875461,Namibia,2,7,11,1,0,63.64,"[7, 9]",2.0,12,3,0,20,1,1,0,0,0,0,1,10.0,0,0,0,0,-2,9,1,0,10
+['2015-05-18'],Hong Kong tour of Namibia,877507,Namibia,2,9,8,2,0,112.5,"[1, 3, 17, 19]",4.0,24,7,0,32,1,1,0,0,0,0,5,8.0,0,0,0,0,0,17,7,0,24

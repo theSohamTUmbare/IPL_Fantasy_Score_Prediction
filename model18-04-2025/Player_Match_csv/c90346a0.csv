@@ -1,0 +1,11 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2023-02-26'],Isle of Man tour of Spain,1354802,Isle of Man,3,27,32,1,1,84.38,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,41,0,8,49
+['2023-02-25'],Isle of Man tour of Spain,1354800,Isle of Man,3,13,19,2,0,68.42,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,19,0,0,19
+['2023-02-25'],Isle of Man tour of Spain,1354801,Isle of Man,3,14,12,2,0,116.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,22,0,8,30
+['2023-02-24'],Isle of Man tour of Spain,1354799,Isle of Man,3,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2022-07-19'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321280,Isle of Man,7,2,4,0,0,50.0,"[7, 9, 11]",2.833,17,3,0,29,4,0,1,0,0,0,0,10.24,0,0,0,0,0,2,26,0,28
+['2022-07-18'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321276,Isle of Man,7,33,30,0,1,110.0,"[5, 7]",2.0,12,8,0,14,1,1,0,0,0,0,0,7.0,1,0,0,1,0,43,10,14,67
+['2022-07-15'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321268,Isle of Man,10,0,0,0,0,0.0,"[7, 9]",2.0,12,4,0,16,2,0,0,0,0,0,0,8.0,0,0,0,1,0,0,4,6,10
+['2022-07-13'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321263,Isle of Man,7,0,2,0,0,0.0,"[7, 9, 19]",3.0,18,8,0,15,1,0,0,0,0,0,1,5.0,1,0,0,0,0,-2,12,8,18
+['2022-07-12'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321258,Isle of Man,11,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,10,0,21,1,0,1,0,0,0,4,5.25,0,0,0,0,0,0,39,0,39
+['2021-10-06'],Cyprus T20 Tri-Series,1279382,Isle of Man,7,0,0,0,0,0.0,"[10, 12, 14]",3.0,18,4,0,23,1,1,0,0,0,0,0,7.67,0,0,0,0,0,0,4,0,4

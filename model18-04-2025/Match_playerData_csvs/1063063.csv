@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Chittagong Vikings,Tamim Iqbal,3b041a12,1,26,35,2,0,74.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,38,0,0,38
+Chittagong Vikings,Jahurul Islam,6752c57b,2,6,7,1,0,85.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+Chittagong Vikings,Anamul Haque,72b245dd,3,17,15,0,1,113.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,23,0,12,35
+Chittagong Vikings,Mahmudul Hasan,8c783a97,4,20,22,1,0,90.91,[6],1.0,6,1,0,12,2,0,0,0,0,0,0,12.0,0,0,0,0,0,24,1,0,25
+Chittagong Vikings,Mohammad Nabi,62af8546,5,15,10,2,0,150.0,"[5, 12, 17]",3.0,18,6,0,18,1,0,3,1,1,0,0,6.0,0,0,0,0,0,23,103,0,126
+Chittagong Vikings,GD Elliott,c03449e0,6,8,6,1,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,12,0,8,20
+Chittagong Vikings,Nazmul Hossain Milon,0637aa94,7,13,7,2,0,185.71,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,21,0,8,29
+Chittagong Vikings,Saqlain Sajib,f3c150bb,8,9,12,0,0,75.0,"[7, 9, 13, 15]",4.0,24,10,0,26,2,1,0,0,0,0,0,6.5,1,0,0,0,0,9,12,8,29
+Chittagong Vikings,TS Mills,245c97cb,9,4,3,1,0,133.33,"[1, 3, 10, 19]",4.0,24,13,0,25,4,0,3,1,1,0,1,6.25,0,0,0,0,0,8,110,0,118
+Chittagong Vikings,Imran Khan,195fb6db,10,5,3,1,0,166.67,"[8, 14, 18, 20]",4.0,24,6,0,23,2,0,1,0,0,0,0,5.75,0,0,1,0,0,9,35,12,56
+Chittagong Vikings,Subashis Roy,a3a078ba,11,0,0,0,0,0.0,"[2, 4, 11, 16]",4.0,24,7,0,42,5,2,0,0,0,0,0,10.5,0,0,0,0,0,0,5,0,5
+Dhaka Dynamites,Mehedi Maruf,3361993b,1,33,20,6,1,165.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,4,71,0,12,83
+Dhaka Dynamites,KC Sangakkara,6b71e6cf,2,17,22,2,0,77.27,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,25,0,16,41
+Dhaka Dynamites,Nasir Hossain,6eea0b32,3,20,14,3,0,142.86,"[1, 7, 9]",3.0,18,8,0,26,3,1,1,0,0,0,0,8.67,1,0,0,0,2,34,33,8,75
+Dhaka Dynamites,Mosaddek Hossain,8919756f,4,35,26,2,2,134.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,61,0,8,69
+Dhaka Dynamites,Shakib Al Hasan,7dc35884,5,13,7,2,0,185.71,"[2, 4]",2.0,12,6,0,9,0,0,0,0,0,0,0,4.5,0,0,0,0,0,21,12,0,33
+Dhaka Dynamites,DJ Bravo,87e562a9,6,3,4,0,0,75.0,"[6, 11, 13, 19]",4.0,24,6,0,25,3,0,1,0,0,0,0,6.25,0,0,1,0,0,3,33,12,48
+Dhaka Dynamites,S Prasanna,f78e7113,7,8,11,0,0,72.73,"[8, 10, 14]",3.0,18,3,0,17,1,0,0,0,0,0,0,5.67,1,0,0,0,0,8,7,8,23
+Dhaka Dynamites,MT Coles,e9d5218e,8,4,4,0,0,100.0,"[3, 5, 15, 17]",4.0,24,9,0,23,2,0,1,0,1,0,0,5.75,0,0,0,0,0,4,46,0,50
+Dhaka Dynamites,Alauddin Babu,721032ec,9,5,7,0,0,71.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,5,0,0,5
+Dhaka Dynamites,Sunzamul Islam,0f348f58,10,7,5,1,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
+Dhaka Dynamites,Mohammad Shahid,c285c86e,11,0,0,0,0,0.0,"[12, 16, 18, 20]",4.0,24,7,0,23,2,0,3,0,0,0,0,5.75,0,0,0,0,0,0,90,0,90

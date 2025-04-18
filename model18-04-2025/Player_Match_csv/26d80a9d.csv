@@ -1,0 +1,19 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-06-16'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436494,Italy,5,7,5,1,0,140.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,11,0,0,11
+['2024-06-13'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436486,Italy,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2024-06-12'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436479,Italy,5,7,10,0,0,70.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,5,0,0,5
+['2024-06-10'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436478,Italy,6,20,18,2,0,111.11,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,28,0,0,28
+['2024-06-09'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1436471,Italy,6,26,18,3,1,144.44,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,50,0,0,50
+['2023-07-28'],ICC Men's T20 World Cup Europe Region Qualifier,1383086,Italy,5,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2023-07-25'],ICC Men's T20 World Cup Europe Region Qualifier,1383080,Italy,2,18,19,2,0,94.74,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,26,0,8,34
+['2023-07-24'],ICC Men's T20 World Cup Europe Region Qualifier,1383077,Italy,3,9,6,2,0,150.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,17,0,8,25
+['2023-07-23'],ICC Men's T20 World Cup Europe Region Qualifier,1383075,Italy,6,44,22,3,3,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,84,0,8,92
+['2023-07-20'],ICC Men's T20 World Cup Europe Region Qualifier,1383069,Italy,3,16,13,2,0,123.08,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,24,0,8,32
+['2022-11-06'],Spain Triangular T20I Series,1339210,Italy,3,87,57,6,4,152.63,"[2, 10, 16]",3.0,18,8,0,17,1,0,1,1,0,0,0,5.67,1,0,0,0,4,151,45,8,204
+['2022-11-05'],Spain Triangular T20I Series,1339207,Italy,3,19,18,3,0,105.56,"[10, 12]",2.0,12,5,0,12,0,1,1,0,0,0,0,6.0,2,0,0,0,0,31,32,16,79
+['2022-11-04'],Spain Triangular T20I Series,1339205,Italy,3,18,25,1,0,72.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22,0,0,22
+['2022-11-04'],Spain Triangular T20I Series,1339206,Italy,3,42,51,1,0,82.35,"[14, 16]",2.167,13,4,0,11,1,0,0,0,0,0,0,5.08,0,0,0,0,0,50,8,0,58
+['2022-07-19'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321280,Italy,3,35,21,3,1,166.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,61,0,0,61
+['2022-07-16'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321272,Italy,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2022-07-15'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321265,Italy,3,62,49,4,3,126.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,104,0,0,104
+['2022-07-13'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321264,Italy,3,50,33,5,2,151.52,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,94,0,0,94

@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2021-09-16'],Uganda T20 Tri-Series,1275045,Kenya,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,16,16
+['2021-09-13'],Uganda T20 Tri-Series,1275042,Kenya,8,0,0,0,0,0.0,"[18, 20]",2.0,12,3,0,15,2,0,0,0,0,0,0,7.5,1,0,0,0,0,0,3,8,11
+['2021-09-11'],Uganda T20 Tri-Series,1275039,Kenya,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0

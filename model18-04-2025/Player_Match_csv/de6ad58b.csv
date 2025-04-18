@@ -1,0 +1,5 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-07-30'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321299,Slovenia,6,1,3,0,0,33.33,"[9, 11, 13, 15]",4.0,24,11,0,31,1,2,1,0,0,0,5,7.75,1,0,0,0,0,1,36,8,45
+['2022-07-28'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321296,Slovenia,10,2,3,0,0,66.67,"[4, 6]",1.5,9,2,0,15,1,1,1,0,1,0,0,10.0,0,0,0,0,0,2,35,0,37
+['2022-07-27'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321291,Slovenia,6,21,23,1,1,91.3,"[8, 10, 12]",3.0,18,8,0,23,0,2,2,0,2,0,3,7.67,0,0,0,0,0,31,74,0,105
+['2022-07-25'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321286,Slovenia,1,9,22,1,0,40.91,"[8, 10]",2.0,12,1,0,16,1,0,0,0,0,0,0,8.0,1,0,0,0,-6,7,1,8,16

@@ -1,0 +1,4 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-07-24'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321282,Estonia,9,4,14,0,0,28.57,[3],1.0,6,0,0,15,1,0,0,0,0,0,5,15.0,0,0,0,0,-6,-2,0,0,-2
+['2021-10-08'],Cyprus T20 Tri-Series,1279385,Estonia,11,0,0,0,0,0.0,"[9, 11]",2.0,12,1,0,33,2,2,0,0,0,1,2,16.5,0,0,0,0,0,0,-5,0,-5
+['2021-10-05'],Estonia tour of Cyprus,1279380,Estonia,11,0,0,0,0,0.0,"[6, 14]",2.0,12,2,0,37,0,4,0,0,0,0,2,18.5,0,0,0,0,0,0,-4,0,-4

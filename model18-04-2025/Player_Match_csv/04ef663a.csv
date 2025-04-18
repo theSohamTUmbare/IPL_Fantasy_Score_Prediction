@@ -1,0 +1,22 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2025-02-01'],Bangladesh Premier League,1459577,Khulna Tigers,5,18,20,1,0,90.0,"[7, 9, 11, 13]",4.0,24,15,0,10,0,0,2,0,0,0,1,2.5,0,0,0,0,0,22,71,0,93
+['2025-01-30'],Bangladesh Premier League,1459575,Khulna Tigers,4,36,21,3,2,171.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,70,0,0,70
+['2025-01-27'],Bangladesh Premier League,1459571,Khulna Tigers,5,20,16,2,0,125.0,[7],1.0,6,1,0,5,0,0,0,0,0,0,0,5.0,0,0,0,0,0,28,1,0,29
+['2025-01-23'],Bangladesh Premier League,1459568,Khulna Tigers,6,19,11,1,1,172.73,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,35,0,8,43
+['2025-01-22'],Bangladesh Premier League,1459566,Khulna Tigers,7,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2025-01-19'],Bangladesh Premier League,1459562,Khulna Tigers,5,55,37,4,1,148.65,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,87,0,0,87
+['2025-01-12'],Bangladesh Premier League,1459553,Khulna Tigers,1,43,40,5,0,107.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,67,0,0,67
+['2025-01-10'],Bangladesh Premier League,1459551,Khulna Tigers,1,6,5,0,1,120.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+['2025-01-03'],Bangladesh Premier League,1459544,Khulna Tigers,2,26,28,3,1,92.86,"[11, 20]",2.0,12,2,0,25,2,2,0,0,0,0,0,12.5,1,0,0,0,0,48,-4,8,52
+['2024-12-31'],Bangladesh Premier League,1459539,Khulna Tigers,2,75,49,8,3,153.06,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,4,141,0,8,149
+['2019-01-18'],Big Bash League,1152544,Perth Scorchers,7,3,3,0,0,100.0,[1],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,1,0,0,0,0,3,2,8,13
+['2019-01-09'],Big Bash League,1152535,Perth Scorchers,6,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2019-01-05'],Big Bash League,1152531,Perth Scorchers,8,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2019-01-02'],Big Bash League,1152527,Perth Scorchers,7,23,21,2,0,109.52,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,31,0,0,31
+['2018-12-30'],Big Bash League,1152523,Perth Scorchers,1,0,1,0,0,0.0,"[4, 7]",2.0,12,4,0,9,0,0,0,0,0,0,0,4.5,0,0,0,0,0,-2,10,0,8
+['2018-12-26'],Big Bash League,1152519,Perth Scorchers,3,36,34,3,0,105.88,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,52,0,0,52
+['2018-12-22'],Big Bash League,1152514,Perth Scorchers,7,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2018-01-13'],Big Bash League,1114882,Perth Scorchers,1,3,9,0,0,33.33,"[7, 9]",2.0,12,4,0,9,0,0,1,1,0,0,0,4.5,1,0,0,0,0,3,43,8,54
+['2018-01-11'],Big Bash League,1114880,Perth Scorchers,1,9,7,1,0,128.57,[4],1.0,6,1,0,19,3,1,0,0,0,0,0,19.0,0,0,0,0,0,13,1,0,14
+['2017-12-26'],Big Bash League,1114862,Perth Scorchers,1,4,4,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16
+['2017-12-23'],Big Bash League,1114860,Perth Scorchers,1,21,20,4,0,105.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,37,0,0,37

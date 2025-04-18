@@ -1,0 +1,10 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-03-11'],Syed Mushtaq Ali Trophy,1175037,Railways,5,1,2,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,1,0,8,9
+['2019-03-09'],Syed Mushtaq Ali Trophy,1175031,Railways,4,25,19,1,1,131.58,"[6, 8]",2.0,12,3,0,14,0,1,0,0,0,0,0,7.0,0,0,0,0,2,41,5,0,46
+['2019-03-08'],Syed Mushtaq Ali Trophy,1175027,Railways,10,0,0,0,0,0.0,"[8, 14, 16]",3.0,18,4,0,22,2,0,1,0,0,0,0,7.33,0,0,0,0,0,0,29,0,29
+['2019-03-02'],Syed Mushtaq Ali Trophy,1157200,Railways,4,7,6,1,0,116.67,[8],1.0,6,1,0,5,0,0,0,0,0,0,0,5.0,0,0,0,0,0,11,1,0,12
+['2019-02-28'],Syed Mushtaq Ali Trophy,1157183,Railways,9,0,0,0,0,0.0,"[12, 14]",2.0,12,5,0,12,1,0,0,0,0,0,0,6.0,0,0,0,0,0,0,7,0,7
+['2019-02-27'],Syed Mushtaq Ali Trophy,1157167,Railways,3,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2019-02-25'],Syed Mushtaq Ali Trophy,1157148,Railways,3,17,12,1,1,141.67,"[7, 9, 11, 13]",4.0,24,5,0,32,2,1,0,0,0,0,0,8.0,2,0,0,0,2,29,5,16,50
+['2019-02-24'],Syed Mushtaq Ali Trophy,1157133,Railways,3,17,13,2,0,130.77,"[10, 12, 14]",3.0,18,7,0,14,1,0,2,0,0,0,0,4.67,0,0,0,0,2,27,63,0,90
+['2019-02-21'],Syed Mushtaq Ali Trophy,1157098,Railways,11,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0

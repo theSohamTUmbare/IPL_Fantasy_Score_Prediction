@@ -1,0 +1,8 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2019-08-23'],Botswana tour of Namibia,1197510,Botswana,2,1,4,0,0,25.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,1
+['2019-08-22'],Botswana tour of Namibia,1197509,Botswana,2,11,13,2,0,84.62,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,2,0,0,0,19,0,24,43
+['2019-08-20'],Botswana tour of Namibia,1197508,Botswana,2,59,54,3,1,109.26,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,85,0,0,85
+['2019-08-19'],Botswana tour of Namibia,1197507,Botswana,2,16,20,1,1,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26
+['2019-05-22'],ICC Men's T20 World Cup Africa Region Final,1184901,Botswana,3,4,7,1,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+['2019-05-21'],ICC Men's T20 World Cup Africa Region Final,1184263,Botswana,3,20,20,3,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,0,32,0,40,72
+['2019-05-20'],ICC Men's T20 World Cup Africa Region Final,1184260,Botswana,3,4,4,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,8,0,8,16

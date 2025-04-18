@@ -1,0 +1,25 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-12-19'],Gulf T20I Championship,1463664,Saudi Arabia,1,57,40,4,3,142.5,"[2, 4, 6, 16]",4.0,24,9,0,32,1,2,1,0,0,0,1,8.0,0,0,0,0,2,101,34,0,135
+['2024-12-18'],Gulf T20I Championship,1463662,Saudi Arabia,1,38,34,5,0,111.76,"[6, 8, 13, 17]",4.0,24,7,0,32,3,1,1,0,0,0,0,8.0,0,0,0,0,0,62,32,0,94
+['2024-12-16'],Gulf T20I Championship,1463658,Saudi Arabia,1,2,10,0,0,20.0,"[2, 16]",1.333,8,4,0,19,0,3,1,0,1,0,0,14.25,0,0,0,0,-6,-4,37,0,33
+['2024-12-15'],Gulf T20I Championship,1463657,Saudi Arabia,1,75,48,7,4,156.25,"[15, 18]",2.0,12,8,0,5,0,0,0,0,0,0,0,2.5,0,0,0,0,4,143,14,0,157
+['2024-12-13'],Gulf T20I Championship,1463653,Saudi Arabia,7,13,17,1,0,76.47,"[3, 5, 12, 14]",4.0,24,11,0,28,3,1,0,0,0,0,0,7.0,0,0,0,0,0,17,13,0,30
+['2024-11-28'],ICC Men's T20 World Cup Asia Qualifier B,1457236,Saudi Arabia,4,19,18,1,1,105.56,"[6, 8, 10, 12]",4.0,24,13,0,16,0,0,0,0,0,0,5,4.0,0,0,0,0,0,29,19,0,48
+['2024-11-26'],ICC Men's T20 World Cup Asia Qualifier B,1457232,Saudi Arabia,5,21,14,1,2,150.0,"[5, 7, 14, 16]",4.0,24,8,0,25,1,1,0,0,0,0,0,6.25,0,0,0,0,0,37,10,0,47
+['2024-11-25'],ICC Men's T20 World Cup Asia Qualifier B,1457230,Saudi Arabia,7,4,1,1,0,400.0,"[4, 6, 16, 18]",4.0,24,9,0,29,1,1,0,0,0,0,1,7.25,0,0,0,0,0,8,9,0,17
+['2024-11-22'],ICC Men's T20 World Cup Asia Qualifier B,1457225,Saudi Arabia,3,14,18,0,1,77.78,"[2, 4, 6, 8]",4.0,24,19,2,10,1,0,0,0,0,0,0,2.5,1,0,1,0,0,20,49,20,89
+['2024-11-20'],ICC Men's T20 World Cup Asia Qualifier B,1457222,Saudi Arabia,3,4,5,1,0,80.0,"[6, 8, 14, 16]",4.0,24,11,0,25,4,0,2,0,1,0,0,6.25,0,0,0,0,0,8,71,0,79
+['2024-11-19'],ICC Men's T20 World Cup Asia Qualifier B,1457219,Saudi Arabia,7,1,1,0,0,100.0,"[6, 8, 10]",3.0,18,6,0,22,1,1,0,0,0,1,0,7.33,0,0,0,0,0,1,6,0,7
+['2024-04-17'],ACC Men's Premier Cup,1426472,Saudi Arabia,7,4,4,0,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,4,0,8,12
+['2024-04-16'],ACC Men's Premier Cup,1426469,Saudi Arabia,2,9,9,1,0,100.0,"[3, 5, 7, 9]",4.0,24,16,0,11,1,0,2,0,1,0,0,2.75,1,0,0,0,0,13,80,8,101
+['2024-04-14'],ACC Men's Premier Cup,1426464,Saudi Arabia,7,0,1,0,0,0.0,[14],1.0,6,4,0,3,0,0,0,0,0,0,0,3.0,0,0,0,0,0,-2,4,0,2
+['2024-04-13'],ACC Men's Premier Cup,1426462,Saudi Arabia,7,18,13,1,1,138.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,2,30,0,16,46
+['2024-02-16'],Quadrangular Twenty20 Series (Thailand),1420807,Saudi Arabia,9,0,0,0,0,0.0,"[6, 8, 10, 17]",4.0,24,13,0,28,2,2,4,0,2,0,1,7.0,0,0,0,0,0,0,139,0,139
+['2024-02-15'],Quadrangular Twenty20 Series (Thailand),1420806,Saudi Arabia,10,0,0,0,0,0.0,"[2, 4, 13]",3.0,18,11,1,12,2,0,3,0,0,0,0,4.0,0,0,0,0,0,0,108,0,108
+['2024-02-13'],Quadrangular Twenty20 Series (Thailand),1420803,Saudi Arabia,5,2,3,0,0,66.67,"[13, 16]",2.0,12,5,0,13,0,1,2,0,0,0,0,6.5,0,0,0,0,0,2,57,0,59
+['2024-02-12'],Quadrangular Twenty20 Series (Thailand),1420802,Saudi Arabia,3,10,11,1,0,90.91,[10],1.0,6,2,0,4,0,0,0,0,0,0,0,4.0,0,0,0,0,0,14,2,0,16
+['2024-02-11'],Asian Cricket Council Men's Challenger Cup,1418197,Saudi Arabia,7,4,1,1,0,400.0,"[13, 15]",2.0,12,8,0,22,1,2,0,0,0,3,0,11.0,0,0,0,0,0,8,6,0,14
+['2024-02-09'],Asian Cricket Council Men's Challenger Cup,1418194,Saudi Arabia,9,0,0,0,0,0.0,[15],1.0,6,5,0,1,0,0,0,0,0,0,0,1.0,1,0,0,0,0,0,5,8,13
+['2024-02-05'],Asian Cricket Council Men's Challenger Cup,1418188,Saudi Arabia,8,0,0,0,0,0.0,"[9, 11, 13]",3.0,18,7,0,19,2,0,0,0,0,0,0,6.33,0,0,0,0,0,0,9,0,9
+['2024-02-03'],Asian Cricket Council Men's Challenger Cup,1418184,Saudi Arabia,4,1,2,0,0,50.0,"[15, 17]",2.0,12,7,0,6,0,0,4,0,0,0,0,3.0,1,0,0,0,0,1,121,8,130
+['2021-10-28'],ICC Men's T20 World Cup Asia A Qualifier,1284496,Saudi Arabia,5,16,14,1,1,114.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,26,0,0,26

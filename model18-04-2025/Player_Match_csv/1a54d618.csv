@@ -1,0 +1,8 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-04-16'],ACC Men's Premier Cup,1426469,Qatar,7,9,4,0,1,225.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,15,0,0,15
+['2024-04-15'],ACC Men's Premier Cup,1426466,Qatar,6,22,12,0,2,183.33,[],0.5,3,0,0,5,0,0,0,0,0,0,0,10.0,0,0,0,0,6,40,0,0,40
+['2024-04-13'],ACC Men's Premier Cup,1426461,Qatar,5,2,4,0,0,50.0,"[5, 12]",2.0,12,3,0,24,3,1,0,0,0,0,1,12.0,2,0,0,0,0,2,-1,16,17
+['2023-10-05'],ICC Men's T20 World Cup Sub Regional Asia Qualifier A,1399148,Qatar,5,3,5,0,0,60.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3,0,0,3
+['2023-10-02'],ICC Men's T20 World Cup Sub Regional Asia Qualifier A,1399144,Qatar,6,25,26,2,1,96.15,"[5, 13]",2.0,12,1,0,27,1,2,1,0,1,0,1,13.5,0,0,0,0,0,43,28,0,71
+['2023-10-01'],ICC Men's T20 World Cup Sub Regional Asia Qualifier A,1399142,Qatar,9,0,0,0,0,0.0,"[5, 7]",2.0,12,6,0,13,2,0,0,0,0,0,1,6.5,0,0,0,1,0,0,8,6,14
+['2023-09-20'],Gulf Cricket T20I Championship,1392812,Qatar,4,21,28,1,1,75.0,"[9, 11, 13, 15]",4.0,24,10,0,26,1,1,2,0,0,0,1,6.5,1,0,0,0,0,31,62,8,101

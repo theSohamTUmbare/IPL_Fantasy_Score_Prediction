@@ -1,0 +1,26 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-09-30'],Serbia tour of Gibraltar,1452624,Serbia,3,21,26,2,1,80.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,35,0,0,35
+['2024-09-30'],Serbia tour of Gibraltar,1452625,Serbia,3,24,38,2,0,63.16,[12],1.0,6,2,0,7,1,0,0,0,0,0,0,7.0,0,0,0,0,-2,30,2,0,32
+['2024-07-12'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439829,Serbia,3,2,3,0,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,2
+['2024-07-11'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439826,Serbia,5,21,23,3,0,91.3,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33
+['2024-07-10'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439823,Serbia,5,19,24,2,0,79.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,27,0,8,35
+['2024-07-07'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1439813,Serbia,5,6,8,1,0,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,10,0,0,10
+['2023-10-05'],Serbia tour of Gibraltar,1400053,Serbia,3,10,26,0,0,38.46,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,4,0,8,12
+['2023-10-05'],Serbia tour of Gibraltar,1400054,Serbia,4,9,13,1,0,69.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-2,11,0,8,19
+['2023-06-24'],Quadrangular Twenty20 Series (Bulgaria),1381457,Serbia,3,12,13,1,0,92.31,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,16,0,6,22
+['2023-06-23'],Quadrangular Twenty20 Series (Bulgaria),1381453,Serbia,3,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2023-06-23'],Quadrangular Twenty20 Series (Bulgaria),1381455,Serbia,3,47,26,7,1,180.77,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,6,91,0,6,97
+['2022-07-19'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321277,Serbia,1,10,19,2,0,52.63,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,14,0,0,14
+['2022-07-18'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321274,Serbia,1,2,4,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,1,0,2,0,22,24
+['2022-07-16'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321269,Serbia,4,5,10,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,1,0,8,9
+['2022-07-15'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321266,Serbia,4,15,26,1,0,57.69,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-4,15,0,0,15
+['2022-07-13'],ICC Men's T20 World Cup Sub Regional Europe Qualifier,1321263,Serbia,4,12,16,0,1,75.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,18,0,6,24
+['2022-07-09'],Bulgaria tour of Serbia,1323551,Serbia,4,33,32,2,2,103.12,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,1,0,0,57,0,28,85
+['2022-07-08'],Bulgaria tour of Serbia,1323550,Serbia,3,25,21,2,1,119.05,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,43,0,0,43
+['2022-06-26'],Sofia Twenty20,1317139,Serbia,3,117,50,9,11,234.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,241,0,0,241
+['2022-06-25'],Sofia Twenty20,1317137,Serbia,3,89,45,7,8,197.78,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,183,0,16,199
+['2022-06-25'],Sofia Twenty20,1317138,Serbia,3,8,10,1,0,80.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,12,0,0,12
+['2022-06-24'],Sofia Twenty20,1317136,Serbia,3,70,35,4,6,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,6,136,0,16,152
+['2021-06-26'],Sofia Twenty20,1267310,Serbia,3,55,41,5,4,134.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,109,0,0,109
+['2021-06-25'],Sofia Twenty20,1267306,Serbia,3,16,10,0,2,160.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,4,32,0,0,32
+['2021-06-25'],Sofia Twenty20,1267308,Serbia,3,0,3,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,-2,0,8,6

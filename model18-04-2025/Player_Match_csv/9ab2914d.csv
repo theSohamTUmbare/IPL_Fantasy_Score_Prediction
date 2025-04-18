@@ -1,0 +1,17 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-06-03'],ICC Men's T20 World Cup,1415704,Sri Lanka,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2024-03-09'],Sri Lanka tour of Bangladesh,1419826,Sri Lanka,8,7,7,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,11,0,8,19
+['2024-03-06'],Sri Lanka tour of Bangladesh,1419825,Sri Lanka,4,7,11,0,0,63.64,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,5,0,0,5
+['2024-03-04'],Sri Lanka tour of Bangladesh,1419824,Sri Lanka,4,61,47,8,1,129.79,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,107,0,0,107
+['2024-01-18'],Zimbabwe tour of Sri Lanka,1412544,Sri Lanka,4,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+['2024-01-16'],Zimbabwe tour of Sri Lanka,1412543,Sri Lanka,4,16,12,3,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,30,0,8,38
+['2024-01-14'],Zimbabwe tour of Sri Lanka,1412542,Sri Lanka,4,9,7,1,0,128.57,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,13,0,8,21
+['2021-07-29'],India tour of Sri Lanka,1262760,Sri Lanka,3,6,13,0,0,46.15,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,0,0,0,0
+['2021-07-28'],India tour of Sri Lanka,1262759,Sri Lanka,3,8,12,1,0,66.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,10,0,0,10
+['2019-10-09'],Sri Lanka tour of Pakistan,1198491,Sri Lanka,2,12,12,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,16,0,20,36
+['2019-01-11'],Sri Lanka tour of New Zealand,1153843,Sri Lanka,2,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+['2017-12-24'],Sri Lanka tour of India,1122731,Sri Lanka,4,21,17,3,0,123.53,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,33,0,0,33
+['2017-12-22'],Sri Lanka tour of India,1122730,Sri Lanka,6,5,2,1,0,250.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,9,0,8,17
+['2017-10-29'],Sri Lanka tour of United Arab Emirates and Pakistan,1120293,Sri Lanka,3,4,7,0,0,57.14,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,4,0,0,4
+['2017-10-27'],Sri Lanka tour of United Arab Emirates and Pakistan,1120292,Sri Lanka,3,32,31,2,0,103.23,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,44,0,8,52
+['2017-10-26'],Sri Lanka tour of United Arab Emirates and Pakistan,1120291,Sri Lanka,3,23,23,2,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,31,0,20,51

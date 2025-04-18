@@ -1,0 +1,8 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2025-03-01'],Bahrain tour of Singapore,1474261,Bahrain,11,0,0,0,0,0.0,"[6, 8, 10]",3.0,18,0,0,32,2,1,0,0,0,0,2,10.67,0,0,0,0,0,0,-2,0,-2
+['2025-02-28'],Bahrain tour of Singapore,1474260,Bahrain,9,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,9,0,29,3,1,2,0,1,0,0,7.25,0,0,0,0,0,0,67,0,67
+['2025-02-24'],Bahrain tour of Indonesia,1471826,Bahrain,9,0,0,0,0,0.0,"[8, 10, 12, 14]",4.0,24,16,0,25,0,3,1,0,0,0,0,6.25,0,0,0,1,0,0,43,6,49
+['2025-02-23'],Bahrain tour of Indonesia,1471825,Bahrain,8,0,0,0,0,0.0,"[9, 11, 13, 15]",4.0,24,6,0,28,3,0,1,0,1,0,0,7.0,0,0,0,0,0,0,41,0,41
+['2025-02-22'],Bahrain tour of Indonesia,1471824,Bahrain,9,0,2,0,0,0.0,"[8, 10, 12, 14]",4.0,24,11,0,21,2,0,0,0,0,0,2,5.25,0,0,0,0,0,0,15,0,15
+['2025-02-20'],Bahrain tour of Indonesia,1471823,Bahrain,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+['2025-02-19'],Bahrain tour of Indonesia,1471822,Bahrain,9,0,0,0,0,0.0,"[6, 8, 10, 12]",4.0,24,12,0,20,2,0,1,0,0,0,0,5.0,0,0,0,0,0,0,41,0,41

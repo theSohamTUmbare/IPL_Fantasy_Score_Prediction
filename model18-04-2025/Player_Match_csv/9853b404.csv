@@ -1,0 +1,12 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2024-12-16'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462910,Belize,3,4,9,1,0,44.44,"[8, 10, 12, 16]",4.0,24,7,0,24,2,0,1,0,0,0,0,6.0,0,0,0,0,0,8,34,0,42
+['2024-12-15'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462904,Belize,6,24,17,0,2,141.18,"[12, 14, 16, 19]",4.0,24,7,0,28,1,1,1,0,0,0,2,7.0,0,0,0,0,2,38,34,0,72
+['2024-12-14'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462902,Belize,3,1,5,0,0,20.0,"[12, 14, 16, 18]",4.0,24,16,0,16,1,0,6,1,1,0,5,4.0,2,0,0,0,0,1,200,16,217
+['2024-12-12'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462899,Belize,3,9,7,2,0,128.57,[5],1.0,6,1,0,15,1,1,0,0,0,0,3,15.0,1,0,0,0,0,17,1,8,26
+['2024-12-10'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462889,Belize,5,10,12,1,0,83.33,"[5, 7, 9, 11]",4.0,24,12,0,13,0,0,1,1,0,0,0,3.25,0,0,0,0,0,14,51,0,65
+['2024-12-08'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462887,Belize,8,30,20,3,1,150.0,"[18, 20]",2.0,12,3,0,23,0,1,1,0,0,0,3,11.5,0,0,1,0,0,52,24,12,88
+['2024-12-07'],ICC Men's T20 World Cup Sub Regional Americas Qualifier,1462881,Belize,6,4,11,0,0,36.36,"[13, 15, 17, 19]",4.0,24,11,0,21,0,1,3,0,2,0,1,5.25,0,0,0,0,-6,-2,110,0,108
+['2021-11-13'],ICC Men's T20 World Cup Americas Region Qualifier,1286683,Belize,6,2,11,0,0,18.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,-4,0,8,4
+['2021-11-10'],ICC Men's T20 World Cup Americas Region Qualifier,1286675,Belize,9,27,19,3,1,142.11,"[7, 9, 11, 13]",4.0,24,8,0,35,3,0,0,0,0,0,6,8.75,0,0,0,0,2,51,8,0,59
+['2021-11-08'],ICC Men's T20 World Cup Americas Region Qualifier,1286672,Belize,3,1,2,0,0,50.0,"[7, 9, 11, 13]",4.0,24,14,1,20,3,0,2,0,1,0,0,5.0,1,0,0,0,0,1,88,8,97
+['2021-11-07'],ICC Men's T20 World Cup Americas Region Qualifier,1286667,Belize,7,7,24,1,0,29.17,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-6,5,0,0,5

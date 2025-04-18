@@ -1,0 +1,8 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2025-04-14'],Indian Premier League,1473467,Lucknow Super Giants,10,0,0,0,0,0.0,"[4, 6, 11, 15]",4.0,24,10,0,23,2,0,1,0,0,0,2,5.75,0,0,0,0,0,0,39,0,39
+['2025-04-12'],Indian Premier League,1473463,Lucknow Super Giants,7,0,0,0,0,0.0,"[4, 9, 11, 17]",4.0,24,5,0,30,3,0,1,0,0,0,0,7.5,0,0,0,0,0,0,30,0,30
+['2025-04-08'],Indian Premier League,1473456,Lucknow Super Giants,11,0,0,0,0,0.0,"[7, 9, 12, 18]",4.0,24,6,0,33,4,0,1,0,0,0,2,8.25,0,0,0,0,0,0,31,0,31
+['2025-04-04'],Indian Premier League,1473453,Lucknow Super Giants,12,0,0,0,0,0.0,"[6, 9, 12, 18]",4.0,24,7,0,21,1,0,1,0,1,0,0,5.25,0,0,0,0,0,0,44,0,44
+['2025-04-01'],Indian Premier League,1473450,Lucknow Super Giants,12,0,0,0,0,0.0,"[3, 5, 11, 13]",4.0,24,10,0,30,5,0,2,0,0,0,0,7.5,0,0,0,0,0,0,60,0,60
+['2025-03-27'],Indian Premier League,1473444,Lucknow Super Giants,8,0,0,0,0,0.0,"[5, 7, 9, 16]",4.0,24,8,0,40,1,3,1,0,0,1,0,10.0,1,0,0,0,0,0,31,8,39
+['2025-03-24'],Indian Premier League,1473441,Lucknow Super Giants,10,0,0,0,0,0.0,"[3, 6, 8, 17]",4.0,24,10,0,31,4,0,2,0,0,0,5,7.75,0,0,0,0,0,0,60,0,60

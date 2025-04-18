@@ -1,0 +1,11 @@
+date,event,match_id,teamname,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+['2022-09-21'],Africa Cricket Association Cup,1332509,Botswana,8,0,2,0,0,0.0,[17],1.0,6,1,0,19,2,1,0,0,0,0,1,19.0,1,0,1,0,0,0,1,20,21
+['2022-09-19'],Africa Cricket Association Cup,1332504,Botswana,8,2,1,0,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,2,0,6,8
+['2022-09-18'],Africa Cricket Association Cup,1332507,Botswana,5,40,34,2,0,117.65,"[13, 17, 20]",3.0,18,6,0,28,2,1,0,0,0,0,2,9.33,0,0,0,0,0,52,6,0,58
+['2022-09-15'],Africa Cricket Association Cup,1332496,Botswana,7,1,6,0,0,16.67,[18],1.0,6,0,0,9,1,0,0,0,0,0,0,9.0,1,0,0,0,0,1,0,8,9
+['2019-05-21'],ICC Men's T20 World Cup Africa Region Final,1184263,Botswana,8,4,2,1,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+['2019-05-20'],ICC Men's T20 World Cup Africa Region Final,1184260,Botswana,4,2,6,0,0,33.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,2,0,8,10
+['2018-11-03'],ICC World Twenty20 Africa Region Qualifier C,1163067,Botswana,9,4,3,0,0,133.33,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,4,0,16,20
+['2018-11-02'],ICC World Twenty20 Africa Region Qualifier C,1163064,Botswana,5,34,27,3,0,125.93,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,50,0,8,58
+['2018-10-30'],ICC World Twenty20 Africa Region Qualifier C,1163055,Botswana,2,9,14,1,0,64.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,11,0,0,11
+['2018-10-30'],ICC World Twenty20 Africa Region Qualifier C,1163058,Botswana,2,5,12,0,0,41.67,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-6,-1,0,8,7

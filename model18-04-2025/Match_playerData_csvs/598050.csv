@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Kolkata Knight Riders,MS Bisla,5afd4539,1,17,19,3,0,89.47,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,29,0,6,35
+Kolkata Knight Riders,G Gambhir,bb345e0b,2,0,2,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Kolkata Knight Riders,JH Kallis,86dc8f2e,3,24,26,2,1,92.31,"[7, 9, 11]",3.0,18,5,0,21,2,0,0,0,0,0,1,7.0,0,0,0,0,0,38,7,0,45
+Kolkata Knight Riders,YK Pathan,3c6ffae8,4,13,8,1,1,162.5,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,23,0,12,35
+Kolkata Knight Riders,EJG Morgan,d2a6c0e6,5,5,10,0,0,50.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,-4,1,0,8,9
+Kolkata Knight Riders,DB Das,7050a1e7,6,23,17,2,2,135.29,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,45,0,0,45
+Kolkata Knight Riders,R McLaren,c654af19,7,1,3,0,0,33.33,"[2, 4, 18, 20]",4.0,24,7,0,60,9,2,2,0,0,0,6,15.0,1,0,0,0,0,1,51,8,60
+Kolkata Knight Riders,R Bhatia,33a364a6,8,4,5,0,0,80.0,"[13, 16]",2.0,12,2,0,22,2,1,1,0,1,0,0,11.0,0,0,0,0,0,4,33,0,37
+Kolkata Knight Riders,Iqbal Abdulla,85aae393,9,6,11,0,0,54.55,"[8, 10, 12, 14]",4.0,24,10,0,30,5,0,1,0,0,0,0,7.5,0,0,0,0,-4,2,35,0,37
+Kolkata Knight Riders,SP Narine,9d430b40,10,3,6,0,0,50.0,"[6, 15, 17, 19]",4.0,24,10,0,29,2,1,0,0,0,0,1,7.25,1,0,0,0,0,3,10,8,21
+Kolkata Knight Riders,L Balaji,b2b50355,11,0,3,0,0,0.0,"[1, 3, 5]",3.0,18,13,1,7,0,0,0,0,0,0,2,2.33,0,0,0,1,0,-2,31,6,35
+Mumbai Indians,DR Smith,35205dfc,1,47,53,7,0,88.68,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,79,0,0,79
+Mumbai Indians,SR Tendulkar,d2c2b2d5,2,48,28,8,0,171.43,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,90,0,0,90
+Mumbai Indians,KD Karthik,c03f1114,3,34,18,3,2,188.89,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,1,6,68,0,26,94
+Mumbai Indians,RG Sharma,740742ef,4,16,11,1,1,145.45,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,1,2,28,0,14,42
+Mumbai Indians,KA Pollard,a757b0d8,5,4,4,1,0,100.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,8,0,0,8
+Mumbai Indians,AT Rayudu,70d205c9,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+Mumbai Indians,Harbhajan Singh,8b5b6769,7,0,0,0,0,0.0,"[10, 12, 14, 16]",4.0,24,10,0,27,1,2,3,0,0,0,0,6.75,1,0,0,0,0,0,91,8,99
+Mumbai Indians,MG Johnson,f5180fe6,8,10,6,0,1,166.67,"[1, 3, 5, 18]",4.0,24,14,0,13,2,0,2,0,1,0,0,3.25,0,0,0,0,0,16,78,0,94
+Mumbai Indians,SL Malinga,a12e1d51,9,0,0,0,0,0.0,"[6, 15, 17, 19]",3.333,20,9,0,15,1,0,1,0,1,0,0,4.5,1,0,0,0,0,0,48,8,56
+Mumbai Indians,PP Ojha,6c6591ab,10,0,0,0,0,0.0,"[4, 7, 9, 11]",4.0,24,11,0,23,2,1,2,0,1,0,0,5.75,0,0,0,0,0,0,73,0,73
+Mumbai Indians,AN Ahmed,2af1b6d2,11,0,0,0,0,0.0,"[2, 8, 13]",3.0,18,11,0,18,2,1,1,0,0,0,0,6.0,1,0,0,0,0,0,38,8,46

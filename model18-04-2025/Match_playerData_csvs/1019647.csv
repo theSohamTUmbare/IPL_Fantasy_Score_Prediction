@@ -1,0 +1,23 @@
+Team,name,player_id,batting_position,runs,balls,fours,sixes,strike_rate,overs_bowled,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+Barbados Tridents,SR Taylor,a9231c3f,1,13,21,1,0,61.9,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,-2,15,0,0,15
+Barbados Tridents,Shoaib Malik,64c34cd0,2,47,44,5,0,106.82,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,71,0,8,79
+Barbados Tridents,AB de Villiers,c4487b84,3,45,31,5,1,145.16,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,2,77,0,8,85
+Barbados Tridents,KA Pollard,a757b0d8,4,41,20,3,3,205.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,6,81,0,8,89
+Barbados Tridents,N Pooran,3241e3fd,5,0,1,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,-2,0,0,-2
+Barbados Tridents,WD Parnell,3a60e0b5,6,3,3,0,0,100.0,"[5, 13, 15, 17]",4.0,24,8,0,41,4,2,2,0,0,0,1,10.25,0,0,0,0,0,3,56,0,59
+Barbados Tridents,RJ Peterson,26ff4c29,7,0,0,0,0,0.0,"[2, 4, 7, 18]",3.667,22,6,0,23,2,0,0,0,0,0,0,6.27,0,0,0,0,0,0,8,0,8
+Barbados Tridents,RA Reifer,d7725664,8,0,0,0,0,0.0,[11],1.0,6,1,0,10,1,0,0,0,0,0,3,10.0,0,0,0,0,0,0,1,0,1
+Barbados Tridents,ND Stewart,16edfe47,9,0,0,0,0,0.0,"[10, 12, 14]",3.0,18,2,0,24,0,2,0,0,0,0,0,8.0,0,0,0,0,0,0,2,0,2
+Barbados Tridents,AJ Hosein,4d7f517e,10,0,0,0,0,0.0,"[1, 3, 9]",3.0,18,6,0,30,2,2,0,0,0,0,0,10.0,0,0,0,0,0,0,4,0,4
+Barbados Tridents,R Rampaul,d68e7f48,11,0,0,0,0,0.0,"[6, 8, 16]",3.0,18,3,0,34,1,3,1,0,0,0,1,11.33,0,0,0,0,0,0,24,0,24
+Trinbago Knight Riders,HM Amla,e798611a,1,31,34,1,0,91.18,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,39,0,0,39
+Trinbago Knight Riders,WKD Perkins,1920c721,2,23,16,3,1,143.75,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,2,43,0,0,43
+Trinbago Knight Riders,C Munro,af2c687b,3,68,39,2,6,174.36,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,6,126,0,0,126
+Trinbago Knight Riders,D Ramdin,d1523761,4,12,6,2,0,200.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,20,0,8,28
+Trinbago Knight Riders,DJ Bravo,87e562a9,5,23,11,2,2,209.09,"[5, 10, 15, 19]",4.0,24,10,0,34,1,2,2,0,1,1,3,8.5,0,0,0,0,6,49,68,0,117
+Trinbago Knight Riders,Umar Akmal,fd2bf2a0,6,0,0,0,0,0.0,[],0.0,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,8,8
+Trinbago Knight Riders,AP Devcich,ed90abe4,7,0,0,0,0,0.0,[1],1.0,6,2,0,9,1,0,0,0,0,0,1,9.0,0,0,0,0,0,0,2,0,2
+Trinbago Knight Riders,KK Cooper,557153ca,8,0,0,0,0,0.0,"[3, 11, 20]",3.0,18,5,0,29,3,1,0,0,0,0,2,9.67,1,0,0,0,0,0,5,8,13
+Trinbago Knight Riders,SP Narine,9d430b40,9,0,0,0,0,0.0,"[6, 8, 14, 16]",4.0,24,7,0,31,3,0,0,0,0,0,1,7.75,0,0,0,0,0,0,7,0,7
+Trinbago Knight Riders,SJ Benn,364ee2cf,10,0,0,0,0,0.0,"[7, 9, 12, 18]",4.0,24,5,0,39,4,1,2,0,0,0,3,9.75,0,0,0,0,0,0,55,0,55
+Trinbago Knight Riders,RR Beaton,684a56df,11,0,0,0,0,0.0,"[2, 4, 13, 17]",4.0,24,9,0,19,2,0,0,0,0,0,1,4.75,0,0,0,0,0,0,15,0,15
