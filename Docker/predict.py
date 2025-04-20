@@ -1,46 +1,83 @@
-import pandas as pd
-import pulp
+import pandas as pd # type:ignore
+import pulp # type:ignore
 import os 
-import torch
+import torch # type:ignore
 from model import PlayerMatchDataset, NextFormPredictor, Config, MatchEmbedding, PlayerEmbedding
 from weather import get_weather_data
+from universal_and_venue_details import get_player_performance
 from datetime import datetime
-import requests
+import requests # type:ignore
 import zipfile
 import io
 import json
-from universal_and_venue_details import get_player_performance
-import numpy as np
+import numpy as np # type:ignore
 import argparse
- 
+from sklearn.preprocessing import MinMaxScaler # type:ignore
+import joblib  # type:ignore
+import  warnings
 
-
-def get_pred_fp(player_ids, match_number, match_df):
+def update_past_match_info(match_id, match_number):
+    match_situation_df = pd.read_csv(r'Docker\Match_situation.csv')
     
-    match_venue_mapping = pd.read_csv(r'...')
-    venue_details = pd.read_csv(r'...')
-    venue_mapping = {...}
-    venue_details['venue_name'] = venue_details['venue_name'].map(venue_mapping)
-    venue_id = match_venue_mapping[match_venue_mapping['Match Number'] == match_number]['Venue ID'].values[0]
-    venue_features = venue_details[venue_details['venue_id'] == venue_id]
-    now = datetime.now()
-    date_time = now.strftime("%Y-%m-%d %H:%M:%S") 
-    weather_features = get_weather_data(venue_features['venue_lat'], venue_features['venue_long'], date_time)
-    total_match_situation_features = pd.concat([weather_features,venue_features],axis=1).values
-    numeric_cols = ['venue_name', 'precipitation','temperature_2m', 'relative_humidity_2m', 'dew_point_2m', 'rain', 'wind_speed_100m', 'matches', 'total_runs', 'total_wickets', 'bowled_wickets', 'caught_wickets', 'lbw_wickets']
-    match_sit_scalar = load_scalar()
+    match_venue_mapping = pd.read_csv(r'Docker\match_number_venue_mapping.csv')
+    # venue_details = pd.read_csv(r'...')
+    # venue_details['venue_name'] = venue_details['venue_name'].map(venue_mapping)
+    venue_details = match_venue_mapping[match_venue_mapping['Match Number'] == match_number]
+    # venue_features = venue_details[venue_details['venue_id'] == venue_details['venue_id']]
+    # # now = datetime.now()
+    # # date_time = now.strftime("%Y-%m-%d %H:%M:%S") 
+    
+    
+    weather_features = get_weather_data(venue_details['venue_lat'], venue_details['venue_long'], )
+    total_match_situation_features = pd.concat([weather_features,venue_details],axis=1).values
+    numeric_cols = ['match_number','venue_id','matches','total_runs','total_wickets','bowled_wickets','caught_wickets','lbw_wickets','precipitation','temperature_2m','relative_humidity_2m','dew_point_2m','rain','wind_speed_100m']
+    #   !TODO CONFIRM ORDER
+    match_sit_scalar = joblib.load(r'Docker\scalars\match_situation_minmax_scalar.pkl.pkl')
+    match_situation_features = match_sit_scalar.transform(total_match_situation_features[numeric_cols])
+    new_values = match_situation_features.flatten().tolist()  
+
+    # Build a dict of column → value:
+    new_match = dict(zip(numeric_cols, new_values))
+    new_match['match_id'] = int(match_id)
+    # Append via .loc at the next integer index
+    next_idx = len(match_situation_df)
+    match_situation_df.loc[next_idx] = new_match
+    return
+
+
+
+def get_current_match_info(merged_df,  match_number, match_df):
+    
+    match_venue_mapping = pd.read_csv(r'Docker\match_number_venue_mapping.csv')
+    # venue_details = pd.read_csv(r'...')
+    # venue_details['venue_name'] = venue_details['venue_name'].map(venue_mapping)
+    venue_details = match_venue_mapping[match_venue_mapping['Match Number'] == match_number]
+    # venue_features = venue_details[venue_details['venue_id'] == venue_details['venue_id']]
+    # # now = datetime.now()
+    # # date_time = now.strftime("%Y-%m-%d %H:%M:%S") 
+    
+    
+    weather_features = get_weather_data(venue_details['venue_lat'], venue_details['venue_long'], )
+    total_match_situation_features = pd.concat([weather_features,venue_details],axis=1).values
+    numeric_cols = ['match_number','venue_id','matches','total_runs','total_wickets','bowled_wickets','caught_wickets','lbw_wickets','precipitation','temperature_2m','relative_humidity_2m','dew_point_2m','rain','wind_speed_100m']
+    #   !TODO CONFIRM ORDER
+    match_sit_scalar = joblib.load(r'Docker\scalars\match_situation_minmax_scalar.pkl.pkl')
     match_situation_features = match_sit_scalar.transform(total_match_situation_features[numeric_cols])
     player_ids = torch.tensor(player_ids)
-    
-    
-    
-    pred_fp = model(player_ids, opp_player_features, match_situation_features).detach().numpy()
 
-    numeric_cols = ['venue_name', 'precipitation','temperature_2m', 'relative_humidity_2m', 'dew_point_2m', 'rain', 'wind_speed_100m', 'matches', 'total_runs', 'total_wickets', 'bowled_wickets', 'caught_wickets', 'lbw_wickets']
-    
+    teams = merged_df['Team'].unique()
+    team1, team2 = teams[0], teams[1]
+
+    team1_ids = merged_df.loc[merged_df['Team']==team1, 'player_id'].tolist()
+    team2_ids = merged_df.loc[merged_df['Team']==team2, 'player_id'].tolist()
+
+    pred_fp = model(player_ids, team1_ids, team2_ids, match_number).detach().numpy()
+
+    # numeric_cols = ['venue_name', 'precipitation','temperature_2m', 'relative_humidity_2m', 'dew_point_2m', 'rain', 'wind_speed_100m', 'matches', 'total_runs', 'total_wickets', 'bowled_wickets', 'caught_wickets', 'lbw_wickets']
+    return match_situation_features
 
 
-def add_recent_match_data():
+def update_match_performances():
     
     with open('latest_updated_match.json', 'r', encoding='utf-8') as f:
         data = json.load(f)
@@ -80,7 +117,8 @@ def add_recent_match_data():
         print(f"Extracting match {mid}: {member}")
         z.extract(member, EXTRACT_DIR)
         file_path = os.path.join(EXTRACT_DIR, os.path.basename(member))
-        player_stats = get_player_performance(file_path)
+        player_stats, match_number = get_player_performance(file_path)
+        update_past_match_info(mid, match_number)        
         for player_id, player_data in player_stats.values():
             player_path = f"Docker\\Processed_Player_records\\{str(player_id)}.csv"
             player_df = pd.read_csv(player_path)
@@ -115,7 +153,7 @@ def add_recent_match_data():
                 'fielding_fp': player_data['fielding_fp'],
                 'total_fp': player_data['total_fp']
             }
-            new_player_df = pd.concat([pd.DataFrame([player_match_performance_dict]), player_df], ignore_index=True)
+            new_player_df = pd.concat([pd.DataFrame([player_match_performance_dict], columns=player_df.columns), player_df], ignore_index=True)
             new_player_df.to_csv(player_path, index=False)
                   
      
@@ -129,7 +167,25 @@ def add_recent_match_data():
 
 
 
+def parse_event_time(input_str):
+    # Split by commas
+    parts = input_str.strip().split(',')
+    
+    # Extract date and time (assuming always in this format)
+    date_str = parts[1].strip()  # e.g., "22 March 2025"
+    time_str = parts[2].strip().split()[0]  # e.g., "02:00"
 
+    # Combine date and time for parsing
+    datetime_str = f"{date_str} {time_str} {parts[2].strip().split()[1]}"  # e.g., "22 March 2025 02:00 PM"
+    
+    # Parse datetime
+    dt = datetime.strptime(datetime_str, "%d %B %Y %I:%M %p")
+    
+    # Format output
+    date_formatted = dt.strftime("%Y-%m-%d")
+    time_formatted = dt.strftime("%H:%M")
+    
+    return date_formatted, time_formatted
 
 
 
@@ -147,6 +203,12 @@ def _read_file(excel_file =  r'Docker\SquadPlayerNames_IndianT20League.xlsx', ma
     #! merged_df is passed to the predictTeam method
     # player_ids = player_id_mapping[player_id_mapping['Player Name'].isin(merged_df['Player Name'])]['Player ID'].values
     player_ids = merged_df['player_id']
+    
+    teams = merged_df['Team'].unique()
+    team1, team2 = teams[0], teams[1]
+
+    team1_ids = merged_df.loc[merged_df['Team']==team1, 'player_id'].tolist()
+    team2_ids = merged_df.loc[merged_df['Team']==team2, 'player_id'].tolist()
 
     pred_fp = get_pred_fp(match_num, merged_df)
     merged_df['total_fp'] = merged_df['total_fp'].astype(float)

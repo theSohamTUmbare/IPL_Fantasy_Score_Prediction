@@ -268,6 +268,7 @@ def build_venue_features(venue_id, venue_name, venue_latitude, venue_longitude, 
 def get_player_performance(json_file):
     # Reset global stats by processing the match freshly
     match, batting_stats, bowling_stats, fielding_stats = process_match(json_file)
+    match_number = match.get("info").get("event").get("match_number") 
     # outcome = match.get("info", {}).get("outcome", {})
     # winner = outcome['winner']
     # print(winner)
@@ -420,7 +421,7 @@ def get_player_performance(json_file):
     # wickets = int(wickets)   
     # venue_features = build_venue_features(venue_id, venue_name, venue_latitude, venue_longitude, total_runs, wickets, bowled, caught, lbw)
     # print(final_stats['Abdul Samad'])
-    return final_stats
+    return final_stats, match_number
 
 # def build_player_feature_map(json_file, players, venues, match_data):
 #     # Reset global stats by processing the match freshly

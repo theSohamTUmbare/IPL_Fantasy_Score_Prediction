@@ -9,8 +9,7 @@ retry_session = retry(cache_session, retries=5, backoff_factor=0.2)
 openmeteo = openmeteo_requests.Client(session=retry_session)
 url = "https://archive-api.open-meteo.com/v1/archive"
 
-def get_weather_data(latitude, longitude, datetime):
-    match_date, match_time = datetime.split(' ')
+def get_weather_data(latitude, longitude, match_date, match_time):
     if pd.isna(latitude) or pd.isna(longitude):
         raise ValueError("Latitude or Longitude is missing.")
     if pd.isna(match_date) or pd.isna(match_time):
@@ -51,7 +50,7 @@ def get_weather_data(latitude, longitude, datetime):
         "rain": hourly.Variables(5).ValuesAsNumpy(),
         "wind_speed_100m": hourly.Variables(6).ValuesAsNumpy()
     }
-    
+
     result = {
         "precipitation": hourly_data["precipitation"][start_hour_int:end_hour_int].mean(),
         "temperature_2m": hourly_data["temperature_2m"][start_hour_int:end_hour_int].mean(),
