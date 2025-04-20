@@ -4,6 +4,15 @@ import os
 import torch
 import model
 from datetime import datetime
+import requests
+import zipfile
+import io
+import json
+from universal_and_venue_details import get_player_performance
+
+def get_weather(venue_lat, venue_long, date_time):
+    pass
+
 
 def get_pred_fp(player_ids, match_number, match_df):
     match_venue_mapping = pd.read_csv(r'...')
@@ -20,18 +29,73 @@ def get_pred_fp(player_ids, match_number, match_df):
     match_sit_scalar = load_scalar()
     match_situation_features = match_sit_scalar.transform(total_match_situation_features[numeric_cols])
     player_ids = torch.tensor(player_ids)
-    pred_fp = model(, opp_player_features, match_situation_features).detach().numpy()
+    
+    
+    
+    pred_fp = model(player_ids, opp_player_features, match_situation_features).detach().numpy()
 
     numeric_cols = ['venue_name', 'precipitation','temperature_2m', 'relative_humidity_2m', 'dew_point_2m', 'rain', 'wind_speed_100m', 'matches', 'total_runs', 'total_wickets', 'bowled_wickets', 'caught_wickets', 'lbw_wickets']
     
 
 
+def add_recent_match_data():
+    
+    with open('latest_updated_match.json', 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    last_match_id = data['latest_match_id']
+    url = "https://cricsheet.org/downloads/ipl_json.zip"
+
+    # 2. Download the content
+    response = requests.get(url)
+    response.raise_for_status()  # will raise an error if the download failed
+    z = zipfile.ZipFile(io.BytesIO(response.content))
+
+    # 3. Find all new match-ids > last_id
+    new_matches = []
+    for member in z.namelist():
+        if not member.endswith(".json"):
+            continue
+        name = os.path.basename(member)
+        try:
+            mid = int(name[:-5])   # strip “.json” and parse
+        except ValueError:
+            continue
+
+        if mid > last_match_id:
+            new_matches.append((mid, member))
+
+    if not new_matches:
+        print("No new matches found.")
+        return
+
+    # 4. (Optionally) sort so you extract oldest→newest
+    new_matches.sort(key=lambda x: x[0])
+    file_paths = []
+    EXTRACT_DIR = 'model18-04-2025\Global_raw_dataset\ipl_json'
+    # 5. Extract them
+    os.makedirs(EXTRACT_DIR, exist_ok=True)
+    for mid, member in new_matches:
+        print(f"Extracting match {mid}: {member}")
+        z.extract(member, EXTRACT_DIR)
+        file_path = os.path.join(EXTRACT_DIR, os.path.basename(member))
+        player_stats = get_player_performance(file_path)
+
+    # 6. Update state.json to the highest match-id we saw
+    new_max_id = max(mid for mid, _ in new_matches)
+    
+    data['latest_match_id'] = new_max_id
+    
+    with open('latest_updated_match.json', 'r', encoding='utf-8') as f:
+        json.dump(data, f, indent=2)
+
+
 
 
 def _read_file(excel_file =  r'C:\Users\kumar\IPL_Fantasy_Score_Prediction\model18-04-2025\IPL_model_680_loss\Inference\SquadPlayerNames_IndianT20League.xlsx',match_num = 1,output = 'output.csv'):
+    add_recent_match_data()
     df = pd.read_excel(excel_file,sheet_name=f'match_{match_num}')
     Mapping_Unique_SquadPlayerName_IndianT20League_df = pd.read_csv(r'C:\Users\kumar\IPL_Fantasy_Score_Prediction\model18-04-2025\Mapping_Unique_SquadPlayerName_IndianT20League.csv')
-    player_id_mapping = pd.read_csv(r'...')
+    # player_id_mapping = pd.read_csv(r'...')
     df_lineup = df[df['IsPlaying'] != 'NOT_PLAYING']
     # df_lineup = df_.sort_values(by=['Team','lineupOrder'], ascending=True)
     merged_df = df_lineup.merge(Mapping_Unique_SquadPlayerName_IndianT20League_df[['Player Name', 'Team','identifier']],on =['Player Name','Team'], how = 'left')
@@ -39,10 +103,15 @@ def _read_file(excel_file =  r'C:\Users\kumar\IPL_Fantasy_Score_Prediction\model
     ##TODO call the model inference method and pass the identifier (alongside the match_id if we have )
     #Todo the predicted_fps are add back to the merged_df 
     #! merged_df is passed to the predictTeam method
-    player_ids = player_id_mapping[player_id_mapping['Player Name'].isin(merged_df['Player Name'])]['Player ID'].values
+    # player_ids = player_id_mapping[player_id_mapping['Player Name'].isin(merged_df['Player Name'])]['Player ID'].values
+    player_ids = merged_df['player_id']
+    team1_ids = 
+    team2_ids = 
     pred_fp = get_pred_fp(player_ids)
     merged_df['total_fp'] = merged_df['total_fp'].astype(float)
     merged_df['total_fp'] = pred_fp
+    
+    # team_1_ids = 
     optimal_team_df = PredictTeam(merged_df)
     optimal_team_df.sort_values(by=['total_fp'],ascending= False)
     curr = os.getcwd()
