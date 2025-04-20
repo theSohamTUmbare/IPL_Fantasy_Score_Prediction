@@ -129,6 +129,8 @@ def _read_file(excel_file =  r'C:\Users\kumar\IPL_Fantasy_Score_Prediction\model
     
 def PredictTeam(df: pd.DataFrame):
     """ 
+    #TODO change the limits for type_player  (if possible remove multiple X_FACTOR_SUBSTITUTE)
+    #! Try to choose more ALL type player 
     The optimization maximizes the total fanstasy points while satisfying the following Contraints:-
     -Exactly 11 pplayers are selected.
     -The total credits of selected players does not exceed 100
