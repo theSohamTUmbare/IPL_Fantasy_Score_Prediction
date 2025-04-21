@@ -64,7 +64,7 @@ def get_current_match_info(merged_df,  match_number):
     total_match_situation_features = pd.concat([weather_features,venue_details],axis=1).values
     numeric_cols = ['match_number','venue_id','matches','total_runs','total_wickets','bowled_wickets','caught_wickets','lbw_wickets','precipitation','temperature_2m','relative_humidity_2m','dew_point_2m','rain','wind_speed_100m']
     #   !TODO CONFIRM ORDER
-    match_sit_scalar = joblib.load(r'Docker\scalars\match_situation_minmax_scalar.pkl.pkl')
+    match_sit_scalar = joblib.load(r'Docker\scalars\match_situation_minmax_scalar.pkl')
     match_situation_features = match_sit_scalar.transform(total_match_situation_features[numeric_cols])
     player_ids = torch.tensor(player_ids)
 
@@ -198,7 +198,7 @@ def parse_event_time(input_str):
 
 
 def _read_file(excel_file =  r'Docker\SquadPlayerNames_IndianT20League.xlsx', match_num = 1,output = 'output.csv'):
-    
+    update_match_performances()
     df = pd.read_excel(excel_file,sheet_name=f'match_{match_num}')
     Mapping_Unique_SquadPlayerName_IndianT20League_df = pd.read_csv(r'Docker\Mapping_Unique_SquadPlayerName_IndianT20League.csv')
     # player_id_mapping = pd.read_csv(r'...')
@@ -219,7 +219,13 @@ def _read_file(excel_file =  r'Docker\SquadPlayerNames_IndianT20League.xlsx', ma
     team2_ids = merged_df.loc[merged_df['Team']==team2, 'player_id'].tolist()
 
     target_match_situation_dict = get_current_match_info(match_num, merged_df)
-    dataset = PlayerMatchDataset()
+    dataset = PlayerMatchDataset(
+        Config.UNIV_CSV,
+        Config.PLAYER_MATCH_CSV,
+        Config.MATCH_PLAYER_CSV,
+        Config.MATCH_INFO_CSV
+    
+    )
     pred_fp = get_output(dataset, target_match_situation_dict, team1_ids, team2_ids, player_ids)
     merged_df['total_fp'] = merged_df['total_fp'].astype(float)
     merged_df['total_fp'] = pred_fp
@@ -335,7 +341,7 @@ def get_output(dataset, match_info_dict, team1_ids, team2_ids, player_ids):
     
     for pid in player_ids:
         samp = get_inference_sample(dataset, pid, team1_ids, team2_ids,
-                                    match_info_dict['upcoming_match_info'])
+                                    match_info_dict)
         if samp is None: continue
         pe = model.player_embedding_module(samp['univ_features']).unsqueeze(1)
         fl = samp['context_matches'][-1].unsqueeze(0).unsqueeze(1)
