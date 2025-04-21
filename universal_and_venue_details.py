@@ -265,18 +265,19 @@ def build_venue_features(venue_id, venue_name, venue_latitude, venue_longitude, 
     }
     return venue    
 
-def build_player_feature_map(json_file, players, venues, match_data):
+def get_player_performance(json_file):
     # Reset global stats by processing the match freshly
     match, batting_stats, bowling_stats, fielding_stats = process_match(json_file)
+    match_number = match.get("info").get("event").get("match_number") 
     # outcome = match.get("info", {}).get("outcome", {})
     # winner = outcome['winner']
     # print(winner)
     # toss = match.get("info", {}).get("toss", {})
     # venue_winner = 'bat' if else 'bowl'
-    venue_id = match_data['match']['ground_id']
-    venue_name = match_data['match']['ground_name']
-    venue_longitude = match_data['match']['ground_longitude']
-    venue_latitude = match_data['match']['ground_latitude']
+    # venue_id = match_data['match']['ground_id']
+    # venue_name = match_data['match']['ground_name']
+    # venue_longitude = match_data['match']['ground_longitude']
+    # venue_latitude = match_data['match']['ground_latitude']
     # Extract batting order from info.players (order reflects batting order)
     # print(match, '\\n\n')
     batting_order = {}
@@ -295,9 +296,9 @@ def build_player_feature_map(json_file, players, venues, match_data):
     all_players = set()
     
     for team,players in team_rosters.items():
-        if isinstance(players,list):
-            for player in players:
-                all_players.add((player,team))
+        # if isinstance(players,list):
+        for player in players:
+            all_players.add((player,team))
     # print("all_players")
     # for player, team in all_players:
         # print(player,team)
@@ -417,10 +418,167 @@ def build_player_feature_map(json_file, players, venues, match_data):
             "fielding_fp": fielding_fp,
             "total_fp": batting_fp + bowling_fp + fielding_fp            
         }
-    wickets = int(wickets)   
-    venue_features = build_venue_features(venue_id, venue_name, venue_latitude, venue_longitude, total_runs, wickets, bowled, caught, lbw)
+    # wickets = int(wickets)   
+    # venue_features = build_venue_features(venue_id, venue_name, venue_latitude, venue_longitude, total_runs, wickets, bowled, caught, lbw)
     # print(final_stats['Abdul Samad'])
-    return final_stats, venue_features, 
+    return final_stats, match_number
+
+# def build_player_feature_map(json_file, players, venues, match_data):
+#     # Reset global stats by processing the match freshly
+#     match, batting_stats, bowling_stats, fielding_stats = process_match(json_file)
+#     # outcome = match.get("info", {}).get("outcome", {})
+#     # winner = outcome['winner']
+#     # print(winner)
+#     # toss = match.get("info", {}).get("toss", {})
+#     # venue_winner = 'bat' if else 'bowl'
+#     venue_id = match_data['match']['ground_id']
+#     venue_name = match_data['match']['ground_name']
+#     venue_longitude = match_data['match']['ground_longitude']
+#     venue_latitude = match_data['match']['ground_latitude']
+#     # Extract batting order from info.players (order reflects batting order)
+#     # print(match, '\\n\n')
+#     batting_order = {}
+#     total_runs = 0
+#     players_info = match.get("info", {}).get("players", {})
+    
+#     # exit()
+#     # print("players_info", players_info)
+#     for team,players in players_info.items():
+#         for pos,player in enumerate(players,start=1):
+#             if player not in batting_order:
+#                 batting_order[player] = pos
+#     # print("batting_order", batting_order)        
+#     registry = match.get("info", {}).get("registry", {}).get("people", {})
+#     team_rosters = match.get("info",{}).get('players',{})
+#     all_players = set()
+    
+#     for team,players in team_rosters.items():
+#         if isinstance(players,list):
+#             for player in players:
+#                 all_players.add((player,team))
+#     # print("all_players")
+#     # for player, team in all_players:
+#         # print(player,team)
+    
+#     # make sure correct use of 11 lineup 
+#     final_stats = {}
+#     wickets = 0
+#     bowled = 0
+#     caught = 0
+#     lbw = 0
+#     total_runs = 0
+#     for player,team in all_players:
+#         #Batting stats 
+#         # half_centuries, centuries = False, False
+#         bat = batting_stats.get(player,{"runs": 0, "balls": 0, "fours": 0, "sixes": 0,'is_dismissed':False})
+#         runs = bat["runs"]
+#         # if runs > 50:
+#         #     half_centuries = True
+#         # if runs > 100:  
+#         #     centuries = True
+#         total_runs += runs
+#         # print(batting_stats)
+#         # print(player, team, bat)
+        
+#         balls_faced = bat["balls"] #make use ball_faced are logically-correct 
+#         fours = bat["fours"]
+#         sixes = bat["sixes"]
+#         is_dismissed = bat['is_dismissed'] #do we need it here
+#         batting_fp = compute_batting_fp(runs,fours,sixes,balls_faced,is_dismissed) # TODO include the strike_rate point 
+#         strike_rate = round((runs/balls_faced * 100),2) if balls_faced > 0 else None # why don't encapsulate it's fp in batting _fp
+#         # print(balls_faced, fours, sixes, strike_rate, is_dismissed, batting_fp)
+#         #Bowling stats
+#         bowl = bowling_stats.get(player,{
+#             "legal_balls": 0, "dot_balls": 0, "maidens": 0, "runs_conceded": 0,
+#             "fours_conceded": 0, "sixes_conceded": 0, "wickets": 0, "overs": 0.0,
+#             "lbw": 0, "bowled": 0, "caught": 0, "wides": 0, "noballs": 0, "overs_bowled": set(),
+#         })
+#         overs = bowl["overs"]
+#         # if player == 'Shahbaz Ahmed':
+#         #     print(bowl['runs_conceded'],  (overs_to_balls(str(overs))/6))
+#         economy_rate = round(bowl['runs_conceded'] / (overs_to_balls(str(overs))/6), 2) if overs > 0 else 0.0 # check for correct logic
+        
+#         bowling_fp = compute_bowling_fp(
+#             bowl["wickets"], bowl["dot_balls"], bowl["maidens"],
+#             bowl["lbw"], bowl["bowled"], bowl["legal_balls"], bowl["runs_conceded"], overs
+#         )
+#         # make sure correct 
+#         # print(bowling_stats)
+#         # print(player, bowl, economy_rate)
+#         wickets += bowl["wickets"]
+#         bowled += bowl["bowled"]
+#         lbw += bowl["lbw"]
+#         # return 'a', 'b'
+#         #fielding stats
+#         field = fielding_stats.get(player,{"catches": 0, "stumps": 0, "direct_runouts": 0, "indirect_runouts": 0})
+#         fielding_fp = compute_fielding_fp(field["catches"], field["stumps"], field["direct_runouts"], field["indirect_runouts"])
+#         # print(field)
+#         caught += field["catches"]
+#         wickets += field["stumps"]
+#         wickets += field["direct_runouts"]
+#         wickets += field["indirect_runouts"]/2 # since 2 players are involved in each runout
+#         #strike rate ponits for batters (only if player did not bowl and faced atleast 10 balls )
+#         strike_rate_points = 0
+#         if balls_faced >= 10: # it should only apply to a non-blowler striclty (!isbowler)
+#             sr = (runs / balls_faced) * 100
+#             if sr > 170:
+#                 strike_rate_points = 6
+#             elif 150.01 <= sr <= 170:
+#                 strike_rate_points = 4
+#             elif 130 <= sr < 150:
+#                 strike_rate_points = 2
+#             elif 60 <= sr <= 70:
+#                 strike_rate_points = -2
+#             elif 50 <= sr < 60:
+#                 strike_rate_points = -4
+#             elif sr < 50:
+#                 strike_rate_points = -6
+#         strike_rate_fp = strike_rate_points
+#         batting_fp += strike_rate_fp # we have to deal it later for allrounders since they are eligible for st.rate 
+#         player_id = registry.get(player,"")
+#         final_stats[player_id] = {
+#             "player_id": player_id,
+#             "team": team,
+#             "name": player,
+#             "batting_position": batting_order.get(player, 0),
+#             # Batting features
+#             "runs": runs,
+#             "balls": balls_faced,
+#             "fours": fours,
+#             "sixes": sixes,
+#             "strike_rate": strike_rate,
+            
+#             # Bowling features
+#             "overs_bowled": sorted(list(bowl.get("overs_bowled", set()))),
+#             "overs" : str(bowl.get("overs",0.0)),
+#             "total_balls": bowl.get("legal_balls", 0),
+#             "dot_balls": bowl.get("dot_balls", 0),
+#             "maidens": bowl.get("maidens", 0),
+#             "conceded": bowl.get("runs_conceded", 0),
+#             "fours_conceded": bowl.get("fours_conceded", 0),
+#             "sixes_conceded": bowl.get("sixes_conceded", 0),
+#             "wickets": bowl.get("wickets", 0),
+#             "lbw": bowl.get("lbw", 0),
+#             "bowled": bowl.get("bowled", 0),
+#             "noballs": bowl.get("noballs", 0),
+#             "wides": bowl.get("wides", 0),
+#             "economy_rate": economy_rate,
+#             # Fielding features
+#             "catches": field.get("catches", 0),
+#             "stumps": field.get("stumps", 0),
+#             "direct_hit": field.get("direct_runouts", 0),
+#             "indirect_hit": field.get("indirect_runouts", 0),
+#             # fantasy points
+#             "strike_rate_fp":strike_rate_fp,
+#             "batting_fp": batting_fp,
+#             "bowling_fp": bowling_fp,
+#             "fielding_fp": fielding_fp,
+#             "total_fp": batting_fp + bowling_fp + fielding_fp            
+#         }
+#     wickets = int(wickets)   
+#     venue_features = build_venue_features(venue_id, venue_name, venue_latitude, venue_longitude, total_runs, wickets, bowled, caught, lbw)
+#     # print(final_stats['Abdul Samad'])
+#     return final_stats, venue_features, 
 
 def write_features_to_csv(dict, output_csv):
     df = pd.DataFrame.from_dict(dict, orient='index')

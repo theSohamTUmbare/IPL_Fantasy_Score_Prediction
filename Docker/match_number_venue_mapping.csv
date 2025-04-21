@@ -1,0 +1,75 @@
+Match_number,team1,team2,Date,Time,Venue,venue_id,venue_lat,venue_long,matches,total_runs,total_wickets,bowled_wickets,caught_wickets,lbw_wickets
+1,Kolkata Knight Riders,Royal Challengers Bengaluru,22 March 2025,02:00 PM GMT / 07:30 PM LOCAL,"Eden Gardens, Kolkata",292.0,22.564608,88.343315,128.0,19206.0,1544.0,259.0,974.0,104.0
+2,Sunrisers Hyderabad,Rajasthan Royals,23 March 2025,10:00 AM GMT / 03:30 PM LOCAL,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1981.0,17.406828,78.550468,80.0,12149.0,932.0,148.0,598.0,63.0
+3,Mumbai Indians,Chennai Super Kings,23 March 2025,02:00 PM GMT / 07:30 PM LOCAL,"MA Chidambaram Stadium, Chepauk, Chennai",291.0,13.062788,80.279449,88.0,13115.0,1075.0,152.0,700.0,55.0
+4,Lucknow Super Giants,Delhi Capitals,24 March 2025,02:00 PM GMT / 07:30 PM LOCAL,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1896.0,17.797489,83.351913,42.0,6009.0,526.0,81.0,344.0,27.0
+5,Punjab Kings,Gujarat Titans,25 March 2025,02:00 PM GMT / 07:30 PM LOCAL,"Narendra Modi Stadium, Ahmedabad",840.0,23.091478,72.597198,49.0,7540.0,583.0,94.0,375.0,26.0
+6,Rajasthan Royals,Kolkata Knight Riders,26 March 2025,02:00 PM GMT / 07:30 PM LOCAL,"Barsapara Cricket Stadium, Guwahati",2865.0,26.1844,91.7458,16.0,2315.0,186.0,26.0,108.0,20.0
+7,Sunrisers Hyderabad,Lucknow Super Giants,27 March 2025,02:00 PM GMT / 07:30 PM LOCAL,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1981.0,17.406828,78.550468,80.0,12149.0,932.0,148.0,598.0,63.0
+8,Royal Challengers Bengaluru,Chennai Super Kings,28 March 2025,02:00 PM GMT / 07:30 PM LOCAL,"MA Chidambaram Stadium, Chepauk, Chennai",291.0,13.062788,80.279449,88.0,13115.0,1075.0,152.0,700.0,55.0
+9,Gujarat Titans,Mumbai Indians,29 March 2025,02:00 PM GMT / 07:30 PM LOCAL,"Narendra Modi Stadium, Ahmedabad",840.0,23.091478,72.597198,49.0,7540.0,583.0,94.0,375.0,26.0
+10,Sunrisers Hyderabad,Delhi Capitals,30 March 2025,10:00 AM GMT / 03:30 PM LOCAL,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1896.0,17.797489,83.351913,42.0,6009.0,526.0,81.0,344.0,27.0
+11,Rajasthan Royals,Chennai Super Kings,30 March 2025,02:00 PM GMT / 07:30 PM LOCAL,"Barsapara Cricket Stadium, Guwahati",2865.0,26.1844,91.7458,16.0,2315.0,186.0,26.0,108.0,20.0
+12,Kolkata Knight Riders,Mumbai Indians,31 March 2025,02:00 PM GMT / 07:30 PM LOCAL,"Wankhede Stadium, Mumbai",713.0,18.939007,72.82579,157.0,24432.0,1871.0,288.0,1229.0,133.0
+13,Lucknow Super Giants,Punjab Kings,01 April 2025,02:00 PM GMT / 07:30 PM LOCAL,"Ekana International Cricket Stadium, Lucknow",3355.0,26.8112572,81.0167842,24.0,3376.0,291.0,41.0,176.0,23.0
+14,Royal Challengers Bengaluru,Gujarat Titans,02 April 2025,02:00 PM GMT / 07:30 PM LOCAL,"M Chinnaswamy Stadium, Bangalore",683.0,12.978806,77.599556,109.0,16612.0,1301.0,227.0,839.0,60.0
+15,Kolkata Knight Riders,Sunrisers Hyderabad,03 April 2025,02:00 PM GMT / 07:30 PM LOCAL,"Eden Gardens, Kolkata",292.0,22.564608,88.343315,128.0,19206.0,1544.0,259.0,974.0,104.0
+16,Lucknow Super Giants,Mumbai Indians,04 April 2025,02:00 PM GMT / 07:30 PM LOCAL,"Ekana International Cricket Stadium, Lucknow",3355.0,26.8112572,81.0167842,24.0,3376.0,291.0,41.0,176.0,23.0
+17,Delhi Capitals,Chennai Super Kings,05 April 2025,10:00 AM GMT / 03:30 PM LOCAL,"MA Chidambaram Stadium, Chepauk, Chennai",291.0,13.062788,80.279449,88.0,13115.0,1075.0,152.0,700.0,55.0
+18,Rajasthan Royals,Punjab Kings,05 April 2025,02:00 PM GMT / 07:30 PM LOCAL,"MaPunjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",,,,,,,,,
+19,Sunrisers Hyderabad,Gujarat Titans,06 April 2025,02:00 PM GMT / 07:30 PM LOCAL,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1981.0,17.406828,78.550468,80.0,12149.0,932.0,148.0,598.0,63.0
+20,Royal Challengers Bengaluru,Mumbai Indians,07 April 2025,02:00 PM GMT / 07:30 PM LOCAL,"Wankhede Stadium, Mumbai",713.0,18.939007,72.82579,157.0,24432.0,1871.0,288.0,1229.0,133.0
+21,Lucknow Super Giants,Kolkata Knight Riders,08 April 2025,10:00 AM GMT / 03:30 PM LOCAL,"Eden Gardens, Kolkata",292.0,22.564608,88.343315,128.0,19206.0,1544.0,259.0,974.0,104.0
+22,Punjab Kings,Chennai Super Kings,08 April 2025,02:00 PM GMT / 07:30 PM LOCAL,"MaPunjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",,,,,,,,,
+23,Gujarat Titans,Rajasthan Royals,09 April 2025,02:00 PM GMT / 07:30 PM LOCAL,"Narendra Modi Stadium, Ahmedabad",840.0,23.091478,72.597198,49.0,7540.0,583.0,94.0,375.0,26.0
+24,Royal Challengers Bengaluru,Delhi Capitals,10 April 2025,02:00 PM GMT / 07:30 PM LOCAL,"M Chinnaswamy Stadium, Bangalore",683.0,12.978806,77.599556,109.0,16612.0,1301.0,227.0,839.0,60.0
+25,Chennai Super Kings,Kolkata Knight Riders,11 April 2025,02:00 PM GMT / 07:30 PM LOCAL,"MA Chidambaram Stadium, Chepauk, Chennai",291.0,13.062788,80.279449,88.0,13115.0,1075.0,152.0,700.0,55.0
+26,Gujarat Titans,Lucknow Super Giants,12 April 2025,10:00 AM GMT / 03:30 PM LOCAL,"Ekana International Cricket Stadium, Lucknow",3355.0,26.8112572,81.0167842,24.0,3376.0,291.0,41.0,176.0,23.0
+27,Punjab Kings,Sunrisers Hyderabad,12 April 2025,02:00 PM GMT / 07:30 PM LOCAL,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1981.0,17.406828,78.550468,80.0,12149.0,932.0,148.0,598.0,63.0
+28,Rajasthan Royals,Royal Challengers Bengaluru,13 April 2025,10:00 AM GMT / 03:30 PM LOCAL,"Sawai Mansingh Stadium, Jaipur",664.0,26.894014,75.803436,80.0,11118.0,902.0,176.0,537.0,57.0
+29,Mumbai Indians,Delhi Capitals,13 April 2025,02:00 PM GMT / 07:30 PM LOCAL,"Feroz Shah Kotla, Delhi",333.0,28.637922,77.243233,126.0,18861.0,1520.0,253.0,932.0,97.0
+30,Lucknow Super Giants,Chennai Super Kings,14 April 2025,02:00 PM GMT / 07:30 PM LOCAL,"Ekana International Cricket Stadium, Lucknow",3355.0,26.8112572,81.0167842,24.0,3376.0,291.0,41.0,176.0,23.0
+31,Punjab Kings,Kolkata Knight Riders,15 April 2025,02:00 PM GMT / 07:30 PM LOCAL,"MaPunjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",,,,,,,,,
+32,Delhi Capitals,Rajasthan Royals,16 April 2025,02:00 PM GMT / 07:30 PM LOCAL,"Feroz Shah Kotla, Delhi",333.0,28.637922,77.243233,126.0,18861.0,1520.0,253.0,932.0,97.0
+33,Sunrisers Hyderabad,Mumbai Indians,17 April 2025,02:00 PM GMT / 07:30 PM LOCAL,"Wankhede Stadium, Mumbai",713.0,18.939007,72.82579,157.0,24432.0,1871.0,288.0,1229.0,133.0
+34,Royal Challengers Bengaluru,Punjab Kings,18 April 2025,02:00 PM GMT / 07:30 PM LOCAL,"M Chinnaswamy Stadium, Bangalore",683.0,12.978806,77.599556,109.0,16612.0,1301.0,227.0,839.0,60.0
+35,Gujarat Titans,Delhi Capitals,19 April 2025,10:00 AM GMT / 03:30 PM LOCAL,"Narendra Modi Stadium, Ahmedabad",840.0,23.091478,72.597198,49.0,7540.0,583.0,94.0,375.0,26.0
+36,Rajasthan Royals,Lucknow Super Giants,19 April 2025,02:00 PM GMT / 07:30 PM LOCAL,"Sawai Mansingh Stadium, Jaipur",664.0,26.894014,75.803436,80.0,11118.0,902.0,176.0,537.0,57.0
+37,Punjab Kings,Royal Challengers Bengaluru,20 April 2025,10:00 AM GMT / 03:30 PM LOCAL,"MaPunjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",,,,,,,,,
+38,Mumbai Indians,Chennai Super Kings,20 April 2025,02:00 PM GMT / 07:30 PM LOCAL,"Wankhede Stadium, Mumbai",713.0,18.939007,72.82579,157.0,24432.0,1871.0,288.0,1229.0,133.0
+39,Kolkata Knight Riders,Gujarat Titans,21 April 2025,02:00 PM GMT / 07:30 PM LOCAL,"Eden Gardens, Kolkata",292.0,22.564608,88.343315,128.0,19206.0,1544.0,259.0,974.0,104.0
+40,Lucknow Super Giants,Delhi Capitals,22 April 2025,02:00 PM GMT / 07:30 PM LOCAL,"Ekana International Cricket Stadium, Lucknow",3355.0,26.8112572,81.0167842,24.0,3376.0,291.0,41.0,176.0,23.0
+41,Sunrisers Hyderabad,Mumbai Indians,23 April 2025,02:00 PM GMT / 07:30 PM LOCAL,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1981.0,17.406828,78.550468,80.0,12149.0,932.0,148.0,598.0,63.0
+42,Royal Challengers Bengaluru,Rajasthan Royals,24 April 2025,02:00 PM GMT / 07:30 PM LOCAL,"M Chinnaswamy Stadium, Bangalore",683.0,12.978806,77.599556,109.0,16612.0,1301.0,227.0,839.0,60.0
+43,Chennai Super Kings,Sunrisers Hyderabad,25 April 2025,02:00 PM GMT / 07:30 PM LOCAL,"MA Chidambaram Stadium, Chepauk, Chennai",291.0,13.062788,80.279449,88.0,13115.0,1075.0,152.0,700.0,55.0
+44,Kolkata Knight Riders,Punjab Kings,26 April 2025,02:00 PM GMT / 07:30 PM LOCAL,"Eden Gardens, Kolkata",292.0,22.564608,88.343315,128.0,19206.0,1544.0,259.0,974.0,104.0
+45,Mumbai Indians,Lucknow Super Giants,27 April 2025,10:00 AM GMT / 03:30 PM LOCAL,"Wankhede Stadium, Mumbai",713.0,18.939007,72.82579,157.0,24432.0,1871.0,288.0,1229.0,133.0
+46,Delhi Capitals,Royal Challengers Bengaluru,27 April 2025,02:00 PM GMT / 07:30 PM LOCAL,"Feroz Shah Kotla, Delhi",333.0,28.637922,77.243233,126.0,18861.0,1520.0,253.0,932.0,97.0
+47,Rajasthan Royals,Gujarat Titans,28 April 2025,02:00 PM GMT / 07:30 PM LOCAL,"Sawai Mansingh Stadium, Jaipur",664.0,26.894014,75.803436,80.0,11118.0,902.0,176.0,537.0,57.0
+48,Delhi Capitals,Kolkata Knight Riders,29 April 2025,02:00 PM GMT / 07:30 PM LOCAL,"Feroz Shah Kotla, Delhi",333.0,28.637922,77.243233,126.0,18861.0,1520.0,253.0,932.0,97.0
+49,Chennai Super Kings,Punjab Kings,30 April 2025,02:00 PM GMT / 07:30 PM LOCAL,"MA Chidambaram Stadium, Chepauk, Chennai",291.0,13.062788,80.279449,88.0,13115.0,1075.0,152.0,700.0,55.0
+50,Rajasthan Royals,Mumbai Indians,01 May 2025,02:00 PM GMT / 07:30 PM LOCAL,"Sawai Mansingh Stadium, Jaipur",664.0,26.894014,75.803436,80.0,11118.0,902.0,176.0,537.0,57.0
+51,Gujarat Titans,Sunrisers Hyderabad,02 May 2025,02:00 PM GMT / 07:30 PM LOCAL,"Narendra Modi Stadium, Ahmedabad",840.0,23.091478,72.597198,49.0,7540.0,583.0,94.0,375.0,26.0
+52,Royal Challengers Bengaluru,Chennai Super Kings,03 May 2025,02:00 PM GMT / 07:30 PM LOCAL,"M Chinnaswamy Stadium, Bangalore",683.0,12.978806,77.599556,109.0,16612.0,1301.0,227.0,839.0,60.0
+53,Kolkata Knight Riders,Rajasthan Royals,04 May 2025,10:00 AM GMT / 03:30 PM LOCAL,"Eden Gardens, Kolkata",292.0,22.564608,88.343315,128.0,19206.0,1544.0,259.0,974.0,104.0
+54,Punjab Kings,Lucknow Super Giants,04 May 2025,02:00 PM GMT / 07:30 PM LOCAL,"Himachal Pradesh Cricket Association Stadium, Dharamsala",1920.0,32.197868,76.325928,22.0,3195.0,262.0,48.0,158.0,17.0
+55,Sunrisers Hyderabad,Delhi Capitals,05 May 2025,02:00 PM GMT / 07:30 PM LOCAL,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1981.0,17.406828,78.550468,80.0,12149.0,932.0,148.0,598.0,63.0
+56,Mumbai Indians,Gujarat Titans,06 May 2025,02:00 PM GMT / 07:30 PM LOCAL,"Wankhede Stadium, Mumbai",713.0,18.939007,72.82579,157.0,24432.0,1871.0,288.0,1229.0,133.0
+57,Kolkata Knight Riders,Chennai Super Kings,07 May 2025,02:00 PM GMT / 07:30 PM LOCAL,"Eden Gardens, Kolkata",292.0,22.564608,88.343315,128.0,19206.0,1544.0,259.0,974.0,104.0
+58,Punjab Kings,Delhi Capitals,08 May 2025,02:00 PM GMT / 07:30 PM LOCAL,"Himachal Pradesh Cricket Association Stadium, Dharamsala",1920.0,32.197868,76.325928,22.0,3195.0,262.0,48.0,158.0,17.0
+59,Lucknow Super Giants,Royal Challengers Bengaluru,09 May 2025,02:00 PM GMT / 07:30 PM LOCAL,"Ekana International Cricket Stadium, Lucknow",3355.0,26.8112572,81.0167842,24.0,3376.0,291.0,41.0,176.0,23.0
+60,Sunrisers Hyderabad,Kolkata Knight Riders,10 May 2025,02:00 PM GMT / 07:30 PM LOCAL,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1981.0,17.406828,78.550468,80.0,12149.0,932.0,148.0,598.0,63.0
+61,Punjab Kings,Mumbai Indians,11 May 2025,10:00 AM GMT / 03:30 PM LOCAL,"Himachal Pradesh Cricket Association Stadium, Dharamsala",1920.0,32.197868,76.325928,22.0,3195.0,262.0,48.0,158.0,17.0
+62,Delhi Capitals,Gujarat Titans,11 May 2025,02:00 PM GMT / 07:30 PM LOCAL,"Feroz Shah Kotla, Delhi",333.0,28.637922,77.243233,126.0,18861.0,1520.0,253.0,932.0,97.0
+63,Chennai Super Kings,Rajasthan Royals,12 May 2025,02:00 PM GMT / 07:30 PM LOCAL,"MA Chidambaram Stadium, Chepauk, Chennai",291.0,13.062788,80.279449,88.0,13115.0,1075.0,152.0,700.0,55.0
+64,Royal Challengers Bengaluru,Sunrisers Hyderabad,13 May 2025,02:00 PM GMT / 07:30 PM LOCAL,"M Chinnaswamy Stadium, Bangalore",683.0,12.978806,77.599556,109.0,16612.0,1301.0,227.0,839.0,60.0
+65,Gujarat Titans,Lucknow Super Giants,14 May 2025,02:00 PM GMT / 07:30 PM LOCAL,"Narendra Modi Stadium, Ahmedabad",840.0,23.091478,72.597198,49.0,7540.0,583.0,94.0,375.0,26.0
+66,Mumbai Indians,Delhi Capitals,15 May 2025,02:00 PM GMT / 07:30 PM LOCAL,"Wankhede Stadium, Mumbai",713.0,18.939007,72.82579,157.0,24432.0,1871.0,288.0,1229.0,133.0
+67,Rajasthan Royals,Punjab Kings,16 May 2025,02:00 PM GMT / 07:30 PM LOCAL,"Sawai Mansingh Stadium, Jaipur",664.0,26.894014,75.803436,80.0,11118.0,902.0,176.0,537.0,57.0
+68,Royal Challengers Bengaluru,Kolkata Knight Riders,17 May 2025,02:00 PM GMT / 07:30 PM LOCAL,"M Chinnaswamy Stadium, Bangalore",683.0,12.978806,77.599556,109.0,16612.0,1301.0,227.0,839.0,60.0
+69,Gujarat Titans,Chennai Super Kings,18 May 2025,10:00 AM GMT / 03:30 PM LOCAL,"Narendra Modi Stadium, Ahmedabad",840.0,23.091478,72.597198,49.0,7540.0,583.0,94.0,375.0,26.0
+70,Lucknow Super Giants,Sunrisers Hyderabad,18 May 2025,02:00 PM GMT / 07:30 PM LOCAL,"Ekana International Cricket Stadium, Lucknow",3355.0,26.8112572,81.0167842,24.0,3376.0,291.0,41.0,176.0,23.0
+71,,,20 May 2025,02:00 PM GMT / 07:30 PM LOCAL,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1981.0,17.406828,78.550468,80.0,12149.0,932.0,148.0,598.0,63.0
+72,,,21 May 2025,02:00 PM GMT / 07:30 PM LOCAL,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1981.0,17.406828,78.550468,80.0,12149.0,932.0,148.0,598.0,63.0
+73,,,23 May 2025,02:00 PM GMT / 07:30 PM LOCAL,"Eden Gardens, Kolkata",292.0,22.564608,88.343315,128.0,19206.0,1544.0,259.0,974.0,104.0
+74,,,25 May 2025,02:00 PM GMT / 07:30 PM LOCAL,"Eden Gardens, Kolkata",292.0,22.564608,88.343315,128.0,19206.0,1544.0,259.0,974.0,104.0
