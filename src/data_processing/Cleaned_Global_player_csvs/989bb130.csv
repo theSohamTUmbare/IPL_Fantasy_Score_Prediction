@@ -1,0 +1,4 @@
+match_id,batting_position,runs,balls,fours,sixes,strike_rate,overs,total_balls,dots,maidens,conceded,fours_conceded,sixes_conceded,wickets,LBW,Bowled,noballs,wides,economy_rate,catches,stumping,direct_hit,indirect_hit,strike_rate_fp,batting_fp,bowling_fp,fielding_fp,total_fp
+1163059,0.6666666666666667,1.0,1.0,1.0,0.0,0.27511072646744383,1.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.12831241283124128,0.0,0.0,0.0,0.0,0,31,36,0,67
+1163057,0.0,0.4117647058823529,0.0,0.6666666666666666,0.0,1.0,0.5,0.5,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0,17,46,0,63
+1163054,0.9999999999999998,0.0,0.15789473684210525,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0,2,-2,8,8
