@@ -17,7 +17,8 @@ import joblib  # type:ignore
 import  warnings
 
 def update_past_match_info(match_id, match_number):
-    match_situation_df = pd.read_csv(r'Docker\Match_situation.csv')
+    match_situation_path = r'Docker\match_situation_data.csv'
+    match_situation_df = pd.read_csv(match_situation_path)
     
     match_venue_mapping = pd.read_csv(r'Docker\match_number_venue_mapping.csv')
     # venue_details = pd.read_csv(r'...')
@@ -42,11 +43,13 @@ def update_past_match_info(match_id, match_number):
     # Append via .loc at the next integer index
     next_idx = len(match_situation_df)
     match_situation_df.loc[next_idx] = new_match
+    match_situation_df.to_csv(match_situation_path, index=False)
+    
     return
 
 
 
-def get_current_match_info(merged_df,  match_number, match_df):
+def get_current_match_info(merged_df,  match_number):
     
     match_venue_mapping = pd.read_csv(r'Docker\match_number_venue_mapping.csv')
     # venue_details = pd.read_csv(r'...')
@@ -72,8 +75,11 @@ def get_current_match_info(merged_df,  match_number, match_df):
     team2_ids = merged_df.loc[merged_df['Team']==team2, 'player_id'].tolist()
 
     pred_fp = model(player_ids, team1_ids, team2_ids, match_number).detach().numpy()
+    match_situation_features = match_situation_features.flatten().tolist()  
 
-    # numeric_cols = ['venue_name', 'precipitation','temperature_2m', 'relative_humidity_2m', 'dew_point_2m', 'rain', 'wind_speed_100m', 'matches', 'total_runs', 'total_wickets', 'bowled_wickets', 'caught_wickets', 'lbw_wickets']
+    # Build a dict of column → value:
+    match_situation_dict = dict(zip(numeric_cols, match_situation_features))
+    
     return match_situation_features
 
 
@@ -153,7 +159,9 @@ def update_match_performances():
                 'fielding_fp': player_data['fielding_fp'],
                 'total_fp': player_data['total_fp']
             }
-            new_player_df = pd.concat([pd.DataFrame([player_match_performance_dict], columns=player_df.columns), player_df], ignore_index=True)
+            new_row = pd.DataFrame([player_match_performance_dict], columns=player_df.columns)
+            # !TODO normalize row with new scalar
+            new_player_df = pd.concat(new_row[, player_df], ignore_index=True)
             new_player_df.to_csv(player_path, index=False)
                   
      
@@ -185,7 +193,7 @@ def parse_event_time(input_str):
     date_formatted = dt.strftime("%Y-%m-%d")
     time_formatted = dt.strftime("%H:%M")
     
-    return date_formatted, time_formatted
+    return date_formatted,time_formatted
 
 
 
@@ -210,7 +218,9 @@ def _read_file(excel_file =  r'Docker\SquadPlayerNames_IndianT20League.xlsx', ma
     team1_ids = merged_df.loc[merged_df['Team']==team1, 'player_id'].tolist()
     team2_ids = merged_df.loc[merged_df['Team']==team2, 'player_id'].tolist()
 
-    pred_fp = get_pred_fp(match_num, merged_df)
+    target_match_situation_dict = get_current_match_info(match_num, merged_df)
+    dataset = PlayerMatchDataset()
+    pred_fp = get_output(dataset, target_match_situation_dict, team1_ids, team2_ids, player_ids)
     merged_df['total_fp'] = merged_df['total_fp'].astype(float)
     merged_df['total_fp'] = pred_fp
     
@@ -320,10 +330,10 @@ def get_inference_sample(dataset, pid, t1_ids, t2_ids, upcoming_info):
             'team2_players': t2_t[:,:11,:],
             'match_info': info_t}
 
-def get_output(dataset, match_info_dict, team1_ids=None, team2_ids=None, lineup_df=None):
+def get_output(dataset, match_info_dict, team1_ids, team2_ids, player_ids):
     model.eval()
-    ids = lineup_df['player_id'].tolist() if lineup_df is not None else (team1_ids + team2_ids)
-    for pid in ids:
+    
+    for pid in player_ids:
         samp = get_inference_sample(dataset, pid, team1_ids, team2_ids,
                                     match_info_dict['upcoming_match_info'])
         if samp is None: continue
@@ -356,18 +366,15 @@ if __name__ == '__main__':
                         help='Optional CSV with column "player_id" for lineup')
     args = parser.parse_args()
 
-    ds = PlayerMatchDataset(
-        args.univ_csv,
-        args.player_matches_dir,
-        args.match_players_dir,
-        args.match_info_csv
+    dataset = PlayerMatchDataset(
+        Config.UNIV_CSV,
+        Config.PLAYER_MATCH_CSV,
+        Config.MATCH_PLAYER_CSV,
+        Config.MATCH_INFO_CSV
     )
-    full_info = pd.read_csv(args.match_info_csv).set_index('match_id')
-    upcoming_info = full_info.loc[args.upcoming_match_id].to_dict()
-    match_info_dict = {'upcoming_match_info': upcoming_info}
-
+    
     player_emb = PlayerEmbedding(Config.PLAYER_INPUT_DIM, Config.PERFORMANCE_EMBD_DIM)
-    fs_pred    = FantasyScorePrediction(Config.PERFORMANCE_EMBD_DIM)
+    fs_pred = FantasyScorePrediction(Config.PERFORMANCE_EMBD_DIM)
     model = NextFormPredictor(
         player_emb,
         MatchEmbedding,
