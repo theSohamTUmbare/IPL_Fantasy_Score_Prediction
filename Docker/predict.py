@@ -128,6 +128,7 @@ def update_match_performances():
         for player_id, player_data in player_stats.values():
             player_path = f"Docker\\Processed_Player_records\\{str(player_id)}.csv"
             player_df = pd.read_csv(player_path)
+            numeric_cols = ['match_id', 'batting_position', 'runs', 'balls', 'fours', 'sixes', 'strike_rate', 'overs', 'total_balls', 'dots', 'maidens', 'conceded', 'fours_conceded', 'sixes_conceded', 'wickets', 'LBW', 'Bowled', 'noballs', 'wides', 'economy_rate', 'catches', 'stumping', 'direct_hit', 'indirect_hit', 'strike_rate_fp', 'batting_fp', 'bowling_fp', 'fielding_fp', 'total_fp']
             player_match_performance_dict = {
                 'match_id': mid.astype(np.int64),
                 'batting_position': player_data['batting_position'],
@@ -159,9 +160,12 @@ def update_match_performances():
                 'fielding_fp': player_data['fielding_fp'],
                 'total_fp': player_data['total_fp']
             }
-            new_row = pd.DataFrame([player_match_performance_dict], columns=player_df.columns)
+            new_match = pd.DataFrame([player_match_performance_dict], columns=player_df.columns)
             # !TODO normalize row with new scalar
-            new_player_df = pd.concat(new_row[, player_df], ignore_index=True)
+            match_performance_scalar = joblib.load(r'Docker\scalars\match_situation_minmax_scalar.pkl.pkl')
+            new_match = match_performance_scalar.transform(new_match[numeric_cols])
+    
+            new_player_df = pd.concat([new_match, player_df], ignore_index=True)
             new_player_df.to_csv(player_path, index=False)
                   
      
